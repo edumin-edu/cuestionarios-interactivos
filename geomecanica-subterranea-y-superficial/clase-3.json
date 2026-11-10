@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el criterio principal para decidir entre el uso de sostenimiento o fortificaci\u00f3n en una excavaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "La vida \u00fatil proyectada para la labor minera.",
+          "isCorrect": true,
+          "rationale": "La elecci\u00f3n depende de si la excavaci\u00f3n es temporal, como un tajeo, o permanente, como una rampa principal."
+        },
+        {
+          "text": "El tipo de explosivo utilizado en la voladura.",
+          "isCorrect": false,
+          "rationale": "Aunque la voladura afecta la roca, no define la distinci\u00f3n estrat\u00e9gica entre sostenimiento y fortificaci\u00f3n."
+        },
+        {
+          "text": "La profundidad total de la mina respecto al nivel del mar.",
+          "isCorrect": false,
+          "rationale": "La profundidad influye en la presi\u00f3n, pero no es el factor determinante para la clasificaci\u00f3n entre estas dos t\u00e9cnicas."
+        },
+        {
+          "text": "El costo por pie de los pernos instalados.",
+          "isCorrect": false,
+          "rationale": "Los costos son una consecuencia operativa, no el criterio t\u00e9cnico para definir la funcionalidad del sistema."
+        }
+      ],
+      "hint": "Piense en la duraci\u00f3n requerida para que la labor permanezca abierta y funcional."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza al sostenimiento de tipo activo en la estabilizaci\u00f3n de rocas?",
+      "answerOptions": [
+        {
+          "text": "Aplica una carga interna inmediata que refuerza la resistencia natural de la roca.",
+          "isCorrect": true,
+          "rationale": "Este sistema act\u00faa desde el momento de la instalaci\u00f3n, previniendo el movimiento antes de que la roca ceda."
+        },
+        {
+          "text": "Es puramente reactivo y act\u00faa solo despu\u00e9s de que la roca se ha deformado.",
+          "isCorrect": false,
+          "rationale": "Esta es la definici\u00f3n de sostenimiento pasivo, que espera a que ocurra una relajaci\u00f3n del macizo."
+        },
+        {
+          "text": "Se instala exclusivamente en labores que ya han colapsado.",
+          "isCorrect": false,
+          "rationale": "El sostenimiento activo es preventivo y se instala inmediatamente tras la perforaci\u00f3n o voladura."
+        },
+        {
+          "text": "No requiere de perforaci\u00f3n previa para su colocaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La mayor\u00eda de los sistemas activos, como los pernos, requieren taladros espec\u00edficos para su inserci\u00f3n."
+        }
+      ],
+      "hint": "Considere el momento en que el sistema empieza a ejercer fuerza sobre el macizo rocoso."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la capacidad de soporte inmediato por pie que ofrece el perno Hydrobolt?",
+      "answerOptions": [
+        {
+          "text": "$10$ toneladas por pie.",
+          "isCorrect": true,
+          "rationale": "Debido a la inyecci\u00f3n de agua a alta presi\u00f3n, este dispositivo alcanza una capacidad superior a otros pernos."
+        },
+        {
+          "text": "$2.5$ toneladas por pie.",
+          "isCorrect": false,
+          "rationale": "Esta capacidad corresponde usualmente a los pernos helicoidales convencionales con resina o cemento."
+        },
+        {
+          "text": "$1$ tonelada por pie.",
+          "isCorrect": false,
+          "rationale": "Este es el valor t\u00edpico de un split set, utilizado generalmente para labores temporales."
+        },
+        {
+          "text": "$40$ toneladas por pie.",
+          "isCorrect": false,
+          "rationale": "Este valor es excesivo para un solo perno y se acerca m\u00e1s a la capacidad de sistemas hidr\u00e1ulicos masivos."
+        }
+      ],
+      "hint": "Es el sistema considerado como el 'rey absoluto' por su alta capacidad inmediata."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de los mini split sets en el sistema de sostenimiento pasivo?",
+      "answerOptions": [
+        {
+          "text": "Asegurar los bordes de la malla electrosoldada a la roca irregular.",
+          "isCorrect": true,
+          "rationale": "Funcionan como agujas para fijar la malla, creando una costra externa junto con el shotcrete."
+        },
+        {
+          "text": "Sustituir a los pernos de anclaje de $12$ metros.",
+          "isCorrect": false,
+          "rationale": "Debido a su corta longitud (uno a dos pies), no pueden reemplazar el soporte profundo de cables."
+        },
+        {
+          "text": "Inyectar resina a alta presi\u00f3n en las fracturas.",
+          "isCorrect": false,
+          "rationale": "Los mini split sets son elementos de fricci\u00f3n mec\u00e1nica, no dispositivos de inyecci\u00f3n qu\u00edmica."
+        },
+        {
+          "text": "Soportar cargas litost\u00e1ticas en macizos tipo V.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n es superficial y de sujeci\u00f3n de malla, no de soporte estructural principal en rocas muy pobres."
+        }
+      ],
+      "hint": "Piense en ellos como 'agujas' que unen un elemento de red a la superficie de la labor."
+    },
+    {
+      "question": "De acuerdo con los est\u00e1ndares de auditor\u00eda mec\u00e1nica, \u00bfqu\u00e9 porcentaje de pernos instalados debe someterse mensualmente a una prueba de arranque (pull test)?",
+      "answerOptions": [
+        {
+          "text": "$1\\%$.",
+          "isCorrect": true,
+          "rationale": "Este es el est\u00e1ndar m\u00ednimo e innegociable para verificar que el sostenimiento est\u00e1 aguantando bajo la monta\u00f1a."
+        },
+        {
+          "text": "$5\\%$.",
+          "isCorrect": false,
+          "rationale": "Aunque un mayor porcentaje aumentar\u00eda el control, el est\u00e1ndar obligatorio mencionado es menor."
+        },
+        {
+          "text": "$10\\%$.",
+          "isCorrect": false,
+          "rationale": "Un control del $10\\%$ suele reservarse para condiciones cr\u00edticas espec\u00edficas, no como regla general mensual."
+        },
+        {
+          "text": "$0.5\\%$.",
+          "isCorrect": false,
+          "rationale": "Este valor es insuficiente para garantizar una muestra estad\u00edstica v\u00e1lida del comportamiento del soporte."
+        }
+      ],
+      "hint": "Se trata de una regla num\u00e9rica m\u00ednima utilizada para la validaci\u00f3n de la instalaci\u00f3n."
+    },
+    {
+      "question": "En el proceso de cable bolting, \u00bfcu\u00e1l es la proporci\u00f3n exacta recomendada para la mezcla de lechada?",
+      "answerOptions": [
+        {
+          "text": "$1$ kg de cemento por cada litro de agua.",
+          "isCorrect": true,
+          "rationale": "Esta proporci\u00f3n asegura que el relleno sea monol\u00edtico y tenga la resistencia necesaria para el anclaje."
+        },
+        {
+          "text": "$2$ kg de cemento por cada litro de agua.",
+          "isCorrect": false,
+          "rationale": "Una mezcla tan espesa dificultar\u00eda la inyecci\u00f3n a trav\u00e9s de los tubos de llenado y venteo."
+        },
+        {
+          "text": "$0.5$ kg de cemento por cada litro de agua.",
+          "isCorrect": false,
+          "rationale": "Demasiada agua resultar\u00eda en una lechada d\u00e9bil y con alta contracci\u00f3n al fraguar."
+        },
+        {
+          "text": "$5$ kg de cemento por cada $10$ litros de agua.",
+          "isCorrect": false,
+          "rationale": "Esta proporci\u00f3n es equivalente a $0.5$ kg/L, lo cual no cumple con el est\u00e1ndar de resistencia requerido."
+        }
+      ],
+      "hint": "Es una relaci\u00f3n de $1$ a $1$ entre el peso del s\u00f3lido y el volumen del l\u00edquido."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n del tubo verde durante la instalaci\u00f3n del cable bolting?",
+      "answerOptions": [
+        {
+          "text": "Permitir el venteo o salida del aire para asegurar un relleno perfecto.",
+          "isCorrect": true,
+          "rationale": "El venteo es cr\u00edtico para evitar burbujas de aire que comprometan la integridad del anclaje."
+        },
+        {
+          "text": "Inyectar la mezcla de cemento a presi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Para la inyecci\u00f3n de la lechada se utiliza espec\u00edficamente un tubo de color azul."
+        },
+        {
+          "text": "Servir como gu\u00eda para la bomba tensadora.",
+          "isCorrect": false,
+          "rationale": "La bomba tensadora act\u00faa directamente sobre el cable de acero, no sobre los tubos de inyecci\u00f3n."
+        },
+        {
+          "text": "Medir la profundidad exacta del taladro.",
+          "isCorrect": false,
+          "rationale": "La profundidad se verifica antes de insertar los cables y los tubos del sistema."
+        }
+      ],
+      "hint": "Considere la necesidad de evacuar lo que hay dentro del taladro para que entre el cemento."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tensi\u00f3n se debe aplicar con la bomba tensadora a los cables de acero para evitar que el sistema se afloje?",
+      "answerOptions": [
+        {
+          "text": "$4$ toneladas.",
+          "isCorrect": true,
+          "rationale": "Esta tensi\u00f3n inicial es necesaria para que el cable empiece a trabajar antes de que el cemento frag\u00fce totalmente."
+        },
+        {
+          "text": "$10$ toneladas.",
+          "isCorrect": false,
+          "rationale": "Aplicar $10$ toneladas inicialmente podr\u00eda sobretensar el sistema antes de que el cemento alcance su madurez."
+        },
+        {
+          "text": "$1$ tonelada.",
+          "isCorrect": false,
+          "rationale": "Una tonelada de tensi\u00f3n es insuficiente para garantizar la rigidez del sistema en cables de gran longitud."
+        },
+        {
+          "text": "$30$ megapascales.",
+          "isCorrect": false,
+          "rationale": "Los megapascales son unidades de presi\u00f3n, no de fuerza de tensi\u00f3n aplicada al cable."
+        }
+      ],
+      "hint": "Piense en la fuerza espec\u00edfica que se le da al cable al finalizar su instalaci\u00f3n."
+    },
+    {
+      "question": "\u00bfC\u00f3mo transforma el sistema Jackpot un soporte de madera en un soporte activo?",
+      "answerOptions": [
+        {
+          "text": "Mediante platos met\u00e1licos inflados con agua a presiones de $10$ a $12 \\text{ MPa}$.",
+          "isCorrect": true,
+          "rationale": "La expansi\u00f3n de los platos obliga a la madera a empujar contra la roca, generando una fuerza de contenci\u00f3n."
+        },
+        {
+          "text": "Recubriendo la madera con una capa de resina ep\u00f3xica.",
+          "isCorrect": false,
+          "rationale": "El recubrimiento qu\u00edmico no altera la naturaleza pasiva del soporte de madera ni su interacci\u00f3n mec\u00e1nica."
+        },
+        {
+          "text": "Utilizando pernos split set para atravesar el tronco.",
+          "isCorrect": false,
+          "rationale": "Perforar la madera con pernos no genera la presi\u00f3n expansiva necesaria para activarla."
+        },
+        {
+          "text": "Sustituyendo el tronco por una columna de concreto macizo.",
+          "isCorrect": false,
+          "rationale": "El Jackpot es un accesorio para la madera; el reemplazo por concreto es una t\u00e9cnica distinta (como el Jackpack)."
+        }
+      ],
+      "hint": "Se basa en el uso de accesorios met\u00e1licos y la inyecci\u00f3n de fluidos a alta presi\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja operativa ofrece el uso del sistema Jackpack en comparaci\u00f3n con soportes convencionales?",
+      "answerOptions": [
+        {
+          "text": "Permite separar los soportes a una distancia de $140$ a $180$ metros.",
+          "isCorrect": true,
+          "rationale": "Su gran capacidad estructural optimiza la log\u00edstica al requerir menos puntos de soporte."
+        },
+        {
+          "text": "Reduce el tiempo de fraguado del concreto lanzado.",
+          "isCorrect": false,
+          "rationale": "El Jackpack es un sistema de soporte puntual y no influye en las propiedades qu\u00edmicas del shotcrete."
+        },
+        {
+          "text": "Funciona sin necesidad de agua o presi\u00f3n hidr\u00e1ulica.",
+          "isCorrect": false,
+          "rationale": "Al igual que el Jackpot, el Jackpack requiere de expansi\u00f3n hidr\u00e1ulica para ser efectivo."
+        },
+        {
+          "text": "Es el \u00fanico sistema que no requiere clasificaci\u00f3n geomec\u00e1nica previa.",
+          "isCorrect": false,
+          "rationale": "Ning\u00fan sistema debe usarse 'a ciegas' sin un diagn\u00f3stico previo del tipo de roca."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo afecta la alta capacidad de carga a la distribuci\u00f3n de los elementos de soporte."
+    },
+    {
+      "question": "En terrenos degradados de tipo IV y V, \u00bfcu\u00e1l es el objetivo primordial al instalar cimbras met\u00e1licas?",
+      "answerOptions": [
+        {
+          "text": "Forzar la creaci\u00f3n de un arco de compresi\u00f3n para estabilizar el entorno.",
+          "isCorrect": true,
+          "rationale": "Las cimbras act\u00faan como una columna vertebral que absorbe las presiones cuando la roca ya no se sostiene sola."
+        },
+        {
+          "text": "Facilitar el drenaje de aguas subterr\u00e1neas \u00e1cidas.",
+          "isCorrect": false,
+          "rationale": "Aunque el manejo de agua es importante, la funci\u00f3n de la cimbra es estrictamente estructural y de contenci\u00f3n."
+        },
+        {
+          "text": "Servir de gu\u00eda para la perforaci\u00f3n de taladros de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las cimbras se colocan para sostenimiento, no como plantillas de perforaci\u00f3n."
+        },
+        {
+          "text": "Evitar el uso de concreto lanzado en la corona.",
+          "isCorrect": false,
+          "rationale": "En estos terrenos, el acero y el concreto lanzado suelen complementarse para mayor seguridad."
+        }
+      ],
+      "hint": "Considere la forma geom\u00e9trica de la estructura y c\u00f3mo redistribuye los esfuerzos del macizo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito del uso de 'bolsa cret' en la instalaci\u00f3n de cuadros o cimbras met\u00e1licas?",
+      "answerOptions": [
+        {
+          "text": "Asegurar un contacto \u00edntimo y una transferencia de esfuerzos homog\u00e9nea entre el acero y la roca.",
+          "isCorrect": true,
+          "rationale": "El relleno garantiza que no haya espacios vac\u00edos, haciendo que el acero y la monta\u00f1a trabajen como una sola unidad."
+        },
+        {
+          "text": "Reducir el peso total de la estructura met\u00e1lica.",
+          "isCorrect": false,
+          "rationale": "El bolsa cret a\u00f1ade peso y masa al sistema; su funci\u00f3n no es aligerar."
+        },
+        {
+          "text": "Aislar el acero de la humedad para prevenir la corrosi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n primordial es mec\u00e1nica (transferencia de carga) m\u00e1s que de protecci\u00f3n qu\u00edmica."
+        },
+        {
+          "text": "Aumentar la secci\u00f3n transversal de la labor minera.",
+          "isCorrect": false,
+          "rationale": "El relleno ocupa espacio existente en la corona, no expande las dimensiones de la excavaci\u00f3n."
+        }
+      ],
+      "hint": "Se utiliza para rellenar los espacios vac\u00edos en la corona de la excavaci\u00f3n."
+    },
+    {
+      "question": "Para calcular el volumen de concreto lanzado ($shotcrete$), \u00bfqu\u00e9 factor de divisi\u00f3n se utiliza en la f\u00f3rmula si el espesor de dise\u00f1o es de $3$ pulgadas?",
+      "answerOptions": [
+        {
+          "text": "$9$.",
+          "isCorrect": true,
+          "rationale": "La matem\u00e1tica estricta del dise\u00f1o adapta este factor seg\u00fan el grosor requerido; para $3$ pulgadas se divide entre $9$."
+        },
+        {
+          "text": "$12$.",
+          "isCorrect": false,
+          "rationale": "El divisor $12$ se utiliza espec\u00edficamente cuando el espesor de la capa es de $2$ pulgadas."
+        },
+        {
+          "text": "$0.9$.",
+          "isCorrect": false,
+          "rationale": "$0.9$ es el factor de arco que se multiplica en la f\u00f3rmula, no el factor de divisi\u00f3n final."
+        },
+        {
+          "text": "$1.5$.",
+          "isCorrect": false,
+          "rationale": "$1.5$ es un factor de seguridad com\u00fan para labores permanentes, no un divisor volum\u00e9trico."
+        }
+      ],
+      "hint": "El divisor es inversamente proporcional al espesor: a mayor espesor, menor es el n\u00famero divisor."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la frecuencia de desatado de rocas exigida para un macizo clasificado como tipo 4B?",
+      "answerOptions": [
+        {
+          "text": "Cada $30$ minutos.",
+          "isCorrect": true,
+          "rationale": "En rocas de calidad muy pobre, el desatado estricto debe ser frecuente para prevenir desprendimientos."
+        },
+        {
+          "text": "Cada $15$ minutos.",
+          "isCorrect": false,
+          "rationale": "Esta frecuencia extrema o el sostenimiento concurrente se reserva para rocas tipo 5."
+        },
+        {
+          "text": "Una vez por guardia.",
+          "isCorrect": false,
+          "rationale": "En rocas tipo 4B, la inestabilidad es demasiado alta para esperar a que termine un turno."
+        },
+        {
+          "text": "Solo despu\u00e9s de cada disparo.",
+          "isCorrect": false,
+          "rationale": "El desatado debe ser una actividad continua debido a la mala calidad del macizo, no solo post-voladura."
+        }
+      ],
+      "hint": "Es un intervalo de tiempo fijo para rocas de calidad 'muy pobre'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor de seguridad m\u00ednimo debe arrojar un software de modelamiento para garantizar la estabilidad de una labor permanente?",
+      "answerOptions": [
+        {
+          "text": "$1.5$.",
+          "isCorrect": true,
+          "rationale": "Las rampas o labores de larga duraci\u00f3n exigen un umbral de seguridad m\u00e1s estricto que las temporales."
+        },
+        {
+          "text": "$1.2$.",
+          "isCorrect": false,
+          "rationale": "Este es el factor de seguridad m\u00ednimo absoluto aceptado \u00fanicamente para labores temporales."
+        },
+        {
+          "text": "$1.0$.",
+          "isCorrect": false,
+          "rationale": "Un factor de $1.0$ indica un equilibrio precario donde cualquier perturbaci\u00f3n causar\u00eda inestabilidad."
+        },
+        {
+          "text": "$2.5$.",
+          "isCorrect": false,
+          "rationale": "Aunque es muy seguro, no es el est\u00e1ndar m\u00ednimo mencionado para el dise\u00f1o t\u00e9cnico de rampas."
+        }
+      ],
+      "hint": "Es un valor $0.3$ superior al requerido para labores de explotaci\u00f3n temporal."
+    },
+    {
+      "question": "Para el correcto funcionamiento de la perforadora Jackleg S250, \u00bfen qu\u00e9 rango debe mantenerse la presi\u00f3n del aire comprimido?",
+      "answerOptions": [
+        {
+          "text": "Entre $70$ y $100 \\text{ psi}$.",
+          "isCorrect": true,
+          "rationale": "Esta presi\u00f3n asegura que el mecanismo de rotopercusi\u00f3n mantenga la eficiencia y la geometr\u00eda del taladro."
+        },
+        {
+          "text": "Entre $30$ y $50 \\text{ psi}$.",
+          "isCorrect": false,
+          "rationale": "Una presi\u00f3n tan baja reducir\u00eda dr\u00e1sticamente la velocidad de perforaci\u00f3n y da\u00f1ar\u00eda el equipo."
+        },
+        {
+          "text": "Exactamente $30 \\text{ MPa}$.",
+          "isCorrect": false,
+          "rationale": "$30 \\text{ MPa}$ es una presi\u00f3n hidr\u00e1ulica inmensa, no apta para sistemas de aire comprimido convencionales."
+        },
+        {
+          "text": "M\u00e1s de $150 \\text{ psi}$.",
+          "isCorrect": false,
+          "rationale": "El exceso de presi\u00f3n neum\u00e1tica puede causar fallas catastr\u00f3ficas y desgaste prematuro en los componentes internos."
+        }
+      ],
+      "hint": "Considere el rango est\u00e1ndar de operaci\u00f3n neum\u00e1tica para equipos de perforaci\u00f3n manual."
+    },
+    {
+      "question": "\u00bfQu\u00e9 acci\u00f3n se debe tomar cuando la bocina o bushing de una perforadora Jackleg muestra un $100\\%$ de desgaste seg\u00fan la plantilla de medici\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Se debe cambiar la pieza sin excepciones.",
+          "isCorrect": true,
+          "rationale": "No reemplazarla provoca p\u00e9rdida de eficiencia en la percusi\u00f3n y da\u00f1os estructurales graves al equipo."
+        },
+        {
+          "text": "Se puede seguir usando por una guardia adicional.",
+          "isCorrect": false,
+          "rationale": "Continuar la operaci\u00f3n con piezas desgastadas al l\u00edmite arruina la precisi\u00f3n y la integridad de la m\u00e1quina."
+        },
+        {
+          "text": "Se debe lubricar con mayor frecuencia para compensar el desgaste.",
+          "isCorrect": false,
+          "rationale": "La lubricaci\u00f3n no recupera el material perdido por fricci\u00f3n ni la tolerancia mec\u00e1nica de la pieza."
+        },
+        {
+          "text": "Se ajusta la presi\u00f3n del aire a $120 \\text{ psi}$.",
+          "isCorrect": false,
+          "rationale": "Aumentar la presi\u00f3n solo acelerar\u00eda el da\u00f1o estructural si los componentes internos est\u00e1n fuera de norma."
+        }
+      ],
+      "hint": "Es una regla de mantenimiento preventivo cr\u00edtico para evitar da\u00f1os mayores."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n primordial de las gatas mec\u00e1nicas en una zona de trabajo cr\u00edtica?",
+      "answerOptions": [
+        {
+          "text": "Crear una burbuja operativa segura de forma temporal y preventiva.",
+          "isCorrect": true,
+          "rationale": "Permiten trabajar con protecci\u00f3n mientras se instala el sostenimiento definitivo en zonas que est\u00e1n cediendo."
+        },
+        {
+          "text": "Sustituir permanentemente a los cuadros de madera.",
+          "isCorrect": false,
+          "rationale": "Las gatas mec\u00e1nicas son elementos temporales y no est\u00e1n dise\u00f1adas para la vida \u00fatil de una labor permanente."
+        },
+        {
+          "text": "Medir la sismicidad inducida por la voladura.",
+          "isCorrect": false,
+          "rationale": "Son elementos de soporte f\u00edsico, no instrumentos de medici\u00f3n geof\u00edsica."
+        },
+        {
+          "text": "Perforar taladros para la inyecci\u00f3n de resina.",
+          "isCorrect": false,
+          "rationale": "Su prop\u00f3sito es el sostenimiento inmediato, no la perforaci\u00f3n de la roca."
+        }
+      ],
+      "hint": "Piense en ellas como un 'salvavidas' r\u00e1pido antes del soporte final."
+    },
+    {
+      "question": "Dentro de la gesti\u00f3n geomec\u00e1nica, \u00bfcu\u00e1l es la importancia del 'cuaderno de mec\u00e1nica'?",
+      "answerOptions": [
+        {
+          "text": "Es un documento legalmente vinculante y auditable ante organismos como Osinergmin.",
+          "isCorrect": true,
+          "rationale": "Funciona como la principal defensa t\u00e9cnica y legal en caso de accidentes o inspecciones oficiales."
+        },
+        {
+          "text": "Es un registro opcional para el uso exclusivo del perforista.",
+          "isCorrect": false,
+          "rationale": "Su car\u00e1cter es obligatorio y estrat\u00e9gico para toda la gesti\u00f3n de seguridad de la mina."
+        },
+        {
+          "text": "Contiene los manuales de reparaci\u00f3n de las Jacklegs.",
+          "isCorrect": false,
+          "rationale": "Los manuales de equipo son documentos distintos; este cuaderno se enfoca en la estabilidad del terreno."
+        },
+        {
+          "text": "Sirve para anotar el consumo diario de explosivos.",
+          "isCorrect": false,
+          "rationale": "El control de explosivos se lleva en registros de almac\u00e9n y planeamiento, no en el cuaderno geomec\u00e1nico."
+        }
+      ],
+      "hint": "Piense en su relevancia ante una auditor\u00eda o un evento de seguridad inesperado."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se consideran superiores los sistemas activos (como pernos con resina) frente a los pasivos en ambientes con sismicidad inducida?",
+      "answerOptions": [
+        {
+          "text": "Porque controlan de mejor manera la liberaci\u00f3n de energ\u00eda del macizo.",
+          "isCorrect": true,
+          "rationale": "Al reforzar la resistencia natural de inmediato, limitan la capacidad de la roca para deformarse violentamente."
+        },
+        {
+          "text": "Porque son m\u00e1s econ\u00f3micos y f\u00e1ciles de fabricar.",
+          "isCorrect": false,
+          "rationale": "Los sistemas activos suelen ser tecnol\u00f3gicamente m\u00e1s complejos y costosos que los pasivos tradicionales."
+        },
+        {
+          "text": "Porque no requieren el uso de mallas electrosoldadas.",
+          "isCorrect": false,
+          "rationale": "Muchos sistemas activos se complementan con mallas para garantizar la seguridad perimetral."
+        },
+        {
+          "text": "Porque su instalaci\u00f3n no requiere personal capacitado.",
+          "isCorrect": false,
+          "rationale": "La instalaci\u00f3n de sistemas como el Hydrobolt o pernos con resina exige un rigor t\u00e9cnico absoluto."
+        }
+      ],
+      "hint": "Tiene que ver con la interacci\u00f3n temprana con la energ\u00eda acumulada en la monta\u00f1a."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Clasificaci\u00f3n Geomec\u00e1nica (GSI)",
+      "Sostenimiento Activo y Pasivo",
+      "Sistemas Hidr\u00e1ulicos de Soporte",
+      "Refuerzo Especializado y Cable Bolting",
+      "Operatividad de Equipos de Perforaci\u00f3n",
+      "Seguridad y Estabilidad en Miner\u00eda Subterr\u00e1nea"
+    ],
+    "followUp": [
+      "An\u00e1lisis Estructural de Cimbras Met\u00e1licas",
+      "Qu\u00edmica de Aditivos para Concreto Lanzado (Shotcrete)",
+      "Modelamiento Geomec\u00e1nico con Softwares RS2 y Face2",
+      "Protocolos de Respuesta ante Sismicidad Mina",
+      "Log\u00edstica de Materiales de Fortificaci\u00f3n Permanente"
+    ]
+  }
+}

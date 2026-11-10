@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfC\u00f3mo se define el rol actual de la gesti\u00f3n ambiental en el desarrollo de proyectos?",
+      "answerOptions": [
+        {
+          "text": "Como una carga administrativa pesada para las empresas.",
+          "isCorrect": false,
+          "rationale": "Esta era la visi\u00f3n hist\u00f3rica que ha sido superada por la necesidad de integrar la sostenibilidad en el n\u00facleo del negocio."
+        },
+        {
+          "text": "Como un pilar estrat\u00e9gico indispensable para la viabilidad.",
+          "isCorrect": true,
+          "rationale": "La gesti\u00f3n ambiental moderna se considera esencial para asegurar la continuidad y el \u00e9xito t\u00e9cnico de cualquier proyecto."
+        },
+        {
+          "text": "Como una herramienta secundaria para evitar multas fiscales.",
+          "isCorrect": false,
+          "rationale": "Aunque evita multas, su prop\u00f3sito principal es la excelencia t\u00e9cnica y la sostenibilidad, no solo la evasi\u00f3n de sanciones."
+        },
+        {
+          "text": "Como una funci\u00f3n exclusiva de relaciones p\u00fablicas.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n ambiental es t\u00e9cnica y normativa, superando el \u00e1mbito de la comunicaci\u00f3n externa o imagen corporativa."
+        }
+      ],
+      "hint": "Piense en si se trata de un obst\u00e1culo o de un componente vital para la existencia del negocio."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre el control preventivo exante y el control correctivo expost?",
+      "answerOptions": [
+        {
+          "text": "El exante se aplica durante la operaci\u00f3n y el expost al finalizar el proyecto.",
+          "isCorrect": false,
+          "rationale": "El control preventivo ocurre antes de la ejecuci\u00f3n, no durante la fase operativa."
+        },
+        {
+          "text": "El exante eval\u00faa la idoneidad antes de la ejecuci\u00f3n y el expost asegura vigilancia en la operaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Esta distinci\u00f3n separa la fase de planificaci\u00f3n y permisos de la fase de funcionamiento real del proyecto."
+        },
+        {
+          "text": "El exante es voluntario para la empresa y el expost es obligatorio por ley.",
+          "isCorrect": false,
+          "rationale": "Ambos controles son mandatos legales dentro del marco normativo ambiental."
+        },
+        {
+          "text": "El exante se enfoca en lo social y el expost en lo estrictamente t\u00e9cnico.",
+          "isCorrect": false,
+          "rationale": "Ambos tipos de control integran aspectos t\u00e9cnicos, legales y sociales seg\u00fan la etapa del proyecto."
+        }
+      ],
+      "hint": "Relacione los t\u00e9rminos con los momentos antes y despu\u00e9s de iniciar actividades."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica defin\u00eda el rol del Estado en materia ambiental bajo la Constituci\u00f3n de 1979?",
+      "answerOptions": [
+        {
+          "text": "El Estado actuaba \u00fanicamente como un ente regulador externo.",
+          "isCorrect": false,
+          "rationale": "Ese rol regulador es m\u00e1s propio del modelo de mercado establecido posteriormente."
+        },
+        {
+          "text": "El Estado era el principal empresario y operaba como juez y parte.",
+          "isCorrect": true,
+          "rationale": "Bajo el modelo estatista de 1979, el Estado gestionaba los recursos y se supervisaba a s\u00ed mismo simult\u00e1neamente."
+        },
+        {
+          "text": "El Estado delegaba toda la fiscalizaci\u00f3n a organismos internacionales.",
+          "isCorrect": false,
+          "rationale": "La fiscalizaci\u00f3n era centralizada y escasa, sin depender de entidades externas internacionales."
+        },
+        {
+          "text": "El Estado promov\u00eda la inversi\u00f3n privada sin restricciones ambientales.",
+          "isCorrect": false,
+          "rationale": "El modelo era predominantemente estatista, limitando el protagonismo de la inversi\u00f3n privada."
+        }
+      ],
+      "hint": "Piense en un modelo donde quien pone las reglas tambi\u00e9n ejecuta las obras."
+    },
+    {
+      "question": "En la pir\u00e1mide de Kelsen aplicada al derecho ambiental, \u00bfqu\u00e9 nivel ocupan los tratados internacionales ratificados?",
+      "answerOptions": [
+        {
+          "text": "Se encuentran en la cima, por encima de la Constituci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La Constituci\u00f3n Pol\u00edtica siempre se mantiene como la norma suprema e intocable en la cima de la pir\u00e1mide."
+        },
+        {
+          "text": "Est\u00e1n en el mismo nivel que los reglamentos operativos.",
+          "isCorrect": false,
+          "rationale": "Los reglamentos est\u00e1n en la base de la pir\u00e1mide, mientras que los tratados tienen mayor jerarqu\u00eda legal."
+        },
+        {
+          "text": "Se ubican un escal\u00f3n debajo de la Constituci\u00f3n con fuerza de ley.",
+          "isCorrect": true,
+          "rationale": "Los tratados internacionales ratificados tienen una jerarqu\u00eda superior a las leyes ordinarias pero subordinada a la Constituci\u00f3n."
+        },
+        {
+          "text": "Pertenecen al nivel de las normas reglamentarias detalladas.",
+          "isCorrect": false,
+          "rationale": "Las normas reglamentarias son el \u00faltimo nivel y se encargan del detalle t\u00e9cnico, no de acuerdos internacionales."
+        }
+      ],
+      "hint": "Considere la jerarqu\u00eda que est\u00e1 justo debajo de la norma fundamental del Estado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 significa que la Ley General del Ambiente (Ley 28611) sea transectorial?",
+      "answerOptions": [
+        {
+          "text": "Que solo aplica a las empresas que transportan recursos naturales.",
+          "isCorrect": false,
+          "rationale": "La transectorialidad no se refiere al transporte, sino al alcance de aplicaci\u00f3n en los distintos ministerios."
+        },
+        {
+          "text": "Que aplica por igual a todos los sectores y ministerios del Estado.",
+          "isCorrect": true,
+          "rationale": "La ley rige para cualquier actividad, ya sea miner\u00eda, transporte, industria o infraestructura p\u00fablica, sin excepciones."
+        },
+        {
+          "text": "Que tiene vigencia \u00fanicamente en proyectos que cruzan fronteras nacionales.",
+          "isCorrect": false,
+          "rationale": "Su aplicaci\u00f3n es nacional y abarca todas las actividades econ\u00f3micas dentro del territorio."
+        },
+        {
+          "text": "Que permite a cada ministerio crear sus propias reglas independientes.",
+          "isCorrect": false,
+          "rationale": "Al contrario, obliga a todos los sectores a respetar un marco com\u00fan y superior."
+        }
+      ],
+      "hint": "Piense en si esta ley favorece a un sector espec\u00edfico o si es universal."
+    },
+    {
+      "question": "Seg\u00fan el principio precautorio, \u00bfqu\u00e9 debe hacerse ante un riesgo de da\u00f1o ambiental grave sin certeza cient\u00edfica absoluta?",
+      "answerOptions": [
+        {
+          "text": "Esperar a obtener pruebas concluyentes antes de intervenir.",
+          "isCorrect": false,
+          "rationale": "La falta de certeza cient\u00edfica no puede ser utilizada como excusa para postergar medidas eficaces."
+        },
+        {
+          "text": "Ignorar el riesgo hasta que se produzca un da\u00f1o real comprobable.",
+          "isCorrect": false,
+          "rationale": "Esto contradice la naturaleza de la protecci\u00f3n ambiental, que busca evitar da\u00f1os irreversibles."
+        },
+        {
+          "text": "Actuar y adoptar medidas preventivas para evitar el peligro.",
+          "isCorrect": true,
+          "rationale": "El principio precautorio exige acci\u00f3n inmediata ante amenazas de da\u00f1o grave, incluso si no hay evidencia cient\u00edfica total."
+        },
+        {
+          "text": "Trasladar la responsabilidad de la investigaci\u00f3n al Estado \u00fanicamente.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad de actuar recae sobre quienes pueden prevenir el da\u00f1o, independientemente de qui\u00e9n investigue."
+        }
+      ],
+      "hint": "Recuerde que en este principio la seguridad prima sobre la duda cient\u00edfica."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el principio de indivisibilidad en la evaluaci\u00f3n de proyectos ambientales?",
+      "answerOptions": [
+        {
+          "text": "En que el presupuesto del proyecto no puede dividirse entre socios.",
+          "isCorrect": false,
+          "rationale": "La indivisibilidad se refiere a la evaluaci\u00f3n t\u00e9cnica del impacto, no a la estructura financiera de los socios."
+        },
+        {
+          "text": "En que el proyecto debe evaluarse de forma integral y no por partes peque\u00f1as.",
+          "isCorrect": true,
+          "rationale": "Evita que los titulares fragmenten un megaproyecto para obtener aprobaciones m\u00e1s r\u00e1pidas o menos rigurosas."
+        },
+        {
+          "text": "En que la sanci\u00f3n ambiental no se puede dividir entre los responsables.",
+          "isCorrect": false,
+          "rationale": "Aunque las responsabilidades existen, el principio trata espec\u00edficamente sobre el dise\u00f1o y evaluaci\u00f3n del instrumento de gesti\u00f3n."
+        },
+        {
+          "text": "En que los recursos naturales no pueden ser separados de su entorno original.",
+          "isCorrect": false,
+          "rationale": "El enfoque aqu\u00ed es sobre la metodolog\u00eda de evaluaci\u00f3n del riesgo global acumulado del proyecto."
+        }
+      ],
+      "hint": "Imagine un rompecabezas que no debe ser analizado pieza por pieza, sino como una imagen completa."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 categor\u00eda del SEIA corresponde un proyecto con impactos ambientales negativos significativos?",
+      "answerOptions": [
+        {
+          "text": "Categor\u00eda 1: Declaraci\u00f3n de Impacto Ambiental (DIA).",
+          "isCorrect": false,
+          "rationale": "La DIA se reserva exclusivamente para proyectos cuyos impactos previstos son leves."
+        },
+        {
+          "text": "Categor\u00eda 2: Estudio de Impacto Ambiental semidetallado (EIA-sd).",
+          "isCorrect": false,
+          "rationale": "Esta categor\u00eda se aplica cuando los impactos se consideran moderados."
+        },
+        {
+          "text": "Categor\u00eda 3: Estudio de Impacto Ambiental detallado (EIA-d).",
+          "isCorrect": true,
+          "rationale": "Los impactos significativos requieren el m\u00e1ximo nivel de exigencia y un estudio detallado evaluado por el SENACE."
+        },
+        {
+          "text": "Categor\u00eda 4: Informe T\u00e9cnico Sustentatorio (ITS).",
+          "isCorrect": false,
+          "rationale": "El SEIA est\u00e1ndar se divide en tres categor\u00edas principales; el ITS se usa para modificaciones menores."
+        }
+      ],
+      "hint": "Es el nivel de evaluaci\u00f3n m\u00e1s complejo debido a la magnitud de los cambios en el entorno."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre si una entidad como la Autoridad Nacional del Agua (ANA) emite un rechazo t\u00e9cnico vinculante a un proyecto?",
+      "answerOptions": [
+        {
+          "text": "El proyecto puede continuar si el titular paga una fianza adicional.",
+          "isCorrect": false,
+          "rationale": "Un rechazo vinculante es un freno t\u00e9cnico absoluto que no se resuelve con compensaciones econ\u00f3micas."
+        },
+        {
+          "text": "Se bloquea la aprobaci\u00f3n del proyecto hasta que se redise\u00f1e.",
+          "isCorrect": true,
+          "rationale": "Al ser vinculante, el SENACE no puede aprobar el estudio de impacto ambiental sin la conformidad de dicha entidad."
+        },
+        {
+          "text": "El SENACE tiene la potestad de ignorar la opini\u00f3n si el proyecto es de inter\u00e9s nacional.",
+          "isCorrect": false,
+          "rationale": "Las opiniones vinculantes deben respetarse obligatoriamente por la autoridad evaluadora."
+        },
+        {
+          "text": "La opini\u00f3n se considera solo como una sugerencia no obligatoria.",
+          "isCorrect": false,
+          "rationale": "Por definici\u00f3n, lo vinculante obliga al cumplimiento y no es una mera recomendaci\u00f3n."
+        }
+      ],
+      "hint": "Considere el peso de la palabra 'vinculante' en un proceso legal y t\u00e9cnico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del Plan de Participaci\u00f3n Ciudadana (PPC)?",
+      "answerOptions": [
+        {
+          "text": "Mejorar la imagen de la empresa ante los medios de comunicaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El PPC no es una herramienta de relaciones p\u00fablicas, sino un instrumento de gesti\u00f3n ambiental obligatorio."
+        },
+        {
+          "text": "Inyectar transparencia y prevenir conflictos mediante el di\u00e1logo temprano.",
+          "isCorrect": true,
+          "rationale": "Busca integrar a la comunidad en el proceso para evitar que la falta de informaci\u00f3n paralice el proyecto."
+        },
+        {
+          "text": "Garantizar el apoyo econ\u00f3mico de la empresa a la comunidad local.",
+          "isCorrect": false,
+          "rationale": "Aunque puede haber acuerdos sociales, el PPC se enfoca en la transparencia y participaci\u00f3n en la evaluaci\u00f3n ambiental."
+        },
+        {
+          "text": "Reemplazar los estudios t\u00e9cnicos con la opini\u00f3n de los ciudadanos.",
+          "isCorrect": false,
+          "rationale": "La opini\u00f3n ciudadana complementa la viabilidad social, pero no sustituye el rigor de la ingenier\u00eda y la ciencia."
+        }
+      ],
+      "hint": "Piense en una herramienta que busca evitar que un proyecto 'se caiga' por problemas con el entorno social."
+    },
+    {
+      "question": "Dentro del SINEFA, \u00bfcu\u00e1l es el rol del OEFA respecto a las Entidades de Fiscalizaci\u00f3n Ambiental (EFAs) locales?",
+      "answerOptions": [
+        {
+          "text": "El OEFA reemplaza totalmente a las municipalidades en sus funciones.",
+          "isCorrect": false,
+          "rationale": "Las municipalidades mantienen sus funciones como EFAs, pero bajo un marco de supervisi\u00f3n."
+        },
+        {
+          "text": "El OEFA ejerce una supervisi\u00f3n indirecta sobre ellas.",
+          "isCorrect": true,
+          "rationale": "El OEFA vigila que las municipalidades y gobiernos regionales cumplan correctamente con sus propias tareas de fiscalizaci\u00f3n."
+        },
+        {
+          "text": "El OEFA financia el 100% del presupuesto de las fiscalizaciones locales.",
+          "isCorrect": false,
+          "rationale": "El OEFA tiene autonom\u00eda presupuestal, pero cada entidad debe gestionar sus propios recursos para fiscalizar."
+        },
+        {
+          "text": "Las EFAs locales supervisan al OEFA para asegurar transparencia.",
+          "isCorrect": false,
+          "rationale": "La jerarqu\u00eda es inversa; el OEFA es el ente rector que supervisa el desempe\u00f1o de las EFAs."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre un ente rector nacional y las autoridades regionales o municipales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia enfrenta un funcionario si no ejecuta las supervisiones programadas en el PLANEFA?",
+      "answerOptions": [
+        {
+          "text": "Recibe una felicitaci\u00f3n por el ahorro de recursos del Estado.",
+          "isCorrect": false,
+          "rationale": "El incumplimiento de un plan obligatorio nunca se considera un ahorro, sino una falta."
+        },
+        {
+          "text": "El plan se reprograma autom\u00e1ticamente para el a\u00f1o siguiente sin sanci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El PLANEFA es de cumplimiento obligatorio y no admite postergaciones arbitrarias."
+        },
+        {
+          "text": "Se reporta el hecho ante la Contralor\u00eda General por omisi\u00f3n de funciones.",
+          "isCorrect": true,
+          "rationale": "La falta de ejecuci\u00f3n de las supervisiones programadas se considera una falta administrativa grave."
+        },
+        {
+          "text": "La empresa supervisada debe pagar una multa por la demora.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad en este caso es del funcionario p\u00fablico que no cumpli\u00f3 con su deber de supervisar."
+        }
+      ],
+      "hint": "Piense en el organismo del Estado encargado de vigilar la conducta y el cumplimiento de los servidores p\u00fablicos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 instancia agota la v\u00eda administrativa en un Procedimiento Administrativo Sancionador (PAS) ambiental?",
+      "answerOptions": [
+        {
+          "text": "La resoluci\u00f3n emitida por la Contralor\u00eda General.",
+          "isCorrect": false,
+          "rationale": "La Contralor\u00eda ve temas de funcionarios, no es la instancia final para sanciones a titulares de proyectos ambientales."
+        },
+        {
+          "text": "El informe preliminar de los supervisores de campo del OEFA.",
+          "isCorrect": false,
+          "rationale": "El informe es solo el inicio del proceso de recolecci\u00f3n de pruebas, no la decisi\u00f3n final."
+        },
+        {
+          "text": "La resoluci\u00f3n del Tribunal de Fiscalizaci\u00f3n Ambiental (TEFA).",
+          "isCorrect": true,
+          "rationale": "El TEFA es la \u00faltima instancia dentro del \u00e1mbito administrativo; despu\u00e9s de su fallo, solo queda la v\u00eda judicial."
+        },
+        {
+          "text": "La aprobaci\u00f3n del instrumento de gesti\u00f3n ambiental por el SENACE.",
+          "isCorrect": false,
+          "rationale": "El SENACE aprueba estudios; el OEFA y el TEFA son quienes sancionan incumplimientos operativos."
+        }
+      ],
+      "hint": "Identifique el \u00f3rgano colegiado que da la 'palabra final' antes de ir al poder judicial."
+    },
+    {
+      "question": "En el monitoreo atmosf\u00e9rico, \u00bfcu\u00e1l es el origen t\u00edpico del material particulado fino $\\text{PM}_{2.5}$?",
+      "answerOptions": [
+        {
+          "text": "Principalmente de procesos de voladura y chancado de rocas.",
+          "isCorrect": false,
+          "rationale": "Estos procesos mec\u00e1nicos suelen generar part\u00edculas m\u00e1s gruesas como el $\\text{PM}_{10}$."
+        },
+        {
+          "text": "De la erosi\u00f3n natural producida por el viento en terrenos \u00e1ridos.",
+          "isCorrect": false,
+          "rationale": "Aunque el polvo natural contribuye, el $\\text{PM}_{2.5}$ est\u00e1 m\u00e1s asociado a subproductos industriales espec\u00edficos."
+        },
+        {
+          "text": "De los procesos de combusti\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Las part\u00edculas extremadamente finas de $\\text{PM}_{2.5}$ provienen mayormente de la quema de combustibles en motores o calderas."
+        },
+        {
+          "text": "\u00danicamente del manejo de residuos s\u00f3lidos no peligrosos.",
+          "isCorrect": false,
+          "rationale": "El manejo de residuos s\u00f3lidos afecta al suelo y agua, pero no es la fuente primaria de part\u00edculas de combusti\u00f3n a\u00e9rea."
+        }
+      ],
+      "hint": "Asocie este contaminante con el humo de los motores y las emisiones de chimeneas."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se clasifica legalmente el agua residual de un campamento si la planta de tratamiento (PARD) est\u00e1 dentro de una concesi\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "Como agua residual dom\u00e9stica est\u00e1ndar con l\u00edmites flexibles.",
+          "isCorrect": false,
+          "rationale": "Al estar dentro de la concesi\u00f3n, pierde su estatus puramente dom\u00e9stico ante la ley ambiental minera."
+        },
+        {
+          "text": "Como un efluente minero sujeto a est\u00e1ndares industriales estrictos.",
+          "isCorrect": true,
+          "rationale": "La ubicaci\u00f3n dentro de la unidad minera obliga a cumplir con los mismos par\u00e1metros de calidad que el agua del proceso industrial."
+        },
+        {
+          "text": "Como agua para riego sin necesidad de tratamiento previo.",
+          "isCorrect": false,
+          "rationale": "Toda agua servida requiere tratamiento; la clasificaci\u00f3n solo define qu\u00e9 tan estrictos son los l\u00edmites."
+        },
+        {
+          "text": "Como un residuo s\u00f3lido l\u00edquido bajo la Ley 1278.",
+          "isCorrect": false,
+          "rationale": "Las aguas se regulan como efluentes y no bajo el marco estricto de la ley de residuos s\u00f3lidos."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el entorno industrial absorbe legalmente la clasificaci\u00f3n de los servicios auxiliares."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre el L\u00edmite M\u00e1ximo Permisible (LMP) y el Est\u00e1ndar de Calidad Ambiental (ECA)?",
+      "answerOptions": [
+        {
+          "text": "El LMP se mide en el entorno y el ECA en el punto de emisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Es exactamente al rev\u00e9s: el LMP es el control en la fuente y el ECA es el control en el medio ambiente."
+        },
+        {
+          "text": "Exceder el ECA genera una sanci\u00f3n econ\u00f3mica directa inmediata a la empresa.",
+          "isCorrect": false,
+          "rationale": "El incumplimiento del ECA suele generar medidas preventivas o pol\u00edticas p\u00fablicas, no una multa directa autom\u00e1tica."
+        },
+        {
+          "text": "El LMP se mide en el punto de emisi\u00f3n y el ECA se mide en el cuerpo receptor.",
+          "isCorrect": true,
+          "rationale": "El LMP controla lo que sale de la tuber\u00eda o chimenea, mientras que el ECA eval\u00faa la calidad del r\u00edo o aire circundante."
+        },
+        {
+          "text": "El ECA aplica solo a la miner\u00eda y el LMP a todos los sectores.",
+          "isCorrect": false,
+          "rationale": "Ambos conceptos son herramientas de gesti\u00f3n que se aplican de forma general en la normativa ambiental."
+        }
+      ],
+      "hint": "Diferencie entre la 'salida del tubo' y el 'estado de la naturaleza'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre con la responsabilidad de los pasivos ambientales cuando se vende un proyecto minero?",
+      "answerOptions": [
+        {
+          "text": "La responsabilidad se extingue autom\u00e1ticamente con la venta.",
+          "isCorrect": false,
+          "rationale": "Los da\u00f1os ambientales no desaparecen y el Estado siempre busca un responsable vigente."
+        },
+        {
+          "text": "El Estado asume el costo de remediaci\u00f3n para facilitar la inversi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El principio de internalizaci\u00f3n de costos obliga al titular a asumir los gastos de remediaci\u00f3n."
+        },
+        {
+          "text": "Las responsabilidades se heredan \u00edntegramente al nuevo comprador.",
+          "isCorrect": true,
+          "rationale": "Quien adquiere los activos tambi\u00e9n asume todas las obligaciones ambientales y pasivos pendientes de la operaci\u00f3n."
+        },
+        {
+          "text": "El comprador solo responde por los da\u00f1os que ocurran despu\u00e9s de la compra.",
+          "isCorrect": false,
+          "rationale": "Legalmente, se adquiere la unidad con todo su historial de compromisos y pasivos acumulados."
+        }
+      ],
+      "hint": "Piense en el concepto de 'heredar' obligaciones al adquirir una propiedad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito de la garant\u00eda financiera en un Plan de Cierre de Minas?",
+      "answerOptions": [
+        {
+          "text": "Financiar las operaciones diarias durante la vida \u00fatil del proyecto.",
+          "isCorrect": false,
+          "rationale": "Esa garant\u00eda est\u00e1 inmovilizada para un uso espec\u00edfico al final de la vida del proyecto."
+        },
+        {
+          "text": "Asegurar que el Estado tenga fondos para remediar el \u00e1rea si la empresa desaparece.",
+          "isCorrect": true,
+          "rationale": "Es una salvaguarda econ\u00f3mica (como una carta fianza) para evitar que el Estado cargue con los costos de un cierre abandonado."
+        },
+        {
+          "text": "Pagar las multas acumuladas durante la fase de operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las multas se pagan con flujo de caja operativo; la fianza de cierre es exclusivamente para la recuperaci\u00f3n ambiental."
+        },
+        {
+          "text": "Servir como capital de inversi\u00f3n para nuevas exploraciones en la zona.",
+          "isCorrect": false,
+          "rationale": "La garant\u00eda tiene un fin ambiental legal estricto y no puede usarse para fines comerciales."
+        }
+      ],
+      "hint": "Es un 'seguro' para que el terreno no quede contaminado si la empresa quiebra."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el plazo m\u00e1ximo para enviar el reporte preliminar a las autoridades tras una emergencia ambiental?",
+      "answerOptions": [
+        {
+          "text": "24 horas calendario.",
+          "isCorrect": false,
+          "rationale": "Aunque es un tiempo corto, la normativa exige una respuesta a\u00fan m\u00e1s r\u00e1pida para reportes preliminares."
+        },
+        {
+          "text": "12 horas desde ocurrido el evento.",
+          "isCorrect": true,
+          "rationale": "El reporte preliminar es cr\u00edtico para la reacci\u00f3n inmediata del Estado y debe enviarse en m\u00e1ximo medio d\u00eda."
+        },
+        {
+          "text": "48 horas h\u00e1biles.",
+          "isCorrect": false,
+          "rationale": "En emergencias ambientales, el tiempo se cuenta en horas corridas y el l\u00edmite es mucho m\u00e1s estricto."
+        },
+        {
+          "text": "5 d\u00edas para que el equipo t\u00e9cnico eval\u00fae los da\u00f1os.",
+          "isCorrect": false,
+          "rationale": "La evaluaci\u00f3n t\u00e9cnica detallada tiene un plazo mayor (10 d\u00edas), pero el reporte inicial es casi inmediato."
+        }
+      ],
+      "hint": "Es un plazo extremadamente corto, equivalente a medio d\u00eda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia legal tiene el ocultamiento doloso de un desastre ambiental?",
+      "answerOptions": [
+        {
+          "text": "Se mantiene \u00fanicamente en el \u00e1mbito administrativo con una multa leve.",
+          "isCorrect": false,
+          "rationale": "El dolo o la intenci\u00f3n de esconder un da\u00f1o grave eleva la gravedad del acto m\u00e1s all\u00e1 de lo administrativo."
+        },
+        {
+          "text": "El Estado otorga una pr\u00f3rroga para que la empresa lo solucione en privado.",
+          "isCorrect": false,
+          "rationale": "El ocultamiento es una falta de transparencia que el Estado persigue con rigor, no con beneficios."
+        },
+        {
+          "text": "Transforma el incidente en un delito con consecuencias penales y criminales.",
+          "isCorrect": true,
+          "rationale": "Esconder un derrame deliberadamente cruza la frontera de lo t\u00e9cnico hacia la responsabilidad penal de los implicados."
+        },
+        {
+          "text": "Obliga a la empresa a cambiar de nombre comercial inmediatamente.",
+          "isCorrect": false,
+          "rationale": "Un cambio de nombre no elimina la responsabilidad penal de las personas naturales responsables del ocultamiento."
+        }
+      ],
+      "hint": "Piense en cuando una falta deja de ser un tr\u00e1mite t\u00e9cnico para convertirse en un crimen."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Marco normativo de la gesti\u00f3n ambiental",
+      "Jerarqu\u00eda normativa y Pir\u00e1mide de Kelsen",
+      "Principios del derecho ambiental",
+      "Sistema Nacional de Evaluaci\u00f3n de Impacto Ambiental (SEIA)",
+      "Fiscalizaci\u00f3n ambiental y OEFA",
+      "Gesti\u00f3n operativa y est\u00e1ndares SOMA",
+      "Cierre de minas y pasivos ambientales"
+    ],
+    "followUp": [
+      "Procedimientos t\u00e9cnicos para el dise\u00f1o de Planes de Cierre",
+      "Metodolog\u00edas de monitoreo de efluentes industriales",
+      "Derecho Penal Ambiental y delitos ecol\u00f3gicos",
+      "Mecanismos avanzados de participaci\u00f3n ciudadana y resoluci\u00f3n de conflictos",
+      "Evaluaci\u00f3n t\u00e9cnica de instrumentos de gesti\u00f3n ambiental ante el SENACE"
+    ]
+  }
+}

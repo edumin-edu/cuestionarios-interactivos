@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre la inteligencia emocional y el comportamiento emocionalmente inteligente?",
+      "answerOptions": [
+        {
+          "text": "La inteligencia emocional es el saber te\u00f3rico, mientras que el comportamiento emocionalmente inteligente es la ejecuci\u00f3n pr\u00e1ctica.",
+          "isCorrect": true,
+          "rationale": "La inteligencia emocional se refiere al arsenal de herramientas cognitivas, mientras que el comportamiento es la aplicaci\u00f3n de esas herramientas para mover los indicadores de rendimiento."
+        },
+        {
+          "text": "La inteligencia emocional es instintiva y el comportamiento es un proceso biol\u00f3gico que no se puede controlar.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n ignora que ambos conceptos son parte de un proceso consciente y que el comportamiento es precisamente la ejecuci\u00f3n controlada de la teor\u00eda."
+        },
+        {
+          "text": "No existe diferencia alguna, ambos t\u00e9rminos se refieren a la capacidad de sentir empat\u00eda por el equipo de trabajo.",
+          "isCorrect": false,
+          "rationale": "Esta es una confusi\u00f3n com\u00fan que simplifica la inteligencia emocional solo a la empat\u00eda, ignorando la distinci\u00f3n operativa entre teor\u00eda y pr\u00e1ctica."
+        },
+        {
+          "text": "El comportamiento emocionalmente inteligente es la base te\u00f3rica y la inteligencia emocional es la reacci\u00f3n f\u00edsica ante el estr\u00e9s.",
+          "isCorrect": false,
+          "rationale": "Invierte los conceptos, sugiriendo err\u00f3neamente que la teor\u00eda es el comportamiento y la inteligencia es la respuesta f\u00edsica."
+        }
+      ],
+      "hint": "Considere la distinci\u00f3n entre poseer una caja de herramientas y saber arreglar el motor."
+    },
+    {
+      "question": "Dentro de la secuencia fisiol\u00f3gica del comportamiento, \u00bfqu\u00e9 sucede inmediatamente despu\u00e9s de procesar el pensamiento cognitivo?",
+      "answerOptions": [
+        {
+          "text": "La reacci\u00f3n corporal",
+          "isCorrect": true,
+          "rationale": "Tras el pensamiento, el cuerpo experimenta cambios f\u00edsicos como tensi\u00f3n o aumento del ritmo card\u00edaco, que act\u00faan como preludio a la conducta final."
+        },
+        {
+          "text": "El sentimiento instintivo",
+          "isCorrect": false,
+          "rationale": "El sentimiento es el paso inicial que ocurre en milisegundos, antes de que se inicie el procesamiento del pensamiento."
+        },
+        {
+          "text": "La conducta definitiva",
+          "isCorrect": false,
+          "rationale": "La conducta es el paso final de la secuencia; antes de ella debe ocurrir la reacci\u00f3n f\u00edsica que inclina al individuo a actuar."
+        },
+        {
+          "text": "El secuestro amigdalar",
+          "isCorrect": false,
+          "rationale": "El secuestro amigdalar no es un paso de la secuencia normal, sino una interrupci\u00f3n del proceso racional cuando se ignoran las se\u00f1ales corporales."
+        }
+      ],
+      "hint": "Piense en las se\u00f1ales biol\u00f3gicas, como la rigidez muscular, que preceden a nuestras acciones."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre biol\u00f3gicamente durante un secuestro amigdalar en una situaci\u00f3n de crisis?",
+      "answerOptions": [
+        {
+          "text": "La am\u00edgdala anula al neoc\u00f3rtex, impidiendo el razonamiento l\u00f3gico y priorizando la emoci\u00f3n pura.",
+          "isCorrect": true,
+          "rationale": "Fisiol\u00f3gicamente, el centro emocional toma el control total, bloqueando la parte del cerebro encargada de la l\u00f3gica y la racionalidad."
+        },
+        {
+          "text": "El neoc\u00f3rtex env\u00eda se\u00f1ales de calma a la am\u00edgdala para optimizar la toma de decisiones t\u00e9cnicas.",
+          "isCorrect": false,
+          "rationale": "Esto describe un estado de autocontrol ideal, lo opuesto al secuestro amigdalar donde la l\u00f3gica queda inhabilitada."
+        },
+        {
+          "text": "Se produce una liberaci\u00f3n de endorfinas que permite al l\u00edder mantener la claridad bajo presi\u00f3n extrema.",
+          "isCorrect": false,
+          "rationale": "El secuestro amigdalar genera una respuesta de estr\u00e9s y supervivencia, no una liberaci\u00f3n de hormonas de bienestar que clarifiquen el juicio."
+        },
+        {
+          "text": "La am\u00edgdala se apaga para permitir que el instinto de supervivencia dicte la mejor estrategia financiera.",
+          "isCorrect": false,
+          "rationale": "La am\u00edgdala no se apaga, sino que se activa excesivamente y domina el proceso cerebral, afectando negativamente la estrategia racional."
+        }
+      ],
+      "hint": "Identifique qu\u00e9 parte del cerebro se encarga de la l\u00f3gica y qu\u00e9 sucede cuando la emoci\u00f3n toma el mando."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal de la autoconciencia ampliada en un profesional de alto rendimiento?",
+      "answerOptions": [
+        {
+          "text": "Poseer un vocabulario emocional preciso que permite diagnosticar estados internos con claridad.",
+          "isCorrect": true,
+          "rationale": "Implica ir m\u00e1s all\u00e1 de un simple malestar para identificar si se trata de confusi\u00f3n, enfado genuino o frustraci\u00f3n."
+        },
+        {
+          "text": "La capacidad de reprimir cualquier emoci\u00f3n negativa para no afectar el clima laboral de la empresa.",
+          "isCorrect": false,
+          "rationale": "La autoconciencia trata de reconocer y nombrar las emociones, no de reprimirlas o esconderlas."
+        },
+        {
+          "text": "El conocimiento profundo de todas las normativas t\u00e9cnicas y certificaciones de la maquinaria industrial.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n se refiere a habilidades duras o conocimientos t\u00e9cnicos, no a la dimensi\u00f3n de autoconciencia emocional."
+        },
+        {
+          "text": "Ser capaz de predecir las decisiones de la competencia mediante el an\u00e1lisis de datos de mercado.",
+          "isCorrect": false,
+          "rationale": "La autoconciencia es una competencia de dominio personal enfocada en el interior, no un an\u00e1lisis de factores externos de mercado."
+        }
+      ],
+      "hint": "Se relaciona con la riqueza del lenguaje utilizado para describir lo que uno siente."
+    },
+    {
+      "question": "En el marco del dominio social, \u00bfqu\u00e9 implica tener conciencia social dentro de una organizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Usar la empat\u00eda para leer el ambiente y comprender las redes de decisi\u00f3n complejas.",
+          "isCorrect": true,
+          "rationale": "La conciencia social permite descifrar las din\u00e1micas interpersonales y organizacionales para movilizar a las personas eficazmente."
+        },
+        {
+          "text": "Implementar programas de responsabilidad social externa para mejorar la imagen corporativa.",
+          "isCorrect": false,
+          "rationale": "Aunque es un t\u00e9rmino com\u00fan, en este contexto se refiere a la competencia interna de entender el entorno humano de la organizaci\u00f3n."
+        },
+        {
+          "text": "Organizar eventos de integraci\u00f3n peri\u00f3dicos para evitar que los colaboradores tengan conflictos familiares.",
+          "isCorrect": false,
+          "rationale": "La conciencia social es una capacidad de lectura y an\u00e1lisis del entorno, no simplemente la ejecuci\u00f3n de eventos recreativos."
+        },
+        {
+          "text": "Priorizar el cumplimiento estricto de las metas financieras sobre las necesidades emocionales del equipo.",
+          "isCorrect": false,
+          "rationale": "Esto describe una falta de conciencia social, ya que ignora el factor humano que impulsa el desempe\u00f1o."
+        }
+      ],
+      "hint": "Reflexione sobre la habilidad de 'leer' lo que sucede entre l\u00edneas en las interacciones del grupo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n operativa se extrae del caso de \u00e9xito donde se apoy\u00f3 a un colaborador en crisis familiar?",
+      "answerOptions": [
+        {
+          "text": "La inversi\u00f3n en la dimensi\u00f3n humana genera una lealtad y compromiso superiores a cualquier incentivo financiero.",
+          "isCorrect": true,
+          "rationale": "El respaldo emocional en momentos cr\u00edticos construye un v\u00ednculo inquebrantable que potencia el desempe\u00f1o futuro del talento."
+        },
+        {
+          "text": "Es una distracci\u00f3n de las metas operativas que debe evitarse para mantener la rentabilidad del trimestre.",
+          "isCorrect": false,
+          "rationale": "Los datos operativos demuestran que atender lo humano mejora los indicadores a largo plazo, contradiciendo esta visi\u00f3n simplista."
+        },
+        {
+          "text": "El apoyo emocional solo debe otorgarse si el colaborador garantiza un aumento inmediato en la producci\u00f3n t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "El compromiso se construye mediante la empat\u00eda genuina, no como una transacci\u00f3n comercial inmediata en medio de una crisis."
+        },
+        {
+          "text": "Las crisis familiares son asuntos privados que no tienen impacto real en la seguridad o eficiencia de la planta.",
+          "isCorrect": false,
+          "rationale": "El bienestar emocional del individuo es el sustrato de sus decisiones en la operaci\u00f3n, por lo que s\u00ed tiene un impacto cr\u00edtico."
+        }
+      ],
+      "hint": "Piense en la diferencia entre motivar a alguien con dinero versus hacerlo a trav\u00e9s del soporte en momentos dif\u00edciles."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito de aplicar la metodolog\u00eda de 'h\u00e1bitos at\u00f3micos' en la alta gerencia?",
+      "answerOptions": [
+        {
+          "text": "Construir resiliencia y armadura psicol\u00f3gica mediante peque\u00f1as rutinas diarias constantes.",
+          "isCorrect": true,
+          "rationale": "Los cambios tit\u00e1nicos son dif\u00edciles de sostener; son las acciones peque\u00f1as y repetidas las que entrenan la mente para el liderazgo."
+        },
+        {
+          "text": "Eliminar por completo la necesidad de contratar personal externo mediante la sobreexplotaci\u00f3n del talento actual.",
+          "isCorrect": false,
+          "rationale": "La metodolog\u00eda busca el desarrollo personal y la salud mental del l\u00edder, no la optimizaci\u00f3n extrema del recurso humano por agotamiento."
+        },
+        {
+          "text": "Garantizar que todos los procesos de la planta se realicen en el menor tiempo biol\u00f3gico posible.",
+          "isCorrect": false,
+          "rationale": "Se enfoca en h\u00e1bitos conductuales y psicol\u00f3gicos del l\u00edder, no necesariamente en la velocidad de los procesos industriales."
+        },
+        {
+          "text": "Sustituir la formaci\u00f3n t\u00e9cnica avanzada por ejercicios de meditaci\u00f3n de corta duraci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La t\u00e9cnica y lo emocional deben integrarse; los h\u00e1bitos son un complemento para mantener el cerebro afilado, no un sustituto."
+        }
+      ],
+      "hint": "Considere el valor de la disciplina diaria frente a los cambios dr\u00e1sticos e inesperados."
+    },
+    {
+      "question": "En situaciones de estr\u00e9s operativo extremo, \u00bfcu\u00e1l es un ejemplo de manifestaci\u00f3n som\u00e1tica grave por mala gesti\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Ca\u00edda masiva de cabello y lesiones cut\u00e1neas severas en el personal.",
+          "isCorrect": true,
+          "rationale": "Estos son signos f\u00edsicos reales de que el cuerpo del trabajador ha superado su l\u00edmite de adaptaci\u00f3n biol\u00f3gica ante la presi\u00f3n constante."
+        },
+        {
+          "text": "Un incremento injustificado en el apetito y la energ\u00eda durante las jornadas nocturnas.",
+          "isCorrect": false,
+          "rationale": "El distr\u00e9s acumulado suele manifestarse como agotamiento y quiebre biol\u00f3gico, no como un aumento de energ\u00eda saludable."
+        },
+        {
+          "text": "Mejora en la precisi\u00f3n del manejo de maquinaria pesada bajo condiciones de lluvia.",
+          "isCorrect": false,
+          "rationale": "El estr\u00e9s cr\u00f3nico degrada la atenci\u00f3n y la motricidad, aumentando el riesgo de errores en lugar de mejorar la precisi\u00f3n."
+        },
+        {
+          "text": "Desarrollo de habilidades de comunicaci\u00f3n asertiva de forma espont\u00e1nea e instintiva.",
+          "isCorrect": false,
+          "rationale": "La asertividad requiere entrenamiento y control del neoc\u00f3rtex; el estr\u00e9s extremo suele disparar conductas agresivas o err\u00e1ticas."
+        }
+      ],
+      "hint": "Busque se\u00f1ales f\u00edsicas que el cuerpo emite cuando ya no puede procesar m\u00e1s tensi\u00f3n."
+    },
+    {
+      "question": "Dentro de los protocolos de mitigaci\u00f3n de crisis, \u00bfen qu\u00e9 consiste la 'activaci\u00f3n sensorial'?",
+      "answerOptions": [
+        {
+          "text": "Consumir un caramelo extremadamente \u00e1cido para obligar al cerebro a enfocarse en el presente.",
+          "isCorrect": true,
+          "rationale": "El choque de sabor genera un est\u00edmulo tan fuerte que corta el ciclo de p\u00e1nico y saca al individuo del secuestro amigdalar."
+        },
+        {
+          "text": "Escuchar m\u00fasica ambiental a bajo volumen para inducir un estado de sue\u00f1o profundo.",
+          "isCorrect": false,
+          "rationale": "En una crisis de ansiedad o ira, se requiere un est\u00edmulo interruptor fuerte y r\u00e1pido, no una inducci\u00f3n al sue\u00f1o."
+        },
+        {
+          "text": "Cerrar los ojos e imaginar un entorno natural sin ning\u00fan tipo de ruido operativo.",
+          "isCorrect": false,
+          "rationale": "Aunque es una t\u00e9cnica de relajaci\u00f3n, la activaci\u00f3n sensorial mencionada busca un choque inmediato para recuperar el control racional."
+        },
+        {
+          "text": "Realizar masajes musculares profundos en la zona lumbar para liberar la tensi\u00f3n acumulada.",
+          "isCorrect": false,
+          "rationale": "El protocolo espec\u00edfico de activaci\u00f3n sensorial se enfoca en el sentido del gusto mediante un est\u00edmulo \u00e1cido/fuerte para el cerebro."
+        }
+      ],
+      "hint": "Se trata de usar un sentido espec\u00edfico para 'despertar' la parte l\u00f3gica del cerebro mediante un impacto fuerte."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es fundamental la 'reflexi\u00f3n escritural' como \u00faltimo paso en la mitigaci\u00f3n de una crisis?",
+      "answerOptions": [
+        {
+          "text": "Porque escribir a mano conecta las habilidades motoras con la parte l\u00f3gica del cerebro.",
+          "isCorrect": true,
+          "rationale": "Este proceso ayuda a racionalizar el evento, identificar detonantes y prevenir que el secuestro amigdalar se repita en el futuro."
+        },
+        {
+          "text": "Porque permite que el departamento de Recursos Humanos tenga una base para sanciones legales.",
+          "isCorrect": false,
+          "rationale": "El objetivo de este paso es la autorregulaci\u00f3n y el aprendizaje del individuo, no necesariamente la fiscalizaci\u00f3n administrativa."
+        },
+        {
+          "text": "Porque la escritura creativa reduce la necesidad de realizar capacitaciones t\u00e9cnicas posteriores.",
+          "isCorrect": false,
+          "rationale": "La escritura en este contexto es anal\u00edtica y sobre el incidente, no tiene como fin sustituir el conocimiento t\u00e9cnico."
+        },
+        {
+          "text": "Porque es la \u00fanica forma de garantizar que el colaborador no vuelva a sentir estr\u00e9s en el campo.",
+          "isCorrect": false,
+          "rationale": "Escribir no elimina el estr\u00e9s futuro, pero s\u00ed proporciona herramientas para gestionarlo mejor cuando vuelva a aparecer."
+        }
+      ],
+      "hint": "Considere c\u00f3mo el acto f\u00edsico de escribir obliga a ordenar los pensamientos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 demanda la nueva generaci\u00f3n de talento (Millennials y Centennials) en el ecosistema laboral actual?",
+      "answerOptions": [
+        {
+          "text": "Un prop\u00f3sito claro, ecosistemas digitalizados y l\u00edneas de carrera transparentes.",
+          "isCorrect": true,
+          "rationale": "Estos grupos ya no se conforman solo con sueldo y seguridad; buscan sentido en su trabajo y herramientas tecnol\u00f3gicas modernas."
+        },
+        {
+          "text": "Seguridad laboral de por vida sin necesidad de adquirir nuevas certificaciones t\u00e9cnicas.",
+          "isCorrect": false,
+          "rationale": "Al contrario, demandan formaci\u00f3n continua y valoran las certificaciones de prestigio en la industria."
+        },
+        {
+          "text": "Un modelo de liderazgo basado exclusivamente en la autoridad jer\u00e1rquica y \u00f3rdenes directas.",
+          "isCorrect": false,
+          "rationale": "Buscan l\u00edderes que inspiren y fomenten la inteligencia emocional, alej\u00e1ndose del modelo de mando y control tradicional."
+        },
+        {
+          "text": "Contratos basados \u00fanicamente en v\u00ednculos familiares o recomendaciones personales.",
+          "isCorrect": false,
+          "rationale": "Las nuevas generaciones valoran la meritocracia y los procesos de selecci\u00f3n transparentes basados en logros cuantificables."
+        }
+      ],
+      "hint": "Piense en factores m\u00e1s all\u00e1 de la compensaci\u00f3n econ\u00f3mica que motivan a los j\u00f3venes profesionales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un requisito cr\u00edtico para un curr\u00edculum optimizado para Inteligencia Artificial?",
+      "answerOptions": [
+        {
+          "text": "Utilizar formato Word, una extensi\u00f3n de 2 a 3 p\u00e1ginas y un enfoque absoluto en logros cuantificables.",
+          "isCorrect": true,
+          "rationale": "Los sistemas de filtrado autom\u00e1tico procesan mejor estos formatos y priorizan datos concretos que demuestren resultados."
+        },
+        {
+          "text": "Incluir una lista extensa de referencias familiares para demostrar valores personales s\u00f3lidos.",
+          "isCorrect": false,
+          "rationale": "Las referencias familiares est\u00e1n expl\u00edcitamente desaconsejadas en los procesos de reclutamiento modernos y t\u00e9cnicos."
+        },
+        {
+          "text": "Presentar el documento en un formato de dise\u00f1o gr\u00e1fico complejo con m\u00faltiples colores e im\u00e1genes.",
+          "isCorrect": false,
+          "rationale": "Los formatos muy complejos o con muchas im\u00e1genes suelen dificultar la lectura de los algoritmos de IA de reclutamiento."
+        },
+        {
+          "text": "Omitir los logros num\u00e9ricos para no parecer demasiado competitivo frente a otros candidatos.",
+          "isCorrect": false,
+          "rationale": "Los logros que se pueden medir son precisamente lo que buscan los reclutadores para validar el potencial del candidato."
+        }
+      ],
+      "hint": "Considere qu\u00e9 tipo de informaci\u00f3n y formato es m\u00e1s f\u00e1cil de procesar para un algoritmo."
+    },
+    {
+      "question": "En el contexto de la evaluaci\u00f3n de personal, \u00bfcu\u00e1l es la funci\u00f3n de la matriz 'Nine Box'?",
+      "answerOptions": [
+        {
+          "text": "Cruzar el desempe\u00f1o actual con el potencial futuro para tomar decisiones de ascenso objetivas.",
+          "isCorrect": true,
+          "rationale": "Esta herramienta permite clasificar el talento bas\u00e1ndose en evidencia dura, evitando sesgos por simpat\u00edas o amiguismo."
+        },
+        {
+          "text": "Contabilizar el n\u00famero de horas que cada empleado pasa dentro de la planta operativa.",
+          "isCorrect": false,
+          "rationale": "La matriz eval\u00faa calidad de desempe\u00f1o y potencial, no simplemente la cantidad de tiempo o asistencia."
+        },
+        {
+          "text": "Calcular la indemnizaci\u00f3n financiera exacta en caso de una rescisi\u00f3n de contrato.",
+          "isCorrect": false,
+          "rationale": "Su fin es el desarrollo y la gesti\u00f3n del talento, no es una herramienta de c\u00e1lculo contable para despidos."
+        },
+        {
+          "text": "Asignar tareas de mantenimiento de maquinaria seg\u00fan la edad cronol\u00f3gica del trabajador.",
+          "isCorrect": false,
+          "rationale": "La matriz se basa en competencias y resultados, no en factores demogr\u00e1ficos como la edad."
+        }
+      ],
+      "hint": "Es una cuadr\u00edcula que mide lo que el empleado hace hoy frente a lo que podr\u00eda llegar a hacer ma\u00f1ana."
+    },
+    {
+      "question": "\u00bfQu\u00e9 problema fundamental ilustran casos como los de \u00d1auri y Aruntani en la gesti\u00f3n de conflictos?",
+      "answerOptions": [
+        {
+          "text": "Que la falta de \u00e9tica y de di\u00e1logo previo genera da\u00f1os irreparables a la reputaci\u00f3n y paz social.",
+          "isCorrect": true,
+          "rationale": "El uso de t\u00e1cticas de mala fe o desinformaci\u00f3n escala los conflictos hacia la violencia y la paralizaci\u00f3n operativa."
+        },
+        {
+          "text": "Que los pagos inmediatos en efectivo son la mejor estrategia para obtener firmas de comunidades.",
+          "isCorrect": false,
+          "rationale": "Esta pr\u00e1ctica se cita como un ejemplo de mala fe que genera conflictos cr\u00f3nicos en lugar de soluciones reales."
+        },
+        {
+          "text": "Que la asesor\u00eda legal es un gasto innecesario que ralentiza la firma de acuerdos operativos.",
+          "isCorrect": false,
+          "rationale": "La falta de asesor\u00eda legal para las contrapartes se menciona como una t\u00e1ctica injusta que invalida la legitimidad del acuerdo."
+        },
+        {
+          "text": "Que la comunicaci\u00f3n agresiva es necesaria para imponer la visi\u00f3n de la empresa en zonas remotas.",
+          "isCorrect": false,
+          "rationale": "La agresi\u00f3n y la imposici\u00f3n son justamente lo que destruye la viabilidad externa de cualquier proyecto a largo plazo."
+        }
+      ],
+      "hint": "Reflexione sobre las consecuencias de intentar 'ganar' una negociaci\u00f3n a costa del enga\u00f1o o la fuerza."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el concepto de MAAN (Mejor Alternativa a un Acuerdo Negociado) en una mesa de negociaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Es el umbral m\u00ednimo o ancla por debajo del cual no se debe aceptar un acuerdo.",
+          "isCorrect": true,
+          "rationale": "Conocer el MAAN evita que la organizaci\u00f3n acepte t\u00e9rminos que comprometan su viabilidad bajo presi\u00f3n externa."
+        },
+        {
+          "text": "Es el presupuesto m\u00e1ximo que la empresa est\u00e1 dispuesta a gastar en publicidad tras el acuerdo.",
+          "isCorrect": false,
+          "rationale": "El MAAN es una herramienta estrat\u00e9gica de decisi\u00f3n sobre el acuerdo en s\u00ed, no un presupuesto publicitario."
+        },
+        {
+          "text": "Es una t\u00e1ctica de intimidaci\u00f3n dise\u00f1ada para que la contraparte abandone la mesa de negociaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "No es una t\u00e1ctica ofensiva, sino un punto de referencia interno para proteger los intereses propios."
+        },
+        {
+          "text": "Es el nombre del protocolo legal que se utiliza para registrar las firmas de los involucrados.",
+          "isCorrect": false,
+          "rationale": "El MAAN es un an\u00e1lisis previo a la firma; el registro de firmas es parte del protocolo de cierre documental."
+        }
+      ],
+      "hint": "Piense en ello como su 'plan de escape' o l\u00edmite de seguridad si la negociaci\u00f3n falla."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la 't\u00e1ctica del salami' durante una negociaci\u00f3n compleja?",
+      "answerOptions": [
+        {
+          "text": "En fraccionar la negociaci\u00f3n en peque\u00f1os puntos parciales para ganar terreno silenciosamente.",
+          "isCorrect": true,
+          "rationale": "Busca evitar el agobio de una gran decisi\u00f3n \u00fanica, logrando peque\u00f1as concesiones que sumadas dan una ventaja mayor."
+        },
+        {
+          "text": "En ofrecer refrigerios de alta calidad para distraer a la contraparte de los temas financieros.",
+          "isCorrect": false,
+          "rationale": "Aunque el nombre suena a comida, es una met\u00e1fora sobre dividir un todo en rebanadas delgadas y manejables."
+        },
+        {
+          "text": "En levantar un muro de inflexibilidad absoluta para desgastar psicol\u00f3gicamente al otro.",
+          "isCorrect": false,
+          "rationale": "Eso describe la t\u00e1ctica de la 'Gran Muralla', que se basa en la rigidez, no en la fragmentaci\u00f3n de temas."
+        },
+        {
+          "text": "En cambiar las condiciones del contrato justo antes de la firma para obtener un beneficio extra.",
+          "isCorrect": false,
+          "rationale": "Esto se refiere a la 'Escalada de \u00faltimo momento', una t\u00e1ctica de sorpresa final, no de avance progresivo."
+        }
+      ],
+      "hint": "Considere c\u00f3mo se corta un embutido para consumirlo poco a poco en lugar de todo a la vez."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica la t\u00e1ctica de 'sustituci\u00f3n de divergencia' en la resoluci\u00f3n de conflictos?",
+      "answerOptions": [
+        {
+          "text": "Sacrificar un objetivo secundario que traba la negociaci\u00f3n para salvar el acuerdo principal.",
+          "isCorrect": true,
+          "rationale": "Requiere sangre fr\u00eda para identificar qu\u00e9 es prescindible con tal de lograr el consenso en lo m\u00e1s importante."
+        },
+        {
+          "text": "Sustituir a los negociadores actuales por personal nuevo para reiniciar el proceso desde cero.",
+          "isCorrect": false,
+          "rationale": "La t\u00e1ctica se refiere al intercambio de objetivos o puntos de la agenda, no al cambio f\u00edsico de las personas."
+        },
+        {
+          "text": "Ignorar los puntos en los que no hay acuerdo y centrarse solo en los beneficios econ\u00f3micos.",
+          "isCorrect": false,
+          "rationale": "No es ignorar, sino ceder conscientemente en un punto menor para destrabar el proceso global."
+        },
+        {
+          "text": "Utilizar argumentos falsos para convencer a la otra parte de que sus demandas no son v\u00e1lidas.",
+          "isCorrect": false,
+          "rationale": "La sustituci\u00f3n de divergencia es una t\u00e1ctica leg\u00edtima de priorizaci\u00f3n, no se basa en la deshonestidad o la falsedad."
+        }
+      ],
+      "hint": "Piense en la frase: 'perder una batalla para ganar la guerra'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la m\u00e1xima legal absoluta mencionada respecto a la resoluci\u00f3n de conflictos?",
+      "answerOptions": [
+        {
+          "text": "Lo que no est\u00e1 escrito sencillamente no existe.",
+          "isCorrect": true,
+          "rationale": "El rigor documental es la \u00fanica garant\u00eda para prevenir conflictos futuros y asegurar que los acuerdos sean vinculantes."
+        },
+        {
+          "text": "La palabra del l\u00edder es m\u00e1s importante que cualquier contrato firmado.",
+          "isCorrect": false,
+          "rationale": "En gesti\u00f3n minera e industrial, el consenso verbal es solo el primer paso; la documentaci\u00f3n formal es lo que da validez legal."
+        },
+        {
+          "text": "El primer acuerdo propuesto es siempre el que debe prevalecer en la corte.",
+          "isCorrect": false,
+          "rationale": "Lo que prevalece es el documento final firmado y protocolizado, independientemente de qui\u00e9n hizo la primera oferta."
+        },
+        {
+          "text": "Los conflictos sociales no requieren documentaci\u00f3n si hay confianza mutua.",
+          "isCorrect": false,
+          "rationale": "La confianza es el sustrato, pero sin actas precisas y convenios marco, la operaci\u00f3n queda vulnerable a cambios de opini\u00f3n."
+        }
+      ],
+      "hint": "Reflexione sobre la importancia de las actas y contratos debidamente firmados."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera que la capacitaci\u00f3n continua es una 'p\u00f3liza de seguro' para la rentabilidad?",
+      "answerOptions": [
+        {
+          "text": "Porque el ser humano es el elemento m\u00e1s cr\u00edtico y su formaci\u00f3n garantiza la paz social y eficiencia.",
+          "isCorrect": true,
+          "rationale": "Equipar al talento con habilidades emocionales y t\u00e9cnicas previene crisis costosas y asegura la sostenibilidad de la operaci\u00f3n."
+        },
+        {
+          "text": "Porque permite reducir el costo de las primas de seguros de accidentes industriales.",
+          "isCorrect": false,
+          "rationale": "Aunque puede ayudar, el concepto se usa metaf\u00f3ricamente para referirse a la protecci\u00f3n del activo m\u00e1s valioso: el talento humano."
+        },
+        {
+          "text": "Porque obliga a los empleados a quedarse en la empresa por un tiempo determinado.",
+          "isCorrect": false,
+          "rationale": "La formaci\u00f3n busca la retenci\u00f3n por motivaci\u00f3n y crecimiento, no como un mecanismo de retenci\u00f3n forzosa o legal."
+        },
+        {
+          "text": "Porque sustituye la necesidad de invertir en tecnolog\u00eda y mantenimiento de m\u00e1quinas.",
+          "isCorrect": false,
+          "rationale": "La capacitaci\u00f3n potencia el uso de la tecnolog\u00eda, no la reemplaza; ambos son necesarios para la rentabilidad."
+        }
+      ],
+      "hint": "Considere que el costo de formar a la gente es menor que el costo de los errores causados por la falta de preparaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el primer paso indispensable del protocolo de cierre de una reuni\u00f3n de negociaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Lograr el consenso verbal de todas las partes.",
+          "isCorrect": true,
+          "rationale": "Antes de redactar o firmar, es vital confirmar que todos los involucrados entienden y aceptan los puntos acordados."
+        },
+        {
+          "text": "Solicitar el pago inmediato de las compensaciones acordadas.",
+          "isCorrect": false,
+          "rationale": "El pago es una consecuencia del acuerdo formal, no el primer paso del cierre del protocolo de reuni\u00f3n."
+        },
+        {
+          "text": "Desalojar la sala para que los abogados redacten el documento a solas.",
+          "isCorrect": false,
+          "rationale": "El consenso debe ser transparente y verificado con los presentes antes de proceder a la redacci\u00f3n t\u00e9cnica solitaria."
+        },
+        {
+          "text": "Publicar los resultados en redes sociales para ganar el favor de la opini\u00f3n p\u00fablica.",
+          "isCorrect": false,
+          "rationale": "La comunicaci\u00f3n externa ocurre despu\u00e9s de que el protocolo de cierre documental y las firmas est\u00e1n asegurados."
+        }
+      ],
+      "hint": "Es la confirmaci\u00f3n de que todos est\u00e1n 'en la misma p\u00e1gina' antes de ponerlo en papel."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Inteligencia Emocional Aplicada",
+      "Fisiolog\u00eda del Estr\u00e9s y Secuestro Amigdalar",
+      "Liderazgo y Gesti\u00f3n del Talento",
+      "Reclutamiento y Selecci\u00f3n Moderna",
+      "Negociaci\u00f3n y Resoluci\u00f3n de Conflictos",
+      "Evaluaci\u00f3n del Desempe\u00f1o (Matriz 9-Box)"
+    ],
+    "followUp": [
+      "Neurociencia de la Toma de Decisiones",
+      "Modelos de Competencias en la Industria Minera",
+      "Sostenibilidad y Licencia Social",
+      "Psicolog\u00eda de la Persuasi\u00f3n en Negociaci\u00f3n",
+      "Arquitectura Conductual y Cultura Organizacional"
+    ]
+  }
+}

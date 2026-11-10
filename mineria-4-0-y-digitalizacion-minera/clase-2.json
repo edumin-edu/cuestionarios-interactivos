@@ -1,0 +1,543 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de la transici\u00f3n hacia la Miner\u00eda $4.0$?",
+      "answerOptions": [
+        {
+          "text": "Acumular la mayor cantidad posible de maquinaria pesada de \u00faltima generaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El \u00e9xito en el nuevo paradigma ya no se basa en la acumulaci\u00f3n de activos f\u00edsicos, sino en la gesti\u00f3n inteligente de la informaci\u00f3n."
+        },
+        {
+          "text": "Transformar los datos brutos en activos estrat\u00e9gicos para la rentabilidad.",
+          "isCorrect": true,
+          "rationale": "La esencia de la Miner\u00eda $4.0$ es pasar de una gesti\u00f3n reactiva a una basada en informaci\u00f3n predictiva que genere valor econ\u00f3mico."
+        },
+        {
+          "text": "Sustituir por completo a los ingenieros por sistemas de inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda act\u00faa como un acelerador y apoyo para la toma de decisiones, no necesariamente como un reemplazo total del criterio profesional."
+        },
+        {
+          "text": "Reducir los costos \u00fanicamente mediante la compra de equipos electr\u00f3nicos.",
+          "isCorrect": false,
+          "rationale": "La digitalizaci\u00f3n va m\u00e1s all\u00e1 de la compra de hardware; requiere un cambio de paradigma y una infraestructura de datos robusta."
+        }
+      ],
+      "hint": "Considere qu\u00e9 elemento se menciona como el nuevo 'activo estrat\u00e9gico' que reemplaza a la maquinaria pesada."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 elemento reside el cimiento absoluto de una mina digital moderna?",
+      "answerOptions": [
+        {
+          "text": "En los sensores de alto costo instalados en toda la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque los sensores capturan datos, no sirven de base si no existe un sistema que pueda procesar esa informaci\u00f3n."
+        },
+        {
+          "text": "En la infraestructura y arquitectura t\u00e9cnica de datos.",
+          "isCorrect": true,
+          "rationale": "Sin una arquitectura robusta para procesar la informaci\u00f3n, los dispositivos electr\u00f3nicos son estrat\u00e9gicamente in\u00fatiles."
+        },
+        {
+          "text": "En la experiencia e intuici\u00f3n de los operadores veteranos.",
+          "isCorrect": false,
+          "rationale": "El modelo digital busca precisamente superar la dependencia de la intuici\u00f3n mediante evidencia basada en datos duros."
+        },
+        {
+          "text": "En la cantidad de terabytes de informaci\u00f3n recolectada.",
+          "isCorrect": false,
+          "rationale": "Acumular grandes vol\u00famenes de datos sin una l\u00f3gica de an\u00e1lisis solo genera costos de almacenamiento innecesarios."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 estructura es necesaria para que los datos recolectados no se conviertan en 'ruido' in\u00fatil."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre la Ciencia de Datos y la Anal\u00edtica de Datos en el contexto minero?",
+      "answerOptions": [
+        {
+          "text": "La Ciencia de Datos es te\u00f3rica y la Anal\u00edtica es exclusivamente para la gerencia.",
+          "isCorrect": false,
+          "rationale": "Ambas tienen aplicaciones operativas, pero difieren en su enfoque cient\u00edfico versus su aplicaci\u00f3n pr\u00e1ctica."
+        },
+        {
+          "text": "La Ciencia de Datos estudia el fen\u00f3meno de la informaci\u00f3n y la Anal\u00edtica aplica metodolog\u00edas para extraer valor tangible.",
+          "isCorrect": true,
+          "rationale": "La ciencia se enfoca en entender c\u00f3mo operan los sistemas complejos, mientras que la anal\u00edtica es la herramienta para obtener resultados operativos."
+        },
+        {
+          "text": "La Ciencia de Datos se ocupa del hardware y la Anal\u00edtica del software.",
+          "isCorrect": false,
+          "rationale": "Ambas disciplinas son campos del conocimiento centrados en el tratamiento de la informaci\u00f3n, no en la distinci\u00f3n entre hardware y software."
+        },
+        {
+          "text": "No existe diferencia; ambos t\u00e9rminos se refieren al almacenamiento de Big Data.",
+          "isCorrect": false,
+          "rationale": "Son disciplinas distintas con prop\u00f3sitos t\u00e9cnicos espec\u00edficos dentro de la cadena de valor de los datos."
+        }
+      ],
+      "hint": "Una se enfoca en el estudio cient\u00edfico del fen\u00f3meno y la otra en sacarle el 'jugo' a los datos en la pr\u00e1ctica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 define al paradigma t\u00e9cnico del Big Data m\u00e1s all\u00e1 del volumen de informaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "La exclusividad de uso en hojas de c\u00e1lculo tradicionales.",
+          "isCorrect": false,
+          "rationale": "El Big Data precisamente supera las capacidades de los sistemas tradicionales como las hojas de c\u00e1lculo."
+        },
+        {
+          "text": "La escala masiva, la velocidad vertiginosa y la variedad de formatos de los datos.",
+          "isCorrect": true,
+          "rationale": "Estas tres caracter\u00edsticas (volumen, velocidad y variedad) son las que definen t\u00e9cnicamente este paradigma."
+        },
+        {
+          "text": "El almacenamiento de datos en servidores f\u00edsicos locales \u00fanicamente.",
+          "isCorrect": false,
+          "rationale": "El Big Data no est\u00e1 restringido a una ubicaci\u00f3n f\u00edsica de almacenamiento, sino a la naturaleza y procesamiento de los datos."
+        },
+        {
+          "text": "La capacidad de ser analizado manualmente por expertos en estad\u00edstica.",
+          "isCorrect": false,
+          "rationale": "La escala y velocidad del Big Data hacen que el an\u00e1lisis manual sea f\u00edsicamente imposible para un ser humano."
+        }
+      ],
+      "hint": "Recuerde las tres caracter\u00edsticas principales que superan a cualquier sistema tradicional de oficina."
+    },
+    {
+      "question": "En la gesti\u00f3n de datos, \u00bfqu\u00e9 implica el principio de 'Calidad' o 'Garbage in, Garbage out'?",
+      "answerOptions": [
+        {
+          "text": "Que la basura f\u00edsica de la mina debe ser pesada digitalmente.",
+          "isCorrect": false,
+          "rationale": "Este concepto es una regla t\u00e9cnica de inform\u00e1tica, no una referencia a residuos f\u00edsicos de la operaci\u00f3n."
+        },
+        {
+          "text": "Que un modelo predictivo colapsar\u00e1 si se alimenta con datos sucios o incompletos.",
+          "isCorrect": true,
+          "rationale": "La pureza de los datos es cr\u00edtica; datos de mala calidad destruyen el retorno de inversi\u00f3n de cualquier software avanzado."
+        },
+        {
+          "text": "Que el software m\u00e1s avanzado puede corregir autom\u00e1ticamente cualquier error en el dato de origen.",
+          "isCorrect": false,
+          "rationale": "Incluso el mejor software del planeta fallar\u00e1 si el dato de entrada es defectuoso o carece de integridad."
+        },
+        {
+          "text": "Que los datos antiguos deben ser eliminados para ahorrar espacio en el servidor.",
+          "isCorrect": false,
+          "rationale": "El principio se refiere a la precisi\u00f3n y pureza de los datos actuales, no a la limpieza de archivos hist\u00f3ricos."
+        }
+      ],
+      "hint": "Reflexione sobre la relaci\u00f3n entre la pureza de la informaci\u00f3n de entrada y la validez del resultado final."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que los n\u00fameros sin contexto generan un 'autoenga\u00f1o anal\u00edtico'?",
+      "answerOptions": [
+        {
+          "text": "Porque los n\u00fameros son siempre subjetivos y dependen de qui\u00e9n los lea.",
+          "isCorrect": false,
+          "rationale": "Los n\u00fameros pretenden ser objetivos, pero sin conocer las circunstancias de captura pueden inducir a error."
+        },
+        {
+          "text": "Porque es necesario conocer las circunstancias operativas bajo las cuales se captur\u00f3 la informaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Sin el contexto operativo, los datos pueden 'mentir en silencio' y llevar a decisiones basadas en suposiciones err\u00f3neas."
+        },
+        {
+          "text": "Porque el contexto solo es necesario en modelos descriptivos, no en los predictivos.",
+          "isCorrect": false,
+          "rationale": "El contexto es vital para todos los niveles de modelamiento para asegurar que las predicciones sean v\u00e1lidas."
+        },
+        {
+          "text": "Porque los datos en tiempo real no requieren interpretaci\u00f3n contextual.",
+          "isCorrect": false,
+          "rationale": "Incluso en tiempo real, conocer el estado del sistema es fundamental para entender por qu\u00e9 se generan ciertos valores."
+        }
+      ],
+      "hint": "Piense en la advertencia inspirada en Winston Churchill sobre la peligrosidad de las cifras aisladas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 nivel de modelamiento anal\u00edtico responde a la pregunta '\u00bfqu\u00e9 deber\u00eda hacer?'?",
+      "answerOptions": [
+        {
+          "text": "Modelo Descriptivo.",
+          "isCorrect": false,
+          "rationale": "Este modelo se limita a explicar qu\u00e9 ocurri\u00f3 en el pasado mediante KPIs hist\u00f3ricos."
+        },
+        {
+          "text": "Modelo Predictivo.",
+          "isCorrect": false,
+          "rationale": "Este nivel utiliza machine learning para anticipar fallas o eventos futuros, pero no recomienda la acci\u00f3n a seguir."
+        },
+        {
+          "text": "Modelo Prescriptivo.",
+          "isCorrect": true,
+          "rationale": "Es la cima de la anal\u00edtica; utiliza simulaciones complejas para recomendar la decisi\u00f3n \u00f3ptima ante un escenario."
+        },
+        {
+          "text": "Modelo Intuitivo.",
+          "isCorrect": false,
+          "rationale": "La intuici\u00f3n no es un nivel de modelamiento anal\u00edtico en la Miner\u00eda $4.0$, sino una pr\u00e1ctica que se busca eliminar."
+        }
+      ],
+      "hint": "Este nivel se encuentra en la cima de la escalera de modelamiento y va m\u00e1s all\u00e1 de la simple predicci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el requisito indispensable para que una herramienta de visualizaci\u00f3n (Dashboard) no sea considerada obsoleta hoy en d\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Que permita la descarga de informes en formato PDF mensualmente.",
+          "isCorrect": false,
+          "rationale": "La frecuencia mensual y los formatos est\u00e1ticos no cumplen con las exigencias de agilidad de la mina moderna."
+        },
+        {
+          "text": "Que los datos se actualicen en tiempo real sin intervenci\u00f3n manual.",
+          "isCorrect": true,
+          "rationale": "Cualquier tablero que requiera que una persona actualice los datos a mano es ineficiente para los est\u00e1ndares actuales."
+        },
+        {
+          "text": "Que tenga una interfaz gr\u00e1fica con modelos $3D$ de alta resoluci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque es visualmente atractivo, el valor real reside en la frescura y automatizaci\u00f3n del flujo de datos, no solo en la est\u00e9tica."
+        },
+        {
+          "text": "Que est\u00e9 integrado exclusivamente con hojas de c\u00e1lculo locales.",
+          "isCorrect": false,
+          "rationale": "La integraci\u00f3n debe ser con la infraestructura de datos masiva y automatizada de la operaci\u00f3n."
+        }
+      ],
+      "hint": "Considere el factor tiempo y la necesidad de eliminar la demora en la generaci\u00f3n de reportes."
+    },
+    {
+      "question": "En el aprendizaje profundo (Deep Learning), \u00bfa qu\u00e9 se refiere el fen\u00f3meno de la 'caja negra'?",
+      "answerOptions": [
+        {
+          "text": "A un dispositivo f\u00edsico de seguridad que registra los accidentes mineros.",
+          "isCorrect": false,
+          "rationale": "En este contexto, el t\u00e9rmino no se refiere a hardware de aviaci\u00f3n, sino a la opacidad algor\u00edtmica."
+        },
+        {
+          "text": "A que el modelo arroja resultados precisos, pero el camino l\u00f3gico para llegar a ellos no es transparente.",
+          "isCorrect": true,
+          "rationale": "Las redes neuronales complejas a veces impiden que el ingeniero comprenda exactamente c\u00f3mo el sistema lleg\u00f3 a una conclusi\u00f3n."
+        },
+        {
+          "text": "A un tipo de almacenamiento de datos que es impenetrable para los ciberataques.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino se enfoca en la falta de explicabilidad del algoritmo, no en la seguridad inform\u00e1tica de los archivos."
+        },
+        {
+          "text": "Al entrenamiento de la IA en entornos virtuales sin luz para ahorrar energ\u00eda.",
+          "isCorrect": false,
+          "rationale": "No tiene relaci\u00f3n con el ahorro energ\u00e9tico ni con la iluminaci\u00f3n f\u00edsica de los servidores."
+        }
+      ],
+      "hint": "Piense en la falta de visibilidad sobre los procesos internos del algoritmo que llevan a una conclusi\u00f3n."
+    },
+    {
+      "question": "Gracias a la IA generativa, \u00bfcu\u00e1nto tiempo de experiencia operativa puede adquirir un sistema aut\u00f3nomo en solo un mes cronol\u00f3gico?",
+      "answerOptions": [
+        {
+          "text": "$10$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "La capacidad de aceleraci\u00f3n de sistemas como Genie $3$ es mucho mayor a una sola d\u00e9cada."
+        },
+        {
+          "text": "$50$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra alta, la tecnolog\u00eda actual permite una simulaci\u00f3n de experiencia a\u00fan m\u00e1s extensa."
+        },
+        {
+          "text": "$100$ a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Los entornos virtuales detallados permiten que las m\u00e1quinas realicen entrenamientos intensivos que equivalen a un siglo de experiencia real."
+        },
+        {
+          "text": "$1$ a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "La aceleraci\u00f3n exponencial del aprendizaje permite superar con creces la escala de tiempo lineal."
+        }
+      ],
+      "hint": "Recuerde el asombroso n\u00famero de tres d\u00edgitos mencionado como m\u00e9trica revolucionaria."
+    },
+    {
+      "question": "\u00bfC\u00f3mo ayuda la visi\u00f3n artificial con c\u00e1maras t\u00e9rmicas en las excavadoras de una mina?",
+      "answerOptions": [
+        {
+          "text": "Para medir la temperatura corporal de los operadores y prevenir fatiga.",
+          "isCorrect": false,
+          "rationale": "Aunque es posible, el uso espec\u00edfico mencionado destaca la protecci\u00f3n de activos cr\u00edticos de la planta."
+        },
+        {
+          "text": "Para detectar el desprendimiento de dientes met\u00e1licos y evitar da\u00f1os en las chancadoras.",
+          "isCorrect": true,
+          "rationale": "Las c\u00e1maras t\u00e9rmicas ven a trav\u00e9s del polvo para detectar fallas que podr\u00edan costar millones en reparaciones y paradas."
+        },
+        {
+          "text": "Para identificar vetas de mineral de alta ley en la oscuridad absoluta.",
+          "isCorrect": false,
+          "rationale": "La visi\u00f3n t\u00e9rmica se usa aqu\u00ed para detectar anomal\u00edas en los componentes del equipo, no para prospecci\u00f3n geol\u00f3gica directa."
+        },
+        {
+          "text": "Para vigilar que los trabajadores usen su equipo de protecci\u00f3n personal.",
+          "isCorrect": false,
+          "rationale": "Esa es una funci\u00f3n b\u00e1sica de seguridad, pero la aplicaci\u00f3n en palas busca prevenir da\u00f1os catastr\u00f3ficos al hardware."
+        }
+      ],
+      "hint": "Considere el componente de la pala que, al caerse, puede causar un desastre en el proceso de trituraci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia a un Gemelo Digital (Digital Twin) de un modelo $3D$ convencional?",
+      "answerOptions": [
+        {
+          "text": "Que el Gemelo Digital es una maqueta f\u00edsica a escala de la mina.",
+          "isCorrect": false,
+          "rationale": "Un gemelo digital es una entidad virtual, no una representaci\u00f3n f\u00edsica t\u00e1ctil."
+        },
+        {
+          "text": "Que el Gemelo Digital se alimenta constantemente de datos en tiempo real de la operaci\u00f3n f\u00edsica.",
+          "isCorrect": true,
+          "rationale": "A diferencia de un modelo est\u00e1tico, el gemelo digital 'vive' y se sincroniza con lo que ocurre realmente en la mina."
+        },
+        {
+          "text": "Que el modelo $3D$ tradicional tiene mayor resoluci\u00f3n de colores.",
+          "isCorrect": false,
+          "rationale": "La distinci\u00f3n no es est\u00e9tica, sino funcional y basada en la conectividad con los datos operativos reales."
+        },
+        {
+          "text": "Que el Gemelo Digital solo funciona para la planificaci\u00f3n log\u00edstica futura.",
+          "isCorrect": false,
+          "rationale": "Aunque sirve para planificar, su principal valor es la sincron\u00eda continua y la capacidad de realizar avances r\u00e1pidos del presente."
+        }
+      ],
+      "hint": "Considere si el modelo es est\u00e1tico o si est\u00e1 conectado din\u00e1micamente con la realidad de la mina."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el retorno de inversi\u00f3n ($ROI$) documentado para la tecnolog\u00eda de Gemelos Digitales?",
+      "answerOptions": [
+        {
+          "text": "$1$ a $2$ veces el costo inicial.",
+          "isCorrect": false,
+          "rationale": "Esta cifra ser\u00eda muy baja para justificar una implementaci\u00f3n tecnol\u00f3gica tan compleja y transformadora."
+        },
+        {
+          "text": "$5$ a $10$ veces el costo inicial.",
+          "isCorrect": false,
+          "rationale": "Si bien es un retorno positivo, la optimizaci\u00f3n en toda la cadena de valor genera beneficios mucho mayores."
+        },
+        {
+          "text": "$20$ a $40$ veces el costo inicial.",
+          "isCorrect": true,
+          "rationale": "El impacto en la optimizaci\u00f3n de procesos y eliminaci\u00f3n de cuellos de botella genera un retorno colosal seg\u00fan los datos documentados."
+        },
+        {
+          "text": "$100$ veces el costo inicial de forma garantizada.",
+          "isCorrect": false,
+          "rationale": "Aunque el retorno es alto, no alcanza de forma estandarizada los niveles de cien veces la inversi\u00f3n."
+        }
+      ],
+      "hint": "Se trata de un rango que multiplica significativamente la inversi\u00f3n inicial, situ\u00e1ndose entre las dos y cuatro decenas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 incremento en la productividad se ha documentado mediante el uso de sistemas aut\u00f3nomos de Caterpillar o Sandvik?",
+      "answerOptions": [
+        {
+          "text": "$5\\%$ a $10\\%$.",
+          "isCorrect": false,
+          "rationale": "La autonom\u00eda ofrece mejoras mucho m\u00e1s significativas que un simple ajuste incremental de un solo d\u00edgito."
+        },
+        {
+          "text": "$20\\%$ a $30\\%$.",
+          "isCorrect": true,
+          "rationale": "La continuidad operativa y la eliminaci\u00f3n de la intervenci\u00f3n humana directa permiten alcanzar estos rangos de rendimiento superior."
+        },
+        {
+          "text": "$50\\%$ a $60\\%$.",
+          "isCorrect": false,
+          "rationale": "Aunque la mejora es dr\u00e1stica, alcanzar un $60\\%$ de incremento es una cifra que supera los registros actuales documentados."
+        },
+        {
+          "text": "$100\\%$ (duplicaci\u00f3n de la producci\u00f3n).",
+          "isCorrect": false,
+          "rationale": "La autonom\u00eda optimiza el rendimiento, pero no duplica m\u00e1gicamente la capacidad f\u00edsica instalada de los equipos."
+        }
+      ],
+      "hint": "Busque un rango porcentual que represente una mejora sustancial pero realista en el rendimiento operativo."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la Automatizaci\u00f3n Rob\u00f3tica de Procesos ($RPA$) en el \u00e1mbito administrativo?",
+      "answerOptions": [
+        {
+          "text": "En el uso de robots f\u00edsicos que entregan correspondencia en las oficinas.",
+          "isCorrect": false,
+          "rationale": "El $RPA$ se refiere a software ('bots'), no a hardware rob\u00f3tico con desplazamiento f\u00edsico."
+        },
+        {
+          "text": "En robots de software que aprenden y replican tareas como facturaci\u00f3n y reportes.",
+          "isCorrect": true,
+          "rationale": "Estos sistemas observan la ejecuci\u00f3n de tareas humanas complejas y las absorben para erradicar el error humano."
+        },
+        {
+          "text": "En la programaci\u00f3n manual de macros sencillas en hojas de c\u00e1lculo.",
+          "isCorrect": false,
+          "rationale": "El $RPA$ avanzado posee capacidad de aprendizaje, superando la rigidez de los scripts o macros b\u00e1sicos."
+        },
+        {
+          "text": "En la sustituci\u00f3n de la gerencia por algoritmos de decisi\u00f3n financiera.",
+          "isCorrect": false,
+          "rationale": "Su objetivo es absorber tareas administrativas repetitivas y cr\u00edticas, no reemplazar la direcci\u00f3n estrat\u00e9gica."
+        }
+      ],
+      "hint": "Piense en 'robots de software' aplicados a tareas como la generaci\u00f3n de documentos y finanzas."
+    },
+    {
+      "question": "En comparaci\u00f3n con la topograf\u00eda terrestre tradicional, \u00bfqu\u00e9 ventajas ofrecen los drones con sensores LiDAR?",
+      "answerOptions": [
+        {
+          "text": "Son igual de r\u00e1pidos pero cuestan un $50\\%$ m\u00e1s.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda de drones busca precisamente mejorar la velocidad y reducir los costos de la topograf\u00eda convencional."
+        },
+        {
+          "text": "Son $10$ veces m\u00e1s r\u00e1pidos y reducen los costos en un $70\\%$.",
+          "isCorrect": true,
+          "rationale": "La eficiencia de los sensores a\u00e9reos LiDAR permite actualizaciones casi instant\u00e1neas con una fracci\u00f3n del costo tradicional."
+        },
+        {
+          "text": "Reducen la precisi\u00f3n de los datos a cambio de mayor velocidad.",
+          "isCorrect": false,
+          "rationale": "Los sensores LiDAR mantienen o incluso superan la precisi\u00f3n necesaria mientras optimizan tiempo y recursos."
+        },
+        {
+          "text": "Solo funcionan en minas subterr\u00e1neas donde no hay se\u00f1al GPS.",
+          "isCorrect": false,
+          "rationale": "Los drones son ampliamente utilizados en operaciones a tajo abierto para mapeo geol\u00f3gico y topogr\u00e1fico."
+        }
+      ],
+      "hint": "Considere los factores de velocidad ($10x$) y el porcentaje de ahorro econ\u00f3mico mencionado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito del paso 'Arquitectar' en la metodolog\u00eda de las $6A$ de McKinsey?",
+      "answerOptions": [
+        {
+          "text": "Dise\u00f1ar la estructura f\u00edsica de los t\u00faneles y rampas de la mina.",
+          "isCorrect": false,
+          "rationale": "En este marco de transformaci\u00f3n digital, el t\u00e9rmino se refiere a la arquitectura tecnol\u00f3gica, no a la ingenier\u00eda civil."
+        },
+        {
+          "text": "Dise\u00f1ar una infraestructura de datos robusta usando nube y edge computing.",
+          "isCorrect": true,
+          "rationale": "Es la etapa t\u00e9cnica donde se construye el soporte digital necesario para que la estrategia no fracase."
+        },
+        {
+          "text": "Contratar a los arquitectos encargados de las oficinas centrales.",
+          "isCorrect": false,
+          "rationale": "La metodolog\u00eda se centra en la transformaci\u00f3n digital y la gesti\u00f3n de la informaci\u00f3n, no en edificaciones."
+        },
+        {
+          "text": "Definir los planos de las nuevas plantas de procesamiento.",
+          "isCorrect": false,
+          "rationale": "Se trata de la arquitectura de sistemas y flujos de datos, fundamental para escalar las soluciones tecnol\u00f3gicas."
+        }
+      ],
+      "hint": "Se relaciona con el dise\u00f1o de la base tecnol\u00f3gica, mencionando conceptos como la nube."
+    },
+    {
+      "question": "\u00bfQu\u00e9 busca evitar la aplicaci\u00f3n de una metodolog\u00eda estructurada como la de las $6A$?",
+      "answerOptions": [
+        {
+          "text": "La compra de cualquier tipo de tecnolog\u00eda por parte de la empresa.",
+          "isCorrect": false,
+          "rationale": "La metodolog\u00eda fomenta la tecnolog\u00eda, pero de forma ordenada para asegurar que genere valor real."
+        },
+        {
+          "text": "Que la digitalizaci\u00f3n se convierta en una suma interminable de pilotos que nunca escalan.",
+          "isCorrect": true,
+          "rationale": "Sin una ruta clara, muchas iniciativas mueren como programas aislados sin llegar a implementarse en toda la organizaci\u00f3n."
+        },
+        {
+          "text": "El uso de inteligencia artificial en las zonas de alto riesgo.",
+          "isCorrect": false,
+          "rationale": "Al contrario, busca estructurar c\u00f3mo implementar estas tecnolog\u00edas para mejorar la seguridad."
+        },
+        {
+          "text": "La capacitaci\u00f3n de los trabajadores en nuevas habilidades digitales.",
+          "isCorrect": false,
+          "rationale": "La etapa de 'Anticipar' dentro de las $6A$ incluye precisamente prever las necesidades de capacitaci\u00f3n."
+        }
+      ],
+      "hint": "Considere el riesgo de quedarse estancado en pruebas peque\u00f1as que jam\u00e1s llegan a aplicarse a gran escala."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la meta m\u00e1xima de seguridad que se busca alcanzar con el uso de autonom\u00eda integral y visi\u00f3n artificial?",
+      "answerOptions": [
+        {
+          "text": "Reducci\u00f3n de Accidentes Leves.",
+          "isCorrect": false,
+          "rationale": "Aunque es un beneficio, el objetivo es mucho m\u00e1s ambicioso y radical en t\u00e9rminos de exposici\u00f3n humana."
+        },
+        {
+          "text": "Operaci\u00f3n Zero Entry.",
+          "isCorrect": true,
+          "rationale": "El fin \u00faltimo es retirar por completo a las personas de las zonas de peligro, eliminando al $100\\%$ su exposici\u00f3n al riesgo f\u00edsico."
+        },
+        {
+          "text": "Monitoreo Pasivo de EPP.",
+          "isCorrect": false,
+          "rationale": "Vigilar el equipo de protecci\u00f3n es una estrategia antigua; la moderna busca que el humano ni siquiera est\u00e9 en la zona de riesgo."
+        },
+        {
+          "text": "Automatizaci\u00f3n de Reportes de Incidentes.",
+          "isCorrect": false,
+          "rationale": "Informar mejor sobre accidentes no es la meta final, sino evitar que el humano pueda accidentarse mediante su retiro del \u00e1rea."
+        }
+      ],
+      "hint": "Piense en un concepto que signifique 'entrada cero' de personal en \u00e1reas peligrosas."
+    },
+    {
+      "question": "En el nuevo paradigma, \u00bfqu\u00e9 sucede con el tradicional 'olfato' o intuici\u00f3n del operador experimentado?",
+      "answerOptions": [
+        {
+          "text": "Se convierte en el principal insumo para entrenar a la inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "La IA se entrena con datos y evidencia dura, no con presentimientos o intuiciones subjetivas."
+        },
+        {
+          "text": "Es sustituido por la evidencia dura y pura basada en modelos de datos.",
+          "isCorrect": true,
+          "rationale": "La Miner\u00eda $4.0$ marca el fin de la era de la intuici\u00f3n, validando \u00fanicamente las decisiones respaldadas por datos."
+        },
+        {
+          "text": "Se mantiene como el criterio final para validar lo que dicen los modelos predictivos.",
+          "isCorrect": false,
+          "rationale": "El cambio de paradigma implica confiar en el modelamiento anal\u00edtico para optimizar el sistema de forma virtual."
+        },
+        {
+          "text": "Se digitaliza para crear una base de datos de 'presentimientos' hist\u00f3ricos.",
+          "isCorrect": false,
+          "rationale": "La industria busca alejarse de la subjetividad operativa para abrazar la predictibilidad matem\u00e1tica."
+        }
+      ],
+      "hint": "Reflexione sobre qu\u00e9 elemento se convierte en la '\u00fanica moneda v\u00e1lida' para operar en la Miner\u00eda $4.0$."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Miner\u00eda 4.0 y Transformaci\u00f3n Digital",
+      "Infraestructura y Gesti\u00f3n de Datos",
+      "Modelamiento Anal\u00edtico (Descriptivo, Predictivo, Prescriptivo)",
+      "Inteligencia Artificial y Aprendizaje Profundo",
+      "Visi\u00f3n Artificial y Seguridad Operativa",
+      "Gemelos Digitales y Simulaci\u00f3n",
+      "Rob\u00f3tica, Autonom\u00eda y RPA",
+      "Metodolog\u00eda de Implementaci\u00f3n (6A de McKinsey)"
+    ],
+    "followUp": [
+      "Arquitectura de Datos: Cloud vs Edge Computing en Miner\u00eda",
+      "Deep Learning: Retos del Fen\u00f3meno de la Caja Negra",
+      "Estrategias de 'Zero Entry' y el Futuro del Talento Humano",
+      "Modelos Prescriptivos Aplicados a la Recuperaci\u00f3n Metal\u00fargica",
+      "Sensores LiDAR y su Impacto en la Geolog\u00eda Moderna"
+    ]
+  }
+}

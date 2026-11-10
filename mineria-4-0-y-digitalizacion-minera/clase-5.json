@@ -1,0 +1,545 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo fundamental de la transformaci\u00f3n digital en la miner\u00eda 4.0?",
+      "answerOptions": [
+        {
+          "text": "Adquirir la tecnolog\u00eda de hardware m\u00e1s reciente del mercado.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda es solo una herramienta, no el fin estrat\u00e9gico que busca la reingenier\u00eda de las operaciones."
+        },
+        {
+          "text": "Transformar los datos brutos en inteligencia operativa.",
+          "isCorrect": true,
+          "rationale": "El prop\u00f3sito central es usar la digitalizaci\u00f3n como medio para optimizar la eficiencia y mitigar riesgos mediante el an\u00e1lisis de datos."
+        },
+        {
+          "text": "Sustituir por completo la mano de obra humana por sistemas aut\u00f3nomos.",
+          "isCorrect": false,
+          "rationale": "El enfoque se centra en la orquestaci\u00f3n de procesos y eficiencia, no exclusivamente en la eliminaci\u00f3n del personal."
+        },
+        {
+          "text": "Eliminar la necesidad de infraestructura f\u00edsica en la mina.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda siempre requiere infraestructura f\u00edsica, la cual debe ser robustecida para soportar entornos hostiles."
+        }
+      ],
+      "hint": "Considere si la meta es el objeto tecnol\u00f3gico en s\u00ed o el valor que se extrae de la informaci\u00f3n generada."
+    },
+    {
+      "question": "\u00bfQu\u00e9 desaf\u00edo ambiental representa la mayor amenaza para la integridad de los datos en un tajo abierto?",
+      "answerOptions": [
+        {
+          "text": "La baja presi\u00f3n atmosf\u00e9rica en zonas de gran altitud.",
+          "isCorrect": false,
+          "rationale": "Aunque es un factor clim\u00e1tico, no es la principal causa de interferencia en la transmisi\u00f3n de telemetr\u00eda mencionada."
+        },
+        {
+          "text": "La interferencia electromagn\u00e9tica generada por maquinaria pesada.",
+          "isCorrect": true,
+          "rationale": "Los motores y equipos de gran escala crean campos que pueden corromper la se\u00f1al de los datos que viajan por la red."
+        },
+        {
+          "text": "La falta de iluminaci\u00f3n en los niveles m\u00e1s profundos de la mina.",
+          "isCorrect": false,
+          "rationale": "La iluminaci\u00f3n afecta la visibilidad humana, pero no impacta directamente la supervivencia de los bytes en la red."
+        },
+        {
+          "text": "El exceso de humedad en las oficinas administrativas.",
+          "isCorrect": false,
+          "rationale": "Los desaf\u00edos cr\u00edticos de conectividad se centran en el entorno de operaci\u00f3n f\u00edsica, no en las \u00e1reas corporativas."
+        }
+      ],
+      "hint": "Piense en los efectos f\u00edsicos que producen los grandes motores el\u00e9ctricos sobre las se\u00f1ales de comunicaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal limitaci\u00f3n del protocolo NTP en entornos de anal\u00edtica de alta velocidad?",
+      "answerOptions": [
+        {
+          "text": "Su incapacidad para funcionar en redes basadas en cable de cobre.",
+          "isCorrect": false,
+          "rationale": "NTP es un protocolo de red est\u00e1ndar que funciona sobre diversos medios f\u00edsicos de comunicaci\u00f3n."
+        },
+        {
+          "text": "Su alto consumo de ancho de banda en la red corporativa.",
+          "isCorrect": false,
+          "rationale": "NTP es en realidad muy eficiente en t\u00e9rminos de ancho de banda, pero su debilidad reside en la precisi\u00f3n temporal."
+        },
+        {
+          "text": "La deriva temporal de milisegundos que genera un desfase inaceptable.",
+          "isCorrect": true,
+          "rationale": "En procesos cr\u00edticos de alta velocidad, un retraso de milisegundos impide una correlaci\u00f3n perfecta de los datos masivos."
+        },
+        {
+          "text": "La falta de compatibilidad con sistemas operativos modernos.",
+          "isCorrect": false,
+          "rationale": "NTP es ampliamente compatible, pero su precisi\u00f3n es insuficiente para el control industrial de precisi\u00f3n quir\u00fargica."
+        }
+      ],
+      "hint": "Compare la precisi\u00f3n requerida para una oficina frente a la necesaria para sincronizar maquinaria de milisegundos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 est\u00e1ndar de sincronizaci\u00f3n ofrece una precisi\u00f3n de sub-microsegundos necesaria para el control de procesos?",
+      "answerOptions": [
+        {
+          "text": "IEEE 802.11ac",
+          "isCorrect": false,
+          "rationale": "Este es un est\u00e1ndar para redes inal\u00e1mbricas (Wi-Fi), no un protocolo de sincronizaci\u00f3n de tiempo de alta precisi\u00f3n."
+        },
+        {
+          "text": "IEEE 1588 (PTP)",
+          "isCorrect": true,
+          "rationale": "El Protocolo de Tiempo de Precisi\u00f3n (PTP) permite que el big data tenga una correlaci\u00f3n perfecta mediante estampas de tiempo exactas."
+        },
+        {
+          "text": "ISO 9001",
+          "isCorrect": false,
+          "rationale": "Este est\u00e1ndar se refiere a la gesti\u00f3n de calidad y no tiene relaci\u00f3n con la sincronizaci\u00f3n t\u00e9cnica de redes."
+        },
+        {
+          "text": "NIST Zero Trust",
+          "isCorrect": false,
+          "rationale": "Este es un marco de ciberseguridad, no una tecnolog\u00eda para la precisi\u00f3n temporal en la captura de datos."
+        }
+      ],
+      "hint": "Busque el protocolo tambi\u00e9n conocido por sus siglas PTP."
+    },
+    {
+      "question": "Para garantizar la estabilidad operacional en maquinaria cr\u00edtica, \u00bfcu\u00e1l es el l\u00edmite m\u00e1ximo de latencia permitido?",
+      "answerOptions": [
+        {
+          "text": "$100 \\text{ ms}$",
+          "isCorrect": false,
+          "rationale": "Una latencia de esta magnitud provocar\u00eda inestabilidad y oscilaciones peligrosas en el control de maquinaria pesada."
+        },
+        {
+          "text": "$50 \\text{ ms}$",
+          "isCorrect": false,
+          "rationale": "Aunque es baja para aplicaciones web, sigue siendo demasiado alta para el control en tiempo real de procesos mineros cr\u00edticos."
+        },
+        {
+          "text": "$10 \\text{ ms}$",
+          "isCorrect": true,
+          "rationale": "Cruzar este umbral de 10 milisegundos compromete la seguridad y puede derivar en accidentes industriales graves."
+        },
+        {
+          "text": "$1 \\text{ s}$",
+          "isCorrect": false,
+          "rationale": "Un segundo de retraso es catastr\u00f3fico en entornos industriales donde las decisiones de control deben ser casi instant\u00e1neas."
+        }
+      ],
+      "hint": "Es un valor num\u00e9rico de dos d\u00edgitos que representa una fracci\u00f3n muy peque\u00f1a de un segundo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica define al protocolo OPC UA como ideal para la integraci\u00f3n de PLCs en plantas fijas?",
+      "answerOptions": [
+        {
+          "text": "Su capacidad de operar sin necesidad de energ\u00eda el\u00e9ctrica.",
+          "isCorrect": false,
+          "rationale": "Todo protocolo de comunicaci\u00f3n industrial requiere hardware energizado para funcionar."
+        },
+        {
+          "text": "La interoperabilidad sem\u00e1ntica que permite entender el contexto del dato.",
+          "isCorrect": true,
+          "rationale": "OPC UA no solo transmite n\u00fameros, sino que ayuda al sistema a saber si el valor representa temperatura, presi\u00f3n o revoluciones."
+        },
+        {
+          "text": "Su dise\u00f1o exclusivo para sensores de baja bater\u00eda y largo alcance.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde a protocolos como LoRaWAN, no a OPC UA que se enfoca en robustez industrial."
+        },
+        {
+          "text": "La eliminaci\u00f3n de la necesidad de usar cortafuegos (firewalls).",
+          "isCorrect": false,
+          "rationale": "OPC UA requiere seguridad robusta; ning\u00fan protocolo industrial moderno sugiere eliminar las protecciones perimetrales."
+        }
+      ],
+      "hint": "Piense en la capacidad del sistema para distinguir entre grados Celsius y unidades de velocidad autom\u00e1ticamente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de las Dead Letter Queues (DLQ) en la mensajer\u00eda de datos?",
+      "answerOptions": [
+        {
+          "text": "Cifrar la informaci\u00f3n para evitar ciberataques externos.",
+          "isCorrect": false,
+          "rationale": "El cifrado es una funci\u00f3n de seguridad, mientras que las DLQ gestionan la disponibilidad de la informaci\u00f3n durante congestiones."
+        },
+        {
+          "text": "Retener temporalmente los datos que no pudieron ser entregados por congesti\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Funcionan como una sala de espera de emergencia para evitar que la informaci\u00f3n se pierda cuando hay cuellos de botella en la red."
+        },
+        {
+          "text": "Aumentar artificialmente el ancho de banda de la conexi\u00f3n satelital.",
+          "isCorrect": false,
+          "rationale": "Las colas de mensajes no crean ancho de banda; gestionan c\u00f3mo se utiliza el flujo de datos existente."
+        },
+        {
+          "text": "Eliminar autom\u00e1ticamente los datos que el sistema considera irrelevantes.",
+          "isCorrect": false,
+          "rationale": "Su objetivo es precisamente garantizar que los datos no se pierdan, no descartarlos de forma arbitraria."
+        }
+      ],
+      "hint": "Utilice la analog\u00eda de una sala de espera en un hospital para pacientes que no pueden ser atendidos de inmediato."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 se diferencia el procesamiento en la Nube (Cloud) del procesamiento en el Borde (Edge)?",
+      "answerOptions": [
+        {
+          "text": "El Cloud ofrece latencia cero mientras que el Edge es para almacenamiento masivo.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s: el Edge busca latencia casi nula y el Cloud se encarga del almacenamiento masivo y an\u00e1lisis complejo."
+        },
+        {
+          "text": "El Cloud se ubica f\u00edsicamente en la mina y el Edge en centros de datos remotos.",
+          "isCorrect": false,
+          "rationale": "La infraestructura Edge se despliega cerca del proceso f\u00edsico (la mina) para asegurar autonom\u00eda y rapidez."
+        },
+        {
+          "text": "El Cloud realiza el trabajo pesado anal\u00edtico y el Edge filtra datos localmente con latencia m\u00ednima.",
+          "isCorrect": true,
+          "rationale": "El Edge permite que la maquinaria funcione incluso sin internet, mientras que la Nube procesa vol\u00famenes masivos a largo plazo."
+        },
+        {
+          "text": "No existe diferencia t\u00e9cnica, ambos t\u00e9rminos son sin\u00f3nimos en miner\u00eda 4.0.",
+          "isCorrect": false,
+          "rationale": "Son arquitecturas opuestas y complementarias con roles espec\u00edficos en la jerarqu\u00eda de procesamiento de datos."
+        }
+      ],
+      "hint": "Piense en cu\u00e1l de los dos permite que una m\u00e1quina siga operando si se corta el enlace principal de internet."
+    },
+    {
+      "question": "Seg\u00fan el marco Zero Trust del NIST, \u00bfc\u00f3mo debe tratarse un ciberataque en la miner\u00eda moderna?",
+      "answerOptions": [
+        {
+          "text": "Como un evento altamente improbable gracias a los nuevos firewalls.",
+          "isCorrect": false,
+          "rationale": "Zero Trust asume que las defensas pueden ser superadas y que el ataque ocurrir\u00e1 eventualmente."
+        },
+        {
+          "text": "Como una certeza eventual, erradicando la confianza impl\u00edcita del sistema.",
+          "isCorrect": true,
+          "rationale": "Bajo este modelo, cada usuario y dispositivo debe ser verificado continuamente, sin importar su ubicaci\u00f3n en la red."
+        },
+        {
+          "text": "Como un riesgo que solo afecta al \u00e1rea administrativa y no a la operativa.",
+          "isCorrect": false,
+          "rationale": "Los sistemas de control (PLCs) son objetivos cr\u00edticos debido a las consecuencias f\u00edsicas y financieras de su manipulaci\u00f3n."
+        },
+        {
+          "text": "Como una situaci\u00f3n que se resuelve otorgando privilegios totales a todos los operadores.",
+          "isCorrect": false,
+          "rationale": "El principio de Zero Trust es el 'menor privilegio posible' para minimizar el radio de impacto de una brecha."
+        }
+      ],
+      "hint": "Considere la postura de seguridad que no conf\u00eda en nadie por defecto, ni siquiera dentro de la propia red."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumplen los firewalls de capa 7 en la protecci\u00f3n de activos mineros?",
+      "answerOptions": [
+        {
+          "text": "Evitan que el polvo ingrese a los racks de servidores.",
+          "isCorrect": false,
+          "rationale": "Esta es una protecci\u00f3n f\u00edsica, mientras que los firewalls son dispositivos de seguridad l\u00f3gica para el tr\u00e1fico de datos."
+        },
+        {
+          "text": "Realizan una inspecci\u00f3n profunda de paquetes para separar el tr\u00e1fico administrativo del de control.",
+          "isCorrect": true,
+          "rationale": "Estos equipos act\u00faan de forma quir\u00fargica para proteger la l\u00f3gica de los PLCs de interferencias o ataques desde la red corporativa."
+        },
+        {
+          "text": "Aumentan la velocidad de transmisi\u00f3n de datos en el tajo abierto.",
+          "isCorrect": false,
+          "rationale": "Los firewalls a\u00f1aden una capa de inspecci\u00f3n que no est\u00e1 dise\u00f1ada para aumentar la velocidad, sino para garantizar la seguridad."
+        },
+        {
+          "text": "Permiten el acceso libre a cualquier dispositivo que se conecte por Wi-Fi.",
+          "isCorrect": false,
+          "rationale": "Su prop\u00f3sito es restringir y verificar el acceso, lo cual es opuesto a permitir una conexi\u00f3n libre y sin control."
+        }
+      ],
+      "hint": "Piense en un sistema que analiza el contenido detallado de los mensajes para diferenciar \u00f3rdenes leg\u00edtimas de tr\u00e1fico inusual."
+    },
+    {
+      "question": "\u00bfQu\u00e9 definen los indicadores RTO y RPO en un plan de recuperaci\u00f3n ante desastres?",
+      "answerOptions": [
+        {
+          "text": "La velocidad de los camiones aut\u00f3nomos y su consumo de combustible.",
+          "isCorrect": false,
+          "rationale": "Estos son KPIs de producci\u00f3n, no m\u00e9tricas relacionadas con la continuidad tecnol\u00f3gica y recuperaci\u00f3n de datos."
+        },
+        {
+          "text": "La cantidad de oro extra\u00eddo frente al costo de los explosivos.",
+          "isCorrect": false,
+          "rationale": "Estos t\u00e9rminos pertenecen a la contabilidad minera, no a las estrategias de resiliencia operativa digital."
+        },
+        {
+          "text": "El tiempo m\u00e1ximo fuera de l\u00ednea y la cantidad m\u00e1xima de datos que se permite perder.",
+          "isCorrect": true,
+          "rationale": "El RTO mide el tiempo de recuperaci\u00f3n y el RPO marca el punto en el tiempo hasta donde se deben rescatar los datos."
+        },
+        {
+          "text": "El n\u00famero de empleados necesarios para operar la planta de procesos.",
+          "isCorrect": false,
+          "rationale": "Estas m\u00e9tricas se centran en la supervivencia de la informaci\u00f3n y los sistemas, no en la gesti\u00f3n de recursos humanos."
+        }
+      ],
+      "hint": "Relacione las siglas con el 'tiempo' de inactividad y el 'punto' de recuperaci\u00f3n de la informaci\u00f3n."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 son vitales los respaldos inmutables en una estrategia contra el ransomware?",
+      "answerOptions": [
+        {
+          "text": "Porque pueden ser modificados r\u00e1pidamente por cualquier usuario.",
+          "isCorrect": false,
+          "rationale": "La inmutabilidad significa precisamente que no pueden ser alterados, lo que impide que un atacante los cifre."
+        },
+        {
+          "text": "Porque garantizan que los datos no puedan ser borrados ni encriptados maliciosamente.",
+          "isCorrect": true,
+          "rationale": "Es la \u00faltima l\u00ednea de defensa que asegura que la producci\u00f3n pueda recuperarse tras un evento devastador de secuestro de datos."
+        },
+        {
+          "text": "Porque reducen el tama\u00f1o de los archivos para ahorrar espacio en disco.",
+          "isCorrect": false,
+          "rationale": "La inmutabilidad se refiere a la integridad y protecci\u00f3n del dato, no a t\u00e9cnicas de compresi\u00f3n de archivos."
+        },
+        {
+          "text": "Porque solo funcionan en servidores ubicados f\u00edsicamente fuera de la mina.",
+          "isCorrect": false,
+          "rationale": "Aunque se recomienda redundancia geogr\u00e1fica, la propiedad de inmutabilidad es una caracter\u00edstica del software de respaldo."
+        }
+      ],
+      "hint": "Piense en algo que, una vez escrito, no puede ser cambiado por nadie, ni siquiera por un virus."
+    },
+    {
+      "question": "\u00bfQu\u00e9 norma estructura la pir\u00e1mide de automatizaci\u00f3n desde el nivel 0 hasta el nivel 4 para conectar SCADA con ERP?",
+      "answerOptions": [
+        {
+          "text": "ISO 14001",
+          "isCorrect": false,
+          "rationale": "Esta norma se enfoca en la gesti\u00f3n ambiental y no en la arquitectura de sistemas industriales."
+        },
+        {
+          "text": "ISA 95",
+          "isCorrect": true,
+          "rationale": "Act\u00faa como un plano arquitect\u00f3nico maestro que previene dise\u00f1os fr\u00e1giles y garantiza la integraci\u00f3n vertical de la empresa."
+        },
+        {
+          "text": "IEEE 802.3",
+          "isCorrect": false,
+          "rationale": "Este est\u00e1ndar define las redes Ethernet por cable, pero no la l\u00f3gica de integraci\u00f3n entre niveles de negocio y planta."
+        },
+        {
+          "text": "ISO 55000",
+          "isCorrect": false,
+          "rationale": "Se centra en la gesti\u00f3n estrat\u00e9gica de activos, no espec\u00edficamente en el modelo de capas de automatizaci\u00f3n e intercambio de datos."
+        }
+      ],
+      "hint": "Es la norma fundamental para la integraci\u00f3n de sistemas de control con los sistemas de gesti\u00f3n empresarial."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la utilidad del lenguaje B2MML en un entorno con m\u00faltiples proveedores tecnol\u00f3gicos?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la potencia el\u00e9ctrica de los motores de los molinos.",
+          "isCorrect": false,
+          "rationale": "B2MML es un est\u00e1ndar de software y comunicaci\u00f3n, no tiene impacto en la potencia el\u00e9ctrica de los equipos."
+        },
+        {
+          "text": "Sustituir el uso de fibra \u00f3ptica por cables de cobre antiguos.",
+          "isCorrect": false,
+          "rationale": "Este lenguaje estandariza los mensajes l\u00f3gicos, independientemente del medio f\u00edsico de transmisi\u00f3n utilizado."
+        },
+        {
+          "text": "Actuar como un traductor universal basado en XML para que sistemas distintos conversen.",
+          "isCorrect": true,
+          "rationale": "Permite que equipos de diversos fabricantes se comuniquen sin fricci\u00f3n, estandarizando el intercambio de mensajes."
+        },
+        {
+          "text": "Encriptar las comunicaciones para que solo el gerente pueda verlas.",
+          "isCorrect": false,
+          "rationale": "Su objetivo es la interoperabilidad y el entendimiento com\u00fan entre sistemas, no la restricci\u00f3n de visibilidad."
+        }
+      ],
+      "hint": "Piense en un idioma com\u00fan que permite que personas de diferentes pa\u00edses se entiendan perfectamente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 problema resuelve la Gesti\u00f3n de Datos Maestros (MDM) en una organizaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "La falta de repuestos en el almac\u00e9n central.",
+          "isCorrect": false,
+          "rationale": "MDM resuelve problemas de informaci\u00f3n l\u00f3gica, aunque esto puede ayudar indirectamente a la log\u00edstica."
+        },
+        {
+          "text": "La inconsistencia sem\u00e1ntica donde un mismo activo tiene c\u00f3digos distintos en diferentes \u00e1reas.",
+          "isCorrect": true,
+          "rationale": "Normaliza los c\u00f3digos para que mantenimiento y finanzas hablen del mismo activo, creando una \u00fanica fuente de verdad."
+        },
+        {
+          "text": "La baja velocidad de internet en los campamentos mineros.",
+          "isCorrect": false,
+          "rationale": "MDM trata sobre la calidad y estructura de los datos, no sobre el ancho de banda de las telecomunicaciones."
+        },
+        {
+          "text": "La necesidad de contratar m\u00e1s analistas de datos externos.",
+          "isCorrect": false,
+          "rationale": "MDM busca automatizar y normalizar la estructura de datos para que la anal\u00edtica sea eficiente, no necesariamente aumentar el personal."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 sucede si una bomba hidr\u00e1ulica se llama 'A-1' para finanzas pero 'Pump-99' para mantenimiento."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se utiliza la cosimulaci\u00f3n en el desarrollo de gemelos digitales?",
+      "answerOptions": [
+        {
+          "text": "Para reducir el costo de las licencias de software de oficina.",
+          "isCorrect": false,
+          "rationale": "La cosimulaci\u00f3n es una t\u00e9cnica t\u00e9cnica avanzada de ingenier\u00eda, no una estrategia de ahorro en software administrativo."
+        },
+        {
+          "text": "Para estimar y controlar variables que son f\u00edsicamente imposibles de medir en terreno.",
+          "isCorrect": true,
+          "rationale": "Permite optimizar la planta real desde un espacio virtual seguro, validando estrategias antes de aplicarlas f\u00edsicamente."
+        },
+        {
+          "text": "Para reemplazar a los operadores humanos por avatares de realidad virtual.",
+          "isCorrect": false,
+          "rationale": "Su fin es la optimizaci\u00f3n y el control de procesos t\u00e9cnicos, no la sustituci\u00f3n de personas por representaciones gr\u00e1ficas."
+        },
+        {
+          "text": "Para conectar la red de la mina con redes sociales externas.",
+          "isCorrect": false,
+          "rationale": "El gemelo digital es una herramienta operativa cr\u00edtica que debe estar aislada de redes sociales por seguridad."
+        }
+      ],
+      "hint": "Considere c\u00f3mo podr\u00edamos saber la presi\u00f3n interna de un componente si no es posible colocar un sensor f\u00edsico all\u00ed."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el principal obst\u00e1culo matem\u00e1tico al construir modelos de Machine Learning en miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "La excesiva cantidad de fallas que ocurren diariamente.",
+          "isCorrect": false,
+          "rationale": "En una operaci\u00f3n \u00f3ptima, las fallas son eventos raros en comparaci\u00f3n con los estados de funcionamiento normal."
+        },
+        {
+          "text": "El desbalance de clases, donde hay muy pocos eventos de falla frente a miles de datos normales.",
+          "isCorrect": true,
+          "rationale": "Como hay pocas fallas, los modelos est\u00e1ndar tienden a ignorarlas y clasifican todo como 'normal', fallando en su predicci\u00f3n."
+        },
+        {
+          "text": "La imposibilidad de usar computadoras dentro de las plantas de procesamiento.",
+          "isCorrect": false,
+          "rationale": "El procesamiento se realiza en servidores Edge o en la Nube, por lo que la ubicaci\u00f3n de las laptops no es el problema matem\u00e1tico."
+        },
+        {
+          "text": "Que los algoritmos de redes neuronales no funcionan con datos num\u00e9ricos.",
+          "isCorrect": false,
+          "rationale": "Las redes neuronales est\u00e1n dise\u00f1adas espec\u00edficamente para procesar grandes vol\u00famenes de datos num\u00e9ricos y sensores."
+        }
+      ],
+      "hint": "Piense en la dificultad de aprender a identificar algo que ocurre solo 100 veces frente a 124,000 veces que no ocurre."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la t\u00e9cnica SMOTE aplicada a la anal\u00edtica predictiva?",
+      "answerOptions": [
+        {
+          "text": "En apagar los sensores que env\u00edan datos err\u00f3neos para limpiar la base de datos.",
+          "isCorrect": false,
+          "rationale": "Apagar sensores no genera balanceo de clases y podr\u00eda causar una p\u00e9rdida cr\u00edtica de visibilidad."
+        },
+        {
+          "text": "En comprar m\u00e1s maquinaria para tener m\u00e1s ejemplos de c\u00f3mo se rompen.",
+          "isCorrect": false,
+          "rationale": "Esta no es una soluci\u00f3n matem\u00e1tica ni econ\u00f3mica; SMOTE es una t\u00e9cnica de generaci\u00f3n de datos l\u00f3gicos."
+        },
+        {
+          "text": "En generar datos sint\u00e9ticos de las escasas fallas para equilibrar el aprendizaje del modelo.",
+          "isCorrect": true,
+          "rationale": "Crea ejemplos artificiales de la clase minoritaria (fallas) para que el algoritmo pueda aprender a reconocerlas adecuadamente."
+        },
+        {
+          "text": "En reducir la precisi\u00f3n de los relojes at\u00f3micos para simplificar los c\u00e1lculos.",
+          "isCorrect": false,
+          "rationale": "La precisi\u00f3n temporal es vital y SMOTE no tiene relaci\u00f3n con la sincronizaci\u00f3n de hardware de tiempo."
+        }
+      ],
+      "hint": "Busque la t\u00e9cnica que 'fabrica' ejemplos de fallas para que el modelo tenga suficiente material de estudio."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito de una matriz de confusi\u00f3n en la evaluaci\u00f3n de modelos predictivos?",
+      "answerOptions": [
+        {
+          "text": "Ocultar los errores del modelo ante la gerencia ejecutiva.",
+          "isCorrect": false,
+          "rationale": "Al contrario, su prop\u00f3sito es la transparencia t\u00e9cnica para entender qu\u00e9 tan bien funciona realmente el modelo."
+        },
+        {
+          "text": "Diagnosticar cu\u00e1ntos falsos positivos y falsos negativos est\u00e1 teniendo el sistema.",
+          "isCorrect": true,
+          "rationale": "Permite una evaluaci\u00f3n milim\u00e9trica para saber si el modelo est\u00e1 detectando fallas reales o dando alarmas falsas."
+        },
+        {
+          "text": "Organizar los turnos de trabajo de los ingenieros de mantenimiento.",
+          "isCorrect": false,
+          "rationale": "Es una herramienta de estad\u00edstica y machine learning, no un software de gesti\u00f3n de recursos humanos."
+        },
+        {
+          "text": "Asegurar que los datos de finanzas coincidan con los de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n del MDM; la matriz de confusi\u00f3n eval\u00faa el desempe\u00f1o de clasificaci\u00f3n de un algoritmo predictivo."
+        }
+      ],
+      "hint": "Piense en una tabla que muestra los aciertos y los tipos de errores cometidos por una predicci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 protocolo de seguridad es innegociable al desplegar algoritmos de control en maquinaria pesada real?",
+      "answerOptions": [
+        {
+          "text": "Publicar los resultados del modelo en la p\u00e1gina web de la empresa.",
+          "isCorrect": false,
+          "rationale": "La seguridad operativa depende de controles t\u00e9cnicos, no de la divulgaci\u00f3n p\u00fablica de resultados anal\u00edticos."
+        },
+        {
+          "text": "La inclusi\u00f3n obligatoria de un Kill Switch o interruptor de reversa.",
+          "isCorrect": true,
+          "rationale": "Si el modelo act\u00faa de forma err\u00e1tica, el sistema debe poder volver inmediatamente a un estado seguro para evitar accidentes."
+        },
+        {
+          "text": "Permitir que el algoritmo cambie su propio c\u00f3digo fuente en tiempo real.",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda extremadamente peligroso en entornos industriales, ya que se perder\u00eda el control sobre el comportamiento del sistema."
+        },
+        {
+          "text": "Eliminar la supervisi\u00f3n humana para que el modelo aprenda m\u00e1s r\u00e1pido.",
+          "isCorrect": false,
+          "rationale": "La gobernanza del modelo exige salvaguardas que protejan la integridad f\u00edsica, no la eliminaci\u00f3n de la supervisi\u00f3n."
+        }
+      ],
+      "hint": "Busque el mecanismo que permite detener una acci\u00f3n automatizada si esta se vuelve peligrosa."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Miner\u00eda 4.0",
+      "Conectividad Industrial e IoT",
+      "Sincronizaci\u00f3n Temporal (PTP/NTP)",
+      "Protocolos de Mensajer\u00eda (OPC UA, MQTT, LoRaWAN)",
+      "Arquitectura Edge y Cloud",
+      "Ciberseguridad Zero Trust",
+      "Integraci\u00f3n de Sistemas (ISA 95, B2MML)",
+      "Gesti\u00f3n de Datos Maestros (MDM)",
+      "Gemelos Digitales y Simulaci\u00f3n",
+      "Mantenimiento Predictivo y Machine Learning"
+    ],
+    "followUp": [
+      "Segmentaci\u00f3n de redes industriales bajo IEC 62443",
+      "Modelado de activos con ISO 55000 y 14224",
+      "Implementaci\u00f3n de arquitecturas de microservicios en Edge Computing",
+      "Estrategias avanzadas de resiliencia con respaldos inmutables",
+      "Optimizaci\u00f3n de procesos mediante cosimulaci\u00f3n ISO 2320 47"
+    ]
+  }
+}

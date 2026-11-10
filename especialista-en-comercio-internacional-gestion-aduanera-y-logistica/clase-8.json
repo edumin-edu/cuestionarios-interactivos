@@ -1,0 +1,543 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfC\u00f3mo se define la estructura de mercado predominante en la industria del transporte mar\u00edtimo global?",
+      "answerOptions": [
+        {
+          "text": "Competencia perfecta",
+          "isCorrect": false,
+          "rationale": "En la competencia perfecta existen miles de competidores peque\u00f1os, lo cual no ocurre en el transporte mar\u00edtimo dominado por gigantes."
+        },
+        {
+          "text": "Oligopolio",
+          "isCorrect": true,
+          "rationale": "Un peque\u00f1o grupo de empresas gigantes controla la mayor parte de la capacidad mundial y dicta las reglas del juego."
+        },
+        {
+          "text": "Monopolio natural",
+          "isCorrect": false,
+          "rationale": "Aunque hay grandes barreras de entrada, el mercado no est\u00e1 controlado por una \u00fanica empresa, sino por un pu\u00f1ado de ellas."
+        },
+        {
+          "text": "Monopsonio",
+          "isCorrect": false,
+          "rationale": "Un monopsonio implica un \u00fanico comprador, mientras que aqu\u00ed hablamos de la concentraci\u00f3n en la oferta de servicios de transporte."
+        }
+      ],
+      "hint": "Piense en un mercado donde pocos actores dominan la mayor parte del pastel."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa la unidad de medida denominada TEU en la log\u00edstica mar\u00edtima?",
+      "answerOptions": [
+        {
+          "text": "Una tonelada de peso estructural",
+          "isCorrect": false,
+          "rationale": "El TEU no mide peso masivo, sino que es una unidad de medida de capacidad volum\u00e9trica est\u00e1ndar."
+        },
+        {
+          "text": "Un contenedor equivalente a 20 pies",
+          "isCorrect": true,
+          "rationale": "TEU significa Twenty-foot Equivalent Unit y es el denominador com\u00fan para medir capacidad de buques y tr\u00e1fico portuario."
+        },
+        {
+          "text": "La eficiencia energ\u00e9tica por milla n\u00e1utica",
+          "isCorrect": false,
+          "rationale": "Esta medida se refiere a la capacidad de carga f\u00edsica, no a par\u00e1metros de consumo de combustible o eficiencia."
+        },
+        {
+          "text": "Una unidad de tiempo de estiba",
+          "isCorrect": false,
+          "rationale": "El TEU es una unidad f\u00edsica de espacio contenedorizado, no una medida de tiempo operativo."
+        }
+      ],
+      "hint": "Es el idioma universal para referirse al tama\u00f1o est\u00e1ndar de un contenedor peque\u00f1o."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 r\u00e9gimen de transporte se suelen negociar barcos completos o grandes vol\u00famenes de graneles a trav\u00e9s de brokers?",
+      "answerOptions": [
+        {
+          "text": "L\u00ednea regular",
+          "isCorrect": false,
+          "rationale": "La l\u00ednea regular funciona como transporte p\u00fablico con rutas y tarifas fijas para contenedores est\u00e1ndar."
+        },
+        {
+          "text": "Cabotaje nacional",
+          "isCorrect": false,
+          "rationale": "El cabotaje se refiere exclusivamente a movimientos locales dentro de las reglas de un solo pa\u00eds."
+        },
+        {
+          "text": "R\u00e9gimen de fletamiento (Tramp)",
+          "isCorrect": true,
+          "rationale": "Este r\u00e9gimen ofrece flexibilidad total y se basa en la oferta y demanda para mover cargamentos masivos sin rutas fijas."
+        },
+        {
+          "text": "Transporte multimodal",
+          "isCorrect": false,
+          "rationale": "Aunque puede involucrar barcos, el fletamiento Tramp es un r\u00e9gimen contractual espec\u00edfico de la navegaci\u00f3n mar\u00edtima."
+        }
+      ],
+      "hint": "Este sistema no tiene horarios fijos y depende de la negociaci\u00f3n pura de mercado."
+    },
+    {
+      "question": "Si una empresa contrata un servicio donde el transportista se encarga desde la recogida en un almac\u00e9n en origen hasta la entrega en la f\u00e1brica del destino, \u00bfqu\u00e9 matriz de entrega est\u00e1 usando?",
+      "answerOptions": [
+        {
+          "text": "Puerto a Puerto",
+          "isCorrect": false,
+          "rationale": "Este t\u00e9rmino solo cubre el trayecto desde el muelle de salida hasta el muelle de llegada."
+        },
+        {
+          "text": "Puerta a Puerta",
+          "isCorrect": true,
+          "rationale": "Implica una cobertura total donde el transportista asume la log\u00edstica desde el punto de inicio del remitente hasta el destino final del consignatario."
+        },
+        {
+          "text": "Puerto a Puerta",
+          "isCorrect": false,
+          "rationale": "En este caso, la responsabilidad del transporte iniciar\u00eda apenas en el puerto, no en el almac\u00e9n de origen."
+        },
+        {
+          "text": "Puerta a Puerto",
+          "isCorrect": false,
+          "rationale": "Esta modalidad termina la responsabilidad en el muelle de llegada, sin incluir el tramo final hacia la f\u00e1brica."
+        }
+      ],
+      "hint": "Considere el nivel m\u00e1ximo de cobertura que puede ofrecer un operador log\u00edstico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica el t\u00e9rmino de l\u00ednea FIO (Free In and Out) para la naviera?",
+      "answerOptions": [
+        {
+          "text": "La naviera paga la carga y la descarga",
+          "isCorrect": false,
+          "rationale": "FIO significa que esos costos est\u00e1n 'libres' para la naviera, es decir, no los asume ella."
+        },
+        {
+          "text": "La naviera solo se encarga del transporte por agua",
+          "isCorrect": true,
+          "rationale": "Bajo FIO, el usuario es responsable de los gastos de carga y descarga; la naviera solo pone el buque y lo mueve."
+        },
+        {
+          "text": "Incluye el seguro contra todo riesgo",
+          "isCorrect": false,
+          "rationale": "Los t\u00e9rminos de l\u00ednea definen responsabilidades operativas de manipuleo, no coberturas de seguros de mercanc\u00eda."
+        },
+        {
+          "text": "La naviera asume el estibado y nivelado",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino FIO libera a la naviera de la carga y descarga; el estibado requerir\u00eda siglas adicionales como la 'S'."
+        }
+      ],
+      "hint": "La palabra 'Free' indica que la naviera est\u00e1 exenta de ciertos costos operativos de puerto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del 'Trimming' (representado por la 'T' en FIOST)?",
+      "answerOptions": [
+        {
+          "text": "Asegurar los contenedores con cables de acero",
+          "isCorrect": false,
+          "rationale": "El aseguramiento de carga general se conoce com\u00fanmente como trincado, no como trimming."
+        },
+        {
+          "text": "Nivelar y distribuir uniformemente la carga a granel",
+          "isCorrect": true,
+          "rationale": "El trimming es el proceso de aplanar la carga en la bodega para evitar desplazamientos peligrosos de masa."
+        },
+        {
+          "text": "Calcular el peso exacto mediante b\u00e1sculas",
+          "isCorrect": false,
+          "rationale": "Aunque el peso es importante, el trimming es una acci\u00f3n f\u00edsica de acomodo de la mercanc\u00eda dentro del barco."
+        },
+        {
+          "text": "Limpiar las bodegas despu\u00e9s de la descarga",
+          "isCorrect": false,
+          "rationale": "La limpieza es una operaci\u00f3n de mantenimiento, mientras que el trimming es parte cr\u00edtica del proceso de carga."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo se debe ver una monta\u00f1a de granos dentro de una bodega para que no se mueva."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el 'Trimming' se considera una cuesti\u00f3n de supervivencia mar\u00edtima?",
+      "answerOptions": [
+        {
+          "text": "Porque previene la contaminaci\u00f3n de la carga",
+          "isCorrect": false,
+          "rationale": "La contaminaci\u00f3n es un riesgo de calidad, pero el trimming previene el colapso estructural del buque."
+        },
+        {
+          "text": "Porque evita que el centro de gravedad del barco se altere violentamente",
+          "isCorrect": true,
+          "rationale": "Si la carga no est\u00e1 nivelada, puede desplazarse con las olas, causando que el barco se voltee o colapse."
+        },
+        {
+          "text": "Porque acelera los tiempos de aduana",
+          "isCorrect": false,
+          "rationale": "El trimming es una medida de seguridad f\u00edsica en alta mar, no un tr\u00e1mite administrativo aduanero."
+        },
+        {
+          "text": "Porque reduce el consumo de combustible",
+          "isCorrect": false,
+          "rationale": "Aunque una carga bien distribuida ayuda, la raz\u00f3n fundamental es la estabilidad y la integridad del casco."
+        }
+      ],
+      "hint": "Recuerde lo que sucede cuando una masa gigante se desplaza de golpe hacia un lado del barco."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor de ajuste se utiliza para compensar las variaciones en el precio del combustible del buque?",
+      "answerOptions": [
+        {
+          "text": "CAF",
+          "isCorrect": false,
+          "rationale": "El CAF se refiere al ajuste por tipo de cambio de moneda (Currency Adjustment Factor)."
+        },
+        {
+          "text": "THC",
+          "isCorrect": false,
+          "rationale": "El THC cubre los movimientos operativos en la terminal portuaria."
+        },
+        {
+          "text": "BAF",
+          "isCorrect": true,
+          "rationale": "El Bunker Adjustment Factor (BAF) refleja las fluctuaciones constantes en el precio del b\u00fanker o combustible marino."
+        },
+        {
+          "text": "IMO",
+          "isCorrect": false,
+          "rationale": "El recargo IMO se aplica espec\u00edficamente al manejo de mercanc\u00edas peligrosas."
+        }
+      ],
+      "hint": "Busque el acr\u00f3nimo que se relaciona con el t\u00e9rmino 'bunker'."
+    },
+    {
+      "question": "Si una naviera aplica el recargo CAF en su factura, \u00bfqu\u00e9 riesgo est\u00e1 intentando mitigar?",
+      "answerOptions": [
+        {
+          "text": "El aumento de la pirater\u00eda en rutas cr\u00edticas",
+          "isCorrect": false,
+          "rationale": "Los riesgos de pirater\u00eda suelen cubrirse con seguros de guerra o recargos de seguridad, no con el CAF."
+        },
+        {
+          "text": "La fluctuaci\u00f3n de las divisas frente al d\u00f3lar",
+          "isCorrect": true,
+          "rationale": "El CAF (Currency Adjustment Factor) protege a la naviera de p\u00e9rdidas financieras debidas a cambios en el valor de las monedas."
+        },
+        {
+          "text": "El costo de las inspecciones sanitarias",
+          "isCorrect": false,
+          "rationale": "Estas inspecciones son tr\u00e1mites locales o tasas portuarias, no un factor de ajuste monetario global."
+        },
+        {
+          "text": "El retraso por congesti\u00f3n en los puertos",
+          "isCorrect": false,
+          "rationale": "La congesti\u00f3n se maneja con recargos por demora o 'congestion surcharges', no con el factor de moneda."
+        }
+      ],
+      "hint": "Este acr\u00f3nimo est\u00e1 vinculado estrictamente a las finanzas y al mercado cambiario."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 situaci\u00f3n es obligatorio el pago del recargo IMO?",
+      "answerOptions": [
+        {
+          "text": "Al cruzar el Canal de Panam\u00e1 en temporada de sequ\u00eda",
+          "isCorrect": false,
+          "rationale": "Los cruces de canales tienen sus propias tarifas de tr\u00e1nsito y recargos por escasez de agua, no el IMO."
+        },
+        {
+          "text": "Al transportar mercanc\u00edas calificadas como peligrosas",
+          "isCorrect": true,
+          "rationale": "Este recargo cubre los protocolos de seguridad adicionales y el manejo especializado que exige la normativa internacional para cargas riesgosas."
+        },
+        {
+          "text": "Cuando el buque supera los 10,000 TEUs de capacidad",
+          "isCorrect": false,
+          "rationale": "El tama\u00f1o del buque no determina el recargo IMO; lo determina la naturaleza de la mercanc\u00eda dentro del contenedor."
+        },
+        {
+          "text": "Al realizar operaciones de transbordo en puertos intermedios",
+          "isCorrect": false,
+          "rationale": "Los transbordos generan costos log\u00edsticos diferentes, pero el IMO es espec\u00edfico para la seguridad de sustancias peligrosas."
+        }
+      ],
+      "hint": "Piense en sustancias inflamables, t\u00f3xicas o corrosivas que viajan en el mar."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia directa tuvo la reciente sequ\u00eda extrema en el Canal de Panam\u00e1 para el comercio global?",
+      "answerOptions": [
+        {
+          "text": "La eliminaci\u00f3n de los l\u00edmites de calado",
+          "isCorrect": false,
+          "rationale": "Al contrario, la sequ\u00eda obliga a restringir el calado y el n\u00famero de tr\u00e1nsitos diarios."
+        },
+        {
+          "text": "Una restricci\u00f3n operativa a solo 32 tr\u00e1nsitos por d\u00eda",
+          "isCorrect": true,
+          "rationale": "La falta de agua oblig\u00f3 a limitar dr\u00e1sticamente los pasos diarios, creando cuellos de botella y aumentando costos."
+        },
+        {
+          "text": "La reducci\u00f3n inmediata de las primas de seguros",
+          "isCorrect": false,
+          "rationale": "Las crisis y demoras suelen aumentar el riesgo y, por ende, las primas de seguros, no reducirlas."
+        },
+        {
+          "text": "El cierre total y permanente del canal",
+          "isCorrect": false,
+          "rationale": "El canal sigue operando, pero bajo limitaciones estrictas debido a la escasez del recurso h\u00eddrico."
+        }
+      ],
+      "hint": "Relacione la falta de agua con la capacidad de procesar barcos diariamente."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afectan los conflictos geopol\u00edticos en el Medio Oriente a la estructura de costos log\u00edsticos?",
+      "answerOptions": [
+        {
+          "text": "Provocan una baja en la demanda de transporte",
+          "isCorrect": false,
+          "rationale": "La demanda suele mantenerse, pero la oferta de rutas seguras disminuye dr\u00e1sticamente."
+        },
+        {
+          "text": "Reducen la disponibilidad de rutas seguras, elevando fletes y seguros",
+          "isCorrect": true,
+          "rationale": "La inestabilidad en estrechos estrat\u00e9gicos alarma al mercado, lo que se traduce matem\u00e1ticamente en costos m\u00e1s altos por riesgo."
+        },
+        {
+          "text": "Estabilizan las tarifas debido a la intervenci\u00f3n gubernamental",
+          "isCorrect": false,
+          "rationale": "El mercado log\u00edstico es privado y altamente sensible, por lo que las crisis disparan la volatilidad de precios."
+        },
+        {
+          "text": "Obligan a usar exclusivamente transporte terrestre",
+          "isCorrect": false,
+          "rationale": "Aunque se buscan alternativas, el comercio global sigue dependiendo del mar; simplemente se encarece el servicio."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede con el precio cuando una ruta importante se vuelve peligrosa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 significa que un flete sea bajo la modalidad 'Freight Collect'?",
+      "answerOptions": [
+        {
+          "text": "Que el vendedor paga el transporte en el origen",
+          "isCorrect": false,
+          "rationale": "Eso corresponder\u00eda a un flete 'Prepaid', com\u00fan en t\u00e9rminos como CFR o CIF."
+        },
+        {
+          "text": "Que el comprador paga el flete al recibir la carga en el destino",
+          "isCorrect": true,
+          "rationale": "Freight Collect indica que el cobro se realiza en el punto final, t\u00edpico de negociaciones bajo t\u00e9rminos FOB o FCA."
+        },
+        {
+          "text": "Que el flete es gratuito por promoci\u00f3n de la naviera",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino 'Collect' se refiere al momento y lugar del cobro, no a una exenci\u00f3n de pago."
+        },
+        {
+          "text": "Que el costo del flete se divide entre origen y destino",
+          "isCorrect": false,
+          "rationale": "Freight Collect implica que la totalidad del flete negociado se liquida en el destino."
+        }
+      ],
+      "hint": "Piense en qui\u00e9n asume el pago una vez que la mercanc\u00eda ha completado su viaje."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la f\u00f3rmula matem\u00e1tica para calcular el Factor de Estiva ($FE$)?",
+      "answerOptions": [
+        {
+          "text": "$FE = \\frac{Peso (kg)}{Volumen (m^3)}$",
+          "isCorrect": false,
+          "rationale": "El factor de estiva utiliza toneladas, no kilogramos, y la relaci\u00f3n es volumen sobre peso."
+        },
+        {
+          "text": "$FE = \\frac{Volumen (m^3)}{Peso (t)}$",
+          "isCorrect": true,
+          "rationale": "Esta relaci\u00f3n permite determinar si una carga ocupa m\u00e1s espacio f\u00edsico o consume m\u00e1s capacidad de peso en el buque."
+        },
+        {
+          "text": "$FE = Volumen \\times Peso$",
+          "isCorrect": false,
+          "rationale": "La multiplicaci\u00f3n no define la relaci\u00f3n de densidad necesaria para el c\u00e1lculo de fletes."
+        },
+        {
+          "text": "$FE = \\frac{TEUs}{Metros Lineales}$",
+          "isCorrect": false,
+          "rationale": "El factor de estiva es una medida de densidad de la carga, no una relaci\u00f3n entre tipos de unidades de transporte."
+        }
+      ],
+      "hint": "Es la divisi\u00f3n del espacio ocupado entre la masa de la mercanc\u00eda."
+    },
+    {
+      "question": "En el c\u00e1lculo del flete, \u00bfcu\u00e1ndo decide la naviera cobrar bas\u00e1ndose en el volumen en lugar del peso?",
+      "answerOptions": [
+        {
+          "text": "Cuando el Factor de Estiva es menor a uno",
+          "isCorrect": false,
+          "rationale": "Si es menor a uno, la carga es muy densa y se cobra por peso para optimizar la rentabilidad."
+        },
+        {
+          "text": "Cuando el Factor de Estiva es mayor a uno",
+          "isCorrect": true,
+          "rationale": "Un factor mayor a uno indica que la carga es voluminosa y ligera, por lo que la naviera cobra por el espacio que se est\u00e1 agotando."
+        },
+        {
+          "text": "Cuando la carga es hierro puro o c\u00e1todos de cobre",
+          "isCorrect": false,
+          "rationale": "Estas cargas son sumamente densas (pesadas), por lo que se facturan por peso."
+        },
+        {
+          "text": "Solo cuando se utiliza el r\u00e9gimen de fletamiento Tramp",
+          "isCorrect": false,
+          "rationale": "Esta regla de optimizaci\u00f3n de ingresos se aplica de forma general en la industria, independientemente del r\u00e9gimen."
+        }
+      ],
+      "hint": "La naviera siempre cobrar\u00e1 por el factor que le genere mayor ingreso (el recurso que m\u00e1s 'gasta' la carga)."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede f\u00edsicamente en el buque con una carga cuyo Factor de Estiva es menor a uno?",
+      "answerOptions": [
+        {
+          "text": "Llena el espacio de las bodegas pero deja el barco ligero",
+          "isCorrect": false,
+          "rationale": "Eso describe una carga voluminosa (Factor > 1), como el algod\u00f3n."
+        },
+        {
+          "text": "Alcanza el l\u00edmite de peso estructural mucho antes de llenar el espacio f\u00edsico",
+          "isCorrect": true,
+          "rationale": "Las cargas densas 'hunden' el barco hasta su l\u00edmite permitido de seguridad antes de que el espacio visual se agote."
+        },
+        {
+          "text": "Requiere obligatoriamente el uso de contenedores de 40 pies",
+          "isCorrect": false,
+          "rationale": "El factor de estiva es una propiedad de la mercanc\u00eda, no una imposici\u00f3n del tama\u00f1o del contenedor."
+        },
+        {
+          "text": "Se considera carga 'muerta' y no paga flete",
+          "isCorrect": false,
+          "rationale": "Toda carga comercial paga flete; el factor simplemente define bajo qu\u00e9 m\u00e9trica se calcula el cobro."
+        }
+      ],
+      "hint": "Piense en materiales como barras de acero o lingotes de plomo."
+    },
+    {
+      "question": "En una exportaci\u00f3n de calzado con un volumen de $327.6 \\text{ m}^3$ y un peso redondeado de $26 \\text{ toneladas}$, \u00bfcu\u00e1l es el factor de estiva resultante?",
+      "answerOptions": [
+        {
+          "text": "$0.079$",
+          "isCorrect": false,
+          "rationale": "Este resultado vendr\u00eda de dividir peso entre volumen, lo cual es incorrecto para el factor de estiva."
+        },
+        {
+          "text": "$12.6$",
+          "isCorrect": true,
+          "rationale": "Al dividir $327.6$ entre $26$, obtenemos un factor de $12.6$, lo que implica un cobro por volumen."
+        },
+        {
+          "text": "$8,517.6$",
+          "isCorrect": false,
+          "rationale": "Este valor es el resultado de multiplicar ambos datos, lo cual no tiene sentido en el c\u00e1lculo log\u00edstico de densidad."
+        },
+        {
+          "text": "$1.0$",
+          "isCorrect": false,
+          "rationale": "Un factor de 1.0 significar\u00eda que el peso y el volumen est\u00e1n en perfecto equilibrio, lo cual no ocurre en este ejercicio."
+        }
+      ],
+      "hint": "Aplique la divisi\u00f3n de los metros c\u00fabicos entre las toneladas."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el experto humano sigue siendo indispensable frente a herramientas de Inteligencia Artificial en la gesti\u00f3n log\u00edstica?",
+      "answerOptions": [
+        {
+          "text": "Porque la IA no puede realizar c\u00e1lculos matem\u00e1ticos",
+          "isCorrect": false,
+          "rationale": "La IA es extremadamente r\u00e1pida y precisa en c\u00e1lculos, superando usualmente al humano en velocidad."
+        },
+        {
+          "text": "Debido a la responsabilidad legal y la interpretaci\u00f3n de normativas complejas",
+          "isCorrect": true,
+          "rationale": "El experto humano ejerce la auditor\u00eda final para evitar errores de interpretaci\u00f3n de leyes aduaneras que podr\u00edan causar multas millonarias."
+        },
+        {
+          "text": "Porque la IA no tiene acceso a las tarifas de las navieras",
+          "isCorrect": false,
+          "rationale": "La IA puede integrarse con bases de datos; el problema radica en la interpretaci\u00f3n de ambig\u00fcedades, no en el acceso a datos."
+        },
+        {
+          "text": "Porque el transporte mar\u00edtimo proh\u00edbe el uso de algoritmos",
+          "isCorrect": false,
+          "rationale": "No hay tal prohibici\u00f3n; al contrario, se fomenta la tecnolog\u00eda, pero siempre bajo supervisi\u00f3n humana profesional."
+        }
+      ],
+      "hint": "Piense en qui\u00e9n firma los documentos y asume las consecuencias ante la ley."
+    },
+    {
+      "question": "Seg\u00fan el panorama actual de concentraci\u00f3n de mercado, \u00bfqu\u00e9 naviera lidera la capacidad mundial con m\u00e1s del 20% de participaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Maersk",
+          "isCorrect": false,
+          "rationale": "Aunque es un gigante, Maersk le sigue los talones a la empresa l\u00edder en capacidad actual."
+        },
+        {
+          "text": "MSC",
+          "isCorrect": true,
+          "rationale": "MSC se sit\u00faa a la cabeza del mercado con un dominio superior al 20% del pastel log\u00edstico global."
+        },
+        {
+          "text": "Cosco",
+          "isCorrect": false,
+          "rationale": "Cosco es una de las principales, pero no ocupa el primer lugar en capacidad de TEUs actualmente."
+        },
+        {
+          "text": "Hapag-Lloyd",
+          "isCorrect": false,
+          "rationale": "Hapag-Lloyd forma parte del oligopolio dominante, pero su participaci\u00f3n es menor a la de MSC."
+        }
+      ],
+      "hint": "Sus siglas corresponden a Mediterranean Shipping Company."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo estrat\u00e9gico primordial de dominar la gesti\u00f3n de los fletes internacionales?",
+      "answerOptions": [
+        {
+          "text": "Aumentar el tama\u00f1o f\u00edsico de los buques",
+          "isCorrect": false,
+          "rationale": "El tama\u00f1o de los buques es una decisi\u00f3n de ingenier\u00eda y astilleros, no de gesti\u00f3n operativa de carga."
+        },
+        {
+          "text": "Dictar la competitividad exterior y optimizar la estructura de costos corporativa",
+          "isCorrect": true,
+          "rationale": "Una gesti\u00f3n inteligente de fletes permite mejores m\u00e1rgenes de rentabilidad y una respuesta eficiente a la demanda global."
+        },
+        {
+          "text": "Eliminar por completo la necesidad de agentes de aduana",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de fletes no sustituye a los agentes aduaneros; son funciones complementarias en la cadena de suministro."
+        },
+        {
+          "text": "Sustituir el transporte mar\u00edtimo por el a\u00e9reo",
+          "isCorrect": false,
+          "rationale": "El objetivo es hacer el transporte mar\u00edtimo m\u00e1s eficiente, no abandonarlo por modalidades m\u00e1s costosas."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el transporte influye en el precio final del producto y en el \u00e9xito del negocio."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Estructura del Mercado Mar\u00edtimo",
+      "Unidades de Medida y Capacidad (TEU)",
+      "Reg\u00edmenes de Transporte y Contratos Mar\u00edtimos",
+      "T\u00e9rminos de L\u00ednea (Liner Terms)",
+      "Recargos Operativos en el Flete",
+      "Geopol\u00edtica y Factores Ambientales en Log\u00edstica",
+      "C\u00e1lculo T\u00e9cnico del Factor de Estiva",
+      "Gesti\u00f3n Estrat\u00e9gica y Auditor\u00eda Humana"
+    ],
+    "followUp": [
+      "Incoterms Aplicados al Transporte Mar\u00edtimo",
+      "Legislaci\u00f3n y Convenios Internacionales de Navegaci\u00f3n",
+      "Gesti\u00f3n de Riesgos y Seguros de Carga",
+      "Optimizaci\u00f3n de la Cadena de Suministro Global",
+      "Tecnolog\u00edas Emergentes en la Gesti\u00f3n Portuaria"
+    ]
+  }
+}

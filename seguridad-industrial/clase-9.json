@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n primordial del Sistema de Evaluaci\u00f3n de Impacto Ambiental (SEIA) en el marco legal?",
+      "answerOptions": [
+        {
+          "text": "Actuar como un mecanismo preventivo y transversal para asegurar inversiones sostenibles.",
+          "isCorrect": true,
+          "rationale": "El sistema busca identificar, evaluar y mitigar riesgos ambientales antes del inicio de la ejecuci\u00f3n del proyecto."
+        },
+        {
+          "text": "Funcionar como un registro contable de los pasivos ambientales generados por la industria.",
+          "isCorrect": false,
+          "rationale": "Su enfoque es preventivo antes de la inversi\u00f3n, no simplemente un registro de da\u00f1os ya ocurridos."
+        },
+        {
+          "text": "Servir como un cat\u00e1logo de sanciones econ\u00f3micas para empresas infractoras.",
+          "isCorrect": false,
+          "rationale": "Aunque existen sanciones, el SEIA es una herramienta de gesti\u00f3n y certificaci\u00f3n, no un c\u00f3digo punitivo."
+        },
+        {
+          "text": "Operar como un tr\u00e1mite burocr\u00e1tico opcional para proyectos de peque\u00f1a escala.",
+          "isCorrect": false,
+          "rationale": "La certificaci\u00f3n es obligatoria para cualquier proyecto que pueda generar impactos negativos significativos."
+        }
+      ],
+      "hint": "Considere si el sistema act\u00faa antes o despu\u00e9s de que se inicie la construcci\u00f3n de un proyecto."
+    },
+    {
+      "question": "\u00bfQu\u00e9 categor\u00eda corresponde a un Estudio de Impacto Ambiental Detallado (EIA-d) para proyectos con impactos significativos?",
+      "answerOptions": [
+        {
+          "text": "Categor\u00eda 1",
+          "isCorrect": false,
+          "rationale": "La categor\u00eda 1 se refiere a la Declaraci\u00f3n de Impacto Ambiental (DIA) para impactos leves."
+        },
+        {
+          "text": "Categor\u00eda 2",
+          "isCorrect": false,
+          "rationale": "La categor\u00eda 2 corresponde al estudio semidetallado para impactos moderados."
+        },
+        {
+          "text": "Categor\u00eda 3",
+          "isCorrect": true,
+          "rationale": "Los proyectos de gran envergadura con impactos ambientales significativos requieren el an\u00e1lisis multidisciplinario de la categor\u00eda 3."
+        },
+        {
+          "text": "Categor\u00eda 4",
+          "isCorrect": false,
+          "rationale": "La normativa vigente solo contempla tres categor\u00edas fundamentales de estudios ambientales."
+        }
+      ],
+      "hint": "Es el nivel m\u00e1s complejo de an\u00e1lisis exigido por la normativa."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se utiliza la Evaluaci\u00f3n Ambiental Preliminar (EVAP) en el proceso de certificaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Para clasificar proyectos nuevos o disruptivos que no figuran en las listas preestablecidas.",
+          "isCorrect": true,
+          "rationale": "Permite a la autoridad asignar una categor\u00eda t\u00e9cnica basada en evidencia cient\u00edfica cuando el proyecto es innovador."
+        },
+        {
+          "text": "Para exonerar a las industrias tecnol\u00f3gicas de presentar estudios de impacto ambiental.",
+          "isCorrect": false,
+          "rationale": "Ning\u00fan proyecto con impacto negativo potencial queda exonerado; la EVAP es una herramienta de clasificaci\u00f3n."
+        },
+        {
+          "text": "Para realizar el cierre definitivo de una operaci\u00f3n minera o industrial.",
+          "isCorrect": false,
+          "rationale": "El cierre de operaciones se gestiona mediante un Plan de Cierre, no a trav\u00e9s de una evaluaci\u00f3n preliminar."
+        },
+        {
+          "text": "Para reemplazar la l\u00ednea de base hidrol\u00f3gica en zonas de escasa lluvia.",
+          "isCorrect": false,
+          "rationale": "La l\u00ednea de base es un componente del estudio, mientras que la EVAP es un instrumento de categorizaci\u00f3n inicial."
+        }
+      ],
+      "hint": "Piense en situaciones donde una industria innovadora no encaja en los sectores tradicionales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo de considerar la estacionalidad en el levantamiento de la l\u00ednea de base?",
+      "answerOptions": [
+        {
+          "text": "Contrastar datos entre la \u00e9poca seca y la \u00e9poca de lluvias para validar modelos de dispersi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Ignorar el pico hidrol\u00f3gico impide dise\u00f1ar infraestructuras seguras que soporten caudales m\u00e1ximos."
+        },
+        {
+          "text": "Reducir los costos de laboratorio al tomar muestras solo en los meses de verano.",
+          "isCorrect": false,
+          "rationale": "Tomar muestras de forma parcial invalida la rigurosidad cient\u00edfica del estudio y genera observaciones t\u00e9cnicas."
+        },
+        {
+          "text": "Evitar el contacto con las comunidades locales durante las temporadas de cosecha.",
+          "isCorrect": false,
+          "rationale": "La l\u00ednea de base es t\u00e9cnica y ambiental; el relacionamiento social sigue otros protocolos obligatorios."
+        },
+        {
+          "text": "Cumplir con un cronograma administrativo sin importar las variables meteorol\u00f3gicas.",
+          "isCorrect": false,
+          "rationale": "Las variables clim\u00e1ticas son determinantes para que el plan de manejo ambiental sea realista y efectivo."
+        }
+      ],
+      "hint": "Considere la diferencia de caudal en los r\u00edos durante agosto frente a febrero."
+    },
+    {
+      "question": "En el contexto de la consultor\u00eda ambiental, \u00bfqu\u00e9 significa el t\u00e9rmino \u00e9ticamente incorrecto de 'planchar' un estudio?",
+      "answerOptions": [
+        {
+          "text": "Copiar y pegar informaci\u00f3n de otros estudios sin considerar la realidad local del proyecto.",
+          "isCorrect": true,
+          "rationale": "Ignorar la topograf\u00eda o el clima espec\u00edfico de la zona invalida los planes de manejo y es causal de rechazo."
+        },
+        {
+          "text": "Realizar un an\u00e1lisis exhaustivo de los balances de materia y energ\u00eda.",
+          "isCorrect": false,
+          "rationale": "El balance de materia es un requisito t\u00e9cnico riguroso, no una mala pr\u00e1ctica \u00e9tica."
+        },
+        {
+          "text": "Digitalizar planos f\u00edsicos utilizando software de georreferenciaci\u00f3n satelital.",
+          "isCorrect": false,
+          "rationale": "La digitalizaci\u00f3n y el uso de archivos KMZ son requisitos modernos obligatorios del sistema."
+        },
+        {
+          "text": "Presentar el estudio de impacto ambiental antes de la fecha l\u00edmite establecida.",
+          "isCorrect": false,
+          "rationale": "El cumplimiento de plazos es una buena pr\u00e1ctica administrativa, no una falta \u00e9tica."
+        }
+      ],
+      "hint": "Se relaciona con la falta de originalidad y la aplicaci\u00f3n forzada de datos ajenos."
+    },
+    {
+      "question": "Al evaluar emisiones atmosf\u00e9ricas, \u00bfqu\u00e9 metodolog\u00eda se recomienda cuando no existen datos locales espec\u00edficos?",
+      "answerOptions": [
+        {
+          "text": "Aplicar factores de emisi\u00f3n reconocidos internacionalmente, como los de la EPA de EE. UU.",
+          "isCorrect": true,
+          "rationale": "Estos factores proporcionan un respaldo cient\u00edfico robusto que es dif\u00edcil de refutar por la autoridad."
+        },
+        {
+          "text": "Utilizar promedios estimados por el personal operativo de la planta.",
+          "isCorrect": false,
+          "rationale": "Las estimaciones subjetivas carecen de la precisi\u00f3n milim\u00e9trica requerida en los balances de materia."
+        },
+        {
+          "text": "Omitir el c\u00e1lculo de fuentes m\u00f3viles como camiones y maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "Es obligatorio diferenciar y calcular tanto las fuentes fijas como las m\u00f3viles en el estudio."
+        },
+        {
+          "text": "Declarar que las emisiones son nulas bas\u00e1ndose \u00fanicamente en el dise\u00f1o te\u00f3rico.",
+          "isCorrect": false,
+          "rationale": "Toda actividad industrial genera emisiones que deben ser mapeadas y mitigadas t\u00e9cnicamente."
+        }
+      ],
+      "hint": "Piense en una fuente de referencia cient\u00edfica global para est\u00e1ndares ambientales."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la recirculaci\u00f3n de agua al $100\\%$ suele ser un ideal inalcanzable en la operaci\u00f3n real de megaproyectos?",
+      "answerOptions": [
+        {
+          "text": "Debido a la acumulaci\u00f3n progresiva de metales pesados y reactivos t\u00f3xicos que obligan a purgar el sistema.",
+          "isCorrect": true,
+          "rationale": "La f\u00edsica y qu\u00edmica b\u00e1sica exigen inyectar agua fresca para diluir la carga contaminante y mantener la eficiencia."
+        },
+        {
+          "text": "Porque el Estado proh\u00edbe el uso de circuitos cerrados para evitar el ahorro excesivo de agua.",
+          "isCorrect": false,
+          "rationale": "El Estado fomenta la sostenibilidad, pero exige balances h\u00eddricos realistas que prevean vertimientos controlados."
+        },
+        {
+          "text": "Debido a que el agua se evapora instant\u00e1neamente al entrar en contacto con la maquinaria.",
+          "isCorrect": false,
+          "rationale": "Si bien hay evaporaci\u00f3n, el problema t\u00e9cnico principal es la saturaci\u00f3n qu\u00edmica del recurso recirculado."
+        },
+        {
+          "text": "Porque no existen bombas con la potencia suficiente para mover el agua indefinidamente.",
+          "isCorrect": false,
+          "rationale": "El reto no es mec\u00e1nico o de bombeo, sino de la calidad qu\u00edmica del agua tras m\u00faltiples ciclos."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede con la concentraci\u00f3n de sustancias qu\u00edmicas despu\u00e9s de dar muchas vueltas en un sistema."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la estabilidad geoqu\u00edmica dentro de la 'triple corona' de un Plan de Cierre?",
+      "answerOptions": [
+        {
+          "text": "Prevenir el drenaje \u00e1cido de roca mediante el uso de recubrimientos impermeables.",
+          "isCorrect": true,
+          "rationale": "Busca evitar que reacciones qu\u00edmicas generen lixiviados contaminantes a perpetuidad tras el cierre."
+        },
+        {
+          "text": "Garantizar que los taludes y banquetas no sufran derrumbes f\u00edsicos.",
+          "isCorrect": false,
+          "rationale": "El dise\u00f1o de taludes para evitar derrumbes corresponde a la estabilidad f\u00edsica, no geoqu\u00edmica."
+        },
+        {
+          "text": "Construir canales de coronaci\u00f3n para desviar el agua de lluvia limpia.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n del agua de lluvia superficial es parte de la estabilidad hidrol\u00f3gica."
+        },
+        {
+          "text": "Asegurar que el valor de las acciones de la empresa no caiga al finalizar el proyecto.",
+          "isCorrect": false,
+          "rationale": "La estabilidad geoqu\u00edmica es un concepto ambiental y t\u00e9cnico, no financiero o burs\u00e1til."
+        }
+      ],
+      "hint": "Se enfoca en evitar reacciones qu\u00edmicas nocivas en los restos de roca del proyecto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la entidad t\u00e9cnico-especializada responsable de evaluar los Estudios de Impacto Ambiental detallados (EIA-d)?",
+      "answerOptions": [
+        {
+          "text": "SENACE",
+          "isCorrect": true,
+          "rationale": "Es el organismo centralizado que eval\u00faa los proyectos de mayor impacto para garantizar objetividad t\u00e9cnica."
+        },
+        {
+          "text": "Ministerio del Ambiente (MINAM)",
+          "isCorrect": false,
+          "rationale": "El MINAM act\u00faa como ente rector de la pol\u00edtica general, pero no realiza la evaluaci\u00f3n t\u00e9cnica directa."
+        },
+        {
+          "text": "OEFA",
+          "isCorrect": false,
+          "rationale": "El OEFA se encarga de la fiscalizaci\u00f3n y supervisi\u00f3n una vez otorgada la certificaci\u00f3n, no de la evaluaci\u00f3n previa."
+        },
+        {
+          "text": "Gobiernos Regionales",
+          "isCorrect": false,
+          "rationale": "Los gobiernos regionales suelen evaluar proyectos de menor impacto (Categor\u00eda 1 y 2) seg\u00fan su competencia."
+        }
+      ],
+      "hint": "Sus siglas representan al Servicio Nacional de Certificaci\u00f3n Ambiental para las Inversiones Sostenibles."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica que una opini\u00f3n t\u00e9cnica de la Autoridad Nacional del Agua (ANA) sea 'vinculante'?",
+      "answerOptions": [
+        {
+          "text": "Que sin su aprobaci\u00f3n t\u00e9cnica favorable, no se puede emitir la certificaci\u00f3n ambiental.",
+          "isCorrect": true,
+          "rationale": "La entidad tiene un poder de veto t\u00e9cnico absoluto sobre el uso de recursos h\u00eddricos y vertimientos."
+        },
+        {
+          "text": "Que sus recomendaciones son solo sugerencias que el titular puede ignorar.",
+          "isCorrect": false,
+          "rationale": "Una opini\u00f3n vinculante tiene fuerza de ley y es de cumplimiento obligatorio para el proceso."
+        },
+        {
+          "text": "Que solo se aplica si el proyecto se encuentra en la costa del pa\u00eds.",
+          "isCorrect": false,
+          "rationale": "La competencia de la ANA es nacional y aplica a cualquier cuerpo de agua o vertimiento en todo el territorio."
+        },
+        {
+          "text": "Que el tr\u00e1mite debe realizarse necesariamente de forma f\u00edsica en sus oficinas.",
+          "isCorrect": false,
+          "rationale": "La naturaleza vinculante se refiere al peso legal de la decisi\u00f3n, no al formato de presentaci\u00f3n del tr\u00e1mite."
+        }
+      ],
+      "hint": "Reflexione sobre el poder de veto que tiene una instituci\u00f3n sobre el resultado final de un tr\u00e1mite."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tipo de archivos digitales son esenciales para la georreferenciaci\u00f3n satelital milim\u00e9trica de un proyecto?",
+      "answerOptions": [
+        {
+          "text": "Archivos KMZ o KML",
+          "isCorrect": true,
+          "rationale": "Permiten ubicar cada componente del proyecto con precisi\u00f3n espacial, evitando errores de coordenadas."
+        },
+        {
+          "text": "Documentos de texto en formato .docx",
+          "isCorrect": false,
+          "rationale": "Los documentos de texto no poseen las capacidades de datos espaciales necesarias para la georreferenciaci\u00f3n."
+        },
+        {
+          "text": "Presentaciones en diapositivas",
+          "isCorrect": false,
+          "rationale": "Las presentaciones se usan para exposiciones, no para la carga t\u00e9cnica de coordenadas en el sistema."
+        },
+        {
+          "text": "Archivos de audio de las entrevistas sociales",
+          "isCorrect": false,
+          "rationale": "Aunque forman parte del registro, no son los archivos que definen la ubicaci\u00f3n t\u00e9cnica de los componentes."
+        }
+      ],
+      "hint": "Son formatos com\u00fanmente utilizados en aplicaciones como Google Earth."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el hito principal que establece el Decreto Supremo 013-2024-MINAM a partir de enero de 2025?",
+      "answerOptions": [
+        {
+          "text": "La implementaci\u00f3n del procedimiento \u00fanico de certificaci\u00f3n ambiental para estandarizar procesos.",
+          "isCorrect": true,
+          "rationale": "Busca optimizar plazos y brindar predictibilidad a las inversiones a nivel nacional."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de los estudios de impacto ambiental para proyectos mineros.",
+          "isCorrect": false,
+          "rationale": "La normativa busca modernizar y agilizar el proceso, no eliminar la exigencia ambiental."
+        },
+        {
+          "text": "La prohibici\u00f3n de usar herramientas digitales en la mesa de partes.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el sistema avanza hacia una digitalizaci\u00f3n total obligatoria."
+        },
+        {
+          "text": "La transferencia de todas las competencias de evaluaci\u00f3n a las municipalidades distritales.",
+          "isCorrect": false,
+          "rationale": "La tendencia es hacia la centralizaci\u00f3n t\u00e9cnica especializada en organismos como el SENACE."
+        }
+      ],
+      "hint": "Se enfoca en la creaci\u00f3n de un camino administrativo estandarizado y \u00fanico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 facultad otorga el 'principio precautorio' al organismo fiscalizador (OEFA)?",
+      "answerOptions": [
+        {
+          "text": "Imponer medidas preventivas ante riesgos de da\u00f1o irreversible, aunque no est\u00e9n detallados en el estudio original.",
+          "isCorrect": true,
+          "rationale": "Permite actuar proactivamente para prevenir desastres ambientales bas\u00e1ndose en el riesgo potencial."
+        },
+        {
+          "text": "Cobrar multas arbitrarias sin necesidad de realizar una inspecci\u00f3n de campo.",
+          "isCorrect": false,
+          "rationale": "La fiscalizaci\u00f3n debe ser t\u00e9cnica y motivada; el principio precautorio no justifica la arbitrariedad."
+        },
+        {
+          "text": "Exigir que la empresa contrate \u00fanicamente personal local para sus operaciones.",
+          "isCorrect": false,
+          "rationale": "El principio precautorio se enfoca en la protecci\u00f3n ambiental ante la incertidumbre cient\u00edfica del da\u00f1o."
+        },
+        {
+          "text": "Invalidar cualquier contrato comercial privado de la empresa titular.",
+          "isCorrect": false,
+          "rationale": "Su alcance es estrictamente ambiental y se limita a la prevenci\u00f3n de da\u00f1os al ecosistema."
+        }
+      ],
+      "hint": "Considere la acci\u00f3n de la autoridad ante una amenaza ambiental no prevista expl\u00edcitamente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede legalmente con las promesas voluntarias hechas por un titular en una audiencia p\u00fablica?",
+      "answerOptions": [
+        {
+          "text": "Se convierten en obligaciones ambientales fiscalizables por el OEFA.",
+          "isCorrect": true,
+          "rationale": "Al incorporarse a la resoluci\u00f3n de certificaci\u00f3n, pasan de ser buenas intenciones a compromisos legales vinculantes."
+        },
+        {
+          "text": "Permanecen como simples actos de buena voluntad sin valor legal.",
+          "isCorrect": false,
+          "rationale": "El nuevo paradigma de responsabilidad social integra estos compromisos al marco legal del proyecto."
+        },
+        {
+          "text": "Solo son exigibles si la comunidad presenta una demanda judicial adicional.",
+          "isCorrect": false,
+          "rationale": "La fiscalizaci\u00f3n del OEFA es directa y autom\u00e1tica sobre los compromisos de la resoluci\u00f3n."
+        },
+        {
+          "text": "Expiran autom\u00e1ticamente al cabo de un a\u00f1o de iniciada la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los compromisos sociales y ambientales tienen vigencia durante la vida del instrumento ambiental."
+        }
+      ],
+      "hint": "Piense en si estos ofrecimientos se quedan en palabras o adquieren fuerza de ley."
+    },
+    {
+      "question": "\u00bfCon qu\u00e9 frecuencia es obligatoria la actualizaci\u00f3n del estudio ambiental para reflejar cambios en la l\u00ednea de base?",
+      "answerOptions": [
+        {
+          "text": "Cada 5 a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Esta actualizaci\u00f3n asegura que el instrumento se adapte a las alteraciones naturales o sociales del entorno."
+        },
+        {
+          "text": "Cada 10 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "El plazo de 10 a\u00f1os es excesivo para capturar cambios din\u00e1micos en ecosistemas fr\u00e1giles."
+        },
+        {
+          "text": "Solo cuando el precio internacional de los metales sube.",
+          "isCorrect": false,
+          "rationale": "La actualizaci\u00f3n es un requisito legal t\u00e9cnico independiente de las variables del mercado financiero."
+        },
+        {
+          "text": "Al finalizar completamente la vida \u00fatil del proyecto.",
+          "isCorrect": false,
+          "rationale": "Al final del proyecto se aplica el Plan de Cierre; la actualizaci\u00f3n ocurre durante la etapa operativa."
+        }
+      ],
+      "hint": "Es un periodo quinquenal establecido para mantener vivo el instrumento de gesti\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 instrumento se debe utilizar para realizar modificaciones menores que no generan impactos significativos adicionales?",
+      "answerOptions": [
+        {
+          "text": "Informe T\u00e9cnico Sustentatorio (ITS)",
+          "isCorrect": true,
+          "rationale": "Permite agilizar cambios peque\u00f1os en el dise\u00f1o sin necesidad de modificar todo el estudio de impacto ambiental."
+        },
+        {
+          "text": "Modificaci\u00f3n del Estudio de Impacto Ambiental (MEIA)",
+          "isCorrect": false,
+          "rationale": "La MEIA se reserva para cambios sustanciales que s\u00ed alteran significativamente el impacto ambiental."
+        },
+        {
+          "text": "Declaraci\u00f3n Jurada de la Gerencia General",
+          "isCorrect": false,
+          "rationale": "Cualquier modificaci\u00f3n requiere un sustento t\u00e9cnico evaluado por la autoridad, no solo una declaraci\u00f3n."
+        },
+        {
+          "text": "Nuevo contrato de concesi\u00f3n",
+          "isCorrect": false,
+          "rationale": "Los temas contractuales de concesi\u00f3n son distintos a los instrumentos de gesti\u00f3n ambiental t\u00e9cnica."
+        }
+      ],
+      "hint": "Son las siglas de un informe \u00e1gil para cambios de bajo impacto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un requisito fundamental para el c\u00e1lculo preciso de contaminantes gaseosos como el $SO_{2}$ y el $NO_{x}$?",
+      "answerOptions": [
+        {
+          "text": "Realizar balances de materia y energ\u00eda superestrictos.",
+          "isCorrect": true,
+          "rationale": "La precisi\u00f3n milim\u00e9trica en estos c\u00e1lculos es necesaria para determinar el impacto real en la calidad del aire."
+        },
+        {
+          "text": "Observar visualmente el color del humo saliendo de las chimeneas.",
+          "isCorrect": false,
+          "rationale": "La observaci\u00f3n visual es subjetiva y no reemplaza los m\u00e9todos cuantitativos cient\u00edficos requeridos."
+        },
+        {
+          "text": "Contar el n\u00famero de \u00e1rboles alrededor de la planta industrial.",
+          "isCorrect": false,
+          "rationale": "Aunque la flora es parte de la l\u00ednea de base, no define el c\u00e1lculo de emisiones de gases de combusti\u00f3n."
+        },
+        {
+          "text": "Multiplicar el \u00e1rea del terreno por el n\u00famero de trabajadores.",
+          "isCorrect": false,
+          "rationale": "Esa operaci\u00f3n no tiene relaci\u00f3n t\u00e9cnica con la generaci\u00f3n de contaminantes atmosf\u00e9ricos."
+        }
+      ],
+      "hint": "Se basa en la ley de conservaci\u00f3n de la masa aplicada a los insumos y productos del proceso."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 pilar de protecci\u00f3n corresponde el blindaje del patrimonio arqueol\u00f3gico a trav\u00e9s del Certificado de Inexistencia de Restos Arqueol\u00f3gicos (CIRA)?",
+      "answerOptions": [
+        {
+          "text": "Componente social y cultural.",
+          "isCorrect": true,
+          "rationale": "El sistema exige el respeto absoluto por el patrimonio hist\u00f3rico y las costumbres de las comunidades."
+        },
+        {
+          "text": "Calidad ambiental del aire.",
+          "isCorrect": false,
+          "rationale": "La protecci\u00f3n de restos arqueol\u00f3gicos no influye en la medici\u00f3n de material particulado o gases."
+        },
+        {
+          "text": "Diversidad biol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "La diversidad biol\u00f3gica se enfoca en flora y fauna, no en monumentos o restos hist\u00f3ricos."
+        },
+        {
+          "text": "Estabilidad hidrol\u00f3gica del cierre.",
+          "isCorrect": false,
+          "rationale": "La estabilidad hidrol\u00f3gica trata sobre el manejo de aguas de lluvia tras finalizar la operaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en la protecci\u00f3n de la herencia hist\u00f3rica y la cultura de un pa\u00eds."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia al modelo de gesti\u00f3n ambiental actual del modelo anterior en el Per\u00fa?",
+      "answerOptions": [
+        {
+          "text": "La separaci\u00f3n entre el ente que dicta la pol\u00edtica y el organismo especializado que eval\u00faa t\u00e9cnicamente.",
+          "isCorrect": true,
+          "rationale": "Elimina el conflicto de intereses donde cada sector era 'juez y parte' de sus propios proyectos."
+        },
+        {
+          "text": "La obligaci\u00f3n de presentar todos los estudios en formato papel peri\u00f3dico.",
+          "isCorrect": false,
+          "rationale": "El modelo actual exige formatos digitales avanzados y estructurados como el PDF y AutoCAD."
+        },
+        {
+          "text": "La eliminaci\u00f3n de la participaci\u00f3n ciudadana para acelerar los plazos.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el modelo actual refuerza la participaci\u00f3n ciudadana como un requisito legal ineludible."
+        },
+        {
+          "text": "La ausencia de fiscalizaci\u00f3n tras la entrega de la certificaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La fiscalizaci\u00f3n por parte del OEFA es ahora m\u00e1s rigurosa e implacable en el campo."
+        }
+      ],
+      "hint": "Enfoque su respuesta en la eliminaci\u00f3n del sesgo de ser 'juez y parte'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de los canales de coronaci\u00f3n en un escenario de cierre de proyecto?",
+      "answerOptions": [
+        {
+          "text": "Garantizar que el agua de lluvia limpia no entre en contacto con los pasivos ambientales.",
+          "isCorrect": true,
+          "rationale": "Es una medida de estabilidad hidrol\u00f3gica para prevenir la contaminaci\u00f3n de aguas superficiales."
+        },
+        {
+          "text": "Aumentar la presi\u00f3n de agua para las turbinas de generaci\u00f3n el\u00e9ctrica.",
+          "isCorrect": false,
+          "rationale": "En la etapa de cierre, la infraestructura busca remediar el \u00e1rea, no generar energ\u00eda comercial."
+        },
+        {
+          "text": "Servir como piscinas de crianza de peces para la comunidad local.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n es t\u00e9cnica y de drenaje pluvial preventivo, no productiva o recreativa."
+        },
+        {
+          "text": "Decorar los taludes para mejorar el aspecto visual del \u00e1rea remediada.",
+          "isCorrect": false,
+          "rationale": "La estabilidad hidrol\u00f3gica es una exigencia de seguridad ambiental, no una preferencia est\u00e9tica."
+        }
+      ],
+      "hint": "Considere el manejo de las aguas pluviales para evitar que se contaminen."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Sistema de Evaluaci\u00f3n de Impacto Ambiental (SEIA)",
+      "Categorizaci\u00f3n de proyectos y EVAP",
+      "L\u00ednea de base y estacionalidad hidrol\u00f3gica",
+      "Balances de materia y emisiones atmosf\u00e9ricas",
+      "Plan de Cierre y estabilidad t\u00e9cnica",
+      "Marco institucional: SENACE, ANA, OEFA",
+      "Participaci\u00f3n ciudadana y compromisos legales"
+    ],
+    "followUp": [
+      "Procedimientos de actualizaci\u00f3n y modificaci\u00f3n de instrumentos ambientales",
+      "Gesti\u00f3n de riesgos qu\u00edmicos en circuitos cerrados de agua",
+      "Estandarizaci\u00f3n administrativa bajo el Decreto Supremo 013-2024-MINAM",
+      "Metodolog\u00edas internacionales para factores de emisi\u00f3n de la EPA"
+    ]
+  }
+}

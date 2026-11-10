@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito fundamental de la evoluci\u00f3n de los sistemas HSEQ hacia una cultura de alto desempe\u00f1o?",
+      "answerOptions": [
+        {
+          "text": "Mantener una ventaja competitiva mediante una gesti\u00f3n estrat\u00e9gica y proactiva.",
+          "isCorrect": true,
+          "rationale": "La transici\u00f3n de una gesti\u00f3n reactiva a una cultura de alto desempe\u00f1o se considera un imperativo estrat\u00e9gico para la competitividad organizacional."
+        },
+        {
+          "text": "Cumplir \u00fanicamente con los requisitos m\u00ednimos de las auditor\u00edas externas.",
+          "isCorrect": false,
+          "rationale": "El enfoque moderno busca trascender el simple cumplimiento normativo para generar valor estrat\u00e9gico real."
+        },
+        {
+          "text": "Aislar los departamentos de seguridad para que operen de forma independiente.",
+          "isCorrect": false,
+          "rationale": "Los sistemas HSEQ deben funcionar como una red interconectada, no como silos aislados."
+        },
+        {
+          "text": "Reducir los costos operativos eliminando los procesos de verificaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La optimizaci\u00f3n de recursos se logra mediante el ciclo de mejora, no eliminando controles vitales."
+        }
+      ],
+      "hint": "Considere la transici\u00f3n de la reacci\u00f3n a la proactividad estrat\u00e9gica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta se utiliza como br\u00fajula para mitigar incertidumbres y optimizar recursos en la estructuraci\u00f3n de procesos?",
+      "answerOptions": [
+        {
+          "text": "El ciclo Planificar, Hacer, Verificar y Actuar.",
+          "isCorrect": true,
+          "rationale": "Este ciclo metodol\u00f3gico permite transformar datos crudos en decisiones de alto impacto y guiar la mejora continua."
+        },
+        {
+          "text": "La jerarqu\u00eda de mando tradicional de la organizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque la estructura es importante, el marco metodol\u00f3gico para gestionar la incertidumbre es el ciclo de mejora continua."
+        },
+        {
+          "text": "El uso exclusivo de comunicaci\u00f3n por redes sociales.",
+          "isCorrect": false,
+          "rationale": "La comunicaci\u00f3n informal se identifica como una fuente de caos y riesgo sist\u00e9mico, no como una br\u00fajula de optimizaci\u00f3n."
+        },
+        {
+          "text": "La eliminaci\u00f3n de m\u00e9tricas de desempe\u00f1o para agilizar el flujo.",
+          "isCorrect": false,
+          "rationale": "Sin m\u00e9tricas, el sistema queda a merced de la improvisaci\u00f3n, lo cual es contrario a la optimizaci\u00f3n."
+        }
+      ],
+      "hint": "Se trata de un ciclo est\u00e1ndar de gesti\u00f3n de calidad y mejora continua."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede cuando una organizaci\u00f3n carece de una caracterizaci\u00f3n operativa rigurosa?",
+      "answerOptions": [
+        {
+          "text": "El sistema de gesti\u00f3n queda vulnerable a la improvisaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Sin fronteras claras para cada actividad, los procesos pierden trazabilidad y quedan expuestos al desorden operativo."
+        },
+        {
+          "text": "Aumenta la autonom\u00eda creativa de los t\u00e9cnicos operativos.",
+          "isCorrect": false,
+          "rationale": "En entornos de alto riesgo, la falta de estructura no es creatividad, sino un peligro sist\u00e9mico."
+        },
+        {
+          "text": "Se simplifica la labor de los entes fiscalizadores externos.",
+          "isCorrect": false,
+          "rationale": "La falta de estructura suele derivar en sanciones y dificultades con las autoridades de control."
+        },
+        {
+          "text": "Se optimiza el tiempo de respuesta ante solicitudes urgentes.",
+          "isCorrect": false,
+          "rationale": "La informalidad puede parecer r\u00e1pida al inicio, pero genera errores y retrabajos que retrasan la operaci\u00f3n real."
+        }
+      ],
+      "hint": "Piense en las consecuencias de no tener fronteras definidas en las actividades."
+    },
+    {
+      "question": "En el contexto de la gesti\u00f3n de equipos de protecci\u00f3n, \u00bfcu\u00e1l fue la causa ra\u00edz del $30\\%$ de fallas en la empresa Andes?",
+      "answerOptions": [
+        {
+          "text": "La dependencia de un modelo de comunicaci\u00f3n y solicitud informal.",
+          "isCorrect": true,
+          "rationale": "El uso de solicitudes verbales o por WhatsApp sin una matriz de necesidades estructurada impidi\u00f3 el control t\u00e9cnico."
+        },
+        {
+          "text": "La falta de presupuesto para adquirir nuevos arneses.",
+          "isCorrect": false,
+          "rationale": "El problema no era financiero, sino la falta de un sistema formal de requerimientos y registros."
+        },
+        {
+          "text": "La ausencia total de t\u00e9cnicos operativos en el sector minero.",
+          "isCorrect": false,
+          "rationale": "La empresa contaba con 180 t\u00e9cnicos; el problema radicaba en c\u00f3mo se gestionaba su seguridad."
+        },
+        {
+          "text": "El exceso de burocracia en el \u00e1rea de almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "Fue precisamente la falta de formalidad y procedimientos lo que caus\u00f3 el descontrol."
+        }
+      ],
+      "hint": "Recuerde el medio utilizado para solicitar los equipos vitales."
+    },
+    {
+      "question": "Dentro del modelo CPOC aplicado a la dotaci\u00f3n de equipos, \u00bfcu\u00e1l es la funci\u00f3n de la etapa de 'Actividades'?",
+      "answerOptions": [
+        {
+          "text": "Realizar una validaci\u00f3n t\u00e9cnica cruzando la solicitud con la matriz de necesidades.",
+          "isCorrect": true,
+          "rationale": "Esta etapa asegura que no se adivine el requerimiento, sino que se verifique t\u00e9cnicamente antes de la entrega."
+        },
+        {
+          "text": "Generar \u00fanicamente la orden de compra al proveedor externo.",
+          "isCorrect": false,
+          "rationale": "La validaci\u00f3n t\u00e9cnica es el n\u00facleo de la actividad para asegurar que el equipo sea el correcto."
+        },
+        {
+          "text": "Sustituir las fichas formales por mensajes de mensajer\u00eda instant\u00e1nea.",
+          "isCorrect": false,
+          "rationale": "El modelo busca eliminar la informalidad de los mensajes en favor de registros formales."
+        },
+        {
+          "text": "Evaluar el desempe\u00f1o financiero de la gerencia general.",
+          "isCorrect": false,
+          "rationale": "Aunque es importante, las actividades del CPOC operativo se centran en el flujo del proceso espec\u00edfico."
+        }
+      ],
+      "hint": "Piense en el paso donde se verifica que el equipo solicitado sea el adecuado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 requisito es indispensable para que la arquitectura de procesos no sea considerada 'letra muerta'?",
+      "answerOptions": [
+        {
+          "text": "Integrar m\u00e9tricas de medici\u00f3n claras y apegarse al marco legal.",
+          "isCorrect": true,
+          "rationale": "La medici\u00f3n del desempe\u00f1o y el cumplimiento normativo son los motores que dan vida y validez a los procesos dise\u00f1ados."
+        },
+        {
+          "text": "Dise\u00f1ar diagramas est\u00e9ticamente atractivos para las oficinas.",
+          "isCorrect": false,
+          "rationale": "La apariencia visual no garantiza la efectividad operativa si no hay datos y sustento legal."
+        },
+        {
+          "text": "Delegar toda la responsabilidad en los t\u00e9cnicos operativos de campo.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n es una construcci\u00f3n colectiva que requiere una arquitectura robusta dise\u00f1ada desde la gesti\u00f3n."
+        },
+        {
+          "text": "Evitar el uso de indicadores clave de desempe\u00f1o (KPIs).",
+          "isCorrect": false,
+          "rationale": "Sin KPIs, es imposible saber si el proceso est\u00e1 funcionando realmente."
+        }
+      ],
+      "hint": "Se refiere a lo que hace que el sistema 'funcione de verdad'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la utilidad real de consolidar la informaci\u00f3n obtenida de las hojas de verificaci\u00f3n en campo?",
+      "answerOptions": [
+        {
+          "text": "Detectar anomal\u00edas recurrentes antes de que ocurra un accidente grave.",
+          "isCorrect": true,
+          "rationale": "Transformar observaciones sueltas en una base de datos estad\u00edstica permite una prevenci\u00f3n predictiva."
+        },
+        {
+          "text": "Cumplir con el archivo de documentos para evitar multas administrativas.",
+          "isCorrect": false,
+          "rationale": "Ver los checklists solo como un papel para archivar es una visi\u00f3n limitada que no aprovecha el poder de los datos."
+        },
+        {
+          "text": "Sustituir la necesidad de realizar inspecciones f\u00edsicas peri\u00f3dicas.",
+          "isCorrect": false,
+          "rationale": "La consolidaci\u00f3n de datos nace precisamente de las inspecciones; no las reemplaza."
+        },
+        {
+          "text": "Reducir la carga de trabajo de los analistas de seguridad.",
+          "isCorrect": false,
+          "rationale": "La consolidaci\u00f3n requiere un an\u00e1lisis riguroso, aunque optimiza el enfoque hacia los problemas vitales."
+        }
+      ],
+      "hint": "Piense en la transici\u00f3n de datos sueltos a una base estad\u00edstica poderosa."
+    },
+    {
+      "question": "Seg\u00fan el an\u00e1lisis de Pareto, \u00bfqu\u00e9 proporci\u00f3n de las causas ra\u00edz suele originar el $80\\%$ de los incidentes?",
+      "answerOptions": [
+        {
+          "text": "Un $20\\%$ de las causas ra\u00edz, denominadas 'pocos vitales'.",
+          "isCorrect": true,
+          "rationale": "La regla universal sugiere que enfocarse en este peque\u00f1o porcentaje cr\u00edtico genera un retorno enorme en la estabilidad."
+        },
+        {
+          "text": "Un $50\\%$ de los factores ambientales externos.",
+          "isCorrect": false,
+          "rationale": "Pareto se enfoca en la distribuci\u00f3n desigual donde una minor\u00eda de causas genera la mayor\u00eda de efectos."
+        },
+        {
+          "text": "El $80\\%$ de las fallas humanas detectadas en campo.",
+          "isCorrect": false,
+          "rationale": "El principio indica que el $80\\%$ es el efecto, no la causa ra\u00edz."
+        },
+        {
+          "text": "La totalidad de los errores administrativos registrados.",
+          "isCorrect": false,
+          "rationale": "Pareto precisamente ayuda a priorizar, no a tratar todas las causas por igual."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n num\u00e9rica caracter\u00edstica de esta regla de priorizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 categor\u00eda de la matriz de las 6M se analiza cuando se detecta que el personal carece de formaci\u00f3n para manejar materiales peligrosos?",
+      "answerOptions": [
+        {
+          "text": "Mano de obra.",
+          "isCorrect": true,
+          "rationale": "Esta categor\u00eda engloba las competencias, capacitaci\u00f3n y habilidades del factor humano en el proceso."
+        },
+        {
+          "text": "Medio ambiente.",
+          "isCorrect": false,
+          "rationale": "El medio ambiente se refiere a las condiciones f\u00edsicas del entorno, como pisos o iluminaci\u00f3n."
+        },
+        {
+          "text": "Maquinaria.",
+          "isCorrect": false,
+          "rationale": "Maquinaria se centra en el estado y funcionamiento de las herramientas y equipos."
+        },
+        {
+          "text": "M\u00e9todos.",
+          "isCorrect": false,
+          "rationale": "M\u00e9todos se refiere a los procedimientos y formas establecidas de ejecutar las tareas."
+        }
+      ],
+      "hint": "Se refiere al componente humano y sus capacidades."
+    },
+    {
+      "question": "\u00bfQu\u00e9 indica la presencia de un comportamiento bimodal en un histograma de tiempos de atenci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Una falla sist\u00e9mica donde conviven grupos con niveles de capacitaci\u00f3n muy diferentes.",
+          "isCorrect": true,
+          "rationale": "Los dos picos de frecuencia sugieren que no hay estandarizaci\u00f3n, dividiendo la operaci\u00f3n entre expertos y personal nuevo."
+        },
+        {
+          "text": "Un proceso perfectamente estandarizado y bajo control estad\u00edstico.",
+          "isCorrect": false,
+          "rationale": "La estandarizaci\u00f3n suele mostrar un solo pico central (distribuci\u00f3n normal)."
+        },
+        {
+          "text": "La efectividad inmediata de las inversiones en capacitaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La bimodalidad muestra fragmentaci\u00f3n, no necesariamente efectividad de la inversi\u00f3n reciente."
+        },
+        {
+          "text": "Que el tiempo de atenci\u00f3n es id\u00e9ntico para todos los t\u00e9cnicos.",
+          "isCorrect": false,
+          "rationale": "Si fuera id\u00e9ntico, ver\u00edamos una sola barra muy alta, no dos picos separados."
+        }
+      ],
+      "hint": "Visualice dos picos de frecuencia distintos en el mismo gr\u00e1fico."
+    },
+    {
+      "question": "Al usar un diagrama de dispersi\u00f3n, \u00bfqu\u00e9 se busca demostrar para justificar inversiones en formaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Una correlaci\u00f3n negativa entre las horas de capacitaci\u00f3n y la tasa de errores.",
+          "isCorrect": true,
+          "rationale": "Al demostrar matem\u00e1ticamente que a mayor capacitaci\u00f3n hay menos errores, el argumento de inversi\u00f3n se vuelve imbatible."
+        },
+        {
+          "text": "Una correlaci\u00f3n positiva entre el ausentismo y los accidentes.",
+          "isCorrect": false,
+          "rationale": "Aunque pueda existir, no es el argumento principal para justificar gastos en formaci\u00f3n t\u00e9cnica."
+        },
+        {
+          "text": "La ausencia total de relaci\u00f3n entre variables operativas.",
+          "isCorrect": false,
+          "rationale": "Si no hay relaci\u00f3n, la capacitaci\u00f3n no tendr\u00eda un impacto medible que justifique su costo."
+        },
+        {
+          "text": "Un aumento proporcional de errores a medida que se entrena al personal.",
+          "isCorrect": false,
+          "rationale": "Eso indicar\u00eda que la capacitaci\u00f3n es contraproducente, lo opuesto a lo buscado."
+        }
+      ],
+      "hint": "Piense en la relaci\u00f3n inversa entre aprender m\u00e1s y equivocarse menos."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los tres componentes fundamentales que definen el marco de tolerancia en una gr\u00e1fica de control?",
+      "answerOptions": [
+        {
+          "text": "L\u00edmite superior, l\u00edmite inferior y media operativa.",
+          "isCorrect": true,
+          "rationale": "Estos tres elementos permiten monitorear si el sistema se mantiene dentro de la 'cancha' aceptable o requiere intervenci\u00f3n."
+        },
+        {
+          "text": "Causa ra\u00edz, efecto Pareto y an\u00e1lisis de 6M.",
+          "isCorrect": false,
+          "rationale": "Estos son m\u00e9todos de an\u00e1lisis, no los componentes estructurales de una gr\u00e1fica de control."
+        },
+        {
+          "text": "Entrada, actividad y salida del modelo CPOC.",
+          "isCorrect": false,
+          "rationale": "Estos pertenecen a la caracterizaci\u00f3n de procesos, no al control estad\u00edstico de variabilidad."
+        },
+        {
+          "text": "Sanciones legales, auditor\u00edas y multas.",
+          "isCorrect": false,
+          "rationale": "Estos son factores externos de control, no par\u00e1metros estad\u00edsticos internos del proceso."
+        }
+      ],
+      "hint": "Son las l\u00edneas horizontales que delimitan el comportamiento aceptable del proceso."
+    },
+    {
+      "question": "En el caso del aumento de ausentismo al $8\\%$, \u00bfpor qu\u00e9 fue crucial el an\u00e1lisis de datos antes de tomar medidas?",
+      "answerOptions": [
+        {
+          "text": "Permiti\u00f3 identificar que la causa era un conflicto social externo y no falta de voluntad.",
+          "isCorrect": true,
+          "rationale": "La estad\u00edstica evit\u00f3 medidas punitivas injustas y guio hacia una soluci\u00f3n estrat\u00e9gica como el transporte corporativo."
+        },
+        {
+          "text": "Sirvi\u00f3 para justificar el despido inmediato del personal inasistente.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis precisamente evit\u00f3 sanciones err\u00f3neas al entender el contexto real del problema."
+        },
+        {
+          "text": "Demostr\u00f3 que el l\u00edmite inferior de control era demasiado estricto.",
+          "isCorrect": false,
+          "rationale": "El problema no era el l\u00edmite, sino una anomal\u00eda real en la operaci\u00f3n causada por el entorno."
+        },
+        {
+          "text": "Ayud\u00f3 a ocultar la cifra real ante las autoridades de control.",
+          "isCorrect": false,
+          "rationale": "La transparencia y el uso \u00e9tico de los datos son pilares de la excelencia operativa."
+        }
+      ],
+      "hint": "Considere la diferencia entre castigar y comprender la ra\u00edz de una anomal\u00eda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el s\u00edmbolo del rombo en un diagrama de flujo de procesos?",
+      "answerOptions": [
+        {
+          "text": "Una condici\u00f3n cr\u00edtica o decisi\u00f3n que debe ser evaluada.",
+          "isCorrect": true,
+          "rationale": "El rombo marca un punto donde el proceso solo avanza si se cumple un requisito espec\u00edfico."
+        },
+        {
+          "text": "El inicio o fin definitivo de toda la cadena operativa.",
+          "isCorrect": false,
+          "rationale": "Los inicios y fines suelen representarse con otras formas (com\u00fanmente \u00f3valos)."
+        },
+        {
+          "text": "Un registro legal que debe ser archivado f\u00edsicamente.",
+          "isCorrect": false,
+          "rationale": "Los documentos o registros tienen simbolog\u00eda propia, usualmente rect\u00e1ngulos con base ondulada."
+        },
+        {
+          "text": "Una actividad que no requiere supervisi\u00f3n t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el rombo suele implicar una verificaci\u00f3n o control importante."
+        }
+      ],
+      "hint": "Es el lugar donde el flujo puede tomar diferentes caminos."
+    },
+    {
+      "question": "\u00bfC\u00f3mo debe interpretarse una respuesta 'no' en un bucle de retorno de un diagrama de flujo?",
+      "answerOptions": [
+        {
+          "text": "Como un mecanismo vital de aprendizaje y garant\u00eda de calidad.",
+          "isCorrect": true,
+          "rationale": "No es un fallo, sino un seguro t\u00e9cnico que obliga a corregir antes de que el servicio o producto avance defectuoso."
+        },
+        {
+          "text": "Como un callej\u00f3n sin salida que invalida todo el trabajo previo.",
+          "isCorrect": false,
+          "rationale": "Verlo como un error fatal es un paradigma antiguo; es una oportunidad de mejora forzada."
+        },
+        {
+          "text": "Como una se\u00f1al de que el analista dise\u00f1\u00f3 mal el proceso.",
+          "isCorrect": false,
+          "rationale": "Un buen dise\u00f1o incluye estos retornos precisamente para asegurar el cumplimiento normativo."
+        },
+        {
+          "text": "Como una p\u00e9rdida de tiempo que debe ser eliminada.",
+          "isCorrect": false,
+          "rationale": "Eliminar estos controles pondr\u00eda en riesgo la seguridad y la trazabilidad del sistema."
+        }
+      ],
+      "hint": "Piense en el valor de la retroalimentaci\u00f3n antes de seguir adelante."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia principal entre un administrador de sistemas y un l\u00edder transformacional?",
+      "answerOptions": [
+        {
+          "text": "El l\u00edder inspira convicci\u00f3n genuina, mientras el administrador se enfoca en llenar registros.",
+          "isCorrect": true,
+          "rationale": "La excelencia requiere que la cultura nazca de la inspiraci\u00f3n y no solo de la imposici\u00f3n burocr\u00e1tica."
+        },
+        {
+          "text": "El administrador usa datos y el l\u00edder toma decisiones por intuici\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Un l\u00edder transformacional debe basarse en evidencias; el liderazgo sin datos es 'caminar a ciegas'."
+        },
+        {
+          "text": "El l\u00edder trabaja solo y el administrador fomenta la sinergia colectiva.",
+          "isCorrect": false,
+          "rationale": "Es el l\u00edder quien inyecta la chispa para construir sinergia real en el equipo."
+        },
+        {
+          "text": "No existe diferencia, ambos t\u00e9rminos son sin\u00f3nimos en la gesti\u00f3n HSEQ.",
+          "isCorrect": false,
+          "rationale": "Existe un contraste claro entre gestionar papeles y transformar la cultura organizacional."
+        }
+      ],
+      "hint": "Considere la diferencia entre cumplir por obligaci\u00f3n o por convicci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje de desviaciones operativas se pueden resolver implementando las siete herramientas b\u00e1sicas de calidad?",
+      "answerOptions": [
+        {
+          "text": "Hasta el $70\\%$.",
+          "isCorrect": true,
+          "rationale": "El uso de estas herramientas fundamentales tiene un impacto masivo en la eficiencia y seguridad operativa."
+        },
+        {
+          "text": "Exactamente el $20\\%$.",
+          "isCorrect": false,
+          "rationale": "Este porcentaje suele asociarse a las causas ra\u00edz en el principio de Pareto, no a la resoluci\u00f3n total."
+        },
+        {
+          "text": "Menos del $50\\%$.",
+          "isCorrect": false,
+          "rationale": "La capacidad de estas herramientas es mucho mayor de lo que com\u00fanmente se cree."
+        },
+        {
+          "text": "El $100\\%$ de los problemas estrat\u00e9gicos.",
+          "isCorrect": false,
+          "rationale": "Aunque son poderosas, siempre habr\u00e1 factores complejos que requieran an\u00e1lisis adicionales."
+        }
+      ],
+      "hint": "Es una cifra significativa que demuestra el poder de las herramientas b\u00e1sicas."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es fundamental transitar hacia el uso de datos objetivos en la toma de decisiones HSEQ?",
+      "answerOptions": [
+        {
+          "text": "Porque elimina la ambig\u00fcedad y evita basarse solo en opiniones.",
+          "isCorrect": true,
+          "rationale": "Sin datos, las decisiones son subjetivas; la evidencia proporciona una base s\u00f3lida para la gesti\u00f3n."
+        },
+        {
+          "text": "Para reducir la necesidad de contratar l\u00edderes \u00e9ticos.",
+          "isCorrect": false,
+          "rationale": "Los datos y el liderazgo \u00e9tico son complementarios, no excluyentes."
+        },
+        {
+          "text": "Porque los datos sustituyen por completo la experiencia humana.",
+          "isCorrect": false,
+          "rationale": "Los datos informan a la experiencia, pero el factor humano sigue siendo vital para la ejecuci\u00f3n."
+        },
+        {
+          "text": "Para acelerar la imposici\u00f3n de sanciones al personal operativo.",
+          "isCorrect": false,
+          "rationale": "El objetivo de los datos es la mejora y la prevenci\u00f3n, no el castigo sistem\u00e1tico."
+        }
+      ],
+      "hint": "Considere la frase: 'Sin datos, solo somos personas dando opiniones'."
+    },
+    {
+      "question": "En el sector minero peruano, \u00bfqu\u00e9 importancia tiene la documentaci\u00f3n seg\u00fan la Ley 29783?",
+      "answerOptions": [
+        {
+          "text": "La rigurosidad t\u00e9cnica no es negociable; si no est\u00e1 documentado, legalmente no sucedi\u00f3.",
+          "isCorrect": true,
+          "rationale": "La ley exige registros obligatorios que respalden la provisi\u00f3n de equipos y la gesti\u00f3n de riesgos."
+        },
+        {
+          "text": "Es una sugerencia opcional para las empresas con menos de 100 t\u00e9cnicos.",
+          "isCorrect": false,
+          "rationale": "La ley es obligatoria y especialmente estricta en sectores de alto riesgo como la miner\u00eda."
+        },
+        {
+          "text": "Solo se requiere documentaci\u00f3n en caso de que ocurra un accidente mortal.",
+          "isCorrect": false,
+          "rationale": "Los registros deben ser preventivos y constantes, no solo reactivos ante incidentes."
+        },
+        {
+          "text": "Los mensajes de WhatsApp sustituyen legalmente a las fichas de entrega.",
+          "isCorrect": false,
+          "rationale": "La informalidad digital no cumple con los requisitos de registros legales formales."
+        }
+      ],
+      "hint": "Piense en la validez legal de las acciones no registradas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la s\u00edntesis final sobre la relaci\u00f3n entre datos y liderazgo para alcanzar la excelencia operativa?",
+      "answerOptions": [
+        {
+          "text": "Los datos sin liderazgo son letra muerta y el liderazgo sin datos es caminar a ciegas.",
+          "isCorrect": true,
+          "rationale": "La excelencia exige combinar una arquitectura robusta de evidencias con una gu\u00eda inspiradora."
+        },
+        {
+          "text": "El liderazgo es suficiente para compensar la falta de datos operativos.",
+          "isCorrect": false,
+          "rationale": "Incluso un buen l\u00edder fallar\u00e1 si no tiene informaci\u00f3n real sobre lo que ocurre en campo."
+        },
+        {
+          "text": "Los datos son el \u00fanico factor que importa para la seguridad industrial.",
+          "isCorrect": false,
+          "rationale": "Sin el factor humano y el liderazgo que lo motiva, los datos no se traducen en acciones reales."
+        },
+        {
+          "text": "La excelencia operativa depende \u00fanicamente de los entes reguladores externos.",
+          "isCorrect": false,
+          "rationale": "La excelencia es una construcci\u00f3n colectiva interna impulsada por la propia organizaci\u00f3n."
+        }
+      ],
+      "hint": "Se trata de la sinergia necesaria entre la ciencia de los n\u00fameros y el factor humano."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Evoluci\u00f3n estrat\u00e9gica de HSEQ",
+      "Caracterizaci\u00f3n de procesos y modelo CPOC",
+      "An\u00e1lisis de Pareto y matriz de las 6M",
+      "Control estad\u00edstico de procesos (Histogramas, Dispersi\u00f3n, Control)",
+      "Liderazgo transformacional y cultura organizacional",
+      "Marco legal de seguridad y salud en el trabajo en Per\u00fa"
+    ],
+    "followUp": [
+      "Metodolog\u00edas avanzadas de investigaci\u00f3n de incidentes",
+      "Dise\u00f1o de KPIs predictivos en sistemas de gesti\u00f3n",
+      "Psicolog\u00eda de la seguridad para el liderazgo transformacional",
+      "Implementaci\u00f3n t\u00e9cnica de la Ley 29783",
+      "Uso de software para an\u00e1lisis estad\u00edstico en tiempo real"
+    ]
+  }
+}

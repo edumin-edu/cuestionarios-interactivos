@@ -1,0 +1,543 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es considerado el verdadero n\u00facleo neur\u00e1lgico que garantiza la viabilidad financiera y continuidad de un yacimiento minero?",
+      "answerOptions": [
+        {
+          "text": "La log\u00edstica minera",
+          "isCorrect": true,
+          "rationale": "La log\u00edstica no es solo un soporte administrativo, sino el motor que permite el flujo de insumos y maquinaria en zonas remotas."
+        },
+        {
+          "text": "La prospecci\u00f3n geol\u00f3gica",
+          "isCorrect": false,
+          "rationale": "Aunque es la fase inicial, el n\u00facleo operativo que sostiene el d\u00eda a d\u00eda de la mina es la gesti\u00f3n log\u00edstica."
+        },
+        {
+          "text": "El departamento de recursos humanos",
+          "isCorrect": false,
+          "rationale": "Si bien gestiona el talento, el flujo de materiales y la operatividad bruta dependen de la arquitectura log\u00edstica."
+        },
+        {
+          "text": "La oficina de asuntos legales",
+          "isCorrect": false,
+          "rationale": "Legal brinda seguridad jur\u00eddica, pero el n\u00facleo din\u00e1mico de la operaci\u00f3n reside en la log\u00edstica integral."
+        }
+      ],
+      "hint": "Piense en el \u00e1rea encargada de mover maquinaria pesada y asegurar insumos cr\u00edticos en zonas de dif\u00edcil acceso."
+    },
+    {
+      "question": "En el sistema peruano, \u00bfqu\u00e9 norma est\u00e1 dise\u00f1ada espec\u00edficamente para formalizar la miner\u00eda de menor escala?",
+      "answerOptions": [
+        {
+          "text": "Ley $27651$",
+          "isCorrect": true,
+          "rationale": "Esta ley complementa el marco general permitiendo la escalabilidad y formalizaci\u00f3n de peque\u00f1os productores."
+        },
+        {
+          "text": "Texto \u00danico Ordenado de la Ley General de Miner\u00eda",
+          "isCorrect": false,
+          "rationale": "Este documento es el eje central para las concesiones generales y el marco fiscal, no exclusivamente para peque\u00f1a miner\u00eda."
+        },
+        {
+          "text": "Reglamento de Inscripci\u00f3n de la Sunarp",
+          "isCorrect": false,
+          "rationale": "Esta norma regula el registro de los derechos, pero no es la ley sustantiva de formalizaci\u00f3n de peque\u00f1a escala."
+        },
+        {
+          "text": "Decreto Legislativo $1071$",
+          "isCorrect": false,
+          "rationale": "Este decreto se enfoca en la resoluci\u00f3n de disputas y arbitraje, no en la formalizaci\u00f3n operativa inicial."
+        }
+      ],
+      "hint": "Se trata de una ley num\u00e9rica espec\u00edfica que acompa\u00f1a al Texto \u00danico Ordenado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 contrato permite a una empresa evaluar la viabilidad de un negocio minero durante un tiempo determinado antes de comprometerse definitivamente?",
+      "answerOptions": [
+        {
+          "text": "Contrato de opci\u00f3n",
+          "isCorrect": true,
+          "rationale": "Este contrato otorga un plazo para explorar y decidir si se ejerce el derecho de compra o explotaci\u00f3n definitiva."
+        },
+        {
+          "text": "Contrato de transferencia",
+          "isCorrect": false,
+          "rationale": "Este implica entregar las llaves de la operaci\u00f3n de forma total o parcial, no es una etapa de prueba."
+        },
+        {
+          "text": "Contrato de cesi\u00f3n minera",
+          "isCorrect": false,
+          "rationale": "Funciona de forma similar a un alquiler de recursos, m\u00e1s que como una herramienta de evaluaci\u00f3n previa."
+        },
+        {
+          "text": "Contrato de explotaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Este contrato se enfoca directamente en la extracci\u00f3n del mineral sin planes de evaluaci\u00f3n extra."
+        }
+      ],
+      "hint": "Piense en un t\u00e9rmino que sugiere tener la posibilidad de elegir tras un periodo de respiro."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de un contrato de estabilidad en proyectos mineros de gran envergadura?",
+      "answerOptions": [
+        {
+          "text": "Congelar las reglas tributarias por un periodo de $10$ a $20$ a\u00f1os",
+          "isCorrect": true,
+          "rationale": "Brinda certeza financiera al inversor al asegurar que los impuestos no cambiar\u00e1n durante el desarrollo del proyecto."
+        },
+        {
+          "text": "Garantizar la liquidez inmediata del proyecto mediante hipotecas",
+          "isCorrect": false,
+          "rationale": "La inyecci\u00f3n de liquidez suele gestionarse mediante contratos de hipoteca minera, no de estabilidad."
+        },
+        {
+          "text": "Distribuir ganancias y p\u00e9rdidas entre varios inversionistas",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n de un Joint Venture o contrato de riesgo compartido."
+        },
+        {
+          "text": "Asegurar la reforestaci\u00f3n inmediata del terreno",
+          "isCorrect": false,
+          "rationale": "La recuperaci\u00f3n ambiental es parte del plan de cierre, no el objetivo de un contrato de estabilidad tributaria."
+        }
+      ],
+      "hint": "Est\u00e1 relacionado con la paz mental financiera frente a los cambios fiscales del Estado."
+    },
+    {
+      "question": "En el marco \u00e9tico de los contratos mineros, \u00bfqu\u00e9 implica la regla de la 'libertad de buena fe'?",
+      "answerOptions": [
+        {
+          "text": "La prohibici\u00f3n absoluta del dolo y el enga\u00f1o",
+          "isCorrect": true,
+          "rationale": "Los acuerdos deben nacer de una transparencia t\u00e9cnica impecable sin informaci\u00f3n oculta."
+        },
+        {
+          "text": "La libertad de modificar precios unitarios unilateralmente",
+          "isCorrect": false,
+          "rationale": "La buena fe requiere consenso y respeto a lo pactado, no cambios arbitrarios de una sola parte."
+        },
+        {
+          "text": "El derecho a ignorar las cl\u00e1usulas de confidencialidad",
+          "isCorrect": false,
+          "rationale": "La confidencialidad es un pilar cr\u00edtico y romperla conlleva altas probabilidades de derrota legal."
+        },
+        {
+          "text": "La facultad de operar sin registro previo en la Sunarp",
+          "isCorrect": false,
+          "rationale": "El registro es obligatorio para la existencia legal del derecho ante terceros, independientemente de la \u00e9tica."
+        }
+      ],
+      "hint": "Se refiere a la integridad con la que se intercambia informaci\u00f3n t\u00e9cnica como los datos geol\u00f3gicos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la probabilidad estimada de perder batallas legales si una de las partes rompe las cl\u00e1usulas de confidencialidad t\u00e9cnica?",
+      "answerOptions": [
+        {
+          "text": "$80\\%$",
+          "isCorrect": true,
+          "rationale": "El castigo t\u00e9cnico y legal por filtrar informaci\u00f3n que 'vale oro' es sumamente implacable en la industria."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "La cifra es considerablemente m\u00e1s alta debido a la importancia estrat\u00e9gica de los datos geol\u00f3gicos."
+        },
+        {
+          "text": "$20\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje suele asociarse a los riesgos conductuales humanos, no a la severidad de las rupturas contractuales."
+        },
+        {
+          "text": "$100\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es muy probable, el sistema legal siempre deja un margen, situando la estad\u00edstica en el $80\\%$."
+        }
+      ],
+      "hint": "Es el mismo porcentaje que, en otro contexto, define la eficacia de los controles de ingenier\u00eda en seguridad."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fase del ciclo de vida de una mina tiene la duraci\u00f3n m\u00e1s extensa, abarcando aproximadamente seis d\u00e9cadas?",
+      "answerOptions": [
+        {
+          "text": "Producci\u00f3n",
+          "isCorrect": true,
+          "rationale": "La etapa de extracci\u00f3n, fundici\u00f3n y refinaci\u00f3n suele extenderse desde el a\u00f1o $10$ hasta el $70$."
+        },
+        {
+          "text": "Prospecci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Esta fase de estudios geol\u00f3gicos iniciales solo dura aproximadamente de $1$ a $5$ a\u00f1os."
+        },
+        {
+          "text": "Desarrollo y construcci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La construcci\u00f3n de infraestructura pesada se sit\u00faa t\u00edpicamente entre los a\u00f1os $5$ y $10$."
+        },
+        {
+          "text": "Cierre y rehabilitaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Esta fase ocurre despu\u00e9s del a\u00f1o $70$ y se enfoca en devolver la tierra en condiciones \u00f3ptimas."
+        }
+      ],
+      "hint": "Es el periodo donde la 'bestia' se despierta y opera $24/7$."
+    },
+    {
+      "question": "En los modelos de ejecuci\u00f3n contractual, \u00bfcu\u00e1l es la caracter\u00edstica principal del modelo 'Lump Sum' o Suma Global?",
+      "answerOptions": [
+        {
+          "text": "El contratista asume el riesgo de los costos excedentes sobre un precio fijo",
+          "isCorrect": true,
+          "rationale": "Se establece un monto cerrado por todo el paquete, ofreciendo certidumbre al due\u00f1o de la mina."
+        },
+        {
+          "text": "El due\u00f1o paga por cada metro avanzado o unidad de trabajo realizada",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde al modelo de precio unitario, no al de suma global."
+        },
+        {
+          "text": "El due\u00f1o reembolsa los gastos reales m\u00e1s una ganancia fija",
+          "isCorrect": false,
+          "rationale": "Este es el modelo 'Cost Plus', utilizado cuando hay alta incertidumbre en el terreno."
+        },
+        {
+          "text": "Se utiliza exclusivamente para trabajos repetitivos de movimiento de tierras",
+          "isCorrect": false,
+          "rationale": "Para trabajos repetitivos es m\u00e1s com\u00fan y justo utilizar precios unitarios."
+        }
+      ],
+      "hint": "Piense en un precio 'cerrado' donde el que ejecuta la obra debe ser muy preciso con sus costos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el modelo de 'Precio Unitario' se considera el m\u00e1s justo para el trabajo diario en la mina?",
+      "answerOptions": [
+        {
+          "text": "Porque se paga estrictamente por el esfuerzo real y el avance medible",
+          "isCorrect": true,
+          "rationale": "Equilibra el riesgo al pagar por unidades concretas, como toneladas movidas o metros de t\u00fanel."
+        },
+        {
+          "text": "Porque permite al contratista cobrar lo que desee sin auditor\u00edas",
+          "isCorrect": false,
+          "rationale": "Al contrario, requiere una medici\u00f3n muy precisa de lo avanzado para procesar los pagos."
+        },
+        {
+          "text": "Porque elimina la necesidad de tener un administrador de contratos",
+          "isCorrect": false,
+          "rationale": "Este modelo exige una supervisi\u00f3n constante para verificar las unidades reportadas."
+        },
+        {
+          "text": "Porque es el modelo con mayor incertidumbre financiera para el due\u00f1o",
+          "isCorrect": false,
+          "rationale": "El modelo con mayor incertidumbre para el due\u00f1o es el 'Cost Plus', no el de precio unitario."
+        }
+      ],
+      "hint": "Se basa en el concepto de 'pago por lo que se hace'."
+    },
+    {
+      "question": "Dentro de la gesti\u00f3n de riesgos industriales, \u00bfcu\u00e1l es el 'tal\u00f3n de Aquiles' que los controles de ingenier\u00eda no pueden mitigar por completo?",
+      "answerOptions": [
+        {
+          "text": "La conducta humana y el exceso de confianza",
+          "isCorrect": true,
+          "rationale": "El $20\\%$ del riesgo residual depende exclusivamente del comportamiento impredecible de las personas."
+        },
+        {
+          "text": "La falta de ventilaci\u00f3n automatizada",
+          "isCorrect": false,
+          "rationale": "La ventilaci\u00f3n es un control de ingenier\u00eda que puede automatizarse y controlarse tecnol\u00f3gicamente."
+        },
+        {
+          "text": "El peso de los neum\u00e1ticos de maquinaria pesada",
+          "isCorrect": false,
+          "rationale": "Este es un riesgo f\u00edsico conocido que se maneja con protocolos y equipo especializado."
+        },
+        {
+          "text": "La exposici\u00f3n al polvo de s\u00edlice",
+          "isCorrect": false,
+          "rationale": "Los riesgos qu\u00edmicos se mitigan con sistemas de filtraci\u00f3n y equipos de protecci\u00f3n personal."
+        }
+      ],
+      "hint": "Piense en ese factor impredecible que surge cuando alguien cree que 'ya lo sabe todo'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 paradoja se presenta frecuentemente en la seguridad operativa minera respecto a la experiencia del trabajador?",
+      "answerOptions": [
+        {
+          "text": "Los trabajadores m\u00e1s experimentados son m\u00e1s vulnerables por exceso de confianza",
+          "isCorrect": true,
+          "rationale": "Al conocer bien su labor, desarrollan una falsa sensaci\u00f3n de inmunidad y omiten pasos cr\u00edticos."
+        },
+        {
+          "text": "Los novatos causan el $80\\%$ de los accidentes fatales",
+          "isCorrect": false,
+          "rationale": "Las estad\u00edsticas muestran que la complacencia del experto es un factor de riesgo mayor que la inexperiencia del nuevo."
+        },
+        {
+          "text": "La experiencia anula completamente la necesidad de usar EPP",
+          "isCorrect": false,
+          "rationale": "Ning\u00fan nivel de experiencia exime del cumplimiento de las normas de seguridad f\u00edsica."
+        },
+        {
+          "text": "Solo los trabajadores nuevos requieren controles administrativos",
+          "isCorrect": false,
+          "rationale": "Los protocolos de seguridad deben aplicarse de manera universal a todo el personal, sin importar su rango."
+        }
+      ],
+      "hint": "Tiene que ver con la seguridad conductual y c\u00f3mo la familiaridad con el peligro reduce la percepci\u00f3n del riesgo."
+    },
+    {
+      "question": "Durante la metodolog\u00eda de contrataci\u00f3n, \u00bfen qu\u00e9 paso se utilizan metodolog\u00edas \u00e1giles como Scrum para evaluar proveedores?",
+      "answerOptions": [
+        {
+          "text": "An\u00e1lisis t\u00e9cnico (paso $6$)",
+          "isCorrect": true,
+          "rationale": "Scrum permite comprobar r\u00e1pidamente si el proveedor tiene el 'm\u00fasculo' operativo necesario para el entorno rudo."
+        },
+        {
+          "text": "Mapeo de la situaci\u00f3n actual (paso $1$)",
+          "isCorrect": false,
+          "rationale": "El primer paso se centra en el diagn\u00f3stico interno, no en la evaluaci\u00f3n externa din\u00e1mica de capacidades."
+        },
+        {
+          "text": "An\u00e1lisis macro o FODA (paso $10$)",
+          "isCorrect": false,
+          "rationale": "El paso $10$ filtra variables externas como la pol\u00edtica o el precio de metales, no capacidades operativas."
+        },
+        {
+          "text": "Definici\u00f3n de la estrategia final (paso $12$)",
+          "isCorrect": false,
+          "rationale": "Este es el paso de cierre donde ya se ha filtrado y seleccionado al proveedor."
+        }
+      ],
+      "hint": "Es la fase donde se pone a prueba la capacidad real del contratista antes de entrar a la disecci\u00f3n financiera."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la regla fundamental de la log\u00edstica minera respecto a la disponibilidad de repuestos en planta?",
+      "answerOptions": [
+        {
+          "text": "La falta de un repuesto jam\u00e1s debe detener la planta",
+          "isCorrect": true,
+          "rationale": "La conectividad entre m\u00f3dulos de SAP y mantenimiento busca garantizar la continuidad absoluta $24/7$."
+        },
+        {
+          "text": "Solo se deben pedir repuestos cuando la m\u00e1quina se rompa",
+          "isCorrect": false,
+          "rationale": "Esperar a la rotura causar\u00eda tiempos de inactividad costosos; se requiere gesti\u00f3n preventiva."
+        },
+        {
+          "text": "Los repuestos cr\u00edticos deben representar el $100\\%$ de los activos",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda financieramente inviable y violar\u00eda las reglas de eficiencia de inventario."
+        },
+        {
+          "text": "El administrador de contratos decide si se compra el repuesto",
+          "isCorrect": false,
+          "rationale": "La necesidad t\u00e9cnica la dictan los m\u00f3dulos de mantenimiento y producci\u00f3n, no solo un criterio administrativo."
+        }
+      ],
+      "hint": "Piense en la prioridad m\u00e1xima de un flujo de producci\u00f3n ininterrumpido."
+    },
+    {
+      "question": "En los acuerdos de nivel de servicio (SLA), \u00bfcu\u00e1l es el tiempo m\u00e1ximo de respuesta ante un riesgo cr\u00edtico de colapso de servidores?",
+      "answerOptions": [
+        {
+          "text": "$10$ minutos",
+          "isCorrect": true,
+          "rationale": "Dada la alta dependencia tecnol\u00f3gica, una ca\u00edda de sistemas puede dejar a la planta 'a ciegas' r\u00e1pidamente."
+        },
+        {
+          "text": "$1$ hora",
+          "isCorrect": false,
+          "rationale": "Una hora de inactividad en una operaci\u00f3n minera representa p\u00e9rdidas masivas de miles de d\u00f3lares."
+        },
+        {
+          "text": "$24$ horas",
+          "isCorrect": false,
+          "rationale": "Este plazo ser\u00eda aceptable para incidencias menores, pero no para riesgos de nivel cr\u00edtico."
+        },
+        {
+          "text": "$5$ minutos",
+          "isCorrect": false,
+          "rationale": "Aunque se requiere rapidez, el est\u00e1ndar mencionado espec\u00edficamente para la intervenci\u00f3n es de $10$ minutos."
+        }
+      ],
+      "hint": "Es un intervalo de tiempo de dos d\u00edgitos muy breve."
+    },
+    {
+      "question": "\u00bfQu\u00e9 indica la 'regla del $70\\%$' en la gesti\u00f3n financiera de los almacenes mineros?",
+      "answerOptions": [
+        {
+          "text": "El inventario estancado no debe superar el $70\\%$ del valor total de los activos manejados",
+          "isCorrect": true,
+          "rationale": "Superar este l\u00edmite implica tener demasiado capital muerto, reduciendo la eficiencia financiera."
+        },
+        {
+          "text": "El $70\\%$ de los proveedores deben ser empresas locales",
+          "isCorrect": false,
+          "rationale": "Esta regla se refiere a la valoraci\u00f3n de activos e inventarios, no a la procedencia de los proveedores."
+        },
+        {
+          "text": "La planta debe operar al $70\\%$ de su capacidad para ser rentable",
+          "isCorrect": false,
+          "rationale": "La rentabilidad busca optimizar la capacidad m\u00e1xima; el $70\\%$ es una m\u00e9trica de control de inventario."
+        },
+        {
+          "text": "El $70\\%$ de los contratos deben ser bajo el modelo de 'Cost Plus'",
+          "isCorrect": false,
+          "rationale": "La elecci\u00f3n del modelo depende del riesgo del proyecto, no de un porcentaje fijo preestablecido."
+        }
+      ],
+      "hint": "Relacione esta cifra con el equilibrio entre tener repuestos suficientes y no inmovilizar capital."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 empresa l\u00edder se suele confiar la log\u00edstica cr\u00edtica de sacar el mineral del yacimiento?",
+      "answerOptions": [
+        {
+          "text": "Transmisor",
+          "isCorrect": true,
+          "rationale": "Es identificada como el aliado estrat\u00e9gico para el transporte de salida del producto final."
+        },
+        {
+          "text": "Confipetrol",
+          "isCorrect": false,
+          "rationale": "Esta empresa se especializa en mantenimientos complejos, no principalmente en la salida del mineral."
+        },
+        {
+          "text": "Cruz del Sur",
+          "isCorrect": false,
+          "rationale": "Su rol principal es el transporte de personal (trabajadores), no del mineral extra\u00eddo."
+        },
+        {
+          "text": "Prosegur",
+          "isCorrect": false,
+          "rationale": "Su \u00e1rea de especializaci\u00f3n es la seguridad f\u00edsica y vigilancia del complejo."
+        }
+      ],
+      "hint": "Piense en un especialista en transporte pesado de carga mineral."
+    },
+    {
+      "question": "\u00bfQu\u00e9 norma legal funciona como 'escudo' en tribunales especializados para resolver disputas t\u00e9cnicas en miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Decreto Legislativo $1071$",
+          "isCorrect": true,
+          "rationale": "Esta norma es fundamental para los procesos de arbitraje y resoluci\u00f3n de conflictos contractuales."
+        },
+        {
+          "text": "Ley $27651$",
+          "isCorrect": false,
+          "rationale": "Esta ley se enfoca en la formalizaci\u00f3n de la peque\u00f1a miner\u00eda, no en la resoluci\u00f3n de disputas."
+        },
+        {
+          "text": "Ley General de Sociedades",
+          "isCorrect": false,
+          "rationale": "Aunque es relevante para la estructura de las empresas, el arbitraje minero tiene su base en el Decreto $1071$."
+        },
+        {
+          "text": "Reglamento de la Sunarp",
+          "isCorrect": false,
+          "rationale": "Regula la inscripci\u00f3n de derechos, pero no el proceso judicial o arbitral de resoluci\u00f3n de conflictos."
+        }
+      ],
+      "hint": "Se trata de una normativa sobre arbitraje mencionada como herramienta de resoluci\u00f3n t\u00e9cnica."
+    },
+    {
+      "question": "Adem\u00e1s del rigor t\u00e9cnico y legal, \u00bfqu\u00e9 habilidad es vital para el administrador minero moderno al buscar la 'licencia social'?",
+      "answerOptions": [
+        {
+          "text": "Inteligencia emocional",
+          "isCorrect": true,
+          "rationale": "Es clave para manejar las expectativas de las comunidades y ganar la aceptaci\u00f3n social del proyecto."
+        },
+        {
+          "text": "Certificaci\u00f3n avanzada en SAP",
+          "isCorrect": false,
+          "rationale": "Aunque \u00fatil t\u00e9cnicamente, la licencia social depende de habilidades blandas y relaciones humanas."
+        },
+        {
+          "text": "Dominio de leyes fiscales extranjeras",
+          "isCorrect": false,
+          "rationale": "La estabilidad tributaria es importante, pero la licencia social se gana en el terreno con las personas."
+        },
+        {
+          "text": "Habilidades de prospecci\u00f3n geol\u00f3gica",
+          "isCorrect": false,
+          "rationale": "El administrador gestiona contratos y personas; la prospecci\u00f3n es una labor t\u00e9cnica de ge\u00f3logos."
+        }
+      ],
+      "hint": "Se refiere a una capacidad interpersonal para gestionar conflictos y empat\u00eda."
+    },
+    {
+      "question": "En el contexto de la gesti\u00f3n de riesgos ergon\u00f3micos y psicosociales, \u00bfcu\u00e1l es una de las causas principales de estr\u00e9s en el trabajador minero?",
+      "answerOptions": [
+        {
+          "text": "Trabajar en zonas remotas con alta responsabilidad",
+          "isCorrect": true,
+          "rationale": "El aislamiento y la presi\u00f3n por la continuidad operativa generan una fatiga enorme y estr\u00e9s brutal."
+        },
+        {
+          "text": "La falta de herramientas de oficina modernas",
+          "isCorrect": false,
+          "rationale": "El estr\u00e9s minero est\u00e1 ligado a las condiciones de campo y la carga operativa, no a la falta de software de oficina."
+        },
+        {
+          "text": "Tener que reportar al administrador de contratos",
+          "isCorrect": false,
+          "rationale": "La jerarqu\u00eda es est\u00e1ndar; el estr\u00e9s cr\u00edtico proviene de la naturaleza del entorno y la fatiga."
+        },
+        {
+          "text": "La ausencia de riesgos qu\u00edmicos en el \u00e1rea",
+          "isCorrect": false,
+          "rationale": "Al contrario, la presencia de riesgos qu\u00edmicos es un factor que aumenta el estr\u00e9s y la exigencia de protocolos."
+        }
+      ],
+      "hint": "Piense en la ubicaci\u00f3n geogr\u00e1fica de las minas y la naturaleza de las decisiones operativas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el balance definitivo que se requiere para el \u00e9xito de la miner\u00eda a nivel nacional?",
+      "answerOptions": [
+        {
+          "text": "Fusionar rentabilidad econ\u00f3mica y paz social",
+          "isCorrect": true,
+          "rationale": "No basta con ser rentable; el proyecto debe ser sostenible y aceptado por la sociedad para perdurar."
+        },
+        {
+          "text": "Maximizar la extracci\u00f3n sin considerar el cierre de mina",
+          "isCorrect": false,
+          "rationale": "Ignorar el cierre de mina es una falta \u00e9tica y legal que arriesga la viabilidad a largo plazo."
+        },
+        {
+          "text": "Priorizar el ahorro en log\u00edstica sobre la seguridad",
+          "isCorrect": false,
+          "rationale": "Una operaci\u00f3n insegura no es rentable a largo plazo debido a los costos de incidentes y paradas."
+        },
+        {
+          "text": "Eliminar la tercerizaci\u00f3n para controlar todo internamente",
+          "isCorrect": false,
+          "rationale": "La tendencia moderna es apoyarse en especialistas externos para mejorar la eficiencia operativa."
+        }
+      ],
+      "hint": "Es la s\u00edntesis entre los objetivos financieros y la relaci\u00f3n con el entorno humano."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Log\u00edstica y Gesti\u00f3n Minera",
+      "Marcos Legales y Seguridad Jur\u00eddica",
+      "Tipos de Contratos Mineros",
+      "Ciclo de Vida de Proyectos",
+      "Modelos de Ejecuci\u00f3n Contractual",
+      "Gesti\u00f3n de Riesgos y Seguridad Industrial (IPERC)",
+      "Administraci\u00f3n de Contratos y Outsourcing",
+      "Log\u00edstica Integral y Ecosistema SAP"
+    ],
+    "followUp": [
+      "Derecho Minero y Fiscalidad en el Per\u00fa",
+      "Ingenier\u00eda de Seguridad y Salud Ocupacional en Miner\u00eda",
+      "Gesti\u00f3n de Suministros y Almacenes de Clase Mundial",
+      "Resoluci\u00f3n de Conflictos y Responsabilidad Social Empresarial",
+      "Transformaci\u00f3n Digital en la Cadena de Suministro Minera"
+    ]
+  }
+}

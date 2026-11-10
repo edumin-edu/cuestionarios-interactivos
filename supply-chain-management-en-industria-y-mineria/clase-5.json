@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del \u00e1rea de aprovisionamiento en una operaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "Actuar como la columna vertebral que mantiene la operaci\u00f3n en marcha.",
+          "isCorrect": true,
+          "rationale": "El aprovisionamiento asegura la continuidad operativa y protege las finanzas y la seguridad de los trabajadores."
+        },
+        {
+          "text": "Servir como un ente de apoyo aislado para reducir costos de oficina.",
+          "isCorrect": false,
+          "rationale": "Considerar el suministro como una isla aislada es un error que genera sobrecostos y quiebres de stock."
+        },
+        {
+          "text": "Gestionar exclusivamente la contrataci\u00f3n de personal operativo.",
+          "isCorrect": false,
+          "rationale": "El enfoque de esta \u00e1rea est\u00e1 en la adquisici\u00f3n de materiales e insumos t\u00e9cnicos, no en recursos humanos."
+        },
+        {
+          "text": "Emitir \u00f3rdenes de compra sin realizar seguimiento posterior.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n no termina con la orden, sino con la recepci\u00f3n total o el acta de conformidad."
+        }
+      ],
+      "hint": "Piense en el papel que desempe\u00f1a para evitar la paralizaci\u00f3n de toda la maquinaria."
+    },
+    {
+      "question": "Al realizar una compra estrat\u00e9gica, \u00bfqu\u00e9 objetivo busca responder la pregunta clave '\u00bfY qu\u00e9?' (el famoso soat)?",
+      "answerOptions": [
+        {
+          "text": "Garantizar que el trabajo no termine simplemente con emitir la orden de compra.",
+          "isCorrect": true,
+          "rationale": "Esta pregunta obliga al comprador a mirar m\u00e1s all\u00e1 del tr\u00e1mite administrativo para asegurar la satisfacci\u00f3n del usuario."
+        },
+        {
+          "text": "Asegurar que el precio unitario sea el m\u00e1s bajo del mercado local.",
+          "isCorrect": false,
+          "rationale": "El enfoque del 'soat' es la continuidad y valor del ciclo, no solo el ahorro inmediato en el precio."
+        },
+        {
+          "text": "Verificar \u00fanicamente que el proveedor tenga solvencia econ\u00f3mica.",
+          "isCorrect": false,
+          "rationale": "Aunque importante, la pregunta busca cerrar el ciclo de valor hasta el consumo final."
+        },
+        {
+          "text": "Determinar la cantidad exacta de art\u00edculos en el inventario hist\u00f3rico.",
+          "isCorrect": false,
+          "rationale": "El historial de datos puede ser enga\u00f1oso y no es el foco de la pregunta estrat\u00e9gica planteada."
+        }
+      ],
+      "hint": "Se refiere a la responsabilidad del comprador sobre el resultado final del proceso."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 confiar ciegamente en los datos hist\u00f3ricos de compras puede ser un error estrat\u00e9gico?",
+      "answerOptions": [
+        {
+          "text": "Porque no reflejan necesidades nuevas o picos de demanda extraordinarios.",
+          "isCorrect": true,
+          "rationale": "El pasado no siempre predice situaciones excepcionales que el \u00e1rea de producci\u00f3n pueda prever en el presente."
+        },
+        {
+          "text": "Porque los registros antiguos suelen estar mal codificados por el sistema.",
+          "isCorrect": false,
+          "rationale": "El problema no es la calidad del registro, sino su incapacidad de anticipar cambios en la demanda futura."
+        },
+        {
+          "text": "Porque el precio de los materiales siempre tiende a la baja con el tiempo.",
+          "isCorrect": false,
+          "rationale": "Los mercados son vol\u00e1tiles y los precios pueden subir o bajar independientemente de los datos hist\u00f3ricos."
+        },
+        {
+          "text": "Porque las leyes fiscales cambian cada vez que se emite una orden.",
+          "isCorrect": false,
+          "rationale": "Aunque las leyes cambian, la raz\u00f3n estrat\u00e9gica de no mirar el 'retrovisor' es operativa y de demanda."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede cuando la producci\u00f3n planea algo que nunca se ha hecho antes."
+    },
+    {
+      "question": "En la matriz de comunicaci\u00f3n log\u00edstica, \u00bfcu\u00e1l es la obsesi\u00f3n principal del departamento de operaciones?",
+      "answerOptions": [
+        {
+          "text": "Garantizar la continuidad ininterrumpida de la mina.",
+          "isCorrect": true,
+          "rationale": "Operaciones prioriza que el flujo de trabajo no se detenga bajo ninguna circunstancia."
+        },
+        {
+          "text": "Maximizar el ahorro y la generaci\u00f3n de valor econ\u00f3mico.",
+          "isCorrect": false,
+          "rationale": "Esta es la prioridad t\u00edpica del \u00e1rea de log\u00edstica, no necesariamente de operaciones."
+        },
+        {
+          "text": "Lograr la satisfacci\u00f3n t\u00e9cnica absoluta de un requerimiento espec\u00edfico.",
+          "isCorrect": false,
+          "rationale": "Este objetivo corresponde primordialmente al usuario final que solicit\u00f3 el material."
+        },
+        {
+          "text": "Asegurar un margen de rentabilidad alto para la empresa proveedora.",
+          "isCorrect": false,
+          "rationale": "Este es el inter\u00e9s leg\u00edtimo del proveedor externo, no de la gerencia de operaciones interna."
+        }
+      ],
+      "hint": "Piense en lo que m\u00e1s le preocupa a quien maneja la maquinaria diariamente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 acci\u00f3n correctiva debe realizar el comprador al detectar un error en las unidades de medida de un pedido?",
+      "answerOptions": [
+        {
+          "text": "Actuar como un filtro cr\u00edtico para identificar y corregir el desliz antes de comprar.",
+          "isCorrect": true,
+          "rationale": "El comprador no debe limitarse a pasar pedidos, sino validar la coherencia t\u00e9cnica del requerimiento."
+        },
+        {
+          "text": "Procesar el pedido tal cual fue enviado para no retrasar la gesti\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Seguir un error t\u00e9cnico genera compras absurdas, saturaci\u00f3n de almacenes o desabastecimiento."
+        },
+        {
+          "text": "Delegar la responsabilidad de la correcci\u00f3n al \u00e1rea de finanzas.",
+          "isCorrect": false,
+          "rationale": "Finanzas valida el presupuesto, pero la validaci\u00f3n t\u00e9cnica es responsabilidad del comprador."
+        },
+        {
+          "text": "Sustituir el producto por uno m\u00e1s barato sin consultar al usuario.",
+          "isCorrect": false,
+          "rationale": "Cambiar especificaciones sin rigor t\u00e9cnico puede poner en riesgo la seguridad operativa."
+        }
+      ],
+      "hint": "El comprador no es solo un tramitador, es un analista del requerimiento."
+    },
+    {
+      "question": "Seg\u00fan las normativas fiscales (como las de SUNAT), \u00bfqu\u00e9 sincron\u00eda debe existir en compras al contado?",
+      "answerOptions": [
+        {
+          "text": "La emisi\u00f3n de la factura y la transferencia bancaria deben ocurrir el mismo d\u00eda.",
+          "isCorrect": true,
+          "rationale": "Si estos eventos no ocurren en la misma fecha, la factura pierde su validez fiscal ante el regulador."
+        },
+        {
+          "text": "La orden de compra y el pago deben realizarse en el mismo mes calendario.",
+          "isCorrect": false,
+          "rationale": "La exigencia fiscal es mucho m\u00e1s estricta, requiriendo sincron\u00eda diaria exacta entre factura y pago."
+        },
+        {
+          "text": "La entrega f\u00edsica del producto debe ser simult\u00e1nea a la firma del contrato.",
+          "isCorrect": false,
+          "rationale": "El cumplimiento fiscal mencionado se centra en la documentaci\u00f3n contable y el flujo de dinero."
+        },
+        {
+          "text": "El proveedor debe emitir la factura antes de que nazca el requerimiento t\u00e9cnico.",
+          "isCorrect": false,
+          "rationale": "La factura solo se emite una vez acordada la transacci\u00f3n comercial y validado el presupuesto."
+        }
+      ],
+      "hint": "Recuerde la advertencia sobre el riesgo para el flujo de caja si las fechas no coinciden."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la prioridad fundamental al seleccionar proveedores en el sector minero?",
+      "answerOptions": [
+        {
+          "text": "Mitigar los riesgos operativos a largo plazo.",
+          "isCorrect": true,
+          "rationale": "La confiabilidad y calidad superan al precio unitario, ya que una parada de planta es devastadora econ\u00f3micamente."
+        },
+        {
+          "text": "Obtener siempre el precio unitario m\u00e1s bajo posible.",
+          "isCorrect": false,
+          "rationale": "Un ahorro de centavos no compensa las p\u00e9rdidas millonarias causadas por fallas de calidad o entrega."
+        },
+        {
+          "text": "Fomentar la competencia de precios en cada compra de emergencia.",
+          "isCorrect": false,
+          "rationale": "En emergencias o productos cr\u00edticos, la seguridad del suministro es prioritaria sobre la negociaci\u00f3n de precio."
+        },
+        {
+          "text": "Reducir el n\u00famero de proveedores a uno solo para toda la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La dependencia de un solo proveedor puede aumentar el riesgo de suministro si no hay alianzas estrat\u00e9gicas."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 cuesta m\u00e1s: la pieza o detener toda la mina."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 situaci\u00f3n es imperativo utilizar un RFQ (Solicitud de Cotizaci\u00f3n)?",
+      "answerOptions": [
+        {
+          "text": "Cuando se buscan precios para productos que ya est\u00e1n estandarizados y codificados.",
+          "isCorrect": true,
+          "rationale": "El RFQ es ideal para art\u00edculos conocidos donde los t\u00e9rminos y especificaciones ya est\u00e1n definidos."
+        },
+        {
+          "text": "Al explorar nuevas zonas geogr\u00e1ficas o visitar ferias comerciales.",
+          "isCorrect": false,
+          "rationale": "Para la exploraci\u00f3n inicial y recopilaci\u00f3n de datos generales se utiliza el RFI."
+        },
+        {
+          "text": "Cuando se requiere evaluar soluciones complejas para maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "Las compras de activos fijos complejos requieren un RFP para evaluar propuestas detalladas."
+        },
+        {
+          "text": "Para solicitar informaci\u00f3n financiera b\u00e1sica a un proveedor nuevo.",
+          "isCorrect": false,
+          "rationale": "La recopilaci\u00f3n de datos financieros y generales es la funci\u00f3n primordial del RFI."
+        }
+      ],
+      "hint": "Es la herramienta para lo cotidiano y ya definido en el cat\u00e1logo."
+    },
+    {
+      "question": "Utilizando la analog\u00eda del iceberg para el Costo Total de Propiedad (TCO), \u00bfqu\u00e9 representa la punta visible?",
+      "answerOptions": [
+        {
+          "text": "El precio inicial de compra que figura en la cotizaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "El precio unitario es solo el costo inicial visible, ocultando otros gastos operativos futuros."
+        },
+        {
+          "text": "Los costos de mantenimiento preventivo a lo largo de la vida \u00fatil.",
+          "isCorrect": false,
+          "rationale": "El mantenimiento es un costo oculto que se encuentra 'debajo del agua' en la analog\u00eda."
+        },
+        {
+          "text": "La capacitaci\u00f3n t\u00e9cnica obligatoria para los operadores.",
+          "isCorrect": false,
+          "rationale": "Las capacitaciones son componentes del TCO que no suelen ser visibles en el precio de adquisici\u00f3n inicial."
+        },
+        {
+          "text": "El costo de los repuestos iniciales y embalajes especiales.",
+          "isCorrect": false,
+          "rationale": "Estos son gastos adicionales que impactan financieramente pero no son el precio base de la oferta."
+        }
+      ],
+      "hint": "Es lo primero que se ve en una propuesta comercial antes de analizar a fondo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje del capital operativo puede quedar inmovilizado debido a una falta de optimizaci\u00f3n de inventarios en miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Hasta un $30\\%$.",
+          "isCorrect": true,
+          "rationale": "La magnitud masiva de los almacenes mineros puede atrapar casi un tercio del capital en piezas no utilizadas."
+        },
+        {
+          "text": "Alrededor del $80\\%$.",
+          "isCorrect": false,
+          "rationale": "Este porcentaje suele referirse al valor econ\u00f3mico acumulado por unos pocos art\u00edculos en Pareto, no al capital inmovilizado total."
+        },
+        {
+          "text": "Menos del $5\\%$.",
+          "isCorrect": false,
+          "rationale": "Un $5\\%$ es el valor aproximado de los art\u00edculos categor\u00eda C, que son muchos pero de bajo impacto econ\u00f3mico."
+        },
+        {
+          "text": "Exactamente el $20\\%$.",
+          "isCorrect": false,
+          "rationale": "El $20\\%$ representa la cantidad de art\u00edculos vitales seg\u00fan Pareto, no el capital atrapado por mala gesti\u00f3n."
+        }
+      ],
+      "hint": "Es una cifra significativa que demuestra por qu\u00e9 la eficiencia no es opcional."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la Ley de Pareto aplicada a la gesti\u00f3n de almacenes?",
+      "answerOptions": [
+        {
+          "text": "Aislar el $20\\%$ de art\u00edculos que concentran el $80\\%$ del valor econ\u00f3mico.",
+          "isCorrect": true,
+          "rationale": "Identificar este peque\u00f1o grupo permite enfocar el control en lo que financieramente es vital."
+        },
+        {
+          "text": "Tratar todos los art\u00edculos del inventario con el mismo rigor administrativo.",
+          "isCorrect": false,
+          "rationale": "Intentar controlar todo por igual es un error operativo y es pr\u00e1cticamente imposible."
+        },
+        {
+          "text": "Comprar el $80\\%$ de los suministros a un solo proveedor estrat\u00e9gico.",
+          "isCorrect": false,
+          "rationale": "Pareto se refiere a la distribuci\u00f3n de valor del inventario interno, no a la concentraci\u00f3n de proveedores."
+        },
+        {
+          "text": "Eliminar el $20\\%$ de los c\u00f3digos con menor movimiento cada mes.",
+          "isCorrect": false,
+          "rationale": "La ley busca clasificar para gestionar mejor, no necesariamente eliminar art\u00edculos del cat\u00e1logo."
+        }
+      ],
+      "hint": "Se trata de separar lo vital de lo trivial para ahorrar energ\u00eda y capital."
+    },
+    {
+      "question": "En el c\u00e1lculo estad\u00edstico para la curva de Pareto, \u00bfqu\u00e9 representa la operaci\u00f3n $1/n$?",
+      "answerOptions": [
+        {
+          "text": "El porcentaje de representatividad de cada art\u00edculo individual sobre el universo total.",
+          "isCorrect": true,
+          "rationale": "Este c\u00e1lculo permite determinar el peso de cada \u00edtem para graficarlo en el eje horizontal."
+        },
+        {
+          "text": "El costo unitario de un producto dividido entre el presupuesto anual.",
+          "isCorrect": false,
+          "rationale": "La f\u00f3rmula busca la posici\u00f3n relativa del art\u00edculo en el conjunto total de c\u00f3digos, no su costo monetario directo."
+        },
+        {
+          "text": "La probabilidad de que un art\u00edculo sufra un quiebre de stock.",
+          "isCorrect": false,
+          "rationale": "El c\u00e1lculo $1/n$ es una medida de distribuci\u00f3n de la cantidad de art\u00edculos, no de riesgo operativo."
+        },
+        {
+          "text": "El tiempo de espera entre la emisi\u00f3n de la orden y la recepci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta medida corresponde al lead time, no a la metodolog\u00eda de clasificaci\u00f3n de inventarios."
+        }
+      ],
+      "hint": "Es el primer paso para armar el eje horizontal (X) de la gr\u00e1fica."
+    },
+    {
+      "question": "\u00bfCon qu\u00e9 frecuencia se recomienda revisar los art\u00edculos de Categor\u00eda A en un sistema ABC?",
+      "answerOptions": [
+        {
+          "text": "De forma interdiaria o semanal.",
+          "isCorrect": true,
+          "rationale": "Al representar el $80\\%$ del valor, estos art\u00edculos exigen una revisi\u00f3n intensiva y auditor\u00edas constantes."
+        },
+        {
+          "text": "\u00danicamente una vez al a\u00f1o para simplificar procesos.",
+          "isCorrect": false,
+          "rationale": "La revisi\u00f3n anual es una estrategia para los art\u00edculos Categor\u00eda C, no para los de alto valor."
+        },
+        {
+          "text": "De manera mensual siguiendo un calendario programado.",
+          "isCorrect": false,
+          "rationale": "La revisi\u00f3n mensual es t\u00edpica de la categor\u00eda B, que tiene un impacto econ\u00f3mico intermedio."
+        },
+        {
+          "text": "Solo cuando el departamento de operaciones reporte una falla.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n estrat\u00e9gica es proactiva y no debe depender \u00fanicamente de fallas operativas."
+        }
+      ],
+      "hint": "Son los 'reyes' del almac\u00e9n y requieren control m\u00e1ximo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la estrategia recomendada para los art\u00edculos de Categor\u00eda C?",
+      "answerOptions": [
+        {
+          "text": "Simplificaci\u00f3n administrativa total y compras en grandes vol\u00famenes.",
+          "isCorrect": true,
+          "rationale": "Al valer poco dinero, no tiene sentido gastar recursos en gestionar muchas \u00f3rdenes de compra."
+        },
+        {
+          "text": "Establecer contratos marco con auditor\u00edas semanales rigurosas.",
+          "isCorrect": false,
+          "rationale": "Este nivel de control se reserva para la Categor\u00eda A debido a su alto impacto financiero."
+        },
+        {
+          "text": "Mantener inventarios cero y comprar solo bajo pedido inmediato.",
+          "isCorrect": false,
+          "rationale": "Esto aumentar\u00eda la carga administrativa de forma absurda para art\u00edculos de bajo valor."
+        },
+        {
+          "text": "Negociar precios diariamente con m\u00faltiples proveedores locales.",
+          "isCorrect": false,
+          "rationale": "El costo administrativo de negociar a diario superar\u00eda el valor mismo de los productos Categor\u00eda C."
+        }
+      ],
+      "hint": "Son muchos art\u00edculos pero valen apenas el $5\\%$ del dinero."
+    },
+    {
+      "question": "\u00bfQu\u00e9 variables se cruzan en los ejes de la Matriz de Kraljic?",
+      "answerOptions": [
+        {
+          "text": "Impacto en resultados y riesgo/complejidad de suministro.",
+          "isCorrect": true,
+          "rationale": "Estos dos ejes definen la posici\u00f3n estrat\u00e9gica de cada insumo frente al mercado externo."
+        },
+        {
+          "text": "Precio unitario y volumen de almacenamiento f\u00edsico.",
+          "isCorrect": false,
+          "rationale": "Esta relaci\u00f3n se asemeja m\u00e1s al an\u00e1lisis ABC que a la segmentaci\u00f3n estrat\u00e9gica de Kraljic."
+        },
+        {
+          "text": "Historial de compras y proyecciones de demanda futura.",
+          "isCorrect": false,
+          "rationale": "Aunque son datos \u00fatiles, no definen los cuadrantes de la matriz de Kraljic."
+        },
+        {
+          "text": "Calidad t\u00e9cnica y distancia geogr\u00e1fica del proveedor.",
+          "isCorrect": false,
+          "rationale": "Estos son criterios de selecci\u00f3n, pero no los ejes fundamentales propuestos por el modelo."
+        }
+      ],
+      "hint": "Analiza cu\u00e1nto afectan los n\u00fameros del negocio y qu\u00e9 tan dif\u00edcil es conseguir el producto."
+    },
+    {
+      "question": "En la Matriz de Kraljic, \u00bfqu\u00e9 caracteriza a los productos 'rutinarios'?",
+      "answerOptions": [
+        {
+          "text": "Bajo impacto financiero y bajo riesgo de suministro.",
+          "isCorrect": true,
+          "rationale": "Son art\u00edculos comunes (como papeler\u00eda) con muchos proveedores disponibles y sin impacto cr\u00edtico."
+        },
+        {
+          "text": "Alto impacto financiero y suministro garantizado por monopolio.",
+          "isCorrect": false,
+          "rationale": "Si el impacto es alto, el producto no ser\u00eda rutinario; podr\u00eda ser palanca o estrat\u00e9gico."
+        },
+        {
+          "text": "Dificultad extrema para ser adquiridos en el mercado local.",
+          "isCorrect": false,
+          "rationale": "La dificultad de adquisici\u00f3n define a los productos cuello de botella o estrat\u00e9gicos."
+        },
+        {
+          "text": "Necesidad de alianzas a largo plazo con el fabricante.",
+          "isCorrect": false,
+          "rationale": "Para productos rutinarios se busca eficiencia administrativa, no alianzas profundas."
+        }
+      ],
+      "hint": "Piense en materiales de limpieza o art\u00edculos de oficina."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal al gestionar productos 'cuello de botella'?",
+      "answerOptions": [
+        {
+          "text": "Garantizar el suministro a cualquier costo para evitar paradas.",
+          "isCorrect": true,
+          "rationale": "Aunque su valor sea bajo, su escasez puede detener m\u00e1quinas millonarias, por lo que el precio es secundario."
+        },
+        {
+          "text": "Fomentar la competencia feroz para reducir el precio unitario.",
+          "isCorrect": false,
+          "rationale": "Esto es aplicable a productos palanca, pero en cuellos de botella hay pocos proveedores disponibles."
+        },
+        {
+          "text": "Permitir que cada \u00e1rea pida sus propios repuestos libremente.",
+          "isCorrect": false,
+          "rationale": "Dada la criticidad del riesgo, estos productos requieren planes de contingencia centralizados."
+        },
+        {
+          "text": "Eliminar el stock de seguridad para ahorrar espacio en almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "En cuellos de botella se busca lo opuesto: asegurar stock (incluso VMI) por el alto riesgo de suministro."
+        }
+      ],
+      "hint": "Una pieza de $20 puede detener una m\u00e1quina de millones de d\u00f3lares."
+    },
+    {
+      "question": "En el cuadrante de productos 'Palanca', \u00bfd\u00f3nde reside el poder de la empresa compradora?",
+      "answerOptions": [
+        {
+          "text": "En el alto volumen de compra y la abundancia de proveedores.",
+          "isCorrect": true,
+          "rationale": "La empresa puede usar su peso financiero para hacer que los proveedores compitan por precio."
+        },
+        {
+          "text": "En la exclusividad tecnol\u00f3gica que solo posee un proveedor.",
+          "isCorrect": false,
+          "rationale": "Si hay exclusividad, el riesgo de suministro ser\u00eda alto, lo cual no ocurre en los productos palanca."
+        },
+        {
+          "text": "En la capacidad de fabricar el insumo internamente.",
+          "isCorrect": false,
+          "rationale": "El apalancamiento se refiere a la negociaci\u00f3n en el mercado externo, no a la producci\u00f3n propia."
+        },
+        {
+          "text": "En la creaci\u00f3n de alianzas win-win a muy largo plazo.",
+          "isCorrect": false,
+          "rationale": "Las alianzas son propias de productos estrat\u00e9gicos; en palanca se busca la maximizaci\u00f3n del ahorro."
+        }
+      ],
+      "hint": "Se aprovecha que el mercado est\u00e1 lleno de vendedores ansiosos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es obligatorio construir alianzas estrat\u00e9gicas para productos como el cianuro de sodio?",
+      "answerOptions": [
+        {
+          "text": "Porque tienen un alto impacto financiero y un alto riesgo de suministro.",
+          "isCorrect": true,
+          "rationale": "Al ser cr\u00edticos y escasos, una falla detendr\u00eda la operaci\u00f3n; la colaboraci\u00f3n asegura la supervivencia."
+        },
+        {
+          "text": "Porque es la \u00fanica forma de conseguir descuentos por volumen.",
+          "isCorrect": false,
+          "rationale": "El objetivo principal en estos productos estrat\u00e9gicos es la seguridad del suministro, no solo el descuento."
+        },
+        {
+          "text": "Porque el mercado tiene demasiados proveedores y es dif\u00edcil elegir.",
+          "isCorrect": false,
+          "rationale": "Al contrario, para productos estrat\u00e9gicos suele haber muy pocos proveedores capaces de cumplir la demanda."
+        },
+        {
+          "text": "Porque son productos de bajo valor que no requieren control interno.",
+          "isCorrect": false,
+          "rationale": "Estos productos son extremadamente caros y vitales, situ\u00e1ndose en el cl\u00edmax de la matriz de Kraljic."
+        }
+      ],
+      "hint": "Son insumos donde una falla significa la paralizaci\u00f3n total."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio se obtiene al combinar el an\u00e1lisis ABC con la Matriz de Kraljic?",
+      "answerOptions": [
+        {
+          "text": "Una visi\u00f3n tridimensional que une el control financiero interno con el entorno externo.",
+          "isCorrect": true,
+          "rationale": "ABC da control del dinero en estantes y Kraljic dicta el comportamiento frente a proveedores."
+        },
+        {
+          "text": "La reducci\u00f3n autom\u00e1tica de los costos de flete internacional.",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda a la estrategia, no garantiza por s\u00ed sola la reducci\u00f3n de costos log\u00edsticos externos como fletes."
+        },
+        {
+          "text": "La eliminaci\u00f3n de la necesidad de realizar inventarios f\u00edsicos anuales.",
+          "isCorrect": false,
+          "rationale": "Los inventarios f\u00edsicos siguen siendo necesarios para auditar la veracidad de los datos anal\u00edticos."
+        },
+        {
+          "text": "La posibilidad de delegar toda la negociaci\u00f3n a un sistema de inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "Las herramientas apoyan al gestor estrat\u00e9gico, pero la toma de decisiones y alianzas requieren intervenci\u00f3n humana."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo se integra lo que pasa dentro del almac\u00e9n con lo que pasa afuera en el mercado."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gesti\u00f3n estrat\u00e9gica de adquisiciones",
+      "Matriz de Kraljic",
+      "An\u00e1lisis de Pareto ABC",
+      "Costo Total de Propiedad (TCO)",
+      "Cumplimiento fiscal y operativo",
+      "Optimizaci\u00f3n de inventarios mineros"
+    ],
+    "followUp": [
+      "Modelos de inventario gestionado por el proveedor (VMI)",
+      "Negociaci\u00f3n de contratos marco en miner\u00eda",
+      "An\u00e1lisis de criticidad de activos fijos",
+      "Gesti\u00f3n de riesgos en la cadena de suministro global",
+      "Sistemas ERP para log\u00edstica minera"
+    ]
+  }
+}

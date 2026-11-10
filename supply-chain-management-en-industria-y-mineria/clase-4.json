@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 porcentaje aproximado del total de las exportaciones nacionales representa la actividad minero-met\u00e1lica en el Per\u00fa?",
+      "answerOptions": [
+        {
+          "text": "$61\\%$",
+          "isCorrect": true,
+          "rationale": "Este valor refleja la importancia cr\u00edtica de la miner\u00eda como motor principal de la estabilidad macroecon\u00f3mica del pa\u00eds."
+        },
+        {
+          "text": "$45\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra significativa, subestima el impacto real de los minerales en la balanza comercial peruana."
+        },
+        {
+          "text": "$75\\%$",
+          "isCorrect": false,
+          "rationale": "Esta cifra sobreestima la participaci\u00f3n de la miner\u00eda, ignorando la contribuci\u00f3n de otros sectores exportadores."
+        },
+        {
+          "text": "$30\\%$",
+          "isCorrect": false,
+          "rationale": "Este valor es demasiado bajo para un pa\u00eds cuya econom\u00eda depende fuertemente de la extracci\u00f3n de recursos minerales."
+        }
+      ],
+      "hint": "Considere que este sector constituye la mayor\u00eda absoluta de los env\u00edos al exterior."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el mineral considerado indispensable para liderar la transici\u00f3n energ\u00e9tica global?",
+      "answerOptions": [
+        {
+          "text": "Oro",
+          "isCorrect": false,
+          "rationale": "A pesar de su valor financiero, no es el conductor principal de las tecnolog\u00edas de energ\u00eda limpia."
+        },
+        {
+          "text": "Cobre",
+          "isCorrect": true,
+          "rationale": "Sus propiedades de conductividad lo hacen esencial para la electrificaci\u00f3n y las tecnolog\u00edas de energ\u00eda renovable."
+        },
+        {
+          "text": "Hierro",
+          "isCorrect": false,
+          "rationale": "Se usa masivamente en construcci\u00f3n, pero no es el mineral cr\u00edtico espec\u00edfico para la transici\u00f3n energ\u00e9tica."
+        },
+        {
+          "text": "Plata",
+          "isCorrect": false,
+          "rationale": "Tiene usos industriales, pero su importancia estrat\u00e9gica en la transici\u00f3n es menor comparada con la del metal rojo."
+        }
+      ],
+      "hint": "Este metal es fundamental para la fabricaci\u00f3n de veh\u00edculos el\u00e9ctricos y cableado de alta eficiencia."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la metamorfosis del departamento de compras en la industria minera moderna?",
+      "answerOptions": [
+        {
+          "text": "Convertirse en un departamento de tr\u00e1mites administrativos r\u00e1pidos.",
+          "isCorrect": false,
+          "rationale": "Esta visi\u00f3n reduccionista ignora el impacto estrat\u00e9gico y la gesti\u00f3n de riesgos que requiere la industria actual."
+        },
+        {
+          "text": "Pasar de un centro de costos operativos a un socio estrat\u00e9gico.",
+          "isCorrect": true,
+          "rationale": "La evoluci\u00f3n busca conectar la eficiencia financiera con la resiliencia operativa y la creaci\u00f3n de valor mutuo."
+        },
+        {
+          "text": "Enfocarse exclusivamente en el regateo de precios por unidad.",
+          "isCorrect": false,
+          "rationale": "El enfoque solo en el precio destruye la confianza con el proveedor y no garantiza la sostenibilidad a largo plazo."
+        },
+        {
+          "text": "Externalizar todas las funciones de adquisici\u00f3n a terceros.",
+          "isCorrect": false,
+          "rationale": "Perder el control del abastecimiento impedir\u00eda la gesti\u00f3n directa de riesgos sist\u00e9micos y sociales."
+        }
+      ],
+      "hint": "Piense en el cambio de una funci\u00f3n reactiva de gasto hacia una proactiva de colaboraci\u00f3n con el negocio."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el enfoque principal del sourcing estrat\u00e9gico a diferencia del abastecimiento t\u00e1ctico?",
+      "answerOptions": [
+        {
+          "text": "La reacci\u00f3n inmediata ante urgencias operativas.",
+          "isCorrect": false,
+          "rationale": "Reaccionar a urgencias es una caracter\u00edstica del abastecimiento t\u00e1ctico o de 'apagar incendios'."
+        },
+        {
+          "text": "El Costo Total de Propiedad (TCO).",
+          "isCorrect": true,
+          "rationale": "El sourcing estrat\u00e9gico considera todo el ciclo de vida del producto, no solo el precio de compra inicial."
+        },
+        {
+          "text": "La obtenci\u00f3n del precio unitario m\u00e1s bajo posible.",
+          "isCorrect": false,
+          "rationale": "Este es un objetivo puramente t\u00e1ctico que a menudo ignora los costos log\u00edsticos o de mantenimiento futuros."
+        },
+        {
+          "text": "La compra masiva por si acaso para evitar desabasto.",
+          "isCorrect": false,
+          "rationale": "Esto genera exceso de inventario y capital inmovilizado, lo cual es contrario a la eficiencia estrat\u00e9gica."
+        }
+      ],
+      "hint": "Considere una visi\u00f3n integral que abarca desde la adquisici\u00f3n hasta la disposici\u00f3n final."
+    },
+    {
+      "question": "Dentro de las '8C' del abastecimiento, \u00bfc\u00f3mo se define t\u00e9cnicamente la 'Calidad'?",
+      "answerOptions": [
+        {
+          "text": "Adquirir el producto con los materiales m\u00e1s premium del mercado.",
+          "isCorrect": false,
+          "rationale": "Lo premium es subjetivo y puede incurrir en sobrecostos innecesarios para la operaci\u00f3n espec\u00edfica."
+        },
+        {
+          "text": "El cumplimiento estricto de las especificaciones del cat\u00e1logo maestro.",
+          "isCorrect": true,
+          "rationale": "La calidad se mide por la precisi\u00f3n milim\u00e9trica en cumplir lo que la operaci\u00f3n requiere t\u00e9cnicamente."
+        },
+        {
+          "text": "La durabilidad infinita del componente sin necesidad de mantenimiento.",
+          "isCorrect": false,
+          "rationale": "Esto es f\u00edsicamente imposible y no constituye una m\u00e9trica de gesti\u00f3n de compras realista."
+        },
+        {
+          "text": "La preferencia est\u00e9tica del usuario final en la mina.",
+          "isCorrect": false,
+          "rationale": "La subjetividad del usuario no garantiza la eficiencia operativa ni el cumplimiento t\u00e9cnico."
+        }
+      ],
+      "hint": "Piense en la adherencia a un est\u00e1ndar documental previamente establecido."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio principal se obtuvo al recortar las puntas de las mallas electrosoldadas a $0.5$ cm?",
+      "answerOptions": [
+        {
+          "text": "Reducci\u00f3n significativa en el peso total de la carga.",
+          "isCorrect": false,
+          "rationale": "El recorte de medio cent\u00edmetro no tiene un impacto relevante en el peso de la estructura."
+        },
+        {
+          "text": "Eliminaci\u00f3n de accidentes por cortes en el personal.",
+          "isCorrect": true,
+          "rationale": "Este ajuste t\u00e9cnico simple prioriz\u00f3 la seguridad del personal tanto en almac\u00e9n como en el interior de la mina."
+        },
+        {
+          "text": "Ahorro masivo en el costo del acero utilizado.",
+          "isCorrect": false,
+          "rationale": "El volumen de material ahorrado es insignificante frente al costo total de la malla."
+        },
+        {
+          "text": "Facilidad para apilar las mallas en espacios reducidos.",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda al manejo, el objetivo central y m\u00e1s valioso fue la prevenci\u00f3n de lesiones."
+        }
+      ],
+      "hint": "El impacto m\u00e1s fuerte de esta innovaci\u00f3n t\u00e9cnica se dio en el bienestar f\u00edsico del trabajador."
+    },
+    {
+      "question": "\u00bfQu\u00e9 demostr\u00f3 el caso de la PYME local que fabric\u00f3 asientos para maquinaria pesada frente a los fabricantes originales (OEM)?",
+      "answerOptions": [
+        {
+          "text": "Que los productos locales siempre son de menor calidad pero m\u00e1s baratos.",
+          "isCorrect": false,
+          "rationale": "En este caso, la calidad local super\u00f3 a la original, rompiendo el mito de la inferioridad local."
+        },
+        {
+          "text": "Que es imposible competir contra los est\u00e1ndares de los OEM extranjeros.",
+          "isCorrect": false,
+          "rationale": "El \u00e9xito de la PYME demostr\u00f3 que la ingenier\u00eda local puede ser competitiva y superior en ergonom\u00eda."
+        },
+        {
+          "text": "Que el desarrollo de proveedores locales rompe la inercia de importar todo.",
+          "isCorrect": true,
+          "rationale": "La inteligencia de mercado permite encontrar soluciones locales m\u00e1s eficientes, econ\u00f3micas y resistentes."
+        },
+        {
+          "text": "Que los asientos importados no son aptos para la geograf\u00eda peruana.",
+          "isCorrect": false,
+          "rationale": "Los asientos OEM son aptos, pero la soluci\u00f3n local demostr\u00f3 que se puede mejorar el costo y la ergonom\u00eda."
+        }
+      ],
+      "hint": "Piense en las ventajas de la cercan\u00eda y la personalizaci\u00f3n t\u00e9cnica frente a las compras internacionales."
+    },
+    {
+      "question": "En la met\u00e1fora del iceberg del TCO, \u00bfqu\u00e9 representa la punta que asoma sobre el agua?",
+      "answerOptions": [
+        {
+          "text": "Los costos de mantenimiento preventivo.",
+          "isCorrect": false,
+          "rationale": "El mantenimiento es un costo sumergido que ocurre durante el ciclo de vida, no en la compra inicial."
+        },
+        {
+          "text": "El precio inicial de compra.",
+          "isCorrect": true,
+          "rationale": "Es el valor m\u00e1s visible y por el que suelen pelear los compradores t\u00e1cticos, ignorando lo que hay debajo."
+        },
+        {
+          "text": "El costo de disposici\u00f3n final de los residuos.",
+          "isCorrect": false,
+          "rationale": "Este costo aparece al final de la vida \u00fatil y es parte de la masa de hielo oculta."
+        },
+        {
+          "text": "El impacto ambiental de la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque es importante, el iceberg del TCO se enfoca espec\u00edficamente en los componentes del costo financiero del activo."
+        }
+      ],
+      "hint": "Es el dato m\u00e1s evidente en una cotizaci\u00f3n o factura inmediata."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el exceso de inventario se considera una 'sangr\u00eda financiera' bajo el concepto de TCO?",
+      "answerOptions": [
+        {
+          "text": "Porque ocupa demasiado espacio f\u00edsico en los almacenes de la mina.",
+          "isCorrect": false,
+          "rationale": "El espacio es un factor, pero el problema financiero real es el dinero que no est\u00e1 circulando."
+        },
+        {
+          "text": "Porque representa capital inmovilizado que deja de invertirse.",
+          "isCorrect": true,
+          "rationale": "El dinero 'estancado' en repuestos 'por si acaso' genera un costo de oportunidad cr\u00edtico para el negocio."
+        },
+        {
+          "text": "Porque atrae la atenci\u00f3n de la miner\u00eda ilegal.",
+          "isCorrect": false,
+          "rationale": "No existe una relaci\u00f3n directa entre el inventario de repuestos y la atracci\u00f3n de miner\u00eda ilegal."
+        },
+        {
+          "text": "Porque aumenta el pago de impuestos por activos fijos.",
+          "isCorrect": false,
+          "rationale": "Aunque hay implicaciones contables, la p\u00e9rdida principal es la falta de liquidez para otras inversiones estrat\u00e9gicas."
+        }
+      ],
+      "hint": "Reflexione sobre el uso alternativo que se le podr\u00eda dar al dinero atrapado en estanter\u00edas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el riesgo de guardar repuestos por muchos a\u00f1os en una industria con alta velocidad tecnol\u00f3gica?",
+      "answerOptions": [
+        {
+          "text": "La obsolescencia t\u00e9cnica.",
+          "isCorrect": true,
+          "rationale": "Si la maquinaria se actualiza, las piezas acumuladas pierden su valor funcional y contable de inmediato."
+        },
+        {
+          "text": "La corrosi\u00f3n natural del metal.",
+          "isCorrect": false,
+          "rationale": "Aunque es un riesgo f\u00edsico, la p\u00e9rdida total de valor suele venir por el cambio de est\u00e1ndares tecnol\u00f3gicos."
+        },
+        {
+          "text": "El incremento en el costo del seguro de almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "Es un costo menor comparado con la p\u00e9rdida del valor total del activo por ya no ser utilizable."
+        },
+        {
+          "text": "La dificultad para realizar inventarios c\u00edclicos.",
+          "isCorrect": false,
+          "rationale": "Esto es un inconveniente administrativo, no un riesgo financiero catastr\u00f3fico como la p\u00e9rdida de utilidad."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 sucede con una pieza cuando el equipo principal es reemplazado por un modelo nuevo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 mejora introduce el uso de una escala logar\u00edtmica en la matriz de Kraljic avanzada?",
+      "answerOptions": [
+        {
+          "text": "Permite comprar m\u00e1s volumen a menor precio de transporte.",
+          "isCorrect": false,
+          "rationale": "La escala logar\u00edtmica es una herramienta de an\u00e1lisis de datos, no una t\u00e1ctica de negociaci\u00f3n de volumen."
+        },
+        {
+          "text": "Elimina la distorsi\u00f3n generada por \u00edtems con precios extremadamente altos.",
+          "isCorrect": true,
+          "rationale": "Permite ubicar cada material con precisi\u00f3n quir\u00fargica en su cuadrante sin que los valores at\u00edpicos sesguen el an\u00e1lisis."
+        },
+        {
+          "text": "Reduce autom\u00e1ticamente el tiempo de entrega de los proveedores.",
+          "isCorrect": false,
+          "rationale": "El tiempo de entrega depende de la log\u00edstica, no de la escala matem\u00e1tica usada para categorizar."
+        },
+        {
+          "text": "Facilita la visualizaci\u00f3n de los almacenes en mapas digitales.",
+          "isCorrect": false,
+          "rationale": "La matriz de Kraljic clasifica importancia estrat\u00e9gica y riesgo, no ubicaci\u00f3n geogr\u00e1fica f\u00edsica."
+        }
+      ],
+      "hint": "Considere c\u00f3mo se visualizan datos donde unos pocos elementos valen millones y otros valen centavos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 incremento en la eficiencia log\u00edstica se estima al implementar machine learning y anal\u00edtica predictiva?",
+      "answerOptions": [
+        {
+          "text": "Del $5$ al $10\\%$",
+          "isCorrect": false,
+          "rationale": "Este rango es conservador y no refleja el potencial transformador de las herramientas digitales modernas."
+        },
+        {
+          "text": "Del $20$ al $30\\%$",
+          "isCorrect": true,
+          "rationale": "Esta mejora representa millones en ahorros y una revoluci\u00f3n en la disponibilidad de activos cr\u00edticos."
+        },
+        {
+          "text": "Exactamente un $50\\%$",
+          "isCorrect": false,
+          "rationale": "Es una cifra demasiado optimista y poco realista para la complejidad de las operaciones mineras."
+        },
+        {
+          "text": "No hay un incremento medible actualmente.",
+          "isCorrect": false,
+          "rationale": "Los datos demuestran que la integraci\u00f3n de IA y planes de mantenimiento genera resultados tangibles y cuantificables."
+        }
+      ],
+      "hint": "Se trata de un salto de eficiencia de aproximadamente una cuarta parte del rendimiento anterior."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es uno de los tres 'resultados de oro' de la sinergia entre inteligencia artificial y planes de mantenimiento?",
+      "answerOptions": [
+        {
+          "text": "Eliminaci\u00f3n total de los proveedores extranjeros.",
+          "isCorrect": false,
+          "rationale": "La IA optimiza procesos, pero no puede sustituir la necesidad de ciertos componentes globales especializados."
+        },
+        {
+          "text": "Reducci\u00f3n de paradas catastr\u00f3ficas.",
+          "isCorrect": true,
+          "rationale": "Al anticipar fallos, se garantiza que el repuesto est\u00e9 listo exactamente cuando se necesita, evitando paros no planificados."
+        },
+        {
+          "text": "Sustituci\u00f3n de todo el personal humano en los almacenes.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda apoya la decisi\u00f3n, pero la gesti\u00f3n log\u00edstica a\u00fan requiere supervisi\u00f3n y criterio humano."
+        },
+        {
+          "text": "Aumento del inventario de seguridad en todos los cuadrantes.",
+          "isCorrect": false,
+          "rationale": "La IA busca precisamente lo contrario: optimizar el inventario para no tener excesos innecesarios."
+        }
+      ],
+      "hint": "Busque el objetivo que garantiza que la producci\u00f3n no se detenga de forma inesperada."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza a un modelo bimodal en las redes log\u00edsticas mineras?",
+      "answerOptions": [
+        {
+          "text": "El uso exclusivo de aviones y barcos para el transporte.",
+          "isCorrect": false,
+          "rationale": "Estos medios no son los principales para el movimiento interno de grandes vol\u00famenes de suministros en los Andes."
+        },
+        {
+          "text": "La integraci\u00f3n inteligente del transporte por carretera y ferroviario.",
+          "isCorrect": true,
+          "rationale": "Esta combinaci\u00f3n permite aprovechar la flexibilidad de los camiones y la capacidad de carga segura de los trenes."
+        },
+        {
+          "text": "La divisi\u00f3n de la carga entre proveedores locales y nacionales.",
+          "isCorrect": false,
+          "rationale": "Bimodal se refiere al medio de transporte f\u00edsico, no al origen comercial del proveedor."
+        },
+        {
+          "text": "El transporte de personal y minerales en el mismo veh\u00edculo.",
+          "isCorrect": false,
+          "rationale": "Esto no define la bimodalidad log\u00edstica de suministros y ser\u00eda ineficiente por normas de seguridad."
+        }
+      ],
+      "hint": "Piense en la combinaci\u00f3n de dos infraestructuras de transporte terrestre distintas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple la estaci\u00f3n de transferencia de La Joya para la operaci\u00f3n de Cerro Verde?",
+      "answerOptions": [
+        {
+          "text": "Es un centro de capacitaci\u00f3n para conductores de camiones.",
+          "isCorrect": false,
+          "rationale": "Aunque puede haber instrucci\u00f3n, su rol principal es log\u00edstico y de intercambio de carga."
+        },
+        {
+          "text": "Funciona como un nodo donde la carga pasa de camiones a trenes.",
+          "isCorrect": true,
+          "rationale": "Act\u00faa como una v\u00e1lvula de escape que mejora la eficiencia y reduce la exposici\u00f3n a riesgos en rutas p\u00fablicas."
+        },
+        {
+          "text": "Es el punto de inspecci\u00f3n para detectar miner\u00eda ilegal.",
+          "isCorrect": false,
+          "rationale": "Su prop\u00f3sito es la optimizaci\u00f3n de la cadena de suministro propia de la mina, no la fiscalizaci\u00f3n policial."
+        },
+        {
+          "text": "Es el almac\u00e9n central de explosivos de la regi\u00f3n sur.",
+          "isCorrect": false,
+          "rationale": "Se trata de un nodo de transferencia multimodal, no un polvor\u00edn de almacenamiento masivo regional."
+        }
+      ],
+      "hint": "Imagine un lugar donde se cambia de 'veh\u00edculo' para optimizar el trayecto final."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia de vulnerabilidad entre Cerro Verde y Las Bambas respecto al transporte?",
+      "answerOptions": [
+        {
+          "text": "Cerro Verde tiene camiones m\u00e1s modernos que Las Bambas.",
+          "isCorrect": false,
+          "rationale": "La vulnerabilidad no reside en la flota, sino en el control sobre la v\u00eda de tr\u00e1nsito."
+        },
+        {
+          "text": "Las Bambas depende de un corredor p\u00fablico de $482$ km sujeto a bloqueos.",
+          "isCorrect": true,
+          "rationale": "La falta de control sobre la infraestructura p\u00fablica expone a la operaci\u00f3n a interrupciones constantes por conflictos sociales."
+        },
+        {
+          "text": "Cerro Verde opera a una altitud mucho mayor que Las Bambas.",
+          "isCorrect": false,
+          "rationale": "Ambas operan en entornos extremos, pero la diferencia cr\u00edtica citada es la propiedad y control de la ruta log\u00edstica."
+        },
+        {
+          "text": "Las Bambas utiliza solo transporte ferroviario sin estaciones de transferencia.",
+          "isCorrect": false,
+          "rationale": "Las Bambas depende cr\u00edticamente de una extensa ruta por carretera, lo que aumenta su fragilidad log\u00edstica."
+        }
+      ],
+      "hint": "Considere qui\u00e9n tiene el control sobre la carretera por la que transitan los suministros."
+    },
+    {
+      "question": "Dentro de los criterios ESG, \u00bfcu\u00e1l es la funci\u00f3n de la norma ISO $37001$?",
+      "answerOptions": [
+        {
+          "text": "Garantizar la descarbonizaci\u00f3n de la flota de camiones.",
+          "isCorrect": false,
+          "rationale": "La descarbonizaci\u00f3n est\u00e1 relacionada con est\u00e1ndares ambientales, no con la ISO $37001$."
+        },
+        {
+          "text": "Asegurar la \u00e9tica empresarial mediante sistemas antisoborno.",
+          "isCorrect": true,
+          "rationale": "Esta norma es fundamental para el pilar de Gobernanza (G) y para asegurar la transparencia radical."
+        },
+        {
+          "text": "Certificar la calidad de los minerales extra\u00eddos.",
+          "isCorrect": false,
+          "rationale": "La ISO $37001$ se enfoca en procesos de integridad corporativa, no en propiedades metal\u00fargicas."
+        },
+        {
+          "text": "Regular las relaciones con las comunidades locales.",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda a la transparencia con ellas, su foco principal es la prevenci\u00f3n de actos de corrupci\u00f3n."
+        }
+      ],
+      "hint": "Piense en el pilar de 'Gobernanza' y la lucha contra las malas pr\u00e1cticas corporativas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo potencial puede generar una inyecci\u00f3n masiva de capital por compras locales en comunidades peque\u00f1as?",
+      "answerOptions": [
+        {
+          "text": "Una deflaci\u00f3n severa de los precios locales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la abundancia de dinero suele presionar los precios al alza, no a la baja."
+        },
+        {
+          "text": "Inflaci\u00f3n local que encarece el costo de vida de los vecinos.",
+          "isCorrect": true,
+          "rationale": "Si no se gestiona bien, el flujo de dinero puede perjudicar a quienes no trabajan directamente para la mina."
+        },
+        {
+          "text": "La desaparici\u00f3n total de los proveedores extranjeros.",
+          "isCorrect": false,
+          "rationale": "Las compras locales conviven con las importaciones; no son capaces de sustituirlas \u00edntegramente."
+        },
+        {
+          "text": "Un exceso de oferta de productos agr\u00edcolas.",
+          "isCorrect": false,
+          "rationale": "La demanda minera suele absorber la producci\u00f3n local, no generar excedentes sin vender."
+        }
+      ],
+      "hint": "Considere c\u00f3mo afecta el exceso de demanda y liquidez al precio de los alimentos y servicios b\u00e1sicos en la zona."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 las compras locales se consideran 'amortiguadores sociales' para las mineras?",
+      "answerOptions": [
+        {
+          "text": "Porque son m\u00e1s baratas que comprar en la capital.",
+          "isCorrect": false,
+          "rationale": "A veces son m\u00e1s caras, pero su valor real est\u00e1 en la licencia social y la paz operativa."
+        },
+        {
+          "text": "Porque crean prosperidad compartida que garantiza la continuidad operativa.",
+          "isCorrect": true,
+          "rationale": "Al integrar a la comunidad en la cadena de valor, se reduce la conflictividad y se protege la operaci\u00f3n."
+        },
+        {
+          "text": "Porque permiten evadir impuestos regionales.",
+          "isCorrect": false,
+          "rationale": "Las compras locales son formales y no tienen como fin la evasi\u00f3n fiscal, sino el desarrollo econ\u00f3mico."
+        },
+        {
+          "text": "Porque reducen la necesidad de usar transporte ferroviario.",
+          "isCorrect": false,
+          "rationale": "El origen del proveedor no cambia necesariamente el medio de transporte masivo requerido por la operaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en la relaci\u00f3n entre el bienestar econ\u00f3mico del vecino y la seguridad de la mina."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la conclusi\u00f3n definitiva sobre el futuro de la log\u00edstica en la miner\u00eda resiliente?",
+      "answerOptions": [
+        {
+          "text": "Debe basarse exclusivamente en la reducci\u00f3n de costos financieros.",
+          "isCorrect": false,
+          "rationale": "El enfoque solo en costos ignora los riesgos sociales que pueden paralizar la mina por completo."
+        },
+        {
+          "text": "Debe transformar la log\u00edstica en un ejercicio de gesti\u00f3n social.",
+          "isCorrect": true,
+          "rationale": "La fortaleza real no est\u00e1 en la infraestructura f\u00edsica, sino en las relaciones sostenibles con el entorno humano."
+        },
+        {
+          "text": "Debe priorizar la automatizaci\u00f3n total para evitar el contacto humano.",
+          "isCorrect": false,
+          "rationale": "El aislamiento de la operaci\u00f3n aumenta la desconfianza y el riesgo de conflictos con las comunidades."
+        },
+        {
+          "text": "Debe depender \u00fanicamente de la protecci\u00f3n de las fuerzas de seguridad del Estado.",
+          "isCorrect": false,
+          "rationale": "La seguridad f\u00edsica no sustituye a la licencia social; la resiliencia viene del acuerdo mutuo y no de la fuerza."
+        }
+      ],
+      "hint": "Busque el equilibrio entre la eficiencia t\u00e9cnica y la integraci\u00f3n con la comunidad."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Compras Estrat\u00e9gicas en Miner\u00eda",
+      "Sostenibilidad Industrial y ESG",
+      "Gesti\u00f3n de Riesgos Log\u00edsticos",
+      "Costo Total de Propiedad (TCO)",
+      "Transformaci\u00f3n Digital y Anal\u00edtica Predictiva",
+      "Impacto Econ\u00f3mico de las Compras Locales"
+    ],
+    "followUp": [
+      "Metodolog\u00edas de Mitigaci\u00f3n de Riesgos Sociopol\u00edticos",
+      "Modelos Multimodales en Geograf\u00edas Extremas",
+      "Optimizaci\u00f3n de Inventarios mediante Algoritmos de Machine Learning",
+      "Est\u00e1ndares ISO en la \u00c9tica de la Cadena de Suministro"
+    ]
+  }
+}

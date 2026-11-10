@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la principal raz\u00f3n por la que el horizonte A del suelo se considera inadecuado para soportar infraestructura pesada en ingenier\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Su alt\u00edsima compresibilidad debida a la materia org\u00e1nica.",
+          "isCorrect": true,
+          "rationale": "La presencia de material org\u00e1nico y actividad biol\u00f3gica genera una estructura inestable que se deforma f\u00e1cilmente bajo carga."
+        },
+        {
+          "text": "La presencia de fragmentos de roca madre meteorizada.",
+          "isCorrect": false,
+          "rationale": "Esta caracter\u00edstica es propia del horizonte C, el cual es mucho m\u00e1s estable para cimentaciones."
+        },
+        {
+          "text": "Su baja permeabilidad ante eventos de lluvia intensa.",
+          "isCorrect": false,
+          "rationale": "Aunque la permeabilidad var\u00eda, el factor determinante para la ingenier\u00eda estructural en esta capa es su capacidad de deformaci\u00f3n."
+        },
+        {
+          "text": "La ausencia total de microorganismos y actividad biol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el horizonte A se caracteriza por tener una alt\u00edsima actividad biol\u00f3gica, lo que contribuye a su inestabilidad t\u00e9cnica."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede con un material lleno de materia org\u00e1nica cuando se le aplica un peso considerable."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sistema de clasificaci\u00f3n t\u00e9cnica es el m\u00e1s utilizado para el dise\u00f1o y gesti\u00f3n de rutas de acarreo pesado en infraestructura vial?",
+      "answerOptions": [
+        {
+          "text": "Sistema USDA",
+          "isCorrect": false,
+          "rationale": "Este sistema est\u00e1 orientado principalmente al manejo de coberturas y se divide en 12 \u00f3rdenes."
+        },
+        {
+          "text": "Sistema AASHTO",
+          "isCorrect": true,
+          "rationale": "Este marco anal\u00edtico agrupa los materiales en siete categor\u00edas dise\u00f1adas espec\u00edficamente para el \u00e1mbito vial."
+        },
+        {
+          "text": "Sistema SUCS",
+          "isCorrect": false,
+          "rationale": "Aunque es el 'marco rey' en geotecnia de detalle, su uso principal es la clasificaci\u00f3n textural y de porosidad, no exclusivamente vial."
+        },
+        {
+          "text": "Clasificaci\u00f3n de horizontes",
+          "isCorrect": false,
+          "rationale": "La clasificaci\u00f3n por horizontes (A, B, C) es morfol\u00f3gica y no constituye un sistema de estandarizaci\u00f3n de ingenier\u00eda vial."
+        }
+      ],
+      "hint": "Este sistema se enfoca en categorizar materiales para caminos y transporte de carga."
+    },
+    {
+      "question": "En el sistema unificado de clasificaci\u00f3n de suelos (SUCS), \u00bfqu\u00e9 representan s\u00edmbolos como GP o CL?",
+      "answerOptions": [
+        {
+          "text": "La profundidad \u00f3ptima de anclaje en el horizonte C.",
+          "isCorrect": false,
+          "rationale": "Los s\u00edmbolos del SUCS no indican profundidad, sino caracter\u00edsticas intr\u00ednsecas del material del suelo."
+        },
+        {
+          "text": "La clasificaci\u00f3n textural conectada con la porosidad.",
+          "isCorrect": true,
+          "rationale": "El SUCS utiliza c\u00f3digos de dos letras para predecir el equilibrio de fases y el comportamiento mec\u00e1nico del terreno."
+        },
+        {
+          "text": "El nivel de riesgo sociopol\u00edtico de una operaci\u00f3n minera.",
+          "isCorrect": false,
+          "rationale": "Estos s\u00edmbolos son estrictamente t\u00e9cnicos y se refieren a las propiedades f\u00edsicas del suelo."
+        },
+        {
+          "text": "La velocidad de desprendimiento de rocas en metros por segundo.",
+          "isCorrect": false,
+          "rationale": "La velocidad de desprendimiento es una m\u00e9trica de eventos de ca\u00edda, no una clasificaci\u00f3n de tipo de suelo."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo se relacionan el tama\u00f1o de las part\u00edculas y los espacios vac\u00edos en el suelo."
+    },
+    {
+      "question": "Dentro de la composici\u00f3n ideal del ecosistema trif\u00e1sico del suelo, \u00bfqu\u00e9 porcentaje de volumen corresponde al espacio vac\u00edo o poroso?",
+      "answerOptions": [
+        {
+          "text": "$5\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje corresponde usualmente a la materia org\u00e1nica en un suelo equilibrado."
+        },
+        {
+          "text": "$25\\%$",
+          "isCorrect": false,
+          "rationale": "Este es el porcentaje ideal que debe ocupar el agua o el aire individualmente, no el total del espacio poroso."
+        },
+        {
+          "text": "$45\\%$",
+          "isCorrect": false,
+          "rationale": "Este valor representa la fase s\u00f3lida mineral del terreno."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": true,
+          "rationale": "La mitad del volumen del suelo est\u00e1 compuesta por vac\u00edos que son disputados por el aire y el agua."
+        }
+      ],
+      "hint": "Recuerde que el suelo no es un bloque s\u00f3lido; casi la mitad de su estructura es espacio para fluidos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo t\u00e9cnico fundamental del proceso mec\u00e1nico de compactaci\u00f3n del suelo?",
+      "answerOptions": [
+        {
+          "text": "Eliminar el agua estancada en los poros m\u00e1s profundos.",
+          "isCorrect": false,
+          "rationale": "El agua no es comprimible mediante m\u00e9todos mec\u00e1nicos de compactaci\u00f3n est\u00e1ndar."
+        },
+        {
+          "text": "Aumentar la porosidad para facilitar el drenaje h\u00eddrico.",
+          "isCorrect": false,
+          "rationale": "La compactaci\u00f3n busca reducir el volumen de vac\u00edos, lo cual disminuye la porosidad en lugar de aumentarla."
+        },
+        {
+          "text": "Forzar la reducci\u00f3n de volumen expulsando el aire atrapado.",
+          "isCorrect": true,
+          "rationale": "Al presionar el suelo, se busca densificarlo retirando \u00fanicamente la fase gaseosa de los poros."
+        },
+        {
+          "text": "Transformar el horizonte A en material de anclaje seguro.",
+          "isCorrect": false,
+          "rationale": "El horizonte A es org\u00e1nico y altamente compresible; la compactaci\u00f3n no cambia su naturaleza qu\u00edmica o inestabilidad inherente."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 fase del ecosistema trif\u00e1sico es realmente posible extraer mediante presi\u00f3n mec\u00e1nica."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la reducci\u00f3n de volumen real durante la compactaci\u00f3n suele estar limitada a un valor cercano al $3\\%$?",
+      "answerOptions": [
+        {
+          "text": "Debido a que el agua presente en los poros es incompresible.",
+          "isCorrect": true,
+          "rationale": "Como el agua no se puede comprimir por estos m\u00e9todos, una vez que el aire es expulsado, no se puede reducir m\u00e1s el volumen."
+        },
+        {
+          "text": "Por la resistencia qu\u00edmica de los exudados de los \u00e1rboles.",
+          "isCorrect": false,
+          "rationale": "Los exudados afectan la cohesi\u00f3n biol\u00f3gica, pero no son el factor que limita la compresi\u00f3n f\u00edsica de los poros."
+        },
+        {
+          "text": "Porque las part\u00edculas de arcilla se expanden instant\u00e1neamente.",
+          "isCorrect": false,
+          "rationale": "La expansi\u00f3n de las arcillas ocurre por hidrataci\u00f3n, no es el factor que limita la eficiencia de la compactaci\u00f3n mec\u00e1nica."
+        },
+        {
+          "text": "Debido al uso de maquinaria con peso insuficiente para el terreno.",
+          "isCorrect": false,
+          "rationale": "Incluso con maquinaria pesada, el l\u00edmite f\u00edsico lo impone la incompresibilidad del agua en los poros saturados."
+        }
+      ],
+      "hint": "Recuerde la analog\u00eda de intentar apretar una esponja cuyos poros est\u00e1n totalmente llenos de l\u00edquido."
+    },
+    {
+      "question": "\u00bfQu\u00e9 t\u00e9rmino describe la cantidad m\u00e1xima de humedad que el suelo puede retener contra la fuerza de gravedad?",
+      "answerOptions": [
+        {
+          "text": "Punto de marchitamiento",
+          "isCorrect": false,
+          "rationale": "Este punto representa el l\u00edmite inferior o el estado de mayor sequedad del terreno."
+        },
+        {
+          "text": "Capacidad de campo",
+          "isCorrect": true,
+          "rationale": "Es el estado donde el suelo retiene el agua que no drena de forma natural tras ser mojado."
+        },
+        {
+          "text": "Punto de saturaci\u00f3n total",
+          "isCorrect": false,
+          "rationale": "En la saturaci\u00f3n, todos los vac\u00edos est\u00e1n llenos de agua, superando la capacidad de retenci\u00f3n estable."
+        },
+        {
+          "text": "Succi\u00f3n negativa",
+          "isCorrect": false,
+          "rationale": "La succi\u00f3n es una presi\u00f3n de poros que genera cohesi\u00f3n, no una medida de cantidad de humedad retenida."
+        }
+      ],
+      "hint": "Es el nivel de equilibrio h\u00eddrico antes de que el agua comience a llenar el $100\\%$ de los poros."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje de contenido de humedad requieren aproximadamente las arcillas para alcanzar su punto de saturaci\u00f3n total en relaci\u00f3n a su peso s\u00f3lido?",
+      "answerOptions": [
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Este es el bajo porcentaje de humedad con el que las arenas suelen llegar a la saturaci\u00f3n."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es un valor alto, las arcillas tienen una capacidad de absorci\u00f3n microsc\u00f3pica mucho mayor."
+        },
+        {
+          "text": "$150\\%$",
+          "isCorrect": true,
+          "rationale": "Las arcillas act\u00faan como esponjas microsc\u00f3picas que pueden absorber una cantidad masiva de agua antes de saturarse."
+        },
+        {
+          "text": "$185\\%$",
+          "isCorrect": false,
+          "rationale": "Este n\u00famero se asocia con el umbral de lluvia cr\u00edtica en mil\u00edmetros, no con el porcentaje de humedad de las arcillas."
+        }
+      ],
+      "hint": "Este material puede retener m\u00e1s de una vez su propio peso en agua."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fen\u00f3meno f\u00edsico act\u00faa como 'pegamento' natural permitiendo la estabilidad de taludes en suelos parcialmente saturados?",
+      "answerOptions": [
+        {
+          "text": "Presi\u00f3n intersticial positiva",
+          "isCorrect": false,
+          "rationale": "La presi\u00f3n positiva empuja las part\u00edculas hacia afuera, destruyendo la cohesi\u00f3n."
+        },
+        {
+          "text": "Succi\u00f3n o presi\u00f3n de poros negativa",
+          "isCorrect": true,
+          "rationale": "Esta presi\u00f3n negativa mantiene unidas las part\u00edculas de suelo mientras conviven el aire y el agua."
+        },
+        {
+          "text": "Erosi\u00f3n h\u00eddrica progresiva",
+          "isCorrect": false,
+          "rationale": "La erosi\u00f3n es un proceso de desgaste y p\u00e9rdida de material, no un mecanismo de uni\u00f3n."
+        },
+        {
+          "text": "Licuefacci\u00f3n por carga",
+          "isCorrect": false,
+          "rationale": "La licuefacci\u00f3n es un estado de falla donde el suelo se comporta como un fluido, perdiendo toda estabilidad."
+        }
+      ],
+      "hint": "Considere la fuerza que permite que la arena h\u00fameda mantenga la forma de un castillo en la playa."
+    },
+    {
+      "question": "Al alcanzar la saturaci\u00f3n total, \u00bfqu\u00e9 cambio cr\u00edtico ocurre en la mec\u00e1nica interna del suelo que detona el colapso?",
+      "answerOptions": [
+        {
+          "text": "La succi\u00f3n se anula y se transforma en presi\u00f3n intersticial positiva.",
+          "isCorrect": true,
+          "rationale": "Al desaparecer la succi\u00f3n, el agua comienza a empujar las part\u00edculas hacia afuera, eliminando la fricci\u00f3n y la cohesi\u00f3n."
+        },
+        {
+          "text": "El aire atrapado se expande y genera micro-explosiones t\u00e9rmicas.",
+          "isCorrect": false,
+          "rationale": "En la saturaci\u00f3n total, el aire ha sido completamente desplazado, por lo que no puede expandirse."
+        },
+        {
+          "text": "Las part\u00edculas s\u00f3lidas se disuelven qu\u00edmicamente en el agua.",
+          "isCorrect": false,
+          "rationale": "El colapso es un fen\u00f3meno mec\u00e1nico de presiones, no necesariamente una disoluci\u00f3n qu\u00edmica del material mineral."
+        },
+        {
+          "text": "El horizonte C se vuelve instant\u00e1neamente compresible.",
+          "isCorrect": false,
+          "rationale": "El horizonte C es estable; el problema de saturaci\u00f3n afecta principalmente la fricci\u00f3n entre part\u00edculas en capas menos densas."
+        }
+      ],
+      "hint": "Piense en la transici\u00f3n de una fuerza que 'jala' las part\u00edculas hacia adentro a una que las 'empuja' hacia afuera."
+    },
+    {
+      "question": "\u00bfQu\u00e9 umbral de precipitaci\u00f3n acumulada se considera cr\u00edtico para la activaci\u00f3n de deslizamientos masivos por saturaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "$100\\text{ mm}$",
+          "isCorrect": false,
+          "rationale": "Aunque es una lluvia considerable, no es el punto t\u00e9cnico identificado como disparador de movimientos masivos."
+        },
+        {
+          "text": "$150\\text{ mm}$",
+          "isCorrect": false,
+          "rationale": "Este valor coincide con el porcentaje de humedad de las arcillas, pero no es el umbral de lluvia acumulada."
+        },
+        {
+          "text": "$185\\text{ mm}$",
+          "isCorrect": true,
+          "rationale": "Este nivel de lluvia marca la l\u00ednea roja donde el terreno pierde su cohesi\u00f3n y puede transformarse en un fluido denso."
+        },
+        {
+          "text": "$300\\text{ mm}$",
+          "isCorrect": false,
+          "rationale": "Cualquier valor superior a $185\\text{ mm}$ es peligroso, pero el umbral espec\u00edfico de activaci\u00f3n t\u00e9cnica es menor."
+        }
+      ],
+      "hint": "Es un n\u00famero espec\u00edfico en mil\u00edmetros que indica que el suelo ha cruzado el l\u00edmite de seguridad h\u00eddrica."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la toponimia ancestral, como nombres de lugares en lenguas originarias, es relevante para la geotecnia moderna?",
+      "answerOptions": [
+        {
+          "text": "Ayuda a identificar la composici\u00f3n mineral\u00f3gica exacta del horizonte C.",
+          "isCorrect": false,
+          "rationale": "La toponimia ofrece alertas hist\u00f3ricas de peligros, no datos qu\u00edmicos o geol\u00f3gicos detallados del subsuelo."
+        },
+        {
+          "text": "Sirve como un registro hist\u00f3rico de peligros geol\u00f3gicos y vulnerabilidad natural.",
+          "isCorrect": true,
+          "rationale": "Nombres que significan 'r\u00edo del diablo' o 'lugar del huaico' advierten sobre riesgos que han ocurrido por milenios."
+        },
+        {
+          "text": "Permite reducir los costos de instalaci\u00f3n de radares de monitoreo.",
+          "isCorrect": false,
+          "rationale": "El conocimiento hist\u00f3rico complementa el monitoreo, pero no reduce el costo f\u00edsico de la tecnolog\u00eda."
+        },
+        {
+          "text": "Indica las zonas \u00f3ptimas para la reforestaci\u00f3n con especies ex\u00f3ticas.",
+          "isCorrect": false,
+          "rationale": "La toponimia se refiere a eventos naturales (deslizamientos, r\u00edos), no a recomendaciones forestales."
+        }
+      ],
+      "hint": "Considere el significado de los nombres antiguos que describen comportamientos violentos de la naturaleza."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal caracter\u00edstica de los eventos geol\u00f3gicos clasificados como 'ca\u00eddas' (falls)?",
+      "answerOptions": [
+        {
+          "text": "Son procesos lentos que forman c\u00e1rcavas en forma de U.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde a la erosi\u00f3n h\u00eddrica progresiva, no a las ca\u00eddas."
+        },
+        {
+          "text": "Eventos fulminantes que pueden superar los $100\\text{ m/s}$.",
+          "isCorrect": true,
+          "rationale": "Las ca\u00eddas son desprendimientos de rocas extremadamente r\u00e1pidos condicionados por fracturas previas."
+        },
+        {
+          "text": "Movimientos masivos activados solo tras superar los $185\\text{ mm}$ de lluvia.",
+          "isCorrect": false,
+          "rationale": "Aunque la lluvia ayuda, las ca\u00eddas dependen m\u00e1s del grado de fracturaci\u00f3n y la gravedad que del umbral de saturaci\u00f3n."
+        },
+        {
+          "text": "Desplazamientos sociopol\u00edticos causados por la miner\u00eda ilegal.",
+          "isCorrect": false,
+          "rationale": "Este es un impacto social mencionado en casos espec\u00edficos, no una clasificaci\u00f3n t\u00e9cnica de movimiento de tierras."
+        }
+      ],
+      "hint": "Piense en la velocidad extrema y la naturaleza repentina de este tipo de desprendimiento."
+    },
+    {
+      "question": "\u00bfQu\u00e9 cambio morfol\u00f3gico indica que una c\u00e1rcava de erosi\u00f3n ha interceptado el nivel fre\u00e1tico o ha topado con roca dura?",
+      "answerOptions": [
+        {
+          "text": "Cambia de una forma en V a una forma en U.",
+          "isCorrect": true,
+          "rationale": "Al tocar una base resistente o agua, la erosi\u00f3n deja de profundizarse y comienza a ensancharse lateralmente."
+        },
+        {
+          "text": "Se sella autom\u00e1ticamente debido a la presi\u00f3n negativa.",
+          "isCorrect": false,
+          "rationale": "La interceptaci\u00f3n del agua suele aumentar la inestabilidad y el ensanchamiento, no sella la erosi\u00f3n."
+        },
+        {
+          "text": "Adquiere una forma de espiral debido a la energ\u00eda cin\u00e9tica.",
+          "isCorrect": false,
+          "rationale": "La morfolog\u00eda t\u00edpica de ensanchamiento estructural en estos casos es la forma de U."
+        },
+        {
+          "text": "Se transforma en un dep\u00f3sito de relaves estable.",
+          "isCorrect": false,
+          "rationale": "Las c\u00e1rcavas son fallas del terreno, no estructuras de almacenamiento dise\u00f1adas por ingenier\u00eda."
+        }
+      ],
+      "hint": "Observe c\u00f3mo el perfil de la zanja pasa de ser estrecho en la base a ser m\u00e1s ancho y redondeado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el efecto negativo de los exudados de las ra\u00edces de eucalipto en la estabilidad de una ladera?",
+      "answerOptions": [
+        {
+          "text": "Aumentan la presi\u00f3n intersticial positiva de forma qu\u00edmica.",
+          "isCorrect": false,
+          "rationale": "La presi\u00f3n intersticial es un fen\u00f3meno f\u00edsico del agua, no un resultado qu\u00edmico de las ra\u00edces."
+        },
+        {
+          "text": "Funcionan como herbicida natural, eliminando la red de ra\u00edces de otras plantas.",
+          "isCorrect": true,
+          "rationale": "Al matar la vegetaci\u00f3n circundante, se destruye la malla natural que ancla y amarra el suelo."
+        },
+        {
+          "text": "Aceleran el proceso de meteorizaci\u00f3n de la roca madre.",
+          "isCorrect": false,
+          "rationale": "Los exudados afectan principalmente la vida biol\u00f3gica superficial y la cohesi\u00f3n de las ra\u00edces, no la roca profunda."
+        },
+        {
+          "text": "Reducen la humedad del suelo por debajo del punto de marchitamiento.",
+          "isCorrect": false,
+          "rationale": "Aunque consumen agua, el da\u00f1o estructural m\u00e1s grave es la eliminaci\u00f3n de la diversidad de ra\u00edces de anclaje."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo estas sustancias afectan a las plantas que intentan crecer cerca de este \u00e1rbol."
+    },
+    {
+      "question": "En el contexto de desastres reales, \u00bfcu\u00e1l fue el mecanismo f\u00edsico principal de la falla en la tragedia de Brumadinho?",
+      "answerOptions": [
+        {
+          "text": "Erosi\u00f3n h\u00eddrica en forma de U no detectada.",
+          "isCorrect": false,
+          "rationale": "La falla fue interna y s\u00fabita, no un proceso de erosi\u00f3n superficial lenta."
+        },
+        {
+          "text": "Ca\u00edda de rocas a velocidades superiores a $100\\text{ m/s}$.",
+          "isCorrect": false,
+          "rationale": "Brumadinho involucr\u00f3 un dep\u00f3sito de materiales finos (relaves), no un desprendimiento de macizos rocosos."
+        },
+        {
+          "text": "Licuefacci\u00f3n por acumulaci\u00f3n de presi\u00f3n interna del agua.",
+          "isCorrect": true,
+          "rationale": "La presi\u00f3n del agua dentro de los poros anul\u00f3 la fricci\u00f3n del material, haciendo que colapsara como un l\u00edquido."
+        },
+        {
+          "text": "Uso excesivo de geotextiles en el sistema de drenaje.",
+          "isCorrect": false,
+          "rationale": "Los geotextiles son herramientas de prevenci\u00f3n; el error en Brumadinho fue un mal dise\u00f1o de drenaje y monitoreo insuficiente."
+        }
+      ],
+      "hint": "Este fen\u00f3meno ocurre cuando un suelo saturado pierde su resistencia y se comporta como un fluido."
+    },
+    {
+      "question": "\u00bfQu\u00e9 elemento es fundamental en el \u00e9xito preventivo de operaciones modernas como Quellaveco para convertir datos abstractos en acciones de seguridad?",
+      "answerOptions": [
+        {
+          "text": "La integraci\u00f3n de datos en umbrales de alerta por colores.",
+          "isCorrect": true,
+          "rationale": "Convertir deformaciones milim\u00e9tricas en \u00f3rdenes de evacuaci\u00f3n inmediatas (verde, amarillo, rojo) es la clave del \u00e9xito."
+        },
+        {
+          "text": "El uso exclusivo de conocimientos ancestrales sin tecnolog\u00eda.",
+          "isCorrect": false,
+          "rationale": "La prevenci\u00f3n exitosa utiliza alta tecnolog\u00eda (radares, InSAR) integrada con el contexto del territorio."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de todas las zanjas de infiltraci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las zanjas de infiltraci\u00f3n son necesarias para el control f\u00edsico de fluidos, no deben eliminarse."
+        },
+        {
+          "text": "La dependencia \u00fanica de estaciones totales manuales.",
+          "isCorrect": false,
+          "rationale": "El est\u00e1ndar moderno requiere un ecosistema diverso que incluye radares y sat\u00e9lites, no solo estaciones manuales."
+        }
+      ],
+      "hint": "Se trata de c\u00f3mo se comunica el riesgo para que la respuesta sea inmediata e innegociable."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de los gaviones y el enrocado en la ingenier\u00eda de control de fluidos?",
+      "answerOptions": [
+        {
+          "text": "Actuar como filtros para evitar que el barro tape los drenajes.",
+          "isCorrect": false,
+          "rationale": "Esta es la funci\u00f3n principal de los geotextiles, no de los gaviones."
+        },
+        {
+          "text": "Disipar la energ\u00eda cin\u00e9tica del agua que baja por el terreno.",
+          "isCorrect": true,
+          "rationale": "Estas estructuras f\u00edsicas golpean y frenan la fuerza del agua para reducir su potencial destructivo."
+        },
+        {
+          "text": "Eliminar la necesidad de monitoreo satelital InSAR.",
+          "isCorrect": false,
+          "rationale": "Las obras f\u00edsicas y el monitoreo tecnol\u00f3gico son complementarios; una no reemplaza a la otra."
+        },
+        {
+          "text": "Aumentar la succi\u00f3n negativa en materiales arcillosos.",
+          "isCorrect": false,
+          "rationale": "La succi\u00f3n es una propiedad interna de los poros del suelo y no se modifica directamente con enrocados superficiales."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 sucede con la fuerza de un flujo de agua cuando choca contra obst\u00e1culos pesados y rugosos."
+    },
+    {
+      "question": "\u00bfC\u00f3mo contribuyen los geotextiles a mantener la eficiencia de los sistemas de drenaje a largo plazo?",
+      "answerOptions": [
+        {
+          "text": "Aumentan la temperatura del suelo para evaporar el agua excedente.",
+          "isCorrect": false,
+          "rationale": "Los geotextiles no tienen funciones t\u00e9rmicas; su rol es mec\u00e1nico e hidr\u00e1ulico."
+        },
+        {
+          "text": "Permiten que el agua pase mientras filtran las part\u00edculas finas que podr\u00edan taponar el sistema.",
+          "isCorrect": true,
+          "rationale": "Funcionan como un filtro tecnol\u00f3gico que deja 'respirar' al sistema sin que se obstruya con lodo."
+        },
+        {
+          "text": "Reemplazan por completo el uso de zanjas de infiltraci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los geotextiles suelen ser un componente dentro de un sistema que incluye zanjas y otros elementos."
+        },
+        {
+          "text": "Transforman mec\u00e1nicamente limos saturados en grava estable.",
+          "isCorrect": false,
+          "rationale": "Ning\u00fan material sint\u00e9tico puede cambiar la clasificaci\u00f3n textural intr\u00ednseca del suelo de limo a grava."
+        }
+      ],
+      "hint": "Considere su funci\u00f3n como una barrera selectiva entre el agua y los sedimentos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el tercer pilar fundamental para alcanzar la excelencia operativa en la gesti\u00f3n geot\u00e9cnica?",
+      "answerOptions": [
+        {
+          "text": "El uso exclusivo de sistemas de clasificaci\u00f3n vial AASHTO.",
+          "isCorrect": false,
+          "rationale": "Aunque es importante, los pilares de excelencia requieren una visi\u00f3n m\u00e1s integral de monitoreo y sociedad."
+        },
+        {
+          "text": "La reforestaci\u00f3n masiva con eucaliptos en todas las laderas.",
+          "isCorrect": false,
+          "rationale": "La reforestaci\u00f3n con esta especie se considera un error de mitigaci\u00f3n debido a sus efectos en la red de ra\u00edces."
+        },
+        {
+          "text": "El monitoreo en tiempo real integrado con conocimiento territorial y social.",
+          "isCorrect": true,
+          "rationale": "La tecnolog\u00eda de punta (radares) debe unirse a la toponimia y la gesti\u00f3n de riesgos sociopol\u00edticos."
+        },
+        {
+          "text": "La construcci\u00f3n de cimentaciones \u00fanicamente en el horizonte A.",
+          "isCorrect": false,
+          "rationale": "El horizonte A es el menos apto; la excelencia operativa busca el anclaje seguro en el horizonte C."
+        }
+      ],
+      "hint": "Este pilar combina la tecnolog\u00eda avanzada de radares con la historia y el entorno social del lugar."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Ecosistema trif\u00e1sico del suelo",
+      "Sistemas de clasificaci\u00f3n de suelos (SUCS, AASHTO, USDA)",
+      "Mec\u00e1nica de la saturaci\u00f3n h\u00eddrica y presiones de poros",
+      "Gesti\u00f3n de riesgos geol\u00f3gicos y toponimia ancestral",
+      "Ingenier\u00eda de control de fluidos y monitoreo avanzado"
+    ],
+    "followUp": [
+      "Estabilidad de taludes y laderas en entornos mineros",
+      "Tecnolog\u00edas de monitoreo satelital InSAR y radares terrestres",
+      "Impacto socioambiental y gesti\u00f3n de crisis en fallas geot\u00e9cnicas",
+      "Hidrolog\u00eda aplicada a la infraestructura de drenaje minero"
+    ]
+  }
+}

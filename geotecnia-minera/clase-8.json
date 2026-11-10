@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfC\u00f3mo ha evolucionado el rol del agua para un consultor senior en la miner\u00eda moderna?",
+      "answerOptions": [
+        {
+          "text": "Se ha transformado en una variable t\u00e9cnica de primer orden.",
+          "isCorrect": true,
+          "rationale": "El agua ha dejado de ser un insumo de relleno para convertirse en un componente cr\u00edtico que condiciona la estabilidad y los procesos metal\u00fargicos."
+        },
+        {
+          "text": "Se considera exclusivamente como un insumo ambiental de relleno.",
+          "isCorrect": false,
+          "rationale": "Esta era la visi\u00f3n del paradigma antiguo antes del cambio radical hacia una gesti\u00f3n t\u00e9cnica integrada."
+        },
+        {
+          "text": "Su gesti\u00f3n se limita \u00fanicamente a cumplir con la normativa legal externa.",
+          "isCorrect": false,
+          "rationale": "Aunque el cumplimiento normativo es vital, hoy es un activo gestionable que afecta directamente la operatividad de la mina."
+        },
+        {
+          "text": "Funciona como un costo operativo menor comparado con la energ\u00eda.",
+          "isCorrect": false,
+          "rationale": "El texto enfatiza su importancia como variable t\u00e9cnica supercr\u00edtica, no simplemente como un rubro de costo secundario."
+        }
+      ],
+      "hint": "Considere si el agua ahora se trata con la misma importancia que el contenido mineral."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica aplicar el modelo de recursos h\u00eddricos al agua subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "Utilizar el mismo rigor geoestad\u00edstico que se aplica a los minerales.",
+          "isCorrect": true,
+          "rationale": "La integraci\u00f3n requiere modelar los cuerpos de agua con precisi\u00f3n matem\u00e1tica para predecir su comportamiento."
+        },
+        {
+          "text": "Priorizar la captaci\u00f3n de aguas superficiales sobre los acu\u00edferos.",
+          "isCorrect": false,
+          "rationale": "El modelo se enfoca en la gesti\u00f3n t\u00e9cnica y estad\u00edstica del recurso, no en preferir una fuente sobre otra."
+        },
+        {
+          "text": "Eliminar por completo el monitoreo de la estabilidad geot\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el modelo busca una interacci\u00f3n predictiva entre la geotecnia y el manejo del agua."
+        },
+        {
+          "text": "Delegar la responsabilidad del agua \u00fanicamente al \u00e1rea ambiental.",
+          "isCorrect": false,
+          "rationale": "El modelo exige la participaci\u00f3n de geotecnistas y metalurgistas como guardianes t\u00e9cnicos del recurso."
+        }
+      ],
+      "hint": "Piense en la metodolog\u00eda de c\u00e1lculo que se usa para las vetas de metales preciosos."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son las cuatro fases cr\u00edticas de la gesti\u00f3n t\u00e9cnica del agua en un megaproyecto?",
+      "answerOptions": [
+        {
+          "text": "L\u00ednea base y exploraci\u00f3n, dise\u00f1o y procesamiento, refinamiento y rehabilitaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Estas etapas forman un engranaje donde cada eslab\u00f3n es vital para evitar cuellos de botella y conflictos sociales."
+        },
+        {
+          "text": "Exploraci\u00f3n, construcci\u00f3n, operaci\u00f3n comercial y expansi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque son etapas de un proyecto, el ciclo de vida t\u00e9cnico del agua se define por su interacci\u00f3n con el proceso y el cierre."
+        },
+        {
+          "text": "Prospecci\u00f3n satelital, bombeo, lixiviaci\u00f3n y vertido controlado.",
+          "isCorrect": false,
+          "rationale": "Estos son procesos t\u00e9cnicos espec\u00edficos, no las fases integrales del ciclo de vida h\u00eddrico mencionadas."
+        },
+        {
+          "text": "Muestreo de suelos, flotaci\u00f3n, fundici\u00f3n y auditor\u00eda externa.",
+          "isCorrect": false,
+          "rationale": "Estos t\u00e9rminos pertenecen a la metalurgia general y no cubren la arquitectura completa de la gesti\u00f3n del agua."
+        }
+      ],
+      "hint": "El ciclo comienza con la recolecci\u00f3n de datos iniciales y termina con la entrega del entorno tras el cierre."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia de una planificaci\u00f3n deficiente en la fase de l\u00ednea base y exploraci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Dependencia de infraestructura temporal y uso de riachuelos locales.",
+          "isCorrect": true,
+          "rationale": "La falta de reservorios definitivos desde el inicio genera fricciones inmediatas con las comunidades locales."
+        },
+        {
+          "text": "Aumento excesivo de la precisi\u00f3n en los modelos hidrogeol\u00f3gicos.",
+          "isCorrect": false,
+          "rationale": "La deficiencia en la planificaci\u00f3n reduce la precisi\u00f3n de los modelos en lugar de aumentarla."
+        },
+        {
+          "text": "Optimizaci\u00f3n autom\u00e1tica de los sistemas de bombeo gigantescos.",
+          "isCorrect": false,
+          "rationale": "La optimizaci\u00f3n requiere planificaci\u00f3n temprana, lo opuesto a lo planteado en el escenario de error estrat\u00e9gico."
+        },
+        {
+          "text": "Reducci\u00f3n inmediata de la huella de carbono del proyecto.",
+          "isCorrect": false,
+          "rationale": "El uso de infraestructura improvisada suele ser menos eficiente y m\u00e1s propenso a generar impactos negativos."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 sucede cuando no hay reservorios permanentes construidos desde el d\u00eda uno."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumplen los procesos de lavado o 'Scrubbers' en la fase de refinamiento?",
+      "answerOptions": [
+        {
+          "text": "Mitigar las emisiones de gases y polvos t\u00f3xicos.",
+          "isCorrect": true,
+          "rationale": "Estos sistemas dependen directamente de una gesti\u00f3n impecable del agua para evitar impactos atmosf\u00e9ricos."
+        },
+        {
+          "text": "Incrementar la concentraci\u00f3n de metales en las soluciones de lixiviaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n de los procesos qu\u00edmicos de extracci\u00f3n, no de los sistemas de lavado de emisiones."
+        },
+        {
+          "text": "Separar el agua de mar de las sales antes de la flotaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El lavado de gases es un proceso de control ambiental, no de tratamiento de agua de mar para procesos."
+        },
+        {
+          "text": "Reducir la densidad de la pulpa en las presas de relaves.",
+          "isCorrect": false,
+          "rationale": "Los scrubbers act\u00faan sobre las emisiones al aire, no sobre la consistencia f\u00edsica de los relaves."
+        }
+      ],
+      "hint": "Relacione el agua con la limpieza de los subproductos que se liberan a la atm\u00f3sfera."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la responsabilidad principal del 'Guardi\u00e1n del modelo hidrogeol\u00f3gico'?",
+      "answerOptions": [
+        {
+          "text": "Integrar y modelar acu\u00edferos con el mismo rigor que se mapea una beta mineral.",
+          "isCorrect": true,
+          "rationale": "Su rol heroico consiste en predecir el comportamiento del agua para adelantarse a ella en el modelo geometal\u00fargico."
+        },
+        {
+          "text": "Negociar los l\u00edmites m\u00e1ximos permisibles con los entes reguladores.",
+          "isCorrect": false,
+          "rationale": "Esa es una funci\u00f3n administrativa o legal, mientras que el guardi\u00e1n tiene una carga t\u00e9cnica y cient\u00edfica de datos."
+        },
+        {
+          "text": "Operar manualmente las v\u00e1lvulas de las plantas de tratamiento.",
+          "isCorrect": false,
+          "rationale": "El guardi\u00e1n se enfoca en el modelamiento y la inteligencia de datos, no en la operaci\u00f3n manual de campo."
+        },
+        {
+          "text": "Supervisar exclusivamente la log\u00edstica de transporte de concentrados.",
+          "isCorrect": false,
+          "rationale": "Su enfoque es hidrogeol\u00f3gico y t\u00e9cnico, centrado en el recurso h\u00eddrico subterr\u00e1neo y superficial."
+        }
+      ],
+      "hint": "Imagine a alguien que trata los datos del agua como si fueran datos de una mina de cobre o plata."
+    },
+    {
+      "question": "\u00bfQu\u00e9 busca lograr la estrategia de 'desarrollar el recurso antes de explorar'?",
+      "answerOptions": [
+        {
+          "text": "Eliminar la percepci\u00f3n de que la industria compite por los flujos de agua ancestrales.",
+          "isCorrect": true,
+          "rationale": "Al construir infraestructura h\u00eddrica para la comunidad antes de operar, se fomenta un v\u00ednculo de beneficio compartido."
+        },
+        {
+          "text": "Garantizar que el agua de lluvia se evapore antes de tocar el suelo.",
+          "isCorrect": false,
+          "rationale": "La evaporaci\u00f3n no controlada se considera una p\u00e9rdida en el balance h\u00eddrico, no un objetivo estrat\u00e9gico social."
+        },
+        {
+          "text": "Reducir el costo de la energ\u00eda mediante el uso de pozos profundos.",
+          "isCorrect": false,
+          "rationale": "El objetivo de esta estrategia es social y de legitimidad, no un ahorro financiero directo en energ\u00eda."
+        },
+        {
+          "text": "Aislar la operaci\u00f3n minera de cualquier contacto con la comunidad.",
+          "isCorrect": false,
+          "rationale": "La estrategia busca lo opuesto: forjar alianzas estrat\u00e9gicas y desarrollo mutuo."
+        }
+      ],
+      "hint": "Esta es una medida proactiva para evitar conflictos relacionados con la escasez del recurso local."
+    },
+    {
+      "question": "En la contabilidad h\u00eddrica, \u00bfcu\u00e1l es la 'regla de oro' mencionada?",
+      "answerOptions": [
+        {
+          "text": "Lo que no se mide con rigor metal\u00fargico no se puede gestionar con integridad t\u00e9cnica.",
+          "isCorrect": true,
+          "rationale": "La medici\u00f3n precisa de todos los flujos es la piedra angular para cumplir normativas y lograr eficiencia operativa."
+        },
+        {
+          "text": "El agua debe ser tratada \u00fanicamente cuando los niveles de contaminaci\u00f3n son visibles.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n t\u00e9cnica requiere un monitoreo constante y preventivo, no basado en la observaci\u00f3n visual."
+        },
+        {
+          "text": "Solo se deben contabilizar las entradas de agua de lluvia.",
+          "isCorrect": false,
+          "rationale": "El balance h\u00eddrico debe incluir todas las entradas y salidas, incluyendo agua subterr\u00e1nea y retorno de procesos."
+        },
+        {
+          "text": "La gesti\u00f3n del agua es responsabilidad exclusiva de las comunidades locales.",
+          "isCorrect": false,
+          "rationale": "La empresa operadora es t\u00e9cnicamente responsable de cada gota que interact\u00faa con su proceso."
+        }
+      ],
+      "hint": "Piense en la relaci\u00f3n entre la medici\u00f3n precisa y la capacidad de control."
+    },
+    {
+      "question": "Dentro de la arquitectura del balance h\u00eddrico, \u00bfqu\u00e9 elementos se consideran 'salidas' del sistema?",
+      "answerOptions": [
+        {
+          "text": "Evaporaci\u00f3n natural, humedad en concentrados y descargas controladas.",
+          "isCorrect": true,
+          "rationale": "Estas son las v\u00edas por las cuales el agua abandona el circuito operativo de la mina."
+        },
+        {
+          "text": "Lluvia, captaci\u00f3n del subsuelo y agua de retorno de procesos.",
+          "isCorrect": false,
+          "rationale": "Estos elementos son clasificados como entradas en el libro contable h\u00eddrico."
+        },
+        {
+          "text": "Instalaci\u00f3n de fluj\u00f3metros y automatizaci\u00f3n de v\u00e1lvulas.",
+          "isCorrect": false,
+          "rationale": "Estos son componentes de la instrumentaci\u00f3n, no flujos de agua que salen del sistema."
+        },
+        {
+          "text": "Infiltraciones no medidas y fugas en las tuber\u00edas de transporte.",
+          "isCorrect": false,
+          "rationale": "Aunque son salidas f\u00edsicas, se consideran pasivos o fallas de control, no parte del balance planificado."
+        }
+      ],
+      "hint": "Considere los procesos por los cuales el agua deja de estar disponible dentro de la operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre el agua fresca y el agua de contacto?",
+      "answerOptions": [
+        {
+          "text": "El agua de contacto tiene una firma qu\u00edmica alterada por el proceso industrial.",
+          "isCorrect": true,
+          "rationale": "A diferencia del agua virgen de r\u00edos o acu\u00edferos, el agua de contacto requiere un manejo t\u00e9cnico $100\\%$ separado."
+        },
+        {
+          "text": "El agua fresca es la que retorna de los procesos de lixiviaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El agua de lixiviaci\u00f3n es agua de contacto porque ya ha interactuado con los minerales y reactivos."
+        },
+        {
+          "text": "El agua de contacto proviene exclusivamente de fuentes marinas sin desalinizar.",
+          "isCorrect": false,
+          "rationale": "El agua de mar se considera una fuente externa (agua fresca) hasta que entra en contacto con el proceso."
+        },
+        {
+          "text": "Ambas tienen la misma composici\u00f3n i\u00f3nica y pueden mezclarse libremente.",
+          "isCorrect": false,
+          "rationale": "Mezclarlas destrozar\u00eda el balance contable y qu\u00edmico debido a sus naturalezas distintas."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo cambia el agua tras tocar el mineral o los efluentes."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el modelo de 'Descarga Cero'?",
+      "answerOptions": [
+        {
+          "text": "Capturar, tratar y recircular toda el agua del proceso al circuito.",
+          "isCorrect": true,
+          "rationale": "Bajo este ideal, el agua fresca solo se usa para reponer las p\u00e9rdidas inevitables por evaporaci\u00f3n."
+        },
+        {
+          "text": "Prohibir el uso de agua en cualquier etapa de la flotaci\u00f3n mineral.",
+          "isCorrect": false,
+          "rationale": "El agua es indispensable como reactivo; el modelo busca su reuso total, no su eliminaci\u00f3n del proceso."
+        },
+        {
+          "text": "Eliminar la evaporaci\u00f3n natural en los reservorios de la mina.",
+          "isCorrect": false,
+          "rationale": "La evaporaci\u00f3n es un proceso f\u00edsico natural inevitable; el modelo se enfoca en no desechar agua l\u00edquida al exterior."
+        },
+        {
+          "text": "Permitir descargas solo cuando el pH es superior a $7$.",
+          "isCorrect": false,
+          "rationale": "La descarga cero busca eliminar los efluentes externos, independientemente de su nivel de acidez."
+        }
+      ],
+      "hint": "Imagine un bucle perfecto y cerrado donde nada se desperdicia."
+    },
+    {
+      "question": "\u00bfQu\u00e9 proceso qu\u00edmico da origen al drenaje \u00e1cido de roca?",
+      "answerOptions": [
+        {
+          "text": "La oxidaci\u00f3n de los sulfuros, espec\u00edficamente la pirita, expuesta al aire y agua.",
+          "isCorrect": true,
+          "rationale": "Esta reacci\u00f3n genera efluentes \u00e1cidos que requieren tratamientos robustos para su neutralizaci\u00f3n."
+        },
+        {
+          "text": "La evaporaci\u00f3n r\u00e1pida del agua en grandes altitudes.",
+          "isCorrect": false,
+          "rationale": "La evaporaci\u00f3n concentra sales pero no es la causa qu\u00edmica de la generaci\u00f3n de \u00e1cido por oxidaci\u00f3n mineral."
+        },
+        {
+          "text": "La interacci\u00f3n entre el agua de mar y los reactivos de flotaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El drenaje \u00e1cido es un fen\u00f3meno geol\u00f3gico/qu\u00edmico relacionado con el mineral expuesto, no con el tipo de agua usada."
+        },
+        {
+          "text": "La mezcla accidental de agua fresca con soluciones de lixiviaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esto altera el balance h\u00eddrico, pero la acidez de roca es un proceso de oxidaci\u00f3n de minerales sulfurados."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede cuando ciertos minerales brillantes entran en contacto con el ox\u00edgeno."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es cr\u00edtico mantener la densidad de la pulpa entre $1300$ y $1700$ g/L en las presas de relaves?",
+      "answerOptions": [
+        {
+          "text": "Para evitar que el exceso de agua provoque fallas por cizallamiento o tubificaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Si la densidad baja, el agua act\u00faa como una fuerza destructiva que lava las capas internas del muro."
+        },
+        {
+          "text": "Para garantizar que las bacterias puedan digerir las grasas de los campamentos.",
+          "isCorrect": false,
+          "rationale": "El control de bacterias es parte del tratamiento de aguas servidas, no de la estabilidad de relaves."
+        },
+        {
+          "text": "Para facilitar la evaporaci\u00f3n del agua en climas extremadamente fr\u00edos.",
+          "isCorrect": false,
+          "rationale": "La densidad se controla por seguridad estructural, no para promover la evaporaci\u00f3n."
+        },
+        {
+          "text": "Para cumplir con el pH exigido por las normas de riego agr\u00edcola.",
+          "isCorrect": false,
+          "rationale": "La densidad es una medida f\u00edsica de concentraci\u00f3n de s\u00f3lidos, no una medida qu\u00edmica de acidez."
+        }
+      ],
+      "hint": "Relacione la cantidad de agua en el lodo con la resistencia f\u00edsica del muro que lo contiene."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 se refiere el concepto de 'la tragedia del agua' en el contexto qu\u00edmico?",
+      "answerOptions": [
+        {
+          "text": "A su capacidad como lixiviante universal debido a su bipolaridad molecular.",
+          "isCorrect": true,
+          "rationale": "Debido a esto, el agua recuperada nunca es $100\\%$ pura y siempre trae una carga i\u00f3nica."
+        },
+        {
+          "text": "A la escasez cr\u00edtica del recurso en las zonas altoandinas.",
+          "isCorrect": false,
+          "rationale": "Este es un problema de disponibilidad, no una caracter\u00edstica qu\u00edmica intr\u00ednseca de la mol\u00e9cula."
+        },
+        {
+          "text": "Al da\u00f1o irreparable causado por los sistemas Scrubber mal gestionados.",
+          "isCorrect": false,
+          "rationale": "Los scrubbers son una herramienta de mitigaci\u00f3n, no la causa de la naturaleza disolvente del agua."
+        },
+        {
+          "text": "A la imposibilidad de automatizar los balances de materia.",
+          "isCorrect": false,
+          "rationale": "La automatizaci\u00f3n es posible mediante tecnolog\u00eda; la 'tragedia' es una limitaci\u00f3n f\u00edsicoqu\u00edmica de pureza."
+        }
+      ],
+      "hint": "Piense en la tendencia natural del agua a disolver casi todo lo que toca."
+    },
+    {
+      "question": "Comparando el pH industrial con productos cotidianos, \u00bfcu\u00e1l de las siguientes afirmaciones es correcta?",
+      "answerOptions": [
+        {
+          "text": "El jugo de lim\u00f3n y el vinagre pueden ser m\u00e1s \u00e1cidos que muchos efluentes mineros neutralizados.",
+          "isCorrect": true,
+          "rationale": "El lim\u00f3n tiene un pH de $2$ y el vinagre de $3$, mientras que la industria debe cumplir normas de neutralizaci\u00f3n estrictas."
+        },
+        {
+          "text": "El pH industrial es siempre m\u00e1s corrosivo que cualquier sustancia dom\u00e9stica.",
+          "isCorrect": false,
+          "rationale": "Esta es una percepci\u00f3n com\u00fan que no coincide con los datos t\u00e9cnicos de neutralizaci\u00f3n exigidos por norma."
+        },
+        {
+          "text": "Los efluentes mineros no tienen pH porque son soluciones s\u00f3lidas.",
+          "isCorrect": false,
+          "rationale": "Los efluentes son l\u00edquidos y el pH es una de sus variables qu\u00edmicas fundamentales de control."
+        },
+        {
+          "text": "El agua de mar tiene un pH de $2$, similar al del drenaje \u00e1cido de roca.",
+          "isCorrect": false,
+          "rationale": "El agua de mar es ligeramente alcalina; el pH de $2$ es extremadamente \u00e1cido y t\u00edpico de drenajes no tratados."
+        }
+      ],
+      "hint": "Recuerde la comparaci\u00f3n hecha para desmitificar el estigma sobre la acidez de los efluentes."
+    },
+    {
+      "question": "\u00bfQu\u00e9 desaf\u00edo biol\u00f3gico se presenta al operar plantas de tratamiento de aguas servidas a $4500$ msnm?",
+      "answerOptions": [
+        {
+          "text": "El fr\u00edo extremo ralentiza la actividad bacteriana necesaria para el tratamiento.",
+          "isCorrect": true,
+          "rationale": "A grandes alturas, las bajas temperaturas afectan la eficiencia metab\u00f3lica de los sistemas biol\u00f3gicos."
+        },
+        {
+          "text": "La falta de ox\u00edgeno impide que los efluentes se evaporen naturalmente.",
+          "isCorrect": false,
+          "rationale": "La evaporaci\u00f3n se ve afectada por la presi\u00f3n y temperatura, pero el reto principal mencionado es la lentitud bacteriana."
+        },
+        {
+          "text": "Las bacterias se reproducen demasiado r\u00e1pido y bloquean las tuber\u00edas.",
+          "isCorrect": false,
+          "rationale": "El metabolismo bacteriano se ralentiza con el fr\u00edo, no se acelera."
+        },
+        {
+          "text": "El agua de mar pierde su salinidad debido a la baja presi\u00f3n atmosf\u00e9rica.",
+          "isCorrect": false,
+          "rationale": "La salinidad es una concentraci\u00f3n qu\u00edmica que no depende de la presi\u00f3n atmosf\u00e9rica de la altura."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo afecta el clima de monta\u00f1a a los organismos vivos encargados de limpiar el agua."
+    },
+    {
+      "question": "Seg\u00fan el benchmarking de consumo h\u00eddrico, \u00bfqu\u00e9 porcentaje del recurso nacional consume la miner\u00eda en comparaci\u00f3n con la agricultura?",
+      "answerOptions": [
+        {
+          "text": "Miner\u00eda consume $1.2\\%$ y la agricultura el $85\\%$.",
+          "isCorrect": true,
+          "rationale": "Estos datos rompen mitos sobre qui\u00e9n es el mayor consumidor de agua a nivel nacional."
+        },
+        {
+          "text": "Miner\u00eda consume el $85\\%$ y la agricultura el $1.2\\%$.",
+          "isCorrect": false,
+          "rationale": "Esta es una percepci\u00f3n err\u00f3nea com\u00fan que los datos duros desmienten categ\u00f3ricamente."
+        },
+        {
+          "text": "Ambos sectores consumen aproximadamente el $50\\%$ del recurso.",
+          "isCorrect": false,
+          "rationale": "Existe una disparidad masiva en los vol\u00famenes utilizados por cada sector seg\u00fan las estad\u00edsticas."
+        },
+        {
+          "text": "La miner\u00eda consume el $10\\%$ y la agricultura no est\u00e1 regulada.",
+          "isCorrect": false,
+          "rationale": "Aunque la regulaci\u00f3n var\u00eda, los porcentajes de consumo citados son muy espec\u00edficos y diferentes."
+        }
+      ],
+      "hint": "Un sector consume una parte m\u00ednima, mientras que el otro se lleva la gran mayor\u00eda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n dej\u00f3 el caso del Valle de Majes respecto a la gesti\u00f3n del agua?",
+      "answerOptions": [
+        {
+          "text": "El manejo de grandes vol\u00famenes sin auditor\u00eda t\u00e9cnica provoca la muerte ambiental de los suelos.",
+          "isCorrect": true,
+          "rationale": "El riego sin control y los agroqu\u00edmicos causaron una salinizaci\u00f3n brutal en menos de una d\u00e9cada."
+        },
+        {
+          "text": "La desalinizaci\u00f3n de agua de mar es la \u00fanica forma de salvar los ecosistemas agr\u00edcolas.",
+          "isCorrect": false,
+          "rationale": "El problema en Majes fue la falta de control y auditor\u00eda del agua dulce y qu\u00edmicos, no la falta de agua de mar."
+        },
+        {
+          "text": "La miner\u00eda es siempre la responsable de la salinizaci\u00f3n de los valles costeros.",
+          "isCorrect": false,
+          "rationale": "El caso de Majes demuestra que la actividad agr\u00edcola no auditada tambi\u00e9n puede generar impactos devastadores."
+        },
+        {
+          "text": "El uso de bacterias perezosas es efectivo para limpiar lixiviados agr\u00edcolas.",
+          "isCorrect": false,
+          "rationale": "Las bacterias perezosas son un problema en altura, no una soluci\u00f3n aplicada al caso de Majes."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede cuando se usan agroqu\u00edmicos y vol\u00famenes masivos de agua sin supervisi\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue la soluci\u00f3n t\u00e9cnica en Tintaya para proteger los impulsores de las bombas verticales?",
+      "answerOptions": [
+        {
+          "text": "Un proceso de clarificaci\u00f3n exacto para eliminar s\u00f3lidos en suspensi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "El agua del r\u00edo Salado actuaba como papel de lija, desgastando cr\u00edticamente los componentes mec\u00e1nicos."
+        },
+        {
+          "text": "Sustituir el agua del r\u00edo por agua de mar sin desalinizar.",
+          "isCorrect": false,
+          "rationale": "El caso de Tintaya se centr\u00f3 en tratar el agua del r\u00edo local para su uso operativo seguro."
+        },
+        {
+          "text": "Aumentar la densidad de la pulpa hasta los $1700$ g/L.",
+          "isCorrect": false,
+          "rationale": "La densidad de la pulpa se refiere a relaves, no al agua de alimentaci\u00f3n de bombas de captaci\u00f3n."
+        },
+        {
+          "text": "Instalar trampas de grasa gigantescas antes de las bombas.",
+          "isCorrect": false,
+          "rationale": "Las trampas de grasa se usan para aguas servidas de campamentos, no para tratar agua de r\u00edo con sedimentos."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo eliminar el 'efecto lija' de un agua muy turbia."
+    },
+    {
+      "question": "\u00bfQu\u00e9 innovaci\u00f3n tecnol\u00f3gica se aplic\u00f3 en el sur de Per\u00fa para proteger los acu\u00edferos altoandinos?",
+      "answerOptions": [
+        {
+          "text": "El uso directo de agua de mar en procesos de flotaci\u00f3n sin desalinizar.",
+          "isCorrect": true,
+          "rationale": "Esto ahorra energ\u00eda y deja el agua dulce intacta para el ecosistema y las comunidades."
+        },
+        {
+          "text": "La construcci\u00f3n de presas para capturar el $100\\%$ de la lluvia.",
+          "isCorrect": false,
+          "rationale": "Aunque es una t\u00e9cnica usada, la innovaci\u00f3n espec\u00edfica mencionada para el sur fue el uso de agua salada directa."
+        },
+        {
+          "text": "La purificaci\u00f3n de efluentes mediante bacterias hiperactivas a baja altura.",
+          "isCorrect": false,
+          "rationale": "La innovaci\u00f3n destacada no fue biol\u00f3gica, sino el cambio de fuente de agua hacia el mar."
+        },
+        {
+          "text": "El sellado herm\u00e9tico de todas las vetas de pirita para evitar la oxidaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El control de oxidaci\u00f3n es una pr\u00e1ctica est\u00e1ndar, no la innovaci\u00f3n estrat\u00e9gica h\u00eddrica del sur de Per\u00fa."
+        }
+      ],
+      "hint": "Considere una fuente de agua abundante que no requiere un tratamiento energ\u00e9tico costoso."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Arquitectura de la miner\u00eda moderna",
+      "Fases del ciclo de vida del agua",
+      "Balance h\u00eddrico y contabilidad t\u00e9cnica",
+      "Gesti\u00f3n de efluentes y relaves",
+      "Din\u00e1micas socioambientales en miner\u00eda"
+    ],
+    "followUp": [
+      "Modelamiento geoestad\u00edstico de acu\u00edferos",
+      "Fisicoqu\u00edmica de efluentes industriales",
+      "Biotecnolog\u00eda en condiciones de alta monta\u00f1a",
+      "Ingenier\u00eda de presas y estabilidad geot\u00e9cnica"
+    ]
+  }
+}

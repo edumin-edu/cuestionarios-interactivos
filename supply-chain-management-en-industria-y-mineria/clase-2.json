@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el horizonte temporal caracter\u00edstico del nivel estrat\u00e9gico en la planificaci\u00f3n log\u00edstica?",
+      "answerOptions": [
+        {
+          "text": "De $2$ a $5$ a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Este nivel se enfoca en decisiones de largo plazo que definen la estructura y el dise\u00f1o de la red de la empresa para media d\u00e9cada."
+        },
+        {
+          "text": "De $3$ a $18$ meses.",
+          "isCorrect": false,
+          "rationale": "Este rango corresponde al nivel t\u00e1ctico, donde se gestionan planes de capacidad y procesos como el SNOP."
+        },
+        {
+          "text": "De $1$ a $4$ semanas.",
+          "isCorrect": false,
+          "rationale": "Este periodo es demasiado corto para decisiones estrat\u00e9gicas, perteneciendo m\u00e1s bien a la programaci\u00f3n operativa."
+        },
+        {
+          "text": "M\u00e1s de $10$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Aunque es largo plazo, la planificaci\u00f3n log\u00edstica estrat\u00e9gica suele estandarizarse en un ciclo m\u00e1ximo de media d\u00e9cada para mantener la adaptabilidad."
+        }
+      ],
+      "hint": "Se trata de un periodo que permite definir la 'fisiolog\u00eda' o el esqueleto de la red empresarial a largo plazo."
+    },
+    {
+      "question": "En la met\u00e1fora de la cebolla aplicada a la planificaci\u00f3n, \u00bfqu\u00e9 representan las capas m\u00e1s externas?",
+      "answerOptions": [
+        {
+          "text": "La ejecuci\u00f3n del d\u00eda a d\u00eda.",
+          "isCorrect": false,
+          "rationale": "La ejecuci\u00f3n operativa se encuentra en el n\u00facleo o la capa m\u00e1s profunda de la cebolla."
+        },
+        {
+          "text": "El prop\u00f3sito y la visi\u00f3n del negocio.",
+          "isCorrect": true,
+          "rationale": "La planificaci\u00f3n debe comenzar desde el prop\u00f3sito estrat\u00e9gico m\u00e1s amplio antes de bajar a los detalles operativos."
+        },
+        {
+          "text": "Los sistemas de ejecuci\u00f3n de almacenes.",
+          "isCorrect": false,
+          "rationale": "Estos sistemas son herramientas tecnol\u00f3gicas de la capa operativa, no el punto de partida estrat\u00e9gico."
+        },
+        {
+          "text": "La gesti\u00f3n de riesgos de transporte.",
+          "isCorrect": false,
+          "rationale": "Esta es una actividad de control espec\u00edfica que no define la visi\u00f3n global del negocio."
+        }
+      ],
+      "hint": "Piensa en el punto de partida que le da sentido a toda la organizaci\u00f3n antes de llegar a la operaci\u00f3n pura."
+    },
+    {
+      "question": "\u00bfQu\u00e9 proceso act\u00faa como el puente entre el mercado y la capacidad operativa en el nivel t\u00e1ctico?",
+      "answerOptions": [
+        {
+          "text": "Dise\u00f1o de red.",
+          "isCorrect": false,
+          "rationale": "El dise\u00f1o de red es una funci\u00f3n del nivel estrat\u00e9gico, no de la sincronizaci\u00f3n t\u00e1ctica mensual."
+        },
+        {
+          "text": "SNOP (Planificaci\u00f3n de ventas y operaciones).",
+          "isCorrect": true,
+          "rationale": "El SNOP equilibra los pron\u00f3sticos de ventas con la realidad financiera y operativa de la cadena."
+        },
+        {
+          "text": "Programaci\u00f3n de rutas.",
+          "isCorrect": false,
+          "rationale": "Esta es una tarea del nivel operativo que se enfoca en la ejecuci\u00f3n inmediata de la distribuci\u00f3n."
+        },
+        {
+          "text": "Auditor\u00eda de inventarios.",
+          "isCorrect": false,
+          "rationale": "Aunque es importante, es una tarea de control y no un proceso de planificaci\u00f3n integradora."
+        }
+      ],
+      "hint": "Es el 'pegamento' que traduce la visi\u00f3n del directorio en planes de capacidad rentables."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de un sistema APS dentro del ecosistema tecnol\u00f3gico log\u00edstico?",
+      "answerOptions": [
+        {
+          "text": "Controlar el inventario f\u00edsico en tiempo real.",
+          "isCorrect": false,
+          "rationale": "Esta funci\u00f3n es propia del WMS, que se encarga de la ejecuci\u00f3n en el almac\u00e9n."
+        },
+        {
+          "text": "Actuar como el cerebro anal\u00edtico para simulaciones avanzadas.",
+          "isCorrect": true,
+          "rationale": "El APS permite prever escenarios de demanda y calcular necesidades de materiales con alta precisi\u00f3n."
+        },
+        {
+          "text": "Gestionar la contabilidad y finanzas.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n financiera centralizada es la tarea principal del ERP, no del APS."
+        },
+        {
+          "text": "Optimizar los turnos del personal de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta es una funci\u00f3n de ejecuci\u00f3n directa en planta, usualmente manejada por un MES."
+        }
+      ],
+      "hint": "Considera qu\u00e9 sistema se utiliza para responder a preguntas del tipo '\u00bfqu\u00e9 pasar\u00eda si?'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 mide espec\u00edficamente el indicador MAPE en la gesti\u00f3n de suministros?",
+      "answerOptions": [
+        {
+          "text": "La fiabilidad de las entregas a tiempo.",
+          "isCorrect": false,
+          "rationale": "La fiabilidad y puntualidad son medidas por el indicador OTIF."
+        },
+        {
+          "text": "El porcentaje de error en los pron\u00f3sticos de demanda.",
+          "isCorrect": true,
+          "rationale": "Un MAPE alto indica que las proyecciones son inexactas, lo que suele obligar a aumentar el stock de seguridad."
+        },
+        {
+          "text": "Los d\u00edas que el inventario puede cubrir las ventas.",
+          "isCorrect": false,
+          "rationale": "Esa m\u00e9trica corresponde a los d\u00edas de cobertura, no al error de pron\u00f3stico."
+        },
+        {
+          "text": "El costo log\u00edstico total comparado con las ventas.",
+          "isCorrect": false,
+          "rationale": "Este ratio mide la eficiencia de los procesos, no la precisi\u00f3n de la demanda futura."
+        }
+      ],
+      "hint": "Esta m\u00e9trica determina si las proyecciones de ventas fueron acertadas o si hubo una desviaci\u00f3n importante."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define el concepto de Lead Time en el flujo log\u00edstico?",
+      "answerOptions": [
+        {
+          "text": "El tiempo que el producto permanece en el estante.",
+          "isCorrect": false,
+          "rationale": "Ese concepto se refiere a la rotaci\u00f3n de inventario o tiempo de estad\u00eda, no al ciclo de pedido."
+        },
+        {
+          "text": "El lapso entre la emisi\u00f3n de un pedido y su recepci\u00f3n f\u00edsica.",
+          "isCorrect": true,
+          "rationale": "El Lead Time es el pulso de la eficiencia y abarca todo el proceso de tr\u00e1nsito y recepci\u00f3n."
+        },
+        {
+          "text": "La duraci\u00f3n de la fabricaci\u00f3n de un bien.",
+          "isCorrect": false,
+          "rationale": "El tiempo de fabricaci\u00f3n es solo una parte del Lead Time total de suministro."
+        },
+        {
+          "text": "El tiempo que tarda el cliente en pagar la factura.",
+          "isCorrect": false,
+          "rationale": "Esto pertenece al ciclo financiero de cobranza, no al tiempo de entrega log\u00edstico."
+        }
+      ],
+      "hint": "Es el tiempo total de espera desde que se necesita algo hasta que realmente se tiene disponible."
+    },
+    {
+      "question": "En el c\u00e1lculo matem\u00e1tico del stock de seguridad, \u00bfqu\u00e9 representa la variable $Z$?",
+      "answerOptions": [
+        {
+          "text": "El costo de almacenamiento por unidad.",
+          "isCorrect": false,
+          "rationale": "El costo de almacenamiento no define directamente el nivel de servicio estad\u00edstico."
+        },
+        {
+          "text": "El factor correspondiente al nivel de servicio deseado.",
+          "isCorrect": true,
+          "rationale": "La variable $Z$ es un factor estad\u00edstico que permite ajustar cu\u00e1nta protecci\u00f3n se desea contra quiebres de stock."
+        },
+        {
+          "text": "La desviaci\u00f3n est\u00e1ndar del tiempo de entrega.",
+          "isCorrect": false,
+          "rationale": "La desviaci\u00f3n est\u00e1ndar es otra variable distinta que se multiplica por el factor $Z$."
+        },
+        {
+          "text": "La cantidad total de productos en tr\u00e1nsito.",
+          "isCorrect": false,
+          "rationale": "El inventario en tr\u00e1nsito es una categor\u00eda f\u00edsica, no un coeficiente de c\u00e1lculo de seguridad."
+        }
+      ],
+      "hint": "Tiene que ver con la probabilidad estad\u00edstica de no quedarte sin mercanc\u00eda ante una demanda inesperada."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n del punto de reorden en la gesti\u00f3n org\u00e1nica de inventarios?",
+      "answerOptions": [
+        {
+          "text": "Indicar el momento de eliminar productos obsoletos.",
+          "isCorrect": false,
+          "rationale": "La obsolescencia se gestiona con pol\u00edticas de purga, no con el punto de reorden."
+        },
+        {
+          "text": "Disparar autom\u00e1ticamente una orden de reabastecimiento.",
+          "isCorrect": true,
+          "rationale": "Funciona como un gatillo matem\u00e1tico que asegura pedir mercanc\u00eda con la antelaci\u00f3n necesaria."
+        },
+        {
+          "text": "Calcular el costo total de capital inmovilizado.",
+          "isCorrect": false,
+          "rationale": "El costo de capital es una m\u00e9trica financiera, mientras que el punto de reorden es una m\u00e9trica operativa."
+        },
+        {
+          "text": "Determinar el tama\u00f1o m\u00e1ximo del almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "El tama\u00f1o del almac\u00e9n es una decisi\u00f3n de infraestructura estrat\u00e9gica."
+        }
+      ],
+      "hint": "Es el nivel de stock que avisa que es momento de volver a comprar para evitar quiebres."
+    },
+    {
+      "question": "\u00bfQu\u00e9 eval\u00faa el indicador OTIF (On Time In Full)?",
+      "answerOptions": [
+        {
+          "text": "La cantidad de kil\u00f3metros recorridos por la flota.",
+          "isCorrect": false,
+          "rationale": "Esto mide la actividad del transporte, no la efectividad de la promesa al cliente."
+        },
+        {
+          "text": "La entrega de pedidos completos y en el tiempo pactado.",
+          "isCorrect": true,
+          "rationale": "Es el indicador rey de la fiabilidad, pues mide si se cumpli\u00f3 la promesa de entrega total y puntual."
+        },
+        {
+          "text": "El margen de ganancia por cada pedido entregado.",
+          "isCorrect": false,
+          "rationale": "La rentabilidad es una m\u00e9trica financiera, no un indicador de nivel de servicio como el OTIF."
+        },
+        {
+          "text": "La velocidad de carga y descarga en los muelles.",
+          "isCorrect": false,
+          "rationale": "Aunque influye en el OTIF, la velocidad de muelle es una m\u00e9trica de productividad interna."
+        }
+      ],
+      "hint": "Mide si el cliente recibi\u00f3 exactamente lo que pidi\u00f3 y justo cuando se le prometi\u00f3."
+    },
+    {
+      "question": "En la matriz de riesgo de $5 \\times 5$, \u00bfqu\u00e9 factores se multiplican para valorar una amenaza?",
+      "answerOptions": [
+        {
+          "text": "Costo y Tiempo.",
+          "isCorrect": false,
+          "rationale": "Estos son tipos de amortiguadores, no los componentes de la valoraci\u00f3n del riesgo."
+        },
+        {
+          "text": "Probabilidad y Gravedad.",
+          "isCorrect": true,
+          "rationale": "La criticidad de un riesgo se determina evaluando qu\u00e9 tan posible es que ocurra y qu\u00e9 tan severo ser\u00eda su impacto."
+        },
+        {
+          "text": "Demanda y Oferta.",
+          "isCorrect": false,
+          "rationale": "Este es el equilibrio de mercado, no una f\u00f3rmula de gesti\u00f3n de riesgos."
+        },
+        {
+          "text": "Inversi\u00f3n y Retorno.",
+          "isCorrect": false,
+          "rationale": "Este es un an\u00e1lisis financiero de proyectos, no de vulnerabilidad operativa."
+        }
+      ],
+      "hint": "Se busca saber qu\u00e9 tan factible es que pase algo malo y qu\u00e9 tanto da\u00f1o causar\u00eda."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un ejemplo de riesgo de entorno que requiere mitigaci\u00f3n a nivel corporativo?",
+      "answerOptions": [
+        {
+          "text": "Una falla en el servidor del ERP.",
+          "isCorrect": false,
+          "rationale": "Este es un riesgo de procesos internos o tecnol\u00f3gicos, no de entorno pol\u00edtico/social."
+        },
+        {
+          "text": "Disturbios sociales que destruyen un campamento operativo.",
+          "isCorrect": true,
+          "rationale": "Situaciones externas extremas como conflictos sociales superan la gesti\u00f3n log\u00edstica diaria y afectan la inversi\u00f3n total."
+        },
+        {
+          "text": "Un error en la carga de un cami\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este es un error operativo menor que no escala a riesgo de entorno catastr\u00f3fico."
+        },
+        {
+          "text": "La renuncia de un supervisor de almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "Este es un riesgo de recursos humanos, generalmente manejable internamente."
+        }
+      ],
+      "hint": "Piensa en un evento externo e impredecible que puede paralizar inversiones masivas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el inventario visto desde su 'esencia m\u00e1s pura' en log\u00edstica?",
+      "answerOptions": [
+        {
+          "text": "Una fuente de ingresos inmediata por reventa.",
+          "isCorrect": false,
+          "rationale": "El inventario es un activo, pero en log\u00edstica su valor principal es la continuidad, no el trading inmediato."
+        },
+        {
+          "text": "Un amortiguador o buffer frente a la variabilidad.",
+          "isCorrect": true,
+          "rationale": "El inventario existe para absorber las fluctuaciones entre lo que el mercado pide y lo que la operaci\u00f3n entrega."
+        },
+        {
+          "text": "Un gasto innecesario que debe eliminarse totalmente.",
+          "isCorrect": false,
+          "rationale": "Aunque tiene un costo alto, eliminarlo totalmente dejar\u00eda a la empresa sin protecci\u00f3n ante variaciones."
+        },
+        {
+          "text": "La capacidad m\u00e1xima de producci\u00f3n de una f\u00e1brica.",
+          "isCorrect": false,
+          "rationale": "La capacidad de producci\u00f3n es un flujo, mientras que el inventario es un stock acumulado."
+        }
+      ],
+      "hint": "Es lo que evita que la cadena se rompa cuando algo cambia inesperadamente en el mercado."
+    },
+    {
+      "question": "En el ecosistema tecnol\u00f3gico, \u00bfcu\u00e1l es la funci\u00f3n del WMS?",
+      "answerOptions": [
+        {
+          "text": "Gestionar la contabilidad central de la empresa.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n contable es responsabilidad del ERP."
+        },
+        {
+          "text": "Poner orden absoluto dentro de los almacenes.",
+          "isCorrect": true,
+          "rationale": "El Warehouse Management System se encarga de la trazabilidad y eficiencia operativa interna del almac\u00e9n."
+        },
+        {
+          "text": "Planificar las ventas a largo plazo.",
+          "isCorrect": false,
+          "rationale": "La planificaci\u00f3n de ventas es parte del SNOP o sistemas anal\u00edticos, no de la gesti\u00f3n de almac\u00e9n."
+        },
+        {
+          "text": "Optimizar el proceso de fabricaci\u00f3n en planta.",
+          "isCorrect": false,
+          "rationale": "La optimizaci\u00f3n de producci\u00f3n es tarea del MES (Manufacturing Execution System)."
+        }
+      ],
+      "hint": "Es el sistema que act\u00faa como los 'ojos' y el control de lo que sucede entre las estanter\u00edas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia directa tiene un MAPE muy alto en la operaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Reducci\u00f3n autom\u00e1tica de los costos de transporte.",
+          "isCorrect": false,
+          "rationale": "Un error alto en pron\u00f3stico suele desorganizar el transporte, aumentando sus costos."
+        },
+        {
+          "text": "Necesidad de aumentar el stock de seguridad.",
+          "isCorrect": true,
+          "rationale": "Si no puedes predecir bien la demanda, necesitas m\u00e1s inventario extra para no quedar desabastecido."
+        },
+        {
+          "text": "Mejora en la satisfacci\u00f3n del cliente final.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la falta de precisi\u00f3n suele llevar a incumplimientos con el cliente."
+        },
+        {
+          "text": "Disminuci\u00f3n del capital de trabajo inmovilizado.",
+          "isCorrect": false,
+          "rationale": "Un error alto suele inmovilizar m\u00e1s capital al comprar productos que no se venden o por exceso de seguridad."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo debe reaccionar el almac\u00e9n si no conf\u00eda en las predicciones de ventas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo de los 'amortiguadores estrat\u00e9gicos' de tiempo, costo y alcance?",
+      "answerOptions": [
+        {
+          "text": "Aumentar el precio de venta del producto final.",
+          "isCorrect": false,
+          "rationale": "Su objetivo es la resiliencia operativa, no una estrategia de precios de mercado."
+        },
+        {
+          "text": "Evitar el colapso del sistema ante interrupciones menores.",
+          "isCorrect": true,
+          "rationale": "Estos buffers permiten absorber golpes como retrasos en puertos o fallas mec\u00e1nicas sin romper la cadena."
+        },
+        {
+          "text": "Sustituir por completo el uso de tecnolog\u00eda ERP.",
+          "isCorrect": false,
+          "rationale": "Los amortiguadores son metodolog\u00edas de defensa que complementan la tecnolog\u00eda, no la reemplazan."
+        },
+        {
+          "text": "Reducir la cantidad de personal en las plantas.",
+          "isCorrect": false,
+          "rationale": "No est\u00e1n dise\u00f1ados para la reducci\u00f3n de personal, sino para la estabilidad del flujo."
+        }
+      ],
+      "hint": "Son mallas de contenci\u00f3n que protegen la promesa al cliente cuando ocurren imprevistos en el camino."
+    },
+    {
+      "question": "\u00bfQu\u00e9 revela el ratio de costo log\u00edstico contra ventas sobre una operaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "La calidad de los materiales comprados.",
+          "isCorrect": false,
+          "rationale": "La calidad es una m\u00e9trica de producto o proveedor, no un ratio de eficiencia de procesos log\u00edsticos."
+        },
+        {
+          "text": "La eficiencia de los procesos y la existencia de redundancias.",
+          "isCorrect": true,
+          "rationale": "Un porcentaje alto expone ineficiencias que est\u00e1n drenando los ingresos de la empresa."
+        },
+        {
+          "text": "El nivel de felicidad de los empleados.",
+          "isCorrect": false,
+          "rationale": "Aunque la eficiencia puede influir en el clima, este ratio es estrictamente financiero-operativo."
+        },
+        {
+          "text": "La ubicaci\u00f3n geogr\u00e1fica de los clientes.",
+          "isCorrect": false,
+          "rationale": "La ubicaci\u00f3n afecta el costo, pero el ratio mide qu\u00e9 tanto de la venta se 'come' la log\u00edstica en general."
+        }
+      ],
+      "hint": "Funciona como un esc\u00e1ner para ver si la log\u00edstica es demasiado cara para el volumen de negocio que genera."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza a la log\u00edstica en el nivel operativo?",
+      "answerOptions": [
+        {
+          "text": "La visi\u00f3n a largo plazo del directorio.",
+          "isCorrect": false,
+          "rationale": "Esa es la caracter\u00edstica principal del nivel estrat\u00e9gico."
+        },
+        {
+          "text": "El rigor absoluto en la ejecuci\u00f3n del d\u00eda a d\u00eda.",
+          "isCorrect": true,
+          "rationale": "En este nivel se juegan los turnos, las rutas y el cumplimiento inmediato de las \u00f3rdenes."
+        },
+        {
+          "text": "La selecci\u00f3n de grandes socios tecnol\u00f3gicos globales.",
+          "isCorrect": false,
+          "rationale": "Esta decisi\u00f3n suele ser estrat\u00e9gica o t\u00e1ctica de alto nivel."
+        },
+        {
+          "text": "El dise\u00f1o de la red de distribuci\u00f3n para los pr\u00f3ximos $10$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "El dise\u00f1o de red es una actividad estrat\u00e9gica, no operativa."
+        }
+      ],
+      "hint": "Es el terreno de batalla o 'trinchera' donde se cumplen las entregas hoy mismo."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es riesgosa la desalineaci\u00f3n entre la estrategia y la operaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Porque se gasta demasiado dinero en publicidad.",
+          "isCorrect": false,
+          "rationale": "El riesgo de desalineaci\u00f3n log\u00edstica no est\u00e1 directamente vinculado al gasto publicitario."
+        },
+        {
+          "text": "Porque la empresa puede ser eficiente en cometer errores.",
+          "isCorrect": true,
+          "rationale": "Si la operaci\u00f3n no sigue la direcci\u00f3n estrat\u00e9gica, se puede trabajar muy r\u00e1pido pero en el sentido equivocado."
+        },
+        {
+          "text": "Porque los proveedores bajar\u00e1n sus precios sin previo aviso.",
+          "isCorrect": false,
+          "rationale": "La desalineaci\u00f3n interna no provoca que los proveedores bajen sus precios."
+        },
+        {
+          "text": "Porque el ERP dejar\u00e1 de funcionar autom\u00e1ticamente.",
+          "isCorrect": false,
+          "rationale": "La falta de alineaci\u00f3n es un problema de gesti\u00f3n, no una falla t\u00e9cnica programada del software."
+        }
+      ],
+      "hint": "Se corre el peligro de 'remar con mucha fuerza' pero hacia el lado opuesto al objetivo corporativo."
+    },
+    {
+      "question": "En el ejemplo de Buenaventura, \u00bfqu\u00e9 provoca que el consumo de 'split sets' pase de $8,000$ a $20,000$ unidades?",
+      "answerOptions": [
+        {
+          "text": "Un error en el sistema de pedidos manual.",
+          "isCorrect": false,
+          "rationale": "El aumento mencionado se debe a causas geol\u00f3gicas, no a un error administrativo."
+        },
+        {
+          "text": "La variabilidad geol\u00f3gica de encontrarse con roca tipo barro.",
+          "isCorrect": true,
+          "rationale": "El tipo de terreno dicta la necesidad de insumos, lo que genera una demanda altamente vol\u00e1til."
+        },
+        {
+          "text": "Una huelga nacional de transportistas.",
+          "isCorrect": false,
+          "rationale": "Las huelgas afectan el suministro, pero no disparan el consumo interno de sostenimiento."
+        },
+        {
+          "text": "Un cambio en la gerencia de compras.",
+          "isCorrect": false,
+          "rationale": "La gerencia gestiona el suministro, pero la demanda f\u00edsica depende de la operaci\u00f3n minera."
+        }
+      ],
+      "hint": "Es una causa externa ligada a la naturaleza del terreno donde se opera."
+    },
+    {
+      "question": "\u00bfQu\u00e9 informaci\u00f3n proporcionan los 'd\u00edas de cobertura'?",
+      "answerOptions": [
+        {
+          "text": "El tiempo que tarda un proveedor en fabricar un bien.",
+          "isCorrect": false,
+          "rationale": "Eso es parte del Lead Time de fabricaci\u00f3n, no cobertura de inventario."
+        },
+        {
+          "text": "Cu\u00e1nto tiempo puede operar la empresa con el stock actual.",
+          "isCorrect": true,
+          "rationale": "Revela la autonom\u00eda de la empresa frente a las ventas esperadas con el inventario disponible hoy."
+        },
+        {
+          "text": "La cantidad de d\u00edas de vacaciones de los operarios.",
+          "isCorrect": false,
+          "rationale": "Es una m\u00e9trica de gesti\u00f3n de inventario, no de recursos humanos."
+        },
+        {
+          "text": "El tiempo que un cami\u00f3n permanece en mantenimiento.",
+          "isCorrect": false,
+          "rationale": "Esto se refiere a la disponibilidad de flota, no a la cobertura de demanda por stock."
+        }
+      ],
+      "hint": "Es un term\u00f3metro para saber si tienes suficiente mercanc\u00eda para aguantar las ventas de los pr\u00f3ximos d\u00edas."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Niveles de Decisi\u00f3n Log\u00edstica",
+      "Indicadores de Rendimiento (KPIs)",
+      "Ecosistema Tecnol\u00f3gico (ERP, APS, WMS)",
+      "Gesti\u00f3n de Inventarios y Amortiguadores",
+      "Matriz y Gesti\u00f3n de Riesgos Log\u00edsticos"
+    ],
+    "followUp": [
+      "Optimizaci\u00f3n de Redes de Distribuci\u00f3n",
+      "Sincronizaci\u00f3n del Proceso SNOP",
+      "Modelado Estad\u00edstico para Stock de Seguridad",
+      "Resiliencia y Continuidad del Negocio en Supply Chain",
+      "Arquitectura de Sistemas de Ejecuci\u00f3n (TMS y MES)"
+    ]
+  }
+}

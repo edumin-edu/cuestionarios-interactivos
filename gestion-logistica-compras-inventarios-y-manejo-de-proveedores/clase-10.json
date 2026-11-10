@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la definici\u00f3n t\u00e9cnica de log\u00edstica en el contexto de gesti\u00f3n de flujos?",
+      "answerOptions": [
+        {
+          "text": "El dise\u00f1o y la gesti\u00f3n sistem\u00e1tica de los flujos de informaci\u00f3n y materiales.",
+          "isCorrect": true,
+          "rationale": "La log\u00edstica integra tanto el movimiento f\u00edsico de materiales como la informaci\u00f3n necesaria para asegurar que lleguen al lugar y momento precisos."
+        },
+        {
+          "text": "La coordinaci\u00f3n exclusiva del transporte de carga pesada y distribuci\u00f3n final.",
+          "isCorrect": false,
+          "rationale": "Esta es solo una etapa de la cadena; la log\u00edstica abarca tambi\u00e9n el flujo de informaci\u00f3n y la gesti\u00f3n sistem\u00e1tica previa."
+        },
+        {
+          "text": "El proceso de compra y adquisici\u00f3n de materias primas al menor costo posible.",
+          "isCorrect": false,
+          "rationale": "Aunque el costo es un factor, la log\u00edstica se enfoca en el dise\u00f1o del flujo completo, no solamente en el acto de compra."
+        },
+        {
+          "text": "La gesti\u00f3n de recursos humanos dentro de los centros de distribuci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La log\u00edstica se centra en flujos de materiales e informaci\u00f3n, no en la administraci\u00f3n de personal espec\u00edficamente."
+        }
+      ],
+      "hint": "Considere que esta disciplina une lo f\u00edsico con los datos para lograr eficiencia."
+    },
+    {
+      "question": "Al calcular el volumen de una unidad de mantenimiento de existencias (SKU) en metros c\u00fabicos, \u00bfpor qu\u00e9 se divide el resultado de la multiplicaci\u00f3n de sus dimensiones entre $1,000,000$?",
+      "answerOptions": [
+        {
+          "text": "Para convertir los cent\u00edmetros c\u00fabicos resultantes a metros c\u00fabicos.",
+          "isCorrect": true,
+          "rationale": "Dado que $1 \\text{ m}^3$ equivale a $100 \\text{ cm} \\times 100 \\text{ cm} \\times 100 \\text{ cm}$, se requiere este factor para escalar la unidad correctamente."
+        },
+        {
+          "text": "Para aplicar un factor de seguridad por posibles mermas en el embalaje.",
+          "isCorrect": false,
+          "rationale": "La divisi\u00f3n es estrictamente una conversi\u00f3n de unidades m\u00e9tricas, no una reserva para da\u00f1os o mermas."
+        },
+        {
+          "text": "Para estandarizar el peso volum\u00e9trico seg\u00fan las normas internacionales de carga.",
+          "isCorrect": false,
+          "rationale": "El peso volum\u00e9trico es un concepto distinto que suele utilizar otros divisores; aqu\u00ed se busca volumen f\u00edsico real."
+        },
+        {
+          "text": "Para deducir el espacio ocupado por el aire dentro de la caja del producto.",
+          "isCorrect": false,
+          "rationale": "El c\u00e1lculo del volumen exterior no discrimina entre contenido y aire; la divisi\u00f3n solo ajusta la escala de la medida."
+        }
+      ],
+      "hint": "Recuerde cu\u00e1ntos cent\u00edmetros c\u00fabicos caben en un cubo de un metro por lado."
+    },
+    {
+      "question": "En el dimensionamiento de almacenes, \u00bfqu\u00e9 representa la capacidad neta?",
+      "answerOptions": [
+        {
+          "text": "El espacio real y \u00fatil donde efectivamente se puede colocar mercanc\u00eda o racks.",
+          "isCorrect": true,
+          "rationale": "A diferencia de la capacidad bruta, la neta excluye \u00e1reas de maniobra, pasillos y servicios para enfocarse en el almacenamiento real."
+        },
+        {
+          "text": "El volumen total construido desde el piso hasta el techo del almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde a la capacidad bruta, que incluye espacios no utilizables para el almacenamiento directo."
+        },
+        {
+          "text": "La capacidad m\u00e1xima de carga en toneladas que soportan las estanter\u00edas.",
+          "isCorrect": false,
+          "rationale": "La capacidad neta se refiere al espacio volum\u00e9trico disponible, no a la resistencia estructural del acero."
+        },
+        {
+          "text": "El espacio de almacenamiento externo alquilado para emergencias.",
+          "isCorrect": false,
+          "rationale": "La capacidad neta es una m\u00e9trica de dise\u00f1o interno del almac\u00e9n propio, no una medida de recursos externos."
+        }
+      ],
+      "hint": "Piense en la parte de una bolsa de papas fritas que realmente contiene el producto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el porcentaje est\u00e1ndar que se debe reservar obligatoriamente en un dise\u00f1o espacial para pasillos, maniobras y servicios?",
+      "answerOptions": [
+        {
+          "text": "$25\\%$",
+          "isCorrect": true,
+          "rationale": "Este porcentaje es el est\u00e1ndar de la industria para asegurar que montacargas y personal puedan transitar sin obstruir la operaci\u00f3n."
+        },
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Un margen tan bajo provocar\u00eda cuellos de botella constantes y dificultar\u00eda las maniobras seguras de los equipos."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "Reservar la mitad del espacio para tr\u00e1nsito ser\u00eda ineficiente y elevar\u00eda dr\u00e1sticamente los costos operativos por metro cuadrado."
+        },
+        {
+          "text": "$5\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es insuficiente para cumplir con las normativas de seguridad y flujo log\u00edstico m\u00ednimo."
+        }
+      ],
+      "hint": "Es un cuarto del espacio total disponible."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia operativa tiene el intentar operar un almac\u00e9n al $100\\%$ de su capacidad neta?",
+      "answerOptions": [
+        {
+          "text": "Se genera un efecto domin\u00f3 que bloquea pasillos y retrasa las entregas al cliente.",
+          "isCorrect": true,
+          "rationale": "La falta de espacio libre impide el flujo, obligando a movimientos extra que frenan la carga y el despacho."
+        },
+        {
+          "text": "Se maximiza la rentabilidad al aprovechar cada cent\u00edmetro pagado.",
+          "isCorrect": false,
+          "rationale": "Aunque parezca eficiente, el costo de la lentitud y los errores operativos supera cualquier ahorro por densidad."
+        },
+        {
+          "text": "Se reduce autom\u00e1ticamente el costo de mantenimiento por unidad almacenada.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el desorden y la ineficiencia suelen aumentar los costos operativos totales."
+        },
+        {
+          "text": "Se facilita la implementaci\u00f3n de sistemas de gesti\u00f3n tipo 'Just in Time'.",
+          "isCorrect": false,
+          "rationale": "El sistema 'Just in Time' requiere fluidez extrema, algo imposible en un almac\u00e9n saturado al l\u00edmite."
+        }
+      ],
+      "hint": "Piense en lo que sucede cuando no hay espacio para que los montacargas circulen."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la regla de oro para la distribuci\u00f3n de peso en estanter\u00edas industriales?",
+      "answerOptions": [
+        {
+          "text": "Los productos pesados van a nivel de piso y los ligeros en niveles superiores.",
+          "isCorrect": true,
+          "rationale": "Esta pr\u00e1ctica obedece a la gravedad y asegura la estabilidad estructural para prevenir colapsos catastr\u00f3ficos."
+        },
+        {
+          "text": "Los productos m\u00e1s pesados deben ir en el nivel m\u00e1s alto para facilitar su descenso.",
+          "isCorrect": false,
+          "rationale": "Colocar peso excesivo arriba eleva el centro de gravedad del rack, aumentando el riesgo de ca\u00edda y accidentes."
+        },
+        {
+          "text": "El peso debe distribuirse de forma aleatoria para equilibrar el desgaste del rack.",
+          "isCorrect": false,
+          "rationale": "La distribuci\u00f3n aleatoria ignora los principios de ingenier\u00eda de carga y pone en riesgo la seguridad del almac\u00e9n."
+        },
+        {
+          "text": "Los productos se deben ubicar \u00fanicamente seg\u00fan su orden de llegada al almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "Priorizar el orden de llegada sobre el peso compromete la seguridad y la eficiencia de la infraestructura f\u00edsica."
+        }
+      ],
+      "hint": "Tiene que ver con mantener el centro de gravedad lo m\u00e1s bajo posible."
+    },
+    {
+      "question": "Si una empresa tiene un costo de ventas de $800$ y existencias promedio de $85$, \u00bfcu\u00e1ntas veces al a\u00f1o renueva su inventario aproximadamente?",
+      "answerOptions": [
+        {
+          "text": "$9.41$ veces",
+          "isCorrect": true,
+          "rationale": "Se calcula dividiendo el costo de ventas entre las existencias promedio: $\\frac{800}{85} \\approx 9.41$."
+        },
+        {
+          "text": "$10.62$ veces",
+          "isCorrect": false,
+          "rationale": "Este valor resultar\u00eda de dividir las existencias entre el costo de ventas, lo cual es la inversa de la f\u00f3rmula de rotaci\u00f3n."
+        },
+        {
+          "text": "$38.25$ veces",
+          "isCorrect": false,
+          "rationale": "Este n\u00famero parece confundir el resultado de la rotaci\u00f3n en veces con el c\u00e1lculo de d\u00edas de inventario."
+        },
+        {
+          "text": "$71.5$ veces",
+          "isCorrect": false,
+          "rationale": "Este valor no corresponde a ninguna operaci\u00f3n l\u00f3gica entre las variables de costo y existencias proporcionadas."
+        }
+      ],
+      "hint": "La f\u00f3rmula es: $\\text{Costo de Ventas} / \\text{Existencias Promedio}$."
+    },
+    {
+      "question": "Desde una perspectiva financiera, \u00bfqu\u00e9 representa una reducci\u00f3n en los d\u00edas de rotaci\u00f3n de inventario?",
+      "answerOptions": [
+        {
+          "text": "Liberaci\u00f3n de capital de trabajo estancado para reinversi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Menos d\u00edas de inventario significan que el dinero 'vuelve' m\u00e1s r\u00e1pido a la empresa en forma de efectivo disponible."
+        },
+        {
+          "text": "Un aumento necesario en los costos de almacenamiento externo.",
+          "isCorrect": false,
+          "rationale": "Al rotar m\u00e1s r\u00e1pido, se suele requerir menos espacio est\u00e1tico, reduciendo potencialmente la necesidad de almacenes externos."
+        },
+        {
+          "text": "Una disminuci\u00f3n en la velocidad de ventas de la compa\u00f1\u00eda.",
+          "isCorrect": false,
+          "rationale": "Al contrario, una rotaci\u00f3n m\u00e1s r\u00e1pida suele indicar que las ventas est\u00e1n moviendo el producto con mayor agilidad."
+        },
+        {
+          "text": "La p\u00e9rdida de valor de los activos por obsolescencia tecnol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "La rotaci\u00f3n r\u00e1pida precisamente ayuda a evitar que el producto se vuelva obsoleto al no permanecer mucho tiempo en estante."
+        }
+      ],
+      "hint": "Piense en el inventario como dinero que no est\u00e1 generando intereses mientras est\u00e1 en el estante."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre los KPIs y los OKRs en la gesti\u00f3n operativa?",
+      "answerOptions": [
+        {
+          "text": "Los KPIs miden procesos existentes, mientras los OKRs definen objetivos estrat\u00e9gicos ambiciosos.",
+          "isCorrect": true,
+          "rationale": "Los KPIs son m\u00e9tricas de control de eficiencia diaria; los OKRs son marcos de trabajo para la innovaci\u00f3n y el futuro."
+        },
+        {
+          "text": "Los KPIs son exclusivos para la gerencia y los OKRs para el personal operativo.",
+          "isCorrect": false,
+          "rationale": "Usualmente es al rev\u00e9s o son complementarios, pero los OKRs suelen ser liderados por jefaturas para marcar rumbo."
+        },
+        {
+          "text": "Los KPIs son cualitativos y los OKRs son estrictamente matem\u00e1ticos.",
+          "isCorrect": false,
+          "rationale": "Ambos suelen apoyarse en datos cuantitativos, pero sus prop\u00f3sitos (control vs. aspiraci\u00f3n) son distintos."
+        },
+        {
+          "text": "No existe diferencia; son dos t\u00e9rminos para referirse a la misma m\u00e9trica de ventas.",
+          "isCorrect": false,
+          "rationale": "Son marcos metodol\u00f3gicos distintos con horizontes temporales y enfoques de gesti\u00f3n diferentes."
+        }
+      ],
+      "hint": "Uno se enfoca en que lo actual funcione bien y el otro en transformar el ma\u00f1ana."
+    },
+    {
+      "question": "\u00bfQu\u00e9 garantiza el c\u00e1lculo exacto de la Existencia M\u00ednima ($E_{mn}$)?",
+      "answerOptions": [
+        {
+          "text": "Tener un colch\u00f3n preventivo ante retrasos de proveedores o picos de demanda.",
+          "isCorrect": true,
+          "rationale": "Act\u00faa como un stock de seguridad que evita que la producci\u00f3n o ventas se detengan ante imprevistos log\u00edsticos."
+        },
+        {
+          "text": "Maximizar la cantidad de productos en oferta para el cliente final.",
+          "isCorrect": false,
+          "rationale": "El objetivo de la $E_{mn}$ es la seguridad operativa interna, no una estrategia comercial de volumen de oferta."
+        },
+        {
+          "text": "Reducir a cero el costo de mantenimiento mensual del almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "Tener existencias m\u00ednimas siempre implica un costo de mantenimiento; el objetivo es el equilibrio, no la eliminaci\u00f3n del costo."
+        },
+        {
+          "text": "Eliminar la necesidad de realizar nuevos pedidos durante el a\u00f1o fiscal.",
+          "isCorrect": false,
+          "rationale": "La $E_{mn}$ es solo el l\u00edmite inferior; la operaci\u00f3n requiere reabastecimiento continuo para mantenerse activa."
+        }
+      ],
+      "hint": "Es su red de seguridad para que la empresa no se paralice."
+    },
+    {
+      "question": "En el modelo de m\u00e1ximos y m\u00ednimos, \u00bfqu\u00e9 es el Punto de Pedido ($P_p$)?",
+      "answerOptions": [
+        {
+          "text": "Un disparador t\u00e1ctico que indica el momento exacto para emitir una orden de compra.",
+          "isCorrect": true,
+          "rationale": "Es el nivel de inventario que alerta al sistema para reabastecerse antes de tocar el stock de seguridad."
+        },
+        {
+          "text": "La cantidad total de cajas que caben en un rack est\u00e1ndar.",
+          "isCorrect": false,
+          "rationale": "El punto de pedido es una variable de tiempo y cantidad de inventario, no una restricci\u00f3n f\u00edsica de estanter\u00eda."
+        },
+        {
+          "text": "El precio m\u00e1ximo que se est\u00e1 dispuesto a pagar a un proveedor.",
+          "isCorrect": false,
+          "rationale": "Aunque se relacione con compras, es una m\u00e9trica de gesti\u00f3n de existencias, no una negociaci\u00f3n de precios."
+        },
+        {
+          "text": "La suma total de todos los productos en el inventario final.",
+          "isCorrect": false,
+          "rationale": "Se refiere a un art\u00edculo espec\u00edfico en un momento determinado para disparar su reposici\u00f3n individual."
+        }
+      ],
+      "hint": "Funciona como una alarma autom\u00e1tica en su sistema de gesti\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de aplicar la f\u00f3rmula de Wilson o EOQ?",
+      "answerOptions": [
+        {
+          "text": "Encontrar el equilibrio entre los costos de mantener inventario y los costos de pedir.",
+          "isCorrect": true,
+          "rationale": "Busca el 'punto dulce' donde el costo log\u00edstico total anual es el m\u00e1s bajo posible."
+        },
+        {
+          "text": "Determinar el peso m\u00e1ximo que un cami\u00f3n puede transportar legalmente.",
+          "isCorrect": false,
+          "rationale": "El EOQ se enfoca en la econom\u00eda del pedido de inventario, no en regulaciones de tr\u00e1nsito de transporte."
+        },
+        {
+          "text": "Calcular cu\u00e1ntos empleados se necesitan para descargar un contenedor.",
+          "isCorrect": false,
+          "rationale": "Es un modelo matem\u00e1tico de abastecimiento, no un c\u00e1lculo de tiempos y movimientos de mano de obra."
+        },
+        {
+          "text": "Aumentar el volumen de compra para obtener descuentos por cantidad.",
+          "isCorrect": false,
+          "rationale": "A veces el EOQ puede sugerir pedidos m\u00e1s peque\u00f1os si el costo de mantenimiento es muy alto, priorizando el equilibrio total."
+        }
+      ],
+      "hint": "Se trata de optimizar costos opuestos: pedir versus guardar."
+    },
+    {
+      "question": "Seg\u00fan el principio de Pareto aplicado a inventarios (ABC), \u00bfqu\u00e9 caracteriza a los art\u00edculos de categor\u00eda A?",
+      "answerOptions": [
+        {
+          "text": "Son un grupo peque\u00f1o de art\u00edculos que representan la mayor parte del valor y movimiento financiero.",
+          "isCorrect": true,
+          "rationale": "Suelen ser el $20\\%$ de los productos pero generan el $80\\%$ del impacto econ\u00f3mico del negocio."
+        },
+        {
+          "text": "Son la gran mayor\u00eda de los productos con muy bajo impacto en la rentabilidad.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde a la categor\u00eda C, que requiere menos microgesti\u00f3n administrativa."
+        },
+        {
+          "text": "Son art\u00edculos que han sido devueltos por el cliente y requieren log\u00edstica inversa.",
+          "isCorrect": false,
+          "rationale": "La clasificaci\u00f3n ABC se basa en valor y rotaci\u00f3n, no en el estado de retorno de los productos."
+        },
+        {
+          "text": "Son productos que se encuentran en el punto medio de rotaci\u00f3n y costo.",
+          "isCorrect": false,
+          "rationale": "Esos ser\u00edan art\u00edculos de categor\u00eda B, que tienen un impacto moderado."
+        }
+      ],
+      "hint": "Es el selecto grupo que merece la mayor atenci\u00f3n de la gerencia."
+    },
+    {
+      "question": "Para una clasificaci\u00f3n ABC multicriterio robusta, \u00bfcu\u00e1les son las tres variables fundamentales a considerar?",
+      "answerOptions": [
+        {
+          "text": "Costo unitario, valor total del inventario inmovilizado y velocidad de rotaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Integrar estos tres factores permite identificar quir\u00fargicamente qu\u00e9 art\u00edculos son cr\u00edticos para el flujo de caja y la operaci\u00f3n."
+        },
+        {
+          "text": "Nombre del proveedor, fecha de vencimiento y color del embalaje.",
+          "isCorrect": false,
+          "rationale": "Estos datos pueden ser \u00fatiles para otros procesos, pero no definen la importancia estrat\u00e9gica financiera del inventario."
+        },
+        {
+          "text": "Peso del producto, dimensiones de la caja y pa\u00eds de origen.",
+          "isCorrect": false,
+          "rationale": "Estas son variables f\u00edsicas y geogr\u00e1ficas que afectan el transporte, no necesariamente la prioridad econ\u00f3mica ABC."
+        },
+        {
+          "text": "Opini\u00f3n del vendedor, popularidad en redes sociales y margen de utilidad.",
+          "isCorrect": false,
+          "rationale": "Aunque el margen importa, el an\u00e1lisis ABC t\u00e9cnico se basa en datos duros de movimiento y valor inmovilizado."
+        }
+      ],
+      "hint": "Considere factores que impacten directamente el dinero estancado y la rapidez de venta."
+    },
+    {
+      "question": "Dentro de la matriz de cumplimiento de proveedores, \u00bfqu\u00e9 significa un Lead Time de $72$ horas o m\u00e1s?",
+      "answerOptions": [
+        {
+          "text": "Zona roja que exige acciones correctivas o sustituci\u00f3n inmediata del proveedor.",
+          "isCorrect": true,
+          "rationale": "Un retraso de esta magnitud pone en riesgo el stock de seguridad y la continuidad de la operaci\u00f3n."
+        },
+        {
+          "text": "Estado \u00f3ptimo de entrega para productos no cr\u00edticos de la categor\u00eda C.",
+          "isCorrect": false,
+          "rationale": "Incluso para art\u00edculos no cr\u00edticos, un retraso as\u00ed indica una falta de control que puede escalar a otros procesos."
+        },
+        {
+          "text": "Modo preventivo que solo requiere una llamada de seguimiento.",
+          "isCorrect": false,
+          "rationale": "El modo preventivo se asocia usualmente a las $48$ horas; las $72$ horas ya son una falla estructural grave."
+        },
+        {
+          "text": "Tiempo est\u00e1ndar aceptable para cualquier operaci\u00f3n de comercio exterior.",
+          "isCorrect": false,
+          "rationale": "En operaciones de alta eficiencia, el est\u00e1ndar \u00f3ptimo es de $24$ horas para mantener la tensi\u00f3n de la cadena."
+        }
+      ],
+      "hint": "Es la situaci\u00f3n m\u00e1s cr\u00edtica en la escala de tiempos de entrega."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del GPS en la log\u00edstica de transporte de activos de alto valor?",
+      "answerOptions": [
+        {
+          "text": "Actuar como una herramienta de seguridad para prevenir desviaciones y facilitar la recuperaci\u00f3n f\u00edsica.",
+          "isCorrect": true,
+          "rationale": "En la industria pesada, el GPS blinda el capital corporativo al monitorear rutas y detectar anomal\u00edas en tiempo real."
+        },
+        {
+          "text": "Calcular la hora exacta de llegada para avisar al personal de recepci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque es una funci\u00f3n secundaria, su importancia estrat\u00e9gica radica en la seguridad y protecci\u00f3n de la carga millonaria."
+        },
+        {
+          "text": "Medir el nivel de aceite y presi\u00f3n de los neum\u00e1ticos de forma remota.",
+          "isCorrect": false,
+          "rationale": "Esas funciones pertenecen a la telemetr\u00eda del motor, no directamente al prop\u00f3sito de rastreo satelital GPS."
+        },
+        {
+          "text": "Sustituir por completo el uso de gu\u00edas de remisi\u00f3n y hojas de ruta f\u00edsicas.",
+          "isCorrect": false,
+          "rationale": "El GPS complementa la documentaci\u00f3n, pero los documentos maestros siguen siendo necesarios por ley y control administrativo."
+        }
+      ],
+      "hint": "Piense en la protecci\u00f3n de un cargamento de mineral que vale millones."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el est\u00e1ndar base de rendimiento de combustible mencionado para una flota log\u00edstica eficiente?",
+      "answerOptions": [
+        {
+          "text": "$14.5$ km por gal\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Este es el indicador clave que debe calibrarse seg\u00fan la antig\u00fcedad del veh\u00edculo y el peso de la carga."
+        },
+        {
+          "text": "$25.0$ km por gal\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este rendimiento es poco realista para transporte pesado que lleva entre $5$ y $30$ toneladas."
+        },
+        {
+          "text": "$5.5$ km por gal\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Un rendimiento tan bajo indicar\u00eda una ineficiencia extrema o fallas mec\u00e1nicas graves en la flota."
+        },
+        {
+          "text": "$40.0$ km por gal\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esa cifra corresponde a veh\u00edculos ligeros de pasajeros, no a equipos de log\u00edstica de carga pesada."
+        }
+      ],
+      "hint": "Es un valor cercano a quince unidades de distancia por medida de volumen."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 se diferencia la log\u00edstica inversa del servicio postventa?",
+      "answerOptions": [
+        {
+          "text": "La log\u00edstica inversa busca recuperar valor o gestionar residuos; el postventa busca la satisfacci\u00f3n del cliente.",
+          "isCorrect": true,
+          "rationale": "La log\u00edstica inversa es operativa (retorno de envases, excedentes, residuos), mientras que postventa es soporte t\u00e9cnico y comercial."
+        },
+        {
+          "text": "La log\u00edstica inversa es voluntaria y el servicio postventa es obligatorio por ley.",
+          "isCorrect": false,
+          "rationale": "Ambas pueden ser obligatorias dependiendo de normativas ambientales o de protecci\u00f3n al consumidor."
+        },
+        {
+          "text": "El servicio postventa se encarga de los camiones y la log\u00edstica inversa de los almacenes.",
+          "isCorrect": false,
+          "rationale": "No se dividen por activos f\u00edsicos, sino por el objetivo del proceso (atenci\u00f3n vs. recuperaci\u00f3n de activos)."
+        },
+        {
+          "text": "Son exactamente lo mismo bajo diferentes nombres comerciales.",
+          "isCorrect": false,
+          "rationale": "Tienen objetivos estrat\u00e9gicos y operativos muy diferentes dentro de la cadena de suministro."
+        }
+      ],
+      "hint": "Uno se enfoca en que el usuario est\u00e9 feliz y el otro en retornar materiales al ciclo."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los tres pilares del marco de sostenibilidad ESG que deben mantenerse en equilibrio?",
+      "answerOptions": [
+        {
+          "text": "Ambiental, Social y Econ\u00f3mico.",
+          "isCorrect": true,
+          "rationale": "Cuidar el entorno, respetar a las comunidades y asegurar la rentabilidad es la base de la miner\u00eda moderna."
+        },
+        {
+          "text": "Tecnol\u00f3gico, Administrativo y Legal.",
+          "isCorrect": false,
+          "rationale": "Aunque son importantes, no conforman la tr\u00edada cl\u00e1sica de los criterios de sostenibilidad ESG (Environmental, Social, Governance)."
+        },
+        {
+          "text": "Log\u00edstico, Operativo y Financiero.",
+          "isCorrect": false,
+          "rationale": "Estos pilares se enfocan en la eficiencia interna, pero omiten las responsabilidades sociales y ambientales externas."
+        },
+        {
+          "text": "Nacional, Regional e Internacional.",
+          "isCorrect": false,
+          "rationale": "Esta es una divisi\u00f3n geogr\u00e1fica de mercados, no un marco de sostenibilidad corporativa."
+        }
+      ],
+      "hint": "Piense en un banco de tres patas: planeta, personas y rentabilidad."
+    },
+    {
+      "question": "Adem\u00e1s de las habilidades t\u00e9cnicas, \u00bfqu\u00e9 competencia se considera hoy innegociable para un comprador estrat\u00e9gico en un entorno globalizado?",
+      "answerOptions": [
+        {
+          "text": "Dominio absoluto del idioma ingl\u00e9s.",
+          "isCorrect": true,
+          "rationale": "Es la herramienta indispensable para gestionar contratos internacionales y participar en cadenas de suministro globales."
+        },
+        {
+          "text": "Capacidad para conducir maquinaria pesada de almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "Aunque \u00fatil, es una habilidad operativa de campo, no una competencia estrat\u00e9gica para la gesti\u00f3n de compras de alto nivel."
+        },
+        {
+          "text": "Conocimientos avanzados en dise\u00f1o gr\u00e1fico publicitario.",
+          "isCorrect": false,
+          "rationale": "El dise\u00f1o gr\u00e1fico no forma parte del perfil cr\u00edtico de un comprador estrat\u00e9gico enfocado en an\u00e1lisis de datos y contratos."
+        },
+        {
+          "text": "Habilidad para reparar sistemas de GPS en tiempo real.",
+          "isCorrect": false,
+          "rationale": "La reparaci\u00f3n t\u00e9cnica es labor de mantenimiento; el comprador se enfoca en la gesti\u00f3n de los contratos de esos servicios."
+        }
+      ],
+      "hint": "Se trata de la llave de comunicaci\u00f3n para los negocios internacionales."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Ingenier\u00eda de Almacenamiento",
+      "Modelos de Gesti\u00f3n de Inventarios",
+      "Log\u00edstica de Transporte y Flotas",
+      "M\u00e9tricas de Rotaci\u00f3n Financiera",
+      "Sostenibilidad y Tecnolog\u00eda ESG"
+    ],
+    "followUp": [
+      "Optimizaci\u00f3n de Almacenes mediante Inteligencia Artificial",
+      "Sistemas de Gesti\u00f3n de Flotas (FMS) en Entornos Hostiles",
+      "Aplicaci\u00f3n de Blockchain en la Trazabilidad Minera",
+      "Estrategias de Nearshoring para Compras Globales"
+    ]
+  }
+}

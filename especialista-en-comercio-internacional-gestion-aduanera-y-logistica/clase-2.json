@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1les son las dos potencias que se consideran los pilares del ecosistema global y dictan la arquitectura de gesti\u00f3n log\u00edstica actual?",
+      "answerOptions": [
+        {
+          "text": "Estados Unidos y China",
+          "isCorrect": true,
+          "rationale": "Estas naciones act\u00faan como superpotencias cuya interacci\u00f3n mueve flujos masivos de capital y define est\u00e1ndares mundiales."
+        },
+        {
+          "text": "Alemania y Jap\u00f3n",
+          "isCorrect": false,
+          "rationale": "Aunque son potencias industriales, no se describen como los dos pilares que dictan la hegemon\u00eda log\u00edstica global actual."
+        },
+        {
+          "text": "Rusia y la Uni\u00f3n Europea",
+          "isCorrect": false,
+          "rationale": "El marco de an\u00e1lisis se centra espec\u00edficamente en la dicotom\u00eda entre el capitalismo democr\u00e1tico y el socialismo de mercado de los l\u00edderes globales."
+        },
+        {
+          "text": "Brasil e India",
+          "isCorrect": false,
+          "rationale": "Representan mercados emergentes importantes, pero no son las fuerzas opuestas que definen las reglas del juego comercial analizadas."
+        }
+      ],
+      "hint": "Piense en las dos naciones que representan visiones legales y filos\u00f3ficas opuestas en el comercio moderno."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define el modelo econ\u00f3mico estadounidense en el contexto del comercio exterior?",
+      "answerOptions": [
+        {
+          "text": "Socialismo de mercado con control estatal",
+          "isCorrect": false,
+          "rationale": "Este enfoque describe el modelo de la contraparte asi\u00e1tica, no el sistema norteamericano."
+        },
+        {
+          "text": "Capitalismo democr\u00e1tico enfocado en transparencia",
+          "isCorrect": true,
+          "rationale": "Este modelo prioriza la libre competencia y un marco legal predecible bajo el estado de derecho."
+        },
+        {
+          "text": "Proteccionismo absoluto de fronteras",
+          "isCorrect": false,
+          "rationale": "Aunque existen aranceles, el modelo base busca la autorregulaci\u00f3n del mercado mediante la elecci\u00f3n del consumidor."
+        },
+        {
+          "text": "Econom\u00eda centralizada de planificaci\u00f3n quinquenal",
+          "isCorrect": false,
+          "rationale": "El sistema estadounidense evita que el estado se involucre en la gesti\u00f3n empresarial directa."
+        }
+      ],
+      "hint": "Se basa en la idea de que el mercado se regula de forma natural a trav\u00e9s de la competencia."
+    },
+    {
+      "question": "\u00bfQu\u00e9 concepto resume la mentalidad de la regulaci\u00f3n estadounidense respecto al consumidor?",
+      "answerOptions": [
+        {
+          "text": "Disciplina firme y dictatorial",
+          "isCorrect": false,
+          "rationale": "Este enfoque es caracter\u00edstico de sistemas con una discrecionalidad administrativa alta y control estatal r\u00edgido."
+        },
+        {
+          "text": "Seducci\u00f3n y elecci\u00f3n del consumidor",
+          "isCorrect": true,
+          "rationale": "El Estado se mantiene como un \u00e1rbitro neutral para que el mercado y el consumidor tengan la \u00faltima palabra."
+        },
+        {
+          "text": "Soberan\u00eda de datos estatal",
+          "isCorrect": false,
+          "rationale": "Este concepto se asocia m\u00e1s con la protecci\u00f3n de infraestructura digital bajo control centralizado."
+        },
+        {
+          "text": "Prioridad nacional sobre la autonom\u00eda",
+          "isCorrect": false,
+          "rationale": "En Estados Unidos se prioriza la autonom\u00eda corporativa y la competencia por encima de los objetivos pol\u00edticos directos."
+        }
+      ],
+      "hint": "El papel del estado es asegurar est\u00e1ndares de calidad para que el usuario decida."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la ley en el modelo comercial chino?",
+      "answerOptions": [
+        {
+          "text": "Garantizar procesos judiciales neutrales y est\u00e1ticos",
+          "isCorrect": false,
+          "rationale": "La ley en este modelo no es un fin neutral, sino un medio din\u00e1mico para fines pol\u00edticos."
+        },
+        {
+          "text": "Evitar exclusivamente la formaci\u00f3n de monopolios",
+          "isCorrect": false,
+          "rationale": "Esta es la funci\u00f3n principal de leyes como la Sherman Act en el modelo opuesto."
+        },
+        {
+          "text": "Ser una herramienta estrat\u00e9gica para alcanzar objetivos del Estado",
+          "isCorrect": true,
+          "rationale": "La ley es flexible y se usa para potenciar sectores clave y asegurar la estabilidad nacional."
+        },
+        {
+          "text": "Fomentar la transparencia total sin intervenci\u00f3n administrativa",
+          "isCorrect": false,
+          "rationale": "El modelo requiere una gu\u00eda estatal activa que dirige el mercado seg\u00fan prioridades nacionales."
+        }
+      ],
+      "hint": "Considere la ley como una pieza de pol\u00edtica industrial en un entorno de alta discrecionalidad."
+    },
+    {
+      "question": "\u00bfHacia qu\u00e9 objetivo empuja el modelo operativo chino a las empresas internacionales?",
+      "answerOptions": [
+        {
+          "text": "Priorizar el prestigio de marca a largo plazo",
+          "isCorrect": false,
+          "rationale": "Este enfoque suele requerir altos est\u00e1ndares de calidad que elevan los costos, t\u00edpico del modelo estadounidense."
+        },
+        {
+          "text": "Dominar el mercado por cantidad y volumen",
+          "isCorrect": true,
+          "rationale": "Se busca aprovechar incentivos estatales, econom\u00edas de escala y una rotaci\u00f3n r\u00e1pida de inventario."
+        },
+        {
+          "text": "Reducir la escala de producci\u00f3n para asegurar exclusividad",
+          "isCorrect": false,
+          "rationale": "El sistema est\u00e1 dise\u00f1ado para la saturaci\u00f3n masiva y el crecimiento econ\u00f3mico acelerado."
+        },
+        {
+          "text": "Eliminar por completo el uso de tecnolog\u00eda en aduanas",
+          "isCorrect": false,
+          "rationale": "China utiliza sistemas de ventanilla \u00fanica y automatizaci\u00f3n para agilizar el flujo de mercanc\u00edas."
+        }
+      ],
+      "hint": "Piense en el contraste entre 'calidad' y 'saturaci\u00f3n masiva'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica distingue a las agencias regulatorias en los Estados Unidos?",
+      "answerOptions": [
+        {
+          "text": "Operan de forma totalmente centralizada bajo un solo ministerio",
+          "isCorrect": false,
+          "rationale": "El sistema estadounidense se basa en un ecosistema de entidades independientes, no en un mando \u00fanico."
+        },
+        {
+          "text": "Especializaci\u00f3n rigurosa y autonom\u00eda",
+          "isCorrect": true,
+          "rationale": "Cada agencia act\u00faa como un garante en nichos espec\u00edficos con l\u00edmites claros y procesos predecibles."
+        },
+        {
+          "text": "Sincronizaci\u00f3n pol\u00edtica directa con la c\u00fapula estatal",
+          "isCorrect": false,
+          "rationale": "Las agencias buscan ser \u00e1rbitros neutrales basados en reglas escritas m\u00e1s que en directrices pol\u00edticas inmediatas."
+        },
+        {
+          "text": "Falta de poder sancionador en el extranjero",
+          "isCorrect": false,
+          "rationale": "Leyes como la FCPA demuestran una capacidad de sanci\u00f3n global muy elevada."
+        }
+      ],
+      "hint": "Se asemeja a un conjunto de escudos protectores independientes para el consumidor."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de la FDA en el marco institucional estadounidense?",
+      "answerOptions": [
+        {
+          "text": "Vigilar la seguridad de alimentos y medicamentos",
+          "isCorrect": true,
+          "rationale": "Es la agencia encargada de establecer reglas estrictas para garantizar la integridad de estos productos."
+        },
+        {
+          "text": "Frenar la publicidad enga\u00f1osa y competencia desleal",
+          "isCorrect": false,
+          "rationale": "Esa tarea corresponde espec\u00edficamente a la Comisi\u00f3n Federal de Comercio (FTC)."
+        },
+        {
+          "text": "Administrar patentes y marcas soberanas",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n se asocia a organismos de propiedad intelectual, no de salud p\u00fablica."
+        },
+        {
+          "text": "Controlar el ciberespacio y flujo de datos",
+          "isCorrect": false,
+          "rationale": "El control del ciberespacio es una prioridad de agencias vinculadas a la seguridad digital y telecomunicaciones."
+        }
+      ],
+      "hint": "Esta agencia protege lo que el ser humano ingiere o usa para su salud."
+    },
+    {
+      "question": "\u00bfQu\u00e9 organismo chino act\u00faa como un supervisor unificado de competencia y seguridad de productos?",
+      "answerOptions": [
+        {
+          "text": "MOFCOM",
+          "isCorrect": false,
+          "rationale": "El Ministerio de Comercio se enfoca m\u00e1s en la gesti\u00f3n de pol\u00edticas financieras y arancelarias."
+        },
+        {
+          "text": "GAC",
+          "isCorrect": false,
+          "rationale": "Este organismo se encarga de las inspecciones aduaneras y la implementaci\u00f3n de controles en frontera."
+        },
+        {
+          "text": "SAMR",
+          "isCorrect": true,
+          "rationale": "La Administraci\u00f3n Estatal para la Regulaci\u00f3n del Mercado supervisa de manera centralizada la competencia y seguridad."
+        },
+        {
+          "text": "CAC",
+          "isCorrect": false,
+          "rationale": "La Administraci\u00f3n del Ciberespacio de China se especializa en seguridad digital, no en productos f\u00edsicos generales."
+        }
+      ],
+      "hint": "Es un 'peso pesado' que suma fuerzas para metas de desarrollo macroecon\u00f3mico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta legal estadounidense permite combatir la importaci\u00f3n de bienes que vulneran la propiedad intelectual?",
+      "answerOptions": [
+        {
+          "text": "Secci\u00f3n 337",
+          "isCorrect": true,
+          "rationale": "Funciona como un escudo blindado contra importaciones desleales que infringen patentes o marcas."
+        },
+        {
+          "text": "Ley Sherman",
+          "isCorrect": false,
+          "rationale": "Esta es la ley antimonopolio fundacional para asegurar la competencia interna del mercado."
+        },
+        {
+          "text": "FCPA",
+          "isCorrect": false,
+          "rationale": "Se enfoca en pr\u00e1cticas corruptas y sobornos en el extranjero, no directamente en propiedad intelectual."
+        },
+        {
+          "text": "Normativa ITAR",
+          "isCorrect": false,
+          "rationale": "Regula espec\u00edficamente el software y la ciberseguridad relacionados con la defensa."
+        }
+      ],
+      "hint": "Es un mecanismo preventivo de alta intensidad contra el fraude comercial externo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia m\u00e1s severa de violar la FCPA (Ley de Pr\u00e1cticas Corruptas en el Extranjero)?",
+      "answerOptions": [
+        {
+          "text": "Una multa administrativa menor absorbible",
+          "isCorrect": false,
+          "rationale": "La FCPA se considera mucho m\u00e1s que un costo operativo; sus consecuencias son de alto impacto."
+        },
+        {
+          "text": "La imposibilidad de exportar a China",
+          "isCorrect": false,
+          "rationale": "Aunque afecta la operaci\u00f3n, la ley es de origen estadounidense y sus sanciones son penales y financieras globales."
+        },
+        {
+          "text": "Prisi\u00f3n preventiva para ejecutivos corporativos",
+          "isCorrect": true,
+          "rationale": "La ley busca mandar un mensaje directo sobre la integridad, poniendo en riesgo la libertad personal de los l\u00edderes."
+        },
+        {
+          "text": "La obligaci\u00f3n de cambiar el nombre de la marca",
+          "isCorrect": false,
+          "rationale": "Las sanciones se enfocan en castigos penales y econ\u00f3micos severos, no en cambios de identidad de marca."
+        }
+      ],
+      "hint": "Va m\u00e1s all\u00e1 de lo econ\u00f3mico, afectando la libertad de los directivos."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 se diferencia la normativa EAR de la normativa ITAR en Estados Unidos?",
+      "answerOptions": [
+        {
+          "text": "EAR regula servicios y ITAR regula bienes de consumo",
+          "isCorrect": false,
+          "rationale": "Ambas regulan tecnolog\u00eda, pero se dividen por el tipo de activo (f\u00edsico vs. l\u00f3gico)."
+        },
+        {
+          "text": "EAR se enfoca en hardware y bienes de doble uso; ITAR en software y ciberseguridad",
+          "isCorrect": true,
+          "rationale": "Esta divisi\u00f3n t\u00e9cnica separa el control de los componentes f\u00edsicos del control del c\u00f3digo y la encriptaci\u00f3n."
+        },
+        {
+          "text": "EAR es para comercio con China y ITAR para comercio con Europa",
+          "isCorrect": false,
+          "rationale": "Son marcos generales de control de exportaciones independientemente del destino, aunque afectan \u00e1reas cr\u00edticas."
+        },
+        {
+          "text": "ITAR permite el soborno legal y EAR lo proh\u00edbe",
+          "isCorrect": false,
+          "rationale": "Ninguna normativa permite la corrupci\u00f3n; la FCPA es la que regula espec\u00edficamente la integridad."
+        }
+      ],
+      "hint": "Una protege los chips y la otra protege el c\u00f3digo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 entidad china tiene un poder sin precedentes sobre la infraestructura digital y transferencias de datos?",
+      "answerOptions": [
+        {
+          "text": "GAC",
+          "isCorrect": false,
+          "rationale": "Las aduanas gestionan la entrada f\u00edsica, no la soberan\u00eda absoluta de los datos digitales."
+        },
+        {
+          "text": "CNIPA",
+          "isCorrect": false,
+          "rationale": "Esta agencia administra patentes y marcas, no el flujo de informaci\u00f3n en el ciberespacio."
+        },
+        {
+          "text": "CAC",
+          "isCorrect": true,
+          "rationale": "La Administraci\u00f3n del Ciberespacio de China trata cada base de datos como un activo estrat\u00e9gico innegociable."
+        },
+        {
+          "text": "Ministerio de Finanzas",
+          "isCorrect": false,
+          "rationale": "Se encarga de la pol\u00edtica fiscal y arancelaria, no de la regulaci\u00f3n de seguridad digital."
+        }
+      ],
+      "hint": "Piense en la soberan\u00eda absoluta sobre la infraestructura de red."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre si una empresa se asocia con una entidad que figura en la lista SDN (Nacionales Especialmente Designados)?",
+      "answerOptions": [
+        {
+          "text": "Recibe un bono de incentivo a la exportaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La lista SDN es una 'lista negra' de sanciones, no un programa de beneficios."
+        },
+        {
+          "text": "Su operaci\u00f3n internacional puede paralizarse de inmediato",
+          "isCorrect": true,
+          "rationale": "El cumplimiento normativo es cr\u00edtico; aparecer o transaccionar con sancionados bloquea el acceso al sistema global."
+        },
+        {
+          "text": "Se le otorga un plazo de 10 a\u00f1os para corregir el error",
+          "isCorrect": false,
+          "rationale": "Las sanciones suelen ser inmediatas y devastadoras para la continuidad del negocio."
+        },
+        {
+          "text": "La empresa debe mudarse obligatoriamente a M\u00e9xico",
+          "isCorrect": false,
+          "rationale": "El nearshoring es una opci\u00f3n estrat\u00e9gica por aranceles, no una sanci\u00f3n directa por listas negras."
+        }
+      ],
+      "hint": "Es una de las l\u00edneas de defensa m\u00e1s cr\u00edticas del cumplimiento normativo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n fundamental dej\u00f3 el caso de Domino's Pizza en Per\u00fa en 2015?",
+      "answerOptions": [
+        {
+          "text": "La importancia de tener mejores precios que la competencia",
+          "isCorrect": false,
+          "rationale": "El problema no fue comercial sino operativo y de reputaci\u00f3n por falta de higiene."
+        },
+        {
+          "text": "Que el riesgo reputacional y operativo puede causar la quiebra total",
+          "isCorrect": true,
+          "rationale": "Un fallo sanitario masivo provoc\u00f3 el rechazo del consumidor y el cierre de todas las franquicias en el pa\u00eds."
+        },
+        {
+          "text": "La necesidad de usar blockchain en la entrega de pizzas",
+          "isCorrect": false,
+          "rationale": "Aunque el blockchain ayuda a la trazabilidad, el caso se centr\u00f3 en fallas de est\u00e1ndares de calidad b\u00e1sicos."
+        },
+        {
+          "text": "Que los aranceles entre potencias no afectan a las franquicias",
+          "isCorrect": false,
+          "rationale": "El caso demuestra que los riesgos locales de cumplimiento pueden destruir una marca global."
+        }
+      ],
+      "hint": "Considere el efecto domin\u00f3 que causa una falla en los est\u00e1ndares operativos y de calidad."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se utiliza la Inteligencia Artificial (IA) en el control aduanero moderno?",
+      "answerOptions": [
+        {
+          "text": "Para sustituir completamente a los inspectores humanos",
+          "isCorrect": false,
+          "rationale": "La IA act\u00faa como una herramienta de apoyo y monitoreo, no como un reemplazo total de la autoridad."
+        },
+        {
+          "text": "Como un radar para el monitoreo predictivo de riesgos",
+          "isCorrect": true,
+          "rationale": "Permite detectar anomal\u00edas y evaluar la carga antes de que llegue al puerto de destino."
+        },
+        {
+          "text": "Para generar facturas autom\u00e1ticas sin revisi\u00f3n",
+          "isCorrect": false,
+          "rationale": "Su uso principal es la seguridad y la gesti\u00f3n de riesgos, no solo la automatizaci\u00f3n administrativa simple."
+        },
+        {
+          "text": "Para eliminar la necesidad de declaraciones electr\u00f3nicas",
+          "isCorrect": false,
+          "rationale": "Al contrario, la IA se alimenta de la presentaci\u00f3n electr\u00f3nica masiva de datos detallados."
+        }
+      ],
+      "hint": "Es como un sistema de alerta temprana que detecta problemas antes de que ocurran."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja de aplicar tecnolog\u00eda Blockchain en la cadena de suministro?",
+      "answerOptions": [
+        {
+          "text": "Reducir los impuestos de importaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "El blockchain no cambia la pol\u00edtica arancelaria, sino la transparencia de la informaci\u00f3n."
+        },
+        {
+          "text": "Garantizar una trazabilidad inmutable de los productos",
+          "isCorrect": true,
+          "rationale": "Asegura que cada componente sea genuino y cumpla normativas desde el origen hasta el cliente."
+        },
+        {
+          "text": "Eliminar la competencia en el mercado libre",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda busca transparencia y eficiencia, no la creaci\u00f3n de monopolios."
+        },
+        {
+          "text": "Aumentar el peso f\u00edsico de la mercanc\u00eda",
+          "isCorrect": false,
+          "rationale": "Es una herramienta de gesti\u00f3n de datos intangibles, no afecta las propiedades f\u00edsicas de la carga."
+        }
+      ],
+      "hint": "Esta tecnolog\u00eda asegura que la informaci\u00f3n sobre el origen no pueda ser alterada."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la filosof\u00eda de aduanas de China para mantener su flujo masivo de exportaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Exigir un score de riesgo predictivo extremadamente lento",
+          "isCorrect": false,
+          "rationale": "La lentitud burocr\u00e1tica se evita para no afectar la eficiencia exportadora."
+        },
+        {
+          "text": "Uso de ventanilla \u00fanica y declaraciones simplificadas",
+          "isCorrect": true,
+          "rationale": "Buscan subordinar la burocracia a la velocidad del flujo constante de mercanc\u00edas."
+        },
+        {
+          "text": "Inspecci\u00f3n f\u00edsica manual del 100% de los contenedores",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda ineficiente para el volumen masivo que manejan; prefieren sistemas centralizados \u00e1giles."
+        },
+        {
+          "text": "Prohibir el uso de datos electr\u00f3nicos en frontera",
+          "isCorrect": false,
+          "rationale": "China impulsa fuertemente la tecnolog\u00eda para facilitar el comercio a gran escala."
+        }
+      ],
+      "hint": "Priorizan la eficiencia y la velocidad sobre la complejidad burocr\u00e1tica excesiva."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tendencia log\u00edstica ha surgido como respuesta a la fricci\u00f3n de aranceles entre Washington y Pek\u00edn?",
+      "answerOptions": [
+        {
+          "text": "Abandono total del comercio internacional",
+          "isCorrect": false,
+          "rationale": "Las empresas no dejan de comerciar, sino que buscan nuevas estrategias de ubicaci\u00f3n."
+        },
+        {
+          "text": "Nearshoring hacia M\u00e9xico y Latinoam\u00e9rica",
+          "isCorrect": true,
+          "rationale": "Se buscan centros de manufactura cercanos para esquivar las tensiones y aranceles directos."
+        },
+        {
+          "text": "Centralizaci\u00f3n de toda la producci\u00f3n en Europa",
+          "isCorrect": false,
+          "rationale": "Aunque es un mercado importante, el enfoque de relocalizaci\u00f3n se menciona espec\u00edficamente para la regi\u00f3n americana."
+        },
+        {
+          "text": "Aumento de la dependencia de proveedores chinos",
+          "isCorrect": false,
+          "rationale": "La tendencia es justamente la diversificaci\u00f3n para reducir la exposici\u00f3n a riesgos geopol\u00edticos."
+        }
+      ],
+      "hint": "Se trata de acercar la producci\u00f3n al mercado de consumo final."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es vital para un operador distinguir entre hardware y software al exportar tecnolog\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Porque el software no requiere cumplir leyes",
+          "isCorrect": false,
+          "rationale": "Ambos est\u00e1n estrictamente regulados por marcos como EAR e ITAR."
+        },
+        {
+          "text": "Para aplicar correctamente las normativas EAR o ITAR/ECRA",
+          "isCorrect": true,
+          "rationale": "Diferentes agencias y reglas aplican dependiendo de si el activo es f\u00edsico o digital (c\u00f3digo/encriptaci\u00f3n)."
+        },
+        {
+          "text": "Porque el hardware solo se produce en China",
+          "isCorrect": false,
+          "rationale": "Aunque China es un gran productor, el hardware se fabrica globalmente y su control depende de su origen legal."
+        },
+        {
+          "text": "Para evitar el pago de salarios a los trabajadores",
+          "isCorrect": false,
+          "rationale": "El cumplimiento normativo trata sobre seguridad nacional y leyes comerciales, no sobre n\u00f3minas."
+        }
+      ],
+      "hint": "La adaptabilidad normativa requiere identificar qu\u00e9 tipo de activo se est\u00e1 moviendo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la m\u00e1xima que define el \u00e9xito comercial en el entorno global actual seg\u00fan el an\u00e1lisis?",
+      "answerOptions": [
+        {
+          "text": "La ignorancia regulatoria es una excusa v\u00e1lida",
+          "isCorrect": false,
+          "rationale": "Se afirma expl\u00edcitamente que la ignorancia de las reglas jam\u00e1s ser\u00e1 una excusa para el fallo."
+        },
+        {
+          "text": "Capacidad de adaptabilidad normativa en medio de fuerzas opuestas",
+          "isCorrect": true,
+          "rationale": "Triunfar requiere fluidez entre la transparencia punitiva de uno y el control estrat\u00e9gico del otro."
+        },
+        {
+          "text": "Seguir \u00fanicamente el modelo estadounidense",
+          "isCorrect": false,
+          "rationale": "El \u00e9xito depende de saber navegar en la intersecci\u00f3n de ambos modelos dominantes."
+        },
+        {
+          "text": "Ignorar la tecnolog\u00eda para reducir costos",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda (IA, Blockchain) es hoy el est\u00e1ndar absoluto y necesario para la resiliencia."
+        }
+      ],
+      "hint": "Implica saber hacer 'malabares' entre dos visiones legales polos opuestos."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Sistemas regulatorios de EE.UU. y China",
+      "Arquitectura institucional y agencias comerciales",
+      "Protecci\u00f3n de activos estrat\u00e9gicos y propiedad intelectual",
+      "Cumplimiento normativo y riesgo reputacional",
+      "Tecnolog\u00eda aplicada al control aduanero"
+    ],
+    "followUp": [
+      "Estrategias de Nearshoring en Am\u00e9rica Latina",
+      "Impacto de la Ley Sherman en la competencia global",
+      "Soberan\u00eda de datos y ciberseguridad en el comercio internacional",
+      "Metodolog\u00edas de diligencia debida (KYC) en log\u00edstica"
+    ]
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el principal motivo por el cual la transformaci\u00f3n digital en la miner\u00eda se considera actualmente un imperativo estrat\u00e9gico y no opcional?",
+      "answerOptions": [
+        {
+          "text": "La necesidad de enfrentar mercados hipervol\u00e1tiles y una complejidad geol\u00f3gica creciente.",
+          "isCorrect": true,
+          "rationale": "La digitalizaci\u00f3n permite a las empresas navegar la volatilidad de precios y los desaf\u00edos t\u00e9cnicos del terreno mediante una cultura impulsada por datos."
+        },
+        {
+          "text": "La reducci\u00f3n inmediata del costo de la mano de obra no calificada en las plantas.",
+          "isCorrect": false,
+          "rationale": "Aunque la eficiencia mejora, el objetivo estrat\u00e9gico se centra en la supervivencia ante la volatilidad y complejidad del entorno."
+        },
+        {
+          "text": "La obligaci\u00f3n de cumplir con normativas de marketing tecnol\u00f3gico internacional.",
+          "isCorrect": false,
+          "rationale": "La transici\u00f3n digital responde a necesidades operativas y de mercado, no a requerimientos de publicidad o imagen corporativa."
+        },
+        {
+          "text": "El agotamiento total de las reservas minerales de f\u00e1cil acceso a nivel global.",
+          "isCorrect": false,
+          "rationale": "Si bien la geolog\u00eda es compleja, el motor de la transformaci\u00f3n es la gesti\u00f3n reactiva frente a la proactiva basada en datos."
+        }
+      ],
+      "hint": "Considere los factores externos del mercado y las caracter\u00edsticas del yacimiento."
+    },
+    {
+      "question": "En el contexto de los sistemas legados, \u00bfcu\u00e1l es la funci\u00f3n principal de la Arquitectura Orientada a Servicios (SOA)?",
+      "answerOptions": [
+        {
+          "text": "Reemplazar f\u00edsicamente todo el hardware antiguo para evitar fallos de planta.",
+          "isCorrect": false,
+          "rationale": "SOA se enfoca en la integraci\u00f3n l\u00f3gica, no en la sustituci\u00f3n f\u00edsica masiva de equipos costosos."
+        },
+        {
+          "text": "Modularizar sistemas antiguos para extraer datos espec\u00edficos sin cambiar el hardware original.",
+          "isCorrect": true,
+          "rationale": "Esta arquitectura permite proteger la inversi\u00f3n previa al permitir que los sistemas viejos interact\u00faen de forma moderna mediante servicios."
+        },
+        {
+          "text": "Eliminar la necesidad de utilizar protocolos de comunicaci\u00f3n industriales.",
+          "isCorrect": false,
+          "rationale": "SOA no elimina protocolos, sino que los envuelve en servicios para facilitar la interoperabilidad."
+        },
+        {
+          "text": "Crear copias de seguridad f\u00edsicas de los manuales de usuario desaparecidos.",
+          "isCorrect": false,
+          "rationale": "SOA es una soluci\u00f3n de arquitectura de software, no un sistema de gesti\u00f3n de documentaci\u00f3n f\u00edsica."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo se aprovecha la inversi\u00f3n existente de manera inteligente."
+    },
+    {
+      "question": "Seg\u00fan el modelo de la norma ISA 95, \u00bfqu\u00e9 nivel se encarga de los sistemas de ejecuci\u00f3n de manufactura (MES)?",
+      "answerOptions": [
+        {
+          "text": "Nivel 0",
+          "isCorrect": false,
+          "rationale": "El nivel 0 corresponde a la instrumentaci\u00f3n f\u00edsica en el proceso productivo."
+        },
+        {
+          "text": "Nivel 4",
+          "isCorrect": false,
+          "rationale": "El nivel 4 es la cima de la pir\u00e1mide donde reside la planificaci\u00f3n empresarial (ERP)."
+        },
+        {
+          "text": "Nivel 3",
+          "isCorrect": true,
+          "rationale": "Este nivel es el puente cr\u00edtico donde operan los sistemas que gestionan la ejecuci\u00f3n de la producci\u00f3n."
+        },
+        {
+          "text": "Nivel 1",
+          "isCorrect": false,
+          "rationale": "El nivel 1 se enfoca en la manipulaci\u00f3n f\u00edsica de los procesos a trav\u00e9s de sensores y actuadores."
+        }
+      ],
+      "hint": "Se ubica justo debajo del nivel corporativo y encima del control directo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una de las ventajas cr\u00edticas del est\u00e1ndar OPC UA frente a protocolos industriales antiguos?",
+      "answerOptions": [
+        {
+          "text": "Su dependencia exclusiva de sistemas operativos de c\u00f3digo abierto.",
+          "isCorrect": false,
+          "rationale": "OPC UA es valorado precisamente por ser independiente de la plataforma, funcionando en Windows, Linux y otros."
+        },
+        {
+          "text": "La capacidad de modelar objetos con contexto sem\u00e1ntico completo.",
+          "isCorrect": true,
+          "rationale": "Esto permite que un dato crudo viaje con informaci\u00f3n sobre su origen y significado, como la ubicaci\u00f3n de una bomba y el tipo de medida."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de capas de seguridad para acelerar la transmisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Al contrario, OPC UA integra la seguridad desde su dise\u00f1o base por ser infraestructura cr\u00edtica."
+        },
+        {
+          "text": "El uso obligatorio de cables de fibra \u00f3ptica para su funcionamiento.",
+          "isCorrect": false,
+          "rationale": "OPC UA es un protocolo de comunicaci\u00f3n que puede correr sobre diversas infraestructuras de red f\u00edsica."
+        }
+      ],
+      "hint": "Reflexione sobre c\u00f3mo se interpreta un n\u00famero recibido por el sistema."
+    },
+    {
+      "question": "Si el sistema de despacho usa una unidad de medida y el de contabilidad financiera usa otra distinta para el mismo proceso, \u00bfqu\u00e9 elemento t\u00e9cnico ha fallado?",
+      "answerOptions": [
+        {
+          "text": "La conectividad de los cables de red.",
+          "isCorrect": false,
+          "rationale": "El problema no es de transporte f\u00edsico, sino del significado de los datos transportados."
+        },
+        {
+          "text": "La interoperabilidad sem\u00e1ntica de datos.",
+          "isCorrect": true,
+          "rationale": "Esta garantiza que diferentes sistemas compartan la misma l\u00f3gica y significado para las unidades y medidas."
+        },
+        {
+          "text": "La velocidad de procesamiento del microservicio.",
+          "isCorrect": false,
+          "rationale": "La velocidad no afecta la consistencia l\u00f3gica de las unidades de medida reportadas."
+        },
+        {
+          "text": "El cifrado de seguridad del servidor.",
+          "isCorrect": false,
+          "rationale": "El cifrado protege la privacidad, pero no asegura que dos sistemas entiendan 'tonelada' de la misma forma."
+        }
+      ],
+      "hint": "Piense en la concordancia de significado entre departamentos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 permite lograr la norma ISO 23725 en la miner\u00eda moderna?",
+      "answerOptions": [
+        {
+          "text": "La creaci\u00f3n de protocolos de seguridad para el uso de explosivos.",
+          "isCorrect": false,
+          "rationale": "Esta norma no se refiere a la manipulaci\u00f3n de explosivos qu\u00edmicos."
+        },
+        {
+          "text": "La interoperabilidad entre la gesti\u00f3n de flotas y veh\u00edculos aut\u00f3nomos.",
+          "isCorrect": true,
+          "rationale": "Proporciona una interfaz abierta para que veh\u00edculos de distintas tecnolog\u00edas interact\u00faen sin fricciones."
+        },
+        {
+          "text": "La reducci\u00f3n de la latencia en comunicaciones satelitales GEO.",
+          "isCorrect": false,
+          "rationale": "La latencia es una limitaci\u00f3n f\u00edsica del tipo de sat\u00e9lite, no una norma de interfaz vehicular."
+        },
+        {
+          "text": "El modelado de dep\u00f3sitos minerales en tres dimensiones.",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n corresponde a est\u00e1ndares como el Open Mining Format (OMF)."
+        }
+      ],
+      "hint": "Relacione esta norma con el movimiento de maquinaria en el tajo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje de empresas mineras identifican a la cultura organizacional como su principal obst\u00e1culo para la digitalizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "$25\\%$",
+          "isCorrect": false,
+          "rationale": "Esta cifra subestima significativamente el impacto real de la resistencia humana reportado."
+        },
+        {
+          "text": "$56\\%$",
+          "isCorrect": true,
+          "rationale": "M\u00e1s de la mitad de las empresas ven la cultura y la resistencia al cambio como su mayor barrera."
+        },
+        {
+          "text": "$90\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es un problema grave, no alcanza niveles tan extremos en la estad\u00edstica citada."
+        },
+        {
+          "text": "$44\\%$",
+          "isCorrect": false,
+          "rationale": "Este valor es inferior al porcentaje mayoritario identificado por las empresas."
+        }
+      ],
+      "hint": "Es un valor que supera ligeramente la mitad del total."
+    },
+    {
+      "question": "En el modelo ADCAR, \u00bfqu\u00e9 paso se enfoca en la capacitaci\u00f3n t\u00e9cnica profunda del personal?",
+      "answerOptions": [
+        {
+          "text": "Conciencia (Awareness)",
+          "isCorrect": false,
+          "rationale": "La conciencia se trata de entender el 'por qu\u00e9' del cambio, no de aprender la t\u00e9cnica."
+        },
+        {
+          "text": "Deseo (Desire)",
+          "isCorrect": false,
+          "rationale": "El deseo se enfoca en la motivaci\u00f3n y beneficios personales del cambio."
+        },
+        {
+          "text": "Conocimiento (Knowledge)",
+          "isCorrect": true,
+          "rationale": "Este paso representa la fase de aprendizaje te\u00f3rico y t\u00e9cnico sobre c\u00f3mo realizar el cambio."
+        },
+        {
+          "text": "Refuerzo (Reinforcement)",
+          "isCorrect": false,
+          "rationale": "El refuerzo busca consolidar el cambio ya aprendido a trav\u00e9s de incentivos y KPIs."
+        }
+      ],
+      "hint": "Identifique el paso que se asocia directamente con el aprendizaje."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la estrategia recomendada para acelerar la adopci\u00f3n digital mediante agentes de cambio?",
+      "answerOptions": [
+        {
+          "text": "Contratar consultores externos que operen la maquinaria temporalmente.",
+          "isCorrect": false,
+          "rationale": "La adopci\u00f3n real debe venir de la fuerza laboral interna para ser sostenible."
+        },
+        {
+          "text": "Identificar y convertir a los l\u00edderes informales y operadores veteranos en aliados.",
+          "isCorrect": true,
+          "rationale": "Su influencia org\u00e1nica sobre el resto de la fuerza laboral garantiza un seguimiento m\u00e1s natural del cambio."
+        },
+        {
+          "text": "Sustituir a todo el personal veterano por ingenieros reci\u00e9n graduados.",
+          "isCorrect": false,
+          "rationale": "Esto generar\u00eda una p\u00e9rdida cr\u00edtica de conocimiento operativo y aumentar\u00eda la resistencia."
+        },
+        {
+          "text": "Implementar sanciones estrictas para quienes no usen las nuevas plataformas.",
+          "isCorrect": false,
+          "rationale": "El miedo no genera una adopci\u00f3n exitosa ni un cambio cultural positivo."
+        }
+      ],
+      "hint": "Piense en las personas que gozan del respeto natural de sus compa\u00f1eros de turno."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor clave permiti\u00f3 a la unidad minera Las Bambas alcanzar un $90\\%$ de adopci\u00f3n digital en solo tres meses?",
+      "answerOptions": [
+        {
+          "text": "La imposici\u00f3n de mandatos directos desde la alta gerencia corporativa.",
+          "isCorrect": false,
+          "rationale": "La imposici\u00f3n suele generar resistencia, no una adopci\u00f3n tan r\u00e1pida y alta."
+        },
+        {
+          "text": "El uso exclusivo de inteligencia artificial para operar la planta sin humanos.",
+          "isCorrect": false,
+          "rationale": "El caso se centra en la adopci\u00f3n por parte de los trabajadores, no en su eliminaci\u00f3n."
+        },
+        {
+          "text": "La cocreaci\u00f3n de las soluciones involucrando directamente a los trabajadores.",
+          "isCorrect": true,
+          "rationale": "Involucrar al personal en el dise\u00f1o hace que sientan las herramientas como propias, eliminando la resistencia."
+        },
+        {
+          "text": "La entrega de incentivos econ\u00f3micos sin necesidad de capacitaci\u00f3n previa.",
+          "isCorrect": false,
+          "rationale": "Sin capacitaci\u00f3n ni involucramiento, el dinero por s\u00ed solo no garantiza el uso correcto de la tecnolog\u00eda."
+        }
+      ],
+      "hint": "Considere el valor de hacer part\u00edcipe al usuario final en el dise\u00f1o."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple un 'diodo de datos' en la ciberseguridad de una mina?",
+      "answerOptions": [
+        {
+          "text": "Acelerar la conexi\u00f3n a internet mediante la eliminaci\u00f3n de firewalls.",
+          "isCorrect": false,
+          "rationale": "Un diodo de datos es una medida de seguridad restrictiva, no un acelerador de tr\u00e1fico abierto."
+        },
+        {
+          "text": "Permitir que los datos fluyan f\u00edsicamente en una sola direcci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Asegura que la informaci\u00f3n salga hacia el \u00e1rea corporativa pero impide f\u00edsicamente cualquier ataque entrante a los sistemas de control."
+        },
+        {
+          "text": "Detectar virus autom\u00e1ticamente en las memorias USB de los operarios.",
+          "isCorrect": false,
+          "rationale": "Aunque es \u00fatil, esa no es la funci\u00f3n de hardware de un diodo de datos."
+        },
+        {
+          "text": "Almacenar copias de seguridad de la base de datos en caso de ransomware.",
+          "isCorrect": false,
+          "rationale": "El diodo es un dispositivo de transmisi\u00f3n, no de almacenamiento masivo."
+        }
+      ],
+      "hint": "Piense en una barrera f\u00edsica que solo tiene una 'puerta' de salida."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n fundamental dej\u00f3 el caso del malware Stuxnet para las infraestructuras cr\u00edticas?",
+      "answerOptions": [
+        {
+          "text": "Que los sistemas desconectados de internet (air-gapped) son totalmente invulnerables.",
+          "isCorrect": false,
+          "rationale": "Stuxnet demostr\u00f3 exactamente lo contrario: que la desconexi\u00f3n no garantiza seguridad total."
+        },
+        {
+          "text": "Que el error humano, como usar un USB infectado, puede vulnerar sistemas aislados.",
+          "isCorrect": true,
+          "rationale": "Incluso sin conexi\u00f3n a internet, el factor humano sigue siendo un vector de ataque cr\u00edtico."
+        },
+        {
+          "text": "Que los ataques cibern\u00e9ticos solo afectan a los sistemas operativos Windows.",
+          "isCorrect": false,
+          "rationale": "Cualquier sistema, incluyendo controladores industriales espec\u00edficos, puede ser blanco de ataques dirigidos."
+        },
+        {
+          "text": "Que la ciberseguridad debe ser responsabilidad exclusiva de los proveedores de hardware.",
+          "isCorrect": false,
+          "rationale": "La seguridad es una responsabilidad operativa continua que involucra a toda la organizaci\u00f3n."
+        }
+      ],
+      "hint": "Considere c\u00f3mo un dispositivo f\u00edsico puede saltar barreras digitales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia operativa entre los sat\u00e9lites geoestacionarios (GEO) y los de \u00f3rbita baja (LEO)?",
+      "answerOptions": [
+        {
+          "text": "Los sat\u00e9lites GEO tienen una latencia mucho menor que los LEO.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; los sat\u00e9lites GEO tienen una latencia mucho mayor debido a su gran distancia de la Tierra."
+        },
+        {
+          "text": "La latencia de los LEO es de unos $50$ ms, permitiendo operaci\u00f3n aut\u00f3noma en tiempo real.",
+          "isCorrect": true,
+          "rationale": "Esta baja latencia es crucial para el control remoto y aut\u00f3nomo de maquinaria pesada."
+        },
+        {
+          "text": "Los sat\u00e9lites LEO solo funcionan en \u00e1reas urbanas densamente pobladas.",
+          "isCorrect": false,
+          "rationale": "Los sistemas LEO como Starlink est\u00e1n dise\u00f1ados precisamente para dar cobertura en zonas remotas."
+        },
+        {
+          "text": "Los sat\u00e9lites GEO son m\u00e1s econ\u00f3micos y no requieren antenas especiales.",
+          "isCorrect": false,
+          "rationale": "El costo y la tecnolog\u00eda de antenas var\u00edan, pero la diferencia operativa clave es la latencia de la se\u00f1al."
+        }
+      ],
+      "hint": "Piense en el tiempo de retraso de la se\u00f1al y su impacto en la autonom\u00eda."
+    },
+    {
+      "question": "En el evento ocurrido en Cerro Verde, \u00bfc\u00f3mo se mantuvo la continuidad operativa tras el corte de la fibra \u00f3ptica?",
+      "answerOptions": [
+        {
+          "text": "Se detuvo la mina por completo hasta reparar el cable f\u00edsico.",
+          "isCorrect": false,
+          "rationale": "La operaci\u00f3n continu\u00f3 gracias a la existencia de sistemas de respaldo planificados."
+        },
+        {
+          "text": "Se activ\u00f3 la redundancia mediante enlaces de microondas y sat\u00e9lites VSAT.",
+          "isCorrect": true,
+          "rationale": "Contar con m\u00faltiples v\u00edas de comunicaci\u00f3n evit\u00f3 la paralizaci\u00f3n total de la mina."
+        },
+        {
+          "text": "Se utilizaron mensajeros f\u00edsicos para llevar los datos de la planta a la gerencia.",
+          "isCorrect": false,
+          "rationale": "En una operaci\u00f3n moderna, la comunicaci\u00f3n debe ser electr\u00f3nica para mantener el control en tiempo real."
+        },
+        {
+          "text": "Se reiniciaron todos los PLCs para trabajar de forma aislada sin red.",
+          "isCorrect": false,
+          "rationale": "Aislar los PLCs no resuelve la necesidad de comunicaci\u00f3n y coordinaci\u00f3n centralizada."
+        }
+      ],
+      "hint": "Considere el concepto de tener una 'p\u00f3liza de seguro' tecnol\u00f3gica."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se utiliza la herramienta del '\u00c1rbol de Valor' en las propuestas tecnol\u00f3gicas?",
+      "answerOptions": [
+        {
+          "text": "Para clasificar los diferentes tipos de minerales seg\u00fan su precio en bolsa.",
+          "isCorrect": false,
+          "rationale": "El \u00e1rbol de valor es una herramienta financiera y de gesti\u00f3n, no un cat\u00e1logo geol\u00f3gico."
+        },
+        {
+          "text": "Para vincular triunfos t\u00e9cnicos con indicadores financieros como el VAN y la TIR.",
+          "isCorrect": true,
+          "rationale": "Permite traducir mejoras operativas al lenguaje econ\u00f3mico que entiende la alta direcci\u00f3n."
+        },
+        {
+          "text": "Para dibujar el organigrama de mando de la unidad minera.",
+          "isCorrect": false,
+          "rationale": "La estructura organizacional es distinta a un modelo de generaci\u00f3n de valor financiero."
+        },
+        {
+          "text": "Para identificar las causas ra\u00edz de un accidente laboral grave.",
+          "isCorrect": false,
+          "rationale": "Eso corresponder\u00eda a un an\u00e1lisis de causa ra\u00edz, no a un \u00e1rbol de valor financiero."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo convencer a un director financiero de invertir en tecnolog\u00eda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica la filosof\u00eda 'Best of Breed' en la estrategia de adquisici\u00f3n tecnol\u00f3gica?",
+      "answerOptions": [
+        {
+          "text": "Comprar obligatoriamente todas las soluciones a un solo proveedor para evitar problemas.",
+          "isCorrect": false,
+          "rationale": "Eso se conoce como vendor locking y es lo opuesto a la libertad que busca Best of Breed."
+        },
+        {
+          "text": "Elegir la mejor herramienta de cada clase gracias a la estandarizaci\u00f3n de comunicaciones.",
+          "isCorrect": true,
+          "rationale": "Permite seleccionar innovaciones de distintos proveedores sabiendo que ser\u00e1n compatibles entre s\u00ed."
+        },
+        {
+          "text": "Adquirir siempre la tecnolog\u00eda m\u00e1s barata disponible en el mercado internacional.",
+          "isCorrect": false,
+          "rationale": "Se busca la excelencia y la innovaci\u00f3n ('lo mejor'), no necesariamente el precio m\u00e1s bajo."
+        },
+        {
+          "text": "Desarrollar todo el software internamente para no depender de terceros.",
+          "isCorrect": false,
+          "rationale": "Best of Breed fomenta el uso de soluciones de mercado l\u00edderes que sean interoperables."
+        }
+      ],
+      "hint": "Relaci\u00f3nelo con la libertad de elecci\u00f3n frente a los proveedores \u00fanicos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un ejemplo de 'monetizaci\u00f3n de intangibles' en un caso de negocio digital?",
+      "answerOptions": [
+        {
+          "text": "Vender los datos operativos de la mina a empresas competidoras.",
+          "isCorrect": false,
+          "rationale": "La monetizaci\u00f3n de intangibles se refiere a valorar ahorros y riesgos internos, no a vender datos confidenciales."
+        },
+        {
+          "text": "Calcular financieramente el ahorro por una parada de planta prevenida.",
+          "isCorrect": true,
+          "rationale": "Consiste en dar valor monetario a eventos de riesgo que se evitaron gracias a la tecnolog\u00eda."
+        },
+        {
+          "text": "Contabilizar el peso exacto del concentrado de mineral producido.",
+          "isCorrect": false,
+          "rationale": "El mineral es un activo tangible, no un intangible."
+        },
+        {
+          "text": "Pagar las facturas de electricidad mediante criptomonedas.",
+          "isCorrect": false,
+          "rationale": "El m\u00e9todo de pago no tiene relaci\u00f3n con la valoraci\u00f3n de beneficios intangibles de un proyecto."
+        }
+      ],
+      "hint": "Piense en ponerle precio a un riesgo que no lleg\u00f3 a materializarse."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el plano arquitect\u00f3nico maestro RAMI 4.0?",
+      "answerOptions": [
+        {
+          "text": "Un sistema de posicionamiento global para camiones de acarreo.",
+          "isCorrect": false,
+          "rationale": "RAMI 4.0 es un modelo de referencia arquitect\u00f3nico, no un sistema de GPS."
+        },
+        {
+          "text": "El modelo que asegura que cada componente conozca su jerarqu\u00eda y funci\u00f3n en el sistema integrado.",
+          "isCorrect": true,
+          "rationale": "Garantiza que la informaci\u00f3n mantenga coherencia total a gran escala en el ecosistema digital."
+        },
+        {
+          "text": "Un protocolo de comunicaci\u00f3n exclusivo para la miner\u00eda subterr\u00e1nea.",
+          "isCorrect": false,
+          "rationale": "Es un marco general para la industria 4.0, no limitado a un tipo espec\u00edfico de miner\u00eda."
+        },
+        {
+          "text": "Una herramienta para el c\u00e1lculo autom\u00e1tico de impuestos mineros.",
+          "isCorrect": false,
+          "rationale": "No tiene funciones contables o tributarias; es un modelo de arquitectura t\u00e9cnica."
+        }
+      ],
+      "hint": "Considere el orden y la coherencia de todos los elementos del sistema."
+    },
+    {
+      "question": "En el contexto de la gesti\u00f3n del cambio, \u00bfqu\u00e9 diferencia al 'reskilling' de la capacitaci\u00f3n tradicional?",
+      "answerOptions": [
+        {
+          "text": "El reskilling es m\u00e1s corto y se hace \u00fanicamente de forma virtual.",
+          "isCorrect": false,
+          "rationale": "La duraci\u00f3n o el formato no definen al reskilling; lo define el prop\u00f3sito del nuevo rol."
+        },
+        {
+          "text": "Prepara a la fuerza laboral para roles nuevos impulsados totalmente por la digitalizaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Busca transformar las competencias para empleos que antes no exist\u00edan o que han cambiado radicalmente."
+        },
+        {
+          "text": "Es una capacitaci\u00f3n que solo se imparte a los gerentes de alto nivel.",
+          "isCorrect": false,
+          "rationale": "El reskilling es vital para toda la fuerza laboral, especialmente para los operarios afectados por la tecnolog\u00eda."
+        },
+        {
+          "text": "Se enfoca exclusivamente en aprender a usar hojas de c\u00e1lculo b\u00e1sicas.",
+          "isCorrect": false,
+          "rationale": "El reskilling digital en miner\u00eda abarca competencias mucho m\u00e1s complejas y espec\u00edficas de la industria 4.0."
+        }
+      ],
+      "hint": "Piense en la creaci\u00f3n de nuevas funciones laborales debido a la tecnolog\u00eda."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es indispensable contar con un 'plan de operaci\u00f3n manual' a pesar de tener una mina altamente digitalizada?",
+      "answerOptions": [
+        {
+          "text": "Porque los sindicatos exigen que siempre se trabaje de forma manual.",
+          "isCorrect": false,
+          "rationale": "La raz\u00f3n es de seguridad y continuidad t\u00e9cnica, no de exigencia sindical pol\u00edtica."
+        },
+        {
+          "text": "Para garantizar la seguridad y continuidad ante un fallo cr\u00edtico o ciberataque.",
+          "isCorrect": true,
+          "rationale": "Permite revertir la operaci\u00f3n a un modo seguro mientras se recuperan los sistemas digitales."
+        },
+        {
+          "text": "Porque los sistemas digitales son m\u00e1s lentos que los procesos manuales.",
+          "isCorrect": false,
+          "rationale": "La digitalizaci\u00f3n busca precisamente mayor velocidad y precisi\u00f3n; lo manual es el respaldo de emergencia."
+        },
+        {
+          "text": "Para reducir el consumo de energ\u00eda el\u00e9ctrica de los servidores.",
+          "isCorrect": false,
+          "rationale": "El ahorro de energ\u00eda no es la raz\u00f3n cr\u00edtica detr\u00e1s de un plan de contingencia operativa."
+        }
+      ],
+      "hint": "Considere qu\u00e9 pasar\u00eda si todos los sistemas inform\u00e1ticos dejaran de responder."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Miner\u00eda 4.0 y transformaci\u00f3n digital",
+      "Integraci\u00f3n t\u00e9cnica y sistemas legados (SOA/APIs)",
+      "Est\u00e1ndares industriales (ISA 95, RAMI 4.0, OPC UA)",
+      "Gesti\u00f3n del cambio humano (Modelo ADCAR y reskilling)",
+      "Ciberseguridad en infraestructuras cr\u00edticas",
+      "Conectividad y redes (LEO vs GEO, redundancia)",
+      "Evaluaci\u00f3n de valor financiero (\u00c1rbol de valor)"
+    ],
+    "followUp": [
+      "Arquitectura de Microservicios en entornos industriales",
+      "Interoperabilidad sem\u00e1ntica avanzada con JSON y XML",
+      "Casos de \u00e9xito en implementaci\u00f3n de ISO 23725 para flotas",
+      "Metodolog\u00edas de cocreaci\u00f3n para la adopci\u00f3n tecnol\u00f3gica",
+      "Modelado de objetos y contextos sem\u00e1nticos en tiempo real"
+    ]
+  }
+}

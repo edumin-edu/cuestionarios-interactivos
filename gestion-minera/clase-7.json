@@ -1,0 +1,539 @@
+
+{
+  "quiz": [
+    {
+      "question": "¿En qué debe basarse la estabilidad de una organización en contextos de alta volatilidad política?",
+      "answerOptions": [
+        {
+          "text": "En el clima político actual.",
+          "isCorrect": false,
+          "rationale": "Depender del clima político externo es arriesgado debido a la inestabilidad y los cambios frecuentes de gobierno."
+        },
+        {
+          "text": "En la gestión interna y la ética.",
+          "isCorrect": true,
+          "rationale": "La gestión interna sólida y los principios éticos actúan como un ancla propia que no depende de factores externos volátiles."
+        },
+        {
+          "text": "En la inversión extranjera directa.",
+          "isCorrect": false,
+          "rationale": "Si bien la inversión es importante, la estabilidad operativa real proviene de cómo se gestiona la entidad desde adentro."
+        },
+        {
+          "text": "En las regulaciones estatales temporales.",
+          "isCorrect": false,
+          "rationale": "Las normas temporales pueden cambiar rápidamente, por lo que no garantizan una estabilidad sostenible a largo plazo."
+        }
+      ],
+      "hint": "Considere factores que la empresa puede controlar directamente frente al caos exterior."
+    },
+    {
+      "question": "¿Cuál es la función estratégica actual del capital humano en el sector?",
+      "answerOptions": [
+        {
+          "text": "Funcionar como un simple costo operativo.",
+          "isCorrect": false,
+          "rationale": "Ver al personal solo como un costo ignora su potencial para generar valor y proteger a la empresa."
+        },
+        {
+          "text": "Ser un seguro contra la incertidumbre.",
+          "isCorrect": true,
+          "rationale": "El talento resiliente y capacitado es la mejor defensa de una organización para mitigar las fricciones del entorno externo."
+        },
+        {
+          "text": "Cumplir únicamente con las cuotas de contratación.",
+          "isCorrect": false,
+          "rationale": "La contratación por cumplimiento de cuotas no aborda la necesidad de transformar la gestión en ventaja competitiva."
+        },
+        {
+          "text": "Reducir la carga administrativa de la gerencia.",
+          "isCorrect": false,
+          "rationale": "El rol del capital humano va más allá del apoyo administrativo, enfocándose en la competitividad y viabilidad del proyecto."
+        }
+      ],
+      "hint": "Piense en el talento como un activo que protege la operación en tiempos difíciles."
+    },
+    {
+      "question": "¿Qué situación logística genera una fractura inmediata en la cultura de una organización minera?",
+      "answerOptions": [
+        {
+          "text": "La disparidad extrema en las condiciones de traslado entre operarios y gerencia.",
+          "isCorrect": true,
+          "rationale": "Contrastes como el uso de bus para unos y avioneta para otros rompen la percepción de equidad y el sentido de pertenencia."
+        },
+        {
+          "text": "El uso de sistemas de transporte compartidos para todo el personal.",
+          "isCorrect": false,
+          "rationale": "El transporte compartido suele fomentar la integración en lugar de generar divisiones culturales."
+        },
+        {
+          "text": "La implementación de horarios rotativos de transporte.",
+          "isCorrect": false,
+          "rationale": "Los horarios rotativos son una necesidad operativa estándar y no una causa de ruptura cultural por sí mismos."
+        },
+        {
+          "text": "La lejanía geográfica de la operación respecto a las zonas urbanas.",
+          "isCorrect": false,
+          "rationale": "La lejanía es una condición intrínseca del sector que el personal ya conoce, no una decisión de gestión que genere desigualdad."
+        }
+      ],
+      "hint": "Reflexione sobre cómo las diferencias de trato en servicios básicos afectan el sentimiento de justicia."
+    },
+    {
+      "question": "¿Quién es el encargado de entregar los reconocimientos en campañas como \"Orgullo de ser minero\" para maximizar el impacto emocional?",
+      "answerOptions": [
+        {
+          "text": "El gerente general de la compañía.",
+          "isCorrect": false,
+          "rationale": "Aunque es una autoridad, el reconocimiento del gerente no crea el mismo vínculo emocional profundo que el del núcleo familiar."
+        },
+        {
+          "text": "El representante del sindicato de trabajadores.",
+          "isCorrect": false,
+          "rationale": "La labor sindical es administrativa y de derechos, no necesariamente enfocada en la identidad emocional del trabajador."
+        },
+        {
+          "text": "La propia familia del trabajador.",
+          "isCorrect": true,
+          "rationale": "Involucrar a la familia integra el éxito profesional con el orgullo personal, fortaleciendo la resiliencia ante jornadas duras."
+        },
+        {
+          "text": "Un organismo externo de certificación.",
+          "isCorrect": false,
+          "rationale": "Los organismos externos validan estándares, pero no generan el sentido de pertenencia y lealtad buscado en estas campañas."
+        }
+      ],
+      "hint": "Busque el factor que humaniza el sacrificio de estar lejos del hogar."
+    },
+    {
+      "question": "¿Qué acción define a un líder empático frente a una crisis personal de un colaborador en una zona remota?",
+      "answerOptions": [
+        {
+          "text": "Exigir el cumplimiento de una burocracia de $48$ horas para el permiso.",
+          "isCorrect": false,
+          "rationale": "Priorizar la burocracia sobre la urgencia humana demuestra una falta de sensibilidad que daña la lealtad."
+        },
+        {
+          "text": "Facilitar la evacuación inmediata del trabajador hacia su hogar.",
+          "isCorrect": true,
+          "rationale": "Priorizar el bienestar humano sobre los procesos administrativos en crisis garantiza una lealtad inquebrantable del equipo."
+        },
+        {
+          "text": "Delegar la decisión al departamento de recursos humanos central.",
+          "isCorrect": false,
+          "rationale": "Delegar ante una emergencia inmediata puede percibirse como una falta de compromiso directo del líder con su personal."
+        },
+        {
+          "text": "Sugerir que el trabajador espere al final de su jornada acumulativa.",
+          "isCorrect": false,
+          "rationale": "Obligar a esperar ignora la gravedad de la crisis personal y deshumaniza la operación minera."
+        }
+      ],
+      "hint": "Considere la rapidez de respuesta ante la necesidad de volver a casa por una emergencia."
+    },
+    {
+      "question": "¿Qué habilidad blanda permite entender cómo la eficiencia de un área individual impacta en la rentabilidad total?",
+      "answerOptions": [
+        {
+          "text": "Comunicación efectiva.",
+          "isCorrect": false,
+          "rationale": "La comunicación efectiva se centra en la transmisión clara de mensajes, no necesariamente en el análisis de la rentabilidad global."
+        },
+        {
+          "text": "Liderazgo sistémico.",
+          "isCorrect": true,
+          "rationale": "Esta visión permite comprender la interconexión de todas las partes de la operación para optimizar el resultado colectivo."
+        },
+        {
+          "text": "Resolución de conflictos.",
+          "isCorrect": false,
+          "rationale": "Esta habilidad se enfoca en la negociación y el diálogo, no en la visión holística de los procesos operativos."
+        },
+        {
+          "text": "Inteligencia emocional.",
+          "isCorrect": false,
+          "rationale": "La inteligencia emocional ayuda a gestionar el estrés y el aislamiento, pero no define el análisis técnico de la rentabilidad."
+        }
+      ],
+      "hint": "Se trata de ver la operación como un todo interconectado."
+    },
+    {
+      "question": "¿Qué representa realmente la rotación de personal para una empresa minera?",
+      "answerOptions": [
+        {
+          "text": "Un indicador menor de recursos humanos.",
+          "isCorrect": false,
+          "rationale": "Minimizar la rotación ignora el impacto profundo que tiene en la continuidad y los costos de la empresa."
+        },
+        {
+          "text": "Un drenaje masivo de capital intelectual.",
+          "isCorrect": true,
+          "rationale": "Cuando el personal se va, se lleva consigo conocimiento táctico y experiencia que destruyen la eficiencia acumulada."
+        },
+        {
+          "text": "Una oportunidad para reducir salarios antiguos.",
+          "isCorrect": false,
+          "rationale": "La pérdida de experiencia suele costar mucho más que los supuestos ahorros salariales debido a la baja en productividad."
+        },
+        {
+          "text": "Un proceso natural de renovación de equipos.",
+          "isCorrect": false,
+          "rationale": "Aunque existe una renovación natural, una rotación alta es síntoma de fallas en la cultura y genera costos operativos recurrentes."
+        }
+      ],
+      "hint": "Considere lo que se pierde cuando un experto abandona la operación con todo su conocimiento."
+    },
+    {
+      "question": "¿Cuál es la norma fundamental que rige el sector minero desde hace décadas?",
+      "answerOptions": [
+        {
+          "text": "La Ley de Minería Ancestral.",
+          "isCorrect": false,
+          "rationale": "Este concepto suele usarse para justificar invasiones y no constituye el pilar legal formal del sector."
+        },
+        {
+          "text": "La Ley General de Minería de $1992$.",
+          "isCorrect": true,
+          "rationale": "Esta ley sigue siendo el pilar normativo fundamental para la inversión y operación formal en el país."
+        },
+        {
+          "text": "El Reglamento del REINFO.",
+          "isCorrect": false,
+          "rationale": "El REINFO es un mecanismo de formalización temporal que, en muchos casos, ha generado inestabilidad frente a la ley general."
+        },
+        {
+          "text": "La normativa de Minería $4.0$.",
+          "isCorrect": false,
+          "rationale": "La Minería $4.0$ se refiere a una evolución tecnológica y no a una ley fundamental de rango general."
+        }
+      ],
+      "hint": "Busque la legislación base establecida a principios de los años noventa."
+    },
+    {
+      "question": "¿Qué sistema de trabajo se considera óptimo para el balance de recuperación física y mental en la mediana minería?",
+      "answerOptions": [
+        {
+          "text": "El régimen de $20\\times 10$.",
+          "isCorrect": false,
+          "rationale": "Este sistema genera un desgaste familiar alto debido a la duración prolongada fuera del hogar."
+        },
+        {
+          "text": "El modelo de $14\\times 7$ o $10\\times 4$.",
+          "isCorrect": true,
+          "rationale": "Estos esquemas permiten un equilibrio adecuado entre la intensidad del trabajo y el tiempo necesario para la recuperación."
+        },
+        {
+          "text": "El antiguo régimen de $11$ meses por $1$.",
+          "isCorrect": false,
+          "rationale": "Este sistema fue erradicado por ser destructivo para la salud integral y la vida familiar."
+        },
+        {
+          "text": "La jornada diaria de $5\\times 2$.",
+          "isCorrect": false,
+          "rationale": "Aunque es atractivo, no siempre es viable en la mediana minería debido a la ubicación remota de los yacimientos."
+        }
+      ],
+      "hint": "Identifique un punto medio entre las jornadas extremas y los sistemas más modernos."
+    },
+    {
+      "question": "¿Qué beneficio representa el número \"$25$\" en las políticas de contratación minera?",
+      "answerOptions": [
+        {
+          "text": "Un $25\\%$ de días adicionales de descanso.",
+          "isCorrect": false,
+          "rationale": "El descanso se rige por sistemas de jornadas acumulativas, no por un porcentaje adicional fijo sobre días."
+        },
+        {
+          "text": "Un ingreso mínimo minero $25\\%$ superior al promedio nacional.",
+          "isCorrect": true,
+          "rationale": "Este porcentaje es un reconocimiento económico directo a la complejidad y los desafíos del entorno operativo minero."
+        },
+        {
+          "text": "La cuota obligatoria de $25\\%$ de personal local.",
+          "isCorrect": false,
+          "rationale": "Aunque se fomenta el empleo local, el número $25$ mencionado se refiere específicamente a la estructura salarial base."
+        },
+        {
+          "text": "Un descuento del $25\\%$ en el impuesto a la renta personal.",
+          "isCorrect": false,
+          "rationale": "Los beneficios tributarios personales no son el foco de la política de compensación base mencionada."
+        }
+      ],
+      "hint": "Tiene que ver con la compensación financiera por el esfuerzo extraordinario en el sector."
+    },
+    {
+      "question": "¿Cuál es el límite máximo de sueldos adicionales que puede alcanzar un trabajador por participación en utilidades?",
+      "answerOptions": [
+        {
+          "text": "$12$ sueldos.",
+          "isCorrect": false,
+          "rationale": "Este número es común en otros sectores, pero en minería el tope legal por rendimiento es superior."
+        },
+        {
+          "text": "$14$ sueldos.",
+          "isCorrect": false,
+          "rationale": "Incluyendo gratificaciones se llega a este número, pero la participación en utilidades tiene un tope específico más alto."
+        },
+        {
+          "text": "$18$ sueldos.",
+          "isCorrect": true,
+          "rationale": "Dependiendo del rendimiento de la empresa, este beneficio estructural es uno de los mayores atractivos del sector."
+        },
+        {
+          "text": "$24$ sueldos.",
+          "isCorrect": false,
+          "rationale": "Este monto excede los límites estándar establecidos para la participación en utilidades en la industria."
+        }
+      ],
+      "hint": "Considere un número que representa un año y medio de salario base."
+    },
+    {
+      "question": "¿Por qué la reserva de los datos médicos ocupacionales se considera un \"blindaje legal\" para la empresa?",
+      "answerOptions": [
+        {
+          "text": "Para evitar que la competencia robe talento saludable.",
+          "isCorrect": false,
+          "rationale": "La competencia no accede a estos datos para reclutamiento; su fin es la protección de los derechos del individuo."
+        },
+        {
+          "text": "Para proteger al trabajador de estigmatización o discriminación comunitaria.",
+          "isCorrect": true,
+          "rationale": "Mantener la confidencialidad evita que presiones externas usen la salud de una persona como herramienta de conflicto o exclusión."
+        },
+        {
+          "text": "Para reducir los costos de los seguros de vida ley.",
+          "isCorrect": false,
+          "rationale": "La confidencialidad es un derecho inalienable y no una estrategia financiera para negociar primas de seguros."
+        },
+        {
+          "text": "Para ocultar deficiencias en los protocolos de seguridad.",
+          "isCorrect": false,
+          "rationale": "Los exámenes médicos sirven para monitorear la salud, no para encubrir fallas operativas de seguridad."
+        }
+      ],
+      "hint": "Piense en cómo se protege la integridad de la persona frente a su entorno social."
+    },
+    {
+      "question": "¿Cuál es el nuevo desafío de seguridad que ha surgido más allá de los riesgos de ingeniería tradicionales?",
+      "answerOptions": [
+        {
+          "text": "La falta de equipos de protección personal (EPP) de calidad.",
+          "isCorrect": false,
+          "rationale": "El suministro de EPP es un estándar ya superado en la minería formal, no el nuevo desafío crítico."
+        },
+        {
+          "text": "Los riesgos criminales y la violencia externa organizada.",
+          "isCorrect": true,
+          "rationale": "La extorsión y el avance territorial de la minería ilegal han obligado a cambiar la seguridad hacia una estrategia táctica integral."
+        },
+        {
+          "text": "La obsolescencia de los manuales de seguridad eléctrica.",
+          "isCorrect": false,
+          "rationale": "Si bien son riesgos vigentes, la principal amenaza moderna proviene de factores externos delictivos."
+        },
+        {
+          "text": "El aumento de la burocracia en las inspecciones de Sunafil.",
+          "isCorrect": false,
+          "rationale": "Las inspecciones son parte del cumplimiento normativo, no un riesgo de seguridad de la magnitud de la criminalidad."
+        }
+      ],
+      "hint": "Considere amenazas externas que involucran violencia y redes ilegales."
+    },
+    {
+      "question": "¿Qué altitud extrema se menciona como un factor crítico para la salud y supervivencia en las operaciones mineras?",
+      "answerOptions": [
+        {
+          "text": "$2500$ metros sobre el nivel del mar.",
+          "isCorrect": false,
+          "rationale": "A esta altura ya hay efectos, pero no se considera el umbral crítico de alta complejidad fisiológica del sector."
+        },
+        {
+          "text": "$4000$ metros sobre el nivel del mar.",
+          "isCorrect": true,
+          "rationale": "A esta altura la baja concentración de oxígeno exige protocolos médicos estrictos y un monitoreo cardiovascular constante."
+        },
+        {
+          "text": "$5500$ metros sobre el nivel del mar.",
+          "isCorrect": false,
+          "rationale": "Aunque hay operaciones a gran altura, el número de referencia para la gestión de riesgos estándar es ligeramente menor."
+        },
+        {
+          "text": "$1000$ metros sobre el nivel del mar.",
+          "isCorrect": false,
+          "rationale": "Esta altitud no representa un desafío fisiológico significativo para los trabajadores del sector."
+        }
+      ],
+      "hint": "Identifique el número de cuatro dígitos que marca la frontera de la gestión de fatiga y salud extrema."
+    },
+    {
+      "question": "¿Qué condición médica letal debe gestionarse específicamente en trabajos de altura que requieren equipos de protección de detención de caídas?",
+      "answerOptions": [
+        {
+          "text": "Silicosis aguda.",
+          "isCorrect": false,
+          "rationale": "La silicosis es una enfermedad pulmonar por inhalación de polvo, no vinculada directamente al uso de arneses."
+        },
+        {
+          "text": "Síndrome del arnés.",
+          "isCorrect": true,
+          "rationale": "Esta es una condición crítica que puede ser fatal tras una caída si el trabajador queda suspendido por mucho tiempo."
+        },
+        {
+          "text": "Mal de montaña crónico.",
+          "isCorrect": false,
+          "rationale": "Esto se debe a la exposición prolongada a la altura, no específicamente al uso técnico del equipo de protección."
+        },
+        {
+          "text": "Hipotermia súbita.",
+          "isCorrect": false,
+          "rationale": "Es un riesgo ambiental, pero no una condición médica derivada directamente de la mecánica del equipo de seguridad."
+        }
+      ],
+      "hint": "Se relaciona directamente con la suspensión del cuerpo tras una caída."
+    },
+    {
+      "question": "¿Cuál es el único KPI que garantiza una producción ética en la industria?",
+      "answerOptions": [
+        {
+          "text": "Máximo volumen de extracción mensual.",
+          "isCorrect": false,
+          "rationale": "El volumen por sí solo no garantiza que el proceso haya respetado la integridad de las personas."
+        },
+        {
+          "text": "Cero accidentes.",
+          "isCorrect": true,
+          "rationale": "Ningún modelo de producción es sostenible ni ético si requiere sacrificar la integridad física del trabajador."
+        },
+        {
+          "text": "Reducción del $10\\%$ en costos operativos.",
+          "isCorrect": false,
+          "rationale": "La eficiencia financiera es importante, pero no es el indicador que define la ética de la operación frente a la vida."
+        },
+        {
+          "text": "Ratio de automatización de planta.",
+          "isCorrect": false,
+          "rationale": "La tecnología ayuda a la seguridad, pero el indicador de éxito ético es la ausencia real de daños personales."
+        }
+      ],
+      "hint": "Es el indicador de seguridad más ambicioso y fundamental."
+    },
+    {
+      "question": "¿Qué lección deja el caso de la promesa incumplida de \"pollo a la brasa\" en una comunidad local?",
+      "answerOptions": [
+        {
+          "text": "Que los detalles logísticos no afectan la licencia social.",
+          "isCorrect": false,
+          "rationale": "El caso demuestra precisamente lo contrario: que incluso detalles menores tienen un impacto enorme."
+        },
+        {
+          "text": "Que el olvido corporativo no borra la memoria comunitaria.",
+          "isCorrect": true,
+          "rationale": "Los compromisos no honrados resurgen décadas después como símbolos de desconfianza estructural."
+        },
+        {
+          "text": "Que las asambleas locales no tienen validez legal.",
+          "isCorrect": false,
+          "rationale": "Las asambleas son el corazón de la licencia social, independientemente de la formalidad legal de cada acuerdo."
+        },
+        {
+          "text": "Que la comunidad solo busca beneficios alimentarios.",
+          "isCorrect": false,
+          "rationale": "El reclamo no era por la comida en sí, sino por el valor de la palabra empeñada y la honestidad de la empresa."
+        }
+      ],
+      "hint": "Considere la persistencia de los acuerdos en la mente de la población a través del tiempo."
+    },
+    {
+      "question": "¿Qué herramienta es vital para evitar que los pasivos relacionales detonen crisis con la comunidad?",
+      "answerOptions": [
+        {
+          "text": "Un registro de compromisos histórico.",
+          "isCorrect": true,
+          "rationale": "Documentar y cumplir acuerdos a lo largo de los años demuestra que la empresa es un vecino confiable."
+        },
+        {
+          "text": "Una campaña de marketing masiva.",
+          "isCorrect": false,
+          "rationale": "La publicidad no soluciona la desconfianza generada por compromisos reales no cumplidos en el terreno."
+        },
+        {
+          "text": "Un aumento en las donaciones asistencialistas.",
+          "isCorrect": false,
+          "rationale": "El asistencialismo no ataca la raíz del problema ni genera valor real a largo plazo."
+        },
+        {
+          "text": "La contratación de personal de seguridad privado.",
+          "isCorrect": false,
+          "rationale": "La seguridad puede proteger activos, pero no construye la licencia social necesaria para operar con tranquilidad."
+        }
+      ],
+      "hint": "Se trata de una base de datos gerencial sobre los acuerdos pactados."
+    },
+    {
+      "question": "¿Cuál es un ejemplo de desarrollo local que busca la autonomía económica de la comunidad en lugar del asistencialismo?",
+      "answerOptions": [
+        {
+          "text": "Reparto de víveres durante las festividades locales.",
+          "isCorrect": false,
+          "rationale": "Esta es una medida asistencialista temporal que no genera capacidades propias en la población."
+        },
+        {
+          "text": "Sistemas de riego tecnificado y mejoramiento genético de ganado.",
+          "isCorrect": true,
+          "rationale": "Estas intervenciones de ingeniería empoderan económicamente a la comunidad al mejorar su productividad a largo plazo."
+        },
+        {
+          "text": "Donación de equipos de oficina para el municipio.",
+          "isCorrect": false,
+          "rationale": "Aunque es útil, no transforma la matriz económica ni garantiza la autonomía de los pobladores locales."
+        },
+        {
+          "text": "Financiamiento de viajes de estudios para las autoridades.",
+          "isCorrect": false,
+          "rationale": "Esta acción no impacta directamente en el desarrollo sostenible de la base productiva de la comunidad."
+        }
+      ],
+      "hint": "Piense en proyectos técnicos que multiplican el valor de lo que la comunidad ya produce."
+    },
+    {
+      "question": "¿Qué caracteriza a una estrategia de sostenibilidad real frente al \"greenwashing\"?",
+      "answerOptions": [
+        {
+          "text": "La compra de bonos de carbono en países lejanos.",
+          "isCorrect": false,
+          "rationale": "Esto suele usarse para lavar la imagen mientras se mantienen procesos locales ineficientes o contaminantes."
+        },
+        {
+          "text": "La mitigación de la huella de carbono y gestión de pasivos in-situ.",
+          "isCorrect": true,
+          "rationale": "La sostenibilidad real implica coherencia entre el discurso corporativo y la ejecución técnica transparente en el terreno."
+        },
+        {
+          "text": "El uso de logotipos ecológicos en los uniformes del personal.",
+          "isCorrect": false,
+          "rationale": "Los cambios superficiales de imagen no constituyen una gestión ambiental responsable ni real."
+        },
+        {
+          "text": "La publicación de reportes anuales sin auditoría técnica externa.",
+          "isCorrect": false,
+          "rationale": "Los reportes sin transparencia técnica no garantizan que se estén mitigando efectivamente los impactos ambientales."
+        }
+      ],
+      "hint": "Considere la acción directa sobre el entorno local donde opera la mina."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gestión integral del talento humano",
+      "Seguridad operativa y riesgos criminales",
+      "Marco legal y normatividad minera",
+      "Sostenibilidad y licencia social para operar"
+    ],
+    "followUp": [
+      "Minería 4.0 y transformación digital",
+      "Protocolos de salud ocupacional en altitudes extremas",
+      "Estrategias de relacionamiento comunitario post-cierre de mina",
+      "Impacto de la minería ilegal en la seguridad geopolítica"
+    ]
+  }
+}

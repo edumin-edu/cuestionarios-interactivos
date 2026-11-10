@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 elementos, adem\u00e1s del precio final, integran el ciclo de aprovisionamiento en una arquitectura de costos anal\u00edtica?",
+      "answerOptions": [
+        {
+          "text": "Costos de personal de adquisiciones, gastos administrativos y procesos de homologaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "El ciclo de aprovisionamiento es integral y consume recursos humanos y administrativos espec\u00edficos antes de concretar la compra."
+        },
+        {
+          "text": "\u00danicamente el valor comercial del insumo y los costos de flete internacional.",
+          "isCorrect": false,
+          "rationale": "Esta visi\u00f3n es limitada y omite los costos operativos internos que impactan en la rentabilidad industrial."
+        },
+        {
+          "text": "Costos de publicidad, marketing de proveedores y gastos de representaci\u00f3n legal.",
+          "isCorrect": false,
+          "rationale": "Aunque son gastos de la empresa proveedora, no forman parte del desglose directo del ciclo de aprovisionamiento del comprador."
+        },
+        {
+          "text": "Seguros de vida de los transportistas y mantenimiento de las oficinas centrales.",
+          "isCorrect": false,
+          "rationale": "Estos costos suelen clasificarse como gastos generales de la empresa y no est\u00e1n vinculados espec\u00edficamente al ciclo de adquisici\u00f3n de insumos."
+        }
+      ],
+      "hint": "Considere las actividades previas y el soporte humano necesario para formalizar una orden de compra."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia operativa genera una definici\u00f3n deficiente en las especificaciones t\u00e9cnicas de equipos de radiofrecuencia?",
+      "answerOptions": [
+        {
+          "text": "La adquisici\u00f3n de equipos incompatibles que activan procesos de log\u00edstica inversa.",
+          "isCorrect": true,
+          "rationale": "Las fallas t\u00e9cnicas al inicio resultan en devoluciones, reclamos de garant\u00eda y retrasos cr\u00edticos en el campo."
+        },
+        {
+          "text": "Una reducci\u00f3n inmediata en el consumo de energ\u00eda de la planta de procesamiento.",
+          "isCorrect": false,
+          "rationale": "La mala especificaci\u00f3n t\u00e9cnica de comunicaciones no est\u00e1 relacionada directamente con la eficiencia energ\u00e9tica de la planta."
+        },
+        {
+          "text": "Un incremento autom\u00e1tico en la capacidad de carga de los almacenes externos.",
+          "isCorrect": false,
+          "rationale": "La capacidad f\u00edsica de un almac\u00e9n depende de su infraestructura, no de la compatibilidad de los equipos electr\u00f3nicos."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de los costos de mantenimiento predictivo en la maquinaria.",
+          "isCorrect": false,
+          "rationale": "El mantenimiento predictivo es una necesidad t\u00e9cnica de la maquinaria que no se ve alterada por la compra err\u00f3nea de radios."
+        }
+      ],
+      "hint": "Piense en lo que sucede cuando un producto comprado no puede ser utilizado en el destino final."
+    },
+    {
+      "question": "En una operaci\u00f3n de alta exigencia, \u00bfqu\u00e9 rendimiento por hora puede alcanzar un almac\u00e9n automatizado con transelevadores?",
+      "answerOptions": [
+        {
+          "text": "$120$ paletas por hora.",
+          "isCorrect": true,
+          "rationale": "Este nivel de eficiencia es caracter\u00edstico de sistemas de gesti\u00f3n de almacenes robustos integrados con tecnolog\u00eda de lanzaderas dobles."
+        },
+        {
+          "text": "$60$ paletas por hora.",
+          "isCorrect": false,
+          "rationale": "Esta cifra representa una eficiencia est\u00e1ndar o manual, pero queda por debajo de las capacidades de la automatizaci\u00f3n avanzada."
+        },
+        {
+          "text": "$300$ paletas por hora.",
+          "isCorrect": false,
+          "rationale": "Aunque la tecnolog\u00eda avanza, este n\u00famero excede los est\u00e1ndares actuales de rendimiento para sistemas de transelevadores individuales."
+        },
+        {
+          "text": "$10$ paletas por hora.",
+          "isCorrect": false,
+          "rationale": "Es un rendimiento extremadamente bajo que no justificar\u00eda la inversi\u00f3n en una arquitectura de almacenamiento automatizada."
+        }
+      ],
+      "hint": "Se trata de una cifra de tres d\u00edgitos que representa un referente de clase mundial."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se logra la comunicaci\u00f3n precisa entre un sistema WMS y el ERP de una empresa para localizar contenedores en tiempo real?",
+      "answerOptions": [
+        {
+          "text": "A trav\u00e9s de la implementaci\u00f3n de direcciones virtuales.",
+          "isCorrect": true,
+          "rationale": "Las direcciones virtuales permiten secuenciar salidas y ubicar inventario sin margen de error dentro del cerebro digital corporativo."
+        },
+        {
+          "text": "Mediante el uso exclusivo de etiquetas impresas manualmente por los operarios.",
+          "isCorrect": false,
+          "rationale": "El etiquetado manual es propenso a errores y no garantiza la integraci\u00f3n digital en tiempo real que requiere un sistema moderno."
+        },
+        {
+          "text": "Utilizando \u00fanicamente se\u00f1ales de radio anal\u00f3gicas de corto alcance.",
+          "isCorrect": false,
+          "rationale": "La comunicaci\u00f3n entre sistemas de software requiere protocolos de red y estructuras de datos, no solo se\u00f1ales de radio."
+        },
+        {
+          "text": "Dependiendo de la memoria visual y el reporte diario de los jefes de patio.",
+          "isCorrect": false,
+          "rationale": "Este m\u00e9todo carece de precisi\u00f3n y escala, siendo incompatible con la visibilidad total de la cadena de suministro."
+        }
+      ],
+      "hint": "Considere el concepto de mapeo digital que no requiere un espacio f\u00edsico fijo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio operativo obtuvo la empresa Sumagol al implementar polvorines especializados para el almacenamiento de explosivos?",
+      "answerOptions": [
+        {
+          "text": "Un incremento del $50\\%$ en su tiempo de cobertura de inventario.",
+          "isCorrect": true,
+          "rationale": "La gesti\u00f3n de seguridad superior permiti\u00f3 aumentar la resiliencia operativa y reducir costos de almacenamiento."
+        },
+        {
+          "text": "La reducci\u00f3n del $50\\%$ de la fuerza laboral en el \u00e1rea de excavaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El almacenamiento seguro de insumos mejora la log\u00edstica, pero no reduce directamente la necesidad de personal en mina."
+        },
+        {
+          "text": "El cumplimiento parcial de las normativas de seguridad ambiental.",
+          "isCorrect": false,
+          "rationale": "Las normativas de explosivos son extremas y el objetivo de estas instalaciones es el cumplimiento total, no parcial."
+        },
+        {
+          "text": "Una disminuci\u00f3n en la velocidad de despacho de suministros hacia el tajo abierto.",
+          "isCorrect": false,
+          "rationale": "Por el contrario, una mejor gesti\u00f3n de stock inmovilizado busca optimizar, no ralentizar, el flujo hacia la operaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo una mayor seguridad permite mantener m\u00e1s material disponible por m\u00e1s tiempo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje de los gastos asociados a la manipulaci\u00f3n de materiales proviene directamente del capital humano?",
+      "answerOptions": [
+        {
+          "text": "$75\\%$.",
+          "isCorrect": true,
+          "rationale": "El talento es el motor principal de la operaci\u00f3n, por lo que la capacitaci\u00f3n es clave para obtener dividendos financieros."
+        },
+        {
+          "text": "$25\\%$.",
+          "isCorrect": false,
+          "rationale": "Este porcentaje corresponde generalmente a los recursos f\u00edsicos como maquinaria y consumo de energ\u00eda."
+        },
+        {
+          "text": "$50\\%$.",
+          "isCorrect": false,
+          "rationale": "En la manipulaci\u00f3n de materiales, la proporci\u00f3n del factor humano suele ser significativamente mayor a la del factor t\u00e9cnico."
+        },
+        {
+          "text": "$10\\%$.",
+          "isCorrect": false,
+          "rationale": "Un porcentaje tan bajo ignorar\u00eda el costo real de la supervisi\u00f3n, administraci\u00f3n y operaci\u00f3n manual en log\u00edstica."
+        }
+      ],
+      "hint": "Representa las tres cuartas partes de la estructura de costos de manipulaci\u00f3n."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 situaci\u00f3n es imperativo utilizar la metodolog\u00eda de presupuesto base cero?",
+      "answerOptions": [
+        {
+          "text": "Ante escenarios de reestructuraciones disruptivas o crisis masivas.",
+          "isCorrect": true,
+          "rationale": "A diferencia del tradicional, este m\u00e9todo justifica cada gasto desde su origen sin dar nada por sentado."
+        },
+        {
+          "text": "Para gestionar operaciones estables y rutinarias de forma sencilla.",
+          "isCorrect": false,
+          "rationale": "En operaciones estables, el presupuesto tradicional basado en periodos anteriores suele ser m\u00e1s eficiente por su baja complejidad."
+        },
+        {
+          "text": "Cuando se requiere un ajuste porcentual r\u00e1pido sin auditor\u00edas profundas.",
+          "isCorrect": false,
+          "rationale": "El presupuesto base cero es de alt\u00edsima complejidad y exige auditor\u00edas exhaustivas, no es un m\u00e9todo r\u00e1pido de ajuste porcentual."
+        },
+        {
+          "text": "Para proyectos de responsabilidad social que no generan retorno econ\u00f3mico.",
+          "isCorrect": false,
+          "rationale": "Para estos proyectos se suele preferir el presupuesto por programas, enfocado en objetivos espec\u00edficos."
+        }
+      ],
+      "hint": "Es el m\u00e9todo que 'no da nada por sentado' y requiere an\u00e1lisis desde la ra\u00edz."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de un presupuesto flexible dentro de una organizaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "Actuar como un sistema inmunol\u00f3gico financiero contra la volatilidad del mercado.",
+          "isCorrect": true,
+          "rationale": "Permite realizar ajustes din\u00e1micos trimestrales para adaptarse a los cambios en los precios globales."
+        },
+        {
+          "text": "Garantizar que los gastos se mantengan fijos sin importar las condiciones externas.",
+          "isCorrect": false,
+          "rationale": "Un presupuesto flexible es, por definici\u00f3n, adaptable; lo contrario a una estructura de costos est\u00e1tica o fija."
+        },
+        {
+          "text": "Eliminar la necesidad de auditor\u00edas por parte del departamento de finanzas.",
+          "isCorrect": false,
+          "rationale": "La flexibilidad requiere un control a\u00fan m\u00e1s riguroso para asegurar que los ajustes sean justificados y transparentes."
+        },
+        {
+          "text": "Priorizar \u00fanicamente las necesidades del \u00e1rea de marketing sobre las de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El presupuesto flexible se enfoca en la rentabilidad de toda la unidad operativa ante el mercado, no en favorecer un \u00e1rea espec\u00edfica."
+        }
+      ],
+      "hint": "Piense en una herramienta de protecci\u00f3n din\u00e1mica ante precios que cambian constantemente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el paso final en el flujo organizacional del dinero antes de que se autorice un gasto?",
+      "answerOptions": [
+        {
+          "text": "La auditor\u00eda de Finanzas para detectar sobrecostos ocultos.",
+          "isCorrect": true,
+          "rationale": "Finanzas es el ente encargado de dar la luz verde definitiva tras validar los desgloses de producci\u00f3n y las negociaciones comerciales."
+        },
+        {
+          "text": "La identificaci\u00f3n de una necesidad macro por parte de la Direcci\u00f3n General.",
+          "isCorrect": false,
+          "rationale": "Este es el paso inicial que arranca el proceso, no el cierre del ciclo de autorizaci\u00f3n."
+        },
+        {
+          "text": "La negociaci\u00f3n de condiciones comerciales con los proveedores.",
+          "isCorrect": false,
+          "rationale": "La negociaci\u00f3n ocurre en las etapas intermedias y sus resultados deben ser auditados posteriormente por finanzas."
+        },
+        {
+          "text": "El desglose de materiales y mano de obra por parte del \u00e1rea de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Producci\u00f3n detalla los requerimientos t\u00e9cnicos, pero no tiene la potestad final del desembolso financiero."
+        }
+      ],
+      "hint": "Considere qui\u00e9n tiene la responsabilidad de 'blindar' la rentabilidad mediante la revisi\u00f3n final."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 las fajas transportadoras en alta monta\u00f1a representan un ejemplo cr\u00edtico de riesgo financiero?",
+      "answerOptions": [
+        {
+          "text": "Debido al deterioro acelerado y cuarteado por la exposici\u00f3n extrema al sol.",
+          "isCorrect": true,
+          "rationale": "Estos costos ocultos por factores clim\u00e1ticos pueden devorar la rentabilidad si no se anticipan mediante mantenimiento predictivo."
+        },
+        {
+          "text": "Por su incapacidad t\u00e9cnica para transportar minerales de alta densidad.",
+          "isCorrect": false,
+          "rationale": "Las fajas est\u00e1n dise\u00f1adas para cargas pesadas; el problema no es su capacidad, sino su degradaci\u00f3n f\u00edsica ambiental."
+        },
+        {
+          "text": "Porque su consumo el\u00e9ctrico es menor al de los camiones de carga.",
+          "isCorrect": false,
+          "rationale": "Un menor consumo el\u00e9ctrico ser\u00eda una ventaja, no un riesgo financiero destructivo."
+        },
+        {
+          "text": "Debido a que requieren operadores humanos presentes cada diez metros.",
+          "isCorrect": false,
+          "rationale": "Las fajas son sistemas automatizados que buscan precisamente reducir la intensidad de mano de obra en el transporte continuo."
+        }
+      ],
+      "hint": "Enfoque su respuesta en el impacto del clima extremo sobre los componentes f\u00edsicos."
+    },
+    {
+      "question": "En el transporte mar\u00edtimo, \u00bfc\u00f3mo se determina la tarifa del flete seg\u00fan el factor de estiva?",
+      "answerOptions": [
+        {
+          "text": "Se aplica sobre el valor que resulte mayor entre el peso f\u00edsico y el peso volum\u00e9trico.",
+          "isCorrect": true,
+          "rationale": "Las navieras utilizan esta equivalencia ($1$ tonelada $= 1 \\text{m}^3$) para asegurar su rentabilidad frente a cargas voluminosas pero ligeras."
+        },
+        {
+          "text": "Se calcula exclusivamente con base en el valor de factura de la mercanc\u00eda.",
+          "isCorrect": false,
+          "rationale": "El valor de la mercanc\u00eda sirve para los impuestos y el seguro, pero el flete se cobra por el espacio o peso ocupado."
+        },
+        {
+          "text": "Depende \u00fanicamente de la distancia en millas n\u00e1uticas, ignorando el volumen.",
+          "isCorrect": false,
+          "rationale": "La distancia es un factor, pero el factor de estiva es el que define la base de cobro por unidad de carga."
+        },
+        {
+          "text": "Es una tarifa fija por contenedor que no considera el peso de la carga.",
+          "isCorrect": false,
+          "rationale": "Incluso en contenedores, existen l\u00edmites de peso y factores de consolidaci\u00f3n que afectan el costo final para el usuario."
+        }
+      ],
+      "hint": "Recuerde que las navieras cobran por la mayor ocupaci\u00f3n de recurso, ya sea peso o espacio."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el punto exacto de transferencia de riesgos en el Incoterm CIF?",
+      "answerOptions": [
+        {
+          "text": "Cuando la mercanc\u00eda cruza la borda del buque en el puerto de origen.",
+          "isCorrect": true,
+          "rationale": "Aunque el vendedor paga el flete y seguro hasta el destino, el riesgo es asumido por el comprador desde la carga en el origen."
+        },
+        {
+          "text": "En el momento en que el comprador recibe la mercanc\u00eda en sus propios almacenes.",
+          "isCorrect": false,
+          "rationale": "Este punto de entrega y riesgo corresponde a t\u00e9rminos de la familia 'D', como el DDP, no al CIF."
+        },
+        {
+          "text": "Justo cuando el barco llega a aguas territoriales del pa\u00eds de destino.",
+          "isCorrect": false,
+          "rationale": "Los Incoterms no utilizan l\u00edmites de aguas territoriales, sino puntos f\u00edsicos de carga o descarga bien definidos."
+        },
+        {
+          "text": "Al momento de la firma del contrato de compraventa internacional.",
+          "isCorrect": false,
+          "rationale": "La firma del contrato establece obligaciones legales, pero no marca la transferencia f\u00edsica de riesgos sobre el producto."
+        }
+      ],
+      "hint": "Ocurre en el puerto de salida, a pesar de que el vendedor pague el transporte principal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede legalmente si transcurren $30$ d\u00edas calendario sin realizar los tr\u00e1mites aduaneros correspondientes?",
+      "answerOptions": [
+        {
+          "text": "Se dictamina el abandono legal y la p\u00e9rdida total del activo.",
+          "isCorrect": true,
+          "rationale": "La gesti\u00f3n aduanera es implacable con los tiempos; el incumplimiento resulta en la p\u00e9rdida de la propiedad de la mercanc\u00eda."
+        },
+        {
+          "text": "Se aplica una multa menor y se otorga una pr\u00f3rroga autom\u00e1tica de un a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "No existe la pr\u00f3rroga autom\u00e1tica de tal magnitud; el abandono legal es la consecuencia est\u00e1ndar."
+        },
+        {
+          "text": "La mercanc\u00eda es devuelta al proveedor extranjero sin costo adicional.",
+          "isCorrect": false,
+          "rationale": "La devoluci\u00f3n implica costos de log\u00edstica inversa y tr\u00e1mites que no se activan autom\u00e1ticamente por el simple paso del tiempo."
+        },
+        {
+          "text": "El Estado asume el pago de los impuestos para liberar la carga r\u00e1pidamente.",
+          "isCorrect": false,
+          "rationale": "El Estado no subsidia los impuestos de importaci\u00f3n de entidades privadas; por el contrario, penaliza la inacci\u00f3n."
+        }
+      ],
+      "hint": "Es una consecuencia definitiva relacionada con la propiedad de la mercanc\u00eda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 componentes forman la base imponible (valor CIF) para la liquidaci\u00f3n de impuestos aduaneros?",
+      "answerOptions": [
+        {
+          "text": "Valor FOB + Flete + Seguro.",
+          "isCorrect": true,
+          "rationale": "Esta sumatoria establece el valor de la mercanc\u00eda puesta en aduana sobre el cual se aplican los aranceles."
+        },
+        {
+          "text": "Valor EXW + Gastos de Marketing + Margen de Utilidad.",
+          "isCorrect": false,
+          "rationale": "El marketing y la utilidad del comprador no forman parte del valor en aduana de la mercanc\u00eda importada."
+        },
+        {
+          "text": "\u00danicamente el precio pactado en la factura comercial de origen.",
+          "isCorrect": false,
+          "rationale": "Este ser\u00eda solo el valor FOB o EXW, omitiendo los costos de transporte y protecci\u00f3n que son obligatorios para la base imponible."
+        },
+        {
+          "text": "Valor DDP - Aranceles - Impuestos internos.",
+          "isCorrect": false,
+          "rationale": "Aunque matem\u00e1ticamente podr\u00eda aproximarse, la base imponible se construye sumando costos desde el origen, no restando desde el destino final."
+        }
+      ],
+      "hint": "Considere el valor de la carga, su transporte internacional y su p\u00f3liza de protecci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de los siguientes conceptos se considera un costo real y no un cr\u00e9dito fiscal en una importaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Ad-valorem.",
+          "isCorrect": true,
+          "rationale": "Es el arancel que constituye un gasto hundido para la operaci\u00f3n, a diferencia del IGV o las percepciones."
+        },
+        {
+          "text": "IGV ($16\\%$).",
+          "isCorrect": false,
+          "rationale": "El Impuesto General a las Ventas es un cr\u00e9dito fiscal que la empresa puede compensar o recuperar posteriormente."
+        },
+        {
+          "text": "Percepciones ($10\\%$ o $3.5\\%$).",
+          "isCorrect": false,
+          "rationale": "Son pagos anticipados del impuesto que se recuperan mediante compensaci\u00f3n, por lo que no deben presupuestarse como costo."
+        },
+        {
+          "text": "Impuesto de Promoci\u00f3n Municipal ($2\\%$).",
+          "isCorrect": false,
+          "rationale": "Al igual que el IGV, este impuesto forma parte del cr\u00e9dito fiscal recuperable por el importador."
+        }
+      ],
+      "hint": "Identifique el arancel puro que se aplica seg\u00fan la partida de la mercanc\u00eda."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 tipo de bienes se reserva exclusivamente el transporte a\u00e9reo en la log\u00edstica minera?",
+      "answerOptions": [
+        {
+          "text": "Urgencias operativas cr\u00edticas y bienes de alt\u00edsimo valor.",
+          "isCorrect": true,
+          "rationale": "Debido a su alto costo, solo se justifica para repuestos que paralizan la planta o para el transporte de lingotes de oro."
+        },
+        {
+          "text": "Transporte masivo de concentrados de cobre a mercados globales.",
+          "isCorrect": false,
+          "rationale": "El volumen y peso de los concentrados har\u00edan que el transporte a\u00e9reo fuera financieramente inviable."
+        },
+        {
+          "text": "Insumos b\u00e1sicos de oficina y uniformes para el personal de campo.",
+          "isCorrect": false,
+          "rationale": "Estos bienes no justifican el costo de un flete a\u00e9reo y se transportan habitualmente por v\u00eda terrestre."
+        },
+        {
+          "text": "Maquinaria pesada sobredimensionada como molinos de bolas.",
+          "isCorrect": false,
+          "rationale": "Estas m\u00e1quinas superan las capacidades de carga y dimensiones de la mayor\u00eda de los aviones comerciales o de carga."
+        }
+      ],
+      "hint": "Piense en situaciones donde el tiempo vale m\u00e1s que el flete o el producto es excepcionalmente valioso."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la estrategia log\u00edstica denominada 'Milk Run'?",
+      "answerOptions": [
+        {
+          "text": "Consolidar cargas de m\u00faltiples proveedores cercanos en una sola ruta planificada.",
+          "isCorrect": true,
+          "rationale": "Optimiza el espacio del veh\u00edculo y reduce costos de flete al evitar mandar transporte con espacio ocioso."
+        },
+        {
+          "text": "Entregar leche y productos de primera necesidad diariamente a los campamentos.",
+          "isCorrect": false,
+          "rationale": "Aunque el nombre evoca al lechero, es un t\u00e9rmino t\u00e9cnico para la consolidaci\u00f3n de suministros industriales, no solo alimentos."
+        },
+        {
+          "text": "Utilizar fajas transportadoras continuas para mover mineral l\u00edquido.",
+          "isCorrect": false,
+          "rationale": "Las fajas mueven materiales s\u00f3lidos; el Milk Run es una estrategia de transporte vehicular por carretera."
+        },
+        {
+          "text": "Un sistema de pago inmediato en efectivo al momento de recibir la mercanc\u00eda.",
+          "isCorrect": false,
+          "rationale": "El Milk Run se refiere a la gesti\u00f3n f\u00edsica de la ruta y el inventario, no a un m\u00e9todo de liquidaci\u00f3n financiera."
+        }
+      ],
+      "hint": "Es similar al recorrido de un recolector que pasa por varios puntos para llenar una sola carga."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00eda permite prevenir accidentes mediante la lectura de patrones biom\u00e9tricos del conductor?",
+      "answerOptions": [
+        {
+          "text": "C\u00e1maras de fatiga y sensores de somnolencia.",
+          "isCorrect": true,
+          "rationale": "Estos sistemas analizan el rostro y lanzan alertas ante el primer signo de cansancio para proteger al personal en rutas aisladas."
+        },
+        {
+          "text": "Tac\u00f3grafos mec\u00e1nicos de disco de papel.",
+          "isCorrect": false,
+          "rationale": "Los tac\u00f3grafos registran velocidad y tiempo, pero no tienen capacidad de an\u00e1lisis biom\u00e9trico en tiempo real."
+        },
+        {
+          "text": "Sistemas de frenado autom\u00e1tico de emergencia.",
+          "isCorrect": false,
+          "rationale": "Estos sistemas reaccionan ante obst\u00e1culos externos, no ante el estado fisiol\u00f3gico interno del conductor."
+        },
+        {
+          "text": "Radios de comunicaci\u00f3n de banda ciudadana.",
+          "isCorrect": false,
+          "rationale": "Las radios permiten la comunicaci\u00f3n verbal, pero no detectan autom\u00e1ticamente la fatiga del operario."
+        }
+      ],
+      "hint": "Enfoque su respuesta en los sistemas que 'leen' el estado f\u00edsico del rostro del operador."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se utilizan veh\u00edculos herm\u00e9ticamente encapsulados para el transporte de concentrados?",
+      "answerOptions": [
+        {
+          "text": "Para evitar el hurto y la contaminaci\u00f3n por dispersi\u00f3n de material fino.",
+          "isCorrect": true,
+          "rationale": "El est\u00e1ndar para concentrados de cobre u oro exige evitar que el material se vuele o sea manipulado ilegalmente."
+        },
+        {
+          "text": "Debido a que el concentrado debe mantenerse a temperaturas bajo cero.",
+          "isCorrect": false,
+          "rationale": "El concentrado de mineral no requiere refrigeraci\u00f3n; el encapsulamiento es por seguridad y contenci\u00f3n f\u00edsica."
+        },
+        {
+          "text": "Para facilitar que el conductor pueda visualizar la carga desde la cabina.",
+          "isCorrect": false,
+          "rationale": "El encapsulamiento herm\u00e9tico oculta la carga; la visualizaci\u00f3n se hace mediante otros sistemas de sensores."
+        },
+        {
+          "text": "Porque es una exigencia exclusiva para el transporte de lingotes de plata.",
+          "isCorrect": false,
+          "rationale": "Los lingotes se transportan en blindados; el encapsulamiento herm\u00e9tico es t\u00edpico de los polvos o concentrados a granel."
+        }
+      ],
+      "hint": "Piense en la protecci\u00f3n del valor del mineral y la prevenci\u00f3n de impactos ambientales por polvo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la utilidad del 'volante de despacho' emitido por los dep\u00f3sitos temporales?",
+      "answerOptions": [
+        {
+          "text": "Servir como prueba legal para registrar incidencias, da\u00f1os o faltantes.",
+          "isCorrect": true,
+          "rationale": "Es el documento obligatorio para la gesti\u00f3n de reclamos ante seguros y auditor\u00edas de inventario f\u00edsico."
+        },
+        {
+          "text": "Autorizar el ingreso de personal visitante a las oficinas administrativas.",
+          "isCorrect": false,
+          "rationale": "Este documento es estrictamente log\u00edstico y aduanero para mercanc\u00edas, no para el control de visitas personales."
+        },
+        {
+          "text": "Funcionar como un cat\u00e1logo de precios para la venta de activos sobrantes.",
+          "isCorrect": false,
+          "rationale": "El volante registra lo recibido f\u00edsicamente en un nodo log\u00edstico, no tiene fines comerciales o de marketing."
+        },
+        {
+          "text": "Certificar que el transportista ha cumplido con sus horas de descanso.",
+          "isCorrect": false,
+          "rationale": "El descanso se verifica mediante telemetr\u00eda o bit\u00e1coras, mientras que el volante se enfoca en el estado de la carga."
+        }
+      ],
+      "hint": "Considere su valor jur\u00eddico cuando la carga llega con problemas o incompleta."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Arquitectura de costos log\u00edsticos",
+      "Gesti\u00f3n de inventarios y almacenes",
+      "Presupuestos y control operacional",
+      "Incoterms 2020 y tributaci\u00f3n aduanera",
+      "Distribuci\u00f3n f\u00edsica y transporte de carga especial"
+    ],
+    "followUp": [
+      "Impacto financiero de la inactividad operativa",
+      "Tecnolog\u00edas de monitoreo y seguridad en rutas mineras",
+      "C\u00e1lculo del factor de importaci\u00f3n y cr\u00e9ditos fiscales",
+      "Estructura de riesgos en la transferencia de mercanc\u00edas transfronterizas",
+      "Sincronizaci\u00f3n de actores en la cadena de suministro"
+    ]
+  }
+}

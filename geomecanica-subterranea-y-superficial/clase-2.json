@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica distingue fundamentalmente a una falla de una fractura en un macizo rocoso?",
+      "answerOptions": [
+        {
+          "text": "La presencia de un desplazamiento relativo entre los bloques.",
+          "isCorrect": true,
+          "rationale": "Una falla implica movimiento a lo largo del plano de quiebre, mientras que una fractura es solo una separaci\u00f3n del material sin desplazamiento."
+        },
+        {
+          "text": "La profundidad a la que se encuentra la rotura.",
+          "isCorrect": false,
+          "rationale": "Tanto las fallas como las fracturas pueden ocurrir a diversas profundidades, por lo que la ubicaci\u00f3n no es el factor diferenciador."
+        },
+        {
+          "text": "El tipo de mineralizaci\u00f3n que rellena la abertura.",
+          "isCorrect": false,
+          "rationale": "Aunque las fallas pueden canalizar minerales, la distinci\u00f3n geomec\u00e1nica b\u00e1sica radica en el movimiento cinem\u00e1tico de los bloques."
+        },
+        {
+          "text": "La longitud total de la discontinuidad en la superficie.",
+          "isCorrect": false,
+          "rationale": "La escala no define la naturaleza de la discontinuidad; una fractura peque\u00f1a o una falla masiva se diferencian por el desplazamiento."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede con la posici\u00f3n de los bloques de roca a ambos lados de la rotura."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el criterio temporal para clasificar una falla como activa?",
+      "answerOptions": [
+        {
+          "text": "Evidencia de movimiento en los \u00faltimos $10,000$ a $500,000$ a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Este rango temporal indica que la estructura tiene potencial para generar eventos s\u00edsmicos severos en la actualidad."
+        },
+        {
+          "text": "Actividad registrada \u00fanicamente en los \u00faltimos $100$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "El registro hist\u00f3rico humano es demasiado corto para definir la actividad geol\u00f3gica de una falla a escala tect\u00f3nica."
+        },
+        {
+          "text": "Movimiento ocurrido hace m\u00e1s de un mill\u00f3n de a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Las fallas con movimientos tan antiguos suelen considerarse inactivas respecto al riesgo de terremotos inmediatos."
+        },
+        {
+          "text": "Desplazamiento constante observado cada a\u00f1o por sat\u00e9lite.",
+          "isCorrect": false,
+          "rationale": "Aunque el monitoreo satelital es \u00fatil, la clasificaci\u00f3n geol\u00f3gica est\u00e1ndar se basa en escalas de tiempo de miles de a\u00f1os."
+        }
+      ],
+      "hint": "Recuerde el rango de miles de a\u00f1os mencionado para definir el riesgo s\u00edsmico."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se comporta geomec\u00e1nicamente una falla normal en una excavaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Se genera por tensi\u00f3n horizontal y provoca que el bloque de techo tienda a caer.",
+          "isCorrect": true,
+          "rationale": "La inclinaci\u00f3n t\u00edpica de $60^{\\circ}$ y la fuerza de tensi\u00f3n facilitan el desprendimiento del bloque superior hacia el vac\u00edo."
+        },
+        {
+          "text": "Se produce por compresi\u00f3n extrema y empuja el techo hacia arriba.",
+          "isCorrect": false,
+          "rationale": "Este comportamiento es caracter\u00edstico de las fallas inversas, no de las fallas normales."
+        },
+        {
+          "text": "Act\u00faa como una tijera vertical triturando el material en zonas extensas.",
+          "isCorrect": false,
+          "rationale": "La acci\u00f3n de tijera o cisallamiento es propia de las fallas de desgarre."
+        },
+        {
+          "text": "Presenta \u00e1ngulos de inclinaci\u00f3n muy bajos, menores a $30^{\\circ}$.",
+          "isCorrect": false,
+          "rationale": "Las fallas normales suelen tener \u00e1ngulos de inclinaci\u00f3n pronunciados, cercanos a los $60^{\\circ}$."
+        }
+      ],
+      "hint": "Piense en el efecto de la tensi\u00f3n horizontal y una inclinaci\u00f3n de $60^{\\circ}$."
+    },
+    {
+      "question": "\u00bfQu\u00e9 marcador de campo indica la direcci\u00f3n del \u00faltimo movimiento tect\u00f3nico en una superficie de falla?",
+      "answerOptions": [
+        {
+          "text": "Los espejos de falla o slickensides.",
+          "isCorrect": true,
+          "rationale": "Estas superficies pulidas act\u00faan como flechas naturales que revelan la trayectoria del desplazamiento de la roca."
+        },
+        {
+          "text": "Las sillas de falla en la topograf\u00eda.",
+          "isCorrect": false,
+          "rationale": "Las sillas de falla ayudan a localizar la estructura en profundidad, pero no indican la direcci\u00f3n espec\u00edfica del movimiento."
+        },
+        {
+          "text": "La presencia de calizas y areniscas.",
+          "isCorrect": false,
+          "rationale": "La litolog\u00eda describe el tipo de roca, pero no el registro cinem\u00e1tico de los esfuerzos tect\u00f3nicos pasados."
+        },
+        {
+          "text": "El espesor de los estratos superiores.",
+          "isCorrect": false,
+          "rationale": "El espesor es un dato estratigr\u00e1fico que no est\u00e1 directamente relacionado con la direcci\u00f3n del roce entre bloques."
+        }
+      ],
+      "hint": "Busque el t\u00e9rmino relacionado con superficies pulidas por la fricci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 elementos interact\u00faan para formar una cu\u00f1a tetra\u00e9drica o 'planch\u00f3n'?",
+      "answerOptions": [
+        {
+          "text": "La intersecci\u00f3n de tres o m\u00e1s fracturas en la corona o paredes.",
+          "isCorrect": true,
+          "rationale": "Esta convergencia de planos de debilidad crea un bloque suelto e inestable con forma geom\u00e9trica definida."
+        },
+        {
+          "text": "El contacto entre una capa de caliza y una de lutita.",
+          "isCorrect": false,
+          "rationale": "Si bien los contactos litol\u00f3gicos son debilidades, una cu\u00f1a requiere la intersecci\u00f3n de m\u00faltiples planos de fractura."
+        },
+        {
+          "text": "La acumulaci\u00f3n de sedimentos j\u00f3venes sobre roca antigua.",
+          "isCorrect": false,
+          "rationale": "Este concepto se refiere a la superposici\u00f3n estratigr\u00e1fica y no a la formaci\u00f3n mec\u00e1nica de bloques sueltos por fracturamiento."
+        },
+        {
+          "text": "La presencia de agua en una sola falla principal.",
+          "isCorrect": false,
+          "rationale": "El agua reduce la fricci\u00f3n, pero la geometr\u00eda de la cu\u00f1a depende estrictamente de la intersecci\u00f3n de varios planos."
+        }
+      ],
+      "hint": "Considere la cantidad m\u00ednima de planos necesarios para delimitar un bloque en el espacio."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la presencia de agua y arcilla (panizo) es cr\u00edtica para la estabilidad?",
+      "answerOptions": [
+        {
+          "text": "Reduce la fricci\u00f3n entre las rocas pr\u00e1cticamente a cero.",
+          "isCorrect": true,
+          "rationale": "El agua act\u00faa como lubricante sobre la arcilla, convirtiendo las discontinuidades en superficies altamente deslizantes."
+        },
+        {
+          "text": "Aumenta la dureza de la roca intacta circundante.",
+          "isCorrect": false,
+          "rationale": "El agua y la arcilla no mejoran las propiedades mec\u00e1nicas de la roca; por el contrario, degradan el macizo."
+        },
+        {
+          "text": "Facilita la detonaci\u00f3n de los explosivos en el frente.",
+          "isCorrect": false,
+          "rationale": "El agua y el panizo suelen ser causas de fallas en la voladura al alterar la densidad del explosivo."
+        },
+        {
+          "text": "Ayuda a consolidar los bloques sueltos mediante adhesi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El panizo h\u00famedo es inestable y no act\u00faa como un agente cementante confiable en miner\u00eda subterr\u00e1nea."
+        }
+      ],
+      "hint": "Piense en el efecto de un 'tobog\u00e1n' dentro de las grietas de la roca."
+    },
+    {
+      "question": "En el an\u00e1lisis cinem\u00e1tico, \u00bfqu\u00e9 orientaci\u00f3n de falla se considera la m\u00e1s peligrosa respecto al eje del t\u00fanel?",
+      "answerOptions": [
+        {
+          "text": "Fallas que corren en paralelo al eje de la labor.",
+          "isCorrect": true,
+          "rationale": "Esta orientaci\u00f3n facilita que los bloques se desprendan o 'escupan' m\u00e1s f\u00e1cilmente hacia el interior de la excavaci\u00f3n."
+        },
+        {
+          "text": "Fallas que cortan el t\u00fanel de forma perpendicular.",
+          "isCorrect": false,
+          "rationale": "Las estructuras perpendiculares suelen ser m\u00e1s estables al cruzar la excavaci\u00f3n en un solo punto cr\u00edtico reducido."
+        },
+        {
+          "text": "Fallas con buzamiento vertical de $90^{\\circ}$.",
+          "isCorrect": false,
+          "rationale": "Aunque cr\u00edticas, la peligrosidad depende de la relaci\u00f3n geom\u00e9trica con el eje de avance m\u00e1s que solo del \u00e1ngulo."
+        },
+        {
+          "text": "Fallas que se encuentran a m\u00e1s de $100$ metros de la excavaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Si la falla no intersecta o est\u00e1 muy cerca de la labor, su impacto inmediato en la estabilidad local es m\u00ednimo."
+        }
+      ],
+      "hint": "Imagine qu\u00e9 sucede cuando la debilidad sigue la misma direcci\u00f3n en la que usted camina por el t\u00fanel."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el factor de seguridad de $1.2$ en el dise\u00f1o geomec\u00e1nico?",
+      "answerOptions": [
+        {
+          "text": "El l\u00edmite m\u00ednimo aceptable para labores temporales o de exploraci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Es la l\u00ednea roja absoluta para excavaciones de vida corta donde el riesgo es controlado por poco tiempo."
+        },
+        {
+          "text": "El est\u00e1ndar innegociable para rampas principales y servicios.",
+          "isCorrect": false,
+          "rationale": "Las rampas principales requieren un factor de seguridad m\u00e1s elevado debido a su car\u00e1cter permanente."
+        },
+        {
+          "text": "Un dise\u00f1o con alto riesgo de colapso inmediato e inevitable.",
+          "isCorrect": false,
+          "rationale": "Un factor por encima de $1.0$ indica estabilidad te\u00f3rica, aunque $1.2$ es el margen m\u00ednimo para operaciones cortas."
+        },
+        {
+          "text": "La relaci\u00f3n \u00f3ptima entre costo de perforaci\u00f3n y avance mensual.",
+          "isCorrect": false,
+          "rationale": "El factor de seguridad es una medida de estabilidad f\u00edsica, no un indicador de eficiencia econ\u00f3mica o costos."
+        }
+      ],
+      "hint": "Es el valor m\u00ednimo para infraestructuras que no ser\u00e1n permanentes."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el factor de seguridad est\u00e1ndar exigido para infraestructuras permanentes como las arterias principales de una mina?",
+      "answerOptions": [
+        {
+          "text": "$1.5$",
+          "isCorrect": true,
+          "rationale": "Este valor asegura un margen de estabilidad robusto para labores que deben permanecer operativas durante toda la vida del proyecto."
+        },
+        {
+          "text": "$1.0$",
+          "isCorrect": false,
+          "rationale": "Un factor de $1.0$ significa que las fuerzas resistentes son iguales a las actuantes, lo cual es matem\u00e1ticamente inestable."
+        },
+        {
+          "text": "$2.0$",
+          "isCorrect": false,
+          "rationale": "Aunque es muy seguro, no es el est\u00e1ndar m\u00ednimo innegociable mencionado; usualmente se busca un equilibrio t\u00e9cnico de $1.5$."
+        },
+        {
+          "text": "$0.8$",
+          "isCorrect": false,
+          "rationale": "Cualquier valor por debajo de $1.0$ representa una condici\u00f3n de falla activa o colapso inminente."
+        }
+      ],
+      "hint": "Considere el nivel de protecci\u00f3n necesario para las rampas principales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 acci\u00f3n inmediata se debe tomar tras identificar una cu\u00f1a inestable antes de instalar soporte?",
+      "answerOptions": [
+        {
+          "text": "Realizar el desate manual o mecanizado de la roca suelta.",
+          "isCorrect": true,
+          "rationale": "El desate elimina f\u00edsicamente el peligro inmediato de ca\u00edda de rocas antes de proceder con el refuerzo."
+        },
+        {
+          "text": "Aumentar la carga de explosivos en el siguiente disparo.",
+          "isCorrect": false,
+          "rationale": "Aumentar la carga vibrar\u00eda m\u00e1s el terreno, agravando la inestabilidad de la cu\u00f1a detectada."
+        },
+        {
+          "text": "Esperar $24$ horas para que la roca se estabilice sola.",
+          "isCorrect": false,
+          "rationale": "La espera puede provocar un colapso accidental; la intervenci\u00f3n ante una cu\u00f1a detectada debe ser urgente."
+        },
+        {
+          "text": "Mapear la estructura \u00fanicamente con software desde la oficina.",
+          "isCorrect": false,
+          "rationale": "El software es preventivo, pero una vez detectado el riesgo en el frente, se requiere una acci\u00f3n f\u00edsica operativa."
+        }
+      ],
+      "hint": "Se trata de la limpieza f\u00edsica del techo para botar lo que est\u00e9 flojo."
+    },
+    {
+      "question": "Seg\u00fan la ley de superposici\u00f3n estratigr\u00e1fica, \u00bfqu\u00e9 caracteriza a los estratos superiores?",
+      "answerOptions": [
+        {
+          "text": "Son los m\u00e1s j\u00f3venes y generalmente los menos consolidados.",
+          "isCorrect": true,
+          "rationale": "Al ser depositados al final, suelen tener menor compactaci\u00f3n y resistencia que las capas profundas antiguas."
+        },
+        {
+          "text": "Son los m\u00e1s antiguos y resistentes del macizo.",
+          "isCorrect": false,
+          "rationale": "La ley de superposici\u00f3n indica que la antig\u00fcedad aumenta con la profundidad, no con la cercan\u00eda a la superficie."
+        },
+        {
+          "text": "Siempre est\u00e1n compuestos por rocas \u00edgneas intrusivas.",
+          "isCorrect": false,
+          "rationale": "La estratigraf\u00eda se refiere principalmente a rocas sedimentarias y su orden de deposici\u00f3n, no a un tipo espec\u00edfico de roca."
+        },
+        {
+          "text": "Son los \u00fanicos que presentan espejos de falla.",
+          "isCorrect": false,
+          "rationale": "Los marcadores tect\u00f3nicos pueden aparecer en cualquier nivel estratigr\u00e1fico afectado por esfuerzos de deformaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en el orden cronol\u00f3gico de formaci\u00f3n de las capas de la tierra."
+    },
+    {
+      "question": "En el mapeo con br\u00fajula Brunton, \u00bfcu\u00e1l es la funci\u00f3n de la p\u00ednula?",
+      "answerOptions": [
+        {
+          "text": "Capturar el 'dip direction' y validar la relaci\u00f3n geom\u00e9trica de $180^{\\circ}$.",
+          "isCorrect": true,
+          "rationale": "La p\u00ednula permite asegurar que el vector de inclinaci\u00f3n registrado es fidedigno respecto a la geometr\u00eda del plano."
+        },
+        {
+          "text": "Nivelar el \u00e1ngulo horizontal usando el ojo de pollo.",
+          "isCorrect": false,
+          "rationale": "La nivelaci\u00f3n horizontal es una funci\u00f3n del nivel de burbuja (ojo de pollo), no espec\u00edficamente de la p\u00ednula."
+        },
+        {
+          "text": "Medir la dureza de la roca mediante el impacto directo.",
+          "isCorrect": false,
+          "rationale": "La br\u00fajula es un instrumento de precisi\u00f3n geom\u00e9trica, no una herramienta para pruebas de resistencia mec\u00e1nica."
+        },
+        {
+          "text": "Determinar la composici\u00f3n qu\u00edmica de los minerales.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis mineral\u00f3gico se realiza mediante otros m\u00e9todos; la Brunton mide orientaciones espaciales."
+        }
+      ],
+      "hint": "Se utiliza para obtener la direcci\u00f3n exacta hacia donde se inclina el plano."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo indica un sonido hueco o 'bombo' al golpear la pared de una excavaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "La presencia de una 'falsa caja' o discontinuidad oculta.",
+          "isCorrect": true,
+          "rationale": "El sonido hueco confirma que hay una separaci\u00f3n o bloque suelto detr\u00e1s de una cara aparentemente s\u00f3lida."
+        },
+        {
+          "text": "Que la roca es altamente competente y segura.",
+          "isCorrect": false,
+          "rationale": "La roca competente devuelve un sonido met\u00e1lico y seco, no un sonido hueco."
+        },
+        {
+          "text": "Que se ha alcanzado la zona de mineralizaci\u00f3n rica.",
+          "isCorrect": false,
+          "rationale": "El sonido es un diagn\u00f3stico de estabilidad estructural, no un indicador de contenido met\u00e1lico o ley del mineral."
+        },
+        {
+          "text": "La proximidad de una napa fre\u00e1tica abundante.",
+          "isCorrect": false,
+          "rationale": "Aunque el agua afecta la estabilidad, el sonido 'bombo' espec\u00edficamente delata huecos o separaciones f\u00edsicas en la roca."
+        }
+      ],
+      "hint": "Es la confirmaci\u00f3n ac\u00fastica de un peligro que no se ve a simple vista."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la causa principal de la casi totalidad ($99.9\\%$) de los casos de tiros cortados en miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Errores operativos humanos en el frente de trabajo.",
+          "isCorrect": true,
+          "rationale": "Los an\u00e1lisis forenses demuestran que las fallas de detonaci\u00f3n suelen provenir de la manipulaci\u00f3n y no de defectos de f\u00e1brica."
+        },
+        {
+          "text": "Defectos de fabricaci\u00f3n en los fulminantes.",
+          "isCorrect": false,
+          "rationale": "Las estad\u00edsticas muestran que los fallos por fabricaci\u00f3n son extremadamente raros comparados con el error operativo."
+        },
+        {
+          "text": "La baja calidad de la emulsi\u00f3n explosiva.",
+          "isCorrect": false,
+          "rationale": "Al igual que los accesorios, el explosivo en s\u00ed rara vez falla si se almacena y utiliza correctamente."
+        },
+        {
+          "text": "La altitud geogr\u00e1fica de la operaci\u00f3n minera.",
+          "isCorrect": false,
+          "rationale": "La altitud puede influir en ciertos equipos, pero no es la causa ra\u00edz del $99.9\\%$ de los fallos de detonaci\u00f3n."
+        }
+      ],
+      "hint": "Considere qui\u00e9n es el responsable de la instalaci\u00f3n y cebado de las cargas."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el fen\u00f3meno de 'falta de simpat\u00eda' entre taladros de voladura?",
+      "answerOptions": [
+        {
+          "text": "Una explosi\u00f3n compacta la carga del taladro adyacente antes de que este detone.",
+          "isCorrect": true,
+          "rationale": "La onda de compresi\u00f3n f\u00edsica asfixia la carga vecina, impidiendo su detonaci\u00f3n a pesar de tener un detonador activo."
+        },
+        {
+          "text": "El personal operativo se niega a trabajar en equipo.",
+          "isCorrect": false,
+          "rationale": "Aunque el t\u00e9rmino suena social, en voladura es un fen\u00f3meno f\u00edsico-qu\u00edmico entre cargas explosivas."
+        },
+        {
+          "text": "Los retardos de tiempo son demasiado largos entre disparos.",
+          "isCorrect": false,
+          "rationale": "La falta de simpat\u00eda suele ocurrir por la cercan\u00eda excesiva y presiones din\u00e1micas inmediatas, no por retardos largos."
+        },
+        {
+          "text": "El explosivo se diluye por la presencia de agua subterr\u00e1nea.",
+          "isCorrect": false,
+          "rationale": "La diluci\u00f3n es un problema de densidad, pero la 'falta de simpat\u00eda' se refiere espec\u00edficamente a la compresi\u00f3n por una detonaci\u00f3n vecina."
+        }
+      ],
+      "hint": "Es un efecto de asfixia f\u00edsica provocado por una onda de compresi\u00f3n din\u00e1mica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia directa de un 'overbreak' o sobrequiebre deficiente?",
+      "answerOptions": [
+        {
+          "text": "Degradaci\u00f3n irreversible del macizo rocoso y aumento de costos de sostenimiento.",
+          "isCorrect": true,
+          "rationale": "Las vibraciones excesivas fracturan la roca sana, obligando a instalar m\u00e1s soporte del planeado inicialmente."
+        },
+        {
+          "text": "Mejora en la fragmentaci\u00f3n del mineral para la planta.",
+          "isCorrect": false,
+          "rationale": "El sobrequiebre es un exceso de rotura fuera del dise\u00f1o de la labor que da\u00f1a la estabilidad, no un beneficio de producci\u00f3n."
+        },
+        {
+          "text": "Reducci\u00f3n de los tiempos de ciclo de limpieza.",
+          "isCorrect": false,
+          "rationale": "El sobrequiebre aumenta el volumen de desmonte a remover, lo que en realidad incrementa los tiempos de ciclo."
+        },
+        {
+          "text": "Aumento del factor de seguridad de la corona.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el sobrequiebre debilita la estructura natural del arco del t\u00fanel, bajando su seguridad."
+        }
+      ],
+      "hint": "Piense en el da\u00f1o a la integridad estructural de la roca y el impacto econ\u00f3mico."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define el \u00edndice RQD en la evaluaci\u00f3n de la calidad de la roca?",
+      "answerOptions": [
+        {
+          "text": "Porcentaje de roca extra\u00edda en trozos mayores a $10$ cm.",
+          "isCorrect": true,
+          "rationale": "Este \u00edndice cuantifica el grado de fracturamiento midiendo solo los fragmentos de testigo que superan esa longitud m\u00ednima."
+        },
+        {
+          "text": "La profundidad m\u00e1xima alcanzada por una perforaci\u00f3n diamantina.",
+          "isCorrect": false,
+          "rationale": "El RQD es un par\u00e1metro de calidad del material recuperado, no una medida de profundidad de perforaci\u00f3n."
+        },
+        {
+          "text": "El tiempo que tarda una onda s\u00edsmica en atravesar el macizo.",
+          "isCorrect": false,
+          "rationale": "Eso corresponder\u00eda a mediciones geof\u00edsicas de velocidad s\u00f3nica, no al \u00edndice de designaci\u00f3n de calidad de roca."
+        },
+        {
+          "text": "La cantidad de agua que drena por minuto desde una falla.",
+          "isCorrect": false,
+          "rationale": "El RQD no mide caudales hidr\u00e1ulicos; se enfoca exclusivamente en la integridad f\u00edsica de los n\u00facleos de roca."
+        }
+      ],
+      "hint": "Se basa en la longitud de los fragmentos s\u00f3lidos recuperados."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es vital aplicar la 'regla de las 24 horas' al evaluar la roca en el frente?",
+      "answerOptions": [
+        {
+          "text": "Factores como la desecaci\u00f3n y el alivio de esfuerzos alteran la calidad inicial.",
+          "isCorrect": true,
+          "rationale": "La roca reacciona al ser expuesta al aire y perder confinamiento, por lo que su comportamiento cambia tras el primer d\u00eda."
+        },
+        {
+          "text": "Es el tiempo legal requerido para que el gas de la voladura se disipe.",
+          "isCorrect": false,
+          "rationale": "La ventilaci\u00f3n suele ser mucho m\u00e1s r\u00e1pida; las $24$ horas son para observar la respuesta mec\u00e1nica del macizo."
+        },
+        {
+          "text": "Para permitir que el cemento de los pernos frag\u00fce por completo.",
+          "isCorrect": false,
+          "rationale": "Aunque el fraguado es importante, la regla de reevaluaci\u00f3n se refiere a la degradaci\u00f3n natural de la roca expuesta."
+        },
+        {
+          "text": "Es el periodo necesario para que el software procese los datos de campo.",
+          "isCorrect": false,
+          "rationale": "El procesamiento de software es r\u00e1pido; la espera es para capturar la realidad f\u00edsica din\u00e1mica del terreno."
+        }
+      ],
+      "hint": "La roca no es inerte y reacciona al ser excavada y expuesta al ambiente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta de software se utiliza espec\u00edficamente para modelar en 3D la formaci\u00f3n de cu\u00f1as?",
+      "answerOptions": [
+        {
+          "text": "Unwedge",
+          "isCorrect": true,
+          "rationale": "Este simulador cinem\u00e1tico permite visualizar el tama\u00f1o y ubicaci\u00f3n de las cu\u00f1as potenciales antes de excavar."
+        },
+        {
+          "text": "DIPS",
+          "isCorrect": false,
+          "rationale": "DIPS se utiliza para el an\u00e1lisis estad\u00edstico de familias de fracturas, no para la simulaci\u00f3n 3D de bloques espec\u00edficos."
+        },
+        {
+          "text": "AutoCAD",
+          "isCorrect": false,
+          "rationale": "Aunque es para dise\u00f1o, no es una herramienta especializada en geomec\u00e1nica cinem\u00e1tica de cu\u00f1as rocosas."
+        },
+        {
+          "text": "Excel",
+          "isCorrect": false,
+          "rationale": "Es una hoja de c\u00e1lculo general, insuficiente para las simulaciones geom\u00e9tricas complejas que requiere la geomec\u00e1nica."
+        }
+      ],
+      "hint": "Su nombre sugiere la identificaci\u00f3n de cu\u00f1as (wedges) en ingl\u00e9s."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el efecto principal de una falla inversa en una labor minera?",
+      "answerOptions": [
+        {
+          "text": "Provoca una convergencia extrema de las paredes, intentando cerrar el t\u00fanel.",
+          "isCorrect": true,
+          "rationale": "Debido a la compresi\u00f3n horizontal, el techo es empujado hacia arriba y las paredes laterales hacia adentro."
+        },
+        {
+          "text": "Genera una separaci\u00f3n limpia de bloques sin deformaci\u00f3n de paredes.",
+          "isCorrect": false,
+          "rationale": "La falla inversa es altamente energ\u00e9tica y deforma el entorno debido a las fuerzas de compresi\u00f3n."
+        },
+        {
+          "text": "Crea vac\u00edos de tensi\u00f3n que facilitan el avance sin soporte.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la compresi\u00f3n extrema en fallas inversas exige estrategias de ingenier\u00eda para resistir el cierre de la labor."
+        },
+        {
+          "text": "Produce \u00fanicamente superficies pulidas sin trituraci\u00f3n de material.",
+          "isCorrect": false,
+          "rationale": "Las fallas inversas a menudo vienen acompa\u00f1adas de milonitas o brechas debido a la intensidad del choque de bloques."
+        }
+      ],
+      "hint": "Considere el resultado de una compresi\u00f3n horizontal extrema sobre los costados de la excavaci\u00f3n."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Estructuras Geol\u00f3gicas",
+      "Estabilidad de Excavaciones",
+      "Geomec\u00e1nica de Campo",
+      "Control Operativo de Voladura",
+      "Mapeo con Br\u00fajula Brunton"
+    ],
+    "followUp": [
+      "Sistemas de Soporte Activo en Miner\u00eda",
+      "An\u00e1lisis Cinem\u00e1tico de Cu\u00f1as con Software",
+      "Mec\u00e1nica de Rocas y Esfuerzos Inducidos",
+      "Procedimientos de Desate y Seguridad en el Frente"
+    ]
+  }
+}

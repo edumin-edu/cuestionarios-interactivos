@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre la gesti\u00f3n de materiales y la asignaci\u00f3n de recursos dentro de un almac\u00e9n?",
+      "answerOptions": [
+        {
+          "text": "La gesti\u00f3n es pasiva mientras que la asignaci\u00f3n vincula los recursos activamente a estrategias semanales.",
+          "isCorrect": true,
+          "rationale": "Tener materiales es un estado pasivo de almacenamiento, pero asignar implica una conexi\u00f3n activa con la planificaci\u00f3n estrat\u00e9gica de la planta."
+        },
+        {
+          "text": "La gesti\u00f3n se encarga de las compras de \u00faltimo minuto y la asignaci\u00f3n del inventario de seguridad.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n confunde funciones operativas con la naturaleza activa o pasiva de los recursos en el almac\u00e9n."
+        },
+        {
+          "text": "La asignaci\u00f3n es un proceso puramente administrativo mientras que la gesti\u00f3n es operativa.",
+          "isCorrect": false,
+          "rationale": "Contradice el principio de que la asignaci\u00f3n es el componente din\u00e1mico y estrat\u00e9gico de la operaci\u00f3n."
+        },
+        {
+          "text": "Ambas son sin\u00f3nimos de almacenamiento de seguridad para evitar roturas de stock.",
+          "isCorrect": false,
+          "rationale": "Ignora la distinci\u00f3n funcional entre simplemente poseer un material y destinarlo a un flujo productivo espec\u00edfico."
+        }
+      ],
+      "hint": "Piense en la diferencia entre tener algo guardado y ponerlo a trabajar en un plan semanal."
+    },
+    {
+      "question": "En el contexto de la demanda, \u00bfqu\u00e9 representa el concepto de demanda dependiente?",
+      "answerOptions": [
+        {
+          "text": "La necesidad de componentes que se deriva directamente de la fabricaci\u00f3n de productos finales.",
+          "isCorrect": true,
+          "rationale": "La demanda dependiente se calcula internamente bas\u00e1ndose en la estructura del producto terminado, como las llantas de una bicicleta."
+        },
+        {
+          "text": "La volatilidad del mercado externo que afecta el volumen de ventas totales.",
+          "isCorrect": false,
+          "rationale": "Esto describe la demanda independiente, la cual est\u00e1 sujeta a factores externos y caprichos del consumidor."
+        },
+        {
+          "text": "Los patrones estacionales que ocurren en fechas fijas del calendario escolar.",
+          "isCorrect": false,
+          "rationale": "La estacionalidad es un componente de la demanda, no define si esta es dependiente o independiente."
+        },
+        {
+          "text": "El promedio hist\u00f3rico sobre el cual se mueve el volumen base de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El promedio hist\u00f3rico se refiere al valor base, que es un componente anal\u00edtico de la proyecci\u00f3n, no el tipo de demanda."
+        }
+      ],
+      "hint": "Piense en las partes internas necesarias para armar un producto completo."
+    },
+    {
+      "question": "Al evaluar proyecciones, \u00bfqu\u00e9 componente describe los patrones fijos que se repiten anualmente, como la venta de \u00fatiles escolares?",
+      "answerOptions": [
+        {
+          "text": "Variaci\u00f3n aleatoria",
+          "isCorrect": false,
+          "rationale": "La variaci\u00f3n aleatoria se refiere a eventos impredecibles y \u00fanicos, no a patrones recurrentes del calendario."
+        },
+        {
+          "text": "Tendencia",
+          "isCorrect": false,
+          "rationale": "La tendencia indica si el ciclo general es de crecimiento o recesi\u00f3n a largo plazo, no picos estacionales."
+        },
+        {
+          "text": "Estacionalidad",
+          "isCorrect": true,
+          "rationale": "La estacionalidad captura comportamientos c\u00edclicos vinculados a fechas espec\u00edficas del calendario."
+        },
+        {
+          "text": "Autocorrelaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La autocorrelaci\u00f3n mide la persistencia de patrones pasados en el tiempo, no necesariamente ligados a fechas anuales."
+        }
+      ],
+      "hint": "Se trata de eventos que ocurren siempre en la misma \u00e9poca del a\u00f1o."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 situaci\u00f3n es m\u00e1s recomendable aplicar un promedio m\u00f3vil simple de $9$ semanas en lugar de uno de $3$ semanas?",
+      "answerOptions": [
+        {
+          "text": "Cuando se requiere reaccionar con extrema rapidez a cambios muy recientes del mercado.",
+          "isCorrect": false,
+          "rationale": "Para reacciones r\u00e1pidas es mejor el promedio de $3$ semanas, ya que es m\u00e1s sensible a datos nuevos."
+        },
+        {
+          "text": "Cuando se busca suavizar fluctuaciones en una tendencia que es relativamente estable a mediano plazo.",
+          "isCorrect": true,
+          "rationale": "Un horizonte m\u00e1s largo en el promedio m\u00f3vil ayuda a filtrar el ruido y estabilizar la proyecci\u00f3n."
+        },
+        {
+          "text": "Cuando los datos m\u00e1s recientes tienen un valor estrat\u00e9gico superior a los antiguos.",
+          "isCorrect": false,
+          "rationale": "Esta es la descripci\u00f3n del promedio m\u00f3vil ponderado, no del simple de largo horizonte."
+        },
+        {
+          "text": "Cuando se manejan productos de alt\u00edsima volatilidad que requieren precisi\u00f3n quir\u00fargica.",
+          "isCorrect": false,
+          "rationale": "Para alta volatilidad y precisi\u00f3n extrema se utiliza el suavizamiento exponencial."
+        }
+      ],
+      "hint": "Considere qu\u00e9 periodo de tiempo ayuda a ignorar mejor los cambios bruscos y moment\u00e1neos."
+    },
+    {
+      "question": "En la industria qu\u00edmica, \u00bfqu\u00e9 beneficio ofrece el suavizamiento exponencial con un factor $\\alpha = 0.5$?",
+      "answerOptions": [
+        {
+          "text": "Permite ignorar el historial de consumo para centrarse solo en la intuici\u00f3n del jefe de planta.",
+          "isCorrect": false,
+          "rationale": "El suavizamiento exponencial es un m\u00e9todo cuantitativo basado estrictamente en datos hist\u00f3ricos, no en intuici\u00f3n."
+        },
+        {
+          "text": "Elimina la necesidad de utilizar el sistema Just-in-Time en la planta de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El pron\u00f3stico preciso es un complemento necesario para el Just-in-Time, no un sustituto."
+        },
+        {
+          "text": "Reduce la incertidumbre al capturar variaciones min\u00fasculas en el historial de consumo de insumos cr\u00edticos.",
+          "isCorrect": true,
+          "rationale": "Este nivel de exactitud es vital para gestionar materiales peligrosos o costosos donde el margen de error debe ser m\u00ednimo."
+        },
+        {
+          "text": "Aumenta el inventario de seguridad para protegerse de cualquier fallo del proveedor.",
+          "isCorrect": false,
+          "rationale": "El objetivo del m\u00e9todo es optimizar y reducir el capital muerto, no aumentar el inventario innecesariamente."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo este m\u00e9todo matem\u00e1tico ayuda a ver detalles que un promedio simple ignorar\u00eda."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de los siguientes es considerado un desperdicio o 'muda' fundamental que infla el costo unitario en la manufactura esbelta?",
+      "answerOptions": [
+        {
+          "text": "El mantenimiento preventivo de la maquinaria.",
+          "isCorrect": false,
+          "rationale": "El mantenimiento preventivo es una actividad necesaria para la eficiencia de la planta, no un desperdicio."
+        },
+        {
+          "text": "Los tiempos de espera de personal o maquinaria inactiva.",
+          "isCorrect": true,
+          "rationale": "Cualquier momento en que los recursos no generan valor se traduce en rentabilidad perdida."
+        },
+        {
+          "text": "La certificaci\u00f3n $ISO\\ 9001$ de los proveedores.",
+          "isCorrect": false,
+          "rationale": "La certificaci\u00f3n es una herramienta de calidad que reduce desperdicios a largo plazo."
+        },
+        {
+          "text": "La implementaci\u00f3n de sistemas de alerta temprana.",
+          "isCorrect": false,
+          "rationale": "La anticipaci\u00f3n t\u00e9cnica es una estrategia proactiva, no un costo que deba eliminarse."
+        }
+      ],
+      "hint": "Se refiere a situaciones donde se consume tiempo sin producir nada \u00fatil."
+    },
+    {
+      "question": "Bajo el sistema Just-in-Time, \u00bfc\u00f3mo debe ser la relaci\u00f3n con los proveedores?",
+      "answerOptions": [
+        {
+          "text": "Deben ser terceros reactivos que solo act\u00faan bajo \u00f3rdenes de compra tradicionales.",
+          "isCorrect": false,
+          "rationale": "El modelo tradicional reactivo es ineficiente para los ritmos de sincronizaci\u00f3n que exige el Just-in-Time."
+        },
+        {
+          "text": "Deben ser aliados estrat\u00e9gicos integrados que funcionen como una extensi\u00f3n de la planta.",
+          "isCorrect": true,
+          "rationale": "La integraci\u00f3n profunda garantiza calidad y entregas en el momento exacto requerido por la producci\u00f3n."
+        },
+        {
+          "text": "Deben competir entre ellos por precio sin importar los tiempos de entrega.",
+          "isCorrect": false,
+          "rationale": "El precio no es el \u00fanico factor; la sincronizaci\u00f3n y la calidad milim\u00e9trica son prioridades en este sistema."
+        },
+        {
+          "text": "Su \u00fanica responsabilidad es cumplir con el volumen total de pedidos al final del trimestre.",
+          "isCorrect": false,
+          "rationale": "El Just-in-Time requiere entregas granulares y precisas, no solo cumplimientos de volumen masivo."
+        }
+      ],
+      "hint": "Imagine al proveedor trabajando tan cerca de la f\u00e1brica que parece parte de ella."
+    },
+    {
+      "question": "\u00bfQu\u00e9 metodolog\u00eda es ideal para identificar visualmente y eliminar barreras donde se acumula material en el piso de f\u00e1brica?",
+      "answerOptions": [
+        {
+          "text": "Teor\u00eda de Restricciones ($TOC$)",
+          "isCorrect": true,
+          "rationale": "La $TOC$ se enfoca espec\u00edficamente en reconocer y romper los cuellos de botella que detienen el flujo productivo."
+        },
+        {
+          "text": "Promedio m\u00f3vil ponderado",
+          "isCorrect": false,
+          "rationale": "Esta es una herramienta matem\u00e1tica de pron\u00f3stico de demanda, no de gesti\u00f3n de flujo f\u00edsico en planta."
+        },
+        {
+          "text": "Certificaci\u00f3n $ISO\\ 9001$",
+          "isCorrect": false,
+          "rationale": "Es una normativa de gesti\u00f3n de calidad, no una metodolog\u00eda t\u00e9cnica de flujo de materiales."
+        },
+        {
+          "text": "Modelo de lote por lote",
+          "isCorrect": false,
+          "rationale": "Es una t\u00e9cnica de dimensionamiento de pedidos para inventarios, no para an\u00e1lisis de procesos f\u00edsicos."
+        }
+      ],
+      "hint": "Se enfoca en encontrar el punto m\u00e1s lento de la cadena que limita a los dem\u00e1s."
+    },
+    {
+      "question": "Dentro de un sistema $MRP$, \u00bfqu\u00e9 se encuentra t\u00edpicamente en el Nivel $2$ de la Lista de Materiales ($BOM$)?",
+      "answerOptions": [
+        {
+          "text": "El producto final listo para el cliente.",
+          "isCorrect": false,
+          "rationale": "El producto terminado se ubica en el Nivel $0$ de la jerarqu\u00eda $BOM$."
+        },
+        {
+          "text": "Los subensambles o piezas principales.",
+          "isCorrect": false,
+          "rationale": "Los subensambles suelen ocupar el Nivel $1$, justo debajo del producto final."
+        },
+        {
+          "text": "Las partes b\u00e1sicas, tornillos, qu\u00edmicos y materias primas exactas.",
+          "isCorrect": true,
+          "rationale": "El nivel m\u00e1s bajo de la cascada representa el 'ADN' del producto, compuesto por sus insumos fundamentales."
+        },
+        {
+          "text": "El Plan Maestro de Producci\u00f3n ($PMP$).",
+          "isCorrect": false,
+          "rationale": "El $PMP$ es un documento de planificaci\u00f3n estrat\u00e9gica, no un componente f\u00edsico de la lista de materiales."
+        }
+      ],
+      "hint": "Piense en los elementos m\u00e1s granulares y b\u00e1sicos que componen cualquier objeto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre el Plan Maestro de Producci\u00f3n ($PMP$) y el $MRP$?",
+      "answerOptions": [
+        {
+          "text": "El $PMP$ es t\u00e1ctico semanal mientras que el $MRP$ es estrat\u00e9gico anual.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s: el $PMP$ marca la direcci\u00f3n general y el $MRP$ se encarga de la operatividad detallada."
+        },
+        {
+          "text": "El $PMP$ dicta los grandes objetivos de la gerencia y el $MRP$ operativiza los materiales semana a semana.",
+          "isCorrect": true,
+          "rationale": "El $PMP$ es la estrategia de 'campeonato' y el $MRP$ son los pases t\u00e1cticos para el 'partido' de la semana."
+        },
+        {
+          "text": "El $PMP$ se aplica solo en servicios y el $MRP$ solo en manufactura pesada.",
+          "isCorrect": false,
+          "rationale": "Ambos son sistemas complementarios utilizados dentro del mismo entorno industrial."
+        },
+        {
+          "text": "No existe diferencia, son dos nombres para el mismo proceso de compra de insumos.",
+          "isCorrect": false,
+          "rationale": "Tienen horizontes de tiempo y niveles de detalle distintos dentro de la jerarqu\u00eda de planificaci\u00f3n."
+        }
+      ],
+      "hint": "Uno mira el panorama general de la directiva y el otro se asegura de que las m\u00e1quinas no se detengan hoy."
+    },
+    {
+      "question": "Para productos muy voluminosos, como bloques de espuma o colchones, \u00bfqu\u00e9 modelo de dimensionamiento de lotes es el m\u00e1s adecuado?",
+      "answerOptions": [
+        {
+          "text": "Cantidad econ\u00f3mica de pedido ($EOQ$)",
+          "isCorrect": false,
+          "rationale": "El $EOQ$ busca equilibrio de costos, pero puede generar inventarios excesivos para productos de gran volumen."
+        },
+        {
+          "text": "Costo unitario m\u00ednimo",
+          "isCorrect": false,
+          "rationale": "Este modelo se ajusta a variaciones de demanda, pero no prioriza espec\u00edficamente el espacio de almac\u00e9n."
+        },
+        {
+          "text": "Modelo lote por lote",
+          "isCorrect": true,
+          "rationale": "Este modelo evita costos destructivos de inventario al pedir solo lo necesario para el requerimiento inmediato."
+        },
+        {
+          "text": "Suavizamiento exponencial",
+          "isCorrect": false,
+          "rationale": "Este es un m\u00e9todo de pron\u00f3stico, no una t\u00e9cnica de dimensionamiento de lotes de compra."
+        }
+      ],
+      "hint": "Considere la dificultad de almacenar objetos que ocupan demasiado espacio f\u00edsico."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se establece un tope est\u00e1ndar del $85\\%$ para la eficiencia de la mano de obra?",
+      "answerOptions": [
+        {
+          "text": "Debido a que las m\u00e1quinas requieren paradas t\u00e9cnicas inevitables.",
+          "isCorrect": false,
+          "rationale": "Las paradas t\u00e9cnicas afectan la eficiencia de la planta ($95\\%$), no directamente la de mano de obra."
+        },
+        {
+          "text": "Para obligar a los trabajadores a hacer horas extras constantes.",
+          "isCorrect": false,
+          "rationale": "El est\u00e1ndar busca realismo operativo, no imponer reg\u00edmenes de trabajo excesivos."
+        },
+        {
+          "text": "Porque los humanos sufren fatiga, necesitan pausas biol\u00f3gicas y tiempo para cambios de turno.",
+          "isCorrect": true,
+          "rationale": "Asumir un $100\\%$ de eficiencia humana es ignorar las limitaciones f\u00edsicas y biol\u00f3gicas naturales."
+        },
+        {
+          "text": "Debido a que el $15\\%$ restante se pierde siempre en productos defectuosos.",
+          "isCorrect": false,
+          "rationale": "Los productos defectuosos son un desperdicio que debe eliminarse, no una justificaci\u00f3n para el tope de eficiencia."
+        }
+      ],
+      "hint": "Recuerde que los trabajadores no son m\u00e1quinas y tienen necesidades naturales durante la jornada."
+    },
+    {
+      "question": "\u00bfQu\u00e9 m\u00e9trica permite comparar el tiempo est\u00e1ndar ideal de una tarea contra el tiempo real que tom\u00f3 completarla?",
+      "answerOptions": [
+        {
+          "text": "Eficacia",
+          "isCorrect": false,
+          "rationale": "La eficacia mide el cumplimiento de metas independientemente de los recursos o el tiempo utilizado."
+        },
+        {
+          "text": "Eficiencia",
+          "isCorrect": true,
+          "rationale": "La eficiencia se centra en el uso \u00f3ptimo del tiempo y los recursos comparados con un est\u00e1ndar establecido."
+        },
+        {
+          "text": "Productividad",
+          "isCorrect": false,
+          "rationale": "La productividad es la relaci\u00f3n general entre producci\u00f3n total y consumo total de recursos."
+        },
+        {
+          "text": "Autocorrelaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Este es un componente estad\u00edstico de la demanda, no una m\u00e9trica de desempe\u00f1o operativo en planta."
+        }
+      ],
+      "hint": "Se trata de ver qu\u00e9 tan cerca estuvimos del rendimiento perfecto en t\u00e9rminos de tiempo."
+    },
+    {
+      "question": "Si un operario tiene un salario mensual de $1130$ soles, \u00bfcu\u00e1l es el procedimiento correcto para calcular el costo financiero por hora de inactividad?",
+      "answerOptions": [
+        {
+          "text": "Multiplicar el salario por $8$ horas y luego dividir por $30$ d\u00edas.",
+          "isCorrect": false,
+          "rationale": "Esta operaci\u00f3n no arrojar\u00eda el costo por hora, sino una cifra desproporcionada."
+        },
+        {
+          "text": "Dividir el salario entre $30$ d\u00edas y luego ese resultado dividirlo entre $8$ horas.",
+          "isCorrect": true,
+          "rationale": "Este c\u00e1lculo desglosa el salario mensual en costo diario y luego en el costo de cada hora laborable."
+        },
+        {
+          "text": "Dividir el salario entre las $9000$ unidades producidas al mes.",
+          "isCorrect": false,
+          "rationale": "Esto calcular\u00eda el costo de mano de obra por unidad, no el costo de la hora de paro."
+        },
+        {
+          "text": "Restar el $15\\%$ de fatiga biol\u00f3gica al salario base antes de cualquier c\u00e1lculo.",
+          "isCorrect": false,
+          "rationale": "La eficiencia se usa para planificar carga, pero el costo financiero de la hora se basa en el pago real realizado."
+        }
+      ],
+      "hint": "Debe pasar de la escala mensual a la diaria, y de la diaria a la horaria."
+    },
+    {
+      "question": "En la crianza de cuyes, \u00bfc\u00f3mo se puede generar un ingreso anual estimado de $179,580$ soles mediante control anal\u00edtico?",
+      "answerOptions": [
+        {
+          "text": "Incrementando el precio base por encima de los $50$ soles por ejemplar.",
+          "isCorrect": false,
+          "rationale": "El c\u00e1lculo se basa en un precio base de mercado de $20$ soles, no en precios inflados."
+        },
+        {
+          "text": "Operando con una poblaci\u00f3n de $9000$ ejemplares y una productividad de $3.65$ animales por parto.",
+          "isCorrect": true,
+          "rationale": "La combinaci\u00f3n de volumen poblacional y eficiencia reproductiva transforma la operaci\u00f3n biol\u00f3gica en un flujo de caja contundente."
+        },
+        {
+          "text": "Reduciendo la jornada laboral de los operarios para ahorrar en costos fijos.",
+          "isCorrect": false,
+          "rationale": "El ahorro en salarios no es la fuente de ingresos, sino la productividad del proceso biol\u00f3gico controlado."
+        },
+        {
+          "text": "Cambiando la producci\u00f3n a fibras org\u00e1nicas y de carbono.",
+          "isCorrect": false,
+          "rationale": "Las fibras de carbono son una tendencia del sector textil, no tienen relaci\u00f3n con la crianza de cuyes."
+        }
+      ],
+      "hint": "Relacione la cantidad de animales por parto con la poblaci\u00f3n total gestionada."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia directa de un mal pron\u00f3stico en la compra de insumos peligrosos como la soda c\u00e1ustica?",
+      "answerOptions": [
+        {
+          "text": "Mejora el flujo de caja debido a que se compra menos material.",
+          "isCorrect": false,
+          "rationale": "Un mal pron\u00f3stico puede llevar a compras insuficientes que detienen la producci\u00f3n, da\u00f1ando el flujo de caja."
+        },
+        {
+          "text": "P\u00e9rdidas de miles de d\u00f3lares por desviaciones de pocos gramos o litros en la balanza comercial.",
+          "isCorrect": true,
+          "rationale": "En insumos de alta peligrosidad y costo, la falta de precisi\u00f3n decimal impacta severamente las finanzas."
+        },
+        {
+          "text": "Un aumento autom\u00e1tico de la eficiencia de planta al $95\\%$.",
+          "isCorrect": false,
+          "rationale": "La eficiencia t\u00e9cnica de la planta no mejora por errores en el pron\u00f3stico de materiales."
+        },
+        {
+          "text": "La eliminaci\u00f3n inmediata de los cuellos de botella en la f\u00e1brica.",
+          "isCorrect": false,
+          "rationale": "Los cuellos de botella son problemas de flujo f\u00edsico, no se resuelven con errores de inventario."
+        }
+      ],
+      "hint": "Piense en el impacto financiero de desperdiciar peque\u00f1as cantidades de materiales muy caros o cr\u00edticos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 elemento de la demanda se asocia con eventos impredecibles como una pandemia global?",
+      "answerOptions": [
+        {
+          "text": "Elementos c\u00edclicos",
+          "isCorrect": false,
+          "rationale": "Los ciclos est\u00e1n marcados por cuestiones econ\u00f3micas o pol\u00edticas previsibles a gran escala, no por eventos s\u00fabitos."
+        },
+        {
+          "text": "Variaci\u00f3n aleatoria",
+          "isCorrect": true,
+          "rationale": "Representa sucesos que no siguen un patr\u00f3n y que golpean la demanda de forma inesperada."
+        },
+        {
+          "text": "Valor base",
+          "isCorrect": false,
+          "rationale": "El valor base es el promedio hist\u00f3rico estable, lo opuesto a un evento aleatorio disruptivo."
+        },
+        {
+          "text": "Tendencia de crecimiento",
+          "isCorrect": false,
+          "rationale": "La tendencia es una direcci\u00f3n sostenida en el tiempo, no un choque puntual impredecible."
+        }
+      ],
+      "hint": "Son factores que no pueden preverse mediante el an\u00e1lisis de calendarios o ciclos econ\u00f3micos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de la anticipaci\u00f3n t\u00e9cnica de la demanda?",
+      "answerOptions": [
+        {
+          "text": "Sustituir al personal de almac\u00e9n por sistemas automatizados.",
+          "isCorrect": false,
+          "rationale": "El objetivo es la gesti\u00f3n eficiente de recursos, no necesariamente la automatizaci\u00f3n del personal."
+        },
+        {
+          "text": "Salvar a la empresa de sobrecostos por exceso de inventario y de roturas de stock.",
+          "isCorrect": true,
+          "rationale": "Funciona como un sistema de alerta temprana para evitar los dos extremos catastr\u00f3ficos de la cadena de valor."
+        },
+        {
+          "text": "Garantizar que todos los proveedores tengan certificaci\u00f3n $ISO\\ 9001$.",
+          "isCorrect": false,
+          "rationale": "La certificaci\u00f3n de proveedores es un paso para el Just-in-Time, no la raz\u00f3n de ser del pron\u00f3stico de demanda."
+        },
+        {
+          "text": "Aumentar los pedidos de \u00faltimo minuto para aprovechar ofertas del mercado.",
+          "isCorrect": false,
+          "rationale": "La anticipaci\u00f3n busca precisamente evitar los pedidos de \u00faltimo minuto, que disparan los costos."
+        }
+      ],
+      "hint": "Se trata de evitar tener demasiado material o quedarse sin nada en el momento cr\u00edtico."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se dice que la eficiencia de planta tiene un techo del $95\\%$?",
+      "answerOptions": [
+        {
+          "text": "Debido a la necesidad de mantenimientos preventivos y paradas t\u00e9cnicas inevitables.",
+          "isCorrect": true,
+          "rationale": "Las m\u00e1quinas requieren atenci\u00f3n t\u00e9cnica para seguir operando, lo que impide una disponibilidad te\u00f3rica del $100\\%$."
+        },
+        {
+          "text": "Porque los operarios necesitan pausas para almorzar y descansar.",
+          "isCorrect": false,
+          "rationale": "Esto se refiere a la eficiencia de mano de obra ($85\\%$), no a la capacidad t\u00e9cnica de la maquinaria."
+        },
+        {
+          "text": "Para dejar un margen de error en caso de que el pron\u00f3stico de demanda falle.",
+          "isCorrect": false,
+          "rationale": "La eficiencia de planta se basa en la capacidad real de los activos f\u00edsicos, no en m\u00e1rgenes por errores de planificaci\u00f3n."
+        },
+        {
+          "text": "Debido a la volatilidad del precio de la energ\u00eda el\u00e9ctrica.",
+          "isCorrect": false,
+          "rationale": "Aunque es un costo, no define t\u00e9cnicamente el porcentaje de tiempo operativo de la maquinaria."
+        }
+      ],
+      "hint": "Considere qu\u00e9 requieren las m\u00e1quinas peri\u00f3dicamente para no malograrse."
+    },
+    {
+      "question": "En la industria textil, \u00bfcu\u00e1l es una de las mayores amenazas para la rentabilidad de una orden espec\u00edfica?",
+      "answerOptions": [
+        {
+          "text": "La utilizaci\u00f3n de fibras de carbono en todos los procesos.",
+          "isCorrect": false,
+          "rationale": "El uso de fibras avanzadas es una tendencia futura, no una amenaza directa a la rentabilidad actual."
+        },
+        {
+          "text": "El rechazo de un solo lote por fallas m\u00ednimas de calidad.",
+          "isCorrect": true,
+          "rationale": "En este sector, la productividad y la calidad est\u00e1n tan unidas que un error peque\u00f1o puede destruir el margen de toda la orden."
+        },
+        {
+          "text": "El uso de promedios m\u00f3viles de $9$ semanas en lugar de $3$ semanas.",
+          "isCorrect": false,
+          "rationale": "Elegir un horizonte de promedio diferente puede ser menos preciso, pero no es la amenaza cr\u00edtica mencionada."
+        },
+        {
+          "text": "La implementaci\u00f3n de sistemas de transporte interno automatizados.",
+          "isCorrect": false,
+          "rationale": "La automatizaci\u00f3n suele reducir desperdicios de transporte, mejorando la rentabilidad."
+        }
+      ],
+      "hint": "Piense en lo que sucede cuando un cliente no acepta el producto terminado debido a defectos."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gesti\u00f3n de la Demanda y Pron\u00f3sticos",
+      "M\u00e9todos de Promedio M\u00f3vil y Suavizamiento",
+      "Just-in-Time y Desperdicios (Mudas)",
+      "Planificaci\u00f3n de Materiales y Estructura BOM",
+      "Indicadores de Productividad y Eficiencia"
+    ],
+    "followUp": [
+      "Teor\u00eda de Restricciones (TOC) aplicada",
+      "Integraci\u00f3n de la Cadena de Suministro con Proveedores",
+      "Modelos de Dimensionamiento de Lotes en MRP",
+      "Impacto Financiero de la Ineficiencia Log\u00edstica",
+      "Tendencias Futuras en Manufactura Avanzada"
+    ]
+  }
+}

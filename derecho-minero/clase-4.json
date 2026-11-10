@@ -1,0 +1,543 @@
+
+{
+  "quiz": [
+    {
+      "question": "¿Cuál es el primer gran pilar que sostiene la viabilidad legal y operativa de un proyecto extractivo moderno?",
+      "answerOptions": [
+        {
+          "text": "La jerarquía normativa de los acuerdos globales y tratados de debida diligencia.",
+          "isCorrect": true,
+          "rationale": "La alineación con el marco legal internacional funciona como una base estratégica y un escudo protector para la competitividad y la inversión extranjera."
+        },
+        {
+          "text": "La autonomía absoluta de la regulación minera local sobre los tratados internacionales.",
+          "isCorrect": false,
+          "rationale": "Este es un error común, ya que en realidad existe una relación de subordinación normativa hacia los acuerdos globales."
+        },
+        {
+          "text": "La riqueza geológica y ley de corte del yacimiento descubierto.",
+          "isCorrect": false,
+          "rationale": "Aunque es importante, el material enfatiza que tener un yacimiento rico ya no es suficiente frente a la fiscalización social y estatal."
+        },
+        {
+          "text": "La implementación de proyectos de filantropía corporativa en áreas de influencia.",
+          "isCorrect": false,
+          "rationale": "La filantropía no constituye un pilar normativo legal, sino una práctica que el paradigma moderno busca desterrar en favor de obligaciones vinculantes."
+        }
+      ],
+      "hint": "Considere la relación de subordinación entre las leyes locales y los estándares internacionales."
+    },
+    {
+      "question": "Bajo el Convenio sobre la Diversidad Biológica (CDB), ¿cuál es la principal obligación del Estado y las empresas en zonas sensibles?",
+      "answerOptions": [
+        {
+          "text": "Proteger las especies y recursos genéticos mediante restricciones técnicas severas.",
+          "isCorrect": true,
+          "rationale": "El CDB actúa como un código de construcción de la naturaleza que impide desfigurar irreversiblemente entornos frágiles como la Amazonía."
+        },
+        {
+          "text": "Priorizar la remediación de suelos únicamente después de finalizada la etapa de cierre.",
+          "isCorrect": false,
+          "rationale": "La normativa exige prevención y adaptación de la ingeniería al ecosistema desde el diseño, no solo remediación posterior."
+        },
+        {
+          "text": "Garantizar la extracción máxima de minerales para financiar la conservación regional.",
+          "isCorrect": false,
+          "rationale": "El objetivo del CDB es la protección biológica y no el financiamiento a través de la explotación intensiva."
+        },
+        {
+          "text": "Sustituir los ecosistemas afectados por nuevas áreas verdes en zonas urbanas.",
+          "isCorrect": false,
+          "rationale": "El convenio se enfoca en la protección de los recursos genéticos y especies en su entorno crítico original, no en su sustitución urbana."
+        }
+      ],
+      "hint": "Piense en el CDB como el código de construcción que protege la integridad de la naturaleza."
+    },
+    {
+      "question": "A partir de la ratificación del Protocolo de Kioto en $2005$, ¿qué requisito técnico se volvió obligatorio para los Estudios de Impacto Ambiental (EIA)?",
+      "answerOptions": [
+        {
+          "text": "La medición matemática y rigurosa de las emisiones de gases de efecto invernadero.",
+          "isCorrect": true,
+          "rationale": "La mitigación del calentamiento global pasó de ser una meta abstracta a un requisito técnico indispensable para la viabilidad legal del proyecto."
+        },
+        {
+          "text": "La creación de un inventario exclusivo de flora y fauna silvestre.",
+          "isCorrect": false,
+          "rationale": "Aunque es parte del EIA, el hito específico del Protocolo de Kioto se centra en los gases de efecto invernadero."
+        },
+        {
+          "text": "El pago de un arancel ambiental por cada tonelada de material removido.",
+          "isCorrect": false,
+          "rationale": "El protocolo se enfoca en la medición y mitigación de emisiones, no en un sistema de pago directo por remoción de material."
+        },
+        {
+          "text": "La certificación internacional en normas de gestión de calidad ISO $9001$.",
+          "isCorrect": false,
+          "rationale": "Las normas ISO son voluntarias, mientras que el Protocolo de Kioto impuso requisitos legales obligatorios sobre el clima."
+        }
+      ],
+      "hint": "Este requisito transforma un objetivo climático global en una medición matemática exacta en el terreno."
+    },
+    {
+      "question": "¿Qué riesgo químico es comparado con el efecto de abrir una batería gigantesca en medio de la tierra?",
+      "answerOptions": [
+        {
+          "text": "El drenaje ácido producido por el contacto del agua con minerales sulfurados.",
+          "isCorrect": true,
+          "rationale": "La reacción de minerales sulfurados expuestos con el agua genera una acidez altamente corrosiva en el ecosistema."
+        },
+        {
+          "text": "La degradación de los horizontes orgánicos en los suelos agrícolas.",
+          "isCorrect": false,
+          "rationale": "Este riesgo se asocia con la remoción física de la 'piel' del ecosistema, no específicamente con una reacción corrosiva de tipo batería."
+        },
+        {
+          "text": "La contaminación por metales pesados en las cuencas hidrográficas.",
+          "isCorrect": false,
+          "rationale": "Si bien es un riesgo químico grave, la analogía de la batería se refiere específicamente a la formación de ácidos por sulfuros."
+        },
+        {
+          "text": "La liberación de partículas de polvo durante el transporte de concentrados.",
+          "isCorrect": false,
+          "rationale": "Este es un riesgo físico de dispersión mecánica y no una reacción físicoquímica de naturaleza corrosiva interna."
+        }
+      ],
+      "hint": "Se trata de la reacción que ocurre cuando el agua toca minerales sulfurados expuestos."
+    },
+    {
+      "question": "¿Cuál es la principal consecuencia de la 'flexibilización documental' introducida en la normativa de responsabilidad social en $2010$?",
+      "answerOptions": [
+        {
+          "text": "La pérdida de trazabilidad y seguridad jurídica al sustituir contratos por declaraciones juradas.",
+          "isCorrect": true,
+          "rationale": "El uso del Anexo $4$ convirtió los compromisos en declaraciones que pueden ser desconocidas fácilmente por nuevas directivas comunales."
+        },
+        {
+          "text": "Un aumento en la legitimidad de las empresas frente a las comunidades locales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la flexibilización suele percibirse como un 'saludo a la bandera' que debilita la confianza social."
+        },
+        {
+          "text": "La eliminación total de los conflictos sociales en el sector minero.",
+          "isCorrect": false,
+          "rationale": "El riesgo social se disparó precisamente porque se quitaron los candados legales que validaban los acuerdos."
+        },
+        {
+          "text": "La simplificación exitosa que permitió a todas las empresas cumplir sus promesas.",
+          "isCorrect": false,
+          "rationale": "Aunque simplificó la administración, en la práctica generó vulnerabilidad al no tener instrumentos idóneos para verificar el cumplimiento."
+        }
+      ],
+      "hint": "Piense en el término 'saludo a la bandera' y la falta de instrumentos para verificar compromisos."
+    },
+    {
+      "question": "¿Cómo se determinan los plazos de vencimiento para la presentación de la Declaración Anual Consolidada (DAC)?",
+      "answerOptions": [
+        {
+          "text": "Mediante una resolución directoral anual basada en el último dígito del RUC.",
+          "isCorrect": true,
+          "rationale": "Los plazos no son estáticos en la ley; se publican cada año, generalmente coincidiendo con el mes de julio."
+        },
+        {
+          "text": "A través de una fecha única e inamovible establecida en la Ley General de Minería.",
+          "isCorrect": false,
+          "rationale": "Es un error común asumir que la fecha es fija; en realidad depende de cronogramas variables publicados anualmente."
+        },
+        {
+          "text": "Dependiendo de la cantidad de mineral extraído en el año fiscal anterior.",
+          "isCorrect": false,
+          "rationale": "La extracción influye en el tipo de minería, pero el plazo específico de entrega de la DAC lo dicta el cronograma por RUC."
+        },
+        {
+          "text": "Por mutuo acuerdo entre el titular minero y la Dirección General de Minería.",
+          "isCorrect": false,
+          "rationale": "La administración pública establece cronogramas obligatorios y no negociaciones individuales para el reporte."
+        }
+      ],
+      "hint": "La fecha no está fija en la ley, sino que se publica anualmente mediante un cronograma."
+    },
+    {
+      "question": "¿Cuál es la sanción máxima prevista para una empresa de la gran o mediana minería que omita la presentación de la DAC?",
+      "answerOptions": [
+        {
+          "text": "$15$ Unidades Impositivas Tributarias (UIT).",
+          "isCorrect": true,
+          "rationale": "El Artículo $50$ de la Ley General de Minería establece este tope financiero para los estratos de mayor tamaño."
+        },
+        {
+          "text": "$2$ Unidades Impositivas Tributarias (UIT).",
+          "isCorrect": false,
+          "rationale": "Este monto corresponde al tope de sanción para los pequeños productores mineros."
+        },
+        {
+          "text": "$1$ Unidad Impositiva Tributaria (UIT).",
+          "isCorrect": false,
+          "rationale": "Este es el monto máximo de multa destinado específicamente a la minería artesanal."
+        },
+        {
+          "text": "$0.1\\%$ del valor total de la producción anual de la mina.",
+          "isCorrect": false,
+          "rationale": "El $0.1\\%$ de la UIT es el piso mínimo de cualquier sanción, no el techo máximo de la multa para gran minería."
+        }
+      ],
+      "hint": "Es el escalón más alto en la jerarquía financiera de sanciones administrativas por reportes."
+    },
+    {
+      "question": "En la gestión de conflictos socioambientales, ¿por qué es crítico el enfoque territorial?",
+      "answerOptions": [
+        {
+          "text": "Porque reconoce a las cuencas hidrográficas como el sistema nervioso que interconecta a la operación con el ecosistema social.",
+          "isCorrect": true,
+          "rationale": "Lo que sucede en la cuenca dicta el pulso de la conflictividad y la relación con las poblaciones circundantes."
+        },
+        {
+          "text": "Porque permite a la empresa delimitar su propiedad superficial frente a terceros.",
+          "isCorrect": false,
+          "rationale": "El enfoque territorial va más allá de los límites de propiedad; se trata de gestionar la interdependencia sistémica del entorno."
+        },
+        {
+          "text": "Porque prioriza la compensación económica individual sobre el bienestar colectivo.",
+          "isCorrect": false,
+          "rationale": "Este enfoque busca armonizar el territorio de forma integral, no reducir la gestión a pagos individuales."
+        },
+        {
+          "text": "Porque establece que la empresa es la única autoridad legítima dentro del área concesionada.",
+          "isCorrect": false,
+          "rationale": "El enfoque territorial reconoce múltiples actores y visiones culturales, no una autoridad empresarial unilateral."
+        }
+      ],
+      "hint": "Considere la importancia del agua y su recorrido como eje de conexión ambiental y social."
+    },
+    {
+      "question": "¿Cuál es el objetivo primordial de la supervisión preventiva en el flujo de intervención del Estado?",
+      "answerOptions": [
+        {
+          "text": "Detectar alertas tempranas antes de que el diálogo con las comunidades se quiebre.",
+          "isCorrect": true,
+          "rationale": "Es la primera etapa y el corazón de la gestión de crisis para evitar el escalamiento hacia la violencia o paralizaciones."
+        },
+        {
+          "text": "Ejecutar acciones humanitarias de rescate en zonas de desastre ambiental.",
+          "isCorrect": false,
+          "rationale": "Las acciones humanitarias son el último recurso cuando la prevención ha fracasado rotundamente."
+        },
+        {
+          "text": "Imponer sanciones económicas inmediatas sin necesidad de un proceso administrativo.",
+          "isCorrect": false,
+          "rationale": "La supervisión preventiva busca evitar el conflicto, no es un mecanismo de sanción directa punitiva."
+        },
+        {
+          "text": "Sustituir a las mesas de diálogo para acelerar la toma de decisiones corporativas.",
+          "isCorrect": false,
+          "rationale": "La supervisión preventiva precede y alimenta a las mesas de diálogo, no busca eliminarlas."
+        }
+      ],
+      "hint": "Piense en la acción que se realiza para evitar que las tensiones escalen a conflictos abiertos."
+    },
+    {
+      "question": "Según la normativa de seguridad operativa, ¿qué sucede si un formato de capacitación presenta variaciones mínimas respecto a los anexos oficiales?",
+      "answerOptions": [
+        {
+          "text": "SUNAFIL lo declara automáticamente inválido, dejando a la empresa en indefensión legal.",
+          "isCorrect": true,
+          "rationale": "Existe una rigidez legal extrema donde cualquier incumplimiento formal anula la validez del documento de seguridad."
+        },
+        {
+          "text": "Se otorga un plazo de $30$ días para subsanar el error sin recibir sanciones.",
+          "isCorrect": false,
+          "rationale": "En seguridad y salud en el trabajo, la flexibilidad es inexistente y los fallos documentales tienen consecuencias inmediatas de invalidez."
+        },
+        {
+          "text": "La empresa puede justificar el cambio mediante una declaración jurada de cumplimiento.",
+          "isCorrect": false,
+          "rationale": "Los formatos de los anexos $1$, $2$ y $3$ son innegociables y no pueden ser sustituidos por declaraciones subjetivas."
+        },
+        {
+          "text": "El error se considera una falta leve que no afecta la responsabilidad penal en caso de accidentes.",
+          "isCorrect": false,
+          "rationale": "Un papel mal llenado puede costar millones y responsabilidad legal años después al no poder probar la capacitación adecuada."
+        }
+      ],
+      "hint": "Recuerde la postura de las autoridades administrativas sobre la rigidez de los formatos obligatorios."
+    },
+    {
+      "question": "¿Por qué la hipoacusia (sordera ocupacional) se considera un caso de estudio crítico para la seguridad minera?",
+      "answerOptions": [
+        {
+          "text": "Porque un fallo documental de hoy puede generar disputas millonarias décadas después, al momento de la jubilación.",
+          "isCorrect": true,
+          "rationale": "Es una patología recurrente cuya contingencia legal no explota de inmediato, sino que tiene efectos diferidos a largo plazo."
+        },
+        {
+          "text": "Porque es la única enfermedad profesional que conlleva la paralización inmediata de la mina.",
+          "isCorrect": false,
+          "rationale": "La hipoacusia es progresiva y no suele causar una paralización operativa inmediata, sino riesgos legales futuros."
+        },
+        {
+          "text": "Porque requiere el uso obligatorio de tecnologías de inteligencia artificial para su detección.",
+          "isCorrect": false,
+          "rationale": "Su relevancia reside en la gestión documental y legal, no necesariamente en el uso de una tecnología específica mencionada."
+        },
+        {
+          "text": "Porque afecta exclusivamente a los directivos de las empresas mineras extranjeras.",
+          "isCorrect": false,
+          "rationale": "Es una patología que afecta a los trabajadores operativos expuestos a ruido, siendo un problema de salud laboral general."
+        }
+      ],
+      "hint": "Considere el tiempo que transcurre entre la exposición al riesgo y el reclamo legal del trabajador."
+    },
+    {
+      "question": "Bajo la naturaleza 'sui generis' del derecho minero, ¿quién es el propietario legítimo de los minerales en una concesión?",
+      "answerOptions": [
+        {
+          "text": "El Estado.",
+          "isCorrect": true,
+          "rationale": "Incluso con una concesión inscrita, la propiedad de los minerales siempre pertenece al Estado; la concesión solo otorga un derecho de explotación."
+        },
+        {
+          "text": "El dueño del suelo superficial.",
+          "isCorrect": false,
+          "rationale": "Esta es una confusión común que lleva a la minería ilegal; ser dueño de la tierra no otorga derechos sobre el subsuelo."
+        },
+        {
+          "text": "El inversionista que registra la concesión en los registros públicos.",
+          "isCorrect": false,
+          "rationale": "El inversionista tiene la titularidad de la concesión (un bien inmueble), pero no la propiedad de los recursos minerales en sí."
+        },
+        {
+          "text": "La comunidad local mediante el derecho de autodeterminación.",
+          "isCorrect": false,
+          "rationale": "Legalmente, los recursos del subsuelo son patrimonio de la Nación y su administración corresponde al Estado."
+        }
+      ],
+      "hint": "Aunque un particular tenga el derecho a extraerlos, el dueño original nunca cambia."
+    },
+    {
+      "question": "¿Cuál fue el fundamento principal para la reparación civil de $70,000$ soles impuesta en el caso Cusco?",
+      "answerOptions": [
+        {
+          "text": "La protección jurídica de la flora y fauna frente a la remoción ilegal de tierras.",
+          "isCorrect": true,
+          "rationale": "El daño ambiental demostrado fue más allá de la cantidad de oro extraída, enfocándose en la biodiversidad afectada."
+        },
+        {
+          "text": "El valor comercial del oro que fue extraído ilegalmente sin pagar impuestos.",
+          "isCorrect": false,
+          "rationale": "La sentencia se basó en el daño al ecosistema y no simplemente en la valorización económica del mineral sustraído."
+        },
+        {
+          "text": "El incumplimiento de las normas de seguridad y salud de los trabajadores informales.",
+          "isCorrect": false,
+          "rationale": "Aunque es una infracción, la base del fallo resaltada fue la afectación a la flora y fauna por la actividad ilegal."
+        },
+        {
+          "text": "La falta de pago de las cuotas de inscripción de la concesión minera.",
+          "isCorrect": false,
+          "rationale": "El caso fue penal por minería ilegal; no se trató de un tema meramente administrativo de cuotas."
+        }
+      ],
+      "hint": "El Estado utilizó la Procuraduría del Ministerio del Ambiente para demostrar que el daño trascendía al mineral."
+    },
+    {
+      "question": "¿Qué lección fundamental se extrae del caso Junín respecto a la extracción de materiales no metálicos?",
+      "answerOptions": [
+        {
+          "text": "Ser dueño del terreno superficial no faculta la extracción de materiales del subsuelo sin título de concesión.",
+          "isCorrect": true,
+          "rationale": "A pesar de ser propietarios de la tierra, la falta del título minero convirtió su actividad en ilegal automáticamente."
+        },
+        {
+          "text": "La extracción de piedra y arena no requiere permisos si el terreno tiene fines agrícolas.",
+          "isCorrect": false,
+          "rationale": "Cualquier actividad extractiva sin concesión, incluso de materiales no metálicos, se clasifica como ilegal."
+        },
+        {
+          "text": "Las penas por minería no metálica son siempre menores a un año de prisión.",
+          "isCorrect": false,
+          "rationale": "El caso resultó en una pena de $4$ años (suspendida), lo que demuestra la severidad de la ley."
+        },
+        {
+          "text": "Los dueños de la tierra tienen preferencia automática para obtener concesiones del subsuelo.",
+          "isCorrect": false,
+          "rationale": "La ley separa estrictamente ambas propiedades y ser dueño del suelo no otorga privilegios automáticos sobre el subsuelo."
+        }
+      ],
+      "hint": "Recuerde el conflicto entre la propiedad del suelo y la falta de título para el subsuelo."
+    },
+    {
+      "question": "En el sistema administrativo minero, ¿qué importancia tiene el piso mínimo del $0.1\\%$ de la UIT?",
+      "answerOptions": [
+        {
+          "text": "Garantiza que ninguna infracción administrativa quede impune, independientemente del tamaño del minero.",
+          "isCorrect": true,
+          "rationale": "Establece un límite inferior innegociable para las sanciones, asegurando que siempre haya un costo por el incumplimiento."
+        },
+        {
+          "text": "Es el monto máximo que puede cobrarse a un minero artesanal por no presentar la DAC.",
+          "isCorrect": false,
+          "rationale": "El monto máximo para la minería artesanal es de $1$ UIT; el $0.1\\%$ es un piso mínimo, no un techo."
+        },
+        {
+          "text": "Representa el porcentaje de ganancia que el Estado devuelve por cumplimiento oportuno.",
+          "isCorrect": false,
+          "rationale": "El sistema es punitivo administrativo; no se mencionan mecanismos de devolución de ganancias por cumplimiento."
+        },
+        {
+          "text": "Es la tasa que se paga anualmente para mantener vigente la concesión minera.",
+          "isCorrect": false,
+          "rationale": "El $0.1\\%$ de la UIT se refiere específicamente a la sanción mínima administrativa y no al pago de vigencia."
+        }
+      ],
+      "hint": "Este porcentaje asegura que el sistema no deje 'huequitos' para la impunidad administrativa."
+    },
+    {
+      "question": "¿Cuál es el paradigma que se debe desterrar sobre la responsabilidad social empresarial (RSE) en la minería moderna?",
+      "answerOptions": [
+        {
+          "text": "La idea de que es meramente filantropía o caridad corporativa.",
+          "isCorrect": true,
+          "rationale": "Hoy la RSE es vista como una obligación jurídica vinculante y una herramienta de prevención de riesgos legales."
+        },
+        {
+          "text": "La creencia de que la RSE ayuda a mitigar riesgos operativos.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el paradigma moderno refuerza que la RSE es esencial para mitigar riesgos legales y sociales."
+        },
+        {
+          "text": "El concepto de que los acuerdos deben estar firmados en actas de asamblea.",
+          "isCorrect": false,
+          "rationale": "Aunque se flexibilizó, el material sugiere que volver a acuerdos vinculantes sólidos es necesario para la trazabilidad."
+        },
+        {
+          "text": "La noción de que la RSE debe estar alineada con los derechos humanos.",
+          "isCorrect": false,
+          "rationale": "La alineación con los derechos humanos es un pilar fundamental del enfoque estratégico actual, no algo que deba desterrarse."
+        }
+      ],
+      "hint": "Piense en las acciones voluntarias de caridad frente a las obligaciones legales."
+    },
+    {
+      "question": "Dentro de la gestión de riesgos, ¿cuál es el peligro de que las directivas comunales cambien cuando solo existen declaraciones juradas?",
+      "answerOptions": [
+        {
+          "text": "Los nuevos líderes pueden desconocer los acuerdos previos por falta de peso probatorio.",
+          "isCorrect": true,
+          "rationale": "Sin contratos vinculantes, la empresa queda en una posición de alta vulnerabilidad frente a cambios de liderazgo local."
+        },
+        {
+          "text": "La empresa recibe una bonificación por renovar el pacto social.",
+          "isCorrect": false,
+          "rationale": "Los cambios de directiva suelen generar tensiones y renegociaciones difíciles, no bonificaciones."
+        },
+        {
+          "text": "El Estado asume automáticamente la responsabilidad de cumplir las promesas de la empresa.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad de los acuerdos comunitarios recae en el titular minero y no se transfiere al Estado."
+        },
+        {
+          "text": "Se activa una prórroga automática de la licencia social por cinco años.",
+          "isCorrect": false,
+          "rationale": "La licencia social no tiene prórrogas automáticas; depende de la vigencia y legitimidad de los acuerdos con los líderes actuales."
+        }
+      ],
+      "hint": "Considere qué ocurre con un compromiso que no tiene un respaldo contractual sólido cuando cambian los interlocutores."
+    },
+    {
+      "question": "En el contexto de la seguridad operativa, ¿qué importancia tiene el cumplimiento de los anexos $1$, $2$ y $3$?",
+      "answerOptions": [
+        {
+          "text": "Evitar estados de completa indefensión legal ante accidentes o enfermedades profesionales.",
+          "isCorrect": true,
+          "rationale": "El cumplimiento estricto protege a la empresa de sanciones devastadoras y de la nulidad de sus registros de capacitación."
+        },
+        {
+          "text": "Permitir que la empresa diseñe sus propios métodos de evaluación sin intervención estatal.",
+          "isCorrect": false,
+          "rationale": "La normativa es rígida y exige el uso de formatos específicos; no permite el diseño autónomo de métodos."
+        },
+        {
+          "text": "Reducir el costo de las pólizas de seguro de vida de los trabajadores.",
+          "isCorrect": false,
+          "rationale": "Aunque el cumplimiento mejora la seguridad, el enfoque principal mencionado es la validez legal ante la autoridad administrativa."
+        },
+        {
+          "text": "Garantizar que la empresa sea exenta de cualquier inspección de SUNAFIL.",
+          "isCorrect": false,
+          "rationale": "El cumplimiento no evita las inspecciones, sino que asegura que la empresa tenga las pruebas correctas durante las mismas."
+        }
+      ],
+      "hint": "Piense en las consecuencias de tener formatos de capacitación que no siguen estrictamente la norma."
+    },
+    {
+      "question": "¿Qué representa la Declaración Anual Consolidada (DAC) en términos de fiscalización estatal?",
+      "answerOptions": [
+        {
+          "text": "Un mecanismo de control $100\\%$ digital gestionado a través de la extranet del Ministerio de Energía y Minas.",
+          "isCorrect": true,
+          "rationale": "Es la herramienta principal para que el Estado vigile el cumplimiento de las obligaciones operativas y administrativas."
+        },
+        {
+          "text": "Un documento opcional que solo presentan las empresas que buscan beneficios fiscales.",
+          "isCorrect": false,
+          "rationale": "La DAC es una obligación de cumplimiento obligatorio; omitirla conlleva sanciones financieras y reputacionales."
+        },
+        {
+          "text": "Una encuesta de satisfacción que las comunidades vecinas llenan sobre la empresa.",
+          "isCorrect": false,
+          "rationale": "La DAC es un reporte técnico y administrativo de la empresa hacia el Estado, no una encuesta comunitaria."
+        },
+        {
+          "text": "Un permiso temporal para realizar exploraciones en áreas protegidas.",
+          "isCorrect": false,
+          "rationale": "La DAC es un reporte consolidado de actividades ya autorizadas y no un permiso de exploración."
+        }
+      ],
+      "hint": "Se trata del proceso operativo de reporte anual que maneja el MINEM."
+    },
+    {
+      "question": "¿Cuál es la relación ideal entre la ingeniería del proyecto y el ecosistema según el estándar internacional?",
+      "answerOptions": [
+        {
+          "text": "La ingeniería debe adaptarse al ecosistema y no al revés.",
+          "isCorrect": true,
+          "rationale": "Este principio asegura que la biodiversidad se proteja desde el diseño técnico, evitando daños irreversibles."
+        },
+        {
+          "text": "El ecosistema debe ser modificado para facilitar el acceso de la maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "Este enfoque contradice los principios de sostenibilidad y las restricciones técnicas del Convenio sobre Diversidad Biológica."
+        },
+        {
+          "text": "Ambos deben ignorarse mutuamente para maximizar la rentabilidad financiera.",
+          "isCorrect": false,
+          "rationale": "La armonización entre legalidad y sostenibilidad es esencial para la viabilidad moderna del sector."
+        },
+        {
+          "text": "La ingeniería solo debe considerar el ecosistema en casos de desastres naturales.",
+          "isCorrect": false,
+          "rationale": "La integración ambiental es imperativa y constante desde la planificación, no solo reactiva ante desastres."
+        }
+      ],
+      "hint": "Considere qué elemento debe ser el eje flexible para garantizar la protección de la naturaleza."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Marco jurídico internacional en minería",
+      "Riesgos ambientales y mitigación técnica",
+      "Responsabilidad Social Empresarial y flexibilización normativa",
+      "Fiscalización administrativa y Declaración Anual Consolidada (DAC)",
+      "Gestión de conflictos socioambientales y enfoque territorial",
+      "Seguridad operativa y salud en el trabajo",
+      "Derecho minero y concesiones"
+    ],
+    "followUp": [
+      "Procedimientos sancionadores de la SUNAFIL en el sector extractivo",
+      "Impacto de la jerarquía normativa en la inversión extranjera directa",
+      "Protocolos específicos de monitoreo para drenaje ácido de mina",
+      "Evolución de los mecanismos de consulta previa en áreas protegidas",
+      "Análisis de jurisprudencia ambiental en la Corte Suprema"
+    ]
+  }
+}

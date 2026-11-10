@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la principal raz\u00f3n por la que la eficiencia extrema en los costos es un imperativo estrat\u00e9gico para las empresas mineras?",
+      "answerOptions": [
+        {
+          "text": "Las mineras tienen control total sobre el valor de los metales.",
+          "isCorrect": false,
+          "rationale": "En realidad, las mineras son tomadoras de precios y no controlan el valor de mercado de los metales."
+        },
+        {
+          "text": "Las mineras son tomadoras de precios y el valor de los metales fluct\u00faa salvajemente.",
+          "isCorrect": true,
+          "rationale": "Al no poder controlar el precio de venta, la \u00fanica variable interna que pueden gestionar para sobrevivir es el costo operativo."
+        },
+        {
+          "text": "Los costos de log\u00edstica superan siempre el valor de venta del mineral.",
+          "isCorrect": false,
+          "rationale": "Aunque la log\u00edstica es costosa, la supervivencia depende de la gesti\u00f3n integral frente a la volatilidad de precios externos."
+        },
+        {
+          "text": "La demanda de metales es constante y no depende del mercado global.",
+          "isCorrect": false,
+          "rationale": "La demanda y los precios son variables ex\u00f3genas que escapan al control de la empresa."
+        }
+      ],
+      "hint": "Considere la posici\u00f3n de la empresa frente a la fijaci\u00f3n de precios en el mercado mundial."
+    },
+    {
+      "question": "En la industria minera, \u00bfqu\u00e9 porcentaje aproximado del costo total representan las compras y los contratos?",
+      "answerOptions": [
+        {
+          "text": "Alrededor del $20\\%$ de los costos totales.",
+          "isCorrect": false,
+          "rationale": "Este es el porcentaje t\u00edpico en empresas de servicios, pero es significativamente mayor en miner\u00eda."
+        },
+        {
+          "text": "Menos del $10\\%$ debido a la automatizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda requiere una inversi\u00f3n masiva en insumos y servicios externos que supera con creces esta cifra."
+        },
+        {
+          "text": "M\u00e1s del $50\\%$ de los costos totales.",
+          "isCorrect": true,
+          "rationale": "Debido a la complejidad t\u00e9cnica y operativa, las adquisiciones externas dominan la estructura de costos mineros."
+        },
+        {
+          "text": "Exactamente el $30\\%$ del flujo de caja operativo.",
+          "isCorrect": false,
+          "rationale": "Aunque el $30\\%$ se asocia al precio de adquisici\u00f3n en el TCO, las compras totales en la operaci\u00f3n son superiores."
+        }
+      ],
+      "hint": "Este valor es m\u00e1s del doble de lo que se observa en una empresa t\u00edpica de servicios."
+    },
+    {
+      "question": "Al analizar el Costo Total de Pertenencia (TCO), \u00bfqu\u00e9 porcentaje suele representar el precio de adquisici\u00f3n inicial frente al costo total del ciclo de vida?",
+      "answerOptions": [
+        {
+          "text": "El $70\\%$ del costo total.",
+          "isCorrect": false,
+          "rationale": "Este porcentaje corresponde usualmente a los costos operativos y de soporte, no al precio inicial."
+        },
+        {
+          "text": "Apenas el $30\\%$ del costo total.",
+          "isCorrect": true,
+          "rationale": "La mayor parte del gasto se genera de forma silenciosa durante las fases de operaci\u00f3n, mantenimiento y soporte."
+        },
+        {
+          "text": "El $50\\%$ para equilibrar la inversi\u00f3n inicial y el gasto operativo.",
+          "isCorrect": false,
+          "rationale": "La proporci\u00f3n en industria pesada est\u00e1 fuertemente inclinada hacia los costos post-adquisici\u00f3n."
+        },
+        {
+          "text": "El $100\\%$ si el equipo no requiere mantenimiento.",
+          "isCorrect": false,
+          "rationale": "En la industria pesada es imposible que un equipo no genere gastos operativos o de mantenimiento a lo largo del tiempo."
+        }
+      ],
+      "hint": "Piense en la parte visible del iceberg en comparaci\u00f3n con la parte sumergida."
+    },
+    {
+      "question": "En la anatom\u00eda detallada del TCO, \u00bfqu\u00e9 elementos se incluyen espec\u00edficamente en la capa de operaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Repuestos simples y servicios correctivos.",
+          "isCorrect": false,
+          "rationale": "Estos elementos pertenecen a la capa de mantenimiento, no a la de operaci\u00f3n."
+        },
+        {
+          "text": "Seguros y transporte de f\u00e1brica.",
+          "isCorrect": false,
+          "rationale": "Estos costos forman parte de la etapa inicial de adquisici\u00f3n."
+        },
+        {
+          "text": "Consumo de energ\u00eda y capacitaci\u00f3n del personal.",
+          "isCorrect": true,
+          "rationale": "La operaci\u00f3n requiere recursos energ\u00e9ticos constantes y personal calificado para utilizar el activo de forma eficiente."
+        },
+        {
+          "text": "Obras civiles y montajes mec\u00e1nicos.",
+          "isCorrect": false,
+          "rationale": "Estos rubros se clasifican dentro de la capa de infraestructura."
+        }
+      ],
+      "hint": "Son los recursos necesarios para que la m\u00e1quina funcione d\u00eda a d\u00eda y el conocimiento para manejarla."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el impacto financiero estimado de un solo evento de parada de planta en el ejemplo del molino SAC analizado?",
+      "answerOptions": [
+        {
+          "text": "$20,000 por gastos log\u00edsticos.",
+          "isCorrect": false,
+          "rationale": "Esta cifra corresponde a los fletes por fallas fuera de garant\u00eda, pero no al impacto total de la parada."
+        },
+        {
+          "text": "$80,000 por el costo de oportunidad de no producir.",
+          "isCorrect": true,
+          "rationale": "El costo real de una parada no es solo la reparaci\u00f3n, sino el valor de la producci\u00f3n que se deja de percibir."
+        },
+        {
+          "text": "$228,000 seg\u00fan el TCO proyectado.",
+          "isCorrect": false,
+          "rationale": "Ese valor es el costo total proyectado a 5 a\u00f1os del proveedor m\u00e1s barato, no el costo de una parada \u00fanica."
+        },
+        {
+          "text": "$50,000 bas\u00e1ndose en el precio de la pintura industrial.",
+          "isCorrect": false,
+          "rationale": "Este valor no tiene relaci\u00f3n con el escenario del molino SAC."
+        }
+      ],
+      "hint": "Se trata de un n\u00famero cr\u00edtico que demuestra por qu\u00e9 el precio m\u00e1s bajo puede ser el m\u00e1s caro si hay fallas."
+    },
+    {
+      "question": "Dentro de la cadena de valor minera, \u00bfcu\u00e1l de los siguientes procesos se considera una actividad primaria?",
+      "answerOptions": [
+        {
+          "text": "Gesti\u00f3n del talento humano.",
+          "isCorrect": false,
+          "rationale": "Este es un proceso de apoyo que sostiene la viabilidad de la operaci\u00f3n primaria."
+        },
+        {
+          "text": "Adquisiciones y compras de suministros.",
+          "isCorrect": false,
+          "rationale": "Aunque es vital para el flujo de recursos, se clasifica como una actividad de apoyo."
+        },
+        {
+          "text": "Perforaci\u00f3n, voladura y procesamiento.",
+          "isCorrect": true,
+          "rationale": "Estas actividades transforman f\u00edsicamente el mineral y son el n\u00facleo directo de la producci\u00f3n."
+        },
+        {
+          "text": "Desarrollo tecnol\u00f3gico e infraestructura.",
+          "isCorrect": false,
+          "rationale": "Estos son eslabones de soporte que permiten que la ruta cr\u00edtica primaria funcione."
+        }
+      ],
+      "hint": "Identifique las acciones que tocan y transforman directamente el mineral."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta de gesti\u00f3n permite localizar ineficiencias operativas mediante la asignaci\u00f3n de costos seg\u00fan el consumo real de recursos por actividad?",
+      "answerOptions": [
+        {
+          "text": "Benchmarking global.",
+          "isCorrect": false,
+          "rationale": "Esta herramienta sirve para comparar el desempe\u00f1o contra l\u00edderes del sector, no para el costeo interno por actividad."
+        },
+        {
+          "text": "Costeo ABC (Activity Based Costing).",
+          "isCorrect": true,
+          "rationale": "Permite realizar una radiograf\u00eda quir\u00fargica de los procesos asignando costos exactos a tareas como el bombeo o la limpieza."
+        },
+        {
+          "text": "Balanced Scorecard.",
+          "isCorrect": false,
+          "rationale": "Se utiliza para alinear las estrategias con las metas financieras, pero no para el c\u00e1lculo detallado de costos unitarios de procesos."
+        },
+        {
+          "text": "F\u00f3rmulas polin\u00f3micas de ajuste.",
+          "isCorrect": false,
+          "rationale": "Estas se usan para mitigar riesgos inflacionarios en contratos, no para analizar costos de actividades internas."
+        }
+      ],
+      "hint": "Utiliza las siglas del alfabeto para referirse a la gesti\u00f3n basada en actividades."
+    },
+    {
+      "question": "Bajo la normativa NIIF 16, \u00bfqu\u00e9 condici\u00f3n debe cumplir un desembolso para ser registrado legalmente como CAPEX?",
+      "answerOptions": [
+        {
+          "text": "Debe ser un gasto de mantenimiento diario para que la m\u00e1quina no se detenga.",
+          "isCorrect": false,
+          "rationale": "Los gastos diarios de mantenimiento se consideran OPEX, no CAPEX."
+        },
+        {
+          "text": "Debe ser deducible en su totalidad durante el ejercicio fiscal en curso.",
+          "isCorrect": false,
+          "rationale": "Esta es una caracter\u00edstica propia del OPEX para la optimizaci\u00f3n fiscal inmediata."
+        },
+        {
+          "text": "Debe mejorar la productividad o extender significativamente la vida \u00fatil del activo.",
+          "isCorrect": true,
+          "rationale": "La capitalizaci\u00f3n requiere que la inversi\u00f3n genere un valor incremental o duradero en el tiempo sobre el activo."
+        },
+        {
+          "text": "Debe representar menos del $7.8\\%$ de las ventas anuales.",
+          "isCorrect": false,
+          "rationale": "Esa cifra es un ratio referencial de la industria, no un criterio legal de clasificaci\u00f3n contable."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 diferencia una simple reparaci\u00f3n de una mejora estructural."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito fundamental del 'Sustaining Capex' o Capex de sostenimiento?",
+      "answerOptions": [
+        {
+          "text": "Transformar recursos inferidos en reservas probadas.",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n corresponde al Capex de crecimiento o expansi\u00f3n."
+        },
+        {
+          "text": "Prevenir la ca\u00edda de la producci\u00f3n debido al desgaste natural de la maquinaria.",
+          "isCorrect": true,
+          "rationale": "Su objetivo es mantener el rendimiento base intacto, actuando como una inversi\u00f3n para 'quedarse en el mismo lugar'."
+        },
+        {
+          "text": "Lanzar nuevas operaciones mineras tipo Greenfield desde cero.",
+          "isCorrect": false,
+          "rationale": "Esto se realiza mediante el Capex inicial o fundacional."
+        },
+        {
+          "text": "Pagar los salarios y consumos el\u00e9ctricos mensuales de la planta.",
+          "isCorrect": false,
+          "rationale": "Estos son gastos operativos directos (OPEX)."
+        }
+      ],
+      "hint": "No busca crecer, sino evitar que la capacidad actual se deteriore."
+    },
+    {
+      "question": "\u00bfQu\u00e9 m\u00e9trica est\u00e1ndar se utiliza com\u00fanmente en la industria pesada para proyectar el ratio de Capex sobre las ventas?",
+      "answerOptions": [
+        {
+          "text": "Un ratio del $15\\%$.",
+          "isCorrect": false,
+          "rationale": "Este valor es muy elevado para ser una m\u00e9trica est\u00e1ndar de proyecci\u00f3n promedio."
+        },
+        {
+          "text": "Un ratio del $30\\%$.",
+          "isCorrect": false,
+          "rationale": "Este n\u00famero suele asociarse al precio de adquisici\u00f3n en el TCO, no al ratio de Capex/Ventas."
+        },
+        {
+          "text": "Un ratio del $7.8\\%$.",
+          "isCorrect": true,
+          "rationale": "Los analistas financieros usan este porcentaje referencial para proyectar necesidades de capital futuras."
+        },
+        {
+          "text": "Un ratio del $50\\%$.",
+          "isCorrect": false,
+          "rationale": "Un ratio tan alto comprometer\u00eda severamente el flujo de caja operativo de la mayor\u00eda de las mineras."
+        }
+      ],
+      "hint": "Es un valor decimal espec\u00edfico entre el $7\\%$ y el $8\\%$."
+    },
+    {
+      "question": "En un proceso de licitaci\u00f3n, \u00bfcu\u00e1l es la funci\u00f3n principal de la fase de RFI (Solicitud de Informaci\u00f3n)?",
+      "answerOptions": [
+        {
+          "text": "Recibir las propuestas econ\u00f3micas finales en plataformas seguras.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n del RFP (Request for Proposal), no del RFI."
+        },
+        {
+          "text": "Precalificar a los proveedores evaluando su salud financiera y capacidad t\u00e9cnica.",
+          "isCorrect": true,
+          "rationale": "El RFI act\u00faa como un filtro vital para asegurar que solo los postores competentes avancen en el proceso."
+        },
+        {
+          "text": "Responder a las consultas t\u00e9cnicas de forma uniforme para todos.",
+          "isCorrect": false,
+          "rationale": "Esto ocurre en la fase de ronda de consultas, posterior al filtro inicial."
+        },
+        {
+          "text": "Realizar la adjudicaci\u00f3n definitiva del contrato.",
+          "isCorrect": false,
+          "rationale": "La adjudicaci\u00f3n es el paso final tras la evaluaci\u00f3n detallada de las ofertas."
+        }
+      ],
+      "hint": "Es un mecanismo de filtrado previo a la solicitud de ofertas detalladas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 garantiza que ning\u00fan postor tenga ventajas de informaci\u00f3n durante una licitaci\u00f3n corporativa?",
+      "answerOptions": [
+        {
+          "text": "El uso exclusivo de planos en AutoCAD.",
+          "isCorrect": false,
+          "rationale": "Los planos son t\u00e9cnicos, pero no garantizan la equidad en la comunicaci\u00f3n de dudas y respuestas."
+        },
+        {
+          "text": "La fase de ronda de consultas con respuestas uniformes a todos los participantes.",
+          "isCorrect": true,
+          "rationale": "Al enviar cada respuesta a todos por igual, se asegura transparencia y equidad en la informaci\u00f3n disponible."
+        },
+        {
+          "text": "La eliminaci\u00f3n del precio unitario en las cotizaciones.",
+          "isCorrect": false,
+          "rationale": "El precio sigue siendo un componente, aunque se analice bajo el modelo de costo total."
+        },
+        {
+          "text": "La realizaci\u00f3n de pruebas FAT antes de la firma del contrato.",
+          "isCorrect": false,
+          "rationale": "Las pruebas FAT validan la calidad del equipo, pero no la transparencia del proceso de selecci\u00f3n."
+        }
+      ],
+      "hint": "Tiene que ver con la forma en que se manejan las dudas de los proveedores."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 se refiere el concepto de 'Landed Cost' en el an\u00e1lisis de adquisiciones?",
+      "answerOptions": [
+        {
+          "text": "Al precio base que ofrece el fabricante en su planta.",
+          "isCorrect": false,
+          "rationale": "Ese es el precio EXW (Ex Works), el Landed Cost incluye mucho m\u00e1s que el precio de f\u00e1brica."
+        },
+        {
+          "text": "Al costo de mantenimiento preventivo anualizado.",
+          "isCorrect": false,
+          "rationale": "El mantenimiento es parte del TCO, pero no define el costo de llegada del activo."
+        },
+        {
+          "text": "A la suma de todos los costos necesarios para poner el equipo en la puerta de la instalaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Act\u00faa como un ecualizador financiero que incluye fletes, seguros, aduanas y transporte interno."
+        },
+        {
+          "text": "Al margen de ganancia que cobra el intermediario local.",
+          "isCorrect": false,
+          "rationale": "El Landed Cost busca precisamente transparentar todos los costos log\u00edsticos, independientemente del margen."
+        }
+      ],
+      "hint": "Es el 'costo puesto en mina' que permite comparar proveedores locales con internacionales."
+    },
+    {
+      "question": "En el caso de las bolas de acero para molienda, \u00bfpor qu\u00e9 la evaluaci\u00f3n t\u00e9cnica tiene un peso del $60\\%$ frente al $40\\%$ de la econ\u00f3mica?",
+      "answerOptions": [
+        {
+          "text": "Porque el acero es un material de bajo costo y poca importancia.",
+          "isCorrect": false,
+          "rationale": "Al contrario, es un insumo cr\u00edtico cuyo rendimiento impacta directamente en la producci\u00f3n."
+        },
+        {
+          "text": "Porque un desgaste prematuro o falla t\u00e9cnica genera p\u00e9rdidas incalculables en la producci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La eficiencia operativa y la durabilidad del insumo pesan m\u00e1s que el ahorro inicial en el precio de compra."
+        },
+        {
+          "text": "Para cumplir con las certificaciones ambientales obligatorias.",
+          "isCorrect": false,
+          "rationale": "Aunque el medio ambiente es importante, el peso t\u00e9cnico en este caso se enfoca en el rendimiento en planta."
+        },
+        {
+          "text": "Porque no existen proveedores locales de este tipo de insumo.",
+          "isCorrect": false,
+          "rationale": "La ponderaci\u00f3n t\u00e9cnica se debe al riesgo operativo, no a la ubicaci\u00f3n del proveedor."
+        }
+      ],
+      "hint": "Piense en las consecuencias de que las bolas de acero se desgasten m\u00e1s r\u00e1pido de lo previsto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la utilidad de incluir f\u00f3rmulas polin\u00f3micas de ajuste en los contratos de insumos como el acero?",
+      "answerOptions": [
+        {
+          "text": "Garantizar que el precio se mantenga fijo durante toda la vida de la mina.",
+          "isCorrect": false,
+          "rationale": "Las f\u00f3rmulas precisamente permiten que el precio var\u00ede seg\u00fan \u00edndices externos para reflejar la realidad del mercado."
+        },
+        {
+          "text": "Blindar a la operaci\u00f3n de las fluctuaciones impredecibles en los precios internacionales de las materias primas.",
+          "isCorrect": true,
+          "rationale": "Estas f\u00f3rmulas amarran el contrato a \u00edndices de mercado, protegiendo tanto al comprador como al vendedor de la volatilidad."
+        },
+        {
+          "text": "Evitar la necesidad de realizar pruebas piloto en la planta.",
+          "isCorrect": false,
+          "rationale": "Las pruebas piloto son necesarias para validar el rendimiento t\u00e9cnico, independientemente del ajuste de precios."
+        },
+        {
+          "text": "Reducir el costo del flete mar\u00edtimo y los seguros de transporte.",
+          "isCorrect": false,
+          "rationale": "Estas f\u00f3rmulas se aplican al precio del insumo base y no directamente a los servicios log\u00edsticos."
+        }
+      ],
+      "hint": "Est\u00e1n dise\u00f1adas para gestionar la volatilidad de los mercados de commodities."
+    },
+    {
+      "question": "En la adquisici\u00f3n de cianuro de sodio, \u00bfpor qu\u00e9 se exige que las cajas de madera est\u00e9n cerradas con tornillos y nunca con clavos?",
+      "answerOptions": [
+        {
+          "text": "Porque los clavos son m\u00e1s caros que los tornillos en el mercado internacional.",
+          "isCorrect": false,
+          "rationale": "En realidad, los clavos suelen ser m\u00e1s econ\u00f3micos, pero menos seguros."
+        },
+        {
+          "text": "Para facilitar la apertura r\u00e1pida manual por parte de los operarios.",
+          "isCorrect": false,
+          "rationale": "La seguridad extrema busca precisamente que el envase sea robusto y no se abra accidentalmente."
+        },
+        {
+          "text": "Porque las vibraciones del transporte pueden hacer que los clavos cedan, causando derrames letales.",
+          "isCorrect": true,
+          "rationale": "Se trata de un est\u00e1ndar de seguridad cr\u00edtico para prevenir desastres ambientales y humanos debido a la toxicidad del producto."
+        },
+        {
+          "text": "Es una normativa contable exigida por la NIIF 16.",
+          "isCorrect": false,
+          "rationale": "La NIIF 16 se refiere a la clasificaci\u00f3n de capital y gastos, no a est\u00e1ndares de embalaje de materiales peligrosos."
+        }
+      ],
+      "hint": "Considere el efecto de los terrenos dif\u00edciles y las vibraciones constantes en la integridad del embalaje."
+    },
+    {
+      "question": "\u00bfQu\u00e9 metodolog\u00eda se utiliza para eliminar la subjetividad y los sesgos al comparar criterios de evaluaci\u00f3n en una licitaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "An\u00e1lisis de sensibilidad de escenarios extremos.",
+          "isCorrect": false,
+          "rationale": "Este an\u00e1lisis se usa para medir resiliencia financiera, no para definir pesos de criterios de selecci\u00f3n."
+        },
+        {
+          "text": "Matriz asim\u00e9trica.",
+          "isCorrect": true,
+          "rationale": "Compara criterios uno a uno para registrar frecuencias de victoria y establecer pesos objetivos antes de recibir ofertas."
+        },
+        {
+          "text": "F\u00f3rmulas de depreciaci\u00f3n en l\u00ednea recta.",
+          "isCorrect": false,
+          "rationale": "La depreciaci\u00f3n es un proceso contable de desgaste de activos, no una herramienta de selecci\u00f3n de proveedores."
+        },
+        {
+          "text": "Benchmarking de indicadores clave.",
+          "isCorrect": false,
+          "rationale": "El benchmarking ayuda a compararse con la competencia, pero no estructura la objetividad de una decisi\u00f3n de compra interna."
+        }
+      ],
+      "hint": "Es una herramienta comparativa que transforma victorias individuales en porcentajes de peso."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de las pruebas FAT (Factory Acceptance Tests) en el proceso de adquisiciones?",
+      "answerOptions": [
+        {
+          "text": "Validar que el equipo instalado en la mina mantiene su seguridad operativa.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n de las pruebas en sitio, no las de aceptaci\u00f3n en f\u00e1brica."
+        },
+        {
+          "text": "Garantizar que el equipo funciona correctamente antes de ser despachado desde la f\u00e1brica.",
+          "isCorrect": true,
+          "rationale": "Permiten corregir errores en el origen, evitando costos log\u00edsticos por devoluciones de equipos defectuosos."
+        },
+        {
+          "text": "Certificar que el personal de la mina ya sabe operar la nueva maquinaria.",
+          "isCorrect": false,
+          "rationale": "La capacitaci\u00f3n es parte de la capa de operaci\u00f3n del TCO, no de las pruebas FAT."
+        },
+        {
+          "text": "Determinar el Landed Cost final de la importaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El Landed Cost se calcula sumando gastos log\u00edsticos, no mediante pruebas de funcionamiento t\u00e9cnico."
+        }
+      ],
+      "hint": "Ocurren antes de que el equipo salga de las instalaciones del fabricante."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tipo de Capex se destina a transformar recursos minerales inferidos en reservas financieramente probadas?",
+      "answerOptions": [
+        {
+          "text": "Capex de sostenimiento.",
+          "isCorrect": false,
+          "rationale": "Este solo busca mantener la producci\u00f3n actual, no expandirla ni recategorizar recursos."
+        },
+        {
+          "text": "Capex de crecimiento.",
+          "isCorrect": true,
+          "rationale": "Es el motor de rentabilidad futura que expande la vida \u00fatil de la mina mediante programas de perforaci\u00f3n."
+        },
+        {
+          "text": "Capex inicial.",
+          "isCorrect": false,
+          "rationale": "Este se refiere a la inversi\u00f3n base para lanzar el proyecto desde cero (Greenfield)."
+        },
+        {
+          "text": "Opex operativo.",
+          "isCorrect": false,
+          "rationale": "Las inversiones en reservas se capitalizan y no se consideran gastos operativos corrientes."
+        }
+      ],
+      "hint": "Su nombre indica que busca aumentar el valor o el tama\u00f1o de la operaci\u00f3n actual."
+    },
+    {
+      "question": "\u00bfC\u00f3mo impacta el uso de IoT y Big Data en la gesti\u00f3n de costos operativos seg\u00fan lo analizado?",
+      "answerOptions": [
+        {
+          "text": "Permite un costeo preciso y en tiempo real por cada m\u00e1quina individual.",
+          "isCorrect": true,
+          "rationale": "El monitoreo constante permite acciones correctivas inmediatas y un blindaje activo del flujo de caja."
+        },
+        {
+          "text": "Sustituye la necesidad de realizar licitaciones corporativas.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda optimiza el control, pero la gobernanza de las licitaciones sigue siendo necesaria por compliance."
+        },
+        {
+          "text": "Elimina por completo la necesidad de mantenimiento correctivo.",
+          "isCorrect": false,
+          "rationale": "Aunque lo reduce significativamente mediante predicci\u00f3n, las fallas f\u00edsicas siempre son un riesgo latente."
+        },
+        {
+          "text": "Aumenta el precio nominal de adquisici\u00f3n de todos los activos.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda es una inversi\u00f3n que busca reducir el TCO, no necesariamente subir el precio de todos los activos."
+        }
+      ],
+      "hint": "Se trata de pasar de reportes reactivos a informaci\u00f3n din\u00e1mica y detallada."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Modelamiento de costos mineros",
+      "Costo Total de Pertenencia (TCO)",
+      "Gesti\u00f3n de CAPEX y OPEX",
+      "Arquitectura de licitaciones corporativas",
+      "Cadena de valor estrat\u00e9gica en miner\u00eda",
+      "Log\u00edstica y Landed Cost"
+    ],
+    "followUp": [
+      "Metodolog\u00edas de an\u00e1lisis de riesgo probabil\u00edstico en activos",
+      "Optimizaci\u00f3n de la cadena de suministro en miner\u00eda",
+      "Implementaci\u00f3n de IoT para el control de flujo de caja operativo",
+      "Gobernanza y cumplimiento en adquisiciones industriales",
+      "Estrategias de negociaci\u00f3n con fabricantes internacionales"
+    ]
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 representa estrat\u00e9gicamente la estabilidad geomec\u00e1nica en la miner\u00eda moderna?",
+      "answerOptions": [
+        {
+          "text": "Un tr\u00e1mite t\u00e9cnico secundario para la obtenci\u00f3n de permisos.",
+          "isCorrect": false,
+          "rationale": "Aunque es necesario para la operaci\u00f3n, su importancia va mucho m\u00e1s all\u00e1 de lo administrativo, siendo fundamental para la seguridad y la producci\u00f3n."
+        },
+        {
+          "text": "El pilar estrat\u00e9gico que garantiza la continuidad operativa y protege la vida.",
+          "isCorrect": true,
+          "rationale": "La estabilidad geomec\u00e1nica es la base que permite que la operaci\u00f3n fluya sin interrupciones catastr\u00f3ficas y asegura la integridad del personal."
+        },
+        {
+          "text": "Un m\u00e9todo exclusivo para reducir los costos de fortificaci\u00f3n en roca sana.",
+          "isCorrect": false,
+          "rationale": "Si bien optimiza el dise\u00f1o, su objetivo primordial es la prevenci\u00f3n de riesgos geol\u00f3gicos y no simplemente el ahorro econ\u00f3mico."
+        },
+        {
+          "text": "Una fase de caracterizaci\u00f3n que finaliza antes de iniciar la excavaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La geomec\u00e1nica no es est\u00e1tica; la transici\u00f3n entre caracterizaci\u00f3n y dise\u00f1o es vital y continua durante la vida del proyecto."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre la planificaci\u00f3n cient\u00edfica rigurosa y la seguridad humana en el entorno minero."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal de los modelos emp\u00edricos en la clasificaci\u00f3n de macizos rocosos?",
+      "answerOptions": [
+        {
+          "text": "Utilizan comportamientos matem\u00e1ticos puros para establecer constantes de esfuerzos.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde a los modelos anal\u00edticos, que se basan en f\u00f3rmulas matem\u00e1ticas objetivas."
+        },
+        {
+          "text": "Se basan en el uso de software de alta gama para analizar geometr\u00edas 3D.",
+          "isCorrect": false,
+          "rationale": "El uso de software especializado para geometr\u00edas complejas define a los modelos num\u00e9ricos."
+        },
+        {
+          "text": "Son herramientas deductivas basadas en d\u00e9cadas de observaci\u00f3n de campo.",
+          "isCorrect": true,
+          "rationale": "Los modelos emp\u00edricos como el $RMR$ o la $Q$ de Barton nacen de la experiencia acumulada y la observaci\u00f3n directa del terreno."
+        },
+        {
+          "text": "Eliminan por completo la subjetividad del factor humano en el diagn\u00f3stico.",
+          "isCorrect": false,
+          "rationale": "Debido a que dependen de la observaci\u00f3n visual del ge\u00f3logo o ingeniero, mantienen una carga de subjetividad hist\u00f3rica."
+        }
+      ],
+      "hint": "Piense en m\u00e9todos tradicionales como el $RMR$ de Bieniawski o la $Q$ de Barton."
+    },
+    {
+      "question": "En el contexto de los modelos num\u00e9ricos, \u00bfcu\u00e1l es la consecuencia de ingresar datos de entrada deficientes en softwares como FLAC?",
+      "answerOptions": [
+        {
+          "text": "El software corregir\u00e1 autom\u00e1ticamente los errores mediante algoritmos no lineales.",
+          "isCorrect": false,
+          "rationale": "El software procesa los datos que recibe; no tiene la capacidad de validar si la observaci\u00f3n inicial en campo fue incorrecta."
+        },
+        {
+          "text": "Se obtendr\u00e1n proyecciones err\u00f3neas con una apariencia de precisi\u00f3n matem\u00e1tica peligrosa.",
+          "isCorrect": true,
+          "rationale": "Esta es la 'regla de oro': la calidad del resultado depende estrictamente de la calidad del dato de entrada, y un resultado visualmente preciso puede ser falso."
+        },
+        {
+          "text": "La incertidumbre matem\u00e1tica aumentar\u00e1 pero los resultados ser\u00e1n f\u00edsicamente v\u00e1lidos.",
+          "isCorrect": false,
+          "rationale": "Si los datos son deficientes, la validez f\u00edsica del modelo se pierde por completo, independientemente de la complejidad del software."
+        },
+        {
+          "text": "Se requerir\u00e1 menos tiempo de procesamiento y hardware menos potente.",
+          "isCorrect": false,
+          "rationale": "La calidad de los datos no afecta los requerimientos de hardware del software, sino la veracidad de la simulaci\u00f3n resultante."
+        }
+      ],
+      "hint": "Recuerde la advertencia sobre la 'regla de oro' en el modelado avanzado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja principal ofrecen los modelos anal\u00edticos frente a los modelos num\u00e9ricos?",
+      "answerOptions": [
+        {
+          "text": "Capacidad para modelar geometr\u00edas sumamente irregulares y comportamientos no lineales.",
+          "isCorrect": false,
+          "rationale": "Esta es una ventaja de los modelos num\u00e9ricos; los anal\u00edticos se limitan generalmente a geometr\u00edas simples."
+        },
+        {
+          "text": "Reducci\u00f3n de la incertidumbre matem\u00e1tica a niveles cercanos a cero.",
+          "isCorrect": false,
+          "rationale": "Los modelos anal\u00edticos suelen dejar m\u00e1s incertidumbre debido a las simplificaciones necesarias en sus f\u00f3rmulas directas."
+        },
+        {
+          "text": "Simplicidad, uso de f\u00f3rmulas directas, bajo costo y resultados r\u00e1pidos.",
+          "isCorrect": true,
+          "rationale": "Los modelos anal\u00edticos son eficientes para c\u00e1lculos r\u00e1pidos y objetivos cuando se trabaja con estructuras de geometr\u00eda conocida."
+        },
+        {
+          "text": "No requieren personal capacitado para su interpretaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Cualquier modelo geomec\u00e1nico requiere personal con conocimientos t\u00e9cnicos para interpretar los resultados y aplicarlos al dise\u00f1o."
+        }
+      ],
+      "hint": "Compare la inversi\u00f3n en licencias y tiempo de procesamiento entre ambos tipos de modelos."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define matem\u00e1ticamente el Factor de Seguridad ($FS$) basado en la ecuaci\u00f3n de Mohr-Coulomb?",
+      "answerOptions": [
+        {
+          "text": "$FS = \\frac{\\text{Esfuerzos cortantes actuantes}}{\\text{Resistencia al corte disponible}}$",
+          "isCorrect": false,
+          "rationale": "Esta es la inversa de la f\u00f3rmula correcta; un factor de seguridad se calcula dividiendo lo que resiste entre lo que ataca."
+        },
+        {
+          "text": "$FS = \\text{Resistencia al corte} \\times \\text{Esfuerzos cortantes}$",
+          "isCorrect": false,
+          "rationale": "El Factor de Seguridad es una relaci\u00f3n de comparaci\u00f3n (divisi\u00f3n), no un producto de fuerzas."
+        },
+        {
+          "text": "$FS = \\frac{\\text{Resistencia al corte disponible}}{\\text{Esfuerzos cortantes actuantes}}$",
+          "isCorrect": true,
+          "rationale": "El $FS$ es la representaci\u00f3n de la batalla entre la fuerza que resiste y la fuerza que intenta desestabilizar la estructura."
+        },
+        {
+          "text": "$FS = \\frac{\\text{Momentos totales}}{\\text{Fuerzas tangenciales}}$",
+          "isCorrect": false,
+          "rationale": "Aunque el m\u00e9todo de Morgenstern-Price usa momentos y fuerzas, la definici\u00f3n general de $FS$ se centra en la relaci\u00f3n resistencia/esfuerzo."
+        }
+      ],
+      "hint": "Piense en la proporci\u00f3n entre la capacidad de la roca para resistir y las fuerzas que intentan hacerla fallar."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el est\u00e1ndar internacional del Factor de Seguridad para infraestructuras a largo plazo o cierres de mina?",
+      "answerOptions": [
+        {
+          "text": "Mayor a $1.1$",
+          "isCorrect": false,
+          "rationale": "Este rango es m\u00e1s apropiado para labores de muy corto plazo o avances temporales."
+        },
+        {
+          "text": "Mayor a $1.5$",
+          "isCorrect": true,
+          "rationale": "Para labores permanentes, se requiere un margen estricto que garantice la estabilidad frente a variaciones geol\u00f3gicas a trav\u00e9s de las d\u00e9cadas."
+        },
+        {
+          "text": "Entre $1.3$ y $1.5$",
+          "isCorrect": false,
+          "rationale": "Este rango es el umbral aceptable para operaciones de mediano plazo, no para cierres definitivos o infraestructuras permanentes."
+        },
+        {
+          "text": "Exactamente $1.0$",
+          "isCorrect": false,
+          "rationale": "Un factor de $1.0$ indica un equilibrio cr\u00edtico donde cualquier perturbaci\u00f3n m\u00ednima causar\u00eda un colapso."
+        }
+      ],
+      "hint": "Considere que el horizonte de tiempo determina el margen de seguridad requerido."
+    },
+    {
+      "question": "Seg\u00fan los est\u00e1ndares de auditor\u00eda internacional (ICMM), \u00bfpor qu\u00e9 un Factor de Seguridad de $1.08$ es considerado t\u00e9cnicamente inaceptable?",
+      "answerOptions": [
+        {
+          "text": "Porque matem\u00e1ticamente es menor a la unidad y la estructura ya colaps\u00f3.",
+          "isCorrect": false,
+          "rationale": "Matem\u00e1ticamente es mayor a $1.0$, pero la seguridad en el papel difiere de la realidad f\u00edsica del terreno."
+        },
+        {
+          "text": "Debido a que factores pseudoest\u00e1ticos como vibraciones de voladuras pueden degradar ese margen r\u00e1pidamente.",
+          "isCorrect": true,
+          "rationale": "Factores externos din\u00e1micos pueden consumir el peque\u00f1o margen de $0.08$ en segundos, provocando una falla inminente."
+        },
+        {
+          "text": "Porque el ICMM solo acepta factores calculados mediante el m\u00e9todo de Bishop simplificado.",
+          "isCorrect": false,
+          "rationale": "El est\u00e1ndar se refiere a la magnitud del factor y al riesgo operativo, independientemente del m\u00e9todo de c\u00e1lculo utilizado."
+        },
+        {
+          "text": "Porque a partir de $1.1$ la roca comienza a autocompactarse de forma natural.",
+          "isCorrect": false,
+          "rationale": "La autocompactaci\u00f3n no es un fen\u00f3meno t\u00e9cnico que justifique los umbrales de seguridad del ICMM."
+        }
+      ],
+      "hint": "Piense en la diferencia entre el optimismo matem\u00e1tico y la realidad de una mina activa con vibraciones constantes."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 condiciones geol\u00f3gicas es preferible utilizar pernos de anclaje de resina ep\u00f3xica?",
+      "answerOptions": [
+        {
+          "text": "En macizos de roca competente donde solo se requiere soporte temporal r\u00e1pido.",
+          "isCorrect": false,
+          "rationale": "Para soporte temporal y r\u00e1pido en roca competente, suelen preferirse los pernos mec\u00e1nicos o de fricci\u00f3n."
+        },
+        {
+          "text": "En excavaciones de gran altura donde no se puede inyectar cemento.",
+          "isCorrect": false,
+          "rationale": "La resina no se elige por la altura de la excavaci\u00f3n, sino por las propiedades de adherencia requeridas por el macizo."
+        },
+        {
+          "text": "En macizos muy fracturados o con presencia de abundante agua.",
+          "isCorrect": true,
+          "rationale": "La resina ofrece una adherencia alt\u00edsima que es cr\u00edtica en terrenos inestables o donde el agua dificulta otros m\u00e9todos de anclaje."
+        },
+        {
+          "text": "\u00danicamente en labores permanentes que superen los 30 a\u00f1os de vida \u00fatil.",
+          "isCorrect": false,
+          "rationale": "Si bien son duraderos, los pernos cementados suelen ser los referentes para la m\u00e1xima durabilidad en labores permanentes."
+        }
+      ],
+      "hint": "Considere los problemas de adherencia que generan las fracturas y la humedad en el terreno."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de los pernos de fricci\u00f3n (Splitsets) en el sostenimiento subterr\u00e1neo?",
+      "answerOptions": [
+        {
+          "text": "Actuar como soporte secundario una vez que el shotcrete ha fraguado.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n es principalmente de soporte primario e inmediato debido a su m\u00e9todo de instalaci\u00f3n."
+        },
+        {
+          "text": "Brindar soporte primario inmediato mediante la presi\u00f3n ejercida contra las paredes del taladro.",
+          "isCorrect": true,
+          "rationale": "Su mecanismo se basa en la fricci\u00f3n generada al ser introducidos a presi\u00f3n en un orificio de menor di\u00e1metro."
+        },
+        {
+          "text": "Garantizar el anclaje profundo en roca sana a m\u00e1s de 5 metros de profundidad.",
+          "isCorrect": false,
+          "rationale": "La longitud de los splitsets est\u00e1 limitada y su mecanismo de fricci\u00f3n no es ideal para anclajes profundos en roca de muy alta calidad."
+        },
+        {
+          "text": "Sustituir el uso de mallas electrosoldadas en zonas de alta presi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los pernos y las mallas son elementos complementarios; uno no sustituye al otro en la jerarqu\u00eda de soporte."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el dise\u00f1o del perno interact\u00faa con el di\u00e1metro del agujero perforado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor dicta las dimensiones m\u00ednimas del espacio de trabajo y limita f\u00edsicamente el tipo de perno a aplicar?",
+      "answerOptions": [
+        {
+          "text": "La temperatura del macizo rocoso a profundidades extremas.",
+          "isCorrect": false,
+          "rationale": "Aunque la temperatura afecta al personal, no es el factor que limita directamente la selecci\u00f3n del tipo de perno por espacio."
+        },
+        {
+          "text": "El \u00edndice $RMR$ del macizo exclusivamente.",
+          "isCorrect": false,
+          "rationale": "El $RMR$ gu\u00eda el dise\u00f1o, pero la limitaci\u00f3n f\u00edsica de instalaci\u00f3n proviene de la maquinaria disponible."
+        },
+        {
+          "text": "La escala y dimensiones de los equipos comerciales (como Resemin, Epiroc o Sandvik).",
+          "isCorrect": true,
+          "rationale": "El tama\u00f1o de la maquinaria determina si se puede operar en vetas angostas o si se requiere un espacio mayor para equipos de gran tonelaje."
+        },
+        {
+          "text": "El costo de la resina ep\u00f3xica en el mercado internacional.",
+          "isCorrect": false,
+          "rationale": "El costo influye en el presupuesto, pero no en la restricci\u00f3n f\u00edsica de las dimensiones de la excavaci\u00f3n para la instalaci\u00f3n."
+        }
+      ],
+      "hint": "Considere la interacci\u00f3n entre el tama\u00f1o de la maquinaria minera y el entorno geol\u00f3gico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 propiedad estructural le otorgan los filamentos de titanio o hierro al concreto lanzado (shotcrete)?",
+      "answerOptions": [
+        {
+          "text": "Aumentan su resistencia a la compresi\u00f3n simple para evitar el aplastamiento.",
+          "isCorrect": false,
+          "rationale": "El concreto por s\u00ed solo ya es bueno en compresi\u00f3n; los filamentos buscan mejorar otra propiedad mec\u00e1nica."
+        },
+        {
+          "text": "Aceleran el tiempo de secado para permitir avances m\u00e1s r\u00e1pidos.",
+          "isCorrect": false,
+          "rationale": "El fraguado r\u00e1pido es una propiedad del material base o aditivos qu\u00edmicos, no de los filamentos met\u00e1licos."
+        },
+        {
+          "text": "Le otorgan ductilidad para resistir esfuerzos de tracci\u00f3n sin fracturarse.",
+          "isCorrect": true,
+          "rationale": "La adici\u00f3n de fibras permite que el shotcrete se deforme levemente y soporte tensiones que el concreto simple no podr\u00eda aguantar."
+        },
+        {
+          "text": "Act\u00faan como un repelente qu\u00edmico contra las filtraciones de agua \u00e1cida.",
+          "isCorrect": false,
+          "rationale": "La funci\u00f3n de los filamentos es puramente estructural y mec\u00e1nica, no qu\u00edmica."
+        }
+      ],
+      "hint": "Piense en la capacidad del material para deformarse bajo carga sin romperse bruscamente."
+    },
+    {
+      "question": "En el dise\u00f1o de portales, \u00bfcu\u00e1l es la doble funci\u00f3n de los gaviones compactados con arcilla?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la dureza de la roca y servir como soporte de ventilaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los gaviones no alteran la dureza de la roca madre ni tienen funciones directas de ventilaci\u00f3n."
+        },
+        {
+          "text": "Redistribuir esfuerzos del terreno y actuar como separadores de agua para evitar infiltraciones.",
+          "isCorrect": true,
+          "rationale": "Son elementos multifuncionales que manejan tanto las cargas f\u00edsicas como el control de fluidos en zonas superficiales."
+        },
+        {
+          "text": "Sustituir a los pernos de anclaje y reducir el uso de concreto lanzado.",
+          "isCorrect": false,
+          "rationale": "Los gaviones se usan en \u00e1reas espec\u00edficas (portales) y no reemplazan el sostenimiento interno de la labor."
+        },
+        {
+          "text": "Funcionar como sensores de movimiento para monitoreo por fibra \u00f3ptica.",
+          "isCorrect": false,
+          "rationale": "El monitoreo es una actividad separada; los gaviones son elementos de soporte f\u00edsico pasivo."
+        }
+      ],
+      "hint": "Considere el impacto del agua en la estabilidad de las entradas de las minas."
+    },
+    {
+      "question": "De acuerdo con las reglas de espaciamiento, \u00bfqu\u00e9 distancia entre pernos se recomienda para un macizo con un $RMR$ mayor a $75$?",
+      "answerOptions": [
+        {
+          "text": "Menor a $1.5$ metros.",
+          "isCorrect": false,
+          "rationale": "Este espaciamiento reducido es necesario para rocas de calidad pobre ($RMR < 50$)."
+        },
+        {
+          "text": "Entre $1.5$ y $2.0$ metros.",
+          "isCorrect": false,
+          "rationale": "Este es el rango recomendado para rocas de calidad media (RMR entre 50 y 75)."
+        },
+        {
+          "text": "Entre $2.5$ y $3.0$ metros.",
+          "isCorrect": true,
+          "rationale": "Al ser una roca de calidad excelente, se puede permitir un espaciamiento mayor entre los elementos de soporte."
+        },
+        {
+          "text": "Exactamente $0.85$ metros.",
+          "isCorrect": false,
+          "rationale": "Este valor es un ejemplo espec\u00edfico para \u00e1reas de alta presi\u00f3n inducida, no una regla general para roca excelente."
+        }
+      ],
+      "hint": "Relacione la alta calidad de la roca con la densidad de pernos necesaria."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el requisito cr\u00edtico para la longitud de anclaje de un perno en el dise\u00f1o de labores seguras?",
+      "answerOptions": [
+        {
+          "text": "Debe ser igual a la altura total de la excavaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La longitud total del perno suele ser entre la mitad y dos tercios de la altura, no la altura completa."
+        },
+        {
+          "text": "Debe garantizar al menos entre $1.0$ y $1.5$ metros de anclaje en roca sana.",
+          "isCorrect": true,
+          "rationale": "Sin un anclaje profundo en roca competente, el perno no puede transferir la carga de manera efectiva y pierde su funci\u00f3n."
+        },
+        {
+          "text": "No debe superar los $50$ cm de profundidad para evitar tensiones innecesarias.",
+          "isCorrect": false,
+          "rationale": "Un anclaje tan superficial ser\u00eda insuficiente para sostener cualquier bloque de roca significativo."
+        },
+        {
+          "text": "Debe ser inversamente proporcional al \u00edndice $Q$ de Barton.",
+          "isCorrect": false,
+          "rationale": "Si bien el dise\u00f1o depende de la calidad de la roca, la regla del anclaje en roca sana es una constante de seguridad geom\u00e9trica."
+        }
+      ],
+      "hint": "Piense en la necesidad de fijar el perno en material que no est\u00e9 fracturado o meteorizado."
+    },
+    {
+      "question": "Utilizando la f\u00f3rmula de Barton para el shotcrete, \u00bfc\u00f3mo se calcula el espesor ($e$) en mil\u00edmetros?",
+      "answerOptions": [
+        {
+          "text": "$e = 700 \\times Q^{1/3}$",
+          "isCorrect": false,
+          "rationale": "La f\u00f3rmula utiliza una divisi\u00f3n, no una multiplicaci\u00f3n, para determinar el espesor en funci\u00f3n de la calidad de la roca."
+        },
+        {
+          "text": "$e = \\frac{700}{Q^{1/3}}$",
+          "isCorrect": true,
+          "rationale": "Esta ecuaci\u00f3n permite optimizar costos y seguridad determinando el espesor preciso seg\u00fan el \u00edndice de calidad del macizo."
+        },
+        {
+          "text": "$e = \\frac{RMR}{700} + Q$",
+          "isCorrect": false,
+          "rationale": "Esta f\u00f3rmula no existe en la geomec\u00e1nica cl\u00e1sica; mezcla dos \u00edndices de clasificaci\u00f3n de forma incorrecta."
+        },
+        {
+          "text": "$e = 1.5 \\times \\text{altura de la labor}$",
+          "isCorrect": false,
+          "rationale": "El espesor del shotcrete depende de la calidad de la roca (\u00edndice $Q$) y no solo de la dimensi\u00f3n de la excavaci\u00f3n."
+        }
+      ],
+      "hint": "Recuerde que el espesor es inversamente proporcional a la ra\u00edz c\u00fabica del \u00edndice de calidad de la roca."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el primer paso en el an\u00e1lisis geom\u00e9trico para la prevenci\u00f3n del colapso por 'cu\u00f1a m\u00e1xima'?",
+      "answerOptions": [
+        {
+          "text": "Instalar pernos de prueba para medir la resistencia al arrancamiento.",
+          "isCorrect": false,
+          "rationale": "Las pruebas de arrancamiento son parte de la validaci\u00f3n operativa, no del an\u00e1lisis geom\u00e9trico te\u00f3rico inicial."
+        },
+        {
+          "text": "Asumir un tri\u00e1ngulo equil\u00e1tero con \u00e1ngulos de $45^\\circ$ a $60^\\circ$ para simular la formaci\u00f3n cr\u00edtica.",
+          "isCorrect": true,
+          "rationale": "Este modelo te\u00f3rico permite estimar el peor escenario posible de desprendimiento de bloques de roca."
+        },
+        {
+          "text": "Calcular la velocidad de la voladura para reducir la vibraci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis de cu\u00f1a se enfoca en la geometr\u00eda del bloque inestable, no en los par\u00e1metros de la voladura."
+        },
+        {
+          "text": "Reducir el espesor del shotcrete para observar el comportamiento natural de la roca.",
+          "isCorrect": false,
+          "rationale": "Reducir el soporte para 'probar' la roca es una pr\u00e1ctica extremadamente peligrosa y contraria al dise\u00f1o preventivo."
+        }
+      ],
+      "hint": "Piense en la forma geom\u00e9trica m\u00e1s b\u00e1sica utilizada para representar un bloque de roca potencial que podr\u00eda caer del techo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00eda se menciona como una alternativa estrat\u00e9gica a la voladura tradicional en zonas de extrema inestabilidad?",
+      "answerOptions": [
+        {
+          "text": "Perforaci\u00f3n por chorro de agua a alta presi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque existe, no es la tecnolog\u00eda destacada en el caso de estudio para evitar colapsos en zonas inestables."
+        },
+        {
+          "text": "Uso de excavadoras mec\u00e1nicas con puntas de diamante.",
+          "isCorrect": false,
+          "rationale": "El texto resalta una tecnolog\u00eda espec\u00edfica que fragmenta la roca sin las vibraciones de los explosivos."
+        },
+        {
+          "text": "Tecnolog\u00eda de plasma.",
+          "isCorrect": true,
+          "rationale": "El plasma permite fragmentar la roca estrat\u00e9gicamente minimizando las vibraciones, como se aplic\u00f3 en el t\u00fanel de Puruchuco."
+        },
+        {
+          "text": "C\u00e9lulas de expansi\u00f3n t\u00e9rmica controlada.",
+          "isCorrect": false,
+          "rationale": "Esta tecnolog\u00eda no se menciona en el material proporcionado como soluci\u00f3n para zonas inestables."
+        }
+      ],
+      "hint": "Piense en el m\u00e9todo utilizado para proteger restos arqueol\u00f3gicos invaluables en proyectos de t\u00faneles."
+    },
+    {
+      "question": "Al superar el umbral de los $800$ a $1000$ metros de profundidad, \u00bfcu\u00e1l es uno de los riesgos cr\u00edticos que requiere monitoreo avanzado?",
+      "answerOptions": [
+        {
+          "text": "Inundaciones masivas por acu\u00edferos superficiales.",
+          "isCorrect": false,
+          "rationale": "A esas profundidades, los riesgos est\u00e1n m\u00e1s asociados a los esfuerzos del terreno que a las aguas superficiales."
+        },
+        {
+          "text": "Riesgo de implosi\u00f3n del macizo rocoso debido a presiones extremas.",
+          "isCorrect": true,
+          "rationale": "Las profundidades extremas aumentan los esfuerzos in situ, lo que puede provocar fallas violentas del macizo."
+        },
+        {
+          "text": "Agotamiento inmediato de las reservas de ox\u00edgeno por presi\u00f3n atmosf\u00e9rica.",
+          "isCorrect": false,
+          "rationale": "La ventilaci\u00f3n maneja los gases; el riesgo geomec\u00e1nico cr\u00edtico es la respuesta de la roca a la presi\u00f3n."
+        },
+        {
+          "text": "Falla de los pernos de fricci\u00f3n por falta de humedad.",
+          "isCorrect": false,
+          "rationale": "Los pernos de fricci\u00f3n no dependen de la humedad para su funcionamiento; la presi\u00f3n del terreno es el desaf\u00edo real."
+        }
+      ],
+      "hint": "Considere c\u00f3mo reacciona una estructura cuando la presi\u00f3n externa supera dr\u00e1sticamente su resistencia interna."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la jerarqu\u00eda final de sostenimiento cuando la presi\u00f3n del macizo es extrema y los m\u00e9todos flexibles fallan?",
+      "answerOptions": [
+        {
+          "text": "Aumento de la longitud de los pernos splitsets.",
+          "isCorrect": false,
+          "rationale": "Los splitsets tienen l\u00edmites de carga y no son la soluci\u00f3n definitiva ante presiones extremas."
+        },
+        {
+          "text": "Instalaci\u00f3n de mallas electrosoldadas dobles.",
+          "isCorrect": false,
+          "rationale": "La malla solo controla desprendimientos menores; no puede contener presiones sist\u00e9micas extremas."
+        },
+        {
+          "text": "Instalaci\u00f3n de columnas r\u00edgidas de acero o simbras.",
+          "isCorrect": true,
+          "rationale": "Las simbras representan el nivel m\u00e1s alto y r\u00edgido de sostenimiento para condiciones donde la roca no puede autosostenerse."
+        },
+        {
+          "text": "Aplicaci\u00f3n de una capa triple de shotcrete sin fibras.",
+          "isCorrect": false,
+          "rationale": "Sin fibras, el shotcrete es fr\u00e1gil; ante presiones extremas se requiere un soporte estructural mucho m\u00e1s robusto como el acero."
+        }
+      ],
+      "hint": "Piense en el soporte met\u00e1lico pesado que se utiliza en los t\u00faneles m\u00e1s dif\u00edciles."
+    },
+    {
+      "question": "\u00bfQu\u00e9 m\u00e9todo de an\u00e1lisis de estabilidad brilla por su rigor al integrar simult\u00e1neamente fuerzas y momentos?",
+      "answerOptions": [
+        {
+          "text": "M\u00e9todo de Felenius.",
+          "isCorrect": false,
+          "rationale": "Felenius es un m\u00e9todo pionero y \u00fatil, pero suele ser m\u00e1s simplificado y dejar de lado ciertos factores."
+        },
+        {
+          "text": "M\u00e9todo de Bishop.",
+          "isCorrect": false,
+          "rationale": "Al igual que Felenius, Bishop es un m\u00e9todo cl\u00e1sico que, en sus versiones iniciales, no integraba todos los componentes de equilibrio."
+        },
+        {
+          "text": "M\u00e9todo de Morgenstern-Price.",
+          "isCorrect": true,
+          "rationale": "Este m\u00e9todo ofrece una mayor fidelidad f\u00edsica al considerar tanto las fuerzas como los momentos que act\u00faan en la estructura."
+        },
+        {
+          "text": "\u00cdndice GSI de campo.",
+          "isCorrect": false,
+          "rationale": "El GSI es un \u00edndice de clasificaci\u00f3n geol\u00f3gica, no un m\u00e9todo de an\u00e1lisis de equilibrio l\u00edmite basado en momentos."
+        }
+      ],
+      "hint": "Identifique el m\u00e9todo que super\u00f3 las limitaciones de los pioneros para dar una mayor fidelidad f\u00edsica."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Modelado geomec\u00e1nico",
+      "Factor de Seguridad ($FS$)",
+      "Sistemas de sostenimiento subterr\u00e1neo",
+      "Dise\u00f1o y optimizaci\u00f3n de pernos",
+      "An\u00e1lisis de equilibrio l\u00edmite",
+      "Tecnolog\u00edas avanzadas de excavaci\u00f3n"
+    ],
+    "followUp": [
+      "Teor\u00eda de Mohr-Coulomb aplicada a macizos rocosos",
+      "Comportamiento no lineal en modelos num\u00e9ricos",
+      "Instrumentaci\u00f3n con fibra \u00f3ptica en miner\u00eda profunda",
+      "Mec\u00e1nica de rocas y clasificaci\u00f3n de Bieniawski ($RMR$)",
+      "Ductilidad y refuerzo de concreto lanzado"
+    ]
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 criterio principal propuso Nimle en 1929 para la clasificaci\u00f3n de los yacimientos minerales?",
+      "answerOptions": [
+        {
+          "text": "La profundidad de formaci\u00f3n del yacimiento.",
+          "isCorrect": true,
+          "rationale": "Nimle estableci\u00f3 una divisi\u00f3n basada en la ubicaci\u00f3n vertical, diferenciando entre yacimientos volc\u00e1nicos superficiales y plut\u00f3nicos profundos."
+        },
+        {
+          "text": "La temperatura cr\u00edtica del fluido mineralizante.",
+          "isCorrect": false,
+          "rationale": "Aunque la temperatura es una variable geol\u00f3gica clave, Nimle se centr\u00f3 espec\u00edficamente en la profundidad y no en par\u00e1metros termodin\u00e1micos."
+        },
+        {
+          "text": "El marco tect\u00f3nico global de subducci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La visi\u00f3n tect\u00f3nica global fue una evoluci\u00f3n posterior introducida por otros autores como Smirnov."
+        },
+        {
+          "text": "La composici\u00f3n qu\u00edmica de la roca hu\u00e9sped.",
+          "isCorrect": false,
+          "rationale": "Si bien la roca hu\u00e9sped es importante para la clasificaci\u00f3n de Schneider Hon, no fue el eje del sistema de Nimle."
+        }
+      ],
+      "hint": "Relaciona este autor con la ubicaci\u00f3n f\u00edsica vertical en la corteza terrestre."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los t\u00e9rminos introducidos por Smirnov para separar los procesos magm\u00e1ticos internos de los procesos superficiales?",
+      "answerOptions": [
+        {
+          "text": "Procesos end\u00f3genos y ex\u00f3genos.",
+          "isCorrect": true,
+          "rationale": "Smirnov utiliz\u00f3 estos t\u00e9rminos para distinguir entre la actividad magm\u00e1tica interna y los ciclos sedimentarios o superficiales."
+        },
+        {
+          "text": "Procesos volc\u00e1nicos y plut\u00f3nicos.",
+          "isCorrect": false,
+          "rationale": "Esta distinci\u00f3n corresponde al sistema de Nimle y no a la clasificaci\u00f3n tect\u00f3nica de Smirnov."
+        },
+        {
+          "text": "Fases pegmat\u00edticas e hidrotermales.",
+          "isCorrect": false,
+          "rationale": "Estas representan etapas de enfriamiento magm\u00e1tico, no la clasificaci\u00f3n macrosc\u00f3pica de procesos propuesta por Smirnov."
+        },
+        {
+          "text": "Sistemas epitermales y de tipo Scarn.",
+          "isCorrect": false,
+          "rationale": "Estos son tipos espec\u00edficos de dep\u00f3sitos y no la terminolog\u00eda general para los ciclos terrestres de Smirnov."
+        }
+      ],
+      "hint": "Busca t\u00e9rminos que signifiquen 'dentro' y 'fuera' del planeta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 variables cr\u00edticas incorpor\u00f3 el sistema de Lindgren en 1913 para transformar la geolog\u00eda en una disciplina predictiva?",
+      "answerOptions": [
+        {
+          "text": "La temperatura y la presi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Lindgren introdujo la termodin\u00e1mica al definir rangos exactos de temperatura y presi\u00f3n para la formaci\u00f3n de dep\u00f3sitos."
+        },
+        {
+          "text": "La dureza y la densidad de los minerales.",
+          "isCorrect": false,
+          "rationale": "Estas son propiedades f\u00edsicas de los minerales, pero no fueron las variables termodin\u00e1micas centrales del modelo de Lindgren."
+        },
+        {
+          "text": "La porosidad y la permeabilidad de las calizas.",
+          "isCorrect": false,
+          "rationale": "Estos factores son relevantes en procesos sedimentarios, mientras que Lindgren se enfoc\u00f3 en el control termodin\u00e1mico magm\u00e1tico."
+        },
+        {
+          "text": "La velocidad de erosi\u00f3n y transporte fluvial.",
+          "isCorrect": false,
+          "rationale": "Estos corresponden al ciclo ex\u00f3geno y no al sistema de clasificaci\u00f3n de dep\u00f3sitos magm\u00e1ticos de Lindgren."
+        }
+      ],
+      "hint": "Se trata de las dos variables fundamentales de la termodin\u00e1mica cl\u00e1sica."
+    },
+    {
+      "question": "Dentro del modelo de Schneider Hon, \u00bfc\u00f3mo se define la relaci\u00f3n entre la 'mena' y la 'ganga'?",
+      "answerOptions": [
+        {
+          "text": "La mena es el mineral con valor econ\u00f3mico, mientras que la ganga es el material sin valor comercial.",
+          "isCorrect": true,
+          "rationale": "Esta distinci\u00f3n es fundamental en la miner\u00eda para separar el recurso aprovechable del material de desecho contenido en la roca."
+        },
+        {
+          "text": "La mena es la roca hu\u00e9sped y la ganga es el fluido mineralizante.",
+          "isCorrect": false,
+          "rationale": "La roca hu\u00e9sped contiene a la mena, pero la ganga es el mineral no met\u00e1lico asociado, no un fluido."
+        },
+        {
+          "text": "La mena se encuentra en la superficie y la ganga en la profundidad.",
+          "isCorrect": false,
+          "rationale": "Ambas suelen coexistir en el mismo dep\u00f3sito independientemente de la profundidad."
+        },
+        {
+          "text": "La mena es el mineral oxidado y la ganga es el mineral sulfurado.",
+          "isCorrect": false,
+          "rationale": "La distinci\u00f3n entre mena y ganga se basa en el valor econ\u00f3mico y no en el estado qu\u00edmico de oxidaci\u00f3n."
+        }
+      ],
+      "hint": "Piensa en cu\u00e1l de los dos t\u00e9rminos representa el beneficio econ\u00f3mico del proyecto."
+    },
+    {
+      "question": "\u00bfQu\u00e9 proceso ocurre cuando ciertos fluidos met\u00e1licos se separan del magma principal de forma similar a la mezcla de agua y aceite?",
+      "answerOptions": [
+        {
+          "text": "Inmiscibilidad l\u00edquida.",
+          "isCorrect": true,
+          "rationale": "Este fen\u00f3meno f\u00edsico-qu\u00edmico permite que fases ricas en metales se segreguen del magma silicatado original."
+        },
+        {
+          "text": "Cristalizaci\u00f3n fraccionada.",
+          "isCorrect": false,
+          "rationale": "La cristalizaci\u00f3n fraccionada implica la solidificaci\u00f3n secuencial de minerales, no la separaci\u00f3n de dos l\u00edquidos no miscibles."
+        },
+        {
+          "text": "Meteorizaci\u00f3n qu\u00edmica.",
+          "isCorrect": false,
+          "rationale": "Este es un proceso superficial del ciclo ex\u00f3geno, no un mecanismo magm\u00e1tico profundo."
+        },
+        {
+          "text": "Dolomitizaci\u00f3n por sustituci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este es un proceso sedimentario donde el magnesio reemplaza al calcio en las calizas."
+        }
+      ],
+      "hint": "El t\u00e9rmino t\u00e9cnico describe la incapacidad de dos l\u00edquidos para mezclarse homog\u00e9neamente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje aproximado de la producci\u00f3n mundial de n\u00edquel depende de procesos magm\u00e1ticos en rocas m\u00e1ficas y ultram\u00e1ficas?",
+      "answerOptions": [
+        {
+          "text": "$56\\%$",
+          "isCorrect": true,
+          "rationale": "Este dato subraya la dependencia estrat\u00e9gica de la industria global de este contexto geol\u00f3gico espec\u00edfico."
+        },
+        {
+          "text": "$96\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje corresponde a la producci\u00f3n de platinoides, no a la del n\u00edquel."
+        },
+        {
+          "text": "$22\\%$",
+          "isCorrect": false,
+          "rationale": "Esta cifra est\u00e1 asociada a la ley de corte rentable en dep\u00f3sitos de placer aur\u00edferos y no a la producci\u00f3n de n\u00edquel."
+        },
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Es un valor demasiado bajo considerando que los dep\u00f3sitos magm\u00e1ticos son la fuente principal de este metal."
+        }
+      ],
+      "hint": "Es una cifra superior a la mitad de la producci\u00f3n global."
+    },
+    {
+      "question": "En la zonaci\u00f3n t\u00e9rmica postmagm\u00e1tica, \u00bfqu\u00e9 metales se asocian t\u00edpicamente a la fase pegmat\u00edtica entre los $600^{\\circ}C$ y $400^{\\circ}C$?",
+      "answerOptions": [
+        {
+          "text": "Litio y casiterita.",
+          "isCorrect": true,
+          "rationale": "Estos elementos precipitan en las etapas tempranas de enfriamiento postmagm\u00e1tico a temperaturas relativamente altas."
+        },
+        {
+          "text": "Oro y plata.",
+          "isCorrect": false,
+          "rationale": "Los metales preciosos se asocian a ambientes epitermales de baja temperatura (hasta $50^{\\circ}C$)."
+        },
+        {
+          "text": "Plomo y zinc.",
+          "isCorrect": false,
+          "rationale": "Estos metales suelen precipitar en la fase hidrotermal a temperaturas m\u00e1s bajas que las pegmat\u00edticas."
+        },
+        {
+          "text": "Hierro y magnesio.",
+          "isCorrect": false,
+          "rationale": "Estos son constituyentes de las rocas m\u00e1ficas, pero no son los elementos diagn\u00f3sticos de la fase pegmat\u00edtica mencionada."
+        }
+      ],
+      "hint": "Considera elementos utilizados en bater\u00edas y minerales de esta\u00f1o."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tipo de mineralizaci\u00f3n se espera encontrar en sistemas magm\u00e1ticos que se forman cerca de la superficie?",
+      "answerOptions": [
+        {
+          "text": "Mineralizaci\u00f3n esparcida o diseminada de menor ley.",
+          "isCorrect": true,
+          "rationale": "La menor profundidad favorece la dispersi\u00f3n del mineral sobre \u00e1reas extensas en lugar de concentraciones masivas."
+        },
+        {
+          "text": "Sulfuros masivos de alt\u00edsima ley concentrados.",
+          "isCorrect": false,
+          "rationale": "Las concentraciones masivas de alta ley son caracter\u00edsticas de c\u00e1maras magm\u00e1ticas m\u00e1s profundas."
+        },
+        {
+          "text": "Cristales de diamante de dureza 10.",
+          "isCorrect": false,
+          "rationale": "La formaci\u00f3n de diamantes requiere presiones extremas de gran profundidad, no ambientes cercanos a la superficie."
+        },
+        {
+          "text": "Dep\u00f3sitos de placer por gravedad.",
+          "isCorrect": false,
+          "rationale": "Los dep\u00f3sitos de placer son sedimentarios y no se forman directamente en sistemas magm\u00e1ticos."
+        }
+      ],
+      "hint": "Piensa en el contraste entre una zona muy concentrada y una zona muy amplia pero diluida."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se diferencia la formaci\u00f3n de la dolomita respecto a la caliza com\u00fan?",
+      "answerOptions": [
+        {
+          "text": "A trav\u00e9s de la sustituci\u00f3n del calcio por magnesio en la roca original.",
+          "isCorrect": true,
+          "rationale": "La dolomitizaci\u00f3n es un proceso postedimentario que altera la composici\u00f3n qu\u00edmica, aumentando la porosidad y densidad."
+        },
+        {
+          "text": "Por la acumulaci\u00f3n directa de exoesqueletos marinos.",
+          "isCorrect": false,
+          "rationale": "Este proceso describe el origen sedimentario directo de las calizas, no la formaci\u00f3n de la dolomita."
+        },
+        {
+          "text": "Mediante la cristalizaci\u00f3n fraccionada en el manto.",
+          "isCorrect": false,
+          "rationale": "Este es un proceso magm\u00e1tico, mientras que las calizas y dolomitas son de origen sedimentario."
+        },
+        {
+          "text": "Por la acci\u00f3n del viento en zonas e\u00f3licas.",
+          "isCorrect": false,
+          "rationale": "La dolomitizaci\u00f3n ocurre por interacci\u00f3n qu\u00edmica de fluidos y no por transporte e\u00f3lico."
+        }
+      ],
+      "hint": "Involucra un cambio qu\u00edmico en una roca ya existente mediante un elemento del grupo de los alcalinot\u00e9rreos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 combinaci\u00f3n de propiedades f\u00edsicas hace que el oro se concentre eficientemente en dep\u00f3sitos de placer a pesar de ser un metal blando?",
+      "answerOptions": [
+        {
+          "text": "Baja dureza pero una enorme densidad relativa.",
+          "isCorrect": true,
+          "rationale": "Su alta densidad permite que el oro se asiente r\u00e1pidamente en el fondo de corrientes de agua a pesar de su maleabilidad."
+        },
+        {
+          "text": "Alta resistencia qu\u00edmica y extrema dureza.",
+          "isCorrect": false,
+          "rationale": "El oro es blando (dureza $2.5$ a $3$), por lo que su resistencia no proviene de la dureza mec\u00e1nica."
+        },
+        {
+          "text": "Afinidad por el azufre y el hierro.",
+          "isCorrect": false,
+          "rationale": "Estas son propiedades qu\u00edmicas (calc\u00f3filas/sider\u00f3filas), pero la concentraci\u00f3n en placeres es un proceso f\u00edsico gravitacional."
+        },
+        {
+          "text": "Capacidad de flotar en arenas negras.",
+          "isCorrect": false,
+          "rationale": "El oro no flota; su concentraci\u00f3n se debe precisamente a que se hunde por su peso."
+        }
+      ],
+      "hint": "Compara cu\u00e1nto pesa el oro en relaci\u00f3n con el volumen que ocupa."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 un yacimiento de tipo placer puede ser rentable con solo $0.22$ g de oro por $m^{3}$?",
+      "answerOptions": [
+        {
+          "text": "Porque la naturaleza ya realiz\u00f3 el proceso de trituraci\u00f3n y molienda.",
+          "isCorrect": true,
+          "rationale": "El ciclo ex\u00f3geno act\u00faa como una planta de refinamiento natural, reduciendo dr\u00e1sticamente los costos operativos de extracci\u00f3n."
+        },
+        {
+          "text": "Porque el oro en los placeres siempre es de mayor pureza qu\u00edmica.",
+          "isCorrect": false,
+          "rationale": "La rentabilidad mencionada se debe a los bajos costos operativos, no necesariamente a la pureza del metal."
+        },
+        {
+          "text": "Debido al uso de mercurio que abarata los costos de separaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque se usa mercurio, esto se considera un riesgo y costo ambiental, no la raz\u00f3n de la viabilidad t\u00e9cnica de baja ley."
+        },
+        {
+          "text": "Porque los diamantes asociados compensan la baja ley del oro.",
+          "isCorrect": false,
+          "rationale": "La rentabilidad de $0.22$ g/$m^{3}$ se refiere espec\u00edficamente al oro y no a la presencia de otros minerales."
+        }
+      ],
+      "hint": "Considera el ahorro en maquinaria pesada para procesar la roca s\u00f3lida."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el motor geotect\u00f3nico que ha generado las franjas metalogen\u00e9ticas en el Per\u00fa?",
+      "answerOptions": [
+        {
+          "text": "La subducci\u00f3n de la placa de Nazca bajo la placa sudamericana.",
+          "isCorrect": true,
+          "rationale": "Este choque tect\u00f3nico es el responsable de la formaci\u00f3n de los Andes y la disposici\u00f3n de los cinturones minerales paralelos."
+        },
+        {
+          "text": "La expansi\u00f3n del fondo oce\u00e1nico en el Atl\u00e1ntico.",
+          "isCorrect": false,
+          "rationale": "Este proceso ocurre al otro lado del continente y no afecta directamente la metalogenia andina peruana."
+        },
+        {
+          "text": "El enfriamiento global de la astenosfera.",
+          "isCorrect": false,
+          "rationale": "La metalogenia peruana es el resultado de una din\u00e1mica tect\u00f3nica local activa, no de un enfriamiento global pasivo."
+        },
+        {
+          "text": "La erosi\u00f3n e\u00f3lica masiva de la cordillera costera.",
+          "isCorrect": false,
+          "rationale": "La erosi\u00f3n es un proceso ex\u00f3geno que redistribuye minerales, pero no es el origen tect\u00f3nico de las franjas."
+        }
+      ],
+      "hint": "Se refiere al movimiento de una placa oce\u00e1nica debajo de una continental."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se forman los dep\u00f3sitos minerales de tipo Scarn?",
+      "answerOptions": [
+        {
+          "text": "Por el contacto de fluidos magm\u00e1ticos calientes con rocas calc\u00e1reas.",
+          "isCorrect": true,
+          "rationale": "La interacci\u00f3n qu\u00edmica entre el magma y las calizas genera una mineralizaci\u00f3n polimet\u00e1lica caracter\u00edstica."
+        },
+        {
+          "text": "Por la sedimentaci\u00f3n de arenas en las desembocaduras de los r\u00edos.",
+          "isCorrect": false,
+          "rationale": "Este proceso describe los dep\u00f3sitos de placer fluviales, no los sistemas Scarn."
+        },
+        {
+          "text": "A trav\u00e9s de la evaporaci\u00f3n de mares antiguos.",
+          "isCorrect": false,
+          "rationale": "Esto genera dep\u00f3sitos evapor\u00edticos, mientras que el Scarn es un proceso de alteraci\u00f3n hidrotermal/magm\u00e1tica."
+        },
+        {
+          "text": "Por la acumulaci\u00f3n de gases en la superficie volc\u00e1nica.",
+          "isCorrect": false,
+          "rationale": "Los Scarn se forman por interacci\u00f3n de fluidos en profundidad con rocas espec\u00edficas, no por gases superficiales."
+        }
+      ],
+      "hint": "Es una interacci\u00f3n entre calor magm\u00e1tico y un tipo de roca rica en calcio."
+    },
+    {
+      "question": "\u00bfQu\u00e9 estructura geol\u00f3gica del sur del Per\u00fa es la fuente de yacimientos como Antapaccay, Haquira y Las Bambas?",
+      "answerOptions": [
+        {
+          "text": "El batolito de Andahuaylas-Yauri.",
+          "isCorrect": true,
+          "rationale": "Este batolito es una estructura masiva fundamental para la riqueza minera de cobre y hierro en el sur del pa\u00eds."
+        },
+        {
+          "text": "La franja epitermal de Cajamarca.",
+          "isCorrect": false,
+          "rationale": "Cajamarca se encuentra al norte y se asocia m\u00e1s con sistemas de oro y plata como Yanacocha."
+        },
+        {
+          "text": "El cintur\u00f3n de hierro de Marcona.",
+          "isCorrect": false,
+          "rationale": "Marcona es un yacimiento espec\u00edfico, mientras que la pregunta busca la estructura geol\u00f3gica regional madre."
+        },
+        {
+          "text": "La cuenca sedimentaria del Amazonas.",
+          "isCorrect": false,
+          "rationale": "Esta cuenca no es la fuente de los yacimientos de p\u00f3rfidos y Scarn mencionados en la regi\u00f3n andina."
+        }
+      ],
+      "hint": "Lleva el nombre de dos provincias importantes de las regiones de Apur\u00edmac y Cusco."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo tecnol\u00f3gico amenaza la puesta en valor de las reservas de litio en Puno?",
+      "answerOptions": [
+        {
+          "text": "El desarrollo de bater\u00edas de estado s\u00f3lido o de sodio que desplacen al litio.",
+          "isCorrect": true,
+          "rationale": "La r\u00e1pida evoluci\u00f3n de tecnolog\u00edas alternativas podr\u00eda cerrar la 'ventana del litio' antes de que el pa\u00eds logre explotarlo."
+        },
+        {
+          "text": "La falta de agua para el proceso de flotaci\u00f3n de sulfuros.",
+          "isCorrect": false,
+          "rationale": "Este es un reto para la miner\u00eda de cobre, pero la amenaza espec\u00edfica al litio es la obsolescencia tecnol\u00f3gica."
+        },
+        {
+          "text": "La profundidad extrema de las c\u00e1maras magm\u00e1ticas de litio.",
+          "isCorrect": false,
+          "rationale": "El litio en Puno no depende de c\u00e1maras magm\u00e1ticas profundas inaccesibles, sino de una oportunidad de mercado temporal."
+        },
+        {
+          "text": "La competencia directa con la extracci\u00f3n de oro aluvial.",
+          "isCorrect": false,
+          "rationale": "Son industrias y contextos geogr\u00e1ficos distintos que no compiten tecnol\u00f3gicamente entre s\u00ed."
+        }
+      ],
+      "hint": "Se relaciona con el concepto de la 'ventana de oportunidad' en la industria de las bater\u00edas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 problema estructural ilustra el caso del proyecto Las Bambas, que tard\u00f3 m\u00e1s de 100 a\u00f1os en producir?",
+      "answerOptions": [
+        {
+          "text": "La excesiva tramitolog\u00eda y lentitud administrativa del Estado.",
+          "isCorrect": true,
+          "rationale": "Este ejemplo demuestra c\u00f3mo la burocracia puede paralizar proyectos de clase mundial durante d\u00e9cadas."
+        },
+        {
+          "text": "La falta de reservas minerales comprobadas en el yacimiento.",
+          "isCorrect": false,
+          "rationale": "Las Bambas siempre tuvo un potencial geol\u00f3gico enorme; el retraso fue de gesti\u00f3n y no por falta de mineral."
+        },
+        {
+          "text": "La imposibilidad t\u00e9cnica de perforar rocas tan duras.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda de perforaci\u00f3n exist\u00eda; el obst\u00e1culo fue la barrera burocr\u00e1tica y social."
+        },
+        {
+          "text": "La ausencia de demanda global de cobre durante el siglo XX.",
+          "isCorrect": false,
+          "rationale": "La demanda de cobre ha sido constante y creciente desde la revoluci\u00f3n industrial."
+        }
+      ],
+      "hint": "Piensa en las barreras de papel y permisos que enfrentan las empresas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el principal impacto ambiental cr\u00edtico mencionado en relaci\u00f3n con la miner\u00eda de oro aluvial en la Amazon\u00eda?",
+      "answerOptions": [
+        {
+          "text": "El uso indiscriminado de mercurio en los r\u00edos.",
+          "isCorrect": true,
+          "rationale": "El mercurio se utiliza para amalgamar el oro, causando da\u00f1os ecol\u00f3gicos severos y persistentes en el ecosistema amaz\u00f3nico."
+        },
+        {
+          "text": "La emisi\u00f3n de gases de efecto invernadero por camiones mineros.",
+          "isCorrect": false,
+          "rationale": "Aunque relevante, el problema m\u00e1s devastador y directo mencionado para los placeres aluviales es la contaminaci\u00f3n qu\u00edmica del agua."
+        },
+        {
+          "text": "La formaci\u00f3n de lluvia \u00e1cida por el procesamiento de calizas.",
+          "isCorrect": false,
+          "rationale": "El procesamiento de calizas no genera lluvia \u00e1cida; este fen\u00f3meno se asocia m\u00e1s a la fundici\u00f3n de sulfuros sin controles."
+        },
+        {
+          "text": "El agotamiento de las reservas de magnesio en el suelo.",
+          "isCorrect": false,
+          "rationale": "El magnesio se utiliza para corregir suelos (cal agr\u00edcola), no es un residuo contaminante de la miner\u00eda de oro."
+        }
+      ],
+      "hint": "Es un metal l\u00edquido altamente t\u00f3xico utilizado para separar el oro de la arena."
+    },
+    {
+      "question": "En el contexto de los dep\u00f3sitos minerales, \u00bfcu\u00e1l es la funci\u00f3n de la petrolog\u00eda y la mineralog\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Actuar como herramientas predictivas para mitigar riesgos financieros.",
+          "isCorrect": true,
+          "rationale": "El estudio cient\u00edfico de las rocas y minerales permite optimizar la exploraci\u00f3n y asegurar la sostenibilidad del proyecto."
+        },
+        {
+          "text": "Determinar exclusivamente el precio del metal en el mercado internacional.",
+          "isCorrect": false,
+          "rationale": "El precio lo determina el mercado global, no el estudio geol\u00f3gico de las muestras."
+        },
+        {
+          "text": "Acelerar los tr\u00e1mites burocr\u00e1ticos ante el Estado.",
+          "isCorrect": false,
+          "rationale": "La ciencia geol\u00f3gica no tiene influencia directa en la velocidad de la tramitolog\u00eda administrativa."
+        },
+        {
+          "text": "Sustituir la necesidad de realizar perforaciones diamantinas.",
+          "isCorrect": false,
+          "rationale": "La petrolog\u00eda complementa las perforaciones, pero no las reemplaza, ya que estas son necesarias para cubicar el recurso."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo el conocimiento cient\u00edfico ayuda a tomar decisiones estrat\u00e9gicas antes de invertir."
+    },
+    {
+      "question": "\u00bfQu\u00e9 rango de temperatura define el ambiente epiteral donde se depositan metales preciosos como el oro y la plata?",
+      "answerOptions": [
+        {
+          "text": "Hasta $50^{\\circ}C$.",
+          "isCorrect": true,
+          "rationale": "Estos yacimientos se forman a bajas temperaturas y poca profundidad en comparaci\u00f3n con otros sistemas magm\u00e1ticos."
+        },
+        {
+          "text": "Entre $700^{\\circ}C$ y $1500^{\\circ}C$.",
+          "isCorrect": false,
+          "rationale": "Este rango corresponde a los par\u00e1metros establecidos por Lindgren para los yacimientos magm\u00e1ticos profundos."
+        },
+        {
+          "text": "Entre $450^{\\circ}C$ y $200^{\\circ}C$.",
+          "isCorrect": false,
+          "rationale": "Este es el rango caracter\u00edstico de la fase hidrotermal para metales base como el cobre y el zinc."
+        },
+        {
+          "text": "$1000^{\\circ}C$ constantes.",
+          "isCorrect": false,
+          "rationale": "A esta temperatura el sistema est\u00e1 en una fase magm\u00e1tica fundida y no permite la precipitaci\u00f3n de metales preciosos en venas epitermales."
+        }
+      ],
+      "hint": "Es el ambiente t\u00e9rmico m\u00e1s fr\u00edo de la zonaci\u00f3n postmagm\u00e1tica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el valor de dureza del diamante en la escala de Mohs y c\u00f3mo influye en su supervivencia en dep\u00f3sitos de placer?",
+      "answerOptions": [
+        {
+          "text": "Dureza 10, lo que le da una estabilidad brutal contra la destrucci\u00f3n mec\u00e1nica.",
+          "isCorrect": true,
+          "rationale": "Al ser el mineral m\u00e1s duro, resiste el desgaste durante el transporte fluvial o e\u00f3lico sin desintegrarse."
+        },
+        {
+          "text": "Dureza $2.5$, lo que facilita su transporte por el viento.",
+          "isCorrect": false,
+          "rationale": "El valor $2.5$ corresponde al oro, que es blando; el diamante es extremadamente duro."
+        },
+        {
+          "text": "Dureza 20, permiti\u00e9ndole hundirse m\u00e1s r\u00e1pido que el oro.",
+          "isCorrect": false,
+          "rationale": "La escala de Mohs llega hasta 10, y el hundimiento depende de la densidad, no de la dureza."
+        },
+        {
+          "text": "Dureza 5, equilibrando su peso con la resistencia al agua.",
+          "isCorrect": false,
+          "rationale": "La dureza del diamante es la m\u00e1xima (10) y no influye directamente en su flotabilidad."
+        }
+      ],
+      "hint": "Recuerda que el diamante es el est\u00e1ndar m\u00e1ximo de resistencia al rayado."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Clasificaci\u00f3n hist\u00f3rica de yacimientos",
+      "Termodin\u00e1mica geol\u00f3gica (Lindgren)",
+      "Procesos magm\u00e1ticos y ortomagm\u00e1ticos",
+      "Zonaci\u00f3n t\u00e9rmica de minerales",
+      "Din\u00e1mica de yacimientos sedimentarios y placeres",
+      "Contexto metalog\u00e9nico del Per\u00fa",
+      "Gesti\u00f3n minera y factores de riesgo estructural"
+    ],
+    "followUp": [
+      "Modelos de subducci\u00f3n y metalogenia andina",
+      "Impacto ambiental del mercurio en miner\u00eda aluvial",
+      "Tecnolog\u00edas emergentes de bater\u00edas y mercado del litio",
+      "Sistemas hidrotermales de alta y baja sulfuraci\u00f3n",
+      "Geopol\u00edtica de los metales estrat\u00e9gicos (N\u00edquel y Platinoides)"
+    ]
+  }
+}

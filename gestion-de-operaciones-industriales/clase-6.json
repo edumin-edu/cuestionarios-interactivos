@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el enfoque principal de la producci\u00f3n limpia en la gesti\u00f3n industrial?",
+      "answerOptions": [
+        {
+          "text": "Minimizar los impactos ambientales a lo largo de todo el ciclo de vida del producto.",
+          "isCorrect": true,
+          "rationale": "Este enfoque integral considera desde el dise\u00f1o inicial hasta la disposici\u00f3n final, superando la visi\u00f3n tradicional de simplemente limpiar lo ensuciado."
+        },
+        {
+          "text": "Priorizar la limpieza de residuos una vez que el proceso de fabricaci\u00f3n ha terminado.",
+          "isCorrect": false,
+          "rationale": "Este es el enfoque correctivo tradicional que la producci\u00f3n limpia busca reemplazar por uno preventivo e integral."
+        },
+        {
+          "text": "Centrarse exclusivamente en la etapa de comercializaci\u00f3n y distribuci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La producci\u00f3n limpia es sist\u00e9mica y no se limita a una sola fase, sino que abarca todo el desarrollo del producto."
+        },
+        {
+          "text": "Implementar medidas ecol\u00f3gicas solo para cumplir con las multas normativas.",
+          "isCorrect": false,
+          "rationale": "Aunque el cumplimiento es necesario, la producci\u00f3n limpia se ve como una estrategia de eficiencia y rentabilidad, no solo como un gasto de cumplimiento."
+        }
+      ],
+      "hint": "Considere si el enfoque es fragmentado o abarca desde el boceto hasta el destino final."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 momento debe integrarse estrat\u00e9gicamente la gesti\u00f3n de residuos seg\u00fan los est\u00e1ndares modernos de sostenibilidad?",
+      "answerOptions": [
+        {
+          "text": "Desde el primer instante del dise\u00f1o del producto.",
+          "isCorrect": true,
+          "rationale": "La integraci\u00f3n temprana permite prevenir la generaci\u00f3n de residuos antes de que estos existan f\u00edsicamente."
+        },
+        {
+          "text": "Al finalizar la l\u00ednea de producci\u00f3n masiva.",
+          "isCorrect": false,
+          "rationale": "Esperar al final del proceso limita las opciones a la correcci\u00f3n y limpieza, lo cual es menos eficiente que la prevenci\u00f3n."
+        },
+        {
+          "text": "Durante la fase de auditor\u00eda externa anual.",
+          "isCorrect": false,
+          "rationale": "Las auditor\u00edas son herramientas de control, pero la gesti\u00f3n estrat\u00e9gica debe ser intr\u00ednseca al proceso de creaci\u00f3n."
+        },
+        {
+          "text": "Cuando el consumidor reporta una falla en el producto.",
+          "isCorrect": false,
+          "rationale": "Este es un enfoque reactivo que no aborda la sostenibilidad operativa ni la eficiencia de recursos en la manufactura."
+        }
+      ],
+      "hint": "Piense en la etapa donde se definen los materiales y procesos de un objeto."
+    },
+    {
+      "question": "\u00bfQu\u00e9 motores externos est\u00e1n transformando la transparencia y la \u00e9tica en las operaciones industriales actuales?",
+      "answerOptions": [
+        {
+          "text": "El consumidor responsable y la ciudadan\u00eda digital.",
+          "isCorrect": true,
+          "rationale": "La tecnolog\u00eda permite a los ciudadanos auditar y exigir transparencia \u00e9tica a las empresas en tiempo real."
+        },
+        {
+          "text": "La reducci\u00f3n de la poblaci\u00f3n mundial y el exceso de recursos.",
+          "isCorrect": false,
+          "rationale": "En realidad, el crecimiento demogr\u00e1fico y la explotaci\u00f3n de recursos son los factores que ponen en riesgo la permanencia y motivan el cambio."
+        },
+        {
+          "text": "Los tratados comerciales bilaterales de libre mercado.",
+          "isCorrect": false,
+          "rationale": "Aunque influyen, la presi\u00f3n social directa proviene de la vigilancia ciudadana y los nuevos h\u00e1bitos de consumo."
+        },
+        {
+          "text": "La eliminaci\u00f3n de las redes sociales en el entorno corporativo.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la ciudadan\u00eda digital utiliza las redes y la tecnolog\u00eda para amplificar la exigencia de responsabilidad corporativa."
+        }
+      ],
+      "hint": "Reflexione sobre qui\u00e9nes tienen el poder de auditar a las empresas mediante el uso de la tecnolog\u00eda."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se alinea la mentalidad preventiva de la filosof\u00eda Lean con el modelo del Triple Bottom Line del PMI?",
+      "answerOptions": [
+        {
+          "text": "Optimizando materiales para disparar la calidad y neutralizar riesgos ambientales.",
+          "isCorrect": true,
+          "rationale": "Esta sinergia demuestra que el ahorro de materiales no implica un producto inferior, sino una mayor eficiencia y menor impacto."
+        },
+        {
+          "text": "Priorizando el tiempo de entrega sobre el costo ambiental.",
+          "isCorrect": false,
+          "rationale": "El Triple Bottom Line busca un equilibrio entre tiempo, alcance y costo, integrando la sostenibilidad como un valor, no un sacrificio."
+        },
+        {
+          "text": "Reduciendo la calidad del producto final para ahorrar costos operativos.",
+          "isCorrect": false,
+          "rationale": "Esta es una idea equivocada; la optimizaci\u00f3n preventiva busca elevar la calidad mediante la eliminaci\u00f3n del desperdicio."
+        },
+        {
+          "text": "Eliminando la fase de dise\u00f1o para acelerar la producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El dise\u00f1o es la etapa m\u00e1s cr\u00edtica para la prevenci\u00f3n, por lo que eliminarla contradice los principios de producci\u00f3n limpia."
+        }
+      ],
+      "hint": "Piense en el beneficio mutuo entre la calidad del producto y la protecci\u00f3n del entorno."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio se obtiene mediante la recuperaci\u00f3n de calor friccional en una planta industrial?",
+      "answerOptions": [
+        {
+          "text": "La resignificaci\u00f3n de la producci\u00f3n de valor al usar el calor como insumo para otros sistemas.",
+          "isCorrect": true,
+          "rationale": "Transformar una p\u00e9rdida t\u00e9rmica en un recurso \u00fatil reduce dr\u00e1sticamente la demanda de energ\u00eda externa."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de la necesidad de motores en la industria.",
+          "isCorrect": false,
+          "rationale": "El calor es un subproducto del motor; el dise\u00f1o inteligente captura ese calor pero no reemplaza la funci\u00f3n mec\u00e1nica del motor."
+        },
+        {
+          "text": "El aumento de las emisiones de gases de efecto invernadero.",
+          "isCorrect": false,
+          "rationale": "Al contrario, al reducir la demanda de energ\u00eda externa, se suelen disminuir las emisiones asociadas a la generaci\u00f3n el\u00e9ctrica."
+        },
+        {
+          "text": "La refrigeraci\u00f3n inmediata del ambiente externo de la planta.",
+          "isCorrect": false,
+          "rationale": "El calor se captura para uso interno, no es un sistema dise\u00f1ado para climatizar el exterior."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede cuando un desperdicio de energ\u00eda se convierte en una entrada para otro proceso."
+    },
+    {
+      "question": "\u00bfQu\u00e9 resultados obtuvo Microsoft tras la aplicaci\u00f3n estricta de metodolog\u00edas de producci\u00f3n limpia?",
+      "answerOptions": [
+        {
+          "text": "Reducci\u00f3n del 30% en consumo energ\u00e9tico y 75% en generaci\u00f3n de residuos.",
+          "isCorrect": true,
+          "rationale": "Estos datos demuestran que la producci\u00f3n limpia tiene un impacto real y escalable en los estados financieros y operativos."
+        },
+        {
+          "text": "Aumento del 30% en costos operativos debido a normativas ecol\u00f3gicas.",
+          "isCorrect": false,
+          "rationale": "La producci\u00f3n limpia busca reducir costos mediante la eficiencia, no incrementarlos."
+        },
+        {
+          "text": "Eliminaci\u00f3n completa del uso de agua en todos sus centros de datos.",
+          "isCorrect": false,
+          "rationale": "Aunque se mejora la gesti\u00f3n h\u00eddrica, alcanzar un consumo cero absoluto en todas las operaciones es tecnol\u00f3gicamente complejo."
+        },
+        {
+          "text": "Reducci\u00f3n del 10% en su capacidad de procesamiento tecnol\u00f3gico.",
+          "isCorrect": false,
+          "rationale": "La eficiencia ambiental no compromete la capacidad operativa; a menudo la potencia mediante mejores infraestructuras."
+        }
+      ],
+      "hint": "Recuerde las cifras de reducci\u00f3n de energ\u00eda y desechos mencionadas como caso de \u00e9xito corporativo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre reutilizaci\u00f3n y reciclaje?",
+      "answerOptions": [
+        {
+          "text": "La reutilizaci\u00f3n mantiene la estructura original; el reciclaje implica una transformaci\u00f3n f\u00edsicoqu\u00edmica profunda.",
+          "isCorrect": true,
+          "rationale": "Esta distinci\u00f3n es clave para dise\u00f1ar sistemas de recuperaci\u00f3n efectivos y clasificar las operaciones de valorizaci\u00f3n."
+        },
+        {
+          "text": "El reciclaje es m\u00e1s barato porque no requiere procesos industriales.",
+          "isCorrect": false,
+          "rationale": "El reciclaje suele ser m\u00e1s costoso energ\u00e9ticamente que la reutilizaci\u00f3n debido a la necesidad de transformar la materia."
+        },
+        {
+          "text": "La reutilizaci\u00f3n solo se aplica a pl\u00e1sticos, mientras que el reciclaje es para metales.",
+          "isCorrect": false,
+          "rationale": "Ambos conceptos pueden aplicarse a diversos materiales; la diferencia radica en el m\u00e9todo de procesamiento, no en el material."
+        },
+        {
+          "text": "No existe diferencia operativa; ambos t\u00e9rminos son sin\u00f3nimos en la econom\u00eda circular.",
+          "isCorrect": false,
+          "rationale": "Operativamente son universos distintos que requieren diferentes infraestructuras y niveles de energ\u00eda."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 proceso altera la naturaleza \u00edntima del material y cu\u00e1l no."
+    },
+    {
+      "question": "\u00bfQu\u00e9 producto de alto valor comercial se puede obtener del reciclaje de residuos de Tetrapak mediante prensado t\u00e9rmico?",
+      "answerOptions": [
+        {
+          "text": "Paneles industriales de alta resistencia t\u00e9cnica.",
+          "isCorrect": true,
+          "rationale": "Al someter las capas de aluminio, cart\u00f3n y pol\u00edmeros a presi\u00f3n y temperatura, se crea un material de construcci\u00f3n robusto."
+        },
+        {
+          "text": "Combustible l\u00edquido para motores de aviaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque los pl\u00e1sticos pueden dar aceites mediante pir\u00f3lisis, el proceso de prensado mencionado genera materiales s\u00f3lidos de construcci\u00f3n."
+        },
+        {
+          "text": "Papel de oficina de baja calidad.",
+          "isCorrect": false,
+          "rationale": "El reciclaje complejo de Tetrapak busca aprovechar todos sus componentes, no solo la fibra de papel, para crear paneles resistentes."
+        },
+        {
+          "text": "Fertilizantes org\u00e1nicos para agricultura intensiva.",
+          "isCorrect": false,
+          "rationale": "El Tetrapak contiene materiales inorg\u00e1nicos como aluminio y pol\u00edmeros, los cuales no son aptos para la producci\u00f3n de fertilizantes org\u00e1nicos."
+        }
+      ],
+      "hint": "Considere la aplicaci\u00f3n en el sector de la construcci\u00f3n mencionada para estos envases multicapa."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la estrategia de remanufactura dentro de la matriz de valorizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Utilizar componentes rescatados de aparatos fuera de uso para armar productos nuevos y funcionales.",
+          "isCorrect": true,
+          "rationale": "La remanufactura extiende el valor de componentes individuales que a\u00fan son \u00fatiles, integr\u00e1ndolos en nuevos ciclos de vida."
+        },
+        {
+          "text": "Fundir metales viejos para crear lingotes de materia prima virgen.",
+          "isCorrect": false,
+          "rationale": "Ese proceso corresponde al reciclaje, ya que implica una transformaci\u00f3n f\u00edsica total del material original."
+        },
+        {
+          "text": "Vender los residuos sin procesar a empresas de recolecci\u00f3n municipales.",
+          "isCorrect": false,
+          "rationale": "La venta de residuos es disposici\u00f3n o gesti\u00f3n simple, no una estrategia de ingenier\u00eda como la remanufactura."
+        },
+        {
+          "text": "Reparar un objeto da\u00f1ado para que el mismo due\u00f1o lo siga usando.",
+          "isCorrect": false,
+          "rationale": "Esto se conoce com\u00fanmente como reparaci\u00f3n; la remanufactura implica un proceso industrial para crear un producto 'nuevo' a partir de partes usadas."
+        }
+      ],
+      "hint": "Piense en el ensamblaje de nuevos equipos usando piezas recuperadas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue el objetivo principal del Convenio de Basilea de 1989?",
+      "answerOptions": [
+        {
+          "text": "Regular el movimiento transfronterizo de residuos peligrosos.",
+          "isCorrect": true,
+          "rationale": "Este hito internacional busc\u00f3 evitar que los pa\u00edses desarrollados utilizaran a otros como vertederos descontrolados."
+        },
+        {
+          "text": "Establecer la obligatoriedad del uso de energ\u00edas renovables en Europa.",
+          "isCorrect": false,
+          "rationale": "Basilea se enfoca espec\u00edficamente en la gesti\u00f3n y transporte de desechos, no en la matriz energ\u00e9tica directamente."
+        },
+        {
+          "text": "Prohibir la fabricaci\u00f3n de pl\u00e1sticos de un solo uso a nivel global.",
+          "isCorrect": false,
+          "rationale": "Aunque es un tema ambiental relevante, el convenio de 1989 se centr\u00f3 en el control de la peligrosidad y su transporte entre fronteras."
+        },
+        {
+          "text": "Promover la miner\u00eda ilegal en zonas de alta biodiversidad.",
+          "isCorrect": false,
+          "rationale": "Todo lo contrario; el convenio busca un control estricto de materiales peligrosos para proteger el medio ambiente."
+        }
+      ],
+      "hint": "Reflexione sobre el control del traslado de desechos t\u00f3xicos entre pa\u00edses."
+    },
+    {
+      "question": "En el contexto peruano, \u00bfqu\u00e9 ley constituye el pilar de la gesti\u00f3n ambiental industrial?",
+      "answerOptions": [
+        {
+          "text": "La Ley General de Gesti\u00f3n Ambiental (Ley 27,314).",
+          "isCorrect": true,
+          "rationale": "Esta ley es el marco fundamental que, junto con normativas t\u00e9cnicas, regula el manejo de residuos en el Per\u00fa."
+        },
+        {
+          "text": "El Convenio de Kioto sobre el cambio clim\u00e1tico.",
+          "isCorrect": false,
+          "rationale": "Kioto es un tratado internacional sobre emisiones de gases, pero la base legal operativa espec\u00edfica en Per\u00fa es la Ley 27,314."
+        },
+        {
+          "text": "La Ley de Transparencia y Acceso a la Informaci\u00f3n P\u00fablica.",
+          "isCorrect": false,
+          "rationale": "Aunque es importante para la ciudadan\u00eda digital, no es la norma t\u00e9cnica que rige la gesti\u00f3n de residuos industriales."
+        },
+        {
+          "text": "La Directiva Europea de 2008 sobre contaminantes.",
+          "isCorrect": false,
+          "rationale": "Per\u00fa adopt\u00f3 est\u00e1ndares internacionales similares, pero la ley nacional vigente es la 27,314."
+        }
+      ],
+      "hint": "Identifique el n\u00famero de ley que establece los par\u00e1metros para el manejo de residuos en el pa\u00eds."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple el intercambio i\u00f3nico en el proceso de incineraci\u00f3n controlada?",
+      "answerOptions": [
+        {
+          "text": "Filtrar los gases resultantes para prevenir la lluvia \u00e1cida.",
+          "isCorrect": true,
+          "rationale": "El filtrado exhaustivo de vapores evita la liberaci\u00f3n de \u00f3xidos de nitr\u00f3geno ($NO_{x}$) y azufre ($SO_{x}$) a la atm\u00f3sfera."
+        },
+        {
+          "text": "Inyectar ox\u00edgeno adicional para aumentar la temperatura de la llama.",
+          "isCorrect": false,
+          "rationale": "La inyecci\u00f3n de ox\u00edgeno es parte de la combusti\u00f3n, pero el intercambio i\u00f3nico es un paso de limpieza de emisiones posterior."
+        },
+        {
+          "text": "Transformar los residuos s\u00f3lidos en abono org\u00e1nico.",
+          "isCorrect": false,
+          "rationale": "La incineraci\u00f3n destruye la materia org\u00e1nica t\u00e9rmicamente; la producci\u00f3n de abono es propia de procesos biol\u00f3gicos como el compostaje."
+        },
+        {
+          "text": "Extraer electricidad directamente de las cenizas fr\u00edas.",
+          "isCorrect": false,
+          "rationale": "La energ\u00eda se suele recuperar del calor de los gases de combusti\u00f3n, no mediante intercambio i\u00f3nico en las cenizas."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo se protegen las nubes y el aire de los qu\u00edmicos t\u00f3xicos liberados por el fuego."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la condici\u00f3n cr\u00edtica necesaria para que ocurra el proceso de pir\u00f3lisis?",
+      "answerOptions": [
+        {
+          "text": "La completa ausencia de ox\u00edgeno.",
+          "isCorrect": true,
+          "rationale": "Al no haber ox\u00edgeno, el material no se quema, sino que se descompone qu\u00edmicamente en subproductos como aceite y gas."
+        },
+        {
+          "text": "La presencia de bacterias anaer\u00f3bicas activas.",
+          "isCorrect": false,
+          "rationale": "El uso de bacterias es caracter\u00edstico de la digesti\u00f3n anaer\u00f3bica, no de un proceso t\u00e9rmico como la pir\u00f3lisis."
+        },
+        {
+          "text": "La inmersi\u00f3n total del material en agua destilada.",
+          "isCorrect": false,
+          "rationale": "La pir\u00f3lisis es un proceso seco que utiliza calor, no un tratamiento basado en soluciones acuosas."
+        },
+        {
+          "text": "El mantenimiento de temperaturas bajo el punto de congelaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La pir\u00f3lisis requiere temperaturas muy altas para lograr la descomposici\u00f3n qu\u00edmica del material."
+        }
+      ],
+      "hint": "Recuerde qu\u00e9 elemento indispensable para el fuego com\u00fan debe ser eliminado en este proceso."
+    },
+    {
+      "question": "\u00bfQu\u00e9 dos recursos invaluables se obtienen de la digesti\u00f3n anaer\u00f3bica de materia org\u00e1nica?",
+      "answerOptions": [
+        {
+          "text": "Biog\u00e1s y fertilizantes org\u00e1nicos.",
+          "isCorrect": true,
+          "rationale": "Las bacterias metabolizan la materia en ausencia de ox\u00edgeno, generando energ\u00eda renovable y nutrientes para el suelo."
+        },
+        {
+          "text": "Aceite sint\u00e9tico y carb\u00f3n mineral.",
+          "isCorrect": false,
+          "rationale": "Estos son subproductos t\u00edpicos de la pir\u00f3lisis de materiales complejos, no de la descomposici\u00f3n biol\u00f3gica org\u00e1nica."
+        },
+        {
+          "text": "Ox\u00edgeno puro y agua potable.",
+          "isCorrect": false,
+          "rationale": "La digesti\u00f3n anaer\u00f3bica produce gases combustibles como el metano ($CH_{4}$), no libera ox\u00edgeno al ambiente."
+        },
+        {
+          "text": "Energ\u00eda nuclear y metales pesados.",
+          "isCorrect": false,
+          "rationale": "Este proceso es biol\u00f3gico y natural, por lo que no genera reacciones nucleares ni crea metales."
+        }
+      ],
+      "hint": "Considere los productos derivados del metabolismo bacteriano sin aire."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se aplica la biorremediaci\u00f3n en el manejo de derrames de hidrocarburos?",
+      "answerOptions": [
+        {
+          "text": "Utilizando microorganismos espec\u00edficos que se alimentan de aceites para limpiar el suelo.",
+          "isCorrect": true,
+          "rationale": "Esta t\u00e9cnica de ingenier\u00eda biol\u00f3gica degrada la contaminaci\u00f3n de forma segura sin remover masivamente la tierra."
+        },
+        {
+          "text": "Quemando la superficie contaminada para evaporar el petr\u00f3leo.",
+          "isCorrect": false,
+          "rationale": "La quema es una t\u00e9cnica de eliminaci\u00f3n t\u00e9rmica que puede causar gran da\u00f1o atmosf\u00e9rico; la biorremediaci\u00f3n es una soluci\u00f3n biol\u00f3gica limpia."
+        },
+        {
+          "text": "Cubriendo la zona con capas de cemento para encapsular el crudo.",
+          "isCorrect": false,
+          "rationale": "El encapsulamiento no elimina la contaminaci\u00f3n, solo la oculta, a diferencia de los microorganismos que la degradan."
+        },
+        {
+          "text": "Inyectando qu\u00edmicos corrosivos para disolver las manchas de aceite.",
+          "isCorrect": false,
+          "rationale": "El uso de qu\u00edmicos corrosivos podr\u00eda empeorar el da\u00f1o ecol\u00f3gico; la biorremediaci\u00f3n utiliza la funci\u00f3n natural de seres vivos."
+        }
+      ],
+      "hint": "Piense en el uso de 'batallones celulares' para purificar el ambiente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito fundamental de las geomallas y barreras impermeables en un relleno de seguridad?",
+      "answerOptions": [
+        {
+          "text": "Proteger de manera absoluta las napas fre\u00e1ticas y aguas subterr\u00e1neas.",
+          "isCorrect": true,
+          "rationale": "Estas barreras act\u00faan como una b\u00f3veda ambiental que impide la filtraci\u00f3n de lixiviados t\u00f3xicos hacia el subsuelo."
+        },
+        {
+          "text": "Acelerar la descomposici\u00f3n de los pl\u00e1sticos mediante calor solar.",
+          "isCorrect": false,
+          "rationale": "Los rellenos de seguridad est\u00e1n dise\u00f1ados para el confinamiento estable, no para acelerar la degradaci\u00f3n de materiales complejos."
+        },
+        {
+          "text": "Facilitar la recolecci\u00f3n manual de residuos por parte de recicladores.",
+          "isCorrect": false,
+          "rationale": "Por razones de seguridad, estos dep\u00f3sitos est\u00e1n sellados y no permiten el ingreso de personal para recolecci\u00f3n manual."
+        },
+        {
+          "text": "Permitir que los gases t\u00f3xicos se escapen libremente a la atm\u00f3sfera.",
+          "isCorrect": false,
+          "rationale": "El dise\u00f1o busca contener tanto l\u00edquidos como gases, evitando cualquier fuga contaminante al entorno."
+        }
+      ],
+      "hint": "Considere qu\u00e9 recurso vital ubicado bajo la tierra se intenta proteger de la toxicidad."
+    },
+    {
+      "question": "\u00bfQu\u00e9 gases de efecto invernadero y causantes de lluvia \u00e1cida se reducen dr\u00e1sticamente con una gesti\u00f3n de emisiones impecable?",
+      "answerOptions": [
+        {
+          "text": "Di\u00f3xido de carbono ($CO_{2}$), \u00f3xidos de nitr\u00f3geno ($NO_{x}$) y \u00f3xidos de azufre ($SO_{x}$).",
+          "isCorrect": true,
+          "rationale": "La reducci\u00f3n de estos gases es vital para la salud atmosf\u00e9rica y es uno de los cuatro pilares de beneficios de la producci\u00f3n limpia."
+        },
+        {
+          "text": "Ox\u00edgeno ($O_{2}$) e Hidr\u00f3geno ($H_{2}$).",
+          "isCorrect": false,
+          "rationale": "El ox\u00edgeno y el hidr\u00f3geno no son considerados contaminantes industriales nocivos en este contexto."
+        },
+        {
+          "text": "Arg\u00f3n ($Ar$) y Helio ($He$).",
+          "isCorrect": false,
+          "rationale": "Estos son gases nobles inertes que no est\u00e1n relacionados con el problema de la lluvia \u00e1cida o el efecto invernadero industrial."
+        },
+        {
+          "text": "Vapor de agua purificado.",
+          "isCorrect": false,
+          "rationale": "El vapor de agua es un producto natural; el objetivo de la gesti\u00f3n es eliminar los compuestos qu\u00edmicos t\u00f3xicos que lo acompa\u00f1an."
+        }
+      ],
+      "hint": "Identifique los compuestos de nitr\u00f3geno y azufre mencionados como nocivos para el aire."
+    },
+    {
+      "question": "\u00bfQu\u00e9 concepto sociol\u00f3gico explica la dificultad de implementar la sostenibilidad en zonas como Madre de Dios debido a la miner\u00eda ilegal?",
+      "answerOptions": [
+        {
+          "text": "El Estado desbordado.",
+          "isCorrect": true,
+          "rationale": "La ausencia de control estatal efectivo hace que la aplicaci\u00f3n de leyes ambientales y tecnol\u00f3gicas sea imposible frente a la ilegalidad."
+        },
+        {
+          "text": "La meritocracia tecnol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "La meritocracia tecnol\u00f3gica es una meta para el futuro de la ingenier\u00eda, no la causa de la devastaci\u00f3n actual por miner\u00eda ilegal."
+        },
+        {
+          "text": "La econom\u00eda de escala.",
+          "isCorrect": false,
+          "rationale": "Este concepto econ\u00f3mico se refiere a la reducci\u00f3n de costos por volumen, no a la problem\u00e1tica social de la ausencia del estado."
+        },
+        {
+          "text": "La obsolescencia programada.",
+          "isCorrect": false,
+          "rationale": "Este t\u00e9rmino se refiere al dise\u00f1o de productos con vida \u00fatil limitada, no al conflicto de gobernanza en zonas mineras."
+        }
+      ],
+      "hint": "Piense en el t\u00e9rmino usado por Julio Cotler para describir \u00e1reas donde la autoridad no llega."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una de las cuatro responsabilidades cr\u00edticas de cumplimiento legal para las empresas generadoras de residuos?",
+      "answerOptions": [
+        {
+          "text": "Garantizar el transporte seguro \u00fanicamente mediante operadores autorizados.",
+          "isCorrect": true,
+          "rationale": "La ley proh\u00edbe entregar residuos peligrosos a transportistas informales para asegurar su trazabilidad y manejo correcto."
+        },
+        {
+          "text": "Ocultar los vol\u00famenes de residuos para evitar inspecciones estatales.",
+          "isCorrect": false,
+          "rationale": "La normativa exige transparencia total y declaraci\u00f3n obligatoria de los tipos y vol\u00famenes generados."
+        },
+        {
+          "text": "Eliminar todos los informes de desempe\u00f1o ambiental cada a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Las empresas deben rendir cuentas mediante informes peri\u00f3dicos para permitir la fiscalizaci\u00f3n adecuada."
+        },
+        {
+          "text": "Delegar la responsabilidad final de los residuos al consumidor final.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad de la disposici\u00f3n final recae en el generador industrial seg\u00fan su peligrosidad, no en el usuario final."
+        }
+      ],
+      "hint": "Reflexione sobre el proceso de traslado de los materiales peligrosos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00edas se perfilan como herramientas clave para la futura trazabilidad y clasificaci\u00f3n de residuos industriales?",
+      "answerOptions": [
+        {
+          "text": "Inteligencia Artificial, Blockchain y Nanotecnolog\u00eda.",
+          "isCorrect": true,
+          "rationale": "Estas tecnolog\u00edas permiten automatizar la clasificaci\u00f3n, asegurar la transparencia de datos y realizar tratamientos de alta precisi\u00f3n."
+        },
+        {
+          "text": "Maquinaria de vapor y transmisiones mec\u00e1nicas simples.",
+          "isCorrect": false,
+          "rationale": "Estas son tecnolog\u00edas de la primera revoluci\u00f3n industrial, insuficientes para los desaf\u00edos de sostenibilidad actuales."
+        },
+        {
+          "text": "Sistemas de archivo en papel y registros manuales.",
+          "isCorrect": false,
+          "rationale": "El rigor legal actual exige una precisi\u00f3n y velocidad que supera los m\u00e9todos manuales, requiriendo automatizaci\u00f3n."
+        },
+        {
+          "text": "Herramientas de construcci\u00f3n civil tradicional exclusivamente.",
+          "isCorrect": false,
+          "rationale": "Aunque se usan en rellenos de seguridad, el futuro de la gesti\u00f3n se basa en la digitalizaci\u00f3n y la ciencia de materiales avanzada."
+        }
+      ],
+      "hint": "Piense en las innovaciones digitales y microsc\u00f3picas mencionadas al final de la sesi\u00f3n."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Producci\u00f3n Limpia",
+      "Econom\u00eda Circular",
+      "Marcos Regulatorios Ambientales",
+      "Tecnolog\u00edas de Tratamiento de Residuos",
+      "Sostenibilidad Corporativa"
+    ],
+    "followUp": [
+      "Ingenier\u00eda de Materiales Avanzada",
+      "Biorremediaci\u00f3n de Ecosistemas Contaminados",
+      "Gobernanza Ambiental y el Estado Desbordado",
+      "Gesti\u00f3n de Residuos Peligrosos bajo NTP 057"
+    ]
+  }
+}

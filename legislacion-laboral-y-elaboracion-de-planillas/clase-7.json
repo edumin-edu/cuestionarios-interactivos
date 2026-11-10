@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el plazo legal obligatorio para registrar el alta de un trabajador en el T-Registro?",
+      "answerOptions": [
+        {
+          "text": "Dentro de las $24$ horas previas o al inicio exacto de sus labores.",
+          "isCorrect": true,
+          "rationale": "La normativa exige este plazo estricto para garantizar la formalizaci\u00f3n inmediata del trabajador antes de que inicie sus actividades."
+        },
+        {
+          "text": "Hasta $48$ horas despu\u00e9s de haber iniciado el v\u00ednculo laboral.",
+          "isCorrect": false,
+          "rationale": "Este plazo es incorrecto ya que el registro debe ser preventivo o simult\u00e1neo al inicio, no posterior."
+        },
+        {
+          "text": "Dentro de los primeros $5$ d\u00edas h\u00e1biles del mes de contrataci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este periodo suele confundirse con el plazo para modificar datos, pero no aplica para el alta inicial."
+        },
+        {
+          "text": "Al finalizar la primera semana de labores del trabajador.",
+          "isCorrect": false,
+          "rationale": "Esperar una semana dejar\u00eda a la empresa expuesta a multas severas por falta de registro oportuno."
+        }
+      ],
+      "hint": "Considere que el registro debe realizarse antes o en el momento en que el empleado comienza a trabajar."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta permite a los trabajadores verificar en tiempo real si su alta laboral ha sido procesada correctamente?",
+      "answerOptions": [
+        {
+          "text": "Portal Verifica tu chamba.",
+          "isCorrect": true,
+          "rationale": "Esta plataforma democratiza la fiscalizaci\u00f3n al permitir que el propio trabajador audite su estatus de formalidad."
+        },
+        {
+          "text": "Sistema de Liquidaci\u00f3n Plame.",
+          "isCorrect": false,
+          "rationale": "La Plame es una herramienta de declaraci\u00f3n mensual para el empleador, no de consulta para el trabajador."
+        },
+        {
+          "text": "Consulta RUC de SUNAT.",
+          "isCorrect": false,
+          "rationale": "Esta consulta se utiliza para verificar la situaci\u00f3n tributaria de una empresa o persona, no el alta laboral individual."
+        },
+        {
+          "text": "Buz\u00f3n electr\u00f3nico de Sunafil.",
+          "isCorrect": false,
+          "rationale": "Es un canal de comunicaci\u00f3n para notificaciones legales, no una plataforma de verificaci\u00f3n de datos laborales personales."
+        }
+      ],
+      "hint": "Se trata de una plataforma digital dise\u00f1ada espec\u00edficamente para empoderar al empleado en la fiscalizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el plazo m\u00e1ximo para registrar la baja de un trabajador en el sistema una vez terminada la relaci\u00f3n laboral?",
+      "answerOptions": [
+        {
+          "text": "Al d\u00eda siguiente del cese de labores.",
+          "isCorrect": true,
+          "rationale": "La baja debe ser inmediata para reflejar la realidad del v\u00ednculo laboral en el ecosistema digital."
+        },
+        {
+          "text": "A los $5$ d\u00edas h\u00e1biles de ocurrido el t\u00e9rmino del contrato.",
+          "isCorrect": false,
+          "rationale": "Este plazo aplica para modificaciones de datos existentes, no para el cese definitivo."
+        },
+        {
+          "text": "Al finalizar el mes calendario en el que ocurri\u00f3 el cese.",
+          "isCorrect": false,
+          "rationale": "Retrasar el registro de la baja hasta fin de mes puede generar inconsistencias en la liquidaci\u00f3n de aportes."
+        },
+        {
+          "text": "En un plazo de $48$ horas previas a la entrega de la liquidaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque la liquidaci\u00f3n tiene sus propios plazos, la baja en el sistema debe ser al d\u00eda siguiente del cese."
+        }
+      ],
+      "hint": "La actualizaci\u00f3n del estado de un trabajador tras su retiro debe ser casi inmediata."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de los siguientes datos es imperativo registrar para garantizar la trazabilidad financiera de los pagos salariales?",
+      "answerOptions": [
+        {
+          "text": "Cuentas bancarias.",
+          "isCorrect": true,
+          "rationale": "El registro de cuentas bancarias es fundamental para evidenciar legalmente el cumplimiento de los pagos a trav\u00e9s del sistema financiero."
+        },
+        {
+          "text": "Referencia de domicilio anterior.",
+          "isCorrect": false,
+          "rationale": "Aunque el domicilio actual es necesario, las referencias anteriores no son cr\u00edticas para la trazabilidad financiera."
+        },
+        {
+          "text": "Certificado de estudios secundarios.",
+          "isCorrect": false,
+          "rationale": "Este dato es parte del legajo personal pero no influye en la trazabilidad de los flujos de dinero."
+        },
+        {
+          "text": "Afiliaci\u00f3n a clubes o sindicatos.",
+          "isCorrect": false,
+          "rationale": "Esta informaci\u00f3n es opcional o de \u00edndole privada y no constituye un pilar de la trazabilidad financiera obligatoria."
+        }
+      ],
+      "hint": "Piense en el dato que conecta directamente la planilla con la transferencia de fondos."
+    },
+    {
+      "question": "En el a\u00f1o $2024$, \u00bfcu\u00e1l es el l\u00edmite aproximado de ingresos anuales para que un locador independiente pueda solicitar la suspensi\u00f3n de retenciones de cuarta categor\u00eda?",
+      "answerOptions": [
+        {
+          "text": "$45,000$ soles.",
+          "isCorrect": true,
+          "rationale": "Este es el umbral legal proyectado por debajo del cual no se aplican retenciones si el trabajador lo solicita."
+        },
+        {
+          "text": "$30,000$ soles.",
+          "isCorrect": false,
+          "rationale": "Este monto es inferior al l\u00edmite legal establecido para la suspensi\u00f3n de retenciones en el ejercicio actual."
+        },
+        {
+          "text": "$60,000$ soles.",
+          "isCorrect": false,
+          "rationale": "Superar este monto obligar\u00eda necesariamente a realizar retenciones de impuestos de cuarta categor\u00eda."
+        },
+        {
+          "text": "$15,000$ soles.",
+          "isCorrect": false,
+          "rationale": "Este monto es demasiado bajo y no corresponde a los l\u00edmites legales de suspensi\u00f3n de retenciones anuales."
+        }
+      ],
+      "hint": "Es una cifra que ronda los cuarenta y cinco mil soles anuales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 concepto legal establece que los hechos pr\u00e1cticos prevalecen sobre los documentos o contratos firmados?",
+      "answerOptions": [
+        {
+          "text": "Principio de primac\u00eda de la realidad.",
+          "isCorrect": true,
+          "rationale": "Este principio evita que se desnaturalicen relaciones laborales mediante contratos civiles cuando existe subordinaci\u00f3n real."
+        },
+        {
+          "text": "Principio de presunci\u00f3n de inocencia administrativa.",
+          "isCorrect": false,
+          "rationale": "Este es un concepto penal o procesal que no se enfoca en la validez de los hechos sobre los papeles laborales."
+        },
+        {
+          "text": "Principio de autonom\u00eda de la voluntad.",
+          "isCorrect": false,
+          "rationale": "En derecho laboral, este principio est\u00e1 limitado por normas imperativas que protegen al trabajador independientemente de su voluntad firmada."
+        },
+        {
+          "text": "Principio de legalidad documental.",
+          "isCorrect": false,
+          "rationale": "Este principio dar\u00eda prioridad al papel, que es justamente lo contrario a lo que busca la justicia laboral en casos de fraude."
+        }
+      ],
+      "hint": "Se refiere a que lo que sucede en el d\u00eda a d\u00eda es lo que realmente define el v\u00ednculo legal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 condici\u00f3n es indispensable para que una empresa pueda contratar bajo los beneficios reducidos del r\u00e9gimen REMIPE?",
+      "answerOptions": [
+        {
+          "text": "Inscribirse en el REMIPE estrictamente antes de realizar cualquier contrataci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Si la inscripci\u00f3n es posterior a la contrataci\u00f3n, el trabajador mantiene autom\u00e1ticamente los derechos del r\u00e9gimen general."
+        },
+        {
+          "text": "Tener menos de $100$ trabajadores al momento de la firma del contrato.",
+          "isCorrect": false,
+          "rationale": "Aunque el n\u00famero de trabajadores define la categor\u00eda de la empresa, la inscripci\u00f3n previa es el requisito de validez legal."
+        },
+        {
+          "text": "Obtener una facturaci\u00f3n anual superior a las $1700$ UIT.",
+          "isCorrect": false,
+          "rationale": "Superar ese monto de facturaci\u00f3n excluir\u00eda a la empresa del r\u00e9gimen de micro o peque\u00f1a empresa."
+        },
+        {
+          "text": "Contar con la aprobaci\u00f3n escrita de la SUNAT para cada contrato.",
+          "isCorrect": false,
+          "rationale": "La SUNAT no aprueba contratos individuales; el cumplimiento se basa en la inscripci\u00f3n en el registro correspondiente."
+        }
+      ],
+      "hint": "El orden cronol\u00f3gico entre el registro de la empresa y la firma del contrato es determinante."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la sobretasa obligatoria aplicada a las dos primeras horas de trabajo en sobretempo?",
+      "answerOptions": [
+        {
+          "text": "$25\\%$",
+          "isCorrect": true,
+          "rationale": "La ley establece este porcentaje inicial para compensar el esfuerzo adicional durante las primeras dos horas extras."
+        },
+        {
+          "text": "$35\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es el que se aplica a partir de la tercera hora extra en adelante, no a las dos primeras."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es una tasa com\u00fan en otros pa\u00edses, en la legislaci\u00f3n local la tasa base para las primeras horas es menor."
+        },
+        {
+          "text": "$100\\%$",
+          "isCorrect": false,
+          "rationale": "Esta sobretasa del $100\\%$ se reserva para trabajos en feriados o d\u00edas de descanso, no para horas extras ordinarias."
+        }
+      ],
+      "hint": "Es la tasa m\u00e1s baja de las dos que existen para el c\u00e1lculo de horas extras."
+    },
+    {
+      "question": "\u00bfQu\u00e9 monto corresponde al pago de la asignaci\u00f3n familiar para los trabajadores con hijos a cargo?",
+      "answerOptions": [
+        {
+          "text": "$10\\%$ de la remuneraci\u00f3n m\u00ednima vital vigente.",
+          "isCorrect": true,
+          "rationale": "Este beneficio es un monto fijo porcentual basado en el sueldo m\u00ednimo, independientemente del sueldo base del trabajador."
+        },
+        {
+          "text": "$10\\%$ del sueldo bruto del trabajador.",
+          "isCorrect": false,
+          "rationale": "La asignaci\u00f3n no var\u00eda seg\u00fan el sueldo del empleado; se calcula sobre la base del m\u00ednimo legal nacional."
+        },
+        {
+          "text": "Un monto fijo de $100$ soles mensuales por cada hijo.",
+          "isCorrect": false,
+          "rationale": "El monto no se multiplica por la cantidad de hijos, ni es un n\u00famero entero fijo, sino un porcentaje del m\u00ednimo vital."
+        },
+        {
+          "text": "$5\\%$ del ingreso neto despu\u00e9s de impuestos.",
+          "isCorrect": false,
+          "rationale": "La asignaci\u00f3n familiar es un concepto remunerativo previo a los impuestos y no se basa en el ingreso neto."
+        }
+      ],
+      "hint": "Se calcula tomando como referencia el sueldo b\u00e1sico establecido por el gobierno para todo el pa\u00eds."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el requisito de sueldo para poder pactar una Remuneraci\u00f3n Integral Anual (RIA)?",
+      "answerOptions": [
+        {
+          "text": "Que la remuneraci\u00f3n supere las $2$ Unidades Impositivas Tributarias (UIT).",
+          "isCorrect": true,
+          "rationale": "Solo los sueldos altos tienen permitido consolidar beneficios como CTS y gratificaciones en pagos mensuales prorrateados."
+        },
+        {
+          "text": "Que el trabajador gane m\u00e1s de $5$ remuneraciones m\u00ednimas vitales.",
+          "isCorrect": false,
+          "rationale": "El par\u00e1metro legal para la RIA no son los sueldos m\u00ednimos, sino el valor de la UIT."
+        },
+        {
+          "text": "Cualquier sueldo puede pactar RIA si hay acuerdo entre las partes.",
+          "isCorrect": false,
+          "rationale": "La RIA es una excepci\u00f3n restringida por ley a salarios elevados para evitar la p\u00e9rdida de liquidez en sueldos bajos."
+        },
+        {
+          "text": "Solo aplica para sueldos que no superen los $2000$ soles mensuales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la RIA est\u00e1 dise\u00f1ada exclusivamente para remuneraciones que superan un umbral alto de ingresos."
+        }
+      ],
+      "hint": "El l\u00edmite se define en funci\u00f3n de un valor tributario que se actualiza anualmente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 penalidad financiera se aplica si un trabajador no goza de su descanso vacacional dentro del a\u00f1o siguiente a haberlo ganado?",
+      "answerOptions": [
+        {
+          "text": "La indemnizaci\u00f3n por falta de descanso vacacional (Triple Vacacional).",
+          "isCorrect": true,
+          "rationale": "Esta sanci\u00f3n obliga al empleador a pagar el sueldo por el trabajo realizado, el pago por la vacaci\u00f3n no gozada y una indemnizaci\u00f3n adicional."
+        },
+        {
+          "text": "La p\u00e9rdida definitiva del derecho a vacaciones para ese periodo.",
+          "isCorrect": false,
+          "rationale": "El derecho al descanso es irrenunciable; si no se goza, se convierte en una deuda financiera con penalidad para la empresa."
+        },
+        {
+          "text": "Una multa administrativa de $10$ UIT pagadera directamente al Estado.",
+          "isCorrect": false,
+          "rationale": "Aunque Sunafil puede multar, la penalidad principal es el pago directo de la triple vacacional al trabajador afectado."
+        },
+        {
+          "text": "La reducci\u00f3n del sueldo del empleador en un $50\\%$ el mes siguiente.",
+          "isCorrect": false,
+          "rationale": "La ley no contempla reducciones de sueldo del empleador, sino compensaciones e indemnizaciones hacia el trabajador."
+        }
+      ],
+      "hint": "Es un concepto que implica tres pagos relacionados con el mismo periodo de descanso."
+    },
+    {
+      "question": "\u00bfQu\u00e9 condici\u00f3n debe cumplir una empresa para estar obligada a distribuir utilidades entre sus trabajadores?",
+      "answerOptions": [
+        {
+          "text": "Contar con m\u00e1s de $20$ trabajadores en planilla.",
+          "isCorrect": true,
+          "rationale": "Las empresas con $20$ o menos trabajadores est\u00e1n legalmente exoneradas de realizar el reparto de utilidades."
+        },
+        {
+          "text": "Tener utilidades netas superiores a $1$ mill\u00f3n de soles anuales.",
+          "isCorrect": false,
+          "rationale": "La obligaci\u00f3n depende del n\u00famero de trabajadores y la generaci\u00f3n de renta, no de un monto m\u00ednimo de ganancia neta."
+        },
+        {
+          "text": "Estar inscrita en el r\u00e9gimen REMIPE como gran empresa.",
+          "isCorrect": false,
+          "rationale": "El r\u00e9gimen REMIPE se divide en micro y peque\u00f1a empresa; la obligaci\u00f3n de utilidades se rige por el n\u00famero de empleados en general."
+        },
+        {
+          "text": "Haber operado en el mercado por m\u00e1s de $5$ a\u00f1os consecutivos.",
+          "isCorrect": false,
+          "rationale": "La antig\u00fcedad de la empresa no es el factor determinante para este derecho laboral."
+        }
+      ],
+      "hint": "Se basa en el tama\u00f1o de la fuerza laboral de la organizaci\u00f3n."
+    },
+    {
+      "question": "Al calcular la CTS, \u00bfqu\u00e9 fracci\u00f3n de la gratificaci\u00f3n percibida en el semestre anterior debe sumarse a la base de c\u00e1lculo?",
+      "answerOptions": [
+        {
+          "text": "$\\frac{1}{6}$ de la gratificaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La norma exige incluir la parte proporcional de la gratificaci\u00f3n para que el fondo de la CTS refleje el ingreso real promedio."
+        },
+        {
+          "text": "La totalidad de la gratificaci\u00f3n del semestre.",
+          "isCorrect": false,
+          "rationale": "Sumar la gratificaci\u00f3n completa distorsionar\u00eda el c\u00e1lculo semestral de la CTS, ya que esta se deposita dos veces al a\u00f1o."
+        },
+        {
+          "text": "$\\frac{1}{12}$ de la gratificaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este ser\u00eda el c\u00e1lculo para una base mensual, pero para el dep\u00f3sito semestral de la CTS se requiere un sexto."
+        },
+        {
+          "text": "$10\\%$ del monto acumulado de gratificaciones anuales.",
+          "isCorrect": false,
+          "rationale": "El c\u00e1lculo es proporcional por semestre y se usa la fracci\u00f3n de un sexto, no un porcentaje fijo del acumulado anual."
+        }
+      ],
+      "hint": "Es la proporci\u00f3n que corresponde a un mes dentro de un semestre."
+    },
+    {
+      "question": "\u00bfCu\u00e1nto tiempo tiene el empleador para entregar la constancia de cese que libera la CTS en el banco?",
+      "answerOptions": [
+        {
+          "text": "$48$ horas.",
+          "isCorrect": true,
+          "rationale": "Es un plazo perentorio para garantizar que el trabajador tenga acceso r\u00e1pido a sus fondos de previsi\u00f3n al quedar desempleado."
+        },
+        {
+          "text": "$5$ d\u00edas h\u00e1biles.",
+          "isCorrect": false,
+          "rationale": "Este plazo es excesivo seg\u00fan la ley y podr\u00eda motivar una intervenci\u00f3n directa de Sunafil para autorizar al banco."
+        },
+        {
+          "text": "$24$ horas.",
+          "isCorrect": false,
+          "rationale": "Aunque la rapidez es ideal, el plazo legal estricto establecido es de dos d\u00edas calendario (cuarenta y ocho horas)."
+        },
+        {
+          "text": "Al momento de la firma de la liquidaci\u00f3n de beneficios.",
+          "isCorrect": false,
+          "rationale": "Aunque suelen hacerse juntos, el plazo legal de la constancia de CTS es espec\u00edfico e independiente del pago de la liquidaci\u00f3n."
+        }
+      ],
+      "hint": "Equivale a dos d\u00edas completos."
+    },
+    {
+      "question": "\u00bfDesde qu\u00e9 momento es obligatorio que un trabajador cuente con la cobertura del Seguro de Vida Ley?",
+      "answerOptions": [
+        {
+          "text": "Desde el primer d\u00eda de inicio de labores.",
+          "isCorrect": true,
+          "rationale": "No existe periodo de prueba para este seguro; la protecci\u00f3n debe ser inmediata ante cualquier riesgo desde el ingreso."
+        },
+        {
+          "text": "Despu\u00e9s de haber superado el periodo de prueba de $3$ meses.",
+          "isCorrect": false,
+          "rationale": "Anteriormente exist\u00edan plazos de espera, pero la normativa actual exige cobertura desde la entrada a la empresa."
+        },
+        {
+          "text": "A partir del cumplimiento de un a\u00f1o de servicios continuos.",
+          "isCorrect": false,
+          "rationale": "Esperar un a\u00f1o para otorgar el seguro es una pr\u00e1ctica obsoleta y peligrosa que genera responsabilidad directa al empleador."
+        },
+        {
+          "text": "Solo cuando el trabajador es contratado de manera indefinida.",
+          "isCorrect": false,
+          "rationale": "El seguro de vida ley aplica para todos los trabajadores subordinados, independientemente del tipo de contrato."
+        }
+      ],
+      "hint": "La protecci\u00f3n contra siniestros no admite demoras ni periodos de evaluaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo de retenci\u00f3n salarial que un juez puede ordenar en un proceso de pensi\u00f3n de alimentos?",
+      "answerOptions": [
+        {
+          "text": "$60\\%$ de los ingresos totales.",
+          "isCorrect": true,
+          "rationale": "La ley protege un $40\\%$ del sueldo para garantizar la subsistencia b\u00e1sica del trabajador, limitando el embargo alimentario."
+        },
+        {
+          "text": "$30\\%$ de la remuneraci\u00f3n neta.",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es un est\u00e1ndar com\u00fan, pero el l\u00edmite legal m\u00e1ximo permitido es mucho m\u00e1s alto en casos cr\u00edticos."
+        },
+        {
+          "text": "$100\\%$ si la deuda alimentaria supera un a\u00f1o de antig\u00fcedad.",
+          "isCorrect": false,
+          "rationale": "Nunca se puede embargar la totalidad del sueldo, ya que se vulnerar\u00eda el derecho a la vida y subsistencia del deudor."
+        },
+        {
+          "text": "$50\\%$ solo si el trabajador tiene otros hijos de compromisos distintos.",
+          "isCorrect": false,
+          "rationale": "El l\u00edmite m\u00e1ximo de retenci\u00f3n para alimentos est\u00e1 fijado en sesenta por ciento, sin importar la configuraci\u00f3n familiar."
+        }
+      ],
+      "hint": "Es un porcentaje superior a la mitad, pero que a\u00fan deja una parte para el trabajador."
+    },
+    {
+      "question": "A partir de qu\u00e9 monto es obligatorio realizar el pago de remuneraciones a trav\u00e9s del sistema financiero?",
+      "answerOptions": [
+        {
+          "text": "$2000$ soles o $500$ d\u00f3lares.",
+          "isCorrect": true,
+          "rationale": "Superar este umbral obliga a la bancarizaci\u00f3n para asegurar la trazabilidad y validez del pago ante auditor\u00edas."
+        },
+        {
+          "text": "$1000$ soles o $250$ d\u00f3lares.",
+          "isCorrect": false,
+          "rationale": "Este monto es inferior al l\u00edmite legal que dispara la obligatoriedad de usar medios bancarios."
+        },
+        {
+          "text": "$1$ Remuneraci\u00f3n M\u00ednima Vital.",
+          "isCorrect": false,
+          "rationale": "El l\u00edmite de bancarizaci\u00f3n es un monto fijo establecido por normas tributarias y no equivale necesariamente al sueldo m\u00ednimo."
+        },
+        {
+          "text": "$5000$ soles, independientemente de la moneda extranjera.",
+          "isCorrect": false,
+          "rationale": "Este l\u00edmite es demasiado alto; la ley exige bancarizar montos menores para combatir la informalidad."
+        }
+      ],
+      "hint": "Es una cifra redonda en soles que equivale a medio millar en d\u00f3lares."
+    },
+    {
+      "question": "\u00bfDurante cu\u00e1ntos a\u00f1os est\u00e1 obligada la empresa a conservar las boletas de pago firmadas por los trabajadores?",
+      "answerOptions": [
+        {
+          "text": "$5$ a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Este es el plazo legal de prescripci\u00f3n y archivo obligatorio para sustentar el cumplimiento de obligaciones laborales."
+        },
+        {
+          "text": "$2$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Un plazo de dos a\u00f1os es insuficiente, ya que las revisiones de las autoridades pueden abarcar periodos m\u00e1s extensos."
+        },
+        {
+          "text": "$10$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Aunque algunas empresas lo hacen por pol\u00edtica interna, la obligaci\u00f3n legal m\u00ednima para este tipo de documentos es menor."
+        },
+        {
+          "text": "De forma permanente mientras la empresa exista.",
+          "isCorrect": false,
+          "rationale": "No existe una obligaci\u00f3n de custodia perpetua; la ley marca un l\u00edmite temporal tras el cual los documentos pueden ser destruidos."
+        }
+      ],
+      "hint": "Piense en el periodo de un lustro."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la sobretasa aplicada a las horas extras a partir de la tercera hora diaria en adelante?",
+      "answerOptions": [
+        {
+          "text": "$35\\%$",
+          "isCorrect": true,
+          "rationale": "A medida que la jornada se extiende, la ley incrementa el costo de la hora extra para desincentivar el sobretiempo excesivo."
+        },
+        {
+          "text": "$25\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje solo aplica para las dos primeras horas; a partir de la tercera el recargo aumenta obligatoriamente."
+        },
+        {
+          "text": "$45\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje no est\u00e1 contemplado en la escala progresiva est\u00e1ndar de sobretasas para horas extras ordinarias."
+        },
+        {
+          "text": "$100\\%$",
+          "isCorrect": false,
+          "rationale": "El recargo del cien por ciento se aplica a jornadas \u00edntegras en d\u00edas de descanso, no al incremento por horas adicionales."
+        }
+      ],
+      "hint": "Es diez puntos porcentuales mayor que la tasa de las primeras dos horas."
+    },
+    {
+      "question": "\u00bfC\u00f3mo tributa el r\u00e9gimen CAS en el sector p\u00fablico y bajo qu\u00e9 condici\u00f3n opera en la pr\u00e1ctica?",
+      "answerOptions": [
+        {
+          "text": "Tributa como cuarta categor\u00eda pero opera bajo una subordinaci\u00f3n de hecho.",
+          "isCorrect": true,
+          "rationale": "Es una figura h\u00edbrida donde el impuesto es de independiente pero la realidad laboral es de empleado subordinado."
+        },
+        {
+          "text": "Tributa como quinta categor\u00eda con todos los beneficios del r\u00e9gimen general.",
+          "isCorrect": false,
+          "rationale": "El r\u00e9gimen CAS se caracteriza precisamente por tener beneficios limitados y un tratamiento tributario distinto al r\u00e9gimen general."
+        },
+        {
+          "text": "Es una renta de tercera categor\u00eda por ser una consultor\u00eda externa.",
+          "isCorrect": false,
+          "rationale": "La tercera categor\u00eda corresponde a rentas empresariales, no a servicios personales prestados al Estado bajo este r\u00e9gimen."
+        },
+        {
+          "text": "Est\u00e1 exonerado de impuestos por tratarse de servicio a la naci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los trabajadores bajo el r\u00e9gimen CAS est\u00e1n sujetos al pago de impuestos sobre sus ingresos como cualquier otro prestador de servicios."
+        }
+      ],
+      "hint": "Combina una forma de pago impositiva de independiente con una realidad de empleado."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gesti\u00f3n de T-Registro y Plame",
+      "Beneficios Sociales y Compensaciones",
+      "Arquitectura de la Remuneraci\u00f3n",
+      "Reg\u00edmenes Laborales Especiales",
+      "Fiscalizaci\u00f3n y Seguridad Social"
+    ],
+    "followUp": [
+      "Procedimientos Sancionadores de Sunafil",
+      "C\u00e1lculo de Impuestos de Quinta Categor\u00eda",
+      "Seguridad y Salud en el Trabajo (SCTR)",
+      "Jurisprudencia sobre el Principio de Primac\u00eda de la Realidad"
+    ]
+  }
+}

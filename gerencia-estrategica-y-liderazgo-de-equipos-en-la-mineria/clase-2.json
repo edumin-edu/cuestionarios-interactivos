@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1les son los tres pilares fundamentales que garantizan la viabilidad y el \u00e9xito de un proyecto de comercializaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "Rigor metal\u00fargico, inteligencia de mercados y eficiencia log\u00edstica.",
+          "isCorrect": true,
+          "rationale": "Estos tres pilares integrados aseguran que el valor del mineral se transfiera efectivamente desde la mina hasta el consumidor final."
+        },
+        {
+          "text": "Exploraci\u00f3n geol\u00f3gica, extracci\u00f3n masiva y refinaci\u00f3n qu\u00edmica.",
+          "isCorrect": false,
+          "rationale": "Aunque son procesos t\u00e9cnicos necesarios, no constituyen los pilares espec\u00edficos de la fase de comercializaci\u00f3n y log\u00edstica exterior."
+        },
+        {
+          "text": "Estabilidad pol\u00edtica, financiamiento bancario y mano de obra.",
+          "isCorrect": false,
+          "rationale": "Estos son factores macroecon\u00f3micos y operativos generales, pero no los pilares estrat\u00e9gicos de la comercializaci\u00f3n descritos."
+        },
+        {
+          "text": "Maquinaria pesada, leyes de corte y seguridad industrial.",
+          "isCorrect": false,
+          "rationale": "Estos elementos pertenecen a la etapa de operaci\u00f3n minera en el sitio y no al proceso de venta y transferencia de valor comercial."
+        }
+      ],
+      "hint": "Considere la combinaci\u00f3n de precisi\u00f3n t\u00e9cnica, conocimiento del entorno financiero y el movimiento f\u00edsico de la carga."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la responsabilidad legal ineludible que acompa\u00f1a al derecho de libre comercializaci\u00f3n de minerales?",
+      "answerOptions": [
+        {
+          "text": "Verificar la procedencia l\u00edcita de todo el mineral transaccionado.",
+          "isCorrect": true,
+          "rationale": "La libertad comercial exige responsabilidad para proteger al comprador de buena fe y frenar los riesgos de la miner\u00eda ilegal."
+        },
+        {
+          "text": "Garantizar que el precio sea siempre el m\u00e1s alto del mercado local.",
+          "isCorrect": false,
+          "rationale": "El precio est\u00e1 sujeto a la volatilidad del mercado y no es una responsabilidad legal ineludible del comerciante."
+        },
+        {
+          "text": "Pagar exclusivamente en divisas extranjeras a los proveedores locales.",
+          "isCorrect": false,
+          "rationale": "La moneda de pago es un acuerdo comercial y no una obligaci\u00f3n legal intr\u00ednseca a la libre comercializaci\u00f3n."
+        },
+        {
+          "text": "Eliminar todos los costos de flete para el consumidor final.",
+          "isCorrect": false,
+          "rationale": "Los costos de log\u00edstica son variables comerciales que deben ser absorbidos por la ley del mineral, no una imposici\u00f3n legal de libertad."
+        }
+      ],
+      "hint": "Piense en la medida \u00e9tica y legal necesaria para combatir actividades mineras no autorizadas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 define t\u00e9cnicamente la naturaleza de un concentrado mineral?",
+      "answerOptions": [
+        {
+          "text": "Una mezcla variable de metales valiosos atrapados junto con ganga o material rocoso.",
+          "isCorrect": true,
+          "rationale": "A diferencia del metal puro, el concentrado es un producto intermedio que conserva material sin valor comercial."
+        },
+        {
+          "text": "Un lingote de metal fundido con una pureza superior al $99\\%$.",
+          "isCorrect": false,
+          "rationale": "El concentrado es el producto previo a la fundici\u00f3n y su pureza es significativamente menor a la de un lingote."
+        },
+        {
+          "text": "Roca cruda extra\u00edda directamente del yacimiento sin procesamiento previo.",
+          "isCorrect": false,
+          "rationale": "El concentrado ya ha pasado por procesos iniciales como la flotaci\u00f3n o gravimetr\u00eda en una planta."
+        },
+        {
+          "text": "Un residuo qu\u00edmico l\u00edquido proveniente exclusivamente de la lixiviaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El concentrado suele ser un material s\u00f3lido pulverulento obtenido por m\u00e9todos f\u00edsicos o f\u00edsico-qu\u00edmicos como la flotaci\u00f3n."
+        }
+      ],
+      "hint": "Recuerde que no es un producto terminado y contiene elementos con y sin valor econ\u00f3mico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el rango de pureza t\u00edpico que presenta un lote de concentrado de zinc en el mercado?",
+      "answerOptions": [
+        {
+          "text": "Entre un $50\\%$ y un $60\\%$.",
+          "isCorrect": true,
+          "rationale": "Este rango refleja la variabilidad intr\u00ednseca de los concentrados de zinc antes de pasar por procesos de fundici\u00f3n y refinaci\u00f3n."
+        },
+        {
+          "text": "Entre un $90\\%$ y un $95\\%$.",
+          "isCorrect": false,
+          "rationale": "Este nivel de pureza es demasiado alto para un concentrado; se acercar\u00eda m\u00e1s a un producto ya fundido."
+        },
+        {
+          "text": "Menos del $20\\%$.",
+          "isCorrect": false,
+          "rationale": "Un concentrado con tan baja pureza dif\u00edcilmente ser\u00eda econ\u00f3micamente viable para cubrir costos de tratamiento y flete."
+        },
+        {
+          "text": "Exactamente el $99.99\\%$.",
+          "isCorrect": false,
+          "rationale": "Este es el est\u00e1ndar de un metal refinado (grado Special High Grade) y no de un concentrado crudo."
+        }
+      ],
+      "hint": "Considere que el concentrado tiene una cantidad sustancial de material rocoso (ganga) acompa\u00f1ando al metal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 nivel de pureza alcanzan t\u00edpicamente los \u00e1nodos de cobre o plomo tras el proceso de fundici\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "$99.95\\%$.",
+          "isCorrect": true,
+          "rationale": "La fundici\u00f3n elimina azufre y elementos vol\u00e1tiles, elevando la pureza a este nivel intermedio antes de la refinaci\u00f3n electroqu\u00edmica."
+        },
+        {
+          "text": "$50.00\\%$.",
+          "isCorrect": false,
+          "rationale": "Este porcentaje corresponde m\u00e1s bien a la pureza de un concentrado crudo antes de entrar a la fundici\u00f3n."
+        },
+        {
+          "text": "$99.99\\%$.",
+          "isCorrect": false,
+          "rationale": "Este nivel de pureza m\u00e1xima se reserva para el final de la etapa de refinaci\u00f3n electroqu\u00edmica, no de la fundici\u00f3n."
+        },
+        {
+          "text": "$75.50\\%$.",
+          "isCorrect": false,
+          "rationale": "La pirometalurgia es mucho m\u00e1s eficiente y entrega productos con una pureza superior al $99\\%$ en la etapa de \u00e1nodos."
+        }
+      ],
+      "hint": "Se trata de un paso intermedio en las 'grandes ligas' de la metalurgia, justo antes de la refinaci\u00f3n final."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se exige un est\u00e1ndar de pureza del $99.99\\%$ en productos finales como los c\u00e1todos de cobre?",
+      "answerOptions": [
+        {
+          "text": "Para asegurar su viabilidad en industrias de alta precisi\u00f3n tecnol\u00f3gica y automotriz.",
+          "isCorrect": true,
+          "rationale": "Niveles inferiores de pureza har\u00edan que los metales no sirvieran para aplicaciones tecnol\u00f3gicas avanzadas o componentes electr\u00f3nicos."
+        },
+        {
+          "text": "Para reducir el peso total de la carga durante el transporte mar\u00edtimo.",
+          "isCorrect": false,
+          "rationale": "La pureza busca calidad metal\u00fargica para el uso final, no es una estrategia primaria de reducci\u00f3n de peso log\u00edstico."
+        },
+        {
+          "text": "Porque as\u00ed lo exigen exclusivamente las leyes locales de protecci\u00f3n ambiental.",
+          "isCorrect": false,
+          "rationale": "Es una exigencia del mercado industrial y tecnol\u00f3gico global, m\u00e1s que una normativa ambiental espec\u00edfica."
+        },
+        {
+          "text": "Para evitar que el metal se oxide r\u00e1pidamente durante el almacenamiento.",
+          "isCorrect": false,
+          "rationale": "Aunque la pureza afecta las propiedades, el objetivo principal es la funcionalidad en aplicaciones de alt\u00edsima precisi\u00f3n."
+        }
+      ],
+      "hint": "Piense en las necesidades de fabricaci\u00f3n de microchips o veh\u00edculos modernos."
+    },
+    {
+      "question": "\u00bfBajo qu\u00e9 condici\u00f3n elementos como el molibdeno o el indio dejan de ser subproductos y se convierten en cr\u00e9ditos financieros en un contrato?",
+      "answerOptions": [
+        {
+          "text": "Cuando logran superar ciertos umbrales de recuperaci\u00f3n econ\u00f3mica estipulados.",
+          "isCorrect": true,
+          "rationale": "Al superar una base m\u00ednima, estos elementos traza a\u00f1aden rentabilidad extra a la operaci\u00f3n principal como pagos a favor del minero."
+        },
+        {
+          "text": "Cuando su volumen total supera al del metal principal en el concentrado.",
+          "isCorrect": false,
+          "rationale": "Estos son elementos traza (cantidades min\u00fasculas), por lo que nunca superar\u00e1n el volumen del metal principal."
+        },
+        {
+          "text": "\u00danicamente si el comprador decide procesarlos en una planta diferente.",
+          "isCorrect": false,
+          "rationale": "El cr\u00e9dito depende del contenido y los umbrales del contrato, independientemente de la ubicaci\u00f3n f\u00edsica del procesamiento."
+        },
+        {
+          "text": "Cuando el precio del cobre baja de un nivel determinado.",
+          "isCorrect": false,
+          "rationale": "La condici\u00f3n de cr\u00e9dito financiero depende de la cantidad del elemento traza y su valor estrat\u00e9gico, no del precio del metal base."
+        }
+      ],
+      "hint": "Se relaciona con alcanzar una m\u00e9trica m\u00ednima que justifique su valorizaci\u00f3n monetaria."
+    },
+    {
+      "question": "\u00bfQu\u00e9 instituci\u00f3n act\u00faa como el bar\u00f3metro absoluto para fijar las cotizaciones de metales base como cobre, zinc y plomo desde 1935?",
+      "answerOptions": [
+        {
+          "text": "London Metal Exchange ($LME$).",
+          "isCorrect": true,
+          "rationale": "El $LME$ es la referencia indiscutible cuyas cotizaciones rigen casi todos los contratos de concentrados de metales base en el mundo."
+        },
+        {
+          "text": "COMEX en Nueva York.",
+          "isCorrect": false,
+          "rationale": "Aunque influyente en el hemisferio occidental y para metales preciosos, el $LME$ es la referencia global hist\u00f3rica para metales base."
+        },
+        {
+          "text": "Bolsa de Valores de Shanghai.",
+          "isCorrect": false,
+          "rationale": "China es el mayor consumidor, pero los contratos globales tradicionalmente orbitan sobre los precios del $LME$ o COMEX."
+        },
+        {
+          "text": "Organizaci\u00f3n Mundial del Comercio.",
+          "isCorrect": false,
+          "rationale": "Esta es una entidad regulatoria comercial, no una bolsa de metales que dicte cotizaciones diarias de commodities."
+        }
+      ],
+      "hint": "Se localiza en el Reino Unido y es fundamental para los contratos de concentrados met\u00e1licos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el principal factor que ha posicionado a China como el importador determinante del mercado de metales actual?",
+      "answerOptions": [
+        {
+          "text": "Su necesidad masiva de infraestructura interna y su agresiva transici\u00f3n energ\u00e9tica.",
+          "isCorrect": true,
+          "rationale": "Estos dos motores impulsan su hegemon\u00eda como el consumidor n\u00famero uno de cobre, zinc y plomo en el planeta."
+        },
+        {
+          "text": "La posesi\u00f3n de las mayores reservas geol\u00f3gicas de metales base del mundo.",
+          "isCorrect": false,
+          "rationale": "Su posici\u00f3n es la de gran importador y consumidor, no necesariamente la de poseedor de todas las reservas f\u00edsicas de origen."
+        },
+        {
+          "text": "El control absoluto sobre las rutas de transporte mar\u00edtimo global.",
+          "isCorrect": false,
+          "rationale": "Si bien es un actor log\u00edstico importante, su rol determinante proviene de su demanda f\u00edsica industrial y energ\u00e9tica interna."
+        },
+        {
+          "text": "Ser el \u00fanico pa\u00eds que utiliza inteligencia artificial para fijar precios internacionales.",
+          "isCorrect": false,
+          "rationale": "Los precios se fijan en bolsas internacionales; China influye mediante su volumen de demanda real."
+        }
+      ],
+      "hint": "Piense en el desarrollo de ciudades y nuevas tecnolog\u00edas de energ\u00eda en el gigante asi\u00e1tico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n estrat\u00e9gica de los contratos de tipo spot en la comercializaci\u00f3n de minerales?",
+      "answerOptions": [
+        {
+          "text": "Liquidar excedentes de producci\u00f3n mediante acuerdos espec\u00edficos a corto plazo.",
+          "isCorrect": true,
+          "rationale": "Los contratos spot sirven para realizar embarques \u00fanicos y r\u00e1pidos, permitiendo 'limpiar la casa' de inventarios no previstos."
+        },
+        {
+          "text": "Garantizar un flujo de caja predecible y estable durante varios a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Esta es la funci\u00f3n de los contratos de largo plazo, no de los acuerdos espec\u00edficos de corto plazo o spot."
+        },
+        {
+          "text": "Asegurar el suministro constante de material a una refiner\u00eda por una d\u00e9cada.",
+          "isCorrect": false,
+          "rationale": "Los acuerdos spot no garantizan continuidad, ya que son para tonelajes particulares en un solo embarque."
+        },
+        {
+          "text": "Eliminar la necesidad de realizar an\u00e1lisis qu\u00edmicos de laboratorio.",
+          "isCorrect": false,
+          "rationale": "Todos los contratos, incluidos los spot, exigen rigor qu\u00edmico debido a la heterogeneidad del material."
+        }
+      ],
+      "hint": "Se utilizan cuando se necesita rapidez y especificidad para un solo lote o carga."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los cuatro pilares o elementos esenciales sobre los que se sostiene la estructura de cualquier contrato minero?",
+      "answerOptions": [
+        {
+          "text": "Cantidad, duraci\u00f3n, calidad y t\u00e9rminos de entrega.",
+          "isCorrect": true,
+          "rationale": "Estos elementos definen la hoja de ruta financiera y operativa, permitiendo repartir riesgos entre productor y comprador."
+        },
+        {
+          "text": "Precio fijo, moneda de pago, seguros y mantenimiento.",
+          "isCorrect": false,
+          "rationale": "Aunque importantes, el precio suele ser variable (cotizaci\u00f3n $LME$) y otros elementos no son los pilares estructurales b\u00e1sicos citados."
+        },
+        {
+          "text": "Ubicaci\u00f3n de la mina, n\u00famero de empleados, tipo de explosivos y geolog\u00eda.",
+          "isCorrect": false,
+          "rationale": "Estos son aspectos operativos internos de la mina, no los componentes de un acuerdo comercial de exportaci\u00f3n."
+        },
+        {
+          "text": "Impuestos aduaneros, agentes de carga, permisos ambientales y factoring.",
+          "isCorrect": false,
+          "rationale": "Estos son elementos externos o servicios asociados, no la base estructural del contrato de compraventa mismo."
+        }
+      ],
+      "hint": "Refi\u00e9rase a los par\u00e1metros b\u00e1sicos que definen cu\u00e1nto, por cu\u00e1nto tiempo, de qu\u00e9 tipo y c\u00f3mo se entrega el mineral."
+    },
+    {
+      "question": "\u00bfQu\u00e9 proceso se debe seguir para calcular la Tonelada M\u00e9trica Neta Seca ($TNS$) a partir de la Tonelada M\u00e9trica H\u00fameda ($TMH$)?",
+      "answerOptions": [
+        {
+          "text": "Restar el porcentaje de humedad para obtener la $TMS$ y luego descontar la merma contractual.",
+          "isCorrect": true,
+          "rationale": "La $TNS$ es el peso final definitivo sobre el cual se aplican las leyes del mineral, tras quitar agua y p\u00e9rdidas por manipulaci\u00f3n."
+        },
+        {
+          "text": "Sumar el contenido de ganga al peso seco y multiplicar por la merma.",
+          "isCorrect": false,
+          "rationale": "La ganga ya est\u00e1 incluida en el peso f\u00edsico inicial y la merma siempre se resta, nunca se suma para obtener el neto."
+        },
+        {
+          "text": "Dividir el peso bruto entre el factor de recuperaci\u00f3n de la fundici\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El factor de recuperaci\u00f3n se aplica al contenido met\u00e1lico fino, no al peso f\u00edsico de las toneladas m\u00e9tricas."
+        },
+        {
+          "text": "Multiplicar la humedad por el contenido fino y restar la penalidad por ars\u00e9nico.",
+          "isCorrect": false,
+          "rationale": "Este es un error conceptual grave; la humedad y las penalidades qu\u00edmicas son variables distintas en el c\u00e1lculo."
+        }
+      ],
+      "hint": "Es una secuencia de restas: primero el agua y luego la p\u00e9rdida inevitable por transporte."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el porcentaje de merma contractual que se aplica t\u00edpicamente en los contratos para compensar p\u00e9rdidas por manipulaci\u00f3n y transporte?",
+      "answerOptions": [
+        {
+          "text": "$0.5\\%$.",
+          "isCorrect": true,
+          "rationale": "Este porcentaje es el est\u00e1ndar industrial que se descuenta de la Tonelada M\u00e9trica Seca para llegar a la Tonelada M\u00e9trica Neta Seca."
+        },
+        {
+          "text": "$5.0\\%$.",
+          "isCorrect": false,
+          "rationale": "Una merma del $5\\%$ ser\u00eda excesiva y financieramente devastadora para cualquier operaci\u00f3n de gran tonelaje."
+        },
+        {
+          "text": "$1.5\\%$.",
+          "isCorrect": false,
+          "rationale": "Aunque es un valor posible en otros contextos, el est\u00e1ndar espec\u00edfico mencionado para concentrados es significativamente menor."
+        },
+        {
+          "text": "$0.1\\%$.",
+          "isCorrect": false,
+          "rationale": "Este valor es demasiado bajo para cubrir las p\u00e9rdidas reales inevitables durante el movimiento de miles de toneladas de material pulverulento."
+        }
+      ],
+      "hint": "Se trata de un valor decimal peque\u00f1o que representa una p\u00e9rdida inevitable pero controlada."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define el 'contenido pagable' en el proceso de liquidaci\u00f3n financiera de un concentrado?",
+      "answerOptions": [
+        {
+          "text": "El volumen met\u00e1lico resultante de aplicar un factor de recuperaci\u00f3n al contenido fino.",
+          "isCorrect": true,
+          "rationale": "Como los procesos de fundici\u00f3n no son perfectos, el comprador solo paga por una porci\u00f3n (por ejemplo, el $85\\%$) del metal puro te\u00f3rico."
+        },
+        {
+          "text": "El peso total del concentrado incluyendo la humedad y la ganga.",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda la tonelada m\u00e9trica h\u00fameda; el pago se basa \u00fanicamente en el metal de valor una vez purificado te\u00f3ricamente."
+        },
+        {
+          "text": "El valor del metal al que se le han sumado todos los costos de maquila.",
+          "isCorrect": false,
+          "rationale": "La maquila es un costo que se deduce o resta, no se suma al contenido para calcular lo que es pagable."
+        },
+        {
+          "text": "La cantidad de ars\u00e9nico y otras impurezas que el comprador acepta recibir.",
+          "isCorrect": false,
+          "rationale": "Las impurezas generan penalidades (descuentos), no definen el volumen met\u00e1lico pagable del activo principal."
+        }
+      ],
+      "hint": "Es el n\u00famero definitivo sobre el cual la refiner\u00eda emite el cheque, considerando las p\u00e9rdidas del proceso industrial."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito estrat\u00e9gico de incluir 'escaladores' en las tarifas de maquila de los contratos mineros?",
+      "answerOptions": [
+        {
+          "text": "Permitir que la refiner\u00eda comparta la bonanza econ\u00f3mica cuando los precios internacionales suben.",
+          "isCorrect": true,
+          "rationale": "Si el precio del metal supera una base acordada, el costo de la maquila sube proporcionalmente, beneficiando tambi\u00e9n al procesador."
+        },
+        {
+          "text": "Asegurar que el productor minero siempre reciba el mismo pago sin importar el mercado.",
+          "isCorrect": false,
+          "rationale": "Al contrario, los escaladores hacen que el costo de procesamiento sea variable en funci\u00f3n de la bonanza del mercado."
+        },
+        {
+          "text": "Reducir autom\u00e1ticamente las penalidades por impurezas como el ars\u00e9nico.",
+          "isCorrect": false,
+          "rationale": "Las penalidades qu\u00edmicas son independientes de los mecanismos de escaladores de precios de la maquila."
+        },
+        {
+          "text": "Fijar un costo de flete mar\u00edtimo inamovible por toda la duraci\u00f3n del contrato.",
+          "isCorrect": false,
+          "rationale": "Los escaladores se aplican a la tarifa de servicio de la fundici\u00f3n (maquila), no a los fletes log\u00edsticos."
+        }
+      ],
+      "hint": "Es un mecanismo para que todos los actores ganen m\u00e1s cuando el ciclo de precios es alto."
+    },
+    {
+      "question": "En el c\u00e1lculo de penalidades, si un concentrado tiene un exceso de ars\u00e9nico del $0.3\\%$ y la penalidad es de $1.5$ USD por cada $0.1\\%$ de exceso, \u00bfcu\u00e1l es el descuento total por tonelada?",
+      "answerOptions": [
+        {
+          "text": "$4.5$ USD.",
+          "isCorrect": true,
+          "rationale": "Se divide el exceso ($0.3\\%$) entre la unidad de medida ($0.1\\%$), resultando en $3$ fracciones que multiplicadas por $1.5$ dan $4.5$."
+        },
+        {
+          "text": "$1.5$ USD.",
+          "isCorrect": false,
+          "rationale": "Este ser\u00eda el costo de una sola fracci\u00f3n de $0.1\\%$, no del exceso total detectado del $0.3\\%$."
+        },
+        {
+          "text": "$0.45$ USD.",
+          "isCorrect": false,
+          "rationale": "Este valor es el resultado de un error de posicionamiento decimal en la multiplicaci\u00f3n de las fracciones de penalidad."
+        },
+        {
+          "text": "$3.0$ USD.",
+          "isCorrect": false,
+          "rationale": "Este n\u00famero corresponde a la cantidad de fracciones penalizables, pero no al monto monetario final del descuento."
+        }
+      ],
+      "hint": "Multiplique el n\u00famero de veces que el exceso contiene la unidad penalizable por el costo unitario."
+    },
+    {
+      "question": "\u00bfBajo qu\u00e9 regla operativa se liquida usualmente el cr\u00e9dito por contenido de plata en un concentrado de metal base?",
+      "answerOptions": [
+        {
+          "text": "Se paga el $90\\%$ de todo el excedente que supere las $5$ onzas por tonelada.",
+          "isCorrect": true,
+          "rationale": "Existe un umbral m\u00ednimo estricto y una tasa de pago sobre el exceso para considerar la plata como un cr\u00e9dito a favor del minero."
+        },
+        {
+          "text": "Se paga el $100\\%$ del contenido total desde la primera onza detectada.",
+          "isCorrect": false,
+          "rationale": "Casi siempre se exige superar un piso o umbral m\u00ednimo y se aplica un factor de descuento por refinaci\u00f3n."
+        },
+        {
+          "text": "Se intercambia el valor de la plata por una reducci\u00f3n en la tarifa de maquila.",
+          "isCorrect": false,
+          "rationale": "La plata se valoriza como un cr\u00e9dito positivo monetario independiente, no como un canje directo de tarifas de servicio."
+        },
+        {
+          "text": "No se paga si el concentrado ya contiene otros elementos traza valiosos.",
+          "isCorrect": false,
+          "rationale": "Cada subproducto valioso se calcula de forma independiente seg\u00fan sus propios umbrales y condiciones contractuales."
+        }
+      ],
+      "hint": "Hay una base m\u00ednima requerida y el pago final no cubre la totalidad del exceso por gastos de refinaci\u00f3n."
+    },
+    {
+      "question": "En los Incoterms 2020 para transporte mar\u00edtimo ($CFR$ y $CIF$), \u00bfen qu\u00e9 momento exacto se transfiere el riesgo f\u00edsico de la carga del vendedor al comprador?",
+      "answerOptions": [
+        {
+          "text": "Cuando la carga cruza la borda del buque en el puerto de origen.",
+          "isCorrect": true,
+          "rationale": "Aunque el vendedor pague flete o seguro hasta el destino, el riesgo f\u00edsico se transfiere al completar la carga inicial."
+        },
+        {
+          "text": "Al momento de la entrega f\u00edsica en el almac\u00e9n final del comprador.",
+          "isCorrect": false,
+          "rationale": "Esto describir\u00eda un t\u00e9rmino de llegada como el DDP, no los t\u00e9rminos CFR o CIF donde el riesgo se transfiere en el origen."
+        },
+        {
+          "text": "Cuando el barco llega a aguas internacionales fuera de la jurisdicci\u00f3n de origen.",
+          "isCorrect": false,
+          "rationale": "El punto de transferencia de riesgo est\u00e1 definido por una acci\u00f3n f\u00edsica en el puerto (cruzar la borda), no por la ubicaci\u00f3n geogr\u00e1fica del buque."
+        },
+        {
+          "text": "En el momento en que se emite el volante de despacho en el destino.",
+          "isCorrect": false,
+          "rationale": "El volante de despacho es un documento de llegada; el riesgo en CFR/CIF ya se transfiri\u00f3 mucho antes, al zarpar el barco."
+        }
+      ],
+      "hint": "Ocurre mucho antes de que el barco llegue al puerto de destino, justo al finalizar la estiba inicial."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la importancia fundamental del documento 'volante de despacho' en la log\u00edstica de importaci\u00f3n de insumos mineros?",
+      "answerOptions": [
+        {
+          "text": "Certifica formalmente la llegada de la carga y el estado f\u00edsico de los bultos para posibles reclamos.",
+          "isCorrect": true,
+          "rationale": "Es el 'acta de nacimiento' de la carga en destino y la prueba irrefutable ante faltantes o da\u00f1os frente al transportista."
+        },
+        {
+          "text": "Determina el precio final del $LME$ que se aplicar\u00e1 al concentrado.",
+          "isCorrect": false,
+          "rationale": "El volante de despacho es un documento log\u00edstico/aduanero, no un instrumento de fijaci\u00f3n de precios financieros."
+        },
+        {
+          "text": "Exonera al importador del pago del Impuesto General a las Ventas ($IGB$).",
+          "isCorrect": false,
+          "rationale": "Es un registro de recepci\u00f3n f\u00edsica; las obligaciones tributarias se rigen por la ley aduanera y no por este documento."
+        },
+        {
+          "text": "Sustituye al contrato de compraventa internacional en caso de p\u00e9rdida.",
+          "isCorrect": false,
+          "rationale": "Un documento de almac\u00e9n no tiene la validez ni el alcance legal de un contrato comercial de suministro."
+        }
+      ],
+      "hint": "Es la prueba definitiva de qu\u00e9 lleg\u00f3 y en qu\u00e9 condiciones se recibi\u00f3 en el dep\u00f3sito temporal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 relaci\u00f3n de densidad se utiliza para calcular el flete en el transporte a\u00e9reo internacional, seg\u00fan los est\u00e1ndares mencionados?",
+      "answerOptions": [
+        {
+          "text": "$0.167$ toneladas por metro c\u00fabico.",
+          "isCorrect": true,
+          "rationale": "Esta densidad de referencia hace que el transporte a\u00e9reo sea extremadamente costoso, exigiendo $6\\,m^{3}$ de espacio por cada tonelada de peso."
+        },
+        {
+          "text": "$1.000$ toneladas por metro c\u00fabico.",
+          "isCorrect": false,
+          "rationale": "Esta es la relaci\u00f3n base del transporte mar\u00edtimo (uno a uno), mucho menos exigente que la del transporte a\u00e9reo."
+        },
+        {
+          "text": "$0.500$ toneladas por metro c\u00fabico.",
+          "isCorrect": false,
+          "rationale": "Esta relaci\u00f3n corresponde al transporte terrestre, donde se asume que una tonelada ocupa al menos $2\\,m^{3}$."
+        },
+        {
+          "text": "$0.050$ toneladas por metro c\u00fabico.",
+          "isCorrect": false,
+          "rationale": "Este valor es demasiado bajo; incluso para el transporte a\u00e9reo, la m\u00e9trica est\u00e1ndar es superior a este n\u00famero."
+        }
+      ],
+      "hint": "Es el transporte m\u00e1s exigente en t\u00e9rminos de volumen y costo, requiriendo mucho espacio por poco peso f\u00edsico."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Comercializaci\u00f3n de concentrados minerales",
+      "Estructura de contratos mineros",
+      "Valorizaci\u00f3n f\u00edsica y metal\u00fargica",
+      "Log\u00edstica de comercio exterior e Incoterms",
+      "Tributaci\u00f3n y gesti\u00f3n aduanera minera"
+    ],
+    "followUp": [
+      "Gesti\u00f3n de riesgos geopol\u00edticos en el mercado de metales",
+      "An\u00e1lisis de brechas entre proyecciones de IA y comercio f\u00edsico",
+      "Optimizaci\u00f3n de empaques basada en densidades de flete",
+      "Estrategias de recuperaci\u00f3n de cr\u00e9ditos fiscales por percepciones de IGB"
+    ]
+  }
+}

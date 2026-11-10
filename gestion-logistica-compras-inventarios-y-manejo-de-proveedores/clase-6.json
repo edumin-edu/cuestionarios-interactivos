@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la distinci\u00f3n t\u00e9cnica fundamental entre la log\u00edstica y la gesti\u00f3n de la cadena de suministro en el contexto minero?",
+      "answerOptions": [
+        {
+          "text": "La log\u00edstica se centra en la eficiencia operativa pura, mientras que la cadena de suministro ofrece una visi\u00f3n estrat\u00e9gica masiva.",
+          "isCorrect": true,
+          "rationale": "La log\u00edstica tiene un enfoque t\u00e1ctico en el movimiento y almacenamiento, mientras que la cadena de suministro integra estrat\u00e9gicamente desde proveedores hasta clientes."
+        },
+        {
+          "text": "La log\u00edstica gestiona las relaciones con clientes externos y la cadena de suministro se encarga solo del transporte interno.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n invierte los conceptos, ya que la cadena de suministro es la que posee la visi\u00f3n macro que incluye a los clientes externos."
+        },
+        {
+          "text": "No existe diferencia t\u00e9cnica; ambos t\u00e9rminos se refieren exclusivamente al movimiento de materiales en la mina.",
+          "isCorrect": false,
+          "rationale": "Ignora la distinci\u00f3n jer\u00e1rquica donde la gesti\u00f3n de la cadena act\u00faa como el eje sincr\u00f3nico superior a la log\u00edstica operativa."
+        },
+        {
+          "text": "La log\u00edstica es determin\u00edstica y la cadena de suministro es puramente estoc\u00e1stica.",
+          "isCorrect": false,
+          "rationale": "La naturaleza determin\u00edstica o estoc\u00e1stica se refiere a la demanda, no es la diferencia definitoria entre estas dos disciplinas."
+        }
+      ],
+      "hint": "Considere qu\u00e9 concepto se enfoca en la ejecuci\u00f3n directa y cu\u00e1l en la coordinaci\u00f3n global del negocio."
+    },
+    {
+      "question": "\u00bfQu\u00e9 concepto geol\u00f3gico se considera la gran restricci\u00f3n fundamental que limita los m\u00e1rgenes operativos y obliga a la perfecci\u00f3n en la log\u00edstica?",
+      "answerOptions": [
+        {
+          "text": "La profundidad del yacimiento.",
+          "isCorrect": false,
+          "rationale": "Aunque es un desaf\u00edo t\u00e9cnico, no se identifica como la restricci\u00f3n que dicta literalmente todo el modelo de negocio."
+        },
+        {
+          "text": "La ley del mineral.",
+          "isCorrect": true,
+          "rationale": "La ley del mineral determina la viabilidad financiera y obliga a buscar eficiencia absoluta para mantener m\u00e1rgenes operativos ante la variabilidad geol\u00f3gica."
+        },
+        {
+          "text": "La dureza de la roca.",
+          "isCorrect": false,
+          "rationale": "La dureza afecta el proceso de perforaci\u00f3n y molienda, pero no es la variable que rige la estructura financiera completa del negocio."
+        },
+        {
+          "text": "La porosidad del terreno.",
+          "isCorrect": false,
+          "rationale": "Este es un factor t\u00e9cnico secundario comparado con el contenido met\u00e1lico que define el valor del producto extra\u00eddo."
+        }
+      ],
+      "hint": "Piense en la variable que indica cu\u00e1nto metal valioso hay realmente en una tonelada de roca extra\u00edda."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los dos elementos principales que dictan la robustez necesaria del aparato log\u00edstico en una operaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "El precio del metal y el costo del combustible.",
+          "isCorrect": false,
+          "rationale": "Estas son variables de mercado externas, no son los elementos sist\u00e9micos que definen la arquitectura log\u00edstica interna."
+        },
+        {
+          "text": "La cantidad de empleados y el n\u00famero de camiones.",
+          "isCorrect": false,
+          "rationale": "Estos son recursos operativos que se derivan del tama\u00f1o de la operaci\u00f3n, pero no son los criterios de clasificaci\u00f3n sist\u00e9mica."
+        },
+        {
+          "text": "El volumen extra\u00eddo diariamente y la extensi\u00f3n de la concesi\u00f3n territorial.",
+          "isCorrect": true,
+          "rationale": "La escala de la arquitectura log\u00edstica se dise\u00f1a en funci\u00f3n de la magnitud de la masa a mover y la distancia f\u00edsica del terreno a cubrir."
+        },
+        {
+          "text": "La profundidad de la mina y la humedad del concentrado.",
+          "isCorrect": false,
+          "rationale": "Aunque son datos operativos, no representan la base de la taxonom\u00eda que define si una log\u00edstica es artesanal o de gran escala."
+        }
+      ],
+      "hint": "Reflexione sobre las dimensiones f\u00edsicas y de producci\u00f3n que separan la miner\u00eda artesanal de la gran miner\u00eda."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal de la homologaci\u00f3n de proveedores en la gran miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Reducir el precio de compra de materiales b\u00e1sicos de oficina.",
+          "isCorrect": false,
+          "rationale": "La homologaci\u00f3n se enfoca en la capacidad operativa y mitigaci\u00f3n de riesgos, no simplemente en una negociaci\u00f3n de precios bajos."
+        },
+        {
+          "text": "Actuar como un filtro t\u00e9cnico indispensable para mitigar riesgos en la cadena de valor.",
+          "isCorrect": true,
+          "rationale": "Funciona como un 'gatekeeper' que asegura que el proveedor tenga la capacidad de no detener la operaci\u00f3n por fallas externas."
+        },
+        {
+          "text": "Aumentar la cantidad de proveedores disponibles para generar competencia.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la homologaci\u00f3n suele ser un proceso selectivo que busca calidad y fiabilidad sobre cantidad."
+        },
+        {
+          "text": "Eliminar la necesidad de realizar auditor\u00edas de inventario f\u00edsicas.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de proveedores y las auditor\u00edas de almac\u00e9n son procesos distintos; uno no reemplaza al otro."
+        }
+      ],
+      "hint": "Imagine el impacto de un error externo que se propaga por una cadena de valor de alto volumen."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define la demanda dependiente en el planeamiento log\u00edstico minero?",
+      "answerOptions": [
+        {
+          "text": "Es una demanda probabil\u00edstica basada en el juicio de expertos.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde a m\u00e9todos cualitativos para demandas con alta incertidumbre, no a la demanda dependiente."
+        },
+        {
+          "text": "Es aquella vinculada directamente al plan de producci\u00f3n, como reactivos o explosivos.",
+          "isCorrect": true,
+          "rationale": "Su naturaleza es determin\u00edstica y calculable porque depende de los niveles de actividad definidos en las plantas de procesamiento."
+        },
+        {
+          "text": "Es la demanda de suministros de oficina y papeler\u00eda administrativa.",
+          "isCorrect": false,
+          "rationale": "Estos suministros suelen clasificarse como demanda independiente o de soporte institucional."
+        },
+        {
+          "text": "Es la demanda que depende exclusivamente de las fluctuaciones del precio del cobre.",
+          "isCorrect": false,
+          "rationale": "La demanda de insumos internos depende del plan operativo, no directamente del precio del mercado externo de metales."
+        }
+      ],
+      "hint": "Piense en los insumos que se consumen matem\u00e1ticamente seg\u00fan cu\u00e1ntas toneladas se decida procesar."
+    },
+    {
+      "question": "En un entorno de estabilidad y patrones de consumo claros, \u00bfqu\u00e9 m\u00e9todo se utiliza para la cuantificaci\u00f3n de necesidades?",
+      "answerOptions": [
+        {
+          "text": "M\u00e9todo Delfi.",
+          "isCorrect": false,
+          "rationale": "El m\u00e9todo Delfi es una t\u00e9cnica cualitativa basada en juicios de expertos, usada cuando no hay datos hist\u00f3ricos claros."
+        },
+        {
+          "text": "Juicio de expertos.",
+          "isCorrect": false,
+          "rationale": "Este es un enfoque cualitativo subjetivo, no es la 'artiller\u00eda pesada' matem\u00e1tica para contextos estables."
+        },
+        {
+          "text": "An\u00e1lisis de series de tiempo y regresiones matem\u00e1ticas.",
+          "isCorrect": true,
+          "rationale": "Los m\u00e9todos cuantitativos aprovechan la estabilidad de los datos hist\u00f3ricos para predecir el futuro con precisi\u00f3n milim\u00e9trica."
+        },
+        {
+          "text": "Intuici\u00f3n administrativa basada en la experiencia previa.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n t\u00e9cnica moderna rechaza la intuici\u00f3n pura en favor de modelos basados en datos verificables."
+        }
+      ],
+      "hint": "Busque el enfoque que utiliza herramientas matem\u00e1ticas avanzadas para proyectar el futuro."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje del capital de trabajo puede llegar a representar el inventario almacenado en el sector minero?",
+      "answerOptions": [
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es demasiado bajo para la realidad de una industria intensiva en activos y repuestos cr\u00edticos como la miner\u00eda."
+        },
+        {
+          "text": "$25\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es significativo, el impacto financiero real en la miner\u00eda suele ser mucho mayor debido al costo de los componentes."
+        },
+        {
+          "text": "$40\\%$",
+          "isCorrect": true,
+          "rationale": "El inventario es una inversi\u00f3n colosal de recursos inmovilizados que alcanza casi la mitad del capital de trabajo operativo."
+        },
+        {
+          "text": "$75\\%$",
+          "isCorrect": false,
+          "rationale": "Un porcentaje tan alto indicar\u00eda una ineficiencia extrema o una paralizaci\u00f3n casi total del flujo de caja de la empresa."
+        }
+      ],
+      "hint": "Es una cantidad colosal de recursos inmovilizados, cercana a la mitad del capital disponible para operar."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el equilibrio que busca optimizar el Modelo de Wilson o EOQ ($Economic\\ Order\\ Quantity$)?",
+      "answerOptions": [
+        {
+          "text": "El balance entre el precio de venta y el costo de extracci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El EOQ es un modelo de gesti\u00f3n de inventarios, no un modelo de fijaci\u00f3n de precios o m\u00e1rgenes de venta."
+        },
+        {
+          "text": "El equilibrio entre los costos de emisi\u00f3n de pedidos y los costos de almacenamiento.",
+          "isCorrect": true,
+          "rationale": "Busca la cantidad de pedido que minimiza la suma total de lo que cuesta comprar y lo que cuesta mantener el stock."
+        },
+        {
+          "text": "La relaci\u00f3n entre el volumen de roca y la ley del mineral.",
+          "isCorrect": false,
+          "rationale": "Este es un balance geol\u00f3gico-operativo, no una f\u00f3rmula matem\u00e1tica de abastecimiento log\u00edstico."
+        },
+        {
+          "text": "El balance entre el n\u00famero de trabajadores y las horas de maquinaria.",
+          "isCorrect": false,
+          "rationale": "Ese balance corresponde a la planificaci\u00f3n de capacidad de mano de obra, no a la cantidad econ\u00f3mica de pedido."
+        }
+      ],
+      "hint": "Piense en las dos fuerzas opuestas: el costo administrativo de comprar y el costo de tener material guardado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja operativa del modelo POC ($Production\\ Order\\ Quantity$) frente al modelo tradicional?",
+      "answerOptions": [
+        {
+          "text": "Elimina la necesidad de usar sistemas computarizados para el control.",
+          "isCorrect": false,
+          "rationale": "Ning\u00fan modelo moderno prescinde de sistemas; el POC requiere incluso m\u00e1s control para gestionar el flujo continuo."
+        },
+        {
+          "text": "Permite comprar vol\u00famenes masivos para obtener descuentos comerciales.",
+          "isCorrect": false,
+          "rationale": "La compra de lotes enormes va en contra de la filosof\u00eda del POC, que busca reducir el inventario estacionado."
+        },
+        {
+          "text": "Reduce los costos de mantenimiento de inventario mediante un reabastecimiento continuo.",
+          "isCorrect": true,
+          "rationale": "Al recibir y consumir el material casi simult\u00e1neamente, se evita acumular stock pasivo que genera costos de posesi\u00f3n."
+        },
+        {
+          "text": "Garantiza que nunca se produzcan quiebres de stock en suministros de oficina.",
+          "isCorrect": false,
+          "rationale": "El POC se aplica usualmente a insumos de producci\u00f3n cr\u00edtica, no es una garant\u00eda absoluta para art\u00edculos de soporte administrativo."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede cuando el material fluye directo a la operaci\u00f3n sin quedarse 'estacionado' acumulando polvo."
+    },
+    {
+      "question": "En la gesti\u00f3n de inventarios, \u00bfqu\u00e9 caracter\u00edstica define al Modelo P (Periodos Fijos)?",
+      "answerOptions": [
+        {
+          "text": "Exige un control perpetuo y minimiza el stock de seguridad.",
+          "isCorrect": false,
+          "rationale": "Esta es la caracter\u00edstica del Modelo Q (Cantidad Fija), que requiere monitoreo constante para disparar el pedido."
+        },
+        {
+          "text": "Las revisiones ocurren en intervalos constantes, obligando a mantener un stock de seguridad m\u00e1s alto.",
+          "isCorrect": true,
+          "rationale": "Al no revisar el stock constantemente, aumenta el riesgo de quiebre entre periodos, lo que requiere un mayor colch\u00f3n de protecci\u00f3n."
+        },
+        {
+          "text": "Se utiliza exclusivamente para piezas de alt\u00edsima criticidad o costo elevado.",
+          "isCorrect": false,
+          "rationale": "Para piezas cr\u00edticas se prefiere el Modelo Q debido a su precisi\u00f3n y menor requerimiento de stock de seguridad."
+        },
+        {
+          "text": "Calcula el pedido bas\u00e1ndose \u00fanicamente en el juicio de los expertos.",
+          "isCorrect": false,
+          "rationale": "El Modelo P sigue una l\u00f3gica matem\u00e1tica de tiempos, no se basa en opiniones subjetivas."
+        }
+      ],
+      "hint": "Piense en el riesgo que surge cuando solo se mira el almac\u00e9n cada cierto tiempo predefinido."
+    },
+    {
+      "question": "Si una operaci\u00f3n tiene una demanda diaria ($d$) proyectada y un tiempo de entrega ($L$) del proveedor, \u00bfc\u00f3mo se calcula el Punto de Reorden ($ROP$)?",
+      "answerOptions": [
+        {
+          "text": "$ROP = d \\div L$",
+          "isCorrect": false,
+          "rationale": "Dividir la demanda entre el tiempo de entrega no tiene sentido l\u00f3gico para determinar cu\u00e1ndo se agotar\u00e1 el inventario."
+        },
+        {
+          "text": "$ROP = d \\times L$",
+          "isCorrect": true,
+          "rationale": "Multiplicar el consumo diario por los d\u00edas que tarda en llegar el pedido define el nivel exacto de inventario necesario para no quedar desabastecido."
+        },
+        {
+          "text": "$ROP = d + L$",
+          "isCorrect": false,
+          "rationale": "Sumar unidades de demanda con unidades de tiempo es un error dimensional matem\u00e1tico."
+        },
+        {
+          "text": "$ROP = L \\div d$",
+          "isCorrect": false,
+          "rationale": "Esta f\u00f3rmula no proporciona un nivel de inventario, sino una proporci\u00f3n inversa irrelevante para el reabastecimiento."
+        }
+      ],
+      "hint": "El resultado debe ser la cantidad de material que consumiremos durante el tiempo que esperamos a que llegue el nuevo pedido."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n estrat\u00e9gica del 'Stock de Seguridad' en la log\u00edstica minera?",
+      "answerOptions": [
+        {
+          "text": "Acumular material excedente para aprovechar precios bajos del mercado.",
+          "isCorrect": false,
+          "rationale": "El stock de seguridad es un amortiguador t\u00e9cnico de variabilidad, no una herramienta de especulaci\u00f3n financiera."
+        },
+        {
+          "text": "Servir como un amortiguador para absorber la variabilidad de proveedores y picos de consumo.",
+          "isCorrect": true,
+          "rationale": "Su prop\u00f3sito estructural es garantizar la continuidad de la mina ante imprevistos o retrasos en la entrega."
+        },
+        {
+          "text": "Sustituir al sistema ERP cuando hay fallas en la red digital.",
+          "isCorrect": false,
+          "rationale": "El stock es un activo f\u00edsico; un sistema ERP es una herramienta de gesti\u00f3n de informaci\u00f3n. No cumplen la misma funci\u00f3n."
+        },
+        {
+          "text": "Reducir el costo de almacenamiento de los art\u00edculos clase C.",
+          "isCorrect": false,
+          "rationale": "Tener stock de seguridad aumenta los costos de almacenamiento, es un costo que se asume para ganar resiliencia."
+        }
+      ],
+      "hint": "No lo vea como exceso, sino como una 'capa de protecci\u00f3n' contra la incertidumbre del mundo real."
+    },
+    {
+      "question": "\u00bfQu\u00e9 t\u00e9cnica de flujo \u00e1gil permite que el material pase directamente del and\u00e9n de recepci\u00f3n al de salida sin ser almacenado?",
+      "answerOptions": [
+        {
+          "text": "Just in Time.",
+          "isCorrect": false,
+          "rationale": "El 'Just in Time' es una filosof\u00eda de sincronizaci\u00f3n m\u00e1s amplia, pero no describe espec\u00edficamente el movimiento f\u00edsico entre andenes."
+        },
+        {
+          "text": "Cross-docking.",
+          "isCorrect": true,
+          "rationale": "Esta t\u00e9cnica busca el flujo continuo y la eliminaci\u00f3n de la estad\u00eda del material en el suelo del almac\u00e9n."
+        },
+        {
+          "text": "Almacenamiento est\u00e1tico.",
+          "isCorrect": false,
+          "rationale": "Es el opuesto exacto, ya que implica guardar el material en estanter\u00edas por largos periodos."
+        },
+        {
+          "text": "Inventario perpetuo.",
+          "isCorrect": false,
+          "rationale": "Se refiere a un m\u00e9todo de control de informaci\u00f3n, no a una t\u00e9cnica de movimiento f\u00edsico acelerado de mercanc\u00edas."
+        }
+      ],
+      "hint": "El nombre hace referencia a la acci\u00f3n de 'cruzar' el muelle o and\u00e9n de carga."
+    },
+    {
+      "question": "Dentro de la infraestructura f\u00edsica, \u00bfcu\u00e1l es la importancia del nivel 'Regional' de ubicaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Garantiza la estabilidad macroecon\u00f3mica de la naci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Eso corresponde al nivel nacional, no a la capa log\u00edstica regional."
+        },
+        {
+          "text": "Permite el acceso a mano de obra calificada y a operadores log\u00edsticos externos.",
+          "isCorrect": true,
+          "rationale": "El nivel regional es el punto de conexi\u00f3n con los servicios especializados y el talento humano necesario para la zona."
+        },
+        {
+          "text": "Asegura la proximidad inmediata a la zona de perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La proximidad extrema a la zona de extracci\u00f3n es responsabilidad del nivel de sitio."
+        },
+        {
+          "text": "Define los protocolos internacionales de seguridad para explosivos.",
+          "isCorrect": false,
+          "rationale": "Los protocolos de seguridad son normativas t\u00e9cnicas transversales, no una caracter\u00edstica geogr\u00e1fica del nivel regional."
+        }
+      ],
+      "hint": "Piense en d\u00f3nde se ubican empresas como Ranza y los centros de formaci\u00f3n t\u00e9cnica."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se denominan las instalaciones especializadas construidas bajo estrictas normas de seguridad para el manejo de explosivos?",
+      "answerOptions": [
+        {
+          "text": "Silos.",
+          "isCorrect": false,
+          "rationale": "Los silos se utilizan para materiales a granel como cal o concentrados, no para explosivos."
+        },
+        {
+          "text": "Polvorines.",
+          "isCorrect": true,
+          "rationale": "Son infraestructuras cr\u00edticas dise\u00f1adas espec\u00edficamente para contener materiales vol\u00e1tiles siguiendo normativas de seguridad rigurosas."
+        },
+        {
+          "text": "Canchones.",
+          "isCorrect": false,
+          "rationale": "Los canchones se asocian con el almacenamiento y mezcla (blending) de minerales, no con sustancias explosivas."
+        },
+        {
+          "text": "Patios puerto.",
+          "isCorrect": false,
+          "rationale": "Estas son zonas de consolidaci\u00f3n de carga masiva antes del embarque mar\u00edtimo."
+        }
+      ],
+      "hint": "Es un t\u00e9rmino espec\u00edfico para lugares de almacenamiento de alto riesgo inflamable o explosivo."
+    },
+    {
+      "question": "En el contexto de la transformaci\u00f3n digital, \u00bfcu\u00e1l es la principal ventaja de una arquitectura ERP modular?",
+      "answerOptions": [
+        {
+          "text": "Permite que cada departamento trabaje de forma independiente sin compartir datos.",
+          "isCorrect": false,
+          "rationale": "Esto describir\u00eda silos de informaci\u00f3n, que es precisamente lo que un ERP busca eliminar."
+        },
+        {
+          "text": "Garantiza que el output de un proceso sea autom\u00e1ticamente el input del siguiente.",
+          "isCorrect": true,
+          "rationale": "La integraci\u00f3n modular asegura la integridad de los datos y elimina el error humano del reingreso manual de informaci\u00f3n."
+        },
+        {
+          "text": "Reduce la necesidad de utilizar c\u00f3digos SKU para identificar activos.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el ERP depende de identificadores precisos como el SKU para funcionar correctamente."
+        },
+        {
+          "text": "Funciona sin necesidad de una base de datos centralizada.",
+          "isCorrect": false,
+          "rationale": "La base de datos \u00fanica y centralizada es la columna vertebral de cualquier sistema ERP moderno."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo fluye la informaci\u00f3n de una recepci\u00f3n de material directamente hacia el \u00e1rea de finanzas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n del proceso de 'Blending' en la log\u00edstica comercial minera?",
+      "answerOptions": [
+        {
+          "text": "Eliminar por completo la humedad del concentrado usando calor.",
+          "isCorrect": false,
+          "rationale": "Eliminar humedad es un proceso de secado o filtrado; el blending es un proceso de mezcla."
+        },
+        {
+          "text": "Combinar lotes de alta y baja ley para cumplir con las especificaciones del cliente.",
+          "isCorrect": true,
+          "rationale": "El blending permite estandarizar el producto final para asegurar que se ajuste a los marcos contractuales acordados."
+        },
+        {
+          "text": "Separar el mineral valioso de la roca est\u00e9ril mediante qu\u00edmicos.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n del procesamiento metal\u00fargico (lixiviaci\u00f3n o flotaci\u00f3n), no de la log\u00edstica de almacenamiento."
+        },
+        {
+          "text": "Medir el peso neto seco del concentrado en el puerto.",
+          "isCorrect": false,
+          "rationale": "Esa es una tarea de pesaje y muestreo de humedad, no de mezcla de materiales."
+        }
+      ],
+      "hint": "Se trata de una 'magia' t\u00e9cnica que ocurre en los canchones para equilibrar la calidad del producto."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es cr\u00edtico calcular con exactitud el peso neto seco del concentrado?",
+      "answerOptions": [
+        {
+          "text": "Porque el mercado solo paga por el mineral \u00fatil y no por el agua transportada.",
+          "isCorrect": true,
+          "rationale": "Los errores en la medici\u00f3n de humedad son causas principales de disputas comerciales y p\u00e9rdidas financieras millonarias."
+        },
+        {
+          "text": "Para asegurar que el barco tenga suficiente lastre durante el viaje.",
+          "isCorrect": false,
+          "rationale": "El lastre es una cuesti\u00f3n de navegaci\u00f3n; la medici\u00f3n de peso seco es una cuesti\u00f3n puramente financiera y comercial."
+        },
+        {
+          "text": "Para evitar que el concentrado se convierta en explosivo durante el trayecto.",
+          "isCorrect": false,
+          "rationale": "La humedad afecta la estabilidad de la carga (licuefacci\u00f3n), pero no convierte el mineral en explosivo."
+        },
+        {
+          "text": "Porque los Incoterms proh\u00edben el transporte de agua en buques graneleros.",
+          "isCorrect": false,
+          "rationale": "Los Incoterms regulan responsabilidades y costos, no proh\u00edben contenidos f\u00edsicos naturales del material."
+        }
+      ],
+      "hint": "Recuerde que enviar agua a trav\u00e9s del oc\u00e9ano es b\u00e1sicamente tirar dinero por la borda."
+    },
+    {
+      "question": "En un an\u00e1lisis ABC de inventarios, \u00bfqu\u00e9 caracteriza a los art\u00edculos de la Clase A?",
+      "answerOptions": [
+        {
+          "text": "Son el $85\\%$ de los art\u00edculos y representan el $20\\%$ del valor.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde a los art\u00edculos de las clases B y C combinadas, seg\u00fan el principio de Pareto."
+        },
+        {
+          "text": "Representan aproximadamente el $15\\%$ de los art\u00edculos pero concentran el $80\\%$ del valor financiero.",
+          "isCorrect": true,
+          "rationale": "Debido a su alt\u00edsimo impacto econ\u00f3mico, requieren controles estrictos, auditor\u00edas frecuentes y pron\u00f3sticos precisos."
+        },
+        {
+          "text": "Son art\u00edculos de bajo costo que pueden gestionarse con modelos autom\u00e1ticos relajados.",
+          "isCorrect": false,
+          "rationale": "Esos ser\u00edan los art\u00edculos clase C; la Clase A exige la m\u00e1xima atenci\u00f3n administrativa humana y t\u00e9cnica."
+        },
+        {
+          "text": "Son art\u00edculos obsoletos que deben eliminarse inmediatamente del almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "La obsolescencia se mide con la m\u00e9trica de 'vejez', no es la definici\u00f3n de la categor\u00eda A en el an\u00e1lisis ABC."
+        }
+      ],
+      "hint": "Son 'pocos pero vitales' desde el punto de vista del capital inmovilizado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 principio resume la importancia de la medici\u00f3n en la excelencia operativa minera?",
+      "answerOptions": [
+        {
+          "text": "Lo que no se mide no se gestiona, y lo que no se gestiona se degrada.",
+          "isCorrect": true,
+          "rationale": "Este axioma subraya que sin KPIs e indicadores Smart, la mejora continua y la supervivencia a largo plazo son imposibles."
+        },
+        {
+          "text": "El volumen de extracci\u00f3n siempre compensa la falta de control log\u00edstico.",
+          "isCorrect": false,
+          "rationale": "En la miner\u00eda moderna, el volumen sin control solo amplifica las p\u00e9rdidas y la ineficiencia operativa."
+        },
+        {
+          "text": "La intuici\u00f3n de los expertos es superior a cualquier m\u00e9trica digital.",
+          "isCorrect": false,
+          "rationale": "La complejidad de la gran miner\u00eda supera la capacidad intuitiva humana, requiriendo rigor anal\u00edtico."
+        },
+        {
+          "text": "Las mermas son inevitables y no requieren seguimiento detallado.",
+          "isCorrect": false,
+          "rationale": "Las mermas impactan directamente en el estado de resultados y su mitigaci\u00f3n es un objetivo clave de la log\u00edstica."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre medici\u00f3n, gesti\u00f3n y la mejora o degradaci\u00f3n de un sistema."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Log\u00edstica minera y cadena de suministro",
+      "Gesti\u00f3n de demanda y cuantificaci\u00f3n de necesidades",
+      "Modelos matem\u00e1ticos de inventario (EOQ, POC, ROP)",
+      "Infraestructura de almacenamiento y tecnolog\u00eda (ERP, RFID)",
+      "Log\u00edstica comercial, medici\u00f3n y KPIs"
+    ],
+    "followUp": [
+      "Optimizaci\u00f3n de costos de mantenimiento en miner\u00eda",
+      "Sostenibilidad y transici\u00f3n energ\u00e9tica en transporte pesado",
+      "An\u00e1lisis de riesgos en contratos internacionales (Incoterms)",
+      "Implementaci\u00f3n de sistemas de flujo \u00e1gil y Just in Time",
+      "Gesti\u00f3n avanzada de materiales peligrosos y explosivos"
+    ]
+  }
+}

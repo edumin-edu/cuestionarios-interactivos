@@ -1,0 +1,545 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la principal transformaci\u00f3n del rol del supervisor en el modelo de Seguridad y Salud 4.0?",
+      "answerOptions": [
+        {
+          "text": "Pasar de ser un polic\u00eda sancionador a un protector basado en datos reales.",
+          "isCorrect": true,
+          "rationale": "El nuevo paradigma prioriza la gesti\u00f3n de riesgos mediante informaci\u00f3n objetiva y empat\u00eda sobre el castigo burocr\u00e1tico tradicional."
+        },
+        {
+          "text": "Incrementar la carga administrativa para asegurar el cumplimiento legal.",
+          "isCorrect": false,
+          "rationale": "El modelo 4.0 busca precisamente reducir la burocracia in\u00fatil mediante la automatizaci\u00f3n."
+        },
+        {
+          "text": "Delegar la toma de decisiones cr\u00edticas exclusivamente a los sistemas de inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "El criterio humano sigue siendo el eje central y es potenciado, no reemplazado, por la tecnolog\u00eda."
+        },
+        {
+          "text": "Especializarse \u00fanicamente en la aplicaci\u00f3n de sanciones disciplinarias tecnol\u00f3gicas.",
+          "isCorrect": false,
+          "rationale": "La evoluci\u00f3n estrat\u00e9gica se aleja del modelo punitivo para enfocarse en la protecci\u00f3n de la vida."
+        }
+      ],
+      "hint": "Considera c\u00f3mo cambia la relaci\u00f3n entre el supervisor, el trabajador y el uso de la informaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representan los 'tokens' en el funcionamiento de un modelo de lenguaje de inteligencia artificial?",
+      "answerOptions": [
+        {
+          "text": "La velocidad de conexi\u00f3n a internet requerida para procesar normativas.",
+          "isCorrect": false,
+          "rationale": "Los tokens son unidades de procesamiento de datos, no una medida de ancho de banda o conectividad."
+        },
+        {
+          "text": "Las unidades de procesamiento que dictan la capacidad de la IA para analizar datos complejos.",
+          "isCorrect": true,
+          "rationale": "Se consideran la moneda de cambio del cerebro de la IA, determinando cu\u00e1nta informaci\u00f3n t\u00e9cnica puede 'masticar' sin colapsar."
+        },
+        {
+          "text": "El n\u00famero de licencias de software necesarias para operar en una planta minera.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino se refiere a una capacidad t\u00e9cnica interna del modelo de lenguaje, no a permisos comerciales."
+        },
+        {
+          "text": "La cantidad de errores operativos que el sistema permite antes de una desconexi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los tokens miden volumen de informaci\u00f3n procesable, no una tasa de error o umbral de falla."
+        }
+      ],
+      "hint": "Piensa en ellos como la 'moneda de cambio' o capacidad de lectura del cerebro del modelo."
+    },
+    {
+      "question": "En el ecosistema de herramientas digitales, \u00bfcu\u00e1l es la ventaja espec\u00edfica de utilizar Claude de Anthropic?",
+      "answerOptions": [
+        {
+          "text": "Su capacidad \u00fanica para vivir exclusivamente dentro de Google Drive.",
+          "isCorrect": false,
+          "rationale": "Esta es una caracter\u00edstica distintiva de Gemini de Google, no de Claude."
+        },
+        {
+          "text": "Su especializaci\u00f3n en visi\u00f3n artificial para el an\u00e1lisis de fotograf\u00edas de planta.",
+          "isCorrect": false,
+          "rationale": "Herramientas como Dixik y Queen son las que sobresalen en el procesamiento visual de riesgos."
+        },
+        {
+          "text": "Su excelente desempe\u00f1o en la redacci\u00f3n t\u00e9cnica detallada y an\u00e1lisis de documentos densos.",
+          "isCorrect": true,
+          "rationale": "Claude es reconocido por su capacidad para manejar y generar contenido t\u00e9cnico con alta precisi\u00f3n y profundidad."
+        },
+        {
+          "text": "Su l\u00edmite de procesamiento de solo mil tokens por consulta t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "Claude maneja capacidades mucho mayores y su ventaja reside en la calidad de la redacci\u00f3n t\u00e9cnica."
+        }
+      ],
+      "hint": "Esta herramienta es ideal para cuando se necesita elaborar manuales o analizar reglamentos extensos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera fundamental la redundancia y diversificaci\u00f3n de herramientas tecnol\u00f3gicas en la gesti\u00f3n de seguridad?",
+      "answerOptions": [
+        {
+          "text": "Para garantizar la eficiencia de la operaci\u00f3n ante cualquier eventualidad t\u00e9cnica.",
+          "isCorrect": true,
+          "rationale": "Depender de una sola plataforma es un riesgo innecesario; la diversificaci\u00f3n asegura la continuidad del sistema de gesti\u00f3n."
+        },
+        {
+          "text": "Para cumplir con los requisitos m\u00ednimos de las auditor\u00edas de fiscalizaci\u00f3n gubernamental.",
+          "isCorrect": false,
+          "rationale": "La diversificaci\u00f3n es una t\u00e1ctica de eficiencia operativa y resiliencia, no una exigencia legal estricta."
+        },
+        {
+          "text": "Para permitir que cada trabajador elija su aplicaci\u00f3n favorita de forma libre.",
+          "isCorrect": false,
+          "rationale": "El objetivo es la redundancia estructural del sistema, no la preferencia individual del usuario."
+        },
+        {
+          "text": "Para reducir los costos de inversi\u00f3n en licencias de software especializado.",
+          "isCorrect": false,
+          "rationale": "Generalmente, diversificar herramientas puede implicar mayores costos, pero se hace para mitigar riesgos operativos."
+        }
+      ],
+      "hint": "Imagina qu\u00e9 pasar\u00eda si la \u00fanica herramienta que utilizas deja de funcionar en un momento cr\u00edtico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia t\u00e9cnica existe entre los sistemas tradicionales de machine learning y la inteligencia artificial generativa?",
+      "answerOptions": [
+        {
+          "text": "El machine learning es el cerebro de razonamiento y la IA generativa son los ojos.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; el machine learning act\u00faa como detector de patrones (ojos) y la IA generativa como motor de razonamiento (cerebro)."
+        },
+        {
+          "text": "El machine learning reconoce patrones f\u00edsicos y la IA generativa act\u00faa como motor de razonamiento profundo.",
+          "isCorrect": true,
+          "rationale": "Mientras el ML identifica datos mediante sensores, la IA generativa interpreta el lenguaje natural para tomar decisiones."
+        },
+        {
+          "text": "No existe diferencia alguna, ya que ambos t\u00e9rminos se refieren al mismo tipo de procesamiento de datos.",
+          "isCorrect": false,
+          "rationale": "Tienen funciones distintas: uno se enfoca en reconocimiento visual/patrones y el otro en interpretaci\u00f3n ling\u00fc\u00edstica y l\u00f3gica."
+        },
+        {
+          "text": "La IA generativa solo sirve para crear im\u00e1genes y el machine learning para redactar procedimientos.",
+          "isCorrect": false,
+          "rationale": "La IA generativa es la que destaca en la redacci\u00f3n y traducci\u00f3n de datos complejos a lenguaje natural."
+        }
+      ],
+      "hint": "Uno se enfoca en 'ver' patrones y el otro en 'entender' e interpretar el lenguaje."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los cinco pilares fundamentales para estructurar un prompt eficaz en seguridad ocupacional?",
+      "answerOptions": [
+        {
+          "text": "Persona, contexto, tarea, restricciones y formato de salida.",
+          "isCorrect": true,
+          "rationale": "Este esqueleto asegura una instrucci\u00f3n met\u00f3dica que evita resultados vagos o peligrosos."
+        },
+        {
+          "text": "Introducci\u00f3n, nudo, desenlace, autor y fecha de publicaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta estructura pertenece a la narrativa literaria, no a la ingenier\u00eda de prompts para modelos de IA."
+        },
+        {
+          "text": "Nombre del software, velocidad de procesamiento, hardware, costo y duraci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Estos son criterios de adquisici\u00f3n de tecnolog\u00eda, no componentes de una instrucci\u00f3n t\u00e9cnica para IA."
+        },
+        {
+          "text": "Pregunta, respuesta, error, correcci\u00f3n y verificaci\u00f3n manual.",
+          "isCorrect": false,
+          "rationale": "Aunque son parte de un proceso, no constituyen los pilares de la estructura de un prompt."
+        }
+      ],
+      "hint": "Se trata de definir qui\u00e9n es la IA, d\u00f3nde est\u00e1, qu\u00e9 debe hacer, qu\u00e9 no puede hacer y c\u00f3mo debe entregarlo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 se busca lograr al aplicar el pilar de 'restricciones' en una instrucci\u00f3n para la IA?",
+      "answerOptions": [
+        {
+          "text": "Limitar el tiempo que la IA tarda en responder a una consulta t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "Las restricciones se enfocan en el contenido y cumplimiento normativo, no en la velocidad del hardware."
+        },
+        {
+          "text": "Establecer los l\u00edmites legales y normativos que el sistema no puede cruzar.",
+          "isCorrect": true,
+          "rationale": "Este pilar amarra la respuesta a leyes espec\u00edficas, evitando que la IA sugiera acciones fuera de la legalidad."
+        },
+        {
+          "text": "Reducir la cantidad de palabras que el modelo puede utilizar en su respuesta.",
+          "isCorrect": false,
+          "rationale": "Eso ser\u00eda parte del formato de salida, no necesariamente una restricci\u00f3n t\u00e9cnica o legal de seguridad."
+        },
+        {
+          "text": "Evitar que el personal operativo tenga acceso a los resultados del an\u00e1lisis.",
+          "isCorrect": false,
+          "rationale": "Las restricciones en el prompt gu\u00edan la l\u00f3gica del modelo, no controlan los permisos de acceso de los usuarios."
+        }
+      ],
+      "hint": "Tiene que ver con asegurar que la respuesta est\u00e9 alineada con marcos legales como la Ley $29783$."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el concepto de 'documentaci\u00f3n viva' en la gesti\u00f3n de seguridad 4.0?",
+      "answerOptions": [
+        {
+          "text": "Documentos que se imprimen diariamente para que los trabajadores los firmen en campo.",
+          "isCorrect": false,
+          "rationale": "Esto sigue siendo burocracia tradicional; la documentaci\u00f3n viva se refiere a la agilidad digital."
+        },
+        {
+          "text": "Informaci\u00f3n te\u00f3rica que se archiva en carpetas f\u00edsicas para futuras auditor\u00edas estatales.",
+          "isCorrect": false,
+          "rationale": "Esto describe el modelo de 'elefante blanco' que el enfoque 4.0 intenta erradicar."
+        },
+        {
+          "text": "Documentos din\u00e1micos que reflejan los riesgos reales del terreno en tiempo real.",
+          "isCorrect": true,
+          "rationale": "La IA permite que la teor\u00eda de los manuales empate perfectamente con lo que el operador vive en su turno actual."
+        },
+        {
+          "text": "Manuales redactados con un lenguaje acad\u00e9mico complejo para demostrar rigor t\u00e9cnico.",
+          "isCorrect": false,
+          "rationale": "La documentaci\u00f3n viva busca ser entendible y aplicable para el trabajador, no innecesariamente compleja."
+        }
+      ],
+      "hint": "Es lo opuesto a un documento est\u00e1tico que se guarda en un archivador y no se actualiza."
+    },
+    {
+      "question": "Dentro del flujo de ejecuci\u00f3n t\u00e1ctica en campo, \u00bfen qu\u00e9 consiste la etapa de 'An\u00e1lisis'?",
+      "answerOptions": [
+        {
+          "text": "En tomar la fotograf\u00eda inicial de la condici\u00f3n subest\u00e1ndar en la planta.",
+          "isCorrect": false,
+          "rationale": "Esa es la etapa de captura, el punto de partida antes del procesamiento de datos."
+        },
+        {
+          "text": "En el momento en que la IA identifica el peligro y sugiere acciones correctivas inmediatas.",
+          "isCorrect": true,
+          "rationale": "Es la fase donde ocurre la 'magia' de la interpretaci\u00f3n de la imagen procesada frente a los est\u00e1ndares."
+        },
+        {
+          "text": "En la exportaci\u00f3n autom\u00e1tica del hallazgo a un formulario inteligente de Excel.",
+          "isCorrect": false,
+          "rationale": "Este paso corresponde a la automatizaci\u00f3n, que es la etapa final del flujo digital."
+        },
+        {
+          "text": "En la revisi\u00f3n manual que hace el supervisor al final de su jornada laboral.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis en este flujo est\u00e1 automatizado mediante visi\u00f3n artificial para dar respuesta r\u00e1pida."
+        }
+      ],
+      "hint": "Es el paso posterior a subir la imagen, donde el sistema detecta anomal\u00edas como la falta de una baranda."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal de una 'Fiscalizaci\u00f3n' a diferencia de una inspecci\u00f3n o auditor\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Detectar actos o condiciones subest\u00e1ndar de manera preventiva y operativa.",
+          "isCorrect": false,
+          "rationale": "Este es el prop\u00f3sito de la inspecci\u00f3n, que suele ser realizada por la supervisi\u00f3n interna."
+        },
+        {
+          "text": "Vigilar el cumplimiento de la ley por parte de un ente gubernamental con fines coercitivos.",
+          "isCorrect": true,
+          "rationale": "La fiscalizaci\u00f3n es externa, estatal y tiene el poder de imponer multas o sanciones legales."
+        },
+        {
+          "text": "Evaluar estrat\u00e9gicamente si todo el sistema de gesti\u00f3n est\u00e1 funcionando correctamente.",
+          "isCorrect": false,
+          "rationale": "Ese es el objetivo de una auditor\u00eda, la cual busca no conformidades en el sistema."
+        },
+        {
+          "text": "Capacitar al personal operativo en el uso de herramientas de inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "La fiscalizaci\u00f3n no tiene un fin pedag\u00f3gico de herramientas, sino de vigilancia del marco legal."
+        }
+      ],
+      "hint": "Este proceso es netamente externo y puede terminar en infracciones o multas significativas."
+    },
+    {
+      "question": "\u00bfC\u00f3mo deben realizarse los simulacros de emergencia seg\u00fan el protocolo de seguridad moderna?",
+      "answerOptions": [
+        {
+          "text": "Avisando con semanas de anticipaci\u00f3n para que todos est\u00e9n preparados y tranquilos.",
+          "isCorrect": false,
+          "rationale": "Avisar con anticipaci\u00f3n crea una falsa sensaci\u00f3n de seguridad y no mide la respuesta real."
+        },
+        {
+          "text": "\u00danicamente en las oficinas administrativas para evitar interrumpir la producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Deben basarse en escenarios realistas de la matriz de riesgos en las \u00e1reas operativas."
+        },
+        {
+          "text": "De forma sorpresiva y basados en escenarios realistas mapeados previamente.",
+          "isCorrect": true,
+          "rationale": "La sorpresa es vital para evaluar la capacidad de respuesta bajo presi\u00f3n y la coordinaci\u00f3n real."
+        },
+        {
+          "text": "Excluyendo a las empresas contratistas para simplificar la coordinaci\u00f3n de la crisis.",
+          "isCorrect": false,
+          "rationale": "Es no negociable integrar a los contratistas bajo un mando unificado para evitar respuestas fatalmente descoordinadas."
+        }
+      ],
+      "hint": "Considera qu\u00e9 m\u00e9todo refleja mejor lo que suceder\u00eda en una crisis verdadera e inesperada."
+    },
+    {
+      "question": "Bajo el principio de 'Cultura Justa', \u00bfc\u00f3mo se interpreta el error humano en un accidente?",
+      "answerOptions": [
+        {
+          "text": "Como la causa ra\u00edz definitiva que debe ser sancionada de inmediato.",
+          "isCorrect": false,
+          "rationale": "La cultura justa evita la cacer\u00eda de brujas y no ve el error como el fin de la investigaci\u00f3n."
+        },
+        {
+          "text": "Como un s\u00edntoma de que existen deficiencias en la gesti\u00f3n general del sistema.",
+          "isCorrect": true,
+          "rationale": "El error humano es una se\u00f1al de fallas sist\u00e9micas subyacentes que permitieron que el evento ocurriera."
+        },
+        {
+          "text": "Como una acci\u00f3n voluntaria del trabajador para perjudicar a la empresa.",
+          "isCorrect": false,
+          "rationale": "Salvo casos de dolo, el error se analiza como una falla de control organizacional, no como un sabotaje."
+        },
+        {
+          "text": "Como un evento aleatorio que no puede ser prevenido ni analizado t\u00e9cnicamente.",
+          "isCorrect": false,
+          "rationale": "Los errores se pueden prevenir si se identifican y corrigen las fallas del sistema que los originan."
+        }
+      ],
+      "hint": "En lugar de buscar culpables, este enfoque busca entender qu\u00e9 fall\u00f3 en la organizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo es indispensable utilizar marcos de an\u00e1lisis como ICAM o \u00c1rbol de Causas en lugar de los '5 Porqu\u00e9s'?",
+      "answerOptions": [
+        {
+          "text": "En incidentes simples donde la causa es lineal y evidente a primera vista.",
+          "isCorrect": false,
+          "rationale": "Para eventos simples y lineales, los '5 Porqu\u00e9s' son suficientes y m\u00e1s r\u00e1pidos."
+        },
+        {
+          "text": "Ante accidentes graves o fatales que involucran m\u00faltiples fallas organizacionales.",
+          "isCorrect": true,
+          "rationale": "Los accidentes graves nunca son lineales; requieren herramientas potentes para destapar su complejidad sist\u00e9mica."
+        },
+        {
+          "text": "Cuando se desea terminar la investigaci\u00f3n lo m\u00e1s pronto posible sin mucho detalle.",
+          "isCorrect": false,
+          "rationale": "Estos m\u00e9todos son exhaustivos y profundos, por lo que no se usan para rapidez superficial."
+        },
+        {
+          "text": "Solo cuando el ente fiscalizador del gobierno lo exige expl\u00edcitamente por escrito.",
+          "isCorrect": false,
+          "rationale": "Es una decisi\u00f3n t\u00e9cnica basada en la complejidad y gravedad del evento, m\u00e1s all\u00e1 de la exigencia externa."
+        }
+      ],
+      "hint": "Piensa en la complejidad del evento: \u00bfes una l\u00ednea recta o una telara\u00f1a de fallas?"
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la fatiga laboral se considera un factor organizacional en una investigaci\u00f3n de accidentes?",
+      "answerOptions": [
+        {
+          "text": "Porque es una decisi\u00f3n puramente individual del trabajador no dormir bien.",
+          "isCorrect": false,
+          "rationale": "Si la fatiga deriva de turnos impuestos, es responsabilidad de la gesti\u00f3n de la empresa, no solo del individuo."
+        },
+        {
+          "text": "Porque si el error ocurre bajo fatiga extrema por turnos impuestos, la empresa fall\u00f3 en su gesti\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La organizaci\u00f3n es responsable de establecer l\u00edmites que prevengan el agotamiento cr\u00edtico del personal."
+        },
+        {
+          "text": "Porque la fatiga no tiene mediciones objetivas y depende solo de la percepci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La fatiga puede y debe correlacionarse mediante variables objetivas y l\u00edmites permitidos."
+        },
+        {
+          "text": "Porque la ley proh\u00edbe mencionar la fatiga en los informes oficiales de accidentes.",
+          "isCorrect": false,
+          "rationale": "Al contrario, es una variable cr\u00edtica que debe medirse para entender la ra\u00edz del problema."
+        }
+      ],
+      "hint": "Reflexiona sobre qui\u00e9n controla los horarios de trabajo y la carga laboral en una operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo representa confiar ciegamente en los reportes generados por inteligencia artificial sin revisi\u00f3n experta?",
+      "answerOptions": [
+        {
+          "text": "Las alucinaciones de la IA, donde el sistema inventa datos o normativas inexistentes.",
+          "isCorrect": true,
+          "rationale": "Los modelos pueden generar informaci\u00f3n falsa de manera convincente, lo que requiere verificaci\u00f3n humana obligatoria."
+        },
+        {
+          "text": "Un incremento injustificado en el consumo de energ\u00eda de los servidores de la planta.",
+          "isCorrect": false,
+          "rationale": "Aunque ocurre, el riesgo cr\u00edtico en seguridad es la veracidad de la informaci\u00f3n, no el consumo energ\u00e9tico."
+        },
+        {
+          "text": "La imposibilidad de compartir el reporte a trav\u00e9s de plataformas como Google Drive.",
+          "isCorrect": false,
+          "rationale": "Esto es un inconveniente t\u00e9cnico menor, no un riesgo cr\u00edtico para la seguridad y salud."
+        },
+        {
+          "text": "Que la IA aprenda demasiado r\u00e1pido y decida reemplazar a todo el equipo de prevenci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este es un temor infundado; el riesgo real es la calidad y veracidad de los datos que entrega."
+        }
+      ],
+      "hint": "El t\u00e9rmino t\u00e9cnico se refiere a cuando la IA crea 'realidades' que no existen en los documentos fuente."
+    },
+    {
+      "question": "Desde el punto de vista legal, \u00bfc\u00f3mo se castiga la omisi\u00f3n de verificar un reporte de IA que resulta en un accidente?",
+      "answerOptions": [
+        {
+          "text": "Se considera un error tecnol\u00f3gico del cual el profesional no es responsable.",
+          "isCorrect": false,
+          "rationale": "El profesional es siempre el responsable final del uso que le da a sus herramientas de asistencia."
+        },
+        {
+          "text": "La ley establece que el acto de omisi\u00f3n es igual de punible que un acto voluntario.",
+          "isCorrect": true,
+          "rationale": "No revisar un reporte generado por IA puede derivar en negligencia profesional y responsabilidades penales directas."
+        },
+        {
+          "text": "Solo se sanciona a la empresa desarrolladora del software de inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad recae en el profesional que aplica la herramienta en el campo de la seguridad."
+        },
+        {
+          "text": "No existe sanci\u00f3n legal alguna, ya que la IA es una tecnolog\u00eda a\u00fan no regulada.",
+          "isCorrect": false,
+          "rationale": "Las leyes de seguridad vigentes ya cubren la negligencia por omisi\u00f3n en el cumplimiento de funciones."
+        }
+      ],
+      "hint": "Considera que ignorar un peligro potencial (aunque lo haya redactado una m\u00e1quina) tiene consecuencias serias."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta del ecosistema digital destaca por tener una capacidad de hasta 2 millones de tokens?",
+      "answerOptions": [
+        {
+          "text": "ChatGPT (OpenAI).",
+          "isCorrect": false,
+          "rationale": "Aunque es vers\u00e1til, el texto menciona otra herramienta espec\u00edfica para vol\u00famenes masivos de tokens."
+        },
+        {
+          "text": "Yakimi.",
+          "isCorrect": true,
+          "rationale": "Esta herramienta rompe el molde permitiendo analizar a\u00f1os de historiales de accidentes de un solo golpe debido a su enorme capacidad."
+        },
+        {
+          "text": "Dixik.",
+          "isCorrect": false,
+          "rationale": "Esta herramienta se especializa en visi\u00f3n artificial, no en la capacidad extrema de tokens para texto."
+        },
+        {
+          "text": "Excel.",
+          "isCorrect": false,
+          "rationale": "Excel es una herramienta de hojas de c\u00e1lculo, no un modelo de lenguaje de inteligencia artificial."
+        }
+      ],
+      "hint": "Es la herramienta recomendada para analizar una d\u00e9cada entera de incidentes en segundos."
+    },
+    {
+      "question": "\u00bfC\u00f3mo ayuda la IA a combatir el fen\u00f3meno del 'elefante blanco documental'?",
+      "answerOptions": [
+        {
+          "text": "Creando carpetas digitales con mayor capacidad de almacenamiento que las f\u00edsicas.",
+          "isCorrect": false,
+          "rationale": "El problema no es el espacio, sino la utilidad y relevancia de la informaci\u00f3n acumulada."
+        },
+        {
+          "text": "Automatizando la carga administrativa para recuperar tiempo y estar presentes en el terreno.",
+          "isCorrect": true,
+          "rationale": "La IA elimina el papeleo in\u00fatil, permitiendo gestionar los riesgos reales frente a frente con empat\u00eda."
+        },
+        {
+          "text": "Generando autom\u00e1ticamente miles de p\u00e1ginas adicionales para impresionar a los auditores.",
+          "isCorrect": false,
+          "rationale": "Eso aumentar\u00eda el 'elefante blanco'; el objetivo es calidad y relevancia, no cantidad de papel."
+        },
+        {
+          "text": "Reemplazando todas las firmas de los trabajadores por c\u00f3digos de barras inalterables.",
+          "isCorrect": false,
+          "rationale": "Aunque es una mejora tecnol\u00f3gica, la soluci\u00f3n de fondo es eliminar la burocracia ineficaz."
+        }
+      ],
+      "hint": "Se trata de cambiar el papeleo in\u00fatil que acumula polvo por acciones que salven vidas en campo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 utilidad tiene el uso de iconos visuales (como corazones o manos arriba) en las evaluaciones de desempe\u00f1o?",
+      "answerOptions": [
+        {
+          "text": "Simplificar el sistema de calificaci\u00f3n para que la IA no tenga que procesar n\u00fameros.",
+          "isCorrect": false,
+          "rationale": "La IA procesa n\u00fameros f\u00e1cilmente; el uso de iconos tiene un fin humano y emocional."
+        },
+        {
+          "text": "Humanizar el proceso de retroalimentaci\u00f3n y conectar mejor con el personal.",
+          "isCorrect": true,
+          "rationale": "Este detalle, aunque parece menor, facilita la comunicaci\u00f3n y el compromiso del trabajador con su seguridad."
+        },
+        {
+          "text": "Cumplir con las normas internacionales de se\u00f1alizaci\u00f3n industrial de colores.",
+          "isCorrect": false,
+          "rationale": "Los iconos de retroalimentaci\u00f3n en evaluaciones son pedag\u00f3gicos, no se\u00f1ales de advertencia f\u00edsica."
+        },
+        {
+          "text": "Reducir el tama\u00f1o de los archivos de Excel generados autom\u00e1ticamente.",
+          "isCorrect": false,
+          "rationale": "Los iconos no afectan significativamente el peso del archivo; su valor es el impacto en la comunicaci\u00f3n."
+        }
+      ],
+      "hint": "Piensa en el efecto psicol\u00f3gico que tiene una calificaci\u00f3n visualmente positiva frente a una escala fr\u00eda del 1 al 5."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la misi\u00f3n principal que persigue la integraci\u00f3n de la IA en la seguridad y salud en el trabajo?",
+      "answerOptions": [
+        {
+          "text": "Reducir los costos operativos de las empresas mineras en un $50\\%$.",
+          "isCorrect": false,
+          "rationale": "Aunque la eficiencia aumenta, la misi\u00f3n fundamental es la integridad humana, no el ahorro econ\u00f3mico."
+        },
+        {
+          "text": "Garantizar que cada trabajador regrese a casa sano y salvo, tal como lleg\u00f3.",
+          "isCorrect": true,
+          "rationale": "Toda la tecnolog\u00eda y los cambios de modelo son herramientas para el fin supremo de proteger la vida."
+        },
+        {
+          "text": "Eliminar por completo la necesidad de supervisores humanos en las plantas industriales.",
+          "isCorrect": false,
+          "rationale": "La IA potencia al supervisor moderno (Supervisor 4.0), no busca su desaparici\u00f3n."
+        },
+        {
+          "text": "Lograr que la empresa obtenga premios internacionales de innovaci\u00f3n tecnol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "Los premios son secundarios; el \u00e9xito real se mide en la prevenci\u00f3n de accidentes y enfermedades."
+        }
+      ],
+      "hint": "Es el objetivo final y m\u00e1s noble de cualquier sistema de prevenci\u00f3n de riesgos."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Rol del Supervisor 4.0",
+      "Conceptos T\u00e9cnicos de IA (Tokens y Modelos)",
+      "Ecosistema de Herramientas Digitales (ChatGPT, Claude, Gemini, etc.)",
+      "Ingenier\u00eda de Prompts y sus 5 Pilares",
+      "Gesti\u00f3n Documental y Documentaci\u00f3n Viva",
+      "Ejecuci\u00f3n T\u00e1ctica en Campo y Visi\u00f3n Artificial",
+      "Conceptos Legales (Inspecci\u00f3n, Auditor\u00eda y Fiscalizaci\u00f3n)",
+      "Respuesta a Emergencias y Simulacros",
+      "Cultura Justa e Investigaci\u00f3n de Accidentes",
+      "\u00c9tica y Responsabilidad Profesional en el uso de IA"
+    ],
+    "followUp": [
+      "Metodolog\u00edas ICAM y SCAT para an\u00e1lisis de fallas sist\u00e9micas",
+      "Legislaci\u00f3n de Seguridad y Salud en el Trabajo (Ley 29783)",
+      "Implementaci\u00f3n de modelos IPERC Din\u00e1micos con IA",
+      "Gesti\u00f3n de la fatiga como riesgo psicosocial y organizacional",
+      "Seguridad de datos y privacidad en la integraci\u00f3n de IA y la nube"
+    ]
+  }
+}

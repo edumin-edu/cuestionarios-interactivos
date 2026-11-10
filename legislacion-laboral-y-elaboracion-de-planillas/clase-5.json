@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l fue la tasa de informalidad laboral registrada en el Per\u00fa durante el a\u00f1o 2020?",
+      "answerOptions": [
+        {
+          "text": "75.3%",
+          "isCorrect": true,
+          "rationale": "Esta cifra represent\u00f3 la realidad del mercado laboral peruano en dicho a\u00f1o y es el motor de la arquitectura de los reg\u00edmenes especiales."
+        },
+        {
+          "text": "50.5%",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra alta, no alcanza el nivel cr\u00edtico de informalidad que motiva la creaci\u00f3n de reg\u00edmenes laborales modulares."
+        },
+        {
+          "text": "65.8%",
+          "isCorrect": false,
+          "rationale": "Este porcentaje subestima la magnitud del problema de informalidad que el sistema legal intenta combatir mediante beneficios reducidos."
+        },
+        {
+          "text": "82.1%",
+          "isCorrect": false,
+          "rationale": "Esta cifra excede el dato oficial registrado para ese periodo espec\u00edfico de an\u00e1lisis de la realidad nacional."
+        }
+      ],
+      "hint": "Se trata de un porcentaje que supera las tres cuartas partes de la fuerza laboral."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el criterio actual para categorizar a una empresa dentro del r\u00e9gimen MIPE?",
+      "answerOptions": [
+        {
+          "text": "El n\u00famero total de trabajadores en planilla.",
+          "isCorrect": false,
+          "rationale": "Este era el criterio hist\u00f3rico, pero ha sido desplazado por una visi\u00f3n m\u00e1s pragm\u00e1tica basada en la capacidad financiera."
+        },
+        {
+          "text": "El nivel de ventas anuales medido en UIT.",
+          "isCorrect": true,
+          "rationale": "La normativa evolucion\u00f3 para centrarse en la capacidad real del negocio para generar ingresos y no en la cantidad de empleados."
+        },
+        {
+          "text": "El rubro o sector econ\u00f3mico de la actividad.",
+          "isCorrect": false,
+          "rationale": "Si bien hay exclusiones por rubro, la categorizaci\u00f3n general entre micro y peque\u00f1a se define por volumen transaccional."
+        },
+        {
+          "text": "La antig\u00fcedad de la empresa desde su inscripci\u00f3n en RUC.",
+          "isCorrect": false,
+          "rationale": "El tiempo de operaci\u00f3n no determina el r\u00e9gimen; una empresa nueva puede ser peque\u00f1a si sus ventas proyectadas son altas."
+        }
+      ],
+      "hint": "Considere la m\u00e9trica que eval\u00faa la capacidad real de generar ingresos del negocio."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo de ventas anuales para que una empresa sea considerada como microempresa?",
+      "answerOptions": [
+        {
+          "text": "100 UIT",
+          "isCorrect": false,
+          "rationale": "Este monto es inferior al tope legal establecido, lo que limitar\u00eda innecesariamente el acceso a los beneficios del r\u00e9gimen."
+        },
+        {
+          "text": "150 UIT",
+          "isCorrect": true,
+          "rationale": "Este es el techo exacto que define a la microempresa; superar este monto implica transitar hacia la categor\u00eda de peque\u00f1a empresa."
+        },
+        {
+          "text": "500 UIT",
+          "isCorrect": false,
+          "rationale": "Este monto ya corresponde a la categor\u00eda de peque\u00f1a empresa, excediendo por mucho el l\u00edmite de la microempresa."
+        },
+        {
+          "text": "1,700 UIT",
+          "isCorrect": false,
+          "rationale": "Este es el l\u00edmite m\u00e1ximo para la peque\u00f1a empresa, no para la microempresa."
+        }
+      ],
+      "hint": "Piense en el valor que equivale a 772,500 soles aproximadamente."
+    },
+    {
+      "question": "Si una peque\u00f1a empresa supera el l\u00edmite de $1,700$ UIT durante dos a\u00f1os consecutivos, \u00bfcu\u00e1nto tiempo de 'periodo de gracia' recibe antes de pasar al r\u00e9gimen general?",
+      "answerOptions": [
+        {
+          "text": "1 a\u00f1o",
+          "isCorrect": false,
+          "rationale": "Un solo a\u00f1o es el periodo otorgado a las microempresas que pasan a ser peque\u00f1as empresas, no para el salto al r\u00e9gimen general."
+        },
+        {
+          "text": "2 a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Dos a\u00f1os es el tiempo de exceso requerido para activar el beneficio, pero no es la duraci\u00f3n del periodo de gracia en s\u00ed."
+        },
+        {
+          "text": "3 a\u00f1os",
+          "isCorrect": true,
+          "rationale": "La ley otorga este plazo extendido para que la empresa planifique sus nuevos costos laborales sin desestabilizarse financieramente."
+        },
+        {
+          "text": "6 meses",
+          "isCorrect": false,
+          "rationale": "Un periodo tan corto ser\u00eda insuficiente para que una organizaci\u00f3n ajuste su estructura de costos al r\u00e9gimen general."
+        }
+      ],
+      "hint": "Es un plazo de seguridad que permite una planificaci\u00f3n a mediano plazo de los nuevos pasivos laborales."
+    },
+    {
+      "question": "\u00bfDesde qu\u00e9 momento surten efecto legal los beneficios del r\u00e9gimen MIPE tras la inscripci\u00f3n en el Remipe?",
+      "answerOptions": [
+        {
+          "text": "Desde la fecha de inicio de actividades en el RUC.",
+          "isCorrect": false,
+          "rationale": "La ley no permite la aplicaci\u00f3n retroactiva de estos beneficios; la formalidad del registro es constitutiva de derechos."
+        },
+        {
+          "text": "Desde la fecha exacta de la presentaci\u00f3n de la solicitud.",
+          "isCorrect": true,
+          "rationale": "Este hito marca la pauta para los nuevos contratos; cualquier trabajador contratado antes de este momento mantiene sus derechos del r\u00e9gimen general."
+        },
+        {
+          "text": "30 d\u00edas despu\u00e9s de obtener la constancia de inscripci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "No existe un periodo de espera legal tras el tr\u00e1mite; el efecto es inmediato a partir de la validaci\u00f3n de la solicitud."
+        },
+        {
+          "text": "Al inicio del siguiente ejercicio fiscal anual.",
+          "isCorrect": false,
+          "rationale": "Los beneficios laborales se activan con el registro del contrato y la inscripci\u00f3n, no dependen del calendario tributario anual."
+        }
+      ],
+      "hint": "El tr\u00e1mite digital marca un hito temporal espec\u00edfico para la validez de los nuevos contratos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 condici\u00f3n debe cumplirse para reingresar a un trabajador bajo el r\u00e9gimen MIPE si previamente estuvo en el r\u00e9gimen general con el mismo empleador?",
+      "answerOptions": [
+        {
+          "text": "Debe haber pasado al menos 1 a\u00f1o desde su cese laboral.",
+          "isCorrect": true,
+          "rationale": "Esta barrera legal previene simulaciones o despidos fraudulentos destinados a recortar derechos adquiridos."
+        },
+        {
+          "text": "Basta con que el trabajador firme una declaraci\u00f3n jurada de renuncia.",
+          "isCorrect": false,
+          "rationale": "Los derechos laborales son irrenunciables; un documento de este tipo no convalida el fraude a la ley."
+        },
+        {
+          "text": "Solo se requiere que la empresa haya obtenido su registro Remipe.",
+          "isCorrect": false,
+          "rationale": "El registro habilita el r\u00e9gimen para nuevos ingresos, pero no permite migrar trabajadores antiguos de forma inmediata."
+        },
+        {
+          "text": "Debe mediar un periodo de 6 meses de inactividad en la planilla.",
+          "isCorrect": false,
+          "rationale": "El plazo legal establecido para evitar contingencias con Sunafil es mayor a un semestre."
+        }
+      ],
+      "hint": "La normativa impone un plazo de 'enfriamiento' considerable para proteger la irrenunciabilidad de derechos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia enfrenta una empresa si se detecta la desnaturalizaci\u00f3n del r\u00e9gimen MIPE?",
+      "answerOptions": [
+        {
+          "text": "El pago retroactivo del 100% de los beneficios del r\u00e9gimen general.",
+          "isCorrect": true,
+          "rationale": "Ante el fraude, la autoridad obliga a reconocer la CTS, gratificaciones y vacaciones completas como si el r\u00e9gimen especial nunca hubiera existido."
+        },
+        {
+          "text": "Una amonestaci\u00f3n escrita y la obligaci\u00f3n de inscribirse nuevamente.",
+          "isCorrect": false,
+          "rationale": "Dada la gravedad de la desnaturalizaci\u00f3n, las sanciones no son meramente administrativas sino patrimoniales y severas."
+        },
+        {
+          "text": "La suspensi\u00f3n de la licencia de funcionamiento por 90 d\u00edas.",
+          "isCorrect": false,
+          "rationale": "Aunque es una medida posible para otras faltas, la consecuencia directa de la desnaturalizaci\u00f3n laboral es la restituci\u00f3n de beneficios."
+        },
+        {
+          "text": "El pago de una multa fija de 10 UIT sin recargos adicionales.",
+          "isCorrect": false,
+          "rationale": "Las contingencias son variables y dependen de la cantidad de trabajadores y el tiempo de la infracci\u00f3n, superando a menudo montos fijos."
+        }
+      ],
+      "hint": "Piense en una sanci\u00f3n que busca restituir todos los derechos econ\u00f3micos que el trabajador dej\u00f3 de percibir."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal que define la operatividad del r\u00e9gimen laboral pesquero?",
+      "answerOptions": [
+        {
+          "text": "La continuidad absoluta de las faenas durante todo el a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la pesca est\u00e1 sujeta a factores biol\u00f3gicos y vedas que impiden una operaci\u00f3n continua."
+        },
+        {
+          "text": "Su naturaleza estructuralmente intermitente.",
+          "isCorrect": true,
+          "rationale": "La dependencia de factores clim\u00e1ticos y vedas exige un modelo de beneficios sociales particular adaptado a periodos discontinuos."
+        },
+        {
+          "text": "La prohibici\u00f3n de contratar personal extranjero en la tripulaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El r\u00e9gimen se define por la forma de pago y la naturaleza de la actividad, no por restricciones de nacionalidad espec\u00edficas."
+        },
+        {
+          "text": "El pago de beneficios sociales \u00fanicamente al final de cada a\u00f1o calendario.",
+          "isCorrect": false,
+          "rationale": "Este r\u00e9gimen utiliza un modelo cancelatorio inmediato para evitar deudas inmanejables al finalizar las temporadas."
+        }
+      ],
+      "hint": "Considere que esta actividad depende totalmente de ciclos biol\u00f3gicos y clim\u00e1ticos que no se pueden controlar."
+    },
+    {
+      "question": "En el r\u00e9gimen pesquero, \u00bfqu\u00e9 porcentaje de la remuneraci\u00f3n se destina a la Compensaci\u00f3n por Tiempo de Servicios (CTS)?",
+      "answerOptions": [
+        {
+          "text": "16.66%",
+          "isCorrect": false,
+          "rationale": "Este porcentaje corresponde legalmente a las gratificaciones, no a la CTS."
+        },
+        {
+          "text": "8.33%",
+          "isCorrect": true,
+          "rationale": "Este valor porcentual est\u00e1 parametrizado para liquidar la CTS de forma proporcional al tiempo trabajado en cada faena."
+        },
+        {
+          "text": "9.00%",
+          "isCorrect": false,
+          "rationale": "Este porcentaje suele asociarse a aportes de salud, pero no al c\u00e1lculo de los beneficios sociales en este sector."
+        },
+        {
+          "text": "15.00%",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra com\u00fan en otros c\u00e1lculos, en la pesca los beneficios de CTS y vacaciones est\u00e1n fijados en una octava parte aproximada."
+        }
+      ],
+      "hint": "Es el mismo porcentaje que se aplica para el c\u00e1lculo de las vacaciones en este sector."
+    },
+    {
+      "question": "\u00bfC\u00f3mo debe manejarse el fondo de la CTS en el sector pesquero seg\u00fan la normativa bancaria?",
+      "answerOptions": [
+        {
+          "text": "Debe depositarse en la misma cuenta sueldo del trabajador.",
+          "isCorrect": false,
+          "rationale": "La ley exige separaci\u00f3n estricta para garantizar la intangibilidad del fondo de CTS frente al gasto corriente."
+        },
+        {
+          "text": "En una cuenta especial e intangible separada de la cuenta de libre disponibilidad.",
+          "isCorrect": true,
+          "rationale": "Esta estructura asegura que el fondo de previsi\u00f3n social permanezca bloqueado hasta el cese definitivo de la actividad."
+        },
+        {
+          "text": "Mediante cheques de gerencia entregados personalmente al trabajador.",
+          "isCorrect": false,
+          "rationale": "El sistema financiero exige dep\u00f3sitos en cuentas espec\u00edficas para mantener la trazabilidad y seguridad del fondo."
+        },
+        {
+          "text": "En una cuenta fiduciaria a nombre de la asociaci\u00f3n de armadores.",
+          "isCorrect": false,
+          "rationale": "El titular de la cuenta debe ser siempre el trabajador, a pesar de las restricciones de disponibilidad."
+        }
+      ],
+      "hint": "La norma busca proteger el dinero para el futuro del trabajador, evitando que se mezcle con su salario diario."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre si una empresa pesquera no desglosa correctamente los beneficios en la boleta de pago?",
+      "answerOptions": [
+        {
+          "text": "Se presume que todo el monto pagado es remuneraci\u00f3n ordinaria.",
+          "isCorrect": true,
+          "rationale": "Sin prueba documental clara del concepto pagado, Sunafil puede obligar al empleador a realizar un pago duplicado de los beneficios."
+        },
+        {
+          "text": "El trabajador pierde el derecho a reclamar los beneficios omitidos.",
+          "isCorrect": false,
+          "rationale": "La falta de formalidad en la boleta perjudica al empleador, no al trabajador, debido al principio de primac\u00eda de la realidad."
+        },
+        {
+          "text": "Se aplica una multa autom\u00e1tica de 1 UIT por cada boleta err\u00f3nea.",
+          "isCorrect": false,
+          "rationale": "M\u00e1s que una multa fija, el riesgo principal es la contingencia de tener que pagar nuevamente todos los beneficios sociales."
+        },
+        {
+          "text": "La Sunafil otorga un plazo de 48 horas para subsanar el error sin sanciones.",
+          "isCorrect": false,
+          "rationale": "En una inspecci\u00f3n, la falta de claridad en el pago de beneficios suele considerarse una infracci\u00f3n ya consumada."
+        }
+      ],
+      "hint": "Recuerde que en este modelo, la pulcritud documental es la \u00fanica defensa contra reclamos de falta de pago."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el presupuesto m\u00ednimo de una obra para que sea obligatorio aplicar el r\u00e9gimen de construcci\u00f3n civil?",
+      "answerOptions": [
+        {
+          "text": "20 UIT",
+          "isCorrect": false,
+          "rationale": "Este umbral es demasiado bajo; proyectos menores suelen regirse por normas civiles o contratos de servicios diferentes."
+        },
+        {
+          "text": "50 UIT",
+          "isCorrect": true,
+          "rationale": "Este es el l\u00edmite t\u00e9cnico legal; cualquier proyecto que supere este monto debe gestionar sus planillas bajo las reglas especializadas del sector."
+        },
+        {
+          "text": "100 UIT",
+          "isCorrect": false,
+          "rationale": "A partir de las 50 UIT ya es obligatorio, por lo que esperar a las 100 UIT implicar\u00eda un incumplimiento normativo previo."
+        },
+        {
+          "text": "150 UIT",
+          "isCorrect": false,
+          "rationale": "Este n\u00famero se confunde con el l\u00edmite de la microempresa, pero no es el umbral para el sector construcci\u00f3n."
+        }
+      ],
+      "hint": "El valor referencial para el periodo 2023-2024 se sit\u00faa en 257,500 soles."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tratamiento legal recibe la Bonificaci\u00f3n Unificada de Construcci\u00f3n (BUC)?",
+      "answerOptions": [
+        {
+          "text": "Es computable para el c\u00e1lculo de gratificaciones y vacaciones.",
+          "isCorrect": false,
+          "rationale": "La regla de oro de este beneficio es precisamente su naturaleza no computable para pasivos laborales a largo plazo."
+        },
+        {
+          "text": "Se aplica como un porcentaje adicional sobre el jornal b\u00e1sico.",
+          "isCorrect": true,
+          "rationale": "Representa un incremento directo (32% para operarios) destinado a mejorar el ingreso diario por la naturaleza del trabajo."
+        },
+        {
+          "text": "Sustituye por completo al pago de la CTS del trabajador.",
+          "isCorrect": false,
+          "rationale": "La CTS en construcci\u00f3n se calcula por separado mediante una tasa del 15% que incluye la sustituci\u00f3n de utilidades."
+        },
+        {
+          "text": "Solo se paga a los trabajadores que laboran en zonas de altitud.",
+          "isCorrect": false,
+          "rationale": "El BUC es un beneficio general para las categor\u00edas de operario, oficial y pe\u00f3n, independiente de las bonificaciones por zona."
+        }
+      ],
+      "hint": "Es un incremento significativo al salario diario pero est\u00e1 'aislado' de otros c\u00e1lculos de beneficios sociales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el plazo m\u00e1ximo para inscribirse en los registros obligatorios (Redse/Renoc) una vez iniciada una obra de construcci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "3 d\u00edas h\u00e1biles",
+          "isCorrect": false,
+          "rationale": "Este plazo es m\u00e1s restrictivo que el establecido en la norma para completar la formalizaci\u00f3n de la obra."
+        },
+        {
+          "text": "5 d\u00edas h\u00e1biles",
+          "isCorrect": true,
+          "rationale": "Esta ventana temporal es cr\u00edtica; excederla expone a la empresa a sanciones inmediatas por parte de la inspecci\u00f3n laboral."
+        },
+        {
+          "text": "15 d\u00edas calendario",
+          "isCorrect": false,
+          "rationale": "La norma exige una celeridad mayor debido al alto riesgo y la rotatividad caracter\u00edstica del personal en obras."
+        },
+        {
+          "text": "30 d\u00edas desde la primera valorizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El registro depende del inicio f\u00edsico de las labores y no de los hitos de facturaci\u00f3n o cobro del proyecto."
+        }
+      ],
+      "hint": "Se trata de un periodo de una semana laboral est\u00e1ndar para cumplir con la formalidad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del derecho colectivo de trabajo frente a la relaci\u00f3n laboral individual?",
+      "answerOptions": [
+        {
+          "text": "Eliminar la capacidad del empleador para dirigir la empresa.",
+          "isCorrect": false,
+          "rationale": "El derecho colectivo no busca sustituir la gesti\u00f3n empresarial, sino equilibrar las condiciones de negociaci\u00f3n."
+        },
+        {
+          "text": "Servir como contrapeso estructural a la superioridad econ\u00f3mica del empleador.",
+          "isCorrect": true,
+          "rationale": "A trav\u00e9s de la uni\u00f3n, los trabajadores nivelan la balanza para negociar beneficios y condiciones de forma m\u00e1s equitativa."
+        },
+        {
+          "text": "Garantizar que todos los trabajadores ganen exactamente el mismo sueldo.",
+          "isCorrect": false,
+          "rationale": "La negociaci\u00f3n colectiva busca mejorar m\u00ednimos, pero no impone una igualdad salarial absoluta que ignore categor\u00edas."
+        },
+        {
+          "text": "Facilitar el despido de trabajadores con bajo rendimiento.",
+          "isCorrect": false,
+          "rationale": "El enfoque colectivo protege la estabilidad y los derechos del grupo, no es una herramienta para facilitar ceses."
+        }
+      ],
+      "hint": "Piense en el concepto de 'nivelaci\u00f3n de fuerzas' entre partes con diferente poder econ\u00f3mico."
+    },
+    {
+      "question": "\u00bfCu\u00e1ntos trabajadores se requieren como m\u00ednimo en una empresa para poder constituir legalmente un sindicato?",
+      "answerOptions": [
+        {
+          "text": "10 trabajadores",
+          "isCorrect": false,
+          "rationale": "Con menos de 20 trabajadores, la ley solo prev\u00e9 la figura de los delegados, no la de un sindicato formal de empresa."
+        },
+        {
+          "text": "20 trabajadores",
+          "isCorrect": true,
+          "rationale": "Este es el qu\u00f3rum legal necesario para activar el derecho de formar una organizaci\u00f3n sindical propia en la unidad productiva."
+        },
+        {
+          "text": "50 trabajadores",
+          "isCorrect": false,
+          "rationale": "Aunque es un n\u00famero com\u00fan en empresas medianas, el derecho a la sindicalizaci\u00f3n se activa mucho antes."
+        },
+        {
+          "text": "100 trabajadores",
+          "isCorrect": false,
+          "rationale": "Este n\u00famero no corresponde al umbral de constituci\u00f3n, aunque influye en otras obligaciones como el comit\u00e9 de seguridad."
+        }
+      ],
+      "hint": "Es el doble de la cantidad m\u00ednima requerida para elegir delegados sindicales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tipo de cl\u00e1usulas en un convenio colectivo tienen car\u00e1cter de ley entre las partes y afectan directamente al salario?",
+      "answerOptions": [
+        {
+          "text": "Cl\u00e1usulas obligacionales",
+          "isCorrect": false,
+          "rationale": "Estas se refieren a compromisos entre las instituciones (empresa-sindicato), como el mantenimiento de la paz laboral."
+        },
+        {
+          "text": "Cl\u00e1usulas normativas",
+          "isCorrect": true,
+          "rationale": "Son las que se incorporan autom\u00e1ticamente a los contratos individuales, regulando aumentos y jornadas."
+        },
+        {
+          "text": "Cl\u00e1usulas delimitadoras",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n es marcar el \u00e1mbito de aplicaci\u00f3n del convenio, es decir, a qui\u00e9nes protege, pero no fijan montos."
+        },
+        {
+          "text": "Cl\u00e1usulas de arbitraje",
+          "isCorrect": false,
+          "rationale": "Estas definen los mecanismos para resolver conflictos futuros, no las condiciones econ\u00f3micas actuales."
+        }
+      ],
+      "hint": "Son las cl\u00e1usulas m\u00e1s tangibles que modifican la realidad diaria del trabajador."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el valor legal de un laudo arbitral en la resoluci\u00f3n de un conflicto colectivo?",
+      "answerOptions": [
+        {
+          "text": "Es una recomendaci\u00f3n no vinculante para las partes.",
+          "isCorrect": false,
+          "rationale": "El laudo no es una sugerencia; es una decisi\u00f3n de cumplimiento obligatorio impuesta por un tercero."
+        },
+        {
+          "text": "Tiene fuerza de sentencia y su impugnaci\u00f3n es muy restringida.",
+          "isCorrect": true,
+          "rationale": "Lo dictado por el tribunal arbitral es pr\u00e1cticamente inamovible, salvo por vicios de procedimiento muy graves."
+        },
+        {
+          "text": "Puede ser modificado libremente por el Ministerio de Trabajo.",
+          "isCorrect": false,
+          "rationale": "La autoridad administrativa no tiene facultades para alterar el fondo de una decisi\u00f3n arbitral firme."
+        },
+        {
+          "text": "Solo tiene validez si el sindicato est\u00e1 de acuerdo con el resultado.",
+          "isCorrect": false,
+          "rationale": "El arbitraje somete a ambas partes a la decisi\u00f3n del tercero, independientemente de si el resultado les favorece."
+        }
+      ],
+      "hint": "Considere que tiene la misma jerarqu\u00eda que una decisi\u00f3n tomada por un juez en \u00faltima instancia."
+    },
+    {
+      "question": "\u00bfCon cu\u00e1ntos d\u00edas de anticipaci\u00f3n se debe comunicar una huelga si la empresa presta servicios p\u00fablicos esenciales?",
+      "answerOptions": [
+        {
+          "text": "3 d\u00edas h\u00e1biles",
+          "isCorrect": false,
+          "rationale": "Este plazo es insuficiente para organizar los servicios m\u00ednimos que la ley exige en sectores cr\u00edticos."
+        },
+        {
+          "text": "5 d\u00edas h\u00e1biles",
+          "isCorrect": false,
+          "rationale": "Este es el plazo para servicios generales, pero los servicios esenciales requieren un margen mayor."
+        },
+        {
+          "text": "10 d\u00edas h\u00e1biles",
+          "isCorrect": true,
+          "rationale": "La ley exige el doble de tiempo para servicios esenciales para evitar poner en riesgo la salud o seguridad de la poblaci\u00f3n."
+        },
+        {
+          "text": "15 d\u00edas calendario",
+          "isCorrect": false,
+          "rationale": "Aunque es un tiempo prudente, el plazo legal exacto est\u00e1 definido en d\u00edas h\u00e1biles y es ligeramente menor."
+        }
+      ],
+      "hint": "Es el doble del tiempo requerido para una empresa que no sea de servicios p\u00fablicos vitales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 facultad adquiere el empleador si una huelga es declarada ilegal y los trabajadores no regresan tras 3 d\u00edas consecutivos?",
+      "answerOptions": [
+        {
+          "text": "Puede reducir el sueldo de todo el personal en un 50%.",
+          "isCorrect": false,
+          "rationale": "Las sanciones econ\u00f3micas directas sobre el sueldo no est\u00e1n permitidas de esa forma; la sanci\u00f3n es sobre el v\u00ednculo laboral."
+        },
+        {
+          "text": "Tiene la potestad de proceder con el despido por abandono de trabajo.",
+          "isCorrect": true,
+          "rationale": "El incumplimiento de la orden de retorno tras la declaraci\u00f3n de ilegalidad configura una falta grave justificada."
+        },
+        {
+          "text": "Debe disolver el sindicato de forma autom\u00e1tica.",
+          "isCorrect": false,
+          "rationale": "La ilegalidad de una huelga sanciona la conducta individual de los trabajadores, no elimina necesariamente la existencia jur\u00eddica del sindicato."
+        },
+        {
+          "text": "Queda exento de pagar cualquier beneficio social acumulado.",
+          "isCorrect": false,
+          "rationale": "Incluso en caso de despido justificado, los beneficios sociales truncos son derechos adquiridos que deben liquidarse."
+        }
+      ],
+      "hint": "Se trata de la consecuencia m\u00e1xima por la interrupci\u00f3n injustificada de la prestaci\u00f3n personal del servicio."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Reg\u00edmenes laborales sectoriales (MIPE, Pesca, Construcci\u00f3n)",
+      "Formalizaci\u00f3n empresarial y Remipe",
+      "Derecho Colectivo y Sindicalizaci\u00f3n",
+      "Negociaci\u00f3n Colectiva y Convenios",
+      "Mecanismos de resoluci\u00f3n de conflictos (Arbitraje y Huelga)"
+    ],
+    "followUp": [
+      "Estructura de costos laborales en el r\u00e9gimen general vs especial",
+      "Jurisprudencia del Tribunal de Fiscalizaci\u00f3n Laboral sobre primac\u00eda de la realidad",
+      "Gesti\u00f3n de cuadrillas de emergencia en servicios p\u00fablicos esenciales",
+      "Protecci\u00f3n del fuero sindical y actos de hostilidad laboral",
+      "Criterios de inspecci\u00f3n de Sunafil en obras de construcci\u00f3n civil"
+    ]
+  }
+}

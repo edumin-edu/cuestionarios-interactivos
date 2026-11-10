@@ -1,0 +1,544 @@
+
+{
+  "quiz": [
+    {
+      "question": "¿Cuál es el objetivo primordial de la geometalurgia moderna en la gestión de un yacimiento?",
+      "answerOptions": [
+        {
+          "text": "Identificar únicamente las leyes de corte para el reporte de reservas.",
+          "isCorrect": false,
+          "rationale": "La identificación de leyes es una tarea geológica tradicional, mientras que la geometalurgia busca integrar múltiples disciplinas para la predicción."
+        },
+        {
+          "text": "Reaccionar de forma técnica ante las variabilidades del depósito durante la extracción.",
+          "isCorrect": false,
+          "rationale": "Este enfoque describe el modelo histórico reactivo que la geometalurgia moderna busca reemplazar con una planificación anticipada."
+        },
+        {
+          "text": "Crear modelos predictivos integrales que vinculen geología, minería y metalurgia.",
+          "isCorrect": true,
+          "rationale": "La integración de estas áreas permite anticipar el comportamiento del mineral y optimizar el diseño de la planta basándose en la realidad geológica."
+        },
+        {
+          "text": "Maximizar el volumen de extracción diaria sin considerar la dureza de la roca.",
+          "isCorrect": false,
+          "rationale": "Ignorar la dureza de la roca contraviene los principios de optimización de procesos y gestión de cuellos de botella."
+        }
+      ],
+      "hint": "Considera la transición de un enfoque reactivo a uno basado en la anticipación y la interdisciplinariedad."
+    },
+    {
+      "question": "¿Por qué la capacidad predictiva es considerada hoy un imperativo estratégico ante el agotamiento de reservas de alta ley?",
+      "answerOptions": [
+        {
+          "text": "Porque permite reducir los costos de perforación exploratoria.",
+          "isCorrect": false,
+          "rationale": "Aunque la eficiencia es importante, el objetivo estratégico principal es asegurar la rentabilidad del negocio ante leyes más bajas."
+        },
+        {
+          "text": "Porque asegura las ganancias al anticipar el comportamiento del mineral antes de la extracción.",
+          "isCorrect": true,
+          "rationale": "Al procesar minerales más complejos, la predictibilidad evita sorpresas metalúrgicas que podrían destruir el valor presente neto del proyecto."
+        },
+        {
+          "text": "Porque elimina la necesidad de realizar pruebas de laboratorio en planta.",
+          "isCorrect": false,
+          "rationale": "La capacidad predictiva se nutre de pruebas de laboratorio y modelamiento, no las reemplaza."
+        },
+        {
+          "text": "Porque facilita la identificación de nuevos yacimientos tipo placer.",
+          "isCorrect": false,
+          "rationale": "La identificación de yacimientos es parte de la exploración, mientras que la predictibilidad se enfoca en la optimización operativa de depósitos conocidos."
+        }
+      ],
+      "hint": "Relaciona la estabilidad financiera con el conocimiento previo de la materia prima."
+    },
+    {
+      "question": "¿Cuál es el método de procesamiento característico para la zona oxidada de un yacimiento?",
+      "answerOptions": [
+        {
+          "text": "Concentración por flotación tradicional.",
+          "isCorrect": false,
+          "rationale": "La flotación se utiliza típicamente para sulfuros, no para los óxidos encontrados en los niveles superiores."
+        },
+        {
+          "text": "Molienda autógena de alta energía.",
+          "isCorrect": false,
+          "rationale": "La molienda es una etapa de reducción de tamaño, no el método de recuperación química principal para óxidos."
+        },
+        {
+          "text": "Hidrometalurgia, específicamente lixiviación.",
+          "isCorrect": true,
+          "rationale": "La lixiviación es el proceso estándar para óxidos y permite obtener flujo de caja temprano en la operación."
+        },
+        {
+          "text": "Piroelectrometalurgia de alta temperatura.",
+          "isCorrect": false,
+          "rationale": "Este método no es común para el tratamiento inicial de zonas oxidadas en yacimientos de gran escala."
+        }
+      ],
+      "hint": "Piensa en el proceso químico que suele aplicarse a los minerales cercanos a la superficie."
+    },
+    {
+      "question": "¿Qué desafío principal presenta la zona mixta de un yacimiento durante la transición técnica?",
+      "answerOptions": [
+        {
+          "text": "La baja dureza de la roca que causa sobremolienda.",
+          "isCorrect": false,
+          "rationale": "El problema principal es químico y de recuperación, más que puramente físico por dureza."
+        },
+        {
+          "text": "La convivencia de óxidos y sulfuros que complica la recuperación.",
+          "isCorrect": true,
+          "rationale": "Esta transición exige una estrategia técnica muy fina para evitar que la eficiencia de recuperación disminuya drásticamente."
+        },
+        {
+          "text": "La ausencia total de minerales de valor económico.",
+          "isCorrect": false,
+          "rationale": "La zona mixta contiene mineral de valor, pero su naturaleza híbrida dificulta su extracción eficiente."
+        },
+        {
+          "text": "El exceso de gases tóxicos liberados en la molienda.",
+          "isCorrect": false,
+          "rationale": "Si bien la seguridad es clave, el reto metalúrgico central es la respuesta heterogénea de las especies minerales."
+        }
+      ],
+      "hint": "Considera la composición mineralógica dual de esta etapa del yacimiento."
+    },
+    {
+      "question": "En la zona hipógena o de sulfuros, ¿qué proceso es considerado el mejor aliado para la recuperación?",
+      "answerOptions": [
+        {
+          "text": "Lixiviación bacteriana en pilas.",
+          "isCorrect": false,
+          "rationale": "Aunque es posible para ciertos sulfuros, la flotación es el proceso tradicional y más eficiente para sulfuros estables."
+        },
+        {
+          "text": "Chancado químico en el tajo.",
+          "isCorrect": false,
+          "rationale": "La conminución química es una etapa de preparación física, no de recuperación metalúrgica final."
+        },
+        {
+          "text": "Concentración por flotación.",
+          "isCorrect": true,
+          "rationale": "Debido a la estabilidad mineralógica de los sulfuros profundos, la flotación es el método estándar y más efectivo."
+        },
+        {
+          "text": "Separación magnética de alta intensidad.",
+          "isCorrect": false,
+          "rationale": "Este proceso se reserva para minerales con propiedades magnéticas específicas, no es el estándar para sulfuros comunes."
+        }
+      ],
+      "hint": "Identifica el método clásico utilizado para procesar minerales de las capas profundas."
+    },
+    {
+      "question": "¿Qué establece el concepto de \"visión de la roca total\" en el procesamiento de minerales?",
+      "answerOptions": [
+        {
+          "text": "Que solo se debe analizar la ley del metal precioso para optimizar la planta.",
+          "isCorrect": false,
+          "rationale": "Esta es la visión histórica que ignoraba el impacto de la matriz rocosa completa."
+        },
+        {
+          "text": "Que el procesamiento afecta a toda la matriz de la roca y no solo al mineral valioso.",
+          "isCorrect": true,
+          "rationale": "Entender el comportamiento del bloque completo evita cuellos de botella causados por la roca estéril o interferente."
+        },
+        {
+          "text": "Que se debe moler el $100\\%$ del yacimiento antes de realizar el mapeo.",
+          "isCorrect": false,
+          "rationale": "El mapeo debe ser previo al procesamiento para permitir la predictibilidad."
+        },
+        {
+          "text": "Que la roca total se refiere únicamente al volumen de estéril removido.",
+          "isCorrect": false,
+          "rationale": "La visión de roca total incluye tanto el mineral de interés como los componentes que entran al molino."
+        }
+      ],
+      "hint": "Enfócate en lo que realmente entra al molino durante la operación diaria."
+    },
+    {
+      "question": "¿Cómo impactan los minerales interferentes como el mármol o los feldespatos en la operación de planta?",
+      "answerOptions": [
+        {
+          "text": "Aumentan la ley del concentrado final de forma natural.",
+          "isCorrect": false,
+          "rationale": "Los interferentes suelen diluir o contaminar el proceso, no mejorar la calidad del producto final."
+        },
+        {
+          "text": "Desestabilizan el sistema químico y alteran la viscosidad de la pulpa.",
+          "isCorrect": true,
+          "rationale": "Estos componentes actúan como interferentes que pueden disparar el consumo de reactivos y generar fallas críticas en el sistema."
+        },
+        {
+          "text": "Facilitan la fragmentación de la roca en la etapa de voladura.",
+          "isCorrect": false,
+          "rationale": "Su impacto suele ser negativo en el procesamiento químico, independientemente de su dureza física."
+        },
+        {
+          "text": "Actúan como catalizadores positivos en la cinética de flotación.",
+          "isCorrect": false,
+          "rationale": "Los interferentes, por definición, dificultan o entorpecen la eficiencia del proceso metalúrgico."
+        }
+      ],
+      "hint": "Considera los efectos negativos en la química y el flujo del material procesado."
+    },
+    {
+      "question": "De acuerdo con la teoría de Pierre Gy, ¿qué principio garantiza que cada partícula tenga la misma oportunidad de ser elegida en un muestreo?",
+      "answerOptions": [
+        {
+          "text": "Principio de proporcionalidad volumétrica.",
+          "isCorrect": false,
+          "rationale": "La proporcionalidad se refiere a la relación entre el peso de la muestra y el volumen del bloque, no a la probabilidad de elección."
+        },
+        {
+          "text": "Protocolo de sistematicidad rígida.",
+          "isCorrect": false,
+          "rationale": "La sistematicidad se refiere al rigor en la ejecución de los protocolos de obtención de datos."
+        },
+        {
+          "text": "Principio de equiprobabilidad ($X$ probable).",
+          "isCorrect": true,
+          "rationale": "Este principio es fundamental para asegurar que la muestra sea representativa y no sesgada."
+        },
+        {
+          "text": "Regla de no mezcla de dominios.",
+          "isCorrect": false,
+          "rationale": "La no mezcla es una directriz para evitar la contaminación de datos entre diferentes unidades mineralógicas."
+        }
+      ],
+      "hint": "Busca el término que se refiere a la igualdad de probabilidades estadísticas."
+    },
+    {
+      "question": "¿Cuál es la diferencia fundamental entre una unidad geológica estática y una Unidad Geometalúrgica (UGM)?",
+      "answerOptions": [
+        {
+          "text": "La unidad geológica solo mide el volumen total, mientras que la UGM mide el peso.",
+          "isCorrect": false,
+          "rationale": "Ambas consideran parámetros físicos, pero la diferencia radica en la profundidad de los datos operativos."
+        },
+        {
+          "text": "La UGM integra medidas de recuperación, dureza, cinética y ley del concentrado.",
+          "isCorrect": true,
+          "rationale": "A diferencia de la unidad estática, la UGM añade capas de valor operativo que permiten una ingeniería de máxima predictibilidad."
+        },
+        {
+          "text": "La unidad geológica se basa en modelos $4.0$ y la UGM en mapeo manual.",
+          "isCorrect": false,
+          "rationale": "Es al revés: la UGM es la evolución hacia modelos avanzados y predictivos."
+        },
+        {
+          "text": "No existe diferencia; son dos términos para el mismo concepto de mapeo.",
+          "isCorrect": false,
+          "rationale": "La transición a UGM representa un cambio de paradigma hacia la ingeniería predictiva y rentabilidad."
+        }
+      ],
+      "hint": "Considera qué parámetros adicionales se miden para transformar la geología en ingeniería."
+    },
+    {
+      "question": "¿Qué consecuencia tiene el incumplimiento del \"principio de no mezcla\" (blending descontrolado) en las muestras?",
+      "answerOptions": [
+        {
+          "text": "Mejora la representatividad estadística del yacimiento completo.",
+          "isCorrect": false,
+          "rationale": "Al mezclar, se pierde la especificidad de los datos, lo que reduce la calidad estadística."
+        },
+        {
+          "text": "Aumenta la velocidad de procesamiento en las chancadoras primarias.",
+          "isCorrect": false,
+          "rationale": "La mezcla descontrolada no beneficia el rendimiento físico y puede causar atascos imprevistos."
+        },
+        {
+          "text": "Diluye datos críticos y envenena la respuesta predictiva de la planta.",
+          "isCorrect": true,
+          "rationale": "Mezclar muestras con mineralogía o dureza distinta destruye la eficiencia y la precisión de los modelos operativos."
+        },
+        {
+          "text": "Reduce el consumo de reactivos químicos en el circuito de flotación.",
+          "isCorrect": false,
+          "rationale": "Por el contrario, la variabilidad no controlada suele desestabilizar el consumo de reactivos."
+        }
+      ],
+      "hint": "Piensa en el efecto de combinar información de bloques de roca con características muy distintas."
+    },
+    {
+      "question": "¿Qué indicador se utiliza específicamente para medir la resistencia mecánica y predecir el comportamiento en los molinos SAG?",
+      "answerOptions": [
+        {
+          "text": "El índice de Bond ($W_i$).",
+          "isCorrect": false,
+          "rationale": "El índice de Bond se enfoca generalmente en calcular la energía de molienda convencional, no específicamente para el molino SAG."
+        },
+        {
+          "text": "El índice SPI (SAG Power Index).",
+          "isCorrect": true,
+          "rationale": "Este indicador es clave para prevenir caídas de producción al evaluar la dureza frente al procesamiento en molinos SAG."
+        },
+        {
+          "text": "El test de abrasión del cuarzo.",
+          "isCorrect": false,
+          "rationale": "Este test se utiliza para evaluar el desgaste de los forros, no la potencia requerida para la molienda."
+        },
+        {
+          "text": "El potencial $\\zeta$ de la roca.",
+          "isCorrect": false,
+          "rationale": "El potencial Zeta es un parámetro electroquímico de la superficie de las partículas, no una medida de resistencia mecánica."
+        }
+      ],
+      "hint": "Busca el acrónimo que hace referencia directa a la potencia del molino semiautógeno."
+    },
+    {
+      "question": "¿En qué consiste la estrategia de \"conminución química\" o fragmentación inteligente?",
+      "answerOptions": [
+        {
+          "text": "En inyectar ácidos potentes en el tajo para disolver la roca antes de minarla.",
+          "isCorrect": false,
+          "rationale": "La conminución química se refiere al uso de energía explosiva, no a la disolución ácida in situ."
+        },
+        {
+          "text": "En utilizar reactivos de flotación durante el proceso de chancado primario.",
+          "isCorrect": false,
+          "rationale": "Los reactivos se usan en etapas posteriores; la conminución es puramente física o basada en energía de voladura."
+        },
+        {
+          "text": "En optimizar la perforación y voladura para pre-acondicionar y microfracturar la roca.",
+          "isCorrect": true,
+          "rationale": "Al liberar energía química en el pozo, se reduce el estrés físico en las chancadoras y molinos, ahorrando energía eléctrica."
+        },
+        {
+          "text": "En eliminar por completo el uso de chancadoras mecánicas en la planta.",
+          "isCorrect": false,
+          "rationale": "La conminución química complementa y alivia el trabajo de las chancadoras, pero no las elimina."
+        }
+      ],
+      "hint": "Relaciona la energía liberada en la voladura con el ahorro de energía en la planta."
+    },
+    {
+      "question": "Para asegurar la microfracturación de la roca antes del transporte, ¿qué parámetro técnico se debe mantener en la voladura?",
+      "answerOptions": [
+        {
+          "text": "Un factor de carga superior a $2$.",
+          "isCorrect": true,
+          "rationale": "Este factor actúa como una póliza de seguro para garantizar que la energía sea suficiente para fragmentar el material adecuadamente."
+        },
+        {
+          "text": "Una presión de confinamiento menor a $100 \\text{ kPa}$.",
+          "isCorrect": false,
+          "rationale": "La presión mencionada no es el factor determinante para la microfracturación descrita en el modelo mine-to-mill."
+        },
+        {
+          "text": "Un índice de Bond inferior a $10$.",
+          "isCorrect": false,
+          "rationale": "El índice de Bond es una propiedad de la roca, no un parámetro ajustable de la operación de voladura."
+        },
+        {
+          "text": "Una velocidad de detonación constante de $500 \\text{ m/s}$.",
+          "isCorrect": false,
+          "rationale": "Aunque la velocidad es importante, el factor de carga es el parámetro central citado para la optimización energética global."
+        }
+      ],
+      "hint": "Considera la cantidad de energía explosiva por tonelada de roca."
+    },
+    {
+      "question": "¿Qué problema operacional crítico surge cuando la competencia de la roca supera el umbral de los $200 \\text{ kPa}$ sin una fragmentación adecuada?",
+      "answerOptions": [
+        {
+          "text": "Exceso de finos que saturan los filtros de concentrado.",
+          "isCorrect": false,
+          "rationale": "Una alta competencia sin fragmentación produce el efecto contrario: materiales demasiado grandes."
+        },
+        {
+          "text": "Aparición de bolones (bolders) que causan atoros en las chancadoras.",
+          "isCorrect": true,
+          "rationale": "Los sobretamaños generan paradas no programadas y representan peligros de seguridad y pérdidas de rentabilidad."
+        },
+        {
+          "text": "Disminución súbita del consumo de energía eléctrica en los molinos.",
+          "isCorrect": false,
+          "rationale": "La roca muy dura y grande aumenta drásticamente el consumo y el estrés mecánico."
+        },
+        {
+          "text": "Aumento de la velocidad de sedimentación en los relaves.",
+          "isCorrect": false,
+          "rationale": "La sedimentación está vinculada a la granulometría final y química, no directamente a los problemas de chancado primario."
+        }
+      ],
+      "hint": "Piensa en el efecto físico de procesar rocas extremadamente resistentes que no fueron bien rotas."
+    },
+    {
+      "question": "En el contexto de la cinética de flotación, ¿cuál es la diferencia operativa entre la bornita y la calcopirita?",
+      "answerOptions": [
+        {
+          "text": "La bornita requiere tiempos de residencia mucho más largos que la calcopirita.",
+          "isCorrect": false,
+          "rationale": "Es al revés; la bornita tiene una cinética rápida y se recupera pronto en el circuito."
+        },
+        {
+          "text": "La calcopirita se recupera instantáneamente en las celdas rougher.",
+          "isCorrect": false,
+          "rationale": "La calcopirita es más resistente y exige más tiempo de residencia en comparación con la bornita."
+        },
+        {
+          "text": "La bornita posee una cinética extremadamente rápida comparada con la calcopirita.",
+          "isCorrect": true,
+          "rationale": "Entender esta diferencia permite diseñar los tiempos de residencia y la configuración de las celdas de flotación."
+        },
+        {
+          "text": "Ambas especies tienen cinéticas idénticas bajo cualquier condición de $pH$.",
+          "isCorrect": false,
+          "rationale": "Cada especie mineral tiene una respuesta cinética distinta que debe ser modelada matemáticamente."
+        }
+      ],
+      "hint": "Considera cuál de los dos minerales permite obtener concentrado de forma más acelerada."
+    },
+    {
+      "question": "¿Qué representa el potencial $\\zeta$ (Zeta) para un metalurgista en el proceso de flotación?",
+      "answerOptions": [
+        {
+          "text": "La dureza superficial de la partícula frente a la abrasión.",
+          "isCorrect": false,
+          "rationale": "La dureza es una propiedad física mecánica, no electroquímica."
+        },
+        {
+          "text": "El imán invisible que determina la adhesión selectiva del reactivo colector.",
+          "isCorrect": true,
+          "rationale": "El control de las cargas eléctricas (potencial Zeta) asegura que el colector se pegue a la partícula de valor y no al material estéril."
+        },
+        {
+          "text": "La velocidad a la que las burbujas de aire ascienden en la celda.",
+          "isCorrect": false,
+          "rationale": "La velocidad de ascenso depende de la dinámica de fluidos y el tamaño de burbuja, no del potencial Zeta."
+        },
+        {
+          "text": "El porcentaje de sólidos óptimo para la descarga del molino.",
+          "isCorrect": false,
+          "rationale": "El porcentaje de sólidos es una medida de densidad de pulpa, independiente de las cargas electroquímicas superficiales."
+        }
+      ],
+      "hint": "Enfócate en la interacción eléctrica entre la partícula, el agua y los reactivos."
+    },
+    {
+      "question": "¿Cuál es el efecto de las sales solubles e iones parásitos en el sistema trifásico de la flotación?",
+      "answerOptions": [
+        {
+          "text": "Mejoran la estabilidad de las burbujas de aire al actuar como espumantes.",
+          "isCorrect": false,
+          "rationale": "Generalmente actúan como contaminantes que desestabilizan el sistema en lugar de ayudarlo."
+        },
+        {
+          "text": "Consumen reactivos y neutralizan los beneficios de una molienda previa perfecta.",
+          "isCorrect": true,
+          "rationale": "Los interferentes químicos pueden arruinar el esfuerzo de preparación física al colapsar la selectividad del proceso químico."
+        },
+        {
+          "text": "Aumentan la recuperación de oro en matrices arcillosas.",
+          "isCorrect": false,
+          "rationale": "Las sales e iones suelen complicar el tratamiento de arcillas, no facilitarlo."
+        },
+        {
+          "text": "Reducen la viscosidad de la pulpa facilitando el transporte de relaves.",
+          "isCorrect": false,
+          "rationale": "Muchos iones y sales pueden, de hecho, aumentar problemas de viscosidad o incrustaciones."
+        }
+      ],
+      "hint": "Considera cómo afectan estos elementos a la eficiencia de los reactivos añadidos."
+    },
+    {
+      "question": "¿Qué innovación técnica representa el uso de la glicina en la hidrometalurgia moderna?",
+      "answerOptions": [
+        {
+          "text": "Un método para aumentar la toxicidad de los efluentes mineros.",
+          "isCorrect": false,
+          "rationale": "La glicina destaca precisamente por su baja toxicidad y sostenibilidad ambiental."
+        },
+        {
+          "text": "Un agente lixiviante alternativo de baja toxicidad para matrices complejas de oro y cobre.",
+          "isCorrect": true,
+          "rationale": "La glicina permite procesar minerales difíciles (como los que contienen arcillas) con un menor impacto ecológico que el cianuro."
+        },
+        {
+          "text": "Un explosivo plástico utilizado para la conminución química.",
+          "isCorrect": false,
+          "rationale": "La glicina es un aminoácido usado en procesos químicos de lixiviación, no un explosivo."
+        },
+        {
+          "text": "Un polímero para recubrir los molinos y evitar el desgaste por abrasión.",
+          "isCorrect": false,
+          "rationale": "Su función es química (lixiviación) y no mecánica o de protección de equipos."
+        }
+      ],
+      "hint": "Piensa en un reemplazo más ecológico para métodos tradicionales como la cianuración."
+    },
+    {
+      "question": "En el modelo Magma Copper, ¿cuál fue el factor clave que permitió salvar la operación de la quiebra?",
+      "answerOptions": [
+        {
+          "text": "La compra de maquinaria de transporte más grande.",
+          "isCorrect": false,
+          "rationale": "El éxito no se atribuyó a equipos físicos, sino a un cambio en la metodología de modelamiento."
+        },
+        {
+          "text": "La reducción drástica de la mano de obra en el tajo.",
+          "isCorrect": false,
+          "rationale": "El caso de Magma Copper es un ejemplo de éxito basado en la integración disciplinaria y el uso de UGMs."
+        },
+        {
+          "text": "La transición de unidades geológicas estáticas a Unidades Geometalúrgicas (UGM).",
+          "isCorrect": true,
+          "rationale": "Este modelo integrador permitió entender la variabilidad real y optimizar la rentabilidad operativa de forma disciplinada."
+        },
+        {
+          "text": "El descubrimiento fortuito de una nueva zona de alta ley.",
+          "isCorrect": false,
+          "rationale": "La mejora fue estratégica y técnica, no basada en la suerte de encontrar mejores leyes."
+        }
+      ],
+      "hint": "Identifica el cambio en la forma de organizar y medir la información del yacimiento."
+    },
+    {
+      "question": "¿Qué pilar de la minería $4.0$ permite la supervisión de operaciones eliminando barreras geográficas?",
+      "answerOptions": [
+        {
+          "text": "La conminución química en el pozo.",
+          "isCorrect": false,
+          "rationale": "Esta es una técnica operativa de campo, no una tecnología de supervisión remota."
+        },
+        {
+          "text": "La digitalización absoluta y centros de control remoto.",
+          "isCorrect": true,
+          "rationale": "Ejemplos como el centro remoto de Las Bambas ilustran cómo la tecnología facilita la supervisión integral desde cualquier lugar."
+        },
+        {
+          "text": "El muestreo sistemático de testigos de perforación.",
+          "isCorrect": false,
+          "rationale": "El muestreo es una actividad física inicial de recolección de datos."
+        },
+        {
+          "text": "El uso exclusivo de lixiviación con glicina.",
+          "isCorrect": false,
+          "rationale": "La glicina es una innovación química, no una herramienta de digitalización o supervisión $4.0$."
+        }
+      ],
+      "hint": "Piensa en la capacidad de gestionar una mina desde una ubicación distante mediante tecnología."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Geometalurgia estratégica",
+      "Estructura de mineralización y zonas del yacimiento",
+      "Teoría del muestreo de Pierre Gy",
+      "Unidades Geometalúrgicas (UGM)",
+      "Conminución avanzada y optimización energética",
+      "Cinética de flotación y potencial Zeta",
+      "Hidrometalurgia sostenible y uso de glicina"
+    ],
+    "followUp": [
+      "Modelamiento matemático de cinética de flotación (García, Zúñiga, Klimpel)",
+      "Análisis de interferentes químicos en sistemas trifásicos",
+      "Implementación de protocolos de Minería 4.0 en centros remotos",
+      "Gestión de cuellos de botella mediante visión de roca total",
+      "Cálculo de factores de carga en voladura para microfracturación"
+    ]
+  }
+}
+

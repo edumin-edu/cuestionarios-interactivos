@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el impacto financiero estimado por cada hora de inactividad operativa en una planta minera debido a la falta de un repuesto estrat\u00e9gico?",
+      "answerOptions": [
+        {
+          "text": "$$8,000$$",
+          "isCorrect": true,
+          "rationale": "Este monto refleja el alto costo de oportunidad y la p\u00e9rdida de rentabilidad por paradas no programadas en operaciones de gran escala."
+        },
+        {
+          "text": "$$5,000$$",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra significativa, no alcanza el impacto econ\u00f3mico real mencionado para operaciones de alta complejidad."
+        },
+        {
+          "text": "$$10,000$$",
+          "isCorrect": false,
+          "rationale": "Esta cifra excede el costo de oportunidad est\u00e1ndar identificado espec\u00edficamente para estas paradas de planta."
+        },
+        {
+          "text": "$$3,500$$",
+          "isCorrect": false,
+          "rationale": "Esta cantidad subestima gravemente las p\u00e9rdidas reales en una industria donde la continuidad es el n\u00facleo estrat\u00e9gico."
+        }
+      ],
+      "hint": "Considere el valor de la precisi\u00f3n log\u00edstica como motor de rentabilidad en entornos extremos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de un Sistema de Gesti\u00f3n de Almacenes (WMS) en una operaci\u00f3n minera remota?",
+      "answerOptions": [
+        {
+          "text": "Transformar el almac\u00e9n en un centro de datos vivo con visibilidad total.",
+          "isCorrect": true,
+          "rationale": "El WMS act\u00faa como una infraestructura digital que mitiga la incertidumbre mediante el control en tiempo real del inventario."
+        },
+        {
+          "text": "Registrar \u00fanicamente los materiales que entran y salen del recinto.",
+          "isCorrect": false,
+          "rationale": "Limitar el WMS a un simple registro administrativo ignora su funci\u00f3n estrat\u00e9gica en la optimizaci\u00f3n de recursos."
+        },
+        {
+          "text": "Eliminar la necesidad de personal humano en la gesti\u00f3n de inventarios.",
+          "isCorrect": false,
+          "rationale": "El sistema busca optimizar el recurso humano y mec\u00e1nico, no sustituirlo por completo en esta etapa."
+        },
+        {
+          "text": "Sustituir la contabilidad financiera de la empresa minera.",
+          "isCorrect": false,
+          "rationale": "Aunque se integra con las finanzas en modelos ERP, su foco principal es la operatividad log\u00edstica del almac\u00e9n."
+        }
+      ],
+      "hint": "Piense en el WMS como algo m\u00e1s que un simple software de registro de entradas y salidas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 desventaja cr\u00edtica presentan los sistemas de gesti\u00f3n de almacenes bajo arquitectura on-premise?",
+      "answerOptions": [
+        {
+          "text": "Dependencia cr\u00edtica de una conectividad robusta a internet.",
+          "isCorrect": false,
+          "rationale": "Esta es en realidad la principal desventaja de los sistemas basados en la nube (SaaS), no de los locales."
+        },
+        {
+          "text": "Incapacidad para personalizar el software seg\u00fan las necesidades mineras.",
+          "isCorrect": false,
+          "rationale": "Los sistemas locales suelen destacar precisamente por ofrecer un alto nivel de personalizaci\u00f3n."
+        },
+        {
+          "text": "Riesgo de obsolescencia r\u00e1pida de los servidores locales y alto gasto inicial.",
+          "isCorrect": true,
+          "rationale": "La inversi\u00f3n de capital inicial es elevada y el hardware propio requiere mantenimiento constante para no quedar desfasado."
+        },
+        {
+          "text": "Imposibilidad de integrar inteligencia de negocios en el sistema.",
+          "isCorrect": false,
+          "rationale": "La inteligencia de negocios puede integrarse independientemente de si el servidor es local o externo."
+        }
+      ],
+      "hint": "Reflexione sobre los desaf\u00edos asociados a poseer y mantener hardware f\u00edsico propio."
+    },
+    {
+      "question": "En el ciclo de vida de un material dentro del almac\u00e9n, \u00bfen qu\u00e9 consiste el paso denominado 'Putaway'?",
+      "answerOptions": [
+        {
+          "text": "Validaci\u00f3n digital de la carga al momento de su llegada.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde a la fase de recepci\u00f3n, que es el primer paso del ciclo."
+        },
+        {
+          "text": "Determinaci\u00f3n de la ubicaci\u00f3n \u00f3ptima seg\u00fan volumen y rotaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "El acomodo o putaway utiliza algoritmos din\u00e1micos para decidir d\u00f3nde situar el material para maximizar la eficiencia."
+        },
+        {
+          "text": "Trazado de la ruta m\u00e1s corta para la recolecci\u00f3n de pedidos.",
+          "isCorrect": false,
+          "rationale": "Este proceso es parte del picking, enfocado en la salida eficiente de materiales."
+        },
+        {
+          "text": "Verificaci\u00f3n de la integridad f\u00edsica de la carga antes del env\u00edo.",
+          "isCorrect": false,
+          "rationale": "Dicha verificaci\u00f3n es la tarea central de la fase de embalaje o packing."
+        }
+      ],
+      "hint": "Es el paso que sigue inmediatamente despu\u00e9s de recibir el material en el muelle."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja tecnol\u00f3gica ofrece el uso de RFID sobre el c\u00f3digo de barras tradicional en la Log\u00edstica 4.0?",
+      "answerOptions": [
+        {
+          "text": "Requiere un contacto visual directo para el escaneo de cada objeto.",
+          "isCorrect": false,
+          "rationale": "Esta es una limitaci\u00f3n del c\u00f3digo de barras, mientras que el RFID funciona mediante radiofrecuencia."
+        },
+        {
+          "text": "Permite lecturas masivas y trazabilidad total sin l\u00ednea de visi\u00f3n directa.",
+          "isCorrect": true,
+          "rationale": "La identificaci\u00f3n por radiofrecuencia permite auditar grandes vol\u00famenes de carga de forma invisible y simult\u00e1nea."
+        },
+        {
+          "text": "Es m\u00e1s lento pero garantiza que no existan errores de sistema.",
+          "isCorrect": false,
+          "rationale": "El RFID es significativamente m\u00e1s veloz que el m\u00e9todo tradicional y no est\u00e1 exento de fallos t\u00e9cnicos."
+        },
+        {
+          "text": "Obliga a escanear los productos uno por uno para mayor precisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El escaneo unitario es la caracter\u00edstica que hace al c\u00f3digo de barras un proceso pesado en comparaci\u00f3n al RFID."
+        }
+      ],
+      "hint": "Piense en la diferencia entre mirar una etiqueta y detectar una se\u00f1al de radio."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la capacidad de procesamiento de inventario que puede alcanzar la tecnolog\u00eda RFID?",
+      "answerOptions": [
+        {
+          "text": "$$100$$ palets por hora.",
+          "isCorrect": false,
+          "rationale": "Esta cifra es conservadora y no refleja el salto tecnol\u00f3gico de agilidad que ofrece el RFID."
+        },
+        {
+          "text": "$$600$$ palets por hora.",
+          "isCorrect": true,
+          "rationale": "Esta m\u00e9trica demuestra c\u00f3mo tareas que tomaban d\u00edas pueden resolverse en cuesti\u00f3n de minutos con esta tecnolog\u00eda."
+        },
+        {
+          "text": "$$1,000$$ palets por hora.",
+          "isCorrect": false,
+          "rationale": "Aunque la tecnolog\u00eda es r\u00e1pida, esta cifra excede la capacidad operativa est\u00e1ndar mencionada para procesos masivos."
+        },
+        {
+          "text": "$$300$$ palets por hora.",
+          "isCorrect": false,
+          "rationale": "Esta cantidad es inferior al rendimiento \u00f3ptimo que justifica la inversi\u00f3n en sistemas de Log\u00edstica 4.0."
+        }
+      ],
+      "hint": "Es una cifra que representa una agilidad extrema, permitiendo completar inventarios pesados en minutos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite operativo cr\u00edtico actual de los drones aut\u00f3nomos utilizados en miner\u00eda subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "Incapacidad para realizar mapeos en tres dimensiones.",
+          "isCorrect": false,
+          "rationale": "Los drones modernos, como el Elios, est\u00e1n dise\u00f1ados espec\u00edficamente para realizar estos mapeos 3D."
+        },
+        {
+          "text": "Autonom\u00eda de vuelo m\u00e1xima de aproximadamente $$10$$ minutos.",
+          "isCorrect": true,
+          "rationale": "Esta limitaci\u00f3n t\u00e9cnica exige una planificaci\u00f3n log\u00edstica rigurosa para la rotaci\u00f3n constante de bater\u00edas."
+        },
+        {
+          "text": "Necesidad de ser operados por control remoto en todo momento.",
+          "isCorrect": false,
+          "rationale": "La tendencia en la Log\u00edstica 4.0 es el uso de hardware aut\u00f3nomo con visi\u00f3n artificial."
+        },
+        {
+          "text": "Interferencia total con las se\u00f1ales de radio de la mina.",
+          "isCorrect": false,
+          "rationale": "Los drones est\u00e1n dise\u00f1ados para operar en entornos complejos sin invalidar otras comunicaciones esenciales."
+        }
+      ],
+      "hint": "Considere el tiempo que una bater\u00eda puede sostener el vuelo en condiciones exigentes."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio de seguridad aporta el uso de 'Voice Picking' y realidad aumentada al personal de almac\u00e9n?",
+      "answerOptions": [
+        {
+          "text": "Permite que el personal mantenga las manos totalmente libres.",
+          "isCorrect": true,
+          "rationale": "Al recibir instrucciones por voz o lentes inteligentes, el operario puede concentrarse mejor en el entorno y la maquinaria pesada."
+        },
+        {
+          "text": "Elimina la necesidad de usar equipo de protecci\u00f3n personal (EPP).",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda complementa la seguridad, pero nunca sustituye los requisitos b\u00e1sicos de protecci\u00f3n f\u00edsica."
+        },
+        {
+          "text": "Reduce el tiempo de descanso obligatorio de los trabajadores.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda busca eficiencia y seguridad, no la extensi\u00f3n de jornadas laborales sin descanso."
+        },
+        {
+          "text": "A\u00edsla al trabajador de los ruidos peligrosos de la maquinaria.",
+          "isCorrect": false,
+          "rationale": "Aunque usa comandos de voz, el aislamiento sonoro total podr\u00eda ser un riesgo de seguridad en lugar de un beneficio."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo la disponibilidad de las manos influye en la prevenci\u00f3n de accidentes."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n espec\u00edfica de OSINERGMIN dentro del ecosistema regulador minero?",
+      "answerOptions": [
+        {
+          "text": "Supervisar exclusivamente el cumplimiento de las condiciones laborales.",
+          "isCorrect": false,
+          "rationale": "Esta es la responsabilidad primordial de la Sunafil, no de OSINERGMIN."
+        },
+        {
+          "text": "Fiscalizar la seguridad t\u00e9cnica de la infraestructura pesada.",
+          "isCorrect": true,
+          "rationale": "Su rol se enfoca en verificar que las instalaciones, como relaveras o infraestructuras cr\u00edticas, cumplan los est\u00e1ndares t\u00e9cnicos."
+        },
+        {
+          "text": "Administrar las concesiones y pol\u00edticas mineras nacionales.",
+          "isCorrect": false,
+          "rationale": "El Minem es el encargado de marcar la cancha con las pol\u00edticas y otorgamiento de concesiones."
+        },
+        {
+          "text": "Controlar el uso de explosivos y armas de fuego en la mina.",
+          "isCorrect": false,
+          "rationale": "Esa potestad regulatoria pertenece exclusivamente a la Sucamec."
+        }
+      ],
+      "hint": "Relacione esta entidad con la lupa que revisa la integridad de las estructuras y la t\u00e9cnica operativa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 entidades conforman el denominado 's\u00e1ndwich de cumplimiento' ante un incidente log\u00edstico de derrame qu\u00edmico?",
+      "answerOptions": [
+        {
+          "text": "MINEM, Sucamec y Ministerio P\u00fablico.",
+          "isCorrect": false,
+          "rationale": "Aunque son entidades relevantes, no son las que t\u00edpicamente realizan la inspecci\u00f3n cruzada inmediata por transporte de insumos."
+        },
+        {
+          "text": "MTC, SUNAT y Sunafil.",
+          "isCorrect": true,
+          "rationale": "El MTC interviene por seguridad vial, SUNAT por insumos fiscalizados y Sunafil por riesgos laborales, creando una presi\u00f3n simult\u00e1nea."
+        },
+        {
+          "text": "OSINERGMIN, MTC y Ministerio de Salud.",
+          "isCorrect": false,
+          "rationale": "Esta combinaci\u00f3n no refleja el triplete de fiscalizaci\u00f3n operativa y fiscal descrito ante un error de transporte."
+        },
+        {
+          "text": "SUNAT, SUCAMEC y Ministerio del Ambiente.",
+          "isCorrect": false,
+          "rationale": "Si bien pueden intervenir, no constituyen el n\u00facleo de la reacci\u00f3n en cadena burocr\u00e1tica por seguridad y control de ruta."
+        }
+      ],
+      "hint": "Considere las agencias que regulan el transporte vial, el control de insumos y el bienestar del trabajador."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la frecuencia obligatoria de actualizaci\u00f3n de las certificaciones para operadores de equipos cr\u00edticos?",
+      "answerOptions": [
+        {
+          "text": "Cada dos a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Un periodo de dos a\u00f1os se considera insuficiente para garantizar la vigencia de las competencias en un entorno de alto riesgo."
+        },
+        {
+          "text": "\u00danicamente al momento de la contrataci\u00f3n inicial.",
+          "isCorrect": false,
+          "rationale": "La ley exige una actualizaci\u00f3n constante; una inducci\u00f3n \u00fanica es inv\u00e1lida ante una auditor\u00eda posterior."
+        },
+        {
+          "text": "De forma anual.",
+          "isCorrect": true,
+          "rationale": "La normativa exige que las certificaciones est\u00e9n vigentes y sean renovadas cada a\u00f1o para ser legalmente v\u00e1lidas."
+        },
+        {
+          "text": "Cada cinco a\u00f1os seg\u00fan el est\u00e1ndar internacional.",
+          "isCorrect": false,
+          "rationale": "El sector minero impone est\u00e1ndares mucho m\u00e1s estrictos que un ciclo de cinco a\u00f1os debido a la peligrosidad de las tareas."
+        }
+      ],
+      "hint": "Es un requisito temporal estricto que, de vencerse por un solo d\u00eda, invalida la capacitaci\u00f3n ante la ley."
+    },
+    {
+      "question": "\u00bfQu\u00e9 est\u00e1ndar de protecci\u00f3n respiratoria exige la normativa para la manipulaci\u00f3n de qu\u00edmicos peligrosos como el cianuro?",
+      "answerOptions": [
+        {
+          "text": "Media m\u00e1scara convencional para polvos.",
+          "isCorrect": false,
+          "rationale": "Este equipo es \u00fatil para almacenes generales, pero insuficiente para proteger contra vapores qu\u00edmicos agresivos."
+        },
+        {
+          "text": "M\u00e1scaras 'full face' con sellado total de ojos y v\u00edas respiratorias.",
+          "isCorrect": true,
+          "rationale": "Para qu\u00edmicos de alta toxicidad, se requiere protecci\u00f3n completa del rostro para evitar cualquier contacto o inhalaci\u00f3n."
+        },
+        {
+          "text": "Mascarillas quir\u00fargicas desechables de alta eficiencia.",
+          "isCorrect": false,
+          "rationale": "Las mascarillas desechables no ofrecen ninguna protecci\u00f3n contra los riesgos qu\u00edmicos espec\u00edficos de la miner\u00eda."
+        },
+        {
+          "text": "Uso opcional de protecci\u00f3n respiratoria seg\u00fan la ventilaci\u00f3n del \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "En log\u00edstica de materiales peligrosos, el uso de EPP espec\u00edfico es obligatorio y no queda a discreci\u00f3n del operador."
+        }
+      ],
+      "hint": "Piense en la necesidad de sellar completamente el rostro ante sustancias altamente t\u00f3xicas."
+    },
+    {
+      "question": "En la gesti\u00f3n de Insumos Qu\u00edmicos y Bienes Fiscalizados (IQBF), \u00bfqu\u00e9 implica legalmente salirse de una 'ruta fiscal'?",
+      "answerOptions": [
+        {
+          "text": "Una multa administrativa menor por error de tr\u00e1nsito.",
+          "isCorrect": false,
+          "rationale": "El desv\u00edo de insumos fiscalizados trasciende lo administrativo y entra en el \u00e1mbito de la presunci\u00f3n de criminalidad."
+        },
+        {
+          "text": "La presunci\u00f3n autom\u00e1tica de actividad il\u00edcita y persecuci\u00f3n penal.",
+          "isCorrect": true,
+          "rationale": "La ley asume que cualquier desviaci\u00f3n de la ruta permitida tiene como fin abastecer al narcotr\u00e1fico o la miner\u00eda ilegal."
+        },
+        {
+          "text": "Una simple amonestaci\u00f3n verbal para el conductor del cami\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Dada la seriedad de los IQBF, las sanciones son severas y afectan directamente la libertad de los involucrados."
+        },
+        {
+          "text": "La obligaci\u00f3n de realizar un nuevo registro de materiales ante la SUNAT.",
+          "isCorrect": false,
+          "rationale": "Aunque se requiere registro, la consecuencia principal de un desv\u00edo es la acci\u00f3n penal por parte del Ministerio P\u00fablico."
+        }
+      ],
+      "hint": "Recuerde que el Estado utiliza estas rutas para asfixiar actividades como el narcotr\u00e1fico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es uno de los documentos indispensables que debe acompa\u00f1ar siempre el transporte de materiales peligrosos?",
+      "answerOptions": [
+        {
+          "text": "La hoja t\u00e9cnica MSDS.",
+          "isCorrect": true,
+          "rationale": "La hoja de datos de seguridad es vital para que los equipos de respuesta sepan c\u00f3mo actuar ante un posible derrame."
+        },
+        {
+          "text": "El manual de usuario de la maquinaria de planta.",
+          "isCorrect": false,
+          "rationale": "Este documento es operativo para la planta, pero no es un requisito de tr\u00e1nsito para materiales peligrosos."
+        },
+        {
+          "text": "Una copia del contrato de concesi\u00f3n minera.",
+          "isCorrect": false,
+          "rationale": "Aunque es un documento legal importante, no forma parte del pasaporte log\u00edstico de una carga peligrosa en ruta."
+        },
+        {
+          "text": "El registro de asistencia a la \u00faltima charla de seguridad.",
+          "isCorrect": false,
+          "rationale": "Las capacitaciones se auditan internamente, pero no son el documento t\u00e9cnico que identifica el riesgo de la carga."
+        }
+      ],
+      "hint": "Se trata de la gu\u00eda t\u00e9cnica que describe la naturaleza del 'monstruo' qu\u00edmico en caso de accidente."
+    },
+    {
+      "question": "\u00bfA cu\u00e1nto asciende el monto de la p\u00f3liza de seguro exigida por ley exclusivamente para la remediaci\u00f3n ambiental en el transporte de materiales peligrosos?",
+      "answerOptions": [
+        {
+          "text": "$$25$$ UIT.",
+          "isCorrect": false,
+          "rationale": "Este monto es inferior al est\u00e1ndar legal requerido para garantizar la limpieza de un desastre ecol\u00f3gico."
+        },
+        {
+          "text": "$$50$$ UIT.",
+          "isCorrect": true,
+          "rationale": "La ley exige este respaldo financiero para asegurar fondos l\u00edquidos inmediatos que mitiguen da\u00f1os ambientales."
+        },
+        {
+          "text": "$$100$$ UIT.",
+          "isCorrect": false,
+          "rationale": "Aunque el total de seguros sumados puede alcanzar esta cifra, la p\u00f3liza espec\u00edfica de remediaci\u00f3n es de $$50$$ UIT."
+        },
+        {
+          "text": "$$10$$ UIT.",
+          "isCorrect": false,
+          "rationale": "Un monto tan bajo no cubrir\u00eda los costos reales de una intervenci\u00f3n ambiental en caso de un derrame qu\u00edmico mayor."
+        }
+      ],
+      "hint": "Es la misma unidad de medida tributaria que se exige para la p\u00f3liza de da\u00f1os a terceros."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede con la responsabilidad legal del titular minero si contrata a un tercero para el transporte de materiales y ocurre un accidente?",
+      "answerOptions": [
+        {
+          "text": "La responsabilidad se transfiere totalmente a la empresa de transporte.",
+          "isCorrect": false,
+          "rationale": "En el sector minero, las obligaciones de seguridad del titular no se pueden delegar ni transferir."
+        },
+        {
+          "text": "El titular minero mantiene una responsabilidad absoluta e intransferible.",
+          "isCorrect": true,
+          "rationale": "Independientemente de qui\u00e9n maneje el cami\u00f3n, el titular de la operaci\u00f3n es quien debe responder ante la autoridad."
+        },
+        {
+          "text": "La responsabilidad queda anulada si existe un contrato de deslinde.",
+          "isCorrect": false,
+          "rationale": "Los contratos privados no pueden invalidar las obligaciones legales de seguridad dictadas por la ley minera."
+        },
+        {
+          "text": "Solo responde si se demuestra que el titular dio una orden incorrecta.",
+          "isCorrect": false,
+          "rationale": "La ley establece que el titular siempre da la cara al final, sin importar la cadena de mando operativa."
+        }
+      ],
+      "hint": "Considere la 'regla de oro' sobre las obligaciones del titular de la concesi\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo de utilizar simulaciones de planos de planta y mapeos 3D en la gesti\u00f3n de almacenes?",
+      "answerOptions": [
+        {
+          "text": "Crear contenido publicitario sobre la modernidad de la mina.",
+          "isCorrect": false,
+          "rationale": "Estas herramientas tienen un fin operativo y de prevenci\u00f3n, no de marketing o relaciones p\u00fablicas."
+        },
+        {
+          "text": "Eliminar ineficiencias f\u00edsicas probando escenarios en un entorno virtual.",
+          "isCorrect": true,
+          "rationale": "Funcionan como un 'simulador de vuelo' que permite descartar errores antes de que ocurran en el mundo real."
+        },
+        {
+          "text": "Sustituir el inventario f\u00edsico anual por un registro digital.",
+          "isCorrect": false,
+          "rationale": "La simulaci\u00f3n ayuda a planificar el flujo, pero no reemplaza la necesidad de validar el stock f\u00edsico existente."
+        },
+        {
+          "text": "Entrenar a los conductores de camiones en rutas de superficie.",
+          "isCorrect": false,
+          "rationale": "El mapeo 3D mencionado se enfoca en la optimizaci\u00f3n del almac\u00e9n y galer\u00edas subterr\u00e1neas, no en rutas de transporte externo."
+        }
+      ],
+      "hint": "Piense en el valor de predecir el impacto de un cambio sin mover una sola estanter\u00eda f\u00edsica."
+    },
+    {
+      "question": "En el marco de la Log\u00edstica 4.0, \u00bfqu\u00e9 tecnolog\u00eda se utiliza para predecir cu\u00e1ndo va a fallar una m\u00e1quina?",
+      "answerOptions": [
+        {
+          "text": "Mapeo con drones aut\u00f3nomos.",
+          "isCorrect": false,
+          "rationale": "Los drones se usan para inspecci\u00f3n visual y mapeo, no principalmente para el an\u00e1lisis predictivo de fallos mec\u00e1nicos."
+        },
+        {
+          "text": "Inteligencia Artificial y Machine Learning.",
+          "isCorrect": true,
+          "rationale": "Estas tecnolog\u00edas analizan datos para prever aver\u00edas y planificar la demanda, evitando paradas de planta costosas."
+        },
+        {
+          "text": "Identificaci\u00f3n por radiofrecuencia (RFID).",
+          "isCorrect": false,
+          "rationale": "El RFID es una herramienta de trazabilidad e identificaci\u00f3n, no de diagn\u00f3stico predictivo de maquinaria."
+        },
+        {
+          "text": "Sistemas de Voice Picking.",
+          "isCorrect": false,
+          "rationale": "El Voice Picking se centra en la asistencia al operario en tareas de almac\u00e9n, no en el mantenimiento de activos."
+        }
+      ],
+      "hint": "Se refiere al uso de algoritmos avanzados que aprenden de los datos hist\u00f3ricos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 los modelos integrados o ERP (como SAP S/4HANA) requieren una alineaci\u00f3n sumamente estricta?",
+      "answerOptions": [
+        {
+          "text": "Porque unifican la log\u00edstica con los flujos financieros y contables.",
+          "isCorrect": true,
+          "rationale": "Al ofrecer una visi\u00f3n hol\u00edstica, cualquier error en el almac\u00e9n impacta directamente en la inteligencia de negocios y la contabilidad."
+        },
+        {
+          "text": "Porque dependen de que todos los operarios hablen el mismo idioma t\u00e9cnico.",
+          "isCorrect": false,
+          "rationale": "Si bien la comunicaci\u00f3n es importante, la restricci\u00f3n del ERP es estructural y de integraci\u00f3n de datos de negocio."
+        },
+        {
+          "text": "Debido a que el hardware requerido es extremadamente fr\u00e1gil.",
+          "isCorrect": false,
+          "rationale": "La dificultad de los ERP radica en la complejidad del software y los procesos, no en la fragilidad f\u00edsica de los equipos."
+        },
+        {
+          "text": "Para evitar que el sistema se vuelva obsoleto en menos de un a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "La obsolescencia es m\u00e1s un riesgo de los sistemas on-premise que una raz\u00f3n para la alineaci\u00f3n estricta de un ERP."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre lo que sucede en el almac\u00e9n y los libros contables de la empresa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el pilar que, junto con la tecnolog\u00eda y la disciplina operativa, conforma el trinomio indisoluble de la log\u00edstica minera?",
+      "answerOptions": [
+        {
+          "text": "El marketing estrat\u00e9gico de la marca minera.",
+          "isCorrect": false,
+          "rationale": "Aunque es relevante para la imagen corporativa, no es uno de los tres pilares cr\u00edticos de la continuidad operativa."
+        },
+        {
+          "text": "El rigor normativo para el cumplimiento legal.",
+          "isCorrect": true,
+          "rationale": "Sin el cumplimiento de las leyes y regulaciones, la operaci\u00f3n carece de licencia para operar y enfrenta riesgos penales."
+        },
+        {
+          "text": "La reducci\u00f3n agresiva de costos de personal.",
+          "isCorrect": false,
+          "rationale": "La estrategia se basa en la rentabilidad por eficiencia y precisi\u00f3n, no en el recorte de personal esencial."
+        },
+        {
+          "text": "El uso exclusivo de proveedores extranjeros.",
+          "isCorrect": false,
+          "rationale": "El origen de los proveedores no es un pilar estrat\u00e9gico; lo es la capacidad de cumplir con los est\u00e1ndares requeridos."
+        }
+      ],
+      "hint": "Es el factor que 'legaliza' y 'blinda' toda la maravilla tecnol\u00f3gica de la operaci\u00f3n."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gesti\u00f3n de Almacenes (WMS)",
+      "Log\u00edstica 4.0 en Miner\u00eda",
+      "Marco Normativo y Entidades de Fiscalizaci\u00f3n",
+      "Transporte de Materiales Peligrosos e IQBF",
+      "Seguridad Operativa y Certificaciones"
+    ],
+    "followUp": [
+      "Mantenimiento Predictivo con Machine Learning",
+      "Impacto Econ\u00f3mico de la Cadena de Suministro en Zonas Remotas",
+      "Gesti\u00f3n de Seguros y Fianzas en la Industria Minera",
+      "Protocolos de Respuesta ante Emergencias Qu\u00edmicas"
+    ]
+  }
+}

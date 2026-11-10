@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1les son los tres ejes operativos fundamentales que permiten transformar los planos geol\u00f3gicos en flujo de caja real en una operaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "Mina, servicios auxiliares y planta de procesamiento.",
+          "isCorrect": true,
+          "rationale": "Estos componentes representan el terreno de extracci\u00f3n, las redes de soporte vital (agua, energ\u00eda) y el lugar de concentraci\u00f3n del metal."
+        },
+        {
+          "text": "Geolog\u00eda, planeamiento y comercializaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque son procesos importantes, no constituyen los tres pilares operativos f\u00edsicos donde se ejecuta la transformaci\u00f3n del mineral."
+        },
+        {
+          "text": "Exploraci\u00f3n, mantenimiento y log\u00edstica de transporte.",
+          "isCorrect": false,
+          "rationale": "Estos son procesos de apoyo o etapas previas, pero no abarcan la totalidad del n\u00facleo operativo de extracci\u00f3n y beneficio."
+        },
+        {
+          "text": "Recursos humanos, finanzas y seguridad ocupacional.",
+          "isCorrect": false,
+          "rationale": "Estas son \u00e1reas administrativas y de soporte transversal, no los ejes de ejecuci\u00f3n f\u00edsica de la producci\u00f3n minera."
+        }
+      ],
+      "hint": "Considere el lugar de extracci\u00f3n, el soporte de energ\u00eda/agua y el lugar donde se libera el metal."
+    },
+    {
+      "question": "En la selecci\u00f3n de un m\u00e9todo de explotaci\u00f3n, \u00bfcu\u00e1les son los tres factores geol\u00f3gicos implacables que dictan la decisi\u00f3n de ingenier\u00eda?",
+      "answerOptions": [
+        {
+          "text": "La profundidad del tajo, el precio del metal y la ubicaci\u00f3n geogr\u00e1fica.",
+          "isCorrect": false,
+          "rationale": "Estos son factores econ\u00f3micos y log\u00edsticos, pero no son las caracter\u00edsticas intr\u00ednsecas de la formaci\u00f3n geol\u00f3gica que definen el m\u00e9todo."
+        },
+        {
+          "text": "La geometr\u00eda del yacimiento, la distribuci\u00f3n de leyes y la potencia de la estructura.",
+          "isCorrect": true,
+          "rationale": "La forma, la riqueza del mineral y el espesor de la estructura son los par\u00e1metros f\u00edsicos inalterables que determinan c\u00f3mo se debe extraer el recurso."
+        },
+        {
+          "text": "La dureza de la roca, la cercan\u00eda a comunidades y la disponibilidad de agua.",
+          "isCorrect": false,
+          "rationale": "Si bien afectan la operaci\u00f3n, no son los factores primarios de dise\u00f1o geom\u00e9trico para elegir entre miner\u00eda superficial o subterr\u00e1nea."
+        },
+        {
+          "text": "El tipo de maquinaria, la mano de obra local y la normativa ambiental.",
+          "isCorrect": false,
+          "rationale": "Estos factores dependen de decisiones humanas o externas, no de la naturaleza f\u00edsica del cuerpo mineralizado."
+        }
+      ],
+      "hint": "Piense en la forma del cuerpo mineral, qu\u00e9 tan rico es el mineral y qu\u00e9 tan ancha es la veta."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la explotaci\u00f3n de metales preciosos como el oro suele requerir un enfoque quir\u00fargico y selectivo, incluso en minas a cielo abierto?",
+      "answerOptions": [
+        {
+          "text": "Debido a que el bajo valor comercial del oro obliga a mover menos tierra.",
+          "isCorrect": false,
+          "rationale": "El oro tiene un valor comercial muy alto, lo que permite y exige precisi\u00f3n para evitar p\u00e9rdidas de valor."
+        },
+        {
+          "text": "Para evitar la diluci\u00f3n del mineral valioso con roca est\u00e9ril debido a su alta sensibilidad de ley.",
+          "isCorrect": true,
+          "rationale": "Dada la alta rentabilidad por unidad, cualquier mezcla con material sin valor reduce significativamente la recuperaci\u00f3n econ\u00f3mica."
+        },
+        {
+          "text": "Porque las leyes del oro son extremadamente uniformes en toda la monta\u00f1a.",
+          "isCorrect": false,
+          "rationale": "Las leyes del oro suelen ser muy err\u00e1ticas y sensibles, lo que precisamente demanda un enfoque de extracci\u00f3n selectivo."
+        },
+        {
+          "text": "Debido a que el oro se encuentra exclusivamente en vetas de gran potencia.",
+          "isCorrect": false,
+          "rationale": "El oro puede encontrarse en diversas estructuras, y su selectividad depende del valor y la sensibilidad de la ley, no solo del espesor."
+        }
+      ],
+      "hint": "Considere el impacto de mezclar material valioso con material sin valor econ\u00f3mico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta t\u00e9cnica permite estandarizar la elecci\u00f3n del m\u00e9todo de minado asignando puntajes matem\u00e1ticos a las caracter\u00edsticas de la roca?",
+      "answerOptions": [
+        {
+          "text": "El sistema de despacho (Dispatch).",
+          "isCorrect": false,
+          "rationale": "El Dispatch es un sistema log\u00edstico para el movimiento de flotas, no una herramienta de dise\u00f1o de selecci\u00f3n de m\u00e9todos."
+        },
+        {
+          "text": "El an\u00e1lisis de Gemelos Digitales.",
+          "isCorrect": false,
+          "rationale": "Los gemelos digitales sirven para simulaci\u00f3n y monitoreo en tiempo real, no para la selecci\u00f3n inicial del m\u00e9todo de explotaci\u00f3n."
+        },
+        {
+          "text": "El m\u00e9todo de Nicolas.",
+          "isCorrect": true,
+          "rationale": "Este m\u00e9todo utiliza una matriz t\u00e9cnica que eval\u00faa variables geom\u00e9tricas y geomec\u00e1nicas para recomendar el dise\u00f1o de minado m\u00e1s fundamentado."
+        },
+        {
+          "text": "La valorizaci\u00f3n Rollback.",
+          "isCorrect": false,
+          "rationale": "El Rollback es una metodolog\u00eda financiera para calcular el valor del mineral, no un criterio de ingenier\u00eda de dise\u00f1o f\u00edsico."
+        }
+      ],
+      "hint": "Se trata de una matriz t\u00e9cnica que quita el sesgo humano en la etapa de planificaci\u00f3n."
+    },
+    {
+      "question": "Si un yacimiento presenta un buzamiento vertical superior a $60^{\\circ}$, \u00bfcu\u00e1l t\u00e9cnica de explotaci\u00f3n suele ser recomendada para aprovechar la gravedad?",
+      "answerOptions": [
+        {
+          "text": "Corte y relleno (Cut and Fill).",
+          "isCorrect": false,
+          "rationale": "Este m\u00e9todo se usa para leyes err\u00e1ticas y geometr\u00edas irregulares, no espec\u00edficamente para maximizar la ca\u00edda libre por gravedad."
+        },
+        {
+          "text": "Sublevel stopping.",
+          "isCorrect": true,
+          "rationale": "Esta t\u00e9cnica aprovecha la inclinaci\u00f3n pronunciada para que el mineral fragmentado caiga naturalmente por gravedad hacia los puntos de extracci\u00f3n."
+        },
+        {
+          "text": "C\u00e1maras y pilares (Room and Pillar).",
+          "isCorrect": false,
+          "rationale": "Este m\u00e9todo es t\u00edpico de cuerpos horizontales o con poca inclinaci\u00f3n, donde la roca se sostiene a s\u00ed misma mediante pilares."
+        },
+        {
+          "text": "Miner\u00eda de placeres.",
+          "isCorrect": false,
+          "rationale": "Este m\u00e9todo se aplica a dep\u00f3sitos sedimentarios superficiales, no a estructuras verticales subterr\u00e1neas."
+        }
+      ],
+      "hint": "Piense en un m\u00e9todo que permita que el mineral 'caiga solito'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal caracter\u00edstica de los m\u00e9todos de explotaci\u00f3n por hundimiento (caving)?",
+      "answerOptions": [
+        {
+          "text": "Requieren el uso intensivo de relleno hidr\u00e1ulico para sostener el techo.",
+          "isCorrect": false,
+          "rationale": "El hundimiento no utiliza relleno; por el contrario, permite que el terreno colapse de forma controlada."
+        },
+        {
+          "text": "Utilizan pilares de mineral virgen para evitar que la monta\u00f1a se mueva.",
+          "isCorrect": false,
+          "rationale": "El uso de pilares es caracter\u00edstico de los m\u00e9todos autosoportantes, no de los de hundimiento."
+        },
+        {
+          "text": "Inducen un colapso controlado aprovechando el propio peso de la monta\u00f1a para fragmentar el mineral.",
+          "isCorrect": true,
+          "rationale": "En lugar de resistir las presiones de la tierra, estos m\u00e9todos las utilizan a su favor para que el mineral caiga por gravedad."
+        },
+        {
+          "text": "Son m\u00e9todos de baja productividad dise\u00f1ados para vetas muy angostas.",
+          "isCorrect": false,
+          "rationale": "Los m\u00e9todos de hundimiento son de escala masiva y alt\u00edsima productividad, comparables a operaciones a cielo abierto pero bajo tierra."
+        }
+      ],
+      "hint": "En lugar de pelear contra la presi\u00f3n de la monta\u00f1a, estos m\u00e9todos la usan como aliada."
+    },
+    {
+      "question": "En la mina Chuquicamata, \u00bfqu\u00e9 innovaci\u00f3n tecnol\u00f3gica se utiliza para facilitar la fragmentaci\u00f3n del mineral en el block caving?",
+      "answerOptions": [
+        {
+          "text": "Perforaci\u00f3n con equipos Muki de bajo perfil.",
+          "isCorrect": false,
+          "rationale": "Los equipos Muki son para miner\u00eda selectiva de vetas angostas, no para el hundimiento masivo de Chuquicamata."
+        },
+        {
+          "text": "Preacondicionamiento mediante inyecci\u00f3n hidr\u00e1ulica a alta presi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Se inyecta agua en las fracturas del macizo rocoso para debilitar la estructura antes de inducir el hundimiento."
+        },
+        {
+          "text": "Uso exclusivo de camiones aut\u00f3nomos de 400 toneladas bajo tierra.",
+          "isCorrect": false,
+          "rationale": "Aunque existe automatizaci\u00f3n, la t\u00e9cnica espec\u00edfica para fragmentar la roca mencionada es el preacondicionamiento hidr\u00e1ulico."
+        },
+        {
+          "text": "Sostenimiento con geomembranas impermeables.",
+          "isCorrect": false,
+          "rationale": "Las geomembranas se usan para el cierre de minas y relaveras, no para la fragmentaci\u00f3n en la etapa de explotaci\u00f3n."
+        }
+      ],
+      "hint": "Implica el uso de agua para debilitar las fracturas del macizo rocoso."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es uno de los mayores desaf\u00edos operativos al implementar flotas de camiones aut\u00f3nomos en una unidad minera?",
+      "answerOptions": [
+        {
+          "text": "La imposibilidad de mover m\u00e1s de 100 toneladas por viaje.",
+          "isCorrect": false,
+          "rationale": "Los camiones aut\u00f3nomos modernos pueden mover hasta 400 toneladas, por lo que la capacidad no es el problema."
+        },
+        {
+          "text": "La gesti\u00f3n de flotas mixtas donde interact\u00faan veh\u00edculos aut\u00f3nomos y tripulados por humanos.",
+          "isCorrect": true,
+          "rationale": "Coordinar algoritmos con reacciones humanas en la misma ruta representa un reto log\u00edstico y de seguridad complejo."
+        },
+        {
+          "text": "La reducci\u00f3n del $30\\%$ de la productividad por falta de operadores.",
+          "isCorrect": false,
+          "rationale": "La autonom\u00eda busca disparar la productividad eliminando tiempos muertos, no reducirla."
+        },
+        {
+          "text": "La prohibici\u00f3n legal de usar redes 5G en zonas mineras.",
+          "isCorrect": false,
+          "rationale": "Al contrario, las redes 5G robustas son la base tecnol\u00f3gica indispensable para la conectividad de estos sistemas."
+        }
+      ],
+      "hint": "Piense en la interacci\u00f3n entre conductores humanos y camiones controlados por algoritmos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumplen los 'Gemelos Digitales' (Digital Twins) en la miner\u00eda 4.0?",
+      "answerOptions": [
+        {
+          "text": "Son repuestos id\u00e9nticos que se guardan en almac\u00e9n para casos de emergencia.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino no se refiere a inventario f\u00edsico, sino a una representaci\u00f3n virtual de la operaci\u00f3n."
+        },
+        {
+          "text": "Representaciones virtuales alimentadas por sensores para simular escenarios y predecir fallas.",
+          "isCorrect": true,
+          "rationale": "Permiten monitorear la estabilidad de taludes o procesos en tiempo real y anticiparse a problemas antes de que ocurran."
+        },
+        {
+          "text": "Sistemas de ventilaci\u00f3n doble para minas subterr\u00e1neas profundas.",
+          "isCorrect": false,
+          "rationale": "Esta es una soluci\u00f3n de ingenier\u00eda de ventilaci\u00f3n, no relacionada con el concepto de r\u00e9plica digital."
+        },
+        {
+          "text": "Equipos de perforaci\u00f3n compactos que trabajan en pareja.",
+          "isCorrect": false,
+          "rationale": "Aunque los equipos pueden trabajar en conjunto, los gemelos digitales son herramientas de software y datos."
+        }
+      ],
+      "hint": "Son r\u00e9plicas exactas en un entorno de software que permiten ver el futuro de la operaci\u00f3n."
+    },
+    {
+      "question": "En el control del OPEX, \u00bfqu\u00e9 diferencia a un mantenimiento predictivo (overhaul) de una parada no programada?",
+      "answerOptions": [
+        {
+          "text": "El mantenimiento predictivo es m\u00e1s caro porque se hace cuando el equipo a\u00fan funciona.",
+          "isCorrect": false,
+          "rationale": "Aunque parece un gasto preventivo, evita la 'hemorragia financiera' de una falla catastr\u00f3fica e inesperada."
+        },
+        {
+          "text": "La parada no programada permite extender la vida contable del activo de forma oficial.",
+          "isCorrect": false,
+          "rationale": "Solo el mantenimiento planificado e integral (overhaul) permite optimizar la inversi\u00f3n y extender formalmente la vida \u00fatil."
+        },
+        {
+          "text": "El mantenimiento predictivo utiliza sensores para intervenir justo antes de la falla, evitando par\u00e1lisis masivas.",
+          "isCorrect": true,
+          "rationale": "Permite planificar la reconstrucci\u00f3n del equipo en el momento quir\u00fargico exacto para maximizar su disponibilidad."
+        },
+        {
+          "text": "No existe diferencia, ambos se consideran costos fijos de administraci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El mantenimiento est\u00e1 ligado a la operatividad de los equipos y su gesti\u00f3n define la eficiencia de los costos variables."
+        }
+      ],
+      "hint": "Piense en la diferencia entre arreglar algo que ya se rompi\u00f3 y planificar su renovaci\u00f3n mediante datos."
+    },
+    {
+      "question": "Dentro de la estructura de costos variables de una mina a cielo abierto, \u00bfqu\u00e9 insumo puede representar hasta el $30\\%$ del presupuesto?",
+      "answerOptions": [
+        {
+          "text": "El agua para la planta de procesamiento.",
+          "isCorrect": false,
+          "rationale": "Aunque es vital, el costo del agua no suele alcanzar tales proporciones del gasto variable comparado con el mantenimiento de flota."
+        },
+        {
+          "text": "Los explosivos para las voladuras diarias.",
+          "isCorrect": false,
+          "rationale": "Los explosivos son un costo importante, pero los neum\u00e1ticos de camiones gigantes superan este porcentaje en muchas operaciones."
+        },
+        {
+          "text": "Los neum\u00e1ticos de los camiones mineros.",
+          "isCorrect": true,
+          "rationale": "Debido a la abrasi\u00f3n del suelo y las grandes distancias, el caucho se consume r\u00e1pidamente, siendo una gran fuga de capital."
+        },
+        {
+          "text": "Los uniformes y equipos de protecci\u00f3n personal (EPP).",
+          "isCorrect": false,
+          "rationale": "Los EPP se consideran gastos operativos, pero su impacto porcentual es m\u00ednimo frente a los insumos industriales."
+        }
+      ],
+      "hint": "Es un componente que sufre por la abrasi\u00f3n de la roca volada y las largas rampas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal del m\u00e9todo de valorizaci\u00f3n 'Rollback'?",
+      "answerOptions": [
+        {
+          "text": "Calcular el valor del mineral en boca de mina restando costos de procesamiento y log\u00edstica al precio de mercado.",
+          "isCorrect": true,
+          "rationale": "Consiste en una 'valorizaci\u00f3n en retroceso' que deduce fundici\u00f3n, refinaci\u00f3n y transporte del precio final del metal."
+        },
+        {
+          "text": "Aumentar artificialmente el precio del metal en la bolsa de Londres.",
+          "isCorrect": false,
+          "rationale": "El Rollback es una t\u00e9cnica de c\u00e1lculo interno, no tiene influencia sobre los precios de mercado internacionales."
+        },
+        {
+          "text": "Determinar cu\u00e1ntas toneladas de mineral quedan por extraer antes de cerrar la mina.",
+          "isCorrect": false,
+          "rationale": "Esto corresponde al c\u00e1lculo de reservas geol\u00f3gicas, no a la valorizaci\u00f3n econ\u00f3mica del producto comercial."
+        },
+        {
+          "text": "Evitar el pago de penalidades por impurezas en el concentrado.",
+          "isCorrect": false,
+          "rationale": "El Rollback incluye el descuento por penalidades en su c\u00e1lculo, pero su fin es determinar el valor neto, no evadirlas."
+        }
+      ],
+      "hint": "Es un proceso de resta sucesiva que comienza con el precio en la bolsa de metales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 etapa del cierre de minas se realiza de forma simult\u00e1nea a la operaci\u00f3n de extracci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Cierre final.",
+          "isCorrect": false,
+          "rationale": "El cierre final ocurre una vez que cesa la producci\u00f3n por completo."
+        },
+        {
+          "text": "Cierre progresivo.",
+          "isCorrect": true,
+          "rationale": "Permite rehabilitar \u00e1reas y botaderos que ya no se usan mientras la mina sigue produciendo en otras zonas."
+        },
+        {
+          "text": "Post-cierre.",
+          "isCorrect": false,
+          "rationale": "El post-cierre es la etapa de monitoreo que ocurre a\u00f1os despu\u00e9s de haber desmantelado la infraestructura."
+        },
+        {
+          "text": "Garant\u00eda financiera.",
+          "isCorrect": false,
+          "rationale": "La garant\u00eda es un dep\u00f3sito legal previo, no una etapa de rehabilitaci\u00f3n f\u00edsica en el terreno."
+        }
+      ],
+      "hint": "Ayuda a optimizar el flujo de caja al recuperar garant\u00edas antes de tiempo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo ambiental cr\u00edtico se busca evitar durante la etapa de post-cierre mediante el monitoreo continuo?",
+      "answerOptions": [
+        {
+          "text": "La baja en el precio del oro en los mercados internacionales.",
+          "isCorrect": false,
+          "rationale": "Los riesgos de mercado no son objeto del plan de cierre ambiental, el cual se enfoca en la estabilidad del ecosistema."
+        },
+        {
+          "text": "El drenaje \u00e1cido de mina (DAM).",
+          "isCorrect": true,
+          "rationale": "La exposici\u00f3n de ciertas rocas al agua y ox\u00edgeno puede generar \u00e1cido, lo que requiere control para evitar cat\u00e1strofes ecol\u00f3gicas."
+        },
+        {
+          "text": "El exceso de vegetaci\u00f3n en las zonas rehabilitadas.",
+          "isCorrect": false,
+          "rationale": "La revegetaci\u00f3n es un objetivo positivo del cierre, no un riesgo que se deba mitigar."
+        },
+        {
+          "text": "La recuperaci\u00f3n de relaves para la econom\u00eda circular.",
+          "isCorrect": false,
+          "rationale": "Esto es una oportunidad de negocio y mejora ambiental, no un riesgo de seguridad qu\u00edmica post-operaci\u00f3n."
+        }
+      ],
+      "hint": "Es un fen\u00f3meno qu\u00edmico que ocurre cuando la roca expuesta reacciona con el agua y el aire."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la estrategia de econom\u00eda circular aplicada entre las empresas Shogang y Shoxin?",
+      "answerOptions": [
+        {
+          "text": "En el intercambio de personal t\u00e9cnico para reducir costos de planilla.",
+          "isCorrect": false,
+          "rationale": "La econom\u00eda circular se enfoca en el aprovechamiento de recursos y residuos, no en la rotaci\u00f3n de personal."
+        },
+        {
+          "text": "En el reprocesamiento de relaves antiguos para recuperar remanentes de hierro y cobre.",
+          "isCorrect": true,
+          "rationale": "Transforma un pasivo ambiental (residuo) en un activo comercial mediante nuevas tecnolog\u00edas de recuperaci\u00f3n."
+        },
+        {
+          "text": "En la compra conjunta de neum\u00e1ticos para obtener descuentos por volumen.",
+          "isCorrect": false,
+          "rationale": "Aunque es una buena pr\u00e1ctica log\u00edstica, no define el concepto de circularidad de los residuos mineros."
+        },
+        {
+          "text": "En el cierre total de la planta para evitar la generaci\u00f3n de residuos.",
+          "isCorrect": false,
+          "rationale": "La econom\u00eda circular busca producir de forma eficiente, no detener la producci\u00f3n."
+        }
+      ],
+      "hint": "Implica convertir un residuo (relave) en un nuevo producto valioso."
+    },
+    {
+      "question": "\u00bfQu\u00e9 material se utiliza como escudo protector para asegurar que los dep\u00f3sitos de residuos no filtren contaminantes a los acu\u00edferos?",
+      "answerOptions": [
+        {
+          "text": "Top Soil (tierra vegetal).",
+          "isCorrect": false,
+          "rationale": "El Top Soil es la capa superficial para el crecimiento de plantas, no la barrera impermeable."
+        },
+        {
+          "text": "Geomembranas impermeables.",
+          "isCorrect": true,
+          "rationale": "Estas capas de alta tecnolog\u00eda sellan los dep\u00f3sitos impidiendo el paso de sustancias hacia el subsuelo."
+        },
+        {
+          "text": "Relaves reprocesados.",
+          "isCorrect": false,
+          "rationale": "Los relaves son el material que se deposita, no el escudo que evita las filtraciones."
+        },
+        {
+          "text": "Roca est\u00e9ril de voladura.",
+          "isCorrect": false,
+          "rationale": "La roca est\u00e9ril es permeable; por s\u00ed sola no puede actuar como barrera contra contaminantes qu\u00edmicos l\u00edquidos."
+        }
+      ],
+      "hint": "Es una soluci\u00f3n de ingenier\u00eda civil que act\u00faa como una capa pl\u00e1stica gigante y resistente."
+    },
+    {
+      "question": "En el contexto de la miner\u00eda digital en Per\u00fa, \u00bfcu\u00e1l es el porcentaje de flota aut\u00f3noma que ya opera en el proyecto Quellaveco?",
+      "answerOptions": [
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "El proyecto ya ha superado este porcentaje inicial en su camino hacia la autonom\u00eda total."
+        },
+        {
+          "text": "$30\\%$",
+          "isCorrect": true,
+          "rationale": "Actualmente, casi un tercio de su flota gigantesca opera sin conductores en cabina mediante sistemas inteligentes."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "Esta es la meta establecida para el a\u00f1o 2026, pero no es la cifra actual de operaci\u00f3n."
+        },
+        {
+          "text": "$100\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es la visi\u00f3n de futuro, alcanzar la autonom\u00eda total requiere una transici\u00f3n progresiva que a\u00fan est\u00e1 en curso."
+        }
+      ],
+      "hint": "Es casi la tercera parte de su flota actual."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 tipo de estructuras mineras est\u00e1 dise\u00f1ado espec\u00edficamente el equipo peruano 'Muki'?",
+      "answerOptions": [
+        {
+          "text": "Tajos abiertos de gran escala.",
+          "isCorrect": false,
+          "rationale": "En tajos abiertos se usan equipos masivos, no herramientas de bajo perfil y precisi\u00f3n quir\u00fargica."
+        },
+        {
+          "text": "Betas angostas en miner\u00eda subterr\u00e1nea.",
+          "isCorrect": true,
+          "rationale": "Su dise\u00f1o compacto permite perforar en espacios reducidos donde equipos convencionales no pueden ingresar."
+        },
+        {
+          "text": "Extracci\u00f3n de hidrocarburos en altamar.",
+          "isCorrect": false,
+          "rationale": "El Muki es una innovaci\u00f3n para la miner\u00eda met\u00e1lica subterr\u00e1nea, no para la industria petrolera."
+        },
+        {
+          "text": "Mantenimiento de relaveras.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n es la perforaci\u00f3n para extracci\u00f3n, no la gesti\u00f3n de dep\u00f3sitos de residuos."
+        }
+      ],
+      "hint": "Su ventaja es poder entrar en espacios diminutos y mantener la precisi\u00f3n."
+    },
+    {
+      "question": "Dentro de los costos fijos de una operaci\u00f3n minera, \u00bfqu\u00e9 elemento se considera indispensable para la estructura de sostenibilidad?",
+      "answerOptions": [
+        {
+          "text": "Los reactivos qu\u00edmicos de flotaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los reactivos son costos variables, ya que su consumo depende directamente del volumen de mineral procesado."
+        },
+        {
+          "text": "La energ\u00eda el\u00e9ctrica de los molinos.",
+          "isCorrect": false,
+          "rationale": "Al igual que los insumos, la energ\u00eda var\u00eda seg\u00fan el ritmo de la producci\u00f3n en planta."
+        },
+        {
+          "text": "La estructura de SOMA (Seguridad, Salud Ocupacional y Medio Ambiente).",
+          "isCorrect": true,
+          "rationale": "Estos son compromisos permanentes y costos de gesti\u00f3n fijos que no dependen del volumen extra\u00eddo."
+        },
+        {
+          "text": "El reemplazo de llantas de camiones.",
+          "isCorrect": false,
+          "rationale": "El desgaste de llantas es proporcional al uso y distancia recorrida, por lo que es un costo variable."
+        }
+      ],
+      "hint": "Piense en las \u00e1reas de cumplimiento legal y protecci\u00f3n del personal que se pagan siempre."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la duraci\u00f3n m\u00ednima recomendada para la etapa de post-cierre con el fin de asegurar la estabilidad f\u00edsica y qu\u00edmica del entorno?",
+      "answerOptions": [
+        {
+          "text": "6 meses.",
+          "isCorrect": false,
+          "rationale": "Un periodo tan corto no permite observar los ciclos estacionales ni detectar la generaci\u00f3n lenta de \u00e1cidos."
+        },
+        {
+          "text": "1 a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "El monitoreo requiere m\u00e1s tiempo para garantizar que la rehabilitaci\u00f3n sea verdaderamente autosostenible."
+        },
+        {
+          "text": "5 a\u00f1os o m\u00e1s.",
+          "isCorrect": true,
+          "rationale": "Este plazo es el est\u00e1ndar para monitorear que no existan filtraciones, colapsos o drenajes \u00e1cidos a largo plazo."
+        },
+        {
+          "text": "20 a\u00f1os obligatoriamente.",
+          "isCorrect": false,
+          "rationale": "Aunque puede extenderse, la base m\u00ednima establecida por normativas suele ser de 5 a\u00f1os antes de la liberaci\u00f3n total."
+        }
+      ],
+      "hint": "Es un lustro de monitoreo innegociable."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Ejes operativos de la miner\u00eda",
+      "Selecci\u00f3n de m\u00e9todos de explotaci\u00f3n",
+      "Tecnolog\u00eda y automatizaci\u00f3n minera (Miner\u00eda 4.0)",
+      "Gesti\u00f3n de costos (OPEX y CAPEX)",
+      "Cierre de minas y responsabilidad ambiental"
+    ],
+    "followUp": [
+      "Geomec\u00e1nica aplicada al sostenimiento subterr\u00e1neo",
+      "Modelamiento de Gemelos Digitales para predicci\u00f3n de riesgos",
+      "Legislaci\u00f3n sobre garant\u00edas financieras para remediaci\u00f3n ambiental",
+      "Procesos metal\u00fargicos para la recuperaci\u00f3n de relaves"
+    ]
+  }
+}

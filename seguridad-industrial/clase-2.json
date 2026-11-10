@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la visi\u00f3n moderna de la seguridad ocupacional dentro de una gesti\u00f3n estrat\u00e9gica rentable?",
+      "answerOptions": [
+        {
+          "text": "Una inversi\u00f3n estrat\u00e9gica clave",
+          "isCorrect": true,
+          "rationale": "La prevenci\u00f3n s\u00f3lida mitiga riesgos, protege activos y genera rentabilidad al evitar sobrecostos laborales y penales."
+        },
+        {
+          "text": "Un gasto operativo inevitable",
+          "isCorrect": false,
+          "rationale": "Ver la seguridad solo como un desembolso necesario ignora su capacidad de generar valor y sostenibilidad a largo plazo."
+        },
+        {
+          "text": "Un tr\u00e1mite burocr\u00e1tico para auditor\u00edas",
+          "isCorrect": false,
+          "rationale": "Reducir la seguridad a documentos para auditor\u00edas impide que se convierta en un motor de competitividad real."
+        },
+        {
+          "text": "Una responsabilidad exclusiva de recursos humanos",
+          "isCorrect": false,
+          "rationale": "La seguridad moderna debe ser una m\u00e9trica central del negocio e integrada en todas las \u00e1reas, no un esfuerzo aislado."
+        }
+      ],
+      "hint": "Considere si la seguridad se percibe como algo que resta o que suma valor al negocio."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor permiti\u00f3 a empresas como el Grupo A\u00f1a\u00f1os competir exitosamente en mercados de Tailandia, China y Estados Unidos?",
+      "answerOptions": [
+        {
+          "text": "La adopci\u00f3n de est\u00e1ndares ISO para procesos globales",
+          "isCorrect": true,
+          "rationale": "La estandarizaci\u00f3n asegura que los procesos de seguridad y calidad sean id\u00e9nticos y competitivos en cualquier parte del mundo."
+        },
+        {
+          "text": "El uso exclusivo de la legislaci\u00f3n local peruana",
+          "isCorrect": false,
+          "rationale": "Aunque la ley local es la base, para competir globalmente se requieren est\u00e1ndares internacionales que faciliten la trazabilidad."
+        },
+        {
+          "text": "La reducci\u00f3n de costos en equipos de protecci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La competitividad no se basa en el ahorro en seguridad, sino en la solidez de los procesos preventivos."
+        },
+        {
+          "text": "La eliminaci\u00f3n de la jerarqu\u00eda de controles",
+          "isCorrect": false,
+          "rationale": "La jerarqu\u00eda de controles es fundamental para la operatividad segura, y su eliminaci\u00f3n aumentar\u00eda el riesgo de accidentes."
+        }
+      ],
+      "hint": "Piense en la herramienta que permite unificar criterios de operaci\u00f3n a nivel internacional."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el verdadero prop\u00f3sito de la Ley de Seguridad y Salud en el Trabajo (Ley $29783$) respecto a la organizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Transformar radicalmente la estructura de poder interno",
+          "isCorrect": true,
+          "rationale": "La norma busca que la prevenci\u00f3n deje de ser una sugerencia para convertirse en una columna vertebral irrenunciable."
+        },
+        {
+          "text": "Generar un archivo ordenado de registros y sellos",
+          "isCorrect": false,
+          "rationale": "El orden documental es un medio, pero el fin \u00faltimo es el cambio cultural y operativo profundo."
+        },
+        {
+          "text": "Centralizar la seguridad en un solo departamento t\u00e9cnico",
+          "isCorrect": false,
+          "rationale": "La ley promueve la gesti\u00f3n integral, evitando que la seguridad sea un \u00e1rea aislada de la gerencia."
+        },
+        {
+          "text": "Simplificar los procesos de fiscalizaci\u00f3n estatal",
+          "isCorrect": false,
+          "rationale": "Aunque define reglas, su meta es blindar la operaci\u00f3n y proteger el capital humano antes que facilitar tr\u00e1mites."
+        }
+      ],
+      "hint": "Enfoque su respuesta en c\u00f3mo la ley afecta la importancia de la prevenci\u00f3n en las operaciones."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica el principio de prevenci\u00f3n en el dise\u00f1o de un puesto de trabajo?",
+      "answerOptions": [
+        {
+          "text": "Dise\u00f1ar barreras desde la misma concepci\u00f3n del puesto",
+          "isCorrect": true,
+          "rationale": "La ingenier\u00eda preventiva busca evitar que el peligro alcance al trabajador mediante el dise\u00f1o del entorno."
+        },
+        {
+          "text": "Priorizar la entrega de equipos de protecci\u00f3n personal",
+          "isCorrect": false,
+          "rationale": "Los equipos personales son la \u00faltima medida, no la base del dise\u00f1o preventivo inicial."
+        },
+        {
+          "text": "Evaluar los riesgos solo despu\u00e9s de que ocurra un incidente",
+          "isCorrect": false,
+          "rationale": "La prevenci\u00f3n es proactiva; esperar al accidente convierte la gesti\u00f3n en puramente reactiva."
+        },
+        {
+          "text": "Delegar la seguridad exclusivamente al comportamiento del operario",
+          "isCorrect": false,
+          "rationale": "La prevenci\u00f3n debe modificar el entorno real, no depender \u00fanicamente de la conducta individual."
+        }
+      ],
+      "hint": "Piense en el momento en que se debe considerar la seguridad al planificar una tarea."
+    },
+    {
+      "question": "Bajo el principio de responsabilidad, \u00bfqu\u00e9 sucede si la prevenci\u00f3n falla por negligencia del empleador?",
+      "answerOptions": [
+        {
+          "text": "El empleador asume todas las implicancias econ\u00f3micas y legales",
+          "isCorrect": true,
+          "rationale": "La negligencia preventiva tiene un impacto directo en el patrimonio y la responsabilidad penal de la alta direcci\u00f3n."
+        },
+        {
+          "text": "El Estado asume el costo de la reparaci\u00f3n econ\u00f3mica",
+          "isCorrect": false,
+          "rationale": "El Estado fiscaliza, pero la responsabilidad legal y financiera del da\u00f1o recae sobre quien garantiza la seguridad."
+        },
+        {
+          "text": "El trabajador pierde su derecho a la reinserci\u00f3n laboral",
+          "isCorrect": false,
+          "rationale": "La ley garantiza la atenci\u00f3n y protecci\u00f3n del trabajador, incluso tras una falla preventiva."
+        },
+        {
+          "text": "La responsabilidad se diluye entre todos los sindicatos",
+          "isCorrect": false,
+          "rationale": "La gerencia es el garante principal, por lo que la responsabilidad no puede transferirse a las organizaciones laborales."
+        }
+      ],
+      "hint": "Identifique qui\u00e9n es el garante principal de la seguridad en el entorno laboral."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el n\u00famero m\u00ednimo de capacitaciones anuales que las organizaciones est\u00e1n obligadas a realizar por ley?",
+      "answerOptions": [
+        {
+          "text": "$4$",
+          "isCorrect": true,
+          "rationale": "La normativa peruana exige al menos cuatro sesiones estrat\u00e9gicas centradas en riesgos espec\u00edficos."
+        },
+        {
+          "text": "$2$",
+          "isCorrect": false,
+          "rationale": "Esta cantidad es insuficiente frente al imperativo legal m\u00ednimo establecido para la formaci\u00f3n preventiva."
+        },
+        {
+          "text": "$6$",
+          "isCorrect": false,
+          "rationale": "Aunque es posible realizar m\u00e1s, el m\u00ednimo legal requerido es menor a esta cifra."
+        },
+        {
+          "text": "$1$",
+          "isCorrect": false,
+          "rationale": "Una sola capacitaci\u00f3n al a\u00f1o no cumple con la periodicidad exigida para mantener una cultura preventiva s\u00f3lida."
+        }
+      ],
+      "hint": "Se trata de un n\u00famero par menor a cinco."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece el principio de primac\u00eda de la realidad durante una auditor\u00eda o inspecci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "La realidad observada prevalece sobre cualquier documento escrito",
+          "isCorrect": true,
+          "rationale": "Los registros impecables no tienen valor legal si no se reflejan id\u00e9nticamente en el campo de operaciones."
+        },
+        {
+          "text": "Los documentos firmados anulan los hechos observados",
+          "isCorrect": false,
+          "rationale": "Este es un error com\u00fan; la burocracia no protege a la gerencia si las condiciones reales son inseguras."
+        },
+        {
+          "text": "La falta de registros invalida los accidentes ocurridos",
+          "isCorrect": false,
+          "rationale": "Un accidente es un hecho real; la ausencia de papeles no borra el da\u00f1o f\u00edsico ni la responsabilidad."
+        },
+        {
+          "text": "El inspector debe priorizar la interpretaci\u00f3n de la alta direcci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La inspecci\u00f3n se basa en hechos objetivos constatados, no en las intenciones o interpretaciones de la gerencia."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede si un trabajador est\u00e1 sin casco pero hay un papel firmado que dice que se le entreg\u00f3."
+    },
+    {
+      "question": "En la transici\u00f3n de OHSAS $18001$ a ISO $45001$, \u00bfcu\u00e1l es el cambio fundamental en el enfoque del desempe\u00f1o?",
+      "answerOptions": [
+        {
+          "text": "De una instrucci\u00f3n reactiva a una mejora proactiva",
+          "isCorrect": true,
+          "rationale": "La ISO busca evolucionar hacia la identificaci\u00f3n proactiva de oportunidades estrat\u00e9gicas de seguridad."
+        },
+        {
+          "text": "De una interacci\u00f3n din\u00e1mica a un procedimiento est\u00e1tico",
+          "isCorrect": false,
+          "rationale": "Es lo opuesto; la ISO 45001 se aleja de la rigidez para adaptarse al contexto vivo de la organizaci\u00f3n."
+        },
+        {
+          "text": "De una visi\u00f3n externa a un esfuerzo puramente interno",
+          "isCorrect": false,
+          "rationale": "La norma moderna expande el alcance para incluir a todo el ecosistema externo y partes interesadas."
+        },
+        {
+          "text": "De sistemas integrados a departamentos aislados",
+          "isCorrect": false,
+          "rationale": "La ISO utiliza la Estructura de Alto Nivel para integrarse fluidamente con calidad y medio ambiente."
+        }
+      ],
+      "hint": "Piense en la diferencia entre reaccionar ante un da\u00f1o y anticiparse a \u00e9l."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja ofrece el uso de una Estructura de Alto Nivel (HLS) en las normas ISO?",
+      "answerOptions": [
+        {
+          "text": "Facilita la integraci\u00f3n con otras normas como ISO $9001$ e ISO $14001$",
+          "isCorrect": true,
+          "rationale": "La HLS permite un lenguaje com\u00fan entre diferentes sistemas de gesti\u00f3n, optimizando recursos corporativos."
+        },
+        {
+          "text": "Garantiza la eliminaci\u00f3n total de los riesgos psicosociales",
+          "isCorrect": false,
+          "rationale": "La estructura facilita la gesti\u00f3n, pero la eliminaci\u00f3n de riesgos depende de la implementaci\u00f3n y ejecuci\u00f3n real."
+        },
+        {
+          "text": "Permite que la empresa opere sin fiscalizaci\u00f3n estatal",
+          "isCorrect": false,
+          "rationale": "Las normas ISO son voluntarias e internacionales; no eximen del cumplimiento ni de la fiscalizaci\u00f3n legal nacional."
+        },
+        {
+          "text": "Reduce la participaci\u00f3n de los trabajadores en el sistema",
+          "isCorrect": false,
+          "rationale": "Al contrario, los est\u00e1ndares modernos exigen una mayor consulta y participaci\u00f3n de todo el personal."
+        }
+      ],
+      "hint": "Se relaciona con la compatibilidad entre distintos sistemas de gesti\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 abarca el concepto de 'enfoque del ciclo de vida' en la gesti\u00f3n de seguridad moderna?",
+      "answerOptions": [
+        {
+          "text": "Desde la concepci\u00f3n del producto hasta su disposici\u00f3n segura",
+          "isCorrect": true,
+          "rationale": "Este enfoque gestiona el riesgo sin puntos ciegos en toda la cadena de valor, desde el dise\u00f1o hasta el final."
+        },
+        {
+          "text": "\u00danicamente la etapa de fabricaci\u00f3n y ensamblaje",
+          "isCorrect": false,
+          "rationale": "Limitarse a la fabricaci\u00f3n ignora los riesgos potenciales durante el uso y el desecho final del producto."
+        },
+        {
+          "text": "Solo el periodo de vida laboral activa del trabajador",
+          "isCorrect": false,
+          "rationale": "Aunque es importante, el ciclo de vida en ISO se refiere tambi\u00e9n a la trazabilidad del producto o servicio."
+        },
+        {
+          "text": "La fase de respuesta inmediata tras un accidente grave",
+          "isCorrect": false,
+          "rationale": "Eso forma parte de la respuesta a emergencias, no de la visi\u00f3n integral de la trazabilidad preventiva."
+        }
+      ],
+      "hint": "Considere una l\u00ednea de tiempo que empiece antes de la fabricaci\u00f3n y termine despu\u00e9s del uso."
+    },
+    {
+      "question": "Bajo la normativa peruana, \u00bfcu\u00e1ndo es obligatorio conformar un Comit\u00e9 de Seguridad y Salud en el Trabajo?",
+      "answerOptions": [
+        {
+          "text": "Cuando la organizaci\u00f3n tiene $20$ o m\u00e1s trabajadores",
+          "isCorrect": true,
+          "rationale": "Este es el umbral legal que define el paso de un supervisor individual a una estructura paritaria."
+        },
+        {
+          "text": "Independientemente del n\u00famero de empleados desde el primer d\u00eda",
+          "isCorrect": false,
+          "rationale": "Para menos de 20 trabajadores, la ley permite una estructura simplificada mediante un supervisor."
+        },
+        {
+          "text": "Solo si la empresa pertenece a un sector de alto riesgo",
+          "isCorrect": false,
+          "rationale": "La obligatoriedad depende del n\u00famero de trabajadores, sin importar el nivel de riesgo del sector."
+        },
+        {
+          "text": "\u00danicamente si existe un sindicato legalmente constituido",
+          "isCorrect": false,
+          "rationale": "El comit\u00e9 es obligatorio por ley bas\u00e1ndose en el conteo de personal, exista o no un sindicato."
+        }
+      ],
+      "hint": "El l\u00edmite se establece en un n\u00famero redondo de dos d\u00edgitos que representa a la fuerza laboral."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal de un Comit\u00e9 de Seguridad y Salud en el Trabajo?",
+      "answerOptions": [
+        {
+          "text": "Debe ser bipartito y paritario",
+          "isCorrect": true,
+          "rationale": "Significa que debe tener igual n\u00famero de representantes de los trabajadores y del empleador."
+        },
+        {
+          "text": "Est\u00e1 compuesto exclusivamente por personal de la alta direcci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La paridad exige que los trabajadores tengan sus propios representantes elegidos para asegurar el di\u00e1logo."
+        },
+        {
+          "text": "Sus miembros son designados \u00fanicamente por el Estado",
+          "isCorrect": false,
+          "rationale": "Los miembros son elegidos internamente por las partes involucradas (trabajadores y empleador)."
+        },
+        {
+          "text": "Tiene funciones puramente consultivas sin poder de aprobaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "El comit\u00e9 tiene facultades reales para aprobar documentos clave como el Reglamento Interno (RIST)."
+        }
+      ],
+      "hint": "Piense en la igualdad de representaci\u00f3n entre las partes interesadas."
+    },
+    {
+      "question": "\u00bfPor cu\u00e1nto tiempo deben conservarse los registros de enfermedades ocupacionales?",
+      "answerOptions": [
+        {
+          "text": "$20$ a\u00f1os",
+          "isCorrect": true,
+          "rationale": "Este plazo extenso refleja el pasivo legal e hist\u00f3rico que una enfermedad profesional puede representar."
+        },
+        {
+          "text": "$10$ a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Este periodo corresponde a los registros de accidentes de trabajo, no a los de enfermedades."
+        },
+        {
+          "text": "$5$ a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Cinco a\u00f1os es el tiempo requerido para registros generales, insuficiente para casos de enfermedades de larga latencia."
+        },
+        {
+          "text": "$30$ a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Aunque es un tiempo largo, excede el requisito legal estricto establecido en la norma actual."
+        }
+      ],
+      "hint": "Es el plazo m\u00e1s largo de retenci\u00f3n documental mencionado en la norma."
+    },
+    {
+      "question": "En actividades de bajo riesgo, \u00bfcon qu\u00e9 frecuencia se deben realizar los ex\u00e1menes m\u00e9dicos ocupacionales?",
+      "answerOptions": [
+        {
+          "text": "Cada $2$ a\u00f1os",
+          "isCorrect": true,
+          "rationale": "Para riesgos bajos, la norma flexibiliza la periodicidad en comparaci\u00f3n con las actividades cr\u00edticas."
+        },
+        {
+          "text": "Anualmente de forma obligatoria",
+          "isCorrect": false,
+          "rationale": "La frecuencia anual no es la exigencia base para sectores que no son considerados de alto riesgo."
+        },
+        {
+          "text": "Al inicio, durante y al finalizar el contrato",
+          "isCorrect": false,
+          "rationale": "Este rigor de tres momentos est\u00e1 reservado espec\u00edficamente para actividades de alto riesgo."
+        },
+        {
+          "text": "Solo al momento de la jubilaci\u00f3n del trabajador",
+          "isCorrect": false,
+          "rationale": "El monitoreo de salud debe ser peri\u00f3dico para ser preventivo, no solo al final de la vida laboral."
+        }
+      ],
+      "hint": "Piense en un periodo bienal."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el primer paso y la meta ideal dentro de la jerarqu\u00eda de controles de riesgos?",
+      "answerOptions": [
+        {
+          "text": "Eliminaci\u00f3n del peligro",
+          "isCorrect": true,
+          "rationale": "Suprimir la fuente del da\u00f1o es la medida m\u00e1s robusta y efectiva para garantizar la seguridad."
+        },
+        {
+          "text": "Sustituci\u00f3n por un material menos peligroso",
+          "isCorrect": false,
+          "rationale": "La sustituci\u00f3n es el segundo paso; solo se aplica si la eliminaci\u00f3n total es t\u00e9cnica o f\u00edsicamente imposible."
+        },
+        {
+          "text": "Implementaci\u00f3n de controles de ingenier\u00eda",
+          "isCorrect": false,
+          "rationale": "La ingenier\u00eda es el tercer escal\u00f3n y busca aislar el peligro, no necesariamente desaparecerlo."
+        },
+        {
+          "text": "Uso de equipos de protecci\u00f3n personal",
+          "isCorrect": false,
+          "rationale": "Esta es la \u00faltima barrera y la menos efectiva, situada al final de la jerarqu\u00eda."
+        }
+      ],
+      "hint": "Se refiere a hacer que el peligro deje de existir por completo en el entorno."
+    },
+    {
+      "question": "\u00bfQu\u00e9 define al 'riesgo' en la gesti\u00f3n ocupacional?",
+      "answerOptions": [
+        {
+          "text": "La combinaci\u00f3n de probabilidad y severidad de un da\u00f1o",
+          "isCorrect": true,
+          "rationale": "El riesgo es una ecuaci\u00f3n din\u00e1mica que eval\u00faa qu\u00e9 tan posible es un evento y qu\u00e9 tan grave ser\u00eda."
+        },
+        {
+          "text": "La fuente est\u00e1tica con potencial de causar lesi\u00f3n",
+          "isCorrect": false,
+          "rationale": "Esta definici\u00f3n corresponde al 'peligro', que simplemente est\u00e1 ah\u00ed sin considerar la exposici\u00f3n."
+        },
+        {
+          "text": "El equipo de seguridad que utiliza el trabajador",
+          "isCorrect": false,
+          "rationale": "El equipo es un control para mitigar el riesgo, no el riesgo en s\u00ed mismo."
+        },
+        {
+          "text": "La multa econ\u00f3mica impuesta por el ente fiscalizador",
+          "isCorrect": false,
+          "rationale": "La multa es una consecuencia legal del incumplimiento, no la naturaleza t\u00e9cnica del riesgo."
+        }
+      ],
+      "hint": "Piense en una f\u00f3rmula que mezcla qu\u00e9 tan seguido puede pasar algo y qu\u00e9 tan malo ser\u00eda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n sobre la seguridad dej\u00f3 el caso antropol\u00f3gico de la mina Arcata?",
+      "answerOptions": [
+        {
+          "text": "La seguridad debe gestionar la percepci\u00f3n subjetiva y la cultura local",
+          "isCorrect": true,
+          "rationale": "A veces la ingenier\u00eda de vanguardia no es suficiente si no se aborda el temor o las creencias del trabajador."
+        },
+        {
+          "text": "Los refuerzos mec\u00e1nicos son la \u00fanica soluci\u00f3n ante t\u00faneles inestables",
+          "isCorrect": false,
+          "rationale": "El caso demostr\u00f3 que incluso con refuerzos de nivel, los trabajadores no operaban si no se sent\u00edan seguros culturalmente."
+        },
+        {
+          "text": "Los rituales tradicionales deben reemplazar a la ingenier\u00eda civil",
+          "isCorrect": false,
+          "rationale": "Los rituales complementan la percepci\u00f3n de seguridad, pero no sustituyen las barreras f\u00edsicas necesarias."
+        },
+        {
+          "text": "La gerencia nunca debe ceder ante las creencias de los empleados",
+          "isCorrect": false,
+          "rationale": "Ignorar la cultura local garantiza el fracaso del plan de prevenci\u00f3n y aumenta la conflictividad."
+        }
+      ],
+      "hint": "Recuerde la soluci\u00f3n que permiti\u00f3 que los mineros volvieran a entrar al t\u00fanel."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el impacto potencial de ignorar la fatiga y los factores psicosociales en el ausentismo laboral?",
+      "answerOptions": [
+        {
+          "text": "Puede disparar el ausentismo hasta en un $25\\%$",
+          "isCorrect": true,
+          "rationale": "Un clima t\u00f3xico y estr\u00e9s cr\u00f3nico tienen un impacto masivo y directo en la disponibilidad de la fuerza operativa."
+        },
+        {
+          "text": "No tiene impacto medible en la rentabilidad de la empresa",
+          "isCorrect": false,
+          "rationale": "Al contrario, el ausentismo destruye la rentabilidad y altera la planificaci\u00f3n de la producci\u00f3n."
+        },
+        {
+          "text": "Afecta \u00fanicamente a los mandos medios de la organizaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Los factores psicosociales impactan a toda la escala jer\u00e1rquica, desde operarios hasta la alta direcci\u00f3n."
+        },
+        {
+          "text": "Es un factor que la ley peruana todav\u00eda no considera obligatorio",
+          "isCorrect": false,
+          "rationale": "Monitorear factores psicosociales es actualmente una exigencia legal y operativa ineludible."
+        }
+      ],
+      "hint": "Es una cifra que representa a una cuarta parte de la fuerza de trabajo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de los siguientes documentos NO es obligatorio exhibir visualmente en el lugar de trabajo?",
+      "originalQuestion": "\u00bfCu\u00e1l de los siguientes documentos es obligatorio exhibir visualmente en el lugar de trabajo?",
+      "answerOptions": [
+        {
+          "text": "El mapa de riesgos y la pol\u00edtica de la empresa",
+          "isCorrect": true,
+          "rationale": "Ciertos documentos deben estar a la vista de cualquier persona para garantizar transparencia y orientaci\u00f3n."
+        },
+        {
+          "text": "Las historias cl\u00ednicas detalladas de los empleados",
+          "isCorrect": false,
+          "rationale": "Esta informaci\u00f3n es confidencial y su exhibici\u00f3n p\u00fablica violar\u00eda la privacidad m\u00e9dica."
+        },
+        {
+          "text": "Los registros contables de la gerencia general",
+          "isCorrect": false,
+          "rationale": "La contabilidad financiera no forma parte de los documentos de seguridad que deben ser visibles para los trabajadores."
+        },
+        {
+          "text": "Las planillas de sueldos y salarios",
+          "isCorrect": false,
+          "rationale": "La informaci\u00f3n salarial es privada y no tiene un prop\u00f3sito preventivo directo en el campo de operaciones."
+        }
+      ],
+      "hint": "Piense en las herramientas que ayudan al trabajador a orientarse sobre los peligros de su entorno."
+    },
+    {
+      "question": "\u00bfQui\u00e9n es el garante principal y l\u00edder indiscutible de toda la gesti\u00f3n preventiva en una empresa?",
+      "answerOptions": [
+        {
+          "text": "El empleador",
+          "isCorrect": true,
+          "rationale": "La ley consolida al empleador como el responsable final de garantizar condiciones de trabajo seguras."
+        },
+        {
+          "text": "El inspector de SUNAFIL",
+          "isCorrect": false,
+          "rationale": "El Estado (v\u00eda SUNAFIL) act\u00faa como fiscalizador, pero no gestiona la prevenci\u00f3n interna de la empresa."
+        },
+        {
+          "text": "El Ministerio de Salud",
+          "isCorrect": false,
+          "rationale": "El Ministerio dicta normas de salud p\u00fablica, pero el liderazgo operativo recae en la organizaci\u00f3n."
+        },
+        {
+          "text": "El proveedor de equipos de protecci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Los proveedores son actores externos que facilitan herramientas, no responsables de la gesti\u00f3n estrat\u00e9gica."
+        }
+      ],
+      "hint": "Es la figura que asume las consecuencias legales finales por negligencia."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Ley $29783$ de Seguridad y Salud en el Trabajo",
+      "Est\u00e1ndar Internacional ISO $45001$",
+      "Principios de la Gesti\u00f3n Ocupacional",
+      "Operatividad de Comit\u00e9s y Supervisores de SST",
+      "Jerarqu\u00eda de Controles de Riesgos",
+      "Salud Mental y Factores Psicosociales"
+    ],
+    "followUp": [
+      "Procesos de Fiscalizaci\u00f3n de SUNAFIL",
+      "Metodolog\u00eda de Identificaci\u00f3n de Peligros y Evaluaci\u00f3n de Riesgos (IPERC)",
+      "Gesti\u00f3n de Riesgos desde el Enfoque del Ciclo de Vida",
+      "Impacto Econ\u00f3mico de las Enfermedades Ocupacionales"
+    ]
+  }
+}

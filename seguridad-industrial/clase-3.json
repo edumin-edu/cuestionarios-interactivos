@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica central que define a un peligro en su forma m\u00e1s pura?",
+      "answerOptions": [
+        {
+          "text": "Su naturaleza intr\u00ednseca para ocasionar da\u00f1os.",
+          "isCorrect": true,
+          "rationale": "El peligro se define por ser una situaci\u00f3n o caracter\u00edstica propia de algo que tiene el potencial de causar da\u00f1o por el simple hecho de existir."
+        },
+        {
+          "text": "La probabilidad de que un evento ocurra.",
+          "isCorrect": false,
+          "rationale": "La probabilidad es un componente del riesgo, no una caracter\u00edstica definitoria del peligro en s\u00ed mismo."
+        },
+        {
+          "text": "La severidad de la lesi\u00f3n que produce.",
+          "isCorrect": false,
+          "rationale": "La severidad mide el impacto de la materializaci\u00f3n de un riesgo, mientras que el peligro es la fuente del da\u00f1o."
+        },
+        {
+          "text": "El cumplimiento de una obligaci\u00f3n legal.",
+          "isCorrect": false,
+          "rationale": "Aunque identificar peligros es obligatorio, la definici\u00f3n t\u00e9cnica se centra en su potencial de da\u00f1o intr\u00ednseco."
+        }
+      ],
+      "hint": "Se refiere a una cualidad que es propia y esencial de la fuente o situaci\u00f3n."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define matem\u00e1ticamente el concepto de riesgo en la gesti\u00f3n operativa?",
+      "answerOptions": [
+        {
+          "text": "Suma de peligros f\u00edsicos y qu\u00edmicos.",
+          "isCorrect": false,
+          "rationale": "El riesgo no es una acumulaci\u00f3n de categor\u00edas de peligro, sino una medida de su potencial de materializaci\u00f3n."
+        },
+        {
+          "text": "Combinaci\u00f3n de probabilidad y severidad.",
+          "isCorrect": true,
+          "rationale": "El riesgo cuantifica qu\u00e9 tan posible es que un peligro ocurra y qu\u00e9 tan grave ser\u00eda el impacto resultante."
+        },
+        {
+          "text": "Multiplicaci\u00f3n de la frecuencia por el costo operativo.",
+          "isCorrect": false,
+          "rationale": "Aunque el costo es relevante para el negocio, la definici\u00f3n t\u00e9cnica de riesgo se centra en la salud y la integridad."
+        },
+        {
+          "text": "Resta de controles aplicados a la fuente de peligro.",
+          "isCorrect": false,
+          "rationale": "Los controles reducen el riesgo, pero la definici\u00f3n base del riesgo no es una operaci\u00f3n de resta de medidas."
+        }
+      ],
+      "hint": "Involucra la posibilidad de ocurrencia junto con la magnitud del da\u00f1o esperado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de identificar una 'oportunidad' en el sistema de seguridad?",
+      "answerOptions": [
+        {
+          "text": "Reducir la inversi\u00f3n en equipos de protecci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las oportunidades buscan mejorar el desempe\u00f1o, no necesariamente recortar gastos en elementos de protecci\u00f3n necesarios."
+        },
+        {
+          "text": "Evitar el pago de p\u00f3lizas de seguros externos.",
+          "isCorrect": false,
+          "rationale": "La transferencia del riesgo mediante seguros es una estrategia de tratamiento, no el fin de identificar oportunidades."
+        },
+        {
+          "text": "Mejorar el desempe\u00f1o y la resiliencia del entorno de trabajo.",
+          "isCorrect": true,
+          "rationale": "Las oportunidades son circunstancias positivas que permiten construir entornos m\u00e1s seguros y eficientes frente a la incertidumbre."
+        },
+        {
+          "text": "Sustituir la jerarqu\u00eda de controles por capacitaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La capacitaci\u00f3n es solo un control administrativo y no debe reemplazar los niveles superiores de la jerarqu\u00eda."
+        }
+      ],
+      "hint": "Se trata de la cara proactiva y estrat\u00e9gica que busca optimizar la seguridad."
+    },
+    {
+      "question": "En un an\u00e1lisis FODA aplicado a la seguridad, \u00bfqu\u00e9 representar\u00eda la dependencia de proveedores con bajas pr\u00e1cticas preventivas?",
+      "answerOptions": [
+        {
+          "text": "Una debilidad interna.",
+          "isCorrect": false,
+          "rationale": "Las debilidades son factores internos, mientras que los proveedores son actores externos de la organizaci\u00f3n."
+        },
+        {
+          "text": "Una fortaleza operativa.",
+          "isCorrect": false,
+          "rationale": "Tener socios con est\u00e1ndares bajos de seguridad nunca se considera un punto fuerte para la estrategia."
+        },
+        {
+          "text": "Una amenaza externa.",
+          "isCorrect": true,
+          "rationale": "Los factores externos negativos que pueden afectar el desempe\u00f1o de la organizaci\u00f3n se clasifican como amenazas."
+        },
+        {
+          "text": "Una oportunidad de mercado.",
+          "isCorrect": false,
+          "rationale": "Una oportunidad implica un beneficio potencial, no un riesgo constante derivado de terceros."
+        }
+      ],
+      "hint": "Considere si el factor proviene de afuera de la empresa y si tiene un impacto negativo."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 un piso resbaloso suele tener una tasa de incidentes mayor que un bal\u00f3n de gas en entornos industriales?",
+      "answerOptions": [
+        {
+          "text": "Debido a la falta de se\u00f1alizaci\u00f3n visible.",
+          "isCorrect": false,
+          "rationale": "Aunque la se\u00f1alizaci\u00f3n ayuda, el problema ra\u00edz es la percepci\u00f3n del riesgo por parte del trabajador."
+        },
+        {
+          "text": "Porque el bal\u00f3n de gas no se considera un peligro real.",
+          "isCorrect": false,
+          "rationale": "El bal\u00f3n de gas es un peligro cr\u00edtico, pero sus controles son m\u00e1s evidentes y respetados."
+        },
+        {
+          "text": "Por la alta frecuencia de exposici\u00f3n y el exceso de confianza.",
+          "isCorrect": true,
+          "rationale": "La complacencia y la subestimaci\u00f3n de peligros cotidianos aumentan la probabilidad de accidentes recurrentes."
+        },
+        {
+          "text": "Porque no existen controles para los pisos h\u00famedos.",
+          "isCorrect": false,
+          "rationale": "Existen diversos controles para pisos h\u00famedos, pero a menudo son ignorados por los trabajadores debido a la rutina."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el h\u00e1bito y la familiaridad afectan nuestra atenci\u00f3n ante riesgos comunes."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia operativa fundamental entre el IPERC de l\u00ednea base y el ATS?",
+      "answerOptions": [
+        {
+          "text": "El IPERC es din\u00e1mico y el ATS es un diagn\u00f3stico anual.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; el IPERC de l\u00ednea base es el diagn\u00f3stico est\u00e1tico y el ATS es la herramienta diaria."
+        },
+        {
+          "text": "El ATS es obligatorio solo para el personal administrativo.",
+          "isCorrect": false,
+          "rationale": "El ATS es vital para tareas operativas, especialmente aquellas no rutinarias o de alto riesgo."
+        },
+        {
+          "text": "El IPERC de l\u00ednea base es un diagn\u00f3stico anual est\u00e1tico, mientras que el ATS es din\u00e1mico y diario.",
+          "isCorrect": true,
+          "rationale": "La l\u00ednea base establece el panorama general anual, mientras que el ATS se adapta a las condiciones cambiantes del d\u00eda a d\u00eda."
+        },
+        {
+          "text": "Ambos formatos son id\u00e9nticos y se pueden usar indistintamente.",
+          "isCorrect": false,
+          "rationale": "Cada herramienta tiene una frecuencia y un prop\u00f3sito espec\u00edfico dentro del sistema de gesti\u00f3n."
+        }
+      ],
+      "hint": "Compare la frecuencia de llenado y la estabilidad de las condiciones que eval\u00faa cada uno."
+    },
+    {
+      "question": "En la jerarqu\u00eda de controles t\u00e9cnicos, \u00bfcu\u00e1l es el primer paso que debe intentarse obligatoriamente?",
+      "answerOptions": [
+        {
+          "text": "Sustituci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La sustituci\u00f3n es el segundo paso, aplicable solo si el primero no es viable."
+        },
+        {
+          "text": "Eliminaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "El objetivo prioritario siempre debe ser suprimir totalmente el peligro antes de considerar otras medidas."
+        },
+        {
+          "text": "Controles de ingenier\u00eda.",
+          "isCorrect": false,
+          "rationale": "La ingenier\u00eda busca aislar el peligro, pero la eliminaci\u00f3n es jer\u00e1rquicamente superior por erradicar la fuente."
+        },
+        {
+          "text": "Uso de EPP.",
+          "isCorrect": false,
+          "rationale": "El equipo de protecci\u00f3n personal es el \u00faltimo nivel de la jerarqu\u00eda, no el primero."
+        }
+      ],
+      "hint": "Es la acci\u00f3n de suprimir completamente la fuente de peligro."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo es t\u00e9cnicamente aceptable recurrir al Equipo de Protecci\u00f3n Personal (EPP)?",
+      "answerOptions": [
+        {
+          "text": "Como primera medida de bajo costo.",
+          "isCorrect": false,
+          "rationale": "El costo no justifica saltarse la jerarqu\u00eda de controles; el EPP no es una soluci\u00f3n primaria."
+        },
+        {
+          "text": "Cuando no se tiene tiempo para implementar ingenier\u00eda.",
+          "isCorrect": false,
+          "rationale": "La urgencia operativa no es una raz\u00f3n t\u00e9cnica v\u00e1lida para omitir controles de ingenier\u00eda m\u00e1s efectivos."
+        },
+        {
+          "text": "\u00danicamente tras agotar los recursos de ingenier\u00eda y administraci\u00f3n y que resulten insuficientes.",
+          "isCorrect": true,
+          "rationale": "El EPP es la \u00faltima barrera de defensa y solo debe usarse para cubrir el riesgo residual que no pudo eliminarse."
+        },
+        {
+          "text": "Para evitar la capacitaci\u00f3n constante del personal.",
+          "isCorrect": false,
+          "rationale": "El EPP y la capacitaci\u00f3n (control administrativo) son niveles distintos y a menudo complementarios, no sustitutos."
+        }
+      ],
+      "hint": "Recuerde su posici\u00f3n en la pir\u00e1mide de controles de seguridad."
+    },
+    {
+      "question": "Seg\u00fan la normativa peruana, \u00bfcu\u00e1l es el l\u00edmite m\u00e1ximo de peso permitido para el levantamiento manual de cargas por un solo trabajador?",
+      "answerOptions": [
+        {
+          "text": "$15\\ kg$",
+          "isCorrect": false,
+          "rationale": "Este valor es inferior al l\u00edmite legal establecido para la manipulaci\u00f3n manual de carga general."
+        },
+        {
+          "text": "$25\\ kg$",
+          "isCorrect": true,
+          "rationale": "Este es el l\u00edmite exacto fijado por la norma para proteger la estructura m\u00fasculoesquel\u00e9tica del trabajador."
+        },
+        {
+          "text": "$30\\ kg$",
+          "isCorrect": false,
+          "rationale": "Superar los $25\\ kg$ compromete directamente la integridad f\u00edsica seg\u00fan los est\u00e1ndares t\u00e9cnicos peruanos."
+        },
+        {
+          "text": "$50\\ kg$",
+          "isCorrect": false,
+          "rationale": "Este peso es excesivo para un solo trabajador y requiere ayudas mec\u00e1nicas o levantamiento en equipo."
+        }
+      ],
+      "hint": "Es una cifra espec\u00edfica que act\u00faa como umbral cr\u00edtico para riesgos ergon\u00f3micos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tipo de peligro representa el uso de papel peri\u00f3dico dentro de las botas de jeve en labores mineras h\u00famedas?",
+      "answerOptions": [
+        {
+          "text": "Peligro mec\u00e1nico por atrapamiento.",
+          "isCorrect": false,
+          "rationale": "El riesgo no proviene de partes m\u00f3viles de m\u00e1quinas, sino de la proliferaci\u00f3n de microorganismos."
+        },
+        {
+          "text": "Peligro biol\u00f3gico por proliferaci\u00f3n de pat\u00f3genos.",
+          "isCorrect": true,
+          "rationale": "La retenci\u00f3n de sudor y calor crea un cultivo ideal para hongos, causando infecciones cr\u00f3nicas."
+        },
+        {
+          "text": "Peligro qu\u00edmico por tintas de impresi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque hay qu\u00edmicos en la tinta, el impacto m\u00e1s severo y com\u00fan en este escenario es la infecci\u00f3n f\u00fangica."
+        },
+        {
+          "text": "Peligro ergon\u00f3mico por peso excesivo.",
+          "isCorrect": false,
+          "rationale": "El papel peri\u00f3dico no a\u00f1ade un peso significativo que afecte la ergonom\u00eda del calzado."
+        }
+      ],
+      "hint": "Piense en las consecuencias para la salud relacionadas con bacterias u hongos en ambientes c\u00e1lidos y h\u00famedos."
+    },
+    {
+      "question": "Bajo el marco de la norma ISO 31000, \u00bfc\u00f3mo se define formalmente el riesgo?",
+      "answerOptions": [
+        {
+          "text": "La posibilidad de p\u00e9rdida financiera total.",
+          "isCorrect": false,
+          "rationale": "Esta es una visi\u00f3n limitada al \u00e1mbito econ\u00f3mico, mientras que ISO 31000 es m\u00e1s amplia."
+        },
+        {
+          "text": "El efecto de la incertidumbre sobre los objetivos.",
+          "isCorrect": true,
+          "rationale": "ISO 31000 enfoca el riesgo como cualquier desviaci\u00f3n que la incertidumbre cause en las metas de la organizaci\u00f3n."
+        },
+        {
+          "text": "La probabilidad de un accidente fatal.",
+          "isCorrect": false,
+          "rationale": "Esta es una definici\u00f3n espec\u00edfica para seguridad y salud, pero la norma ISO 31000 se aplica a riesgos de negocio en general."
+        },
+        {
+          "text": "El incumplimiento de normativas internacionales.",
+          "isCorrect": false,
+          "rationale": "El incumplimiento es una consecuencia o una fuente de riesgo, no la definici\u00f3n del riesgo en s\u00ed."
+        }
+      ],
+      "hint": "La palabra clave en esta definici\u00f3n t\u00e9cnica es la falta de certeza sobre los resultados."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de un an\u00e1lisis de '\u00e1rbol de fallas'?",
+      "answerOptions": [
+        {
+          "text": "Generar ideas creativas en grupo.",
+          "isCorrect": false,
+          "rationale": "Eso describe la lluvia de ideas (brainstorming), no el an\u00e1lisis de \u00e1rbol de fallas."
+        },
+        {
+          "text": "Transferir el riesgo a una compa\u00f1\u00eda de seguros.",
+          "isCorrect": false,
+          "rationale": "El \u00e1rbol de fallas es una herramienta de an\u00e1lisis, no una estrategia de tratamiento financiero."
+        },
+        {
+          "text": "Desenredar un problema hasta identificar sus causas ra\u00edz.",
+          "isCorrect": true,
+          "rationale": "Es una t\u00e9cnica visual que permite rastrear la secuencia de eventos que conducen a un fallo sist\u00e9mico."
+        },
+        {
+          "text": "Evaluar el ciclo de vida de un producto ambiental.",
+          "isCorrect": false,
+          "rationale": "La evaluaci\u00f3n del ciclo de vida es una herramienta espec\u00edfica de gesti\u00f3n ambiental (ISO 14001)."
+        }
+      ],
+      "hint": "Busca profundizar en el 'porqu\u00e9' de los eventos adversos mediante una estructura jer\u00e1rquica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el 'riesgo residual' en una operaci\u00f3n industrial?",
+      "answerOptions": [
+        {
+          "text": "El riesgo inicial antes de aplicar cualquier control.",
+          "isCorrect": false,
+          "rationale": "Eso se conoce como riesgo puro o inherente."
+        },
+        {
+          "text": "El nivel de riesgo que persiste tras aplicar todas las medidas de control.",
+          "isCorrect": true,
+          "rationale": "Es el riesgo que nunca llega a cero y exige un monitoreo constante para evitar tragedias."
+        },
+        {
+          "text": "El costo de los desechos generados en la producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino 'residual' aqu\u00ed no se refiere a residuos materiales, sino a la remanencia del riesgo."
+        },
+        {
+          "text": "La probabilidad de que un nuevo competidor entre al mercado.",
+          "isCorrect": false,
+          "rationale": "Este es un riesgo de mercado, no la definici\u00f3n t\u00e9cnica de riesgo residual en seguridad operativa."
+        }
+      ],
+      "hint": "Es la 'luz roja' que sigue parpadeando incluso en los sistemas m\u00e1s avanzados."
+    },
+    {
+      "question": "Al tratar un riesgo, \u00bfen qu\u00e9 consiste la estrategia de 'transferencia'?",
+      "answerOptions": [
+        {
+          "text": "Eliminar la fuente de peligro f\u00edsicamente.",
+          "isCorrect": false,
+          "rationale": "Eliminar la fuente es una medida de prevenci\u00f3n directa, no de transferencia."
+        },
+        {
+          "text": "Pasar el impacto financiero a un tercero, como una aseguradora.",
+          "isCorrect": true,
+          "rationale": "Transferir implica que otra entidad asuma las consecuencias econ\u00f3micas mediante p\u00f3lizas o contratos."
+        },
+        {
+          "text": "Entrenar a los empleados en nuevos procedimientos.",
+          "isCorrect": false,
+          "rationale": "La capacitaci\u00f3n es una forma de reducci\u00f3n o prevenci\u00f3n del riesgo, no de transferencia."
+        },
+        {
+          "text": "Instalar guardas de protecci\u00f3n en la maquinaria.",
+          "isCorrect": false,
+          "rationale": "Esto es un control de ingenier\u00eda para reducir la probabilidad de contacto con el peligro."
+        }
+      ],
+      "hint": "Se relaciona con el blindaje econ\u00f3mico del negocio frente a siniestros."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de las siguientes afirmaciones describe mejor el enfoque de la norma ISO 14001?",
+      "answerOptions": [
+        {
+          "text": "Dictar metas espec\u00edficas de productividad mensual.",
+          "isCorrect": false,
+          "rationale": "La norma no establece cuotas de producci\u00f3n, sino marcos para la gesti\u00f3n ambiental."
+        },
+        {
+          "text": "Gestionar responsabilidades ambientales considerando el ciclo de vida del producto.",
+          "isCorrect": true,
+          "rationale": "ISO 14001 ayuda a mitigar impactos como el desperdicio de recursos y emisiones en todo el proceso productivo."
+        },
+        {
+          "text": "Sancionar penalmente a los gerentes por negligencia.",
+          "isCorrect": false,
+          "rationale": "Las sanciones penales provienen del marco legal nacional, no de una norma t\u00e9cnica voluntaria como la ISO."
+        },
+        {
+          "text": "Eliminar por completo el uso de tecnolog\u00eda digital en planta.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda digital es a menudo una aliada para mejorar el monitoreo y la sostenibilidad ambiental."
+        }
+      ],
+      "hint": "Busca el equilibrio entre la operaci\u00f3n del negocio y el cuidado del entorno natural."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n fundamental dej\u00f3 el caso Luchetti en los Pantanos de Villa?",
+      "answerOptions": [
+        {
+          "text": "La importancia de tener personal joven en la gerencia.",
+          "isCorrect": false,
+          "rationale": "El caso se centr\u00f3 en el cumplimiento ambiental y legal, no en la edad de los gerentes."
+        },
+        {
+          "text": "Que la rentabilidad siempre justifica la ubicaci\u00f3n de la planta.",
+          "isCorrect": false,
+          "rationale": "El caso demostr\u00f3 lo contrario: ignorar el entorno puede llevar al cierre definitivo a pesar de la rentabilidad."
+        },
+        {
+          "text": "Ignorar las leyes ambientales y el entorno puede causar el cierre definitivo de la operaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Operar en \u00e1reas protegidas sin permisos adecuados result\u00f3 en una orden municipal de cese total de actividades."
+        },
+        {
+          "text": "Que los seguros cubren cualquier da\u00f1o a ecosistemas protegidos.",
+          "isCorrect": false,
+          "rationale": "Ninguna p\u00f3liza de seguro puede evitar las \u00f3rdenes de cierre por incumplimiento cr\u00edtico de leyes ambientales."
+        }
+      ],
+      "hint": "Considere las consecuencias extremas de ubicar una industria en un \u00e1rea natural protegida."
+    },
+    {
+      "question": "\u00bfC\u00f3mo gestionan el riesgo empresas digitales como Uber, a pesar de no tener f\u00e1bricas tradicionales?",
+      "answerOptions": [
+        {
+          "text": "No requieren gesti\u00f3n de riesgos por ser negocios virtuales.",
+          "isCorrect": false,
+          "rationale": "Todos los negocios tienen riesgos; los digitales simplemente tienen una naturaleza distinta."
+        },
+        {
+          "text": "Mediante el monitoreo constante por GPS y requisitos t\u00e9cnicos obligatorios.",
+          "isCorrect": true,
+          "rationale": "Utilizan tecnolog\u00eda y controles estrictos sobre licencias y revisiones t\u00e9cnicas para garantizar la seguridad del servicio."
+        },
+        {
+          "text": "Delegando toda la responsabilidad legal exclusivamente en el usuario.",
+          "isCorrect": false,
+          "rationale": "Las plataformas imponen reglas y filtros a los conductores para mitigar su propia responsabilidad y riesgo reputacional."
+        },
+        {
+          "text": "Evitando el uso de seguros para reducir costos operativos.",
+          "isCorrect": false,
+          "rationale": "Este tipo de empresas suelen exigir seguros vigentes (como el SOAT) como requisito innegociable de operaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en las herramientas tecnol\u00f3gicas que utilizan para supervisar el servicio en tiempo real."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un obst\u00e1culo com\u00fan en los trabajadores de generaciones veteranas (Baby Boomers o Gen X) frente a nuevos est\u00e1ndares de seguridad?",
+      "answerOptions": [
+        {
+          "text": "La falta de fuerza f\u00edsica para realizar tareas.",
+          "isCorrect": false,
+          "rationale": "El obst\u00e1culo principal mencionado es de car\u00e1cter cultural y de actitud, no f\u00edsico."
+        },
+        {
+          "text": "El paradigma de que 'la antig\u00fcedad es clase' y la resistencia al cambio.",
+          "isCorrect": true,
+          "rationale": "La trayectoria acumulada a veces genera una creencia de infalibilidad que dificulta adoptar nuevos protocolos."
+        },
+        {
+          "text": "La excesiva dependencia de herramientas digitales nativas.",
+          "isCorrect": false,
+          "rationale": "Esta es una caracter\u00edstica m\u00e1s com\u00fan en las generaciones j\u00f3venes (Millennials o Gen Y)."
+        },
+        {
+          "text": "El desconocimiento total de los peligros de su propio puesto.",
+          "isCorrect": false,
+          "rationale": "Los veteranos suelen conocer muy bien los peligros, pero pueden subestimarlos por exceso de confianza."
+        }
+      ],
+      "hint": "Se refiere a una mentalidad ligada a la experiencia que choca con la actualizaci\u00f3n de normas."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 rango de penas privativas de la libertad se enfrentan los supervisores ante negligencias que causen la muerte de un trabajador?",
+      "answerOptions": [
+        {
+          "text": "1 a 3 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Esta pena es demasiado baja para la gravedad de una responsabilidad penal por fatalidad bajo negligencia."
+        },
+        {
+          "text": "6 a 10 a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "La responsabilidad penal por muertes laborales derivadas de la falta de controles es severa y directa contra los responsables."
+        },
+        {
+          "text": "Solo sanciones administrativas econ\u00f3micas.",
+          "isCorrect": false,
+          "rationale": "Adem\u00e1s de las multas a la empresa, existe responsabilidad penal individual para jefes y gerentes."
+        },
+        {
+          "text": "Suspensi\u00f3n de la licencia profesional de por vida.",
+          "isCorrect": false,
+          "rationale": "Aunque es posible, la sanci\u00f3n m\u00e1s cr\u00edtica mencionada es la privaci\u00f3n de la libertad en prisi\u00f3n."
+        }
+      ],
+      "hint": "Es una consecuencia penal dr\u00e1stica que subraya que la responsabilidad en seguridad no es an\u00f3nima."
+    },
+    {
+      "question": "En la met\u00e1fora 'la cuerda siempre se rompe por el lado m\u00e1s d\u00e9bil', \u00bfqu\u00e9 representa ese lado d\u00e9bil?",
+      "answerOptions": [
+        {
+          "text": "La falta de presupuesto financiero.",
+          "isCorrect": false,
+          "rationale": "Incluso con mucho dinero, el sistema puede fallar si no se gestiona el factor humano."
+        },
+        {
+          "text": "La maquinaria antigua sin mantenimiento.",
+          "isCorrect": false,
+          "rationale": "La maquinaria es un factor t\u00e9cnico, pero el comportamiento es el que decide c\u00f3mo se opera o mantiene."
+        },
+        {
+          "text": "El comportamiento humano cuando no se supervisa.",
+          "isCorrect": true,
+          "rationale": "El error o la omisi\u00f3n humana es la variable m\u00e1s impredecible y cr\u00edtica en cualquier sistema de gesti\u00f3n."
+        },
+        {
+          "text": "La ubicaci\u00f3n geogr\u00e1fica de la planta industrial.",
+          "isCorrect": false,
+          "rationale": "La ubicaci\u00f3n es una amenaza externa, pero la 'ruptura' interna suele ocurrir por fallas de comportamiento."
+        }
+      ],
+      "hint": "Considere cu\u00e1l es el elemento m\u00e1s complejo y dif\u00edcil de controlar en una operaci\u00f3n diaria."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Identificaci\u00f3n de Peligros y Evaluaci\u00f3n de Riesgos (IPERC)",
+      "Conceptos Fundamentales de Seguridad (Peligro, Riesgo, Oportunidad)",
+      "Jerarqu\u00eda de Controles T\u00e9cnicos",
+      "Sistemas de Gesti\u00f3n Internacionales (ISO 45001, 14001, 31000)",
+      "Responsabilidad Legal y Factor Humano"
+    ],
+    "followUp": [
+      "An\u00e1lisis de Causas Ra\u00edz en Incidentes Industriales",
+      "Sostenibilidad Corporativa y Gesti\u00f3n de Ciclo de Vida",
+      "Liderazgo y \u00c9tica en la Supervisi\u00f3n Operativa",
+      "Legislaci\u00f3n de Seguridad y Salud en el Trabajo (Ley 29783)"
+    ]
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1les son los tres pilares fundamentales que conforman la denominada tr\u00edada estrat\u00e9gica para el \u00e9xito en mercados internacionales?",
+      "answerOptions": [
+        {
+          "text": "Reg\u00edmenes aduaneros, cumplimiento legal y optimizaci\u00f3n log\u00edstica.",
+          "isCorrect": true,
+          "rationale": "Estos tres pilares integran la teor\u00eda con herramientas t\u00e1cticas para maximizar rentabilidad y mitigar sanciones."
+        },
+        {
+          "text": "Calidad del producto, marketing digital y gesti\u00f3n de ventas.",
+          "isCorrect": false,
+          "rationale": "Aunque importantes, el dominio t\u00e9cnico de la normativa y la log\u00edstica es lo que garantiza la competitividad seg\u00fan la estrategia planteada."
+        },
+        {
+          "text": "Incentivos fiscales, tratados de libre comercio y costos de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Estos son elementos externos o contables que no abarcan la gesti\u00f3n integral operativa de la tr\u00edada estrat\u00e9gica."
+        },
+        {
+          "text": "Financiamiento bancario, dise\u00f1o de empaques y canales de distribuci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Estos componentes son secundarios frente a la necesidad de dominar el marco legal y operativo aduanero."
+        }
+      ],
+      "hint": "Relaciona la normativa legal con la eficiencia en el movimiento de mercanc\u00edas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal del r\u00e9gimen de Drawback en el comercio exterior?",
+      "answerOptions": [
+        {
+          "text": "Evitar la exportaci\u00f3n de impuestos pagados al momento de importar insumos.",
+          "isCorrect": true,
+          "rationale": "El drawback funciona como una restituci\u00f3n arancelaria para neutralizar la carga tributaria y mejorar la competitividad de precios."
+        },
+        {
+          "text": "Eliminar por completo el pago de aranceles de importaci\u00f3n de bienes terminados.",
+          "isCorrect": false,
+          "rationale": "El beneficio se aplica a los insumos utilizados en un producto que luego se exporta, no a importaciones de consumo final."
+        },
+        {
+          "text": "Garantizar que el valor de las exportaciones supere siempre al de las importaciones.",
+          "isCorrect": false,
+          "rationale": "Este concepto se refiere a la balanza comercial y no es la funci\u00f3n t\u00e9cnica del r\u00e9gimen de restituci\u00f3n de derechos."
+        },
+        {
+          "text": "Reducir los tiempos de entrega de la mercanc\u00eda en el puerto de destino.",
+          "isCorrect": false,
+          "rationale": "El drawback es un incentivo de car\u00e1cter econ\u00f3mico y fiscal, no una herramienta de agilizaci\u00f3n f\u00edsica del transporte."
+        }
+      ],
+      "hint": "Piensa en el concepto de un reembolso corporativo sobre tributos previamente abonados."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el plazo m\u00e1ximo permitido, en d\u00edas h\u00e1biles, para solicitar el beneficio del Drawback despu\u00e9s de haber realizado el embarque?",
+      "answerOptions": [
+        {
+          "text": "$90$ d\u00edas h\u00e1biles.",
+          "isCorrect": false,
+          "rationale": "Este plazo es insuficiente seg\u00fan la normativa estricta que otorga un margen mayor para la gesti\u00f3n administrativa."
+        },
+        {
+          "text": "$120$ d\u00edas h\u00e1biles.",
+          "isCorrect": false,
+          "rationale": "Aunque es un tiempo razonable, no corresponde al l\u00edmite legal m\u00e1ximo establecido para la solicitud."
+        },
+        {
+          "text": "$180$ d\u00edas h\u00e1biles.",
+          "isCorrect": true,
+          "rationale": "La ley establece este periodo espec\u00edfico como el l\u00edmite improrrogable para presentar la solicitud post-embarque."
+        },
+        {
+          "text": "$360$ d\u00edas h\u00e1biles.",
+          "isCorrect": false,
+          "rationale": "Un a\u00f1o h\u00e1bil exceder\u00eda los controles temporales t\u00edpicos de la administraci\u00f3n tributaria para este beneficio."
+        }
+      ],
+      "hint": "Es un periodo que equivale aproximadamente a seis meses de actividad laboral."
+    },
+    {
+      "question": "Para acceder al Drawback, \u00bfqu\u00e9 porcentaje m\u00e1ximo del valor FOB total puede representar el valor CIF de los insumos importados?",
+      "answerOptions": [
+        {
+          "text": "$25\\%$",
+          "isCorrect": false,
+          "rationale": "Un l\u00edmite tan bajo restringir\u00eda demasiado el beneficio para industrias que dependen significativamente de insumos extranjeros."
+        },
+        {
+          "text": "$40\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es un ratio com\u00fan en casos de \u00e9xito, no es el l\u00edmite legal m\u00e1ximo permitido por la normativa."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": true,
+          "rationale": "La normativa exige que el valor de los insumos importados no exceda la mitad del valor total del producto exportado."
+        },
+        {
+          "text": "$75\\%$",
+          "isCorrect": false,
+          "rationale": "Permitir que el $75\\%$ del valor sea importado desnaturalizar\u00eda el incentivo a la producci\u00f3n nacional agregada."
+        }
+      ],
+      "hint": "El valor de lo importado no debe superar la mitad del valor de lo exportado."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 documento aduanero debe declararse expl\u00edcitamente la voluntad de acogerse al beneficio del Drawback para que el proceso sea v\u00e1lido?",
+      "answerOptions": [
+        {
+          "text": "Factura Comercial.",
+          "isCorrect": false,
+          "rationale": "La factura es un documento privado entre partes y no tiene la funci\u00f3n de declaraci\u00f3n de voluntad ante la aduana."
+        },
+        {
+          "text": "DAM (Declaraci\u00f3n Aduanera de Mercanc\u00edas).",
+          "isCorrect": true,
+          "rationale": "La anotaci\u00f3n inicial en la DAM es el requisito obligatorio que activa el proceso de solicitud del beneficio."
+        },
+        {
+          "text": "Lista de Empaque (Packing List).",
+          "isCorrect": false,
+          "rationale": "Este documento detalla el contenido f\u00edsico de la carga pero no tiene validez legal para solicitudes tributarias."
+        },
+        {
+          "text": "Certificado de Origen.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n es acreditar la procedencia de la mercanc\u00eda para aranceles preferenciales, no para la restituci\u00f3n de derechos."
+        }
+      ],
+      "hint": "Es el documento principal mediante el cual se formaliza cualquier operaci\u00f3n ante la autoridad aduanera."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre una infracci\u00f3n administrativa y un delito aduanero?",
+      "answerOptions": [
+        {
+          "text": "La infracci\u00f3n se sanciona con c\u00e1rcel y el delito solo con multas.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; las penas privativas de libertad son exclusivas de los delitos, no de las infracciones."
+        },
+        {
+          "text": "La determinaci\u00f3n del dolo o la intenci\u00f3n premeditada de defraudar.",
+          "isCorrect": true,
+          "rationale": "El delito implica una voluntad deliberada de cometer el acto il\u00edcito, mientras que la infracci\u00f3n suele ser un error procedimental."
+        },
+        {
+          "text": "El color de los formularios utilizados para la declaraci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La distinci\u00f3n legal no se basa en aspectos visuales o de formato, sino en la gravedad y la naturaleza del acto."
+        },
+        {
+          "text": "La cantidad de mercanc\u00eda involucrada, sin importar su valor econ\u00f3mico.",
+          "isCorrect": false,
+          "rationale": "Aunque el valor es un umbral, la distinci\u00f3n principal reside en la tipificaci\u00f3n jur\u00eddica de la conducta."
+        }
+      ],
+      "hint": "Considera el factor psicol\u00f3gico y la voluntad del autor al cometer la falta."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el umbral monetario establecido por ley para que un acto pase de ser una infracci\u00f3n a tipificarse como delito de contrabando?",
+      "answerOptions": [
+        {
+          "text": "$1$ UIT.",
+          "isCorrect": false,
+          "rationale": "Un valor tan bajo criminalizar\u00eda errores menores que pueden resolverse por v\u00eda administrativa."
+        },
+        {
+          "text": "$2$ UIT.",
+          "isCorrect": false,
+          "rationale": "Este monto sigue siendo inferior al l\u00edmite cr\u00edtico definido por la legislaci\u00f3n para la persecuci\u00f3n penal."
+        },
+        {
+          "text": "$4$ UIT.",
+          "isCorrect": true,
+          "rationale": "Superar las $4$ unidades impositivas tributarias es la frontera matem\u00e1tica que define legalmente el delito de contrabando."
+        },
+        {
+          "text": "$10$ UIT.",
+          "isCorrect": false,
+          "rationale": "Este valor es demasiado alto y permitir\u00eda un margen de defraudaci\u00f3n muy amplio sin consecuencias penales."
+        }
+      ],
+      "hint": "Multiplica por cuatro la unidad de medida impositiva de referencia."
+    },
+    {
+      "question": "\u00bfQu\u00e9 concepto legal se aplica cuando una persona adquiere o comercializa mercanc\u00edas de origen il\u00edcito sabiendo que no pasaron por controles regulares?",
+      "answerOptions": [
+        {
+          "text": "Duda razonable.",
+          "isCorrect": false,
+          "rationale": "Este es un procedimiento de valoraci\u00f3n t\u00e9cnica, no un tipo de delito por adquisici\u00f3n de bienes il\u00edcitos."
+        },
+        {
+          "text": "Valor de transacci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Se refiere al precio pagado en una compraventa leg\u00edtima, lo cual es opuesto al comercio il\u00edcito."
+        },
+        {
+          "text": "Receptaci\u00f3n aduanera.",
+          "isCorrect": true,
+          "rationale": "La receptaci\u00f3n implica participar en la cadena de comercializaci\u00f3n de bienes provenientes de un delito aduanero previo."
+        },
+        {
+          "text": "Cabotaje comercial.",
+          "isCorrect": false,
+          "rationale": "El cabotaje es una modalidad de transporte nacional legal y no tiene relaci\u00f3n con actividades delictivas."
+        }
+      ],
+      "hint": "Se asocia con el 'caso Jaguar', donde se vendi\u00f3 un veh\u00edculo ingresado irregularmente."
+    },
+    {
+      "question": "De acuerdo con la jerarqu\u00eda de la Organizaci\u00f3n Mundial del Comercio (OMC), \u00bfcu\u00e1l es el primer m\u00e9todo que debe aplicarse para la valoraci\u00f3n de mercanc\u00edas?",
+      "answerOptions": [
+        {
+          "text": "M\u00e9todo del valor reconstruido.",
+          "isCorrect": false,
+          "rationale": "Este m\u00e9todo se encuentra en los niveles inferiores de la jerarqu\u00eda y solo se usa si fallan los anteriores."
+        },
+        {
+          "text": "Valor de transacci\u00f3n de mercanc\u00edas id\u00e9nticas.",
+          "isCorrect": false,
+          "rationale": "Es el segundo m\u00e9todo; antes debe intentarse valorar la operaci\u00f3n comercial propia."
+        },
+        {
+          "text": "Valor de transacci\u00f3n de la mercanc\u00eda importada.",
+          "isCorrect": true,
+          "rationale": "Es el precio real pagado o por pagar, siendo el punto de partida obligatorio en la valoraci\u00f3n aduanera."
+        },
+        {
+          "text": "M\u00e9todo del \u00faltimo recurso.",
+          "isCorrect": false,
+          "rationale": "Como su nombre indica, es la etapa final de la jerarqu\u00eda cuando no aplica ninguno de los otros cinco m\u00e9todos."
+        }
+      ],
+      "hint": "Se basa en el precio efectivamente pactado entre el comprador y el vendedor."
+    },
+    {
+      "question": "En un procedimiento de 'duda razonable', \u00bfcu\u00e1ntos d\u00edas tiene inicialmente el importador para presentar pruebas que sustenten su valor declarado?",
+      "answerOptions": [
+        {
+          "text": "$2$ d\u00edas.",
+          "isCorrect": false,
+          "rationale": "Es un plazo extremadamente corto que no permitir\u00eda recopilar la documentaci\u00f3n t\u00e9cnica necesaria."
+        },
+        {
+          "text": "$5$ d\u00edas.",
+          "isCorrect": true,
+          "rationale": "La autoridad otorga este plazo inicial, que puede ser prorrogado por un periodo igual por \u00fanica vez."
+        },
+        {
+          "text": "$15$ d\u00edas.",
+          "isCorrect": false,
+          "rationale": "Excede el tiempo inicial establecido, ya que la duda razonable requiere una respuesta \u00e1gil para no detener la operatividad."
+        },
+        {
+          "text": "$30$ d\u00edas.",
+          "isCorrect": false,
+          "rationale": "Los plazos en despacho aduanero son mucho m\u00e1s ajustados para evitar el congestionamiento de mercanc\u00edas."
+        }
+      ],
+      "hint": "Es menos de una semana calendario de d\u00edas laborables."
+    },
+    {
+      "question": "\u00bfQu\u00e9 entidad es la responsable de regular y supervisar el sistema portuario nacional y a sus administradores?",
+      "answerOptions": [
+        {
+          "text": "SUNAT.",
+          "isCorrect": false,
+          "rationale": "La SUNAT se encarga de la recaudaci\u00f3n tributaria y control aduanero, pero no de la gesti\u00f3n de la infraestructura portuaria."
+        },
+        {
+          "text": "Autoridad Portuaria Nacional (APN).",
+          "isCorrect": true,
+          "rationale": "La APN es el organismo t\u00e9cnico encargado de dirigir y supervisar el flujo y la normativa en todos los terminales portuarios."
+        },
+        {
+          "text": "Ministerio de Econom\u00eda y Finanzas.",
+          "isCorrect": false,
+          "rationale": "Aunque dicta pol\u00edticas econ\u00f3micas generales, no ejerce la supervisi\u00f3n operativa directa de los muelles."
+        },
+        {
+          "text": "Organizaci\u00f3n Mundial del Comercio.",
+          "isCorrect": false,
+          "rationale": "Es un organismo internacional que dicta normas de comercio, no una entidad reguladora de puertos nacionales."
+        }
+      ],
+      "hint": "Sus siglas coinciden con el nombre de la instituci\u00f3n reguladora de los puertos."
+    },
+    {
+      "question": "Dentro del puerto del Callao, \u00bfcu\u00e1l es la especializaci\u00f3n principal del operador DP World en el muelle sur?",
+      "answerOptions": [
+        {
+          "text": "Carga de graneles s\u00f3lidos como el trigo.",
+          "isCorrect": false,
+          "rationale": "El manejo de graneles suele realizarse en terminales multiprop\u00f3sito o especializados en carga fraccionada."
+        },
+        {
+          "text": "Embarque exclusivo de concentrados minerales.",
+          "isCorrect": false,
+          "rationale": "Esta funci\u00f3n corresponde espec\u00edficamente a la Transportadora Callao, no al muelle sur."
+        },
+        {
+          "text": "Gesti\u00f3n de carga contenedorizada.",
+          "isCorrect": true,
+          "rationale": "DP World es un terminal altamente especializado en el movimiento eficiente de contenedores."
+        },
+        {
+          "text": "Recepci\u00f3n de cruceros y turismo mar\u00edtimo.",
+          "isCorrect": false,
+          "rationale": "Aunque puede ocurrir, su enfoque comercial y de infraestructura est\u00e1 dise\u00f1ado para la log\u00edstica de mercanc\u00edas."
+        }
+      ],
+      "hint": "Se enfoca en la unidad de transporte est\u00e1ndar que revolucion\u00f3 el comercio global."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 se refiere el t\u00e9rmino t\u00e9cnico 'cabotaje' en la operativa mar\u00edtima?",
+      "answerOptions": [
+        {
+          "text": "Al transporte de carga entre puertos del mismo pa\u00eds sin salir de aguas nacionales.",
+          "isCorrect": true,
+          "rationale": "El cabotaje utiliza la v\u00eda mar\u00edtima como una autopista interna para conectar diferentes puntos costeros del territorio nacional."
+        },
+        {
+          "text": "A la maniobra de amarrar un barco gigante de forma segura en el muelle.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde al concepto de atraque, no al de cabotaje."
+        },
+        {
+          "text": "Al proceso de descargar l\u00edquidos peligrosos desde un contenedor isotanque.",
+          "isCorrect": false,
+          "rationale": "Esto es una operaci\u00f3n de descarga t\u00e9cnica espec\u00edfica y no define una modalidad de navegaci\u00f3n."
+        },
+        {
+          "text": "Al cobro de impuestos adicionales por el uso de infraestructura de abrigo.",
+          "isCorrect": false,
+          "rationale": "El cabotaje es una actividad log\u00edstica, no una tasa impositiva."
+        }
+      ],
+      "hint": "Es similar al transporte terrestre por carretera, pero realizado a trav\u00e9s del mar dentro de fronteras."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n estrat\u00e9gica de las obras de ingenier\u00eda conocidas como 'infraestructura de abrigo'?",
+      "answerOptions": [
+        {
+          "text": "Proveer de energ\u00eda el\u00e9ctrica a los barcos durante su estancia.",
+          "isCorrect": false,
+          "rationale": "Ese es un servicio de suministro el\u00e9ctrico en muelle, no una funci\u00f3n de infraestructura de protecci\u00f3n."
+        },
+        {
+          "text": "Almacenar mercanc\u00edas delicadas que requieren control de temperatura.",
+          "isCorrect": false,
+          "rationale": "El almacenamiento se realiza en dep\u00f3sitos o almacenes especializados, no en obras de ingenier\u00eda de abrigo."
+        },
+        {
+          "text": "Protecci\u00f3n contra el oleaje para garantizar la seguridad de las operaciones.",
+          "isCorrect": true,
+          "rationale": "Estructuras como los rompeolas crean condiciones hidrograf\u00edcas estables para el atraque y carga de las naves."
+        },
+        {
+          "text": "Aumentar la profundidad del fondo marino para barcos m\u00e1s grandes.",
+          "isCorrect": false,
+          "rationale": "Esa actividad se denomina dragado, la cual es distinta a la construcci\u00f3n de infraestructuras de protecci\u00f3n superficial."
+        }
+      ],
+      "hint": "Piensa en un escudo f\u00edsico contra la fuerza del mar."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tipo de contenedor es el m\u00e1s adecuado para transportar maquinaria pesada o tractores que exceden las dimensiones est\u00e1ndar?",
+      "answerOptions": [
+        {
+          "text": "Dry Van.",
+          "isCorrect": false,
+          "rationale": "Es un contenedor cerrado est\u00e1ndar que no permite la carga de objetos que sobresalen por los lados."
+        },
+        {
+          "text": "Reefer.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n es refrigerar productos perecederos, no cargar maquinaria sobredimensionada."
+        },
+        {
+          "text": "Flat Rack.",
+          "isCorrect": true,
+          "rationale": "Al carecer de paredes laterales, est\u00e1 dise\u00f1ado con refuerzos para soportar y sujetar cargas pesadas y voluminosas."
+        },
+        {
+          "text": "Isotanque.",
+          "isCorrect": false,
+          "rationale": "Se utiliza exclusivamente para el transporte de l\u00edquidos y gases a granel."
+        }
+      ],
+      "hint": "Es una plataforma que carece de paredes laterales y techo."
+    },
+    {
+      "question": "En la codificaci\u00f3n ISO 6346 de un contenedor (ej. 22G1), \u00bfqu\u00e9 informaci\u00f3n proporciona el primer d\u00edgito?",
+      "answerOptions": [
+        {
+          "text": "El pa\u00eds de origen del contenedor.",
+          "isCorrect": false,
+          "rationale": "El c\u00f3digo ISO no utiliza el primer d\u00edgito num\u00e9rico para identificar la nacionalidad de la caja."
+        },
+        {
+          "text": "La longitud exterior del contenedor.",
+          "isCorrect": true,
+          "rationale": "El primer n\u00famero indica si el contenedor es de $20$, $40$ o m\u00e1s pies de largo."
+        },
+        {
+          "text": "El peso m\u00e1ximo que puede soportar (Payload).",
+          "isCorrect": false,
+          "rationale": "La capacidad de peso se detalla en las especificaciones t\u00e9cnicas grabadas en la puerta, no en el c\u00f3digo de tama\u00f1o inicial."
+        },
+        {
+          "text": "El tipo de material con el que fue fabricado.",
+          "isCorrect": false,
+          "rationale": "La composici\u00f3n del material (acero, aluminio) no forma parte de los primeros d\u00edgitos del c\u00f3digo alfanum\u00e9rico est\u00e1ndar."
+        }
+      ],
+      "hint": "Indica una de las dimensiones f\u00edsicas fundamentales del contenedor."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define t\u00e9cnicamente la 'Tara' en el \u00e1mbito de la log\u00edstica de contenedores?",
+      "answerOptions": [
+        {
+          "text": "Es el peso de la mercanc\u00eda dentro del contenedor.",
+          "isCorrect": false,
+          "rationale": "Eso se conoce como carga \u00fatil o Payload, no como tara."
+        },
+        {
+          "text": "Es el peso de la unidad de transporte completamente vac\u00eda.",
+          "isCorrect": true,
+          "rationale": "La tara representa exclusivamente el peso de la estructura met\u00e1lica del contenedor sin carga."
+        },
+        {
+          "text": "Es el peso m\u00e1ximo que la gr\u00faa del puerto puede levantar.",
+          "isCorrect": false,
+          "rationale": "Esa es la capacidad de izaje de la maquinaria portuaria, no una caracter\u00edstica propia del contenedor."
+        },
+        {
+          "text": "Es el peso del contenedor sumado al peso del cami\u00f3n que lo transporta.",
+          "isCorrect": false,
+          "rationale": "Ese ser\u00eda el peso bruto vehicular, un concepto distinto al peso propio de la unidad de carga."
+        }
+      ],
+      "hint": "Es lo que marca la balanza cuando la caja de acero no contiene nada en su interior."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el resultado de sumar la Tara m\u00e1s la Carga \u00datil (Payload) de un contenedor?",
+      "answerOptions": [
+        {
+          "text": "Peso Neto.",
+          "isCorrect": false,
+          "rationale": "El peso neto generalmente se refiere solo al producto sin envases, similar a la carga \u00fatil en este contexto."
+        },
+        {
+          "text": "Peso Bruto Total.",
+          "isCorrect": true,
+          "rationale": "La suma del peso del recipiente (tara) y el contenido (payload) conforma el peso bruto total de la operaci\u00f3n."
+        },
+        {
+          "text": "Capacidad TEU.",
+          "isCorrect": false,
+          "rationale": "El TEU es una unidad de medida de volumen o espacio, no de peso f\u00edsico acumulado."
+        },
+        {
+          "text": "Coeficiente de estiba.",
+          "isCorrect": false,
+          "rationale": "Este es un ratio que relaciona el volumen con el peso, no es una suma directa de masas."
+        }
+      ],
+      "hint": "Representa la masa completa que debe soportar la gr\u00faa y el buque."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa la unidad de medida 'TEU' en la industria del comercio exterior?",
+      "answerOptions": [
+        {
+          "text": "Una tonelada de carga de exportaci\u00f3n \u00fanica.",
+          "isCorrect": false,
+          "rationale": "El TEU mide unidades de contenedores, no el peso en toneladas de la carga."
+        },
+        {
+          "text": "Un contenedor est\u00e1ndar de $40$ pies de largo.",
+          "isCorrect": false,
+          "rationale": "Un contenedor de $40$ pies equivale en realidad a dos unidades TEU."
+        },
+        {
+          "text": "La capacidad de volumen equivalente a un contenedor de $20$ pies.",
+          "isCorrect": true,
+          "rationale": "TEU significa 'Twenty-foot Equivalent Unit', siendo la unidad universal para medir la capacidad de barcos y puertos."
+        },
+        {
+          "text": "El tiempo estimado de uso de una gr\u00faa en el muelle.",
+          "isCorrect": false,
+          "rationale": "No es una medida de tiempo, sino de capacidad log\u00edstica volum\u00e9trica."
+        }
+      ],
+      "hint": "Sus siglas en ingl\u00e9s hacen referencia a la medida de 20 pies."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja principal ofrece el proyecto del megapuerto de Chancay para las rutas comerciales hacia Asia?",
+      "answerOptions": [
+        {
+          "text": "Eliminaci\u00f3n de la necesidad de usar contenedores.",
+          "isCorrect": false,
+          "rationale": "El puerto est\u00e1 dise\u00f1ado para potenciar el uso de contenedores, no para eliminarlos."
+        },
+        {
+          "text": "Reducci\u00f3n dr\u00e1stica en los tiempos de tr\u00e1nsito directo.",
+          "isCorrect": true,
+          "rationale": "Al permitir el atraque de buques de \u00faltima generaci\u00f3n, acorta las rutas y mejora la competitividad log\u00edstica regional."
+        },
+        {
+          "text": "Obligatoriedad de usar \u00fanicamente mano de obra extranjera.",
+          "isCorrect": false,
+          "rationale": "La infraestructura busca el desarrollo regional y no impone restricciones laborales de ese tipo."
+        },
+        {
+          "text": "Conversi\u00f3n de todos los delitos aduaneros en simples infracciones.",
+          "isCorrect": false,
+          "rationale": "Un puerto nuevo no cambia el marco legal penal del pa\u00eds, el cual se mantiene estricto."
+        }
+      ],
+      "hint": "Se relaciona con la eficiencia temporal de los viajes mar\u00edtimos transpac\u00edficos."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Reg\u00edmenes Aduaneros (Drawback)",
+      "Marco Legal y Delitos Aduaneros",
+      "Valoraci\u00f3n Aduanera (OMC)",
+      "Infraestructura Portuaria",
+      "Gesti\u00f3n de Contenedores y Log\u00edstica"
+    ],
+    "followUp": [
+      "Procedimientos de Despacho Aduanero",
+      "Sistemas de Gesti\u00f3n de Seguridad en la Cadena de Suministro",
+      "Impacto Econ\u00f3mico de los Megaproyectos Portuarios en la Regi\u00f3n",
+      "Uso de IA y Herramientas Digitales en Gesti\u00f3n Log\u00edstica (Trademap)",
+      "Evoluci\u00f3n del Transporte Intermodal y Sostenibilidad"
+    ]
+  }
+}

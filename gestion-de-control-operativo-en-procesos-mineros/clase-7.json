@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el rango estimado de incremento en los costos operativos provocado por las compras de emergencia ante la falta de precisi\u00f3n en los pron\u00f3sticos?",
+      "answerOptions": [
+        {
+          "text": "Entre el $10\\%$ y el $20\\%$.",
+          "isCorrect": false,
+          "rationale": "Este rango subestima significativamente el impacto real de las fugas de capital por falta de anticipaci\u00f3n."
+        },
+        {
+          "text": "Entre el $30\\%$ y el $50\\%$.",
+          "isCorrect": true,
+          "rationale": "Las compras apresuradas elevan dr\u00e1sticamente los costos debido a la urgencia y la interrupci\u00f3n del flujo de trabajo."
+        },
+        {
+          "text": "Exactamente el $75\\%$.",
+          "isCorrect": false,
+          "rationale": "Aunque el costo es alto, esta cifra excede los par\u00e1metros est\u00e1ndar mencionados para las operaciones industriales."
+        },
+        {
+          "text": "Menos del $5\\%$.",
+          "isCorrect": false,
+          "rationale": "Un porcentaje tan bajo no reflejar\u00eda la gravedad de las interrupciones catastr\u00f3ficas en el flujo de trabajo."
+        }
+      ],
+      "hint": "El impacto financiero es lo suficientemente alto como para ser considerado una fuga directa de capital que ninguna planta puede permitirse."
+    },
+    {
+      "question": "\u00bfQu\u00e9 componente estructural de la demanda se define por fluctuaciones en intervalos fijos, como las temporadas de moda?",
+      "answerOptions": [
+        {
+          "text": "Tendencia.",
+          "isCorrect": false,
+          "rationale": "La tendencia se refiere a movimientos de largo plazo, ya sea en crecimiento o ca\u00edda, no a intervalos fijos."
+        },
+        {
+          "text": "Ciclicidad.",
+          "isCorrect": false,
+          "rationale": "La ciclicidad est\u00e1 ligada a factores macroecon\u00f3micos o ciclos pol\u00edticos, no necesariamente a periodos fijos anuales."
+        },
+        {
+          "text": "Variaci\u00f3n aleatoria.",
+          "isCorrect": false,
+          "rationale": "Este componente representa lo impredecible, como una crisis sanitaria, y no tiene un patr\u00f3n fijo."
+        },
+        {
+          "text": "Estacionalidad.",
+          "isCorrect": true,
+          "rationale": "La estacionalidad describe variaciones predecibles que ocurren en momentos espec\u00edficos y repetitivos del a\u00f1o."
+        }
+      ],
+      "hint": "Piense en eventos que ocurren cada a\u00f1o en la misma \u00e9poca, como el inicio de clases."
+    },
+    {
+      "question": "\u00bfQu\u00e9 modelo de pron\u00f3stico es el m\u00e1s adecuado para mercados de alta velocidad como el retail, debido a que prioriza la realidad inmediata?",
+      "answerOptions": [
+        {
+          "text": "Promedio m\u00f3vil simple.",
+          "isCorrect": false,
+          "rationale": "Este modelo mantiene una media constante descartando el dato m\u00e1s antiguo, lo cual es mejor para datos estacionarios."
+        },
+        {
+          "text": "Promedio m\u00f3vil ponderado.",
+          "isCorrect": true,
+          "rationale": "Este modelo asigna mayor relevancia a los datos m\u00e1s recientes, capturando r\u00e1pidamente los cambios del mercado."
+        },
+        {
+          "text": "Regresi\u00f3n lineal.",
+          "isCorrect": false,
+          "rationale": "La regresi\u00f3n lineal se enfoca m\u00e1s en tendencias de mediano y largo plazo que en la agilidad inmediata del retail."
+        },
+        {
+          "text": "Suavizamiento exponencial.",
+          "isCorrect": false,
+          "rationale": "Aunque es preciso, el suavizamiento exponencial se caracteriza m\u00e1s por su ajuste basado en errores anteriores que por la ponderaci\u00f3n directa de la inmediatez."
+        }
+      ],
+      "hint": "Este modelo es '\u00e1gil' porque le da m\u00e1s peso a lo que acaba de pasar recientemente."
+    },
+    {
+      "question": "En el modelo de suavizamiento exponencial, \u00bfc\u00f3mo se denomina al factor inteligente que permite al sistema ajustarse a s\u00ed mismo corrigiendo errores previos?",
+      "answerOptions": [
+        {
+          "text": "Factor Beta.",
+          "isCorrect": false,
+          "rationale": "Beta no es el t\u00e9rmino utilizado para el factor de suavizaci\u00f3n en este modelo espec\u00edfico de pron\u00f3stico."
+        },
+        {
+          "text": "Margen de error.",
+          "isCorrect": false,
+          "rationale": "El margen de error es el resultado que se busca minimizar, no el factor de ajuste del modelo."
+        },
+        {
+          "text": "Factor Alfa ($\\alpha$).",
+          "isCorrect": true,
+          "rationale": "El factor alfa es el par\u00e1metro de suavizaci\u00f3n que permite ajustar el nuevo pron\u00f3stico seg\u00fan el error del periodo anterior."
+        },
+        {
+          "text": "Constante de regresi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las constantes de regresi\u00f3n pertenecen al modelo de regresi\u00f3n lineal, no al suavizamiento exponencial."
+        }
+      ],
+      "hint": "Se trata de la primera letra del alfabeto griego utilizada como par\u00e1metro t\u00e9cnico."
+    },
+    {
+      "question": "\u00bfCu\u00e1ntas observaciones se requieren aproximadamente para que un modelo de regresi\u00f3n lineal sea efectivo en la predicci\u00f3n de tendencias en megaproyectos?",
+      "answerOptions": [
+        {
+          "text": "Entre $2$ y $5$ observaciones.",
+          "isCorrect": false,
+          "rationale": "Muy pocas observaciones no permiten establecer una tendencia confiable para proyectos de gran envergadura."
+        },
+        {
+          "text": "Exactamente $100$ observaciones.",
+          "isCorrect": false,
+          "rationale": "Aunque m\u00e1s datos ayudan, el est\u00e1ndar mencionado para iniciar predicciones en megaproyectos es menor."
+        },
+        {
+          "text": "Entre $10$ y $20$ observaciones.",
+          "isCorrect": true,
+          "rationale": "Este rango de datos proporciona la base estad\u00edstica necesaria para proyectar tendencias a mediano y largo plazo."
+        },
+        {
+          "text": "M\u00e1s de $500$ observaciones.",
+          "isCorrect": false,
+          "rationale": "No es necesario un volumen tan masivo de datos para que la regresi\u00f3n lineal sea funcional en este contexto."
+        }
+      ],
+      "hint": "Es una cantidad moderada de datos que permite ver la 'joya de la corona' de las tendencias."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el valor m\u00e1ximo permitido para el \u00edndice de movimiento de transporte en una planta optimizada para garantizar la rentabilidad?",
+      "answerOptions": [
+        {
+          "text": "$1.0$.",
+          "isCorrect": false,
+          "rationale": "Aunque un valor bajo es ideal, el est\u00e1ndar cr\u00edtico de la industria permite un margen ligeramente superior antes de considerarlo ineficiente."
+        },
+        {
+          "text": "$1.5$.",
+          "isCorrect": true,
+          "rationale": "Superar este \u00edndice significa que se est\u00e1 quemando energ\u00eda y tiempo en mover materiales sin agregar valor al producto."
+        },
+        {
+          "text": "$2.5$.",
+          "isCorrect": false,
+          "rationale": "Un \u00edndice de $2.5$ indicar\u00eda un exceso de transporte que arruina por completo el flujo natural de la planta."
+        },
+        {
+          "text": "$5.0$.",
+          "isCorrect": false,
+          "rationale": "Este valor representar\u00eda un caos log\u00edstico absoluto y una p\u00e9rdida masiva de eficiencia."
+        }
+      ],
+      "hint": "Si pasas de este n\u00famero decimal espec\u00edfico, est\u00e1s quemando recursos sin agregar valor."
+    },
+    {
+      "question": "Dentro de un sistema de manufactura 'Pull', \u00bfcu\u00e1l es el principal obst\u00e1culo para implementar un flujo puramente bajo demanda?",
+      "answerOptions": [
+        {
+          "text": "La falta de personal capacitado.",
+          "isCorrect": false,
+          "rationale": "Si bien el personal es importante, el problema central mencionado se refiere a las limitaciones del espacio y la naturaleza de los materiales."
+        },
+        {
+          "text": "Las restricciones f\u00edsicas de volumen y peso de los insumos.",
+          "isCorrect": true,
+          "rationale": "Insumos muy grandes o pesados pueden bloquear pasillos y destruir la liquidez si no se gestionan con aliados estrat\u00e9gicos."
+        },
+        {
+          "text": "El uso de software MRP desactualizado.",
+          "isCorrect": false,
+          "rationale": "El software es una herramienta, pero las restricciones f\u00edsicas de la f\u00e1brica son el 'muro' del mundo real para el sistema Pull."
+        },
+        {
+          "text": "La alta rotaci\u00f3n de inventarios.",
+          "isCorrect": false,
+          "rationale": "La alta rotaci\u00f3n es generalmente un objetivo positivo del sistema Pull, no un obst\u00e1culo para su implementaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en lo que sucede si intenta almacenar bloques gigantes de espuma en una f\u00e1brica de colchones."
+    },
+    {
+      "question": "En la estructura del Bill of Materials (BOM), \u00bfqu\u00e9 elementos se encuentran categorizados en el 'Nivel 1'?",
+      "answerOptions": [
+        {
+          "text": "El producto final completo.",
+          "isCorrect": false,
+          "rationale": "El producto final, como un reloj inteligente, se ubica en el nivel superior o nivel cero."
+        },
+        {
+          "text": "Los componentes b\u00e1sicos como tornillos.",
+          "isCorrect": false,
+          "rationale": "Las piezas m\u00e1s peque\u00f1as e individuales suelen estar en la base, conocida como nivel dos."
+        },
+        {
+          "text": "Los subensambles del producto.",
+          "isCorrect": true,
+          "rationale": "El nivel uno representa m\u00f3dulos o conjuntos de piezas que forman parte de la anatom\u00eda intermedia del producto."
+        },
+        {
+          "text": "La materia prima en bruto.",
+          "isCorrect": false,
+          "rationale": "La materia prima se considera un componente b\u00e1sico y se ubica generalmente en el nivel inferior de la estructura."
+        }
+      ],
+      "hint": "Es el escal\u00f3n intermedio entre el producto terminado y los componentes m\u00e1s insignificantes."
+    },
+    {
+      "question": "\u00bfQu\u00e9 nombre recibe el proceso de desglosar el Plan Maestro en requerimientos netos para cada pieza de la estructura del producto?",
+      "answerOptions": [
+        {
+          "text": "Neteo de inventarios.",
+          "isCorrect": false,
+          "rationale": "El neteo es solo un paso dentro del proceso, que consiste en restar lo que ya se tiene en almac\u00e9n."
+        },
+        {
+          "text": "Explosi\u00f3n de materiales.",
+          "isCorrect": true,
+          "rationale": "Este t\u00e9rmino describe el c\u00e1lculo matem\u00e1tico que transforma el plan global en necesidades espec\u00edficas de cada componente."
+        },
+        {
+          "text": "Lead time din\u00e1mico.",
+          "isCorrect": false,
+          "rationale": "El lead time es el tiempo de entrega, no el proceso de desglose de la estructura del material."
+        },
+        {
+          "text": "Programaci\u00f3n hacia atr\u00e1s.",
+          "isCorrect": false,
+          "rationale": "Esta es una t\u00e9cnica para determinar fechas, pero no el desglose de los materiales en s\u00ed."
+        }
+      ],
+      "hint": "Suena a un t\u00e9rmino cinematogr\u00e1fico o de acci\u00f3n aplicado a la licuadora matem\u00e1tica de suministros."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 situaci\u00f3n es recomendable utilizar el modelo de tama\u00f1o de lote 'Lote por Lote' (LFL)?",
+      "answerOptions": [
+        {
+          "text": "Cuando la demanda es perfectamente estable y predecible.",
+          "isCorrect": false,
+          "rationale": "Para demandas predecibles, el modelo EOQ suele ser financieramente m\u00e1s eficiente."
+        },
+        {
+          "text": "Cuando el almacenamiento de productos terminados es muy econ\u00f3mico.",
+          "isCorrect": false,
+          "rationale": "Si el almacenamiento es barato, no habr\u00eda tanta presi\u00f3n por producir estrictamente lo necesario cada vez."
+        },
+        {
+          "text": "Cuando el espacio de almacenamiento es limitado y costoso.",
+          "isCorrect": true,
+          "rationale": "Este modelo evita tener capital inmovilizado y ocupar espacio excesivo con productos voluminosos."
+        },
+        {
+          "text": "Cuando se busca minimizar los costos de preparaci\u00f3n de m\u00e1quinas.",
+          "isCorrect": false,
+          "rationale": "El modelo LFL prioriza el espacio sobre el costo de preparaci\u00f3n, a diferencia del modelo EOQ."
+        }
+      ],
+      "hint": "Es la elecci\u00f3n l\u00f3gica cuando guardar cosas inmensas, como colchones, 'tira la plata'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 t\u00e9cnica de ingenier\u00eda del tiempo se utiliza para determinar el d\u00eda exacto en que se debe lanzar una orden de compra?",
+      "answerOptions": [
+        {
+          "text": "C\u00e1lculo de productividad parcial.",
+          "isCorrect": false,
+          "rationale": "La productividad parcial mide el desempe\u00f1o, no programa fechas de lanzamiento de pedidos."
+        },
+        {
+          "text": "Back calculation (c\u00e1lculo hacia atr\u00e1s).",
+          "isCorrect": true,
+          "rationale": "Se toma la fecha de necesidad y se le resta el lead time del proveedor para hallar la fecha de inicio."
+        },
+        {
+          "text": "Factor de suavizaci\u00f3n alfa.",
+          "isCorrect": false,
+          "rationale": "Este factor se usa para ajustar pron\u00f3sticos de demanda, no para programar tiempos de entrega."
+        },
+        {
+          "text": "\u00cdndice de utilizaci\u00f3n t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "Este \u00edndice mide el uso de la maquinaria y no est\u00e1 relacionado con la programaci\u00f3n de \u00f3rdenes de suministro."
+        }
+      ],
+      "hint": "Consiste en restar el tiempo de entrega a la fecha en que se requiere el insumo en la l\u00ednea."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo de utilizaci\u00f3n recomendado para los operadores humanos para evitar un colapso operativo?",
+      "answerOptions": [
+        {
+          "text": "$100\\%$.",
+          "isCorrect": false,
+          "rationale": "Programar al $100\\%$ ignora factores humanos b\u00e1sicos y es considerado un error t\u00e9cnico grave."
+        },
+        {
+          "text": "$95\\%$.",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es el est\u00e1ndar para la utilizaci\u00f3n de maquinaria, no para el personal humano."
+        },
+        {
+          "text": "$85\\%$.",
+          "isCorrect": true,
+          "rationale": "Este l\u00edmite permite un margen para la fatiga, necesidades personales y la curva de aprendizaje de los trabajadores."
+        },
+        {
+          "text": "$50\\%$.",
+          "isCorrect": false,
+          "rationale": "Un $50\\%$ de utilizaci\u00f3n ser\u00eda extremadamente ineficiente para cualquier est\u00e1ndar industrial competitivo."
+        }
+      ],
+      "hint": "Se deja un $15\\%$ libre para cubrir la fatiga y las necesidades b\u00e1sicas del personal."
+    },
+    {
+      "question": "En la gesti\u00f3n de maquinaria, \u00bfa qu\u00e9 se debe dedicar el $5\\%$ de tiempo que no se programa para producci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "A periodos de descanso de los operadores.",
+          "isCorrect": false,
+          "rationale": "El descanso de los operadores est\u00e1 contemplado en el margen de utilizaci\u00f3n humana, no en el de las m\u00e1quinas."
+        },
+        {
+          "text": "A mantenimiento predictivo y preventivo.",
+          "isCorrect": true,
+          "rationale": "Este colch\u00f3n de seguridad evita paradas catastr\u00f3ficas que podr\u00edan costar fortunas a la empresa."
+        },
+        {
+          "text": "A la limpieza general de la planta.",
+          "isCorrect": false,
+          "rationale": "Aunque es importante, el objetivo t\u00e9cnico del margen de la m\u00e1quina es asegurar su funcionamiento mediante el mantenimiento."
+        },
+        {
+          "text": "A pruebas de nuevos productos.",
+          "isCorrect": false,
+          "rationale": "Las pruebas de productos son parte de la producci\u00f3n o desarrollo, no del colch\u00f3n de seguridad t\u00e9cnica de la m\u00e1quina."
+        }
+      ],
+      "hint": "Es un 'colch\u00f3n sagrado' que previene que la m\u00e1quina falle inesperadamente."
+    },
+    {
+      "question": "En el contexto de Just-in-Time, \u00bfqu\u00e9 t\u00e9rmino se utiliza para referirse a los desperdicios operativos que interrumpen el flujo natural?",
+      "answerOptions": [
+        {
+          "text": "Kpis.",
+          "isCorrect": false,
+          "rationale": "Los KPIs son indicadores de desempe\u00f1o, no desperdicios en s\u00ed mismos."
+        },
+        {
+          "text": "Mudas.",
+          "isCorrect": true,
+          "rationale": "Las mudas incluyen reprocesos, productos defectuosos, tiempos de espera y exceso de transporte."
+        },
+        {
+          "text": "Stocks.",
+          "isCorrect": false,
+          "rationale": "Aunque el exceso de stock es un problema, el t\u00e9rmino t\u00e9cnico para los desperdicios sistem\u00e1ticos es 'mudas'."
+        },
+        {
+          "text": "Lead times.",
+          "isCorrect": false,
+          "rationale": "El lead time es el tiempo que toma un proceso o entrega, no una categor\u00eda de desperdicio."
+        }
+      ],
+      "hint": "Existen cuatro tipos cr\u00edticos: reprocesos, productos defectuosos, esperas y exceso de transporte."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede si una planta intenta operar su maquinaria al $100\\%$ de su capacidad t\u00e9cnica de utilizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Se alcanza la rentabilidad m\u00e1xima te\u00f3rica.",
+          "isCorrect": false,
+          "rationale": "Operar al l\u00edmite m\u00e1ximo suele aumentar el riesgo y los costos a largo plazo por fallas imprevistas."
+        },
+        {
+          "text": "Se expone la planta a una parada catastr\u00f3fica.",
+          "isCorrect": true,
+          "rationale": "No dejar margen para mantenimiento es como jugar a la ruleta rusa con la integridad de los equipos."
+        },
+        {
+          "text": "Se mejora la eficiencia de los operadores.",
+          "isCorrect": false,
+          "rationale": "La utilizaci\u00f3n de m\u00e1quinas y la eficiencia de los operadores son conceptos distintos; forzar la m\u00e1quina no ayuda al operador."
+        },
+        {
+          "text": "Se reduce el \u00edndice de transporte a menos de $1.5$.",
+          "isCorrect": false,
+          "rationale": "El \u00edndice de transporte depende del dise\u00f1o de la planta y la log\u00edstica, no de forzar la capacidad de las m\u00e1quinas."
+        }
+      ],
+      "hint": "Es equivalente a no dejar tiempo para el mantenimiento preventivo de los equipos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre la productividad total y la productividad parcial?",
+      "answerOptions": [
+        {
+          "text": "La productividad total solo mide la mano de obra.",
+          "isCorrect": false,
+          "rationale": "Esa ser\u00eda una medida de productividad parcial, no total."
+        },
+        {
+          "text": "La parcial relaciona la producci\u00f3n con un factor puntual como energ\u00eda o mano de obra.",
+          "isCorrect": true,
+          "rationale": "La productividad parcial permite analizar el impacto de recursos espec\u00edficos en el resultado final."
+        },
+        {
+          "text": "La productividad total ignora los costos financieros.",
+          "isCorrect": false,
+          "rationale": "La productividad total busca integrar todos los factores para ver el panorama completo."
+        },
+        {
+          "text": "No existe diferencia t\u00e9cnica entre ambos conceptos.",
+          "isCorrect": false,
+          "rationale": "Son dos 'lentes' distintos y vitales para entender las desviaciones en el piso de producci\u00f3n."
+        }
+      ],
+      "hint": "Piense en el an\u00e1lisis de un solo insumo frente al an\u00e1lisis de todo el sistema."
+    },
+    {
+      "question": "En industrias como la farmac\u00e9utica o qu\u00edmica, \u00bfpor qu\u00e9 el uso del suavizamiento exponencial se considera innegociable?",
+      "answerOptions": [
+        {
+          "text": "Porque es el modelo m\u00e1s econ\u00f3mico de implementar.",
+          "isCorrect": false,
+          "rationale": "Este modelo es exigente y sofisticado, no necesariamente el m\u00e1s barato."
+        },
+        {
+          "text": "Porque permite un margen de error amplio para sustancias costosas.",
+          "isCorrect": false,
+          "rationale": "Al contrario, estas industrias requieren un margen de error cercano a cero debido a la peligrosidad de los insumos."
+        },
+        {
+          "text": "Debido a la volatilidad y peligrosidad de los insumos manejados.",
+          "isCorrect": true,
+          "rationale": "La precisi\u00f3n espectacular de este modelo es vital para evitar desabastecimientos o excedentes de sustancias peligrosas."
+        },
+        {
+          "text": "Porque es el \u00fanico modelo que funciona con $10$ observaciones.",
+          "isCorrect": false,
+          "rationale": "El modelo que requiere entre $10$ y $20$ observaciones es la regresi\u00f3n lineal."
+        }
+      ],
+      "hint": "En estos sectores, un excedente o falta de insumos como el \u00e1cido c\u00edtrico puede detener toda la cadena."
+    },
+    {
+      "question": "\u00bfQu\u00e9 papel juegan los proveedores en un entorno donde las restricciones f\u00edsicas impiden un sistema Pull perfecto?",
+      "answerOptions": [
+        {
+          "text": "Deben ser tratados como simples vendedores externos.",
+          "isCorrect": false,
+          "rationale": "Esa visi\u00f3n tradicional no ayuda a resolver las restricciones de espacio y fluidez de la planta."
+        },
+        {
+          "text": "Deben convertirse en aliados estrat\u00e9gicos completamente integrados.",
+          "isCorrect": true,
+          "rationale": "La sincronizaci\u00f3n externa con los proveedores permite mantener el flujo continuo a pesar de los muros f\u00edsicos."
+        },
+        {
+          "text": "Se les debe exigir el $100\\%$ de utilizaci\u00f3n de sus m\u00e1quinas.",
+          "isCorrect": false,
+          "rationale": "Forzar a los proveedores al $100\\%$ de utilizaci\u00f3n es un error t\u00e9cnico que pone en riesgo el suministro."
+        },
+        {
+          "text": "Su \u00fanica funci\u00f3n es reducir los tiempos de transporte a cero.",
+          "isCorrect": false,
+          "rationale": "Reducir tiempos es bueno, pero la integraci\u00f3n estrat\u00e9gica va mucho m\u00e1s all\u00e1 de la simple log\u00edstica de entrega."
+        }
+      ],
+      "hint": "Solo con este nivel de 'sincronizaci\u00f3n hacia afuera' se puede vencer la resistencia al cambio interna."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el 'idioma universal' en el piso de fabricaci\u00f3n para medir desviaciones y rentabilidad?",
+      "answerOptions": [
+        {
+          "text": "Las horas de trabajo.",
+          "isCorrect": false,
+          "rationale": "Hablar en horas es una medida demasiado gruesa para la precisi\u00f3n que requiere una planta moderna."
+        },
+        {
+          "text": "Los minutos.",
+          "isCorrect": true,
+          "rationale": "En manufactura se dice que se habla en minutos, ya que cualquier detenci\u00f3n impacta directamente el bolsillo."
+        },
+        {
+          "text": "El n\u00famero de empleados.",
+          "isCorrect": false,
+          "rationale": "El n\u00famero de empleados es un dato administrativo, pero no el idioma de la eficiencia operativa minuto a minuto."
+        },
+        {
+          "text": "Los metros cuadrados de almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "El espacio es una restricci\u00f3n, pero el ritmo de la planta se mide en unidades de tiempo mucho m\u00e1s peque\u00f1as."
+        }
+      ],
+      "hint": "Cualquier cuello de botella o parada se mide en esta unidad para ver el golpe directo a la rentabilidad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo final de sincronizar el pron\u00f3stico externo con la capacidad t\u00e9cnica interna?",
+      "answerOptions": [
+        {
+          "text": "Eliminar por completo el uso de KPIs.",
+          "isCorrect": false,
+          "rationale": "Los KPIs son esenciales para la navegaci\u00f3n; no se eliminan, se utilizan mejor."
+        },
+        {
+          "text": "Garantizar que la anticipaci\u00f3n dicte el ritmo de la planta.",
+          "isCorrect": true,
+          "rationale": "Esto permite migrar de una gesti\u00f3n reactiva de 'apagar incendios' a una arquitectura proactiva."
+        },
+        {
+          "text": "Aumentar el inventario de seguridad al doble.",
+          "isCorrect": false,
+          "rationale": "El objetivo del JIT y la sincronizaci\u00f3n es optimizar recursos, no sobrellenar los almacenes."
+        },
+        {
+          "text": "Sustituir el sistema MRP por procesos manuales.",
+          "isCorrect": false,
+          "rationale": "El MRP es el esqueleto t\u00e9cnico fundamental; la sincronizaci\u00f3n lo fortalece, no lo reemplaza."
+        }
+      ],
+      "hint": "Se busca dejar de 'apagar incendios' con gesti\u00f3n reactiva."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Planeaci\u00f3n y control de la producci\u00f3n",
+      "Estrategias de pron\u00f3stico industrial",
+      "Sistemas Just-in-Time (JIT)",
+      "Planificaci\u00f3n de requerimientos de materiales (MRP)",
+      "Gesti\u00f3n del desempe\u00f1o y KPIs en manufactura"
+    ],
+    "followUp": [
+      "Modelos matem\u00e1ticos de suavizamiento exponencial y regresi\u00f3n lineal",
+      "Anatom\u00eda de la Bill of Materials (BOM) y explosi\u00f3n de materiales",
+      "Eliminaci\u00f3n de mudas y optimizaci\u00f3n del flujo operativo",
+      "L\u00edmites t\u00e9cnicos de utilizaci\u00f3n humana y de maquinaria",
+      "Impacto financiero de la precisi\u00f3n en la cadena de suministro"
+    ]
+  }
+}

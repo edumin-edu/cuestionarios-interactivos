@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfC\u00f3mo se calcula matem\u00e1ticamente la carga litost\u00e1tica en un macizo rocoso?",
+      "answerOptions": [
+        {
+          "text": "Multiplicando la densidad de la roca por la gravedad y la profundidad.",
+          "isCorrect": true,
+          "rationale": "Este c\u00e1lculo representa el peso de la columna de roca suprayacente sobre un punto espec\u00edfico en el subsuelo."
+        },
+        {
+          "text": "Dividiendo el esfuerzo horizontal entre el esfuerzo vertical acumulado.",
+          "isCorrect": false,
+          "rationale": "Esta operaci\u00f3n se refiere al c\u00e1lculo del factor $K$, no a la carga generada por el peso de la roca."
+        },
+        {
+          "text": "Sumando la presi\u00f3n tect\u00f3nica a la densidad de la masa rocosa.",
+          "isCorrect": false,
+          "rationale": "La carga litost\u00e1tica se basa puramente en el peso gravitacional y no integra fuerzas tect\u00f3nicas en su f\u00f3rmula b\u00e1sica."
+        },
+        {
+          "text": "Calculando la relaci\u00f3n entre la resistencia a la compresi\u00f3n y la gravedad.",
+          "isCorrect": false,
+          "rationale": "La resistencia a la compresi\u00f3n es una propiedad del material, mientras que la carga litost\u00e1tica es un esfuerzo inducido por la profundidad."
+        }
+      ],
+      "hint": "Relaciona el peso de una columna de material con la aceleraci\u00f3n gravitacional y la distancia desde la superficie."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fen\u00f3meno ocurre habitualmente cuando una excavaci\u00f3n supera el umbral de los $1000$ metros de profundidad?",
+      "answerOptions": [
+        {
+          "text": "Se alcanza un estado hidrost\u00e1tico donde las presiones se igualan en todas las direcciones.",
+          "isCorrect": true,
+          "rationale": "A profundidades extremas, el confinamiento masivo causa que la diferencia entre esfuerzos verticales y horizontales tienda a desaparecer."
+        },
+        {
+          "text": "La carga litost\u00e1tica se vuelve nula debido a la densidad de la roca.",
+          "isCorrect": false,
+          "rationale": "La carga litost\u00e1tica aumenta proporcionalmente con la profundidad; nunca disminuye ni se anula al bajar."
+        },
+        {
+          "text": "El macizo rocoso recupera su equilibrio inercial de forma autom\u00e1tica.",
+          "isCorrect": false,
+          "rationale": "La excavaci\u00f3n rompe el equilibrio; a mayor profundidad, la perturbaci\u00f3n del equilibrio es m\u00e1s violenta y peligrosa."
+        },
+        {
+          "text": "Los esfuerzos horizontales desaparecen dejando solo la carga vertical.",
+          "isCorrect": false,
+          "rationale": "A esa profundidad, los esfuerzos horizontales no desaparecen, sino que se fusionan en magnitud con el esfuerzo vertical."
+        }
+      ],
+      "hint": "Considera qu\u00e9 sucede con la direcci\u00f3n de la presi\u00f3n bajo un confinamiento masivo y uniforme."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de las discontinuidades geol\u00f3gicas, como fallas y pliegues, en el macizo respecto a los esfuerzos?",
+      "answerOptions": [
+        {
+          "text": "Actuar frecuentemente como concentradores de energ\u00eda tensional.",
+          "isCorrect": true,
+          "rationale": "Debido a su naturaleza heterog\u00e9nea, estas estructuras suelen acumular tensiones que pueden desencadenar fallas s\u00fabitas."
+        },
+        {
+          "text": "Garantizar que la roca se comporte siempre como un bloque continuo y perfecto.",
+          "isCorrect": false,
+          "rationale": "Las discontinuidades son precisamente lo que impide que el macizo sea un bloque continuo y homog\u00e9neo."
+        },
+        {
+          "text": "Eliminar por completo la necesidad de soporte artificial en la excavaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las fallas y pliegues suelen aumentar la inestabilidad, incrementando la necesidad de soporte robusto."
+        },
+        {
+          "text": "Reducir la densidad de la roca para facilitar la perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las estructuras geol\u00f3gicas alteran la distribuci\u00f3n de esfuerzos, pero no cambian la densidad intr\u00ednseca del mineral."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo estas interrupciones f\u00edsicas en la roca afectan la acumulaci\u00f3n de energ\u00eda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 describe el fen\u00f3meno de convergencia en una galer\u00eda subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "El cierre progresivo de la excavaci\u00f3n debido a la deformaci\u00f3n de la roca.",
+          "isCorrect": true,
+          "rationale": "Bajo presi\u00f3n, las paredes, el techo y el suelo de la excavaci\u00f3n tienden a desplazarse hacia el espacio vac\u00edo."
+        },
+        {
+          "text": "La explosi\u00f3n s\u00fabita de fragmentos de roca en el frente de avance.",
+          "isCorrect": false,
+          "rationale": "Este fen\u00f3meno describe un estallido de roca o 'rockburst', que es distinto a la deformaci\u00f3n progresiva de la convergencia."
+        },
+        {
+          "text": "El aumento de la velocidad de perforaci\u00f3n por la presi\u00f3n del terreno.",
+          "isCorrect": false,
+          "rationale": "La convergencia es un riesgo de estabilidad post-excavaci\u00f3n, no una variable de productividad en la perforaci\u00f3n."
+        },
+        {
+          "text": "La uni\u00f3n de dos frentes de excavaci\u00f3n en un punto planeado.",
+          "isCorrect": false,
+          "rationale": "En miner\u00eda, ese proceso se llama 'rompimiento' o 'comunicaci\u00f3n', mientras que la convergencia es una deformaci\u00f3n del terreno."
+        }
+      ],
+      "hint": "Visualiza el movimiento de las paredes de un t\u00fanel cuando intentan recuperar su estado original bajo presi\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la definici\u00f3n de un 'rockburst' o estallido de roca?",
+      "answerOptions": [
+        {
+          "text": "Una liberaci\u00f3n s\u00fabita y violenta de energ\u00eda el\u00e1stica acumulada.",
+          "isCorrect": true,
+          "rationale": "Ocurre principalmente en frentes profundos donde la roca falla de forma explosiva al no poder soportar m\u00e1s carga."
+        },
+        {
+          "text": "El proceso lento de erosi\u00f3n de las paredes por filtraci\u00f3n de agua.",
+          "isCorrect": false,
+          "rationale": "Los estallidos de roca son eventos instant\u00e1neos y mec\u00e1nicos, no procesos qu\u00edmicos o erosivos lentos."
+        },
+        {
+          "text": "La ca\u00edda de bloques sueltos debido a la gravedad por falta de acu\u00f1adura.",
+          "isCorrect": false,
+          "rationale": "La ca\u00edda de rocas por gravedad es un evento cinem\u00e1tico, mientras que el rockburst es un evento din\u00e1mico por energ\u00eda tensional."
+        },
+        {
+          "text": "Una t\u00e9cnica de voladura controlada para suavizar el contorno del t\u00fanel.",
+          "isCorrect": false,
+          "rationale": "El rockburst es un fallo natural e indeseado del terreno, no una t\u00e9cnica de ingenier\u00eda de explosivos."
+        }
+      ],
+      "hint": "Se trata de un evento energ\u00e9tico muy r\u00e1pido y destructivo relacionado con la elasticidad de la roca."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define el factor $K$ en la ingenier\u00eda geomec\u00e1nica?",
+      "answerOptions": [
+        {
+          "text": "La relaci\u00f3n entre el esfuerzo horizontal y el esfuerzo vertical.",
+          "isCorrect": true,
+          "rationale": "Este coeficiente es fundamental para determinar la magnitud y direcci\u00f3n de las tensiones principales en el dise\u00f1o de t\u00faneles."
+        },
+        {
+          "text": "La densidad de la roca multiplicada por el coeficiente de fricci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El factor $K$ se refiere estrictamente a la relaci\u00f3n entre componentes del tensor de esfuerzos."
+        },
+        {
+          "text": "El tiempo que tarda la roca en colapsar tras una voladura.",
+          "isCorrect": false,
+          "rationale": "Eso se conoce como tiempo de autosostenimiento, no factor $K$."
+        },
+        {
+          "text": "La constante de elasticidad medida en probetas de laboratorio.",
+          "isCorrect": false,
+          "rationale": "Aunque se relaciona con la elasticidad, el factor $K$ describe el estado tensional in situ del macizo."
+        }
+      ],
+      "hint": "Es una proporci\u00f3n que compara las fuerzas laterales con las fuerzas que vienen desde arriba."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 las mediciones de campo son superiores a los ensayos de laboratorio para el dise\u00f1o geomec\u00e1nico?",
+      "answerOptions": [
+        {
+          "text": "Debido a la representatividad de la escala y la presencia de discontinuidades.",
+          "isCorrect": true,
+          "rationale": "Una muestra peque\u00f1a de laboratorio no puede capturar el comportamiento complejo de las fallas y fracturas de una monta\u00f1a entera."
+        },
+        {
+          "text": "Porque las pruebas de laboratorio son m\u00e1s costosas y lentas.",
+          "isCorrect": false,
+          "rationale": "La superioridad t\u00e9cnica no se basa en el costo, sino en la fidelidad de los datos respecto a la realidad del terreno."
+        },
+        {
+          "text": "Porque el laboratorio solo puede medir rocas de baja densidad.",
+          "isCorrect": false,
+          "rationale": "El laboratorio puede medir cualquier roca, pero el problema es que la muestra es demasiado peque\u00f1a para ser representativa."
+        },
+        {
+          "text": "Porque las leyes f\u00edsicas cambian cuando la roca se extrae de la mina.",
+          "isCorrect": false,
+          "rationale": "Las leyes f\u00edsicas son las mismas; lo que cambia es el entorno de confinamiento y la escala del sistema analizado."
+        }
+      ],
+      "hint": "Considera la diferencia entre analizar un fragmento perfecto y una estructura natural llena de grietas."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la t\u00e9cnica de 'overcoring' para medir esfuerzos?",
+      "answerOptions": [
+        {
+          "text": "Perforar un cilindro de roca alrededor de un sensor para observar su microexpansi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Al liberar el cilindro de su entorno, este se relaja y la deformaci\u00f3n medida permite calcular el tensor de esfuerzos original."
+        },
+        {
+          "text": "Inyectar agua a alta presi\u00f3n hasta fracturar la roca de forma controlada.",
+          "isCorrect": false,
+          "rationale": "Eso describe el hidrofracturamiento, una t\u00e9cnica distinta para medir esfuerzos a grandes profundidades."
+        },
+        {
+          "text": "Tomar fotograf\u00edas a\u00e9reas con drones para mapear fallas geol\u00f3gicas.",
+          "isCorrect": false,
+          "rationale": "El mapeo con drones es un m\u00e9todo indirecto de caracterizaci\u00f3n, no una t\u00e9cnica de medici\u00f3n de esfuerzos directos por deformaci\u00f3n."
+        },
+        {
+          "text": "Golpear la superficie de la roca y medir la velocidad de las ondas sonoras.",
+          "isCorrect": false,
+          "rationale": "Ese es un m\u00e9todo geof\u00edsico indirecto, mientras que el overcoring requiere la extracci\u00f3n f\u00edsica de una muestra instrumentada."
+        }
+      ],
+      "hint": "Imagina aislar un pedazo de roca de sus presiones circundantes para ver c\u00f3mo 'descansa'."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo es indispensable utilizar el M\u00e9todo de Elementos Discretos (DEM) en lugar del M\u00e9todo de Elementos Finitos (FEM)?",
+      "answerOptions": [
+        {
+          "text": "Cuando el macizo rocoso est\u00e1 muy fracturado y se comporta de forma discontinua.",
+          "isCorrect": true,
+          "rationale": "El DEM permite modelar la interacci\u00f3n y fricci\u00f3n individual entre bloques independientes de roca."
+        },
+        {
+          "text": "Cuando la roca es un bloque continuo, homog\u00e9neo e is\u00f3tropo.",
+          "isCorrect": false,
+          "rationale": "Para bloques continuos y homog\u00e9neos, el FEM es m\u00e1s eficiente y adecuado."
+        },
+        {
+          "text": "Para calcular exclusivamente la carga litost\u00e1tica a poca profundidad.",
+          "isCorrect": false,
+          "rationale": "La carga litost\u00e1tica simple no requiere modelamiento num\u00e9rico complejo de elementos discretos."
+        },
+        {
+          "text": "Cuando no se tienen datos de campo y se requiere una simulaci\u00f3n r\u00e1pida.",
+          "isCorrect": false,
+          "rationale": "Ambos m\u00e9todos requieren datos de campo de alta calidad; el DEM es t\u00e9cnicamente m\u00e1s complejo y requiere m\u00e1s par\u00e1metros."
+        }
+      ],
+      "hint": "Enf\u00f3cate en la diferencia entre un material que act\u00faa como una sola pieza y uno formado por m\u00faltiples fragmentos sueltos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 es el 'back an\u00e1lisis' o retroan\u00e1lisis en el modelamiento geomec\u00e1nico?",
+      "answerOptions": [
+        {
+          "text": "Un proceso iterativo para ajustar el modelo usando datos reales de deformaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Permite calibrar las propiedades del material en el software para que coincidan con lo que los sensores reportan en la mina."
+        },
+        {
+          "text": "Un estudio que se realiza solo despu\u00e9s de que ha ocurrido un colapso total.",
+          "isCorrect": false,
+          "rationale": "Aunque se puede usar tras fallos, es una herramienta de dise\u00f1o activo que debe usarse continuamente durante la excavaci\u00f3n."
+        },
+        {
+          "text": "La revisi\u00f3n de los costos econ\u00f3micos al finalizar el proyecto minero.",
+          "isCorrect": false,
+          "rationale": "El back an\u00e1lisis es un proceso t\u00e9cnico-mec\u00e1nico, no una auditor\u00eda financiera o contable."
+        },
+        {
+          "text": "El an\u00e1lisis de la historia geol\u00f3gica de la zona desde hace millones de a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Aunque la geolog\u00eda es relevante, el retroan\u00e1lisis se enfoca en la respuesta mec\u00e1nica actual del terreno a la excavaci\u00f3n."
+        }
+      ],
+      "hint": "Es la forma en que el modelo 'aprende' y se corrige bas\u00e1ndose en la realidad observada."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el Factor de Seguridad ($FS$) m\u00ednimo est\u00e1ndar para el dise\u00f1o de t\u00faneles permanentes como rampas principales?",
+      "answerOptions": [
+        {
+          "text": "$1.5$",
+          "isCorrect": true,
+          "rationale": "Este margen asegura que la infraestructura pueda soportar variaciones e incertidumbres geol\u00f3gicas durante a\u00f1os de operaci\u00f3n."
+        },
+        {
+          "text": "$1.0$",
+          "isCorrect": false,
+          "rationale": "Un factor de $1.0$ representa un equilibrio cr\u00edtico, lo que significa que cualquier perturbaci\u00f3n m\u00ednima causar\u00eda un colapso."
+        },
+        {
+          "text": "$0.5$",
+          "isCorrect": false,
+          "rationale": "Un factor menor a $1.0$ indica que la estructura ya es inestable y fallar\u00e1 bajo las condiciones actuales."
+        },
+        {
+          "text": "$5.0$",
+          "isCorrect": false,
+          "rationale": "Un factor de $5.0$ ser\u00eda excesivamente conservador y econ\u00f3micamente inviable para la mayor\u00eda de los proyectos de ingenier\u00eda."
+        }
+      ],
+      "hint": "Es un valor que ofrece un $50\\%$ de capacidad adicional por encima del punto cr\u00edtico de equilibrio."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de las siguientes formas geom\u00e9tricas es m\u00e1s eficiente para distribuir uniformemente los esfuerzos en una excavaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Circular",
+          "isCorrect": true,
+          "rationale": "Su forma carece de esquinas angulares, permitiendo que las l\u00edneas de flujo de esfuerzo rodeen la abertura sin picos de tensi\u00f3n."
+        },
+        {
+          "text": "Cuadrada",
+          "isCorrect": false,
+          "rationale": "Las esquinas de las secciones cuadradas act\u00faan como concentradores violentos de tensi\u00f3n, facilitando el fracturamiento."
+        },
+        {
+          "text": "Rectangular",
+          "isCorrect": false,
+          "rationale": "Similar a la cuadrada, posee \u00e1ngulos rectos que son puntos d\u00e9biles donde se acumula el estr\u00e9s de la roca."
+        },
+        {
+          "text": "Irregular",
+          "isCorrect": false,
+          "rationale": "Las formas irregulares crean distribuciones de esfuerzo impredecibles y zonas locales de alta inestabilidad."
+        }
+      ],
+      "hint": "Busca la forma que permita que las fuerzas fluyan de manera m\u00e1s natural y sin interrupciones abruptas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 modelo de comportamiento representa mejor a la mayor\u00eda de los macizos rocosos reales bajo presi\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Elastopl\u00e1stico con ablandamiento",
+          "isCorrect": true,
+          "rationale": "Reconoce que tras el pico de resistencia, la roca pierde cohesi\u00f3n pero sigue deform\u00e1ndose bajo menores cargas."
+        },
+        {
+          "text": "El\u00e1stico lineal",
+          "isCorrect": false,
+          "rationale": "Este modelo asume que la roca siempre vuelve a su estado original, lo cual es falso una vez que se supera el l\u00edmite de rotura."
+        },
+        {
+          "text": "R\u00edgido pl\u00e1stico",
+          "isCorrect": false,
+          "rationale": "Sugiere que no hay deformaci\u00f3n hasta un fallo s\u00fabito, ignorando la fase el\u00e1stica inicial que toda roca posee."
+        },
+        {
+          "text": "L\u00edquido viscoso",
+          "isCorrect": false,
+          "rationale": "La roca es un s\u00f3lido; aunque puede fluir bajo presiones extremas, su mec\u00e1nica no se rige por la viscosidad de los fluidos."
+        }
+      ],
+      "hint": "Es un modelo que combina una respuesta inicial flexible con una p\u00e9rdida gradual de fuerza tras el quiebre."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre con el efecto arco natural de la roca en las intersecciones de galer\u00edas?",
+      "answerOptions": [
+        {
+          "text": "Se pierde significativamente debido al aumento de la luz libre o 'span'.",
+          "isCorrect": true,
+          "rationale": "Al cruzar dos excavaciones, el \u00e1rea sin soporte aumenta dr\u00e1sticamente, eliminando la capacidad de la roca de sostenerse a s\u00ed misma."
+        },
+        {
+          "text": "Se fortalece autom\u00e1ticamente por la duplicaci\u00f3n del soporte.",
+          "isCorrect": false,
+          "rationale": "Al contrario, las intersecciones son los puntos de mayor riesgo y requieren refuerzo adicional porque el arco natural se debilita."
+        },
+        {
+          "text": "Desaparece la carga litost\u00e1tica en el centro del cruce.",
+          "isCorrect": false,
+          "rationale": "La carga litost\u00e1tica sigue existiendo; lo que cambia es la capacidad de la estructura rocosa para redistribuirla."
+        },
+        {
+          "text": "La roca se vuelve m\u00e1s el\u00e1stica para compensar el vac\u00edo.",
+          "isCorrect": false,
+          "rationale": "La elasticidad es una propiedad del material; la geometr\u00eda de la intersecci\u00f3n solo afecta la distribuci\u00f3n de las cargas."
+        }
+      ],
+      "hint": "Piensa en qu\u00e9 le sucede a un techo cuando el espacio abierto debajo de \u00e9l se vuelve mucho m\u00e1s ancho."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia de ignorar el 'tiempo de autosostenimiento' al instalar el soporte?",
+      "answerOptions": [
+        {
+          "text": "La descompresi\u00f3n irreversible del macizo hace que el soporte posterior sea in\u00fatil.",
+          "isCorrect": true,
+          "rationale": "Si la roca se relaja y se fractura demasiado, instalar pernos o shotcrete no detendr\u00e1 un colapso que ya ha comenzado."
+        },
+        {
+          "text": "Se ahorran costos operativos al permitir que la roca se asiente sola.",
+          "isCorrect": false,
+          "rationale": "Permitir que la roca se 'asiente' sin control suele llevar a inestabilidades costosas y peligrosas, no a ahorros."
+        },
+        {
+          "text": "Aumenta la resistencia a la compresi\u00f3n simple del macizo.",
+          "isCorrect": false,
+          "rationale": "La resistencia disminuye a medida que el macizo se fractura por falta de soporte oportuno."
+        },
+        {
+          "text": "El factor de seguridad aumenta por la liberaci\u00f3n de tensiones.",
+          "isCorrect": false,
+          "rationale": "La liberaci\u00f3n de tensiones sin control reduce el factor de seguridad hacia el colapso."
+        }
+      ],
+      "hint": "Imagina que intentas pegar un jarr\u00f3n que ya se ha hecho a\u00f1icos en lugar de evitar que se agriete."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el criterio de Hoek-Brown es considerado el est\u00e1ndar de oro actual frente al de Mohr-Coulomb para rocas?",
+      "answerOptions": [
+        {
+          "text": "Porque utiliza el GSI para degradar la resistencia seg\u00fan la fracturaci\u00f3n real.",
+          "isCorrect": true,
+          "rationale": "A diferencia del modelo lineal de Mohr-Coulomb, Hoek-Brown captura la naturaleza no lineal de la rotura en macizos fracturados."
+        },
+        {
+          "text": "Porque es mucho m\u00e1s simple de calcular manualmente sin software.",
+          "isCorrect": false,
+          "rationale": "Hoek-Brown es matem\u00e1ticamente m\u00e1s complejo que Mohr-Coulomb por su car\u00e1cter no lineal."
+        },
+        {
+          "text": "Porque ignora los esfuerzos horizontales para simplificar el modelo.",
+          "isCorrect": false,
+          "rationale": "Este criterio utiliza los esfuerzos principales (incluyendo horizontales y verticales) para definir la envolvente de falla."
+        },
+        {
+          "text": "Porque fue dise\u00f1ado espec\u00edficamente para suelos y materiales pl\u00e1sticos ideales.",
+          "isCorrect": false,
+          "rationale": "Mohr-Coulomb es el que se adapta mejor a suelos; Hoek-Brown naci\u00f3 espec\u00edficamente para la mec\u00e1nica de rocas."
+        }
+      ],
+      "hint": "Recuerda cu\u00e1l de ellos considera que la roca in situ tiene muchas grietas y no es perfecta como una probeta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 indica un valor de ESR (Excavation Support Ratio) cercano a $0.5$?",
+      "answerOptions": [
+        {
+          "text": "Que la excavaci\u00f3n es cr\u00edtica y requiere un dise\u00f1o de m\u00e1xima seguridad.",
+          "isCorrect": true,
+          "rationale": "Valores bajos de ESR se asignan a infraestructuras vitales y permanentes como plantas de chancado subterr\u00e1neas."
+        },
+        {
+          "text": "Que la labor es temporal y puede dejarse sin sostenimiento.",
+          "isCorrect": false,
+          "rationale": "Para labores temporales se usan valores de ESR altos (entre $3$ y $5$), lo que permite un soporte m\u00e1s ligero."
+        },
+        {
+          "text": "Que la roca tiene una calidad excelente y no necesita pernos.",
+          "isCorrect": false,
+          "rationale": "El ESR depende de la importancia de la labor, no directamente de la calidad de la roca, aunque influye en el soporte final."
+        },
+        {
+          "text": "Que el factor de seguridad ha ca\u00eddo por debajo del l\u00edmite permitido.",
+          "isCorrect": false,
+          "rationale": "El ESR es un coeficiente de dise\u00f1o, no una medida del factor de seguridad en tiempo real."
+        }
+      ],
+      "hint": "Un ESR bajo significa que el margen de error permitido es m\u00ednimo debido a la importancia de la obra."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00eda se utiliza actualmente para conectar sensores profundos sin p\u00e9rdida de se\u00f1al en tiempo real?",
+      "answerOptions": [
+        {
+          "text": "Cables de fibra \u00f3ptica.",
+          "isCorrect": true,
+          "rationale": "Permiten la transmisi\u00f3n de grandes vol\u00famenes de datos de sismicidad y convergencia a lo largo de kil\u00f3metros de t\u00faneles."
+        },
+        {
+          "text": "Se\u00f1ales de radio de baja frecuencia.",
+          "isCorrect": false,
+          "rationale": "La roca s\u00f3lida bloquea la mayor\u00eda de las se\u00f1ales de radio, haci\u00e9ndolas ineficaces para sensores profundos sin cables."
+        },
+        {
+          "text": "Drones con mensajer\u00eda f\u00edsica.",
+          "isCorrect": false,
+          "rationale": "Los drones se usan para mapeo fotogram\u00e9trico, no como medio principal de transmisi\u00f3n de datos de sensores fijos."
+        },
+        {
+          "text": "Sistemas de tuber\u00edas hidr\u00e1ulicas.",
+          "isCorrect": false,
+          "rationale": "Las tuber\u00edas se usan para servicios (agua/aire) o pruebas como el flat jack, no para la transmisi\u00f3n de datos digitales."
+        }
+      ],
+      "hint": "Se trata de un medio f\u00edsico capaz de transmitir informaci\u00f3n a la velocidad de la luz."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de los radares denominados 'centinelas' en las operaciones mineras?",
+      "answerOptions": [
+        {
+          "text": "Monitoreo s\u00edsmico y de convergencia en tiempo real para alertar micromovimientos.",
+          "isCorrect": true,
+          "rationale": "Act\u00faan como sistemas de alerta temprana para detectar inestabilidades antes de que ocurra un colapso."
+        },
+        {
+          "text": "Detectar la presencia de gases t\u00f3xicos en el frente de avance.",
+          "isCorrect": false,
+          "rationale": "La detecci\u00f3n de gases se hace con sensores qu\u00edmicos espec\u00edficos, no con tecnolog\u00eda de radar geomec\u00e1nico."
+        },
+        {
+          "text": "Medir la profundidad exacta de los taladros de voladura.",
+          "isCorrect": false,
+          "rationale": "El radar centinela monitorea la estabilidad de la pared, no los detalles del proceso de perforaci\u00f3n."
+        },
+        {
+          "text": "Guiar a los equipos aut\u00f3nomos de acarreo por las rampas.",
+          "isCorrect": false,
+          "rationale": "Aunque existen radares de navegaci\u00f3n, los 'centinelas' geomec\u00e1nicos est\u00e1n enfocados en la integridad de la roca."
+        }
+      ],
+      "hint": "Su nombre sugiere vigilancia constante sobre la estabilidad f\u00edsica de las paredes."
+    },
+    {
+      "question": "En el contexto de modelamiento num\u00e9rico, \u00bfqu\u00e9 significa la frase 'Garbage in, garbage out'?",
+      "answerOptions": [
+        {
+          "text": "Que el modelo solo ser\u00e1 tan bueno como la calidad de los datos de campo que recibe.",
+          "isCorrect": true,
+          "rationale": "Incluso con el software m\u00e1s avanzado, datos de entrada mediocres o sesgados producir\u00e1n dise\u00f1os peligrosos."
+        },
+        {
+          "text": "Que los residuos de la excavaci\u00f3n deben sacarse r\u00e1pido para no alterar el modelo.",
+          "isCorrect": false,
+          "rationale": "Esta frase es un principio de inform\u00e1tica y modelamiento, no una instrucci\u00f3n sobre limpieza de escombros."
+        },
+        {
+          "text": "Que el software antiguo debe desecharse para usar versiones m\u00e1s modernas.",
+          "isCorrect": false,
+          "rationale": "Se refiere a la integridad de los datos de entrada, no a la obsolescencia del hardware o software en s\u00ed."
+        },
+        {
+          "text": "Que la roca de mala calidad ('basura') siempre causa que el software falle.",
+          "isCorrect": false,
+          "rationale": "El software puede modelar roca de mala calidad correctamente siempre que los par\u00e1metros ingresados sean precisos."
+        }
+      ],
+      "hint": "Relaciona la calidad de la informaci\u00f3n inicial con la confiabilidad del resultado final."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Esfuerzos in situ y carga litost\u00e1tica",
+      "Comportamiento mec\u00e1nico y deformaci\u00f3n de la roca",
+      "M\u00e9todos de medici\u00f3n de esfuerzos (Directos e Indirectos)",
+      "Modelamiento num\u00e9rico y criterios de rotura",
+      "Dise\u00f1o de sostenimiento y factor de seguridad"
+    ],
+    "followUp": [
+      "Clasificaciones geomec\u00e1nicas detalladas (RMR vs Q)",
+      "An\u00e1lisis din\u00e1mico de estallidos de roca (Rockbursts)",
+      "Instrumentaci\u00f3n avanzada con fibra \u00f3ptica y sismicidad inducida",
+      "Comparativa t\u00e9cnica entre software FEM y DEM en miner\u00eda profunda",
+      "Procedimientos de estabilizaci\u00f3n en intersecciones de gran luz"
+    ]
+  }
+}

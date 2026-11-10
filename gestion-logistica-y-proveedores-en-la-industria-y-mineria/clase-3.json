@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de transitar de un modelo de almac\u00e9n reactivo a una estrategia proactiva basada en datos en la industria extractiva?",
+      "answerOptions": [
+        {
+          "text": "Mitigar el riesgo sist\u00e9mico y asegurar la eficiencia del capital inmovilizado.",
+          "isCorrect": true,
+          "rationale": "Una gesti\u00f3n proactiva utiliza modelos probabil\u00edsticos para reducir la incertidumbre y optimizar el uso de los recursos financieros."
+        },
+        {
+          "text": "Aumentar el volumen f\u00edsico de almacenamiento para prevenir cualquier escasez.",
+          "isCorrect": false,
+          "rationale": "El objetivo no es tener m\u00e1s inventario, sino tener el inventario justo y necesario mediante precisi\u00f3n matem\u00e1tica."
+        },
+        {
+          "text": "Reducir la dependencia de los sistemas inform\u00e1ticos corporativos como SAP.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la estrategia proactiva requiere la integraci\u00f3n total de ecosistemas digitales para el an\u00e1lisis de datos."
+        },
+        {
+          "text": "Eliminar por completo el uso de proveedores extranjeros en la cadena de suministro.",
+          "isCorrect": false,
+          "rationale": "La estrategia busca sincronizaci\u00f3n, lo cual incluye una gesti\u00f3n inteligente de proveedores tanto locales como extranjeros."
+        }
+      ],
+      "hint": "Se busca proteger la rentabilidad y la continuidad operativa frente a la incertidumbre."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor define principalmente la naturaleza de un inventario minero y condiciona el ciclo de vida de sus activos f\u00edsicos?",
+      "answerOptions": [
+        {
+          "text": "La agresividad del entorno operativo y las jornadas de trabajo de $24/7$.",
+          "isCorrect": true,
+          "rationale": "El ritmo fren\u00e9tico y las condiciones hostiles imponen un desgaste prematuro que exige una vigilancia anal\u00edtica constante."
+        },
+        {
+          "text": "La fluctuaci\u00f3n diaria del precio de las acciones de la empresa en la bolsa.",
+          "isCorrect": false,
+          "rationale": "Aunque las finanzas importan, el ciclo de vida t\u00e9cnico depende directamente del entorno de operaci\u00f3n f\u00edsica."
+        },
+        {
+          "text": "La ubicaci\u00f3n geogr\u00e1fica de las oficinas administrativas centrales.",
+          "isCorrect": false,
+          "rationale": "El desgaste ocurre en el yacimiento, no en las sedes administrativas lejanas a la operaci\u00f3n."
+        },
+        {
+          "text": "El n\u00famero de empleados administrativos contratados anualmente.",
+          "isCorrect": false,
+          "rationale": "El inventario se define por los requerimientos t\u00e9cnicos de la maquinaria pesada frente al entorno hostil."
+        }
+      ],
+      "hint": "Piense en las condiciones de uso de la maquinaria pesada en el campo."
+    },
+    {
+      "question": "Al cruzar las m\u00e9tricas $MTBF$ y $MTTR$, \u00bfqu\u00e9 capacidad fundamental adquiere la gesti\u00f3n log\u00edstica?",
+      "answerOptions": [
+        {
+          "text": "Predecir el futuro operativo de la m\u00e1quina y prevenir paradas no programadas.",
+          "isCorrect": true,
+          "rationale": "Estos indicadores permiten calcular el momento exacto para el reemplazo de piezas antes de que ocurra una falla."
+        },
+        {
+          "text": "Calcular autom\u00e1ticamente el precio de venta final del concentrado de cobre.",
+          "isCorrect": false,
+          "rationale": "Estas m\u00e9tricas son de confiabilidad t\u00e9cnica y mantenimiento, no de valoraci\u00f3n comercial de mercado."
+        },
+        {
+          "text": "Determinar la cantidad de explosivos necesarios por tonelada de roca.",
+          "isCorrect": false,
+          "rationale": "El c\u00e1lculo de explosivos es una m\u00e9trica de proceso de voladura, no de confiabilidad de maquinaria."
+        },
+        {
+          "text": "Eliminar la necesidad de contar con personal t\u00e9cnico especializado en reparaciones.",
+          "isCorrect": false,
+          "rationale": "La predicci\u00f3n ayuda a planificar el trabajo del personal, pero no reemplaza su labor t\u00e9cnica."
+        }
+      ],
+      "hint": "Considere qu\u00e9 permite hacer el conocimiento del tiempo entre fallas y el tiempo de reparaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el ahorro proyectado en costos operativos al realizar el reemplazo de piezas justo antes de alcanzar el umbral de falla t\u00e9cnica?",
+      "answerOptions": [
+        {
+          "text": "$26\\%$",
+          "isCorrect": true,
+          "rationale": "Anticiparse al fallo mediante precisi\u00f3n matem\u00e1tica genera un impacto financiero significativo de m\u00e1s de un cuarto de los costos."
+        },
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje subestima el impacto real demostrado por el modelado probabil\u00edstico en operaciones de gran escala."
+        },
+        {
+          "text": "$46\\%$",
+          "isCorrect": false,
+          "rationale": "Este valor se asocia con el consumo de cobre de China, no con el ahorro por mantenimiento predictivo."
+        },
+        {
+          "text": "$77\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje corresponde a la demanda insatisfecha a nivel global en el mercado minero."
+        }
+      ],
+      "hint": "Es un porcentaje superior al cuarto de los costos pero inferior al tercio."
+    },
+    {
+      "question": "En el modelo de cantidad \u00f3ptima de pedido ($EOQ$), \u00bfqu\u00e9 representa la variable $K$?",
+      "answerOptions": [
+        {
+          "text": "El costo de preparaci\u00f3n, incluyendo gastos administrativos y operativos de cada orden.",
+          "isCorrect": true,
+          "rationale": "La variable $K$ agrupa todos los costos fijos asociados al proceso de realizar un pedido."
+        },
+        {
+          "text": "El volumen de demanda proyectada de los insumos en un tiempo dado.",
+          "isCorrect": false,
+          "rationale": "La demanda proyectada se representa con la variable $D$ en la f\u00f3rmula base."
+        },
+        {
+          "text": "El costo de retenci\u00f3n o mantenimiento de las piezas en el almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "El costo de retenci\u00f3n, que incluye seguros y capital inmovilizado, se representa con la letra $H$."
+        },
+        {
+          "text": "El punto de reorden calculado mediante integrales de distribuci\u00f3n normal.",
+          "isCorrect": false,
+          "rationale": "El punto de reorden se identifica generalmente con la letra $R$ y es un resultado del modelo, no la variable $K$."
+        }
+      ],
+      "hint": "Piense en los costos que se generan cada vez que se procesa administrativamente un pedido."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es necesario integrar la variable $P$ (costo de faltante) en el modelo de inventarios de operaciones como Southern Copper?",
+      "answerOptions": [
+        {
+          "text": "Debido a la magnitud de la demanda insatisfecha que un modelo determin\u00edstico no puede manejar.",
+          "isCorrect": true,
+          "rationale": "Cuando hay una demanda insatisfecha masiva, el costo de no tener el producto debe ser cuantificado para equilibrar el sistema."
+        },
+        {
+          "text": "Para reducir artificialmente el valor de los activos en los estados financieros.",
+          "isCorrect": false,
+          "rationale": "El modelo busca optimizaci\u00f3n operativa y realismo matem\u00e1tico, no manipulaci\u00f3n contable."
+        },
+        {
+          "text": "Porque el costo de retenci\u00f3n ($H$) es siempre igual a cero en la miner\u00eda de cobre.",
+          "isCorrect": false,
+          "rationale": "El costo de retenci\u00f3n nunca es cero; de hecho, consume entre el $20\\%$ y $30\\%$ del valor de las existencias."
+        },
+        {
+          "text": "Para cumplir \u00fanicamente con las normativas ambientales de la $OEFA$.",
+          "isCorrect": false,
+          "rationale": "Aunque el cumplimiento es vital, la variable $P$ en el $EOQ$ responde a una necesidad de optimizaci\u00f3n econ\u00f3mica y de suministro."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede cuando un sistema b\u00e1sico colapsa ante un volumen monumental de pedidos no atendidos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje del consumo mundial de cobre est\u00e1 concentrado en China?",
+      "answerOptions": [
+        {
+          "text": "$46\\%$",
+          "isCorrect": true,
+          "rationale": "China es el actor dominante cuya demanda masiva influye directamente en las cadenas de suministro globales."
+        },
+        {
+          "text": "$77\\%$",
+          "isCorrect": false,
+          "rationale": "Esta cifra representa el nivel de demanda insatisfecha a nivel global, no el consumo de un solo pa\u00eds."
+        },
+        {
+          "text": "$26\\%$",
+          "isCorrect": false,
+          "rationale": "Este es el ahorro en costos operativos mencionado en el an\u00e1lisis de mantenimiento predictivo."
+        },
+        {
+          "text": "$95\\%$",
+          "isCorrect": false,
+          "rationale": "Este valor es la meta de excelencia para el nivel de servicio en la entrega de materiales."
+        }
+      ],
+      "hint": "Es casi la mitad del mercado global."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del indicador $ERI$ (Exactitud del Registro de Inventario)?",
+      "answerOptions": [
+        {
+          "text": "Comparar la existencia f\u00edsica en las repisas frente a lo registrado en el sistema inform\u00e1tico.",
+          "isCorrect": true,
+          "rationale": "Un $ERI$ alto garantiza que los c\u00e1lculos matem\u00e1ticos avanzados se realicen sobre datos reales y no falsos."
+        },
+        {
+          "text": "Medir la velocidad con la que se consume y repone el stock en el almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "La velocidad de reposici\u00f3n es el objetivo de la m\u00e9trica de 'Rotaci\u00f3n de Inventarios', no del $ERI$."
+        },
+        {
+          "text": "Evaluar la calidad qu\u00edmica de los concentrados antes de ser exportados.",
+          "isCorrect": false,
+          "rationale": "La calidad del mineral se mide en laboratorios metal\u00fargicos, no mediante el registro de exactitud de almac\u00e9n."
+        },
+        {
+          "text": "Calcular el tiempo medio que tarda un proveedor extranjero en entregar un pedido.",
+          "isCorrect": false,
+          "rationale": "Ese indicador se conoce como Lead Time y no es lo que mide el $ERI$."
+        }
+      ],
+      "hint": "Piense en la concordancia entre el mundo f\u00edsico y el mundo digital."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el est\u00e1ndar de excelencia mundial para el nivel de servicio en la entrega de materiales cr\u00edticos en miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "$95\\%$",
+          "isCorrect": true,
+          "rationale": "Entregar a tiempo el $95\\%$ de las veces asegura que la maquinaria nunca se detenga sin incurrir en compras indiscriminadas."
+        },
+        {
+          "text": "$100\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es ideal, un $100\\%$ constante suele ser econ\u00f3micamente inviable por los alt\u00edsimos costos de inventario que requerir\u00eda."
+        },
+        {
+          "text": "$75\\%$",
+          "isCorrect": false,
+          "rationale": "Un $75\\%$ se considera bajo para una industria donde las paradas no programadas cuestan millones."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "Este nivel de servicio pondr\u00eda en riesgo cr\u00edtico la continuidad de cualquier operaci\u00f3n extractiva moderna."
+        }
+      ],
+      "hint": "Es un porcentaje muy alto que representa la 'meta de oro' en la industria."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje del valor total de las existencias consumen, en promedio, los costos de mantener el inventario?",
+      "answerOptions": [
+        {
+          "text": "Entre el $20\\%$ y el $30\\%$",
+          "isCorrect": true,
+          "rationale": "Este costo incluye el capital inmovilizado y las p\u00f3lizas de seguro, representando una tajada enorme de la liquidez."
+        },
+        {
+          "text": "Exactamente el $46\\%$",
+          "isCorrect": false,
+          "rationale": "Este valor es err\u00f3neo, ya que corresponde a la participaci\u00f3n de China en la demanda de cobre."
+        },
+        {
+          "text": "Menos del $5\\%$",
+          "isCorrect": false,
+          "rationale": "Subestimar estos costos puede drenar la solvencia de la empresa, ya que el mantenimiento de stock es significativamente m\u00e1s caro."
+        },
+        {
+          "text": "Alrededor del $77\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es demasiado alto para costos de mantenimiento; se refiere a la demanda insatisfecha global."
+        }
+      ],
+      "hint": "Es una fracci\u00f3n significativa que oscila entre un quinto y casi un tercio del valor."
+    },
+    {
+      "question": "En la etapa de transporte, \u00bfcu\u00e1l es la m\u00e9trica vital para auditar la eficiencia operativa?",
+      "answerOptions": [
+        {
+          "text": "Galones de combustible quemados por tonelada-kil\u00f3metro recorrida.",
+          "isCorrect": true,
+          "rationale": "Esta m\u00e9trica permite medir con precisi\u00f3n el costo energ\u00e9tico del movimiento de material a gran escala."
+        },
+        {
+          "text": "Kilogramos de explosivos utilizados por tonelada de roca fragmentada.",
+          "isCorrect": false,
+          "rationale": "Este es el indicador clave de la fase de voladura, no del transporte."
+        },
+        {
+          "text": "Consumo de barras de acero por tonelada de mineral tratado.",
+          "isCorrect": false,
+          "rationale": "Esta m\u00e9trica corresponde al proceso de molienda en la planta."
+        },
+        {
+          "text": "Gramos de cianuro de sodio por onza de oro producida.",
+          "isCorrect": false,
+          "rationale": "Es un indicador de la fase de extracci\u00f3n qu\u00edmica o lixiviaci\u00f3n."
+        }
+      ],
+      "hint": "Relacione el consumo de energ\u00eda con la carga y la distancia."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta metodol\u00f3gica se emplea para categorizar suministros y diferenciar productos estrat\u00e9gicos de suministros que representan cuellos de botella?",
+      "answerOptions": [
+        {
+          "text": "Matriz de Kraljic",
+          "isCorrect": true,
+          "rationale": "La matriz de Kraljic permite organizar los suministros seg\u00fan su impacto y complejidad para garantizar un flujo impecable."
+        },
+        {
+          "text": "Modelo $EOQ$ b\u00e1sico",
+          "isCorrect": false,
+          "rationale": "El $EOQ$ determina cu\u00e1nto pedir, pero no categoriza la importancia estrat\u00e9gica del producto."
+        },
+        {
+          "text": "Diagrama de flujo de $SAP$ $MM$",
+          "isCorrect": false,
+          "rationale": "Aunque $SAP$ $MM$ gestiona compras, la categorizaci\u00f3n estrat\u00e9gica es una funci\u00f3n del an\u00e1lisis de Kraljic."
+        },
+        {
+          "text": "M\u00e9trica $MTTR$",
+          "isCorrect": false,
+          "rationale": "El $MTTR$ mide el tiempo de reparaci\u00f3n y es una m\u00e9trica de mantenimiento, no de categorizaci\u00f3n de suministros."
+        }
+      ],
+      "hint": "Es una matriz cl\u00e1sica utilizada en compras para evaluar el riesgo y el impacto en el negocio."
+    },
+    {
+      "question": "Dentro de la estrategia de aprovisionamiento de dos pasos, \u00bfpara qu\u00e9 tipo de suministros se prioriza a los proveedores nacionales?",
+      "answerOptions": [
+        {
+          "text": "Para todo aquello que sea de alta rotaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Los proveedores locales permiten un abastecimiento r\u00e1pido y evitan demoras en aduanas internacionales para insumos constantes."
+        },
+        {
+          "text": "Exclusivamente para maquinaria de alta complejidad t\u00e9cnica que no se fabrica localmente.",
+          "isCorrect": false,
+          "rationale": "La maquinaria especializada extranjera es el objetivo del paso dos de la estrategia (contratos directos externos)."
+        },
+        {
+          "text": "Solo para el suministro de explosivos y polvorines.",
+          "isCorrect": false,
+          "rationale": "Los explosivos tienen su propio manejo, pero la prioridad nacional aplica a toda la alta rotaci\u00f3n para mitigar Lead Times."
+        },
+        {
+          "text": "Para el traslado del concentrado hacia los puertos de exportaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Eso forma parte de la distribuci\u00f3n externa y log\u00edstica de salida, no del aprovisionamiento de insumos."
+        }
+      ],
+      "hint": "Piense en materiales que se necesitan constantemente y con rapidez."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el requisito t\u00e9cnico principal para las instalaciones destinadas a resguardar explosivos (polvorines)?",
+      "answerOptions": [
+        {
+          "text": "Estructuras incombustibles con sistemas de ventilaci\u00f3n muy especializados.",
+          "isCorrect": true,
+          "rationale": "La ingenier\u00eda busca prevenir fallos t\u00e9rmicos que podr\u00edan alterar la geograf\u00eda del lugar debido a una explosi\u00f3n accidental."
+        },
+        {
+          "text": "Tanques de acero inoxidable para evitar la corrosi\u00f3n qu\u00edmica.",
+          "isCorrect": false,
+          "rationale": "El acero inoxidable es el requerimiento para reactivos qu\u00edmicos y \u00e1cidos, no para los polvorines de explosivos."
+        },
+        {
+          "text": "Silos herm\u00e9ticos que protejan el material de la humedad exterior.",
+          "isCorrect": false,
+          "rationale": "Los silos se utilizan para el mineral extra\u00eddo, no para el almacenamiento de explosivos."
+        },
+        {
+          "text": "Ubicaci\u00f3n exclusiva en puertos de exportaci\u00f3n para facilitar el despacho.",
+          "isCorrect": false,
+          "rationale": "Los polvorines deben estar cerca del frente de trabajo (mina) para su uso operativo diario."
+        }
+      ],
+      "hint": "La prioridad es evitar incendios y controlar la temperatura."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia a la 'distribuci\u00f3n externa' de la 'distribuci\u00f3n interna' en una operaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "La externa traslada el concentrado de alto valor a los puertos; la interna mueve insumos a los frentes de trabajo.",
+          "isCorrect": true,
+          "rationale": "La distribuci\u00f3n externa es como una arteria principal de gran valor, mientras que la interna es un flujo capilar hacia el tajeo."
+        },
+        {
+          "text": "La distribuci\u00f3n externa se hace por fajas transportadoras; la interna por camiones articulados.",
+          "isCorrect": false,
+          "rationale": "Ambas pueden usar diversos medios, pero su diferencia radica en el destino (puerto vs. frente de trabajo) y el tipo de carga."
+        },
+        {
+          "text": "La externa no requiere protocolos de seguridad; la interna es de m\u00e1xima seguridad.",
+          "isCorrect": false,
+          "rationale": "Ambas son cr\u00edticas, pero la externa tiene protocolos estrictos como $VASC$ debido al valor comercial del concentrado refinado."
+        },
+        {
+          "text": "La externa se mide en $MTBF$; la interna se mide en $MTTR$.",
+          "isCorrect": false,
+          "rationale": "Estas son m\u00e9tricas de mantenimiento de maquinaria, no categor\u00edas de distribuci\u00f3n log\u00edstica."
+        }
+      ],
+      "hint": "Piense en el origen y el destino de los materiales y el producto final."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito fundamental de utilizar precintos de seguridad y certificaciones como $VASC$ en el transporte de concentrados?",
+      "answerOptions": [
+        {
+          "text": "Prevenir la contaminaci\u00f3n de la carga y evitar el robo sistem\u00e1tico.",
+          "isCorrect": true,
+          "rationale": "Dado que el concentrado vale millones de d\u00f3lares, estos 'escudos corporativos' protegen la rentabilidad final."
+        },
+        {
+          "text": "Acelerar el proceso de lixiviaci\u00f3n durante el trayecto al puerto.",
+          "isCorrect": false,
+          "rationale": "El transporte no es una etapa de procesamiento qu\u00edmico; su fin es log\u00edstico y de custodia."
+        },
+        {
+          "text": "Reducir el consumo de combustible de los camiones de carga.",
+          "isCorrect": false,
+          "rationale": "La seguridad y los precintos no tienen impacto directo en la eficiencia termodin\u00e1mica del motor."
+        },
+        {
+          "text": "Cumplir con las normativas de ventilaci\u00f3n de los polvorines subterr\u00e1neos.",
+          "isCorrect": false,
+          "rationale": "Los precintos $VASC$ se aplican al transporte externo, no a la ventilaci\u00f3n de almacenes de explosivos."
+        }
+      ],
+      "hint": "Se trata de proteger el valor econ\u00f3mico del producto terminado durante su trayecto por rutas desoladas."
+    },
+    {
+      "question": "Dentro del ecosistema $SAP$, \u00bfcu\u00e1l es la funci\u00f3n espec\u00edfica del m\u00f3dulo $PP$ (Production Planning)?",
+      "answerOptions": [
+        {
+          "text": "Alinear el inventario f\u00edsico con el plan de minado diario.",
+          "isCorrect": true,
+          "rationale": "El m\u00f3dulo $PP$ asegura que los suministros est\u00e9n disponibles seg\u00fan las necesidades de extracci\u00f3n programadas."
+        },
+        {
+          "text": "Asumir el control total de las compras y stocks en las bodegas.",
+          "isCorrect": false,
+          "rationale": "El control de compras y stocks es responsabilidad del m\u00f3dulo $MM$ (Materials Management)."
+        },
+        {
+          "text": "Monitorear el impacto de los movimientos de inventario en los estados financieros.",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n de monitoreo financiero y de costos corresponde al m\u00f3dulo $FI/CO$."
+        },
+        {
+          "text": "Gestionar las etiquetas de radiofrecuencia $RFID$ en el almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "El $RFID$ suele integrarse con el $WMS$ (Warehouse Management System) m\u00e1s que ser una funci\u00f3n nativa central del m\u00f3dulo $PP$."
+        }
+      ],
+      "hint": "Considere c\u00f3mo se sincroniza el stock con la actividad de producci\u00f3n de la mina."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio directo aporta la integraci\u00f3n de etiquetas $RFID$ y sistemas $WMS$ en almacenes mineros?",
+      "answerOptions": [
+        {
+          "text": "Reducir tiempos de despacho y eliminar el error humano en la ubicaci\u00f3n de art\u00edculos ($SKU$).",
+          "isCorrect": true,
+          "rationale": "La automatizaci\u00f3n permite conocer la ubicaci\u00f3n exacta en tiempo real, vital en operaciones donde la inactividad es costosa."
+        },
+        {
+          "text": "Aumentar la dureza de las barras de acero utilizadas en la molienda.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda de trazabilidad log\u00edstica no altera las propiedades metal\u00fargicas de los insumos."
+        },
+        {
+          "text": "Sustituir la necesidad de realizar mantenimientos preventivos en las chancadoras.",
+          "isCorrect": false,
+          "rationale": "La trazabilidad mejora el suministro de repuestos, pero no elimina el desgaste f\u00edsico de las m\u00e1quinas."
+        },
+        {
+          "text": "Eliminar la dependencia del cobre como principal producto de exportaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda log\u00edstica optimiza la operaci\u00f3n, pero no cambia el modelo de negocio extractivo de la empresa."
+        }
+      ],
+      "hint": "Piense en la facilidad para encontrar y mover piezas cr\u00edticas en almacenes gigantescos."
+    },
+    {
+      "question": "En el contexto del monitoreo de hardware, \u00bfqu\u00e9 permiten hacer plataformas como las de Rockwell Automation?",
+      "answerOptions": [
+        {
+          "text": "Supervisar minuto a minuto el estado, temperatura y desgaste de motores y fajas.",
+          "isCorrect": true,
+          "rationale": "El monitoreo constante fundamenta las alertas predictivas para evitar paradas catastr\u00f3ficas."
+        },
+        {
+          "text": "Automatizar la contrataci\u00f3n de proveedores extranjeros sin intervenci\u00f3n humana.",
+          "isCorrect": false,
+          "rationale": "Estas plataformas se enfocan en el estado f\u00edsico de la maquinaria, no en procesos administrativos de compra."
+        },
+        {
+          "text": "Calcular la distribuci\u00f3n normal de la demanda de concentrados en China.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis de mercado macroecon\u00f3mico es externo a los sistemas de supervisi\u00f3n de hardware en planta."
+        },
+        {
+          "text": "Reemplazar el uso de acero inoxidable en los tanques de reactivos qu\u00edmicos.",
+          "isCorrect": false,
+          "rationale": "El monitoreo no cambia los requisitos de materiales de construcci\u00f3n dictados por la ingenier\u00eda qu\u00edmica."
+        }
+      ],
+      "hint": "Se trata de vigilar el 'latido' de los equipos cr\u00edticos en la planta de procesamiento."
+    },
+    {
+      "question": "\u00bfDe qu\u00e9 depende el \u00e9xito futuro de una operaci\u00f3n minera, m\u00e1s all\u00e1 del potencial geol\u00f3gico del yacimiento?",
+      "answerOptions": [
+        {
+          "text": "De la resiliencia y optimizaci\u00f3n de su cadena de suministro.",
+          "isCorrect": true,
+          "rationale": "La capacidad de mantener la operaci\u00f3n $24/7$ mediante una log\u00edstica t\u00e9cnica y enfocada en datos es el nuevo diferenciador competitivo."
+        },
+        {
+          "text": "\u00danicamente del precio internacional del oro y el cobre en un momento dado.",
+          "isCorrect": false,
+          "rationale": "Aunque el precio influye, la rentabilidad se juega en la eficiencia operativa interna y el control de costos."
+        },
+        {
+          "text": "De la eliminaci\u00f3n total de todas las normativas de la $OEFA$ y $OSINERMIN$.",
+          "isCorrect": false,
+          "rationale": "El cumplimiento normativo es uno de los pilares de la excelencia log\u00edstica y no algo que deba eliminarse."
+        },
+        {
+          "text": "Del regreso a m\u00e9todos de registro manual en planillas de papel para mayor control.",
+          "isCorrect": false,
+          "rationale": "La digitalizaci\u00f3n es irreversible; volver a lo manual aumentar\u00eda el error y la ineficiencia."
+        }
+      ],
+      "hint": "Piense en la capacidad de la mina para resistir fluctuaciones y operar sin interrupciones."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gesti\u00f3n estrat\u00e9gica de suministros",
+      "Modelado probabil\u00edstico y EOQ",
+      "M\u00e9tricas de confiabilidad (MTBF y MTTR)",
+      "KPIs de control de inventarios",
+      "Infraestructura log\u00edstica y almacenamiento"
+    ],
+    "followUp": [
+      "Impacto de la demanda de China en el mercado del cobre",
+      "Implementaci\u00f3n del ecosistema SAP en operaciones extractivas",
+      "Protocolos de seguridad en el transporte de concentrados",
+      "Optimizaci\u00f3n de costos mediante mantenimiento preventivo"
+    ]
+  }
+}

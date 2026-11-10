@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n estrat\u00e9gica central de la log\u00edstica en el contexto de la miner\u00eda global?",
+      "answerOptions": [
+        {
+          "text": "Actuar como el coraz\u00f3n del ecosistema para garantizar la continuidad operativa en entornos extremos.",
+          "isCorrect": true,
+          "rationale": "La log\u00edstica integra el presupuesto con la operaci\u00f3n t\u00e1ctica para evitar detenciones en frentes de trabajo cr\u00edticos."
+        },
+        {
+          "text": "Funcionar como un \u00e1rea de soporte secundario enfocada exclusivamente en la reducci\u00f3n de costos administrativos.",
+          "isCorrect": false,
+          "rationale": "Esta visi\u00f3n es err\u00f3nea ya que ignora la sensibilidad de la industria a las fluctuaciones del mercado y la complejidad f\u00edsica de la operaci\u00f3n."
+        },
+        {
+          "text": "Administrar \u00fanicamente el flujo de salida de minerales hacia los mercados internacionales.",
+          "isCorrect": false,
+          "rationale": "La log\u00edstica minera es integral y abarca desde la importaci\u00f3n de tecnolog\u00eda hasta el soporte de cada componente en el terreno."
+        },
+        {
+          "text": "Limitarse a la gesti\u00f3n de inventarios de oficina y suministros de limpieza del campamento.",
+          "isCorrect": false,
+          "rationale": "El alcance real incluye componentes cr\u00edticos de alta complejidad y maquinaria pesada indispensable para la extracci\u00f3n."
+        }
+      ],
+      "hint": "Considere la importancia de la log\u00edstica para la supervivencia del negocio ante la volatilidad global."
+    },
+    {
+      "question": "En la arquitectura tecnol\u00f3gica de una mina, \u00bfqu\u00e9 rol cumple un sistema ERP?",
+      "answerOptions": [
+        {
+          "text": "Es una herramienta b\u00e1sica de contabilidad para registros hist\u00f3ricos de gastos.",
+          "isCorrect": false,
+          "rationale": "Un ERP en miner\u00eda va mucho m\u00e1s all\u00e1 de un registro contable b\u00e1sico, siendo el motor de la trazabilidad."
+        },
+        {
+          "text": "Es la columna vertebral digital que garantiza la trazabilidad y sincronizaci\u00f3n entre procura, finanzas y operaciones.",
+          "isCorrect": true,
+          "rationale": "Permite que diversas \u00e1reas que antes trabajaban de forma aislada fluyan sin fricciones en una plataforma unificada."
+        },
+        {
+          "text": "Funciona exclusivamente como una base de datos en la nube para almacenar manuales de seguridad.",
+          "isCorrect": false,
+          "rationale": "Si bien almacena datos, su funci\u00f3n principal es algor\u00edtmica para generar documentaci\u00f3n y coordinar negociaciones internacionales."
+        },
+        {
+          "text": "Es un software opcional utilizado solo cuando la operaci\u00f3n minera decide exportar minerales.",
+          "isCorrect": false,
+          "rationale": "En el sector minero moderno, operar sin un ERP es impensable debido a las exigencias de auditor\u00eda y precisi\u00f3n operativa."
+        }
+      ],
+      "hint": "Piense en el sistema que conecta las oficinas corporativas con la profundidad de la mina."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica distingue a SAP de otros sistemas como SPR o GEDAL en la industria pesada?",
+      "answerOptions": [
+        {
+          "text": "Su enfoque exclusivo en el manejo de transacciones bancarias y ventas a gran escala.",
+          "isCorrect": false,
+          "rationale": "Esa es la especialidad de plataformas como DBS, no el enfoque principal de SAP."
+        },
+        {
+          "text": "Su dise\u00f1o a medida para empresas que solo necesitan agilidad en el flujo de documentos extranjeros.",
+          "isCorrect": false,
+          "rationale": "Sistemas de nicho como SPR y GEDAL son los que est\u00e1n dise\u00f1ados espec\u00edficamente para cuellos de botella documentales."
+        },
+        {
+          "text": "Su capacidad para ofrecer control de costos y visibilidad de activos en tiempo real desde la mina hasta la corporaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "SAP es considerado el est\u00e1ndar de oro por su potencia transaccional masiva e integraci\u00f3n total de la cadena de valor."
+        },
+        {
+          "text": "Su estructura simplificada para operaciones mineras de baja complejidad y presupuesto limitado.",
+          "isCorrect": false,
+          "rationale": "SAP se ubica en la cima absoluta de complejidad y es la herramienta preferida para operaciones de gran envergadura."
+        }
+      ],
+      "hint": "Recuerde cu\u00e1l es el sistema que integra el 'fondo de la mina' con el nivel corporativo."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el concepto de 'bench learning' aplicado a la expansi\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "En imitar las estrategias de competidores directos dentro del mismo sector extractivo.",
+          "isCorrect": false,
+          "rationale": "El bench learning se caracteriza por buscar mejores pr\u00e1cticas en industrias totalmente ajenas a la propia."
+        },
+        {
+          "text": "En observar industrias distintas, como el retail de moda r\u00e1pida, para adaptar sus principios de agilidad y log\u00edstica centralizada.",
+          "isCorrect": true,
+          "rationale": "La miner\u00eda moderna copia modelos como el de Inditex para mantener rotaciones r\u00e1pidas y procesos estandarizados globalmente."
+        },
+        {
+          "text": "En realizar estudios geogr\u00e1ficos profundos antes de comprar maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "Esto es parte de la planificaci\u00f3n t\u00e9cnica, pero no define el concepto de aprendizaje cruzado entre industrias."
+        },
+        {
+          "text": "En capacitar al personal local siguiendo \u00fanicamente los manuales internos del fabricante del equipo.",
+          "isCorrect": false,
+          "rationale": "El bench learning es una t\u00e9cnica de gesti\u00f3n estrat\u00e9gica, no solo un proceso de capacitaci\u00f3n t\u00e9cnica operativa."
+        }
+      ],
+      "hint": "Piense en la analog\u00eda entre la extracci\u00f3n de minerales y la venta de camisetas de marcas como Zara."
+    },
+    {
+      "question": "De acuerdo con el modelo Uppsala, \u00bfc\u00f3mo debe una empresa minera abordar la entrada a nuevos mercados extranjeros?",
+      "answerOptions": [
+        {
+          "text": "Realizando una inversi\u00f3n masiva inmediata para dominar el mercado local desde el primer d\u00eda.",
+          "isCorrect": false,
+          "rationale": "El modelo Uppsala aboga por lo contrario: una entrada gradual para mitigar riesgos y aprender del entorno."
+        },
+        {
+          "text": "Iniciando operaciones en pa\u00edses con la mayor distancia cultural y geogr\u00e1fica posible para diversificar el riesgo.",
+          "isCorrect": false,
+          "rationale": "El modelo sugiere comenzar por mercados cercanos y similares para reducir la incertidumbre legal y operativa."
+        },
+        {
+          "text": "Mediante una entrada estrat\u00e9gica y gradual basada en la cercan\u00eda geogr\u00e1fica y la similitud cultural.",
+          "isCorrect": true,
+          "rationale": "Este enfoque permite tantear el terreno paso a paso, midiendo la inversi\u00f3n y bajando los riesgos geopol\u00edticos y legales."
+        },
+        {
+          "text": "Utilizando \u00fanicamente contratos de outsourcing total para evitar cualquier presencia f\u00edsica en el nuevo pa\u00eds.",
+          "isCorrect": false,
+          "rationale": "Aunque el outsourcing existe, el modelo Uppsala se centra en el proceso de internacionalizaci\u00f3n corporativa gradual."
+        }
+      ],
+      "hint": "Reflexione sobre la importancia de no 'saltar al vac\u00edo' en jurisdicciones vol\u00e1tiles."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la relaci\u00f3n directa entre el dise\u00f1o de un almac\u00e9n minero ($layout$) y el sistema ERP?",
+      "answerOptions": [
+        {
+          "text": "El dise\u00f1o f\u00edsico es independiente del software y depende solo del tama\u00f1o del terreno disponible.",
+          "isCorrect": false,
+          "rationale": "El layout debe ser la representaci\u00f3n f\u00edsica de la l\u00f3gica del ERP para ser eficiente."
+        },
+        {
+          "text": "El dise\u00f1o debe asegurar que las piezas cr\u00edticas identificadas por el ERP sean accesibles en segundos.",
+          "isCorrect": true,
+          "rationale": "La sincronizaci\u00f3n entre software y concreto garantiza que no existan bloqueos para insumos que evitan paradas de planta."
+        },
+        {
+          "text": "El ERP solo registra las entradas y salidas, pero no influye en la ubicaci\u00f3n f\u00edsica de los repuestos.",
+          "isCorrect": false,
+          "rationale": "La criticidad de los materiales definida en el sistema manda sobre c\u00f3mo se construye y organiza el campamento real."
+        },
+        {
+          "text": "El layout se dise\u00f1a para maximizar el espacio de almacenamiento sin considerar la velocidad de despacho.",
+          "isCorrect": false,
+          "rationale": "Priorizar el espacio sobre la accesibilidad de piezas cr\u00edticas puede causar p\u00e9rdidas millonarias si se detiene la operaci\u00f3n."
+        }
+      ],
+      "hint": "Considere la importancia de la 'mentalidad del ERP' reflejada en el mundo real."
+    },
+    {
+      "question": "Ante eventos geopol\u00edticos que alteran las rutas mar\u00edtimas, \u00bfcu\u00e1l es el mandato estrat\u00e9gico actual en la cadena de suministro?",
+      "answerOptions": [
+        {
+          "text": "Reducir el n\u00famero de proveedores a uno solo para obtener mejores precios por volumen.",
+          "isCorrect": false,
+          "rationale": "Depender de un solo distribuidor es considerado un suicidio operativo ante crisis globales o cierres industriales."
+        },
+        {
+          "text": "Priorizar siempre el precio nominal m\u00e1s bajo del repuesto sobre su disponibilidad inmediata.",
+          "isCorrect": false,
+          "rationale": "La disponibilidad es m\u00e1s importante que el precio, pues una planta detenida genera p\u00e9rdidas muy superiores al costo del flete."
+        },
+        {
+          "text": "Diversificar la cartera de proveedores globales para asegurar la disponibilidad de materiales cr\u00edticos.",
+          "isCorrect": true,
+          "rationale": "La diversificaci\u00f3n protege la operaci\u00f3n contra interrupciones en pa\u00edses espec\u00edficos o bloqueos en rutas comerciales."
+        },
+        {
+          "text": "Suspender las importaciones y esperar a que los costos de los fletes regresen a sus niveles normales.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda demanda recursos sin descanso; detener la cadena de suministro por costos de flete no es una opci\u00f3n viable."
+        }
+      ],
+      "hint": "Piense en las lecciones dejadas por conflictos internacionales y cierres de f\u00e1bricas en China."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la fase m\u00e1s delicada en el proceso de importaci\u00f3n aduanera y por qu\u00e9?",
+      "answerOptions": [
+        {
+          "text": "La fase de cotizaci\u00f3n inicial, porque define el margen de utilidad de la compra.",
+          "isCorrect": false,
+          "rationale": "Aunque es importante, no conlleva los riesgos legales y financieros de una clasificaci\u00f3n incorrecta."
+        },
+        {
+          "text": "La verificaci\u00f3n de partidas arancelarias, pues errores de clasificaci\u00f3n pueden generar multas millonarias y retenciones.",
+          "isCorrect": true,
+          "rationale": "Clasificar mal un componente especializado puede paralizar la carga en aduanas y afectar severamente los costos."
+        },
+        {
+          "text": "El despacho f\u00edsico de la mercanc\u00eda, ya que es donde ocurre el movimiento de la carga.",
+          "isCorrect": false,
+          "rationale": "El despacho es un procedimiento operativo que fluye si las fases previas de documentaci\u00f3n se hicieron correctamente."
+        },
+        {
+          "text": "El pago de tributos, debido a que es el desembolso de efectivo m\u00e1s grande del proceso.",
+          "isCorrect": false,
+          "rationale": "El pago es el paso final mec\u00e1nico; la complejidad real reside en la determinaci\u00f3n correcta de qu\u00e9 se est\u00e1 pagando."
+        }
+      ],
+      "hint": "Piense en el impacto de clasificar err\u00f3neamente un componente de motor como una pieza de metal gen\u00e9rica."
+    },
+    {
+      "question": "\u00bfC\u00f3mo funcionan los dep\u00f3sitos aduaneros como herramienta de flexibilidad financiera?",
+      "answerOptions": [
+        {
+          "text": "Permiten evitar el pago de impuestos de forma definitiva para reducir costos operativos.",
+          "isCorrect": false,
+          "rationale": "Los impuestos no se evitan, se postergan; el uso de dep\u00f3sitos es una maniobra legal de diferimiento, no de evasi\u00f3n."
+        },
+        {
+          "text": "Permiten postergar el pago de aranceles y tributos hasta por $12$ meses, liberando la mercanc\u00eda seg\u00fan se necesite.",
+          "isCorrect": true,
+          "rationale": "Esto protege el capital de trabajo de la empresa al no tener que desembolsar todo el dinero al momento de la llegada al puerto."
+        },
+        {
+          "text": "Sirven \u00fanicamente como bodegas gratuitas proporcionadas por el Estado para mercanc\u00eda en abandono.",
+          "isCorrect": false,
+          "rationale": "Son herramientas privadas reguladas que tienen un costo, pero ofrecen ventajas en el flujo de caja."
+        },
+        {
+          "text": "Aceleran el proceso de nacionalizaci\u00f3n para que la carga llegue a la mina en menos de $24$ horas.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n no es la velocidad, sino el manejo financiero del tiempo de pago de los impuestos."
+        }
+      ],
+      "hint": "Considere la posibilidad de 'patear' los pagos de impuestos mientras la carga espera ser utilizada."
+    },
+    {
+      "question": "Dentro de la documentaci\u00f3n esencial de exportaci\u00f3n, \u00bfqu\u00e9 representa el $Bill$ $of$ $Lading$ ($BL$)?",
+      "answerOptions": [
+        {
+          "text": "Una simple lista que detalla el contenido f\u00edsico de las cajas enviadas.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n del $packing$ $list$, no del $Bill$ $of$ $Lading$."
+        },
+        {
+          "text": "Un contrato legal y t\u00edtulo valor que representa la propiedad de la carga durante el transporte mar\u00edtimo.",
+          "isCorrect": true,
+          "rationale": "Es un documento con peso legal innegociable indispensable para la nacionalizaci\u00f3n y auditor\u00eda."
+        },
+        {
+          "text": "La factura que emite la mina para cobrar por el concentrado de mineral vendido.",
+          "isCorrect": false,
+          "rationale": "La factura comercial es un documento distinto que acompa\u00f1a al $BL$ pero tiene prop\u00f3sitos contables."
+        },
+        {
+          "text": "Un certificado ambiental que garantiza que el mineral no proviene de zonas protegidas.",
+          "isCorrect": false,
+          "rationale": "Si bien hay certificados ambientales, el $BL$ se enfoca espec\u00edficamente en el contrato de transporte y posesi\u00f3n."
+        }
+      ],
+      "hint": "Recuerde uno de los componentes de la 'Sant\u00edsima Trinidad' documental del comercio exterior."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal del flujo en la log\u00edstica inversa?",
+      "answerOptions": [
+        {
+          "text": "Sigue un modelo de uno hacia muchos para la distribuci\u00f3n de equipos nuevos.",
+          "isCorrect": false,
+          "rationale": "Ese es el flujo de la log\u00edstica directa o de entrada; la inversa funciona de manera opuesta."
+        },
+        {
+          "text": "Opera bajo un flujo de muchos hacia uno, donde m\u00faltiples frentes de trabajo env\u00edan componentes a un origen central.",
+          "isCorrect": true,
+          "rationale": "En este escenario, el proveedor original a menudo asume el papel de cliente al recibir materiales para reacondicionamiento."
+        },
+        {
+          "text": "Se limita exclusivamente a la gesti\u00f3n de residuos peligrosos sin valor comercial.",
+          "isCorrect": false,
+          "rationale": "La log\u00edstica inversa busca capturar valor residual de equipos obsoletos o piezas desgastadas."
+        },
+        {
+          "text": "Es un proceso autom\u00e1tico que no requiere renegociaci\u00f3n de acuerdos comerciales iniciales.",
+          "isCorrect": false,
+          "rationale": "Exige estructurar muy bien los contratos para manejar devoluciones, garant\u00edas y rentabilidad de mermas."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo regresan los componentes desde diversos puntos de operaci\u00f3n hacia un taller central."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el beneficio financiero de registrar un sobrecosto extraordinario en puerto como gasto del periodo en lugar de capitalizarlo?",
+      "answerOptions": [
+        {
+          "text": "Aumenta artificialmente el valor de los activos en el balance general.",
+          "isCorrect": false,
+          "rationale": "Registrarlo como gasto hace lo opuesto: evita que el valor del activo se infle con costos de ineficiencia."
+        },
+        {
+          "text": "Optimiza el pago de impuestos al reducir la utilidad neta del ejercicio.",
+          "isCorrect": true,
+          "rationale": "Al declarar la p\u00e9rdida inmediatamente, se reduce la base imponible, lo cual es una maniobra maestra de gesti\u00f3n financiera."
+        },
+        {
+          "text": "Permite ocultar la ineficiencia log\u00edstica ante los auditores externos.",
+          "isCorrect": false,
+          "rationale": "No oculta nada; de hecho, requiere un sustento documental impecable para evitar problemas en una auditor\u00eda."
+        },
+        {
+          "text": "Acelera la depreciaci\u00f3n de la maquinaria pesada de forma inmediata.",
+          "isCorrect": false,
+          "rationale": "La depreciaci\u00f3n es un proceso contable distinto relacionado con la vida \u00fatil, no con el registro inicial de sobrecostos de flete."
+        }
+      ],
+      "hint": "Considere c\u00f3mo impactan los gastos inesperados en el c\u00e1lculo final de las ganancias sujetas a impuestos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es fundamental la gesti\u00f3n de muestras f\u00edsicas en el control de existencias t\u00e9cnicas?",
+      "answerOptions": [
+        {
+          "text": "Para decorar los estantes del almac\u00e9n y mejorar la presentaci\u00f3n visual.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de almacenes mineros se basa en funcionalidad y disponibilidad, no en est\u00e9tica."
+        },
+        {
+          "text": "Para asegurar la compatibilidad de piezas cr\u00edticas cuando los cat\u00e1logos o datos electr\u00f3nicos no son confiables.",
+          "isCorrect": true,
+          "rationale": "En instrumentos complejos como el Tropari, palpar la pieza f\u00edsica es la \u00fanica garant\u00eda para evitar una par\u00e1lisis en la perforaci\u00f3n."
+        },
+        {
+          "text": "Para permitir que los proveedores seleccionen qu\u00e9 piezas quieren vender en el futuro.",
+          "isCorrect": false,
+          "rationale": "El objetivo es preventivo para el comprador, no una herramienta de ventas para el proveedor."
+        },
+        {
+          "text": "Para sustituir completamente el uso de sistemas ERP y c\u00f3digos de barras.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n f\u00edsica complementa a la tecnolog\u00eda, no la reemplaza; ambas son necesarias para la precisi\u00f3n."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 sucede cuando hay errores en los n\u00fameros de parte o series de fabricaci\u00f3n en el sistema."
+    },
+    {
+      "question": "En la planificaci\u00f3n MRP, \u00bfcu\u00e1l es el modelo de compra m\u00e1s eficiente para los Equipos de Protecci\u00f3n Personal ($EPPs$)?",
+      "answerOptions": [
+        {
+          "text": "Contratos marco de largo plazo con precios fijos e inamovibles.",
+          "isCorrect": false,
+          "rationale": "Los contratos marco suelen reservarse para la categor\u00eda A, como neum\u00e1ticos OTR de alto costo."
+        },
+        {
+          "text": "El modelo de consignaci\u00f3n, donde solo se paga por lo que realmente se utiliza.",
+          "isCorrect": true,
+          "rationale": "Esto es ideal para la categor\u00eda B (insumos de criticidad media), optimizando el uso de capital de trabajo."
+        },
+        {
+          "text": "Reposici\u00f3n est\u00e1ndar mediante compras directas diarias en ferreter\u00edas locales.",
+          "isCorrect": false,
+          "rationale": "Este modelo es m\u00e1s adecuado para la categor\u00eda C, insumos de baja criticidad y f\u00e1cil adquisici\u00f3n."
+        },
+        {
+          "text": "Importaci\u00f3n a\u00e9rea de emergencia para mantener stock cero en el almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "El transporte a\u00e9reo de emergencia es sumamente costoso y debe evitarse mediante una buena planificaci\u00f3n MRP."
+        }
+      ],
+      "hint": "Considere la categor\u00eda B de suministros y c\u00f3mo reducir el inventario inmovilizado."
+    },
+    {
+      "question": "\u00bfC\u00f3mo contribuye el Internet de las Cosas ($IoT$) a la trazabilidad en los almacenes mineros?",
+      "answerOptions": [
+        {
+          "text": "Reemplaza la necesidad de personal f\u00edsico para el conteo de inventarios.",
+          "isCorrect": false,
+          "rationale": "El IoT monitorea condiciones y ubicaci\u00f3n, pero la supervisi\u00f3n humana sigue siendo necesaria en la gesti\u00f3n estrat\u00e9gica."
+        },
+        {
+          "text": "Permite el monitoreo $24/7$ de variables ambientales como temperatura y humedad para componentes sensibles.",
+          "isCorrect": true,
+          "rationale": "Act\u00faa como un escudo protector para asegurar que piezas cr\u00edticas no pierdan sus propiedades antes de ser instaladas."
+        },
+        {
+          "text": "Automatiza el pago de impuestos directamente con la aduana sin intervenci\u00f3n humana.",
+          "isCorrect": false,
+          "rationale": "El pago de impuestos es un proceso legal/financiero que el IoT no gestiona directamente."
+        },
+        {
+          "text": "Reduce el costo de los fletes internacionales al optimizar las rutas de los barcos.",
+          "isCorrect": false,
+          "rationale": "Aunque el IoT se usa en transporte, su rol en el almac\u00e9n se centra en la integridad y trazabilidad del stock local."
+        }
+      ],
+      "hint": "Piense en sensores proactivos que cuidan la calidad de los repuestos en el estante."
+    },
+    {
+      "question": "\u00bfQu\u00e9 define a la distribuci\u00f3n f\u00edsica en el contexto de un yacimiento de dif\u00edcil acceso?",
+      "answerOptions": [
+        {
+          "text": "El simple transporte de mercanc\u00edas desde un almac\u00e9n a una oficina administrativa.",
+          "isCorrect": false,
+          "rationale": "Esta definici\u00f3n ignora los desaf\u00edos geogr\u00e1ficos y sociales extremos de la miner\u00eda."
+        },
+        {
+          "text": "La alineaci\u00f3n estrat\u00e9gica del origen con el destino para superar barreras geogr\u00e1ficas y sociales.",
+          "isCorrect": true,
+          "rationale": "Implica conquistar entornos extremos de forma sistem\u00e1tica mediante un enfoque multimodal sincronizado."
+        },
+        {
+          "text": "El uso exclusivo de transporte terrestre para minimizar los costos de infraestructura.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda requiere transporte multimodal (tren, barco, cami\u00f3n) debido a los grandes vol\u00famenes de concentrados."
+        },
+        {
+          "text": "La entrega de productos terminados \u00fanicamente a clientes ubicados en la misma regi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La distribuci\u00f3n minera es inherentemente global y conecta el yacimiento con mercados internacionales."
+        }
+      ],
+      "hint": "Piense en la ruta desde una mina como Cerro Verde hasta un puerto como Matarani."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n del sistema de telemetr\u00eda GPS en la seguridad del transporte minero?",
+      "answerOptions": [
+        {
+          "text": "\u00danicamente calcular la ruta m\u00e1s corta para ahorrar combustible.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n principal es la seguridad operativa y la integraci\u00f3n de sistemas cr\u00edticos."
+        },
+        {
+          "text": "Integrar los sistemas antifatiga ($SF$) y anticolisi\u00f3n ($CAS$) para un monitoreo en tiempo real.",
+          "isCorrect": true,
+          "rationale": "Permite el control de velocidad y la vigilancia de la somnolencia en jornadas extenuantes, reduciendo el margen de error."
+        },
+        {
+          "text": "Sustituir a los conductores por veh\u00edculos aut\u00f3nomos controlados remotamente.",
+          "isCorrect": false,
+          "rationale": "Aunque la automatizaci\u00f3n es el futuro, la telemetr\u00eda actual se usa principalmente para asistir y monitorear la seguridad humana."
+        },
+        {
+          "text": "Transmitir m\u00fasica y comunicaciones recreativas a las flotas de transporte.",
+          "isCorrect": false,
+          "rationale": "La telemetr\u00eda es una herramienta de precisi\u00f3n t\u00e9cnica y seguridad, no un sistema de entretenimiento."
+        }
+      ],
+      "hint": "Considere c\u00f3mo operan juntos los sensores de proximidad y el monitoreo de fatiga."
+    },
+    {
+      "question": "\u00bfQu\u00e9 dimensiones abarca el 'Pent\u00e1gono de la Competitividad' para la medici\u00f3n estrat\u00e9gica?",
+      "answerOptions": [
+        {
+          "text": "Financiera, Comercial, Operativa, Tecnol\u00f3gica y Humana.",
+          "isCorrect": true,
+          "rationale": "Este equilibrio integral dicta la salud de la operaci\u00f3n al no enfocarse solo en lo econ\u00f3mico."
+        },
+        {
+          "text": "Extracci\u00f3n, Procesamiento, Fundici\u00f3n, Venta y Exportaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Estos son procesos de la cadena de valor, pero no las dimensiones de medici\u00f3n estrat\u00e9gica propuestas."
+        },
+        {
+          "text": "Legal, Ambiental, Social, Pol\u00edtica y Econ\u00f3mica.",
+          "isCorrect": false,
+          "rationale": "Aunque son factores externos, el pent\u00e1gono de competitividad se enfoca en la gesti\u00f3n interna de la organizaci\u00f3n log\u00edstica."
+        },
+        {
+          "text": "Precio, Calidad, Tiempo, Flexibilidad y Servicio.",
+          "isCorrect": false,
+          "rationale": "Estos son indicadores operativos cl\u00e1sicos, pero no conforman la estructura completa del pent\u00e1gono mencionado."
+        }
+      ],
+      "hint": "Recuerde que una evaluaci\u00f3n integral debe incluir tanto el retorno de inversi\u00f3n como el talento del personal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 garantiza el indicador log\u00edstico $OTIF$ ($On$ $Time$ $In$ $Full$)?",
+      "answerOptions": [
+        {
+          "text": "Que los productos lleguen en su totalidad, aunque el tiempo de entrega se retrase.",
+          "isCorrect": false,
+          "rationale": "El OTIF exige tanto la totalidad como el cumplimiento estricto del tiempo de entrega."
+        },
+        {
+          "text": "Que el pedido llegue exactamente a tiempo y con todas las cantidades solicitadas.",
+          "isCorrect": true,
+          "rationale": "Es la m\u00e9trica de oro de la confiabilidad, ya que pedidos incompletos o tard\u00edos detienen la continuidad operativa."
+        },
+        {
+          "text": "Que el costo del transporte se mantenga por debajo del margen de utilidad del mineral.",
+          "isCorrect": false,
+          "rationale": "Ese es un indicador de eficiencia financiera, no de nivel de servicio log\u00edstico como el OTIF."
+        },
+        {
+          "text": "Que el inventario f\u00edsico coincida $100\\%$ con el registro l\u00f3gico en el sistema ERP.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde al \u00edndice de confiabilidad ($ERI$), no al OTIF."
+        }
+      ],
+      "hint": "Piense en la combinaci\u00f3n perfecta entre puntualidad y completitud del pedido."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el umbral m\u00e1ximo aceptable para el costo de transporte sobre las ventas en una distribuci\u00f3n optimizada?",
+      "answerOptions": [
+        {
+          "text": "Debe mantenerse siempre por debajo del $25\\%$.",
+          "isCorrect": false,
+          "rationale": "Un costo del $25\\%$ indicar\u00eda ineficiencias log\u00edsticas extremas que comprometer\u00edan la viabilidad."
+        },
+        {
+          "text": "Debe mantenerse siempre por debajo del $8\\%$.",
+          "isCorrect": true,
+          "rationale": "Cruzar esta l\u00ednea roja indica que los costos log\u00edsticos est\u00e1n consumiendo excesivamente el margen de rentabilidad."
+        },
+        {
+          "text": "Puede llegar hasta el $15\\%$ si se utiliza transporte multimodal ferroviario.",
+          "isCorrect": false,
+          "rationale": "Independientemente del modo de transporte, la eficiencia macro se mide bajo el umbral del $8\\%$."
+        },
+        {
+          "text": "No existe un umbral fijo, ya que depende totalmente del precio internacional del cobre.",
+          "isCorrect": false,
+          "rationale": "Aunque el precio del mineral fluct\u00faa, la eficiencia operativa se controla mediante este porcentaje l\u00edmite."
+        }
+      ],
+      "hint": "Considere el porcentaje mencionado como la 'l\u00ednea roja' que no se debe cruzar."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gesti\u00f3n Log\u00edstica Minera",
+      "Sistemas ERP y Arquitectura Digital",
+      "Comercio Exterior y Aduanas",
+      "Estrategias de Internacionalizaci\u00f3n",
+      "Gesti\u00f3n de Inventarios y Almacenes",
+      "Indicadores de Desempe\u00f1o (KPIs)",
+      "Finanzas Log\u00edsticas y Costos"
+    ],
+    "followUp": [
+      "Log\u00edstica Inversa y Valor Residual",
+      "Sistemas de Seguridad por Telemetr\u00eda",
+      "Metodolog\u00edas de Implementaci\u00f3n de KPIs",
+      "Modelos de Expansi\u00f3n Gradual (Uppsala)",
+      "Monitoreo de Activos mediante IoT"
+    ]
+  }
+}

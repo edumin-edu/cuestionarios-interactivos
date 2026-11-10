@@ -1,0 +1,545 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 define principalmente el paradigma de la Industria 4.0 en comparaci\u00f3n con las etapas anteriores?",
+      "answerOptions": [
+        {
+          "text": "La interconectividad absoluta y el uso de sistemas ciberf\u00edsicos descentralizados.",
+          "isCorrect": true,
+          "rationale": "Esta era se caracteriza por fusionar el mundo f\u00edsico con el digital mediante una red de sistemas que operan de forma aut\u00f3noma."
+        },
+        {
+          "text": "La simple adquisici\u00f3n de maquinaria moderna y equipos con mejor est\u00e9tica.",
+          "isCorrect": false,
+          "rationale": "La innovaci\u00f3n real no reside solo en el hardware nuevo, sino en la capacidad de integraci\u00f3n y comunicaci\u00f3n de los sistemas."
+        },
+        {
+          "text": "La dependencia total de procesos mec\u00e1nicos aislados supervisados constantemente.",
+          "isCorrect": false,
+          "rationale": "Este enfoque pertenece a los modelos industriales tradicionales que la Industria 4.0 busca reemplazar por la autonom\u00eda."
+        },
+        {
+          "text": "El uso exclusivo de controladores l\u00f3gicos programables para automatizaci\u00f3n b\u00e1sica.",
+          "isCorrect": false,
+          "rationale": "Aunque los controladores son fundamentales, estos definieron la tercera revoluci\u00f3n industrial, no la cuarta."
+        }
+      ],
+      "hint": "Piense en la transici\u00f3n de m\u00e1quinas aisladas a redes que interact\u00faan entre s\u00ed sin intervenci\u00f3n humana constante."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue el hito tecnol\u00f3gico que caracteriz\u00f3 a la segunda revoluci\u00f3n industrial?",
+      "answerOptions": [
+        {
+          "text": "La llegada de la electricidad y la producci\u00f3n en masa con l\u00edneas de montaje.",
+          "isCorrect": true,
+          "rationale": "Este periodo redefini\u00f3 el trabajo industrial al introducir la energ\u00eda el\u00e9ctrica para optimizar la fabricaci\u00f3n a gran escala."
+        },
+        {
+          "text": "La implementaci\u00f3n de la energ\u00eda hidr\u00e1ulica y el motor de vapor.",
+          "isCorrect": false,
+          "rationale": "El vapor y la energ\u00eda hidr\u00e1ulica fueron los motores que impulsaron la primera revoluci\u00f3n industrial."
+        },
+        {
+          "text": "La introducci\u00f3n de la internet de las cosas y el Big Data.",
+          "isCorrect": false,
+          "rationale": "Estas tecnolog\u00edas son los pilares de la cuarta revoluci\u00f3n industrial, enfocada en la inteligencia operativa."
+        },
+        {
+          "text": "La automatizaci\u00f3n de procesos mediante electr\u00f3nica b\u00e1sica y PLCs.",
+          "isCorrect": false,
+          "rationale": "La entrada de la electr\u00f3nica y la inform\u00e1tica b\u00e1sica corresponde a la tercera revoluci\u00f3n industrial."
+        }
+      ],
+      "hint": "Considere la innovaci\u00f3n que permiti\u00f3 el desarrollo de las grandes cadenas de producci\u00f3n masiva."
+    },
+    {
+      "question": "En el contexto del Internet de las Cosas (IoT), \u00bfcu\u00e1l es la funci\u00f3n de los actuadores?",
+      "answerOptions": [
+        {
+          "text": "Ejecutar acciones f\u00edsicas a trav\u00e9s de redes inal\u00e1mbricas basadas en la informaci\u00f3n recibida.",
+          "isCorrect": true,
+          "rationale": "Mientras los sensores capturan datos, los actuadores son los componentes encargados de realizar una acci\u00f3n f\u00edsica en respuesta."
+        },
+        {
+          "text": "Capturar datos del entorno para transferirlos a la nube.",
+          "isCorrect": false,
+          "rationale": "La captura de datos es la funci\u00f3n principal de los sensores, no de los actuadores."
+        },
+        {
+          "text": "Reducir la velocidad de transferencia de datos para ahorrar energ\u00eda.",
+          "isCorrect": false,
+          "rationale": "Los actuadores no gestionan las tasas de transferencia de red, sino que responden a comandos operativos."
+        },
+        {
+          "text": "Almacenar informaci\u00f3n hist\u00f3rica en bases de datos centralizadas.",
+          "isCorrect": false,
+          "rationale": "El almacenamiento de datos es una funci\u00f3n de la arquitectura de Big Data o servidores, no de los dispositivos finales."
+        }
+      ],
+      "hint": "Diferencie entre el componente que 'siente' y el componente que 'hace' algo en el mundo f\u00edsico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el impacto econ\u00f3mico estimado de una parada no programada de maquinaria pesada en el sector minero?",
+      "answerOptions": [
+        {
+          "text": "Entre $\\$800$ y $\\$1,000$ por cada $10$ minutos de inactividad.",
+          "isCorrect": true,
+          "rationale": "La magnitud de estas p\u00e9rdidas resalta por qu\u00e9 la interconectividad y el mantenimiento predictivo son vitales para la rentabilidad."
+        },
+        {
+          "text": "Aproximadamente $\\$50$ por cada hora de detenci\u00f3n programada.",
+          "isCorrect": false,
+          "rationale": "Esta cifra subestima significativamente los costos operativos reales de equipos de gran escala como la excavaci\u00f3n pesada."
+        },
+        {
+          "text": "Cerca de $\\$10,000$ por cada jornada completa de mantenimiento preventivo.",
+          "isCorrect": false,
+          "rationale": "Aunque es un costo alto, el impacto real se mide en intervalos cortos de tiempo debido al lucro cesante inmediato."
+        },
+        {
+          "text": "Un ahorro del $20\\%$ en los costos de combustible anuales.",
+          "isCorrect": false,
+          "rationale": "La cifra mencionada no se refiere a ahorros de combustible, sino a las p\u00e9rdidas generadas por fallas inesperadas."
+        }
+      ],
+      "hint": "Recuerde el dato espec\u00edfico mencionado sobre la 'l\u00ednea amarilla' en periodos cortos de tiempo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramientas se utilizan en la industria alimentaria para monitorear variables como temperatura y humedad en tiempo real?",
+      "answerOptions": [
+        {
+          "text": "Kepware u OPC combinados con un IoT gateway.",
+          "isCorrect": true,
+          "rationale": "Estas herramientas permiten la integraci\u00f3n de sensores mediante APIs para garantizar los est\u00e1ndares de inocuidad alimentaria."
+        },
+        {
+          "text": "Impresoras $3D$ de alta velocidad para empaques personalizados.",
+          "isCorrect": false,
+          "rationale": "La impresi\u00f3n $3D$ se usa para prototipado y fabricaci\u00f3n, no para el monitoreo de variables ambientales en l\u00edneas de producci\u00f3n."
+        },
+        {
+          "text": "Sistemas de visi\u00f3n artificial \u00fanicamente para detectar defectos de forma.",
+          "isCorrect": false,
+          "rationale": "La visi\u00f3n artificial ayuda en calidad, pero el monitoreo de temperatura y humedad requiere protocolos de comunicaci\u00f3n industrial."
+        },
+        {
+          "text": "Etiquetas de identificaci\u00f3n por radiofrecuencia (RFID) pasivas.",
+          "isCorrect": false,
+          "rationale": "Las etiquetas RFID se centran en la trazabilidad y localizaci\u00f3n, no en el sensado continuo de variables clim\u00e1ticas."
+        }
+      ],
+      "hint": "Piense en las soluciones de conectividad que permiten la integraci\u00f3n perfecta de datos mediante protocolos est\u00e1ndar."
+    },
+    {
+      "question": "En log\u00edstica, \u00bfqu\u00e9 combinaci\u00f3n tecnol\u00f3gica permite eliminar los inventarios inexactos y los datos fantasma?",
+      "answerOptions": [
+        {
+          "text": "Etiquetas RFID, redes Lora y conectividad $5G$.",
+          "isCorrect": true,
+          "rationale": "Esta mezcla tecnol\u00f3gica proporciona trazabilidad total y comunicaci\u00f3n r\u00e1pida en toda la cadena de suministro."
+        },
+        {
+          "text": "Sensores de vibraci\u00f3n y algoritmos de mantenimiento preventivo.",
+          "isCorrect": false,
+          "rationale": "Estas tecnolog\u00edas se enfocan en la salud de las m\u00e1quinas, no en la contabilidad y rastreo de productos en almac\u00e9n."
+        },
+        {
+          "text": "Sistemas CAD vinculados a procesos de laminado o slicing.",
+          "isCorrect": false,
+          "rationale": "Esta es la base del flujo de trabajo de manufactura aditiva, no de la gesti\u00f3n de inventarios log\u00edsticos."
+        },
+        {
+          "text": "Uso de PLCs aislados en cada punto de la cadena de distribuci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los sistemas aislados son precisamente los que generan falta de visibilidad y datos inexactos en la log\u00edstica moderna."
+        }
+      ],
+      "hint": "Considere las tecnolog\u00edas que facilitan la identificaci\u00f3n remota y la comunicaci\u00f3n de baja potencia a gran escala."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es uno de los principales obst\u00e1culos t\u00e9cnicos de las arquitecturas industriales descentralizadas?",
+      "answerOptions": [
+        {
+          "text": "La falta de est\u00e1ndares globales unificados para la gesti\u00f3n de la informaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La ausencia de reglas claras dificulta la interoperabilidad entre diferentes ecosistemas y marcas tecnol\u00f3gicas industriales."
+        },
+        {
+          "text": "La imposibilidad de capturar datos estructurados y semiestructurados simult\u00e1neamente.",
+          "isCorrect": false,
+          "rationale": "El Big Data moderno ya permite procesar m\u00faltiples tipos de datos; el problema real es la coordinaci\u00f3n global."
+        },
+        {
+          "text": "El exceso de intervenci\u00f3n humana en la recolecci\u00f3n primaria de datos.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la arquitectura descentralizada busca minimizar la intervenci\u00f3n humana, aunque esto crea otros riesgos."
+        },
+        {
+          "text": "La reducci\u00f3n de la superficie de ataque para amenazas de ciberseguridad.",
+          "isCorrect": false,
+          "rationale": "La distribuci\u00f3n masiva de sensores expande la superficie de ataque, no la reduce, convirti\u00e9ndose en un reto de seguridad."
+        }
+      ],
+      "hint": "Piense en las dificultades que surgen cuando diferentes sistemas deben hablar el mismo 'idioma' t\u00e9cnico."
+    },
+    {
+      "question": "Dentro de las 'Siete Vs' del Big Data, \u00bfa qu\u00e9 se refiere la dimensi\u00f3n de la 'Veracidad'?",
+      "answerOptions": [
+        {
+          "text": "A asegurar que el dato sea aut\u00e9ntico y no contenga informaci\u00f3n falsa o err\u00f3nea.",
+          "isCorrect": true,
+          "rationale": "La veracidad es cr\u00edtica para que las decisiones basadas en datos no se sustenten en informaci\u00f3n poco fiable."
+        },
+        {
+          "text": "A la tasa de transferencia en tiempo real para responder de inmediato.",
+          "isCorrect": false,
+          "rationale": "La velocidad de respuesta y transferencia corresponde a la dimensi\u00f3n de 'Velocidad'."
+        },
+        {
+          "text": "A la capacidad t\u00e9cnica de procesar cantidades masivas de informaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El manejo de grandes cantidades de datos se define como la dimensi\u00f3n de 'Volumen'."
+        },
+        {
+          "text": "Al retorno estrat\u00e9gico y econ\u00f3mico obtenido del esfuerzo anal\u00edtico.",
+          "isCorrect": false,
+          "rationale": "El impacto econ\u00f3mico y estrat\u00e9gico de los datos se conoce como la dimensi\u00f3n de 'Valor'."
+        }
+      ],
+      "hint": "Relacione el t\u00e9rmino con la confianza y la calidad de la informaci\u00f3n recolectada."
+    },
+    {
+      "question": "\u00bfQu\u00e9 capacidad distingue al Machine Learning en la toma de decisiones operativas?",
+      "answerOptions": [
+        {
+          "text": "Aprender de patrones ocultos y experiencias previas sin necesidad de reprogramaci\u00f3n humana constante.",
+          "isCorrect": true,
+          "rationale": "Esta tecnolog\u00eda permite que los sistemas evolucionen y ejecuten razonamientos complejos bas\u00e1ndose en datos hist\u00f3ricos."
+        },
+        {
+          "text": "Seguir estrictamente una secuencia de comandos preestablecidos por un operador.",
+          "isCorrect": false,
+          "rationale": "El seguimiento de comandos fijos es caracter\u00edstico de la automatizaci\u00f3n tradicional, no del aprendizaje autom\u00e1tico."
+        },
+        {
+          "text": "Eliminar la necesidad de procesar datos hist\u00f3ricos para realizar predicciones futuras.",
+          "isCorrect": false,
+          "rationale": "El Machine Learning depende fundamentalmente de los datos hist\u00f3ricos para identificar patrones y aprender de ellos."
+        },
+        {
+          "text": "Visualizar indicadores en dashboards sin realizar an\u00e1lisis estad\u00edsticos previos.",
+          "isCorrect": false,
+          "rationale": "La visualizaci\u00f3n es solo el paso final; el Machine Learning se encarga del procesamiento l\u00f3gico y predictivo subyacente."
+        }
+      ],
+      "hint": "Piense en la autonom\u00eda de un sistema para mejorar su propio rendimiento a trav\u00e9s de la experiencia."
+    },
+    {
+      "question": "En la jerarqu\u00eda de cuatro niveles de una soluci\u00f3n de inteligencia de negocios, \u00bfqu\u00e9 ocurre en el Nivel 3?",
+      "answerOptions": [
+        {
+          "text": "Se almacena la informaci\u00f3n ya depurada en un Data Warehouse o b\u00f3veda central.",
+          "isCorrect": true,
+          "rationale": "Este nivel funciona como un repositorio centralizado de datos limpios listos para ser analizados."
+        },
+        {
+          "text": "Se recolecta la informaci\u00f3n cruda desde archivos de Excel o sistemas ERP.",
+          "isCorrect": false,
+          "rationale": "La recolecci\u00f3n de datos crudos es la base de la pir\u00e1mide, correspondiente al Nivel $1$."
+        },
+        {
+          "text": "Se utilizan procesos ETL para transformar y estandarizar la informaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La extracci\u00f3n, transformaci\u00f3n y carga (ETL) ocurre en el Nivel $2$, antes del almacenamiento central."
+        },
+        {
+          "text": "Se visualizan los indicadores clave de desempe\u00f1o en dashboards anal\u00edticos.",
+          "isCorrect": false,
+          "rationale": "La visualizaci\u00f3n y entrega de valor final al usuario ocurre en el Nivel $4$, el m\u00e1s alto de la jerarqu\u00eda."
+        }
+      ],
+      "hint": "Es el lugar donde los datos 'limpios' esperan antes de ser presentados en tableros de control."
+    },
+    {
+      "question": "\u00bfC\u00f3mo transforma la Inteligencia Artificial la gesti\u00f3n tradicional de las operaciones industriales?",
+      "answerOptions": [
+        {
+          "text": "Permite pasar de una gesti\u00f3n reactiva a una gesti\u00f3n proactiva que resuelve problemas antes de que ocurran.",
+          "isCorrect": true,
+          "rationale": "La IA act\u00faa como el cerebro operativo, detectando anomal\u00edas y prediciendo fallas en tiempo real."
+        },
+        {
+          "text": "Incrementa la necesidad de realizar mantenimiento preventivo basado en calendarios fijos.",
+          "isCorrect": false,
+          "rationale": "La IA busca eliminar los calendarios fijos, sustituy\u00e9ndolos por intervenciones basadas en la condici\u00f3n real del equipo."
+        },
+        {
+          "text": "Reduce la capacidad de los equipos para comunicarse entre s\u00ed de forma aut\u00f3noma.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la IA potencia la comunicaci\u00f3n y la toma de decisiones aut\u00f3noma entre m\u00e1quinas."
+        },
+        {
+          "text": "Establece que las reparaciones deben hacerse \u00fanicamente despu\u00e9s de una falla catastr\u00f3fica.",
+          "isCorrect": false,
+          "rationale": "Esto describe la gesti\u00f3n reactiva, la cual la IA busca erradicar para evitar paradas costosas."
+        }
+      ],
+      "hint": "Enf\u00f3quese en el cambio de 'esperar a que algo se rompa' a 'anticipar el desgaste'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ineficiencia del mantenimiento preventivo tradicional?",
+      "answerOptions": [
+        {
+          "text": "Gasta dinero en repuestos que a\u00fan funcionan y genera paradas de m\u00e1quina innecesarias.",
+          "isCorrect": true,
+          "rationale": "Al basarse en calendarios r\u00edgidos, el modelo preventivo no considera el estado real de los componentes, desperdiciando vida \u00fatil."
+        },
+        {
+          "text": "Requiere una inversi\u00f3n masiva en sensores ac\u00fasticos y t\u00e9rmicos de alta gama.",
+          "isCorrect": false,
+          "rationale": "El mantenimiento preventivo tradicional suele carecer de estos sensores, bas\u00e1ndose solo en manuales de fabricante."
+        },
+        {
+          "text": "Depende exclusivamente de algoritmos de inteligencia artificial para decidir cu\u00e1ndo intervenir.",
+          "isCorrect": false,
+          "rationale": "La dependencia de algoritmos es propia del mantenimiento predictivo, no del preventivo tradicional."
+        },
+        {
+          "text": "Reduce los costos operativos en un $25\\%$ mediante el esquema de justo a tiempo.",
+          "isCorrect": false,
+          "rationale": "Este ahorro es un beneficio del mantenimiento predictivo impulsado por IA, no del modelo preventivo."
+        }
+      ],
+      "hint": "Piense en las consecuencias de cambiar una pieza solo porque 'se cumpli\u00f3 el tiempo' seg\u00fan un manual."
+    },
+    {
+      "question": "En el sector aeron\u00e1utico, \u00bfqu\u00e9 funci\u00f3n cumple el proyecto BACSI relacionado con los cazas Eurofighter?",
+      "answerOptions": [
+        {
+          "text": "Evaluar continuamente la avi\u00f3nica y la vida estructural para reparar solo cuando es estrictamente necesario.",
+          "isCorrect": true,
+          "rationale": "Este sistema de base a\u00e9rea inteligente utiliza IA para optimizar la operatividad y seguridad de la flota."
+        },
+        {
+          "text": "Automatizar la fabricaci\u00f3n de motores mediante moldes de inyecci\u00f3n tradicionales.",
+          "isCorrect": false,
+          "rationale": "El proyecto BACSI se enfoca en el mantenimiento inteligente y la conectividad, no en procesos de fundici\u00f3n antiguos."
+        },
+        {
+          "text": "Reducir el peso de los aviones mediante el uso de etiquetas RFID en el fuselaje.",
+          "isCorrect": false,
+          "rationale": "Aunque se use tecnolog\u00eda de identificaci\u00f3n, el objetivo central es la gesti\u00f3n predictiva de la salud del avi\u00f3n."
+        },
+        {
+          "text": "Eliminar por completo a los pilotos humanos mediante razonamiento l\u00f3gico complejo.",
+          "isCorrect": false,
+          "rationale": "El enfoque del proyecto es la sostenibilidad y el mantenimiento del equipo, no la sustituci\u00f3n de los pilotos."
+        }
+      ],
+      "hint": "Se trata de un sistema que asegura que estas m\u00e1quinas solo entren a taller bajo condiciones espec\u00edficas de desgaste."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja operativa ofrecen los robots colaborativos (Cobots) de quinta generaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Pueden trabajar en el mismo espacio que los humanos de forma segura sin necesidad de jaulas.",
+          "isCorrect": true,
+          "rationale": "Gracias a sensores avanzados de fuerza y visi\u00f3n, los Cobots interact\u00faan de forma segura con el personal."
+        },
+        {
+          "text": "Sustituyen totalmente el razonamiento cognitivo de los profesionales humanos.",
+          "isCorrect": false,
+          "rationale": "Los Cobots asumen tareas pesadas para que el humano pueda enfocarse en funciones de mayor valor intelectual."
+        },
+        {
+          "text": "Operan a ciegas realizando tareas repetitivas en per\u00edmetros cerrados.",
+          "isCorrect": false,
+          "rationale": "Esa es la descripci\u00f3n de las generaciones anteriores de robots industriales, no de los colaborativos actuales."
+        },
+        {
+          "text": "Requieren ser reprogramados manualmente cada vez que cambia el entorno de trabajo.",
+          "isCorrect": false,
+          "rationale": "Los Cobots modernos pueden aprender imitando gestos y adapt\u00e1ndose al espacio mediante sus sensores de visi\u00f3n."
+        }
+      ],
+      "hint": "Piense en el t\u00e9rmino 'colaborativo' y lo que implica para la seguridad f\u00edsica en la f\u00e1brica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 nivel de precisi\u00f3n se puede alcanzar en el control de calidad mediante sistemas de visi\u00f3n artificial?",
+      "answerOptions": [
+        {
+          "text": "Una reducci\u00f3n de la merma industrial hasta niveles cercanos al $0.01\\%$.",
+          "isCorrect": true,
+          "rationale": "La detecci\u00f3n de defectos milim\u00e9tricos permite correcciones inmediatas que llevan el desperdicio a un margen casi inexistente."
+        },
+        {
+          "text": "Un margen de error humano aceptable del $13\\%$ en la l\u00ednea de montaje.",
+          "isCorrect": false,
+          "rationale": "La visi\u00f3n artificial busca precisamente eliminar la variabilidad del error humano, no establecer un margen alto."
+        },
+        {
+          "text": "La eliminaci\u00f3n del $25\\%$ de los costos de energ\u00eda el\u00e9ctrica en la planta.",
+          "isCorrect": false,
+          "rationale": "La visi\u00f3n artificial impacta directamente en la calidad y el desperdicio de material, no principalmente en el consumo el\u00e9ctrico."
+        },
+        {
+          "text": "Una eficiencia del $100\\%$ sin necesidad de sensores de fuerza o tacto.",
+          "isCorrect": false,
+          "rationale": "Aunque es muy precisa, suele combinarse con otros sensores para lograr una perfecci\u00f3n operativa integral."
+        }
+      ],
+      "hint": "Considere qu\u00e9 tan cerca del desperdicio cero puede llegar una m\u00e1quina que detecta errores invisibles al ojo humano."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un beneficio directo de la manufactura aditiva frente a los m\u00e9todos tradicionales?",
+      "answerOptions": [
+        {
+          "text": "La eliminaci\u00f3n de la dependencia de troqueles, matrices y moldes de inyecci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Al construir por capas, se permite crear piezas complejas directamente desde un dise\u00f1o digital sin herramientas intermedias."
+        },
+        {
+          "text": "El aumento de los ciclos de dise\u00f1o para asegurar la robustez del producto.",
+          "isCorrect": false,
+          "rationale": "La manufactura aditiva reduce dr\u00e1sticamente los ciclos de dise\u00f1o, permitiendo iteraciones mucho m\u00e1s r\u00e1pidas."
+        },
+        {
+          "text": "La necesidad de realizar inventarios masivos de repuestos f\u00edsicos en almacenes.",
+          "isCorrect": false,
+          "rationale": "Esta tecnolog\u00eda permite la fabricaci\u00f3n bajo demanda, reduciendo la necesidad de mantener grandes inventarios f\u00edsicos."
+        },
+        {
+          "text": "La imposibilidad de crear geometr\u00edas internas personalizadas para cada usuario.",
+          "isCorrect": false,
+          "rationale": "Al contrario, una de sus mayores fortalezas es la flexibilidad para crear formas que antes eran imposibles de fabricar."
+        }
+      ],
+      "hint": "Piense en lo que se ahorra un ingeniero al no tener que fabricar una 'herramienta para hacer la pieza'."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el paso de 'laminado' o 'slicing' en el flujo t\u00e9cnico de impresi\u00f3n $3D$?",
+      "answerOptions": [
+        {
+          "text": "Dividir el dise\u00f1o tridimensional en miles de capas bidimensionales que la m\u00e1quina puede procesar.",
+          "isCorrect": true,
+          "rationale": "Este proceso es el puente cr\u00edtico entre el modelo digital ($CAD$) y la ejecuci\u00f3n f\u00edsica de la impresora."
+        },
+        {
+          "text": "Crear la geometr\u00eda digital inicial utilizando un software de dise\u00f1o por computadora.",
+          "isCorrect": false,
+          "rationale": "La creaci\u00f3n de la geometr\u00eda inicial corresponde a la etapa de modelado $CAD$, el primer paso del flujo."
+        },
+        {
+          "text": "Realizar limpiezas qu\u00edmicas y pulido para mejorar las propiedades mec\u00e1nicas.",
+          "isCorrect": false,
+          "rationale": "El acabado superficial y la limpieza pertenecen a la etapa de postprocesamiento, el paso final del flujo."
+        },
+        {
+          "text": "Digitalizar un objeto real para aplicar t\u00e9cnicas de ingenier\u00eda inversa.",
+          "isCorrect": false,
+          "rationale": "La digitalizaci\u00f3n de objetos reales se realiza mediante escaneo $3D$, que es previo o independiente al laminado."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo se traduce una forma s\u00f3lida en instrucciones que una boquilla puede recorrer piso por piso."
+    },
+    {
+      "question": "En el caso de Ford, \u00bfc\u00f3mo impact\u00f3 la manufactura aditiva en el costo de prototipado de volantes?",
+      "answerOptions": [
+        {
+          "text": "Se redujo de $\\$500,000$ a solo $\\$3,000$ por iteraci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Esta reducci\u00f3n masiva de costos demuestra el valor econ\u00f3mico de evitar moldes tradicionales en etapas de dise\u00f1o."
+        },
+        {
+          "text": "Aument\u00f3 un $13\\%$ debido a la complejidad de las geometr\u00edas impresas.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda redujo los costos dr\u00e1sticamente; el $13\\%$ es una cifra relacionada con la eficiencia en otros sectores."
+        },
+        {
+          "text": "Permiti\u00f3 ahorrar $\\$800$ por cada $10$ minutos de producci\u00f3n en l\u00ednea.",
+          "isCorrect": false,
+          "rationale": "Esta cifra corresponde a los costos de inactividad en miner\u00eda, no al ahorro en prototipado automotriz."
+        },
+        {
+          "text": "Se mantuvo igual pero logr\u00f3 reducir el tiempo de espera de cuatro meses a cuatro a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "El tiempo se redujo de cuatro meses a cuatro d\u00edas, lo que representa una aceleraci\u00f3n masiva del proceso."
+        }
+      ],
+      "hint": "Recuerde el contraste entre el alt\u00edsimo costo de los moldes tradicionales y la flexibilidad del dise\u00f1o digital."
+    },
+    {
+      "question": "\u00bfQu\u00e9 equipo de escaneo $3D$ es reconocido como el est\u00e1ndar profesional para capturar geometr\u00edas complejas en segundos?",
+      "answerOptions": [
+        {
+          "text": "Artec EVA.",
+          "isCorrect": true,
+          "rationale": "Originario de Luxemburgo, este dispositivo es valorado por su rapidez y precisi\u00f3n en la captura de formas intrincadas."
+        },
+        {
+          "text": "Ciclope.",
+          "isCorrect": false,
+          "rationale": "El sistema Ciclope es conocido por su filosof\u00eda de c\u00f3digo abierto y triangulaci\u00f3n l\u00e1ser b\u00e1sica, no como el est\u00e1ndar de alta gama."
+        },
+        {
+          "text": "Next Engine.",
+          "isCorrect": false,
+          "rationale": "El Next Engine destaca por capturar texturas en ultra HD usando l\u00e1ser, pero no se menciona como el est\u00e1ndar de velocidad."
+        },
+        {
+          "text": "Lcan.",
+          "isCorrect": false,
+          "rationale": "El sistema Lcan se basa en luz estructurada y destaca por su escalabilidad manual, situ\u00e1ndose en otro segmento t\u00e9cnico."
+        }
+      ],
+      "hint": "Identifique el dispositivo mencionado como la referencia indiscutible para capturar geometr\u00edas en muy poco tiempo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 logr\u00f3 Nike al implementar la tecnolog\u00eda de impresi\u00f3n $3D$ Vapor Laser en su calzado de \u00e9lite?",
+      "answerOptions": [
+        {
+          "text": "Un aumento del $13\\%$ en la eficiencia de producci\u00f3n y dise\u00f1os personalizados imposibles de fabricar convencionalmente.",
+          "isCorrect": true,
+          "rationale": "La tecnolog\u00eda permiti\u00f3 crear formas internas adaptadas a la medida de cada atleta, optimizando la fabricaci\u00f3n."
+        },
+        {
+          "text": "Reducir el desperdicio industrial a un margen absoluto del $0.01\\%$.",
+          "isCorrect": false,
+          "rationale": "Este porcentaje de precisi\u00f3n extrema se asocia com\u00fanmente con el control de calidad por visi\u00f3n artificial."
+        },
+        {
+          "text": "Eliminar por completo el uso de sensores IoT en sus f\u00e1bricas de calzado.",
+          "isCorrect": false,
+          "rationale": "La manufactura aditiva complementa la digitalizaci\u00f3n; no busca eliminar el uso de sensores de monitoreo."
+        },
+        {
+          "text": "Bajar el costo de cada par de zapatos de $\\$500,000$ a solo $\\$3,000$.",
+          "isCorrect": false,
+          "rationale": "Estos valores corresponden al caso de estudio de prototipado de piezas automotrices en Ford, no a la producci\u00f3n de calzado."
+        }
+      ],
+      "hint": "Considere la ventaja que obtiene un atleta al recibir un producto dise\u00f1ado espec\u00edficamente para su anatom\u00eda."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Industria 4.0",
+      "Internet de las cosas (IoT)",
+      "Big Data y las Siete Vs",
+      "Machine Learning",
+      "Business Intelligence",
+      "Mantenimiento Predictivo",
+      "Rob\u00f3tica Colaborativa (Cobots)",
+      "Manufactura Aditiva (Impresi\u00f3n 3D)",
+      "Visi\u00f3n Artificial"
+    ],
+    "followUp": [
+      "Ciberseguridad en redes industriales",
+      "Protocolos de comunicaci\u00f3n Kepware y OPC",
+      "Tecnolog\u00eda RFID y Lora en log\u00edstica",
+      "Arquitectura de Data Warehouse",
+      "Escaneo y digitalizaci\u00f3n 3D profesional",
+      "Industria 5.0 y aprendizaje profundo"
+    ]
+  }
+}

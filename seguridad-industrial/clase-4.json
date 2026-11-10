@@ -1,0 +1,544 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito central de la transici\u00f3n hacia la normativa ISO 45001 y las nuevas leyes nacionales en la gesti\u00f3n de riesgos?",
+      "answerOptions": [
+        {
+          "text": "Transformar la reactividad en una proactividad cient\u00edfica.",
+          "isCorrect": true,
+          "rationale": "El objetivo de la gesti\u00f3n moderna es dejar de simplemente reaccionar ante los hechos y liderar una prevenci\u00f3n basada en el an\u00e1lisis estrat\u00e9gico."
+        },
+        {
+          "text": "Limitar las funciones del Comit\u00e9 de Seguridad a \u00f3rganos de apoyo.",
+          "isCorrect": false,
+          "rationale": "Contrario a esto, la nueva visi\u00f3n busca que el comit\u00e9 y los supervisores act\u00faen como auditores estrat\u00e9gicos del sistema."
+        },
+        {
+          "text": "Cumplir estrictamente con la ley para evitar sanciones administrativas.",
+          "isCorrect": false,
+          "rationale": "Aunque es necesario, el enfoque actual busca elevar la competitividad y proteger el capital humano m\u00e1s all\u00e1 del simple cumplimiento legal."
+        },
+        {
+          "text": "Delegar la responsabilidad operativa exclusivamente a los supervisores.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n moderna implica una responsabilidad compartida y una ejecuci\u00f3n activa de todo el sistema por m\u00faltiples actores."
+        }
+      ],
+      "hint": "Se busca un cambio de mentalidad en la forma de anticiparse a las amenazas."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define t\u00e9cnicamente un incidente o \"accidente blanco\"?",
+      "answerOptions": [
+        {
+          "text": "Un suceso donde no existen lesiones pero es una alarma del sistema.",
+          "isCorrect": true,
+          "rationale": "Se le denomina as\u00ed porque el evento indeseado ocurri\u00f3 durante el trabajo pero, afortunadamente, no hubo da\u00f1o f\u00edsico al personal."
+        },
+        {
+          "text": "Un evento que solo causa da\u00f1os materiales leves a la propiedad.",
+          "isCorrect": false,
+          "rationale": "La definici\u00f3n t\u00e9cnica se centra espec\u00edficamente en la ausencia de lesiones humanas a pesar de la ocurrencia del suceso."
+        },
+        {
+          "text": "Un accidente que requiere atenci\u00f3n m\u00e9dica menor de $24$ horas.",
+          "isCorrect": false,
+          "rationale": "Si existe atenci\u00f3n m\u00e9dica por lesi\u00f3n, ya se categoriza como accidente, no como incidente o accidente blanco."
+        },
+        {
+          "text": "Un suceso que ocurre fuera de las instalaciones de la empresa.",
+          "isCorrect": false,
+          "rationale": "La ubicaci\u00f3n no define si es un incidente; lo define la ausencia de lesiones en el trabajador."
+        }
+      ],
+      "hint": "Piensa en el resultado f\u00edsico inmediato para el trabajador tras el suceso."
+    },
+    {
+      "question": "En el marco de un accidente de trabajo, \u00bfqu\u00e9 condici\u00f3n debe cumplirse para que un evento fuera del horario regular sea considerado como tal?",
+      "answerOptions": [
+        {
+          "text": "Que el evento ocurra bajo las \u00f3rdenes del empleador.",
+          "isCorrect": true,
+          "rationale": "La subordinaci\u00f3n y el cumplimiento de \u00f3rdenes extienden la responsabilidad del empleador incluso fuera del tiempo y lugar habituales."
+        },
+        {
+          "text": "Que el trabajador est\u00e9 utilizando el uniforme de la compa\u00f1\u00eda.",
+          "isCorrect": false,
+          "rationale": "El uso de vestimenta no determina la legalidad del accidente, sino la relaci\u00f3n de subordinaci\u00f3n durante el evento."
+        },
+        {
+          "text": "Que el suceso ocurra en un veh\u00edculo oficial de la organizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque es un factor, lo determinante es si el trabajador estaba ejecutando una tarea encomendada por su superior."
+        },
+        {
+          "text": "Que la lesi\u00f3n impida el retorno al trabajo por m\u00e1s de $3$ d\u00edas.",
+          "isCorrect": false,
+          "rationale": "Esto define la gravedad (leve o incapacitante), pero no la naturaleza del evento como accidente de trabajo."
+        }
+      ],
+      "hint": "Enf\u00f3cate en el v\u00ednculo de autoridad entre el jefe y el subordinado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia fundamental tiene un incidente peligroso respecto a un incidente com\u00fan?",
+      "answerOptions": [
+        {
+          "text": "Su potencial de afectar a la poblaci\u00f3n circundante fuera de la planta.",
+          "isCorrect": true,
+          "rationale": "El incidente peligroso rompe las barreras de la empresa y representa un riesgo de da\u00f1o masivo para la comunidad general."
+        },
+        {
+          "text": "La obligatoriedad de reportarlo al Ministerio de Salud en $48$ horas.",
+          "isCorrect": false,
+          "rationale": "El plazo legal de reporte para incidentes peligrosos es de $24$ horas y se realiza ante el Ministerio de Trabajo."
+        },
+        {
+          "text": "La presencia de lesiones f\u00edsicas graves en m\u00e1s de un trabajador.",
+          "isCorrect": false,
+          "rationale": "Si existen lesiones, el evento deja de ser un incidente para convertirse en un accidente de trabajo."
+        },
+        {
+          "text": "Que siempre implica el uso de materiales qu\u00edmicos peligrosos.",
+          "isCorrect": false,
+          "rationale": "Un incidente peligroso puede involucrar diversos riesgos, no solo qu\u00edmicos, siempre que su alcance sea cr\u00edtico y masivo."
+        }
+      ],
+      "hint": "Considera el alcance geogr\u00e1fico y social del riesgo."
+    },
+    {
+      "question": "Al clasificar la gravedad de los accidentes, \u00bfcu\u00e1ndo se considera que un evento es de car\u00e1cter leve?",
+      "answerOptions": [
+        {
+          "text": "Cuando el trabajador retorna a sus labores en un m\u00e1ximo de $3$ d\u00edas.",
+          "isCorrect": true,
+          "rationale": "El criterio para accidentes leves se basa en la brevedad de la ausencia y la capacidad de reincorporaci\u00f3n r\u00e1pida."
+        },
+        {
+          "text": "Cuando no se requiere el uso de botiquines de primeros auxilios.",
+          "isCorrect": false,
+          "rationale": "Incluso en accidentes leves se pueden aplicar primeros auxilios; la clave es el tiempo de retorno al trabajo."
+        },
+        {
+          "text": "Cuando la lesi\u00f3n es irreversible pero permite trabajar administrativamente.",
+          "isCorrect": false,
+          "rationale": "Cualquier lesi\u00f3n irreversible se categoriza como incapacitante, no como leve."
+        },
+        {
+          "text": "Cuando el reporte se realiza de forma interna y no ante la Sunafil.",
+          "isCorrect": false,
+          "rationale": "La clasificaci\u00f3n por gravedad depende del impacto en la salud del trabajador, no del flujo administrativo del reporte."
+        }
+      ],
+      "hint": "El factor determinante es el tiempo que el colaborador permanece fuera de sus funciones."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la distinci\u00f3n principal entre las causas inmediatas y las causas b\u00e1sicas de un accidente?",
+      "answerOptions": [
+        {
+          "text": "Las inmediatas son comportamientos evidentes, mientras las b\u00e1sicas son factores personales o de trabajo subyacentes.",
+          "isCorrect": true,
+          "rationale": "Las causas inmediatas son el s\u00edntoma visible (actos o condiciones), mientras que las b\u00e1sicas son el motor invisible que las genera."
+        },
+        {
+          "text": "Las b\u00e1sicas ocurren durante el evento y las inmediatas meses despu\u00e9s.",
+          "isCorrect": false,
+          "rationale": "Las causas b\u00e1sicas preexisten al evento y las inmediatas se manifiestan en el momento exacto del suceso."
+        },
+        {
+          "text": "Las inmediatas son responsabilidad de la gerencia y las b\u00e1sicas del trabajador.",
+          "isCorrect": false,
+          "rationale": "Ambas pueden involucrar diferentes niveles, pero las fallas de gesti\u00f3n suelen estar m\u00e1s ligadas a factores b\u00e1sicos y fallas latentes."
+        },
+        {
+          "text": "Las causas b\u00e1sicas siempre invalidan el seguro de accidentes de trabajo.",
+          "isCorrect": false,
+          "rationale": "Las causas b\u00e1sicas ayudan a entender el origen para prevenir; lo que puede invalidar el seguro es la imprudencia temeraria."
+        }
+      ],
+      "hint": "Visualiza la diferencia entre lo que se ve a simple vista y lo que est\u00e1 'detr\u00e1s del tel\u00f3n'."
+    },
+    {
+      "question": "En el caso de la compa\u00f1\u00eda Marsa, \u00bfqu\u00e9 medida estrat\u00e9gica implementaron tras identificar que el estr\u00e9s y la fatiga eran causas b\u00e1sicas?",
+      "answerOptions": [
+        {
+          "text": "Otorgar vacaciones estrat\u00e9gicas durante la segunda quincena de diciembre.",
+          "isCorrect": true,
+          "rationale": "Intervinieron directamente en la psicolog\u00eda y el bienestar del trabajador para mitigar riesgos durante las fiestas de fin de a\u00f1o."
+        },
+        {
+          "text": "Incrementar el uso de equipos de protecci\u00f3n personal en esa temporada.",
+          "isCorrect": false,
+          "rationale": "El EPP ataca la consecuencia o el riesgo inmediato, pero no la ra\u00edz emocional identificada en este caso espec\u00edfico."
+        },
+        {
+          "text": "Sancionar a los trabajadores que mostraran signos de cansancio excesivo.",
+          "isCorrect": false,
+          "rationale": "La empresa opt\u00f3 por una medida preventiva y proactiva en lugar de un enfoque punitivo."
+        },
+        {
+          "text": "Reducir la jornada laboral a $6$ horas durante todo el mes de diciembre.",
+          "isCorrect": false,
+          "rationale": "La medida espec\u00edfica fue el periodo vacacional estrat\u00e9gico, no una reducci\u00f3n de la jornada diaria."
+        }
+      ],
+      "hint": "Fue una intervenci\u00f3n temporal enfocada en el descanso del personal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia legal tiene la demostraci\u00f3n de una \"imprudencia temeraria\" por parte del trabajador?",
+      "answerOptions": [
+        {
+          "text": "Puede invalidar legalmente que el evento sea considerado un accidente de trabajo.",
+          "isCorrect": true,
+          "rationale": "Si hay un desprecio consciente por el riesgo y negligencia absoluta, la protecci\u00f3n legal del concepto de accidente laboral se pierde."
+        },
+        {
+          "text": "Obliga a la empresa a pagar una indemnizaci\u00f3n doble al colaborador.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la imprudencia temeraria suele eximir o reducir las responsabilidades del empleador frente al evento."
+        },
+        {
+          "text": "Cambia la categor\u00eda de la causa inmediata a una falla latente de la gerencia.",
+          "isCorrect": false,
+          "rationale": "La imprudencia temeraria es un acto individual del trabajador, mientras que las fallas latentes son decisiones administrativas."
+        },
+        {
+          "text": "Requiere un reporte inmediato a la Sunafil en menos de $12$ horas.",
+          "isCorrect": false,
+          "rationale": "Los plazos de reporte dependen de la consecuencia del accidente (muerte, lesi\u00f3n), no de la conducta del trabajador."
+        }
+      ],
+      "hint": "Considera c\u00f3mo afecta el desprecio voluntario del peligro a la calificaci\u00f3n legal del suceso."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el tercer paso en la metodolog\u00eda estructurada del An\u00e1lisis de Trabajo Seguro (ATS)?",
+      "answerOptions": [
+        {
+          "text": "Identificar qu\u00e9 podr\u00eda salir mal en cada fase de la tarea.",
+          "isCorrect": true,
+          "rationale": "Tras desglosar la tarea, el paso l\u00f3gico es evaluar los peligros espec\u00edficos asociados a cada movimiento."
+        },
+        {
+          "text": "Seleccionar y priorizar la tarea cr\u00edtica seg\u00fan el nivel de riesgo.",
+          "isCorrect": false,
+          "rationale": "Este es el primer paso del proceso de ATS para determinar d\u00f3nde enfocar los esfuerzos."
+        },
+        {
+          "text": "Desarrollar los controles necesarios para neutralizar los peligros.",
+          "isCorrect": false,
+          "rationale": "El desarrollo de controles es el cuarto paso, el cual ocurre despu\u00e9s de haber identificado los riesgos."
+        },
+        {
+          "text": "Firmar el permiso de trabajo de alto riesgo (PETAR).",
+          "isCorrect": false,
+          "rationale": "El PETAR es un documento de control complementario, no es un paso intr\u00ednseco de la metodolog\u00eda anal\u00edtica del ATS."
+        }
+      ],
+      "hint": "Viene despu\u00e9s de desglosar los movimientos pero antes de proponer las soluciones."
+    },
+    {
+      "question": "En los protocolos para trabajos en caliente, \u00bfcu\u00e1l es la regla estricta respecto al manejo de cilindros de gas?",
+      "answerOptions": [
+        {
+          "text": "Mantener una distancia m\u00ednima de $10$ metros entre cilindros.",
+          "isCorrect": true,
+          "rationale": "Esta separaci\u00f3n es vital para evitar reacciones en cadena o riesgos de explosi\u00f3n durante labores que generan chispas o calor."
+        },
+        {
+          "text": "Dejar las v\u00e1lvulas abiertas si los cilindros est\u00e1n completamente vac\u00edos.",
+          "isCorrect": false,
+          "rationale": "Incluso vac\u00edos, deben tener las v\u00e1lvulas cerradas y los casquetes puestos para evitar acumulaci\u00f3n de residuos peligrosos."
+        },
+        {
+          "text": "Utilizar biombos opacos solo si se trabaja en espacios confinados.",
+          "isCorrect": false,
+          "rationale": "La protecci\u00f3n colectiva con biombos es un protocolo obligatorio general para proteger a terceros de las radiaciones."
+        },
+        {
+          "text": "Almacenar los cilindros horizontalmente para evitar ca\u00eddas accidentales.",
+          "isCorrect": false,
+          "rationale": "Los cilindros deben mantenerse siempre en posici\u00f3n vertical y asegurados para garantizar la estabilidad de las v\u00e1lvulas."
+        }
+      ],
+      "hint": "Se trata de una medida de separaci\u00f3n f\u00edsica expresada en una unidad de longitud."
+    },
+    {
+      "question": "\u00bfA partir de qu\u00e9 altura se activa obligatoriamente el sistema antica\u00eddas completo en labores generales y excavaciones?",
+      "answerOptions": [
+        {
+          "text": "$1.80$ metros en general y $1.50$ metros en excavaciones.",
+          "isCorrect": true,
+          "rationale": "Estos son los l\u00edmites t\u00e9cnicos normativos que disparan la necesidad de protecci\u00f3n activa como arneses y l\u00edneas de vida."
+        },
+        {
+          "text": "$2.00$ metros en cualquier tipo de entorno industrial.",
+          "isCorrect": false,
+          "rationale": "Aunque es una medida com\u00fan en algunos pa\u00edses, la norma espec\u00edfica citada establece el l\u00edmite en $1.80$ metros."
+        },
+        {
+          "text": "$1.50$ metros para trabajos en escaleras y $1.00$ metro en andamios.",
+          "isCorrect": false,
+          "rationale": "La norma estandariza el riesgo de ca\u00edda a distinto nivel con l\u00edmites espec\u00edficos para excavaciones y labores generales."
+        },
+        {
+          "text": "$5.00$ metros, siempre que se utilicen redes de seguridad inferiores.",
+          "isCorrect": false,
+          "rationale": "La protecci\u00f3n personal (arn\u00e9s) se requiere a alturas mucho menores para prevenir lesiones graves por impacto."
+        }
+      ],
+      "hint": "Recuerda los dos valores num\u00e9ricos exactos mencionados para diferentes escenarios."
+    },
+    {
+      "question": "\u00bfQu\u00e9 requisito es indispensable para un trabajador al utilizar un andamio con tarjeta amarilla?",
+      "answerOptions": [
+        {
+          "text": "Uso de arn\u00e9s con doble l\u00ednea de vida y anclaje permanente.",
+          "isCorrect": true,
+          "rationale": "La tarjeta amarilla indica que la estructura est\u00e1 operativa pero con restricciones que exigen m\u00e1xima seguridad personal."
+        },
+        {
+          "text": "Prohibici\u00f3n total de subir a la estructura bajo cualquier circunstancia.",
+          "isCorrect": false,
+          "rationale": "La prohibici\u00f3n total de uso es la caracter\u00edstica exclusiva de la tarjeta roja."
+        },
+        {
+          "text": "Utilizar \u00fanicamente la regla de los tres puntos de apoyo sin arn\u00e9s.",
+          "isCorrect": false,
+          "rationale": "La regla de los tres puntos es b\u00e1sica, pero la tarjeta amarilla obliga espec\u00edficamente al uso del sistema antica\u00eddas."
+        },
+        {
+          "text": "Solicitar la presencia permanente de un inspector de la Sunafil.",
+          "isCorrect": false,
+          "rationale": "El control visual mediante tarjetas es una herramienta de gesti\u00f3n interna y no requiere supervisi\u00f3n estatal directa continua."
+        }
+      ],
+      "hint": "Esta tarjeta implica un estado intermedio que demanda equipo de protecci\u00f3n adicional."
+    },
+    {
+      "question": "En el modelo de causalidad ICAN (queso suizo), \u00bfqu\u00e9 representan las \"fallas latentes\"?",
+      "answerOptions": [
+        {
+          "text": "Decisiones gerenciales inadecuadas que preexisten en el sistema.",
+          "isCorrect": true,
+          "rationale": "Son condiciones silenciosas y administrativas que crean el escenario para que ocurra un error directo."
+        },
+        {
+          "text": "Los errores directos cometidos por el trabajador en la l\u00ednea de fuego.",
+          "isCorrect": false,
+          "rationale": "Esos errores directos se denominan fallas activas, no fallas latentes."
+        },
+        {
+          "text": "El mal uso del equipo de protecci\u00f3n personal durante la tarea.",
+          "isCorrect": false,
+          "rationale": "Esto se clasifica generalmente como un acto subest\u00e1ndar o una falla activa en el momento del accidente."
+        },
+        {
+          "text": "La manifestaci\u00f3n cl\u00ednica inmediata de una enfermedad ocupacional.",
+          "isCorrect": false,
+          "rationale": "Las enfermedades ocupacionales suelen tener latencia, pero el t\u00e9rmino 'falla latente' en ICAN se refiere a la gesti\u00f3n del sistema."
+        }
+      ],
+      "hint": "Se refiere a factores que est\u00e1n ocultos en la administraci\u00f3n y no en la acci\u00f3n directa."
+    },
+    {
+      "question": "Seg\u00fan la met\u00e1fora del \"\u00e1rbol de causas\", \u00bfqu\u00e9 simboliza la ra\u00edz del problema?",
+      "answerOptions": [
+        {
+          "text": "La falla del sistema de gesti\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Si no se arranca la ra\u00edz (el fallo del sistema), el accidente (la flor) volver\u00e1 a aparecer inevitablemente."
+        },
+        {
+          "text": "El comportamiento negligente del accidentado.",
+          "isCorrect": false,
+          "rationale": "El comportamiento suele ser el tallo o la parte visible, pero la causa profunda radica en el sistema que permiti\u00f3 ese acto."
+        },
+        {
+          "text": "La sanci\u00f3n administrativa impuesta por la autoridad.",
+          "isCorrect": false,
+          "rationale": "La sanci\u00f3n es una consecuencia externa, no una parte de la estructura causal del evento mismo."
+        },
+        {
+          "text": "El equipo de protecci\u00f3n personal defectuoso.",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda una condici\u00f3n subest\u00e1ndar, pero la ra\u00edz investiga por qu\u00e9 el sistema permiti\u00f3 el uso de equipo defectuoso."
+        }
+      ],
+      "hint": "Es la parte enterrada e invisible que sostiene todo lo que ocurre en la superficie."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de realizar un Examen M\u00e9dico Ocupacional (EMO) de salida?",
+      "answerOptions": [
+        {
+          "text": "Servir como escudo legal frente a la aparici\u00f3n tard\u00eda de enfermedades.",
+          "isCorrect": true,
+          "rationale": "Deja constancia del estado de salud exacto al finalizar el contrato, protegiendo a la empresa ante reclamos futuros por enfermedades latentes."
+        },
+        {
+          "text": "Determinar si el trabajador es apto para ser recontratado de inmediato.",
+          "isCorrect": false,
+          "rationale": "La aptitud para recontrataci\u00f3n se eval\u00faa en ex\u00e1menes de ingreso; el de salida busca documentar el estado final de salud."
+        },
+        {
+          "text": "Validar el pago de las liquidaciones y beneficios sociales del empleado.",
+          "isCorrect": false,
+          "rationale": "El EMO tiene fines puramente m\u00e9dicos y de salud ocupacional, no administrativos de car\u00e1cter remunerativo."
+        },
+        {
+          "text": "Garantizar que el trabajador no tenga agentes biol\u00f3gicos contagiosos.",
+          "isCorrect": false,
+          "rationale": "Aunque puede detectarlos, su fin estrat\u00e9gico es la vigilancia epidemiol\u00f3gica a largo plazo y la protecci\u00f3n legal."
+        }
+      ],
+      "hint": "Piensa en la importancia de tener una prueba cl\u00ednica irrefutable al terminar una relaci\u00f3n laboral."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el plazo legal m\u00e1ximo para reportar un accidente mortal ante el Ministerio de Trabajo?",
+      "answerOptions": [
+        {
+          "text": "$24$ horas de ocurrido el suceso.",
+          "isCorrect": true,
+          "rationale": "Debido a la gravedad extrema, el Estado exige una notificaci\u00f3n casi inmediata para iniciar las fiscalizaciones correspondientes."
+        },
+        {
+          "text": "$48$ horas contadas desde la confirmaci\u00f3n del deceso.",
+          "isCorrect": false,
+          "rationale": "La normativa es m\u00e1s estricta y otorga \u00fanicamente un d\u00eda calendario para realizar el reporte oficial."
+        },
+        {
+          "text": "Hasta el \u00faltimo d\u00eda del mes en que ocurri\u00f3 el fallecimiento.",
+          "isCorrect": false,
+          "rationale": "Este plazo extendido aplica solo para accidentes de trabajo no mortales."
+        },
+        {
+          "text": "$5$ d\u00edas h\u00e1biles despu\u00e9s de realizada la autopsia legal.",
+          "isCorrect": false,
+          "rationale": "El reporte no depende de los resultados de la autopsia, sino del evento fatal reportado inicialmente."
+        }
+      ],
+      "hint": "Es el plazo m\u00e1s corto y riguroso de toda la matriz de notificaciones."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 plazo se deben reportar las enfermedades ocupacionales confirmadas?",
+      "answerOptions": [
+        {
+          "text": "$5$ d\u00edas h\u00e1biles despu\u00e9s de confirmado el diagn\u00f3stico.",
+          "isCorrect": true,
+          "rationale": "Una vez que existe la certeza m\u00e9dica del diagn\u00f3stico, la empresa tiene una semana laboral para informar a la autoridad."
+        },
+        {
+          "text": "$24$ horas tras la sospecha cl\u00ednica inicial.",
+          "isCorrect": false,
+          "rationale": "El reporte se basa en el diagn\u00f3stico confirmado, no en la simple sospecha, y el plazo es mayor que para accidentes mortales."
+        },
+        {
+          "text": "Dentro de las $72$ horas posteriores al examen m\u00e9dico de salida.",
+          "isCorrect": false,
+          "rationale": "La detecci\u00f3n puede ocurrir en cualquier momento, no solo al salir, y el plazo legal se cuenta desde el diagn\u00f3stico."
+        },
+        {
+          "text": "Al finalizar el a\u00f1o fiscal junto con el balance de siniestralidad.",
+          "isCorrect": false,
+          "rationale": "Las enfermedades ocupacionales requieren reportes individuales dentro de los plazos espec\u00edficos establecidos por ley."
+        }
+      ],
+      "hint": "Es un periodo intermedio entre el reporte inmediato de accidentes fatales y el reporte mensual de no mortales."
+    },
+    {
+      "question": "En empresas con menos de $20$ trabajadores, \u00bfqui\u00e9n asume la responsabilidad de reportar los eventos cr\u00edticos al Estado?",
+      "answerOptions": [
+        {
+          "text": "El supervisor de seguridad y salud en el trabajo.",
+          "isCorrect": true,
+          "rationale": "Al no estar obligadas a tener un comit\u00e9, esta responsabilidad recae de forma directa en el supervisor designado."
+        },
+        {
+          "text": "El gerente de recursos humanos exclusivamente.",
+          "isCorrect": false,
+          "rationale": "Aunque puede apoyar, la responsabilidad t\u00e9cnica y legal directa en el sistema SST es del supervisor en empresas peque\u00f1as."
+        },
+        {
+          "text": "Un auditor externo contratado espec\u00edficamente para el reporte.",
+          "isCorrect": false,
+          "rationale": "La ley designa roles internos espec\u00edficos (Comit\u00e9 o Supervisor) para garantizar la continuidad de la gesti\u00f3n."
+        },
+        {
+          "text": "El propio trabajador afectado o sus familiares directos.",
+          "isCorrect": false,
+          "rationale": "El reporte estatal es una obligaci\u00f3n inalienable del empleador a trav\u00e9s de sus representantes de seguridad."
+        }
+      ],
+      "hint": "Es la figura que reemplaza las funciones del Comit\u00e9 en organizaciones de menor tama\u00f1o."
+    },
+    {
+      "question": "\u00bfQu\u00e9 busca evitar una investigaci\u00f3n cient\u00edfica de accidentes al rechazar el enfoque punitivo?",
+      "answerOptions": [
+        {
+          "text": "Que se silencie la verdad por miedo a represalias.",
+          "isCorrect": true,
+          "rationale": "Si el trabajador teme ser castigado, ocultar\u00e1 informaci\u00f3n vital para encontrar la ra\u00edz del problema y mejorar el sistema."
+        },
+        {
+          "text": "El pago de multas ante las entidades fiscalizadoras.",
+          "isCorrect": false,
+          "rationale": "La investigaci\u00f3n busca la mejora continua; las multas dependen del cumplimiento de normas y no del m\u00e9todo de investigaci\u00f3n interna."
+        },
+        {
+          "text": "La participaci\u00f3n de los sindicatos en el proceso de recolecci\u00f3n de datos.",
+          "isCorrect": false,
+          "rationale": "La transparencia y participaci\u00f3n son claves; el enfoque no punitivo fomenta la colaboraci\u00f3n de todos los sectores."
+        },
+        {
+          "text": "El uso de c\u00e1maras de video y evidencias digitales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, una investigaci\u00f3n cient\u00edfica debe apoyarse en toda la evidencia objetiva disponible."
+        }
+      ],
+      "hint": "Piensa en el efecto que tiene el miedo al castigo sobre la honestidad del personal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 principio resume la esencia de la ergonom\u00eda en el entorno laboral?",
+      "answerOptions": [
+        {
+          "text": "Adaptar el trabajo y las m\u00e1quinas al ser humano.",
+          "isCorrect": true,
+          "rationale": "La ergonom\u00eda busca que el dise\u00f1o del entorno se ajuste a las capacidades y limitaciones de las personas para evitar da\u00f1os."
+        },
+        {
+          "text": "Entrenar al trabajador para que soporte condiciones extremas.",
+          "isCorrect": false,
+          "rationale": "Eso ser\u00eda resistencia f\u00edsica, mientras que la ergonom\u00eda busca modificar el entorno para que el entrenamiento extremo no sea necesario."
+        },
+        {
+          "text": "Maximizar la velocidad de producci\u00f3n sin importar la postura.",
+          "isCorrect": false,
+          "rationale": "La ergonom\u00eda prioriza la salud y la adaptaci\u00f3n, lo que a largo plazo mejora la productividad sostenible."
+        },
+        {
+          "text": "Sustituir toda la mano de obra humana por maquinaria automatizada.",
+          "isCorrect": false,
+          "rationale": "La ergonom\u00eda se aplica precisamente donde hay interacci\u00f3n entre humanos y su entorno de trabajo, incluyendo m\u00e1quinas."
+        }
+      ],
+      "hint": "Se trata de un cambio en la direcci\u00f3n de la adaptaci\u00f3n: \u00bfqui\u00e9n se ajusta a qui\u00e9n?"
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gesti\u00f3n de Riesgos y ISO 45001",
+      "Definiciones de Siniestralidad (Accidente e Incidente)",
+      "Causalidad y Factores de Riesgo (B\u00e1sicas e Inmediatas)",
+      "An\u00e1lisis de Trabajo Seguro (ATS) y PETAR",
+      "Seguridad en Trabajos de Alto Riesgo (Caliente y Altura)",
+      "Metodolog\u00edas de Investigaci\u00f3n de Accidentes (ICAN y \u00c1rbol de Causas)",
+      "Vigilancia de la Salud Ocupacional y Ergonom\u00eda",
+      "Plazos Legales de Reporte y Responsabilidad Tripartita"
+    ],
+    "followUp": [
+      "Implementaci\u00f3n de auditor\u00edas estrat\u00e9gicas en el Comit\u00e9 de Seguridad",
+      "Modelos psicol\u00f3gicos aplicados a la prevenci\u00f3n proactiva",
+      "Dise\u00f1o de controles de ingenier\u00eda para neutralizar peligros cr\u00edticos",
+      "Gesti\u00f3n de agentes psicosociales y fatiga laboral",
+      "Procedimientos espec\u00edficos para el uso de la clave SOL en reportes de salud",
+      "Desarrollo de planes de vigilancia epidemiol\u00f3gica a largo plazo"
+    ]
+  }
+}

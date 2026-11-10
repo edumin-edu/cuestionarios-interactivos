@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la base absoluta de la seguridad minera moderna que permite gestionar la incertidumbre en los dise\u00f1os?",
+      "answerOptions": [
+        {
+          "text": "La geomec\u00e1nica",
+          "isCorrect": true,
+          "rationale": "El an\u00e1lisis geomec\u00e1nico es fundamental para entender el comportamiento del macizo rocoso y prevenir colapsos mediante dise\u00f1os respaldados."
+        },
+        {
+          "text": "La hidrolog\u00eda avanzada",
+          "isCorrect": false,
+          "rationale": "Aunque es crucial para la estabilidad, se considera un factor influyente m\u00e1s que la base absoluta de la seguridad minera."
+        },
+        {
+          "text": "La topograf\u00eda digital",
+          "isCorrect": false,
+          "rationale": "La topograf\u00eda proporciona datos geom\u00e9tricos necesarios, pero no analiza la estabilidad ni las propiedades mec\u00e1nicas de la roca."
+        },
+        {
+          "text": "La perforaci\u00f3n diamantina",
+          "isCorrect": false,
+          "rationale": "Es una herramienta de exploraci\u00f3n y obtenci\u00f3n de datos, pero la gesti\u00f3n de la seguridad recae en el an\u00e1lisis de esos datos."
+        }
+      ],
+      "hint": "Se trata de la disciplina que estudia las propiedades mec\u00e1nicas de los materiales geol\u00f3gicos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 t\u00e9rmino describe la condici\u00f3n de equilibrio perfecto de una masa rocosa frente a posibles fallas?",
+      "answerOptions": [
+        {
+          "text": "Estabilidad",
+          "isCorrect": true,
+          "rationale": "La estabilidad representa el estado ideal donde las fuerzas resistentes mantienen el terreno sin movimientos incontrolados."
+        },
+        {
+          "text": "Confinamiento",
+          "isCorrect": false,
+          "rationale": "El confinamiento es una condici\u00f3n de presi\u00f3n en excavaciones subterr\u00e1neas, no el estado general de equilibrio."
+        },
+        {
+          "text": "Resistencia de corte",
+          "isCorrect": false,
+          "rationale": "Esta es una propiedad del material, mientras que el equilibrio es el resultado de la interacci\u00f3n de fuerzas."
+        },
+        {
+          "text": "Sostenimiento",
+          "isCorrect": false,
+          "rationale": "El sostenimiento es la acci\u00f3n t\u00e9cnica aplicada para alcanzar la estabilidad, no la condici\u00f3n de equilibrio en s\u00ed misma."
+        }
+      ],
+      "hint": "Es el concepto opuesto a la inestabilidad o al colapso."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un ejemplo de talud artificial mencionado como una estructura de 'vida o muerte' para evitar desastres ambientales?",
+      "answerOptions": [
+        {
+          "text": "Presas de relaves",
+          "isCorrect": true,
+          "rationale": "Las presas de relaves son estructuras de ingenier\u00eda cr\u00edticas cuyo fallo puede causar impactos ambientales catastr\u00f3ficos."
+        },
+        {
+          "text": "Acantilados costeros",
+          "isCorrect": false,
+          "rationale": "Los acantilados se clasifican como taludes naturales esculpidos por la erosi\u00f3n y la geolog\u00eda."
+        },
+        {
+          "text": "Cortes de carretera",
+          "isCorrect": false,
+          "rationale": "Aunque son artificiales, el riesgo ambiental masivo suele asociarse m\u00e1s directamente con los dep\u00f3sitos de residuos mineros."
+        },
+        {
+          "text": "Morrenas glaciares",
+          "isCorrect": false,
+          "rationale": "Las morrenas son dep\u00f3sitos naturales de material transportado por glaciares, no estructuras artificiales."
+        }
+      ],
+      "hint": "Considere las estructuras dise\u00f1adas por el hombre para almacenar desechos mineros."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede f\u00edsicamente en el momento exacto en que se produce un colapso o inestabilidad?",
+      "answerOptions": [
+        {
+          "text": "Los esfuerzos de corte superan la resistencia del material",
+          "isCorrect": true,
+          "rationale": "La falla ocurre cuando la carga aplicada es mayor a la capacidad interna del material para soportarla."
+        },
+        {
+          "text": "La presi\u00f3n intersticial llega a cero",
+          "isCorrect": false,
+          "rationale": "La presi\u00f3n intersticial baja suele aumentar la estabilidad; es su elevaci\u00f3n la que causa problemas."
+        },
+        {
+          "text": "Se iguala el rumbo con el buzamiento",
+          "isCorrect": false,
+          "rationale": "Estos son par\u00e1metros geom\u00e9tricos de orientaci\u00f3n y no dictan por s\u00ed solos el momento de la ruptura f\u00edsica."
+        },
+        {
+          "text": "El material alcanza su cohesi\u00f3n m\u00e1xima",
+          "isCorrect": false,
+          "rationale": "Alcanzar la cohesi\u00f3n m\u00e1xima es el l\u00edmite de resistencia, el colapso ocurre al sobrepasarla."
+        }
+      ],
+      "hint": "Piense en la relaci\u00f3n entre la fuerza que empuja y la fuerza que resiste."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera al agua como el 'peor enemigo' de la estabilidad de un talud?",
+      "answerOptions": [
+        {
+          "text": "Eleva la presi\u00f3n intersticial y reduce la resistencia interna",
+          "isCorrect": true,
+          "rationale": "El agua ejerce presi\u00f3n en las grietas y poros, lo que disminuye dr\u00e1sticamente la capacidad de la roca para sostenerse."
+        },
+        {
+          "text": "Aumenta la rugosidad de las discontinuidades",
+          "isCorrect": false,
+          "rationale": "El agua suele actuar como lubricante, reduciendo la rugosidad efectiva y la fricci\u00f3n."
+        },
+        {
+          "text": "Incrementa el factor de seguridad",
+          "isCorrect": false,
+          "rationale": "La presencia de agua saturada es un factor que disminuye el factor de seguridad, nunca lo aumenta."
+        },
+        {
+          "text": "Endurece los materiales finos",
+          "isCorrect": false,
+          "rationale": "El agua tiende a ablandar y saturar los materiales finos, convirti\u00e9ndolos en flujos viscosos."
+        }
+      ],
+      "hint": "Piense en el efecto de la presi\u00f3n interna dentro de las fracturas del suelo o roca."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tipo de falla se caracteriza por el movimiento de masas sobre planos de debilidad paralelos a la cara del talud?",
+      "answerOptions": [
+        {
+          "text": "Deslizamientos translacionales",
+          "isCorrect": true,
+          "rationale": "En este tipo de falla, la masa se desplaza de forma plana a lo largo de estructuras preexistentes paralelas a la superficie."
+        },
+        {
+          "text": "Desprendimientos (rockfalls)",
+          "isCorrect": false,
+          "rationale": "Los rockfalls son ca\u00eddas violentas y abruptas de bloques, no desplazamientos masivos sobre planos paralelos."
+        },
+        {
+          "text": "Deslizamientos rotacionales",
+          "isCorrect": false,
+          "rationale": "Las fallas rotacionales tienen superficies curvas y suelen ocurrir en materiales m\u00e1s homog\u00e9neos como suelos."
+        },
+        {
+          "text": "Flujos viscosos",
+          "isCorrect": false,
+          "rationale": "Los flujos implican un movimiento ca\u00f3tico de material saturado que se comporta como un fluido."
+        }
+      ],
+      "hint": "Es un movimiento que sigue una trayectoria recta y paralela a una estructura."
+    },
+    {
+      "question": "\u00bfQu\u00e9 instrumentos de precisi\u00f3n son indispensables para realizar un mapeo geomec\u00e1nico de estructuras?",
+      "answerOptions": [
+        {
+          "text": "Br\u00fajula con clin\u00f3metro y nivel circular",
+          "isCorrect": true,
+          "rationale": "Estos instrumentos permiten medir con exactitud el rumbo, buzamiento y la direcci\u00f3n del buzamiento de los planos."
+        },
+        {
+          "text": "Esc\u00e1ner l\u00e1ser y GPS diferencial",
+          "isCorrect": false,
+          "rationale": "Aunque son \u00fatiles para topograf\u00eda, el mapeo de estructuras en el frente requiere contacto directo y medici\u00f3n de planos."
+        },
+        {
+          "text": "Martillo Schmidt y penetr\u00f3metro",
+          "isCorrect": false,
+          "rationale": "Estos miden dureza o resistencia, pero no la orientaci\u00f3n geom\u00e9trica de las discontinuidades."
+        },
+        {
+          "text": "Picota geol\u00f3gica y cinta m\u00e9trica",
+          "isCorrect": false,
+          "rationale": "Son herramientas b\u00e1sicas, pero no proporcionan la precisi\u00f3n necesaria para medir \u00e1ngulos de inclinaci\u00f3n."
+        }
+      ],
+      "hint": "Se requieren herramientas que midan \u00e1ngulos horizontales y verticales."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es imperativo alejarse de mallas o pernos de acero al usar la br\u00fajula en el campo?",
+      "answerOptions": [
+        {
+          "text": "Debido a la interferencia magn\u00e9tica",
+          "isCorrect": true,
+          "rationale": "El metal cercano desv\u00eda la aguja magn\u00e9tica, lo que invalida los datos de rumbo y direcci\u00f3n recolectados."
+        },
+        {
+          "text": "Para evitar da\u00f1os en el nivel circular",
+          "isCorrect": false,
+          "rationale": "El nivel circular es f\u00edsico y no se ve afectado por la proximidad de metales."
+        },
+        {
+          "text": "Porque el acero absorbe la humedad",
+          "isCorrect": false,
+          "rationale": "La humedad no afecta la lectura magn\u00e9tica de la br\u00fajula de la manera que lo hace el metal."
+        },
+        {
+          "text": "Para cumplir con protocolos de ruido",
+          "isCorrect": false,
+          "rationale": "La restricci\u00f3n es t\u00e9cnica y de precisi\u00f3n de datos, no relacionada con el ruido ac\u00fastico."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo interact\u00faa una aguja imantada con los metales ferrosos."
+    },
+    {
+      "question": "Dentro del sistema RMR de Bieniawski, \u00bfcu\u00e1l de estos par\u00e1metros se eval\u00faa mediante golpes con la picota geol\u00f3gica?",
+      "answerOptions": [
+        {
+          "text": "Resistencia a la compresi\u00f3n simple",
+          "isCorrect": true,
+          "rationale": "La respuesta de la roca al golpe de la picota permite una estimaci\u00f3n cualitativa de su resistencia base."
+        },
+        {
+          "text": "Calidad del testigo (RQD)",
+          "isCorrect": false,
+          "rationale": "El RQD se mide sobre muestras de perforaci\u00f3n diamantina, no mediante golpes superficiales."
+        },
+        {
+          "text": "Persistencia de discontinuidades",
+          "isCorrect": false,
+          "rationale": "La persistencia se eval\u00faa observando la extensi\u00f3n visual de las fracturas en el macizo."
+        },
+        {
+          "text": "Presencia de agua subterr\u00e1nea",
+          "isCorrect": false,
+          "rationale": "El agua se eval\u00faa observando filtraciones, humedad o flujo en las paredes de la excavaci\u00f3n."
+        }
+      ],
+      "hint": "Se trata de estimar qu\u00e9 tan duro es el material base."
+    },
+    {
+      "question": "Si una evaluaci\u00f3n RMR b\u00e1sico de $46$ recibe una penalizaci\u00f3n de $-12$ puntos por orientaci\u00f3n desfavorable, \u00bfcu\u00e1l es su clasificaci\u00f3n final?",
+      "answerOptions": [
+        {
+          "text": "Clase IV (Roca mala)",
+          "isCorrect": true,
+          "rationale": "Al restar $12$ puntos a $46$, se obtiene un RMR de $34$, lo cual corresponde a la categor\u00eda de roca mala seg\u00fan Bieniawski."
+        },
+        {
+          "text": "Clase II (Roca buena)",
+          "isCorrect": false,
+          "rationale": "Un valor de $34$ est\u00e1 muy por debajo de los rangos de roca buena, que suelen superar los $60$ puntos."
+        },
+        {
+          "text": "Clase III (Roca regular)",
+          "isCorrect": false,
+          "rationale": "El valor original de $46$ era roca regular, pero la penalidad lo desplaza a la siguiente categor\u00eda inferior."
+        },
+        {
+          "text": "Clase V (Roca muy mala)",
+          "isCorrect": false,
+          "rationale": "La clase V generalmente requiere puntajes inferiores a $20$; $34$ se mantiene en la clase IV."
+        }
+      ],
+      "hint": "Calcule el puntaje final ($46 - 12$) y determine la categor\u00eda resultante."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 tipo de estructuras se aplican los m\u00e9todos de equilibrio l\u00edmite en an\u00e1lisis de estabilidad?",
+      "answerOptions": [
+        {
+          "text": "Taludes finitos con fallas rotacionales",
+          "isCorrect": true,
+          "rationale": "Estos m\u00e9todos son ideales para analizar geometr\u00edas donde la falla tiene una forma definida como cilindros o cucharas."
+        },
+        {
+          "text": "Taludes infinitos de gran espesor",
+          "isCorrect": false,
+          "rationale": "En taludes infinitos se asume que el espesor es despreciable respecto a la altura, simplificando el c\u00e1lculo."
+        },
+        {
+          "text": "Excavaciones de confinamiento total",
+          "isCorrect": false,
+          "rationale": "Las excavaciones confinadas suelen requerir an\u00e1lisis de esfuerzos y deformaciones m\u00e1s complejos que el equilibrio l\u00edmite."
+        },
+        {
+          "text": "Mallas de perforaci\u00f3n y voladura",
+          "isCorrect": false,
+          "rationale": "El equilibrio l\u00edmite se usa para estabilidad de masas, no para el dise\u00f1o de fragmentaci\u00f3n de roca."
+        }
+      ],
+      "hint": "Considere las geometr\u00edas donde la masa inestable tiene dimensiones comparables a la altura del talud."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el software de la suite RockScience dise\u00f1ado espec\u00edficamente para el an\u00e1lisis de bloques tridimensionales (cu\u00f1as) en miner\u00eda subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "Unwedge",
+          "isCorrect": true,
+          "rationale": "Unwedge permite visualizar e inspeccionar la estabilidad de bloques formados por la intersecci\u00f3n de familias de fracturas."
+        },
+        {
+          "text": "Dips",
+          "isCorrect": false,
+          "rationale": "Dips se utiliza para el an\u00e1lisis estad\u00edstico y visualizaci\u00f3n de proyecciones estereogr\u00e1ficas, no para estabilidad de bloques."
+        },
+        {
+          "text": "RS2",
+          "isCorrect": false,
+          "rationale": "RS2 se basa en elementos finitos para analizar deformaciones y esfuerzos en dos dimensiones."
+        },
+        {
+          "text": "Slide",
+          "isCorrect": false,
+          "rationale": "Slide se especializa en an\u00e1lisis de estabilidad de taludes en superficie mediante equilibrio l\u00edmite."
+        }
+      ],
+      "hint": "Su nombre en ingl\u00e9s sugiere su funci\u00f3n de analizar 'cu\u00f1as'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el Factor de Seguridad ($FS$) en un dise\u00f1o ingenieril?",
+      "answerOptions": [
+        {
+          "text": "La divisi\u00f3n entre la resistencia disponible y los esfuerzos actuantes",
+          "isCorrect": true,
+          "rationale": "Es la relaci\u00f3n num\u00e9rica que indica cu\u00e1nto supera la capacidad del terreno a las cargas que intentan fallarlo."
+        },
+        {
+          "text": "La suma total de todos los puntos del RMR",
+          "isCorrect": false,
+          "rationale": "El RMR es una clasificaci\u00f3n de calidad, mientras que el $FS$ es un c\u00e1lculo de estabilidad mec\u00e1nica."
+        },
+        {
+          "text": "El \u00e1ngulo m\u00e1ximo de inclinaci\u00f3n de una cara de banco",
+          "isCorrect": false,
+          "rationale": "El \u00e1ngulo es un dato geom\u00e9trico, no una relaci\u00f3n de fuerzas o resistencias."
+        },
+        {
+          "text": "La cantidad de pernos instalados por metro cuadrado",
+          "isCorrect": false,
+          "rationale": "Esto describe la densidad de sostenimiento, la cual contribuye al $FS$ pero no es su definici\u00f3n."
+        }
+      ],
+      "hint": "Es una relaci\u00f3n entre lo que el terreno aguanta y lo que se le exige."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el valor m\u00ednimo del Factor de Seguridad ($FS$) exigido reglamentariamente para labores permanentes?",
+      "answerOptions": [
+        {
+          "text": "$1.5$",
+          "isCorrect": true,
+          "rationale": "Para infraestructuras de larga vida, se requiere que la resistencia supere en un $50\\%$ a los esfuerzos."
+        },
+        {
+          "text": "$1.0$",
+          "isCorrect": false,
+          "rationale": "Un $FS$ de $1.0$ representa un equilibrio cr\u00edtico e inminencia de falla, inadmisible para labores permanentes."
+        },
+        {
+          "text": "$1.2$",
+          "isCorrect": false,
+          "rationale": "Este valor es el umbral para labores temporales de r\u00e1pida extracci\u00f3n, no para permanentes."
+        },
+        {
+          "text": "$2.0$",
+          "isCorrect": false,
+          "rationale": "Aunque es m\u00e1s seguro, la normativa suele establecer el m\u00ednimo en $1.5$ para optimizar recursos."
+        }
+      ],
+      "hint": "Es un margen que exige un super\u00e1vit de resistencia del $50\\%$."
+    },
+    {
+      "question": "\u00bfQu\u00e9 define a los 'par\u00e1metros desarrollados' en el contexto de la estabilidad de terrenos?",
+      "answerOptions": [
+        {
+          "text": "La fracci\u00f3n de cohesi\u00f3n y fricci\u00f3n que el terreno usa activamente en un instante",
+          "isCorrect": true,
+          "rationale": "No son los valores m\u00e1ximos, sino lo que el terreno moviliza realmente para contrarrestar la carga actual."
+        },
+        {
+          "text": "La resistencia m\u00e1xima absoluta medida en laboratorio",
+          "isCorrect": false,
+          "rationale": "Esos ser\u00edan los par\u00e1metros 'pico' o m\u00e1ximos, no necesariamente los que est\u00e1n actuando en el dise\u00f1o."
+        },
+        {
+          "text": "El incremento de resistencia tras aplicar shotcrete",
+          "isCorrect": false,
+          "rationale": "Eso describe la efectividad del sostenimiento, no los par\u00e1metros intr\u00ednsecos movilizados del terreno."
+        },
+        {
+          "text": "La dureza de la roca medida con el martillo Schmidt",
+          "isCorrect": false,
+          "rationale": "Esta es una propiedad f\u00edsica puntual, no una medida de los par\u00e1metros movilizados en un an\u00e1lisis de estabilidad."
+        }
+      ],
+      "hint": "Piense en la parte de la capacidad total que se est\u00e1 'gastando' para no caerse."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre cuando los par\u00e1metros desarrollados igualan a los par\u00e1metros m\u00e1ximos de la roca?",
+      "answerOptions": [
+        {
+          "text": "El Factor de Seguridad llega a $1$ y ocurre la falla",
+          "isCorrect": true,
+          "rationale": "Cuando el terreno agota toda su reserva de resistencia para equilibrar el esfuerzo, se produce el colapso."
+        },
+        {
+          "text": "La excavaci\u00f3n se vuelve hiper-estable",
+          "isCorrect": false,
+          "rationale": "Al contrario, se llega al punto m\u00e1s cr\u00edtico de inestabilidad posible antes del movimiento."
+        },
+        {
+          "text": "Se requiere menos sostenimiento",
+          "isCorrect": false,
+          "rationale": "En este punto, el sostenimiento instalado ha fallado en mantener un margen de seguridad."
+        },
+        {
+          "text": "La presi\u00f3n intersticial se anula",
+          "isCorrect": false,
+          "rationale": "La falla suele ser independiente de que la presi\u00f3n se anule; de hecho, suele ocurrir por lo opuesto."
+        }
+      ],
+      "hint": "Es el punto de quiebre donde la resistencia disponible ya no supera a la demanda."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal medida preventiva contra el colapso en la miner\u00eda de tajo abierto?",
+      "answerOptions": [
+        {
+          "text": "La optimizaci\u00f3n geom\u00e9trica de bancos y vermas",
+          "isCorrect": true,
+          "rationale": "Ajustar la altura, \u00e1ngulo y ancho de la geometr\u00eda permite que el tajo sea estable por gravedad."
+        },
+        {
+          "text": "El uso masivo de pernos helicoidales",
+          "isCorrect": false,
+          "rationale": "Aunque se usan, en tajos abiertos la geometr\u00eda es la defensa principal debido a la escala masiva."
+        },
+        {
+          "text": "La aplicaci\u00f3n de concreto lanzado en todos los taludes",
+          "isCorrect": false,
+          "rationale": "Ser\u00eda econ\u00f3micamente inviable y t\u00e9cnicamente innecesario si la geometr\u00eda est\u00e1 bien dise\u00f1ada."
+        },
+        {
+          "text": "El enfriamiento del macizo rocoso",
+          "isCorrect": false,
+          "rationale": "La temperatura no es un factor de control geom\u00e9trico o mec\u00e1nico primario en la estabilidad de tajos."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo se distribuyen las cargas cambiando la forma de la excavaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja t\u00e9cnica ofrece un perno helicoidal sobre un perno Split Set?",
+      "answerOptions": [
+        {
+          "text": "Mayor capacidad de soporte por trabajar por adherencia",
+          "isCorrect": true,
+          "rationale": "El uso de resina o cemento le permite alcanzar $2.5$ ton/pie, superando la fricci\u00f3n simple del Split Set."
+        },
+        {
+          "text": "Instalaci\u00f3n m\u00e1s r\u00e1pida y sin cemento",
+          "isCorrect": false,
+          "rationale": "Esta es en realidad la ventaja del Split Set, que trabaja solo por fricci\u00f3n inmediata."
+        },
+        {
+          "text": "Menor costo de materiales",
+          "isCorrect": false,
+          "rationale": "Los pernos helicoidales suelen ser m\u00e1s costosos debido a los componentes adicionales como resina o lechada."
+        },
+        {
+          "text": "Inmunidad total a la corrosi\u00f3n",
+          "isCorrect": false,
+          "rationale": "Ambos son de acero y pueden corroerse; la diferencia principal radica en su mecanismo de anclaje."
+        }
+      ],
+      "hint": "Considere c\u00f3mo se fija el perno a la roca: \u00bffricci\u00f3n o pegamento?"
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n del cuaderno geomec\u00e1nico auditable?",
+      "answerOptions": [
+        {
+          "text": "Documentar legalmente las decisiones y responsabilidades t\u00e9cnicas",
+          "isCorrect": true,
+          "rationale": "Es el registro vital donde queda plasmada la verdad de campo y se justifica el dise\u00f1o de soporte."
+        },
+        {
+          "text": "Almacenar los c\u00f3digos de licencia del software",
+          "isCorrect": false,
+          "rationale": "El cuaderno es para datos de campo y decisiones t\u00e9cnicas, no para administraci\u00f3n de software."
+        },
+        {
+          "text": "Registrar \u00fanicamente el horario del personal",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n es t\u00e9cnica y de seguridad, no de control de asistencia de recursos humanos."
+        },
+        {
+          "text": "Servir como manual de usuario para la br\u00fajula",
+          "isCorrect": false,
+          "rationale": "Aunque contiene datos tomados con la br\u00fajula, su prop\u00f3sito es el respaldo legal del dise\u00f1o estructural."
+        }
+      ],
+      "hint": "Piense en su importancia en t\u00e9rminos de transparencia y rendici\u00f3n de cuentas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 instrumentos permiten detectar movimientos milim\u00e9tricos en el macizo como sistema de alerta temprana?",
+      "answerOptions": [
+        {
+          "text": "Extens\u00f3metros y convergencias",
+          "isCorrect": true,
+          "rationale": "Estos dispositivos monitorean c\u00f3mo se cierra la excavaci\u00f3n o c\u00f3mo se estira la roca con el tiempo."
+        },
+        {
+          "text": "Clin\u00f3metros de mano",
+          "isCorrect": false,
+          "rationale": "Se usan para mapeo est\u00e1tico inicial, no para el monitoreo din\u00e1mico y continuo de movimientos."
+        },
+        {
+          "text": "Picotas geol\u00f3gicas",
+          "isCorrect": false,
+          "rationale": "Son herramientas de caracterizaci\u00f3n manual, incapaces de medir deformaciones milim\u00e9tricas."
+        },
+        {
+          "text": "Brujulas tipo Brunton",
+          "isCorrect": false,
+          "rationale": "Miden orientaciones espaciales de planos, pero no la evoluci\u00f3n temporal de desplazamientos."
+        }
+      ],
+      "hint": "Busque herramientas que midan cambios en la distancia o deformaci\u00f3n de la roca."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Geomec\u00e1nica Minera",
+      "Clasificaci\u00f3n de Taludes",
+      "Modos de Falla del Terreno",
+      "Sistema de Clasificaci\u00f3n RMR",
+      "Mapeo y Recolecci\u00f3n de Datos",
+      "Factor de Seguridad",
+      "Sostenimiento y Refuerzo",
+      "Modelamiento y Monitoreo"
+    ],
+    "followUp": [
+      "Modelamiento Num\u00e9rico Geot\u00e9cnico",
+      "Sistemas de Alerta Temprana en Miner\u00eda",
+      "An\u00e1lisis de Estabilidad por Equilibrio L\u00edmite",
+      "Mec\u00e1nica de Rocas en Excavaciones Profundas"
+    ]
+  }
+}

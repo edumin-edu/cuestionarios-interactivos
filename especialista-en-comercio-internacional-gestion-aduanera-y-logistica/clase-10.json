@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de una log\u00edstica robusta en el sector minero ante la volatilidad de la Bolsa de Metales de Londres?",
+      "answerOptions": [
+        {
+          "text": "Fijar el precio de venta de los minerales de forma independiente.",
+          "isCorrect": false,
+          "rationale": "Los precios de los metales son fijados por mercados externos y no pueden ser controlados directamente por la gerencia minera."
+        },
+        {
+          "text": "Proteger los m\u00e1rgenes de ganancia mediante la eficiencia operativa.",
+          "isCorrect": true,
+          "rationale": "Dado que el precio es externo, la optimizaci\u00f3n de los costos log\u00edsticos es el \u00fanico mecanismo interno para salvaguardar la rentabilidad."
+        },
+        {
+          "text": "Eliminar por completo el riesgo de mercado en las transacciones.",
+          "isCorrect": false,
+          "rationale": "La log\u00edstica mitiga el impacto de los costos, pero no tiene la capacidad de eliminar la volatilidad inherente de los mercados globales."
+        },
+        {
+          "text": "Aumentar la producci\u00f3n bruta de concentrados de cobre y oro.",
+          "isCorrect": false,
+          "rationale": "La producci\u00f3n bruta depende de la fase de explotaci\u00f3n y beneficio, no directamente de la estrategia log\u00edstica de comercializaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 variables puede controlar la empresa y cu\u00e1les son impuestas por el mercado externo."
+    },
+    {
+      "question": "En el ciclo operativo de la miner\u00eda, \u00bfcu\u00e1l es la fase caracterizada por requerir perforaciones costosas y un alt\u00edsimo nivel de riesgo?",
+      "answerOptions": [
+        {
+          "text": "Cateo y prospecci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta es la fase inicial de b\u00fasqueda superficial de indicios, previa a las perforaciones profundas."
+        },
+        {
+          "text": "Exploraci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Esta etapa demanda una inversi\u00f3n significativa en perforaciones para determinar la viabilidad del yacimiento bajo un entorno de incertidumbre."
+        },
+        {
+          "text": "Desarrollo y construcci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque es costosa, esta fase ocurre cuando ya hay certidumbre sobre el proyecto tras los estudios de factibilidad."
+        },
+        {
+          "text": "Cierre y postcierre.",
+          "isCorrect": false,
+          "rationale": "Esta fase se enfoca en la rehabilitaci\u00f3n ambiental del \u00e1rea una vez finalizada la extracci\u00f3n de recursos."
+        }
+      ],
+      "hint": "Se trata de la etapa donde se busca confirmar la existencia de mineral mediante m\u00e9todos intrusivos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 unidad de medida se utiliza convencionalmente para cotizar los metales preciosos como el oro y la plata en los mercados internacionales?",
+      "answerOptions": [
+        {
+          "text": "Libras.",
+          "isCorrect": false,
+          "rationale": "Las libras se utilizan com\u00fanmente para metales de uso industrial masivo como el cobre."
+        },
+        {
+          "text": "Toneladas m\u00e9tricas.",
+          "isCorrect": false,
+          "rationale": "Se usa para el transporte de grandes vol\u00famenes de concentrados, pero no es la unidad de cotizaci\u00f3n de metales preciosos."
+        },
+        {
+          "text": "Onzas Troy.",
+          "isCorrect": true,
+          "rationale": "La onza troy es el est\u00e1ndar espec\u00edfico utilizado en los mercados financieros para la valoraci\u00f3n de metales preciosos."
+        },
+        {
+          "text": "Kilogramos.",
+          "isCorrect": false,
+          "rationale": "Aunque es una unidad de masa com\u00fan, el mercado global financiero no la utiliza para la cotizaci\u00f3n est\u00e1ndar de oro."
+        }
+      ],
+      "hint": "Es una medida distinta a la utilizada para los metales industriales de carga masiva."
+    },
+    {
+      "question": "Dentro de la arquitectura financiera minera, \u00bfqu\u00e9 representa el concepto de Capex?",
+      "answerOptions": [
+        {
+          "text": "Los gastos operativos diarios para mantener la producci\u00f3n activa.",
+          "isCorrect": false,
+          "rationale": "Los gastos de mantenimiento diario y suministros se clasifican bajo el concepto de Opex."
+        },
+        {
+          "text": "La inversi\u00f3n inicial en activos fijos e infraestructura de largo plazo.",
+          "isCorrect": true,
+          "rationale": "El Capex incluye compras masivas como plantas procesadoras o flotas de maquinaria para establecer la capacidad productiva."
+        },
+        {
+          "text": "El pago de salarios y reactivos qu\u00edmicos para el beneficio.",
+          "isCorrect": false,
+          "rationale": "Estos son costos recurrentes y directos de la operaci\u00f3n, por lo que pertenecen al gasto operativo."
+        },
+        {
+          "text": "La rentabilidad neta obtenida tras la comercializaci\u00f3n del mineral.",
+          "isCorrect": false,
+          "rationale": "El Capex es un desembolso de capital para inversi\u00f3n, no un indicador de utilidad final."
+        }
+      ],
+      "hint": "Considere la analog\u00eda del cami\u00f3n y la gasolina mencionada en la estructura de costos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja estrat\u00e9gica de la exportaci\u00f3n indirecta para una empresa minera?",
+      "answerOptions": [
+        {
+          "text": "Obtener el m\u00e1ximo margen de ganancia al eliminar intermediarios.",
+          "isCorrect": false,
+          "rationale": "La eliminaci\u00f3n de intermediarios es una caracter\u00edstica de la exportaci\u00f3n directa, no de la indirecta."
+        },
+        {
+          "text": "Controlar cada etapa de la complejidad log\u00edstica internacional.",
+          "isCorrect": false,
+          "rationale": "En el modelo indirecto, el control y la ejecuci\u00f3n log\u00edstica se delegan a agentes o brokers globales."
+        },
+        {
+          "text": "Transferir el riesgo y simplificar la carga administrativa.",
+          "isCorrect": true,
+          "rationale": "Al usar brokers como Glencore o BHP, la minera se apoya en redes de distribuci\u00f3n ya establecidas, reduciendo su exposici\u00f3n."
+        },
+        {
+          "text": "Reducir los costos de producci\u00f3n en la fase de beneficio.",
+          "isCorrect": false,
+          "rationale": "La estrategia de comercializaci\u00f3n no impacta los costos t\u00e9cnicos de procesamiento en planta."
+        }
+      ],
+      "hint": "Piense en lo que gana la empresa al delegar la log\u00edstica a un gigante del mercado."
+    },
+    {
+      "question": "En el contexto de los instrumentos financieros, \u00bfqu\u00e9 distingue a la 'Cl\u00e1usula Verde' de otros tipos de adelantos?",
+      "answerOptions": [
+        {
+          "text": "Permite recibir dinero mediante un simple recibo antes del embarque.",
+          "isCorrect": false,
+          "rationale": "Esa es la descripci\u00f3n de la cl\u00e1usula roja, que es menos restrictiva que la verde."
+        },
+        {
+          "text": "Exige que el mineral est\u00e9 bajo custodia en un almac\u00e9n autorizado respaldado por un warrant.",
+          "isCorrect": true,
+          "rationale": "La cl\u00e1usula verde requiere una garant\u00eda f\u00edsica tangible para liberar los fondos, ofreciendo mayor seguridad al comprador."
+        },
+        {
+          "text": "Es un compromiso bancario que solo se paga tras la entrega en destino final.",
+          "isCorrect": false,
+          "rationale": "La cl\u00e1usula verde es un anticipo; el pago tras la entrega corresponde a condiciones est\u00e1ndar de cartas de cr\u00e9dito o pagos directos."
+        },
+        {
+          "text": "Consiste en ceder facturas a una entidad financiera para obtener liquidez.",
+          "isCorrect": false,
+          "rationale": "Este mecanismo describe el factoring internacional, no una cl\u00e1usula de adelanto en cartas de cr\u00e9dito."
+        }
+      ],
+      "hint": "Esta cl\u00e1usula se enfoca en la seguridad f\u00edsica del inventario antes de soltar el capital."
+    },
+    {
+      "question": "\u00bfQu\u00e9 pa\u00eds absorbe actualmente aproximadamente el $95\\%$ de la producci\u00f3n mundial de ciertos minerales estrat\u00e9gicos?",
+      "answerOptions": [
+        {
+          "text": "India.",
+          "isCorrect": false,
+          "rationale": "India es considerada el destino cr\u00edtico del futuro, pero no domina la demanda actual de esa manera."
+        },
+        {
+          "text": "Canad\u00e1.",
+          "isCorrect": false,
+          "rationale": "Canad\u00e1 es un competidor en la producci\u00f3n minera, no el principal consumidor global."
+        },
+        {
+          "text": "Estados Unidos.",
+          "isCorrect": false,
+          "rationale": "Aunque es una potencia, no alcanza el nivel de concentraci\u00f3n de demanda que tiene el gigante asi\u00e1tico industrial."
+        },
+        {
+          "text": "China.",
+          "isCorrect": true,
+          "rationale": "China es el principal im\u00e1n industrial que dicta las reglas del mercado debido a su monumental consumo de materias primas."
+        }
+      ],
+      "hint": "Se le describe como el gigante industrial que domina la demanda y las rutas comerciales actuales."
+    },
+    {
+      "question": "De acuerdo con las tendencias demogr\u00e1ficas y de industrializaci\u00f3n, \u00bfqu\u00e9 pa\u00eds se perfila como el pr\u00f3ximo gran destino cr\u00edtico para las exportaciones mineras?",
+      "answerOptions": [
+        {
+          "text": "Australia.",
+          "isCorrect": false,
+          "rationale": "Australia es un l\u00edder productor y competidor directo de pa\u00edses como Chile o Canad\u00e1."
+        },
+        {
+          "text": "India.",
+          "isCorrect": true,
+          "rationale": "Su acelerado crecimiento demogr\u00e1fico e industrial la obliga a buscar suministros masivos para satisfacer su demanda interna."
+        },
+        {
+          "text": "Brasil.",
+          "isCorrect": false,
+          "rationale": "Brasil es conocido m\u00e1s como un exportador de materias primas que como el principal importador emergente del sector."
+        },
+        {
+          "text": "Alemania.",
+          "isCorrect": false,
+          "rationale": "Aunque es un consumidor industrial, no tiene la presi\u00f3n demogr\u00e1fica ni el ritmo de crecimiento proyectado para India."
+        }
+      ],
+      "hint": "Es actualmente el pa\u00eds m\u00e1s poblado del mundo y atraviesa una industrializaci\u00f3n a escala sin precedentes."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja operativa ofrece el uso de mineroductos en comparaci\u00f3n con el transporte terrestre por camiones?",
+      "answerOptions": [
+        {
+          "text": "Mayor flexibilidad para cambiar el destino de la carga en tr\u00e1nsito.",
+          "isCorrect": false,
+          "rationale": "Los mineroductos son infraestructuras fijas y r\u00edgidas, a diferencia de los camiones que pueden alterar sus rutas."
+        },
+        {
+          "text": "Reducci\u00f3n exponencial del costo por tonelada transportada.",
+          "isCorrect": true,
+          "rationale": "La automatizaci\u00f3n y la escala del transporte por tuber\u00eda desploman los costos operativos unitarios a largo plazo."
+        },
+        {
+          "text": "Eliminaci\u00f3n de la necesidad de procesamiento en plantas concentradoras.",
+          "isCorrect": false,
+          "rationale": "El mineral debe estar procesado y mezclado en pulpa para poder ser transportado por mineroductos."
+        },
+        {
+          "text": "Posibilidad de transportar metales preciosos en bruto sin seguridad adicional.",
+          "isCorrect": false,
+          "rationale": "Los mineroductos se usan principalmente para concentrados industriales de gran volumen, no para metales preciosos."
+        }
+      ],
+      "hint": "Piense en el impacto financiero de mover material masivo a trav\u00e9s de tuber\u00edas kilom\u00e9tricas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 c\u00f3digos internacionales son de cumplimiento obligatorio para el transporte de mercanc\u00edas peligrosas en el sector minero?",
+      "answerOptions": [
+        {
+          "text": "Incoterms $2020$.",
+          "isCorrect": false,
+          "rationale": "Los Incoterms definen responsabilidades y costos comerciales, no normas t\u00e9cnicas de seguridad para materiales peligrosos."
+        },
+        {
+          "text": "C\u00f3digos IMDG e IMO.",
+          "isCorrect": true,
+          "rationale": "Estos c\u00f3digos establecen los est\u00e1ndares globales para el manejo y transporte seguro de sustancias peligrosas por mar."
+        },
+        {
+          "text": "Normas ISO $9001$.",
+          "isCorrect": false,
+          "rationale": "Estas son normas generales de gesti\u00f3n de calidad, no espec\u00edficas para la seguridad de carga peligrosa."
+        },
+        {
+          "text": "Regulaciones de la Bolsa de Londres.",
+          "isCorrect": false,
+          "rationale": "La bolsa regula aspectos financieros y de cotizaci\u00f3n, no procedimientos f\u00edsicos de seguridad log\u00edstica."
+        }
+      ],
+      "hint": "Son normativas t\u00e9cnicas enfocadas en la contenci\u00f3n f\u00edsica y la seguridad en el \u00e1mbito mar\u00edtimo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue la principal raz\u00f3n del fracaso del megaproyecto de blockchain Tradelens en la industria log\u00edstica?",
+      "answerOptions": [
+        {
+          "text": "Limitaciones tecnol\u00f3gicas del motor de procesamiento de datos.",
+          "isCorrect": false,
+          "rationale": "El motor tecnol\u00f3gico era potente, el problema radicaba en factores humanos y de mercado."
+        },
+        {
+          "text": "Falta de interoperabilidad y resistencia de las empresas competidoras.",
+          "isCorrect": true,
+          "rationale": "Las empresas se mostraron reticentes a compartir datos en una plataforma controlada por competidores directos."
+        },
+        {
+          "text": "Altos costos de implementaci\u00f3n de sensores IoT.",
+          "isCorrect": false,
+          "rationale": "Tradelens era una plataforma de software y registros; los sensores IoT son una tecnolog\u00eda complementaria exitosa."
+        },
+        {
+          "text": "Incapacidad para rastrear el mineral desde la mina.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda permit\u00eda el rastreo, pero el modelo de negocio colaborativo no fue aceptado por la industria."
+        }
+      ],
+      "hint": "El obst\u00e1culo no fue el software, sino la disposici\u00f3n de las empresas a trabajar juntas en un mismo sistema."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se aplica el Machine Learning de manera exitosa en el mantenimiento de maquinaria pesada minera?",
+      "answerOptions": [
+        {
+          "text": "Sustituyendo por completo a los operadores humanos en la mina.",
+          "isCorrect": false,
+          "rationale": "La IA asiste en la toma de decisiones y predicci\u00f3n, pero la operaci\u00f3n humana sigue siendo fundamental."
+        },
+        {
+          "text": "Mediante el mantenimiento predictivo para evitar paradas de planta costosas.",
+          "isCorrect": true,
+          "rationale": "Los algoritmos predicen fallas antes de que ocurran, permitiendo intervenciones programadas que ahorran millones."
+        },
+        {
+          "text": "Aumentando el consumo de reactivos qu\u00edmicos autom\u00e1ticamente.",
+          "isCorrect": false,
+          "rationale": "El Machine Learning en maquinaria se enfoca en la integridad mec\u00e1nica, no en la dosificaci\u00f3n de qu\u00edmicos de beneficio."
+        },
+        {
+          "text": "Reduciendo los impuestos Advaloren de la importaci\u00f3n de repuestos.",
+          "isCorrect": false,
+          "rationale": "La IA no tiene impacto en la legislaci\u00f3n fiscal o tributaria de un pa\u00eds."
+        }
+      ],
+      "hint": "Se enfoca en adelantarse a los problemas t\u00e9cnicos antes de que generen una interrupci\u00f3n en la producci\u00f3n."
+    },
+    {
+      "question": "Desde una perspectiva de control financiero, \u00bfpor qu\u00e9 los gigantes globales como Glencore prefieren el Incoterm EXW (Ex Works)?",
+      "answerOptions": [
+        {
+          "text": "Para evitar cualquier responsabilidad sobre la carga en origen.",
+          "isCorrect": false,
+          "rationale": "Al contrario, bajo EXW el comprador asume toda la responsabilidad desde la puerta del vendedor."
+        },
+        {
+          "text": "Porque su escala les permite negociar tarifas de flete mucho m\u00e1s competitivas.",
+          "isCorrect": true,
+          "rationale": "Su poder de negociaci\u00f3n convierte la log\u00edstica en un centro de beneficio al conseguir costos menores que los del mercado."
+        },
+        {
+          "text": "Para que el vendedor se encargue de todos los tr\u00e1mites aduaneros.",
+          "isCorrect": false,
+          "rationale": "En EXW, es el comprador quien debe gestionar y pagar todos los tr\u00e1mites aduaneros de exportaci\u00f3n e importaci\u00f3n."
+        },
+        {
+          "text": "Debido a que es el t\u00e9rmino que menos riesgos operativos implica.",
+          "isCorrect": false,
+          "rationale": "EXW es el t\u00e9rmino con mayor riesgo y carga administrativa para el comprador."
+        }
+      ],
+      "hint": "Considere c\u00f3mo el volumen de carga influye en el poder de negociaci\u00f3n con las navieras."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la base de c\u00e1lculo inamovible para determinar los tributos de importaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Valor FOB.",
+          "isCorrect": false,
+          "rationale": "El valor FOB solo incluye el costo de la mercanc\u00eda hasta el puerto de origen, sin considerar el flete ni el seguro internacional."
+        },
+        {
+          "text": "Valor CIF (Costo, Seguro y Flete).",
+          "isCorrect": true,
+          "rationale": "La normativa aduanera establece que los impuestos se aplican sobre la suma del valor de la mercanc\u00eda m\u00e1s el transporte y el seguro."
+        },
+        {
+          "text": "Valor EXW.",
+          "isCorrect": false,
+          "rationale": "Este valor no incluye los costos log\u00edsticos internacionales necesarios para la base imponible aduanera."
+        },
+        {
+          "text": "Valor de mercado local.",
+          "isCorrect": false,
+          "rationale": "Los tributos de importaci\u00f3n se basan en el valor de la transacci\u00f3n internacional, no en el precio de venta local."
+        }
+      ],
+      "hint": "Recuerde las tres letras que representan el costo de la mercanc\u00eda puesto en el puerto de destino."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tasa de percepci\u00f3n debe pagar una empresa que realiza su primera importaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "$3.5\\%$.",
+          "isCorrect": false,
+          "rationale": "Esta tasa se reserva para importadores frecuentes con un historial establecido y limpio."
+        },
+        {
+          "text": "$5\\%$.",
+          "isCorrect": false,
+          "rationale": "El $5\\%$ se aplica generalmente a la importaci\u00f3n de bienes usados."
+        },
+        {
+          "text": "$10\\%$.",
+          "isCorrect": true,
+          "rationale": "La autoridad aplica la tasa m\u00e1s alta a los nuevos operadores para asegurar el pago de impuestos ante la falta de historial."
+        },
+        {
+          "text": "$18\\%$.",
+          "isCorrect": false,
+          "rationale": "Esta cifra suele confundirse con el IGV, pero las percepciones tienen tasas espec\u00edficas menores."
+        }
+      ],
+      "hint": "Es la tasa m\u00e1s gravosa aplicada por la autoridad tributaria a quienes carecen de historial."
+    },
+    {
+      "question": "En el caso de Tecnoindustria SA, \u00bfpor qu\u00e9 fue estrat\u00e9gica la elecci\u00f3n del Incoterm DAP en lugar de EXW?",
+      "answerOptions": [
+        {
+          "text": "Porque era la opci\u00f3n con el costo matem\u00e1tico m\u00e1s bajo.",
+          "isCorrect": false,
+          "rationale": "Matem\u00e1ticamente, EXW parec\u00eda m\u00e1s barato, pero no consideraba los riesgos y costos administrativos."
+        },
+        {
+          "text": "Para transferir el riesgo operativo y administrativo al vendedor.",
+          "isCorrect": true,
+          "rationale": "Al elegir DAP, la empresa garantiz\u00f3 que el proveedor fuera responsable de la entrega hasta la planta, blindando su producci\u00f3n."
+        },
+        {
+          "text": "Porque el vendedor exigi\u00f3 el pago total por adelantado.",
+          "isCorrect": false,
+          "rationale": "La elecci\u00f3n del Incoterm se bas\u00f3 en la gesti\u00f3n de riesgos log\u00edsticos, no en la modalidad de pago."
+        },
+        {
+          "text": "Debido a que la empresa pose\u00eda una flota de transporte propia en Shanghai.",
+          "isCorrect": false,
+          "rationale": "Si hubieran tenido flota en origen, probablemente habr\u00edan optado por EXW o FCA para aprovechar sus propios recursos."
+        }
+      ],
+      "hint": "Piense en la prioridad de la empresa de mantener su l\u00ednea de producci\u00f3n sin interrupciones."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tributo de importaci\u00f3n puede llegar al $0\\%$ para componentes de tecnolog\u00eda industrial mediante tratados comerciales?",
+      "answerOptions": [
+        {
+          "text": "Impuesto General a las Ventas (IGV).",
+          "isCorrect": false,
+          "rationale": "El IGV es un impuesto est\u00e1ndar al consumo y raramente se reduce a cero por tratados comerciales."
+        },
+        {
+          "text": "Impuesto Advaloren.",
+          "isCorrect": true,
+          "rationale": "Los aranceles Advaloren son los que se ven directamente afectados y reducidos por los acuerdos de libre comercio."
+        },
+        {
+          "text": "Impuesto de Promoci\u00f3n Municipal (IPM).",
+          "isCorrect": false,
+          "rationale": "El IPM suele ser un porcentaje fijo que acompa\u00f1a al IGV y no depende directamente de los tratados comerciales."
+        },
+        {
+          "text": "R\u00e9gimen de Percepciones.",
+          "isCorrect": false,
+          "rationale": "Las percepciones son adelantos de impuestos internos y no aranceles de importaci\u00f3n negociables en tratados."
+        }
+      ],
+      "hint": "Es el impuesto que grava el valor de las mercanc\u00edas importadas seg\u00fan su partida arancelaria."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple el 'Warrant' en una operaci\u00f3n de financiamiento internacional?",
+      "answerOptions": [
+        {
+          "text": "Act\u00faa como un seguro de transporte contra naufragios.",
+          "isCorrect": false,
+          "rationale": "El seguro es un contrato separado; el warrant es un t\u00edtulo de propiedad sobre mercanc\u00eda almacenada."
+        },
+        {
+          "text": "Es un documento oficial que acredita que el mineral est\u00e1 en custodia como garant\u00eda f\u00edsica.",
+          "isCorrect": true,
+          "rationale": "El warrant respalda el adelanto de dinero permitiendo al comprador tener seguridad sobre la existencia del producto."
+        },
+        {
+          "text": "Sirve para certificar la pureza qu\u00edmica del metal precioso.",
+          "isCorrect": false,
+          "rationale": "La pureza se certifica mediante un ensayo o certificado de an\u00e1lisis, no mediante un warrant."
+        },
+        {
+          "text": "Es el contrato de fletamiento de un buque granelero.",
+          "isCorrect": false,
+          "rationale": "El contrato de transporte es el Bill of Lading o el Charter Party, no el warrant."
+        }
+      ],
+      "hint": "Es un t\u00edtulo valor que representa mercanc\u00eda depositada en un almac\u00e9n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia de una mala proyecci\u00f3n del flujo de caja respecto al r\u00e9gimen de percepciones?",
+      "answerOptions": [
+        {
+          "text": "La p\u00e9rdida definitiva de la propiedad de la mercanc\u00eda.",
+          "isCorrect": false,
+          "rationale": "La falta de liquidez detiene el proceso, pero no implica la p\u00e9rdida inmediata de propiedad de los bienes."
+        },
+        {
+          "text": "El asfixiamiento de la liquidez corporativa antes de recibir la carga.",
+          "isCorrect": true,
+          "rationale": "Al ser un impuesto adelantado y obligatorio, no tenerlo previsto puede paralizar la salida del almac\u00e9n de la mercanc\u00eda."
+        },
+        {
+          "text": "Un aumento autom\u00e1tico en la cotizaci\u00f3n de los metales en Londres.",
+          "isCorrect": false,
+          "rationale": "Los costos internos de una empresa no influyen en los precios de los mercados financieros globales."
+        },
+        {
+          "text": "La cancelaci\u00f3n de los tratados de libre comercio vigentes.",
+          "isCorrect": false,
+          "rationale": "Los tratados son acuerdos entre estados y no se ven afectados por la gesti\u00f3n financiera de una empresa individual."
+        }
+      ],
+      "hint": "Piense en el impacto directo en el 'bolsillo' de la empresa al momento de nacionalizar la carga."
+    },
+    {
+      "question": "En la gesti\u00f3n minera moderna, \u00bfcu\u00e1l es el prop\u00f3sito de integrar sensores IoT y etiquetas RFID en la carga?",
+      "answerOptions": [
+        {
+          "text": "Aumentar el peso comercial del mineral en destino.",
+          "isCorrect": false,
+          "rationale": "Los sensores miden condiciones, no alteran la masa f\u00edsica del producto."
+        },
+        {
+          "text": "Garantizar la trazabilidad digital y prevenir el robo de minerales.",
+          "isCorrect": true,
+          "rationale": "El monitoreo en tiempo real de humedad, vibraci\u00f3n y ubicaci\u00f3n protege la integridad de la carga valiosa."
+        },
+        {
+          "text": "Sustituir el uso de contenedores especializados y Big Bags.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda digital complementa la contenci\u00f3n f\u00edsica, no la reemplaza."
+        },
+        {
+          "text": "Reducir el tiempo de tr\u00e1nsito de los buques graneleros.",
+          "isCorrect": false,
+          "rationale": "Los sensores monitorean la carga, pero el tiempo de tr\u00e1nsito depende de la log\u00edstica de transporte y factores clim\u00e1ticos."
+        }
+      ],
+      "hint": "Se trata de a\u00f1adir una capa de seguridad y visibilidad constante sobre el estado de la mercanc\u00eda."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Ciclo operativo minero",
+      "Gesti\u00f3n de Capex y Opex",
+      "Instrumentos financieros internacionales",
+      "Log\u00edstica y transporte multimodal",
+      "Tributaci\u00f3n aduanera y percepciones"
+    ],
+    "followUp": [
+      "Normativas de seguridad para mercanc\u00edas peligrosas (IMDG)",
+      "Trazabilidad digital y ciberseguridad en la cadena de suministro",
+      "Impacto de los tratados de libre comercio en aranceles industriales",
+      "Estrategias de negociaci\u00f3n con operadores log\u00edsticos globales"
+    ]
+  }
+}

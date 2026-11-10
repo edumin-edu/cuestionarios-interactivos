@@ -1,0 +1,541 @@
+
+{
+  "quiz": [
+    {
+      "question": "¿Cuál es la función principal de la neutralidad en el contexto del arbitraje internacional?",
+      "answerOptions": [
+        {
+          "text": "Evitar que las empresas extranjeras se sometan a jurisdicciones locales que podrían estar parcializadas.",
+          "isCorrect": true,
+          "rationale": "La neutralidad actúa como un escudo técnico y transparente que aleja el proceso de los intereses políticos o nacionales de las partes."
+        },
+        {
+          "text": "Garantizar que el Estado siempre obtenga un beneficio económico tras el proceso de resolución.",
+          "isCorrect": false,
+          "rationale": "El objetivo del arbitraje no es favorecer económicamente al Estado, sino proporcionar un foro imparcial para ambas partes."
+        },
+        {
+          "text": "Obligar a las empresas locales a seguir normativas extranjeras de manera unilateral.",
+          "isCorrect": false,
+          "rationale": "La neutralidad busca un equilibrio justo bajo estándares internacionales, no la imposición de leyes de un país sobre otro."
+        },
+        {
+          "text": "Reducir los costos administrativos del proceso de resolución de conflictos.",
+          "isCorrect": false,
+          "rationale": "Aunque el arbitraje puede ser eficiente, su valor estratégico reside en la imparcialidad, no necesariamente en el ahorro de costos."
+        }
+      ],
+      "hint": "Piense en el papel del arbitraje como una alternativa a los tribunales nacionales influenciables."
+    },
+    {
+      "question": "Al cierre de 2024, ¿qué posición ocupa Perú en Sudamérica respecto al volumen de casos ante el SIADI?",
+      "answerOptions": [
+        {
+          "text": "Primer lugar.",
+          "isCorrect": false,
+          "rationale": "Esa posición la ocupaba tradicionalmente Argentina, seguida de cerca por otros países con mayores volúmenes históricos."
+        },
+        {
+          "text": "Segundo lugar.",
+          "isCorrect": false,
+          "rationale": "Aunque la litigiosidad es alta, Perú se encuentra por debajo de Argentina y Venezuela."
+        },
+        {
+          "text": "Tercer lugar.",
+          "isCorrect": true,
+          "rationale": "Perú se posiciona en un crítico tercer puesto, siendo superado únicamente por Argentina y Venezuela."
+        },
+        {
+          "text": "Quinto lugar.",
+          "isCorrect": false,
+          "rationale": "Esta posición subestimaría la gravedad del nivel de litigiosidad que enfrenta el país actualmente."
+        }
+      ],
+      "hint": "Considere que solo Argentina y Venezuela superan a Perú en esta métrica específica."
+    },
+    {
+      "question": "¿Qué consecuencia directa tiene para un país el mantener una alta frecuencia de arbitrajes internacionales?",
+      "answerOptions": [
+        {
+          "text": "Aumenta la recaudación fiscal mediante multas aplicadas a empresas extranjeras.",
+          "isCorrect": false,
+          "rationale": "Los arbitrajes suelen representar un costo fiscal y no una fuente de ingresos para el Estado."
+        },
+        {
+          "text": "Genera una percepción de riesgo país que actúa como una luz roja para los inversores.",
+          "isCorrect": true,
+          "rationale": "La alta litigiosidad sugiere un entorno con trabas burocráticas o falta de protección ante crisis sociales."
+        },
+        {
+          "text": "Fortalece la soberanía nacional al demostrar la rigurosidad de los tribunales locales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el exceso de arbitrajes internacionales suele indicar una desconfianza en la eficacia de la jurisdicción local."
+        },
+        {
+          "text": "Mejora la calificación crediticia internacional de la nación.",
+          "isCorrect": false,
+          "rationale": "El daño reputacional y la inseguridad jurídica tienden a afectar negativamente la percepción financiera del país."
+        }
+      ],
+      "hint": "Considere cómo interpretan los mercados globales la inestabilidad legal y operativa."
+    },
+    {
+      "question": "¿Cuál es la diferencia técnica fundamental entre una concesión minera y un Tratado de Libre Comercio (TLC)?",
+      "answerOptions": [
+        {
+          "text": "La concesión es un contrato internacional y el TLC es un acto administrativo regional.",
+          "isCorrect": false,
+          "rationale": "Es exactamente al revés; la concesión es de carácter local y el TLC tiene jerarquía internacional."
+        },
+        {
+          "text": "Ambos son instrumentos de derecho privado regulados por el Código Civil local.",
+          "isCorrect": false,
+          "rationale": "La concesión minera es un acto administrativo y el TLC es un tratado de derecho internacional público."
+        },
+        {
+          "text": "La concesión es un acto administrativo local, mientras que el TLC eleva la protección a un estatus internacional.",
+          "isCorrect": true,
+          "rationale": "Los TLC actúan como el puente legal que permite defender los derechos de los inversores fuera de la jurisdicción nacional."
+        },
+        {
+          "text": "La concesión otorga propiedad sobre el subsuelo y el TLC regula solo el transporte de minerales.",
+          "isCorrect": false,
+          "rationale": "La concesión otorga derechos de explotación, no propiedad, y el TLC cubre garantías de inversión mucho más amplias."
+        }
+      ],
+      "hint": "Reflexione sobre qué instrumento actúa a nivel interno y cuál sirve de puente global."
+    },
+    {
+      "question": "En el caso del proyecto Lupaca Gold, ¿cuál fue el argumento central de la empresa para demandar al Estado?",
+      "answerOptions": [
+        {
+          "text": "El aumento injustificado de los impuestos a la exportación de oro.",
+          "isCorrect": false,
+          "rationale": "La disputa no fue de naturaleza tributaria, sino operativa y de seguridad."
+        },
+        {
+          "text": "La inacción estatal y falta de auxilio frente a bloqueos y protestas sociales prolongadas.",
+          "isCorrect": true,
+          "rationale": "La empresa argumentó que la falta de protección por parte de la fuerza pública hizo imposible operar y proteger su inversión."
+        },
+        {
+          "text": "El descubrimiento de que el yacimiento no contenía los minerales prometidos.",
+          "isCorrect": false,
+          "rationale": "Los arbitrajes de este tipo se basan en el incumplimiento de deberes del Estado, no en riesgos geológicos del inversor."
+        },
+        {
+          "text": "La expropiación directa de las maquinarias por parte del gobierno regional.",
+          "isCorrect": false,
+          "rationale": "El caso se centró en la omisión de protección (expropiación indirecta o falta de protección), no en una toma física de activos por el gobierno."
+        }
+      ],
+      "hint": "Piense en la responsabilidad del Estado de garantizar el orden público para la viabilidad de un proyecto."
+    },
+    {
+      "question": "Según el Decreto Legislativo 1071, ¿cuál es un criterio objetivo para definir que un arbitraje es internacional?",
+      "answerOptions": [
+        {
+          "text": "Que el monto en disputa supere los 100 millones de dólares.",
+          "isCorrect": false,
+          "rationale": "La cuantía del litigio no determina la naturaleza internacional del arbitraje según esta norma."
+        },
+        {
+          "text": "Que las partes tengan sus domicilios en países diferentes al momento del acuerdo.",
+          "isCorrect": true,
+          "rationale": "Este es un criterio objetivo claro establecido por la ley para determinar la jurisdicción internacional."
+        },
+        {
+          "text": "Que el tribunal arbitral esté compuesto por al menos cinco miembros de distintas nacionalidades.",
+          "isCorrect": false,
+          "rationale": "La conformación del tribunal es una consecuencia o elección, no el criterio definitorio legal."
+        },
+        {
+          "text": "Que se utilice exclusivamente el idioma inglés durante todas las audiencias.",
+          "isCorrect": false,
+          "rationale": "El idioma es un acuerdo entre las partes y no define la internacionalidad del proceso bajo el DL 1071."
+        }
+      ],
+      "hint": "Enfoque su atención en la ubicación geográfica de los sujetos que firman el acuerdo."
+    },
+    {
+      "question": "¿Qué establece el artículo 4 de la Ley de Arbitraje respecto a la participación del Estado?",
+      "answerOptions": [
+        {
+          "text": "Prohíbe al Estado someterse a arbitraje en contratos que involucren recursos naturales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la ley faculta expresamente al Estado para usar el arbitraje."
+        },
+        {
+          "text": "Otorga al Estado la facultad expresa de someter a arbitraje las controversias derivadas de sus contratos.",
+          "isCorrect": true,
+          "rationale": "Esto representa una renuncia voluntaria a los tribunales locales para ofrecer mayores garantías de neutralidad a los inversores."
+        },
+        {
+          "text": "Exige que el Presidente de la República apruebe cada laudo arbitral antes de ser ejecutado.",
+          "isCorrect": false,
+          "rationale": "La ejecución de un laudo es un proceso judicial técnico que no requiere la aprobación del ejecutivo."
+        },
+        {
+          "text": "Dictamina que solo se puede arbitrar en territorio nacional bajo leyes peruanas.",
+          "isCorrect": false,
+          "rationale": "La ley permite el arbitraje internacional precisamente para evitar limitaciones estrictamente locales."
+        }
+      ],
+      "hint": "Piense en la señal de garantía que el Estado da al mercado al aceptar foros neutrales."
+    },
+    {
+      "question": "Durante el proceso de reconocimiento de un laudo extranjero, ¿por qué se excluye a propósito al Ministerio Público?",
+      "answerOptions": [
+        {
+          "text": "Para evitar que el proceso se detenga o sufra retrasos innecesarios.",
+          "isCorrect": true,
+          "rationale": "La vía no contenciosa busca eficiencia y rapidez, eliminando la intervención de terceros que no añadan celeridad."
+        },
+        {
+          "text": "Porque el Ministerio Público solo tiene competencia en casos de derecho penal.",
+          "isCorrect": false,
+          "rationale": "Aunque es su área principal, el Ministerio Público suele intervenir en procesos civiles; aquí se excluye por una cuestión de agilidad procesal."
+        },
+        {
+          "text": "Para garantizar que el laudo se mantenga en secreto de Estado.",
+          "isCorrect": false,
+          "rationale": "El reconocimiento es un proceso formal y no tiene como fin el secretismo, sino la validación legal."
+        },
+        {
+          "text": "Porque las empresas extranjeras tienen inmunidad diplomática total.",
+          "isCorrect": false,
+          "rationale": "Las empresas no tienen inmunidad diplomática; el proceso se simplifica por diseño normativo para cumplir compromisos internacionales."
+        }
+      ],
+      "hint": "Considere el objetivo de hacer que el flujo de reconocimiento sea lo más rápido posible."
+    },
+    {
+      "question": "¿Quién tiene la labor exclusiva de realizar la ejecución forzosa de un laudo arbitral ya reconocido?",
+      "answerOptions": [
+        {
+          "text": "El Ministerio de Energía y Minas.",
+          "isCorrect": false,
+          "rationale": "Este es un ente administrativo y político, no tiene facultades jurisdiccionales para ejecutar sentencias o laudos."
+        },
+        {
+          "text": "La Policía Nacional del Perú de forma autónoma.",
+          "isCorrect": false,
+          "rationale": "La policía actúa bajo mandato judicial y no tiene potestad para decidir la ejecución de un laudo por sí misma."
+        },
+        {
+          "text": "Jueces especializados (comerciales, civiles o administrativos).",
+          "isCorrect": true,
+          "rationale": "La norma asigna la ejecución a magistrados específicos para garantizar que lo dictado por el tribunal se cumpla fáctica y legalmente."
+        },
+        {
+          "text": "El Centro Internacional de Arreglo de Diferencias relativas a Inversiones (CIADI).",
+          "isCorrect": false,
+          "rationale": "El CIADI dicta el laudo, pero la ejecución forzosa dentro de un territorio corresponde a las autoridades judiciales locales."
+        }
+      ],
+      "hint": "Identifique qué autoridad posee el mandato legal para hacer cumplir resoluciones en el ámbito interno."
+    },
+    {
+      "question": "¿Cuál es el plazo máximo e improrrogable establecido para los contratos de opción minera según la ley?",
+      "answerOptions": [
+        {
+          "text": "2 años.",
+          "isCorrect": false,
+          "rationale": "Un periodo de dos años suele considerarse insuficiente para las complejas evaluaciones técnicas requeridas en minería."
+        },
+        {
+          "text": "5 años.",
+          "isCorrect": true,
+          "rationale": "El artículo 165 de la Ley General de Minería establece este límite estricto para evitar el acaparamiento improductivo de tierras."
+        },
+        {
+          "text": "10 años.",
+          "isCorrect": false,
+          "rationale": "Un plazo de diez años facilitaría la especulación con las propiedades mineras, lo cual la ley busca prevenir."
+        },
+        {
+          "text": "Indefinido, siempre que se paguen las penalidades correspondientes.",
+          "isCorrect": false,
+          "rationale": "La ley prohíbe la vigencia indefinida de los contratos de opción para dinamizar el sector."
+        }
+      ],
+      "hint": "Este número de años es considerado 'sagrado' para evitar que los yacimientos se queden congelados."
+    },
+    {
+      "question": "¿Qué sucede legalmente si un contrato de opción minera supera el plazo de 5 años sin que se ejerza la inversión?",
+      "answerOptions": [
+        {
+          "text": "El contrato se renueva automáticamente por un periodo igual.",
+          "isCorrect": false,
+          "rationale": "La ley establece que el plazo es improrrogable; no existe la renovación automática."
+        },
+        {
+          "text": "La empresa debe pagar una multa proporcional al valor del yacimiento.",
+          "isCorrect": false,
+          "rationale": "Más que una multa, la consecuencia es la pérdida total del derecho preferencial sobre la mina."
+        },
+        {
+          "text": "El derecho de opción se extingue de forma automática.",
+          "isCorrect": true,
+          "rationale": "La extinción automática funciona como un catalizador para que la propiedad rote y sea aprovechada por otros actores."
+        },
+        {
+          "text": "Se inicia un arbitraje obligatorio para decidir la continuidad.",
+          "isCorrect": false,
+          "rationale": "La extinción es un mandato legal directo y no requiere de un proceso arbitral previo para ejecutarse."
+        }
+      ],
+      "hint": "Reflexione sobre el mecanismo de eficiencia que busca liberar recursos no utilizados."
+    },
+    {
+      "question": "En un modelo de riesgo compartido (Joint Venture), ¿cuál es un requisito indispensable según el artículo 204?",
+      "answerOptions": [
+        {
+          "text": "La creación de una nueva persona jurídica independiente.",
+          "isCorrect": false,
+          "rationale": "Una de las ventajas del Joint Venture es que las partes pueden colaborar sin necesidad de formar una nueva empresa."
+        },
+        {
+          "text": "Que todas las empresas participantes sean de la misma nacionalidad.",
+          "isCorrect": false,
+          "rationale": "El modelo permite la sinergia entre capitales nacionales y extranjeros sin restricciones de origen."
+        },
+        {
+          "text": "Al menos una de las partes debe poseer un título de actividad minera.",
+          "isCorrect": true,
+          "rationale": "Este requerimiento técnico asegura que el contrato esté vinculado directamente a una operación minera real."
+        },
+        {
+          "text": "El aporte de capital debe ser exclusivamente en efectivo y no en maquinaria.",
+          "isCorrect": false,
+          "rationale": "Se pueden aportar bienes, tecnología, servicios o conocimiento especializado, no solo dinero."
+        }
+      ],
+      "hint": "Piense en la 'llave' necesaria para utilizar este régimen especializado en la práctica."
+    },
+    {
+      "question": "¿A qué se refiere el concepto latino 'affectio cooperationis' en los contratos de minería?",
+      "answerOptions": [
+        {
+          "text": "A la intención de formar una sociedad comercial permanente.",
+          "isCorrect": false,
+          "rationale": "A diferencia de las sociedades tradicionales, este vínculo se enfoca en una cooperación técnica temporal y específica."
+        },
+        {
+          "text": "A una cooperación puramente técnica y enfocada en un fin operativo específico.",
+          "isCorrect": true,
+          "rationale": "Una vez alcanzado el objetivo o si el proyecto es inviable, la relación se disuelve naturalmente sin ataduras societarias a largo plazo."
+        },
+        {
+          "text": "A la obligación de compartir todos los secretos industriales con el Estado.",
+          "isCorrect": false,
+          "rationale": "Este concepto regula la relación entre los socios del proyecto, no su relación de transparencia con el ente regulador."
+        },
+        {
+          "text": "Al derecho preferente de compra en caso de quiebra de uno de los socios.",
+          "isCorrect": false,
+          "rationale": "Aunque puede ser parte del contrato, el término describe la naturaleza del vínculo colaborativo, no un derecho de adquisición."
+        }
+      ],
+      "hint": "Considere la naturaleza transitoria y técnica de la unión entre las empresas."
+    },
+    {
+      "question": "¿Cuál es la principal razón por la que los bancos suelen rechazar la hipoteca minera como garantía?",
+      "answerOptions": [
+        {
+          "text": "La ley prohíbe expresamente que las concesiones sean hipotecadas.",
+          "isCorrect": false,
+          "rationale": "Legalmente es posible; el problema es de índole práctico y de gestión bancaria."
+        },
+        {
+          "text": "El valor del mineral en el subsuelo es demasiado volátil para el mercado financiero.",
+          "isCorrect": false,
+          "rationale": "Aunque el precio fluctúa, el rechazo principal se debe a la incapacidad del banco para gestionar la operación física."
+        },
+        {
+          "text": "Las entidades financieras carecen de capacidad especializada para gestionar una mina activa en caso de ejecución.",
+          "isCorrect": true,
+          "rationale": "Asumir una mina implica lidiar con explosivos, seguridad industrial y conflictos sociales, algo para lo que un banco no está preparado."
+        },
+        {
+          "text": "Los trámites de inscripción en los registros públicos tardan más de 10 años.",
+          "isCorrect": false,
+          "rationale": "Si bien hay burocracia, la baja liquidez y el alto riesgo administrativo son factores mucho más determinantes."
+        }
+      ],
+      "hint": "Piense en qué sucedería si un banco tuviera que tomar posesión física de una mina operativa."
+    },
+    {
+      "question": "¿Qué utilidad estratégica ofrece la plataforma Geocatmin a los inversores?",
+      "answerOptions": [
+        {
+          "text": "Permite realizar pagos de impuestos directamente mediante criptomonedas.",
+          "isCorrect": false,
+          "rationale": "Geocatmin es una herramienta de consulta y fiscalización, no una pasarela de pagos financieros."
+        },
+        {
+          "text": "Funciona como una red social para que los mineros intercambien maquinaria usada.",
+          "isCorrect": false,
+          "rationale": "Su propósito es técnico y de transparencia gubernamental, no comercial entre privados."
+        },
+        {
+          "text": "Identifica en tiempo real derechos mineros próximos a expirar para planificar nuevas inversiones.",
+          "isCorrect": true,
+          "rationale": "Es un radar de inteligencia que detecta cuadrículas que quedarán libres por falta de pago o penalidades."
+        },
+        {
+          "text": "Otorga automáticamente los permisos ambientales sin revisión humana.",
+          "isCorrect": false,
+          "rationale": "Los permisos ambientales requieren procesos de evaluación independientes; la plataforma solo muestra el estado registral."
+        }
+      ],
+      "hint": "Considere su función como tablero de control y radar para oportunidades de mercado."
+    },
+    {
+      "question": "¿Cómo define la tecnología actual la diferencia entre minería legal e ilegal?",
+      "answerOptions": [
+        {
+          "text": "Depende únicamente de si el titular tiene el documento físico de concesión en su poder.",
+          "isCorrect": false,
+          "rationale": "Tener el papel no es suficiente si la operación no está validada y registrada en los sistemas digitales vigentes."
+        },
+        {
+          "text": "La legalidad exige que la extracción cuente con todos los permisos registrados debidamente en el sistema digital.",
+          "isCorrect": true,
+          "rationale": "Incluso con un título físico, operar sin el registro administrativo digital completo se considera minería ilegal."
+        },
+        {
+          "text": "La minería es legal si el yacimiento se encuentra a más de 200 kilómetros de una zona urbana.",
+          "isCorrect": false,
+          "rationale": "La ubicación geográfica no determina la legalidad; esta depende del cumplimiento normativo y su registro oficial."
+        },
+        {
+          "text": "Se basa en el volumen de mineral extraído diariamente.",
+          "isCorrect": false,
+          "rationale": "El volumen puede determinar la categoría (pequeña, mediana o gran minería), pero no la legalidad básica del acto operativo."
+        }
+      ],
+      "hint": "Piense en cómo el registro digital prevalece sobre el simple documento en papel."
+    },
+    {
+      "question": "¿Qué tipo de datos específicos se pueden extraer de la plataforma Geocatmin para evaluar la viabilidad de un área?",
+      "answerOptions": [
+        {
+          "text": "Los nombres y salarios exactos de todos los empleados de la mina.",
+          "isCorrect": false,
+          "rationale": "Esa información es privada y no forma parte de los datos públicos de la concesión."
+        },
+        {
+          "text": "Coordenadas exactas, estado de pagos de vigencia y situación registral del título.",
+          "isCorrect": true,
+          "rationale": "Estos tres elementos permiten evitar superposiciones territoriales y conocer si el área está libre o en trámite."
+        },
+        {
+          "text": "Pronósticos meteorológicos para los próximos 10 años en la zona del proyecto.",
+          "isCorrect": false,
+          "rationale": "Aunque es útil para la operación, no es un dato administrativo o legal proporcionado por Geocatmin."
+        },
+        {
+          "text": "Listado de proveedores de explosivos recomendados por el gobierno.",
+          "isCorrect": false,
+          "rationale": "La plataforma se centra en los derechos mineros y su georeferenciación, no en la gestión comercial de insumos."
+        }
+      ],
+      "hint": "Enfoque su respuesta en la información cartográfica y el cumplimiento de obligaciones económicas."
+    },
+    {
+      "question": "¿Cuál es el tercer pilar que asegura la arquitectura legal minera y garantiza la transparencia operativa?",
+      "answerOptions": [
+        {
+          "text": "La mediación de las comunidades locales.",
+          "isCorrect": false,
+          "rationale": "Aunque es importante para la paz social, el pilar técnico de transparencia mencionado es la herramienta digital Geocatmin."
+        },
+        {
+          "text": "La fiscalización mediante el uso de la plataforma Geocatmin.",
+          "isCorrect": true,
+          "rationale": "Esta herramienta garantiza que la información sobre concesiones extintas y vigentes sea accesible para la reinversión."
+        },
+        {
+          "text": "La contratación de seguros de riesgo político internacionales.",
+          "isCorrect": false,
+          "rationale": "Los seguros son una medida de mitigación privada, no un pilar de la arquitectura legal del Estado."
+        },
+        {
+          "text": "La eliminación total de los impuestos mineros.",
+          "isCorrect": false,
+          "rationale": "La arquitectura legal no se basa en la ausencia de impuestos, sino en reglas claras y fiscalización eficiente."
+        }
+      ],
+      "hint": "Piense en la herramienta tecnológica que monitorea el cumplimiento normativo en tiempo real."
+    },
+    {
+      "question": "En el contexto del arbitraje, ¿qué se entiende por una 'renuncia voluntaria' del Estado?",
+      "answerOptions": [
+        {
+          "text": "La entrega de la soberanía territorial a una potencia extranjera.",
+          "isCorrect": false,
+          "rationale": "El arbitraje solo afecta la resolución de disputas contractuales específicas, no la soberanía nacional."
+        },
+        {
+          "text": "El abandono del cobro de regalías mineras para atraer empresas.",
+          "isCorrect": false,
+          "rationale": "El Estado no renuncia a sus ingresos, sino a un foro judicial específico."
+        },
+        {
+          "text": "Aceptar someterse a tribunales neutrales en lugar de usar sus propios tribunales locales.",
+          "isCorrect": true,
+          "rationale": "Esta renuncia busca dar seguridad jurídica y atraer inversiones de gran envergadura a largo plazo."
+        },
+        {
+          "text": "La jubilación anticipada de los jueces civiles peruanos.",
+          "isCorrect": false,
+          "rationale": "No tiene ninguna relación con el personal judicial, sino con la jurisdicción aplicable a un contrato."
+        }
+      ],
+      "hint": "Considere lo que el Estado deja de usar para favorecer la imparcialidad internacional."
+    },
+    {
+      "question": "¿Cuál es el objetivo final de establecer un sistema de arbitraje y contratos estandarizados en minería?",
+      "answerOptions": [
+        {
+          "text": "Hacer que los procesos legales sean lo más largos y complejos posibles.",
+          "isCorrect": false,
+          "rationale": "El objetivo es precisamente lo contrario: predictibilidad y eficiencia operativa."
+        },
+        {
+          "text": "Garantizar la seguridad jurídica y reducir la discrecionalidad en la interpretación de los acuerdos.",
+          "isCorrect": true,
+          "rationale": "El rigor y la claridad contractual son la única defensa contra interpretaciones subjetivas que puedan frenar la inversión."
+        },
+        {
+          "text": "Permitir que las empresas operen sin ningún tipo de supervisión ambiental.",
+          "isCorrect": false,
+          "rationale": "La seguridad jurídica incluye el cumplimiento de todas las normas, incluidas las ambientales registradas digitalmente."
+        },
+        {
+          "text": "Centralizar toda la toma de decisiones en el Ministerio de Economía.",
+          "isCorrect": false,
+          "rationale": "El sistema busca descentralizar la resolución de conflictos hacia foros neutrales y especializados."
+        }
+      ],
+      "hint": "Piense en el activo estratégico más vital para atraer capitales a largo plazo."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Arbitraje internacional en el sector minero",
+      "Contratación especializada y contratos de opción",
+      "Marco legal del arbitraje en Perú (DL 1071)",
+      "Gestión de riesgos y litigiosidad ante el SIADI",
+      "Modelos de cooperación técnica y Joint Venture",
+      "Fiscalización digital y el uso de Geocatmin"
+    ],
+    "followUp": [
+      "Tratados de Libre Comercio como mecanismo de protección de inversiones",
+      "Impacto de los conflictos sociales en la estabilidad de los contratos mineros",
+      "Procedimientos judiciales para el reconocimiento y ejecución de laudos",
+      "Desafíos de las garantías reales e hipoteca minera en el sistema bancario"
+    ]
+  }
+}

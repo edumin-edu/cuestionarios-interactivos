@@ -1,0 +1,543 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el eje central de rentabilidad y seguridad en el cambio de paradigma hacia la miner\u00eda 4.0?",
+      "answerOptions": [
+        {
+          "text": "La gesti\u00f3n basada en datos",
+          "isCorrect": true,
+          "rationale": "En la miner\u00eda 4.0, los datos dejan de ser una tarea de apoyo para convertirse en el n\u00facleo estrat\u00e9gico que dicta el ritmo productivo y la seguridad."
+        },
+        {
+          "text": "La sustituci\u00f3n total de expertos humanos",
+          "isCorrect": false,
+          "rationale": "Aunque se busca la automatizaci\u00f3n, el experto humano es esencial para otorgar contexto y valor a los datos binarios."
+        },
+        {
+          "text": "La adquisici\u00f3n masiva de hardware nuevo",
+          "isCorrect": false,
+          "rationale": "La estrategia sugiere aprovechar los sistemas de control ya instalados (DCS, PLC) antes de realizar gastos aislados en nuevo hardware."
+        },
+        {
+          "text": "La eliminaci\u00f3n de protocolos de interoperabilidad",
+          "isCorrect": false,
+          "rationale": "La interoperabilidad es, en realidad, uno de los factores que dicta el ritmo productivo actual."
+        }
+      ],
+      "hint": "Se trata de transformar informaci\u00f3n masiva en decisiones estrat\u00e9gicas r\u00e1pidas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple el experto humano dentro de la arquitectura de datos moderna?",
+      "answerOptions": [
+        {
+          "text": "Brindar el contexto necesario para transformar datos en conocimiento accionable",
+          "isCorrect": true,
+          "rationale": "La capacidad humana es irremplazable para interpretar lo que sucede alrededor de la operaci\u00f3n y dar sentido a las se\u00f1ales estad\u00edsticas."
+        },
+        {
+          "text": "Realizar la captura manual de datos en los sensores",
+          "isCorrect": false,
+          "rationale": "La captura se realiza mediante protocolos est\u00e1ndar y hardware, no de forma manual por expertos."
+        },
+        {
+          "text": "Programar exclusivamente los algoritmos en lenguajes como Python o R",
+          "isCorrect": false,
+          "rationale": "Si bien pueden usar estas herramientas, su rol principal es la interpretaci\u00f3n y contextualizaci\u00f3n para el negocio."
+        },
+        {
+          "text": "Supervisar \u00fanicamente el almacenamiento en los data lakes",
+          "isCorrect": false,
+          "rationale": "El almacenamiento es una fase t\u00e9cnica del pipeline, mientras que el valor humano destaca en la fase de an\u00e1lisis y decisi\u00f3n."
+        }
+      ],
+      "hint": "Los datos binarios por s\u00ed solos carecen de valor estrat\u00e9gico sin una interpretaci\u00f3n del entorno."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la recomendaci\u00f3n para maximizar el retorno de inversi\u00f3n (ROI) en infraestructura digital?",
+      "answerOptions": [
+        {
+          "text": "Orquestar datos sobre las redes de control ya existentes como DCS y PLCs",
+          "isCorrect": true,
+          "rationale": "Aprovechar los sistemas instalados evita redundancias innecesarias y enfoca el capital en generar inteligencia operativa."
+        },
+        {
+          "text": "Reemplazar inmediatamente todos los sistemas legados por tecnolog\u00edas de moda",
+          "isCorrect": false,
+          "rationale": "La adopci\u00f3n tecnol\u00f3gica debe seguir un prop\u00f3sito estructurado y no simplemente seguir tendencias temporales."
+        },
+        {
+          "text": "Externalizar toda la anal\u00edtica avanzada a empresas fuera del sector industrial",
+          "isCorrect": false,
+          "rationale": "El \u00e9xito depende de la integraci\u00f3n de la inteligencia operativa dentro de la propia arquitectura de la empresa."
+        },
+        {
+          "text": "Invertir exclusivamente en Capex para nuevos sensores inal\u00e1mbricos",
+          "isCorrect": false,
+          "rationale": "La inversi\u00f3n estrat\u00e9gica busca optimizar m\u00e1rgenes mediante la anal\u00edtica sobre la infraestructura que la organizaci\u00f3n ya posee."
+        }
+      ],
+      "hint": "Consiste en utilizar lo que la mayor\u00eda de las operaciones industriales ya tienen instalado."
+    },
+    {
+      "question": "Dentro de los tres pilares de la disciplina de datos, \u00bfqu\u00e9 implica la 'activaci\u00f3n del valor'?",
+      "answerOptions": [
+        {
+          "text": "Movilizar el dato para resolver un problema de negocio real",
+          "isCorrect": true,
+          "rationale": "Un dato guardado es inerte; su valor se despierta \u00fanicamente cuando se utiliza para la toma de decisiones o soluci\u00f3n de problemas."
+        },
+        {
+          "text": "Garantizar que el sensor capture la informaci\u00f3n con precisi\u00f3n",
+          "isCorrect": false,
+          "rationale": "Esto describe el pilar de la calidad de los datos, centrado en la integridad y precisi\u00f3n t\u00e9cnica."
+        },
+        {
+          "text": "Almacenar la mayor cantidad de informaci\u00f3n posible en la nube",
+          "isCorrect": false,
+          "rationale": "El almacenamiento masivo sin prop\u00f3sito no activa el valor; el valor surge de la aplicaci\u00f3n pr\u00e1ctica del dato."
+        },
+        {
+          "text": "Eliminar la intervenci\u00f3n humana en la interpretaci\u00f3n de estad\u00edsticas",
+          "isCorrect": false,
+          "rationale": "La intervenci\u00f3n humana es parte del pilar del contexto, no de la activaci\u00f3n mec\u00e1nica del valor."
+        }
+      ],
+      "hint": "Se refiere a que un dato guardado no sirve de nada si no se aplica a una necesidad organizacional."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el orden l\u00f3gico de las fases en un 'data pipeline' profesional?",
+      "answerOptions": [
+        {
+          "text": "Ingesta, almacenamiento, modelado, consulta y toma de decisiones",
+          "isCorrect": true,
+          "rationale": "Este flujo permite capturar datos, consolidarlos en repositorios, procesarlos con algoritmos y finalmente convertirlos en acciones f\u00edsicas."
+        },
+        {
+          "text": "Modelado, ingesta, consulta, almacenamiento y visualizaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "No se puede modelar informaci\u00f3n que a\u00fan no ha sido ingerida o capturada de los equipos."
+        },
+        {
+          "text": "Toma de decisiones, an\u00e1lisis, modelado e integraci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La toma de decisiones es el resultado final del proceso, no el punto de partida."
+        },
+        {
+          "text": "Almacenamiento, captura por protocolos, modelado y KPIs",
+          "isCorrect": false,
+          "rationale": "La captura (ingesta) debe preceder al almacenamiento para poder organizar los datos en data lakes."
+        }
+      ],
+      "hint": "Todo comienza con la captura de informaci\u00f3n de los equipos usando protocolos como OPCUA."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza el modelo de 'nacimiento digital' implementado en el proyecto Quellaveco?",
+      "answerOptions": [
+        {
+          "text": "El dise\u00f1o de una flota 100% aut\u00f3noma y un centro integrado de operaciones desde cero",
+          "isCorrect": true,
+          "rationale": "Al ser un proyecto nuevo, pudieron integrar tecnolog\u00edas disruptivas sin lidiar con sistemas antiguos o legados."
+        },
+        {
+          "text": "La modernizaci\u00f3n de infraestructuras antiguas con una hoja de ruta a 10 a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Este enfoque de modernizaci\u00f3n de legado corresponde a la estrategia de Codelco, no de Quellaveco."
+        },
+        {
+          "text": "La dependencia exclusiva de algoritmos predictivos para eliminar el preminado",
+          "isCorrect": false,
+          "rationale": "Aunque usaron anal\u00edtica, sus metas de preminado se superaron gracias al dise\u00f1o integral y la autonom\u00eda de la flota."
+        },
+        {
+          "text": "El uso de metodolog\u00edas Kaizen sin apoyo de infraestructura de datos",
+          "isCorrect": false,
+          "rationale": "El \u00e9xito mencionado se bas\u00f3 precisamente en una digitalizaci\u00f3n agresiva y arquitectura magistral."
+        }
+      ],
+      "hint": "No tuvieron que pelear con sistemas antiguos o arquitecturas heredadas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio econ\u00f3mico report\u00f3 la empresa Sinalco tras 18 meses de aplicar anal\u00edtica y filosof\u00eda Kaizen?",
+      "answerOptions": [
+        {
+          "text": "Un beneficio de $37$ millones de d\u00f3lares",
+          "isCorrect": true,
+          "rationale": "Esta cifra demuestra c\u00f3mo la eficiencia operativa impulsada por datos se traduce en ganancias financieras tangibles a corto plazo."
+        },
+        {
+          "text": "Una reducci\u00f3n del $90\\%$ en incidentes de seguridad",
+          "isCorrect": false,
+          "rationale": "Ese porcentaje corresponde a la reducci\u00f3n de incidentes entre palas y camiones en Antamina."
+        },
+        {
+          "text": "Un aumento del $6.4\\%$ en la eficiencia de la flota",
+          "isCorrect": false,
+          "rationale": "Este resultado fue alcanzado por Quellaveco mediante su flota aut\u00f3noma."
+        },
+        {
+          "text": "Un ahorro de $10$ millones de d\u00f3lares en mantenimiento predictivo",
+          "isCorrect": false,
+          "rationale": "Aunque Codelco redujo tiempos de inactividad, la cifra espec\u00edfica de $37$ millones pertenece al caso de Sinalco."
+        }
+      ],
+      "hint": "Es una cifra millonaria que resalta el impacto de la mejora continua."
+    },
+    {
+      "question": "\u00bfQu\u00e9 hito de salud ocupacional logr\u00f3 la minera Antamina mediante el uso de monitoreo de vibraciones y an\u00e1lisis de datos?",
+      "answerOptions": [
+        {
+          "text": "Eliminaci\u00f3n del $100\\%$ de las lesiones de columna en sus operadores",
+          "isCorrect": true,
+          "rationale": "El uso de datos en tiempo real permiti\u00f3 erradicar este tipo de lesiones, demostrando que la arquitectura de datos salva vidas."
+        },
+        {
+          "text": "Reducci\u00f3n del $25\\%$ en los descansos m\u00e9dicos por gripe",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda se enfoc\u00f3 en riesgos cr\u00edticos de la operaci\u00f3n f\u00edsica, no en enfermedades comunes."
+        },
+        {
+          "text": "Detecci\u00f3n de patrones extra\u00f1os en los reportes de ausentismo",
+          "isCorrect": false,
+          "rationale": "Aunque la anal\u00edtica tiene ese poder, el hito mencionado se refiere espec\u00edficamente a la seguridad f\u00edsica y lesiones lumbares."
+        },
+        {
+          "text": "Automatizaci\u00f3n total de las palas de gran tonelaje",
+          "isCorrect": false,
+          "rationale": "Antamina implement\u00f3 sistemas de proximidad y monitoreo, pero el hito clave fue la salud de los trabajadores."
+        }
+      ],
+      "hint": "Se trata de un resultado de 'cero lesiones' en una zona espec\u00edfica del cuerpo."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se recomienda utilizar el modelo ADKAR en el contexto de la anal\u00edtica avanzada?",
+      "answerOptions": [
+        {
+          "text": "Para asegurar que los trabajadores conf\u00eden en el sistema y no lo vean como espionaje",
+          "isCorrect": true,
+          "rationale": "La gesti\u00f3n del cambio es vital para que la tecnolog\u00eda sea vista como un aliado de la seguridad y no como vigilancia punitiva."
+        },
+        {
+          "text": "Para dise\u00f1ar la arquitectura de protocolos OPCUA en la nube",
+          "isCorrect": false,
+          "rationale": "ADKAR es un modelo de gesti\u00f3n del cambio humano, no un protocolo de comunicaci\u00f3n t\u00e9cnica."
+        },
+        {
+          "text": "Para medir la integridad de los datos desde el sensor hasta el data lake",
+          "isCorrect": false,
+          "rationale": "La integridad de los datos es un aspecto t\u00e9cnico de la calidad, no un proceso de adopci\u00f3n cultural."
+        },
+        {
+          "text": "Para calcular el retorno de inversi\u00f3n de los proyectos de automatizaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "El ROI se mide con indicadores financieros, mientras que ADKAR se enfoca en la transici\u00f3n del personal."
+        }
+      ],
+      "hint": "Tiene que ver con la percepci\u00f3n \u00e9tica y la confianza de los empleados."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el riesgo de ignorar la madurez organizacional antes de invertir en tecnolog\u00eda?",
+      "answerOptions": [
+        {
+          "text": "El fracaso inevitable del proyecto debido a la falta de preparaci\u00f3n t\u00e9cnica o cultural",
+          "isCorrect": true,
+          "rationale": "Inyectar tecnolog\u00eda en un ecosistema que no est\u00e1 listo es comparable a poner un motor de alta potencia en un veh\u00edculo con fallas estructurales."
+        },
+        {
+          "text": "Un aumento inesperado en la calidad de los datos capturados",
+          "isCorrect": false,
+          "rationale": "Sin procesos ordenados, la tecnolog\u00eda solo amplifica el caos, no mejora la calidad autom\u00e1ticamente."
+        },
+        {
+          "text": "La obtenci\u00f3n de 'quick wins' en el \u00e1rea de mantenimiento",
+          "isCorrect": false,
+          "rationale": "Las victorias r\u00e1pidas requieren un enfoque estrat\u00e9gico y un diagn\u00f3stico previo de capacidades."
+        },
+        {
+          "text": "La migraci\u00f3n autom\u00e1tica a una flota 100% aut\u00f3noma",
+          "isCorrect": false,
+          "rationale": "La autonom\u00eda es un paso de largo plazo que requiere una base s\u00f3lida de madurez previa."
+        }
+      ],
+      "hint": "La tecnolog\u00eda act\u00faa como un amplificador; si el proceso base es desordenado, el resultado ser\u00e1 negativo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 aspecto de la organizaci\u00f3n aborda el est\u00e1ndar ISA 95?",
+      "answerOptions": [
+        {
+          "text": "La l\u00ednea base estructural de la arquitectura de automatizaci\u00f3n y hardware",
+          "isCorrect": true,
+          "rationale": "Este est\u00e1ndar define c\u00f3mo se conectan los niveles desde el sensor en el campo hasta la planificaci\u00f3n empresarial."
+        },
+        {
+          "text": "La medici\u00f3n de la madurez de los procesos humanos y su predictibilidad",
+          "isCorrect": false,
+          "rationale": "Esto es competencia del modelo CMMI, que se enfoca en la parte anal\u00edtica y humana."
+        },
+        {
+          "text": "El cumplimiento de los criterios ESG (ambientales y sociales)",
+          "isCorrect": false,
+          "rationale": "Los criterios ESG se monitorean a trav\u00e9s del Balanced Scorecard, no mediante el est\u00e1ndar ISA 95."
+        },
+        {
+          "text": "La gesti\u00f3n \u00e9tica de la vigilancia en la nube",
+          "isCorrect": false,
+          "rationale": "La \u00e9tica y seguridad de datos se gestionan mediante salvaguardas t\u00e9cnicas y modelos de gesti\u00f3n del cambio."
+        }
+      ],
+      "hint": "Define la estructura que va desde los sensores hasta la planificaci\u00f3n de la empresa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del modelo CMMI en la transformaci\u00f3n digital industrial?",
+      "answerOptions": [
+        {
+          "text": "Asegurar que los procesos humanos sean medibles, anal\u00edticos y predecibles",
+          "isCorrect": true,
+          "rationale": "CMMI permite que el trabajo diario deje de basarse en el instinto y se convierta en una operaci\u00f3n guiada por datos."
+        },
+        {
+          "text": "Definir los protocolos f\u00edsicos de comunicaci\u00f3n como el OPCUA",
+          "isCorrect": false,
+          "rationale": "Los protocolos son aspectos t\u00e9cnicos de la ingesta de datos, no marcos de madurez de procesos."
+        },
+        {
+          "text": "Establecer la jerarqu\u00eda financiera de un cuadro de mando integral",
+          "isCorrect": false,
+          "rationale": "El Balanced Scorecard es la herramienta para la jerarqu\u00eda de indicadores financieros y de procesos."
+        },
+        {
+          "text": "Proporcionar gu\u00edas estrat\u00e9gicas dise\u00f1adas por el Foro Econ\u00f3mico Mundial",
+          "isCorrect": false,
+          "rationale": "Aunque complementarias, las gu\u00edas del WEF son herramientas distintas al marco de madurez CMMI."
+        }
+      ],
+      "hint": "Se encarga del engranaje entre la m\u00e1quina f\u00edsica y el cerebro humano."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el \u00edndice SIRI en el mercado global?",
+      "answerOptions": [
+        {
+          "text": "Una herramienta para evaluar la preparaci\u00f3n para la industria inteligente",
+          "isCorrect": true,
+          "rationale": "SIRI proporciona criterios exactos para entender c\u00f3mo las tecnolog\u00edas disruptivas encajan en la realidad de una planta."
+        },
+        {
+          "text": "Un lenguaje de programaci\u00f3n avanzado similar a Python",
+          "isCorrect": false,
+          "rationale": "Python es una herramienta de consulta y an\u00e1lisis; SIRI es un marco de referencia de madurez."
+        },
+        {
+          "text": "Un sistema de control distribuido para la automatizaci\u00f3n de minas",
+          "isCorrect": false,
+          "rationale": "Los sistemas de control son DCS; SIRI es un \u00edndice de preparaci\u00f3n estrat\u00e9gica."
+        },
+        {
+          "text": "Un protocolo de seguridad para la protecci\u00f3n de datos en la nube",
+          "isCorrect": false,
+          "rationale": "La seguridad en la nube se basa en salvaguardas t\u00e9cnicas, no en un \u00edndice de preparaci\u00f3n industrial."
+        }
+      ],
+      "hint": "Sus siglas en ingl\u00e9s se refieren al 'Smart Industry Readiness Index'."
+    },
+    {
+      "question": "En la hoja de ruta de transformaci\u00f3n, \u00bfcu\u00e1l es el objetivo del horizonte a largo plazo (Paso 3)?",
+      "answerOptions": [
+        {
+          "text": "Lograr la autonom\u00eda de los procesos y la optimizaci\u00f3n prescriptiva",
+          "isCorrect": true,
+          "rationale": "En esta fase, el sistema no solo alerta sobre fallos, sino que determina y aplica la soluci\u00f3n \u00f3ptima autom\u00e1ticamente."
+        },
+        {
+          "text": "Obtener victorias r\u00e1pidas o 'quick wins' en mantenimiento",
+          "isCorrect": false,
+          "rationale": "Las victorias r\u00e1pidas son el objetivo del corto plazo (Paso 1)."
+        },
+        {
+          "text": "Eliminar los silos de informaci\u00f3n mediante la integraci\u00f3n de sistemas",
+          "isCorrect": false,
+          "rationale": "La integraci\u00f3n total de sistemas operativos es el objetivo del mediano plazo (Paso 2)."
+        },
+        {
+          "text": "Instalar los primeros sensores en los equipos de campo",
+          "isCorrect": false,
+          "rationale": "La instalaci\u00f3n b\u00e1sica es parte de la infraestructura inicial o del primer horizonte de trabajo."
+        }
+      ],
+      "hint": "Es el pin\u00e1culo donde el ecosistema aplica soluciones por s\u00ed mismo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre el monitoreo continuo y la auditor\u00eda continua?",
+      "answerOptions": [
+        {
+          "text": "El monitoreo es observaci\u00f3n pasiva, mientras que la auditor\u00eda detecta anomal\u00edas de forma automatizada",
+          "isCorrect": true,
+          "rationale": "La auditor\u00eda continua permite ser un guardi\u00e1n proactivo al detectar desviaciones antes de que ocurran incidentes graves."
+        },
+        {
+          "text": "El monitoreo usa Python y la auditor\u00eda usa \u00fanicamente Excel",
+          "isCorrect": false,
+          "rationale": "Ambas funciones pueden usar diversas herramientas tecnol\u00f3gicas, pero su diferencia radica en la proactividad."
+        },
+        {
+          "text": "La auditor\u00eda continua se aplica solo a finanzas y el monitoreo solo a m\u00e1quinas",
+          "isCorrect": false,
+          "rationale": "La auditor\u00eda continua se aplica a indicadores clave (KPIs) de toda la operaci\u00f3n, incluyendo seguridad y productividad."
+        },
+        {
+          "text": "No existe diferencia; son t\u00e9rminos intercambiables en la industria 4.0",
+          "isCorrect": false,
+          "rationale": "La industria moderna exige pasar de la reacci\u00f3n (monitoreo) a la prevenci\u00f3n proactiva (auditor\u00eda)."
+        }
+      ],
+      "hint": "Una implica esperar a que una aguja cruce una l\u00ednea roja; la otra es una detecci\u00f3n proactiva."
+    },
+    {
+      "question": "Dentro de un Cuadro de Mando Integral de nueva generaci\u00f3n, \u00bfqu\u00e9 miden los KRIs (Key Risk Indicators)?",
+      "answerOptions": [
+        {
+          "text": "El perfil de riesgo de toda la operaci\u00f3n de forma preventiva",
+          "isCorrect": true,
+          "rationale": "Los KRIs deben cruzar todas las perspectivas del scorecard para monitorear amenazas antes de que impacten los resultados."
+        },
+        {
+          "text": "\u00danicamente el retorno de inversi\u00f3n centavo a centavo",
+          "isCorrect": false,
+          "rationale": "El retorno de inversi\u00f3n es un indicador de la perspectiva financiera, no necesariamente un indicador de riesgo preventivo."
+        },
+        {
+          "text": "La madurez digital del talento humano",
+          "isCorrect": false,
+          "rationale": "La madurez del talento pertenece a la perspectiva de aprendizaje y crecimiento."
+        },
+        {
+          "text": "El cumplimiento estricto de las normas de hardware ISA 95",
+          "isCorrect": false,
+          "rationale": "ISA 95 es un est\u00e1ndar de arquitectura, mientras que los KRIs se enfocan en la gesti\u00f3n de riesgos operativos."
+        }
+      ],
+      "hint": "Son la columna vertebral que debe cruzar transversalmente todas las perspectivas del negocio."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se logra que la excelencia operativa se mantenga y optimice de forma permanente?",
+      "answerOptions": [
+        {
+          "text": "Sistematizando la mejora continua mediante datos de la auditor\u00eda continua",
+          "isCorrect": true,
+          "rationale": "La data auditada alimenta el ciclo de optimizaci\u00f3n, asegurando que la organizaci\u00f3n evolucione sin detenerse."
+        },
+        {
+          "text": "Aumentando el n\u00famero de pantallas en el centro de control",
+          "isCorrect": false,
+          "rationale": "Tener m\u00e1s pantallas fomenta el monitoreo pasivo, no necesariamente la optimizaci\u00f3n permanente."
+        },
+        {
+          "text": "Ignorando las anomal\u00edas menores para enfocarse solo en grandes fallos",
+          "isCorrect": false,
+          "rationale": "La excelencia requiere detectar desviaciones min\u00fasculas antes de que se conviertan en fallos catastr\u00f3ficos."
+        },
+        {
+          "text": "Dependiendo exclusivamente del instinto de los operadores con m\u00e1s a\u00f1os",
+          "isCorrect": false,
+          "rationale": "La meta es pasar de una operaci\u00f3n basada en el instinto a una guiada rigurosamente por datos."
+        }
+      ],
+      "hint": "Consiste en usar los datos como gasolina para alimentar metodolog\u00edas de optimizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 metodolog\u00edas se mencionan para reducir la variabilidad y eliminar desperdicios en la operaci\u00f3n digitalizada?",
+      "answerOptions": [
+        {
+          "text": "Kaizen, Ciclo de Deming, Lean y Six Sigma",
+          "isCorrect": true,
+          "rationale": "Estas herramientas tradicionales se fusionan con los datos modernos para lograr una optimizaci\u00f3n pragm\u00e1tica."
+        },
+        {
+          "text": "ADKAR y protocolos de visualizaci\u00f3n en Python",
+          "isCorrect": false,
+          "rationale": "ADKAR es para gesti\u00f3n del cambio y Python para an\u00e1lisis; no son metodolog\u00edas de optimizaci\u00f3n de procesos en s\u00ed."
+        },
+        {
+          "text": "Sistemas SCADA y mantenimiento correctivo",
+          "isCorrect": false,
+          "rationale": "El mantenimiento correctivo es reactivo; las metodolog\u00edas mencionadas buscan la mejora proactiva y preventiva."
+        },
+        {
+          "text": "ISA 95 y CMMI exclusivamente",
+          "isCorrect": false,
+          "rationale": "Estos son marcos de referencia y est\u00e1ndares, pero la optimizaci\u00f3n del desperdicio utiliza Lean y Six Sigma."
+        }
+      ],
+      "hint": "Se trata de fusionar enfoques cl\u00e1sicos de gesti\u00f3n de calidad con la era digital."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la reducci\u00f3n porcentual de tiempos de inactividad lograda por Codelco gracias al mantenimiento predictivo?",
+      "answerOptions": [
+        {
+          "text": "Entre un $20$ y un $25\\%$",
+          "isCorrect": true,
+          "rationale": "Esta reducci\u00f3n significativa de inactividad se logr\u00f3 mediante una hoja de ruta estructurada y alianzas tecnol\u00f3gicas."
+        },
+        {
+          "text": "Un $90\\%$ exacto",
+          "isCorrect": false,
+          "rationale": "El $90\\%$ corresponde a la reducci\u00f3n de incidentes de seguridad en Antamina."
+        },
+        {
+          "text": "Un $6.4\\%$ por encima de las metas",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es el incremento de eficiencia en la flota aut\u00f3noma de Quellaveco."
+        },
+        {
+          "text": "Un $100\\%$ de disponibilidad",
+          "isCorrect": false,
+          "rationale": "Aunque se busca la eficiencia, la cifra reportada fue la reducci\u00f3n de tiempos de inactividad, no disponibilidad absoluta."
+        }
+      ],
+      "hint": "Es un rango porcentual que representa un ahorro masivo para equipos de gran escala."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la conclusi\u00f3n definitiva sobre el \u00e9xito real en la transformaci\u00f3n digital minera?",
+      "answerOptions": [
+        {
+          "text": "Orquestar est\u00e1ndares, innovaci\u00f3n y el factor humano priorizando dolores operativos",
+          "isCorrect": true,
+          "rationale": "El \u00e9xito no es acumular tecnolog\u00eda, sino alinearla con los procesos, la \u00e9tica y los resultados de negocio."
+        },
+        {
+          "text": "Soltar el tim\u00f3n y dejar que los datos dicten el futuro sin intervenci\u00f3n humana",
+          "isCorrect": false,
+          "rationale": "El factor humano sigue siendo vital para dar contexto y liderazgo \u00e9tico a la industria."
+        },
+        {
+          "text": "Invertir en todas las tecnolog\u00edas disponibles para estar siempre a la moda",
+          "isCorrect": false,
+          "rationale": "La inversi\u00f3n debe ser estrat\u00e9gica y con un prop\u00f3sito estructurado, no basada en tendencias."
+        },
+        {
+          "text": "Priorizar el ahorro econ\u00f3mico por encima de la seguridad y la \u00e9tica",
+          "isCorrect": false,
+          "rationale": "La seguridad es lo m\u00e1s cr\u00edtico de la operaci\u00f3n, y la tecnolog\u00eda funciona como un salvavidas."
+        }
+      ],
+      "hint": "No se trata de la cantidad de herramientas, sino de c\u00f3mo se coordinan con las personas."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Miner\u00eda 4.0",
+      "Arquitectura de Data Pipeline",
+      "Estrategias de Inversi\u00f3n Digital",
+      "Casos de \u00c9xito Regionales (Quellaveco, Codelco, Antamina)",
+      "Seguridad y \u00c9tica en la Gesti\u00f3n de Datos",
+      "Marcos de Madurez (CMMI, ISA 95, SIRI)",
+      "Gesti\u00f3n del Cambio y Modelo ADKAR",
+      "Excelencia Operativa y Mejora Continua"
+    ],
+    "followUp": [
+      "Mantenimiento Predictivo Aplicado",
+      "Protocolos de Interoperabilidad Industrial (OPCUA)",
+      "Gobernanza de Datos en la Nube",
+      "Metodolog\u00edas Lean Six Sigma en Procesos Mineros",
+      "Indicadores Clave de Riesgo (KRI) y Balanced Scorecard"
+    ]
+  }
+}

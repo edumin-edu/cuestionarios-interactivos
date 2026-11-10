@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo legal de la jornada ordinaria de trabajo en el ordenamiento jur\u00eddico peruano?",
+      "answerOptions": [
+        {
+          "text": "8 horas diarias o 48 horas semanales",
+          "isCorrect": true,
+          "rationale": "Este es el tope m\u00e1ximo establecido tanto en la Constituci\u00f3n como en el Decreto Legislativo 854 para proteger la integridad del trabajador."
+        },
+        {
+          "text": "9 horas diarias o 45 horas semanales",
+          "isCorrect": false,
+          "rationale": "Aunque es una distribuci\u00f3n com\u00fan en algunos pa\u00edses, la legislaci\u00f3n peruana fija el l\u00edmite diario en una hora menos y el semanal en tres horas m\u00e1s."
+        },
+        {
+          "text": "8 horas diarias o 44 horas semanales",
+          "isCorrect": false,
+          "rationale": "Esta cifra suele confundirse con el r\u00e9gimen laboral de otros sectores o pa\u00edses, pero el tope semanal general en Per\u00fa es superior."
+        },
+        {
+          "text": "10 horas diarias o 48 horas semanales",
+          "isCorrect": false,
+          "rationale": "El l\u00edmite de diez horas exceder\u00eda la protecci\u00f3n diaria contra el desgaste humano, a pesar de respetar el total semanal."
+        }
+      ],
+      "hint": "Recuerde los dos n\u00fameros fundamentales que funcionan como un muro de contenci\u00f3n legal seg\u00fan el Decreto Legislativo 854."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la duraci\u00f3n m\u00ednima obligatoria del tiempo de refrigerio y c\u00f3mo se contabiliza respecto a la jornada laboral?",
+      "answerOptions": [
+        {
+          "text": "45 minutos y no forma parte de la jornada laboral",
+          "isCorrect": true,
+          "rationale": "La ley establece este m\u00ednimo de desconexi\u00f3n vital, el cual, por regla general, queda fuera del c\u00e1lculo del tiempo efectivo de trabajo."
+        },
+        {
+          "text": "30 minutos y se incluye dentro de la jornada laboral",
+          "isCorrect": false,
+          "rationale": "Este tiempo es inferior al m\u00ednimo legal de 45 minutos y la regla general es que el refrigerio no se computa como tiempo trabajado."
+        },
+        {
+          "text": "60 minutos y es un periodo remunerado por ley",
+          "isCorrect": false,
+          "rationale": "Si bien muchas empresas dan una hora, la ley no obliga a que este tiempo sea pagado a menos que exista un pacto espec\u00edfico."
+        },
+        {
+          "text": "45 minutos y debe ser pagado obligatoriamente por el empleador",
+          "isCorrect": false,
+          "rationale": "Existe la confusi\u00f3n de que todo descanso es pagado, pero el refrigerio es un tiempo de libre disponibilidad fuera de la jornada remunerada."
+        }
+      ],
+      "hint": "Piense en el espacio de desconexi\u00f3n que suele causar sorpresa por su exclusi\u00f3n del c\u00e1lculo oficial de horas."
+    },
+    {
+      "question": "\u00bfHasta qu\u00e9 l\u00edmite puede un empleador modificar unilateralmente el horario de trabajo sin necesidad de una negociaci\u00f3n previa?",
+      "answerOptions": [
+        {
+          "text": "Hasta una hora",
+          "isCorrect": true,
+          "rationale": "La facultad directiva del empleador le permite realizar ajustes operativos menores que no superen los 60 minutos de cambio."
+        },
+        {
+          "text": "Hasta dos horas",
+          "isCorrect": false,
+          "rationale": "Un cambio de esta magnitud altera significativamente la vida personal del trabajador y requiere obligatoriamente un proceso formal o negociaci\u00f3n."
+        },
+        {
+          "text": "Cualquier cambio requiere negociaci\u00f3n previa",
+          "isCorrect": false,
+          "rationale": "El empleador posee cierto poder de direcci\u00f3n (ius variandi) que le permite cambios m\u00ednimos por urgencias operativas sin consulta."
+        },
+        {
+          "text": "Hasta 30 minutos",
+          "isCorrect": false,
+          "rationale": "Aunque es un ajuste seguro, el umbral legal que marca el cambio en las reglas de juego es superior a la media hora."
+        }
+      ],
+      "hint": "Considere el umbral de 60 minutos que separa la decisi\u00f3n unilateral de la obligatoriedad de negociar con el sindicato."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se calcula el recargo por horas extras para un trabajador que labora cuatro horas de sobretiempo en un d\u00eda?",
+      "answerOptions": [
+        {
+          "text": "25\\% por las dos primeras horas y 35\\% por las dos restantes",
+          "isCorrect": true,
+          "rationale": "La ley establece una sobretasa progresiva para desincentivar la prolongaci\u00f3n indefinida de la jornada laboral."
+        },
+        {
+          "text": "35\\% por la totalidad de las horas trabajadas",
+          "isCorrect": false,
+          "rationale": "Esta sobretasa solo aplica a partir de la tercera hora, no pudiendo aplicarse de forma retroactiva a las dos primeras horas."
+        },
+        {
+          "text": "25\\% por la totalidad de las horas trabajadas",
+          "isCorrect": false,
+          "rationale": "Este c\u00e1lculo ignora el salto autom\u00e1tico de la sobretasa que ocurre cuando se cruza el umbral de la segunda hora extra."
+        },
+        {
+          "text": "50\\% por ser una jornada excesiva",
+          "isCorrect": false,
+          "rationale": "Aunque existen sobretasas altas en d\u00edas feriados, el sobretiempo ordinario se rige por las tasas del 25\\% y 35\\%."
+        }
+      ],
+      "hint": "Recuerde que el c\u00e1lculo del tiempo extendido se encarece significativamente a partir de la tercera hora."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el ingreso m\u00ednimo que debe percibir un trabajador en jornada nocturna (22:00 a 06:00)?",
+      "answerOptions": [
+        {
+          "text": "La RMV m\u00e1s una sobretasa del 35\\%",
+          "isCorrect": true,
+          "rationale": "Este monto funciona como un candado legal para compensar el impacto en el ritmo circadiano y la salud general."
+        },
+        {
+          "text": "La RMV simple sin recargos adicionales",
+          "isCorrect": false,
+          "rationale": "Pagar solo el m\u00ednimo diurno por trabajo de madrugada es ilegal, ya que no compensa el esfuerzo psicof\u00edsico adicional."
+        },
+        {
+          "text": "Dos remuneraciones m\u00ednimas vitales",
+          "isCorrect": false,
+          "rationale": "Aunque el esfuerzo es mayor, la ley no exige duplicar el salario, sino aplicar una sobretasa porcentual espec\u00edfica."
+        },
+        {
+          "text": "La RMV m\u00e1s una sobretasa del 25\\%",
+          "isCorrect": false,
+          "rationale": "El 25\\% corresponde a las primeras horas extras, pero para la jornada nocturna se aplica el mismo porcentaje que para la tercera hora extra."
+        }
+      ],
+      "hint": "Considere el piso salarial que actualmente se sit\u00faa en $1383,75$ soles como mecanismo de protecci\u00f3n."
+    },
+    {
+      "question": "Para acceder a los 30 d\u00edas de vacaciones, \u00bfcu\u00e1ntos d\u00edas de asistencia efectiva debe acreditar un trabajador con una jornada de 5 d\u00edas a la semana?",
+      "answerOptions": [
+        {
+          "text": "210 d\u00edas",
+          "isCorrect": true,
+          "rationale": "El r\u00e9cord vacacional var\u00eda seg\u00fan la jornada semanal; para quienes descansan dos d\u00edas a la semana, la exigencia de asistencia es menor."
+        },
+        {
+          "text": "260 d\u00edas",
+          "isCorrect": false,
+          "rationale": "Este n\u00famero de d\u00edas es el requisito correspondiente a los trabajadores que laboran 6 d\u00edas a la semana."
+        },
+        {
+          "text": "300 d\u00edas",
+          "isCorrect": false,
+          "rationale": "Es una cifra excesiva que no toma en cuenta los descansos semanales ni los feriados dentro del ciclo anual."
+        },
+        {
+          "text": "180 d\u00edas",
+          "isCorrect": false,
+          "rationale": "Seis meses de asistencia no son suficientes para cumplir el r\u00e9cord estricto necesario para el descanso anual completo."
+        }
+      ],
+      "hint": "Diferencie entre los requisitos para empresas con jornadas de 5 d\u00edas frente a las de 6 d\u00edas semanales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 concepto legal permite que los primeros 60 d\u00edas de inasistencia por enfermedad se contabilicen para el r\u00e9cord vacacional?",
+      "answerOptions": [
+        {
+          "text": "D\u00edas efectivamente laborados por protecci\u00f3n legal",
+          "isCorrect": true,
+          "rationale": "La ley protege ciertas ausencias justificadas para no perjudicar el derecho al descanso anual del trabajador."
+        },
+        {
+          "text": "Suspensi\u00f3n perfecta de labores",
+          "isCorrect": false,
+          "rationale": "En la suspensi\u00f3n perfecta no hay pago ni se computa tiempo de servicio, lo cual es opuesto al beneficio de protecci\u00f3n por enfermedad."
+        },
+        {
+          "text": "Vacaciones truncas",
+          "isCorrect": false,
+          "rationale": "Este t\u00e9rmino se refiere a la compensaci\u00f3n cuando el v\u00ednculo cesa antes del a\u00f1o, no a la justificaci\u00f3n de faltas por salud."
+        },
+        {
+          "text": "Licencia sin goce de haber",
+          "isCorrect": false,
+          "rationale": "Las licencias sin goce no se consideran d\u00edas trabajados para el c\u00e1lculo de beneficios sociales o r\u00e9cord vacacional."
+        }
+      ],
+      "hint": "Piense en el 'salvavidas legal' que evita que un accidente o enfermedad comprobada afecte el derecho a vacaciones."
+    },
+    {
+      "question": "En el fraccionamiento de vacaciones, \u00bfcu\u00e1l es la regla estricta para el bloque principal de 15 d\u00edas?",
+      "answerOptions": [
+        {
+          "text": "Se toma de corrido o se divide en periodos de 7 y 8 d\u00edas",
+          "isCorrect": true,
+          "rationale": "La ley exige que al menos la mitad del descanso mantenga su prop\u00f3sito recuperador mediante bloques de tiempo significativos."
+        },
+        {
+          "text": "Se puede dividir en 15 periodos de un d\u00eda cada uno",
+          "isCorrect": false,
+          "rationale": "Solo los 15 d\u00edas restantes (el saldo) gozan de esa libertad; el bloque principal debe ser indivisible o en dos partes fijas."
+        },
+        {
+          "text": "Debe tomarse obligatoriamente de forma ininterrumpida",
+          "isCorrect": false,
+          "rationale": "Aunque es lo ideal, la normativa actual flexibiliza esta mitad permitiendo una \u00fanica divisi\u00f3n de 7 y 8 d\u00edas."
+        },
+        {
+          "text": "Se puede fraccionar en tres bloques de 5 d\u00edas",
+          "isCorrect": false,
+          "rationale": "Esta distribuci\u00f3n no est\u00e1 permitida para el bloque principal, ya que diluir\u00eda excesivamente el efecto de recuperaci\u00f3n psicof\u00edsica."
+        }
+      ],
+      "hint": "Reflexione sobre el mandato que impide que el descanso principal se fragmente en unidades peque\u00f1as."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sanci\u00f3n se aplica si un empleador no otorga el descanso vacacional dentro del a\u00f1o siguiente a aquel en que se gan\u00f3 el derecho?",
+      "answerOptions": [
+        {
+          "text": "El pago de la triple vacacional",
+          "isCorrect": true,
+          "rationale": "Esta penalidad incluye el pago por el trabajo realizado, el pago por el descanso omitido y una indemnizaci\u00f3n equivalente a un sueldo."
+        },
+        {
+          "text": "Una multa administrativa de 10 UIT",
+          "isCorrect": false,
+          "rationale": "Aunque existen multas de SUNAFIL, el derecho del trabajador se materializa espec\u00edficamente en el concepto de la triple remuneraci\u00f3n."
+        },
+        {
+          "text": "La p\u00e9rdida del derecho al descanso f\u00edsico",
+          "isCorrect": false,
+          "rationale": "El descanso no se pierde, sino que su falta de otorgamiento oportuno genera una compensaci\u00f3n econ\u00f3mica punitiva severa."
+        },
+        {
+          "text": "El despido inmediato del gerente de Recursos Humanos",
+          "isCorrect": false,
+          "rationale": "Es una consecuencia administrativa interna posible, pero no es la sanci\u00f3n legal que protege el patrimonio del trabajador afectado."
+        }
+      ],
+      "hint": "Piense en el error de gesti\u00f3n que obliga a compensar tres conceptos distintos, incluyendo una indemnizaci\u00f3n punitiva."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 los gerentes o personal de alta direcci\u00f3n generalmente no tienen derecho a la indemnizaci\u00f3n por falta de descanso vacacional?",
+      "answerOptions": [
+        {
+          "text": "Porque tienen autonom\u00eda para programar su propio descanso",
+          "isCorrect": true,
+          "rationale": "La ley asume que, al tener poder de decisi\u00f3n, si no tomaron sus vacaciones fue por una elecci\u00f3n voluntaria y no por imposici\u00f3n patronal."
+        },
+        {
+          "text": "Porque su sueldo ya incluye todos los beneficios posibles",
+          "isCorrect": false,
+          "rationale": "El nivel salarial no elimina derechos irrenunciables, pero la autonom\u00eda funcional s\u00ed cambia la responsabilidad sobre el descanso."
+        },
+        {
+          "text": "Porque est\u00e1n bajo el r\u00e9gimen de confianza absoluta",
+          "isCorrect": false,
+          "rationale": "Si bien son de confianza, el motivo t\u00e9cnico es su potestad de autogesti\u00f3n del tiempo, no solo el t\u00edtulo del cargo."
+        },
+        {
+          "text": "Porque la ley proh\u00edbe que los directivos tengan vacaciones",
+          "isCorrect": false,
+          "rationale": "Todos los trabajadores tienen derecho constitucional al descanso; la excepci\u00f3n solo aplica a la sanci\u00f3n indemnizatoria."
+        }
+      ],
+      "hint": "Considere qui\u00e9n posee la facultad y potestad para decidir el calendario de descansos en los rangos m\u00e1s altos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la prioridad del pago de remuneraciones en caso de quiebra o liquidaci\u00f3n de una empresa?",
+      "answerOptions": [
+        {
+          "text": "Prioridad absoluta sobre cualquier otra deuda",
+          "isCorrect": true,
+          "rationale": "Debido a su car\u00e1cter alimentario, los cr\u00e9ditos laborales se pagan antes que a bancos, proveedores o al Estado."
+        },
+        {
+          "text": "Se pagan despu\u00e9s de los impuestos adeudados",
+          "isCorrect": false,
+          "rationale": "El Estado cede su prioridad frente al salario del trabajador, reconociendo que este garantiza la subsistencia familiar inmediata."
+        },
+        {
+          "text": "Tienen la misma prioridad que las deudas bancarias",
+          "isCorrect": false,
+          "rationale": "Los bancos son acreedores comerciales que est\u00e1n en un orden de prelaci\u00f3n inferior a los trabajadores en procesos de liquidaci\u00f3n."
+        },
+        {
+          "text": "Solo se pagan si queda remanente tras liquidar activos fijos",
+          "isCorrect": false,
+          "rationale": "La protecci\u00f3n jur\u00eddica obliga a destinar los primeros fondos obtenidos de la liquidaci\u00f3n al pago de la planilla pendiente."
+        }
+      ],
+      "hint": "Relacione este concepto con la 'armadura jur\u00eddica' que otorga el car\u00e1cter alimentario del salario."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece la regla del pago en especie respecto a la remuneraci\u00f3n ordinaria?",
+      "answerOptions": [
+        {
+          "text": "No puede superar el 20\\% de la remuneraci\u00f3n",
+          "isCorrect": true,
+          "rationale": "Esta restricci\u00f3n asegura que la mayor parte del salario sea percibida en dinero l\u00edquido de libre disponibilidad."
+        },
+        {
+          "text": "Puede representar hasta el 50\\% si el trabajador acepta",
+          "isCorrect": false,
+          "rationale": "Incluso con aceptaci\u00f3n, superar el 20\\% se considera ilegal por desnaturalizar el car\u00e1cter monetario de la contraprestaci\u00f3n."
+        },
+        {
+          "text": "Solo est\u00e1 permitido para el pago de vivienda",
+          "isCorrect": false,
+          "rationale": "Puede incluir alimentaci\u00f3n o bienes producidos por la empresa, siempre que se valoricen a precio de mercado y respeten el tope."
+        },
+        {
+          "text": "No tiene l\u00edmites siempre que el bien sea de libre disposici\u00f3n",
+          "isCorrect": false,
+          "rationale": "Aunque sea de libre disposici\u00f3n (como vales), el l\u00edmite porcentual protege la liquidez necesaria para otros gastos del trabajador."
+        }
+      ],
+      "hint": "Considere el l\u00edmite porcentual dise\u00f1ado para evitar que el sueldo se entregue mayoritariamente en productos."
+    },
+    {
+      "question": "\u00bfBajo qu\u00e9 criterio matem\u00e1tico un concepto no remunerativo (como un bono) se convierte en remuneraci\u00f3n computable?",
+      "answerOptions": [
+        {
+          "text": "Si se percibe 3 o m\u00e1s veces en un periodo de 6 meses",
+          "isCorrect": true,
+          "rationale": "Este criterio de regularidad (3 en 6) determina que el pago ya no es extraordinario, sino parte de la base de beneficios."
+        },
+        {
+          "text": "Si el monto supera el 50\\% de la RMV",
+          "isCorrect": false,
+          "rationale": "La naturaleza remunerativa no depende de la cuant\u00eda del bono, sino de la frecuencia con la que se entrega al trabajador."
+        },
+        {
+          "text": "Si se paga de forma ininterrumpida durante un a\u00f1o",
+          "isCorrect": false,
+          "rationale": "No es necesario esperar un a\u00f1o completo; el marco legal eval\u00faa ventanas semestrales para determinar la regularidad."
+        },
+        {
+          "text": "Si el empleador lo registra voluntariamente en la boleta",
+          "isCorrect": false,
+          "rationale": "La regularidad es un mandato legal autom\u00e1tico que opera por encima de la voluntad o la etiqueta que el empleador asigne al pago."
+        }
+      ],
+      "hint": "Piense en la f\u00f3rmula conocida como la regla del 'tres en seis'."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 los vi\u00e1ticos o gastos operativos suelen considerarse condiciones de trabajo y no remuneraci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Porque carecen de libre disponibilidad y requieren rendici\u00f3n de cuentas",
+          "isCorrect": true,
+          "rationale": "Al estar destinados estrictamente a la ejecuci\u00f3n de una tarea, el trabajador no puede disponer de ellos para su beneficio personal."
+        },
+        {
+          "text": "Porque son montos muy variables mes a mes",
+          "isCorrect": false,
+          "rationale": "La variabilidad no define la naturaleza; un bono variable puede ser remuneraci\u00f3n, pero un gasto operativo no lo es por su fin espec\u00edfico."
+        },
+        {
+          "text": "Porque siempre se pagan despu\u00e9s de realizado el gasto",
+          "isCorrect": false,
+          "rationale": "Incluso si se entregan como adelanto, la obligaci\u00f3n de sustentar el gasto con facturas elimina la libre disponibilidad."
+        },
+        {
+          "text": "Porque superan el tope del 20\\% permitido por ley",
+          "isCorrect": false,
+          "rationale": "El l\u00edmite del 20\\% aplica al pago en especie, no a los montos entregados para herramientas o log\u00edstica de trabajo."
+        }
+      ],
+      "hint": "Recuerde el caso de los magistrados donde el destino y el control del dinero definieron su naturaleza legal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede con la gratificaci\u00f3n proporcional de un mes si un trabajador renuncia el d\u00eda 29 de dicho mes?",
+      "answerOptions": [
+        {
+          "text": "Pierde la parte proporcional de la gratificaci\u00f3n por ese mes",
+          "isCorrect": true,
+          "rationale": "El sistema de gratificaciones exige el cumplimiento del mes calendario completo para que el periodo sea computable."
+        },
+        {
+          "text": "Se le paga el 96\\% de la parte proporcional del mes",
+          "isCorrect": false,
+          "rationale": "En gratificaciones no existe el c\u00e1lculo por d\u00edas; la regla es de 'todo o nada' respecto al mes completo laborado."
+        },
+        {
+          "text": "Recibe el pago completo porque se considera redondeo a favor",
+          "isCorrect": false,
+          "rationale": "La normativa es r\u00edgida y no permite redondeos; faltar un solo d\u00eda impide el cierre del ciclo mensual computable."
+        },
+        {
+          "text": "Se le descuenta solo el d\u00eda faltante del c\u00e1lculo final",
+          "isCorrect": false,
+          "rationale": "Aunque parece l\u00f3gico, legalmente el mes no se considera 'mes completo laborado', perdi\u00e9ndose el derecho a ese dozavo."
+        }
+      ],
+      "hint": "Considere la rigidez de la regla del mes completo para los beneficios de julio y diciembre."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el monto y la naturaleza de la Asignaci\u00f3n Familiar?",
+      "answerOptions": [
+        {
+          "text": "10\\% de la RMV y es un monto fijo sin importar el n\u00famero de hijos",
+          "isCorrect": true,
+          "rationale": "Es un beneficio de monto inflexible (102.50 soles) que no escala con la cantidad de dependientes."
+        },
+        {
+          "text": "10\\% de la remuneraci\u00f3n b\u00e1sica por cada hijo menor de edad",
+          "isCorrect": false,
+          "rationale": "El c\u00e1lculo se basa en el sueldo m\u00ednimo vital, no en el b\u00e1sico del trabajador, y no se multiplica por el n\u00famero de hijos."
+        },
+        {
+          "text": "Un monto variable que depende del rendimiento del trabajador",
+          "isCorrect": false,
+          "rationale": "Es un derecho social legal ligado a la carga familiar, totalmente independiente de la productividad u objetivos."
+        },
+        {
+          "text": "5\\% de la RMV y se paga de forma proporcional a los d\u00edas asistidos",
+          "isCorrect": false,
+          "rationale": "El porcentaje es el doble (10\\%) y tiene la particularidad de que no se prorratea; se paga completo si el derecho est\u00e1 activo."
+        }
+      ],
+      "hint": "Recuerde que este derecho se activa por tener hijos menores o estudiantes, pero su c\u00e1lculo es est\u00e1ndar."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el requisito de ingresos para implementar la Remuneraci\u00f3n \u00cdntegra Anual (RIA)?",
+      "answerOptions": [
+        {
+          "text": "Ganar m\u00e1s de 2 Unidades Impositivas Tributarias (UIT)",
+          "isCorrect": true,
+          "rationale": "Este umbral asegura que solo el personal con ingresos altos pueda pactar la consolidaci\u00f3n de beneficios en un solo pago mensual."
+        },
+        {
+          "text": "Ganar m\u00e1s de 5,000 soles mensuales",
+          "isCorrect": false,
+          "rationale": "Este monto es inferior a la valla legal establecida por la normativa de la RIA, la cual supera actualmente los 10,000 soles."
+        },
+        {
+          "text": "No existe requisito de ingresos, solo acuerdo escrito",
+          "isCorrect": false,
+          "rationale": "Aunque el acuerdo escrito es vital, la ley impone un l\u00edmite econ\u00f3mico estricto para evitar abusos en rangos salariales bajos."
+        },
+        {
+          "text": "Ganar m\u00e1s de 10 Remuneraciones M\u00ednimas Vitales",
+          "isCorrect": false,
+          "rationale": "La referencia legal se hace en base a la UIT y no directamente sobre la Remuneraci\u00f3n M\u00ednima Vital."
+        }
+      ],
+      "hint": "Piense en la valla econ\u00f3mica que sit\u00faa este mecanismo en el segmento de sueldos superiores a los $10,300$ soles."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia principal en gratificaciones entre una peque\u00f1a empresa y una microempresa registradas en el REMIPE?",
+      "answerOptions": [
+        {
+          "text": "La peque\u00f1a paga 50\\% y la microempresa 0\\%",
+          "isCorrect": true,
+          "rationale": "El r\u00e9gimen de microempresa es el m\u00e1s austero, eliminando la obligaci\u00f3n de gratificaciones para fomentar la formalizaci\u00f3n extrema."
+        },
+        {
+          "text": "Ambas pagan el 50\\% de las gratificaciones legales",
+          "isCorrect": false,
+          "rationale": "Existe una diferencia marcada entre ambos niveles; la microempresa tiene una carga laboral significativamente menor."
+        },
+        {
+          "text": "La peque\u00f1a paga 100\\% y la microempresa 50\\%",
+          "isCorrect": false,
+          "rationale": "El r\u00e9gimen general es el que paga el 100\\%; las MIPE tienen beneficios recortados por debajo de ese est\u00e1ndar."
+        },
+        {
+          "text": "Solo se diferencian en los d\u00edas de vacaciones, no en gratificaciones",
+          "isCorrect": false,
+          "rationale": "Aunque ambas dan 15 d\u00edas de vacaciones, el impacto econ\u00f3mico real est\u00e1 en la diferencia del pago de julio y diciembre."
+        }
+      ],
+      "hint": "Considere c\u00f3mo var\u00eda la estructura de beneficios para aliviar el peso de la planilla en el ecosistema de las empresas m\u00e1s peque\u00f1as."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede si una empresa recorta beneficios asumiendo que es MIPE pero no se ha inscrito formalmente en el REMIPE?",
+      "answerOptions": [
+        {
+          "text": "Se le obliga a pagar todo bajo el r\u00e9gimen general de forma retroactiva",
+          "isCorrect": true,
+          "rationale": "La inscripci\u00f3n es de naturaleza constitutiva, por lo que los beneficios del r\u00e9gimen especial no operan hacia atr\u00e1s."
+        },
+        {
+          "text": "Se le otorga un plazo de 30 d\u00edas para regularizar sin multas",
+          "isCorrect": false,
+          "rationale": "La ley es implacable; actuar sin estar en el registro se considera una infracci\u00f3n grave que no admite regularizaci\u00f3n retroactiva de costos."
+        },
+        {
+          "text": "Solo se le aplica una multa simb\u00f3lica por falta administrativa",
+          "isCorrect": false,
+          "rationale": "El riesgo no es solo la multa, sino la contingencia financiera de pagar la diferencia de beneficios a todos los trabajadores."
+        },
+        {
+          "text": "El sistema asume autom\u00e1ticamente su condici\u00f3n por el volumen de ventas",
+          "isCorrect": false,
+          "rationale": "Las ventas definen la elegibilidad, pero la condici\u00f3n de MIPE solo nace jur\u00eddicamente con el registro oficial."
+        }
+      ],
+      "hint": "Piense en la 'naturaleza constitutiva' del registro y el peligro de 'saltar sin paraca\u00eddas'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite de embargabilidad para deudas de car\u00e1cter comercial (bancarias)?",
+      "answerOptions": [
+        {
+          "text": "Solo se puede embargar el exceso de 5 URP",
+          "isCorrect": true,
+          "rationale": "La ley protege un m\u00ednimo intocable (aprox. $2,575$ soles) para garantizar que el deudor tenga lo indispensable para sobrevivir."
+        },
+        {
+          "text": "Hasta el 60\\% del ingreso bruto del trabajador",
+          "isCorrect": false,
+          "rationale": "Este porcentaje tan alto solo est\u00e1 permitido para deudas por pensi\u00f3n de alimentos, no para deudas comerciales."
+        },
+        {
+          "text": "El 100\\% de los excedentes sobre la RMV",
+          "isCorrect": false,
+          "rationale": "La protecci\u00f3n es mayor; se utiliza la Unidad de Referencia Procesal (URP) como base, que es superior a la RMV."
+        },
+        {
+          "text": "No existe l\u00edmite si hay una orden judicial de cobranza",
+          "isCorrect": false,
+          "rationale": "Incluso con orden judicial, el sistema act\u00faa como un escudo casi impenetrable para proteger el sustento b\u00e1sico del individuo."
+        }
+      ],
+      "hint": "Recuerde la l\u00ednea roja que protege la subsistencia frente a la presi\u00f3n de las entidades financieras."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Jornada laboral y horarios",
+      "Descansos remunerados y vacaciones",
+      "Remuneraci\u00f3n y sus modalidades",
+      "Beneficios sociales legales",
+      "Reg\u00edmenes especiales (MIPE y RIA)",
+      "Protecci\u00f3n y fiscalizaci\u00f3n laboral"
+    ],
+    "followUp": [
+      "C\u00e1lculo de liquidaci\u00f3n de beneficios sociales",
+      "Procedimientos de inspecci\u00f3n de SUNAFIL",
+      "Jurisprudencia sobre desnaturalizaci\u00f3n de contratos",
+      "Seguridad y salud en el trabajo",
+      "Derecho colectivo y negociaci\u00f3n sindical"
+    ]
+  }
+}

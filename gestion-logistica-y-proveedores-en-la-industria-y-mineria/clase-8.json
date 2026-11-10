@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el cambio fundamental en la visi\u00f3n contempor\u00e1nea de la log\u00edstica minera?",
+      "answerOptions": [
+        {
+          "text": "Dejar de verla como un gasto para transformarla en gesti\u00f3n estrat\u00e9gica.",
+          "isCorrect": true,
+          "rationale": "Este enfoque integra la planificaci\u00f3n y el control de producci\u00f3n para aumentar la productividad mediante decisiones \u00e1giles."
+        },
+        {
+          "text": "Priorizar la reducci\u00f3n de costos de transporte sobre la seguridad.",
+          "isCorrect": false,
+          "rationale": "La seguridad y la continuidad operativa son innegociables en la log\u00edstica minera moderna."
+        },
+        {
+          "text": "Centralizar todas las operaciones en un \u00fanico proveedor log\u00edstico.",
+          "isCorrect": false,
+          "rationale": "Depender de un solo proveedor se considera un riesgo estrat\u00e9gico que debe evitarse mediante la diversificaci\u00f3n."
+        },
+        {
+          "text": "Limitar su funci\u00f3n \u00fanicamente al movimiento de rocas y materiales.",
+          "isCorrect": false,
+          "rationale": "La log\u00edstica actual se define como un ecosistema complejo que garantiza la viabilidad econ\u00f3mica del proyecto."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el enfoque administrativo ha evolucionado de un centro de costos a un generador de valor."
+    },
+    {
+      "question": "\u00bfQu\u00e9 objetivo principal persigue la metodolog\u00eda Link Logistic en la cadena de suministro?",
+      "answerOptions": [
+        {
+          "text": "La eliminaci\u00f3n de la inoperatividad mediante la sincronizaci\u00f3n de flujos.",
+          "isCorrect": true,
+          "rationale": "Busca alcanzar cero tiempos muertos y una coordinaci\u00f3n absoluta entre todos los eslabones de la cadena."
+        },
+        {
+          "text": "La sustituci\u00f3n total de la mano de obra por sistemas rob\u00f3ticos.",
+          "isCorrect": false,
+          "rationale": "Aunque se usa tecnolog\u00eda, el Link Logistic se centra en la sincronizaci\u00f3n de procesos, no solo en la automatizaci\u00f3n."
+        },
+        {
+          "text": "El aumento de los niveles de inventario para evitar quiebres de stock.",
+          "isCorrect": false,
+          "rationale": "Esta metodolog\u00eda busca la eficiencia esbelta, lo que suele implicar optimizar el inventario en lugar de simplemente aumentarlo."
+        },
+        {
+          "text": "La expansi\u00f3n geogr\u00e1fica acelerada hacia nuevos yacimientos.",
+          "isCorrect": false,
+          "rationale": "El enfoque principal es la optimizaci\u00f3n operativa de los flujos actuales m\u00e1s que la prospecci\u00f3n geogr\u00e1fica."
+        }
+      ],
+      "hint": "Considere el concepto de 'log\u00edstica esbelta' y la b\u00fasqueda de eficiencia temporal."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la utilidad de la matriz de probabilidad e impacto en la gesti\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "Priorizar los planes de contingencia ante fallos en insumos cr\u00edticos.",
+          "isCorrect": true,
+          "rationale": "Permite adelantar sistemas de respaldo para elementos vitales como explosivos o reactivos antes de que ocurran fallos."
+        },
+        {
+          "text": "Calcular la rentabilidad neta de la extracci\u00f3n de oro refinado.",
+          "isCorrect": false,
+          "rationale": "Esta matriz es una herramienta de gesti\u00f3n de riesgos, no un instrumento de contabilidad financiera para el producto final."
+        },
+        {
+          "text": "Determinar la dureza del macizo rocoso antes de una voladura.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis de la roca corresponde a la planificaci\u00f3n t\u00e9cnica y geol\u00f3gica, no a la matriz de riesgos log\u00edsticos."
+        },
+        {
+          "text": "Establecer los turnos de trabajo de los operarios de planta.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de turnos se realiza mediante software especializado como ODOO, no mediante matrices de impacto de riesgos."
+        }
+      ],
+      "hint": "Esta herramienta ayuda a decidir qu\u00e9 problemas deben atenderse con mayor urgencia."
+    },
+    {
+      "question": "En el modelo SCM de cinco variables, \u00bfa qu\u00e9 se refiere espec\u00edficamente el 'suministro'?",
+      "answerOptions": [
+        {
+          "text": "Asegurar que el inventario est\u00e9 disponible justo cuando se necesita.",
+          "isCorrect": true,
+          "rationale": "Se enfoca en la disponibilidad temporal y f\u00edsica de los materiales necesarios para la operaci\u00f3n continua."
+        },
+        {
+          "text": "Evaluar la reputaci\u00f3n y solidez financiera de los contratistas.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde a la variable del 'proveedor' dentro del modelo SCM."
+        },
+        {
+          "text": "Gestionar la log\u00edstica inversa para mantener la calidad del producto.",
+          "isCorrect": false,
+          "rationale": "Esta funci\u00f3n est\u00e1 asignada a la variable de 'retornos' o log\u00edstica inversa."
+        },
+        {
+          "text": "Planificar las compras detalladas con un enfoque de ahorro.",
+          "isCorrect": false,
+          "rationale": "La planificaci\u00f3n minuciosa de las adquisiciones es la definici\u00f3n de 'aprovisionamiento'."
+        }
+      ],
+      "hint": "Relaci\u00f3nelo con el concepto de disponibilidad de materiales en el momento preciso."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el porcentaje de pureza t\u00e9cnica que alcanza el llamado 'oro refinado'?",
+      "answerOptions": [
+        {
+          "text": "Del $93\\%$ al $98\\%$.",
+          "isCorrect": true,
+          "rationale": "Este nivel de pureza representa el est\u00e1ndar t\u00e9cnico para su comercializaci\u00f3n directa en mercados internacionales."
+        },
+        {
+          "text": "Del $70\\%$ al $80\\%$.",
+          "isCorrect": false,
+          "rationale": "Este rango de pureza corresponde al oro sucio o bullion, que requiere limpieza adicional en refiner\u00eda."
+        },
+        {
+          "text": "Superior al $99.9\\%$.",
+          "isCorrect": false,
+          "rationale": "Aunque es un objetivo ideal, el material refinado est\u00e1ndar mencionado en la industria minera operativa alcanza hasta el $98\\%$."
+        },
+        {
+          "text": "Exactamente un $85\\%$.",
+          "isCorrect": false,
+          "rationale": "Este valor no coincide con las categor\u00edas t\u00e9cnicas de bullion o de oro refinado descritas."
+        }
+      ],
+      "hint": "Es el nivel m\u00e1s alto de pureza antes de ser comercializado globalmente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 entidad se encarga de supervisar el manejo de hidrocarburos en las operaciones mineras?",
+      "answerOptions": [
+        {
+          "text": "OSINERGMIN.",
+          "isCorrect": true,
+          "rationale": "Es el organismo t\u00e9cnico encargado de verificar y regular la seguridad y manejo de los combustibles."
+        },
+        {
+          "text": "SUNAT.",
+          "isCorrect": false,
+          "rationale": "La SUNAT se enfoca principalmente en el control de insumos qu\u00edmicos fiscalizados (IQBF) y gu\u00edas de remisi\u00f3n."
+        },
+        {
+          "text": "Ministerio de Cultura.",
+          "isCorrect": false,
+          "rationale": "Esta entidad no tiene competencia directa en la supervisi\u00f3n t\u00e9cnica de combustibles industriales."
+        },
+        {
+          "text": "Empresas de escoltas privadas.",
+          "isCorrect": false,
+          "rationale": "Las escoltas son un apoyo log\u00edstico para carga sobredimensionada, no una entidad reguladora."
+        }
+      ],
+      "hint": "Busque las siglas del organismo regulador de la energ\u00eda y miner\u00eda."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la capacidad de carga aproximada de los camiones de extracci\u00f3n gigantes (Caterpillar/Komatsu)?",
+      "answerOptions": [
+        {
+          "text": "400 toneladas.",
+          "isCorrect": true,
+          "rationale": "Esta capacidad masiva equivale al peso de unos 300 autos deportivos en un solo viaje."
+        },
+        {
+          "text": "100 toneladas.",
+          "isCorrect": false,
+          "rationale": "Aunque es considerable, los camiones de gran escala en miner\u00eda moderna superan ampliamente esta cifra."
+        },
+        {
+          "text": "800 toneladas.",
+          "isCorrect": false,
+          "rationale": "Este peso excede la capacidad est\u00e1ndar de los modelos de transporte de extracci\u00f3n actuales mencionados."
+        },
+        {
+          "text": "50 toneladas.",
+          "isCorrect": false,
+          "rationale": "Esta es la carga de un cami\u00f3n convencional de carretera, no de uno de extracci\u00f3n a gran escala."
+        }
+      ],
+      "hint": "Es un n\u00famero que representa una fuerza bruta equivalente a cientos de veh\u00edculos ligeros."
+    },
+    {
+      "question": "\u00bfQu\u00e9 aspecto define la planificaci\u00f3n a mediano plazo en una mina?",
+      "answerOptions": [
+        {
+          "text": "El cumplimiento de indicadores mensuales como el tonelaje movido.",
+          "isCorrect": true,
+          "rationale": "Vigila detalles operativos mensuales y horas sombra para asegurar que se sigan las metas del plan maestro."
+        },
+        {
+          "text": "La determinaci\u00f3n de la vida \u00fatil total de la mina.",
+          "isCorrect": false,
+          "rationale": "La vida \u00fatil proyectada y el futuro total son competencia de la planificaci\u00f3n a largo plazo."
+        },
+        {
+          "text": "La ejecuci\u00f3n f\u00edsica de las tareas diarias y semanales.",
+          "isCorrect": false,
+          "rationale": "El sudor del d\u00eda a d\u00eda y la ejecuci\u00f3n inmediata pertenecen al horizonte de corto plazo."
+        },
+        {
+          "text": "La prospecci\u00f3n inicial de nuevos yacimientos geol\u00f3gicos.",
+          "isCorrect": false,
+          "rationale": "La prospecci\u00f3n es una fase del ciclo minero, no un horizonte temporal de control de producci\u00f3n operativo."
+        }
+      ],
+      "hint": "Se sit\u00faa entre la visi\u00f3n global de la mina y la ejecuci\u00f3n diaria, enfoc\u00e1ndose en KPIs mensuales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n espec\u00edfica del m\u00f3dulo SAP PM en el ecosistema digital minero?",
+      "answerOptions": [
+        {
+          "text": "Ejecutar el mantenimiento predictivo de la planta.",
+          "isCorrect": true,
+          "rationale": "Asegura la disponibilidad de la maquinaria mediante el monitoreo y la prevenci\u00f3n de fallos."
+        },
+        {
+          "text": "Controlar el inventario de suministros y materiales.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de materiales y suministros es responsabilidad del m\u00f3dulo SAP MM."
+        },
+        {
+          "text": "Planificar la producci\u00f3n y los procesos de extracci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La planificaci\u00f3n de la producci\u00f3n se gestiona a trav\u00e9s del m\u00f3dulo SAP PP."
+        },
+        {
+          "text": "Gestionar las n\u00f3minas y turnos de los trabajadores.",
+          "isCorrect": false,
+          "rationale": "Para la gesti\u00f3n humana masiva se suele emplear software como ODOO o m\u00f3dulos de RRHH."
+        }
+      ],
+      "hint": "Piense en las siglas en ingl\u00e9s para 'Plant Maintenance'."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se utilizan los 'gemelos digitales' en la industria minera 4.0?",
+      "answerOptions": [
+        {
+          "text": "Para realizar simulaciones virtuales de voladura y detectar puntos ciegos.",
+          "isCorrect": true,
+          "rationale": "Permiten predecir c\u00f3mo se fracturar\u00e1 el macizo rocoso sin poner en riesgo la operaci\u00f3n real."
+        },
+        {
+          "text": "Para duplicar f\u00edsicamente la producci\u00f3n de oro en una refiner\u00eda externa.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino se refiere a una r\u00e9plica virtual de datos, no a una duplicaci\u00f3n de material f\u00edsico."
+        },
+        {
+          "text": "Para gestionar las gu\u00edas de remisi\u00f3n ante la SUNAT de forma autom\u00e1tica.",
+          "isCorrect": false,
+          "rationale": "Los tr\u00e1mites administrativos no son el objetivo principal de las r\u00e9plicas virtuales de infraestructura."
+        },
+        {
+          "text": "Para reemplazar los camiones aut\u00f3nomos por hologramas de control.",
+          "isCorrect": false,
+          "rationale": "Los gemelos digitales sirven para simular y analizar, no para sustituir el hardware de transporte."
+        }
+      ],
+      "hint": "Considere la creaci\u00f3n de r\u00e9plicas virtuales para predecir comportamientos f\u00edsicos peligrosos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una funci\u00f3n cr\u00edtica de los drones en la seguridad minera?",
+      "answerOptions": [
+        {
+          "text": "La detecci\u00f3n temprana de gases letales invisibles como el metano.",
+          "isCorrect": true,
+          "rationale": "Permiten asegurar que las zonas sean seguras para el personal antes de su ingreso."
+        },
+        {
+          "text": "El transporte de concentrado de mineral hacia los puertos.",
+          "isCorrect": false,
+          "rationale": "La capacidad de carga de los drones es insuficiente para el transporte masivo de mineral."
+        },
+        {
+          "text": "La limpieza autom\u00e1tica de residuos de mercurio en las pozas.",
+          "isCorrect": false,
+          "rationale": "El reciclaje de materiales qu\u00edmicos se realiza mediante sistemas de tratamiento, no con drones."
+        },
+        {
+          "text": "El reemplazo de los vig\u00edas en las rutas de carga sobredimensionada.",
+          "isCorrect": false,
+          "rationale": "Aunque vigilan, su rol cr\u00edtico mencionado es la detecci\u00f3n de peligros atmosf\u00e9ricos en la mina."
+        }
+      ],
+      "hint": "Se trata de identificar una amenaza atmosf\u00e9rica que el ojo humano no puede ver."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje de agua utilizada en los procesos logra recuperar la tecnolog\u00eda moderna de tratamiento?",
+      "answerOptions": [
+        {
+          "text": "Hasta un $75\\%$.",
+          "isCorrect": true,
+          "rationale": "Este alto nivel de recuperaci\u00f3n mejora significativamente la sostenibilidad y la imagen corporativa."
+        },
+        {
+          "text": "Aproximadamente un $25\\%$.",
+          "isCorrect": false,
+          "rationale": "Los est\u00e1ndares modernos de eficiencia h\u00eddrica en miner\u00eda son mucho m\u00e1s altos que este valor."
+        },
+        {
+          "text": "El $100\\%$ del agua de lluvia \u00fanicamente.",
+          "isCorrect": false,
+          "rationale": "La recuperaci\u00f3n se enfoca en el agua utilizada en los procesos operativos, no solo en la de lluvia."
+        },
+        {
+          "text": "Menos del $10\\%$ debido a la evaporaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda de tratamiento de aguas residuales est\u00e1 dise\u00f1ada precisamente para minimizar esas p\u00e9rdidas."
+        }
+      ],
+      "hint": "Es una cifra considerable que representa tres cuartas partes del recurso."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es vital mantener el sistema CISRA separado del sistema SAP?",
+      "answerOptions": [
+        {
+          "text": "Para evitar la adulteraci\u00f3n o el cruce de datos sobre la salud de los activos.",
+          "isCorrect": true,
+          "rationale": "Garantiza una lectura objetiva de la confiabilidad real de la maquinaria frente a los datos de inventario."
+        },
+        {
+          "text": "Porque SAP no tiene capacidad para conectarse a internet en la mina.",
+          "isCorrect": false,
+          "rationale": "SAP es un sistema robusto con conectividad; la separaci\u00f3n es por integridad de datos, no por capacidad t\u00e9cnica."
+        },
+        {
+          "text": "Debido a que CISRA solo funciona para miner\u00eda de tajo abierto.",
+          "isCorrect": false,
+          "rationale": "El monitoreo de activos es necesario en todo tipo de miner\u00eda, no est\u00e1 limitado al tajo abierto."
+        },
+        {
+          "text": "Para reducir los costos de licenciamiento de software extranjero.",
+          "isCorrect": false,
+          "rationale": "La separaci\u00f3n es una decisi\u00f3n de control t\u00e9cnico y transparencia, no meramente econ\u00f3mica."
+        }
+      ],
+      "hint": "Tiene que ver con la objetividad de la informaci\u00f3n y la prevenci\u00f3n de manipulaciones."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el riesgo log\u00edstico predominante en las operaciones de superficie (tajo abierto)?",
+      "answerOptions": [
+        {
+          "text": "La dependencia clim\u00e1tica severa (nevadas, tormentas).",
+          "isCorrect": true,
+          "rationale": "Fen\u00f3menos clim\u00e1ticos intensos pueden paralizar flotas enteras en cuesti\u00f3n de minutos debido a la exposici\u00f3n."
+        },
+        {
+          "text": "La falta de aire para la ventilaci\u00f3n de los bancos de 15 metros.",
+          "isCorrect": false,
+          "rationale": "La ventilaci\u00f3n es un reto cr\u00edtico de la miner\u00eda subterr\u00e1nea, no de la miner\u00eda a cielo abierto."
+        },
+        {
+          "text": "La aparici\u00f3n de gases metano en las terrazas superiores.",
+          "isCorrect": false,
+          "rationale": "El metano es un riesgo asociado principalmente a espacios confinados y profundos."
+        },
+        {
+          "text": "El colapso de las chimeneas de extracci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las chimeneas son estructuras propias de la infraestructura de miner\u00eda subterr\u00e1nea."
+        }
+      ],
+      "hint": "Piense en factores externos incontrolables que afectan a una operaci\u00f3n al aire libre."
+    },
+    {
+      "question": "\u00bfA partir de qu\u00e9 nivel de humedad se activa el riesgo cr\u00edtico de 'flujo de agua barro'?",
+      "answerOptions": [
+        {
+          "text": "Cuando supera el umbral del $7\\%$ al $10\\%$.",
+          "isCorrect": true,
+          "rationale": "Superar este porcentaje transforma el terreno en una trampa mortal capaz de generar el efecto pist\u00f3n."
+        },
+        {
+          "text": "Cuando el terreno est\u00e1 totalmente seco ($0\\%$).",
+          "isCorrect": false,
+          "rationale": "El riesgo de flujo de lodo requiere precisamente una presencia cr\u00edtica de agua."
+        },
+        {
+          "text": "A partir del $50\\%$ de saturaci\u00f3n h\u00eddrica.",
+          "isCorrect": false,
+          "rationale": "El peligro comienza mucho antes de llegar a la saturaci\u00f3n total; un peque\u00f1o porcentaje es suficiente para desestabilizar el material."
+        },
+        {
+          "text": "Solo cuando hay inundaciones externas en la superficie.",
+          "isCorrect": false,
+          "rationale": "Es un fen\u00f3meno interno del terreno en las labores subterr\u00e1neas, no depende exclusivamente de inundaciones externas."
+        }
+      ],
+      "hint": "Es un rango porcentual de un solo d\u00edgito o apenas el comienzo del doble d\u00edgito."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fen\u00f3meno f\u00edsico aterrador se asocia con el movimiento a alta velocidad del agua barro en t\u00faneles?",
+      "answerOptions": [
+        {
+          "text": "El efecto pist\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La masa densa desplaza el aire con tal fuerza que puede sepultar personal y maquinaria en segundos."
+        },
+        {
+          "text": "La fragmentaci\u00f3n del macizo.",
+          "isCorrect": false,
+          "rationale": "La fragmentaci\u00f3n es el resultado deseado de una voladura controlada, no un accidente por lodo."
+        },
+        {
+          "text": "La descompresi\u00f3n de gases nobles.",
+          "isCorrect": false,
+          "rationale": "El problema principal del flujo de lodo es el desplazamiento de masa y aire, no gases nobles."
+        },
+        {
+          "text": "La licuefacci\u00f3n de activos fijos.",
+          "isCorrect": false,
+          "rationale": "Aunque los activos se da\u00f1an, el t\u00e9rmino t\u00e9cnico para el desplazamiento violento descrito es el mencionado efecto."
+        }
+      ],
+      "hint": "Imagine el movimiento de un componente dentro de un cilindro que empuja todo a su paso."
+    },
+    {
+      "question": "\u00bfQu\u00e9 es la 'licencia social' en el contexto de un proyecto minero?",
+      "answerOptions": [
+        {
+          "text": "Un activo intangible basado en el beneficio compartido y el di\u00e1logo constante.",
+          "isCorrect": true,
+          "rationale": "Es fundamental para el \u00e9xito o fracaso financiero de la operaci\u00f3n a largo plazo."
+        },
+        {
+          "text": "Un permiso administrativo otorgado \u00fanicamente por la SUNAT.",
+          "isCorrect": false,
+          "rationale": "La SUNAT gestiona temas tributarios e insumos qu\u00edmicos, no la relaci\u00f3n comunitaria."
+        },
+        {
+          "text": "Un carnet de conducir especial para operar camiones de 400 toneladas.",
+          "isCorrect": false,
+          "rationale": "Esa ser\u00eda una certificaci\u00f3n de competencias t\u00e9cnica, no una licencia social."
+        },
+        {
+          "text": "Un contrato legal que obliga a los trabajadores a vivir en el campamento.",
+          "isCorrect": false,
+          "rationale": "La licencia social se refiere a la comunidad del entorno, no a los contratos laborales internos."
+        }
+      ],
+      "hint": "No es un papel firmado, sino el nivel de aceptaci\u00f3n de la comunidad hacia la mina."
+    },
+    {
+      "question": "En el horizonte de 2030 a 2035, \u00bfqui\u00e9nes ser\u00e1n los verdaderos competidores en el mercado?",
+      "answerOptions": [
+        {
+          "text": "Cadenas de suministro completas contra otras cadenas de suministro.",
+          "isCorrect": true,
+          "rationale": "La competencia ya no ser\u00e1 entre empresas individuales, sino entre la eficiencia de sus redes integrales."
+        },
+        {
+          "text": "Pa\u00edses productores contra pa\u00edses consumidores de oro.",
+          "isCorrect": false,
+          "rationale": "El cambio estrat\u00e9gico se centra en la estructura de suministro empresarial m\u00e1s que en la geopol\u00edtica nacional."
+        },
+        {
+          "text": "Fabricantes de maquinaria pesada contra desarrolladores de software.",
+          "isCorrect": false,
+          "rationale": "Ambos son aliados tecnol\u00f3gicos dentro del ecosistema, no los competidores principales del mercado."
+        },
+        {
+          "text": "Empresas mineras locales contra empresas mineras estatales.",
+          "isCorrect": false,
+          "rationale": "El nuevo panorama exige integraci\u00f3n global, superando la distinci\u00f3n entre origen local o estatal."
+        }
+      ],
+      "hint": "La batalla ya no ser\u00e1 individual, sino entre sistemas de flujo total."
+    },
+    {
+      "question": "\u00bfQu\u00e9 busca el enfoque de 'Planificaci\u00f3n t\u00e9cnica superrigurosa' desde el inicio?",
+      "answerOptions": [
+        {
+          "text": "Garantizar la viabilidad econ\u00f3mica del proyecto minero.",
+          "isCorrect": true,
+          "rationale": "Es la \u00fanica manera de armar estrategias eficaces contra riesgos y asegurar el retorno de inversi\u00f3n."
+        },
+        {
+          "text": "Eliminar la necesidad de utilizar explosivos en la extracci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La planificaci\u00f3n t\u00e9cnica optimiza el uso de explosivos, pero no busca eliminarlos del ciclo productivo."
+        },
+        {
+          "text": "Aumentar la pureza del oro sucio por encima del $98\\%$.",
+          "isCorrect": false,
+          "rationale": "La pureza final depende m\u00e1s de los procesos de refiner\u00eda que de la planificaci\u00f3n t\u00e9cnica inicial de riesgos."
+        },
+        {
+          "text": "Reducir el personal de campamento a menos de 500 trabajadores.",
+          "isCorrect": false,
+          "rationale": "La escala humana depende del tama\u00f1o de la operaci\u00f3n; la planificaci\u00f3n busca eficiencia, no un n\u00famero fijo bajo de personal."
+        }
+      ],
+      "hint": "Piense en el objetivo final de cualquier negocio: que el proyecto sea posible y rentable."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n del software Micromine en la planificaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "Proporcionar precisi\u00f3n geol\u00f3gica para la estimaci\u00f3n de reservas.",
+          "isCorrect": true,
+          "rationale": "Es una herramienta hiperespecializada que traduce la roca s\u00f3lida en datos procesables para el negocio."
+        },
+        {
+          "text": "Controlar el flujo de caja y la facturaci\u00f3n electr\u00f3nica.",
+          "isCorrect": false,
+          "rationale": "Esa es una funci\u00f3n administrativa que suele recaer en sistemas tipo ERP."
+        },
+        {
+          "text": "Monitorear en tiempo real la ubicaci\u00f3n de los drones de seguridad.",
+          "isCorrect": false,
+          "rationale": "Micromine se enfoca en la geolog\u00eda y reservas, no en la telemetr\u00eda de dispositivos de vigilancia."
+        },
+        {
+          "text": "Gestionar el reciclaje de mercurio en las plantas de tratamiento.",
+          "isCorrect": false,
+          "rationale": "El reciclaje qu\u00edmico es un proceso industrial controlado por sistemas de planta, no por software geol\u00f3gico."
+        }
+      ],
+      "hint": "Est\u00e1 relacionado con el estudio de la tierra y cu\u00e1nto material valioso hay en ella."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Log\u00edstica y SCM en Miner\u00eda",
+      "Gesti\u00f3n de Riesgos Operativos",
+      "Tecnolog\u00eda y Miner\u00eda 4.0",
+      "Planificaci\u00f3n y Control de Producci\u00f3n (PCP)",
+      "Sostenibilidad y Normativa Minera"
+    ],
+    "followUp": [
+      "Modelos de Simulaci\u00f3n de Voladura con Gemelos Digitales",
+      "Implementaci\u00f3n de M\u00f3dulos SAP en Entornos Industriales",
+      "Mec\u00e1nica de Suelos y Prevenci\u00f3n del Efecto Pist\u00f3n",
+      "Estrategias de Diversificaci\u00f3n de Proveedores para 2030"
+    ]
+  }
+}

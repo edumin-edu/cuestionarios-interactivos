@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre un costo y un gasto en el contexto de operaciones industriales?",
+      "answerOptions": [
+        {
+          "text": "El costo genera un retorno directo en el producto final, mientras que el gasto no.",
+          "isCorrect": true,
+          "rationale": "Los costos se vinculan directamente con la creaci\u00f3n de valor en el producto, mientras que los gastos, como los sueldos administrativos, no aportan retorno directo."
+        },
+        {
+          "text": "El gasto es deducible de impuestos y el costo representa una inversi\u00f3n de capital.",
+          "isCorrect": false,
+          "rationale": "Esta distinci\u00f3n es de car\u00e1cter tributario y no aborda la naturaleza operativa del retorno sobre el producto final."
+        },
+        {
+          "text": "El costo se refiere a la adquisici\u00f3n de activos fijos y el gasto a insumos operativos.",
+          "isCorrect": false,
+          "rationale": "Los insumos operativos suelen considerarse costos si impactan directamente en la producci\u00f3n, no solo los activos fijos."
+        },
+        {
+          "text": "No existe diferencia financiera real, ya que ambos reducen el flujo de caja de la empresa.",
+          "isCorrect": false,
+          "rationale": "Ignorar la diferencia impide identificar qu\u00e9 egresos generan valor directo y cu\u00e1les son necesarios para el soporte administrativo."
+        }
+      ],
+      "hint": "Considere qu\u00e9 tipo de egreso se ve reflejado como valor agregado en el art\u00edculo que se vende al cliente."
+    },
+    {
+      "question": "Al aplicar el principio de Pareto ($80/20$) al gasto corporativo, \u00bfen qu\u00e9 categor\u00edas debe enfocarse el abastecimiento estrat\u00e9gico?",
+      "answerOptions": [
+        {
+          "text": "En los insumos cr\u00edticos que representan el mayor impacto financiero y operativo.",
+          "isCorrect": true,
+          "rationale": "Identificar el $20\\%$ de las categor\u00edas que mueven el $80\\%$ de la aguja financiera permite optimizar los suministros vitales sin comprometer el flujo de caja."
+        },
+        {
+          "text": "En el $80\\%$ de los proveedores que ofrecen los precios m\u00e1s bajos del mercado.",
+          "isCorrect": false,
+          "rationale": "El volumen de proveedores no determina la criticidad; el enfoque debe estar en el valor y el impacto de los insumos."
+        },
+        {
+          "text": "\u00danicamente en los servicios administrativos para reducir los gastos fijos.",
+          "isCorrect": false,
+          "rationale": "Los servicios administrativos suelen ser gastos y no los insumos estrat\u00e9gicos que garantizan la continuidad de la producci\u00f3n."
+        },
+        {
+          "text": "En las compras de ferreter\u00eda menor que se realizan diariamente.",
+          "isCorrect": false,
+          "rationale": "Estos suelen ser suministros recurrentes pero de bajo impacto estrat\u00e9gico en comparaci\u00f3n con combustibles o neum\u00e1ticos de alto tonelaje."
+        }
+      ],
+      "hint": "Piense en los elementos que, por su volumen o costo, son esenciales para que la operaci\u00f3n no se detenga."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza a una orden de compra abierta (OPA) frente a una orden convencional?",
+      "answerOptions": [
+        {
+          "text": "Congela t\u00e9rminos comerciales y precios bajo un monto global para consumos recurrentes.",
+          "isCorrect": true,
+          "rationale": "La OPA permite un flujo de facturaci\u00f3n por cuotas y elimina la redundancia de generar m\u00faltiples \u00f3rdenes individuales para el mismo insumo."
+        },
+        {
+          "text": "Requiere una negociaci\u00f3n continua con el proveedor cada vez que se solicita el bien.",
+          "isCorrect": false,
+          "rationale": "Es un mito com\u00fan; la OPA justamente busca evitar la renegociaci\u00f3n constante al fijar los t\u00e9rminos desde el inicio."
+        },
+        {
+          "text": "Se utiliza exclusivamente para la adquisici\u00f3n de activos fijos \u00fanicos y espec\u00edficos.",
+          "isCorrect": false,
+          "rationale": "Los activos \u00fanicos se gestionan mediante \u00f3rdenes convencionales debido a su naturaleza puntual y no recurrente."
+        },
+        {
+          "text": "Exige el pago total inmediato del monto adjudicado antes de recibir los bienes.",
+          "isCorrect": false,
+          "rationale": "La OPA suele manejar pagos prorrateados o por consumo, optimizando el flujo de caja."
+        }
+      ],
+      "hint": "Esta herramienta administrativa busca la eficiencia eliminando el papeleo burocr\u00e1tico en suministros constantes."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la esencia operativa del modelo de abastecimiento por consignaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "El stock f\u00edsico est\u00e1 en el almac\u00e9n del cliente, pero la propiedad legal es del proveedor hasta su uso.",
+          "isCorrect": true,
+          "rationale": "Este modelo permite mitigar el riesgo de quiebre de stock sin una salida inmediata de capital, pagando solo por lo consumido."
+        },
+        {
+          "text": "El cliente paga por el inventario completo al momento de recibirlo en sus bodegas.",
+          "isCorrect": false,
+          "rationale": "Si se pagara al recibirlo, se tratar\u00eda de una compra est\u00e1ndar y no de una consignaci\u00f3n con transferencia de titularidad diferida."
+        },
+        {
+          "text": "El proveedor mantiene el material en sus propias instalaciones hasta que el cliente lo solicita.",
+          "isCorrect": false,
+          "rationale": "En la consignaci\u00f3n, el material debe estar f\u00edsicamente en las instalaciones del cliente para garantizar disponibilidad inmediata."
+        },
+        {
+          "text": "Se aplica \u00fanicamente para servicios de consultor\u00eda externa y mantenimiento t\u00e9cnico.",
+          "isCorrect": false,
+          "rationale": "La consignaci\u00f3n se enfoca en bienes f\u00edsicos como lubricantes o repuestos cr\u00edticos, no en intangibles."
+        }
+      ],
+      "hint": "Se trata de un equilibrio entre tener el material a la mano y no haberlo pagado todav\u00eda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio directo aporta la implementaci\u00f3n del est\u00e1ndar ISO 45001 en entornos industriales pesados?",
+      "answerOptions": [
+        {
+          "text": "La reducci\u00f3n de las tasas de accidentabilidad mediante protocolos de seguridad rigurosos.",
+          "isCorrect": true,
+          "rationale": "Esta certificaci\u00f3n internacional garantiza la protecci\u00f3n de la integridad f\u00edsica de las personas y la trazabilidad de la seguridad en la cadena."
+        },
+        {
+          "text": "La optimizaci\u00f3n exclusiva de la calidad del producto final entregado al cliente.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de la calidad es el enfoque primordial de la norma ISO 9001, no de la 45001."
+        },
+        {
+          "text": "El cumplimiento obligatorio de las normativas de mitigaci\u00f3n de impacto ambiental.",
+          "isCorrect": false,
+          "rationale": "El desempe\u00f1o ambiental est\u00e1 regulado por la norma ISO 14001."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de los impuestos aduaneros en las importaciones de maquinaria.",
+          "isCorrect": false,
+          "rationale": "Las certificaciones ISO son est\u00e1ndares de gesti\u00f3n y no influyen en las tasas arancelarias legales de un pa\u00eds."
+        }
+      ],
+      "hint": "Esta norma se centra espec\u00edficamente en la salud y la seguridad de los trabajadores."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 son fundamentales las normas NIIF 14, 15 y 16 en el \u00e1rea de adquisiciones estrat\u00e9gicas?",
+      "answerOptions": [
+        {
+          "text": "Aseguran que el ecosistema de adquisici\u00f3n sea transparente, auditable y libre de corrupci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Estas normas internacionales de informaci\u00f3n financiera vinculan la log\u00edstica operativa con la contabilidad, permitiendo evaluar la solvencia de los socios."
+        },
+        {
+          "text": "Establecen los requisitos t\u00e9cnicos para el dise\u00f1o de maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "Las NIIF son normas contables y financieras, no especificaciones de ingenier\u00eda mec\u00e1nica."
+        },
+        {
+          "text": "Regulan los tiempos m\u00e1ximos de tr\u00e1nsito de las mercanc\u00edas en fronteras internacionales.",
+          "isCorrect": false,
+          "rationale": "Los tiempos de tr\u00e1nsito dependen de la log\u00edstica y las aduanas, no de los marcos de informaci\u00f3n financiera."
+        },
+        {
+          "text": "Determinan los protocolos de primeros auxilios en caso de accidentes en mina.",
+          "isCorrect": false,
+          "rationale": "Dichos protocolos corresponden a las \u00e1reas de salud ocupacional y seguridad industrial."
+        }
+      ],
+      "hint": "Estas siglas representan el puente que une los contratos de suministro con los estados financieros de la empresa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la Ventanilla \u00danica de Comercio Exterior (VUCE)?",
+      "answerOptions": [
+        {
+          "text": "Gestionar de manera centralizada todos los permisos, certificaciones y registros de importaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Act\u00faa como el gran filtro regulatorio digital; si la carga no se aprueba a trav\u00e9s de esta plataforma, no puede ingresar al pa\u00eds."
+        },
+        {
+          "text": "Realizar el pago directo de los fletes internacionales a los transportistas.",
+          "isCorrect": false,
+          "rationale": "La VUCE es una plataforma administrativa gubernamental y no un sistema de pagos comerciales entre privados."
+        },
+        {
+          "text": "Seleccionar a los proveedores extranjeros con los precios m\u00e1s competitivos.",
+          "isCorrect": false,
+          "rationale": "La selecci\u00f3n de proveedores es una tarea del \u00e1rea de compras de la empresa, no de la autoridad aduanera."
+        },
+        {
+          "text": "Emitir las facturas comerciales en nombre del proveedor internacional.",
+          "isCorrect": false,
+          "rationale": "La facturaci\u00f3n comercial es responsabilidad del exportador y no de una plataforma de control estatal."
+        }
+      ],
+      "hint": "Piense en ella como un 'portal guardi\u00e1n' para toda la documentaci\u00f3n regulatoria necesaria ante el Estado."
+    },
+    {
+      "question": "\u00bfBajo qu\u00e9 circunstancia es legalmente obligatorio el uso de un agente de aduanas?",
+      "answerOptions": [
+        {
+          "text": "Cuando el valor FOB (Free on Board) de la importaci\u00f3n supera los $\\$2,000$.",
+          "isCorrect": true,
+          "rationale": "A partir de este umbral cr\u00edtico, contar con un agente especializado deja de ser opcional y se convierte en un requisito ineludible para nacionalizar."
+        },
+        {
+          "text": "Siempre que la mercanc\u00eda provenga de un pa\u00eds con el que no exista un tratado de libre comercio.",
+          "isCorrect": false,
+          "rationale": "La obligatoriedad est\u00e1 ligada al valor de la carga y no exclusivamente a los acuerdos comerciales vigentes."
+        },
+        {
+          "text": "Solo cuando la carga es asignada al canal verde de control aduanero.",
+          "isCorrect": false,
+          "rationale": "En el canal verde el levante es autom\u00e1tico, pero si el valor es alto, el agente sigue siendo necesario para el tr\u00e1mite previo."
+        },
+        {
+          "text": "\u00danicamente si la empresa no cuenta con un registro RUC activo.",
+          "isCorrect": false,
+          "rationale": "Las empresas que operan regularmente deben tener RUC; la necesidad del agente depende del valor de la mercanc\u00eda."
+        }
+      ],
+      "hint": "Existe un monto monetario espec\u00edfico que marca la diferencia entre un tr\u00e1mite simple y uno que requiere un despachador oficial."
+    },
+    {
+      "question": "En el sem\u00e1foro de riesgo aduanero, \u00bfqu\u00e9 implica que una mercanc\u00eda caiga en el canal rojo?",
+      "answerOptions": [
+        {
+          "text": "Que la autoridad realizar\u00e1 un aforo f\u00edsico, revisando manualmente toda la carga.",
+          "isCorrect": true,
+          "rationale": "El canal rojo exige una inspecci\u00f3n presencial para verificar que lo declarado en documentos coincida exactamente con lo f\u00edsico."
+        },
+        {
+          "text": "Que la carga tiene prohibido el ingreso al pa\u00eds y debe ser destruida inmediatamente.",
+          "isCorrect": false,
+          "rationale": "El canal rojo es una etapa de revisi\u00f3n f\u00edsica, no una orden de destrucci\u00f3n autom\u00e1tica."
+        },
+        {
+          "text": "Que solo se requiere una revisi\u00f3n exhaustiva de la documentaci\u00f3n digital.",
+          "isCorrect": false,
+          "rationale": "La revisi\u00f3n exclusivamente documental corresponde al canal naranja."
+        },
+        {
+          "text": "Que la carga puede ingresar directamente al almac\u00e9n sin ning\u00fan tipo de control.",
+          "isCorrect": false,
+          "rationale": "El ingreso directo sin revisi\u00f3n es la caracter\u00edstica del canal verde."
+        }
+      ],
+      "hint": "Es el nivel de alerta m\u00e1xima donde los inspectores abren los contenedores o paquetes."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se desaconseja el uso del Incoterm EXW ($Ex$ $Works$) para compras frecuentes?",
+      "answerOptions": [
+        {
+          "text": "Transfiere todo el riesgo log\u00edstico y la responsabilidad al comprador desde la f\u00e1brica del proveedor.",
+          "isCorrect": true,
+          "rationale": "Esto deja al comprador expuesto a todos los problemas que puedan ocurrir durante el transporte nacional e internacional desde el origen."
+        },
+        {
+          "text": "Es el t\u00e9rmino comercial m\u00e1s caro para el comprador, ya que incluye todos los aranceles pagados.",
+          "isCorrect": false,
+          "rationale": "EXW suele ser el precio base m\u00e1s bajo, ya que el proveedor no asume ning\u00fan costo de transporte o exportaci\u00f3n."
+        },
+        {
+          "text": "Obliga al proveedor a entregar la mercanc\u00eda directamente en el puerto de destino.",
+          "isCorrect": false,
+          "rationale": "En EXW el proveedor solo pone la mercanc\u00eda a disposici\u00f3n en su propio local o f\u00e1brica."
+        },
+        {
+          "text": "Requiere que el vendedor asuma la responsabilidad total de la nacionalizaci\u00f3n en el pa\u00eds del comprador.",
+          "isCorrect": false,
+          "rationale": "La nacionalizaci\u00f3n es responsabilidad del comprador; el vendedor no tiene obligaciones de despacho en destino en EXW."
+        }
+      ],
+      "hint": "Considere qui\u00e9n debe hacerse cargo de la mercanc\u00eda desde el segundo uno en que sale de la planta del vendedor."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia legal directa enfrentan los representantes de una compa\u00f1\u00eda si permiten el trabajo sin aptitud m\u00e9dica certificada?",
+      "answerOptions": [
+        {
+          "text": "La transferencia inmediata de la responsabilidad penal en caso de incidentes.",
+          "isCorrect": true,
+          "rationale": "Ignorar los protocolos de salud ocupacional deja a la gerencia expuesta ante la justicia si ocurre un accidente laboral grave."
+        },
+        {
+          "text": "Una amonestaci\u00f3n administrativa que no afecta los registros legales de la empresa.",
+          "isCorrect": false,
+          "rationale": "Las consecuencias en sectores de alto riesgo suelen ser penales y severas, no simples faltas administrativas."
+        },
+        {
+          "text": "La p\u00e9rdida autom\u00e1tica de la licencia de funcionamiento comercial de la mina.",
+          "isCorrect": false,
+          "rationale": "Aunque es grave, el efecto inmediato recae en la responsabilidad legal de las personas naturales que representan a la empresa."
+        },
+        {
+          "text": "El pago de una multa equivalente al $5\\%$ del valor de la maquinaria operada.",
+          "isCorrect": false,
+          "rationale": "Las sanciones se basan en la integridad de las personas y leyes penales, no en el valor de los activos f\u00edsicos."
+        }
+      ],
+      "hint": "Piense en el tipo de responsabilidad que pone en riesgo la libertad o el historial judicial de los directivos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el concepto de pol\u00edtica de negativa al trabajo?",
+      "answerOptions": [
+        {
+          "text": "El derecho fundamental de un trabajador a no realizar una tarea ante un riesgo inminente no controlado.",
+          "isCorrect": true,
+          "rationale": "Es una herramienta de empoderamiento y seguridad que act\u00faa como el mecanismo de prevenci\u00f3n interno m\u00e1s efectivo."
+        },
+        {
+          "text": "La potestad de la empresa para despedir a colaboradores que no cumplan con sus KPIs.",
+          "isCorrect": false,
+          "rationale": "La pol\u00edtica de negativa al trabajo protege al trabajador por razones de seguridad; no es una medida disciplinaria de rendimiento."
+        },
+        {
+          "text": "Un acuerdo sindical para reducir las horas laborales en condiciones clim\u00e1ticas adversas.",
+          "isCorrect": false,
+          "rationale": "Aunque se relaciona con condiciones, es un derecho individual ante riesgos espec\u00edficos de una tarea, no un acuerdo de horarios."
+        },
+        {
+          "text": "La prohibici\u00f3n de contratar a proveedores que tengan deudas con el estado.",
+          "isCorrect": false,
+          "rationale": "Esto corresponde a la debida diligencia de proveedores y no a la seguridad operativa en campo."
+        }
+      ],
+      "hint": "Es una medida de autoprotecci\u00f3n que prioriza la vida sobre la ejecuci\u00f3n de una orden."
+    },
+    {
+      "question": "En el \"tri\u00e1ngulo de hierro\" de las adquisiciones (alcance, tiempo y costo), \u00bfcu\u00e1l suele ser el factor m\u00e1s cr\u00edtico en la industria minera?",
+      "answerOptions": [
+        {
+          "text": "El tiempo, debido al alt\u00edsimo costo que genera una planta detenida.",
+          "isCorrect": true,
+          "rationale": "En sectores de alto impacto, el reloj le gana a la billetera; un flete a\u00e9reo costoso se justifica si evita p\u00e9rdidas millonarias por paralizaci\u00f3n."
+        },
+        {
+          "text": "El costo, ya que la rentabilidad depende exclusivamente de comprar al precio m\u00e1s bajo.",
+          "isCorrect": false,
+          "rationale": "Buscar solo el precio m\u00e1s bajo puede llevar a retrasos que cuestan mucho m\u00e1s que el ahorro inicial en la compra."
+        },
+        {
+          "text": "El alcance, porque los requisitos t\u00e9cnicos siempre deben cambiar durante la ejecuci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El alcance define el requisito t\u00e9cnico innegociable, pero el factor que domina la urgencia operativa es el tiempo."
+        },
+        {
+          "text": "Ninguno, los tres factores tienen siempre exactamente el mismo peso en toda decisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque est\u00e1n interconectados, la realidad operativa suele forzar la priorizaci\u00f3n de una variable sobre las otras."
+        }
+      ],
+      "hint": "Piense en las consecuencias econ\u00f3micas de que la producci\u00f3n se detenga por falta de un repuesto."
+    },
+    {
+      "question": "Dentro del sem\u00e1foro de debida diligencia, \u00bfqu\u00e9 implica un resultado de nivel rojo para un proveedor?",
+      "answerOptions": [
+        {
+          "text": "Riesgos \u00e9ticos o financieros graves que resultan en su inclusi\u00f3n inmediata en la lista negra.",
+          "isCorrect": true,
+          "rationale": "El nivel rojo indica tolerancia cero ante problemas de integridad corporativa, detonando el cese de cualquier relaci\u00f3n comercial."
+        },
+        {
+          "text": "Una se\u00f1al de precauci\u00f3n que permite contratar al proveedor aplicando medidas de mitigaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La se\u00f1al de precauci\u00f3n y mitigaci\u00f3n corresponde al nivel \u00e1mbar o naranja."
+        },
+        {
+          "text": "Que el proveedor est\u00e1 aprobado pero debe actualizar su ficha RUC en un plazo de 30 d\u00edas.",
+          "isCorrect": false,
+          "rationale": "Los temas administrativos menores no suelen activar una alerta roja de integridad si son subsanables."
+        },
+        {
+          "text": "Que el proveedor ha ganado la exclusividad para suministrar todas las categor\u00edas de la empresa.",
+          "isCorrect": false,
+          "rationale": "El color rojo es una advertencia de peligro o prohibici\u00f3n, no un indicador de \u00e9xito o adjudicaci\u00f3n."
+        }
+      ],
+      "hint": "Es el estado definitivo que protege a la empresa de socios comerciales poco \u00e9ticos o insolventes."
+    },
+    {
+      "question": "\u00bfQu\u00e9 mide espec\u00edficamente el indicador OTIF ($On$ $Time$ $In$ $Full$)?",
+      "answerOptions": [
+        {
+          "text": "Si el pedido lleg\u00f3 en el tiempo pactado, en la cantidad exacta y en las condiciones requeridas.",
+          "isCorrect": true,
+          "rationale": "Funciona como el term\u00f3metro de la exactitud absoluta de la cadena de suministro y la precisi\u00f3n del servicio del proveedor."
+        },
+        {
+          "text": "El porcentaje de ahorro logrado en una negociaci\u00f3n frente al precio de mercado.",
+          "isCorrect": false,
+          "rationale": "El ahorro se mide a trav\u00e9s del an\u00e1lisis de variaci\u00f3n de precios, no por el cumplimiento de la entrega f\u00edsica."
+        },
+        {
+          "text": "El tiempo total que transcurre desde que se coloca la orden hasta que ingresa al almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "Dicha medici\u00f3n corresponde al Lead Time (tiempo de ciclo), mientras que OTIF mide el cumplimiento de la promesa."
+        },
+        {
+          "text": "La cantidad de accidentes laborales registrados durante el transporte de la mercanc\u00eda.",
+          "isCorrect": false,
+          "rationale": "La seguridad en el transporte es un KPI de seguridad y salud, no un indicador de cumplimiento de pedido (OTIF)."
+        }
+      ],
+      "hint": "Este indicador combina la puntualidad con la integridad y precisi\u00f3n de lo que se recibi\u00f3."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal del proceso de *expediting* en la gesti\u00f3n log\u00edstica?",
+      "answerOptions": [
+        {
+          "text": "Un monitoreo agresivo y frecuente (incluso hora por hora) del estatus de pedidos cr\u00edticos.",
+          "isCorrect": true,
+          "rationale": "Se utiliza para asegurar que las \u00f3rdenes de alta prioridad lleguen a tiempo, evitando cualquier retraso mediante un seguimiento exhaustivo."
+        },
+        {
+          "text": "La b\u00fasqueda de nuevos proveedores en mercados internacionales para reducir costos.",
+          "isCorrect": false,
+          "rationale": "Esa actividad forma parte del *sourcing* o desarrollo de proveedores, no del seguimiento de \u00f3rdenes ya colocadas."
+        },
+        {
+          "text": "El proceso legal de nacionalizaci\u00f3n de mercanc\u00edas en el puerto de entrada.",
+          "isCorrect": false,
+          "rationale": "Esto es responsabilidad del despacho aduanero y no de la funci\u00f3n de *expediting* log\u00edstico."
+        },
+        {
+          "text": "La consolidaci\u00f3n de m\u00faltiples pedidos peque\u00f1os en un solo contenedor para ahorrar flete.",
+          "isCorrect": false,
+          "rationale": "La consolidaci\u00f3n de carga es una t\u00e1ctica de transporte, mientras que el *expediting* es una t\u00e1ctica de control de tiempos."
+        }
+      ],
+      "hint": "Se trata de un equipo de 'fuerzas especiales' que persigue la orden para que no se detenga la operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es vital vigilar que las licencias de software est\u00e9n vigentes en la gesti\u00f3n documental?",
+      "answerOptions": [
+        {
+          "text": "Para evitar bloqueos operativos digitales que podr\u00edan paralizar la operaci\u00f3n entera.",
+          "isCorrect": true,
+          "rationale": "Un descuido en la vigencia de licencias puede interrumpir procesos cr\u00edticos y afectar la reputaci\u00f3n y legalidad de la compa\u00f1\u00eda."
+        },
+        {
+          "text": "Para asegurar que el hardware de la empresa siempre sea de \u00faltima generaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La vigencia de una licencia de software no garantiza ni obliga a la actualizaci\u00f3n del equipo f\u00edsico (hardware)."
+        },
+        {
+          "text": "Para cumplir con las normativas ambientales de reducci\u00f3n de residuos electr\u00f3nicos.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de licencias es una protecci\u00f3n intelectual y operativa, no una medida de gesti\u00f3n de residuos f\u00edsicos."
+        },
+        {
+          "text": "Para garantizar que los proveedores extranjeros hablen el mismo idioma que el equipo local.",
+          "isCorrect": false,
+          "rationale": "La comunicaci\u00f3n global se apoya en est\u00e1ndares como el ingl\u00e9s t\u00e9cnico, no en la vigencia de licencias de software."
+        }
+      ],
+      "hint": "Considere qu\u00e9 pasar\u00eda si los sistemas inform\u00e1ticos que controlan la mina dejaran de funcionar por falta de permisos."
+    },
+    {
+      "question": "En el an\u00e1lisis de la ruta cr\u00edtica o Lotif, \u00bfqu\u00e9 nivel de cumplimiento se considera el umbral m\u00ednimo aceptable antes de encender las alarmas?",
+      "answerOptions": [
+        {
+          "text": "Un cumplimiento del $80\\%$.",
+          "isCorrect": true,
+          "rationale": "Si el indicador cae por debajo de este porcentaje, el escenario se vuelve altamente cr\u00edtico y requiere intervenci\u00f3n inmediata para evitar que la cadena se quiebre."
+        },
+        {
+          "text": "Un cumplimiento del $50\\%$.",
+          "isCorrect": false,
+          "rationale": "Un $50\\%$ de cumplimiento ser\u00eda desastroso en una operaci\u00f3n de alta exigencia, las alarmas deben sonar mucho antes."
+        },
+        {
+          "text": "Un cumplimiento del $100\\%$ en todo momento.",
+          "isCorrect": false,
+          "rationale": "Aunque es el ideal, operativamente se establece un umbral de alerta (como el $80\\%$) para gestionar las desviaciones normales."
+        },
+        {
+          "text": "Un cumplimiento del $20\\%$, siguiendo la regla de Pareto.",
+          "isCorrect": false,
+          "rationale": "El principio de Pareto se usa para priorizar categor\u00edas, no para establecer niveles aceptables de cumplimiento de entrega."
+        }
+      ],
+      "hint": "Piense en la cifra que, de no alcanzarse, indica que 2 de cada 10 pedidos est\u00e1n fallando."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de mantener un archivo impecable de las certificaciones de los proveedores de EPP?",
+      "answerOptions": [
+        {
+          "text": "Determinar la rendici\u00f3n de cuentas legal y responsabilidad ante un siniestro.",
+          "isCorrect": true,
+          "rationale": "Ante un accidente por material defectuoso, las autoridades auditan las certificaciones para deslindar responsabilidades entre el comprador y el proveedor."
+        },
+        {
+          "text": "Lograr descuentos adicionales por volumen en futuras compras de cascos y guantes.",
+          "isCorrect": false,
+          "rationale": "El archivo de certificaciones es por seguridad y cumplimiento legal, no es una herramienta de negociaci\u00f3n comercial de precios."
+        },
+        {
+          "text": "Garantizar que todos los trabajadores usen el mismo color de uniforme por est\u00e9tica.",
+          "isCorrect": false,
+          "rationale": "La trazabilidad de los EPP se enfoca en la vida \u00fatil y est\u00e1ndares de protecci\u00f3n, no en la apariencia visual."
+        },
+        {
+          "text": "Evitar que los materiales se pierdan dentro de los almacenes de la mina.",
+          "isCorrect": false,
+          "rationale": "El control de inventarios f\u00edsico es el encargado de evitar p\u00e9rdidas; las certificaciones validan la calidad y origen legal."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 documento pedir\u00eda un juez o un auditor despu\u00e9s de que falle un equipo de protecci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 impacto contable tiene un incremento de precio de $\\$5,000$ no pactado en un equipo que no aporta retorno directo al producto?",
+      "answerOptions": [
+        {
+          "text": "Se registra como un gasto que golpea directamente los resultados financieros.",
+          "isCorrect": true,
+          "rationale": "Al no generar retorno directo ni estar pactado como inversi\u00f3n en el producto final, esa diferencia se absorbe como una p\u00e9rdida de eficiencia o gasto."
+        },
+        {
+          "text": "Se capitaliza como un activo fijo de larga duraci\u00f3n autom\u00e1ticamente.",
+          "isCorrect": false,
+          "rationale": "Solo los incrementos que a\u00f1aden valor o vida \u00fatil pactada se capitalizan; un error o cambio no pactado suele ser un gasto del periodo."
+        },
+        {
+          "text": "Se diluye entre todos los proveedores de la cadena para no afectar el balance.",
+          "isCorrect": false,
+          "rationale": "Contablemente, cada transacci\u00f3n debe reflejar su realidad; no se pueden repartir costos arbitrariamente entre terceros."
+        },
+        {
+          "text": "No genera ning\u00fan impacto, ya que los montos menores a $\\$10,000$ no se auditan.",
+          "isCorrect": false,
+          "rationale": "Todo incremento no pactado afecta la estructura de costos y la rentabilidad, independientemente del monto."
+        }
+      ],
+      "hint": "Recuerde la distinci\u00f3n entre egresos que vuelven a la empresa y los que simplemente desaparecen en la operaci\u00f3n."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Modelos de contrataci\u00f3n y abastecimiento",
+      "Gesti\u00f3n de riesgos y blindaje corporativo",
+      "Log\u00edstica internacional y normativa aduanera",
+      "Seguridad y salud ocupacional en miner\u00eda",
+      "Indicadores clave de gesti\u00f3n (KPIs) y anal\u00edtica"
+    ],
+    "followUp": [
+      "Estrategias de negociaci\u00f3n basadas en el Costo Total de Propiedad (TCO)",
+      "Gesti\u00f3n de contratos de servicios complejos",
+      "Auditor\u00eda t\u00e9cnica de proveedores cr\u00edticos",
+      "Optimizaci\u00f3n de la cadena de suministro mediante digitalizaci\u00f3n avanzada"
+    ]
+  }
+}

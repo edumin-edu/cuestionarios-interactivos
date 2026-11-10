@@ -1,0 +1,541 @@
+
+{
+  "quiz": [
+    {
+      "question": "¿Cuál es la principal diferencia jurídica entre el terreno superficial y el subsuelo en el sistema legal minero?",
+      "answerOptions": [
+        {
+          "text": "La propiedad del suelo es privada o comunal, mientras que el subsuelo es patrimonio exclusivo de la nación.",
+          "isCorrect": true,
+          "rationale": "El sistema legal establece una dicotomía estricta donde el Estado mantiene la soberanía sobre los recursos minerales del subsuelo, independientemente de quién posea la superficie."
+        },
+        {
+          "text": "Ambos pertenecen al titular de la concesión minera desde el momento en que se otorga el título habilitante.",
+          "isCorrect": false,
+          "rationale": "La concesión minera es un inmueble distinto del terreno superficial y no otorga automáticamente la propiedad del suelo."
+        },
+        {
+          "text": "El subsuelo pertenece al dueño del terreno superficial siempre que se trate de comunidades locales.",
+          "isCorrect": false,
+          "rationale": "Incluso en terrenos de comunidades, los minerales del subsuelo siguen siendo patrimonio de la nación administrado por el Estado."
+        },
+        {
+          "text": "La propiedad del subsuelo es de libre disposición para el primer ocupante que registre la actividad de cateo.",
+          "isCorrect": false,
+          "rationale": "El subsuelo no es de libre disposición; requiere de un acto administrativo formal (concesión) otorgado por el Estado."
+        }
+      ],
+      "hint": "Considera la distinción entre la propiedad de particulares y el patrimonio del Estado."
+    },
+    {
+      "question": "¿Qué actividades mineras se consideran de libre ejercicio y no requieren de una concesión formal?",
+      "answerOptions": [
+        {
+          "text": "Cateo, prospección y comercialización.",
+          "isCorrect": true,
+          "rationale": "Estas actividades buscan indicios minerales o facilitan el mercado, por lo que no exigen un título de concesión, aunque deben cumplir normas de seguridad."
+        },
+        {
+          "text": "Exploración, explotación y beneficio.",
+          "isCorrect": false,
+          "rationale": "Estas son actividades complejas que requieren títulos habilitantes para permitir la fiscalización técnica y ambiental de entidades como OEFA."
+        },
+        {
+          "text": "Labor general y transporte minero.",
+          "isCorrect": false,
+          "rationale": "Ambas son concesiones especializadas debido a la infraestructura crítica y los sistemas masivos que involucran."
+        },
+        {
+          "text": "Refinación y metalurgia a pequeña escala.",
+          "isCorrect": false,
+          "rationale": "Estas actividades forman parte de la concesión de beneficio y requieren autorización formal por sus procesos físico-químicos."
+        }
+  ],
+  "hint": "Piensa en las fases iniciales de búsqueda de minerales que no implican una intervención masiva del terreno."
+    },
+    {
+      "question": "¿Qué derecho otorga específicamente la concesión de beneficio al titular minero?",
+      "answerOptions": [
+        {
+          "text": "Realizar procesos físico-químicos para dar valor agregado al mineral bruto.",
+          "isCorrect": true,
+          "rationale": "Esta concesión autoriza la metalurgia y refinación, permitiendo procesar la roca extraída para su venta en el mercado internacional."
+        },
+        {
+          "text": "Construir túneles de ventilación y sistemas de desagüe en el yacimiento.",
+          "isCorrect": false,
+          "rationale": "Esas actividades corresponden a la concesión de labor general, la cual brinda servicios auxiliares a la mina."
+        },
+        {
+          "text": "Instalar fajas transportadoras de kilómetros de largo hacia los terminales portuarios.",
+          "isCorrect": false,
+          "rationale": "El transporte masivo e integrado mediante sistemas de fajas o tuberías requiere una concesión de transporte minero."
+        },
+        {
+          "text": "Garantizar la propiedad de los minerales una vez que han sido extraídos del cerro.",
+          "isCorrect": false,
+          "rationale": "La propiedad de los minerales extraídos es un derecho derivado de la concesión minera clásica (exploración y explotación)."
+        }
+      ],
+      "hint": "Se relaciona con la transformación industrial del mineral extraído."
+    },
+    {
+      "question": "¿Cuál es la función principal de la concesión de labor general en una unidad minera?",
+      "answerOptions": [
+        {
+          "text": "Proveer servicios auxiliares como ventilación, desagüe e isaje para sostener otras concesiones.",
+          "isCorrect": true,
+          "rationale": "Es considerada el sistema circulatorio y respiratorio de la mina, permitiendo la operatividad de yacimientos profundos."
+        },
+        {
+          "text": "Administrar el transporte de concentrados mediante camiones en carreteras públicas.",
+          "isCorrect": false,
+          "rationale": "El uso de carreteras públicas no requiere esta concesión; esta se enfoca en infraestructura de apoyo técnico profundo."
+        },
+        {
+          "text": "Establecer las cuadrículas mineras para el petitorio inicial ante el INGEMMET.",
+          "isCorrect": false,
+          "rationale": "La delimitación por cuadrículas es un procedimiento administrativo técnico para la concesión minera, no una labor de servicio."
+        },
+        {
+          "text": "Ejecutar el plan de cierre y la rehabilitación biológica del terreno.",
+          "isCorrect": false,
+          "rationale": "El cierre de minas es una obligación ambiental ligada a la certificación ambiental, no una concesión de servicios auxiliares."
+        }
+      ],
+      "hint": "Imagina la infraestructura necesaria para que una mina subterránea profunda pueda operar con seguridad."
+    },
+    {
+      "question": "¿Qué rango de pena privativa de la libertad establece el código penal para el delito de minería ilegal?",
+      "answerOptions": [
+        {
+          "text": "De $4$ a $8$ años de cárcel.",
+          "isCorrect": true,
+          "rationale": "Esta sanción busca disuadir la realización de actividades de explotación, beneficio o transporte sin los títulos habilitantes correspondientes."
+        },
+        {
+          "text": "De $2$ a $5$ años de cárcel.",
+          "isCorrect": false,
+          "rationale": "Aunque es una pena significativa, el marco legal establece un mínimo y máximo más elevado para este tipo de delitos ambientales y económicos."
+        },
+        {
+          "text": "De $10$ a $15$ años de cárcel.",
+          "isCorrect": false,
+          "rationale": "Este rango suele reservarse para delitos de mayor gravedad o con agravantes específicas que superan el tipo base de minería ilegal."
+        },
+        {
+          "text": "Solo multas administrativas equivalentes a $100,000$ dólares.",
+          "isCorrect": false,
+          "rationale": "La minería ilegal no solo tiene sanciones administrativas (multas), sino que conlleva responsabilidad penal con cárcel efectiva."
+        }
+      ],
+      "hint": "Es una sanción severa que refleja la gravedad de operar sin títulos legales."
+    },
+    {
+      "question": "¿Cuál es el estándar satelital global y el sistema de coordenadas requeridos para un petitorio minero?",
+      "answerOptions": [
+        {
+          "text": "Coordenadas UTM bajo el estándar WGS84.",
+          "isCorrect": true,
+          "rationale": "Este sistema garantiza precisión milimétrica y evita la superposición de linderos entre titulares mineros."
+        },
+        {
+          "text": "Sistema PSAD56 con coordenadas geográficas decimales.",
+          "isCorrect": false,
+          "rationale": "El sistema PSAD56 es un estándar antiguo que ha sido reemplazado por el WGS84 para asegurar la exactitud global."
+        },
+        {
+          "text": "Fotogrametría aérea sin referencia satelital fija.",
+          "isCorrect": false,
+          "rationale": "La fotogrametría es una herramienta de apoyo, pero la validez jurídica del petitorio depende estrictamente de las coordenadas UTM."
+        },
+        {
+          "text": "Sistema de posicionamiento por radar local.",
+          "isCorrect": false,
+          "rationale": "Se requiere un sistema satelital global y no solo mediciones locales para mantener la seguridad jurídica del catastro minero."
+        }
+      ],
+      "hint": "Se trata de un estándar internacional de georreferenciación muy común en la cartografía moderna."
+    },
+    {
+      "question": "¿Cuál es la extensión mínima y máxima permitida para un petitorio minero por área?",
+      "answerOptions": [
+        {
+          "text": "Entre $100$ y $1000$ hectáreas.",
+          "isCorrect": true,
+          "rationale": "Estas dimensiones están reguladas para evitar el acaparamiento desmedido de áreas y permitir una gestión espacial ordenada."
+        },
+        {
+          "text": "Entre $10$ y $500$ hectáreas.",
+          "isCorrect": false,
+          "rationale": "El límite inferior de 10 hectáreas es demasiado pequeño para los estándares de la minería formal protegida por el sistema de cuadrículas."
+        },
+        {
+          "text": "Entre $500$ y $5000$ hectáreas.",
+          "isCorrect": false,
+          "rationale": "El máximo permitido por petitorio individual es menor para asegurar que el terreno sea evaluado técnicamente de forma eficiente."
+        },
+        {
+          "text": "Sin límites mínimos, hasta un máximo de $10,000$ hectáreas.",
+          "isCorrect": false,
+          "rationale": "El sistema impone tanto un piso como un techo para garantizar la seriedad y el control del peticionario."
+        }
+      ],
+      "hint": "El área debe estar dentro de un rango de centenas hasta un millar."
+    },
+    {
+      "question": "¿Qué restricción establece el artículo $71$ de la Constitución para extranjeros en el sector minero?",
+      "answerOptions": [
+        {
+          "text": "No pueden adquirir concesiones dentro de los $50$ km cercanos a las fronteras del país.",
+          "isCorrect": true,
+          "rationale": "Es una prohibición por razones de soberanía territorial que actúa como un candado constitucional para ciudadanos y empresas extranjeras."
+        },
+        {
+          "text": "Solo pueden ser titulares si se asocian con empresas comunales locales.",
+          "isCorrect": false,
+          "rationale": "La restricción fronteriza es absoluta por soberanía y no se levanta simplemente mediante asociaciones privadas."
+        },
+        {
+          "text": "Están obligados a pagar el doble del derecho de vigencia anual.",
+          "isCorrect": false,
+          "rationale": "La Constitución establece prohibiciones territoriales, no gravámenes diferenciados por nacionalidad en este contexto específico."
+        },
+        {
+          "text": "Deben contar con la aprobación previa de la mayoría del Congreso.",
+          "isCorrect": false,
+          "rationale": "La prohibición es directa; solo mediante decreto supremo de necesidad pública se podrían otorgar excepciones en casos muy específicos, no por el Congreso."
+        }
+      ],
+      "hint": "Involucra un perímetro de seguridad nacional en los bordes del territorio."
+    },
+    {
+      "question": "¿Qué sucede con una solicitud de concesión si el peticionario tiene una sentencia firme por minería ilegal?",
+      "answerOptions": [
+        {
+          "text": "El petitorio queda bloqueado automáticamente debido a una inhabilitación criminal.",
+          "isCorrect": true,
+          "rationale": "El sistema formal se blinda para impedir que quienes hayan roto las reglas del sector previamente puedan reingresar legalmente."
+        },
+        {
+          "text": "Debe pagar una penalidad adicional para que el trámite pueda continuar.",
+          "isCorrect": false,
+          "rationale": "La inhabilitación por sentencia penal firme no es subsanable mediante pagos económicos; es una restricción de conducta."
+        },
+        {
+          "text": "Se le otorga un permiso temporal bajo supervisión directa de la SUNAFIL.",
+          "isCorrect": false,
+          "rationale": "La SUNAFIL supervisa lo laboral, pero la inhabilitación impide obtener el título minero en primer lugar."
+        },
+        {
+          "text": "El petitorio pasa a nombre del Estado automáticamente para su subasta.",
+          "isCorrect": false,
+          "rationale": "Si el peticionario está inhabilitado, el petitorio simplemente no procede y el área podría quedar libre tras la resolución correspondiente."
+        }
+      ],
+      "hint": "Es una medida de protección del sistema formal contra infractores reincidentes."
+    },
+    {
+      "question": "En el procedimiento ordinario, ¿cuál es el plazo de espera mínimo tras la publicación de avisos antes de otorgar el título?",
+      "answerOptions": [
+        {
+          "text": "$30$ días calendario.",
+          "isCorrect": true,
+          "rationale": "Este lapso abre una ventana de tiempo para que terceros interesados puedan presentar oposiciones antes de que se formalice el derecho."
+        },
+        {
+          "text": "$15$ días hábiles.",
+          "isCorrect": false,
+          "rationale": "El plazo legal establecido para la oposición en el procedimiento minero es mayor para garantizar la transparencia."
+        },
+        {
+          "text": "$60$ días calendario.",
+          "isCorrect": false,
+          "rationale": "Aunque existen trámites largos, la ventana estándar tras la publicación es de 30 días calendario antes de proseguir."
+        },
+        {
+          "text": "$7$ días útiles.",
+          "isCorrect": false,
+          "rationale": "7 días es el tiempo aproximado de la evaluación técnica inicial, no el plazo de espera para oposiciones públicas."
+        }
+      ],
+      "hint": "Equivale a la duración estándar de un mes calendario."
+    },
+    {
+      "question": "¿Cuál es la última instancia administrativa a la que puede acudir una empresa minera antes de recurrir al Poder Judicial?",
+      "answerOptions": [
+        {
+          "text": "El Consejo de Minería.",
+          "isCorrect": true,
+          "rationale": "Este órgano está conformado por especialistas y agota la vía administrativa en los conflictos y trámites del sector."
+        },
+        {
+          "text": "La Dirección General de Minería del MINEM.",
+          "isCorrect": false,
+          "rationale": "Esta dirección es una instancia técnica previa, pero sus decisiones son apelables ante el Consejo de Minería."
+        },
+        {
+          "text": "El Tribunal del OEFA.",
+          "isCorrect": false,
+          "rationale": "El tribunal de la OEFA se encarga de temas ambientales y sanciones, no de la concesión o el derecho minero per se."
+        },
+        {
+          "text": "La Presidencia del Consejo de Ministros.",
+          "isCorrect": false,
+          "rationale": "La PCM no actúa como instancia de apelación técnica en procedimientos ordinarios de concesión minera."
+        }
+      ],
+      "hint": "Es un cuerpo colegiado de expertos que decide el cierre de la vía interna del Estado."
+    },
+    {
+      "question": "¿Por qué se afirma que el título de concesión es un 'derecho latente'?",
+      "answerOptions": [
+        {
+          "text": "Porque por sí solo no autoriza a mover tierra ni operar sin licencias ambientales y sociales.",
+          "isCorrect": true,
+          "rationale": "El título otorga la exclusividad jurídica, pero su operatividad depende ineludiblemente de certificaciones complementarias como el EIA."
+        },
+        {
+          "text": "Porque su validez expira automáticamente a los seis meses de ser otorgado.",
+          "isCorrect": false,
+          "rationale": "La concesión no expira en seis meses; es un derecho continuo siempre que se cumplan las obligaciones de pago y reporte."
+        },
+        {
+          "text": "Porque el titular no es dueño de los minerales hasta que pague las regalías.",
+          "isCorrect": false,
+          "rationale": "La propiedad de los minerales se adquiere con la extracción; el concepto de derecho latente se refiere a la imposibilidad de operar sin permisos adicionales."
+        },
+        {
+          "text": "Porque solo se activa si se descubre un yacimiento de clase mundial.",
+          "isCorrect": false,
+          "rationale": "El derecho existe desde el título, independientemente de la magnitud del hallazgo, pero requiere permisos para ejercerse."
+        }
+      ],
+      "hint": "Tener el documento no significa que ya puedas empezar a cavar el día siguiente."
+    },
+    {
+      "question": "¿Qué documento es un prerrequisito absoluto emitido por el Ministerio de Cultura para garantizar la protección del patrimonio?",
+      "answerOptions": [
+        {
+          "text": "SIRA (Certificado de Inexistencia de Restos Arqueológicos).",
+          "isCorrect": true,
+          "rationale": "Este certificado asegura que la intervención física en el área no dañará restos arqueológicos, siendo un candado legal insalvable."
+        },
+        {
+          "text": "EIA (Estudio de Impacto Ambiental).",
+          "isCorrect": false,
+          "rationale": "Aunque es vital, el EIA es ambiental y se tramita ante SENACE o el MINEM, no ante el Ministerio de Cultura."
+        },
+        {
+          "text": "DAC (Declaración Anual Consolidada).",
+          "isCorrect": false,
+          "rationale": "La DAC es un reporte de actividades anual para informar al Estado, no un permiso para proteger patrimonio cultural."
+        },
+        {
+          "text": "Certificado de Consulta Previa.",
+          "isCorrect": false,
+          "rationale": "La consulta previa es un proceso de diálogo con pueblos indígenas, no un certificado de ausencia de restos físicos."
+        }
+      ],
+      "hint": "Sus siglas corresponden a la inexistencia de elementos del pasado histórico en el terreno."
+    },
+    {
+      "question": "En el contexto de la gestión estratégica, ¿qué diferencia a una planta de tratamiento proactiva de una reacción ante multas?",
+      "answerOptions": [
+        {
+          "text": "La proactiva asegura la legitimidad social a largo plazo mediante la mitigación de riesgos.",
+          "isCorrect": true,
+          "rationale": "Invertir en sistemas técnicos robustos previene conflictos y asegura la viabilidad del proyecto, a diferencia de solo reaccionar para evitar sanciones."
+        },
+        {
+          "text": "La reactiva es más económica ya que evita gastos en infraestructura compleja.",
+          "isCorrect": false,
+          "rationale": "A largo plazo, la gestión reactiva puede ser mucho más costosa debido a paralizaciones por conflictos sociales y multas elevadas."
+        },
+        {
+          "text": "Ambas tienen el mismo impacto legal frente a la Autoridad Nacional del Agua.",
+          "isCorrect": false,
+          "rationale": "La autoridad valora el cumplimiento constante; una gestión reactiva suele implicar daños ya causados al recurso hídrico."
+        },
+        {
+          "text": "La proactiva solo es necesaria si el proyecto supera los $100$ millones de inversión.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad social y ambiental es necesaria para la viabilidad de cualquier proyecto, independientemente de su escala de capital."
+        }
+      ],
+      "hint": "Piensa en cuál de las dos opciones construye una mejor relación con la comunidad y el entorno."
+    },
+    {
+      "question": "¿Qué implica la aplicación del 'silencio administrativo negativo' en procedimientos de evaluación ambiental compleja?",
+      "answerOptions": [
+        {
+          "text": "Si la administración no responde en el plazo, la solicitud se considera rechazada.",
+          "isCorrect": true,
+          "rationale": "Debido a la sensibilidad de estos temas, se requiere un pronunciamiento expreso del Estado para garantizar que no haya riesgos ambientales."
+        },
+        {
+          "text": "La empresa puede iniciar operaciones asumiendo que el permiso fue otorgado.",
+          "isCorrect": false,
+          "rationale": "Eso sería silencio administrativo positivo, el cual no aplica para evaluaciones ambientales complejas o autorizaciones iniciales."
+        },
+        {
+          "text": "El funcionario a cargo recibe una sanción, pero el trámite se aprueba automáticamente.",
+          "isCorrect": false,
+          "rationale": "Aunque pueda haber responsabilidad administrativa por la demora, el derecho no se otorga por la simple falta de respuesta."
+        },
+        {
+          "text": "El trámite se traslada automáticamente al Poder Judicial para su resolución.",
+          "isCorrect": false,
+          "rationale": "El silencio administrativo negativo agota la instancia en ese nivel, permitiendo al administrado impugnar la denegatoria ficta."
+        }
+      ],
+      "hint": "En temas delicados, la falta de noticias no son 'buenas noticias'."
+    },
+    {
+      "question": "¿Cuál es la fecha límite inamovible para entregar la copia del plan de minado actualizado según la normativa vigente?",
+      "answerOptions": [
+        {
+          "text": "$31$ de diciembre.",
+          "isCorrect": true,
+          "rationale": "Esta fecha marca el cierre del ciclo operativo anual y es fundamental para mantener la vigencia del derecho minero."
+        },
+        {
+          "text": "$30$ de junio.",
+          "isCorrect": false,
+          "rationale": "Junio suele ser el límite para el pago del derecho de vigencia, pero no para la actualización del plan de minado."
+        },
+        {
+          "text": "$31$ de marzo.",
+          "isCorrect": false,
+          "rationale": "Marzo es el mes común para reportes tributarios generales, pero el calendario minero operativo tiene sus propios hitos."
+        },
+        {
+          "text": "$1$ de enero.",
+          "isCorrect": false,
+          "rationale": "El 1 de enero comienza el nuevo ciclo, por lo que la entrega debe haberse realizado antes de que termine el año anterior."
+        }
+      ],
+      "hint": "Es el último día del año calendario."
+    },
+    {
+      "question": "¿Bajo qué circunstancia se produce la 'caducidad' de una concesión minera?",
+      "answerOptions": [
+        {
+          "text": "Por el no pago del derecho de vigencia o de la penalidad durante dos años seguidos.",
+          "isCorrect": true,
+          "rationale": "El incumplimiento de las obligaciones económicas básicas conlleva la extinción legal del derecho minero."
+        },
+        {
+          "text": "Por no encontrar minerales después de cinco años de exploración.",
+          "isCorrect": false,
+          "rationale": "La falta de hallazgos no extingue la concesión siempre que se mantengan los pagos y obligaciones operativas."
+        },
+        {
+          "text": "Por vender la concesión a una empresa extranjera sin permiso del MINEM.",
+          "isCorrect": false,
+          "rationale": "La transferencia de concesiones es permitida; la caducidad se enfoca específicamente en el incumplimiento de pagos al Estado."
+        },
+        {
+          "text": "Por recibir una multa de la SUNAFIL relacionada con seguridad laboral.",
+          "isCorrect": false,
+          "rationale": "Las multas laborales generan sanciones económicas, pero no provocan automáticamente la caducidad del título minero."
+        }
+      ],
+      "hint": "Se relaciona con el incumplimiento financiero prolongado ante el Estado."
+    },
+    {
+      "question": "¿Qué consecuencia directa tiene la declaración de 'libre denunciabilidad' sobre un área minera?",
+      "answerOptions": [
+        {
+          "text": "El área vuelve a estar disponible para que cualquier otro titular la solicite.",
+          "isCorrect": true,
+          "rationale": "Una vez extinguido el derecho previo y publicado en El Peruano, el terreno queda liberado para nuevos petitorios."
+        },
+        {
+          "text": "El Estado asume la operación directa de la mina de forma indefinida.",
+          "isCorrect": false,
+          "rationale": "La libre denunciabilidad no implica nacionalización, sino la apertura del área para la inversión privada nuevamente."
+        },
+        {
+          "text": "El terreno queda protegido permanentemente como área natural protegida.",
+          "isCorrect": false,
+          "rationale": "Aunque el estatus del suelo puede cambiar, la libre denunciabilidad es un término específicamente minero para áreas disponibles."
+        },
+        {
+          "text": "El anterior titular tiene preferencia para volver a pedir el área por $30$ días.",
+          "isCorrect": false,
+          "rationale": "Tras la extinción, el titular anterior suele perder sus derechos y el área queda abierta para todos en igualdad de condiciones."
+        }
+      ],
+      "hint": "Significa que el 'espacio' en el mapa vuelve a quedar vacío para un nuevo dueño."
+    },
+    {
+      "question": "¿Qué riesgo operativo representa una gestión ineficiente del 'apoderado común'?",
+      "answerOptions": [
+        {
+          "text": "El abandono del procedimiento por el vencimiento de plazos ante notificaciones no atendidas.",
+          "isCorrect": true,
+          "rationale": "La negligencia en el manejo de documentos y plazos legales puede sepultar la viabilidad de toda la inversión asociada a la concesión."
+        },
+        {
+          "text": "El aumento automático de las regalías mineras que debe pagar la empresa.",
+          "isCorrect": false,
+          "rationale": "Las regalías se calculan sobre la producción y ley, no dependen de la eficiencia administrativa del apoderado."
+        },
+        {
+          "text": "La pérdida de la certificación ISO de la unidad minera.",
+          "isCorrect": false,
+          "rationale": "Si bien afecta la gestión, el riesgo legal principal ante el Estado es la extinción del derecho por abandono."
+        },
+        {
+          "text": "La imposibilidad de contratar personal extranjero para la operación.",
+          "isCorrect": false,
+          "rationale": "La gestión del apoderado común es central para los trámites del derecho minero, no para las políticas de recursos humanos."
+        }
+      ],
+      "hint": "Considera qué pasaría si alguien ignora los correos o cartas oficiales del Estado con plazos estrictos."
+    },
+    {
+      "question": "¿Qué marco internacional obliga al Estado a dialogar con pueblos indígenas ante medidas administrativas que puedan afectarles?",
+      "answerOptions": [
+        {
+          "text": "Convenio $169$ de la OIT.",
+          "isCorrect": true,
+          "rationale": "Este convenio establece el mandato de la consulta previa como un pilar para la legitimidad social de los proyectos extractivos."
+        },
+        {
+          "text": "Acuerdo de París sobre el cambio climático.",
+          "isCorrect": false,
+          "rationale": "El Acuerdo de París se enfoca en emisiones de carbono y metas climáticas, no específicamente en el derecho a la consulta indígena."
+        },
+        {
+          "text": "Tratado de Libre Comercio (TLC) con Estados Unidos.",
+          "isCorrect": false,
+          "rationale": "Los TLC regulan el comercio y aranceles, mientras que la consulta previa es un derecho humano y social específico."
+        },
+        {
+          "text": "Protocolo de Kioto.",
+          "isCorrect": false,
+          "rationale": "Al igual que el de París, este protocolo se centra en la reducción de gases de efecto invernadero."
+        }
+      ],
+      "hint": "Es un tratado de la Organización Internacional del Trabajo."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Régimen de concesiones mineras",
+      "Tipología de actividades mineras",
+      "Procedimientos operativos y petitorio",
+      "Obligaciones ambientales y sociales",
+      "Extinción del derecho minero"
+    ],
+    "followUp": [
+      "Gestión de pasivos ambientales mineros",
+      "Fiscalización técnica de la SUNAFIL en minería",
+      "Mecanismos de resolución de conflictos sociales en extractivas",
+      "Tributación y regalías mineras en el Perú",
+      "Normativa de seguridad y salud ocupacional minera"
+    ]
+  }
+}

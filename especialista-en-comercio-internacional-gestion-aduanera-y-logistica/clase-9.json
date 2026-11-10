@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1les son los tres pilares fundamentales para lograr una integraci\u00f3n sin\u00e9rgica en el \u00e9xito del comercio exterior moderno?",
+      "answerOptions": [
+        {
+          "text": "Log\u00edstica f\u00edsica, marco jur\u00eddico y tecnolog\u00edas disruptivas.",
+          "isCorrect": true,
+          "rationale": "Estos componentes aseguran que el transporte fluya, los riesgos legales se mitiguen y los procesos se optimicen mediante innovaci\u00f3n."
+        },
+        {
+          "text": "Producci\u00f3n de calidad, marketing digital y gesti\u00f3n de inventarios.",
+          "isCorrect": false,
+          "rationale": "Aunque importantes, la calidad del producto por s\u00ed sola ya no garantiza el \u00e9xito sin una estructura log\u00edstica y legal s\u00f3lida."
+        },
+        {
+          "text": "Financiamiento bancario, recursos humanos y transporte terrestre.",
+          "isCorrect": false,
+          "rationale": "Estos son elementos de soporte operativo, pero no constituyen los pilares estrat\u00e9gicos de interdependencia mencionados para la competitividad avanzada."
+        },
+        {
+          "text": "Aduanas, tratados de libre comercio y embalaje especializado.",
+          "isCorrect": false,
+          "rationale": "Estos son aspectos espec\u00edficos dentro del comercio, no la visi\u00f3n macro de los tres ejes cr\u00edticos de integraci\u00f3n."
+        }
+      ],
+      "hint": "Considere la combinaci\u00f3n de movimiento f\u00edsico, seguridad legal e innovaci\u00f3n t\u00e9cnica."
+    },
+    {
+      "question": "Al seleccionar un modo de transporte internacional, \u00bfqu\u00e9 factores deben equilibrarse m\u00e1s all\u00e1 del costo del flete?",
+      "answerOptions": [
+        {
+          "text": "Tiempo de tr\u00e1nsito, naturaleza de la carga y rentabilidad del espacio.",
+          "isCorrect": true,
+          "rationale": "Esta tr\u00edada permite determinar la viabilidad operativa y econ\u00f3mica de mover una mercanc\u00eda espec\u00edfica en un plazo determinado."
+        },
+        {
+          "text": "Distancia geogr\u00e1fica, idioma del transportista y color de los bultos.",
+          "isCorrect": false,
+          "rationale": "Factores como el idioma o el color son irrelevantes frente a la eficiencia t\u00e9cnica y financiera del espacio ocupado."
+        },
+        {
+          "text": "Disponibilidad de seguros, cantidad de operarios y prestigio de la naviera.",
+          "isCorrect": false,
+          "rationale": "Son variables secundarias que no definen la naturaleza estrat\u00e9gica de la decisi\u00f3n multidimensional del modo de transporte."
+        },
+        {
+          "text": "Tipo de combustible, historial de siniestros y clima estacional.",
+          "isCorrect": false,
+          "rationale": "Aunque influyen, no son los componentes principales de la balanza t\u00e9cnica donde cada gramo y cent\u00edmetro c\u00fabico cuentan."
+        }
+      ],
+      "hint": "Piense en la relaci\u00f3n entre la urgencia, el tipo de producto y el uso eficiente del volumen."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el concepto de 'flete free in' en la estructura de costos mar\u00edtimos?",
+      "answerOptions": [
+        {
+          "text": "El costo base del flete que excluye las maniobras de carga y descarga.",
+          "isCorrect": true,
+          "rationale": "Es el punto de partida del precio al que luego se deben sumar recargos adicionales y gastos operativos en puerto."
+        },
+        {
+          "text": "Un flete gratuito ofrecido por las navieras para clientes nuevos.",
+          "isCorrect": false,
+          "rationale": "No existe el transporte gratuito en esta industria; el t\u00e9rmino se refiere a la delimitaci\u00f3n de servicios incluidos."
+        },
+        {
+          "text": "El costo total que incluye todos los gastos desde origen hasta destino.",
+          "isCorrect": false,
+          "rationale": "Este concepto es err\u00f3neo, ya que el 'free in' precisamente indica que ciertos servicios est\u00e1n fuera del precio base."
+        },
+        {
+          "text": "La tarifa aplicada \u00fanicamente a mercanc\u00edas peligrosas o perecederas.",
+          "isCorrect": false,
+          "rationale": "Es un t\u00e9rmino comercial est\u00e1ndar sobre la estructura de costos y no depende de la peligrosidad de la carga."
+        }
+      ],
+      "hint": "Se refiere a lo que est\u00e1 'dentro' o 'fuera' de la tarifa base respecto al movimiento en el puerto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n del recargo t\u00e9cnico conocido como BAF ($$Bunker Adjustment Factor$$)?",
+      "answerOptions": [
+        {
+          "text": "Ajustar el costo del flete seg\u00fan las variaciones en el precio del combustible.",
+          "isCorrect": true,
+          "rationale": "Dado que el consumo de energ\u00eda est\u00e1 ligado al esfuerzo de mover masa, este factor compensa el gasto de combustible del buque."
+        },
+        {
+          "text": "Cubrir los gastos de seguridad en puertos con alto \u00edndice de criminalidad.",
+          "isCorrect": false,
+          "rationale": "El BAF est\u00e1 estrictamente relacionado con la energ\u00eda y el combustible, no con la seguridad f\u00edsica."
+        },
+        {
+          "text": "Compensar las p\u00e9rdidas generadas por el tipo de cambio de divisas.",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n corresponde al CAF ($$Currency Adjustment Factor$$), no al factor de combustible."
+        },
+        {
+          "text": "Pagar el uso de gr\u00faas p\u00f3rtico en la terminal de contenedores.",
+          "isCorrect": false,
+          "rationale": "El uso de gr\u00faas se cubre usualmente mediante el THC ($$Terminal Handling Charge$$)."
+        }
+      ],
+      "hint": "Relacione este factor con el consumo de energ\u00eda necesario para mover grandes masas en el oc\u00e9ano."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se determina el monto a facturar cuando el volumen num\u00e9rico de una carga es mayor a su peso f\u00edsico?",
+      "answerOptions": [
+        {
+          "text": "Se factura bas\u00e1ndose en el volumen para maximizar el espacio de la bodega.",
+          "isCorrect": true,
+          "rationale": "Las navieras y transportistas cobran por el valor m\u00e1s alto para asegurar la rentabilidad del espacio f\u00edsico que ocupa la mercanc\u00eda."
+        },
+        {
+          "text": "Se realiza un promedio aritm\u00e9tico entre el peso y el volumen.",
+          "isCorrect": false,
+          "rationale": "No se promedian los valores; se aplica la regla de cobrar por la unidad que genere mayor ingreso al transportista."
+        },
+        {
+          "text": "Se factura exclusivamente por el peso f\u00edsico para simplificar el proceso.",
+          "isCorrect": false,
+          "rationale": "Cobrar solo por peso en cargas voluminosas resultar\u00eda en p\u00e9rdidas de espacio valioso para la naviera."
+        },
+        {
+          "text": "Se aplica un descuento por tratarse de una carga ligera pero grande.",
+          "isCorrect": false,
+          "rationale": "Al contrario, las cargas voluminosas suelen ser penalizadas econ\u00f3micamente debido al espacio que consumen."
+        }
+      ],
+      "hint": "Recuerde que el factor de estiva busca la eficiencia econ\u00f3mica del espacio disponible."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia operativa entre los aviones PAX y los aviones CAO?",
+      "answerOptions": [
+        {
+          "text": "Los PAX llevan carga en la bodega de aviones de pasajeros, mientras que los CAO son exclusivos de carga.",
+          "isCorrect": true,
+          "rationale": "Esta distinci\u00f3n determina la capacidad, dimensiones y tipo de mercanc\u00eda que puede ser transportada en cada vuelo."
+        },
+        {
+          "text": "Los PAX son para vuelos nacionales y los CAO para vuelos transcontinentales.",
+          "isCorrect": false,
+          "rationale": "Ambos tipos de aeronaves pueden realizar rutas internacionales; la diferencia es su configuraci\u00f3n interna."
+        },
+        {
+          "text": "Los CAO solo transportan animales vivos y los PAX solo correo postal.",
+          "isCorrect": false,
+          "rationale": "Los aviones de carga (CAO) est\u00e1n dise\u00f1ados para una amplia variedad de mercanc\u00edas pesadas y voluminosas."
+        },
+        {
+          "text": "Los PAX tienen tarifas m\u00e1s altas debido a la velocidad de entrega.",
+          "isCorrect": false,
+          "rationale": "Las tarifas dependen de la urgencia y el peso/volumen, no necesariamente del tipo de avi\u00f3n en s\u00ed."
+        }
+      ],
+      "hint": "Considere qui\u00e9n o qu\u00e9 ocupa la parte superior de la aeronave en cada caso."
+    },
+    {
+      "question": "En el transporte a\u00e9reo, \u00bfcu\u00e1l es el divisor est\u00e1ndar utilizado en la f\u00f3rmula de la IATA para calcular el peso volum\u00e9trico?",
+      "answerOptions": [
+        {
+          "text": "6,000",
+          "isCorrect": true,
+          "rationale": "Este factor t\u00e9cnico permite estandarizar el cobro de mercanc\u00edas voluminosas pero livianas, asegurando un flete proporcional al espacio ocupado."
+        },
+        {
+          "text": "1,000",
+          "isCorrect": false,
+          "rationale": "El divisor 1,000 suele usarse en c\u00e1lculos de peso m\u00e9trico, pero no es el est\u00e1ndar IATA para volumen a\u00e9reo."
+        },
+        {
+          "text": "3,000",
+          "isCorrect": false,
+          "rationale": "Este valor no corresponde al est\u00e1ndar internacional mencionado para resolver el problema de cargas livianas y grandes."
+        },
+        {
+          "text": "10,000",
+          "isCorrect": false,
+          "rationale": "Un divisor tan alto reducir\u00eda dr\u00e1sticamente el peso cobrable, lo cual no beneficiar\u00eda la l\u00f3gica de rentabilidad de las aerol\u00edneas."
+        }
+      ],
+      "hint": "Se trata de un n\u00famero espec\u00edfico que armoniza las dimensiones con el peso para el cobro equitativo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 elemento es fundamental para obtener resultados de 'oro puro' al utilizar Inteligencia Artificial generativa en comercio exterior?",
+      "answerOptions": [
+        {
+          "text": "La ingenier\u00eda precisa de instrucciones o prompts con nivel de rigor.",
+          "isCorrect": true,
+          "rationale": "La calidad del resultado depende directamente de la especificidad y claridad de la orden dada a la IA."
+        },
+        {
+          "text": "El uso de la versi\u00f3n gratuita de las herramientas tecnol\u00f3gicas.",
+          "isCorrect": false,
+          "rationale": "Independientemente de la versi\u00f3n, si el prompt es vago, la informaci\u00f3n obtenida no ser\u00e1 \u00fatil para la toma de decisiones."
+        },
+        {
+          "text": "La velocidad de conexi\u00f3n a internet durante la consulta.",
+          "isCorrect": false,
+          "rationale": "La velocidad de red afecta el tiempo de respuesta, pero no la precisi\u00f3n o veracidad de los datos anal\u00edticos."
+        },
+        {
+          "text": "Solicitar informaci\u00f3n \u00fanicamente de blogs de opini\u00f3n personal.",
+          "isCorrect": false,
+          "rationale": "Las fuentes oficiales son las que proporcionan datos valiosos; la opini\u00f3n personal suele carecer de rigor t\u00e9cnico."
+        }
+      ],
+      "hint": "Piense en la frase: 'Tu resultado ser\u00e1 tan bueno como tu instrucci\u00f3n'."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es riesgoso confiar ciegamente en los datos de la IA para operaciones aduaneras inmediatas?",
+      "answerOptions": [
+        {
+          "text": "Debido a un desfase de datos de aproximadamente dos a tres meses en su entrenamiento.",
+          "isCorrect": true,
+          "rationale": "Las normativas y tarifas arancelarias pueden cambiar en cualquier momento, y la IA no siempre tiene acceso a cambios de \u00faltima hora."
+        },
+        {
+          "text": "Porque la IA no puede procesar documentos en otros idiomas.",
+          "isCorrect": false,
+          "rationale": "Las herramientas de IA actuales son multiling\u00fces y procesan datos en diversos idiomas con alta eficiencia."
+        },
+        {
+          "text": "Debido a que el costo de las consultas es extremadamente alto para las empresas.",
+          "isCorrect": false,
+          "rationale": "El riesgo no es econ\u00f3mico por el uso de la herramienta, sino operativo por la posible inexactitud de los datos."
+        },
+        {
+          "text": "Porque las aduanas proh\u00edben el uso de asistentes tecnol\u00f3gicos.",
+          "isCorrect": false,
+          "rationale": "No existe una prohibici\u00f3n de usar tecnolog\u00eda para investigaci\u00f3n; el problema radica en la validaci\u00f3n de la informaci\u00f3n."
+        }
+      ],
+      "hint": "Considere la frecuencia con la que cambian las leyes aduaneras frente a la actualizaci\u00f3n de los modelos de lenguaje."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la relaci\u00f3n jer\u00e1rquica entre un contrato de compraventa internacional y las regulaciones aduaneras?",
+      "answerOptions": [
+        {
+          "text": "El contrato complementa, pero no sustituye, las regulaciones aduaneras obligatorias.",
+          "isCorrect": true,
+          "rationale": "Las leyes aduaneras son de cumplimiento imperativo y no pueden ser invalidadas por acuerdos privados entre partes."
+        },
+        {
+          "text": "El contrato tiene mayor peso legal que las leyes del pa\u00eds importador.",
+          "isCorrect": false,
+          "rationale": "Los contratos privados no pueden estar por encima de la soberan\u00eda legal y las normas de control estatal en aduanas."
+        },
+        {
+          "text": "Las regulaciones aduaneras son opcionales si el contrato est\u00e1 bien redactado.",
+          "isCorrect": false,
+          "rationale": "Esta creencia es un error grave que puede llevar a sanciones severas y paralizaci\u00f3n de la carga."
+        },
+        {
+          "text": "Ambos son instrumentos id\u00e9nticos que cubren las mismas obligaciones.",
+          "isCorrect": false,
+          "rationale": "El contrato rige la relaci\u00f3n privada (vendedor-comprador) y las regulaciones rigen la relaci\u00f3n p\u00fablica (Estado-operador)."
+        }
+      ],
+      "hint": "Distinga entre un acuerdo de derecho privado y las normas de orden p\u00fablico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 define espec\u00edficamente la cl\u00e1usula de transferencia de propiedad en un contrato internacional?",
+      "answerOptions": [
+        {
+          "text": "El momento exacto en que los riesgos pasan del vendedor al comprador.",
+          "isCorrect": true,
+          "rationale": "Es la l\u00ednea divisoria de la responsabilidad legal sobre la mercanc\u00eda en caso de p\u00e9rdida o da\u00f1o."
+        },
+        {
+          "text": "El precio final que se debe pagar por el flete internacional.",
+          "isCorrect": false,
+          "rationale": "El precio del flete se establece en la cotizaci\u00f3n log\u00edstica, no en la cl\u00e1usula de transferencia de propiedad de los bienes."
+        },
+        {
+          "text": "El nombre del barco que transportar\u00e1 la mercanc\u00eda.",
+          "isCorrect": false,
+          "rationale": "La identificaci\u00f3n del buque es un dato operativo del BL y no una definici\u00f3n de transferencia de derechos."
+        },
+        {
+          "text": "La cantidad de impuestos que el comprador debe declarar.",
+          "isCorrect": false,
+          "rationale": "Las obligaciones tributarias nacen de la ley, aunque el contrato defina qui\u00e9n las asume econ\u00f3micamente."
+        }
+      ],
+      "hint": "Piense en el hito que marca el cambio de responsabilidad sobre la carga."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el beneficio de estipular el sometimiento a tribunales neutrales o arbitraje en un contrato?",
+      "answerOptions": [
+        {
+          "text": "Evitar litigios costosos y largos en jurisdicciones extranjeras desconocidas.",
+          "isCorrect": true,
+          "rationale": "El arbitraje proporciona rapidez, eficiencia y certeza jur\u00eddica para resolver disputas comerciales sin depender de cortes locales."
+        },
+        {
+          "text": "Garantizar que el vendedor siempre gane cualquier disputa legal.",
+          "isCorrect": false,
+          "rationale": "La neutralidad busca justicia para ambas partes, no el beneficio predeterminado de una de ellas."
+        },
+        {
+          "text": "Reducir a cero los impuestos de importaci\u00f3n en el destino.",
+          "isCorrect": false,
+          "rationale": "La elecci\u00f3n de un tribunal no tiene impacto sobre las tasas arancelarias establecidas por el Estado."
+        },
+        {
+          "text": "Eliminar la necesidad de presentar documentos ante la aduana.",
+          "isCorrect": false,
+          "rationale": "El arbitraje resuelve conflictos contractuales, pero no exime de las obligaciones documentales aduaneras."
+        }
+      ],
+      "hint": "Considere las ventajas de la especializaci\u00f3n y la agilidad en la resoluci\u00f3n de conflictos."
+    },
+    {
+      "question": "En la comercializaci\u00f3n de commodities, \u00bfcu\u00e1l es la recomendaci\u00f3n t\u00e9cnica para fijar el precio debido a su alta volatilidad?",
+      "answerOptions": [
+        {
+          "text": "Dejar el precio abierto y fijar el definitivo en la factura al momento del embarque.",
+          "isCorrect": true,
+          "rationale": "Esto protege a las partes de las fluctuaciones dr\u00e1sticas de precios en las bolsas globales antes del despacho f\u00edsico."
+        },
+        {
+          "text": "Establecer un precio fijo e inamovible con un a\u00f1o de antelaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Fijar precios a largo plazo en bienes vol\u00e1tiles puede generar p\u00e9rdidas catastr\u00f3ficas para el vendedor o el comprador."
+        },
+        {
+          "text": "Utilizar el precio promedio de los \u00faltimos diez a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Los mercados de commodities se rigen por valores actuales de bolsa, no por promedios hist\u00f3ricos distantes."
+        },
+        {
+          "text": "Esperar a que la mercanc\u00eda llegue al puerto de destino para decidir el precio.",
+          "isCorrect": false,
+          "rationale": "El precio debe estar definido al momento de la facturaci\u00f3n comercial para permitir el despacho y cierre financiero."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo adaptarse a los cambios diarios en mercados como la bolsa de metales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una caracter\u00edstica fiscal importante de la exportaci\u00f3n de servicios intangibles?",
+      "answerOptions": [
+        {
+          "text": "No pasan por aduana pero s\u00ed detonan obligaciones tributarias e impuestos locales.",
+          "isCorrect": true,
+          "rationale": "Aunque no generan una Declaraci\u00f3n Aduanera de Mercanc\u00edas (DAM), su venta est\u00e1 sujeta al marco impositivo nacional."
+        },
+        {
+          "text": "Est\u00e1n exentos de todo tipo de control fiscal y pago de impuestos.",
+          "isCorrect": false,
+          "rationale": "La invisibilidad f\u00edsica en aduanas no significa que la transacci\u00f3n no deba ser reportada al fisco."
+        },
+        {
+          "text": "Requieren obligatoriamente un contenedor refrigerado para su env\u00edo.",
+          "isCorrect": false,
+          "rationale": "Los servicios son intangibles y se transmiten usualmente de forma digital, por lo que no usan equipo log\u00edstico f\u00edsico."
+        },
+        {
+          "text": "Deben generar una DAM para poder ser cobrados internacionalmente.",
+          "isCorrect": false,
+          "rationale": "Los servicios, por su naturaleza, no suelen estar sujetos a la presentaci\u00f3n de una DAM en la aduana f\u00edsica."
+        }
+      ],
+      "hint": "Diferencie entre el flujo f\u00edsico en fronteras y la responsabilidad ante las autoridades de impuestos."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son las tres funciones jur\u00eddicas y operativas del Bill of Lading (BL)?",
+      "answerOptions": [
+        {
+          "text": "T\u00edtulo valor, evidencia del contrato de transporte y acuse de recibo de la carga.",
+          "isCorrect": true,
+          "rationale": "Estas funciones aseguran la propiedad de la mercanc\u00eda, los t\u00e9rminos del servicio y la posesi\u00f3n f\u00edsica por la naviera."
+        },
+        {
+          "text": "Seguro de carga, permiso fitosanitario y certificado de origen.",
+          "isCorrect": false,
+          "rationale": "El BL es un documento de transporte; el seguro, los permisos y el origen son documentos complementarios independientes."
+        },
+        {
+          "text": "Factura comercial, lista de empaque y declaraci\u00f3n jurada.",
+          "isCorrect": false,
+          "rationale": "Aunque se usan juntos, la factura y la lista de empaque son emitidas por el exportador, no por el transportista."
+        },
+        {
+          "text": "Garant\u00eda de calidad, manual de instrucciones y cat\u00e1logo de productos.",
+          "isCorrect": false,
+          "rationale": "Estos son documentos comerciales o t\u00e9cnicos que no tienen la funci\u00f3n representativa o contractual del BL."
+        }
+      ],
+      "hint": "Considere al BL como el documento 'estrella' que prueba la entrega y la propiedad."
+    },
+    {
+      "question": "En un proceso de carga consolidada, \u00bfqui\u00e9n emite el documento conocido como House BL?",
+      "answerOptions": [
+        {
+          "text": "El agente de carga o freight forwarder.",
+          "isCorrect": true,
+          "rationale": "Este documento vincula al verdadero importador con el agente de carga, mientras que la naviera emite el Master BL al agente."
+        },
+        {
+          "text": "La l\u00ednea naviera propietaria del buque.",
+          "isCorrect": false,
+          "rationale": "Las navieras emiten el Master BL; el House BL es una subdivisi\u00f3n documental del operador log\u00edstico."
+        },
+        {
+          "text": "La autoridad aduanera del puerto de destino.",
+          "isCorrect": false,
+          "rationale": "La aduana no emite t\u00edtulos de transporte; su funci\u00f3n es fiscalizar y controlar el paso de mercanc\u00edas."
+        },
+        {
+          "text": "El banco que financia la carta de cr\u00e9dito.",
+          "isCorrect": false,
+          "rationale": "El banco revisa y recibe los documentos, pero no tiene la facultad de emitir un Bill of Lading."
+        }
+      ],
+      "hint": "Identifique al intermediario que agrupa cargas de distintos clientes en un solo contenedor."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 un Bill of Lading 'sucio' es considerado una trampa mortal financiera?",
+      "answerOptions": [
+        {
+          "text": "Porque las anotaciones de da\u00f1os invalidan el cobro de cartas de cr\u00e9dito ante los bancos.",
+          "isCorrect": true,
+          "rationale": "Los bancos exigen documentos limpios para liberar fondos; cualquier observaci\u00f3n t\u00e9cnica bloquea el flujo de caja."
+        },
+        {
+          "text": "Porque indica que la carga ha sido contaminada con sustancias peligrosas.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino 'sucio' se refiere a observaciones sobre el estado f\u00edsico (roturas, humedad), no necesariamente a contaminaci\u00f3n qu\u00edmica."
+        },
+        {
+          "text": "Porque el documento ha sido manchado f\u00edsicamente con tinta o grasa.",
+          "isCorrect": false,
+          "rationale": "Es un concepto jur\u00eddico que describe la presencia de reservas u observaciones, no la limpieza f\u00edsica del papel."
+        },
+        {
+          "text": "Porque aumenta autom\u00e1ticamente los impuestos aduaneros en un 50%.",
+          "isCorrect": false,
+          "rationale": "Las observaciones en el BL afectan la liquidez y la responsabilidad, pero no alteran las tasas arancelarias nacionales."
+        }
+      ],
+      "hint": "Piense en los requisitos de perfecci\u00f3n documental que exigen las entidades bancarias para pagar."
+    },
+    {
+      "question": "\u00bfQu\u00e9 certifica la leyenda 'on board' en un documento de transporte?",
+      "answerOptions": [
+        {
+          "text": "Que la mercanc\u00eda est\u00e1 f\u00edsicamente cargada y asegurada dentro del buque.",
+          "isCorrect": true,
+          "rationale": "Esta anotaci\u00f3n es el hito cr\u00edtico que confirma que la carga ya no est\u00e1 en el puerto, permitiendo el desembolso de fondos."
+        },
+        {
+          "text": "Que el capit\u00e1n del barco ha aceptado una propina adicional.",
+          "isCorrect": false,
+          "rationale": "Es un t\u00e9rmino t\u00e9cnico formal de carga y no tiene ninguna relaci\u00f3n con pagos informales."
+        },
+        {
+          "text": "Que la carga puede ser abandonada en el puerto si nadie la reclama.",
+          "isCorrect": false,
+          "rationale": "Al contrario, certifica que la carga ya inici\u00f3 su tr\u00e1nsito mar\u00edtimo hacia el destino."
+        },
+        {
+          "text": "Que los pasajeros del buque tienen acceso a la mercanc\u00eda.",
+          "isCorrect": false,
+          "rationale": "La carga viaja en bodegas restringidas y no tiene relaci\u00f3n con el servicio de pasajeros."
+        }
+      ],
+      "hint": "Relacione el t\u00e9rmino con la ubicaci\u00f3n f\u00edsica de la carga respecto a la estructura del barco."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la modalidad de ruteo denominada 'through' (o corrida)?",
+      "answerOptions": [
+        {
+          "text": "Permite m\u00faltiples transbordos manteniendo la trazabilidad bajo un \u00fanico documento de control.",
+          "isCorrect": true,
+          "rationale": "Esta modalidad centraliza la responsabilidad y facilita el seguimiento en log\u00edsticas complejas con escalas."
+        },
+        {
+          "text": "Es un viaje directo sin escalas desde el puerto de origen al de destino.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde a la modalidad 'straight' o directa, no a la 'through'."
+        },
+        {
+          "text": "Exige que el exportador viaje f\u00edsicamente junto con la carga.",
+          "isCorrect": false,
+          "rationale": "El transporte de mercanc\u00edas no requiere la presencia f\u00edsica del exportador durante la traves\u00eda."
+        },
+        {
+          "text": "Implica que la carga debe ser destruida y fabricada de nuevo en cada puerto.",
+          "isCorrect": false,
+          "rationale": "Es una idea absurda; el ruteo se refiere \u00fanicamente al movimiento y documentaci\u00f3n de la mercanc\u00eda original."
+        }
+      ],
+      "hint": "Piense en una estrategia para simplificar la documentaci\u00f3n en rutas con muchos cambios de buque."
+    },
+    {
+      "question": "De acuerdo con los pilares de la competitividad, \u00bfcu\u00e1l es el riesgo de un fraude de origen por parte del exportador?",
+      "answerOptions": [
+        {
+          "text": "Traer\u00e1 severas sanciones legales y econ\u00f3micas al comprador.",
+          "isCorrect": true,
+          "rationale": "El principio de buena fe es vital, y las infracciones de origen impactan directamente en el importador ante su aduana local."
+        },
+        {
+          "text": "Mejorar\u00e1 la relaci\u00f3n comercial debido al ahorro en impuestos.",
+          "isCorrect": false,
+          "rationale": "El fraude nunca mejora una relaci\u00f3n comercial; al contrario, genera contingencias legales graves y multas."
+        },
+        {
+          "text": "El riesgo es nulo si el contrato no menciona el pa\u00eds de origen.",
+          "isCorrect": false,
+          "rationale": "El origen es un dato obligatorio para la aduana, independientemente de si se detalla o no en el contrato privado."
+        },
+        {
+          "text": "La responsabilidad recae exclusivamente en la naviera que transport\u00f3 la carga.",
+          "isCorrect": false,
+          "rationale": "La naviera solo transporta; la veracidad de la informaci\u00f3n sobre la naturaleza y origen de la carga es del exportador e importador."
+        }
+      ],
+      "hint": "Piense en qui\u00e9n debe responder ante la aduana local si se detecta informaci\u00f3n falsa sobre la procedencia."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Log\u00edstica Internacional y Modos de Transporte",
+      "Estructura de Costos Mar\u00edtimos y A\u00e9reos",
+      "Inteligencia Artificial y Comercial en el Comercio Exterior",
+      "Contrataci\u00f3n Internacional y Blindaje Legal",
+      "Documentaci\u00f3n T\u00e9cnica y el Bill of Lading"
+    ],
+    "followUp": [
+      "Gesti\u00f3n de Riesgos y Seguros Internacionales",
+      "Procedimientos Aduaneros de la SUNAT y la BUCE",
+      "Resoluci\u00f3n de Conflictos mediante Arbitraje Comercial",
+      "Incoterms y Responsabilidades en la Cadena de Suministro",
+      "An\u00e1lisis de Datos de Oferta y Demanda Global con IA"
+    ]
+  }
+}

@@ -1,0 +1,538 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el tercer elemento esencial que define y distingue una relaci\u00f3n laboral de otros tipos de v\u00ednculos contractuales?",
+      "answerOptions": [
+        {
+          "text": "La exclusividad de servicios",
+          "isCorrect": false,
+          "rationale": "Aunque es com\u00fan en muchos contratos, no es un elemento esencial exigido por ley para validar la existencia de un v\u00ednculo laboral."
+        },
+        {
+          "text": "La subordinaci\u00f3n",
+          "isCorrect": true,
+          "rationale": "Este elemento otorga al empleador facultades directivas, de fiscalizaci\u00f3n y sancionadoras, marcando la frontera con el trabajo aut\u00f3nomo."
+        },
+        {
+          "text": "La firma de un contrato f\u00edsico",
+          "isCorrect": false,
+          "rationale": "El v\u00ednculo laboral puede existir incluso sin un documento escrito debido al principio de primac\u00eda de la realidad."
+        },
+        {
+          "text": "La jornada de ocho horas",
+          "isCorrect": false,
+          "rationale": "La jornada es una condici\u00f3n de trabajo, pero no el factor determinante que define la naturaleza jur\u00eddica del v\u00ednculo."
+        }
+      ],
+      "hint": "Considere el concepto que otorga al empleador la facultad de dirigir y sancionar al trabajador."
+    },
+    {
+      "question": "\u00bfQu\u00e9 principio permite validar una relaci\u00f3n laboral real sobre lo que indica un contrato formal si se presentan los elementos de la prestaci\u00f3n personal, remuneraci\u00f3n y subordinaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Principio de inmediatez",
+          "isCorrect": false,
+          "rationale": "Este principio se refiere al tiempo que tiene el empleador para sancionar una falta, no a la naturaleza del contrato."
+        },
+        {
+          "text": "Principio de primac\u00eda de la realidad",
+          "isCorrect": true,
+          "rationale": "Este vector de verdad prioriza los hechos constatados en la pr\u00e1ctica sobre los documentos o nombres que se le den a los contratos."
+        },
+        {
+          "text": "Principio de tipicidad",
+          "isCorrect": false,
+          "rationale": "La tipicidad exige que las faltas est\u00e9n escritas previamente en la norma, sin relaci\u00f3n con la validaci\u00f3n de la existencia del v\u00ednculo."
+        },
+        {
+          "text": "Principio de causalidad",
+          "isCorrect": false,
+          "rationale": "La causalidad se enfoca en que la extinci\u00f3n del v\u00ednculo laboral debe estar anclada en una causa objetiva comprobable."
+        }
+      ],
+      "hint": "Piense en el principio que act\u00faa como un vector de verdad frente a las formas jur\u00eddicas."
+    },
+    {
+      "question": "Para que un despido por rendimiento deficiente sea v\u00e1lido, \u00bfqu\u00e9 criterio debe aplicar el empleador?",
+      "answerOptions": [
+        {
+          "text": "Evaluaci\u00f3n subjetiva del jefe inmediato",
+          "isCorrect": false,
+          "rationale": "Las decisiones basadas en la percepci\u00f3n personal del jefe carecen de la objetividad requerida para validar un despido."
+        },
+        {
+          "text": "Uso de muestras en periodos at\u00edpicos de alta demanda",
+          "isCorrect": false,
+          "rationale": "Medir el desempe\u00f1o solo en momentos extraordinarios invalida la causa por no reflejar la capacidad real en condiciones normales."
+        },
+        {
+          "text": "Comparaci\u00f3n objetiva con el promedio de compa\u00f1eros en condiciones id\u00e9nticas",
+          "isCorrect": true,
+          "rationale": "La normativa exige demostrar el bajo rendimiento mediante un m\u00e9todo comparativo riguroso y equitativo con otros trabajadores."
+        },
+        {
+          "text": "Verificaci\u00f3n exclusiva de tardanzas y faltas",
+          "isCorrect": false,
+          "rationale": "La asistencia se relaciona con la conducta, mientras que el rendimiento deficiente es una causa ligada a la capacidad laboral."
+        }
+      ],
+      "hint": "Se requiere un m\u00e9todo que evite la arbitrariedad mediante el contraste de resultados."
+    },
+    {
+      "question": "\u00bfQui\u00e9n tiene la carga de la prueba cuando se alega el despido de un trabajador por detrimento de sus facultades f\u00edsicas o mentales?",
+      "answerOptions": [
+        {
+          "text": "El trabajador afectado",
+          "isCorrect": false,
+          "rationale": "Aunque el trabajador es el afectado, no le corresponde a \u00e9l probar su propia incapacidad para evitar el despido."
+        },
+        {
+          "text": "La autoridad sanitaria",
+          "isCorrect": false,
+          "rationale": "La autoridad sanitaria emite el certificado, pero no es la responsable de presentar las pruebas en un proceso de despido."
+        },
+        {
+          "text": "El sindicato de la empresa",
+          "isCorrect": false,
+          "rationale": "El sindicato puede asesorar, pero legalmente la responsabilidad probatoria no recae sobre esta organizaci\u00f3n."
+        },
+        {
+          "text": "El empleador",
+          "isCorrect": true,
+          "rationale": "La empresa debe certificar obligatoriamente la p\u00e9rdida de aptitudes mediante una autoridad sanitaria competente como el MINSA o Essalud."
+        }
+      ],
+      "hint": "Identifique a la parte que toma la decisi\u00f3n de cese y debe justificarla legalmente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede legalmente si un empleador deja pasar un tiempo excesivo antes de sancionar a un trabajador tras conocer la comisi\u00f3n de una falta grave?",
+      "answerOptions": [
+        {
+          "text": "Se aplica el perd\u00f3n t\u00e1cito por el principio de inmediatez",
+          "isCorrect": true,
+          "rationale": "El silencio o la inacci\u00f3n prolongada del empleador se interpreta legalmente como una condonaci\u00f3n de la infracci\u00f3n cometida."
+        },
+        {
+          "text": "La falta se convierte autom\u00e1ticamente en leve",
+          "isCorrect": false,
+          "rationale": "La gravedad de la falta no cambia por el paso del tiempo, lo que cambia es la facultad legal del empleador para sancionarla."
+        },
+        {
+          "text": "Se duplica el plazo para presentar descargos",
+          "isCorrect": false,
+          "rationale": "Los plazos de descargo son fijos y no dependen de la demora previa del empleador en iniciar el proceso."
+        },
+        {
+          "text": "El trabajador es repuesto inmediatamente",
+          "isCorrect": false,
+          "rationale": "La reposici\u00f3n es una consecuencia de un despido nulo o incausado, no una medida autom\u00e1tica por demora en la sanci\u00f3n."
+        }
+      ],
+      "hint": "Piense en la consecuencia de no actuar de manera oportuna tras el conocimiento de la falta."
+    },
+    {
+      "question": "En el marco del procedimiento disciplinario, \u00bfcu\u00e1ntos d\u00edas naturales tiene un trabajador para presentar sus descargos por una falta relacionada a su conducta?",
+      "answerOptions": [
+        {
+          "text": "30 d\u00edas naturales",
+          "isCorrect": false,
+          "rationale": "Este plazo extenso est\u00e1 reservado exclusivamente para los casos relacionados con la capacidad del trabajador, no por conducta."
+        },
+        {
+          "text": "6 d\u00edas naturales",
+          "isCorrect": true,
+          "rationale": "La ley establece este plazo espec\u00edfico para que el colaborador ejerza su derecho de defensa ante imputaciones de faltas graves."
+        },
+        {
+          "text": "15 d\u00edas h\u00e1biles",
+          "isCorrect": false,
+          "rationale": "La normativa laboral para descargos de conducta se mide en d\u00edas naturales y el n\u00famero es menor a quince."
+        },
+        {
+          "text": "48 horas",
+          "isCorrect": false,
+          "rationale": "El plazo de 48 horas corresponde a la entrega de documentos tras el cese, no al tiempo para la defensa."
+        }
+      ],
+      "hint": "Es un plazo de menos de una semana que se cuenta de corrido."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el plazo m\u00e1ximo para que un empleador entregue la liquidaci\u00f3n de beneficios sociales y el certificado de trabajo tras la extinci\u00f3n del v\u00ednculo laboral?",
+      "answerOptions": [
+        {
+          "text": "24 horas",
+          "isCorrect": false,
+          "rationale": "Aunque es ideal, la ley otorga un margen ligeramente m\u00e1s amplio para cumplir con estas obligaciones administrativas."
+        },
+        {
+          "text": "30 d\u00edas h\u00e1biles",
+          "isCorrect": false,
+          "rationale": "Este es el plazo para impugnar un despido judicialmente, no para el pago de los beneficios sociales."
+        },
+        {
+          "text": "48 horas",
+          "isCorrect": true,
+          "rationale": "El incumplimiento de este plazo genera contingencias ante inspecciones y bloquea el acceso del trabajador a sus fondos de CTS."
+        },
+        {
+          "text": "7 d\u00edas naturales",
+          "isCorrect": false,
+          "rationale": "Esperar una semana supera el l\u00edmite legal estricto, lo cual podr\u00eda derivar en multas por parte de la autoridad laboral."
+        }
+      ],
+      "hint": "Se trata de un periodo de dos d\u00edas posteriores al cese."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se calcula la indemnizaci\u00f3n por un despido arbitrario en el r\u00e9gimen laboral general?",
+      "answerOptions": [
+        {
+          "text": "$1$ remuneraci\u00f3n por cada a\u00f1o de servicios",
+          "isCorrect": false,
+          "rationale": "Este c\u00e1lculo subestima el monto establecido por ley, el cual incluye una fracci\u00f3n adicional de media remuneraci\u00f3n."
+        },
+        {
+          "text": "$1.5$ remuneraciones por cada a\u00f1o, con un tope de 12 remuneraciones",
+          "isCorrect": true,
+          "rationale": "Esta es la f\u00f3rmula legal para compensar el da\u00f1o por un despido sin causa probada, protegiendo tambi\u00e9n la viabilidad de la empresa."
+        },
+        {
+          "text": "6 remuneraciones fijas sin importar la antig\u00fcedad",
+          "isCorrect": false,
+          "rationale": "La indemnizaci\u00f3n es proporcional al tiempo de servicio prestado, no es un monto fijo e igual para todos."
+        },
+        {
+          "text": "$3$ remuneraciones por cada a\u00f1o sin l\u00edmite m\u00e1ximo",
+          "isCorrect": false,
+          "rationale": "La ley establece un l\u00edmite o tope m\u00e1ximo de 12 remuneraciones para evitar sanciones financieras desproporcionadas."
+        }
+      ],
+      "hint": "La f\u00f3rmula incluye una remuneraci\u00f3n y media por periodo anual trabajado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre con el derecho a solicitar la reposici\u00f3n si un trabajador decide cobrar el cheque de la indemnizaci\u00f3n por despido arbitrario?",
+      "answerOptions": [
+        {
+          "text": "Se mantiene intacto hasta que termine el juicio",
+          "isCorrect": false,
+          "rationale": "El cobro de la indemnizaci\u00f3n tiene efectos jur\u00eddicos inmediatos que impiden la continuaci\u00f3n de la pretensi\u00f3n de reposici\u00f3n."
+        },
+        {
+          "text": "El derecho a la reposici\u00f3n se extingue de forma irrevocable",
+          "isCorrect": true,
+          "rationale": "Legalmente, al aceptar y retirar los fondos, el trabajador valida el cese en t\u00e9rminos econ\u00f3micos y acepta la tutela resarcitoria."
+        },
+        {
+          "text": "La empresa debe pagar una multa adicional a la Sunafil",
+          "isCorrect": false,
+          "rationale": "El cobro de la indemnizaci\u00f3n es un acto voluntario del trabajador que cierra el conflicto, no genera una infracci\u00f3n administrativa."
+        },
+        {
+          "text": "Se reduce el monto de la liquidaci\u00f3n final",
+          "isCorrect": false,
+          "rationale": "La liquidaci\u00f3n de beneficios es independiente de la indemnizaci\u00f3n; el cobro de una no afecta el c\u00e1lculo de la otra."
+        }
+      ],
+      "hint": "Considere el concepto de 'punto de no retorno' al aceptar la compensaci\u00f3n econ\u00f3mica."
+    },
+    {
+      "question": "\u00bfBajo qu\u00e9 circunstancia excepcional la ley permite omitir el preaviso de 6 d\u00edas y proceder al despido inmediato?",
+      "answerOptions": [
+        {
+          "text": "Bajo rendimiento comprobado",
+          "isCorrect": false,
+          "rationale": "El rendimiento deficiente requiere un proceso de 30 d\u00edas para permitir que el trabajador corrija sus deficiencias."
+        },
+        {
+          "text": "Cuando el trabajador se niega a firmar la carta",
+          "isCorrect": false,
+          "rationale": "La negativa a recibir la carta no elimina el derecho al debido proceso ni al plazo de defensa legal."
+        },
+        {
+          "text": "Casos de flagrancia absoluta con acta policial o autoridad administrativa",
+          "isCorrect": true,
+          "rationale": "Si el trabajador es descubierto en el acto cometiendo una falta monumental, se puede omitir el preaviso si hay respaldo oficial externo."
+        },
+        {
+          "text": "Si el trabajador tiene menos de tres meses en la empresa",
+          "isCorrect": false,
+          "rationale": "El periodo de prueba es un concepto distinto; la omisi\u00f3n del preaviso por falta grave requiere flagrancia probada."
+        }
+      ],
+      "hint": "Piense en situaciones donde se descubre al infractor 'con las manos en la masa'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el monto fijo establecido para la asignaci\u00f3n familiar y en qu\u00e9 indicador se basa?",
+      "answerOptions": [
+        {
+          "text": "$102.50$ soles, equivalente al $10\\%$ de la remuneraci\u00f3n m\u00ednima vital",
+          "isCorrect": true,
+          "rationale": "Este beneficio es un monto estandarizado que se actualiza autom\u00e1ticamente cuando var\u00eda el sueldo m\u00ednimo legal."
+        },
+        {
+          "text": "$50.00$ soles fijos por cada hijo menor de edad",
+          "isCorrect": false,
+          "rationale": "La asignaci\u00f3n familiar no se multiplica por la cantidad de hijos; es un monto \u00fanico por carga familiar."
+        },
+        {
+          "text": "$150.00$ soles como concepto no remunerativo",
+          "isCorrect": false,
+          "rationale": "La asignaci\u00f3n familiar tiene car\u00e1cter remunerativo y su monto depende del sueldo m\u00ednimo vigente."
+        },
+        {
+          "text": "$10\\%$ del sueldo b\u00e1sico del trabajador",
+          "isCorrect": false,
+          "rationale": "No se calcula sobre el sueldo individual del trabajador, sino sobre la Remuneraci\u00f3n M\u00ednima Vital ($RMV$)."
+        }
+      ],
+      "hint": "Relacione el porcentaje con el sueldo m\u00ednimo actual de $1,025$ soles."
+    },
+    {
+      "question": "\u00bfQu\u00e9 plazo tiene el empleador para demandar por da\u00f1os y perjuicios y retener legalmente la CTS de un trabajador despedido por falta grave?",
+      "answerOptions": [
+        {
+          "text": "48 horas despu\u00e9s del despido",
+          "isCorrect": false,
+          "rationale": "Este plazo es para pagar la liquidaci\u00f3n, no para iniciar una demanda judicial por da\u00f1os y perjuicios."
+        },
+        {
+          "text": "15 d\u00edas calendario",
+          "isCorrect": false,
+          "rationale": "Quince d\u00edas es el plazo para actualizar datos en el T-registro, pero es insuficiente para el proceso de retenci\u00f3n de CTS."
+        },
+        {
+          "text": "30 d\u00edas tras el cese",
+          "isCorrect": true,
+          "rationale": "Si la empresa no interpone la demanda en este periodo perentorio, la oportunidad de retener los fondos del trabajador se pierde."
+        },
+        {
+          "text": "6 meses seg\u00fan el c\u00f3digo civil",
+          "isCorrect": false,
+          "rationale": "En materia laboral, el plazo para retener la CTS tras un despido por falta grave es mucho m\u00e1s corto para proteger al trabajador."
+        }
+      ],
+      "hint": "Es el mismo n\u00famero de d\u00edas que tiene el trabajador para impugnar un despido."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje de las utilidades deben repartir las empresas dedicadas a la miner\u00eda, comercio y restaurantes?",
+      "answerOptions": [
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje corresponde a los sectores de pesca, comunicaciones e industria, no a miner\u00eda o comercio."
+        },
+        {
+          "text": "$8\\%$",
+          "isCorrect": true,
+          "rationale": "La ley establece este porcentaje espec\u00edfico para estas actividades econ\u00f3micas bas\u00e1ndose en su renta neta."
+        },
+        {
+          "text": "$5\\%$",
+          "isCorrect": false,
+          "rationale": "El $5\\%$ es el porcentaje residual aplicado a 'otras actividades' que no tienen una tasa mayor asignada."
+        },
+        {
+          "text": "$15\\%$",
+          "isCorrect": false,
+          "rationale": "No existe un sector que tenga la obligaci\u00f3n de repartir un porcentaje tan elevado de sus utilidades por ley."
+        }
+      ],
+      "hint": "Es un porcentaje intermedio entre el m\u00e1ximo de $10\\%$ y el m\u00ednimo de $5\\%$."
+    },
+    {
+      "question": "Durante un descanso m\u00e9dico por incapacidad, \u00bfqui\u00e9n asume el costo de los primeros 20 d\u00edas en el a\u00f1o?",
+      "answerOptions": [
+        {
+          "text": "Essalud",
+          "isCorrect": false,
+          "rationale": "Essalud solo asume la carga financiera mediante el subsidio a partir del d\u00eda 21 de incapacidad."
+        },
+        {
+          "text": "El Ministerio de Trabajo",
+          "isCorrect": false,
+          "rationale": "El Ministerio no financia subsidios por incapacidad temporal de los trabajadores del sector privado."
+        },
+        {
+          "text": "El empleador",
+          "isCorrect": true,
+          "rationale": "La ley obliga a la empresa a pagar la remuneraci\u00f3n completa durante los primeros 20 d\u00edas de incapacidad anual del colaborador."
+        },
+        {
+          "text": "Se descuentan de las vacaciones del trabajador",
+          "isCorrect": false,
+          "rationale": "El descanso m\u00e9dico es un derecho protegido y no puede compensarse ni descontarse del periodo vacacional."
+        }
+      ],
+      "hint": "El costo inicial de la contingencia de salud recae directamente en la organizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfBajo qu\u00e9 condici\u00f3n un beneficio de movilidad puede ser considerado una remuneraci\u00f3n encubierta por la autoridad laboral?",
+      "answerOptions": [
+        {
+          "text": "Si se paga mediante dep\u00f3sito bancario",
+          "isCorrect": false,
+          "rationale": "El medio de pago no determina la naturaleza del beneficio, sino la justificaci\u00f3n del monto otorgado."
+        },
+        {
+          "text": "Si el monto supera la razonabilidad objetiva para el traslado diario",
+          "isCorrect": true,
+          "rationale": "Si la cifra es desproporcionada, pierde su escudo no remunerativo y se recalcula como base para todos los beneficios de ley."
+        },
+        {
+          "text": "Si no se entrega un vale f\u00edsico de transporte",
+          "isCorrect": false,
+          "rationale": "La falta de un comprobante f\u00edsico no es la raz\u00f3n principal de recalificaci\u00f3n, sino el exceso en el monto monetario."
+        },
+        {
+          "text": "Si se otorga a trabajadores que viven cerca de la empresa",
+          "isCorrect": false,
+          "rationale": "Vivir cerca no proh\u00edbe el beneficio, pero la falta de razonabilidad en el monto frente a la necesidad es lo que genera el riesgo."
+        }
+      ],
+      "hint": "Piense en el equilibrio entre el gasto real de pasajes y el monto entregado."
+    },
+    {
+      "question": "En la gesti\u00f3n de la planilla electr\u00f3nica, \u00bfcu\u00e1l es el plazo para registrar el alta de un nuevo trabajador en el T-registro?",
+      "answerOptions": [
+        {
+          "text": "Dentro de los primeros 15 d\u00edas del mes",
+          "isCorrect": false,
+          "rationale": "Este plazo es para modificaciones de datos, no para el inicio de la relaci\u00f3n laboral."
+        },
+        {
+          "text": "Al finalizar el periodo de prueba",
+          "isCorrect": false,
+          "rationale": "El registro debe ser inmediato desde el primer d\u00eda, independientemente de si existe un periodo de prueba."
+        },
+        {
+          "text": "Dentro del primer d\u00eda de prestaci\u00f3n de servicios",
+          "isCorrect": true,
+          "rationale": "La norma exige que el colaborador est\u00e9 debidamente registrado desde el momento en que inicia sus labores para evitar multas."
+        },
+        {
+          "text": "Al momento de emitir la primera boleta de pago",
+          "isCorrect": false,
+          "rationale": "Esperar al pago de la primera boleta implicar\u00eda tener al trabajador en la informalidad durante sus primeros d\u00edas de labor."
+        }
+      ],
+      "hint": "Es una obligaci\u00f3n cronol\u00f3gica que debe cumplirse el mismo d\u00eda del ingreso."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el usuario y contrase\u00f1a por defecto para configurar el entorno Plame en el formulario virtual 601 antes de contar con clave SOL?",
+      "answerOptions": [
+        {
+          "text": "sunat / sunat",
+          "isCorrect": false,
+          "rationale": "Aunque es intuitivo, el sistema utiliza un t\u00e9rmino t\u00e9cnico diferente para las configuraciones iniciales de administrador."
+        },
+        {
+          "text": "admin / 1234",
+          "isCorrect": false,
+          "rationale": "Esta es una combinaci\u00f3n com\u00fan en otros sistemas, pero no es la programada por defecto en el software de la SUNAT."
+        },
+        {
+          "text": "admins / admins",
+          "isCorrect": true,
+          "rationale": "Esta palabra clave en min\u00fasculas es el comod\u00edn t\u00e9cnico necesario para las pruebas iniciales de configuraci\u00f3n en el PDT."
+        },
+        {
+          "text": "user / password",
+          "isCorrect": false,
+          "rationale": "Estos t\u00e9rminos gen\u00e9ricos en ingl\u00e9s no son aceptados por la plataforma tributaria para el acceso administrativo."
+        }
+      ],
+      "hint": "Es el plural de la palabra 'admin' en ingl\u00e9s."
+    },
+    {
+      "question": "\u00bfQu\u00e9 reporte del sistema Plame es el encargado de detallar los ingresos, tributos y aportes de forma minuciosa?",
+      "answerOptions": [
+        {
+          "text": "Reporte R1",
+          "isCorrect": true,
+          "rationale": "Se le considera el documento maestro porque permite observar con lupa toda la estructura de pagos y retenciones."
+        },
+        {
+          "text": "Reporte R6",
+          "isCorrect": false,
+          "rationale": "El R6 se enfoca espec\u00edficamente en el control de la jornada laboral y el pago de horas extras."
+        },
+        {
+          "text": "Reporte R9",
+          "isCorrect": false,
+          "rationale": "El R9 ofrece una visi\u00f3n consolidada de la deuda tributaria final, no el detalle individual exhaustivo."
+        },
+        {
+          "text": "Reporte R4",
+          "isCorrect": false,
+          "rationale": "El R4 y R5 se utilizan principalmente para desglosar obligaciones y aportes patronales frente a retenciones."
+        }
+      ],
+      "hint": "Es el primer reporte de la lista, considerado el documento maestro."
+    },
+    {
+      "question": "\u00bfC\u00f3mo deben registrarse correctamente las retenciones judiciales por pensiones alimenticias en la planilla electr\u00f3nica?",
+      "answerOptions": [
+        {
+          "text": "Como un ingreso para el beneficiario en su boleta propia",
+          "isCorrect": false,
+          "rationale": "Nunca debe figurar como ingreso; esto distorsionar\u00eda la naturaleza de la retenci\u00f3n y la contabilidad del empleador."
+        },
+        {
+          "text": "Como un descuento directo en la boleta del trabajador deudor",
+          "isCorrect": true,
+          "rationale": "El empleador act\u00faa como agente retenedor, descontando el monto del sueldo del obligado para depositarlo en la cuenta judicial."
+        },
+        {
+          "text": "Como una bonificaci\u00f3n extraordinaria no remunerativa",
+          "isCorrect": false,
+          "rationale": "Las retenciones judiciales no son bonificaciones, sino mandatos legales de descuento obligatorio."
+        },
+        {
+          "text": "Como un gasto de representaci\u00f3n de la empresa",
+          "isCorrect": false,
+          "rationale": "Registrarlo como gasto propio de la empresa ser\u00eda un error contable grave, ya que el dinero proviene del sueldo del trabajador."
+        }
+      ],
+      "hint": "El empleador act\u00faa quitando una parte del sueldo para cumplir un mandato judicial."
+    },
+    {
+      "question": "\u00bfQu\u00e9 principio garantiza que nadie pueda ser despedido por incumplir una regla que no est\u00e9 escrita previamente en la ley o en el reglamento interno?",
+      "answerOptions": [
+        {
+          "text": "Principio de presunci\u00f3n de inocencia",
+          "isCorrect": false,
+          "rationale": "Este principio se enfoca en que nadie es culpable hasta que se pruebe lo contrario, no en la existencia de la regla escrita."
+        },
+        {
+          "text": "Principio de razonabilidad",
+          "isCorrect": false,
+          "rationale": "La razonabilidad busca que la sanci\u00f3n sea proporcional a la falta, pero no se ocupa de la legalidad previa de la norma."
+        },
+        {
+          "text": "Principio de tipicidad",
+          "isCorrect": true,
+          "rationale": "Exige que la conducta prohibida sea clara y est\u00e9 descrita formalmente para que pueda ser sancionada v\u00e1lidamente."
+        },
+        {
+          "text": "Principio de inmediatez",
+          "isCorrect": false,
+          "rationale": "La inmediatez regula la oportunidad temporal de la sanci\u00f3n, no la definici\u00f3n previa de la conducta infractora."
+        }
+      ],
+      "hint": "Busque el t\u00e9rmino que se refiere a la necesidad de que la falta est\u00e9 expresamente 'tipificada'."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Extinci\u00f3n del v\u00ednculo laboral",
+      "R\u00e9gimen disciplinario y debido proceso",
+      "Indemnizaciones y beneficios sociales",
+      "Gesti\u00f3n de planilla electr\u00f3nica (T-registro y Plame)"
+    ],
+    "followUp": [
+      "Jurisprudencia sobre despidos fraudulentos e incausados",
+      "C\u00e1lculo avanzado de CTS y Gratificaciones",
+      "Auditor\u00eda laboral y fiscalizaci\u00f3n de Sunafil",
+      "Reglamento Interno de Trabajo (RIT) y tipificaci\u00f3n de faltas"
+    ]
+  }
+}

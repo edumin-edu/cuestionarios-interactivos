@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1les son los tres pilares fundamentales que sostienen el estado \u00f3ptimo de un entorno intervenido tras el cierre de minas?",
+      "answerOptions": [
+        {
+          "text": "Estabilidad f\u00edsica, qu\u00edmica e hidrol\u00f3gica.",
+          "isCorrect": true,
+          "rationale": "Estos tres componentes garantizan que el sitio no genere riesgos para la salud p\u00fablica, la seguridad o los ecosistemas a perpetuidad."
+        },
+        {
+          "text": "Estabilidad financiera, operativa y legal.",
+          "isCorrect": false,
+          "rationale": "Aunque estos aspectos son importantes para la viabilidad del proyecto, no son los pilares t\u00e9cnicos de la rehabilitaci\u00f3n del entorno natural."
+        },
+        {
+          "text": "Estabilidad geol\u00f3gica, atmosf\u00e9rica y biol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "Estos t\u00e9rminos no representan la tr\u00edada t\u00e9cnica est\u00e1ndar utilizada para definir la seguridad integral en el cierre minero."
+        },
+        {
+          "text": "Estabilidad estructural, t\u00e9rmica y mineral\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "La estabilidad t\u00e9rmica y mineral\u00f3gica no son categor\u00edas principales dentro del marco de rehabilitaci\u00f3n ambiental sist\u00e9mica."
+        }
+      ],
+      "hint": "Considere las dimensiones t\u00e9cnica, qu\u00edmica y del ciclo del agua que deben protegerse para siempre."
+    },
+    {
+      "question": "De acuerdo con la cronolog\u00eda normativa en Per\u00fa, \u00bfcu\u00e1l fue el prop\u00f3sito fundamental de la Ley 2890 de 2003?",
+      "answerOptions": [
+        {
+          "text": "Establecer garant\u00edas financieras para la exploraci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La obligatoriedad de planificar desde la exploraci\u00f3n se introdujo posteriormente con el Decreto Supremo 033 de 2005."
+        },
+        {
+          "text": "Evitar el abandono de operaciones y frenar la generaci\u00f3n de nuevos pasivos ambientales.",
+          "isCorrect": true,
+          "rationale": "Esta ley sent\u00f3 las bases legales para asegurar que las empresas se hicieran responsables de sus \u00e1reas operativas al finalizar su vida \u00fatil."
+        },
+        {
+          "text": "Introducir el informe de cumplimiento del OEFA como requisito vinculante.",
+          "isCorrect": false,
+          "rationale": "Esta es una innovaci\u00f3n reciente introducida por el Decreto Supremo 06 de 2023."
+        },
+        {
+          "text": "Regular el uso de cianuro en los procesos de lixiviaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La regulaci\u00f3n del cianuro es un aspecto t\u00e9cnico de ingenier\u00eda y no fue el objetivo central de la Ley 2890."
+        }
+      ],
+      "hint": "Piense en la primera norma que busc\u00f3 detener el crecimiento de minas abandonadas sin control."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia fundamental existe entre un Plan de Cierre de Minas (PCM) y el cierre de Pasivos Ambientales Mineros (PAM)?",
+      "answerOptions": [
+        {
+          "text": "El PCM es correctivo mientras que el PAM es preventivo.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; el PCM busca evitar da\u00f1os futuros y el PAM busca mitigar da\u00f1os ya existentes de la miner\u00eda antigua."
+        },
+        {
+          "text": "El PCM es responsabilidad del Estado y el PAM del titular minero vigente.",
+          "isCorrect": false,
+          "rationale": "Generalmente, el titular minero es responsable del PCM, mientras que el Estado suele asumir el PAM a trav\u00e9s de Activos Mineros SAC."
+        },
+        {
+          "text": "El PCM es 100% preventivo para miner\u00eda actual/futura, mientras que el PAM es correctivo para miner\u00eda del pasado.",
+          "isCorrect": true,
+          "rationale": "Esta distinci\u00f3n separa las obligaciones de las operaciones vigentes de los riesgos heredados de instalaciones abandonadas."
+        },
+        {
+          "text": "No existe diferencia legal, ambos t\u00e9rminos se utilizan de manera intercambiable.",
+          "isCorrect": false,
+          "rationale": "La normativa distingue claramente entre ambos bas\u00e1ndose en el origen de la operaci\u00f3n y el responsable legal."
+        }
+      ],
+      "hint": "Reflexione sobre si la actividad minera en cuesti\u00f3n est\u00e1 operando hoy o si fue abandonada hace d\u00e9cadas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite normativo m\u00e1ximo permitido para un escenario de cierre temporal de operaciones?",
+      "answerOptions": [
+        {
+          "text": "1 a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Un periodo de un a\u00f1o es demasiado corto para resolver complicaciones t\u00e9cnicas o econ\u00f3micas graves que motiven una pausa."
+        },
+        {
+          "text": "3 a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "La normativa establece este plazo improrrogable para evitar que los cierres temporales se conviertan en abandonos encubiertos."
+        },
+        {
+          "text": "5 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Cinco a\u00f1os es el periodo m\u00ednimo requerido para el monitoreo de post-cierre, no para una suspensi\u00f3n temporal."
+        },
+        {
+          "text": "10 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Un plazo de diez a\u00f1os no garantiza un control adecuado sobre la estabilidad de los componentes en espera."
+        }
+      ],
+      "hint": "Es un periodo de tiempo estrictamente regulado para evitar pausas indefinidas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja t\u00e9cnica ofrece la ejecuci\u00f3n del cierre progresivo durante la vida operativa de la mina?",
+      "answerOptions": [
+        {
+          "text": "Elimina la necesidad de realizar un cierre final.",
+          "isCorrect": false,
+          "rationale": "El cierre final siempre es necesario para el desmantelamiento total de las instalaciones restantes."
+        },
+        {
+          "text": "Permite validar t\u00e9cnicas de ingenier\u00eda en la pr\u00e1ctica y reducir el riesgo financiero acumulado.",
+          "isCorrect": true,
+          "rationale": "Al rehabilitar componentes que ya terminaron su vida \u00fatil, se prueba la efectividad de los dise\u00f1os antes del fin de la mina."
+        },
+        {
+          "text": "Exime al titular de presentar garant\u00edas financieras ante el Estado.",
+          "isCorrect": false,
+          "rationale": "Las garant\u00edas financieras siguen siendo obligatorias independientemente de si se realiza un cierre progresivo."
+        },
+        {
+          "text": "Reduce la cantidad de monitoreo requerido en la fase de post-cierre.",
+          "isCorrect": false,
+          "rationale": "El monitoreo de post-cierre tiene un m\u00ednimo de 5 a\u00f1os que no se reduce por haber avanzado con el cierre progresivo."
+        }
+      ],
+      "hint": "Piense en los beneficios de probar las soluciones de ingenier\u00eda mientras todav\u00eda hay personal y recursos en el sitio."
+    },
+    {
+      "question": "Tras finalizar las labores de cierre final, \u00bfcu\u00e1l es el periodo m\u00ednimo de monitoreo obligatorio exigido por la normativa?",
+      "answerOptions": [
+        {
+          "text": "2 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Dos a\u00f1os no son suficientes para demostrar emp\u00edricamente la estabilidad ambiental permanente del lugar."
+        },
+        {
+          "text": "5 a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Un lustro es el tiempo est\u00e1ndar para observar que la estabilidad se mantenga intacta bajo diferentes condiciones estacionales."
+        },
+        {
+          "text": "10 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Aunque algunas minas pueden monitorear por m\u00e1s tiempo, el m\u00ednimo legal absoluto establecido es de cinco a\u00f1os."
+        },
+        {
+          "text": "15 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Este plazo excede el requisito m\u00ednimo inicial, aunque la estabilidad debe garantizarse a perpetuidad."
+        }
+      ],
+      "hint": "Considere la duraci\u00f3n de un 'lustro' de observaci\u00f3n ininterrumpida."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el proceso qu\u00edmico necesario para la rehabilitaci\u00f3n de los pads de lixiviaci\u00f3n debido a su alta toxicidad?",
+      "answerOptions": [
+        {
+          "text": "Reducci\u00f3n de sulfatos a azufre elemental.",
+          "isCorrect": false,
+          "rationale": "La reducci\u00f3n de sulfatos no aborda el riesgo principal de los pads de lixiviaci\u00f3n de oro o plata."
+        },
+        {
+          "text": "Detoxificaci\u00f3n del cianuro mediante oxidaci\u00f3n para transformarlo en cianato.",
+          "isCorrect": true,
+          "rationale": "Este proceso es cr\u00edtico para cumplir con los l\u00edmites m\u00e1ximos permisibles y evitar la contaminaci\u00f3n de acu\u00edferos."
+        },
+        {
+          "text": "Neutralizaci\u00f3n de \u00e1cidos mediante la adici\u00f3n masiva de s\u00edlice.",
+          "isCorrect": false,
+          "rationale": "La s\u00edlice no es un agente neutralizante; t\u00edpicamente se utiliza cal o materiales carbonatados para ese fin."
+        },
+        {
+          "text": "Evaporaci\u00f3n forzada de metales pesados.",
+          "isCorrect": false,
+          "rationale": "Los metales pesados no se eliminan mediante evaporaci\u00f3n, sino mediante precipitaci\u00f3n o confinamiento."
+        }
+      ],
+      "hint": "Recuerde la reacci\u00f3n necesaria para convertir el $CN^-$ en una sustancia menos nociva como el $OCN^-$."
+    },
+    {
+      "question": "En la ingenier\u00eda de estabilidad f\u00edsica, \u00bfcu\u00e1l es la relaci\u00f3n geom\u00e9trica de taludes recomendada para asegurar la inamovilidad de la estructura?",
+      "answerOptions": [
+        {
+          "text": "$1.0$ horizontal por $1.0$ vertical.",
+          "isCorrect": false,
+          "rationale": "Una pendiente de $45^{\\circ}$ puede ser inestable dependiendo del material y las condiciones hidrol\u00f3gicas."
+        },
+        {
+          "text": "$1.5$ horizontal por $1.0$ vertical.",
+          "isCorrect": true,
+          "rationale": "Esta proporci\u00f3n geom\u00e9trica proporciona una pendiente m\u00e1s suave y segura para perfilar tajos y desmonteras."
+        },
+        {
+          "text": "$2.5$ horizontal por $1.0$ vertical.",
+          "isCorrect": false,
+          "rationale": "Aunque es muy segura, no es el est\u00e1ndar m\u00ednimo mencionado para el perfilado de componentes mineros."
+        },
+        {
+          "text": "$0.5$ horizontal por $1.0$ vertical.",
+          "isCorrect": false,
+          "rationale": "Este talud es demasiado empinado y presentar\u00eda un alto riesgo de deslizamiento en el largo plazo."
+        }
+      ],
+      "hint": "Se busca un equilibrio entre la seguridad estructural y la viabilidad del movimiento de tierras."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumplen los canales de coronaci\u00f3n dentro de la gesti\u00f3n de estabilidad hidrol\u00f3gica?",
+      "answerOptions": [
+        {
+          "text": "Recolectar lixiviados para su tratamiento qu\u00edmico.",
+          "isCorrect": false,
+          "rationale": "Los canales de coronaci\u00f3n est\u00e1n dise\u00f1ados para agua limpia, no para aguas de contacto con minerales."
+        },
+        {
+          "text": "Separar las aguas de no contacto (escorrent\u00eda natural) de las aguas de contacto.",
+          "isCorrect": true,
+          "rationale": "Evitar que el agua de lluvia toque zonas mineralizadas es clave para prevenir la generaci\u00f3n de drenaje \u00e1cido."
+        },
+        {
+          "text": "Aumentar la infiltraci\u00f3n de agua hacia el dep\u00f3sito de relaves.",
+          "isCorrect": false,
+          "rationale": "La infiltraci\u00f3n en dep\u00f3sitos de relaves debe minimizarse para mantener la estabilidad qu\u00edmica y f\u00edsica."
+        },
+        {
+          "text": "Almacenar agua para el riego de la vegetaci\u00f3n nativa en verano.",
+          "isCorrect": false,
+          "rationale": "Su prop\u00f3sito es el desv\u00edo y drenaje seguro, no el almacenamiento para riego agr\u00edcola."
+        }
+      ],
+      "hint": "Piense en la estrategia de 'gobernar el flujo del agua' para mantenerla limpia."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los tres elementos que conforman el 'tri\u00e1ngulo de generaci\u00f3n de \u00e1cidos' en la miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Nitr\u00f3geno, suelo org\u00e1nico y luz solar.",
+          "isCorrect": false,
+          "rationale": "Estos elementos son relevantes para la revegetaci\u00f3n, pero no causan el drenaje \u00e1cido de roca."
+        },
+        {
+          "text": "Mineral sulfuroso, agua y ox\u00edgeno.",
+          "isCorrect": true,
+          "rationale": "La coincidencia de estos tres elementos en el mismo lugar y tiempo desata la reacci\u00f3n qu\u00edmica t\u00f3xica conocida como DAR."
+        },
+        {
+          "text": "Los carbonatos generalmente ayudan a neutralizar la acidez, no a generarla.",
+          "isCorrect": false,
+          "rationale": "Los carbonatos generalmente ayudan a neutralizar la acidez, no a generarla."
+        },
+        {
+          "text": "Cianuro, mercurio y ars\u00e9nico.",
+          "isCorrect": false,
+          "rationale": "Estos son contaminantes potenciales, pero no los componentes b\u00e1sicos que inician la generaci\u00f3n de \u00e1cido por oxidaci\u00f3n de sulfuros."
+        }
+      ],
+      "hint": "Para detener la reacci\u00f3n, los ingenieros deben 'romper' este tri\u00e1ngulo eliminando uno de sus componentes."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la estrategia principal para mitigar el drenaje \u00e1cido en labores mineras subterr\u00e1neas (bocaminas)?",
+      "answerOptions": [
+        {
+          "text": "Instalar coberturas tipo 1 en las paredes internas.",
+          "isCorrect": false,
+          "rationale": "Las coberturas multicapa est\u00e1n dise\u00f1adas para superficies extensas, no para el interior de galer\u00edas subterr\u00e1neas."
+        },
+        {
+          "text": "Quitar el ox\u00edgeno mediante inundaci\u00f3n o sellados herm\u00e9ticos.",
+          "isCorrect": true,
+          "rationale": "Al eliminar el contacto con el aire en espacios confinados, se detiene la oxidaci\u00f3n de los minerales sulfurosos."
+        },
+        {
+          "text": "Aumentar la ventilaci\u00f3n para secar el mineral.",
+          "isCorrect": false,
+          "rationale": "Aumentar la ventilaci\u00f3n introducir\u00eda m\u00e1s ox\u00edgeno, lo que podr\u00eda acelerar la reacci\u00f3n si hay humedad presente."
+        },
+        {
+          "text": "Aplicar capas de cal en toda la longitud de los t\u00faneles.",
+          "isCorrect": false,
+          "rationale": "Aunque la cal neutraliza, la inundaci\u00f3n es una soluci\u00f3n m\u00e1s definitiva para eliminar el componente 'ox\u00edgeno' del tri\u00e1ngulo."
+        }
+      ],
+      "hint": "En un espacio cerrado, es m\u00e1s factible eliminar el aire o saturar el ambiente con agua estancada."
+    },
+    {
+      "question": "Si un an\u00e1lisis geoqu\u00edmico arroja un Potencial Neto de Neutralizaci\u00f3n ($PNN$) menor a $-20$, \u00bfqu\u00e9 indica esto sobre el material?",
+      "answerOptions": [
+        {
+          "text": "Que el material es seguro y no requiere coberturas complejas.",
+          "isCorrect": false,
+          "rationale": "Un valor de $PNN > 20$ es el que indica seguridad; los valores negativos indican peligrosidad."
+        },
+        {
+          "text": "Que el material es altamente generador de \u00e1cido.",
+          "isCorrect": true,
+          "rationale": "Un balance negativo significativo significa que no hay suficiente capacidad de neutralizaci\u00f3n para contrarrestar la acidez potencial."
+        },
+        {
+          "text": "Que el material tiene un exceso de carbonatos neutralizantes.",
+          "isCorrect": false,
+          "rationale": "El exceso de carbonatos se reflejar\u00eda en un $PNN$ positivo y elevado."
+        },
+        {
+          "text": "Que el material es inerte y solo requiere revegetaci\u00f3n directa.",
+          "isCorrect": false,
+          "rationale": "El material generador de \u00e1cido requiere coberturas especializadas para evitar desastres ecol\u00f3gicos."
+        }
+      ],
+      "hint": "Preste atenci\u00f3n al signo negativo y a la magnitud del valor en el balance geoqu\u00edmico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica especial define a la cobertura Tipo 3 utilizada en el cierre de minas?",
+      "answerOptions": [
+        {
+          "text": "Es una cobertura simple de suelo org\u00e1nico.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde a la cobertura Tipo 2, que es la m\u00e1s amigable y directa."
+        },
+        {
+          "text": "Incorpora una barrera qu\u00edmica de cal para neutralizar el ascenso por capilaridad.",
+          "isCorrect": true,
+          "rationale": "Esta genialidad de ingenier\u00eda evita que el agua \u00e1cida del subsuelo suba hacia las ra\u00edces de la vegetaci\u00f3n superficial."
+        },
+        {
+          "text": "Es una armadura pesada compuesta \u00fanicamente por rocas de gran tama\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Las coberturas mineras suelen ser sistemas multicapa que incluyen materiales finos e impermeables."
+        },
+        {
+          "text": "Utiliza exclusivamente geomembranas expuestas al sol.",
+          "isCorrect": false,
+          "rationale": "Dejar geomembranas expuestas es un error cr\u00edtico debido a la fragilizaci\u00f3n por radiaci\u00f3n UV."
+        }
+      ],
+      "hint": "Piense en una soluci\u00f3n para el agua que no cae del cielo, sino que 'sube' desde el subsuelo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 efecto f\u00edsico produce la radiaci\u00f3n ultravioleta en las geomembranas si quedan expuestas directamente al sol?",
+      "answerOptions": [
+        {
+          "text": "Aumenta su elasticidad y capacidad de sellado.",
+          "isCorrect": false,
+          "rationale": "La radiaci\u00f3n solar deteriora las propiedades mec\u00e1nicas de los pol\u00edmeros en lugar de mejorarlas."
+        },
+        {
+          "text": "Provoca la fragilizaci\u00f3n del pol\u00edmero, volvi\u00e9ndolo quebradizo y agrietado.",
+          "isCorrect": true,
+          "rationale": "Este da\u00f1o molecular destruye la barrera de impermeabilizaci\u00f3n, permitiendo infiltraciones de agua que generan \u00e1cidos."
+        },
+        {
+          "text": "Genera una capa protectora de oxidaci\u00f3n beneficiosa.",
+          "isCorrect": false,
+          "rationale": "La oxidaci\u00f3n en pl\u00e1sticos no es protectora, sino que marca el inicio de su degradaci\u00f3n estructural."
+        },
+        {
+          "text": "No produce ning\u00fan efecto, ya que las geomembranas son inmunes a la radiaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Incluso los pl\u00e1sticos de alta tecnolog\u00eda sufren degradaci\u00f3n si no est\u00e1n protegidos o fabricados con aditivos espec\u00edficos."
+        }
+      ],
+      "hint": "Considere lo que le sucede a un material pl\u00e1stico cuando se 'tuesta' por el sol excesivo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la divisi\u00f3n de responsabilidades entre Osinergmin y OEFA durante la fiscalizaci\u00f3n del cierre de minas?",
+      "answerOptions": [
+        {
+          "text": "Osinergmin audita el aspecto social y OEFA el aspecto financiero.",
+          "isCorrect": false,
+          "rationale": "Osinergmin se enfoca en la ingenier\u00eda f\u00edsica, mientras que el aspecto social recae principalmente en OEFA."
+        },
+        {
+          "text": "Osinergmin verifica la estabilidad f\u00edsica; OEFA garantiza la estabilidad qu\u00edmica, biol\u00f3gica y social.",
+          "isCorrect": true,
+          "rationale": "Esta bicefal\u00eda asegura que tanto la estructura de tierra/roca como el entorno ambiental y humano sean validados."
+        },
+        {
+          "text": "OEFA es el \u00fanico organismo encargado de todas las auditor\u00edas de cierre.",
+          "isCorrect": false,
+          "rationale": "La fiscalizaci\u00f3n es dual; Osinergmin mantiene competencias espec\u00edficas sobre la seguridad f\u00edsica de las infraestructuras."
+        },
+        {
+          "text": "Ambos organismos se encargan exclusivamente de la liberaci\u00f3n de garant\u00edas bancarias.",
+          "isCorrect": false,
+          "rationale": "La liberaci\u00f3n de garant\u00edas es la consecuencia final de sus auditor\u00edas t\u00e9cnicas en el terreno."
+        }
+      ],
+      "hint": "Piense en qui\u00e9n es el 'guardi\u00e1n de las rocas' y qui\u00e9n tiene una visi\u00f3n ambiental y social m\u00e1s amplia."
+    },
+    {
+      "question": "En el caso de la unidad Paratia, \u00bfqu\u00e9 fen\u00f3meno f\u00edsico caus\u00f3 el reventamiento del macizo rocoso tras la instalaci\u00f3n de tapones?",
+      "answerOptions": [
+        {
+          "text": "Un terremoto de gran magnitud inducido por la miner\u00eda.",
+          "isCorrect": false,
+          "rationale": "El evento fue causado por la presi\u00f3n hidr\u00e1ulica interna, no por movimientos tect\u00f3nicos externos."
+        },
+        {
+          "text": "El efecto de golpe de ariete por la acumulaci\u00f3n de agua a presi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Instalar sellos herm\u00e9ticos donde hay flujo de agua activo genera una presi\u00f3n incontrolable que busca nuevas rutas de salida."
+        },
+        {
+          "text": "La erosi\u00f3n qu\u00edmica acelerada de la roca por el uso de cal.",
+          "isCorrect": false,
+          "rationale": "La cal se usa para neutralizar y no tiene la capacidad de reventar un macizo rocoso por s\u00ed sola."
+        },
+        {
+          "text": "La expansi\u00f3n t\u00e9rmica del mineral sulfuroso.",
+          "isCorrect": false,
+          "rationale": "El problema fue hidrodin\u00e1mico y relacionado con la presi\u00f3n del fluido acumulado tras el tap\u00f3n."
+        }
+      ],
+      "hint": "Considere las consecuencias de intentar detener un flujo de agua activo con un sello herm\u00e9tico sin drenaje."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el caso Aruntani es un ejemplo cr\u00edtico sobre la importancia de la planificaci\u00f3n financiera?",
+      "answerOptions": [
+        {
+          "text": "Porque la empresa logr\u00f3 recuperar su garant\u00eda de 8 millones de d\u00f3lares.",
+          "isCorrect": false,
+          "rationale": "El Estado ejecut\u00f3 la garant\u00eda, por lo que la empresa perdi\u00f3 ese dinero debido a sus incumplimientos."
+        },
+        {
+          "text": "Porque la garant\u00eda de 8 millones fue insuficiente comparada con el costo real de remediaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Subestimar los costos en el Plan de Cierre deja al Estado con un pasivo financiero y ambiental gigantesco."
+        },
+        {
+          "text": "Porque demostr\u00f3 que no se requieren garant\u00edas para las minas de tajo abierto.",
+          "isCorrect": false,
+          "rationale": "Todas las operaciones mineras modernas est\u00e1n obligadas por ley a presentar garant\u00edas financieras."
+        },
+        {
+          "text": "Porque el cierre se realiz\u00f3 antes de lo previsto sin generar impactos.",
+          "isCorrect": false,
+          "rationale": "Aruntani es un caso emblem\u00e1tico de pasivos ambientales y problemas en la ejecuci\u00f3n del cierre."
+        }
+      ],
+      "hint": "Piense en la brecha entre el dinero reservado y el dinero que realmente se necesita para limpiar un desastre."
+    },
+    {
+      "question": "En el contexto de la estabilidad social, \u00bfcu\u00e1l es el riesgo de no gestionar adecuadamente la transici\u00f3n post-operativa?",
+      "answerOptions": [
+        {
+          "text": "El aumento de la producci\u00f3n de minerales en la regi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El cierre implica el fin de la producci\u00f3n, no su incremento."
+        },
+        {
+          "text": "La generaci\u00f3n de un vac\u00edo econ\u00f3mico que alimenta el miedo a los pasivos y desata conflictos.",
+          "isCorrect": true,
+          "rationale": "La dependencia del empleo minero directo puede dejar a la comunidad vulnerable y resentida tras la partida de la empresa."
+        },
+        {
+          "text": "La migraci\u00f3n masiva de trabajadores hacia la zona de la mina cerrada.",
+          "isCorrect": false,
+          "rationale": "T\u00edpicamente ocurre lo contrario: la gente se retira de la zona si no hay alternativas econ\u00f3micas sostenibles."
+        },
+        {
+          "text": "La mejora autom\u00e1tica de todas las actividades agr\u00edcolas locales.",
+          "isCorrect": false,
+          "rationale": "Sin proyectos productivos previos, la transici\u00f3n de miner\u00eda a agricultura puede ser dif\u00edcil y conflictiva."
+        }
+      ],
+      "hint": "Reflexione sobre el impacto emocional y financiero que siente una comunidad cuando la mina deja de ser su motor econ\u00f3mico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n t\u00e9cnica se extrae del caso de la unidad Mar T\u00fanel respecto al manejo de geomembranas?",
+      "answerOptions": [
+        {
+          "text": "Que las geomembranas no son necesarias en climas fr\u00edos.",
+          "isCorrect": false,
+          "rationale": "Las geomembranas son vitales para la impermeabilizaci\u00f3n independientemente del clima si hay riesgo qu\u00edmico."
+        },
+        {
+          "text": "Que un mal termosellado combinado con exposici\u00f3n UV destruye la integridad del sistema.",
+          "isCorrect": true,
+          "rationale": "La falla en las uniones y la degradaci\u00f3n del pl\u00e1stico permitieron que el agua lixiviara metales hacia el ambiente."
+        },
+        {
+          "text": "Que las geomembranas deben ser pegadas con pegamento convencional.",
+          "isCorrect": false,
+          "rationale": "Las geomembranas requieren procesos especializados de termosellado; el pegamento com\u00fan no garantiza hermeticidad."
+        },
+        {
+          "text": "Que el color del pl\u00e1stico es el factor m\u00e1s importante para evitar la contaminaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La calidad de la resina, el espesor y la protecci\u00f3n contra los rayos UV son mucho m\u00e1s cr\u00edticos que el color."
+        }
+      ],
+      "hint": "Recuerde los dos factores fatales que se juntaron para causar la contaminaci\u00f3n en ese sitio."
+    },
+    {
+      "question": "De acuerdo con el Decreto Supremo 06 de 2023, \u00bfcu\u00e1l es el nuevo requisito indispensable para obtener el certificado de cierre?",
+      "answerOptions": [
+        {
+          "text": "Una carta de recomendaci\u00f3n de la comunidad local.",
+          "isCorrect": false,
+          "rationale": "Aunque la estabilidad social es importante, el requisito legal espec\u00edfico mencionado es un informe t\u00e9cnico."
+        },
+        {
+          "text": "El informe de cumplimiento del OEFA con car\u00e1cter vinculante.",
+          "isCorrect": true,
+          "rationale": "Sin este informe previo que valide el cumplimiento de las obligaciones, es legalmente imposible cerrar el ciclo del proyecto."
+        },
+        {
+          "text": "La venta de todos los activos de la empresa a un tercero.",
+          "isCorrect": false,
+          "rationale": "La venta de activos no garantiza el cumplimiento de las obligaciones ambientales de cierre."
+        },
+        {
+          "text": "Un permiso especial del Ministerio de Econom\u00eda y Finanzas.",
+          "isCorrect": false,
+          "rationale": "El proceso es gestionado principalmente por las autoridades ambientales y energ\u00e9ticas (MINEM, OEFA, Osinergmin)."
+        }
+      ],
+      "hint": "Se trata de un documento emitido por el \u00e1rbitro ambiental que ahora es 'obligatorio y amarrado' al certificado final."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Marco Legal del Cierre de Minas en Per\u00fa",
+      "Estabilidad Integral (F\u00edsica, Qu\u00edmica e Hidrol\u00f3gica)",
+      "Gesti\u00f3n de Drenaje \u00c1cido de Roca (DAR)",
+      "Etapas del Ciclo de Cierre (Temporal, Progresivo, Final)",
+      "Ingenier\u00eda de Coberturas y Geomembranas",
+      "Fiscalizaci\u00f3n y Auditor\u00eda Ambiental (OEFA y Osinergmin)",
+      "Responsabilidad Social y Legado Minero"
+    ],
+    "followUp": [
+      "Procedimientos de Termosellado y Control de Calidad en Geosint\u00e9ticos",
+      "Modelamiento Hidrogeol\u00f3gico para el Control de Infiltraciones",
+      "Mecanismos de Ejecuci\u00f3n de Garant\u00edas Financieras en Incumplimientos",
+      "Proyectos de Reconversi\u00f3n Econ\u00f3mica para Comunidades Post-Miner\u00eda",
+      "Geo-qu\u00edmica de Minerales Sulfurosos y Ensayos de PNN"
+    ]
+  }
+}

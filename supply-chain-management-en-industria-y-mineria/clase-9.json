@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1les son los tres pilares que componen la tr\u00edada de presiones globales que impulsan la reestructuraci\u00f3n de la industria minera?",
+      "answerOptions": [
+        {
+          "text": "Geopol\u00edtica, transici\u00f3n energ\u00e9tica y sostenibilidad.",
+          "isCorrect": true,
+          "rationale": "Estos tres factores obligan a la industria a diversificar suministros, aumentar la eficiencia para minerales cr\u00edticos y garantizar trazabilidad \u00e9tica."
+        },
+        {
+          "text": "Fluctuaci\u00f3n de precios, leyes de mineral y costos laborales.",
+          "isCorrect": false,
+          "rationale": "Aunque son factores econ\u00f3micos importantes, se consideran presiones de mercado tradicionales y no los impulsores globales de la transformaci\u00f3n digital actual."
+        },
+        {
+          "text": "Automatizaci\u00f3n, inteligencia artificial y big data.",
+          "isCorrect": false,
+          "rationale": "Estos elementos son herramientas tecnol\u00f3gicas para responder a las presiones, pero no son las presiones externas en s\u00ed mismas."
+        },
+        {
+          "text": "Urbanizaci\u00f3n, exploraci\u00f3n profunda y demanda de metales preciosos.",
+          "isCorrect": false,
+          "rationale": "Si bien afectan a la industria, la transici\u00f3n hacia energ\u00edas limpias y los criterios ESG son los motores cr\u00edticos mencionados espec\u00edficamente."
+        }
+      ],
+      "hint": "Considere los factores externos que exigen nuevos est\u00e1ndares \u00e9ticos y el cambio hacia una econom\u00eda descarbonizada."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia fundamental existe entre el modelo tradicional y el paradigma de la Miner\u00eda $4.0$?",
+      "answerOptions": [
+        {
+          "text": "El modelo tradicional utiliza maquinaria pesada mientras que la Miner\u00eda $4.0$ utiliza \u00fanicamente rob\u00f3tica ligera.",
+          "isCorrect": false,
+          "rationale": "Ambos modelos utilizan maquinaria pesada; la diferencia radica en la interconexi\u00f3n y gesti\u00f3n de los datos, no solo en el tama\u00f1o del equipo."
+        },
+        {
+          "text": "La Miner\u00eda $4.0$ se basa en la intuici\u00f3n de operarios veteranos para agilizar procesos.",
+          "isCorrect": false,
+          "rationale": "La intuici\u00f3n es caracter\u00edstica del modelo tradicional; la Miner\u00eda $4.0$ busca basar las decisiones puramente en datos precisos y ciencia."
+        },
+        {
+          "text": "El modelo tradicional opera en silos aislados, mientras que la Miner\u00eda $4.0$ es un ecosistema interconectado.",
+          "isCorrect": true,
+          "rationale": "La integraci\u00f3n sist\u00e9mica permite que los datos fluyan en tiempo real desde la mina hasta el cliente final, eliminando la fragmentaci\u00f3n operativa."
+        },
+        {
+          "text": "La Miner\u00eda $4.0$ elimina la necesidad de procesar el mineral en la planta de beneficio.",
+          "isCorrect": false,
+          "rationale": "El procesamiento sigue siendo necesario; lo que cambia es c\u00f3mo se optimiza y se integra digitalmente con el resto de la cadena de valor."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo fluye la informaci\u00f3n entre los departamentos de log\u00edstica, procesamiento y ventas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de los Robots Aut\u00f3nomos M\u00f3viles (AMR) en la gesti\u00f3n de almacenes mineros?",
+      "answerOptions": [
+        {
+          "text": "Seguir rutas r\u00edgidas y preprogramadas para mover cargas pesadas de forma constante.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde a los AGV (Veh\u00edculos Guiados Autom\u00e1ticamente), que son ideales para tareas de fuerza bruta en rutas fijas."
+        },
+        {
+          "text": "Navegar de forma flexible usando visi\u00f3n computacional para esquivar obst\u00e1culos en tiempo real.",
+          "isCorrect": true,
+          "rationale": "Los AMR act\u00faan como el cerebro t\u00e1ctico, adapt\u00e1ndose a entornos din\u00e1micos y buscando repuestos de manera aut\u00f3noma sin rutas prefijadas."
+        },
+        {
+          "text": "Reemplazar el uso de drones para el mapeo topogr\u00e1fico de las superficies del almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "Los AMR est\u00e1n dise\u00f1ados para la log\u00edstica de suelo y no para el mapeo topogr\u00e1fico a\u00e9reo o de alta precisi\u00f3n."
+        },
+        {
+          "text": "Monitorear exclusivamente la fatiga y los signos vitales del personal humano.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n de los dispositivos wearables, no de los robots m\u00f3viles destinados al movimiento de materiales."
+        }
+      ],
+      "hint": "Diferencie entre una m\u00e1quina que sigue un carril fijo y una que toma decisiones de navegaci\u00f3n din\u00e1micas."
+    },
+    {
+      "question": "En proyectos dise\u00f1ados desde su inicio para ser digitales, \u00bfcu\u00e1nto puede llegar a incrementarse la productividad en comparaci\u00f3n con entornos tradicionales?",
+      "answerOptions": [
+        {
+          "text": "Aproximadamente un $10\\%$.",
+          "isCorrect": false,
+          "rationale": "Este porcentaje representa la ganancia t\u00edpica de una automatizaci\u00f3n b\u00e1sica o incremental en entornos ya existentes."
+        },
+        {
+          "text": "Alrededor de un $40\\%$.",
+          "isCorrect": false,
+          "rationale": "El $40\\%$ se asocia con el aumento de la vida \u00fatil de los neum\u00e1ticos o el crecimiento de la producci\u00f3n por anal\u00edtica, no espec\u00edficamente al dise\u00f1o Greenfield."
+        },
+        {
+          "text": "Hasta un $30\\%$.",
+          "isCorrect": true,
+          "rationale": "Los entornos Greenfield, al no cargar con infraestructura vieja, permiten maximizar el potencial digital logrando este salto de productividad."
+        },
+        {
+          "text": "Un $55\\%$.",
+          "isCorrect": false,
+          "rationale": "Esta cifra corresponde a la reducci\u00f3n de costos de exploraci\u00f3n lograda por startups especializadas en IA, no a la productividad operativa general."
+        }
+      ],
+      "hint": "Recuerde la distinci\u00f3n de rendimiento entre un proyecto 'Greenfield' y uno 'Brownfield'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio espec\u00edfico reporta el uso de inteligencia artificial en la conducci\u00f3n de camiones de acarreo pesado respecto al mantenimiento?",
+      "answerOptions": [
+        {
+          "text": "Una reducci\u00f3n del $5\\%$ en el tiempo de carga de mineral.",
+          "isCorrect": false,
+          "rationale": "El ahorro del $5\\%$ mencionado se refiere espec\u00edficamente al consumo de combustible, no al tiempo de carga."
+        },
+        {
+          "text": "Un aumento del $40\\%$ en la vida \u00fatil de las llantas gigantes.",
+          "isCorrect": true,
+          "rationale": "La conducci\u00f3n calculada por la IA evita frenazos y aceleraciones bruscas, optimizando el desgaste de estos componentes costosos."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de la necesidad de lubricantes en los motores.",
+          "isCorrect": false,
+          "rationale": "La IA optimiza la operaci\u00f3n pero no elimina las necesidades mec\u00e1nicas b\u00e1sicas de mantenimiento preventivo y lubricaci\u00f3n."
+        },
+        {
+          "text": "Un ahorro del $95\\%$ en los costos de repuestos de transmisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque hay ahorros, el $95\\%$ se refiere a la asertividad predictiva de ciertas plataformas de datos, no al ahorro en repuestos."
+        }
+      ],
+      "hint": "Considere el impacto de una conducci\u00f3n perfecta y sin errores humanos sobre los componentes de desgaste m\u00e1s caros del cami\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el principal reto t\u00e9cnico asociado a un proyecto de tipo Brownfield en la transformaci\u00f3n digital minera?",
+      "answerOptions": [
+        {
+          "text": "La falta de capital inicial para la compra de flotas nuevas.",
+          "isCorrect": false,
+          "rationale": "Aunque requiere inversi\u00f3n, el principal reto es la compatibilidad tecnol\u00f3gica m\u00e1s que la mera disponibilidad de fondos."
+        },
+        {
+          "text": "La integraci\u00f3n de sistemas de punta con infraestructura y equipos antiguos.",
+          "isCorrect": true,
+          "rationale": "Lograr que la tecnolog\u00eda moderna 'hable' con sistemas heredados y procesos viejos es sumamente complejo y genera ganancias solo incrementales."
+        },
+        {
+          "text": "La imposibilidad de utilizar sensores de vibraci\u00f3n en minas subterr\u00e1neas.",
+          "isCorrect": false,
+          "rationale": "Los sensores pueden instalarse; el problema es la infraestructura de red y la integraci\u00f3n de datos preexistentes."
+        },
+        {
+          "text": "El dise\u00f1o de la mina desde cero para ser 100% digital.",
+          "isCorrect": false,
+          "rationale": "Dise\u00f1ar desde cero es la definici\u00f3n de un proyecto Greenfield, no de un Brownfield."
+        }
+      ],
+      "hint": "Piense en la dificultad de actualizar una operaci\u00f3n que ya est\u00e1 funcionando con tecnolog\u00eda de hace d\u00e9cadas."
+    },
+    {
+      "question": "\u00bfC\u00f3mo contribuye el uso de drones con esc\u00e1neres LiDAR a la seguridad en las operaciones mineras?",
+      "answerOptions": [
+        {
+          "text": "Aumentando la velocidad de transporte de los volquetes en un $30\\%$.",
+          "isCorrect": false,
+          "rationale": "Los drones se encargan del mapeo y la inspecci\u00f3n, no del transporte de carga pesada."
+        },
+        {
+          "text": "Extrayendo muestras de mineral directamente de las paredes del t\u00fanel.",
+          "isCorrect": false,
+          "rationale": "El LiDAR se utiliza para escaneo l\u00e1ser y telemetr\u00eda, no para la extracci\u00f3n f\u00edsica de muestras geol\u00f3gicas."
+        },
+        {
+          "text": "Permitiendo retirar a los humanos de zonas con riesgo de colapso o atm\u00f3sferas t\u00f3xicas.",
+          "isCorrect": true,
+          "rationale": "Al realizar mapeos precisos en lugares peligrosos como t\u00faneles profundos, se elimina la exposici\u00f3n del personal al riesgo vital."
+        },
+        {
+          "text": "Sustituyendo la necesidad de redes privadas $5G$ en el socav\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los drones suelen depender de la conectividad y no la reemplazan; son herramientas complementarias."
+        }
+      ],
+      "hint": "Reflexione sobre el valor de enviar una m\u00e1quina en lugar de una persona a lugares inestables."
+    },
+    {
+      "question": "\u00bfQu\u00e9 metodolog\u00edas anal\u00edticas avanzadas se utilizan para el cerebro central del mantenimiento predictivo?",
+      "answerOptions": [
+        {
+          "text": "Redes neuronales y algoritmos gen\u00e9ticos.",
+          "isCorrect": true,
+          "rationale": "Estas arquitecturas matem\u00e1ticas permiten procesar flujos masivos de datos sensoriales para predecir fallas antes de que ocurran."
+        },
+        {
+          "text": "Gesti\u00f3n reactiva y an\u00e1lisis de fallas hist\u00f3ricas manuales.",
+          "isCorrect": false,
+          "rationale": "Estos son m\u00e9todos tradicionales que no aprovechan el potencial de la ciencia de datos en tiempo real."
+        },
+        {
+          "text": "Modelos de regresi\u00f3n lineal simple y hojas de c\u00e1lculo est\u00e1ticas.",
+          "isCorrect": false,
+          "rationale": "La complejidad de los datos mineros requiere herramientas mucho m\u00e1s potentes que los an\u00e1lisis estad\u00edsticos b\u00e1sicos tradicionales."
+        },
+        {
+          "text": "Mapeo topogr\u00e1fico milim\u00e9trico y sensores de calor.",
+          "isCorrect": false,
+          "rationale": "Si bien los sensores proveen datos, la metodolog\u00eda anal\u00edtica se refiere al procesamiento l\u00f3gico de esa informaci\u00f3n por parte de la IA."
+        }
+      ],
+      "hint": "Busque t\u00e9rminos relacionados con modelos de aprendizaje profundo y computaci\u00f3n evolutiva."
+    },
+    {
+      "question": "En el procesamiento de minerales, \u00bfcu\u00e1l es la ventaja de instalar c\u00e1maras con visi\u00f3n por computadora sobre las cintas transportadoras?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la velocidad f\u00edsica de la cinta en un $55\\%$.",
+          "isCorrect": false,
+          "rationale": "La visi\u00f3n por computadora mejora la clasificaci\u00f3n, pero la velocidad mec\u00e1nica depende de los motores de la cinta."
+        },
+        {
+          "text": "Reducir el desperdicio de recursos cr\u00edticos como agua y energ\u00eda.",
+          "isCorrect": true,
+          "rationale": "Al clasificar el mineral en tiempo real, se optimiza la recuperaci\u00f3n y se evita procesar material est\u00e9ril, ahorrando recursos en la refinaci\u00f3n."
+        },
+        {
+          "text": "Eliminar la necesidad de utilizar camiones aut\u00f3nomos en la superficie.",
+          "isCorrect": false,
+          "rationale": "La visi\u00f3n en cintas transportadoras es un proceso de planta y no reemplaza el transporte log\u00edstico desde el tajo."
+        },
+        {
+          "text": "Monitorear la fatiga de los conductores de los volquetes.",
+          "isCorrect": false,
+          "rationale": "Esta funci\u00f3n la realizan los wearables o c\u00e1maras internas en cabina, no las c\u00e1maras sobre las cintas de mineral."
+        }
+      ],
+      "hint": "Piense en la eficiencia del refinamiento cuando se conoce exactamente la calidad del material que entra a la planta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 logro espec\u00edfico se atribuye a la startup peruana Data X mediante el uso de inteligencia artificial?",
+      "answerOptions": [
+        {
+          "text": "Alcanzar una asertividad predictiva del $95\\%$ en el comportamiento de materiales.",
+          "isCorrect": false,
+          "rationale": "Este logro espec\u00edfico pertenece a la plataforma tecnol\u00f3gica Bruna."
+        },
+        {
+          "text": "Reducir los costos de exploraci\u00f3n en un $55\\%$.",
+          "isCorrect": true,
+          "rationale": "Mediante an\u00e1lisis geol\u00f3gicos en $2D$ y $3D$, lograron esta significativa reducci\u00f3n de costos y un $40\\%$ menos de esfuerzo operativo."
+        },
+        {
+          "text": "Implementar la primera flota de camiones 100% aut\u00f3nomos en Antamina.",
+          "isCorrect": false,
+          "rationale": "Data X se especializa en anal\u00edtica e IA geol\u00f3gica, no en la fabricaci\u00f3n o despliegue de flotas de acarreo pesado."
+        },
+        {
+          "text": "Crear un sistema de sat\u00e9lites de bajo consumo llamado Miriota.",
+          "isCorrect": false,
+          "rationale": "Miriota es una tecnolog\u00eda de conectividad satelital externa y no un desarrollo de la startup Data X."
+        }
+      ],
+      "hint": "Relacione a esta startup con la fase inicial de la miner\u00eda y la eficiencia en la b\u00fasqueda de yacimientos."
+    },
+    {
+      "question": "Dentro del ecosistema de la mina inteligente, \u00bfcon qu\u00e9 sistema biol\u00f3gico se compara al Internet de las Cosas (IoT)?",
+      "answerOptions": [
+        {
+          "text": "Con el cerebro central.",
+          "isCorrect": false,
+          "rationale": "El cerebro central es una analog\u00eda para la Inteligencia Artificial que procesa la informaci\u00f3n."
+        },
+        {
+          "text": "Con el sistema muscular.",
+          "isCorrect": false,
+          "rationale": "El sistema muscular representa la ejecuci\u00f3n f\u00edsica, como los camiones aut\u00f3nomos y la rob\u00f3tica."
+        },
+        {
+          "text": "Con el sistema nervioso.",
+          "isCorrect": true,
+          "rationale": "El IoT act\u00faa como los nervios, recolectando datos sensoriales de todo el entorno para que la IA pueda percibir el mundo."
+        },
+        {
+          "text": "Con el sistema circulatorio.",
+          "isCorrect": false,
+          "rationale": "Aunque los datos fluyen, la analog\u00eda espec\u00edfica del texto se refiere a la capacidad de percepci\u00f3n y sensibilidad del entorno."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sistema del cuerpo se encarga de transmitir los sentidos y las se\u00f1ales de alerta al cerebro."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de dispositivos wearables como cascos y pulseras inteligentes en la mina?",
+      "answerOptions": [
+        {
+          "text": "Permitir la comunicaci\u00f3n por voz entre operarios en zonas sin cobertura.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n principal no es la comunicaci\u00f3n, sino el monitoreo biom\u00e9trico y de seguridad."
+        },
+        {
+          "text": "Monitorear la fatiga y los signos vitales de los trabajadores para garantizar su seguridad.",
+          "isCorrect": true,
+          "rationale": "Estos dispositivos proporcionan una capa de seguridad granular al detectar anomal\u00edas en la salud o estado de alerta del personal."
+        },
+        {
+          "text": "Geolocalizar las vetas de cobre con precisi\u00f3n milim\u00e9trica mediante sensores t\u00e9rmicos.",
+          "isCorrect": false,
+          "rationale": "La geolocalizaci\u00f3n de minerales es una tarea de exploraci\u00f3n geol\u00f3gica y no de los dispositivos de uso personal."
+        },
+        {
+          "text": "Controlar de forma remota los brazos rob\u00f3ticos de la planta de refinaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los wearables se usan para monitoreo humano; el control de robots suele hacerse desde centros de control dedicados."
+        }
+      ],
+      "hint": "Enfoque su respuesta en la protecci\u00f3n directa del recurso m\u00e1s valioso: el talento humano."
+    },
+    {
+      "question": "\u00bfQu\u00e9 soluci\u00f3n se utiliza para mantener la conectividad en zonas mineras aisladas donde no hay cobertura terrestre?",
+      "answerOptions": [
+        {
+          "text": "Cables de fibra \u00f3ptica submarinos.",
+          "isCorrect": false,
+          "rationale": "La fibra \u00f3ptica es \u00fatil en instalaciones fijas o terrestres, pero no es la soluci\u00f3n para zonas aisladas sin infraestructura previa."
+        },
+        {
+          "text": "Sat\u00e9lites de bajo consumo como Miriota.",
+          "isCorrect": true,
+          "rationale": "Estos sat\u00e9lites permiten transmitir datos desde puntos remotos donde las redes celulares o industriales no llegan."
+        },
+        {
+          "text": "Drones que act\u00faan como repetidores de se\u00f1al de radiofrecuencia.",
+          "isCorrect": false,
+          "rationale": "Aunque es t\u00e9cnicamente posible, el texto destaca espec\u00edficamente el uso de sat\u00e9lites para resolver el problema de aislamiento extremo."
+        },
+        {
+          "text": "Redes de sensores de vibraci\u00f3n conectados por Bluetooth.",
+          "isCorrect": false,
+          "rationale": "El Bluetooth tiene un alcance muy corto y no es viable para la conectividad de largo alcance en zonas aisladas."
+        }
+      ],
+      "hint": "Piense en tecnolog\u00edas espaciales dise\u00f1adas para el env\u00edo de paquetes de datos peque\u00f1os y eficientes."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00eda permite crear un registro inalterable de los minerales para comprobar su procedencia \u00e9tica?",
+      "answerOptions": [
+        {
+          "text": "Inteligencia Artificial Generativa.",
+          "isCorrect": false,
+          "rationale": "La IA generativa se usa para crear contenido o modelos, no para la certificaci\u00f3n de registros de trazabilidad."
+        },
+        {
+          "text": "Blockchain.",
+          "isCorrect": true,
+          "rationale": "Esta tecnolog\u00eda asegura que la informaci\u00f3n del trayecto del mineral no pueda ser modificada, garantizando una trazabilidad impecable."
+        },
+        {
+          "text": "Esc\u00e1neres LiDAR de alta resoluci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El LiDAR sirve para medir distancias y formas f\u00edsicas, no para gestionar bases de datos o registros contractuales."
+        },
+        {
+          "text": "Redes Privadas $5G$.",
+          "isCorrect": false,
+          "rationale": "El $5G$ es el medio de transporte de la informaci\u00f3n, pero no es el mecanismo que garantiza la inmutabilidad del registro."
+        }
+      ],
+      "hint": "Busque la tecnolog\u00eda de 'cadena de bloques' famosa por su seguridad en transacciones y registros."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el modelo de negocio de monetizaci\u00f3n de datos y modelos SaaS en la industria minera moderna?",
+      "answerOptions": [
+        {
+          "text": "En vender el mineral directamente a trav\u00e9s de plataformas de software.",
+          "isCorrect": false,
+          "rationale": "La venta de mineral es el negocio tradicional; la monetizaci\u00f3n de datos se refiere a la propiedad intelectual del conocimiento operativo."
+        },
+        {
+          "text": "En cobrar a los trabajadores por el uso de los dispositivos wearables.",
+          "isCorrect": false,
+          "rationale": "Los wearables son herramientas de seguridad provistas por la empresa, no un servicio de suscripci\u00f3n para el personal."
+        },
+        {
+          "text": "En ofrecer modelos predictivos refinados a otros actores como fabricantes de repuestos o aseguradoras.",
+          "isCorrect": true,
+          "rationale": "El conocimiento digital generado es tan valioso que puede venderse como un servicio (Software as a Service) a terceros."
+        },
+        {
+          "text": "En alquilar la capacidad de procesamiento de los servidores de la mina a empresas tecnol\u00f3gicas externas.",
+          "isCorrect": false,
+          "rationale": "La monetizaci\u00f3n se basa en el valor de los modelos predictivos espec\u00edficos de la operaci\u00f3n, no en el alquiler de hardware."
+        }
+      ],
+      "hint": "Considere c\u00f3mo el conocimiento sobre fallas de m\u00e1quinas puede ser \u00fatil para quienes fabrican esas m\u00e1quinas o cubren sus riesgos."
+    },
+    {
+      "question": "Seg\u00fan la visi\u00f3n estrat\u00e9gica de la transformaci\u00f3n digital, \u00bfqu\u00e9 sucede con los yacimientos que anteriormente no eran rentables por su baja ley?",
+      "answerOptions": [
+        {
+          "text": "Son abandonados definitivamente para priorizar el reciclaje de metales.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda busca precisamente rescatar estos activos, no abandonarlos."
+        },
+        {
+          "text": "Se transforman en activos rentables gracias a la reducci\u00f3n sistem\u00e1tica del costo por tonelada.",
+          "isCorrect": true,
+          "rationale": "La automatizaci\u00f3n y la eficiencia bajan tanto los gastos que proyectos complejos o de bajo grado se vuelven econ\u00f3micamente viables."
+        },
+        {
+          "text": "Requieren el uso obligatorio de mano de obra intensiva para ser explotados.",
+          "isCorrect": false,
+          "rationale": "La tendencia es la contraria: reducir la intervenci\u00f3n humana para bajar costos y mejorar la seguridad."
+        },
+        {
+          "text": "Solo pueden ser explotados mediante m\u00e9todos de miner\u00eda artesanal.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda artesanal no tiene la escala ni la tecnolog\u00eda para hacer rentables yacimientos masivos de baja ley."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo la eficiencia tecnol\u00f3gica altera la ecuaci\u00f3n econ\u00f3mica de un proyecto minero."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la recomendaci\u00f3n final respecto al rol del talento humano frente a la evoluci\u00f3n tecnol\u00f3gica?",
+      "answerOptions": [
+        {
+          "text": "Los humanos deben enfocarse \u00fanicamente en tareas de fuerza f\u00edsica que los robots no pueden realizar.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda est\u00e1 asumiendo las tareas f\u00edsicas y riesgosas; el humano evoluciona hacia roles de gesti\u00f3n intelectual."
+        },
+        {
+          "text": "El personal debe ser reemplazado gradualmente hasta lograr una operaci\u00f3n sin humanos.",
+          "isCorrect": false,
+          "rationale": "La meta es sacar a los humanos del riesgo, no eliminarlos de la industria; sus roles evolucionan hacia la supervisi\u00f3n inteligente."
+        },
+        {
+          "text": "Los roles evolucionan, pasando de ejecutar tareas manuales a supervisar y validar modelos de IA.",
+          "isCorrect": true,
+          "rationale": "Por ejemplo, un planificador de mantenimiento ahora usa su experiencia para interpretar y actuar sobre los resultados de la anal\u00edtica."
+        },
+        {
+          "text": "El operario veterano debe ignorar los datos para mantener el 'arte' de la miner\u00eda tradicional.",
+          "isCorrect": false,
+          "rationale": "Ignorar los datos en la Miner\u00eda $4.0$ significar\u00eda quedar fuera de la competitividad actual del mercado."
+        }
+      ],
+      "hint": "Considere la transici\u00f3n de 'hacer' el trabajo a 'dirigir' la tecnolog\u00eda que hace el trabajo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 empresa se menciona como un referente mundial por haber implementado el transporte totalmente aut\u00f3nomo (Keyabo)?",
+      "answerOptions": [
+        {
+          "text": "Angloamerican.",
+          "isCorrect": false,
+          "rationale": "Angloamerican se menciona por acelerar procesos de exploraci\u00f3n con sistemas de apoyo, no espec\u00edficamente por el est\u00e1ndar de Keyabo."
+        },
+        {
+          "text": "Nexa Resources.",
+          "isCorrect": false,
+          "rationale": "Nexa es destacada por su centro de inteligencia artificial en Brasil y anal\u00edtica predictiva en Latinoam\u00e9rica."
+        },
+        {
+          "text": "BHP.",
+          "isCorrect": false,
+          "rationale": "BHP utiliza Microsoft Azure para predicciones horarias, pero el texto asocia el est\u00e1ndar Keyabo con otro contexto operativo."
+        },
+        {
+          "text": "Quellaveco (mencionado como la operaci\u00f3n de Keyabo).",
+          "isCorrect": true,
+          "rationale": "Se le considera el est\u00e1ndar de oro en la implementaci\u00f3n de transporte aut\u00f3nomo con flotas inteligentes."
+        }
+      ],
+      "hint": "Busque el nombre de la operaci\u00f3n que se menciona como el 'est\u00e1ndar de oro' en volquetes aut\u00f3nomos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje de ahorro directo en consumo de combustible se puede lograr mediante la optimizaci\u00f3n de rutas y velocidad constante de la IA?",
+      "answerOptions": [
+        {
+          "text": "Un $10\\%$.",
+          "isCorrect": false,
+          "rationale": "Ese es el incremento de productividad en proyectos de automatizaci\u00f3n b\u00e1sica (Brownfield)."
+        },
+        {
+          "text": "Un $5\\%$.",
+          "isCorrect": true,
+          "rationale": "Aunque parece poco, a escala masiva representa millones de d\u00f3lares y una reducci\u00f3n clave en la huella de carbono."
+        },
+        {
+          "text": "Un $30\\%$.",
+          "isCorrect": false,
+          "rationale": "Este valor corresponde al potencial m\u00e1ximo de productividad en proyectos Greenfield."
+        },
+        {
+          "text": "Un $55\\%$.",
+          "isCorrect": false,
+          "rationale": "Este es el ahorro en costos de exploraci\u00f3n logrado por anal\u00edtica cognitiva avanzada."
+        }
+      ],
+      "hint": "Es un porcentaje de un solo d\u00edgito que tiene un impacto masivo en los costos operativos anuales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es uno de los tres aprendizajes estrat\u00e9gicos clave para consolidar la transformaci\u00f3n digital en miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la contrataci\u00f3n de operarios manuales para supervisar a los robots.",
+          "isCorrect": false,
+          "rationale": "La estrategia busca reducir la presencia humana en zonas operativas para mejorar la eficiencia y seguridad."
+        },
+        {
+          "text": "Mantener los sistemas aislados para evitar ciberataques masivos.",
+          "isCorrect": false,
+          "rationale": "La Miner\u00eda $4.0$ requiere integraci\u00f3n total; la seguridad se gestiona con tecnolog\u00eda, no con el aislamiento de datos."
+        },
+        {
+          "text": "Lograr una seguridad total retirando al personal de zonas de alto riesgo.",
+          "isCorrect": true,
+          "rationale": "La seguridad, junto con la eficiencia brutal y la sostenibilidad, forma los pilares de los aprendizajes estrat\u00e9gicos finales."
+        },
+        {
+          "text": "Priorizar la intuici\u00f3n del operario sobre los modelos predictivos matem\u00e1ticos.",
+          "isCorrect": false,
+          "rationale": "El cambio hacia la ciencia de datos implica que las decisiones deben basarse en evidencia matem\u00e1tica y no en instinto."
+        }
+      ],
+      "hint": "Piense en los objetivos finales relacionados con el bienestar del personal y el cumplimiento de est\u00e1ndares globales."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Miner\u00eda 4.0 y Ecosistemas Integrados",
+      "Automatizaci\u00f3n y Rob\u00f3tica (AGV vs AMR)",
+      "Inteligencia Anal\u00edtica y Mantenimiento Predictivo",
+      "Internet de las Cosas (IoT) y Conectividad Industrial",
+      "Estrategia de Inversi\u00f3n (Greenfield vs Brownfield)",
+      "Sostenibilidad y Trazabilidad con Blockchain"
+    ],
+    "followUp": [
+      "Casos de \u00e9xito de IA en la miner\u00eda latinoamericana",
+      "Impacto de la transici\u00f3n energ\u00e9tica en la demanda de metales",
+      "Seguridad y salud ocupacional mediante wearables inteligentes",
+      "Modelos de negocio basados en datos (SaaS) en industria pesada"
+    ]
+  }
+}

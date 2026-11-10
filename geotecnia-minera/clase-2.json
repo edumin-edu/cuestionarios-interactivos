@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la ecuaci\u00f3n fundamental de la teor\u00eda de falla de Mohr-Coulomb para determinar la resistencia al corte?",
+      "answerOptions": [
+        {
+          "text": "$\\tau = c + \\sigma \\tan \\phi$",
+          "isCorrect": true,
+          "rationale": "Esta expresi\u00f3n matem\u00e1tica establece que la resistencia es la suma de la cohesi\u00f3n y el producto del esfuerzo normal por la tangente del \u00e1ngulo de fricci\u00f3n interna."
+        },
+        {
+          "text": "$\\tau = c + \\sigma \\sin \\phi$",
+          "isCorrect": false,
+          "rationale": "La teor\u00eda utiliza la funci\u00f3n tangente para representar la relaci\u00f3n de fricci\u00f3n, no la funci\u00f3n seno."
+        },
+        {
+          "text": "$\\tau = c - \\sigma \\tan \\phi$",
+          "isCorrect": false,
+          "rationale": "El esfuerzo normal aumenta la resistencia al corte por fricci\u00f3n, por lo que el signo debe ser de adici\u00f3n, no sustracci\u00f3n."
+        },
+        {
+          "text": "$\\tau = \\sigma + c \\tan \\phi$",
+          "isCorrect": false,
+          "rationale": "En esta f\u00f3rmula, el \u00e1ngulo de fricci\u00f3n debe afectar al esfuerzo normal aplicado y no directamente a la cohesi\u00f3n del material."
+        }
+      ],
+      "hint": "Relaciona la cohesi\u00f3n del material con el componente de fricci\u00f3n derivado del esfuerzo normal."
+    },
+    {
+      "question": "En un ensayo de compresi\u00f3n triaxial, \u00bfcu\u00e1l es el rango estricto de la relaci\u00f3n entre la longitud y el di\u00e1metro que debe cumplir la muestra cil\u00edndrica?",
+      "answerOptions": [
+        {
+          "text": "Entre $1.0$ y $1.5$",
+          "isCorrect": false,
+          "rationale": "Una muestra tan corta provocar\u00eda interferencias por los cabezales de la m\u00e1quina, impidiendo una distribuci\u00f3n de esfuerzos uniforme."
+        },
+        {
+          "text": "Entre $2.5$ y $3.0$",
+          "isCorrect": true,
+          "rationale": "Esta proporci\u00f3n geom\u00e9trica es indispensable para garantizar que la distribuci\u00f3n de fuerzas internas sea v\u00e1lida y no ca\u00f3tica."
+        },
+        {
+          "text": "Entre $4.0$ y $5.0$",
+          "isCorrect": false,
+          "rationale": "Una relaci\u00f3n de esbeltez tan alta podr\u00eda causar fallas por pandeo antes de alcanzar la resistencia real del material."
+        },
+        {
+          "text": "Exactamente $2.0$",
+          "isCorrect": false,
+          "rationale": "Aunque es una proporci\u00f3n com\u00fan en otros ensayos, el est\u00e1ndar triaxial especificado requiere un rango ligeramente superior para mayor validez."
+        }
+      ],
+      "hint": "Considera el est\u00e1ndar geom\u00e9trico que evita el caos en la distribuci\u00f3n de las fuerzas internas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede con el comportamiento mec\u00e1nico de una roca \u00edgnea si su proceso de enfriamiento fue extremadamente r\u00e1pido?",
+      "answerOptions": [
+        {
+          "text": "Desarrolla puentes cristalinos complejos y alta competencia.",
+          "isCorrect": false,
+          "rationale": "La formaci\u00f3n de estructuras cristalinas complejas requiere un enfriamiento lento y pausado."
+        },
+        {
+          "text": "Se vuelve un material sumamente el\u00e1stico y deformable.",
+          "isCorrect": false,
+          "rationale": "El enfriamiento r\u00e1pido suele producir materiales r\u00edgidos y quebradizos, no el\u00e1sticos."
+        },
+        {
+          "text": "Adquiere una gran dureza pero con una fragilidad extrema.",
+          "isCorrect": true,
+          "rationale": "Los procesos r\u00e1pidos generan cristales simples que fallan s\u00fabitamente ante esfuerzos m\u00ednimos, como ocurre con los vidrios volc\u00e1nicos."
+        },
+        {
+          "text": "Aumenta su ductilidad y resistencia a la tracci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La fragilidad es la caracter\u00edstica dominante en estos casos, lo cual es opuesto a la ductilidad."
+        }
+      ],
+      "hint": "Piensa en las propiedades de materiales como los vidrios volc\u00e1nicos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal limitaci\u00f3n t\u00e9cnica de las calicatas como m\u00e9todo de prospecci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "No permiten ver los estratos directamente.",
+          "isCorrect": false,
+          "rationale": "Al contrario, las calicatas son valoradas precisamente porque permiten la inspecci\u00f3n visual directa de las capas del suelo."
+        },
+        {
+          "text": "Tienen un l\u00edmite de profundidad que generalmente no supera los $2$ metros.",
+          "isCorrect": true,
+          "rationale": "Al ser excavaciones superficiales, su alcance es restringido comparado con m\u00e9todos como los sondajes diamantinos."
+        },
+        {
+          "text": "Son demasiado costosas en comparaci\u00f3n con los sondajes.",
+          "isCorrect": false,
+          "rationale": "Las calicatas suelen ser un m\u00e9todo tradicional y m\u00e1s econ\u00f3mico que la perforaci\u00f3n profunda."
+        },
+        {
+          "text": "No permiten chequear los niveles de cementaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La observaci\u00f3n t\u00e1ctil y visual en calicatas permite verificar niveles de cementaci\u00f3n y humedad de forma efectiva."
+        }
+      ],
+      "hint": "Se refiere a la restricci\u00f3n f\u00edsica de alcance vertical que poseen estas excavaciones manuales o mec\u00e1nicas simples."
+    },
+    {
+      "question": "En la definici\u00f3n de las propiedades f\u00edsicas del suelo, \u00bfc\u00f3mo suelen relacionarse el peso espec\u00edfico y la porosidad?",
+      "answerOptions": [
+        {
+          "text": "Son directamente proporcionales.",
+          "isCorrect": false,
+          "rationale": "Si la porosidad aumenta, hay m\u00e1s huecos, lo que implica que hay menos masa s\u00f3lida por unidad de volumen."
+        },
+        {
+          "text": "Est\u00e1n inversamente conectados.",
+          "isCorrect": true,
+          "rationale": "Un peso espec\u00edfico alto generalmente indica una mayor densificaci\u00f3n, lo cual conlleva una reducci\u00f3n en el volumen de poros."
+        },
+        {
+          "text": "No existe ninguna correlaci\u00f3n entre ambos par\u00e1metros.",
+          "isCorrect": false,
+          "rationale": "Ambos par\u00e1metros dependen de la organizaci\u00f3n de las part\u00edculas s\u00f3lidas y los vac\u00edos, por lo que est\u00e1n ligados f\u00edsicamente."
+        },
+        {
+          "text": "El peso espec\u00edfico es siempre el doble de la porosidad.",
+          "isCorrect": false,
+          "rationale": "No existe una relaci\u00f3n num\u00e9rica constante o lineal simple, sino una tendencia f\u00edsica inversa."
+        }
+      ],
+      "hint": "Considera qu\u00e9 ocurre con el espacio vac\u00edo cuando el material est\u00e1 m\u00e1s densamente compactado."
+    },
+    {
+      "question": "\u00bfA partir de qu\u00e9 porcentaje de meteorizaci\u00f3n se considera que el material deja de comportarse como roca y act\u00faa mec\u00e1nicamente como un suelo?",
+      "answerOptions": [
+        {
+          "text": "$25\\%$",
+          "isCorrect": false,
+          "rationale": "A este nivel, la roca todav\u00eda conserva la mayor parte de su estructura primitiva y resistencia mineral."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es una degradaci\u00f3n importante, todav\u00eda no representa el punto de transici\u00f3n anal\u00edtica hacia el comportamiento de suelo."
+        },
+        {
+          "text": "$75\\%$",
+          "isCorrect": true,
+          "rationale": "Superar este umbral implica la p\u00e9rdida casi total de la estructura original, alterando dr\u00e1sticamente la fricci\u00f3n y cohesi\u00f3n."
+        },
+        {
+          "text": "$100\\%$",
+          "isCorrect": false,
+          "rationale": "La transici\u00f3n de comportamiento ocurre antes de la descomposici\u00f3n total del material original."
+        }
+      ],
+      "hint": "Es el umbral cr\u00edtico donde se pierde la estructura primitiva de la matriz geol\u00f3gica."
+    },
+    {
+      "question": "De acuerdo con los est\u00e1ndares regulatorios, \u00bfcu\u00e1l es el periodo de validez de la informaci\u00f3n t\u00e9cnica en un estudio geot\u00e9cnico antes de que pierda vigencia legal?",
+      "answerOptions": [
+        {
+          "text": "$2$ a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Este plazo es demasiado corto considerando la naturaleza de los proyectos de infraestructura a largo plazo."
+        },
+        {
+          "text": "$5$ a\u00f1os",
+          "isCorrect": true,
+          "rationale": "Tras este plazo, la normativa exige actualizaciones debido al deterioro del macizo y posibles cambios en las condiciones del sitio."
+        },
+        {
+          "text": "$10$ a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Esperar una d\u00e9cada se considera riesgoso ante la evoluci\u00f3n natural y el desgaste de los materiales geol\u00f3gicos."
+        },
+        {
+          "text": "$1$ a\u00f1o",
+          "isCorrect": false,
+          "rationale": "Aunque se requieren actualizaciones, el marco legal otorga una ventana de tiempo mayor para la validez de los dise\u00f1os."
+        }
+      ],
+      "hint": "Se trata de un lustro de tiempo definido por la normativa para mitigar riesgos regulatorios."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza a un ensayo triaxial del tipo consolidado drenado ($CD$)?",
+      "answerOptions": [
+        {
+          "text": "Se mantienen las v\u00e1lvulas de drenaje cerradas durante todo el proceso.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde a un ensayo no drenado, donde la presi\u00f3n del agua no puede liberarse."
+        },
+        {
+          "text": "Se permite el drenaje libre de agua y aire durante todo el ensayo.",
+          "isCorrect": true,
+          "rationale": "Esto permite eliminar la presi\u00f3n de poros pausadamente, facilitando la medici\u00f3n de esfuerzos efectivos reales."
+        },
+        {
+          "text": "El drenaje solo se permite durante la aplicaci\u00f3n de la carga vertical.",
+          "isCorrect": false,
+          "rationale": "En el ensayo consolidado drenado, el flujo de fluidos es libre desde el inicio de la consolidaci\u00f3n hasta la falla."
+        },
+        {
+          "text": "La presi\u00f3n neutra permanece constante y atrapada.",
+          "isCorrect": false,
+          "rationale": "En el tipo CD, la presi\u00f3n de poros se disipa, por lo que no puede permanecer constante ni atrapada."
+        }
+      ],
+      "hint": "En este m\u00e9todo, las 'puertas' est\u00e1n abiertas para que el fluido salga del esqueleto del suelo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 analog\u00eda describe mejor el funcionamiento de la prospecci\u00f3n geof\u00edsica por refracci\u00f3n s\u00edsmica?",
+      "answerOptions": [
+        {
+          "text": "Una radiograf\u00eda de rayos X para ver fracturas \u00f3seas.",
+          "isCorrect": false,
+          "rationale": "La refracci\u00f3n s\u00edsmica utiliza ondas de pulso y vibraci\u00f3n, no radiaci\u00f3n electromagn\u00e9tica de alta energ\u00eda."
+        },
+        {
+          "text": "Una ecograf\u00eda gigante que mapea los espesores de las capas.",
+          "isCorrect": true,
+          "rationale": "El m\u00e9todo interpreta c\u00f3mo rebotan y viajan los pulsos en el subsuelo para visualizar la estructura interna de forma macro."
+        },
+        {
+          "text": "Un microscopio para analizar la composici\u00f3n mineral.",
+          "isCorrect": false,
+          "rationale": "Este m\u00e9todo ofrece una visi\u00f3n macrosc\u00f3pica de la estructura del terreno, no un an\u00e1lisis a nivel de part\u00edculas individuales."
+        },
+        {
+          "text": "Un an\u00e1lisis de sangre para detectar impurezas qu\u00edmicas.",
+          "isCorrect": false,
+          "rationale": "La t\u00e9cnica es f\u00edsica y mec\u00e1nica, basada en ondas el\u00e1sticas, no en reacciones qu\u00edmicas."
+        }
+      ],
+      "hint": "Se basa en el env\u00edo de pulsos y la interpretaci\u00f3n de su respuesta vibratoria al retornar a la superficie."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el impacto principal del metamorfismo en la estructura de rocas como la pizarra o el gneis?",
+      "answerOptions": [
+        {
+          "text": "La fusi\u00f3n total del material original.",
+          "isCorrect": false,
+          "rationale": "En el metamorfismo no ocurre fusi\u00f3n; si hubiera fusi\u00f3n, el resultado ser\u00eda una roca \u00edgnea."
+        },
+        {
+          "text": "El desarrollo de una isotrop\u00eda perfecta.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el metamorfismo crea texturas foliadas que hacen que el material sea altamente anisotr\u00f3pico."
+        },
+        {
+          "text": "La creaci\u00f3n de texturas foliadas y planos de debilidad marcados.",
+          "isCorrect": true,
+          "rationale": "La deformaci\u00f3n cristalina bajo presi\u00f3n y temperatura extremas altera la anisotrop\u00eda y genera superficies preferentes de falla."
+        },
+        {
+          "text": "La reducci\u00f3n dr\u00e1stica de la temperatura del material.",
+          "isCorrect": false,
+          "rationale": "El proceso metam\u00f3rfico requiere condiciones de alta temperatura y presi\u00f3n para transformar los cristales."
+        }
+      ],
+      "hint": "Considera c\u00f3mo la presi\u00f3n extrema reorganiza los cristales en capas o l\u00e1minas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el punto de c\u00faspide en la curva de relaci\u00f3n tensi\u00f3n-deformaci\u00f3n de un suelo?",
+      "answerOptions": [
+        {
+          "text": "El inicio de la etapa de consolidaci\u00f3n primaria.",
+          "isCorrect": false,
+          "rationale": "La consolidaci\u00f3n ocurre antes de someter al material a los esfuerzos de corte que generan la curva de tensi\u00f3n-deformaci\u00f3n."
+        },
+        {
+          "text": "El l\u00edmite de elasticidad perfecta donde no hay deformaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "En ese punto ya ha habido deformaci\u00f3n; la c\u00faspide representa el esfuerzo m\u00e1ximo soportable."
+        },
+        {
+          "text": "El esfuerzo m\u00e1ximo y punto de no retorno hacia la falla.",
+          "isCorrect": true,
+          "rationale": "Superada esta cima, el material pierde cohesi\u00f3n interna y entra en una zona de deformaci\u00f3n permanente masiva."
+        },
+        {
+          "text": "El momento en que el agua comienza a drenar de los poros.",
+          "isCorrect": false,
+          "rationale": "El drenaje se controla al inicio o durante el ensayo, no se define por el punto de esfuerzo m\u00e1ximo."
+        }
+      ],
+      "hint": "Es el valor pico antes de que el material ceda irreversiblemente."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los tres par\u00e1metros fundamentales que caracterizan anal\u00edticamente una discontinuidad en un macizo rocoso?",
+      "answerOptions": [
+        {
+          "text": "Espaciado, rugosidad y relleno.",
+          "isCorrect": true,
+          "rationale": "Estos tres elementos rigen la estabilidad cinem\u00e1tica y dictan c\u00f3mo se propagan los esfuerzos a trav\u00e9s de la masa rocosa."
+        },
+        {
+          "text": "Color, porosidad y contenido de cuarzo.",
+          "isCorrect": false,
+          "rationale": "Aunque son propiedades de la roca, no son los par\u00e1metros cr\u00edticos que definen el comportamiento de las discontinuidades estructurales."
+        },
+        {
+          "text": "Densidad, humedad y nivel fre\u00e1tico.",
+          "isCorrect": false,
+          "rationale": "Estos factores influyen, pero la caracterizaci\u00f3n anal\u00edtica de la discontinuidad como estructura se centra en sus propiedades f\u00edsicas de junta."
+        },
+        {
+          "text": "Profundidad, temperatura y tiempo de formaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Estos datos son gen\u00e9ticos o ambientales, no par\u00e1metros geom\u00e9tricos o mec\u00e1nicos de las juntas mismas."
+        }
+      ],
+      "hint": "Se refieren a la distancia entre juntas, la textura de su superficie y el material que hay entre ellas."
+    },
+    {
+      "question": "En proyectos como Zafranal o Victoria, \u00bfqu\u00e9 papel cr\u00edtico juega el agua subterr\u00e1nea en las discontinuidades del macizo?",
+      "answerOptions": [
+        {
+          "text": "Incrementa la cohesi\u00f3n qu\u00edmica de los minerales.",
+          "isCorrect": false,
+          "rationale": "El agua suele debilitar los enlaces y reducir la resistencia en lugar de incrementarla."
+        },
+        {
+          "text": "Act\u00faa como un lubricante que reduce la fricci\u00f3n efectiva.",
+          "isCorrect": true,
+          "rationale": "La infiltraci\u00f3n en juntas y diaclasas facilita fallas cinem\u00e1ticas como desprendimientos en cu\u00f1a o fallas planares."
+        },
+        {
+          "text": "Solidifica el relleno de las juntas aumentando la estabilidad.",
+          "isCorrect": false,
+          "rationale": "El agua en estado l\u00edquido en las juntas tiende a desestabilizar, no a actuar como un agente cementante inmediato."
+        },
+        {
+          "text": "Reduce la presi\u00f3n neutra dentro de la matriz rocosa.",
+          "isCorrect": false,
+          "rationale": "La presencia de agua generalmente aumenta la presi\u00f3n de poros (presi\u00f3n neutra), lo que desestabiliza el macizo."
+        }
+      ],
+      "hint": "Considera el efecto f\u00edsico de un fluido atrapado entre dos superficies s\u00f3lidas en contacto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es uno de los mayores retos t\u00e9cnicos y econ\u00f3micos al realizar sondajes diamantinos profundos?",
+      "answerOptions": [
+        {
+          "text": "La imposibilidad de extraer testigos f\u00edsicos.",
+          "isCorrect": false,
+          "rationale": "El prop\u00f3sito principal del sondaje diamantino es precisamente extraer testigos de roca."
+        },
+        {
+          "text": "Mantener la trayectoria exacta y corregir desviaciones.",
+          "isCorrect": true,
+          "rationale": "A gran profundidad, la maquinaria requiere m\u00e1s empuje y la perforaci\u00f3n tiende a desviarse, lo que exige correcciones en tiempo real."
+        },
+        {
+          "text": "La falta de agua para refrigerar la broca.",
+          "isCorrect": false,
+          "rationale": "Aunque es un requerimiento operativo, el reto de ingenier\u00eda mencionado como cr\u00edtico es el control de la trayectoria y los costos crecientes."
+        },
+        {
+          "text": "El l\u00edmite de profundidad de solo $10$ metros.",
+          "isCorrect": false,
+          "rationale": "Los sondajes diamantinos se utilizan justamente para superar los l\u00edmites de m\u00e9todos superficiales y alcanzar grandes profundidades."
+        }
+      ],
+      "hint": "Piensa en la dificultad de guiar una herramienta de perforaci\u00f3n a cientos de metros bajo tierra."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es necesario drenar meticulosamente la presi\u00f3n neutra durante la preparaci\u00f3n de una muestra para un ensayo triaxial?",
+      "answerOptions": [
+        {
+          "text": "Para asegurar que los esfuerzos le\u00eddos sean los esfuerzos efectivos reales.",
+          "isCorrect": true,
+          "rationale": "Gestionar el agua permite que la carga sea soportada por el esqueleto s\u00f3lido del suelo y no por el fluido en los poros."
+        },
+        {
+          "text": "Para aumentar la humedad inicial hasta un $50\\%$.",
+          "isCorrect": false,
+          "rationale": "El manejo de la humedad busca precisi\u00f3n (t\u00edpicamente $5$ a $10\\%$), no un aumento excesivo que saturar\u00eda la muestra."
+        },
+        {
+          "text": "Para evitar que la muestra cambie su forma cil\u00edndrica.",
+          "isCorrect": false,
+          "rationale": "La forma se mantiene mediante la c\u00e1mara y la membrana; el drenaje tiene un prop\u00f3sito de medici\u00f3n de esfuerzos."
+        },
+        {
+          "text": "Para permitir que el aire entre en los poros del suelo.",
+          "isCorrect": false,
+          "rationale": "El objetivo es controlar o eliminar las presiones de fluidos (aire o agua) para estudiar el comportamiento s\u00f3lido."
+        }
+      ],
+      "hint": "Tiene que ver con la interacci\u00f3n entre el agua y la estructura s\u00f3lida del suelo bajo carga."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el origen gen\u00e9tico de las rocas sedimentarias en t\u00e9rminos de procesos geol\u00f3gicos?",
+      "answerOptions": [
+        {
+          "text": "Enfriamiento de magmas profundos.",
+          "isCorrect": false,
+          "rationale": "Este proceso es el que da origen a las rocas \u00edgneas intrusivas."
+        },
+        {
+          "text": "Diag\u00e9nesis y litificaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Estos procesos de compactaci\u00f3n y cementaci\u00f3n de sedimentos resultan en rocas con una resistencia mec\u00e1nica generalmente m\u00e1s baja."
+        },
+        {
+          "text": "Deformaci\u00f3n cristalina por presi\u00f3n extrema sin fusi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esa es la definici\u00f3n del metamorfismo, no de la formaci\u00f3n sedimentaria."
+        },
+        {
+          "text": "Impacto de meteoritos en la superficie terrestre.",
+          "isCorrect": false,
+          "rationale": "Aunque es un proceso geol\u00f3gico, no es el mecanismo est\u00e1ndar de formaci\u00f3n de las rocas sedimentarias discutidas."
+        }
+      ],
+      "hint": "Involucra la transformaci\u00f3n de sedimentos sueltos en roca s\u00f3lida mediante cementaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 rango de humedad inicial es t\u00edpico en la gesti\u00f3n de muestras para ensayos de laboratorio seg\u00fan lo descrito?",
+      "answerOptions": [
+        {
+          "text": "Entre $1\\%$ y $2\\%$",
+          "isCorrect": false,
+          "rationale": "Un suelo tan seco ser\u00eda inusual para representar condiciones naturales de terreno en la mayor\u00eda de los casos."
+        },
+        {
+          "text": "Entre $5\\%$ y $10\\%$",
+          "isCorrect": true,
+          "rationale": "Controlar este porcentaje espec\u00edfico es vital para asegurar que los esfuerzos efectivos detectados sean precisos."
+        },
+        {
+          "text": "Entre $20\\%$ y $30\\%$",
+          "isCorrect": false,
+          "rationale": "Este nivel de humedad suele ser demasiado alto para el arranque est\u00e1ndar de estas pruebas de resistencia."
+        },
+        {
+          "text": "Superior al $75\\%$",
+          "isCorrect": false,
+          "rationale": "Ese porcentaje se asocia con el grado de meteorizaci\u00f3n cr\u00edtica, no con la humedad est\u00e1ndar de preparaci\u00f3n de muestras."
+        }
+      ],
+      "hint": "Es un porcentaje relativamente bajo pero crucial para la interacci\u00f3n agua-tierra."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 par\u00e1metros como la granulometr\u00eda y la plasticidad son considerados 'combustible' para el an\u00e1lisis geot\u00e9cnico?",
+      "answerOptions": [
+        {
+          "text": "Porque determinan el color final del reporte de laboratorio.",
+          "isCorrect": false,
+          "rationale": "Su importancia no es est\u00e9tica, sino funcional para el c\u00e1lculo de ingenier\u00eda."
+        },
+        {
+          "text": "Porque son los inputs obligatorios para calcular permeabilidad y compresibilidad en el software.",
+          "isCorrect": true,
+          "rationale": "Sin definir estos par\u00e1metros b\u00e1sicos, es matem\u00e1ticamente imposible predecir si una cimentaci\u00f3n o talud ser\u00e1 estable."
+        },
+        {
+          "text": "Porque aumentan la temperatura del suelo durante las pruebas.",
+          "isCorrect": false,
+          "rationale": "Estos par\u00e1metros describen la composici\u00f3n y comportamiento, no act\u00faan como fuentes de energ\u00eda t\u00e9rmica."
+        },
+        {
+          "text": "Porque reemplazan la necesidad de realizar ensayos triaxiales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, estos par\u00e1metros alimentan y complementan la informaci\u00f3n de los ensayos de resistencia."
+        }
+      ],
+      "hint": "Son los datos de entrada necesarios para que los modelos matem\u00e1ticos y programas funcionen."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito del est\u00e1ndar NI 43-101 en la ejecuci\u00f3n de proyectos mineros?",
+      "answerOptions": [
+        {
+          "text": "Garantizar la transparencia t\u00e9cnica y respaldar dise\u00f1os ante terceros.",
+          "isCorrect": true,
+          "rationale": "Este cumplimiento normativo es imperativo para validar datos estructurales y asegurar la auditabilidad del proyecto."
+        },
+        {
+          "text": "Establecer la f\u00f3rmula exacta de la cohesi\u00f3n del suelo.",
+          "isCorrect": false,
+          "rationale": "La cohesi\u00f3n se determina mediante modelos f\u00edsicos como Mohr-Coulomb, no por un est\u00e1ndar de reporte financiero-t\u00e9cnico."
+        },
+        {
+          "text": "Reducir los costos de perforaci\u00f3n diamantina.",
+          "isCorrect": false,
+          "rationale": "El est\u00e1ndar se enfoca en la calidad y veracidad de la informaci\u00f3n, no en la reducci\u00f3n directa de costos operativos de campo."
+        },
+        {
+          "text": "Definir el enfriamiento de las rocas \u00edgneas.",
+          "isCorrect": false,
+          "rationale": "El enfriamiento es un proceso geol\u00f3gico natural, mientras que el NI 43-101 es un marco de cumplimiento normativo."
+        }
+      ],
+      "hint": "Se relaciona con la validaci\u00f3n oficial y la transparencia de los informes t\u00e9cnicos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo surge directamente al intentar respaldar un dise\u00f1o con datos geot\u00e9cnicos que superan los 5 a\u00f1os de antig\u00fcedad?",
+      "answerOptions": [
+        {
+          "text": "Aumento de la dureza de la roca intacta.",
+          "isCorrect": false,
+          "rationale": "El tiempo y la meteorizaci\u00f3n suelen degradar el material, no endurecerlo espont\u00e1neamente."
+        },
+        {
+          "text": "Riesgo regulatorio mayor y p\u00e9rdida de vigencia legal.",
+          "isCorrect": true,
+          "rationale": "La informaci\u00f3n caduca autom\u00e1ticamente ante los entes fiscalizadores, dejando a la operaci\u00f3n vulnerable en auditor\u00edas."
+        },
+        {
+          "text": "Mejora en la precisi\u00f3n de los modelos emp\u00edricos.",
+          "isCorrect": false,
+          "rationale": "Los modelos pierden precisi\u00f3n si los datos de entrada no reflejan el estado actual y degradado del terreno."
+        },
+        {
+          "text": "Eliminaci\u00f3n autom\u00e1tica de las discontinuidades estructurales.",
+          "isCorrect": false,
+          "rationale": "Las discontinuidades son caracter\u00edsticas permanentes o evolutivas del macizo que no desaparecen por el paso del tiempo."
+        }
+      ],
+      "hint": "Tiene que ver con la validez oficial ante auditor\u00edas externas y cierres de mina."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Exploraci\u00f3n geot\u00e9cnica y m\u00e9todos de prospecci\u00f3n",
+      "Propiedades f\u00edsicas intr\u00ednsecas del suelo",
+      "Teor\u00eda de falla de Mohr-Coulomb",
+      "Ensayo de compresi\u00f3n triaxial y sus categor\u00edas",
+      "G\u00e9nesis y evoluci\u00f3n estructural de las rocas",
+      "Meteorizaci\u00f3n y comportamiento de macizos rocosos",
+      "Est\u00e1ndares regulatorios y cumplimiento normativo (NI 43-101)"
+    ],
+    "followUp": [
+      "An\u00e1lisis de estabilidad cinem\u00e1tica en taludes rocosos",
+      "Influencia de la presi\u00f3n de poros en la resistencia efectiva",
+      "Sistemas de clasificaci\u00f3n geomec\u00e1nica (RMR, Q, GSI)",
+      "Modelamiento num\u00e9rico avanzado de discontinuidades",
+      "Geof\u00edsica aplicada a la estratigraf\u00eda profunda"
+    ]
+  }
+}

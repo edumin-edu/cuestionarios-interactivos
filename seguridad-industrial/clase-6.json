@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el est\u00e1ndar internacional definitivo y proactivo, publicado en 2018, que rige la gesti\u00f3n de seguridad y salud ocupacional?",
+      "answerOptions": [
+        {
+          "text": "ISO 18001",
+          "isCorrect": false,
+          "rationale": "Esta es una denominaci\u00f3n inexistente que suele confundirse con el antiguo est\u00e1ndar de seguridad."
+        },
+        {
+          "text": "OHSAS 18001",
+          "isCorrect": false,
+          "rationale": "Este fue el est\u00e1ndar previo, de car\u00e1cter m\u00e1s reactivo y basado en procedimientos aislados, que no pertenec\u00eda a la familia ISO."
+        },
+        {
+          "text": "ISO 45001",
+          "isCorrect": true,
+          "rationale": "Publicada en 2018, esta norma establece el marco estrat\u00e9gico actual para la protecci\u00f3n proactiva de los trabajadores."
+        },
+        {
+          "text": "ISO 9001",
+          "isCorrect": false,
+          "rationale": "Esta norma se enfoca espec\u00edficamente en los sistemas de gesti\u00f3n de calidad, no en la seguridad ocupacional."
+        }
+      ],
+      "hint": "Recuerda el a\u00f1o de publicaci\u00f3n mencionado como el hito de la evoluci\u00f3n hacia un enfoque preventivo."
+    },
+    {
+      "question": "Bajo la Ley 30222, \u00bfcu\u00e1l es la pena privativa de la libertad m\u00ednima que puede enfrentar la alta direcci\u00f3n ante un accidente mortal por incumplimiento deliberado?",
+      "answerOptions": [
+        {
+          "text": "$2$ a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Esta pena suele aplicarse a faltas administrativas menores o incidentes sin fatalidades."
+        },
+        {
+          "text": "$3$ a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Aunque es una pena de prisi\u00f3n, es inferior al rango establecido por la ley para casos de muerte por negligencia grave."
+        },
+        {
+          "text": "$5$ a\u00f1os",
+          "isCorrect": true,
+          "rationale": "La normativa legal establece que la responsabilidad penal directa puede conllevar penas de $5$ a\u00f1os o m\u00e1s de prisi\u00f3n."
+        },
+        {
+          "text": "$10$ a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Si bien las penas pueden ser mayores a $5$ a\u00f1os, este n\u00famero excede el m\u00ednimo legal inicial mencionado para estos casos."
+        }
+      ],
+      "hint": "Considere un periodo de tiempo que supera la duraci\u00f3n de un ciclo de gobierno est\u00e1ndar."
+    },
+    {
+      "question": "\u00bfA qui\u00e9n se le asigna la responsabilidad directa y totalmente indelegable del liderazgo en el sistema de gesti\u00f3n de seguridad?",
+      "answerOptions": [
+        {
+          "text": "Supervisores de planta",
+          "isCorrect": false,
+          "rationale": "Aunque vigilan la operaci\u00f3n, el nuevo est\u00e1ndar traslada la responsabilidad m\u00e1xima fuera de los mandos operativos."
+        },
+        {
+          "text": "Comit\u00e9 de Seguridad y Salud",
+          "isCorrect": false,
+          "rationale": "Es un \u00f3rgano de apoyo y consulta, pero no asume la responsabilidad legal y estrat\u00e9gica final de la organizaci\u00f3n."
+        },
+        {
+          "text": "Alta direcci\u00f3n",
+          "isCorrect": true,
+          "rationale": "Gerentes generales, due\u00f1os y directivos asumen el liderazgo directo para garantizar que la seguridad sea un eje estrat\u00e9gico."
+        },
+        {
+          "text": "Ministerio de Trabajo",
+          "isCorrect": false,
+          "rationale": "Esta es la entidad fiscalizadora externa, no la encargada del liderazgo interno de la empresa."
+        }
+      ],
+      "hint": "Piense en las esferas m\u00e1s altas de la jerarqu\u00eda organizacional."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece el principio de 'igual funci\u00f3n, igual protecci\u00f3n' en relaci\u00f3n con el personal tercerizado?",
+      "answerOptions": [
+        {
+          "text": "Que los contratistas deben proveer sus propios est\u00e1ndares de seguridad.",
+          "isCorrect": false,
+          "rationale": "La empresa principal no puede delegar la seguridad totalmente en el contratista; debe integrarlos a su propio sistema."
+        },
+        {
+          "text": "Que la empresa principal debe garantizar los mismos est\u00e1ndares y protocolos que para su personal de planta.",
+          "isCorrect": true,
+          "rationale": "Este principio busca eliminar la precariedad asegurando que todos operen bajo el mismo nivel de vigilancia y protecci\u00f3n."
+        },
+        {
+          "text": "Que el personal de planta tiene prioridad en el uso de equipos de protecci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esto contradice el principio de igualdad y protecci\u00f3n universal en el entorno laboral."
+        },
+        {
+          "text": "Que la responsabilidad legal es exclusiva de la empresa contratista.",
+          "isCorrect": false,
+          "rationale": "La normativa actual establece una responsabilidad compartida e ineludible por parte de la empresa principal."
+        }
+      ],
+      "hint": "Este concepto busca la uniformidad en las medidas preventivas para todas las personas en la operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define el IPERC de l\u00ednea base dentro de una organizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Es la evaluaci\u00f3n que se realiza minutos antes de iniciar una tarea espec\u00edfica.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde al IPERC continuo, no a la radiograf\u00eda estrat\u00e9gica inicial."
+        },
+        {
+          "text": "Es el registro paso a paso para tareas de alto riesgo puntual.",
+          "isCorrect": false,
+          "rationale": "Esto define al An\u00e1lisis de Trabajo Seguro (ATS) en lugar de la l\u00ednea base."
+        },
+        {
+          "text": "Es un mapeo estrat\u00e9gico anual que realiza una radiograf\u00eda completa de todos los procesos.",
+          "isCorrect": true,
+          "rationale": "El IPERC de l\u00ednea base sirve como fundamento preventivo al identificar todos los peligros de la operaci\u00f3n global."
+        },
+        {
+          "text": "Es un informe que se env\u00eda \u00fanicamente a la Sunafil en caso de accidentes.",
+          "isCorrect": false,
+          "rationale": "El IPERC es una herramienta de gesti\u00f3n interna y preventiva, no solo un reporte de incidentes."
+        }
+      ],
+      "hint": "Piense en el documento que sirve como punto de partida y diagn\u00f3stico general para todo el a\u00f1o."
+    },
+    {
+      "question": "\u00bfQu\u00e9 f\u00f3rmula matem\u00e1tica se utiliza para calcular el nivel de riesgo en las herramientas preventivas?",
+      "answerOptions": [
+        {
+          "text": "$Frecuencia + Impacto$",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de riesgos utiliza una operaci\u00f3n multiplicativa para magnificar la relaci\u00f3n entre ocurrencia y da\u00f1o."
+        },
+        {
+          "text": "$Peligro \\times Control$",
+          "isCorrect": false,
+          "rationale": "El control es la medida de mitigaci\u00f3n, no una de las variables originales para determinar la magnitud del riesgo."
+        },
+        {
+          "text": "$Probabilidad \\times Severidad$",
+          "isCorrect": true,
+          "rationale": "Esta multiplicaci\u00f3n permite cuantificar qu\u00e9 tan probable es un evento y qu\u00e9 tan grave ser\u00eda el da\u00f1o resultante."
+        },
+        {
+          "text": "$Vulnerabilidad / Exposici\u00f3n$",
+          "isCorrect": false,
+          "rationale": "Aunque son conceptos relacionados, no forman la ecuaci\u00f3n fundamental del IPERC mencionada."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre la posibilidad de que algo suceda y la magnitud del desastre resultante."
+    },
+    {
+      "question": "En el sem\u00e1foro de clasificaci\u00f3n de riesgos, \u00bfqu\u00e9 indica el color rojo para una tarea determinada?",
+      "answerOptions": [
+        {
+          "text": "Que el trabajo puede continuar si se usa el EPP adecuado.",
+          "isCorrect": false,
+          "rationale": "El color rojo indica un riesgo inaceptable que no se soluciona \u00fanicamente con protecci\u00f3n personal."
+        },
+        {
+          "text": "Que el riesgo es medio y se debe corregir en el transcurso del d\u00eda.",
+          "isCorrect": false,
+          "rationale": "Un riesgo medio suele asociarse al color amarillo y permite plazos de correcci\u00f3n bajo supervisi\u00f3n."
+        },
+        {
+          "text": "Que el trabajo no se inicia o debe detenerse inmediatamente.",
+          "isCorrect": true,
+          "rationale": "El rojo representa un peligro extremo donde no hay margen de negociaci\u00f3n y la seguridad est\u00e1 comprometida."
+        },
+        {
+          "text": "Que el riesgo es tolerable y solo requiere vigilancia ocasional.",
+          "isCorrect": false,
+          "rationale": "Esta es la definici\u00f3n de un riesgo bajo, representado t\u00edpicamente por el color verde."
+        }
+      ],
+      "hint": "Es la se\u00f1al m\u00e1s cr\u00edtica que impide cualquier tipo de actividad operativa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el orden jer\u00e1rquico descendente correcto para la implementaci\u00f3n de controles de seguridad?",
+      "answerOptions": [
+        {
+          "text": "EPP, Administrativos, Ingenier\u00eda, Sustituci\u00f3n, Eliminaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este orden es inverso; el EPP nunca debe ser la primera opci\u00f3n de control."
+        },
+        {
+          "text": "Eliminaci\u00f3n, Sustituci\u00f3n, Ingenier\u00eda, Administrativos, EPP.",
+          "isCorrect": true,
+          "rationale": "La jerarqu\u00eda prioriza la supresi\u00f3n del peligro en la fuente antes de recurrir a la protecci\u00f3n individual."
+        },
+        {
+          "text": "Ingenier\u00eda, Eliminaci\u00f3n, EPP, Administrativos, Sustituci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La ingenier\u00eda es un paso intermedio que se aplica solo si no se pudo eliminar o sustituir el peligro."
+        },
+        {
+          "text": "Sustituci\u00f3n, Ingenier\u00eda, Eliminaci\u00f3n, EPP, Administrativos.",
+          "isCorrect": false,
+          "rationale": "La eliminaci\u00f3n es siempre el paso superior por encima de la sustituci\u00f3n."
+        }
+      ],
+      "hint": "La secuencia siempre debe intentar desaparecer el peligro f\u00edsicamente antes que cualquier otra medida."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el Equipo de Protecci\u00f3n Personal (EPP) se considera la \u00faltima barrera de defensa?",
+      "answerOptions": [
+        {
+          "text": "Porque es la medida m\u00e1s costosa para la empresa.",
+          "isCorrect": false,
+          "rationale": "El costo no determina su lugar en la jerarqu\u00eda; lo determina su efectividad para evitar el contacto con el peligro."
+        },
+        {
+          "text": "Porque solo protege al trabajador individual y no elimina el peligro del entorno.",
+          "isCorrect": true,
+          "rationale": "A diferencia de los controles de ingenier\u00eda o eliminaci\u00f3n, el peligro sigue presente y el EPP es solo un escudo final."
+        },
+        {
+          "text": "Porque es el \u00fanico control requerido por la ley vigente.",
+          "isCorrect": false,
+          "rationale": "La ley exige agotar la jerarqu\u00eda de controles antes de depender exclusivamente del EPP."
+        },
+        {
+          "text": "Porque su uso es opcional dependiendo de la decisi\u00f3n del trabajador.",
+          "isCorrect": false,
+          "rationale": "El uso de EPP es obligatorio, pero t\u00e9cnicamente es el recurso final tras fallar otros controles."
+        }
+      ],
+      "hint": "Considere si el peligro desaparece del \u00e1rea de trabajo cuando el trabajador se pone su equipo."
+    },
+    {
+      "question": "En la clasificaci\u00f3n de materiales peligrosos (MATPEL), \u00bfcu\u00e1ntas categor\u00edas universales existen?",
+      "answerOptions": [
+        {
+          "text": "$4$",
+          "isCorrect": false,
+          "rationale": "Existen m\u00e1s categor\u00edas para cubrir elementos como radioactivos, t\u00f3xicos y miscel\u00e1neos."
+        },
+        {
+          "text": "$6$",
+          "isCorrect": false,
+          "rationale": "Esta cifra es insuficiente para la clasificaci\u00f3n internacional completa que incluye s\u00f3lidos inflamables y oxidantes."
+        },
+        {
+          "text": "$9$",
+          "isCorrect": true,
+          "rationale": "La normativa universal reconoce $9$ categor\u00edas que abarcan desde explosivos hasta sustancias peligrosas diversas."
+        },
+        {
+          "text": "$12$",
+          "isCorrect": false,
+          "rationale": "Aunque hay muchas sustancias, la organizaci\u00f3n estandarizada las agrupa en un n\u00famero menor de clases principales."
+        }
+      ],
+      "hint": "Es un n\u00famero de un solo d\u00edgito que se encuentra entre el ocho y el diez."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo espec\u00edfico representa el aceite de cocina reciclado si se desecha incorrectamente por el desag\u00fce?",
+      "answerOptions": [
+        {
+          "text": "Emisi\u00f3n de radiaci\u00f3n gamma.",
+          "isCorrect": false,
+          "rationale": "El aceite no posee propiedades radioactivas; sus riesgos son qu\u00edmicos y de inflamabilidad."
+        },
+        {
+          "text": "Se comporta como un s\u00f3lido inflamable y agente carcin\u00f3geno.",
+          "isCorrect": true,
+          "rationale": "El aceite quemado emite vapores t\u00f3xicos y contiene agentes que pueden producir c\u00e1ncer si hay exposici\u00f3n prolongada."
+        },
+        {
+          "text": "Generaci\u00f3n de arcos voltaicos en las tuber\u00edas.",
+          "isCorrect": false,
+          "rationale": "Los arcos voltaicos son fen\u00f3menos el\u00e9ctricos, no qu\u00edmicos relacionados con aceites."
+        },
+        {
+          "text": "No representa riesgo alguno m\u00e1s all\u00e1 de la obstrucci\u00f3n f\u00edsica.",
+          "isCorrect": false,
+          "rationale": "Esto ignora los peligros sanitarios y de seguridad qu\u00edmica que conlleva su descomposici\u00f3n y vapores."
+        }
+      ],
+      "hint": "Piense en las propiedades qu\u00edmicas negativas que adquiere el aceite al ser sometido a altas temperaturas."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 nivel de respuesta ante materiales peligrosos interviene el personal t\u00e9cnico con trajes avanzados para realizar acciones ofensivas?",
+      "answerOptions": [
+        {
+          "text": "Nivel $1$ (Advertencia)",
+          "isCorrect": false,
+          "rationale": "En este nivel solo se identifica la amenaza desde una distancia segura sin intervenir."
+        },
+        {
+          "text": "Nivel $2$ (Operacional)",
+          "isCorrect": false,
+          "rationale": "Aqu\u00ed las acciones son puramente defensivas y no se busca cortar la fuga en su origen."
+        },
+        {
+          "text": "Nivel $3$ (T\u00e9cnico)",
+          "isCorrect": true,
+          "rationale": "Este nivel requiere especialistas capacitados para detener el incidente directamente en la fuente del peligro."
+        },
+        {
+          "text": "Nivel $4$ (Gerencial)",
+          "isCorrect": false,
+          "rationale": "La gerencia toma decisiones estrat\u00e9gicas, pero no es un nivel de respuesta t\u00e1ctica en el campo para MATPEL."
+        }
+      ],
+      "hint": "Es el escal\u00f3n m\u00e1s alto de intervenci\u00f3n directa donde se utiliza equipo de protecci\u00f3n qu\u00edmica especializado."
+    },
+    {
+      "question": "Seg\u00fan las lecciones de seguridad operativa, \u00bfa partir de qu\u00e9 altura de ca\u00edda de objetos se considera cr\u00edtica la necesidad de per\u00edmetros de seguridad?",
+      "answerOptions": [
+        {
+          "text": "$0.50\\text{ m}$",
+          "isCorrect": false,
+          "rationale": "Aunque cualquier ca\u00edda es un riesgo, el precedente tr\u00e1gico mencionado establece un l\u00edmite espec\u00edfico de mayor impacto."
+        },
+        {
+          "text": "$1.20\\text{ m}$",
+          "isCorrect": false,
+          "rationale": "Esta altura es peligrosa, pero no es el est\u00e1ndar cr\u00edtico de $1.80\\text{ m}$ definido para la obligatoriedad de controles estrictos."
+        },
+        {
+          "text": "$1.80\\text{ m}$",
+          "isCorrect": true,
+          "rationale": "Ca\u00eddas desde esta altura han provocado fatalidades, estableciendo un l\u00edmite no negociable para el aseguramiento de cargas."
+        },
+        {
+          "text": "$3.00\\text{ m}$",
+          "isCorrect": false,
+          "rationale": "A esta altura el riesgo es extremo, pero la normativa exige controles desde una medida mucho menor."
+        }
+      ],
+      "hint": "Considere la altura promedio de una persona alta como el punto de inflexi\u00f3n para la seguridad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la raz\u00f3n principal por la que est\u00e1 prohibido aplicar alcohol directamente sobre una herida abierta?",
+      "answerOptions": [
+        {
+          "text": "Porque el alcohol atrae bacterias del ambiente.",
+          "isCorrect": false,
+          "rationale": "El alcohol es un desinfectante, pero su efecto negativo en heridas abiertas es de naturaleza qu\u00edmica sobre el tejido."
+        },
+        {
+          "text": "Porque es altamente corrosivo para el tejido vivo y retrasa la cicatrizaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "El alcohol quema las c\u00e9lulas expuestas de la herida, empeorando la lesi\u00f3n en lugar de ayudar a sanarla."
+        },
+        {
+          "text": "Porque induce hemorragias incontrolables.",
+          "isCorrect": false,
+          "rationale": "Si bien puede irritar, su principal contraindicaci\u00f3n no es la interferencia con la coagulaci\u00f3n sangu\u00ednea."
+        },
+        {
+          "text": "Porque solo debe usarse para limpiar metales.",
+          "isCorrect": false,
+          "rationale": "El alcohol puede usarse en la piel intacta, pero el problema es su contacto con el tejido interno expuesto."
+        }
+      ],
+      "hint": "Piense en el efecto que tiene una sustancia qu\u00edmica fuerte sobre las c\u00e9lulas delicadas que intentan regenerarse."
+    },
+    {
+      "question": "En la evaluaci\u00f3n ergon\u00f3mica administrativa con el m\u00e9todo ROSA, \u00bfqu\u00e9 resultado indica una alerta roja que exige redise\u00f1o?",
+      "answerOptions": [
+        {
+          "text": "Un puntaje de $1$",
+          "isCorrect": false,
+          "rationale": "Un puntaje bajo indica que la estaci\u00f3n de trabajo es ergon\u00f3micamente aceptable."
+        },
+        {
+          "text": "Un puntaje de $3$",
+          "isCorrect": false,
+          "rationale": "Esto representa un nivel de riesgo bajo o moderado que no llega al umbral de redise\u00f1o inmediato."
+        },
+        {
+          "text": "Un puntaje de $5$ o m\u00e1s",
+          "isCorrect": true,
+          "rationale": "Un resultado de $5$ en el m\u00e9todo ROSA se\u00f1ala una tensi\u00f3n elevada que puede causar trastornos cr\u00f3nicos."
+        },
+        {
+          "text": "Un puntaje menor a $0$",
+          "isCorrect": false,
+          "rationale": "El m\u00e9todo utiliza una escala de n\u00fameros positivos basada en la acumulaci\u00f3n de factores de riesgo."
+        }
+      ],
+      "hint": "Es el n\u00famero que marca el l\u00edmite superior de tolerancia en la escala de puntos de este m\u00e9todo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fen\u00f3meno explica las lesiones osteomusculares causadas por maquinaria dise\u00f1ada para est\u00e1ndares de estatura extranjeros?",
+      "answerOptions": [
+        {
+          "text": "El desfase de potencia del motor.",
+          "isCorrect": false,
+          "rationale": "El problema no radica en la fuerza de la m\u00e1quina, sino en la disposici\u00f3n f\u00edsica de sus controles."
+        },
+        {
+          "text": "La brecha de estatura o $stature gap$.",
+          "isCorrect": true,
+          "rationale": "La maquinaria dise\u00f1ada para personas de $1.80\\text{ m}$ obliga a operarios m\u00e1s bajos a adoptar posturas forzadas y lesivas."
+        },
+        {
+          "text": "El exceso de automatizaci\u00f3n industrial.",
+          "isCorrect": false,
+          "rationale": "La automatizaci\u00f3n suele reducir el esfuerzo f\u00edsico; el problema aqu\u00ed es la ergonom\u00eda de la interfaz hombre-m\u00e1quina."
+        },
+        {
+          "text": "La falta de mantenimiento preventivo.",
+          "isCorrect": false,
+          "rationale": "Incluso una m\u00e1quina nueva causa da\u00f1os si sus dimensiones no se ajustan a la antropometr\u00eda del operario."
+        }
+      ],
+      "hint": "Se refiere a la diferencia f\u00edsica entre el operario local y el modelo humano usado por los fabricantes internacionales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la recomendaci\u00f3n t\u00e9cnica para realizar un giro mientras se sostiene una carga pesada?",
+      "answerOptions": [
+        {
+          "text": "Girar \u00fanicamente el torso manteniendo los pies fijos.",
+          "isCorrect": false,
+          "rationale": "Esta acci\u00f3n genera una torsi\u00f3n peligrosa en la columna vertebral que puede causar hernias."
+        },
+        {
+          "text": "Pivotar con los pies para girar el cuerpo entero simult\u00e1neamente.",
+          "isCorrect": true,
+          "rationale": "Mover los pies permite que la columna permanezca alineada y evita lesiones por rotaci\u00f3n lumbar."
+        },
+        {
+          "text": "Levantar la carga por encima de los hombros antes de girar.",
+          "isCorrect": false,
+          "rationale": "Elevar el centro de gravedad de la carga hace que el equilibrio sea inestable y aumenta el riesgo."
+        },
+        {
+          "text": "Inclinar el cuerpo hacia adelante para compensar el peso.",
+          "isCorrect": false,
+          "rationale": "La espalda debe permanecer recta para distribuir el peso correctamente a trav\u00e9s de las piernas."
+        }
+      ],
+      "hint": "La clave est\u00e1 en no torcer la espalda, sino en usar las extremidades inferiores para cambiar de direcci\u00f3n."
+    },
+    {
+      "question": "\u00bfDe qu\u00e9 manera impactan los factores psicosociales negativos en la seguridad operativa?",
+      "answerOptions": [
+        {
+          "text": "Aumentan la rapidez de ejecuci\u00f3n de las tareas.",
+          "isCorrect": false,
+          "rationale": "Aunque pueda parecer que se trabaja m\u00e1s r\u00e1pido, la calidad y la seguridad disminuyen dr\u00e1sticamente por el estr\u00e9s."
+        },
+        {
+          "text": "Anulan la capacidad cognitiva para identificar peligros obvios.",
+          "isCorrect": true,
+          "rationale": "Un trabajador bajo presi\u00f3n extrema pierde la conciencia situacional, convirti\u00e9ndose en propenso a accidentes."
+        },
+        {
+          "text": "Mejoran la comunicaci\u00f3n entre los miembros del equipo.",
+          "isCorrect": false,
+          "rationale": "Una cultura t\u00f3xica y el estr\u00e9s suelen fracturar la comunicaci\u00f3n y la confianza organizacional."
+        },
+        {
+          "text": "No tienen relaci\u00f3n con la ocurrencia de accidentes f\u00edsicos.",
+          "isCorrect": false,
+          "rationale": "La salud mental es un pilar de la seguridad; una mente distra\u00edda o estresada es un factor de riesgo cr\u00edtico."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el estr\u00e9s severo afecta la atenci\u00f3n y la percepci\u00f3n del entorno."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una funci\u00f3n clave de la transformaci\u00f3n digital en la seguridad ocupacional actual?",
+      "answerOptions": [
+        {
+          "text": "Reemplazar la necesidad de capacitaci\u00f3n humana.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda es una herramienta de apoyo, pero la conciencia humana sigue siendo indispensable en la prevenci\u00f3n."
+        },
+        {
+          "text": "Garantizar trazabilidad absoluta y reportar incidentes en tiempo real a las autoridades.",
+          "isCorrect": true,
+          "rationale": "El uso de softwares integrados permite transparencia total y una respuesta inmediata ante organismos como Sunafil."
+        },
+        {
+          "text": "Eliminar la responsabilidad penal de la gerencia.",
+          "isCorrect": false,
+          "rationale": "Ninguna herramienta digital exime a la alta direcci\u00f3n de sus responsabilidades legales ante la ley."
+        },
+        {
+          "text": "Reducir el tiempo de las pausas activas.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la digitalizaci\u00f3n puede ayudar a programar y recordar la necesidad de estos descansos vitales."
+        }
+      ],
+      "hint": "Considere la ventaja de tener informaci\u00f3n transparente y disponible al instante para la fiscalizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el fin supremo de implementar la vigilancia de salud y controles preventivos en el ecosistema corporativo?",
+      "answerOptions": [
+        {
+          "text": "Evitar multas administrativas de los entes reguladores.",
+          "isCorrect": false,
+          "rationale": "Aunque es una consecuencia, el objetivo real va m\u00e1s all\u00e1 del cumplimiento econ\u00f3mico o legal."
+        },
+        {
+          "text": "Llenar formatos para cumplir con los est\u00e1ndares de auditor\u00eda.",
+          "isCorrect": false,
+          "rationale": "La seguridad debe ser un eje estrat\u00e9gico real y no un simple 'papeleo aburrido' sin impacto en la gente."
+        },
+        {
+          "text": "Garantizar la completa integridad biopsicosocial de todas las personas.",
+          "isCorrect": true,
+          "rationale": "El prop\u00f3sito final es proteger la vida y la salud integral del trabajador para asegurar su bienestar y el de su familia."
+        },
+        {
+          "text": "Aumentar la ventaja competitiva mediante la reducci\u00f3n de costos de personal.",
+          "isCorrect": false,
+          "rationale": "La seguridad es una ventaja competitiva por la protecci\u00f3n del talento, no por la precarizaci\u00f3n de costos."
+        }
+      ],
+      "hint": "Este objetivo abarca la salud f\u00edsica, mental y social del ser humano."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Norma ISO 45001 y Evoluci\u00f3n de Est\u00e1ndares",
+      "Marco Legal y Responsabilidad Penal (Ley 30222)",
+      "Herramientas de Gesti\u00f3n de Riesgos (IPERC y ATS)",
+      "Jerarqu\u00eda T\u00e9cnica de Controles",
+      "Gesti\u00f3n de Materiales Peligrosos (MATPEL)",
+      "Ergonom\u00eda e Incompatibilidad Antropom\u00e9trica",
+      "Factores Psicosociales y Salud Mental en el Trabajo"
+    ],
+    "followUp": [
+      "Protocolos de Vigilancia M\u00e9dica para Enfermedades Profesionales",
+      "Sistemas de Gesti\u00f3n Digital y Reportabilidad en Tiempo Real",
+      "T\u00e9cnicas de Primeros Auxilios Cl\u00ednicos y Respuesta a Emergencias",
+      "Cultura Preventiva y Liderazgo \u00c9tico Organizacional"
+    ]
+  }
+}

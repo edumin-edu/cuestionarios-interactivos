@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el cambio fundamental que introduce la norma ISO 45001 en comparaci\u00f3n con el antiguo enfoque de la OSHAS 18001?",
+      "answerOptions": [
+        {
+          "text": "La seguridad pasa de ser un departamento aislado a ser la columna vertebral de la estrategia corporativa.",
+          "isCorrect": true,
+          "rationale": "Este est\u00e1ndar integra la seguridad en el n\u00facleo del negocio con un liderazgo fuerte y participaci\u00f3n activa de los trabajadores."
+        },
+        {
+          "text": "Se enfoca exclusivamente en el cumplimiento de leyes reactivas para evitar multas estatales.",
+          "isCorrect": false,
+          "rationale": "Este era el enfoque tradicional que la norma busca superar para transitar hacia una gesti\u00f3n proactiva y estrat\u00e9gica."
+        },
+        {
+          "text": "Elimina por completo el uso de documentaci\u00f3n f\u00edsica para reducir la burocracia operativa.",
+          "isCorrect": false,
+          "rationale": "Aunque busca eficiencia, la norma no elimina la documentaci\u00f3n, sino que la transforma de un fin en s\u00ed mismo a una herramienta de mejora."
+        },
+        {
+          "text": "Centraliza todas las decisiones de seguridad exclusivamente en la alta gerencia desde un escritorio.",
+          "isCorrect": false,
+          "rationale": "La norma exige lo contrario: que las reglas se construyan y validen en el terreno con los operadores."
+        }
+      ],
+      "hint": "Observa c\u00f3mo se integra la seguridad dentro de la estructura general de la organizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 derecho inalienable consagra legalmente el Convenio 176 de la OIT para los trabajadores mineros?",
+      "answerOptions": [
+        {
+          "text": "El derecho a elegir libremente su turno de trabajo de acuerdo con su disponibilidad personal.",
+          "isCorrect": false,
+          "rationale": "Aunque la flexibilidad existe en algunos sectores, no es el pilar legal espec\u00edfico definido por este convenio minero."
+        },
+        {
+          "text": "El derecho a interrumpir sus labores y retirarse ante peligros graves e inminentes sin temor a represalias.",
+          "isCorrect": true,
+          "rationale": "Este es el est\u00e1ndar de oro de la OIT que prioriza la vida del minero sobre la continuidad inmediata de la operaci\u00f3n."
+        },
+        {
+          "text": "El derecho a recibir un bono econ\u00f3mico por cada d\u00eda trabajado en condiciones de alto riesgo.",
+          "isCorrect": false,
+          "rationale": "El convenio se enfoca en la prevenci\u00f3n y protecci\u00f3n de la integridad, no en la compensaci\u00f3n monetaria por exposici\u00f3n al riesgo."
+        },
+        {
+          "text": "El derecho a gestionar de forma aut\u00f3noma el presupuesto de seguridad de la unidad minera.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n presupuestaria sigue siendo responsabilidad administrativa, mientras que el convenio protege la seguridad f\u00edsica directa."
+        }
+      ],
+      "hint": "Se trata de una facultad legal que permite al trabajador priorizar su supervivencia ante un riesgo vital."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una de las adaptaciones biol\u00f3gicas m\u00e1s notables del trabajador andino para operar en altitudes superiores a los $3,000$ m.s.n.m.?",
+      "answerOptions": [
+        {
+          "text": "Reducci\u00f3n dr\u00e1stica del tama\u00f1o de los pulmones para conservar energ\u00eda cal\u00f3rica.",
+          "isCorrect": false,
+          "rationale": "Biol\u00f3gicamente ocurre lo opuesto, ya que se requiere mayor superficie para captar el ox\u00edgeno escaso."
+        },
+        {
+          "text": "Mayor capacidad tor\u00e1cica y pulmones m\u00e1s grandes para capturar el poco ox\u00edgeno disponible.",
+          "isCorrect": true,
+          "rationale": "Esta adaptaci\u00f3n permite compensar la hipoxia ambiental mediante un intercambio gaseoso m\u00e1s eficiente."
+        },
+        {
+          "text": "Predominancia absoluta de sangre tipo AB negativo para facilitar la coagulaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La adaptaci\u00f3n gen\u00e9tica observada en estas poblaciones muestra una predominancia casi absoluta de sangre tipo O."
+        },
+        {
+          "text": "Aceleraci\u00f3n del sistema digestivo para procesar nutrientes en la mitad del tiempo normal.",
+          "isCorrect": false,
+          "rationale": "En la altura la digesti\u00f3n se vuelve m\u00e1s lenta, lo que puede derivar en condiciones como el megacolon."
+        }
+      ],
+      "hint": "Relaciona el tama\u00f1o de los \u00f3rganos respiratorios con la baja presi\u00f3n de ox\u00edgeno en la alta monta\u00f1a."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa la pr\u00e1ctica denominada 'cama caliente' en el contexto de los est\u00e1ndares de higiene y salud ambiental?",
+      "answerOptions": [
+        {
+          "text": "Un m\u00e9todo de calefacci\u00f3n sostenible para campamentos situados en zonas de fr\u00edo extremo.",
+          "isCorrect": false,
+          "rationale": "Esta interpretaci\u00f3n confunde un t\u00e9rmino de precariedad laboral con una soluci\u00f3n de ingenier\u00eda t\u00e9rmica."
+        },
+        {
+          "text": "Una t\u00e9cnica de recuperaci\u00f3n muscular mediante el uso de camas t\u00e9rmicas despu\u00e9s del turno.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino no se refiere a fisioterapia, sino a una deficiencia cr\u00edtica en las condiciones de habitabilidad."
+        },
+        {
+          "text": "La obligaci\u00f3n de compartir una misma cama en turnos rotativos, vulnerando la higiene y salud.",
+          "isCorrect": true,
+          "rationale": "Es una violaci\u00f3n flagrante a los est\u00e1ndares b\u00e1sicos de responsabilidad social y dignidad humana."
+        },
+        {
+          "text": "Un protocolo de esterilizaci\u00f3n de equipos de protecci\u00f3n personal mediante calor seco.",
+          "isCorrect": false,
+          "rationale": "La pr\u00e1ctica descrita no tiene fines sanitarios, sino que es un colapso en la aplicaci\u00f3n de est\u00e1ndares de calidad."
+        }
+      ],
+      "hint": "Piensa en el uso compartido de espacios de descanso personal por parte de diferentes trabajadores."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la norma ISO 17025 dentro de un proyecto minero?",
+      "answerOptions": [
+        {
+          "text": "Garantizar que los laboratorios entreguen an\u00e1lisis qu\u00edmicos con una exactitud impecable.",
+          "isCorrect": true,
+          "rationale": "Esta norma asegura la competencia t\u00e9cnica de los laboratorios, lo cual es cr\u00edtico para definir el valor real del mineral."
+        },
+        {
+          "text": "Regular el uso de explosivos en las zonas de extracci\u00f3n subterr\u00e1nea.",
+          "isCorrect": false,
+          "rationale": "El control de suministros peligrosos corresponde a otras normativas log\u00edsticas y de seguridad, no a la calibraci\u00f3n de laboratorios."
+        },
+        {
+          "text": "Gestionar el impacto social de la mina en las comunidades aleda\u00f1as.",
+          "isCorrect": false,
+          "rationale": "La relaci\u00f3n con la comunidad y la \u00e9tica corporativa se gu\u00edan principalmente por la ISO 26000."
+        },
+        {
+          "text": "Establecer los protocolos de remediaci\u00f3n de suelos tras el cierre de la mina.",
+          "isCorrect": false,
+          "rationale": "Aunque es vital, el cierre y remediaci\u00f3n dependen de normativas ambientales y de sostenibilidad, no de calibraci\u00f3n t\u00e9cnica."
+        }
+      ],
+      "hint": "Esta norma est\u00e1 relacionada con la precisi\u00f3n t\u00e9cnica de las mediciones y resultados anal\u00edticos."
+    },
+    {
+      "question": "En la jerarqu\u00eda de prevenci\u00f3n, \u00bfcu\u00e1l es el primer paso no negociable para la selecci\u00f3n de un Equipo de Protecci\u00f3n Personal (EPP)?",
+      "answerOptions": [
+        {
+          "text": "Seleccionar al proveedor que ofrezca el menor costo unitario para ahorrar presupuesto.",
+          "isCorrect": false,
+          "rationale": "El costo nunca debe ser el factor primario si compromete la certificaci\u00f3n y la vida del trabajador."
+        },
+        {
+          "text": "Realizar un an\u00e1lisis IPRC riguroso para identificar los peligros espec\u00edficos de cada puesto.",
+          "isCorrect": true,
+          "rationale": "Es imposible elegir el equipo adecuado si antes no se comprenden exactamente los riesgos a los que se enfrentar\u00e1 el usuario."
+        },
+        {
+          "text": "Elegir el equipo bas\u00e1ndose exclusivamente en el dise\u00f1o est\u00e9tico para mejorar la moral del personal.",
+          "isCorrect": false,
+          "rationale": "La est\u00e9tica es secundaria frente a la certificaci\u00f3n t\u00e9cnica y la capacidad de resistencia del material."
+        },
+        {
+          "text": "Comprar equipos gen\u00e9ricos que se adapten a cualquier tipo de industria sin distinci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda exige adaptabilidad antropom\u00e9trica y t\u00e9cnica que los equipos gen\u00e9ricos suelen ignorar."
+        }
+      ],
+      "hint": "Antes de comprar cualquier equipo, se debe saber exactamente qu\u00e9 riesgos se pretenden mitigar."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo cr\u00edtico para la salud se asocia con el uso prolongado de botas de jebe en ambientes de socav\u00f3n calurosos y h\u00famedos?",
+      "answerOptions": [
+        {
+          "text": "Atrofia muscular en las extremidades inferiores por el peso del calzado.",
+          "isCorrect": false,
+          "rationale": "Aunque el calzado pesado fatiga, el riesgo biol\u00f3gico inmediato y com\u00fan en humedad es de origen f\u00fangico."
+        },
+        {
+          "text": "Infecciones severas por hongos, como un pie de atleta avanzado que puede incapacitar al operario.",
+          "isCorrect": true,
+          "rationale": "La combinaci\u00f3n de humedad constante, calor y material sint\u00e9tico favorece la proliferaci\u00f3n de pat\u00f3genos biol\u00f3gicos."
+        },
+        {
+          "text": "Desmineralizaci\u00f3n \u00f3sea por falta de contacto del pie con superficies naturales.",
+          "isCorrect": false,
+          "rationale": "La desmineralizaci\u00f3n no ocurre por el tipo de calzado, sino por factores diet\u00e9ticos o metab\u00f3licos ajenos a la bota."
+        },
+        {
+          "text": "Aumento excesivo de la presi\u00f3n arterial debido a la compresi\u00f3n del tobillo.",
+          "isCorrect": false,
+          "rationale": "El dise\u00f1o de la bota no genera cambios sist\u00e9micos en la presi\u00f3n arterial, pero s\u00ed compromete la salud d\u00e9rmica."
+        }
+      ],
+      "hint": "Considera qu\u00e9 microorganismos prosperan en lugares cerrados, h\u00famedos y calientes."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera que la ISO 22000 es fundamental para la seguridad operativa en campamentos mineros de gran escala?",
+      "answerOptions": [
+        {
+          "text": "Regula la emisi\u00f3n de gases en los comedores industriales.",
+          "isCorrect": false,
+          "rationale": "La norma se enfoca en la inocuidad alimentaria, no en la gesti\u00f3n de emisiones atmosf\u00e9ricas."
+        },
+        {
+          "text": "Previene intoxicaciones masivas que podr\u00edan paralizar la operaci\u00f3n por completo.",
+          "isCorrect": true,
+          "rationale": "Un evento sanitario masivo en un campamento aislado es una emergencia m\u00e9dica y log\u00edstica que detiene la producci\u00f3n."
+        },
+        {
+          "text": "Establece el dise\u00f1o ergon\u00f3mico de las sillas y mesas de los campamentos.",
+          "isCorrect": false,
+          "rationale": "La ergonom\u00eda mobiliaria no es el objetivo de la ISO 22000, sino la seguridad de la cadena alimentaria."
+        },
+        {
+          "text": "Garantiza que los trabajadores reciban dietas ricas en carbohidratos exclusivamente.",
+          "isCorrect": false,
+          "rationale": "La norma no dicta el men\u00fa nutricional, sino los procesos para evitar la contaminaci\u00f3n de los alimentos."
+        }
+      ],
+      "hint": "Imagina el impacto de una falla en la higiene de los alimentos cuando miles de trabajadores conviven en un mismo lugar."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia legal en Per\u00fa cuando el Estado ratifica un convenio de la OIT?",
+      "answerOptions": [
+        {
+          "text": "Se convierte en una sugerencia opcional que las empresas pueden ignorar si no tienen presupuesto.",
+          "isCorrect": false,
+          "rationale": "La ratificaci\u00f3n otorga car\u00e1cter vinculante y obligatorio, no opcional."
+        },
+        {
+          "text": "Se eleva al rango de jurisprudencia laboral y pasa a ser ley de cumplimiento estricto.",
+          "isCorrect": true,
+          "rationale": "Los convenios ratificados forman parte del bloque de constitucionalidad o legalidad vigente en el pa\u00eds."
+        },
+        {
+          "text": "Sustituye a todas las leyes nacionales previas de forma autom\u00e1tica sin necesidad de reglamentaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El convenio se integra al marco legal nacional, pero usualmente requiere reglamentaci\u00f3n espec\u00edfica para su aplicaci\u00f3n."
+        },
+        {
+          "text": "Solo aplica para empresas extranjeras que operan en territorio peruano.",
+          "isCorrect": false,
+          "rationale": "La ley es territorial y aplica a todas las organizaciones que operan en el pa\u00eds, sin importar su origen."
+        }
+      ],
+      "hint": "Piensa en el nivel de obligatoriedad que adquiere un tratado internacional firmado por el pa\u00eds."
+    },
+    {
+      "question": "\u00bfQu\u00e9 problema ergon\u00f3mico surge com\u00fanmente con la maquinaria dise\u00f1ada en Europa o Estados Unidos cuando es operada en Los Andes?",
+      "answerOptions": [
+        {
+          "text": "El software de control solo est\u00e1 disponible en idiomas que los trabajadores locales no comprenden.",
+          "isCorrect": false,
+          "rationale": "Aunque el idioma es un reto, el problema ergon\u00f3mico central se refiere a la interacci\u00f3n f\u00edsica y dimensiones del equipo."
+        },
+        {
+          "text": "El desfase entre la estatura para la que fue dise\u00f1ada la m\u00e1quina ($1.70$ - $1.90$ m) y la estatura promedio local.",
+          "isCorrect": true,
+          "rationale": "Esta diferencia provoca fatiga, puntos ciegos y lesiones cr\u00f3nicas por posturas forzadas."
+        },
+        {
+          "text": "Los motores no funcionan debido a la falta de humedad en las zonas de alta monta\u00f1a.",
+          "isCorrect": false,
+          "rationale": "Este es un problema mec\u00e1nico de combusti\u00f3n, no una incompatibilidad ergon\u00f3mica entre humano y m\u00e1quina."
+        },
+        {
+          "text": "Las cabinas son demasiado espaciosas, lo que genera una sensaci\u00f3n de inseguridad en el operador.",
+          "isCorrect": false,
+          "rationale": "El problema suele ser el opuesto: la dificultad para alcanzar controles o tener visibilidad adecuada por el dise\u00f1o para tallas mayores."
+        }
+      ],
+      "hint": "Compara las medidas f\u00edsicas de los dise\u00f1adores extranjeros con las del trabajador promedio de la regi\u00f3n andina."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la meta m\u00e1xima e innegociable propuesta en la gesti\u00f3n moderna de prevenci\u00f3n de riesgos?",
+      "answerOptions": [
+        {
+          "text": "Reducci\u00f3n de costos operativos en un $10\\%$.",
+          "isCorrect": false,
+          "rationale": "La rentabilidad es una consecuencia, pero la meta \u00e9tica y t\u00e9cnica prioritaria es la seguridad absoluta."
+        },
+        {
+          "text": "Cero defectos.",
+          "isCorrect": true,
+          "rationale": "Este concepto implica que ning\u00fan accidente o enfermedad es aceptable dentro de un sistema de gesti\u00f3n de excelencia."
+        },
+        {
+          "text": "Cumplimiento m\u00ednimo de la normativa local vigente.",
+          "isCorrect": false,
+          "rationale": "El cumplimiento legal es el punto de partida, pero la meta m\u00e1xima busca ir mucho m\u00e1s all\u00e1 de lo meramente reactivo."
+        },
+        {
+          "text": "Aumento de la velocidad de extracci\u00f3n de mineral.",
+          "isCorrect": false,
+          "rationale": "Priorizar la velocidad sobre la seguridad suele ser la causa ra\u00edz de las tragedias industriales."
+        }
+      ],
+      "hint": "Se trata de un est\u00e1ndar de perfecci\u00f3n en la prevenci\u00f3n donde no se admite margen de error."
+    },
+    {
+      "question": "\u00bfQu\u00e9 enfermedad pulmonar irreversible es causada por la exposici\u00f3n al polvo microsc\u00f3pico en la miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Asma ocupacional leve.",
+          "isCorrect": false,
+          "rationale": "El asma puede ser tratable; la condici\u00f3n mencionada es degenerativa e irreversible."
+        },
+        {
+          "text": "Silicosis.",
+          "isCorrect": true,
+          "rationale": "Es una enfermedad cr\u00f3nica producida por la inhalaci\u00f3n de s\u00edlice que destruye progresivamente la capacidad pulmonar."
+        },
+        {
+          "text": "Bronquitis aguda.",
+          "isCorrect": false,
+          "rationale": "La bronquitis aguda es temporal, mientras que la exposici\u00f3n al polvo mineral genera da\u00f1os permanentes en el tejido."
+        },
+        {
+          "text": "Megaleguia.",
+          "isCorrect": false,
+          "rationale": "La megaleguia es una adaptaci\u00f3n del coraz\u00f3n a la altura, no una enfermedad pulmonar causada por qu\u00edmicos."
+        }
+      ],
+      "hint": "Su nombre deriva del mineral cuya inhalaci\u00f3n provoca la cicatrizaci\u00f3n del tejido pulmonar."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple la ISO 28000 en el transporte de materiales cr\u00edticos como explosivos y reactivos?",
+      "answerOptions": [
+        {
+          "text": "Asegurar que los veh\u00edculos utilicen combustibles menos contaminantes.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de emisiones corresponde a la ISO 14001; la ISO 28000 se enfoca en la seguridad de la cadena de suministro."
+        },
+        {
+          "text": "Garantizar que la cadena de suministro sea segura, blindada contra robos e interrupciones.",
+          "isCorrect": true,
+          "rationale": "Esta norma protege la integridad de la log\u00edstica, evitando que insumos peligrosos se pierdan o causen incidentes externos."
+        },
+        {
+          "text": "Verificar la calidad qu\u00edmica del mineral antes de ser exportado.",
+          "isCorrect": false,
+          "rationale": "La calidad anal\u00edtica es competencia de la ISO 17025 y la gesti\u00f3n de calidad general de la ISO 9001."
+        },
+        {
+          "text": "Capacitar a los conductores en t\u00e9cnicas de primeros auxilios.",
+          "isCorrect": false,
+          "rationale": "Aunque es importante, la norma 28000 se centra en los sistemas de seguridad de la carga y la log\u00edstica global."
+        }
+      ],
+      "hint": "Relaciona esta norma con la seguridad f\u00edsica de los productos durante su trayecto de un punto a otro."
+    },
+    {
+      "question": "Desde la perspectiva de la biomec\u00e1nica, \u00bfpor qu\u00e9 es peligroso forzar a personal no adaptado a realizar esfuerzos f\u00edsicos pesados en la altura?",
+      "answerOptions": [
+        {
+          "text": "Porque el aire fr\u00edo da\u00f1a permanentemente las cuerdas vocales.",
+          "isCorrect": false,
+          "rationale": "Este no es un riesgo vital biomec\u00e1nico; el riesgo real est\u00e1 relacionado con el sistema cardiovascular bajo hipoxia."
+        },
+        {
+          "text": "Debido a que la hipoxia y el esfuerzo extremo pueden causar infartos fatales en personas no aclimatadas.",
+          "isCorrect": true,
+          "rationale": "La falta de ox\u00edgeno obliga al coraz\u00f3n a trabajar a niveles cr\u00edticos, lo que puede provocar un colapso si no existe adaptaci\u00f3n previa."
+        },
+        {
+          "text": "Porque los huesos se vuelven m\u00e1s fr\u00e1giles instant\u00e1neamente por encima de los $3,000$ metros.",
+          "isCorrect": false,
+          "rationale": "La fragilidad \u00f3sea no es un efecto agudo de la altitud, a diferencia del estr\u00e9s card\u00edaco."
+        },
+        {
+          "text": "Debido a que el exceso de nitr\u00f3geno en la sangre impide la movilidad de las articulaciones.",
+          "isCorrect": false,
+          "rationale": "Este problema es m\u00e1s com\u00fan en el buceo profundo (descompresi\u00f3n), no en la exposici\u00f3n a la altitud andina."
+        }
+      ],
+      "hint": "Considera el impacto que tiene la falta de ox\u00edgeno en el coraz\u00f3n bajo una carga de trabajo pesada."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un beneficio tangible de mantener la certificaci\u00f3n ISO 9001 en una empresa minera?",
+      "answerOptions": [
+        {
+          "text": "Eliminaci\u00f3n total de los impuestos gubernamentales por exportaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las certificaciones ISO no eximen de obligaciones tributarias estatales."
+        },
+        {
+          "text": "Interoperabilidad global, permitiendo que los procesos sean eficientes en cualquier parte del mundo.",
+          "isCorrect": true,
+          "rationale": "La estandarizaci\u00f3n permite que la empresa hable el mismo lenguaje operativo que sus clientes y socios internacionales."
+        },
+        {
+          "text": "Garant\u00eda de que no habr\u00e1 desastres naturales en la zona de operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Ninguna norma de gesti\u00f3n puede controlar o prevenir fen\u00f3menos de la naturaleza."
+        },
+        {
+          "text": "Reducci\u00f3n autom\u00e1tica de la jornada laboral a la mitad sin afectar la producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La norma optimiza procesos, pero no reduce arbitrariamente las horas de trabajo pactadas."
+        }
+      ],
+      "hint": "Piensa en la facilidad para trabajar con est\u00e1ndares reconocidos internacionalmente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n fundamental se extrae del accidente de 1979 en Cerro de Pasco causado por una broma y exceso de confianza?",
+      "answerOptions": [
+        {
+          "text": "Que los sistemas de frenado deben ser siempre manuales.",
+          "isCorrect": false,
+          "rationale": "El problema no fue el tipo de freno, sino el fallo en la disciplina y la cultura de seguridad."
+        },
+        {
+          "text": "Que la verdadera seguridad reside en la cultura y la disciplina, no solo en los manuales.",
+          "isCorrect": true,
+          "rationale": "Incluso con equipos t\u00e9cnicos, el factor humano y la falta de rigor pueden desencadenar tragedias fatales."
+        },
+        {
+          "text": "Que las jaulas de transporte deben tener capacidad limitada a dos personas.",
+          "isCorrect": false,
+          "rationale": "Aunque el sobrepeso influy\u00f3, la causa ra\u00edz fue el acto inseguro inicial y el colapso de la cultura preventiva."
+        },
+        {
+          "text": "Que el cableado de las minas debe cambiarse cada seis meses obligatoriamente.",
+          "isCorrect": false,
+          "rationale": "El mantenimiento es vital, pero el accidente demostr\u00f3 que el comportamiento humano es el eslab\u00f3n m\u00e1s cr\u00edtico."
+        }
+      ],
+      "hint": "Analiza si los reglamentos escritos son suficientes cuando falla el comportamiento humano."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es obligatorio realizar un examen m\u00e9dico de salida al finalizar un v\u00ednculo laboral en miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Para verificar que el trabajador no se lleve herramientas de la empresa.",
+          "isCorrect": false,
+          "rationale": "El examen m\u00e9dico es un proceso de salud, no un control de inventario de seguridad patrimonial."
+        },
+        {
+          "text": "Para proteger los derechos legales del trabajador ante la aparici\u00f3n futura de enfermedades profesionales.",
+          "isCorrect": true,
+          "rationale": "Documentar el estado de salud al salir es vital para determinar si una enfermedad fue adquirida durante el tiempo de servicio."
+        },
+        {
+          "text": "Para asegurar que el trabajador est\u00e9 en condiciones de iniciar otro empleo de inmediato.",
+          "isCorrect": false,
+          "rationale": "El objetivo es el cierre hist\u00f3rico de su salud en la empresa actual, no evaluar su empleabilidad futura."
+        },
+        {
+          "text": "Para evitar el pago de la liquidaci\u00f3n final si se encuentra alguna dolencia preexistente.",
+          "isCorrect": false,
+          "rationale": "El examen no es un mecanismo para evadir pagos, sino un requisito de salud ocupacional y derecho laboral."
+        }
+      ],
+      "hint": "Piensa en la evidencia necesaria para reclamar beneficios por enfermedades que tardan a\u00f1os en manifestarse."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se manifiesta la responsabilidad social bajo la norma ISO 26000 al momento de finalizar las reservas de una mina?",
+      "answerOptions": [
+        {
+          "text": "Bando el cierre inmediato de portones y retirando todo el personal en 24 horas.",
+          "isCorrect": false,
+          "rationale": "Un retiro abrupto es una falta de responsabilidad t\u00e9cnica y \u00e9tica que genera pasivos graves."
+        },
+        {
+          "text": "Asumiendo el compromiso de restituir el paisaje y evitar dejar pasivos ambientales t\u00f3xicos.",
+          "isCorrect": true,
+          "rationale": "La miner\u00eda moderna incluye la remediaci\u00f3n del terreno como parte del ciclo de vida responsable del proyecto."
+        },
+        {
+          "text": "Vendiendo los derechos de explotaci\u00f3n a empresas informales para evitar costos de cierre.",
+          "isCorrect": false,
+          "rationale": "Esta pr\u00e1ctica es \u00e9ticamente inaceptable y traslada el problema en lugar de resolverlo bajo est\u00e1ndares internacionales."
+        },
+        {
+          "text": "Donando toda la maquinaria usada a las comunidades para que ellos contin\u00faen la extracci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Entregar maquinaria sin control t\u00e9cnico ni seguridad a personal no capacitado ser\u00eda una irresponsabilidad social."
+        }
+      ],
+      "hint": "Reflexiona sobre qu\u00e9 debe pasar con el entorno natural una vez que la actividad industrial termina."
+    },
+    {
+      "question": "En la comunicaci\u00f3n estrat\u00e9gica de seguridad, \u00bfcu\u00e1l es una medida de inclusi\u00f3n vital para el personal de origen andino?",
+      "answerOptions": [
+        {
+          "text": "Traducir todos los manuales t\u00e9cnicos al ingl\u00e9s para estandarizar con la sede central.",
+          "isCorrect": false,
+          "rationale": "Esto aumentar\u00eda la barrera de comunicaci\u00f3n en lugar de eliminarla para el trabajador operativo local."
+        },
+        {
+          "text": "Impartir los mensajes y capacitaciones de seguridad en quechua para el personal quechuablante.",
+          "isCorrect": true,
+          "rationale": "La comunicaci\u00f3n intercultural asegura que los riesgos sean comprendidos profundamente por quienes operan el terreno."
+        },
+        {
+          "text": "Prohibir el uso de lenguas nativas para evitar distracciones durante la jornada.",
+          "isCorrect": false,
+          "rationale": "La prohibici\u00f3n genera alienaci\u00f3n y aumenta el riesgo de accidentes por falta de comprensi\u00f3n de las instrucciones."
+        },
+        {
+          "text": "Utilizar \u00fanicamente se\u00f1ales gr\u00e1ficas sin ning\u00fan tipo de texto o explicaci\u00f3n verbal.",
+          "isCorrect": false,
+          "rationale": "Las se\u00f1ales son un apoyo, pero la capacitaci\u00f3n verbal en la lengua materna es insustituible para conceptos complejos de riesgo."
+        }
+      ],
+      "hint": "Considera la importancia de transmitir conceptos de vida o muerte en el idioma que el trabajador domina mejor."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumplen las 'pausas activas' en jornadas mineras de 12 horas?",
+      "answerOptions": [
+        {
+          "text": "Permitir que los supervisores revisen los tel\u00e9fonos m\u00f3viles de los trabajadores.",
+          "isCorrect": false,
+          "rationale": "Las pausas activas tienen un prop\u00f3sito fisiol\u00f3gico y de seguridad, no de control disciplinario ajeno a la salud."
+        },
+        {
+          "text": "Mitigar la fatiga extrema y reducir el riesgo de errores humanos por agotamiento.",
+          "isCorrect": true,
+          "rationale": "Breves descansos con ejercicios espec\u00edficos ayudan a mantener la alerta y la integridad f\u00edsica en turnos prolongados."
+        },
+        {
+          "text": "Aumentar la duraci\u00f3n total del turno de trabajo para compensar el tiempo perdido.",
+          "isCorrect": false,
+          "rationale": "Las pausas se integran dentro de la jornada y su objetivo es mejorar la eficiencia, no extender el horario laboral."
+        },
+        {
+          "text": "Servir como espacio exclusivo para la alimentaci\u00f3n pesada dentro del socab\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las pausas activas consisten en movilidad y estiramiento, no en ingesta de alimentos, lo cual debe hacerse en \u00e1reas designadas."
+        }
+      ],
+      "hint": "Relaciona el descanso breve con el mantenimiento de la atenci\u00f3n y la prevenci\u00f3n de lesiones musculares."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Sistemas de Gesti\u00f3n ISO (45001, 14001, 9001)",
+      "Convenios de la OIT y Legislaci\u00f3n Laboral Minera",
+      "Adaptaciones Biol\u00f3gicas y Biomec\u00e1nica del Trabajador Andino",
+      "Seguridad y Salud Ocupacional en Miner\u00eda",
+      "Ergonom\u00eda y Comunicaci\u00f3n Intercultural",
+      "Gesti\u00f3n de EPP y Est\u00e1ndares de Calidad",
+      "Responsabilidad Social y \u00c9tica en el Cierre de Minas"
+    ],
+    "followUp": [
+      "Protocolos espec\u00edficos de remediaci\u00f3n ambiental post-miner\u00eda",
+      "Psicolog\u00eda de la seguridad y cambio de cultura organizacional",
+      "An\u00e1lisis detallado de la norma ISO 5001 sobre eficiencia energ\u00e9tica en industrias extractivas",
+      "Impacto de la miner\u00eda ilegal en ecosistemas amaz\u00f3nicos (Caso Madre de Dios)",
+      "Tecnolog\u00edas modernas para la detecci\u00f3n de gases y ventilaci\u00f3n automatizada en socavones"
+    ]
+  }
+}

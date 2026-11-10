@@ -1,0 +1,544 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental en el alcance entre la log\u00edstica y la cadena de suministro?",
+      "answerOptions": [
+        {
+          "text": "La log\u00edstica es el movimiento estrat\u00e9gico de un punto a otro, mientras que la cadena de suministro es una red sist\u00e9mica interorganizacional que abarca todo el ciclo de vida del producto.",
+          "isCorrect": true,
+          "rationale": "La log\u00edstica se centra en la ejecuci\u00f3n y planificaci\u00f3n del movimiento, mientras que la cadena de suministro integra a todos los actores desde la materia prima hasta el consumidor final."
+        },
+        {
+          "text": "La log\u00edstica se encarga de la extracci\u00f3n de materia prima y la cadena de suministro \u00fanicamente de la entrega al cliente final.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n invierte los conceptos, ya que la cadena de suministro es la que engloba el proceso completo de principio a fin."
+        },
+        {
+          "text": "No existe diferencia t\u00e9cnica, son t\u00e9rminos intercambiables que describen el transporte de mercanc\u00edas.",
+          "isCorrect": false,
+          "rationale": "Ignora la distinci\u00f3n t\u00e9cnica que posiciona a la cadena de suministro como un ecosistema m\u00e1s amplio que la log\u00edstica operativa."
+        },
+        {
+          "text": "La log\u00edstica maneja la informaci\u00f3n y el capital, mientras que la cadena de suministro solo se ocupa de los materiales f\u00edsicos.",
+          "isCorrect": false,
+          "rationale": "Ambos conceptos involucran flujos, pero la cadena de suministro coordina la red completa de estos flujos entre m\u00faltiples organizaciones."
+        }
+      ],
+      "hint": "Considera cu\u00e1l de los dos conceptos se define como un ecosistema completo de principio a fin."
+    },
+    {
+      "question": "Dentro de la gesti\u00f3n log\u00edstica, \u00bfcu\u00e1l es el criterio cr\u00edtico que determina que un esfuerzo de transporte no sea en vano?",
+      "answerOptions": [
+        {
+          "text": "Que el producto llegue en el estado correcto.",
+          "isCorrect": true,
+          "rationale": "Aunque el tiempo y el costo son importantes, si el producto llega da\u00f1ado, el valor del esfuerzo log\u00edstico se reduce a cero."
+        },
+        {
+          "text": "Que el costo de transporte sea el m\u00ednimo posible.",
+          "isCorrect": false,
+          "rationale": "Un costo bajo no compensa la p\u00e9rdida de valor si la mercanc\u00eda no mantiene su integridad f\u00edsica al llegar."
+        },
+        {
+          "text": "Que se utilicen exclusivamente procesos paralelos.",
+          "isCorrect": false,
+          "rationale": "Los procesos paralelos son una t\u00e9cnica de optimizaci\u00f3n de tiempo, pero no garantizan por s\u00ed mismos la calidad del producto final."
+        },
+        {
+          "text": "Que el volumen de carga sea el m\u00e1ximo permitido por el veh\u00edculo.",
+          "isCorrect": false,
+          "rationale": "Priorizar solo el volumen puede comprometer la seguridad y el estado del producto, especialmente en art\u00edculos fr\u00e1giles."
+        }
+      ],
+      "hint": "Piensa en las consecuencias de recibir un producto a tiempo pero totalmente destruido."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la misi\u00f3n principal de las operaciones dentro de una f\u00e1brica?",
+      "answerOptions": [
+        {
+          "text": "La transformaci\u00f3n de insumos en productos manufacturados a trav\u00e9s de procesos jerarquizados.",
+          "isCorrect": true,
+          "rationale": "Las operaciones se definen espec\u00edficamente como el conjunto de procesos internos dedicados a cambiar la forma o utilidad de los recursos."
+        },
+        {
+          "text": "La distribuci\u00f3n f\u00edsica de los productos hacia los mercados minoristas.",
+          "isCorrect": false,
+          "rationale": "Esta es una funci\u00f3n m\u00e1s orientada a la log\u00edstica de salida que a las operaciones de transformaci\u00f3n interna."
+        },
+        {
+          "text": "La negociaci\u00f3n de contratos con proveedores internacionales.",
+          "isCorrect": false,
+          "rationale": "Esto corresponde generalmente al \u00e1rea de compras o abastecimiento dentro de la cadena de suministro, no a las operaciones de planta."
+        },
+        {
+          "text": "El dise\u00f1o de la identidad visual y mensajes de marca para el cliente.",
+          "isCorrect": false,
+          "rationale": "Esta es una funci\u00f3n de marketing y sensibilizaci\u00f3n estrat\u00e9gica, ajena al proceso de manufactura f\u00edsica."
+        }
+      ],
+      "hint": "Enf\u00f3cate en lo que sucede espec\u00edficamente dentro de las cuatro paredes de una planta de producci\u00f3n."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la arquitectura operativa de procesos sincr\u00f3nicos?",
+      "answerOptions": [
+        {
+          "text": "Es la coordinaci\u00f3n donde flujos separados convergen en un punto y momento exacto.",
+          "isCorrect": true,
+          "rationale": "La sincron\u00eda implica una precisi\u00f3n milim\u00e9trica para que diferentes elementos del proceso se unan sin esperas ni retrasos."
+        },
+        {
+          "text": "Es una secuencia estricta donde un proceso no inicia hasta que el anterior termina.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde a los procesos consecutivos o lineales, no a los sincr\u00f3nicos."
+        },
+        {
+          "text": "Es la ejecuci\u00f3n de varias tareas al mismo tiempo usando recursos independientes para ahorrar tiempo.",
+          "isCorrect": false,
+          "rationale": "Esta definici\u00f3n se refiere a los procesos paralelos, que buscan velocidad pero no necesariamente convergencia exacta."
+        },
+        {
+          "text": "Es la tercerizaci\u00f3n de todos los procesos internos a proveedores externos.",
+          "isCorrect": false,
+          "rationale": "La arquitectura operativa se refiere a c\u00f3mo se organizan los procesos, independientemente de qui\u00e9n sea el due\u00f1o del recurso."
+        }
+      ],
+      "hint": "Busca el t\u00e9rmino que describe una coordinaci\u00f3n perfecta en el tiempo para unir flujos."
+    },
+    {
+      "question": "Seg\u00fan el Project Management Institute (PMI), \u00bfqu\u00e9 elementos componen la triple restricci\u00f3n para evaluar una m\u00e9trica?",
+      "answerOptions": [
+        {
+          "text": "Alcance, tiempo y costo.",
+          "isCorrect": true,
+          "rationale": "Estos tres pilares son interdependientes; cualquier cambio en uno afecta inevitablemente a los otros dos en la gesti\u00f3n de proyectos."
+        },
+        {
+          "text": "Calidad, log\u00edstica y operaciones.",
+          "isCorrect": false,
+          "rationale": "Aunque son \u00e1reas importantes, no constituyen las dimensiones de la restricci\u00f3n matem\u00e1tica del PMI."
+        },
+        {
+          "text": "Materiales, informaci\u00f3n y capital.",
+          "isCorrect": false,
+          "rationale": "Estos son los tres flujos que recorren la cadena de suministro, no las restricciones de evaluaci\u00f3n de m\u00e9tricas."
+        },
+        {
+          "text": "Inventario, transporte y demanda.",
+          "isCorrect": false,
+          "rationale": "Son variables operativas, pero la triple restricci\u00f3n se enfoca en la gesti\u00f3n estructural del proyecto o proceso."
+        }
+      ],
+      "hint": "Son tres factores que deben evaluarse simult\u00e1neamente para no analizar un dato en el vac\u00edo."
+    },
+    {
+      "question": "En el caso de la construcci\u00f3n de un muro, \u00bfpor qu\u00e9 un avance f\u00edsico del $33.3\\%$ en el d\u00eda $8$ de $10$ podr\u00eda no ser una crisis total?",
+      "answerOptions": [
+        {
+          "text": "Porque el costo ejecutado es de solo el $20\\%$, indicando una eficiencia financiera por compra estrat\u00e9gica de materiales.",
+          "isCorrect": true,
+          "rationale": "Al mirar la triple restricci\u00f3n, se observa que el ahorro financiero justifica o compensa el retraso temporal bajo una visi\u00f3n estrat\u00e9gica."
+        },
+        {
+          "text": "Porque el muro puede terminarse autom\u00e1ticamente usando inteligencia artificial en los \u00faltimos dos d\u00edas.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n es fantasiosa y no se basa en el an\u00e1lisis de los KPI de costo y tiempo presentados."
+        },
+        {
+          "text": "Porque el tiempo transcurrido del $80\\%$ garantiza que el proyecto est\u00e1 por finalizar.",
+          "isCorrect": false,
+          "rationale": "Tener mucho tiempo transcurrido con poco avance f\u00edsico suele ser negativo, a menos que el costo muestre una ventaja significativa."
+        },
+        {
+          "text": "Porque el alcance f\u00edsico es la \u00fanica m\u00e9trica que realmente importa en la construcci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esto contradice el principio de que los KPI jam\u00e1s deben leerse de forma aislada."
+        }
+      ],
+      "hint": "Eval\u00faa la relaci\u00f3n entre el avance del cronograma y el presupuesto gastado."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los tres flujos que mantienen viva la operaci\u00f3n de una red colaborativa en la cadena de suministro?",
+      "answerOptions": [
+        {
+          "text": "Materiales, informaci\u00f3n y capital.",
+          "isCorrect": true,
+          "rationale": "La integraci\u00f3n exitosa depende de c\u00f3mo se mueven los bienes, los datos (trazabilidad) y el dinero en ambas direcciones."
+        },
+        {
+          "text": "Maquinaria, mano de obra y productos.",
+          "isCorrect": false,
+          "rationale": "Estos son recursos de producci\u00f3n, pero no representan los flujos din\u00e1micos de comunicaci\u00f3n y finanzas de la red."
+        },
+        {
+          "text": "Transporte, almacenamiento y ventas.",
+          "isCorrect": false,
+          "rationale": "Estas son etapas o funciones log\u00edsticas, no los elementos que fluyen a trav\u00e9s de ellas."
+        },
+        {
+          "text": "Proveedores, fabricantes y clientes.",
+          "isCorrect": false,
+          "rationale": "Estos son los actores de la cadena, no los componentes que circulan entre ellos."
+        }
+      ],
+      "hint": "Identifica los elementos que se mueven tanto hacia adelante como en reversa (devoluciones, pagos, datos)."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de la integraci\u00f3n hacia atr\u00e1s en una cadena de suministro?",
+      "answerOptions": [
+        {
+          "text": "Tomar mayor control sobre los proveedores y las materias primas para reducir riesgos desde el dise\u00f1o.",
+          "isCorrect": true,
+          "rationale": "Esta estrategia busca elevar el nivel t\u00e9cnico de los proveedores mediante normas ISO y filosof\u00eda Lean."
+        },
+        {
+          "text": "Acercarse directamente al cliente final para mejorar la sensibilidad estrat\u00e9gica.",
+          "isCorrect": false,
+          "rationale": "Esta es la definici\u00f3n de integraci\u00f3n hacia adelante, no hacia atr\u00e1s."
+        },
+        {
+          "text": "Eliminar por completo el uso de transporte f\u00edsico mediante la digitalizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La integraci\u00f3n hacia atr\u00e1s busca control sobre el suministro f\u00edsico de materiales, no su eliminaci\u00f3n."
+        },
+        {
+          "text": "Expandir la marca a nuevos mercados internacionales mediante publicidad urbana.",
+          "isCorrect": false,
+          "rationale": "La expansi\u00f3n de marca y publicidad son estrategias comerciales m\u00e1s ligadas a la integraci\u00f3n hacia adelante."
+        }
+      ],
+      "hint": "Piensa en la direcci\u00f3n del flujo hacia el origen de la materia prima."
+    },
+    {
+      "question": "En la analog\u00eda del pastel, \u00bfqu\u00e9 rol desempe\u00f1a la cadena de suministro?",
+      "answerOptions": [
+        {
+          "text": "Es el cerebro que investiga los gustos del festejado, organiza la red y asegura la satisfacci\u00f3n final.",
+          "isCorrect": true,
+          "rationale": "La cadena de suministro act\u00faa como el nivel estrat\u00e9gico que coordina todas las partes para cumplir el objetivo del cliente."
+        },
+        {
+          "text": "Es la ejecuci\u00f3n t\u00e9cnica de batir los huevos y hornear la mezcla.",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n corresponde a las operaciones, que se centran en la transformaci\u00f3n del producto."
+        },
+        {
+          "text": "Es el acto de ir al mercado a comprar harina y llevar el pastel a la fiesta sin que se aplaste.",
+          "isCorrect": false,
+          "rationale": "Este rol es el de la log\u00edstica, que se encarga del abastecimiento y la distribuci\u00f3n f\u00edsica."
+        },
+        {
+          "text": "Es el comensal que decide si el pastel tiene un sabor agradable o no.",
+          "isCorrect": false,
+          "rationale": "El comensal representa al consumidor final, quien es el destino del esfuerzo de la cadena."
+        }
+      ],
+      "hint": "Identifica qui\u00e9n es el arquitecto estrat\u00e9gico detr\u00e1s de toda la coordinaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 dimensiones deben alinearse para obtener el KPI de 'N\u00famero de Pedidos Perfectos' (NPP)?",
+      "answerOptions": [
+        {
+          "text": "Pedido completo, a tiempo y sin da\u00f1os.",
+          "isCorrect": true,
+          "rationale": "El NPP es el indicador supremo porque exige la convergencia absoluta de disponibilidad, puntualidad e integridad del producto."
+        },
+        {
+          "text": "Precio bajo, alta rotaci\u00f3n y muchos kil\u00f3metros recorridos.",
+          "isCorrect": false,
+          "rationale": "Estas m\u00e9tricas pueden indicar eficiencia de costos o actividad, pero no garantizan la perfecci\u00f3n desde la perspectiva del cliente."
+        },
+        {
+          "text": "Uso de drones, inteligencia artificial y sensores de fatiga.",
+          "isCorrect": false,
+          "rationale": "Estas son herramientas tecnol\u00f3gicas que ayudan a mejorar el NPP, pero no son las dimensiones que lo definen."
+        },
+        {
+          "text": "Gran inventario, muchos proveedores y transporte aut\u00f3nomo.",
+          "isCorrect": false,
+          "rationale": "Tener un gran inventario puede ser incluso ineficiente y no garantiza la perfecci\u00f3n en la entrega."
+        }
+      ],
+      "hint": "Considera los tres requisitos que el cliente espera para estar totalmente satisfecho con su entrega."
+    },
+    {
+      "question": "Si una empresa tiene un inventario de $$3,000,000$$, una venta diaria de $$500,000$$ y el tiempo de tr\u00e1nsito del proveedor es de $$2$$ d\u00edas, \u00bfcu\u00e1l es su margen real de seguridad?",
+      "answerOptions": [
+        {
+          "text": "$$4$$ d\u00edas.",
+          "isCorrect": true,
+          "rationale": "El soporte te\u00f3rico es de $$6$$ d\u00edas ($$3M / 0.5M$$). Al restar los $$2$$ d\u00edas que tarda en llegar la mercanc\u00eda (lead time), quedan $$4$$ d\u00edas de seguridad real."
+        },
+        {
+          "text": "$$6$$ d\u00edas.",
+          "isCorrect": false,
+          "rationale": "Este es el soporte te\u00f3rico de inventario, pero no descuenta el tiempo de reabastecimiento, lo cual es un error operativo com\u00fan."
+        },
+        {
+          "text": "$$8$$ d\u00edas.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n suma incorrectamente el tiempo de tr\u00e1nsito en lugar de restarlo de la autonom\u00eda del inventario."
+        },
+        {
+          "text": "$$2$$ d\u00edas.",
+          "isCorrect": false,
+          "rationale": "Este es solo el lead time o tiempo de tr\u00e1nsito, no la ventana de soporte del sistema."
+        }
+      ],
+      "hint": "Calcula primero la autonom\u00eda te\u00f3rica y luego resta el tiempo que tarda en llegar el nuevo pedido."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fen\u00f3meno describe el concepto de 'tienda enclenque' en el sector minorista?",
+      "answerOptions": [
+        {
+          "text": "Un espacio que se ve visualmente desabastecido, lo que incrementa el costo de oportunidad y arruina la experiencia del cliente.",
+          "isCorrect": true,
+          "rationale": "La tienda enclenque es el resultado visible de un quiebre de stock y una ineficiencia en el flujo de reposici\u00f3n."
+        },
+        {
+          "text": "Un establecimiento con exceso de inventario que no permite el movimiento de los clientes.",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda sobrestock, lo opuesto a la tienda enclenque que se caracteriza por la falta de producto."
+        },
+        {
+          "text": "Una tienda que utiliza exclusivamente energ\u00eda renovable para sus operaciones.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino no tiene relaci\u00f3n con la sostenibilidad energ\u00e9tica, sino con la disponibilidad de mercanc\u00eda."
+        },
+        {
+          "text": "Un local con deficiencias estructurales en sus vigas y paredes.",
+          "isCorrect": false,
+          "rationale": "Es un t\u00e9rmino log\u00edstico sobre inventarios, no una descripci\u00f3n de ingenier\u00eda civil del edificio."
+        }
+      ],
+      "hint": "Relaciona el t\u00e9rmino con la apariencia de los estantes cuando la log\u00edstica falla."
+    },
+    {
+      "question": "En el caso de la empresa Gloria, \u00bfpor qu\u00e9 es vital la trazabilidad t\u00e9cnica antes del vaciado de la leche?",
+      "answerOptions": [
+        {
+          "text": "Para detectar y aislar riesgos como la mastitis o problemas de acidez que comprometer\u00edan la calidad de todo el lote.",
+          "isCorrect": true,
+          "rationale": "La log\u00edstica act\u00faa como un guardi\u00e1n de calidad aplicando pruebas organol\u00e9pticas y qu\u00edmicas rigurosas."
+        },
+        {
+          "text": "Para asegurar que los camiones han recorrido el camino m\u00e1s corto posible.",
+          "isCorrect": false,
+          "rationale": "Aunque la ruta importa, la prioridad en este punto es la integridad biol\u00f3gica y qu\u00edmica del producto alimenticio."
+        },
+        {
+          "text": "Para calcular el pago exacto a los m\u00e1s de $$15,000$$ ganaderos.",
+          "isCorrect": false,
+          "rationale": "Si bien es parte del proceso, la raz\u00f3n cr\u00edtica mencionada es la seguridad alimentaria y el control de riesgos."
+        },
+        {
+          "text": "Para verificar que los conductores no han sufrido fatiga durante el viaje.",
+          "isCorrect": false,
+          "rationale": "El control de fatiga es una medida de seguridad en ruta, pero la trazabilidad del vaciado se enfoca en el producto mismo."
+        }
+      ],
+      "hint": "Enf\u00f3cate en los controles sanitarios preventivos del producto crudo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio operativo reportaron empresas como Ranza y Alicorp al implementar telemetr\u00eda y sensores en sus flotas?",
+      "answerOptions": [
+        {
+          "text": "Una reducci\u00f3n masiva del $$15\\%$$ en sus costos operativos.",
+          "isCorrect": true,
+          "rationale": "La visibilidad absoluta en tiempo real permite maniobras proactivas que optimizan el combustible y la eficiencia de los conductores."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de la necesidad de almacenes f\u00edsicos.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda optimiza la gesti\u00f3n, pero en estos sectores la infraestructura f\u00edsica sigue siendo necesaria."
+        },
+        {
+          "text": "Un aumento en el precio de venta final de sus productos b\u00e1sicos.",
+          "isCorrect": false,
+          "rationale": "El objetivo de la eficiencia log\u00edstica suele ser reducir costos internos, no necesariamente subir precios al consumidor."
+        },
+        {
+          "text": "La sustituci\u00f3n de todos los conductores humanos por sistemas aut\u00f3nomos.",
+          "isCorrect": false,
+          "rationale": "Se menciona la instalaci\u00f3n de sensores para ayudar a los conductores (como monitores de fatiga), no su reemplazo total."
+        }
+      ],
+      "hint": "Busca el impacto porcentual directo en la rentabilidad de la operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfC\u00f3mo logra la empresa Jobel alcanzar un $$97.5\\%$$ de pedidos perfectos?",
+      "answerOptions": [
+        {
+          "text": "Utilizando el sistema 'Pick to Light' para eliminar el error humano mediante barrido electr\u00f3nico.",
+          "isCorrect": true,
+          "rationale": "Esta tecnolog\u00eda sustituye el escaneo manual por sensores individuales por art\u00edculo, garantizando una precisi\u00f3n extrema."
+        },
+        {
+          "text": "Contratando el doble de personal para revisar manualmente cada caja.",
+          "isCorrect": false,
+          "rationale": "El \u00e9xito de Jobel se atribuye a la automatizaci\u00f3n tecnol\u00f3gica, no al incremento intensivo de mano de obra."
+        },
+        {
+          "text": "Entregando los pedidos en un plazo no menor a una semana.",
+          "isCorrect": false,
+          "rationale": "Al contrario, su eficiencia les permite consolidar entregas en tan solo $$24$$ horas."
+        },
+        {
+          "text": "Limitando su cat\u00e1logo a un solo tipo de producto cosm\u00e9tico.",
+          "isCorrect": false,
+          "rationale": "La eficiencia del sistema 'Pick to Light' se destaca precisamente por manejar la complejidad de m\u00faltiples art\u00edculos con precisi\u00f3n."
+        }
+      ],
+      "hint": "Identifica la tecnolog\u00eda de guiado por luz que optimiza el empaque."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el fen\u00f3meno de 'La Serpiente' para la log\u00edstica en corredores como la Interoce\u00e1nica Sur?",
+      "answerOptions": [
+        {
+          "text": "Un cuello de botella estructural causado por convoyes de contrabando que inflan costos mediante peajes ilegales.",
+          "isCorrect": true,
+          "rationale": "Este es un ejemplo de fricci\u00f3n sist\u00e9mica donde la criminalidad distorsiona el mercado regular y la planificaci\u00f3n t\u00e9cnica."
+        },
+        {
+          "text": "Un sistema avanzado de fajas transportadoras de gran longitud en la miner\u00eda.",
+          "isCorrect": false,
+          "rationale": "Aunque las fajas pueden ser largas, el t\u00e9rmino 'La Serpiente' se usa en el contexto de problemas de infraestructura y seguridad vial."
+        },
+        {
+          "text": "La forma sinuosa de las carreteras andinas que favorece el ahorro de combustible.",
+          "isCorrect": false,
+          "rationale": "El fen\u00f3meno es una externalidad negativa, no una caracter\u00edstica geogr\u00e1fica beneficiosa."
+        },
+        {
+          "text": "Una nueva tendencia de dise\u00f1o de camiones articulados de alta capacidad.",
+          "isCorrect": false,
+          "rationale": "No se refiere a un dise\u00f1o vehicular, sino a una problem\u00e1tica social y de seguridad en las rutas."
+        }
+      ],
+      "hint": "Relaciona el t\u00e9rmino con actividades il\u00edcitas y obstrucci\u00f3n de rutas comerciales."
+    },
+    {
+      "question": "Durante la pandemia de 2020, \u00bfqu\u00e9 dato evidenci\u00f3 la fragilidad extrema del sistema de salud en t\u00e9rminos de capacidad de respuesta?",
+      "answerOptions": [
+        {
+          "text": "La existencia de apenas $$220$$ camas de unidad de cuidados intensivos a nivel nacional.",
+          "isCorrect": true,
+          "rationale": "Este dato refleja una vulnerabilidad cr\u00edtica ante fluctuaciones masivas de demanda que el sistema no pudo prever ni soportar."
+        },
+        {
+          "text": "El abandono del sistema educativo por parte de $$2$$ millones de estudiantes.",
+          "isCorrect": false,
+          "rationale": "Aunque este dato es real, refleja la brecha digital y educativa, no la capacidad hospitalaria inicial."
+        },
+        {
+          "text": "La falta de drones para la entrega de medicamentos en zonas rurales.",
+          "isCorrect": false,
+          "rationale": "La fragilidad principal se midi\u00f3 en infraestructura b\u00e1sica hospitalaria, antes de considerar tecnolog\u00edas avanzadas de entrega."
+        },
+        {
+          "text": "La reducci\u00f3n del $$15\\%$$ en los costos operativos de las farmacias.",
+          "isCorrect": false,
+          "rationale": "La pandemia generalmente aument\u00f3 las presiones log\u00edsticas y costos, no los redujo mediante eficiencia."
+        }
+      ],
+      "hint": "Busca la cifra espec\u00edfica relacionada con la atenci\u00f3n cr\u00edtica en hospitales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la transici\u00f3n tecnol\u00f3gica clave propuesta para el mantenimiento de equipos en el futuro de la cadena de suministro?",
+      "answerOptions": [
+        {
+          "text": "Pasar del mantenimiento preventivo tradicional al mantenimiento predictivo impulsado por IA.",
+          "isCorrect": true,
+          "rationale": "El mantenimiento predictivo permite monitorear el desgaste en tiempo real para actuar antes de que ocurra la falla."
+        },
+        {
+          "text": "Sustituir el mantenimiento por la compra constante de equipos nuevos.",
+          "isCorrect": false,
+          "rationale": "Esta pr\u00e1ctica ser\u00eda financieramente inviable y contraria a la optimizaci\u00f3n de capital de la que se habla."
+        },
+        {
+          "text": "Eliminar el monitoreo en tiempo real para reducir el tr\u00e1fico de datos.",
+          "isCorrect": false,
+          "rationale": "El futuro se basa en una mayor visibilidad y trazabilidad, no en su reducci\u00f3n."
+        },
+        {
+          "text": "Utilizar \u00fanicamente procesos consecutivos para evitar el desgaste de maquinaria.",
+          "isCorrect": false,
+          "rationale": "La arquitectura operativa (consecutiva/paralela) no reemplaza la necesidad de una estrategia de mantenimiento t\u00e9cnica."
+        }
+      ],
+      "hint": "Enf\u00f3cate en el concepto de anticiparse a las fallas mediante el an\u00e1lisis de datos actuales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00eda se menciona como ya utilizada en la miner\u00eda para monitorear fajas transportadoras mediante realidad aumentada?",
+      "answerOptions": [
+        {
+          "text": "Mantenimiento predictivo con visualizaci\u00f3n t\u00e9cnica avanzada.",
+          "isCorrect": true,
+          "rationale": "La realidad aumentada permite a los operadores ver datos de desgaste y estado sobre el equipo f\u00edsico directamente."
+        },
+        {
+          "text": "Sistemas de 'Pick to Light' para el transporte de minerales.",
+          "isCorrect": false,
+          "rationale": "El 'Pick to Light' es un sistema de preparaci\u00f3n de pedidos en almacenes de piezas peque\u00f1as, no para fajas mineras de gran escala."
+        },
+        {
+          "text": "Drones aut\u00f3nomos para la extracci\u00f3n de roca madre.",
+          "isCorrect": false,
+          "rationale": "Aunque los drones se mencionan para log\u00edstica de almac\u00e9n, no se describen como la herramienta principal para el monitoreo de fajas."
+        },
+        {
+          "text": "Uso de m\u00fasica urbana para sincronizar el movimiento de la faja.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n hace referencia a un error de comunicaci\u00f3n mencionado en otro caso (Cerro Verde), no a una tecnolog\u00eda operativa."
+        }
+      ],
+      "hint": "Piensa en herramientas que combinan datos digitales con la visi\u00f3n del mundo real."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la tesis definitiva sobre la competitividad en el mercado global actual?",
+      "answerOptions": [
+        {
+          "text": "La verdadera competencia ya no es entre productos individuales, sino entre cadenas de suministro completas.",
+          "isCorrect": true,
+          "rationale": "La eficiencia de toda la red, y no solo la calidad de un objeto aislado, es lo que garantiza la viabilidad comercial a largo plazo."
+        },
+        {
+          "text": "El \u00e9xito depende exclusivamente de tener el precio m\u00e1s bajo del mercado.",
+          "isCorrect": false,
+          "rationale": "El precio es solo una parte de la triple restricci\u00f3n; sin cumplimiento y estado correcto, el bajo precio no asegura el \u00e9xito."
+        },
+        {
+          "text": "Las empresas deben evitar cualquier tipo de integraci\u00f3n para mantenerse \u00e1giles.",
+          "isCorrect": false,
+          "rationale": "La integraci\u00f3n (hacia adelante o atr\u00e1s) es precisamente lo que permite controlar riesgos y mejorar la competitividad."
+        },
+        {
+          "text": "La intuici\u00f3n del gestor es m\u00e1s valiosa que los modelos cuantitativos en entornos inciertos.",
+          "isCorrect": false,
+          "rationale": "Se enfatiza que la intuici\u00f3n debe descartarse en favor de la precisi\u00f3n matem\u00e1tica y los datos duros."
+        }
+      ],
+      "hint": "Considera el cambio de enfoque de una unidad simple a una red colaborativa integral."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Diferencias entre Log\u00edstica y Cadena de Suministro",
+      "Arquitecturas de Procesos Operativos",
+      "M\u00e9tricas de Desempe\u00f1o y Triple Restricci\u00f3n",
+      "Estrategias de Integraci\u00f3n (Forward y Backward)",
+      "Indicadores Clave de Desempe\u00f1o (KPI) y Pedido Perfecto",
+      "Gesti\u00f3n de Inventarios y Margen de Seguridad",
+      "Casos de \u00c9xito en la Industria Peruana",
+      "Fricciones Log\u00edsticas y Desaf\u00edos de Infraestructura",
+      "Tendencias Tecnol\u00f3gicas Futuras en SCM"
+    ],
+    "followUp": [
+      "Aplicaci\u00f3n de la Filosof\u00eda Lean en la Base de Suministro",
+      "Normas ISO (9001, 14001, 45001) en la Integraci\u00f3n Vertical",
+      "Impacto de la Telemetr\u00eda en la Reducci\u00f3n de Costos de Transporte",
+      "Dise\u00f1o de Modelos Hiper-Resilientes ante Crisis Globales",
+      "\u00c9tica y Transparencia en la Gesti\u00f3n de Canales contra el Contrabando"
+    ]
+  }
+}

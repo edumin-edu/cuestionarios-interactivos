@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la naturaleza de la legitimidad social en la miner\u00eda contempor\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "Un estado din\u00e1mico y constante que debe nutrirse diariamente.",
+          "isCorrect": true,
+          "rationale": "La legitimidad no es un tr\u00e1mite est\u00e1tico, sino una condici\u00f3n viva que depende de la confianza continua de la comunidad."
+        },
+        {
+          "text": "Un tr\u00e1mite administrativo legal que se obtiene al inicio del proyecto.",
+          "isCorrect": false,
+          "rationale": "Aunque existen permisos legales, la legitimidad social trasciende el papel y no es un evento \u00fanico."
+        },
+        {
+          "text": "Un documento contractual firmado por los l\u00edderes de la comunidad.",
+          "isCorrect": false,
+          "rationale": "La firma de convenios es una herramienta, pero la legitimidad real es un sentimiento de aceptaci\u00f3n social m\u00e1s profundo."
+        },
+        {
+          "text": "Una fase de ingenier\u00eda social que termina al iniciar la extracci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n social debe acompa\u00f1ar a la operaci\u00f3n durante toda su vida \u00fatil, no solo en la etapa de construcci\u00f3n."
+        }
+      ],
+      "hint": "Considere si este concepto es algo que se logra una vez o si requiere un mantenimiento permanente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de los siguientes es uno de los pilares estrat\u00e9gicos que moldean la realidad psicosocial del territorio minero?",
+      "answerOptions": [
+        {
+          "text": "El escepticismo hist\u00f3rico por promesas rotas en el pasado.",
+          "isCorrect": true,
+          "rationale": "La memoria colectiva de incumplimientos previos genera una barrera de desconfianza que la empresa debe gestionar."
+        },
+        {
+          "text": "La preferencia por la inversi\u00f3n en mercados financieros globales.",
+          "isCorrect": false,
+          "rationale": "Las comunidades locales suelen estar enfocadas en el desarrollo territorial inmediato, no en finanzas internacionales."
+        },
+        {
+          "text": "La homogeneidad de las demandas entre l\u00edderes y familias.",
+          "isCorrect": false,
+          "rationale": "El texto resalta que las demandas son divididas; los l\u00edderes buscan infraestructura mientras las familias buscan supervivencia."
+        },
+        {
+          "text": "La desestimaci\u00f3n total de la cosmovisi\u00f3n ancestral.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la urgencia de preservar la cosmovisi\u00f3n es un pilar fundamental para la supervivencia cultural de la comunidad."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el pasado influye en la percepci\u00f3n actual de los habitantes locales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 efecto tiene el uso de lenguas maternas como el quechua o el aimara en la comunicaci\u00f3n t\u00e9cnica?",
+      "answerOptions": [
+        {
+          "text": "Evita la percepci\u00f3n de exclusi\u00f3n y la creaci\u00f3n de muros de desconfianza.",
+          "isCorrect": true,
+          "rationale": "El respeto a la lengua materna es vital para la integraci\u00f3n y evita que el di\u00e1logo se sienta como una imposici\u00f3n externa."
+        },
+        {
+          "text": "Es un requisito puramente log\u00edstico sin impacto en la confianza.",
+          "isCorrect": false,
+          "rationale": "La comunicaci\u00f3n en el idioma local es una se\u00f1al de respeto cultural que impacta directamente en la relaci\u00f3n humana."
+        },
+        {
+          "text": "Retrasa los procesos de consulta debido a la falta de t\u00e9rminos t\u00e9cnicos.",
+          "isCorrect": false,
+          "rationale": "La traducci\u00f3n es una inversi\u00f3n de tiempo necesaria para lograr una participaci\u00f3n informada y leg\u00edtima."
+        },
+        {
+          "text": "Solo es necesario en ceremonias simb\u00f3licas o rituales.",
+          "isCorrect": false,
+          "rationale": "La comunicaci\u00f3n ling\u00fc\u00edstica debe ser transversal a todas las interacciones, incluyendo las negociaciones t\u00e9cnicas."
+        }
+      ],
+      "hint": "Reflexione sobre el impacto emocional que tiene el lenguaje en el sentido de pertenencia y respeto."
+    },
+    {
+      "question": "En el eje econ\u00f3mico del territorio, \u00bfqu\u00e9 tipo de demandas suelen priorizar las familias y l\u00edderes informales?",
+      "answerOptions": [
+        {
+          "text": "Supervivencia econ\u00f3mica inmediata y empleos directos.",
+          "isCorrect": true,
+          "rationale": "A diferencia de los l\u00edderes formales, las bases sociales suelen enfocarse en beneficios tangibles y r\u00e1pidos para su econom\u00eda dom\u00e9stica."
+        },
+        {
+          "text": "Grandes infraestructuras monumentales para el legado pol\u00edtico.",
+          "isCorrect": false,
+          "rationale": "Este tipo de obras son t\u00edpicamente buscadas por los l\u00edderes formales para validar su gesti\u00f3n administrativa."
+        },
+        {
+          "text": "Cambios en la legislaci\u00f3n nacional sobre miner\u00eda.",
+          "isCorrect": false,
+          "rationale": "Las demandas territoriales suelen ser locales y pr\u00e1cticas, m\u00e1s que legislativas a nivel macro."
+        },
+        {
+          "text": "La nacionalizaci\u00f3n total de los recursos minerales.",
+          "isCorrect": false,
+          "rationale": "El inter\u00e9s primordial mencionado es la creaci\u00f3n de valor local y oportunidades para empresas comunales."
+        }
+      ],
+      "hint": "Diferencie entre las necesidades de gesti\u00f3n pol\u00edtica y las necesidades de sustento diario."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una estrategia efectiva para gestionar las expectativas y reducir la ansiedad ambiental desde el primer d\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Mostrar pruebas visuales irrefutables de cierres de minas exitosos.",
+          "isCorrect": true,
+          "rationale": "El posicionamiento simb\u00f3lico con evidencia tangible ayuda a humanizar la operaci\u00f3n y calmar temores sobre el futuro del entorno."
+        },
+        {
+          "text": "Prometer empleo al 100\\% de la poblaci\u00f3n local sin excepciones.",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda una expectativa irreal; lo t\u00e9cnicamente correcto es establecer cuotas prioritarias para mano de obra no calificada."
+        },
+        {
+          "text": "Asumir el pago permanente de sueldos de m\u00e9dicos y profesores.",
+          "isCorrect": false,
+          "rationale": "Esto genera una dependencia insostenible y usurpa el rol que constitucionalmente corresponde al Estado."
+        },
+        {
+          "text": "Evitar discusiones sobre el impacto ambiental hasta que inicie la obra.",
+          "isCorrect": false,
+          "rationale": "La transparencia debe ser radical y absoluta desde el inicio para construir confianza genuina."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo las im\u00e1genes de un futuro recuperado pueden influir en la percepci\u00f3n del presente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta se recomienda para democratizar la informaci\u00f3n t\u00e9cnica y facilitar consensos en asamblea?",
+      "answerOptions": [
+        {
+          "text": "Maquetas en 3D y cartograf\u00eda social altamente visual.",
+          "isCorrect": true,
+          "rationale": "Estas herramientas eliminan la brecha de conocimiento al permitir que personas sin formaci\u00f3n t\u00e9cnica comprendan el impacto f\u00edsico del proyecto."
+        },
+        {
+          "text": "Planos de ingenier\u00eda bidimensionales complejos.",
+          "isCorrect": false,
+          "rationale": "Este tipo de material suele ser excluyente y genera desconfianza al no ser entendido por la mayor\u00eda de la poblaci\u00f3n."
+        },
+        {
+          "text": "Informes financieros escritos en lenguaje corporativo.",
+          "isCorrect": false,
+          "rationale": "La jerga corporativa act\u00faa como una barrera que impide el empoderamiento t\u00e9cnico de la comunidad."
+        },
+        {
+          "text": "Presentaciones orales sin soporte visual.",
+          "isCorrect": false,
+          "rationale": "La falta de soporte visual concreto deja mucho espacio a la imaginaci\u00f3n y a posibles rumores negativos."
+        }
+      ],
+      "hint": "Busque un m\u00e9todo que convierta lo complejo y abstracto en algo tangible y f\u00e1cil de visualizar."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de los siguientes es un ejemplo de una m\u00e9trica de alto impacto para medir el desarrollo social?",
+      "answerOptions": [
+        {
+          "text": "Reducci\u00f3n dr\u00e1stica de los niveles de anemia infantil.",
+          "isCorrect": true,
+          "rationale": "Este indicador refleja un cambio real y profundo en la calidad de vida y el tejido social, a diferencia de las m\u00e9tricas de conteo simple."
+        },
+        {
+          "text": "El n\u00famero de atenciones m\u00e9dicas realizadas mensualmente.",
+          "isCorrect": false,
+          "rationale": "Contar atenciones es una m\u00e9trica perezosa que no garantiza que la salud de la poblaci\u00f3n haya mejorado realmente."
+        },
+        {
+          "text": "La cantidad de aulas de cemento construidas.",
+          "isCorrect": false,
+          "rationale": "La infraestructura f\u00edsica es solo un medio; el verdadero impacto se mide en la calidad de la educaci\u00f3n o el aprendizaje."
+        },
+        {
+          "text": "El volumen de onzas de mineral extra\u00eddas por d\u00eda.",
+          "isCorrect": false,
+          "rationale": "Esta es una m\u00e9trica operativa de la empresa, no un indicador de desarrollo territorial sostenible."
+        }
+      ],
+      "hint": "Identifique el indicador que se enfoca en el resultado final del bienestar humano y no solo en la actividad realizada."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se logra transformar a observadores pasivos en fiscalizadores activos de los proyectos?",
+      "answerOptions": [
+        {
+          "text": "Capacit\u00e1ndolos en la lectura de presupuestos y monitoreo de portales financieros.",
+          "isCorrect": true,
+          "rationale": "Al entender los datos financieros, la comunidad puede distinguir entre retrasos f\u00edsicos y avances reales, eliminando rumores de corrupci\u00f3n."
+        },
+        {
+          "text": "Entregando donaciones monetarias directas a los l\u00edderes.",
+          "isCorrect": false,
+          "rationale": "Las donaciones directas fomentan la dependencia y no el empoderamiento t\u00e9cnico ni la fiscalizaci\u00f3n."
+        },
+        {
+          "text": "Restringiendo el acceso a la informaci\u00f3n t\u00e9cnica para evitar confusiones.",
+          "isCorrect": false,
+          "rationale": "La restricci\u00f3n de informaci\u00f3n es lo opuesto a la transparencia radical y aumenta la desconfianza."
+        },
+        {
+          "text": "Contratando auditores externos sin participaci\u00f3n de la comunidad.",
+          "isCorrect": false,
+          "rationale": "Aunque sean profesionales, la falta de participaci\u00f3n comunitaria impide que la poblaci\u00f3n sienta el proyecto como propio."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 herramientas de conocimiento les dar\u00edan el poder de auditar la gesti\u00f3n del dinero p\u00fablico y privado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el principal 'cuello de botella' que impide a las municipalidades usar el dinero del canon y regal\u00edas?",
+      "answerOptions": [
+        {
+          "text": "La falta de capacidad t\u00e9cnica para elaborar expedientes y estudios de preinversi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Las municipalidades a menudo tienen el capital, pero no los profesionales para dise\u00f1ar proyectos que cumplan con los filtros estatales."
+        },
+        {
+          "text": "La ausencia de fondos depositados en sus cuentas bancarias.",
+          "isCorrect": false,
+          "rationale": "El dinero del canon suele estar depositado; el problema es la incapacidad de gesti\u00f3n para gastarlo eficientemente."
+        },
+        {
+          "text": "La prohibici\u00f3n legal de invertir en infraestructura b\u00e1sica.",
+          "isCorrect": false,
+          "rationale": "La ley permite y fomenta la inversi\u00f3n en infraestructura; el obst\u00e1culo es t\u00e9cnico y administrativo."
+        },
+        {
+          "text": "El rechazo de la poblaci\u00f3n a cualquier obra financiada por la miner\u00eda.",
+          "isCorrect": false,
+          "rationale": "Generalmente, la poblaci\u00f3n demanda obras; la frustraci\u00f3n nace justamente cuando el dinero no se convierte en proyectos reales."
+        }
+      ],
+      "hint": "Considere la diferencia entre tener el dinero y saber c\u00f3mo formular el proyecto para poder usarlo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio ofrece el mecanismo de 'Obras por Impuestos' en t\u00e9rminos de ejecuci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Reduce dr\u00e1sticamente los tiempos de entrega de proyectos vitales.",
+          "isCorrect": true,
+          "rationale": "Permite pasar de a\u00f1os a meses en la ejecuci\u00f3n al usar est\u00e1ndares corporativos y evitar burocracia estatal excesiva."
+        },
+        {
+          "text": "Permite a la empresa evitar el pago de cualquier impuesto al Estado.",
+          "isCorrect": false,
+          "rationale": "No es una evasi\u00f3n, sino un adelanto de la inversi\u00f3n p\u00fablica que se descuenta del impuesto a la renta mediante certificados."
+        },
+        {
+          "text": "Elimina la necesidad de coordinar con el alcalde o el gobierno local.",
+          "isCorrect": false,
+          "rationale": "Este mecanismo requiere un consenso total y una priorizaci\u00f3n conjunta entre la empresa y la alcald\u00eda."
+        },
+        {
+          "text": "Garantiza que la empresa sea la due\u00f1a permanente de la infraestructura.",
+          "isCorrect": false,
+          "rationale": "Las obras resultantes son p\u00fablicas y pertenecen al Estado o la comunidad, no a la empresa privada."
+        }
+      ],
+      "hint": "Enfoque su respuesta en la eficiencia temporal de este modelo comparado con la v\u00eda estatal tradicional."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la 'Mesa de Desarrollo Local'?",
+      "answerOptions": [
+        {
+          "text": "Servir como espacio de di\u00e1logo horizontal para articular el territorio y priorizar proyectos.",
+          "isCorrect": true,
+          "rationale": "Es el centro de gravedad donde empresa, comunidad y t\u00e9cnicos debaten soluciones basadas en datos y realidad social."
+        },
+        {
+          "text": "Funcionar como una oficina de quejas para la poblaci\u00f3n local.",
+          "isCorrect": false,
+          "rationale": "Aunque se discuten problemas, su objetivo es proactivo y de planificaci\u00f3n, no solo reactivo ante quejas."
+        },
+        {
+          "text": "Reemplazar al concejo municipal en la toma de decisiones legales.",
+          "isCorrect": false,
+          "rationale": "La mesa asesora y articula, pero no tiene la potestad legal para suplantar a las instituciones democr\u00e1ticas del Estado."
+        },
+        {
+          "text": "Gestionar exclusivamente el presupuesto de marketing de la empresa.",
+          "isCorrect": false,
+          "rationale": "Su enfoque es el desarrollo territorial integral, no la publicidad o imagen corporativa."
+        }
+      ],
+      "hint": "Piense en un espacio donde diferentes actores se sientan de igual a igual para decidir el futuro de la regi\u00f3n."
+    },
+    {
+      "question": "Dentro de la mesa de desarrollo, \u00bfpor qu\u00e9 la empresa debe evitar financiar 'gastos corrientes'?",
+      "answerOptions": [
+        {
+          "text": "Porque genera una dependencia insostenible y de alto riesgo social.",
+          "isCorrect": true,
+          "rationale": "Si la empresa paga sueldos, el d\u00eda que la mina cierre o deje de pagar, los servicios b\u00e1sicos como salud y educaci\u00f3n colapsar\u00edan."
+        },
+        {
+          "text": "Porque es ilegal que una empresa privada financie cualquier tipo de obra p\u00fablica.",
+          "isCorrect": false,
+          "rationale": "La empresa puede financiar infraestructura (inversi\u00f3n), lo que debe evitar es el gasto operativo permanente (corriente)."
+        },
+        {
+          "text": "Porque los m\u00e9dicos y profesores prefieren ser pagados por la mina.",
+          "isCorrect": false,
+          "rationale": "La preferencia del trabajador no cambia el hecho de que es una responsabilidad estatal que garantiza la continuidad del servicio."
+        },
+        {
+          "text": "Porque no existe personal calificado en la zona para esos puestos.",
+          "isCorrect": false,
+          "rationale": "La falta de personal se resuelve con capacitaci\u00f3n o atracci\u00f3n de talento, no justifica crear una dependencia financiera peligrosa."
+        }
+      ],
+      "hint": "Analice qu\u00e9 suceder\u00eda con el servicio p\u00fablico una vez que la mina agote sus recursos y se retire."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 tipo de capital humano es m\u00e1s valioso que invierta la empresa para generar valor productivo real?",
+      "answerOptions": [
+        {
+          "text": "Soporte t\u00e9cnico especializado como agr\u00f3nomos, zootecnistas e ingenieros alimentarios.",
+          "isCorrect": true,
+          "rationale": "Estos profesionales transfieren conocimientos que permiten a las familias generar ingresos independientes de la actividad minera."
+        },
+        {
+          "text": "Guardias de seguridad privada para custodiar el territorio.",
+          "isCorrect": false,
+          "rationale": "Esto no genera desarrollo productivo ni fortalece el tejido social de la comunidad."
+        },
+        {
+          "text": "Relacionistas p\u00fablicos enfocados en mejorar la imagen de la gerencia.",
+          "isCorrect": false,
+          "rationale": "El valor real proviene del fortalecimiento de las capacidades locales, no de la gesti\u00f3n de la percepci\u00f3n externa."
+        },
+        {
+          "text": "Abogados especialistas en litigios territoriales contra la comunidad.",
+          "isCorrect": false,
+          "rationale": "El modelo contempor\u00e1neo busca la prevenci\u00f3n de conflictos mediante la corresponsabilidad, no el enfrentamiento legal."
+        }
+      ],
+      "hint": "Piense en profesionales que ense\u00f1en a la comunidad a 'pescar' en lugar de solo entregar el 'pescado'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito final o 'cl\u00edmax' del modelo de desarrollo territorial en miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Lograr la total independencia y desvinculaci\u00f3n de la comunidad respecto a la mina.",
+          "isCorrect": true,
+          "rationale": "El \u00e9xito se mide en que la comunidad pueda prosperar con normalidad el d\u00eda despu\u00e9s de que la mina apague sus m\u00e1quinas por \u00faltima vez."
+        },
+        {
+          "text": "Asegurar que la comunidad dependa siempre de la empresa para su subsistencia.",
+          "isCorrect": false,
+          "rationale": "La dependencia es un riesgo social y econ\u00f3mico que garantiza el fracaso tras el cierre de la mina."
+        },
+        {
+          "text": "Mantener la operaci\u00f3n minera abierta de forma indefinida sin importar el mineral.",
+          "isCorrect": false,
+          "rationale": "Las minas tienen una vida \u00fatil finita; el modelo debe preparar el territorio para la etapa post-extractiva."
+        },
+        {
+          "text": "Convertir a todos los agricultores locales en trabajadores mineros.",
+          "isCorrect": false,
+          "rationale": "La diversificaci\u00f3n econ\u00f3mica es clave; si todos dependen de la mina, el colapso al cierre ser\u00e1 inevitable."
+        }
+      ],
+      "hint": "Considere qu\u00e9 pasar\u00eda si la mina desapareciera ma\u00f1ana: \u00bfpodr\u00eda la comunidad seguir adelante sola?"
+    },
+    {
+      "question": "\u00bfC\u00f3mo contribuye la tecnolog\u00eda como los paneles solares y el internet satelital a la autonom\u00eda comunal?",
+      "answerOptions": [
+        {
+          "text": "Independiza energ\u00e9tica y digitalmente a las comunidades de las redes nacionales o de la empresa.",
+          "isCorrect": true,
+          "rationale": "Permite el acceso a educaci\u00f3n global y mercados mundiales sin depender de infraestructura que la empresa podr\u00eda dejar de mantener."
+        },
+        {
+          "text": "Sirve \u00fanicamente para que la empresa monitoree a los ciudadanos desde la distancia.",
+          "isCorrect": false,
+          "rationale": "El objetivo es el empoderamiento y la capacidad instalada para el beneficio aut\u00f3nomo de los habitantes."
+        },
+        {
+          "text": "Es un gasto innecesario porque la miner\u00eda no requiere internet para funcionar.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda es un puente hacia el desarrollo que permite a los j\u00f3venes y agricultores competir en un mundo moderno."
+        },
+        {
+          "text": "Aumenta la dependencia tecnol\u00f3gica de la comunidad hacia la empresa proveedora.",
+          "isCorrect": false,
+          "rationale": "Al dejar capacidades instaladas y propias, se busca que la comunidad gestione sus propios recursos digitales y energ\u00e9ticos."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo estas herramientas permiten a un agricultor vender sus productos al mundo sin intermediarios."
+    },
+    {
+      "question": "\u00bfQu\u00e9 significa el concepto de 'primac\u00eda de la confianza' en la intervenci\u00f3n comunitaria?",
+      "answerOptions": [
+        {
+          "text": "Que imponer un proyecto f\u00edsico sin base social solo sembrar\u00e1 futuros conflictos.",
+          "isCorrect": true,
+          "rationale": "La aceptaci\u00f3n social es el cimiento necesario sobre el cual se construye cualquier arquitectura t\u00e9cnica exitosa."
+        },
+        {
+          "text": "Que la empresa debe confiar ciegamente en que el Estado har\u00e1 su parte.",
+          "isCorrect": false,
+          "rationale": "La empresa debe ser proactiva y t\u00e9cnica; la confianza se construye con hechos, no con suposiciones."
+        },
+        {
+          "text": "Que la comunidad debe confiar en la empresa por el simple hecho de ser una fuente de dinero.",
+          "isCorrect": false,
+          "rationale": "El dinero y la ingenier\u00eda ya no alcanzan; la confianza es un activo que debe ganarse y nutrirse d\u00eda a d\u00eda."
+        },
+        {
+          "text": "Que los contratos legales son m\u00e1s importantes que los acuerdos de palabra.",
+          "isCorrect": false,
+          "rationale": "Aunque los contratos importan, el blindaje social es m\u00e1s poderoso que cualquier contrato ante un intento de paralizaci\u00f3n."
+        }
+      ],
+      "hint": "Recuerde qu\u00e9 sucede cuando un proyecto es 'perfecto' legalmente pero no cuenta con el respaldo de la gente."
+    },
+    {
+      "question": "En el marco de la transferencia de sostenibilidad, \u00bfcu\u00e1l es el rol que el Estado debe cumplir obligatoriamente?",
+      "answerOptions": [
+        {
+          "text": "Asumir los roles permanentes y el gasto corriente como sueldos p\u00fablicos.",
+          "isCorrect": true,
+          "rationale": "Es deber fundamental del Estado garantizar la operatividad continua de los servicios de salud y educaci\u00f3n."
+        },
+        {
+          "text": "Financiar el 100\\% de los expedientes t\u00e9cnicos de todas las obras mineras.",
+          "isCorrect": false,
+          "rationale": "La empresa puede y debe actuar como motor t\u00e9cnico financiando estos estudios para acelerar el desarrollo."
+        },
+        {
+          "text": "Delegar toda la autoridad administrativa a la empresa minera.",
+          "isCorrect": false,
+          "rationale": "El Estado nunca debe renunciar a su soberan\u00eda ni a su responsabilidad de gesti\u00f3n p\u00fablica."
+        },
+        {
+          "text": "Impedir que la empresa privada ejecute obras p\u00fablicas en el territorio.",
+          "isCorrect": false,
+          "rationale": "Existen mecanismos como 'Obras por Impuestos' que permiten la colaboraci\u00f3n p\u00fablico-privada para el desarrollo."
+        }
+      ],
+      "hint": "Diferencie entre qui\u00e9n construye la escuela y qui\u00e9n garantiza que haya un maestro ense\u00f1ando cada d\u00eda."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 un proyecto que la comunidad ayud\u00f3 a formular se convierte en una obra m\u00e1s segura?",
+      "answerOptions": [
+        {
+          "text": "Porque el sentido de propiedad motiva a la comunidad a defenderlo ante paralizaciones.",
+          "isCorrect": true,
+          "rationale": "La cocreaci\u00f3n genera un compromiso emocional y pr\u00e1ctico; la gente protege aquello en lo que ha invertido tiempo y esfuerzo."
+        },
+        {
+          "text": "Porque los proyectos comunitarios son m\u00e1s baratos de construir.",
+          "isCorrect": false,
+          "rationale": "El costo puede ser igual o mayor, pero el blindaje social que se obtiene es un activo invaluable para la estabilidad."
+        },
+        {
+          "text": "Porque la comunidad asume toda la responsabilidad legal en caso de fallos.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad t\u00e9cnica y legal sigue siendo de los ejecutores, pero la legitimidad social reside en el grupo."
+        },
+        {
+          "text": "Porque elimina la necesidad de realizar estudios de impacto ambiental.",
+          "isCorrect": false,
+          "rationale": "Los requisitos legales y ambientales son obligatorios e independientes de la participaci\u00f3n social."
+        }
+      ],
+      "hint": "Reflexione sobre la diferencia entre recibir un regalo y construir algo con las propias manos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la recomendaci\u00f3n t\u00e9cnica ante la demanda comunal de empleo local absoluto (100\\%)?",
+      "answerOptions": [
+        {
+          "text": "Establecer cuotas de contrataci\u00f3n priorizadas para mano de obra no calificada.",
+          "isCorrect": true,
+          "rationale": "Es una respuesta realista y t\u00e9cnica que equilibra las expectativas con las necesidades de especializaci\u00f3n de la industria."
+        },
+        {
+          "text": "Aceptar la demanda para evitar conflictos inmediatos.",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda irresponsable t\u00e9cnicamente y generar\u00eda frustraciones futuras al no poder cumplirse por falta de especializaci\u00f3n."
+        },
+        {
+          "text": "Rechazar la demanda sin ofrecer alternativas.",
+          "isCorrect": false,
+          "rationale": "El rechazo tajante alimenta el conflicto; se requiere una negociaci\u00f3n basada en l\u00edmites claros y realistas."
+        },
+        {
+          "text": "Sustituir a todo el personal especializado por habitantes locales sin capacitaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La seguridad y eficiencia de la operaci\u00f3n minera requieren perfiles t\u00e9cnicos que a veces no est\u00e1n disponibles localmente."
+        }
+      ],
+      "hint": "Busque un punto medio que sea honesto y viable operativamente para la empresa."
+    },
+    {
+      "question": "Actualmente, \u00bfcu\u00e1l es el nuevo est\u00e1ndar para medir el \u00e9xito de una operaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "La fuerza de las relaciones comunitarias y la legitimidad social.",
+          "isCorrect": true,
+          "rationale": "El paradigma moderno valora la integraci\u00f3n social armoniosa tanto como los resultados financieros o de ingenier\u00eda."
+        },
+        {
+          "text": "\u00danicamente la cantidad de onzas de oro o toneladas de cobre producidas.",
+          "isCorrect": false,
+          "rationale": "La producci\u00f3n es importante, pero sin legitimidad social, los riesgos operativos pueden volver inviable el proyecto."
+        },
+        {
+          "text": "La ausencia total de cualquier tipo de di\u00e1logo con el entorno.",
+          "isCorrect": false,
+          "rationale": "El aislamiento es el viejo modelo extractivo que hoy choca contra riesgos insuperables."
+        },
+        {
+          "text": "El cumplimiento estricto de los planos de ingenier\u00eda sin cambios.",
+          "isCorrect": false,
+          "rationale": "La flexibilidad y el dise\u00f1o compartido con el territorio son claves para la sostenibilidad moderna."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 activo intangible es hoy el verdadero 'salvavidas' de un proyecto minero."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Legitimidad social",
+      "Dimensi\u00f3n psicosocial",
+      "Gobernanza y arquitectura financiera",
+      "Mecanismos de inversi\u00f3n (Obras por Impuestos)",
+      "Empoderamiento t\u00e9cnico y fiscalizaci\u00f3n",
+      "Independencia y sostenibilidad territorial"
+    ],
+    "followUp": [
+      "Modelos de cierre de mina y remediaci\u00f3n ambiental",
+      "Gesti\u00f3n de conflictos socioambientales",
+      "Desarrollo de cadenas de valor locales",
+      "Gobernanza p\u00fablica y descentralizaci\u00f3n",
+      "Uso de tecnolog\u00edas exponenciales en el desarrollo rural"
+    ]
+  }
+}

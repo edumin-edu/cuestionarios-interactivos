@@ -1,0 +1,544 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo estrat\u00e9gico primordial del marco de gesti\u00f3n integrada de riesgos ambientales, sociales y de gobernanza (ASG)?",
+      "answerOptions": [
+        {
+          "text": "Proteger el capital natural y social de la organizaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "El marco ASG busca garantizar la resiliencia organizacional protegiendo los activos fundamentales que no son estrictamente financieros."
+        },
+        {
+          "text": "Sustituir los estados financieros tradicionales por reportes \u00e9ticos.",
+          "isCorrect": false,
+          "rationale": "El marco ASG complementa la informaci\u00f3n financiera, pero no busca reemplazar la contabilidad tradicional."
+        },
+        {
+          "text": "Eliminar por completo los riesgos operativos en la miner\u00eda.",
+          "isCorrect": false,
+          "rationale": "Aunque gestiona riesgos, el objetivo estrat\u00e9gico se centra en la protecci\u00f3n de capitales y la transparencia para inversores."
+        },
+        {
+          "text": "Reducir la carga impositiva mediante donaciones filantr\u00f3picas.",
+          "isCorrect": false,
+          "rationale": "La sostenibilidad corporativa moderna se aleja de la simple filantrop\u00eda para convertirse en un requisito de supervivencia empresarial."
+        }
+      ],
+      "hint": "Se trata de salvaguardar los recursos del entorno y de la comunidad que sustentan el negocio."
+    },
+    {
+      "question": "Dentro de la arquitectura de la norma ISO 14001, \u00bfen qu\u00e9 cap\u00edtulos se encuentra el n\u00facleo que exige documentaci\u00f3n obligatoria para una auditor\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Cap\u00edtulos del 1 al 3.",
+          "isCorrect": false,
+          "rationale": "Estos cap\u00edtulos se limitan a generalidades, introducci\u00f3n y vocabulario t\u00e9cnico del est\u00e1ndar."
+        },
+        {
+          "text": "Cap\u00edtulos del 4 al 10.",
+          "isCorrect": true,
+          "rationale": "Este rango constituye el sistema de gesti\u00f3n real, donde se genera la trazabilidad y base documental necesaria para la certificaci\u00f3n."
+        },
+        {
+          "text": "Cap\u00edtulos del 1 al 5.",
+          "isCorrect": false,
+          "rationale": "Incluye secciones introductorias y solo una parte del n\u00facleo operativo, dejando fuera fases cr\u00edticas de mejora y evaluaci\u00f3n."
+        },
+        {
+          "text": "Cap\u00edtulos del 7 al 10 exclusivamente.",
+          "isCorrect": false,
+          "rationale": "Aunque son operativos, ignoran los cap\u00edtulos 4, 5 y 6 que establecen el contexto, liderazgo y planificaci\u00f3n obligatorios."
+        }
+      ],
+      "hint": "Excluye las secciones que solo tratan sobre vocabulario y t\u00e9rminos introductorios."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fases componen el ciclo PHBA, pilar fundamental de los sistemas de gesti\u00f3n ambiental?",
+      "answerOptions": [
+        {
+          "text": "Prevenir, Hacer, Buscar y Analizar.",
+          "isCorrect": false,
+          "rationale": "Aunque suenan a gesti\u00f3n, no corresponden a las siglas del est\u00e1ndar internacional de mejora continua."
+        },
+        {
+          "text": "Planificar, Hacer, Verificar y Actuar.",
+          "isCorrect": true,
+          "rationale": "Esta arquitectura circular asegura que el desempe\u00f1o ambiental evolucione y se fortalezca constantemente."
+        },
+        {
+          "text": "Proyectar, Habilitar, Validar y Asegurar.",
+          "isCorrect": false,
+          "rationale": "Estos t\u00e9rminos no representan el lenguaje com\u00fan utilizado para la mejora continua en normativas internacionales."
+        },
+        {
+          "text": "Presupuestar, Homologar, Vigilar y Auditar.",
+          "isCorrect": false,
+          "rationale": "Estas son actividades administrativas espec\u00edficas, pero no definen la estructura del ciclo de gesti\u00f3n circular."
+        }
+      ],
+      "hint": "Consiste en un proceso c\u00edclico que comienza con la estrategia y termina con la toma de medidas correctivas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia operativa entre la norma ISO 14001 y la gu\u00eda ISO 26000?",
+      "answerOptions": [
+        {
+          "text": "ISO 14001 es para miner\u00eda y ISO 26000 es para el sector servicios.",
+          "isCorrect": false,
+          "rationale": "Ambas normas pueden aplicarse a diversos sectores industriales, incluyendo la miner\u00eda."
+        },
+        {
+          "text": "ISO 14001 es certificable, mientras que ISO 26000 es una gu\u00eda voluntaria no certificable.",
+          "isCorrect": true,
+          "rationale": "La ISO 14001 permite la verificaci\u00f3n por terceros para obtener un sello, mientras que la 26000 es un marco de orientaci\u00f3n \u00e9tica."
+        },
+        {
+          "text": "ISO 26000 exige m\u00e9tricas cuantitativas y ISO 14001 solo principios \u00e9ticos.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s: ISO 14001 es altamente t\u00e9cnica y cuantitativa, mientras que la 26000 se enfoca en el comportamiento \u00e9tico."
+        },
+        {
+          "text": "ISO 14001 es obligatoria por ley mundial y ISO 26000 es opcional.",
+          "isCorrect": false,
+          "rationale": "Ambas son normas internacionales de adopci\u00f3n voluntaria, aunque los mercados pueden exigirlas como requisito comercial."
+        }
+      ],
+      "hint": "Piense en cu\u00e1l de las dos permite colgar un 'diploma' oficial tras una auditor\u00eda externa."
+    },
+    {
+      "question": "En el contexto de la norma ISO 26000, \u00bfcu\u00e1l es la funci\u00f3n del di\u00e1logo social estructurado?",
+      "answerOptions": [
+        {
+          "text": "Gestionar la publicidad y el marketing responsable de la empresa.",
+          "isCorrect": false,
+          "rationale": "El marketing es solo un asunto de consumidores, no el n\u00facleo del di\u00e1logo social con la comunidad."
+        },
+        {
+          "text": "Identificar las expectativas de los vecinos y responder a sus necesidades reales.",
+          "isCorrect": true,
+          "rationale": "Es la herramienta principal para construir la licencia social para operar y reducir la conflictividad."
+        },
+        {
+          "text": "Negociar exclusivamente los contratos con proveedores locales.",
+          "isCorrect": false,
+          "rationale": "El di\u00e1logo social es m\u00e1s amplio y abarca a todas las partes interesadas, no solo transacciones comerciales."
+        },
+        {
+          "text": "Sustituir los procesos de auditor\u00eda ambiental interna.",
+          "isCorrect": false,
+          "rationale": "El di\u00e1logo social y las auditor\u00edas ambientales son procesos complementarios pero con objetivos distintos."
+        }
+      ],
+      "hint": "Esta pr\u00e1ctica busca evitar la paralizaci\u00f3n de operaciones mediante la comunicaci\u00f3n honesta con el entorno."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el concepto de 'Doble Materialidad' en los est\u00e1ndares de reporte de sostenibilidad?",
+      "answerOptions": [
+        {
+          "text": "La combinaci\u00f3n de auditor\u00edas legales y auditor\u00edas de sistemas de gesti\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La doble materialidad se refiere al enfoque de reporte y contenido, no a los tipos de auditor\u00eda."
+        },
+        {
+          "text": "La integraci\u00f3n del impacto de la empresa en el entorno y el impacto del entorno en las finanzas de la empresa.",
+          "isCorrect": true,
+          "rationale": "Une la perspectiva de impacto (GRI) con la perspectiva financiera (SASB) para una visi\u00f3n hol\u00edstica del valor."
+        },
+        {
+          "text": "El cumplimiento simult\u00e1neo de las normas ISO 14001 e ISO 26000.",
+          "isCorrect": false,
+          "rationale": "Aunque es deseable cumplir ambas, la doble materialidad es un concepto t\u00e9cnico de divulgaci\u00f3n de informaci\u00f3n."
+        },
+        {
+          "text": "La duplicaci\u00f3n de la informaci\u00f3n en la memoria anual para inversores y empleados.",
+          "isCorrect": false,
+          "rationale": "No es una duplicaci\u00f3n, sino un an\u00e1lisis de c\u00f3mo la sostenibilidad afecta la creaci\u00f3n de valor desde dos direcciones."
+        }
+      ],
+      "hint": "Visual\u00edcelo como un plano con dos ejes: uno que mira de adentro hacia afuera y otro de afuera hacia adentro."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se estructuran los Est\u00e1ndares Universales dentro de la jerarqu\u00eda del sistema GRI (actualizaci\u00f3n 2021)?",
+      "answerOptions": [
+        {
+          "text": "Como las series 200, 300 y 400.",
+          "isCorrect": false,
+          "rationale": "Estas series corresponden a los est\u00e1ndares tem\u00e1ticos (econ\u00f3mico, ambiental y social)."
+        },
+        {
+          "text": "Como los est\u00e1ndares GRI 1, 2 y 3.",
+          "isCorrect": true,
+          "rationale": "Estos cimientos establecen los fundamentos, la gobernanza y los principios de contenido para cualquier reporte GRI."
+        },
+        {
+          "text": "Como gu\u00edas mandatorias espec\u00edficas para el sector minero.",
+          "isCorrect": false,
+          "rationale": "Las gu\u00edas espec\u00edficas por industria corresponden al nivel de est\u00e1ndares sectoriales, no universales."
+        },
+        {
+          "text": "Como una lista de 77 industrias distintas.",
+          "isCorrect": false,
+          "rationale": "La divisi\u00f3n en 77 industrias es una caracter\u00edstica propia del est\u00e1ndar SASB, no del GRI."
+        }
+      ],
+      "hint": "Sustituyen a la antigua serie 100 y forman la base de la pir\u00e1mide de reportes."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito de que el est\u00e1ndar SASB clasifique el mercado en 77 industrias diferentes?",
+      "answerOptions": [
+        {
+          "text": "Permitir que los inversores comparen el desempe\u00f1o \u00fanicamente entre pares directos.",
+          "isCorrect": true,
+          "rationale": "Esto asegura una comparaci\u00f3n justa, evitando evaluar con los mismos criterios a una minera y a una empresa de software."
+        },
+        {
+          "text": "Facilitar el cumplimiento de los 9 requisitos obligatorios del GRI.",
+          "isCorrect": false,
+          "rationale": "SASB y GRI son est\u00e1ndares distintos; los requisitos del GRI se aplican independientemente de la clasificaci\u00f3n de SASB."
+        },
+        {
+          "text": "Reducir el n\u00famero de m\u00e9tricas contables que una empresa debe reportar.",
+          "isCorrect": false,
+          "rationale": "La clasificaci\u00f3n busca precisi\u00f3n y comparabilidad, no necesariamente la reducci\u00f3n del volumen de datos."
+        },
+        {
+          "text": "Establecer qu\u00e9 pa\u00edses tienen leyes ambientales m\u00e1s rigurosas.",
+          "isCorrect": false,
+          "rationale": "SASB se enfoca en industrias y m\u00e9tricas financieras, no en la clasificaci\u00f3n geogr\u00e1fica de legislaciones."
+        }
+      ],
+      "hint": "Tiene que ver con la imposibilidad de comparar 'peras con manzanas' en el mundo financiero."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje de reducci\u00f3n de tiempo se puede alcanzar en la gesti\u00f3n normativa mediante el uso de plataformas tecnol\u00f3gicas como Bioquey o BOC compliance?",
+      "answerOptions": [
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "Este valor subestima el impacto real de la automatizaci\u00f3n en la eficiencia de los procesos legales y documentales."
+        },
+        {
+          "text": "$90\\%$",
+          "isCorrect": true,
+          "rationale": "La tecnolog\u00eda permite reducir dr\u00e1sticamente el papeleo manual, liberando recursos para el an\u00e1lisis estrat\u00e9gico."
+        },
+        {
+          "text": "$75\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es una mejora significativa, las soluciones avanzadas reportan un margen de optimizaci\u00f3n mayor."
+        },
+        {
+          "text": "$100\\%$",
+          "isCorrect": false,
+          "rationale": "Es imposible eliminar por completo el tiempo de gesti\u00f3n, ya que siempre se requiere supervisi\u00f3n humana y toma de decisiones."
+        }
+      ],
+      "hint": "Es un nivel de optimizaci\u00f3n casi total que transforma la operatividad del equipo."
+    },
+    {
+      "question": "En una auditor\u00eda ambiental, \u00bfqu\u00e9 distingue a la 'auditor\u00eda de conformidad legal' de la 'auditor\u00eda de sistemas de gesti\u00f3n'?",
+      "answerOptions": [
+        {
+          "text": "La legal es voluntaria y la de gesti\u00f3n es obligatoria por ley.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s: la conformidad legal eval\u00faa leyes vigentes (obligatorias) y la de gesti\u00f3n eval\u00faa normas voluntarias (ISO)."
+        },
+        {
+          "text": "La de conformidad legal eval\u00faa el cumplimiento de leyes locales; la de sistemas de gesti\u00f3n verifica normas internacionales como ISO 14001.",
+          "isCorrect": true,
+          "rationale": "Ambas dimensiones son vitales pero eval\u00faan el cumplimiento normativo frente a distintos marcos de referencia."
+        },
+        {
+          "text": "No existe diferencia, ambos t\u00e9rminos son sin\u00f3nimos en el sector minero.",
+          "isCorrect": false,
+          "rationale": "Existen diferencias cr\u00edticas en los criterios de evaluaci\u00f3n y las consecuencias del incumplimiento."
+        },
+        {
+          "text": "La legal solo se hace en la oficina y la de gesti\u00f3n requiere inspecciones de campo.",
+          "isCorrect": false,
+          "rationale": "Ambas auditor\u00edas requieren inspecciones in situ para validar los hechos frente a la documentaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en cu\u00e1l de las dos se enfoca en no infringir las normativas impuestas por el Estado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la recomendaci\u00f3n estrat\u00e9gica para manejar proveedores locales informales que no cumplen inicialmente con los est\u00e1ndares internacionales?",
+      "answerOptions": [
+        {
+          "text": "Cancelaci\u00f3n inmediata de todos los contratos por riesgo de reputaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esto generar\u00eda una dependencia monop\u00f3lica y cuellos de botella log\u00edsticos insostenibles."
+        },
+        {
+          "text": "Fomento y desarrollo de capacidades mediante un acompa\u00f1amiento progresivo.",
+          "isCorrect": true,
+          "rationale": "Esta estrategia asegura el abastecimiento a largo plazo y mitiga riesgos sin destruir la cadena de suministro local."
+        },
+        {
+          "text": "Ignorar los impactos sociales y ambientales de dichos proveedores por ser externos.",
+          "isCorrect": false,
+          "rationale": "Los fallos de los proveedores son vulnerabilidades internas que pueden comprometer la operaci\u00f3n de la empresa contratante."
+        },
+        {
+          "text": "Exigir el cumplimiento total de la norma ISO 14001 en un plazo m\u00e1ximo de 30 d\u00edas.",
+          "isCorrect": false,
+          "rationale": "Un rigor extremo e inmediato es poco realista en mercados informales y eleva el riesgo operativo."
+        }
+      ],
+      "hint": "Se trata de un enfoque de crecimiento conjunto en lugar de una exclusi\u00f3n tajante."
+    },
+    {
+      "question": "\u00bfQu\u00e9 mide el indicador de 'Valor A\u00f1adido Bruto' en el an\u00e1lisis de sostenibilidad corporativa?",
+      "answerOptions": [
+        {
+          "text": "El valor total de las ventas de metales antes de impuestos.",
+          "isCorrect": false,
+          "rationale": "Esa ser\u00eda la facturaci\u00f3n bruta, no el valor a\u00f1adido generado y repartido."
+        },
+        {
+          "text": "La riqueza real generada y c\u00f3mo se reparte entre empleados, proveedores y el Estado.",
+          "isCorrect": true,
+          "rationale": "Es un KPI que muestra el impacto econ\u00f3mico social de la actividad industrial m\u00e1s all\u00e1 de la utilidad neta."
+        },
+        {
+          "text": "La cantidad de residuos minerales que son procesados en la planta.",
+          "isCorrect": false,
+          "rationale": "Este es un indicador operativo ambiental, no un indicador financiero de valor a\u00f1adido."
+        },
+        {
+          "text": "El costo de mantenimiento de las fuentes de energ\u00eda renovable.",
+          "isCorrect": false,
+          "rationale": "Se refiere a una inversi\u00f3n espec\u00edfica, no a la distribuci\u00f3n de la riqueza generada por la organizaci\u00f3n."
+        }
+      ],
+      "hint": "Este indicador refleja la distribuci\u00f3n de la 'torta econ\u00f3mica' entre los distintos actores de la sociedad."
+    },
+    {
+      "question": "En la gesti\u00f3n h\u00eddrica minera, \u00bfqu\u00e9 balance operativo se considera un pilar de resiliencia frente al estr\u00e9s h\u00eddrico global?",
+      "answerOptions": [
+        {
+          "text": "La relaci\u00f3n entre el agua de lluvia captada y el agua evaporada.",
+          "isCorrect": false,
+          "rationale": "Aunque es relevante, no es el balance operativo central que garantiza la continuidad del proceso industrial."
+        },
+        {
+          "text": "La proporci\u00f3n entre el consumo de agua fresca y la tasa de utilizaci\u00f3n de agua reciclada.",
+          "isCorrect": true,
+          "rationale": "Maximizar la recirculaci\u00f3n y minimizar la extracci\u00f3n de agua dulce es vital para la supervivencia operativa."
+        },
+        {
+          "text": "La cantidad de agua utilizada para el riego de comunidades aleda\u00f1as.",
+          "isCorrect": false,
+          "rationale": "Esto es parte de la inversi\u00f3n social, pero no es el indicador t\u00e9cnico de ecoeficiencia de la planta."
+        },
+        {
+          "text": "El costo por metro c\u00fabico de agua tratada en plantas externas.",
+          "isCorrect": false,
+          "rationale": "Es un dato financiero, pero no mide la eficiencia t\u00e9cnica del uso del recurso h\u00eddrico dentro del proceso."
+        }
+      ],
+      "hint": "Tiene que ver con cu\u00e1nto dejamos de extraer de la naturaleza gracias a lo que volvemos a usar."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la herramienta 'SDG Compass' en la estrategia corporativa?",
+      "answerOptions": [
+        {
+          "text": "Servir como un software para la detecci\u00f3n de metales en tiempo real.",
+          "isCorrect": false,
+          "rationale": "No es una herramienta geol\u00f3gica, sino un mecanismo de alineaci\u00f3n estrat\u00e9gica con objetivos globales."
+        },
+        {
+          "text": "Anclar los Objetivos de Desarrollo Sostenible de la ONU a la realidad operativa de la empresa.",
+          "isCorrect": true,
+          "rationale": "Traduce ideales globales en metas corporativas espec\u00edficas respaldadas por indicadores medibles."
+        },
+        {
+          "text": "Comparar la rentabilidad de la empresa frente a otras 77 industrias.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n de la clasificaci\u00f3n sectorial de SASB, no del SDG Compass."
+        },
+        {
+          "text": "Automatizar la generaci\u00f3n de matrices legales para m\u00faltiples pa\u00edses.",
+          "isCorrect": false,
+          "rationale": "Esta es la funci\u00f3n de plataformas tecnol\u00f3gicas de cumplimiento legal, no del marco de los ODS."
+        }
+      ],
+      "hint": "Act\u00faa como un puente entre las metas de la humanidad y las metas de la organizaci\u00f3n."
+    },
+    {
+      "question": "Para que un informe sea declarado 'en conformidad' con los est\u00e1ndares GRI, \u00bfcu\u00e1ntos requisitos obligatorios debe cumplir exactamente la organizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "7 requisitos.",
+          "isCorrect": false,
+          "rationale": "Este n\u00famero no alcanza el nivel de exigencia formal que dicta el est\u00e1ndar para su validaci\u00f3n oficial."
+        },
+        {
+          "text": "9 requisitos.",
+          "isCorrect": true,
+          "rationale": "El cumplimiento de estos nueve puntos es innegociable para declarar que el reporte sigue fielmente el est\u00e1ndar GRI."
+        },
+        {
+          "text": "10 requisitos.",
+          "isCorrect": false,
+          "rationale": "Aunque es un n\u00famero redondo com\u00fan en normativas, el GRI estipula espec\u00edficamente nueve criterios de conformidad."
+        },
+        {
+          "text": "12 requisitos.",
+          "isCorrect": false,
+          "rationale": "Excede la cantidad de requerimientos formales necesarios para la declaraci\u00f3n de conformidad."
+        }
+      ],
+      "hint": "Es un n\u00famero impar, mayor a cinco y menor a diez."
+    },
+    {
+      "question": "Seg\u00fan el est\u00e1ndar GRI 414, \u00bfqu\u00e9 acci\u00f3n extrema debe documentar y reportar una empresa en su cadena de suministro?",
+      "answerOptions": [
+        {
+          "text": "El aumento de precios de los insumos cr\u00edticos.",
+          "isCorrect": false,
+          "rationale": "Los cambios comerciales de precios no son el foco de la dimensi\u00f3n social y de derechos humanos de este est\u00e1ndar."
+        },
+        {
+          "text": "La cancelaci\u00f3n de contratos por faltas sociales o de derechos humanos graves.",
+          "isCorrect": true,
+          "rationale": "Este est\u00e1ndar exige transparencia cuando la relaci\u00f3n comercial se rompe debido a impactos sociales inaceptables."
+        },
+        {
+          "text": "La cantidad de capacitaciones t\u00e9cnicas impartidas a los proveedores.",
+          "isCorrect": false,
+          "rationale": "Aunque es positivo, el GRI 414 pone la lupa en la evaluaci\u00f3n y consecuencias de impactos negativos sociales."
+        },
+        {
+          "text": "El cambio de ubicaci\u00f3n geogr\u00e1fica de un almac\u00e9n log\u00edstico.",
+          "isCorrect": false,
+          "rationale": "Es una decisi\u00f3n operativa que no necesariamente implica un impacto en los derechos laborales o sociales evaluados."
+        }
+      ],
+      "hint": "Se trata de la medida de \u00faltimo recurso cuando un eslab\u00f3n externo falla en su \u00e9tica laboral."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tipo de fallas se clasifican como 'no conformidades mayores' en un sistema de gesti\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Errores de ortograf\u00eda en la memoria de sostenibilidad anual.",
+          "isCorrect": false,
+          "rationale": "Estos son errores de forma que no comprometen la integridad o el control del sistema de gesti\u00f3n."
+        },
+        {
+          "text": "La ausencia total de objetivos ambientales medibles o falta de control de residuos.",
+          "isCorrect": true,
+          "rationale": "Son fallas estructurales severas que pueden causar la p\u00e9rdida de la certificaci\u00f3n por falta de control operativo."
+        },
+        {
+          "text": "El uso de una versi\u00f3n antigua del logotipo corporativo en los uniformes.",
+          "isCorrect": false,
+          "rationale": "Es una cuesti\u00f3n est\u00e9tica o de marca que no afecta el desempe\u00f1o ambiental ni el cumplimiento normativo."
+        },
+        {
+          "text": "La falta de asistencia de un directivo a una reuni\u00f3n de planificaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque no es ideal, una inasistencia puntual no constituye un fallo sist\u00e9mico en la documentaci\u00f3n o procesos."
+        }
+      ],
+      "hint": "Son huecos cr\u00edticos donde la realidad no cuadra en absoluto con los requisitos m\u00ednimos de la norma."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el rol de la 'Alta Direcci\u00f3n' en la norma ISO 14001?",
+      "answerOptions": [
+        {
+          "text": "Limitarse a firmar la pol\u00edtica ambiental una vez al a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "El est\u00e1ndar exige un liderazgo activo, no solo una participaci\u00f3n administrativa o simb\u00f3lica."
+        },
+        {
+          "text": "Ejercer un liderazgo activo, asignar recursos y exigir resultados reales.",
+          "isCorrect": true,
+          "rationale": "Sin el compromiso de la gerencia para institucionalizar los procesos, el sistema de gesti\u00f3n no es sostenible."
+        },
+        {
+          "text": "Delegar toda la responsabilidad ambiental en el personal operativo de campo.",
+          "isCorrect": false,
+          "rationale": "La norma es clara en que la direcci\u00f3n debe meterse de lleno y no solo delegar la responsabilidad."
+        },
+        {
+          "text": "Realizar personalmente las mediciones de calidad de aire y agua.",
+          "isCorrect": false,
+          "rationale": "La direcci\u00f3n gestiona y asegura recursos, pero las tareas t\u00e9cnicas corresponden a personal especializado."
+        }
+      ],
+      "hint": "Va mucho m\u00e1s all\u00e1 de 'poner frases bonitas en la memoria anual'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 se busca demostrar con las inversiones directas en infraestructura solar y e\u00f3lica en una empresa minera?",
+      "answerOptions": [
+        {
+          "text": "Que la empresa tiene exceso de capital financiero.",
+          "isCorrect": false,
+          "rationale": "Estas inversiones tienen un fin estrat\u00e9gico de sostenibilidad, no son una muestra de ostentaci\u00f3n financiera."
+        },
+        {
+          "text": "Que la transici\u00f3n energ\u00e9tica es una realidad t\u00e9cnica en ejecuci\u00f3n y no solo un plan.",
+          "isCorrect": true,
+          "rationale": "Es el indicador tangible de que se est\u00e1n tomando medidas concretas para alcanzar metas de cero emisiones netas."
+        },
+        {
+          "text": "Que se busca eliminar la dependencia de los proveedores de agua.",
+          "isCorrect": false,
+          "rationale": "La energ\u00eda solar y e\u00f3lica abordan la matriz energ\u00e9tica y de emisiones, no directamente la gesti\u00f3n h\u00eddrica."
+        },
+        {
+          "text": "Que la empresa planea vender electricidad a las comunidades vecinas.",
+          "isCorrect": false,
+          "rationale": "El objetivo primordial es descarbonizar la propia operaci\u00f3n para cumplir con los est\u00e1ndares internacionales de carbono."
+        }
+      ],
+      "hint": "Es la se\u00f1al definitiva de que la descarbonizaci\u00f3n ha pasado del papel a la acci\u00f3n."
+    },
+    {
+      "question": "Dentro de la l\u00f3gica de mejora continua, \u00bfqu\u00e9 debe suceder despu\u00e9s de detectar un error en una auditor\u00eda interna?",
+      "answerOptions": [
+        {
+          "text": "Sancionar econ\u00f3micamente a los responsables del \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "La mejora continua se enfoca en corregir el proceso, no necesariamente en el castigo punitivo individual."
+        },
+        {
+          "text": "Aplicar acciones correctivas al instante para que el desempe\u00f1o evolucione.",
+          "isCorrect": true,
+          "rationale": "Detectar 'no conformidades' permite cerrar huecos operativos y fortalecer el sistema ante nuevos desaf\u00edos."
+        },
+        {
+          "text": "Modificar la pol\u00edtica ambiental para que el error ya no sea considerado falta.",
+          "isCorrect": false,
+          "rationale": "Ajustar la norma a la realidad fallida es lo opuesto a la mejora continua y compromete la integridad del sistema."
+        },
+        {
+          "text": "Esperar a la auditor\u00eda externa para ver si el auditor nota el error.",
+          "isCorrect": false,
+          "rationale": "La proactividad es clave; ignorar un error detectado internamente aumenta el riesgo de perder la certificaci\u00f3n."
+        }
+      ],
+      "hint": "Es el paso necesario para cerrar el ciclo y asegurar que la organizaci\u00f3n se fortalezca."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Marco ASG y Sostenibilidad Corporativa",
+      "Norma ISO 14001 y Sistemas de Gesti\u00f3n Ambiental",
+      "ISO 26000 y Responsabilidad Social",
+      "Est\u00e1ndares de Reporte GRI y SASB",
+      "Doble Materiality y Divulgaci\u00f3n Financiera",
+      "Auditor\u00eda Ambiental y Tecnolog\u00edas de Cumplimiento",
+      "Gesti\u00f3n de la Cadena de Suministro Sostenible",
+      "Indicadores Clave de Desempe\u00f1o (KPIs) de Sostenibilidad"
+    ],
+    "followUp": [
+      "Ciclo PHBA y Mejora Continua en Procesos Industriales",
+      "Licencia Social para Operar y Di\u00e1logo con Partes Interesadas",
+      "Ecoeficiencia y Gesti\u00f3n H\u00eddrica en Industrias Extractivas",
+      "Descarbonizaci\u00f3n y Transici\u00f3n Energ\u00e9tica Corporativa",
+      "Debida Diligencia en Derechos Humanos y Pr\u00e1cticas Laborales",
+      "Integraci\u00f3n de los Objetivos de Desarrollo Sostenible (ODS) mediante SDG Compass"
+    ]
+  }
+}

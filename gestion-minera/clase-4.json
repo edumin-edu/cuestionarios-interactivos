@@ -1,0 +1,540 @@
+
+{
+  "quiz": [
+    {
+      "question": "¿Cuáles son los tres pilares fundamentales para alcanzar la madurez operativa en la minería moderna?",
+      "answerOptions": [
+        {
+          "text": "Automatización integral, inteligencia artificial predictiva y evaluación de costos rigurosa",
+          "isCorrect": true,
+          "rationale": "Estos tres componentes proporcionan la base técnica necesaria para construir una visión estratégica y moderna de la industria."
+        },
+        {
+          "text": "Reducción de personal, incremento de la profundidad de excavación y uso de explosivos",
+          "isCorrect": false,
+          "rationale": "Aunque la profundidad y el personal son factores operativos, no constituyen los pilares de la madurez tecnológica mencionados."
+        },
+        {
+          "text": "Mantenimiento reactivo, compras al menor precio y conectividad básica",
+          "isCorrect": false,
+          "rationale": "Este enfoque describe prácticas tradicionales que la transformación digital busca superar para lograr la excelencia operativa."
+        },
+        {
+          "text": "Evaluación ambiental, bienestar social y crecimiento económico sin tecnología",
+          "isCorrect": false,
+          "rationale": "Estos son objetivos de sostenibilidad, pero la madurez operativa requiere habilitadores tecnológicos específicos."
+        }
+      ],
+      "hint": "Considere los componentes tecnológicos y analíticos que sostienen la visión estratégica de la minería del siglo XXI."
+    },
+    {
+      "question": "¿Qué tecnología se describe como el sistema nervioso central de la mina debido a su capacidad de conectividad constante?",
+      "answerOptions": [
+        {
+          "text": "Inteligencia Artificial",
+          "isCorrect": false,
+          "rationale": "La inteligencia artificial actúa como el cerebro procesador, no como el sistema sensorial de recolección de datos."
+        },
+        {
+          "text": "Internet de las Cosas (IoT)",
+          "isCorrect": true,
+          "rationale": "El IoT permite el despliegue masivo de sensores que sienten y recopilan parámetros físicos en tiempo real."
+        },
+        {
+          "text": "Sistemas ERP",
+          "isCorrect": false,
+          "rationale": "Los ERP se ubican en la cima de la pirámide de automatización para la planificación estratégica, no en la red de campo."
+        },
+        {
+          "text": "Gemelos Digitales",
+          "isCorrect": false,
+          "rationale": "Esta tecnología es una representación virtual para simulación, no el sistema de sensores físicos del terreno."
+        }
+      ],
+      "hint": "Piense en la red que conecta sensores y máquinas para monitorear vibraciones y temperaturas 24/7."
+    },
+    {
+      "question": "¿Cuál es la función principal de los gemelos digitales en el entorno minero?",
+      "answerOptions": [
+        {
+          "text": "Sustituir por completo a los ingenieros en la toma de decisiones de campo",
+          "isCorrect": false,
+          "rationale": "El objetivo es proporcionar una herramienta de optimización y prueba para los ingenieros, no reemplazarlos."
+        },
+        {
+          "text": "Optimizar planes de minado y simular escenarios de riesgo en un entorno virtual seguro",
+          "isCorrect": true,
+          "rationale": "Permiten probar variables y detectar cuellos de botella digitalmente antes de aplicarlos en el mundo real."
+        },
+        {
+          "text": "Controlar directamente los sistemas PLC desde la nube",
+          "isCorrect": false,
+          "rationale": "El control de señales PLC corresponde a los niveles inferiores de la pirámide de automatización, no a la simulación virtual."
+        },
+        {
+          "text": "Monitorear exclusivamente la fatiga biométrica de los operadores",
+          "isCorrect": false,
+          "rationale": "Esa función específica pertenece a los sistemas anticolisión con cámaras de IA, no al modelado integral de la mina."
+        }
+      ],
+      "hint": "Imagine una 'caja de arena' virtual donde se pueden copiar y pegar los procesos físicos para experimentar sin riesgos financieros."
+    },
+    {
+      "question": "En la pirámide de automatización, ¿qué sistema se encuentra en el nivel 2 y permite la supervisión visual de la operación?",
+      "answerOptions": [
+        {
+          "text": "Red de campo con sensores",
+          "isCorrect": false,
+          "rationale": "La red de campo representa el nivel 0, la base física de la pirámide."
+        },
+        {
+          "text": "Sistemas PLC",
+          "isCorrect": false,
+          "rationale": "Los PLC se encargan del control de señales en el nivel 1."
+        },
+        {
+          "text": "Sistemas SCADA",
+          "isCorrect": true,
+          "rationale": "Los sistemas SCADA integran la red de supervisión para visualizar el estado de los procesos."
+        },
+        {
+          "text": "Sistemas ERP",
+          "isCorrect": false,
+          "rationale": "El ERP es la cima estratégica de la pirámide, clasificado como nivel 4."
+        }
+      ],
+      "hint": "Este nivel se encarga de la red de supervisión que traduce señales en interfaces visuales."
+    },
+    {
+      "question": "¿Cuál es el objetivo prioritario del despliegue de sistemas autónomos en la minería?",
+      "answerOptions": [
+        {
+          "text": "Maximizar el ahorro de combustible a cualquier costo",
+          "isCorrect": false,
+          "rationale": "El ahorro de combustible es un beneficio secundario, pero no la meta final de la autonomía."
+        },
+        {
+          "text": "Garantizar la seguridad humana retirando al personal de zonas de riesgo crítico",
+          "isCorrect": true,
+          "rationale": "La meta final de la automatización es delegar tareas peligrosas a las máquinas para proteger la integridad física de las personas."
+        },
+        {
+          "text": "Eliminar la necesidad de capacitación del talento humano",
+          "isCorrect": false,
+          "rationale": "Al contrario, la tecnología obliga a una reconversión del talento hacia roles de analistas y controladores."
+        },
+        {
+          "text": "Incrementar la variabilidad mineral en el proceso de extracción",
+          "isCorrect": false,
+          "rationale": "La tecnología busca mitigar la variabilidad mineral, no aumentarla."
+        }
+      ],
+      "hint": "Considere qué factor es más importante que la eficiencia económica cuando se trata de la vida de los trabajadores."
+    },
+    {
+      "question": "¿Qué impacto tiene el uso de flotas autónomas en la vida útil de los neumáticos de los camiones mineros?",
+      "answerOptions": [
+        {
+          "text": "Un incremento impresionante del $40\\%$",
+          "isCorrect": true,
+          "rationale": "La eliminación del error humano y de la conducción brusca permite una extensión significativa de la vida útil de estos activos."
+        },
+        {
+          "text": "Una reducción del $5\\%$ debido al uso constante",
+          "isCorrect": false,
+          "rationale": "El uso constante y controlado en realidad mejora la durabilidad al estandarizar el manejo."
+        },
+        {
+          "text": "Un aumento del $10\\%$ en el desgaste por velocidad",
+          "isCorrect": false,
+          "rationale": "La autonomía reduce el desgaste innecesario al operar dentro de parámetros óptimos de conducción."
+        },
+        {
+          "text": "No tiene un impacto medible en los neumáticos",
+          "isCorrect": false,
+          "rationale": "Los resultados documentados en minas de clase mundial muestran mejoras drásticas en los costos de mantenimiento de neumáticos."
+        }
+      ],
+      "hint": "La conducción precisa de las máquinas evita la brusquedad humana al volante, favoreciendo la durabilidad de los componentes."
+    },
+    {
+      "question": "¿Cómo funcionan los drones con jaulas $360^{\\circ}$ en la inspección de minería subterránea?",
+      "answerOptions": [
+        {
+          "text": "Emiten señales de radio para guiar a los trabajadores en el socavón",
+          "isCorrect": false,
+          "rationale": "Su función no es guiar trabajadores, sino reemplazarlos en la tarea de inspección física inicial."
+        },
+        {
+          "text": "Mapean en 3D áreas peligrosas rebotando de forma segura para detectar riesgos de caída de rocas",
+          "isCorrect": true,
+          "rationale": "La jaula protege al dron de golpes mientras escanea el entorno para crear mapas precisos sin exponer humanos."
+        },
+        {
+          "text": "Transportan suministros médicos a los frentes de trabajo",
+          "isCorrect": false,
+          "rationale": "Aunque es posible, la aplicación específica mencionada es el mapeo 3D y la detección de riesgos estructurales."
+        },
+        {
+          "text": "Limpian el polvo de los sensores IoT instalados en las paredes",
+          "isCorrect": false,
+          "rationale": "Su propósito es la recolección de datos geoespaciales y la seguridad preventiva."
+        }
+      ],
+      "hint": "Piense en un equipo capaz de entrar en espacios oscuros y cerrados para generar una imagen digital del entorno."
+    },
+    {
+      "question": "¿Qué diferencia fundamental existe entre un AGV y un AMR en la logística de almacenes?",
+      "answerOptions": [
+        {
+          "text": "Los AGVs son más rápidos mientras que los AMRs cargan más peso",
+          "isCorrect": false,
+          "rationale": "En realidad, los AGVs suelen ser vehículos pesados tipo tanque, mientras que los AMRs son valorados por su agilidad."
+        },
+        {
+          "text": "Los AGVs siguen rutas fijas, mientras que los AMRs eligen rutas dinámicas usando IA",
+          "isCorrect": true,
+          "rationale": "Los AGVs actúan como trenes sobre guías virtuales fijas, mientras que los AMRs esquivan obstáculos y son más flexibles."
+        },
+        {
+          "text": "Los AMRs requieren operadores humanos y los AGVs son 100% autónomos",
+          "isCorrect": false,
+          "rationale": "Ambos sistemas son autónomos, pero difieren en su método de navegación y flexibilidad."
+        },
+        {
+          "text": "Los AGVs se usan solo en minería subterránea y los AMRs en superficie",
+          "isCorrect": false,
+          "rationale": "La distinción se basa en su inteligencia de navegación en almacenes y logística, no en el tipo de mina."
+        }
+      ],
+      "hint": "Considere cuál de estos sistemas es capaz de esquivar un objeto inesperado de forma autónoma."
+    },
+    {
+      "question": "En la matriz de Kraljic, ¿cómo se clasifican insumos como el cianuro o los explosivos?",
+      "answerOptions": [
+        {
+          "text": "Productos Rutinarios",
+          "isCorrect": false,
+          "rationale": "Los productos rutinarios tienen bajo impacto y bajo riesgo, a diferencia de los insumos críticos."
+        },
+        {
+          "text": "Productos Estratégicos",
+          "isCorrect": true,
+          "rationale": "Debido a su altísimo impacto financiero y riesgo de suministro, requieren alianzas a largo plazo con proveedores."
+        },
+        {
+          "text": "Productos Palanca",
+          "isCorrect": false,
+          "rationale": "Los productos palanca tienen bajo riesgo de suministro, mientras que el cianuro y los explosivos son altamente críticos."
+        },
+        {
+          "text": "Productos Cuello de Botella",
+          "isCorrect": false,
+          "rationale": "Aunque son críticos, su alto impacto financiero los sitúa en la categoría de estratégicos."
+        }
+      ],
+      "hint": "Piense en materiales que poseen simultáneamente un alto impacto en las operaciones y un alto riesgo en su adquisición."
+    },
+    {
+      "question": "¿Qué estrategia se recomienda para los 'Productos Palanca' como el combustible o el transporte?",
+      "answerOptions": [
+        {
+          "text": "Formar alianzas de por vida con un único proveedor",
+          "isCorrect": false,
+          "rationale": "Las alianzas son para productos estratégicos; en los palanca se busca aprovechar la competencia del mercado."
+        },
+        {
+          "text": "Ejercer presión competitiva sobre los precios",
+          "isCorrect": true,
+          "rationale": "Al tener un riesgo de suministro bajo pero un impacto alto, la empresa puede negociar mejores condiciones económicas."
+        },
+        {
+          "text": "Simplificar y descentralizar las compras",
+          "isCorrect": false,
+          "rationale": "Esa es la estrategia para productos rutinarios de bajo valor e impacto."
+        },
+        {
+          "text": "Mantener stocks mínimos para evitar el almacenamiento",
+          "isCorrect": false,
+          "rationale": "Para productos de alto impacto como el combustible, el enfoque es la optimización del costo mediante la competencia."
+        }
+      ],
+      "hint": "Dado que hay muchos proveedores disponibles para estos insumos de alto impacto, la empresa tiene el poder de negociación."
+    },
+    {
+      "question": "¿Por qué es vital asegurar que el $80\\%$ de las compras se realicen bajo contratos anuales?",
+      "answerOptions": [
+        {
+          "text": "Para eliminar por completo al departamento de adquisiciones",
+          "isCorrect": false,
+          "rationale": "El objetivo no es eliminar el área, sino transformarla en gestora de riesgos estratégicos."
+        },
+        {
+          "text": "Para garantizar el blindaje operativo, condiciones preferentes y mejorar la liquidez",
+          "isCorrect": true,
+          "rationale": "Esta estructura protege el capital y asegura que la operación no se detenga por falta de insumos críticos."
+        },
+        {
+          "text": "Para poder cambiar de proveedor cada mes según el precio del día",
+          "isCorrect": false,
+          "rationale": "Los contratos anuales buscan estabilidad y previsibilidad, lo opuesto a las compras puntuales o 'spot'."
+        },
+        {
+          "text": "Para cumplir con normativas ambientales internacionales de reciclaje",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda al cumplimiento, la razón principal es la estabilidad operativa y financiera del suministro."
+        }
+      ],
+      "hint": "Piense en las ventajas de la estabilidad a largo plazo frente a la incertidumbre de las compras individuales constantes."
+    },
+    {
+      "question": "¿Qué representa el 'efecto iceberg' en el análisis del Costo Total de Pertenencia (TCO)?",
+      "answerOptions": [
+        {
+          "text": "Que el precio de compra inicial es el costo más importante de un equipo",
+          "isCorrect": false,
+          "rationale": "El precio inicial es solo la punta visible; los costos mayores suelen estar ocultos bajo la superficie."
+        },
+        {
+          "text": "Que los costos operativos y riesgos ocultos suelen ser mucho mayores que el precio de adquisición",
+          "isCorrect": true,
+          "rationale": "El TCO revela que el CAPEX es solo una fracción del gasto total comparado con el mantenimiento y las fallas."
+        },
+        {
+          "text": "Que los equipos mineros deben trabajar en climas fríos para ser eficientes",
+          "isCorrect": false,
+          "rationale": "Es una metáfora financiera sobre costos ocultos, no una referencia a condiciones climáticas."
+        },
+        {
+          "text": "Que el valor de reventa de la maquinaria siempre se mantiene a flote",
+          "isCorrect": false,
+          "rationale": "El concepto se centra en la acumulación de gastos invisibles durante el ciclo de vida, no en el valor de rescate."
+        }
+      ],
+      "hint": "Considere la diferencia entre lo que se paga al inicio (CAPEX) y lo que cuesta mantener el equipo funcionando (OPEX y Riesgos)."
+    },
+    {
+      "question": "¿Cuál es el costo estimado por un solo evento de falla no planificada en una planta crítica?",
+      "answerOptions": [
+        {
+          "text": "$500$",
+          "isCorrect": false,
+          "rationale": "Esta cifra es insignificante comparada con el impacto real de detener una planta minera."
+        },
+        {
+          "text": "$80,000$",
+          "isCorrect": true,
+          "rationale": "Este monto representa el impacto financiero devastador de una detención inesperada que anula cualquier ahorro inicial."
+        },
+        {
+          "text": "$10,000$",
+          "isCorrect": false,
+          "rationale": "Aunque es una pérdida, el valor real documentado para paradas críticas es significativamente mayor."
+        },
+        {
+          "text": "$1,000,000$",
+          "isCorrect": false,
+          "rationale": "Si bien las pérdidas pueden escalar, la cifra base utilizada para ilustrar la urgencia de estas fallas es de ochenta mil dólares."
+        }
+      ],
+      "hint": "Piense en una cifra de cinco dígitos que subraya la importancia de evitar el mantenimiento reactivo."
+    },
+    {
+      "question": "¿Qué consecuencia financiera tuvo la compra del equipo 'económico' en el caso del proveedor 3?",
+      "answerOptions": [
+        {
+          "text": "Un ahorro total del $20\\%$ al finalizar el año",
+          "isCorrect": false,
+          "rationale": "Al contrario, la compra resultó en un sobrecosto masivo debido a fallas catastróficas."
+        },
+        {
+          "text": "Un sobrecosto acumulado del $160\\%$ respecto a la inversión inicial",
+          "isCorrect": true,
+          "rationale": "Las reparaciones de emergencia tras el fin de la garantía costaron casi tanto como el equipo original."
+        },
+        {
+          "text": "Una extensión gratuita de la garantía por parte del fabricante",
+          "isCorrect": false,
+          "rationale": "El problema fue precisamente que las fallas ocurrieron justo cuando terminó la garantía, sin soporte del fabricante."
+        },
+        {
+          "text": "La reducción de los costos de flete e instalación en un $50\\%$",
+          "isCorrect": false,
+          "rationale": "Estos costos son parte del TCO, pero no mitigaron el desastre financiero de la falla crítica."
+        }
+      ],
+      "hint": "Considere que el costo total terminó siendo mucho más del doble del precio de compra original."
+    },
+    {
+      "question": "En el ejemplo de los pernos de anclaje (split sets), ¿por qué es preferible pagar $3.45 en lugar de $2.95?",
+      "answerOptions": [
+        {
+          "text": "Porque el producto más caro siempre tiene mejor color y acabado",
+          "isCorrect": false,
+          "rationale": "La estética no es un factor en la seguridad minera; lo es la fiabilidad técnica."
+        },
+        {
+          "text": "Porque la opción de $2.95 tiene una alta tasa de falla que pone en riesgo la seguridad y eleva los costos logísticos",
+          "isCorrect": true,
+          "rationale": "El ahorro de 50 centavos se pulveriza ante el riesgo de desprendimiento de rocas y los costos de reinstalación."
+        },
+        {
+          "text": "Porque los proveedores de $3.45 ofrecen mejores artículos de oficina de regalo",
+          "isCorrect": false,
+          "rationale": "La decisión de compra estratégica se basa en el TCO y la seguridad, no en incentivos irrelevantes."
+        },
+        {
+          "text": "Porque el presupuesto anual obliga a gastar todo el dinero disponible",
+          "isCorrect": false,
+          "rationale": "La gestión estratégica busca eficiencia, no el gasto injustificado de recursos."
+        }
+      ],
+      "hint": "Piense en el impacto que tiene una falla estructural en la integridad física de los trabajadores de la mina."
+    },
+    {
+      "question": "¿Cómo se describe la evolución del talento humano ante la transformación digital de la mina?",
+      "answerOptions": [
+        {
+          "text": "El personal debe enfocarse únicamente en tareas manuales de alta intensidad",
+          "isCorrect": false,
+          "rationale": "La transformación digital busca precisamente retirar al personal de las tareas manuales peligrosas."
+        },
+        {
+          "text": "El operador se transforma en un analista y controlador de sistemas digitales",
+          "isCorrect": true,
+          "rationale": "La nueva realidad exige competencias en el manejo de herramientas inteligentes y monitoreo de datos."
+        },
+        {
+          "text": "La tecnología reemplaza la necesidad de cualquier tipo de talento humano",
+          "isCorrect": false,
+          "rationale": "La tecnología requiere personas capacitadas para orquestarla y tomar decisiones basadas en sus datos."
+        },
+        {
+          "text": "Se requiere que todo el personal aprenda a fabricar sus propios microchips",
+          "isCorrect": false,
+          "rationale": "La reconversión se enfoca en la operación y análisis de sistemas, no en la fabricación de hardware."
+        }
+      ],
+      "hint": "Considere el cambio de rol de alguien que movía palancas en una cabina a alguien que supervisa pantallas con datos."
+    },
+    {
+      "question": "¿Cuál es la función de los sistemas anticolisión (CAS) combinados con monitoreo biométrico?",
+      "answerOptions": [
+        {
+          "text": "Calcular la nómina del conductor según las horas trabajadas",
+          "isCorrect": false,
+          "rationale": "El sistema es preventivo de seguridad, no administrativo de recursos humanos."
+        },
+        {
+          "text": "Detectar fatiga o microsueños analizando la postura y el rostro del chofer en tiempo real",
+          "isCorrect": true,
+          "rationale": "La inteligencia artificial interviene frenando el equipo o alertando antes de que ocurra un accidente grave."
+        },
+        {
+          "text": "Mejorar la conexión Wi-Fi dentro de la cabina del camión",
+          "isCorrect": false,
+          "rationale": "Su objetivo es salvar vidas mediante la detección de condiciones físicas de riesgo en el operador."
+        },
+        {
+          "text": "Contar cuántas veces el conductor sale del vehículo durante el turno",
+          "isCorrect": false,
+          "rationale": "Se enfoca en el estado interno del conductor (biometría) durante la operación para evitar choques."
+        }
+      ],
+      "hint": "Imagine un 'escudo protector invisible' que lee las señales del cuerpo del operador para prevenir accidentes."
+    },
+    {
+      "question": "¿Qué ocurre en un sistema de mantenimiento predictivo y logística 4.0 cuando se detecta una falla inminente?",
+      "answerOptions": [
+        {
+          "text": "La máquina se apaga y espera a que alguien note el problema visualmente",
+          "isCorrect": false,
+          "rationale": "Eso sería mantenimiento reactivo, no el sistema automatizado y sincronizado de la industria 4.0."
+        },
+        {
+          "text": "El sistema genera automáticamente la orden de compra y coordina el repuesto en el almacén",
+          "isCorrect": true,
+          "rationale": "La inteligencia permite que el repuesto esté listo antes de que el técnico llegue a revisar el equipo."
+        },
+        {
+          "text": "Se envía un correo electrónico a todos los empleados de la empresa para pedir sugerencias",
+          "isCorrect": false,
+          "rationale": "La respuesta es técnica y automática dentro de los sistemas ERP y MES, no una consulta general."
+        },
+        {
+          "text": "El equipo se repara a sí mismo utilizando nanotecnología avanzada",
+          "isCorrect": false,
+          "rationale": "El sistema predice y gestiona la logística de reparación, pero todavía requiere intervención humana técnica para el cambio físico."
+        }
+      ],
+      "hint": "Visualice una cadena de eventos donde el diagnóstico de la máquina dispara directamente el proceso de adquisición sin demoras."
+    },
+    {
+      "question": "¿Cuál es el primer nivel de la pirámide de automatización, situado 'en el barro' con los procesos físicos?",
+      "answerOptions": [
+        {
+          "text": "Nivel 4: Sistemas ERP",
+          "isCorrect": false,
+          "rationale": "El ERP es el nivel más alto y alejado del contacto físico directo con el terreno."
+        },
+        {
+          "text": "Nivel 0: Red de campo con sensores",
+          "isCorrect": true,
+          "rationale": "Este nivel es la base fundacional donde se recolectan los datos primarios de las máquinas."
+        },
+        {
+          "text": "Nivel 3: Sistemas MES",
+          "isCorrect": false,
+          "rationale": "El MES orquesta la operación en un nivel superior al de los sensores de campo."
+        },
+        {
+          "text": "Nivel 1: Sistemas PLC",
+          "isCorrect": false,
+          "rationale": "El Nivel 1 recibe señales de la red de campo, pero la red de campo en sí es el Nivel 0."
+        }
+      ],
+      "hint": "Este nivel representa la conexión física inicial donde se 'siente' lo que ocurre en el terreno."
+    },
+    {
+      "question": "¿Cómo ayuda la Inteligencia Artificial a la cultura de una empresa minera?",
+      "answerOptions": [
+        {
+          "text": "Fomenta una cultura reactiva basada en la resolución de crisis diarias",
+          "isCorrect": false,
+          "rationale": "La IA busca precisamente eliminar la reactividad para dar paso a la proactividad."
+        },
+        {
+          "text": "Permite transitar de un enfoque reactivo a uno proactivo y predictivo",
+          "isCorrect": true,
+          "rationale": "Al procesar Big Data y encontrar patrones, la empresa puede anticiparse a fallos y optimizar el capital."
+        },
+        {
+          "text": "Reduce la necesidad de análisis de datos por parte de los directivos",
+          "isCorrect": false,
+          "rationale": "Al contrario, proporciona datos más limpios e inteligentes para una planificación estratégica superior."
+        },
+        {
+          "text": "Impone un sistema de castigos automáticos por errores operativos",
+          "isCorrect": false,
+          "rationale": "La IA se usa para optimizar procesos y mejorar la seguridad, no como herramienta punitiva."
+        }
+      ],
+      "hint": "Piense en el cambio que ocurre cuando dejas de 'correr como loco' porque una máquina se rompió."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Automatización Minera",
+      "Arquitectura de Sistemas 4.0",
+      "Gestión de Riesgos y Suministros",
+      "Matriz de Kraljic",
+      "Costo Total de Pertenencia (TCO)"
+    ],
+    "followUp": [
+      "Tecnologías Disruptivas (IoT y AI)",
+      "Logística 4.0 y Mantenimiento Predictivo",
+      "Seguridad Operativa y Sistemas Autónomos",
+      "Evolución del Talento Humano en Minería"
+    ]
+  }
+}

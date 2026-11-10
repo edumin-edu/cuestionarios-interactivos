@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el porcentaje de precisi\u00f3n realista al que se debe apuntar en la pr\u00e1ctica de gesti\u00f3n de calidad para garantizar una marca confiable?",
+      "answerOptions": [
+        {
+          "text": "100%",
+          "isCorrect": false,
+          "rationale": "Este nivel representa una perfecci\u00f3n ut\u00f3pica que es imposible de alcanzar en la pr\u00e1ctica real de las operaciones."
+        },
+        {
+          "text": "95.00%",
+          "isCorrect": false,
+          "rationale": "Aunque es un est\u00e1ndar aceptable en algunos contextos, no alcanza el nivel de rigor necesario para una marca fuerte seg\u00fan los fundamentos estrat\u00e9gicos."
+        },
+        {
+          "text": "99.08%",
+          "isCorrect": true,
+          "rationale": "Este porcentaje se establece como una meta realista y robusta para asegurar la confiabilidad sin caer en utop\u00edas de perfecci\u00f3n absoluta."
+        },
+        {
+          "text": "99.99%",
+          "isCorrect": false,
+          "rationale": "Este nivel de precisi\u00f3n corresponde espec\u00edficamente al est\u00e1ndar Six Sigma, no al objetivo base de la gesti\u00f3n de calidad general mencionada."
+        }
+      ],
+      "hint": "Se busca un equilibrio entre la perfecci\u00f3n imposible y un est\u00e1ndar altamente confiable."
+    },
+    {
+      "question": "\u00bfQu\u00e9 significa etimol\u00f3gicamente la palabra japonesa Kaizen dentro del ecosistema de mejora continua?",
+      "answerOptions": [
+        {
+          "text": "Producci\u00f3n r\u00e1pida",
+          "isCorrect": false,
+          "rationale": "El concepto no se refiere a la velocidad de salida, sino a la naturaleza del cambio en los procesos."
+        },
+        {
+          "text": "Acci\u00f3n de enmendar para mejorar",
+          "isCorrect": true,
+          "rationale": "Kaizen representa la encarnaci\u00f3n de un cambio beneficioso y constante en el piso de planta."
+        },
+        {
+          "text": "Eliminaci\u00f3n total de errores",
+          "isCorrect": false,
+          "rationale": "Aunque es un objetivo deseado, la palabra se enfoca en el proceso de mejora y no en el resultado final de cero errores."
+        },
+        {
+          "text": "Orden y limpieza",
+          "isCorrect": false,
+          "rationale": "Este concepto est\u00e1 m\u00e1s relacionado con la metodolog\u00eda de las 5 S que con el motor general de mejora continua."
+        }
+      ],
+      "hint": "Se trata de la filosof\u00eda detr\u00e1s de realizar cambios positivos de forma estructurada."
+    },
+    {
+      "question": "En el ciclo Deming o matriz PHBA, \u00bfen qu\u00e9 etapa se ejecutan las pruebas piloto y programas como las 5 S?",
+      "answerOptions": [
+        {
+          "text": "Planificar",
+          "isCorrect": false,
+          "rationale": "En esta fase inicial solo se definen los objetivos y se arman herramientas de cronograma como el diagrama de Gantt."
+        },
+        {
+          "text": "Verificar",
+          "isCorrect": false,
+          "rationale": "Esta etapa se centra en el diagn\u00f3stico de desviaciones y el an\u00e1lisis de KPIs bas\u00e1ndose en el feedback."
+        },
+        {
+          "text": "Actuar",
+          "isCorrect": false,
+          "rationale": "Aqu\u00ed es donde se logra la estandarizaci\u00f3n definitiva de los procesos que demostraron funcionar en las pruebas."
+        },
+        {
+          "text": "Hacer",
+          "isCorrect": true,
+          "rationale": "La fase de ejecuci\u00f3n es donde se implementan las acciones concretas y los pilotos para probar las mejoras planificadas."
+        }
+      ],
+      "hint": "Es el momento de la puesta en marcha de lo que se ha dise\u00f1ado previamente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de los siguientes t\u00e9rminos representa la 'irregularidad' como enemigo de la eficiencia en la producci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Muda",
+          "isCorrect": false,
+          "rationale": "Este t\u00e9rmino se refiere espec\u00edficamente al desperdicio dentro del flujo de valor."
+        },
+        {
+          "text": "Mura",
+          "isCorrect": true,
+          "rationale": "Mura identifica la variabilidad o falta de uniformidad en los procesos operativos."
+        },
+        {
+          "text": "Muri",
+          "isCorrect": false,
+          "rationale": "Este concepto designa la sobrecarga tanto en el personal como en la maquinaria."
+        },
+        {
+          "text": "Poka-yoke",
+          "isCorrect": false,
+          "rationale": "Esta es una t\u00e9cnica para prevenir errores, no uno de los tres enemigos de la eficiencia mencionados."
+        }
+      ],
+      "hint": "Busca el t\u00e9rmino que describe la falta de consistencia en el flujo de trabajo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es considerado el peor de los ocho desperdicios fundamentales en una organizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Sobreproducci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Aunque es grave porque genera otros desperdicios, no se considera el peor ya que no ignora la capacidad creativa del personal."
+        },
+        {
+          "text": "Inventario inmovilizado",
+          "isCorrect": false,
+          "rationale": "Es una ineficiencia financiera y operativa, pero existen factores humanos m\u00e1s cr\u00edticos para el \u00e9xito a largo plazo."
+        },
+        {
+          "text": "Potencial humano subutilizado",
+          "isCorrect": true,
+          "rationale": "Se considera el m\u00e1s da\u00f1ino porque implica no escuchar ni aprovechar las propuestas y capacidades del personal de planta."
+        },
+        {
+          "text": "Defectos de calidad",
+          "isCorrect": false,
+          "rationale": "Representan una falla t\u00e9cnica directa, pero la subutilizaci\u00f3n del talento impide solucionar todos los dem\u00e1s problemas de ra\u00edz."
+        }
+      ],
+      "hint": "Tiene que ver con la gesti\u00f3n de las capacidades de las personas en la empresa."
+    },
+    {
+      "question": "Bajo la filosof\u00eda de Jidoka o autonomaci\u00f3n, \u00bfcu\u00e1l es la acci\u00f3n inmediata si se detecta una anomal\u00eda en la l\u00ednea de producci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Anotar el error y continuar",
+          "isCorrect": false,
+          "rationale": "Permitir que el flujo siga contaminar\u00eda el resto del proceso, violando el principio de calidad en origen."
+        },
+        {
+          "text": "Reducir la velocidad de la m\u00e1quina",
+          "isCorrect": false,
+          "rationale": "Disminuir el ritmo no garantiza que el defecto desaparezca ni evita su transferencia al siguiente paso."
+        },
+        {
+          "text": "Detener la l\u00ednea entera de inmediato",
+          "isCorrect": true,
+          "rationale": "Es la \u00fanica forma real de asegurar que no se acepte, produzca ni transfiera un error al siguiente proceso."
+        },
+        {
+          "text": "Esperar al final del turno para corregir",
+          "isCorrect": false,
+          "rationale": "Esta pr\u00e1ctica generar\u00eda una acumulaci\u00f3n masiva de desperdicios y fallas de calidad inaceptables."
+        }
+      ],
+      "hint": "Es una medida dr\u00e1stica para garantizar la regla de oro de 'cero defectos'."
+    },
+    {
+      "question": "\u00bfCu\u00e1ntos defectos por mill\u00f3n de oportunidades se permiten bajo un est\u00e1ndar de precisi\u00f3n Six Sigma?",
+      "answerOptions": [
+        {
+          "text": "66,800",
+          "isCorrect": false,
+          "rationale": "Este es el nivel de defectos permitido en un est\u00e1ndar de 3 sigma, com\u00fan en industrias menos cr\u00edticas."
+        },
+        {
+          "text": "3.4",
+          "isCorrect": true,
+          "rationale": "El nivel 6 sigma exige una precisi\u00f3n quir\u00fargica, permitiendo apenas esta m\u00ednima cantidad de errores por mill\u00f3n."
+        },
+        {
+          "text": "100",
+          "isCorrect": false,
+          "rationale": "Este valor es arbitrario y no corresponde a los umbrales estad\u00edsticos definidos para Six Sigma."
+        },
+        {
+          "text": "0",
+          "isCorrect": false,
+          "rationale": "Aunque se busca la perfecci\u00f3n, estad\u00edsticamente el est\u00e1ndar 6 sigma define un l\u00edmite t\u00e9cnico de 3.4 defectos."
+        }
+      ],
+      "hint": "Es un n\u00famero extremadamente bajo que representa una precisi\u00f3n del $99.99\\%$."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de la metodolog\u00eda SMED en una planta industrial?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la velocidad de las m\u00e1quinas",
+          "isCorrect": false,
+          "rationale": "SMED no busca que la m\u00e1quina corra m\u00e1s r\u00e1pido, sino reducir los tiempos en los que la m\u00e1quina est\u00e1 parada por cambios."
+        },
+        {
+          "text": "Reducir el tiempo de cambio a menos de 10 minutos",
+          "isCorrect": true,
+          "rationale": "Busca lograr transiciones de moldes o matrices en un solo d\u00edgito de minutos para ganar flexibilidad."
+        },
+        {
+          "text": "Eliminar la necesidad de mantenimiento",
+          "isCorrect": false,
+          "rationale": "El mantenimiento sigue siendo necesario; SMED se enfoca estrictamente en los tiempos de configuraci\u00f3n o 'setup'."
+        },
+        {
+          "text": "Capacitar a los operadores en m\u00faltiples \u00e1reas",
+          "isCorrect": false,
+          "rationale": "Aunque la capacitaci\u00f3n ayuda, la metodolog\u00eda se centra en la separaci\u00f3n t\u00e9cnica de tiempos internos y externos."
+        }
+      ],
+      "hint": "Piensa en el significado de las siglas relacionadas con el 'cambio de matriz en un solo d\u00edgito'."
+    },
+    {
+      "question": "En el contexto de SMED, \u00bfqu\u00e9 define a los 'tiempos internos'?",
+      "answerOptions": [
+        {
+          "text": "Acciones que se hacen mientras la m\u00e1quina opera",
+          "isCorrect": false,
+          "rationale": "Esto describe a los tiempos externos, que no requieren detener la producci\u00f3n."
+        },
+        {
+          "text": "Tareas de limpieza general de la planta",
+          "isCorrect": false,
+          "rationale": "Son tareas generales de mantenimiento u orden, pero no son el n\u00facleo de la definici\u00f3n t\u00e9cnica de tiempo interno en SMED."
+        },
+        {
+          "text": "Acciones que solo pueden hacerse con la m\u00e1quina parada",
+          "isCorrect": true,
+          "rationale": "Los tiempos internos requieren obligatoriamente el cese de la operaci\u00f3n para ejecutarse, como el cambio f\u00edsico del molde."
+        },
+        {
+          "text": "El tiempo que el personal pasa en capacitaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La formaci\u00f3n es externa al ciclo de operaci\u00f3n directa de la m\u00e1quina en un cambio de matriz."
+        }
+      ],
+      "hint": "Se refiere a las tareas que bloquean directamente la producci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la f\u00f3rmula matem\u00e1tica para calcular el Takt Time o ritmo de producci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "$$Takt\\ Time = \\frac{Pedidos\\ del\\ cliente}{Tiempo\\ disponible}$$",
+          "isCorrect": false,
+          "rationale": "Esta f\u00f3rmula invertir\u00eda el sentido del indicador, dando la demanda por unidad de tiempo en lugar del ritmo necesario."
+        },
+        {
+          "text": "$$Takt\\ Time = \\frac{Tiempo\\ disponible}{Pedidos\\ del\\ cliente}$$",
+          "isCorrect": true,
+          "rationale": "Esta relaci\u00f3n dicta exactamente cada cu\u00e1nto tiempo debe salir un producto para satisfacer la demanda sin sobreproducir."
+        },
+        {
+          "text": "$$Takt\\ Time = Tiempo\\ disponible \\times Disponibilidad$$",
+          "isCorrect": false,
+          "rationale": "Esta operaci\u00f3n dar\u00eda un tiempo operativo total, pero no el ritmo necesario basado en la demanda externa."
+        },
+        {
+          "text": "$$Takt\\ Time = \\frac{Capacidad\\ ideal}{Rendimiento}$$",
+          "isCorrect": false,
+          "rationale": "Esta f\u00f3rmula no considera los pedidos reales del cliente, que es el factor clave del Takt Time."
+        }
+      ],
+      "hint": "Relaciona el recurso tiempo con la necesidad del mercado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el 'punto dulce' o porcentaje de capacidad ideal recomendado para operar las estaciones de una l\u00ednea?",
+      "answerOptions": [
+        {
+          "text": "100%",
+          "isCorrect": false,
+          "rationale": "Operar al m\u00e1ximo te\u00f3rico garantiza el colapso del sistema por falta de margen de maniobra ante imprevistos."
+        },
+        {
+          "text": "90% a 95%",
+          "isCorrect": false,
+          "rationale": "Este rango entra en la zona de riesgo total, generando fatiga sist\u00e9mica y cuellos de botella incontrolables."
+        },
+        {
+          "text": "75% a 80%",
+          "isCorrect": true,
+          "rationale": "Mantener este nivel permite un flujo constante y seguro, evitando el estr\u00e9s excesivo en la operaci\u00f3n."
+        },
+        {
+          "text": "50% a 60%",
+          "isCorrect": false,
+          "rationale": "Operar a este nivel implica una infrautilizaci\u00f3n masiva de los activos y una baja rentabilidad."
+        }
+      ],
+      "hint": "Es un equilibrio que evita la zona de riesgo por fatiga del sistema."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la evoluci\u00f3n actual del sistema Andon en las f\u00e1bricas inteligentes (Industria 4.0)?",
+      "answerOptions": [
+        {
+          "text": "Uso exclusivo de alarmas sonoras",
+          "isCorrect": false,
+          "rationale": "Esta es la forma hist\u00f3rica y b\u00e1sica; la evoluci\u00f3n moderna va mucho m\u00e1s all\u00e1 de sonidos reactivos."
+        },
+        {
+          "text": "Integraci\u00f3n con inteligencia artificial para alertas proactivas",
+          "isCorrect": true,
+          "rationale": "La tecnolog\u00eda actual permite avisar al operador sobre un problema antes de que la desviaci\u00f3n ocurra realmente."
+        },
+        {
+          "text": "Eliminaci\u00f3n de la intervenci\u00f3n humana",
+          "isCorrect": false,
+          "rationale": "El sistema Andon sigue necesitando al operador para responder a las alertas y resolver problemas en la l\u00ednea."
+        },
+        {
+          "text": "Registro manual de fallas en bit\u00e1coras f\u00edsicas",
+          "isCorrect": false,
+          "rationale": "La digitalizaci\u00f3n y la IA han reemplazado el registro manual por sistemas en tiempo real."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo la tecnolog\u00eda predictiva cambia la forma de reaccionar ante errores."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa realmente la norma ISO 9001 para una empresa que busca competir globalmente?",
+      "answerOptions": [
+        {
+          "text": "Un simple checklist burocr\u00e1tico",
+          "isCorrect": false,
+          "rationale": "Ver la norma solo como un tr\u00e1mite administrativo ignora su valor como arquitectura de competitividad estrat\u00e9gica."
+        },
+        {
+          "text": "Un cart\u00f3n decorativo para la recepci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Su prop\u00f3sito no es est\u00e9tico o de imagen superficial, sino garantizar procesos predecibles y confiables."
+        },
+        {
+          "text": "La arquitectura central para la competitividad global",
+          "isCorrect": true,
+          "rationale": "Es el lenguaje universal que asegura al mercado que los procesos est\u00e1n bajo control absoluto y son confiables."
+        },
+        {
+          "text": "Una ley de cumplimiento obligatorio nacional",
+          "isCorrect": false,
+          "rationale": "ISO 9001 es una norma internacional voluntaria, aunque comercialmente necesaria para exportar."
+        }
+      ],
+      "hint": "Va m\u00e1s all\u00e1 de un documento; es un pasaporte para el comercio internacional."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta se utiliza para analizar el compromiso p\u00fablico e innegociable de una organizaci\u00f3n con la calidad y sus objetivos estrat\u00e9gicos?",
+      "answerOptions": [
+        {
+          "text": "Manual de Funciones (MOF)",
+          "isCorrect": false,
+          "rationale": "El MOF define roles individuales, pero no es el documento de compromiso estrat\u00e9gico de toda la empresa."
+        },
+        {
+          "text": "Pol\u00edtica de Calidad",
+          "isCorrect": true,
+          "rationale": "Es la br\u00fajula que amarra a toda la organizaci\u00f3n con la satisfacci\u00f3n del cliente y el cumplimiento normativo."
+        },
+        {
+          "text": "Diagrama de Gantt",
+          "isCorrect": false,
+          "rationale": "Esta es una herramienta de planificaci\u00f3n de tiempos de proyectos espec\u00edficos, no un compromiso estrat\u00e9gico."
+        },
+        {
+          "text": "An\u00e1lisis PESTEL",
+          "isCorrect": false,
+          "rationale": "El PESTEL analiza factores externos, mientras que el compromiso interno se plasma en la pol\u00edtica de calidad."
+        }
+      ],
+      "hint": "Es comparada con una 'br\u00fajula' que gu\u00eda todas las decisiones de la producci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el periodo m\u00ednimo de tiempo que exige la normativa para conservar los registros operativos y garantizar la trazabilidad?",
+      "answerOptions": [
+        {
+          "text": "1 a\u00f1o",
+          "isCorrect": false,
+          "rationale": "Un solo a\u00f1o es insuficiente para auditor\u00edas que buscan analizar tendencias o ciclos de mejora de largo plazo."
+        },
+        {
+          "text": "10 a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Aunque algunas leyes espec\u00edficas podr\u00edan pedirlo, el est\u00e1ndar general de gesti\u00f3n mencionado se enfoca en un lustro."
+        },
+        {
+          "text": "2 a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Es un periodo corto que no permite una trazabilidad robusta ante revisiones de procesos antiguos."
+        },
+        {
+          "text": "5 a\u00f1os",
+          "isCorrect": true,
+          "rationale": "La regla de los 5 a\u00f1os es el est\u00e1ndar m\u00e9trico para asegurar que la empresa no pierda su memoria operativa."
+        }
+      ],
+      "hint": "Es el n\u00famero que todo gestor debe tener 'tatuado en la mente' para las auditor\u00edas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 problema grave se genera cuando existe una duplicidad de funciones en el Manual de Organizaci\u00f3n y Funciones (MOF)?",
+      "answerOptions": [
+        {
+          "text": "Se acelera la toma de decisiones",
+          "isCorrect": false,
+          "rationale": "Tener dos responsables suele causar confusi\u00f3n y retrasos en lugar de agilidad operativa."
+        },
+        {
+          "text": "Nadie asume la responsabilidad real",
+          "isCorrect": true,
+          "rationale": "Cuando la responsabilidad se diluye entre varios, se crean \u00e1reas grises que desangran la calidad del producto final."
+        },
+        {
+          "text": "Se reduce el costo de mano de obra",
+          "isCorrect": false,
+          "rationale": "La duplicidad de funciones suele implicar ineficiencia y costos ocultos, no ahorros."
+        },
+        {
+          "text": "Mejora la satisfacci\u00f3n del cliente",
+          "isCorrect": false,
+          "rationale": "Las fisuras en la cadena de mando y responsabilidad terminan afectando negativamente la calidad percibida."
+        }
+      ],
+      "hint": "Reflexiona sobre el dicho: 'cuando todos son responsables, nadie lo es'."
+    },
+    {
+      "question": "En la gesti\u00f3n de riesgos, \u00bfcu\u00e1l es el prop\u00f3sito de aplicar la t\u00e9cnica de los 'cinco porqu\u00e9s'?",
+      "answerOptions": [
+        {
+          "text": "Asignar culpables r\u00e1pidamente",
+          "isCorrect": false,
+          "rationale": "La t\u00e9cnica busca fallas en el sistema y procesos, no se\u00f1alar a personas individuales."
+        },
+        {
+          "text": "Identificar la causa ra\u00edz de un problema",
+          "isCorrect": true,
+          "rationale": "Permite profundizar m\u00e1s all\u00e1 del s\u00edntoma superficial para encontrar la falla sist\u00e9mica subyacente."
+        },
+        {
+          "text": "Justificar el presupuesto de mantenimiento",
+          "isCorrect": false,
+          "rationale": "Aunque puede dar argumentos, su funci\u00f3n principal es metodol\u00f3gica para la resoluci\u00f3n de problemas."
+        },
+        {
+          "text": "Cumplir con un requisito de redacci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Es una herramienta de an\u00e1lisis t\u00e1ctico real, no un simple ejercicio de escritura administrativa."
+        }
+      ],
+      "hint": "Ayuda a transformar un dolor de cabeza operativo en una correcci\u00f3n estrat\u00e9gica profunda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 mide la variable 'Disponibilidad' dentro del indicador OEE (Efectividad General de los Equipos)?",
+      "answerOptions": [
+        {
+          "text": "La velocidad de la m\u00e1quina",
+          "isCorrect": false,
+          "rationale": "La velocidad frente a la capacidad ideal corresponde a la variable de rendimiento, no a disponibilidad."
+        },
+        {
+          "text": "La cantidad de productos sin defectos",
+          "isCorrect": false,
+          "rationale": "Este aspecto es medido por la variable de calidad dentro del c\u00e1lculo del OEE."
+        },
+        {
+          "text": "El tiempo que oper\u00f3 realmente frente al planificado",
+          "isCorrect": true,
+          "rationale": "Eval\u00faa qu\u00e9 tanto tiempo estuvo la m\u00e1quina lista y trabajando comparado con el tiempo que se esperaba que operara."
+        },
+        {
+          "text": "El costo de mantenimiento por hora",
+          "isCorrect": false,
+          "rationale": "El OEE mide efectividad operativa, no costos financieros directos de mantenimiento."
+        }
+      ],
+      "hint": "Se enfoca en el tiempo de uso real de la maquinaria."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la relaci\u00f3n entre el an\u00e1lisis PESTEL y la matriz FODA en la planificaci\u00f3n estrat\u00e9gica?",
+      "answerOptions": [
+        {
+          "text": "Son herramientas totalmente independientes",
+          "isCorrect": false,
+          "rationale": "Ignorar la conexi\u00f3n entre el entorno y la estrategia interna es un error que impide una reacci\u00f3n adecuada."
+        },
+        {
+          "text": "El PESTEL analiza el interior y el FODA el exterior",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; PESTEL mira los factores macroambientales externos para alimentar las estrategias del FODA."
+        },
+        {
+          "text": "Los factores externos del PESTEL dictan las maniobras estrat\u00e9gicas del FODA",
+          "isCorrect": true,
+          "rationale": "Las presiones externas pol\u00edticas, econ\u00f3micas o tecnol\u00f3gicas determinan si la empresa debe ser ofensiva o defensiva."
+        },
+        {
+          "text": "Solo se usan en empresas de servicios, no industriales",
+          "isCorrect": false,
+          "rationale": "Estas herramientas son vitales y exigidas para la competitividad de cualquier planta industrial moderna."
+        }
+      ],
+      "hint": "Lo que pasa afuera golpea directamente la forma en que reaccionamos adentro."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio financiero directo se obtiene al mantener el OEE en niveles \u00f3ptimos (zona verde)?",
+      "answerOptions": [
+        {
+          "text": "Reducci\u00f3n de impuestos",
+          "isCorrect": false,
+          "rationale": "El OEE impacta la eficiencia operativa interna, pero no altera directamente las tasas impositivas legales."
+        },
+        {
+          "text": "Eliminaci\u00f3n de costos ocultos y tiempos muertos",
+          "isCorrect": true,
+          "rationale": "Un OEE alto garantiza que los activos no fallen bajo presi\u00f3n, blindando la rentabilidad del negocio."
+        },
+        {
+          "text": "Aumento del precio de venta al p\u00fablico",
+          "isCorrect": false,
+          "rationale": "El OEE mejora el margen interno por eficiencia, pero el precio de venta suele depender del mercado."
+        },
+        {
+          "text": "Incremento del capital social",
+          "isCorrect": false,
+          "rationale": "La efectividad de los equipos mejora el flujo de caja operativo, pero no es una forma de inyectar capital social."
+        }
+      ],
+      "hint": "Se relaciona con el ahorro de recursos que normalmente se pierden por fallas inesperadas."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Fundamentos de Gesti\u00f3n de Calidad",
+      "Lean Manufacturing y Filosof\u00eda Kaizen",
+      "Herramientas de Optimizaci\u00f3n (SMED, Takt Time, Andon)",
+      "Six Sigma y Control Estad\u00edstico",
+      "Arquitectura Normativa ISO 9001",
+      "Gesti\u00f3n de Riesgos y Confiabilidad (OEE)"
+    ],
+    "followUp": [
+      "Integraci\u00f3n de Inteligencia Artificial en Industria 4.0",
+      "An\u00e1lisis de Causa Ra\u00edz Avanzado",
+      "Liderazgo y Pol\u00edtica de Calidad Estrat\u00e9gica",
+      "Trazabilidad y Rigor Documental en Auditor\u00edas",
+      "Ergonom\u00eda y Maximizaci\u00f3n del Potencial Humano"
+    ]
+  }
+}

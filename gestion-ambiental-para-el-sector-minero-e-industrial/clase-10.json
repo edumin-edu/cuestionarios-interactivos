@@ -1,0 +1,543 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el enfoque fundamental que debe adoptar la gerencia en la industria extractiva moderna para asegurar la legitimidad corporativa?",
+      "answerOptions": [
+        {
+          "text": "Enfoque puramente operativo enfocado en la rentabilidad inmediata.",
+          "isCorrect": false,
+          "rationale": "Este enfoque tradicional ignora las complejidades socioambientales y los derechos fundamentales, lo que erosiona la legitimidad en el contexto actual."
+        },
+        {
+          "text": "Migraci\u00f3n hacia un enfoque de justicia ambiental y sostenibilidad aut\u00e9ntica.",
+          "isCorrect": true,
+          "rationale": "La viabilidad de la industria depende de integrar la protecci\u00f3n de los derechos humanos y el medio ambiente como un imperativo \u00e9tico y estrat\u00e9gico."
+        },
+        {
+          "text": "Cumplimiento estricto de tr\u00e1mites burocr\u00e1ticos y administrativos.",
+          "isCorrect": false,
+          "rationale": "Si bien es necesario, ver los marcos ambientales como simple papeleo es insuficiente para proteger los derechos fundamentales y asegurar el desarrollo."
+        },
+        {
+          "text": "Delegaci\u00f3n total de la gesti\u00f3n ambiental al personal t\u00e9cnico de planta.",
+          "isCorrect": false,
+          "rationale": "La justicia ambiental requiere un liderazgo activo de la alta direcci\u00f3n y no puede ser tratada como una tarea aislada del n\u00facleo estrat\u00e9gico."
+        }
+      ],
+      "hint": "Se trata de pasar de una mentalidad de ejecuci\u00f3n t\u00e9cnica a una de responsabilidad \u00e9tica integral."
+    },
+    {
+      "question": "Seg\u00fan la Resoluci\u00f3n $48/13$ del Consejo de Derechos Humanos de las Naciones Unidas, \u00bfqu\u00e9 elementos conforman la dimensi\u00f3n sustantiva del derecho a un medio ambiente sano?",
+      "answerOptions": [
+        {
+          "text": "Acceso a la informaci\u00f3n ambiental y participaci\u00f3n p\u00fablica inclusiva.",
+          "isCorrect": false,
+          "rationale": "Estos corresponden a los elementos procedimentales, que son las herramientas para garantizar que el derecho se cumpla."
+        },
+        {
+          "text": "Resultados tangibles como aire puro, agua potable y biodiversidad saludable.",
+          "isCorrect": true,
+          "rationale": "La dimensi\u00f3n sustantiva se refiere a los componentes f\u00edsicos y biol\u00f3gicos necesarios para la dignidad y la vida cotidiana."
+        },
+        {
+          "text": "Acceso a la justicia y recursos para la reparaci\u00f3n de da\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Este es un componente de la dimensi\u00f3n procedimental, enfocada en los mecanismos de garant\u00eda y defensa legal."
+        },
+        {
+          "text": "Soberan\u00eda nacional sobre la explotaci\u00f3n de los recursos naturales.",
+          "isCorrect": false,
+          "rationale": "La soberan\u00eda es un concepto pol\u00edtico y estatal que no forma parte de los elementos sustantivos del derecho individual a un ambiente sano."
+        }
+      ],
+      "hint": "Piense en los recursos f\u00edsicos que las personas necesitan directamente para sobrevivir con dignidad."
+    },
+    {
+      "question": "\u00bfQu\u00e9 hallazgo cr\u00edtico sobre la salud p\u00fablica se determin\u00f3 en el caso de contaminaci\u00f3n de La Oroya?",
+      "answerOptions": [
+        {
+          "text": "Los niveles de metales pesados en el suelo eran ligeramente superiores a lo normal.",
+          "isCorrect": false,
+          "rationale": "La gravedad del caso fue mucho mayor a una simple desviaci\u00f3n ligera de los est\u00e1ndares normales de suelo."
+        },
+        {
+          "text": "La poblaci\u00f3n presentaba niveles de plomo en la sangre $3$ veces superiores a los l\u00edmites de la OMS.",
+          "isCorrect": true,
+          "rationale": "Esta cifra ilustra la magnitud del desastre humano y la falta de acci\u00f3n del Estado para detener la contaminaci\u00f3n sistem\u00e1tica."
+        },
+        {
+          "text": "Se detect\u00f3 contaminaci\u00f3n \u00fanicamente en la flora y fauna silvestre de la zona.",
+          "isCorrect": false,
+          "rationale": "El fallo se centr\u00f3 en la afectaci\u00f3n directa a la integridad personal y la vida de los habitantes, no solo en el ecosistema circundante."
+        },
+        {
+          "text": "La contaminaci\u00f3n fue un evento aislado ocurrido durante un solo a\u00f1o de operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El caso se caracteriz\u00f3 por una contaminaci\u00f3n sistem\u00e1tica e ininterrumpida que se extendi\u00f3 durante d\u00e9cadas debido a la normalizaci\u00f3n del incumplimiento."
+        }
+      ],
+      "hint": "Considere la magnitud del exceso de contaminantes en el organismo de las personas comparado con los est\u00e1ndares internacionales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal tensi\u00f3n estrat\u00e9gica que presenta el Acuerdo de Escaz\u00fa para los Estados?",
+      "answerOptions": [
+        {
+          "text": "El aumento de los costos operativos para las peque\u00f1as y medianas empresas.",
+          "isCorrect": false,
+          "rationale": "Aunque hay costos asociados, la tensi\u00f3n central descrita es de car\u00e1cter pol\u00edtico y de soberan\u00eda nacional."
+        },
+        {
+          "text": "La protecci\u00f3n de defensores ambientales frente al debate sobre la soberan\u00eda nacional.",
+          "isCorrect": true,
+          "rationale": "Existe un temor de ceder control a organismos internacionales al proteger derechos transnacionales sobre la explotaci\u00f3n de recursos."
+        },
+        {
+          "text": "La obligaci\u00f3n de realizar monitoreos participativos en todas las etapas del proyecto.",
+          "isCorrect": false,
+          "rationale": "El monitoreo es una herramienta de gesti\u00f3n, pero no es el n\u00facleo del debate sobre la soberan\u00eda estatal que plantea el acuerdo."
+        },
+        {
+          "text": "La prohibici\u00f3n total de la actividad extractiva en zonas de alta biodiversidad.",
+          "isCorrect": false,
+          "rationale": "El acuerdo busca transparencia y protecci\u00f3n de derechos, no necesariamente la prohibici\u00f3n de la actividad econ\u00f3mica."
+        }
+      ],
+      "hint": "Se trata de un conflicto entre la protecci\u00f3n internacional de personas y el control interno de los recursos del pa\u00eds."
+    },
+    {
+      "question": "Desde una perspectiva de gesti\u00f3n eficaz, \u00bfcu\u00e1l es la diferencia fundamental entre conflicto y violencia?",
+      "answerOptions": [
+        {
+          "text": "El conflicto es ilegal, mientras que la violencia es una respuesta social aceptada.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s en t\u00e9rminos de legitimidad; el conflicto es natural en la sociedad, mientras que la violencia es destructiva."
+        },
+        {
+          "text": "El conflicto es una discrepancia de objetivos; la violencia es su manifestaci\u00f3n destructiva.",
+          "isCorrect": true,
+          "rationale": "Reconocer el conflicto como un proceso natural permite gestionarlo proactivamente antes de que escale hacia actos violentos."
+        },
+        {
+          "text": "No existe diferencia; ambos t\u00e9rminos se refieren a la paralizaci\u00f3n de las operaciones.",
+          "isCorrect": false,
+          "rationale": "Mezclar ambos conceptos impide dise\u00f1ar estrategias adecuadas para el di\u00e1logo antes de que ocurra la ruptura."
+        },
+        {
+          "text": "La violencia es inevitable en todo conflicto social dentro de la industria extractiva.",
+          "isCorrect": false,
+          "rationale": "El objetivo de la gesti\u00f3n es precisamente evitar que el conflicto escale, por lo que la violencia no se considera un paso obligatorio."
+        }
+      ],
+      "hint": "Piense en cu\u00e1l de los dos es un proceso humano natural de desacuerdo y cu\u00e1l es el resultado de una mala gesti\u00f3n."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se clasifican los actores terciarios dentro de un conflicto socioambiental?",
+      "answerOptions": [
+        {
+          "text": "Personas directamente afectadas en la l\u00ednea de fuego, como la comunidad local.",
+          "isCorrect": false,
+          "rationale": "Estos son definidos como actores primarios por tener un inter\u00e9s directo y ser afectados por la operaci\u00f3n."
+        },
+        {
+          "text": "Grupos de la sociedad civil con intereses afines a las partes directas.",
+          "isCorrect": false,
+          "rationale": "Estos grupos se categorizan como actores secundarios, ya que brindan apoyo pero no est\u00e1n en el centro del problema."
+        },
+        {
+          "text": "Entidades como ONGs, facilitadores o asesores con influencia en las decisiones.",
+          "isCorrect": true,
+          "rationale": "Aunque no son parte directa de la discrepancia, su influencia es gigante en las posturas que adoptan los dem\u00e1s actores."
+        },
+        {
+          "text": "Funcionarios del Estado encargados de otorgar las licencias administrativas.",
+          "isCorrect": false,
+          "rationale": "El Estado suele actuar como un actor primario en la mesa de di\u00e1logo y gesti\u00f3n del territorio."
+        }
+      ],
+      "hint": "Son actores que no est\u00e1n directamente en la disputa pero poseen un alto poder de asesor\u00eda o mediaci\u00f3n."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 etapas de la conflictividad es fundamental identificar el problema para evitar una ruptura irreversible?",
+      "answerOptions": [
+        {
+          "text": "\u00danicamente cuando se llega a la fase de crisis y par\u00e1lisis operativa.",
+          "isCorrect": false,
+          "rationale": "En la crisis, la situaci\u00f3n ya ha estallado y las medidas de mitigaci\u00f3n son mucho m\u00e1s costosas y dif\u00edciles de implementar."
+        },
+        {
+          "text": "En las fases de latencia y fase temprana del conflicto.",
+          "isCorrect": true,
+          "rationale": "Detectar la tensi\u00f3n antes de que las quejas se polaricen permite aplicar mecanismos de desescalamiento y di\u00e1logo efectivo."
+        },
+        {
+          "text": "Durante el escalamiento, cuando las movilizaciones ya son p\u00fablicas.",
+          "isCorrect": false,
+          "rationale": "En esta etapa la polarizaci\u00f3n ya es alta, lo que complica el establecimiento de bases neutrales para el di\u00e1logo."
+        },
+        {
+          "text": "Cuando la desinformaci\u00f3n ya ha dominado los medios de comunicaci\u00f3n locales.",
+          "isCorrect": false,
+          "rationale": "Esperar a este punto significa que la organizaci\u00f3n ya ha perdido la iniciativa en la gesti\u00f3n de su reputaci\u00f3n y legitimidad."
+        }
+      ],
+      "hint": "Busque los momentos iniciales donde la tensi\u00f3n a\u00fan no se ha manifestado de forma explosiva."
+    },
+    {
+      "question": "\u00bfQu\u00e9 impacto tiene la miner\u00eda ilegal e informal en la producci\u00f3n de oro en Per\u00fa?",
+      "answerOptions": [
+        {
+          "text": "Representa apenas el $10\\%$ de la producci\u00f3n total anual.",
+          "isCorrect": false,
+          "rationale": "Esta cifra subestima significativamente la magnitud real y el impacto de las econom\u00edas ilegales en el pa\u00eds."
+        },
+        {
+          "text": "Aproximadamente el $50\\%$ de la producci\u00f3n de oro proviene de estas fuentes.",
+          "isCorrect": true,
+          "rationale": "Esta estad\u00edstica masiva explica por qu\u00e9 la miner\u00eda ilegal se ha convertido en un catalizador de violencia y riesgos estrat\u00e9gicos."
+        },
+        {
+          "text": "Es una actividad en desaparici\u00f3n gracias a la presencia estatal constante.",
+          "isCorrect": false,
+          "rationale": "Al contrario, esta actividad prospera precisamente en zonas donde el Estado brilla por su ausencia."
+        },
+        {
+          "text": "Contribuye positivamente a la estabilidad social de las zonas altoandinas.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda ilegal suele estar vinculada a ataques violentos y la infiltraci\u00f3n de econom\u00edas criminales en perjuicio de la industria formal."
+        }
+      ],
+      "hint": "Piense en una cifra que representa la mitad de la producci\u00f3n total del pa\u00eds."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un riesgo estrat\u00e9gico alto para la industria formal en contextos de ausencia estatal, como en el caso Pat\u00e1z?",
+      "answerOptions": [
+        {
+          "text": "La reducci\u00f3n de la carga tributaria para compensar la falta de servicios.",
+          "isCorrect": false,
+          "rationale": "La carga tributaria no suele reducirse; m\u00e1s bien, la empresa asume gastos adicionales no previstos."
+        },
+        {
+          "text": "Asumir de facto un rol cuasi estatal para proveer seguridad y servicios b\u00e1sicos.",
+          "isCorrect": true,
+          "rationale": "Esto ocurre cuando la falta de autoridad empuja a la empresa a cubrir funciones que corresponden al Estado, aumentando su vulnerabilidad."
+        },
+        {
+          "text": "La obligatoriedad de contratar \u00fanicamente a mineros informales de la zona.",
+          "isCorrect": false,
+          "rationale": "El riesgo principal no es la contrataci\u00f3n, sino la infiltraci\u00f3n de violencia y la suplantaci\u00f3n de funciones p\u00fablicas por parte de la empresa."
+        },
+        {
+          "text": "La automatizaci\u00f3n completa de las minas para evitar el contacto humano.",
+          "isCorrect": false,
+          "rationale": "Si bien es una tendencia t\u00e9cnica, no es la respuesta estrat\u00e9gica central frente a la conflictividad violenta descrita."
+        }
+      ],
+      "hint": "Se refiere a cuando una empresa privada termina realizando tareas que originalmente le pertenecen al gobierno."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el cambio principal en el concepto de liderazgo que introduce la versi\u00f3n $2015$ de la norma ISO $14001$?",
+      "answerOptions": [
+        {
+          "text": "Delegar la responsabilidad ambiental exclusivamente a los auditores externos.",
+          "isCorrect": false,
+          "rationale": "La norma busca lo opuesto: integrar la responsabilidad dentro de la propia jerarqu\u00eda de la organizaci\u00f3n."
+        },
+        {
+          "text": "Exigir que la gesti\u00f3n ambiental sea liderada activamente por la alta direcci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La actualizaci\u00f3n demanda que el liderazgo no vea lo ambiental como una tarea t\u00e9cnica delegada, sino como parte del n\u00facleo del negocio."
+        },
+        {
+          "text": "Limitar el rol de los directores a la firma de informes anuales de sostenibilidad.",
+          "isCorrect": false,
+          "rationale": "La norma exige un liderazgo activo y contundente, no una participaci\u00f3n pasiva o meramente administrativa."
+        },
+        {
+          "text": "Eliminar la necesidad de auditor\u00edas internas para agilizar la producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las auditor\u00edas siguen siendo una herramienta clave; lo que cambia es qui\u00e9n debe rendir cuentas sobre sus resultados."
+        }
+      ],
+      "hint": "Piense en qui\u00e9n debe estar ahora 'en el tim\u00f3n' de la estrategia ambiental seg\u00fan los est\u00e1ndares modernos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre durante la Fase $2$ del ciclo de auditor\u00eda externa para una certificaci\u00f3n de calidad ambiental?",
+      "answerOptions": [
+        {
+          "text": "Revisi\u00f3n exhaustiva de manuales y pol\u00edticas de la empresa desde una oficina.",
+          "isCorrect": false,
+          "rationale": "Esta revisi\u00f3n documental es caracter\u00edstica de la Fase 1, no de la inspecci\u00f3n directa."
+        },
+        {
+          "text": "Trabajo de campo con inspecciones y entrevistas para verificar la conciencia del personal.",
+          "isCorrect": true,
+          "rationale": "Esta etapa busca comprobar si lo que dicen los documentos realmente se aplica y es comprendido por los trabajadores en el terreno."
+        },
+        {
+          "text": "Emisi\u00f3n inmediata del certificado trienal sin necesidad de comprobaciones adicionales.",
+          "isCorrect": false,
+          "rationale": "La certificaci\u00f3n es un proceso riguroso que requiere completar todas las fases de evaluaci\u00f3n antes de ser otorgada."
+        },
+        {
+          "text": "Evaluaci\u00f3n final de recertificaci\u00f3n realizada cada tres a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "La recertificaci\u00f3n trienal se considera la Fase 3, encargada de confirmar que las mejoras son sostenibles en el tiempo."
+        }
+      ],
+      "hint": "Es el momento en que los auditores abandonan los escritorios para ver la operaci\u00f3n real."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fen\u00f3meno ocurre cuando la gerencia ignora peque\u00f1os fallos t\u00e9cnicos que se vuelven constantes, como un goteo de mineral?",
+      "answerOptions": [
+        {
+          "text": "Optimizaci\u00f3n de procesos por resiliencia operativa.",
+          "isCorrect": false,
+          "rationale": "Ignorar fallos no optimiza nada; por el contrario, crea condiciones para el desastre."
+        },
+        {
+          "text": "Normalizaci\u00f3n de la desviaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Este concepto explica c\u00f3mo negligencias menores terminan siendo aceptadas como normales hasta que desencadenan una crisis sist\u00e9mica."
+        },
+        {
+          "text": "Eficiencia de costos por mantenimiento preventivo.",
+          "isCorrect": false,
+          "rationale": "El mantenimiento preventivo busca evitar el fallo, mientras que este fen\u00f3meno se trata de tolerar el fallo."
+        },
+        {
+          "text": "Cumplimiento de est\u00e1ndares de calidad ambiental transnacionales.",
+          "isCorrect": false,
+          "rationale": "La normalizaci\u00f3n de la desviaci\u00f3n es lo opuesto al cumplimiento, ya que atrae sanciones de reguladores."
+        }
+      ],
+      "hint": "Se refiere a convertir un error o negligencia en parte de la rutina diaria sin corregirlo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal del monitoreo participativo en una operaci\u00f3n industrial?",
+      "answerOptions": [
+        {
+          "text": "Reducir la necesidad de equipos t\u00e9cnicos especializados en la medici\u00f3n ambiental.",
+          "isCorrect": false,
+          "rationale": "La precisi\u00f3n t\u00e9cnica sigue siendo necesaria; el monitoreo participativo a\u00f1ade la validaci\u00f3n social a esos datos."
+        },
+        {
+          "text": "Neutralizar la desconfianza sist\u00e9mica involucrando a l\u00edderes locales en la medici\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Al hacer que la comunidad sea parte activa de la medici\u00f3n de aire, agua o ruido, se rompe la barrera de la incredulidad ante informes t\u00e9cnicos."
+        },
+        {
+          "text": "Cumplir con un requisito legal para evitar multas administrativas \u00fanicamente.",
+          "isCorrect": false,
+          "rationale": "Aunque puede ser un requisito, su valor estrat\u00e9gico reside en la construcci\u00f3n de confianza y no solo en evitar sanciones."
+        },
+        {
+          "text": "Entrenar a la comunidad para que reemplacen a los trabajadores de la empresa.",
+          "isCorrect": false,
+          "rationale": "El objetivo es la transparencia y la validaci\u00f3n de est\u00e1ndares, no el reemplazo de la fuerza laboral operativa."
+        }
+      ],
+      "hint": "Act\u00faa como un puente entre la precisi\u00f3n de las m\u00e1quinas y la percepci\u00f3n de las personas."
+    },
+    {
+      "question": "\u00bfC\u00f3mo debe entenderse correctamente la licencia social para operar en la actualidad?",
+      "answerOptions": [
+        {
+          "text": "Como un t\u00edtulo jur\u00eddico est\u00e1tico otorgado por el Estado al inicio del proyecto.",
+          "isCorrect": false,
+          "rationale": "Considerarla est\u00e1tica es un error estrat\u00e9gico; es una validaci\u00f3n que debe renovarse con acciones diarias."
+        },
+        {
+          "text": "Como una construcci\u00f3n pol\u00edtica y social din\u00e1mica basada en la transparencia diaria.",
+          "isCorrect": true,
+          "rationale": "La legitimidad social no es permanente; evoluciona y depende de la relaci\u00f3n constante entre la empresa y su entorno."
+        },
+        {
+          "text": "Como un documento administrativo que se obtiene tras llenar formularios oficiales.",
+          "isCorrect": false,
+          "rationale": "La licencia social va mucho m\u00e1s all\u00e1 de los tr\u00e1mites legales; se basa en la aceptaci\u00f3n real de la poblaci\u00f3n."
+        },
+        {
+          "text": "Como un acuerdo econ\u00f3mico de pago directo a los l\u00edderes de la comunidad.",
+          "isCorrect": false,
+          "rationale": "La licencia social real se basa en la legitimidad y el beneficio mutuo, no en transacciones monetarias aisladas que pueden ser vistas como sobornos."
+        }
+      ],
+      "hint": "No es un papel que se guarda en una gaveta, sino algo que se gana o se pierde todos los d\u00edas."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera a los trabajadores locales como los voceros naturales definitivos de una empresa?",
+      "answerOptions": [
+        {
+          "text": "Porque son los \u00fanicos autorizados legalmente para hablar con la prensa.",
+          "isCorrect": false,
+          "rationale": "La vocer\u00eda natural no es un cargo legal, sino un fen\u00f3meno social que ocurre en el entorno privado del trabajador."
+        },
+        {
+          "text": "Porque validan o destruyen la reputaci\u00f3n de la empresa en la intimidad del hogar.",
+          "isCorrect": true,
+          "rationale": "Si un trabajador conf\u00eda en las pr\u00e1cticas de la empresa, lo transmitir\u00e1 a su familia y vecinos, generando una base s\u00f3lida de legitimidad."
+        },
+        {
+          "text": "Porque tienen la obligaci\u00f3n contractual de defender a la organizaci\u00f3n ante cualquier queja.",
+          "isCorrect": false,
+          "rationale": "La defensa genuina nace de la convicci\u00f3n interna y la buena informaci\u00f3n, no de una imposici\u00f3n por contrato."
+        },
+        {
+          "text": "Porque son quienes manejan las redes sociales oficiales de la corporaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La fuerza laboral influye a trav\u00e9s de la comunicaci\u00f3n cara a cara y la confianza personal, no necesariamente mediante canales digitales oficiales."
+        }
+      ],
+      "hint": "Piense en el impacto de lo que un empleado cuenta durante la cena con su familia."
+    },
+    {
+      "question": "\u00bfQu\u00e9 canal de comunicaci\u00f3n mantiene una cobertura del $75\\%$ en las zonas altoandinas y es clave para combatir la desinformaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Las redes sociales de alta velocidad y aplicaciones de mensajer\u00eda.",
+          "isCorrect": false,
+          "rationale": "En zonas rurales alejadas, el acceso a internet y redes sociales suele ser limitado comparado con medios tradicionales."
+        },
+        {
+          "text": "La radio tradicional de alta cobertura.",
+          "isCorrect": true,
+          "rationale": "Debido a la geograf\u00eda y la realidad sociocultural, la radio sigue siendo el medio m\u00e1s efectivo y penetrante en estas regiones."
+        },
+        {
+          "text": "La prensa escrita de circulaci\u00f3n nacional y regional.",
+          "isCorrect": false,
+          "rationale": "Aunque existe, su alcance f\u00edsico es menor al de las ondas radiales que llegan a los rincones m\u00e1s alejados."
+        },
+        {
+          "text": "El perifoneo directo mediante veh\u00edculos en las plazas principales.",
+          "isCorrect": false,
+          "rationale": "Es una t\u00e1ctica puntual, pero no tiene la cobertura constante y masiva que ofrece la radio tradicional."
+        }
+      ],
+      "hint": "Es un medio auditivo que no depende de la conexi\u00f3n a internet para llegar a grandes distancias."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia de dejar vac\u00edos de comunicaci\u00f3n en entornos con alta conflictividad social?",
+      "answerOptions": [
+        {
+          "text": "La comunidad interpreta el silencio como una se\u00f1al de respeto y privacidad.",
+          "isCorrect": false,
+          "rationale": "En contextos de conflicto, el silencio corporativo suele interpretarse como falta de transparencia o culpabilidad."
+        },
+        {
+          "text": "La desinformaci\u00f3n llena r\u00e1pidamente ese espacio, alimentando posibles protestas.",
+          "isCorrect": true,
+          "rationale": "Si la empresa no comunica con claridad, otros actores o rumores ocupar\u00e1n ese lugar, a menudo con datos falsos que escalan el conflicto."
+        },
+        {
+          "text": "Se reduce el inter\u00e9s de los actores secundarios por intervenir en el territorio.",
+          "isCorrect": false,
+          "rationale": "La falta de informaci\u00f3n suele atraer m\u00e1s atenci\u00f3n de grupos externos que buscan investigar o denunciar la opacidad de la empresa."
+        },
+        {
+          "text": "Mejora la relaci\u00f3n con los reguladores estatales al evitar declaraciones p\u00fablicas.",
+          "isCorrect": false,
+          "rationale": "Los reguladores valoran la comunicaci\u00f3n proactiva; el vac\u00edo informativo puede generar sospechas de incumplimiento normativo."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 sucede cuando la gente no tiene informaci\u00f3n oficial y empieza a creer en rumores."
+    },
+    {
+      "question": "En el marco de la gesti\u00f3n ambiental integral, \u00bfqu\u00e9 representa la Estructura de Alto Nivel?",
+      "answerOptions": [
+        {
+          "text": "La jerarqu\u00eda de mando exclusiva para situaciones de crisis violenta.",
+          "isCorrect": false,
+          "rationale": "La estructura de alto nivel es un concepto organizativo de normas de gesti\u00f3n, no un plan de respuesta a la violencia."
+        },
+        {
+          "text": "Un marco sistem\u00e1tico que integra la gesti\u00f3n ambiental en el n\u00facleo de la estrategia de negocio.",
+          "isCorrect": true,
+          "rationale": "Es la base que permite que los est\u00e1ndares ambientales dejen de ser manuales aislados y se conviertan en parte de la direcci\u00f3n estrat\u00e9gica."
+        },
+        {
+          "text": "Un sistema de recompensas para trabajadores que no cometen errores t\u00e9cnicos.",
+          "isCorrect": false,
+          "rationale": "Se trata de un modelo de gesti\u00f3n y gobernanza, no de un programa de incentivos laborales individuales."
+        },
+        {
+          "text": "La construcci\u00f3n f\u00edsica de instalaciones mineras por encima de los $4000$ metros sobre el nivel del mar.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino es conceptual y normativo (ISO), no se refiere a la altitud geogr\u00e1fica de las operaciones."
+        }
+      ],
+      "hint": "Se refiere a la forma en que los est\u00e1ndares internacionales se organizan para ser parte de la toma de decisiones ejecutivas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la lecci\u00f3n principal del caso de infraestructura del aeropuerto de Chinchero respecto a los compromisos sociales?",
+      "answerOptions": [
+        {
+          "text": "Que los macroproyectos solo necesitan validaci\u00f3n t\u00e9cnica para ser exitosos.",
+          "isCorrect": false,
+          "rationale": "La validaci\u00f3n t\u00e9cnica es solo la mitad del \u00e9xito; sin el componente social, el proyecto enfrenta alta resistencia."
+        },
+        {
+          "text": "Que la gesti\u00f3n ambiental debe acompa\u00f1arse de beneficios sociales palpables para la comunidad.",
+          "isCorrect": true,
+          "rationale": "Acciones como asegurar transporte para estudiantes mitigaron el impacto de las obras y crearon una percepci\u00f3n positiva tangible."
+        },
+        {
+          "text": "Que la infraestructura social es responsabilidad exclusiva del Estado y no de la empresa.",
+          "isCorrect": false,
+          "rationale": "Aunque es un rol estatal, la empresa debe complementar inteligentemente para asegurar la viabilidad de su propia operaci\u00f3n."
+        },
+        {
+          "text": "Que es preferible no realizar obras en zonas con comunidades locales para evitar quejas.",
+          "isCorrect": false,
+          "rationale": "La clave no es evitar el contacto, sino gestionar la relaci\u00f3n mediante compromisos que la gente pueda tocar y valorar."
+        }
+      ],
+      "hint": "Considere la importancia de que la gente vea mejoras reales en su vida cotidiana junto al avance del proyecto."
+    },
+    {
+      "question": "\u00bfQu\u00e9 pilar de la gesti\u00f3n integrada destaca que el costo de la prevenci\u00f3n es siempre menor al de la crisis?",
+      "answerOptions": [
+        {
+          "text": "La legitimidad social mediante voceros familiares.",
+          "isCorrect": false,
+          "rationale": "Este pilar se enfoca en la comunicaci\u00f3n y reputaci\u00f3n, no espec\u00edficamente en el balance de costos prevenci\u00f3n-crisis."
+        },
+        {
+          "text": "La gesti\u00f3n proactiva de conflictos y el cumplimiento de normas internacionales.",
+          "isCorrect": true,
+          "rationale": "Ignorar riesgos ambientales conlleva indemnizaciones y par\u00e1lisis operativas que superan con creces la inversi\u00f3n inicial en prevenci\u00f3n."
+        },
+        {
+          "text": "El uso exclusivo de tecnolog\u00edas de comunicaci\u00f3n digital en zonas urbanas.",
+          "isCorrect": false,
+          "rationale": "Esta es una t\u00e1ctica de comunicaci\u00f3n que no aborda la ra\u00edz econ\u00f3mica y \u00e9tica del costo de los desastres ambientales."
+        },
+        {
+          "text": "La delegaci\u00f3n de la seguridad a fuerzas externas informales.",
+          "isCorrect": false,
+          "rationale": "Delegar la seguridad a entes informales es un riesgo alt\u00edsimo que suele aumentar los costos y las crisis en lugar de prevenirlas."
+        }
+      ],
+      "hint": "Se refiere a la idea de que 'apagar el incendio' es infinitamente m\u00e1s caro que evitar que empiece."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Justicia Ambiental y Derechos Humanos",
+      "Gobernanza Integrada en Industrias Extractivas",
+      "Jurisprudencia Internacional (Caso La Oroya)",
+      "Gesti\u00f3n de Conflictos Socioambientales",
+      "Est\u00e1ndares ISO $14001:2015$ y Liderazgo",
+      "Licencia Social y Participaci\u00f3n Comunitaria",
+      "Impacto de la Miner\u00eda Ilegal",
+      "Comunicaci\u00f3n Estrat\u00e9gica en Entornos Rurales"
+    ],
+    "followUp": [
+      "Acuerdo de Escaz\u00fa y Soberan\u00eda Nacional",
+      "Metodolog\u00edas de Auditor\u00eda Ambiental (Fases de Certificaci\u00f3n)",
+      "An\u00e1lisis de Riesgos Sist\u00e9micos y Reputacionales",
+      "Estructura de Alto Nivel en Sistemas de Gesti\u00f3n",
+      "Mecanismos de Monitoreo Participativo de Calidad Ambiental"
+    ]
+  }
+}

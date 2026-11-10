@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja estrat\u00e9gica de optar por una exportaci\u00f3n indirecta a trav\u00e9s de brokers o traders globales?",
+      "answerOptions": [
+        {
+          "text": "Obtenci\u00f3n de liquidez inmediata y acceso r\u00e1pido a mercados complejos.",
+          "isCorrect": true,
+          "rationale": "El uso de intermediarios permite a las empresas mineras entrar r\u00e1pidamente en mercados dif\u00edciles de penetrar y obtener flujo de caja pronto."
+        },
+        {
+          "text": "Maximizaci\u00f3n de los m\u00e1rgenes de ganancia al eliminar comisiones.",
+          "isCorrect": false,
+          "rationale": "Esta es una caracter\u00edstica de la exportaci\u00f3n directa; los intermediarios suelen erosionar el margen de ganancia mediante comisiones."
+        },
+        {
+          "text": "Control total sobre la relaci\u00f3n con el cliente final y la cadena de suministro.",
+          "isCorrect": false,
+          "rationale": "En la exportaci\u00f3n indirecta se cede precisamente la soberan\u00eda log\u00edstica y el contacto con el cliente final al trader."
+        },
+        {
+          "text": "Reducci\u00f3n de la estructura interna necesaria para el cumplimiento normativo.",
+          "isCorrect": false,
+          "rationale": "Aunque simplifica la venta, no elimina la necesidad de cumplimiento interno para la producci\u00f3n y entrega al broker."
+        }
+      ],
+      "hint": "Piense en el balance entre la rapidez de penetraci\u00f3n de mercado y el costo del margen operativo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje aproximado del valor total de la exportaci\u00f3n permite recuperar el mecanismo financiero conocido como drawback?",
+      "answerOptions": [
+        {
+          "text": "Entre el $1\\%$ y el $2\\%$.",
+          "isCorrect": false,
+          "rationale": "Este rango es inferior a los beneficios est\u00e1ndar que ofrece este incentivo tributario en la industria."
+        },
+        {
+          "text": "Exactamente el $10\\%$.",
+          "isCorrect": false,
+          "rationale": "Este porcentaje suele asociarse a tasas de percepci\u00f3n para importadores primerizos, no al beneficio de restituci\u00f3n de derechos arancelarios."
+        },
+        {
+          "text": "Entre el $3\\%$ y el $4\\%$.",
+          "isCorrect": true,
+          "rationale": "Este instrumento permite la recuperaci\u00f3n de un porcentaje espec\u00edfico del valor exportado, lo cual es cr\u00edtico para la liquidez en sectores de gran volumen."
+        },
+        {
+          "text": "Alrededor del $18\\%$.",
+          "isCorrect": false,
+          "rationale": "Esta cifra corresponde a la suma del Impuesto General a las Ventas y el Impuesto de Promoci\u00f3n Municipal en las importaciones."
+        }
+      ],
+      "hint": "Se trata de un beneficio porcentual de una cifra que, aunque parece peque\u00f1a, inyecta millones en industrias masivas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el documento considerado la piedra angular para desbloquear los beneficios arancelarios de los Tratados de Libre Comercio (TLC)?",
+      "answerOptions": [
+        {
+          "text": "Factura comercial y packing list.",
+          "isCorrect": false,
+          "rationale": "Si bien son la base del movimiento f\u00edsico, no son los documentos que acreditan el origen para la exenci\u00f3n de aranceles."
+        },
+        {
+          "text": "Certificado de origen.",
+          "isCorrect": true,
+          "rationale": "Este documento t\u00e9cnico es indispensable para aplicar las preferencias arancelarias negociadas en los acuerdos comerciales."
+        },
+        {
+          "text": "Licencia del Instituto Peruano de Energ\u00eda Nuclear (IPEN).",
+          "isCorrect": false,
+          "rationale": "Este es un permiso especializado para materiales radiactivos y no aplica para los beneficios generales de un TLC."
+        },
+        {
+          "text": "Documento de transporte mar\u00edtimo (Bill of Lading).",
+          "isCorrect": false,
+          "rationale": "Este documento acredita la propiedad y el flete, pero no la procedencia necesaria para beneficios tributarios."
+        }
+      ],
+      "hint": "Sin este papel espec\u00edfico, los acuerdos diplom\u00e1ticos no tienen validez t\u00e9cnica en la aduana."
+    },
+    {
+      "question": "En el contexto de la miner\u00eda de exportaci\u00f3n, \u00bfqu\u00e9 entidad es la encargada de otorgar permisos para el movimiento de minerales sensibles como el uranio?",
+      "answerOptions": [
+        {
+          "text": "Ministerio de Comercio Exterior y Turismo.",
+          "isCorrect": false,
+          "rationale": "Esta entidad gestiona la pol\u00edtica comercial general, pero no los controles t\u00e9cnicos de seguridad nuclear."
+        },
+        {
+          "text": "SUNAT.",
+          "isCorrect": false,
+          "rationale": "La SUNAT es el ente recaudador y de control aduanero, pero no el ente regulador de materiales radiactivos."
+        },
+        {
+          "text": "Instituto Peruano de Energ\u00eda Nuclear (IPEN).",
+          "isCorrect": true,
+          "rationale": "Dada la naturaleza del mineral, se requieren controles estrictos de seguridad radiol\u00f3gica que esta instituci\u00f3n supervisa."
+        },
+        {
+          "text": "Ventanilla \u00danica de Comercio Exterior (BUCE).",
+          "isCorrect": false,
+          "rationale": "La BUCE es la plataforma de gesti\u00f3n, pero no es la autoridad que emite los permisos t\u00e9cnicos de seguridad nuclear."
+        }
+      ],
+      "hint": "Considere la naturaleza f\u00edsica y los riesgos espec\u00edficos de radiaci\u00f3n del material mencionado."
+    },
+    {
+      "question": "\u00bfC\u00f3mo contribuye la tecnolog\u00eda Blockchain a la ventaja competitiva en los criterios ESG (Ambiental, Social y Gobernanza)?",
+      "answerOptions": [
+        {
+          "text": "Automatizando el pago de impuestos ante la SUNAT.",
+          "isCorrect": false,
+          "rationale": "Blockchain se utiliza para el registro de datos inmutables, no es una herramienta dise\u00f1ada exclusivamente para la liquidaci\u00f3n de tributos."
+        },
+        {
+          "text": "Garantizando la procedencia \u00e9tica del mineral mediante un registro inmutable.",
+          "isCorrect": true,
+          "rationale": "Permite certificar la huella del mineral y evitar asociaciones con zonas de conflicto, asegurando la transparencia total."
+        },
+        {
+          "text": "Optimizando las rutas de transporte mar\u00edtimo en tiempo real.",
+          "isCorrect": false,
+          "rationale": "La optimizaci\u00f3n de rutas es una aplicaci\u00f3n m\u00e1s caracter\u00edstica de la Inteligencia Artificial y el Machine Learning."
+        },
+        {
+          "text": "Incrementando el valor del mineral en la bolsa de valores.",
+          "isCorrect": false,
+          "rationale": "Aunque puede mejorar la reputaci\u00f3n, el precio de mercado del mineral depende de factores macroecon\u00f3micos y no directamente de la tecnolog\u00eda de registro."
+        }
+      ],
+      "hint": "Piense en la necesidad de demostrar que un producto no proviene de zonas de guerra o pr\u00e1cticas il\u00edcitas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 aplicaci\u00f3n directa tiene la Inteligencia Artificial para evitar el lucro cesante en la cadena log\u00edstica minera?",
+      "answerOptions": [
+        {
+          "text": "Modelos predictivos de inventario para evitar sobrecostos de almacenamiento.",
+          "isCorrect": true,
+          "rationale": "La IA permite prever la demanda y el flujo de carga, evitando que el capital quede inmovilizado innecesariamente en dep\u00f3sitos."
+        },
+        {
+          "text": "Sensores IoT para detectar la apertura de puertas no autorizada.",
+          "isCorrect": false,
+          "rationale": "Esta es una funci\u00f3n de monitoreo f\u00edsico del Internet de las Cosas, no una aplicaci\u00f3n de modelos predictivos de datos."
+        },
+        {
+          "text": "Emisi\u00f3n autom\u00e1tica de certificados de origen.",
+          "isCorrect": false,
+          "rationale": "La certificaci\u00f3n de origen requiere validaci\u00f3n normativa y t\u00e9cnica que va m\u00e1s all\u00e1 de la optimizaci\u00f3n por IA."
+        },
+        {
+          "text": "Sustituci\u00f3n de la gesti\u00f3n humana en la negociaci\u00f3n de Incoterms.",
+          "isCorrect": false,
+          "rationale": "Los Incoterms requieren una negociaci\u00f3n estrat\u00e9gica legal que la IA a\u00fan no reemplaza por completo."
+        }
+      ],
+      "hint": "Relacione el an\u00e1lisis de datos con la prevenci\u00f3n de tener material 'atrapado' en la cadena log\u00edstica."
+    },
+    {
+      "question": "En la aplicaci\u00f3n de los Incoterms 2020, \u00bfqu\u00e9 t\u00e9rmino representa el escenario donde el vendedor asume la m\u00ednima responsabilidad?",
+      "answerOptions": [
+        {
+          "text": "DDP (Delivered Duty Paid).",
+          "isCorrect": false,
+          "rationale": "DDP es el extremo opuesto; el vendedor asume todos los costos y riesgos hasta el almac\u00e9n del comprador."
+        },
+        {
+          "text": "FOB (Free On Board).",
+          "isCorrect": false,
+          "rationale": "En FOB, el vendedor debe gestionar el transporte hasta el puerto y la carga en el buque, lo que implica responsabilidad operativa."
+        },
+        {
+          "text": "CIF (Cost, Insurance and Freight).",
+          "isCorrect": false,
+          "rationale": "El vendedor asume el costo del flete y el seguro, lo que incrementa su carga financiera y operativa."
+        },
+        {
+          "text": "EXW (Ex Works).",
+          "isCorrect": true,
+          "rationale": "Bajo este t\u00e9rmino, el vendedor solo debe poner la mercanc\u00eda a disposici\u00f3n en su almac\u00e9n, transfiriendo todo el riesgo al comprador desde ese punto."
+        }
+      ],
+      "hint": "Considere el t\u00e9rmino donde la entrega ocurre dentro de las propias instalaciones del proveedor."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 momento exacto se transfiere el riesgo del vendedor al comprador bajo los t\u00e9rminos mar\u00edtimos cl\u00e1sicos como FOB?",
+      "answerOptions": [
+        {
+          "text": "Cuando la mercanc\u00eda llega al puerto de destino.",
+          "isCorrect": false,
+          "rationale": "Esto describir\u00eda t\u00e9rminos del grupo D; en FOB el riesgo se transfiere mucho antes, en el origen."
+        },
+        {
+          "text": "Al momento de emitir la factura comercial.",
+          "isCorrect": false,
+          "rationale": "La factura es un documento contable, pero no marca la transferencia f\u00edsica de riesgos log\u00edsticos."
+        },
+        {
+          "text": "Cuando la carga cruza la borda del buque en el puerto de origen.",
+          "isCorrect": true,
+          "rationale": "Esta es la l\u00ednea t\u00e9cnica universal que delimita hasta d\u00f3nde llega la responsabilidad financiera del exportador en este Incoterm."
+        },
+        {
+          "text": "Una vez que el importador paga los tributos en aduana.",
+          "isCorrect": false,
+          "rationale": "El pago de tributos es un proceso posterior a la transferencia de riesgo que ocurre durante el transporte."
+        }
+      ],
+      "hint": "Piense en la barrera f\u00edsica que representa el l\u00edmite del barco en el puerto de salida."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la relevancia del Valor CIF para la autoridad aduanera (SUNAT)?",
+      "answerOptions": [
+        {
+          "text": "Es el valor utilizado para calcular la comisi\u00f3n del broker.",
+          "isCorrect": false,
+          "rationale": "Las comisiones de intermediaci\u00f3n son acuerdos privados y no necesariamente se basan en el valor imponible aduanero."
+        },
+        {
+          "text": "Representa el costo de producci\u00f3n neto sin log\u00edstica.",
+          "isCorrect": false,
+          "rationale": "El valor CIF incluye flete y seguro, por lo que va mucho m\u00e1s all\u00e1 del simple costo de producci\u00f3n."
+        },
+        {
+          "text": "Es la base imponible sobre la cual se calculan todos los tributos de importaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La aduana utiliza la suma del valor de la mercanc\u00eda, el seguro y el flete como el monto base para aplicar aranceles e impuestos."
+        },
+        {
+          "text": "Es el valor m\u00e1ximo permitido para exportar sin pagar impuestos.",
+          "isCorrect": false,
+          "rationale": "No existe un l\u00edmite m\u00e1ximo de exportaci\u00f3n basado en este valor; es una base de c\u00e1lculo, no una restricci\u00f3n."
+        }
+      ],
+      "hint": "Se trata del 'n\u00famero m\u00e1gico' que determina cu\u00e1nto se debe pagar al Estado por nacionalizar la carga."
+    },
+    {
+      "question": "En el transporte terrestre, \u00bfcu\u00e1l es el coeficiente de relaci\u00f3n peso-volumen utilizado para calcular el flete?",
+      "answerOptions": [
+        {
+          "text": "$1$ tonelada equivale a $1$ $m^3$.",
+          "isCorrect": false,
+          "rationale": "Esta relaci\u00f3n uno a uno es la norma est\u00e1ndar para el transporte mar\u00edtimo, no para el terrestre."
+        },
+        {
+          "text": "$0.5$ toneladas por cada metro c\u00fabico.",
+          "isCorrect": true,
+          "rationale": "En el transporte por cami\u00f3n, la densidad requerida es menor, lo que significa que una tonelada ocupa m\u00e1s espacio ($2$ $m^3$)."
+        },
+        {
+          "text": "$166.7$ kg por cada metro c\u00fabico.",
+          "isCorrect": false,
+          "rationale": "Esta cifra es el est\u00e1ndar para el transporte a\u00e9reo, donde el espacio es mucho m\u00e1s costoso y limitado."
+        },
+        {
+          "text": "$2$ toneladas por cada metro c\u00fabico.",
+          "isCorrect": false,
+          "rationale": "Esta relaci\u00f3n implicar\u00eda una carga extremadamente densa que no se ajusta a los coeficientes de estiva de transporte terrestre."
+        }
+      ],
+      "hint": "Recuerde que en un cami\u00f3n, la misma tonelada de carga ocupa el doble de espacio que en un barco."
+    },
+    {
+      "question": "Si una carga de una tonelada se transporta v\u00eda a\u00e9rea, \u00bfcu\u00e1ntos metros c\u00fabicos ($m^3$) de espacio ocupar\u00e1 seg\u00fan los ratios de densidad est\u00e1ndar?",
+      "answerOptions": [
+        {
+          "text": "$1$ $m^3$.",
+          "isCorrect": false,
+          "rationale": "Este volumen corresponde a la relaci\u00f3n mar\u00edtima, no a la alta exigencia de espacio del transporte a\u00e9reo."
+        },
+        {
+          "text": "$2$ $m^3$.",
+          "isCorrect": false,
+          "rationale": "Este es el volumen que ocupar\u00eda en un transporte terrestre."
+        },
+        {
+          "text": "$6$ $m^3$.",
+          "isCorrect": true,
+          "rationale": "Dado que el ratio a\u00e9reo es de $166.7$ kg/$m^3$, una tonelada ($1000$ kg) requiere aproximadamente $6$ veces ese volumen."
+        },
+        {
+          "text": "$0.5$ $m^3$.",
+          "isCorrect": false,
+          "rationale": "Un volumen tan reducido sugerir\u00eda una densidad imposible para el transporte a\u00e9reo comercial est\u00e1ndar."
+        }
+      ],
+      "hint": "Considere que el transporte a\u00e9reo es el que m\u00e1s espacio exige por unidad de peso debido a su baja tolerancia de carga."
+    },
+    {
+      "question": "\u00bfQu\u00e9 combinaci\u00f3n de impuestos garantiza un pago del $18\\%$ sobre la base imponible en una importaci\u00f3n est\u00e1ndar?",
+      "answerOptions": [
+        {
+          "text": "Ad-valorem e IGV.",
+          "isCorrect": false,
+          "rationale": "El Ad-valorem es variable y puede ser $0\\%$, por lo que no garantiza por s\u00ed solo el $18\\%$."
+        },
+        {
+          "text": "IGV ($16\\%$) e Impuesto de Promoci\u00f3n Municipal ($2\\%$).",
+          "isCorrect": true,
+          "rationale": "La suma de estos dos impuestos fijos constituye el porcentaje est\u00e1ndar de imposici\u00f3n al consumo en la nacionalizaci\u00f3n."
+        },
+        {
+          "text": "Impuesto a la Renta y Percepci\u00f3n del IGV.",
+          "isCorrect": false,
+          "rationale": "La percepci\u00f3n es un adelanto variable y el impuesto a la renta no se calcula sobre la base CIF en la aduana."
+        },
+        {
+          "text": "Drawback y Aranceles.",
+          "isCorrect": false,
+          "rationale": "El drawback es una recuperaci\u00f3n de dinero (beneficio), no un impuesto que se sume a la base imponible."
+        }
+      ],
+      "hint": "Piense en los dos impuestos que gravan el consumo y que siempre aparecen juntos en la liquidaci\u00f3n aduanera."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la tasa de percepci\u00f3n del IGV que debe pagar una empresa que realiza su primera importaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "$3.5\\%$.",
+          "isCorrect": false,
+          "rationale": "Esta es la tasa preferencial para importadores frecuentes con buen historial ante la autoridad tributaria."
+        },
+        {
+          "text": "$5\\%$.",
+          "isCorrect": false,
+          "rationale": "Esta tasa se aplica espec\u00edficamente cuando se importan bienes usados."
+        },
+        {
+          "text": "$10\\%$.",
+          "isCorrect": true,
+          "rationale": "La autoridad tributaria aplica la tasa m\u00e1s alta a los operadores nuevos como medida de control de riesgo fiscal."
+        },
+        {
+          "text": "$0\\%$.",
+          "isCorrect": false,
+          "rationale": "No existe exoneraci\u00f3n de percepci\u00f3n por ser primerizo; por el contrario, es cuando m\u00e1s se exige el pago adelantado."
+        }
+      ],
+      "hint": "Es la tasa m\u00e1s elevada del sistema de percepciones, dise\u00f1ada para mitigar el riesgo de contribuyentes sin historial."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica para un importador que su carga sea asignada al 'canal naranja' de control aduanero?",
+      "answerOptions": [
+        {
+          "text": "Levante autom\u00e1tico y retiro inmediato de la mercanc\u00eda.",
+          "isCorrect": false,
+          "rationale": "El levante autom\u00e1tico es exclusivo del canal verde; el naranja requiere una pausa para control."
+        },
+        {
+          "text": "Revisi\u00f3n f\u00edsica del contenido del contenedor.",
+          "isCorrect": false,
+          "rationale": "La revisi\u00f3n f\u00edsica es la caracter\u00edstica distintiva del canal rojo, el nivel m\u00e1ximo de control."
+        },
+        {
+          "text": "Revisi\u00f3n exhaustiva de la documentaci\u00f3n presentada.",
+          "isCorrect": true,
+          "rationale": "En este canal, la aduana verifica que todos los papeles (facturas, certificados) coincidan antes de permitir el levante."
+        },
+        {
+          "text": "Abandono legal de la mercanc\u00eda por falta de pago.",
+          "isCorrect": false,
+          "rationale": "El abandono legal es una situaci\u00f3n jur\u00eddica por incumplimiento de plazos, no un canal de control de la aduana."
+        }
+      ],
+      "hint": "Es un nivel intermedio de revisi\u00f3n que se centra \u00fanicamente en la 'lupa' sobre los papeles."
+    },
+    {
+      "question": "Para que una carta de cr\u00e9dito brinde seguridad total en una operaci\u00f3n internacional, \u00bfqu\u00e9 tres requisitos debe cumplir?",
+      "answerOptions": [
+        {
+          "text": "Ser revocable, parcial y a plazo.",
+          "isCorrect": false,
+          "rationale": "Una carta revocable podr\u00eda ser cancelada por el comprador, eliminando la garant\u00eda de pago para el vendedor."
+        },
+        {
+          "text": "Ser irrevocable, confirmada y a la vista.",
+          "isCorrect": true,
+          "rationale": "Esta configuraci\u00f3n garantiza que el compromiso de pago no se cambie, est\u00e9 respaldado por un banco local y se pague contra documentos."
+        },
+        {
+          "text": "Estar emitida en moneda nacional y ser transferible.",
+          "isCorrect": false,
+          "rationale": "Las operaciones internacionales suelen preferir divisas fuertes y la transferibilidad es una caracter\u00edstica opcional, no de seguridad base."
+        },
+        {
+          "text": "Ser condicional, endosable y de bajo costo.",
+          "isCorrect": false,
+          "rationale": "La condicionalidad excesiva puede dificultar el cobro y no garantiza la liquidez inmediata."
+        }
+      ],
+      "hint": "Busque las caracter\u00edsticas que eliminan la posibilidad de cancelaci\u00f3n unilateral y aseguran el pago inmediato tras presentar documentos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00eda se utiliza para el monitoreo continuo y en tiempo real de los concentrados de mineral durante su traslado f\u00edsico?",
+      "answerOptions": [
+        {
+          "text": "Sistemas de Inteligencia Artificial Predictiva.",
+          "isCorrect": false,
+          "rationale": "La IA predice comportamientos futuros basados en datos, pero el monitoreo f\u00edsico inmediato depende de hardware sensorial."
+        },
+        {
+          "text": "Sensores IoT (Internet de las Cosas) y tecnolog\u00eda RFID.",
+          "isCorrect": true,
+          "rationale": "Estas herramientas permiten tener 'ojos' en la carga, detectando desv\u00edos o aperturas no autorizadas en el acto."
+        },
+        {
+          "text": "Libros contables digitales en Blockchain.",
+          "isCorrect": false,
+          "rationale": "Blockchain registra la historia y procedencia, pero no proporciona la se\u00f1al de ubicaci\u00f3n o estado f\u00edsico en tiempo real."
+        },
+        {
+          "text": "Plataformas de Ventanilla \u00danica (BUCE).",
+          "isCorrect": false,
+          "rationale": "La BUCE es para tr\u00e1mites documentarios burocr\u00e1ticos, no para el rastreo f\u00edsico de contenedores en la ruta."
+        }
+      ],
+      "hint": "Piense en dispositivos f\u00edsicos conectados que pueden alertar sobre un desv\u00edo extra\u00f1o en la ruta."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia directa de no contar con una planificaci\u00f3n tributaria respecto a la percepci\u00f3n del IGV?",
+      "answerOptions": [
+        {
+          "text": "La p\u00e9rdida de la propiedad del mineral en la mina.",
+          "isCorrect": false,
+          "rationale": "La percepci\u00f3n afecta la importaci\u00f3n de bienes, no la propiedad de los activos mineros en explotaci\u00f3n."
+        },
+        {
+          "text": "Un impacto severo en la liquidez o caja chica por desembolsos imprevistos.",
+          "isCorrect": true,
+          "rationale": "Al ser un pago adelantado, no tenerlo mapeado puede generar un hueco financiero que impida nacionalizar la carga."
+        },
+        {
+          "text": "La prohibici\u00f3n de utilizar tratados de libre comercio.",
+          "isCorrect": false,
+          "rationale": "La percepci\u00f3n es un mecanismo de recaudaci\u00f3n interna y no invalida los beneficios de origen de un TLC."
+        },
+        {
+          "text": "El cambio autom\u00e1tico del canal verde al canal rojo.",
+          "isCorrect": false,
+          "rationale": "Los canales de control dependen de perfiles de riesgo aduanero, no directamente del c\u00e1lculo de la percepci\u00f3n."
+        }
+      ],
+      "hint": "Considere lo que sucede cuando una empresa debe pagar un $10\\%$ adicional en efectivo que no ten\u00eda presupuestado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representan los Tratados de Libre Comercio (TLC) desde una perspectiva t\u00e9cnica log\u00edstica?",
+      "answerOptions": [
+        {
+          "text": "Simples herramientas diplom\u00e1ticas para mejorar la imagen del pa\u00eds.",
+          "isCorrect": false,
+          "rationale": "Esta es una visi\u00f3n superficial; t\u00e9cnicamente son instrumentos de optimizaci\u00f3n de costos de entrada."
+        },
+        {
+          "text": "Mecanismos t\u00e9cnicos precisos para la reducci\u00f3n de aranceles.",
+          "isCorrect": true,
+          "rationale": "Permiten competir en mercados como China o EE.UU. al bajar agresivamente los costos impositivos de importaci\u00f3n/exportaci\u00f3n."
+        },
+        {
+          "text": "Contratos que obligan a usar \u00fanicamente transporte a\u00e9reo.",
+          "isCorrect": false,
+          "rationale": "Los TLC no restringen el medio de transporte, se enfocan en las reglas de origen y tributos."
+        },
+        {
+          "text": "Acuerdos que eliminan la necesidad de presentar facturas comerciales.",
+          "isCorrect": false,
+          "rationale": "La factura comercial siempre es necesaria para cualquier despacho aduanero, con o sin TLC."
+        }
+      ],
+      "hint": "Olv\u00eddese de las fotos de pol\u00edticos; piense en c\u00f3mo afectan el costo de entrada a un mercado competitivo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el riesgo de elegir incorrectamente un Incoterm en un contrato de compraventa internacional?",
+      "answerOptions": [
+        {
+          "text": "La anulaci\u00f3n inmediata del certificado de origen.",
+          "isCorrect": false,
+          "rationale": "El origen de la mercanc\u00eda no cambia por el t\u00e9rmino comercial elegido para su transporte."
+        },
+        {
+          "text": "Contingencias legales y financieras por una mala delimitaci\u00f3n de responsabilidades.",
+          "isCorrect": true,
+          "rationale": "Una elecci\u00f3n err\u00f3nea puede obligar a la empresa a asumir costos o riesgos de da\u00f1os que no estaban previstos en su flujo de caja."
+        },
+        {
+          "text": "La imposibilidad de utilizar la Ventanilla \u00danica de Comercio Exterior.",
+          "isCorrect": false,
+          "rationale": "La BUCE es obligatoria para los tr\u00e1mites independientemente del Incoterm negociado."
+        },
+        {
+          "text": "El aumento autom\u00e1tico de la tasa de IGV al $25\\%$.",
+          "isCorrect": false,
+          "rationale": "Las tasas impositivas est\u00e1n fijadas por ley y no var\u00edan seg\u00fan el Incoterm utilizado."
+        }
+      ],
+      "hint": "Piense en qui\u00e9n asume el golpe econ\u00f3mico si la carga se pierde o se da\u00f1a en medio del oc\u00e9ano."
+    },
+    {
+      "question": "En el ecosistema minero moderno, \u00bfqu\u00e9 funci\u00f3n cumple la log\u00edstica avanzada?",
+      "answerOptions": [
+        {
+          "text": "Un centro de costos tradicionales que debe ser minimizado.",
+          "isCorrect": false,
+          "rationale": "La visi\u00f3n moderna ha superado la idea de la log\u00edstica como un simple gasto operativo."
+        },
+        {
+          "text": "Una ventaja competitiva estrat\u00e9gica que define la rentabilidad y resiliencia.",
+          "isCorrect": true,
+          "rationale": "Hoy en d\u00eda, orquestar flujos y fronteras de manera eficiente es lo que permite a las mineras sobrevivir a la volatilidad del mercado."
+        },
+        {
+          "text": "Un \u00e1rea administrativa secundaria encargada solo del papeleo.",
+          "isCorrect": false,
+          "rationale": "La log\u00edstica actual integra tecnolog\u00eda y finanzas, siendo vital para la continuidad operativa."
+        },
+        {
+          "text": "Una herramienta opcional que solo aplican las empresas m\u00e1s grandes.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n log\u00edstica es una necesidad de supervivencia para cualquier empresa que participe en el comercio exterior."
+        }
+      ],
+      "hint": "Considere c\u00f3mo el control del movimiento de materiales puede 'mover la aguja' por millones de d\u00f3lares."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Estrategias de Intermediaci\u00f3n Comercial",
+      "Arquitectura Documentaria en Exportaci\u00f3n",
+      "Tecnolog\u00edas Emergentes en Miner\u00eda",
+      "Incoterms 2020 y Responsabilidad",
+      "Tributaci\u00f3n Aduanera en Importaci\u00f3n"
+    ],
+    "followUp": [
+      "Gesti\u00f3n de Riesgos en Suministros Cr\u00edticos",
+      "Sostenibilidad y Criterios ESG",
+      "Optimizaci\u00f3n Financiera mediante Drawback",
+      "An\u00e1lisis de Costos de Transporte Multimodal"
+    ]
+  }
+}

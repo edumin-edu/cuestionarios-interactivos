@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal del desriesgo en el planeamiento y desarrollo minero?",
+      "answerOptions": [
+        {
+          "text": "Mitigar sistem\u00e1ticamente los peligros para proteger la vida de la mina y la rentabilidad.",
+          "isCorrect": true,
+          "rationale": "El desriesgo funciona como un mecanismo para reducir la incertidumbre geol\u00f3gica y proteger la inversi\u00f3n financiera a largo plazo."
+        },
+        {
+          "text": "Eliminar por completo la necesidad de realizar estudios de inversi\u00f3n previos.",
+          "isCorrect": false,
+          "rationale": "El desriesgo no sustituye los estudios, sino que se apoya en ellos para fundamentar decisiones estrat\u00e9gicas con rigor cient\u00edfico."
+        },
+        {
+          "text": "Aumentar la volatilidad del sector extractivo para generar mayores retornos.",
+          "isCorrect": false,
+          "rationale": "La volatilidad es una condici\u00f3n externa del mercado que el desriesgo busca contrarrestar, no fomentar."
+        },
+        {
+          "text": "Reducir el uso de modelos predictivos en favor de la observaci\u00f3n literal \u00fanicamente.",
+          "isCorrect": false,
+          "rationale": "El proceso busca justamente transitar de la observaci\u00f3n literal hacia modelos predictivos robustos."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre la seguridad operativa y la estabilidad del capital invertido."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 etapa de los estudios de inversi\u00f3n se define un dise\u00f1o \u00fanico y se sustenta la decisi\u00f3n final de inversi\u00f3n con informaci\u00f3n de alta calidad?",
+      "answerOptions": [
+        {
+          "text": "Prefactibilidad",
+          "isCorrect": false,
+          "rationale": "En esta etapa se empiezan a meter perforaciones y datos, pero no es donde se toma la decisi\u00f3n final de inversi\u00f3n."
+        },
+        {
+          "text": "Factibilidad",
+          "isCorrect": true,
+          "rationale": "Es el 'momento de la verdad' donde se utiliza informaci\u00f3n de alt\u00edsima calidad para validar el dise\u00f1o y la inversi\u00f3n."
+        },
+        {
+          "text": "Perfil",
+          "isCorrect": false,
+          "rationale": "Esta es la etapa inicial basada en observaciones de baja calidad como los afloramientos."
+        },
+        {
+          "text": "Ingenier\u00eda de detalle",
+          "isCorrect": false,
+          "rationale": "Esta fase ocurre despu\u00e9s de la decisi\u00f3n de inversi\u00f3n para entregar planos exactos de construcci\u00f3n."
+        }
+      ],
+      "hint": "Es la etapa previa a la ingenier\u00eda de detalle donde se valida la viabilidad definitiva."
+    },
+    {
+      "question": "\u00bfQu\u00e9 disciplina se enfoca espec\u00edficamente en materiales no consolidados y fr\u00e1giles para el dise\u00f1o de cimentaciones de plantas?",
+      "answerOptions": [
+        {
+          "text": "Mec\u00e1nica de rocas",
+          "isCorrect": false,
+          "rationale": "La mec\u00e1nica de rocas se ocupa de macizos consolidados y estructuras profundas como t\u00faneles."
+        },
+        {
+          "text": "Geof\u00edsica profunda",
+          "isCorrect": false,
+          "rationale": "La geof\u00edsica se orienta a la exploraci\u00f3n y detecci\u00f3n de estructuras ocultas, no al dise\u00f1o de cimentaciones superficiales."
+        },
+        {
+          "text": "Mec\u00e1nica de suelos",
+          "isCorrect": true,
+          "rationale": "Esta rama de la geotecnia analiza la superficie y materiales fr\u00e1giles para obras civiles y plantas."
+        },
+        {
+          "text": "Modelamiento de bloques",
+          "isCorrect": false,
+          "rationale": "Es una herramienta digital de visualizaci\u00f3n y gesti\u00f3n de datos, no una disciplina de estudio f\u00edsico de materiales fr\u00e1giles."
+        }
+      ],
+      "hint": "Diferencie entre el estudio de la tierra suelta superficial y la roca s\u00f3lida profunda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 par\u00e1metro m\u00e9trico se utiliza para cuantificar la frecuencia de fracturamiento volum\u00e9trico en el an\u00e1lisis de macizos rocosos?",
+      "answerOptions": [
+        {
+          "text": "$RQD$",
+          "isCorrect": false,
+          "rationale": "El $RQD$ se refiere espec\u00edficamente a la designaci\u00f3n de calidad de la roca basada en la recuperaci\u00f3n de testigos."
+        },
+        {
+          "text": "$J_v$",
+          "isCorrect": true,
+          "rationale": "El valor $J_v$ representa la frecuencia de fracturamiento volum\u00e9trico, esencial para entender la discontinuidad del macizo."
+        },
+        {
+          "text": "Presi\u00f3n litost\u00e1tica",
+          "isCorrect": false,
+          "rationale": "Esta es una fuerza f\u00edsica ejercida por el peso de la roca a profundidad, no una medida de fracturamiento."
+        },
+        {
+          "text": "\u00c1ngulo $\\alpha$",
+          "isCorrect": false,
+          "rationale": "El \u00e1ngulo $\\alpha$ es un par\u00e1metro estructural medido en testigos de perforaci\u00f3n, no una frecuencia volum\u00e9trica."
+        }
+      ],
+      "hint": "Piense en la abreviatura que representa las discontinuidades en el volumen de la roca."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n del libro amarillo de Hoek y Brown en el campo de la geotecnia?",
+      "answerOptions": [
+        {
+          "text": "Servir como gu\u00eda definitiva y referencia est\u00e1ndar para el comportamiento de macizos rocosos.",
+          "isCorrect": true,
+          "rationale": "Este texto es la referencia fundamental de la industria para no 'adivinar' sobre las reglas del juego bajo presi\u00f3n litost\u00e1tica."
+        },
+        {
+          "text": "Regular los permisos ambientales y el uso de los $ITS$ en proyectos mineros.",
+          "isCorrect": false,
+          "rationale": "La regulaci\u00f3n de permisos depende de marcos legales nacionales, no de manuales de mec\u00e1nica de rocas."
+        },
+        {
+          "text": "Establecer los protocolos de $QA/QC$ para laboratorios qu\u00edmicos.",
+          "isCorrect": false,
+          "rationale": "Los protocolos $QA/QC$ se centran en el aseguramiento de calidad de datos qu\u00edmicos y anal\u00edticos."
+        },
+        {
+          "text": "Proporcionar software para el modelamiento geol\u00f3gico impl\u00edcito.",
+          "isCorrect": false,
+          "rationale": "Hoek y Brown desarrollaron criterios emp\u00edricos y te\u00f3ricos, no herramientas de software espec\u00edficas como Leapfrog."
+        }
+      ],
+      "hint": "Consid\u00e9relo como la 'biblia' t\u00e9cnica para el an\u00e1lisis de esfuerzos y estabilidad en rocas."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define la informaci\u00f3n discreta dentro del modelamiento de bloques?",
+      "answerOptions": [
+        {
+          "text": "Mapas de calor que muestran una simulaci\u00f3n fluida del valor mineral.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde a la informaci\u00f3n continua, que utiliza matem\u00e1ticas de alto nivel para difuminar l\u00edmites."
+        },
+        {
+          "text": "El yacimiento dividido en millones de cubitos tridimensionales con valores y costos espec\u00edficos.",
+          "isCorrect": true,
+          "rationale": "La discreci\u00f3n implica separar los datos en unidades individuales (bloques o cubos) sumamente detalladas."
+        },
+        {
+          "text": "El uso de integrales para optimizar el dise\u00f1o de rampas en tiempo real.",
+          "isCorrect": false,
+          "rationale": "El uso de integrales y visi\u00f3n fluida pertenece al modelamiento de informaci\u00f3n continua."
+        },
+        {
+          "text": "Protocolos de seguridad para el manejo de testigos de perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El manejo de testigos es un procedimiento f\u00edsico de campo, no un formato de datos de modelamiento digital."
+        }
+      ],
+      "hint": "Piense en la representaci\u00f3n de la mina como un conjunto de celdas o 'voxels' con atributos fijos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 software es especialmente valorado hoy en d\u00eda por su capacidad para optimizar dise\u00f1os complejos y secuencias de minado?",
+      "answerOptions": [
+        {
+          "text": "MinePlan",
+          "isCorrect": false,
+          "rationale": "MinePlan es un gigante enfocado principalmente en el planeamiento a largo plazo."
+        },
+        {
+          "text": "Deswick",
+          "isCorrect": true,
+          "rationale": "Es el favorito actual para manejar secuencias de minado y optimizar dise\u00f1os de alta complejidad operativa."
+        },
+        {
+          "text": "DataMine",
+          "isCorrect": false,
+          "rationale": "DataMine tiene su fortaleza principal en el control de recursos y la geolog\u00eda."
+        },
+        {
+          "text": "ProMine",
+          "isCorrect": false,
+          "rationale": "ProMine se destaca m\u00e1s en dise\u00f1o detallado y crecimiento de proyectos regionales."
+        }
+      ],
+      "hint": "Es una herramienta moderna que destaca por su flexibilidad en la planificaci\u00f3n de secuencias."
+    },
+    {
+      "question": "\u00bfQu\u00e9 t\u00e9cnica avanzada de an\u00e1lisis mineral\u00f3gico permite crear mapas exactos mediante el bombardeo de electrones sobre muestras en resina?",
+      "answerOptions": [
+        {
+          "text": "Difracci\u00f3n por Rayos $X$",
+          "isCorrect": false,
+          "rationale": "La difracci\u00f3n se usa principalmente para identificar fases cristalinas y compuestos ocultos como ars\u00e9nico."
+        },
+        {
+          "text": "$QEMSCAN$",
+          "isCorrect": true,
+          "rationale": "El $QEMSCAN$ utiliza haces de electrones para mapear la mineralog\u00eda, el tama\u00f1o de grano y la liberaci\u00f3n del mineral."
+        },
+        {
+          "text": "S\u00edsmica de reflexi\u00f3n",
+          "isCorrect": false,
+          "rationale": "La s\u00edsmica es una t\u00e9cnica geof\u00edsica de gran escala para mapear estructuras profundas, no microsc\u00f3picas."
+        },
+        {
+          "text": "Magnetotel\u00farica",
+          "isCorrect": false,
+          "rationale": "Esta t\u00e9cnica mide la respuesta electromagn\u00e9tica de la corteza a gran profundidad para hallar yacimientos."
+        }
+      ],
+      "hint": "El nombre de esta t\u00e9cnica sugiere un escaneo mineral\u00f3gico cuantitativo por medios electr\u00f3nicos."
+    },
+    {
+      "question": "Al gestionar testigos de perforaci\u00f3n, \u00bfcu\u00e1l es el prop\u00f3sito de medir los \u00e1ngulos $\\alpha$, $\\beta$ y $\\gamma$?",
+      "answerOptions": [
+        {
+          "text": "Determinar la dureza de la roca seg\u00fan la escala de Mohs.",
+          "isCorrect": false,
+          "rationale": "La dureza de Mohs es una propiedad mineral\u00f3gica que no depende de la orientaci\u00f3n angular de las fracturas."
+        },
+        {
+          "text": "Calcular la presi\u00f3n litost\u00e1tica a m\u00e1s de $1000$ metros de profundidad.",
+          "isCorrect": false,
+          "rationale": "La presi\u00f3n litost\u00e1tica se calcula bas\u00e1ndose en la profundidad y la densidad de la roca sobreyacente."
+        },
+        {
+          "text": "Determinar fidedignamente el rumbo y buzamiento ($strike$ $and$ $dip$) de las estructuras.",
+          "isCorrect": true,
+          "rationale": "Estos \u00e1ngulos permiten orientar espacialmente las discontinuidades dentro de un modelo estructural $3D$."
+        },
+        {
+          "text": "Validar el consumo de combustible de los camiones de gran tonelaje.",
+          "isCorrect": false,
+          "rationale": "Los \u00e1ngulos en testigos son datos geol\u00f3gicos, mientras que el consumo de combustible es un par\u00e1metro de gesti\u00f3n de flota."
+        }
+      ],
+      "hint": "Estos \u00e1ngulos permiten trasladar la informaci\u00f3n de un cilindro de roca a un espacio tridimensional real."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00eda se asemeja a un esc\u00e1ner m\u00e9dico gigante para mapear estructuras debajo de gruesas capas de sedimentos mediante el rebote de ondas?",
+      "answerOptions": [
+        {
+          "text": "S\u00edsmica de reflexi\u00f3n",
+          "isCorrect": true,
+          "rationale": "Esta t\u00e9cnica utiliza el rebote de ondas para visualizar estructuras geol\u00f3gicas atrapadas bajo sedimentos."
+        },
+        {
+          "text": "$CSAMT$",
+          "isCorrect": false,
+          "rationale": "El $CSAMT$ se enfoca en medir la resistividad el\u00e9ctrica y la respuesta electromagn\u00e9tica, no el rebote de ondas s\u00edsmicas."
+        },
+        {
+          "text": "Difracci\u00f3n de rayos $X$",
+          "isCorrect": false,
+          "rationale": "Se usa a escala microsc\u00f3pica para identificar minerales, no para mapear la corteza terrestre."
+        },
+        {
+          "text": "Tubo triple de perforaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Es una herramienta f\u00edsica de muestreo de roca, no un m\u00e9todo de exploraci\u00f3n por ondas."
+        }
+      ],
+      "hint": "Piense en la t\u00e9cnica que utiliza la propagaci\u00f3n de vibraciones a trav\u00e9s del subsuelo."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es vital el cumplimiento de los protocolos de $QA/QC$ (Aseguramiento y Control de Calidad) al reportar recursos al mercado de valores?",
+      "answerOptions": [
+        {
+          "text": "Para agilizar la obtenci\u00f3n de permisos arqueol\u00f3gicos ($PMA$).",
+          "isCorrect": false,
+          "rationale": "Los $PMA$ dependen de la normativa de patrimonio cultural, no de la calidad de los datos geol\u00f3gicos."
+        },
+        {
+          "text": "Para eliminar sesgos anal\u00edticos y evitar reportar recursos falsos o inflados.",
+          "isCorrect": true,
+          "rationale": "La veracidad absoluta de los datos es crucial para evitar cat\u00e1strofes financieras y mantener la confianza del mercado."
+        },
+        {
+          "text": "Para reducir el periodo de retorno de las relaveras a menos de $100$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "El dise\u00f1o de relaveras es un est\u00e1ndar de ingenier\u00eda geot\u00e9cnica independiente del control de calidad de muestras geol\u00f3gicas."
+        },
+        {
+          "text": "Para optimizar el dise\u00f1o de los codos y singularidades en las tuber\u00edas.",
+          "isCorrect": false,
+          "rationale": "La optimizaci\u00f3n de tuber\u00edas se basa en la din\u00e1mica de fluidos y el diagrama de Moody."
+        }
+      ],
+      "hint": "La precisi\u00f3n de estos protocolos previene que una empresa sea sancionada por informaci\u00f3n enga\u00f1osa sobre su riqueza mineral."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia operativa de exceder un gradiente del $15\\%$ en el dise\u00f1o de rampas mineras?",
+      "answerOptions": [
+        {
+          "text": "Reducci\u00f3n dr\u00e1stica de la fuerza centr\u00edfuga en las curvas.",
+          "isCorrect": false,
+          "rationale": "La fuerza centr\u00edfuga depende del radio de la curva y la velocidad, no directamente del gradiente de inclinaci\u00f3n."
+        },
+        {
+          "text": "Disminuci\u00f3n del costo de mantenimiento de las plantas de procesamiento.",
+          "isCorrect": false,
+          "rationale": "Las rampas afectan el transporte, no directamente los costos internos de la planta de procesamiento."
+        },
+        {
+          "text": "Aumento excesivo del consumo de combustible y destrucci\u00f3n prematura de llantas.",
+          "isCorrect": true,
+          "rationale": "Gradientes muy pronunciados fuerzan los motores y desgastan el caucho debido al esfuerzo de tracci\u00f3n necesario."
+        },
+        {
+          "text": "Transici\u00f3n autom\u00e1tica de flujo turbulento a flujo laminar en las tuber\u00edas.",
+          "isCorrect": false,
+          "rationale": "El tipo de flujo en tuber\u00edas se rige por el n\u00famero de Reynolds y el diagrama de Moody, no por el gradiente de las rampas."
+        }
+      ],
+      "hint": "Piense en el esfuerzo mec\u00e1nico adicional que requiere un cami\u00f3n de gran tonelaje para subir una pendiente empinada."
+    },
+    {
+      "question": "\u00bfQu\u00e9 principio f\u00edsico se aplica al levantar el lado exterior de las curvas en las v\u00edas mineras?",
+      "answerOptions": [
+        {
+          "text": "Resistencia litost\u00e1tica",
+          "isCorrect": false,
+          "rationale": "Este t\u00e9rmino se refiere a la presi\u00f3n interna de las rocas a profundidad, no a la geometr\u00eda de superficies viales."
+        },
+        {
+          "text": "Peralte o superelevaci\u00f3n",
+          "isCorrect": true,
+          "rationale": "El peralte contrarresta la fuerza centr\u00edfuga, convirtiendo parte de la inercia en una fuerza normal que estabiliza al veh\u00edculo."
+        },
+        {
+          "text": "Capacidad portante del suelo",
+          "isCorrect": false,
+          "rationale": "Es una medida de cu\u00e1nto peso puede soportar el terreno, pero no describe la inclinaci\u00f3n lateral de una curva."
+        },
+        {
+          "text": "Diagrama de Moody",
+          "isCorrect": false,
+          "rationale": "Se utiliza para estudiar la fricci\u00f3n y flujos en tuber\u00edas, no la estabilidad de veh\u00edculos en movimiento."
+        }
+      ],
+      "hint": "Es un concepto de ingenier\u00eda vial dise\u00f1ado para que los camiones cargados no se deslicen hacia afuera en las curvas."
+    },
+    {
+      "question": "Durante el comisionamiento, \u00bfqu\u00e9 diferencia fundamental existe entre las pruebas en seco y las pruebas en h\u00famedo?",
+      "answerOptions": [
+        {
+          "text": "Las pruebas en seco verifican la geolog\u00eda y las en h\u00famedo la geomec\u00e1nica.",
+          "isCorrect": false,
+          "rationale": "Ambas pruebas se realizan sobre infraestructura construida, no sobre el estudio natural del terreno."
+        },
+        {
+          "text": "Las pruebas en h\u00famedo introducen fluidos para evaluar la din\u00e1mica industrial y posibles rupturas.",
+          "isCorrect": true,
+          "rationale": "El paso al fluido representa el desaf\u00edo real de presi\u00f3n y comportamiento din\u00e1mico de los sistemas."
+        },
+        {
+          "text": "Las pruebas en seco son opcionales mientras que las en h\u00famedo son obligatorias por ley.",
+          "isCorrect": false,
+          "rationale": "Ambas fases son partes cr\u00edticas y secuenciales del proceso t\u00e9cnico de puesta en marcha."
+        },
+        {
+          "text": "Las pruebas en seco requieren el uso del diagrama de Moody y las en h\u00famedo no.",
+          "isCorrect": false,
+          "rationale": "Es precisamente en las pruebas en h\u00famedo donde el diagrama de Moody es vital para controlar flujos."
+        }
+      ],
+      "hint": "Piense en cu\u00e1l de las dos fases simula las condiciones reales de operaci\u00f3n con materiales en movimiento."
+    },
+    {
+      "question": "En el contexto de la din\u00e1mica de fluidos industrial, \u00bfpara qu\u00e9 se utiliza el diagrama de Moody?",
+      "answerOptions": [
+        {
+          "text": "Para predecir el rumbo y buzamiento en modelos de bloques discretos.",
+          "isCorrect": false,
+          "rationale": "El rumbo y buzamiento son par\u00e1metros geol\u00f3gicos estructurales, no de fluidos."
+        },
+        {
+          "text": "Para calcular el amortiguamiento de energ\u00eda y eliminar singularidades en las tuber\u00edas.",
+          "isCorrect": true,
+          "rationale": "Permite determinar si un flujo es laminar o turbulento para evitar rupturas catastr\u00f3ficas en codos o curvas agudas."
+        },
+        {
+          "text": "Para medir la frecuencia de fracturamiento volum\u00e9trico ($J_v$).",
+          "isCorrect": false,
+          "rationale": "El $J_v$ es una m\u00e9trica de la mec\u00e1nica de rocas, no de la hidr\u00e1ulica de tuber\u00edas."
+        },
+        {
+          "text": "Para establecer el periodo de retorno de $475$ a\u00f1os en el cierre de minas.",
+          "isCorrect": false,
+          "rationale": "Ese periodo de retorno es un est\u00e1ndar de seguridad geot\u00e9cnica para la estabilidad de relaves."
+        }
+      ],
+      "hint": "Es una herramienta matem\u00e1tica para entender la fricci\u00f3n y el comportamiento del agua o lodos dentro de los conductos."
+    },
+    {
+      "question": "Dentro del marco legal peruano, \u00bfqu\u00e9 funci\u00f3n cumple el Informe T\u00e9cnico Sustentatorio ($ITS$)?",
+      "answerOptions": [
+        {
+          "text": "Sustituir por completo el Estudio de Impacto Ambiental ($EIA$) detallado.",
+          "isCorrect": false,
+          "rationale": "El $ITS$ no sustituye al $EIA$, sino que permite modificaciones sobre un proyecto que ya tiene aprobaci\u00f3n ambiental."
+        },
+        {
+          "text": "Permitir modificaciones menores o variaciones de producci\u00f3n hasta un $15\\%$ de forma \u00e1gil.",
+          "isCorrect": true,
+          "rationale": "Es una herramienta regulatoria para realizar ajustes sin desencadenar un proceso de $EIA$ nuevo desde cero."
+        },
+        {
+          "text": "Regular el uso de la desalinizaci\u00f3n de agua de mar en zonas des\u00e9rticas.",
+          "isCorrect": false,
+          "rationale": "Aunque es parte del marco legal, el $ITS$ no es una norma espec\u00edfica para la desalinizaci\u00f3n."
+        },
+        {
+          "text": "Certificar que el cierre de la mina durar\u00e1 exactamente $475$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "La duraci\u00f3n y est\u00e1ndares de cierre se definen en el plan de cierre, bas\u00e1ndose en criterios geot\u00e9cnicos internacionales."
+        }
+      ],
+      "hint": "Es un mecanismo que da flexibilidad operativa ante cambios que no alteran significativamente el impacto ambiental."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue la principal consecuencia t\u00e9cnica global para el dise\u00f1o de relaveras tras el desastre de Brumadinho?",
+      "answerOptions": [
+        {
+          "text": "La prohibici\u00f3n total del uso de software como Leapfrog.",
+          "isCorrect": false,
+          "rationale": "El desastre no tuvo relaci\u00f3n con el software de modelamiento, sino con fallas estructurales y criterios de dise\u00f1o."
+        },
+        {
+          "text": "La adopci\u00f3n de criterios de dise\u00f1o radicalmente m\u00e1s estrictos y periodos de retorno extensos.",
+          "isCorrect": true,
+          "rationale": "La tragedia oblig\u00f3 a dise\u00f1ar infraestructuras capaces de resistir eventos extremos por cientos de a\u00f1os."
+        },
+        {
+          "text": "La eliminaci\u00f3n de las pruebas en h\u00famedo durante el comisionamiento.",
+          "isCorrect": false,
+          "rationale": "Las pruebas en h\u00famedo siguen siendo indispensables para garantizar la integridad de cualquier sistema hidr\u00e1ulico."
+        },
+        {
+          "text": "El uso exclusivo de mec\u00e1nica de suelos en lugar de mec\u00e1nica de rocas.",
+          "isCorrect": false,
+          "rationale": "Ambas disciplinas siguen siendo necesarias seg\u00fan el tipo de material y profundidad de la infraestructura."
+        }
+      ],
+      "hint": "Considere c\u00f3mo cambi\u00f3 la percepci\u00f3n del riesgo y la durabilidad exigida a las presas de residuos mineros."
+    },
+    {
+      "question": "Seg\u00fan los est\u00e1ndares modernos post-Brumadinho, \u00bfqu\u00e9 margen de seguridad temporal se exige para la fase de cierre postoperativo de una relavera?",
+      "answerOptions": [
+        {
+          "text": "$10$ a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Un periodo de $10$ a\u00f1os es extremadamente corto e insuficiente para garantizar la seguridad ambiental a largo plazo."
+        },
+        {
+          "text": "$100$ a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Este periodo de retorno se exige t\u00edpicamente para la fase de operaci\u00f3n activa, no para el cierre postoperativo."
+        },
+        {
+          "text": "$475$ a\u00f1os",
+          "isCorrect": true,
+          "rationale": "Este extenso periodo de retorno busca asegurar que la estructura sea estable frente a eventos naturales extremos por casi medio milenio."
+        },
+        {
+          "text": "$1000$ a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Aunque es un est\u00e1ndar muy alto, el consenso t\u00e9cnico mencionado tras el desastre se fij\u00f3 en $475$ a\u00f1os para el cierre."
+        }
+      ],
+      "hint": "Se trata de un n\u00famero que representa casi cinco siglos de estabilidad garantizada."
+    },
+    {
+      "question": "\u00bfQu\u00e9 \u00e9xito t\u00e9cnico destaca de la operaci\u00f3n minera Mar Cobre en Mina Justa?",
+      "answerOptions": [
+        {
+          "text": "El descubrimiento del yacimiento tipo $IOCG$ m\u00e1s grande de Australia.",
+          "isCorrect": false,
+          "rationale": "Mina Justa se encuentra en el desierto de Per\u00fa, no en Australia."
+        },
+        {
+          "text": "Lograr la sostenibilidad h\u00eddrica mediante la desalinizaci\u00f3n de agua de mar en un entorno hostil.",
+          "isCorrect": true,
+          "rationale": "Este hito t\u00e9cnico permite operar sin competir por recursos h\u00eddricos locales, ganando licencia social."
+        },
+        {
+          "text": "La implementaci\u00f3n del primer modelo de bloques puramente continuo de la industria.",
+          "isCorrect": false,
+          "rationale": "El modelamiento continuo es una t\u00e9cnica matem\u00e1tica general, no un logro espec\u00edfico atribuido exclusivamente a esta operaci\u00f3n."
+        },
+        {
+          "text": "El dise\u00f1o de rampas con gradientes superiores al $20\\%$ para reducir costos.",
+          "isCorrect": false,
+          "rationale": "Como se explic\u00f3, gradientes tan altos destruir\u00edan llantas y elevar\u00edan los costos operativos dr\u00e1sticamente."
+        }
+      ],
+      "hint": "Piense en la soluci\u00f3n tecnol\u00f3gica aplicada para obtener agua en medio del desierto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la transici\u00f3n cr\u00edtica que fundamenta las grandes decisiones estrat\u00e9gicas en el planeamiento minero?",
+      "answerOptions": [
+        {
+          "text": "Pasar de la total incertidumbre geol\u00f3gica a modelos predictivos robustos.",
+          "isCorrect": true,
+          "rationale": "Transformar datos brutos en activos invaluables es la esencia para minimizar riesgos y asegurar inversiones."
+        },
+        {
+          "text": "Cambiar de software de modelamiento cada dos a\u00f1os para mantenerse actualizado.",
+          "isCorrect": false,
+          "rationale": "Cambiar de software a mitad de proyecto es costoso y requiere capacitaci\u00f3n masiva, no es una estrategia recomendada."
+        },
+        {
+          "text": "Sustituir el rigor cient\u00edfico por suposiciones al aire para acelerar los plazos.",
+          "isCorrect": false,
+          "rationale": "El \u00e9xito de un proyecto depende del rigor cient\u00edfico, jam\u00e1s de las adivinanzas."
+        },
+        {
+          "text": "Eliminar la etapa de factibilidad para pasar directamente a la construcci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Saltarse etapas de inversi\u00f3n es financieramente arriesgado y puede llevar al colapso del capital invertido."
+        }
+      ],
+      "hint": "Se trata de convertir la duda sobre lo que hay bajo el suelo en una certeza cient\u00edfica aprovechable."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Geotecnia y Geomec\u00e1nica Aplicada",
+      "Estudios de Inversi\u00f3n y Ciclo de Proyectos Mineros",
+      "Modelamiento de Bloques y Ecosistema de Software",
+      "Caracterizaci\u00f3n Mineral\u00f3gica y Geof\u00edsica",
+      "Gesti\u00f3n de Riesgos Constructivos y Seguridad"
+    ],
+    "followUp": [
+      "Mec\u00e1nica de Rocas en Miner\u00eda de Gran Profundidad",
+      "Protocolos de $QA/QC$ en la Estimaci\u00f3n de Recursos",
+      "Ingenier\u00eda de Relaves y Est\u00e1ndares de Seguridad Post-Brumadinho",
+      "Din\u00e1mica de Fluidos y Comisionamiento de Plantas Industriales",
+      "Marco Legal y Permisolog\u00eda Minera en Latinoam\u00e9rica"
+    ]
+  }
+}

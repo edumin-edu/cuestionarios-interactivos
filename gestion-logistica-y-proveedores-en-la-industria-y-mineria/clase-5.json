@@ -1,0 +1,543 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia funcional entre el OPEX y el CAPEX en la gesti\u00f3n financiera de una mina?",
+      "answerOptions": [
+        {
+          "text": "El OPEX se enfoca en gastos operativos diarios y liquidez inmediata, mientras que el CAPEX se centra en inversiones estrat\u00e9gicas de largo plazo.",
+          "isCorrect": true,
+          "rationale": "El OPEX cubre los costos de funcionamiento cotidiano que afectan la caja diaria, mientras que el CAPEX implica la adquisici\u00f3n de activos cuyo valor se recupera mediante el ROI."
+        },
+        {
+          "text": "El CAPEX monitorea la liquidez diaria de la operaci\u00f3n, mientras que el OPEX busca el retorno de inversi\u00f3n a trav\u00e9s de activos fijos.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n invierte los conceptos; es el OPEX el que impacta directamente en la liquidez inmediata de la organizaci\u00f3n."
+        },
+        {
+          "text": "Ambos t\u00e9rminos son sin\u00f3nimos en la gran miner\u00eda y se refieren indistintamente a la compra de maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "OPEX y CAPEX son categor\u00edas contables y operativas distintas con prop\u00f3sitos y mediciones financieras totalmente diferentes."
+        },
+        {
+          "text": "El CAPEX se refiere exclusivamente a la contrataci\u00f3n de personal externo y el OPEX a la compra de infraestructura.",
+          "isCorrect": false,
+          "rationale": "El personal operativo suele clasificarse como OPEX, mientras que la infraestructura pesada es la esencia de las inversiones CAPEX."
+        }
+      ],
+      "hint": "Piensa en cu\u00e1l de los dos t\u00e9rminos se asocia con el concepto de 'supervivencia absoluta' diaria frente a la 'planificaci\u00f3n estrat\u00e9gica'."
+    },
+    {
+      "question": "En el modelo de ejecuci\u00f3n contractual EPC (llave en mano), \u00bfcu\u00e1l es la principal ventaja para la compa\u00f1\u00eda minera?",
+      "answerOptions": [
+        {
+          "text": "Permite mantener una supervisi\u00f3n t\u00e9cnica directa y constante sobre el dise\u00f1o del contratista.",
+          "isCorrect": false,
+          "rationale": "La supervisi\u00f3n directa es caracter\u00edstica del modelo EPCM, no del EPC, donde el control es delegado al proveedor."
+        },
+        {
+          "text": "Transfiere la m\u00e1xima cantidad de riesgo al contratista y garantiza costos y tiempos fijos.",
+          "isCorrect": true,
+          "rationale": "Bajo este esquema, el proveedor asume la responsabilidad total del dise\u00f1o y construcci\u00f3n, entregando la obra lista para operar bajo t\u00e9rminos cerrados."
+        },
+        {
+          "text": "Ofrece una flexibilidad invaluable para cambiar el dise\u00f1o ante variaciones geol\u00f3gicas inesperadas.",
+          "isCorrect": false,
+          "rationale": "El EPC suele ser r\u00edgido; la flexibilidad ante cambios imprevistos es una fortaleza del modelo EPCM."
+        },
+        {
+          "text": "Elimina la necesidad de realizar licitaciones, ya que se adjudica directamente por trayectoria.",
+          "isCorrect": false,
+          "rationale": "El modelo EPC define la forma de ejecuci\u00f3n, pero no exime a la compa\u00f1\u00eda de realizar un proceso de licitaci\u00f3n para seleccionar al proveedor."
+        }
+      ],
+      "hint": "Este modelo se caracteriza por 'entregar las llaves' una vez que todo est\u00e1 terminado por el proveedor."
+    },
+    {
+      "question": "\u00bfQu\u00e9 distingue primordialmente al modelo BOT (Build, Operate, Transfer) en proyectos de alta complejidad?",
+      "answerOptions": [
+        {
+          "text": "El contratista solo se encarga del dise\u00f1o inicial y luego se retira del proyecto.",
+          "isCorrect": false,
+          "rationale": "El modelo BOT requiere que el fabricante tambi\u00e9n opere el equipo durante un tiempo determinado antes de la transferencia."
+        },
+        {
+          "text": "Es un contrato de compra directa en supermercado industrial sin fases de prueba.",
+          "isCorrect": false,
+          "rationale": "Este modelo es lo opuesto a una compra simple, ya que incluye fases extendidas de operaci\u00f3n y optimizaci\u00f3n por parte del fabricante."
+        },
+        {
+          "text": "Obliga al fabricante a operar el activo construido por un tiempo definido para demostrar su eficiencia real.",
+          "isCorrect": true,
+          "rationale": "Esta fase operativa act\u00faa como una 'prueba de fuego' donde el riesgo de falla recae en el constructor hasta que se valida el rendimiento \u00f3ptimo."
+        },
+        {
+          "text": "La compa\u00f1\u00eda minera asume la operaci\u00f3n desde el primer d\u00eda de la construcci\u00f3n del activo.",
+          "isCorrect": false,
+          "rationale": "En el BOT, es el contratista quien opera el equipo inicialmente, permitiendo que la minera reciba un activo ya optimizado."
+        }
+      ],
+      "hint": "El acr\u00f3nimo en ingl\u00e9s incluye la palabra 'Operate', lo que sugiere un compromiso del proveedor m\u00e1s all\u00e1 de la construcci\u00f3n."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 situaci\u00f3n es estrictamente necesaria una licitaci\u00f3n de tipo 'negociada'?",
+      "answerOptions": [
+        {
+          "text": "Cuando se requiere transparencia absoluta siguiendo manuales p\u00fablicos est\u00e1ndar.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n de la licitaci\u00f3n p\u00fablica, no de la negociada, que es m\u00e1s restrictiva."
+        },
+        {
+          "text": "Para la compra de suministros gen\u00e9ricos de oficina y papeler\u00eda.",
+          "isCorrect": false,
+          "rationale": "Los suministros gen\u00e9ricos no requieren los ajustes t\u00e9cnicos profundos que justifican una licitaci\u00f3n negociada."
+        },
+        {
+          "text": "Cuando se adquieren equipos de mercado muy restringido, como sistemas de molienda o cianuraci\u00f3n especializados.",
+          "isCorrect": true,
+          "rationale": "Debido a la complejidad y los ajustes t\u00e9cnicos espec\u00edficos seg\u00fan el mineral, se requiere un formato que permita afinar detalles con proveedores espec\u00edficos."
+        },
+        {
+          "text": "Siempre que se desee agilizar el proceso sin importar la trayectoria del proveedor.",
+          "isCorrect": false,
+          "rationale": "La agilidad es propia de la licitaci\u00f3n privada, pero la negociada se enfoca en la especificidad t\u00e9cnica de mercados cerrados."
+        }
+      ],
+      "hint": "Considera equipos que requieren 'ajustes t\u00e9cnicos profundos' para adaptarse a las caracter\u00edsticas del mineral."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del mecanismo de precalificaci\u00f3n de solvencia en licitaciones CAPEX?",
+      "answerOptions": [
+        {
+          "text": "Evaluar \u00fanicamente si el proveedor tiene los colores de pintura adecuados para la mina.",
+          "isCorrect": false,
+          "rationale": "La solvencia se refiere a capacidades financieras y de respaldo, no a preferencias est\u00e9ticas."
+        },
+        {
+          "text": "Asegurar que el contratista tiene el m\u00fasculo financiero para completar el proyecto sin quebrar en el proceso.",
+          "isCorrect": true,
+          "rationale": "Dado que son proyectos de larga maduraci\u00f3n, es vital confirmar que el proveedor puede sostener los costos de fabricaci\u00f3n y entrega."
+        },
+        {
+          "text": "Eliminar a todos los proveedores extranjeros para favorecer el mercado local.",
+          "isCorrect": false,
+          "rationale": "El objetivo no es la discriminaci\u00f3n geogr\u00e1fica, sino la mitigaci\u00f3n del riesgo de insolvencia financiera del postor."
+        },
+        {
+          "text": "Reducir el tiempo de la licitaci\u00f3n al m\u00ednimo para comprar el equipo m\u00e1s barato.",
+          "isCorrect": false,
+          "rationale": "La precalificaci\u00f3n es un filtro de seguridad y no necesariamente busca la velocidad o el precio m\u00e1s bajo."
+        }
+      ],
+      "hint": "Act\u00faa como un 'escudo protector' contra desastres financieros durante la fabricaci\u00f3n de activos inmensos."
+    },
+    {
+      "question": "En miner\u00eda de alta altitud, \u00bfqu\u00e9 fen\u00f3meno describe el concepto de 'derating' o rateo en maquinaria pesada?",
+      "answerOptions": [
+        {
+          "text": "Un incremento en la potencia del motor debido a la pureza del aire en las monta\u00f1as.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la altitud reduce la potencia del motor debido a la baja densidad del ox\u00edgeno."
+        },
+        {
+          "text": "La ca\u00edda dr\u00e1stica en la capacidad de rendimiento del equipo debido al estr\u00e9s de operar en entornos extremos.",
+          "isCorrect": true,
+          "rationale": "El derating compensa la p\u00e9rdida de eficiencia causada por la menor densidad del aire, que afecta la combusti\u00f3n y el enfriamiento."
+        },
+        {
+          "text": "El aumento de la vida \u00fatil de los componentes el\u00e9ctricos por las bajas temperaturas.",
+          "isCorrect": false,
+          "rationale": "La altitud puede hacer que el aislamiento el\u00e9ctrico pierda eficacia, perjudicando el desempe\u00f1o."
+        },
+        {
+          "text": "Un proceso de limpieza autom\u00e1tica del motor mediante la presi\u00f3n atmosf\u00e9rica.",
+          "isCorrect": false,
+          "rationale": "El derating es una limitaci\u00f3n f\u00edsica de rendimiento y no un proceso de mantenimiento o limpieza."
+        }
+      ],
+      "hint": "Se refiere a lo que le sucede a una m\u00e1quina dise\u00f1ada para el nivel del mar cuando es llevada a $4000$ $m$ de altitud."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afecta la baja densidad del ox\u00edgeno a $4000$ $m$ de altitud a un motor de combusti\u00f3n en la mina?",
+      "answerOptions": [
+        {
+          "text": "Provoca que el motor se sobrecaliente por exceso de ox\u00edgeno en la c\u00e1mara.",
+          "isCorrect": false,
+          "rationale": "La falta de ox\u00edgeno, no el exceso, es lo que castiga la potencia y el funcionamiento del motor."
+        },
+        {
+          "text": "Mejora el aislamiento el\u00e9ctrico de los componentes internos del motor.",
+          "isCorrect": false,
+          "rationale": "La menor densidad del aire en realidad reduce la eficacia del aislamiento el\u00e9ctrico."
+        },
+        {
+          "text": "Reduce severamente la potencia de combusti\u00f3n y desploma la capacidad de enfriamiento.",
+          "isCorrect": true,
+          "rationale": "Sin suficiente aire para quemar combustible y para disipar el calor, el motor 'se ahoga' y su eficiencia t\u00e9rmica cae."
+        },
+        {
+          "text": "Permite que los filtros de aire duren el doble de tiempo de lo normal.",
+          "isCorrect": false,
+          "rationale": "Las condiciones hostiles de altitud suelen exigir un mantenimiento m\u00e1s riguroso, no menos."
+        }
+      ],
+      "hint": "Piensa en el efecto de 'ahogamiento' que sufren las m\u00e1quinas al tener menos aire disponible para trabajar."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue el error t\u00e9cnico cr\u00edtico que mantuvo inmovilizada una locomotora en la unidad de Chuchacuaya por 5 a\u00f1os?",
+      "answerOptions": [
+        {
+          "text": "El motor de la locomotora era demasiado potente para el sistema el\u00e9ctrico de la mina.",
+          "isCorrect": false,
+          "rationale": "El problema no fue la potencia, sino una incompatibilidad f\u00edsica con las v\u00edas ferroviarias."
+        },
+        {
+          "text": "Se compr\u00f3 el equipo con especificaciones de otra mina (Orcopampa) cuya trocha o ancho de v\u00eda era diferente.",
+          "isCorrect": true,
+          "rationale": "La negligencia de no verificar las dimensiones de la infraestructura real frente a las del equipo caus\u00f3 que el tren no encajara en las v\u00edas."
+        },
+        {
+          "text": "La locomotora fue fabricada con materiales que no resist\u00edan la humedad de la zona.",
+          "isCorrect": false,
+          "rationale": "Aunque el ambiente es importante, el fallo espec\u00edfico mencionado fue de geometr\u00eda y dimensiones ferroviarias."
+        },
+        {
+          "text": "El sistema de frenado no cumpl\u00eda con las normativas internacionales de seguridad ISO.",
+          "isCorrect": false,
+          "rationale": "El error fundamental fue el ancho de las v\u00edas (trocha), un detalle de ingenier\u00eda de detalle omitido."
+        }
+      ],
+      "hint": "Involucra un 'detalle peque\u00f1ito' relacionado con el ancho de las v\u00edas ferroviarias."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia financiera tuvo el error de dise\u00f1o en la adquisici\u00f3n de la locomotora para Chuchacuaya?",
+      "answerOptions": [
+        {
+          "text": "Un ahorro del $20\\%$ al reutilizar planos de otra operaci\u00f3n minera.",
+          "isCorrect": false,
+          "rationale": "Reutilizar planos inadecuados fue la causa del error, no gener\u00f3 ahorros sino gastos masivos de reparaci\u00f3n."
+        },
+        {
+          "text": "La necesidad de reconstruir el equipo, duplicando su costo original de $\\$250,000$.",
+          "isCorrect": true,
+          "rationale": "La reconstrucci\u00f3n correctiva total cost\u00f3 lo mismo que la m\u00e1quina original, haciendo que el activo fuera el doble de caro."
+        },
+        {
+          "text": "El proveedor devolvi\u00f3 el dinero \u00edntegramente por garant\u00eda de fabricaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Dado que el error fue de especificaci\u00f3n t\u00e9cnica del cliente al comprar, el costo fue asumido por la operaci\u00f3n negligente."
+        },
+        {
+          "text": "No hubo impacto financiero ya que el equipo fue vendido a otra mina de inmediato.",
+          "isCorrect": false,
+          "rationale": "El equipo estuvo inmovilizado 5 a\u00f1os y requiri\u00f3 una inversi\u00f3n adicional de $\\$250,000$ para ser \u00fatil."
+        }
+      ],
+      "hint": "Recuerda que la 'bromita' del error de dise\u00f1o cost\u00f3 tanto como el equipo mismo."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se exigen las certificaciones ASTM y ASME en las licitaciones de activos mineros?",
+      "answerOptions": [
+        {
+          "text": "Para garantizar el cumplimiento de normativas de protecci\u00f3n ambiental y emisi\u00f3n de gases.",
+          "isCorrect": false,
+          "rationale": "El desempe\u00f1o ambiental suele regirse por normas como la EPA, no primordialmente por ASTM/ASME."
+        },
+        {
+          "text": "Para asegurar que la gesti\u00f3n de calidad administrativa de la empresa sea \u00f3ptima.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de calidad general se asocia normalmente con las normas ISO."
+        },
+        {
+          "text": "Para garantizar que los materiales y componentes soporten alt\u00edsimas presiones y exigencias f\u00edsicas.",
+          "isCorrect": true,
+          "rationale": "Estas normas t\u00e9cnicas se especializan en las propiedades de materiales y dise\u00f1o de equipos a presi\u00f3n y estructuras met\u00e1licas."
+        },
+        {
+          "text": "Para definir el color exacto de la pintura ep\u00f3xica bajo el est\u00e1ndar RAL.",
+          "isCorrect": false,
+          "rationale": "RAL es un sistema de codificaci\u00f3n de colores, distinto a los est\u00e1ndares estructurales de ASTM/ASME."
+        }
+      ],
+      "hint": "Estas normas se enfocan en la resistencia f\u00edsica de los materiales y componentes cr\u00edticos."
+    },
+    {
+      "question": "En el c\u00e1lculo del Costo Total de Propiedad (TCO), \u00bfcu\u00e1l es el riesgo de basarse \u00fanicamente en el precio nominal de adquisici\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Que el equipo m\u00e1s barato inicialmente suele esconder los costos operativos m\u00e1s altos a largo plazo.",
+          "isCorrect": true,
+          "rationale": "El TCO revela que un bajo precio de compra puede verse superado r\u00e1pidamente por gastos excesivos en energ\u00eda y repuestos."
+        },
+        {
+          "text": "Que el departamento de finanzas no pueda registrar la compra en el balance anual.",
+          "isCorrect": false,
+          "rationale": "El registro contable es independiente de la metodolog\u00eda de evaluaci\u00f3n t\u00e9cnica del activo."
+        },
+        {
+          "text": "Que el proveedor ofrezca una garant\u00eda de resultados demasiado extensa y costosa.",
+          "isCorrect": false,
+          "rationale": "La garant\u00eda de resultados es un beneficio estrat\u00e9gico, no un riesgo oculto del precio bajo."
+        },
+        {
+          "text": "Que el costo de disposici\u00f3n final sea inexistente y genere ganancias inesperadas.",
+          "isCorrect": false,
+          "rationale": "La disposici\u00f3n final suele ser un costo (gasto) y no una fuente de ingresos omitida."
+        }
+      ],
+      "hint": "Considera la relaci\u00f3n entre el 'ahorro inicial' del $15\\%$ y el impacto en los gastos durante los siguientes 10 o 15 a\u00f1os."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los cuatro pasos esenciales para proyectar financieramente un TCO completo?",
+      "answerOptions": [
+        {
+          "text": "Dise\u00f1o inicial, transporte, seguros y puesta en marcha.",
+          "isCorrect": false,
+          "rationale": "Aunque son costos, el TCO estrat\u00e9gico se centra en el ciclo de vida: inversi\u00f3n, energ\u00eda, mantenimiento y disposici\u00f3n."
+        },
+        {
+          "text": "Inversi\u00f3n inicial, costos de energ\u00eda, mantenimiento (repuestos por 2 a\u00f1os) y disposici\u00f3n final.",
+          "isCorrect": true,
+          "rationale": "Estos cuatro componentes permiten ver el flujo de caja completo del activo desde su compra hasta su retiro."
+        },
+        {
+          "text": "Precio de lista, impuestos locales, capacitaci\u00f3n y auditor\u00eda externa.",
+          "isCorrect": false,
+          "rationale": "Estos elementos son parciales y no cubren los pilares de consumo y sostenibilidad del activo a largo plazo."
+        },
+        {
+          "text": "Marketing del proyecto, relaciones comunitarias, log\u00edstica de entrega y pintura.",
+          "isCorrect": false,
+          "rationale": "El TCO t\u00e9cnico-minero se enfoca en la eficiencia operativa y t\u00e9cnica del equipo mismo."
+        }
+      ],
+      "hint": "Incluye desde el pago inicial hasta lo que sucede cuando el equipo termina su vida \u00fatil."
+    },
+    {
+      "question": "En una matriz de ponderaci\u00f3n criterial 50/50, \u00bfqu\u00e9 porcentaje de la evaluaci\u00f3n t\u00e9cnica se asigna t\u00edpicamente a las caracter\u00edsticas del equipo mec\u00e1nico?",
+      "answerOptions": [
+        {
+          "text": "$15\\%$",
+          "isCorrect": false,
+          "rationale": "El $15\\%$ se destina usualmente a eficiencia energ\u00e9tica y sostenibilidad, no al equipo mec\u00e1nico principal."
+        },
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "El $10\\%$ se asigna a gesti\u00f3n de empresa o tiempo de entrega dentro del bloque t\u00e9cnico."
+        },
+        {
+          "text": "$65\\%$",
+          "isCorrect": true,
+          "rationale": "La mayor parte del peso t\u00e9cnico recae en las especificaciones y rendimiento del equipo mismo para asegurar la operatividad."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "El $50\\%$ es el peso de todo el bloque t\u00e9cnico frente al econ\u00f3mico, pero dentro del t\u00e9cnico, el equipo pesa m\u00e1s."
+        }
+      ],
+      "hint": "Es el componente con mayor peso dentro del bloque t\u00e9cnico, superando ampliamente a la gesti\u00f3n o la entrega."
+    },
+    {
+      "question": "\u00bfC\u00f3mo ayuda la Inteligencia Artificial (IA) en la auditor\u00eda de salud financiera de los proveedores?",
+      "answerOptions": [
+        {
+          "text": "Calculando autom\u00e1ticamente el color de pintura m\u00e1s resistente para la mina.",
+          "isCorrect": false,
+          "rationale": "La IA en este contexto tiene fines anal\u00edticos financieros, no est\u00e9ticos o de materiales b\u00e1sicos."
+        },
+        {
+          "text": "Detectando anticipadamente riesgos de quiebra cruzando reportes de cr\u00e9dito de instituciones reconocidas.",
+          "isCorrect": true,
+          "rationale": "La IA puede procesar grandes vol\u00famenes de datos financieros para alertar si un proveedor podr\u00eda volverse insolvente durante la fabricaci\u00f3n."
+        },
+        {
+          "text": "Reemplazando totalmente a los ingenieros en la fase de dise\u00f1o t\u00e9cnico de la maquinaria.",
+          "isCorrect": false,
+          "rationale": "El rol de la IA mencionado es de auditor\u00eda y normalizaci\u00f3n, no de sustituci\u00f3n completa de la ingenier\u00eda humana."
+        },
+        {
+          "text": "Eliminando la necesidad de solicitar garant\u00edas o cartas fianza contractuales.",
+          "isCorrect": false,
+          "rationale": "La IA es una herramienta de evaluaci\u00f3n; las protecciones contractuales siguen siendo necesarias para mitigar riesgos."
+        }
+      ],
+      "hint": "Su funci\u00f3n es evitar que un contratista se declare insolvente a mitad de construir un equipo multimillonario."
+    },
+    {
+      "question": "En el control de calidad de soldaduras, \u00bfqu\u00e9 significan las siglas WPS y PQR?",
+      "answerOptions": [
+        {
+          "text": "Son protocolos de seguridad para el transporte de materiales peligrosos.",
+          "isCorrect": false,
+          "rationale": "Estas siglas se refieren espec\u00edficamente a procesos de soldadura t\u00e9cnica en estructuras."
+        },
+        {
+          "text": "Especificaciones de procedimiento de soldadura y su registro de calificaci\u00f3n respectivo.",
+          "isCorrect": true,
+          "rationale": "El WPS define c\u00f3mo soldar y el PQR documenta las pruebas que validan que ese procedimiento funciona."
+        },
+        {
+          "text": "Sistemas de pintura r\u00e1pida y protecci\u00f3n qu\u00edmica de superficies.",
+          "isCorrect": false,
+          "rationale": "Los sistemas de pintura se rigen por est\u00e1ndares como RAL o ep\u00f3xicos, no por WPS/PQR."
+        },
+        {
+          "text": "Certificados de origen de las planchas de acero utilizadas en la mina.",
+          "isCorrect": false,
+          "rationale": "Aunque est\u00e1n relacionados con la trazabilidad, WPS/PQR se enfocan en la uni\u00f3n (soldadura) y no solo en el material base."
+        }
+      ],
+      "hint": "Tienen que ver con la aprobaci\u00f3n t\u00e9cnica de c\u00f3mo se unen los metales en el taller de fabricaci\u00f3n."
+    },
+    {
+      "question": "\u00bfHasta qu\u00e9 nivel debe llegar la exigencia de trazabilidad en el dossier de calidad de estructuras cr\u00edticas?",
+      "answerOptions": [
+        {
+          "text": "Solo es necesario conocer el nombre de la empresa que vendi\u00f3 el acero.",
+          "isCorrect": false,
+          "rationale": "La trazabilidad superficial no garantiza la integridad de componentes que enfrentan condiciones severas."
+        },
+        {
+          "text": "Debe documentarse hasta el origen exacto del m\u00e1s m\u00ednimo electrodo usado en cada cord\u00f3n de soldadura.",
+          "isCorrect": true,
+          "rationale": "Este nivel de detalle microsc\u00f3pico asegura que no existan debilidades en las uniones estructurales por materiales defectuosos."
+        },
+        {
+          "text": "La trazabilidad es opcional si el proveedor tiene m\u00e1s de 20 a\u00f1os en el mercado.",
+          "isCorrect": false,
+          "rationale": "La trayectoria no reemplaza la documentaci\u00f3n t\u00e9cnica rigurosa; la calidad no es negociable seg\u00fan el prestigio."
+        },
+        {
+          "text": "Solo se requiere trazabilidad para los componentes externos visibles del equipo.",
+          "isCorrect": false,
+          "rationale": "Las estructuras internas y uniones cr\u00edticas son las que m\u00e1s requieren trazabilidad por seguridad operativa."
+        }
+      ],
+      "hint": "No basta con los certificados de las planchas de acero; hay que ir al componente m\u00e1s peque\u00f1o del proceso de uni\u00f3n."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se consideran vitales los 'tintes penetrantes' en los ensayos no destructivos (END)?",
+      "answerOptions": [
+        {
+          "text": "Sirven para dar un acabado est\u00e9tico m\u00e1s brillante a las soldaduras finales.",
+          "isCorrect": false,
+          "rationale": "Los tintes penetrantes son una herramienta de inspecci\u00f3n t\u00e9cnica, no un acabado decorativo."
+        },
+        {
+          "text": "Eliminan la necesidad de usar rayos X o ultrasonido en la fase de inspecci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Son solo el primer paso de una secuencia l\u00f3gica que incluye otros ensayos m\u00e1s profundos."
+        },
+        {
+          "text": "Revelan microfisuras superficiales que el ojo humano desnudo es incapaz de detectar.",
+          "isCorrect": true,
+          "rationale": "En entornos de alta vibraci\u00f3n, detectar estas fisuras a tiempo previene fallas catastr\u00f3ficas futuras."
+        },
+        {
+          "text": "Son utilizados para medir el grosor de la pintura ep\u00f3xica aplicada.",
+          "isCorrect": false,
+          "rationale": "Existen otras herramientas para medir el espesor de pintura; los tintes buscan defectos en la integridad del metal."
+        }
+      ],
+      "hint": "Lo que hoy parece una peque\u00f1a fisura imperceptible, ma\u00f1ana puede ser una rotura total bajo vibraci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito del proceso de granallado o 'blasting' antes de pintar un equipo?",
+      "answerOptions": [
+        {
+          "text": "Limpiar superficialmente el polvo acumulado tras la fabricaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El blasting es un proceso de limpieza profunda y preparaci\u00f3n de perfil, no solo una limpieza superficial."
+        },
+        {
+          "text": "Preparar el escenario microsc\u00f3pico ideal para que la pintura ep\u00f3xica se adhiera correctamente.",
+          "isCorrect": true,
+          "rationale": "Asegura una superficie rugosa y limpia seg\u00fan est\u00e1ndares internacionales para maximizar la resistencia a la corrosi\u00f3n."
+        },
+        {
+          "text": "Calentar el metal para que la soldadura sea m\u00e1s resistente al desgaste.",
+          "isCorrect": false,
+          "rationale": "El granallado es un proceso mec\u00e1nico de impacto y no un tratamiento t\u00e9rmico para soldadura."
+        },
+        {
+          "text": "Es una prueba de presi\u00f3n para verificar que el equipo no tenga fugas de aire.",
+          "isCorrect": false,
+          "rationale": "La prueba de presi\u00f3n es un ensayo distinto; el granallado se enfoca exclusivamente en la preparaci\u00f3n de superficie."
+        }
+      ],
+      "hint": "No es para que luzca bien, sino para asegurar una resistencia a la corrosi\u00f3n de 'vida o muerte'."
+    },
+    {
+      "question": "En la evaluaci\u00f3n final de una licitaci\u00f3n, \u00bfqu\u00e9 significa 'normalizaci\u00f3n automatizada' mediante IA?",
+      "answerOptions": [
+        {
+          "text": "Eliminar de ra\u00edz el error humano al transcribir y comparar ofertas complej\u00edsimas.",
+          "isCorrect": true,
+          "rationale": "La IA permite poner en igualdad de condiciones t\u00e9cnicas y econ\u00f3micas las distintas propuestas, ahorrando d\u00edas de digitaci\u00f3n manual."
+        },
+        {
+          "text": "Aceptar autom\u00e1ticamente la oferta con el precio m\u00e1s bajo sin revisi\u00f3n humana.",
+          "isCorrect": false,
+          "rationale": "La normalizaci\u00f3n busca equidad y precisi\u00f3n en la comparaci\u00f3n, no la adjudicaci\u00f3n autom\u00e1tica por precio."
+        },
+        {
+          "text": "Traducir los manuales de usuario de los equipos a todos los idiomas de la regi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La normalizaci\u00f3n en licitaciones se refiere a la homogeneizaci\u00f3n de datos para su an\u00e1lisis, no a la traducci\u00f3n de manuales."
+        },
+        {
+          "text": "Sustituir las normas ISO por algoritmos propietarios del proveedor.",
+          "isCorrect": false,
+          "rationale": "Las normas internacionales son requisitos inamovibles; la IA solo ayuda a verificar su cumplimiento y comparar datos."
+        }
+      ],
+      "hint": "Su objetivo es ahorrar d\u00edas de 'tediosa digitaci\u00f3n manual' y evitar fallos al comparar datos de diferentes postores."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de estos pilares estrat\u00e9gicos debe estar alineado para lograr el \u00e9xito en una adquisici\u00f3n CAPEX?",
+      "answerOptions": [
+        {
+          "text": "Log\u00edstica, finanzas, operaciones e ingenier\u00eda.",
+          "isCorrect": true,
+          "rationale": "El \u00e9xito CAPEX exige una integraci\u00f3n multidisciplinaria total para asegurar que la compra sea rentable y t\u00e9cnicamente viable."
+        },
+        {
+          "text": "Recursos humanos, marketing, ventas y relaciones p\u00fablicas.",
+          "isCorrect": false,
+          "rationale": "Aunque importantes, en la gran miner\u00eda de alta complejidad, los pilares t\u00e9cnicos y financieros directos son los cr\u00edticos para activos pesados."
+        },
+        {
+          "text": "Legal, mantenimiento, contabilidad y suministros de oficina.",
+          "isCorrect": false,
+          "rationale": "Esta combinaci\u00f3n es demasiado administrativa y omite la parte de ingenier\u00eda y operaciones necesaria para la ejecuci\u00f3n estrat\u00e9gica."
+        },
+        {
+          "text": "Operaciones, transporte de personal, catering y servicios m\u00e9dicos.",
+          "isCorrect": false,
+          "rationale": "Estos son servicios de soporte (OPEX) y no representan los pilares estrat\u00e9gicos de una inversi\u00f3n de capital de infraestructura."
+        }
+      ],
+      "hint": "Considera los departamentos que interact\u00faan desde el dise\u00f1o t\u00e9cnico hasta la aprobaci\u00f3n del flujo de caja."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Diferencias entre OPEX y CAPEX",
+      "Modelos contractuales (EPC, EPCM, BOT)",
+      "Tipos de licitaciones mineras",
+      "Ingenier\u00eda de detalle y efectos de altitud (Derating)",
+      "Evaluaci\u00f3n financiera mediante TCO",
+      "Est\u00e1ndares internacionales de calidad (ISO, ASME, AWS)",
+      "Uso de IA en procesos de licitaci\u00f3n",
+      "Control de calidad en fabricaci\u00f3n y soldadura"
+    ],
+    "followUp": [
+      "Mitigaci\u00f3n contractual mediante cartas fianza y penalidades",
+      "Protocolos de apertura de sobres auditables",
+      "An\u00e1lisis de fallas sist\u00e9micas por errores de dise\u00f1o geom\u00e9trico",
+      "Sistemas de protecci\u00f3n ep\u00f3xica y est\u00e1ndares RAL",
+      "Metodolog\u00edas de ensayos no destructivos (END) avanzados"
+    ]
+  }
+}

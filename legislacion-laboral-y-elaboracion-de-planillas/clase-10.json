@@ -1,0 +1,538 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del T-Registro dentro del sistema de la planilla electr\u00f3nica?",
+      "answerOptions": [
+        {
+          "text": "Calcular al centavo las obligaciones financieras y tributarias del mes.",
+          "isCorrect": false,
+          "rationale": "Esta funci\u00f3n corresponde espec\u00edficamente al PDT Plame, que act\u00faa como el motor de c\u00e1lculo de la n\u00f3mina."
+        },
+        {
+          "text": "Gestionar el padr\u00f3n de trabajadores, pensionistas, practicantes y terceros.",
+          "isCorrect": true,
+          "rationale": "El T-Registro es la base fundacional donde se administra la informaci\u00f3n b\u00e1sica de todos los prestadores de servicios."
+        },
+        {
+          "text": "Emitir los tickets de pago para las Administradoras de Fondos de Pensiones.",
+          "isCorrect": false,
+          "rationale": "La emisi\u00f3n de tickets de pago previsional es una tarea operativa propia de la plataforma AFPnet."
+        },
+        {
+          "text": "Declarar la deuda determinativa ante la SUNAT mediante el archivo comprimido.",
+          "isCorrect": false,
+          "rationale": "La declaraci\u00f3n y reconocimiento de la deuda tributaria es el paso final realizado a trav\u00e9s del receptor PDT."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 herramienta sirve como base de datos o registro inicial de personal."
+    },
+    {
+      "question": "En la importaci\u00f3n masiva mediante el Anexo 3, \u00bfqu\u00e9 formato debe tener obligatoriamente la columna B referida al n\u00famero de documento?",
+      "answerOptions": [
+        {
+          "text": "Num\u00e9rico",
+          "isCorrect": false,
+          "rationale": "El formato num\u00e9rico eliminar\u00eda autom\u00e1ticamente los ceros a la izquierda, invalidando la identificaci\u00f3n de muchos documentos."
+        },
+        {
+          "text": "General",
+          "isCorrect": false,
+          "rationale": "El formato general no garantiza la conservaci\u00f3n de caracteres espec\u00edficos como el cero inicial en los n\u00fameros de documento."
+        },
+        {
+          "text": "Texto",
+          "isCorrect": true,
+          "rationale": "Configurar la columna como texto asegura que el sistema reconozca todos los d\u00edgitos, incluyendo el 'enemigo silencioso': el cero a la izquierda."
+        },
+        {
+          "text": "Contabilidad",
+          "isCorrect": false,
+          "rationale": "Este formato est\u00e1 dise\u00f1ado para valores monetarios y no es apto para la estructura de identificaci\u00f3n de personas."
+        }
+      ],
+      "hint": "Recuerde el problema que ocurre con el cero a la izquierda en las hojas de c\u00e1lculo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia directa de no sincronizar un cese laboral en el T-Registro antes de procesar el Plame?",
+      "answerOptions": [
+        {
+          "text": "El sistema bloquea autom\u00e1ticamente la carga de toda la planilla mensual.",
+          "isCorrect": false,
+          "rationale": "El sistema no se bloquea, pero proyectar\u00e1 informaci\u00f3n err\u00f3nea sobre trabajadores que ya no pertenecen a la empresa."
+        },
+        {
+          "text": "Se genera un c\u00e1lculo de ESSALUD por un trabajador inexistente, afectando la liquidez.",
+          "isCorrect": true,
+          "rationale": "Al no registrar el cese, el sistema asume que el v\u00ednculo sigue vigente y calcula aportes patronales innecesarios."
+        },
+        {
+          "text": "El trabajador pierde autom\u00e1ticamente todos sus a\u00f1os de aportes previsionales.",
+          "isCorrect": false,
+          "rationale": "La falta de sincronizaci\u00f3n administrativa no elimina el historial previsional ya acumulado por el empleado."
+        },
+        {
+          "text": "Se inhabilita la clave SOL del empleador por datos inconsistentes.",
+          "isCorrect": false,
+          "rationale": "Si bien genera multas por datos falsos, no produce la inhabilitaci\u00f3n inmediata del acceso al portal de SUNAT."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede con los pagos de seguridad social si el sistema cree que el empleado a\u00fan labora."
+    },
+    {
+      "question": "\u00bfC\u00f3mo debe establecerse la valoraci\u00f3n de la remuneraci\u00f3n en especie, como el almuerzo diario, en el PDT Plame?",
+      "answerOptions": [
+        {
+          "text": "Debe ser un valor estimado libremente por el departamento de recursos humanos.",
+          "isCorrect": false,
+          "rationale": "La valoraci\u00f3n no puede ser aleatoria o inventada; requiere un sustento legal o t\u00e9cnico espec\u00edfico."
+        },
+        {
+          "text": "Por acuerdo formal entre las partes o seg\u00fan par\u00e1metros del Instituto Nacional de Alimentaci\u00f3n y Nutrici\u00f3n.",
+          "isCorrect": true,
+          "rationale": "El aplicativo exige una base objetiva, ya sea mediante contrato o siguiendo los est\u00e1ndares de nutrici\u00f3n oficiales."
+        },
+        {
+          "text": "Utilizando siempre el $10\\%$ de la Remuneraci\u00f3n M\u00ednima Vital como monto fijo.",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es caracter\u00edstico de la asignaci\u00f3n familiar, no de la valoraci\u00f3n de bienes o servicios en especie."
+        },
+        {
+          "text": "Aplicando el valor comercial del mercado minorista vigente al cierre del mes.",
+          "isCorrect": false,
+          "rationale": "Aunque el mercado es una referencia, la norma se\u00f1ala espec\u00edficamente el acuerdo o los par\u00e1metros del INAN."
+        }
+      ],
+      "hint": "Busque las entidades o acuerdos que otorgan validez legal a un monto no monetario."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el recargo legal aplicado a la remuneraci\u00f3n por la tercera hora de sobretiempo en adelante?",
+      "answerOptions": [
+        {
+          "text": "$25\\%$",
+          "isCorrect": false,
+          "rationale": "El recargo del $25\\%$ se reserva exclusivamente para las dos primeras horas de trabajo extra."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es un monto com\u00fan en convenios colectivos, la tasa legal m\u00ednima a partir de la tercera hora es distinta."
+        },
+        {
+          "text": "$35\\%$",
+          "isCorrect": true,
+          "rationale": "La normativa establece que a partir de la tercera hora extra, el recargo sobre el valor de la hora ordinaria aumenta al $35\\%$."
+        },
+        {
+          "text": "$100\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje suele aplicarse a trabajos en feriados o d\u00edas de descanso, no al sobretiempo ordinario diario."
+        }
+      ],
+      "hint": "Diferencie entre el recargo de las horas iniciales y las horas excedentes."
+    },
+    {
+      "question": "Para calcular el valor de la hora ordinaria de un trabajador, \u00bfcu\u00e1l es el divisor correcto para el sueldo mensual?",
+      "answerOptions": [
+        {
+          "text": "31 d\u00edas, por ser el mes calendario m\u00e1ximo.",
+          "isCorrect": false,
+          "rationale": "Para efectos laborales y comerciales, se estandariza el mes en una cantidad fija de d\u00edas."
+        },
+        {
+          "text": "20 d\u00edas, que representan los d\u00edas laborables promedio.",
+          "isCorrect": false,
+          "rationale": "El c\u00e1lculo del valor d\u00eda debe considerar el mes comercial completo, incluyendo los descansos remunerados."
+        },
+        {
+          "text": "30 d\u00edas para obtener el valor diario y luego entre las horas de la jornada.",
+          "isCorrect": true,
+          "rationale": "El m\u00e9todo est\u00e1ndar divide el sueldo entre 30 d\u00edas y el resultado entre el n\u00famero de horas de la jornada diaria."
+        },
+        {
+          "text": "240 horas directamente.",
+          "isCorrect": false,
+          "rationale": "Este c\u00e1lculo asume una jornada de 8 horas por 30 d\u00edas, pero la norma exige hallar primero el valor diario."
+        }
+      ],
+      "hint": "Piense en la cantidad de d\u00edas que se usa convencionalmente en el mes comercial."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el tratamiento laboral de los vi\u00e1ticos y condiciones de trabajo en el sector privado?",
+      "answerOptions": [
+        {
+          "text": "Son conceptos remunerativos porque forman parte del ingreso mensual.",
+          "isCorrect": false,
+          "rationale": "No son remunerativos porque no constituyen una ventaja patrimonial para el trabajador, sino una herramienta de labor."
+        },
+        {
+          "text": "Se consideran conceptos no remunerativos ya que no enriquecen al trabajador.",
+          "isCorrect": true,
+          "rationale": "Al ser gastos necesarios para ejercer el puesto, no incrementan el patrimonio personal del empleado y no est\u00e1n sujetos a aportes."
+        },
+        {
+          "text": "Est\u00e1n afectos \u00fanicamente a la retenci\u00f3n de la ONP o AFP.",
+          "isCorrect": false,
+          "rationale": "Al no ser remunerativos, est\u00e1n exentos de retenciones previsionales y de seguridad social."
+        },
+        {
+          "text": "Deben registrarse obligatoriamente en el rubro 2000 del PDT Plame.",
+          "isCorrect": false,
+          "rationale": "El rubro 2000 es de uso restringido exclusivo para las entidades del sector p\u00fablico."
+        }
+      ],
+      "hint": "Eval\u00fae si estos conceptos representan una ganancia libre para el empleado o una necesidad de la tarea."
+    },
+    {
+      "question": "\u00bfBajo qu\u00e9 principio deben declararse las gratificaciones en el mes en que son legalmente exigibles, independientemente de su pago?",
+      "answerOptions": [
+        {
+          "text": "Principio de lo percibido",
+          "isCorrect": false,
+          "rationale": "Este principio se basa en el momento real del flujo de caja, no en el momento de la obligaci\u00f3n legal."
+        },
+        {
+          "text": "Principio de causalidad",
+          "isCorrect": false,
+          "rationale": "Este concepto se refiere a la relaci\u00f3n entre los gastos y la generaci\u00f3n de renta, no al momento del registro."
+        },
+        {
+          "text": "Principio del devengue",
+          "isCorrect": true,
+          "rationale": "El devengue exige que los ingresos y gastos se reconozcan cuando nace la obligaci\u00f3n, sin importar si el dinero ha salido o no."
+        },
+        {
+          "text": "Principio de primac\u00eda de la realidad",
+          "isCorrect": false,
+          "rationale": "Este principio se usa para determinar la naturaleza de una relaci\u00f3n laboral frente a formas contractuales externas."
+        }
+      ],
+      "hint": "Considere el t\u00e9rmino contable que define el registro de obligaciones por su fecha de exigibilidad."
+    },
+    {
+      "question": "En la proyecci\u00f3n de Renta de Quinta Categor\u00eda, \u00bfcu\u00e1ntas Unidades Impositivas Tributarias (UIT) se deducen de la remuneraci\u00f3n bruta anual?",
+      "answerOptions": [
+        {
+          "text": "5 UIT",
+          "isCorrect": false,
+          "rationale": "La escala de 5 UIT se utiliza para definir el primer tramo de la tasa impositiva, no la deducci\u00f3n base."
+        },
+        {
+          "text": "7 UIT",
+          "isCorrect": true,
+          "rationale": "La ley permite restar 7 UIT del total de ingresos anuales proyectados para obtener la base imponible sobre la cual se calcula el impuesto."
+        },
+        {
+          "text": "3 UIT",
+          "isCorrect": false,
+          "rationale": "Existe una deducci\u00f3n adicional de hasta 3 UIT por gastos espec\u00edficos, pero la base general inamovible es mayor."
+        },
+        {
+          "text": "10 UIT",
+          "isCorrect": false,
+          "rationale": "Este monto no corresponde a las deducciones est\u00e1ndar para rentas de quinta categor\u00eda."
+        }
+      ],
+      "hint": "Recuerde el beneficio tributario fijo que reduce la base imponible de todos los trabajadores dependientes."
+    },
+    {
+      "question": "Si un trabajador tiene una renta imponible anual de $25,550$ soles y esta no supera las 5 UIT, \u00bfqu\u00e9 tasa de impuesto se aplica?",
+      "answerOptions": [
+        {
+          "text": "$8\\%$",
+          "isCorrect": true,
+          "rationale": "Para el primer tramo de la renta neta imponible (hasta las primeras 5 UIT), la tasa establecida es del $8\\%$."
+        },
+        {
+          "text": "$14\\%$",
+          "isCorrect": false,
+          "rationale": "La tasa del $14\\%$ corresponde al segundo tramo de la escala progresiva del impuesto a la renta."
+        },
+        {
+          "text": "$13\\%$",
+          "isCorrect": false,
+          "rationale": "El $13\\%$ es el porcentaje de retenci\u00f3n para el Sistema Nacional de Pensiones (ONP), no una tasa de renta de quinta."
+        },
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Esta tasa no forma parte de la escala progresiva acumulativa para personas naturales con rentas de quinta categor\u00eda."
+        }
+      ],
+      "hint": "Piense en el porcentaje inicial de la escala progresiva acumulativa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la f\u00f3rmula para calcular el descuento por cada minuto de tardanza de un trabajador?",
+      "answerOptions": [
+        {
+          "text": "Sueldo / 30 / 24",
+          "isCorrect": false,
+          "rationale": "Dividir entre 24 asume las horas de un d\u00eda completo, no la jornada laboral efectiva del trabajador."
+        },
+        {
+          "text": "Sueldo / 30 / 8 / 60",
+          "isCorrect": true,
+          "rationale": "Se debe obtener el valor d\u00eda, luego el valor hora seg\u00fan la jornada (ej. 8 horas) y finalmente dividir entre 60 minutos."
+        },
+        {
+          "text": "Sueldo / 3600",
+          "isCorrect": false,
+          "rationale": "Esta cifra no representa ninguna relaci\u00f3n l\u00f3gica entre los d\u00edas del mes y los minutos de trabajo."
+        },
+        {
+          "text": "Sueldo / 15 / 60",
+          "isCorrect": false,
+          "rationale": "Dividir el sueldo entre 15 no es el est\u00e1ndar para hallar el valor diario en un mes comercial de 30 d\u00edas."
+        }
+      ],
+      "hint": "Considere la cadena de divisiones necesaria para llegar desde el sueldo mensual hasta la unidad m\u00ednima de tiempo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 regla define el monto a pagar por Asignaci\u00f3n Familiar?",
+      "answerOptions": [
+        {
+          "text": "El $10\\%$ del sueldo b\u00e1sico pactado en el contrato.",
+          "isCorrect": false,
+          "rationale": "El beneficio es independiente de la magnitud del sueldo b\u00e1sico; se basa en un par\u00e1metro legal externo."
+        },
+        {
+          "text": "Un importe variable seg\u00fan el n\u00famero de hijos menores de edad.",
+          "isCorrect": false,
+          "rationale": "La ley otorga un monto fijo independientemente de si el trabajador tiene uno o m\u00e1s hijos."
+        },
+        {
+          "text": "El $10\\%$ de la Remuneraci\u00f3n M\u00ednima Vital vigente.",
+          "isCorrect": true,
+          "rationale": "La norma establece que el beneficio equivale al $10\\%$ de la RMV, lo que genera un importe constante para todos los que califican."
+        },
+        {
+          "text": "El $13\\%$ de la base asegurable declarada en el Plame.",
+          "isCorrect": false,
+          "rationale": "Ese porcentaje corresponde a la retenci\u00f3n del sistema de pensiones ONP."
+        }
+      ],
+      "hint": "Relacione este beneficio con el sueldo m\u00ednimo legal, no con el sueldo del trabajador."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el periodo de vigencia de la declaraci\u00f3n jurada firmada para concretar el registro de una empresa en AFPnet?",
+      "answerOptions": [
+        {
+          "text": "30 d\u00edas",
+          "isCorrect": false,
+          "rationale": "Treinta d\u00edas es un plazo insuficiente seg\u00fan los protocolos de seguridad de la plataforma previsional."
+        },
+        {
+          "text": "60 d\u00edas",
+          "isCorrect": true,
+          "rationale": "La declaraci\u00f3n jurada tiene una validez estricta de 60 d\u00edas para completar el proceso de registro organizacional."
+        },
+        {
+          "text": "90 d\u00edas",
+          "isCorrect": false,
+          "rationale": "Noventa d\u00edas es el plazo para el cambio de contrase\u00f1a, no para la vigencia del documento de registro."
+        },
+        {
+          "text": "Un a\u00f1o fiscal",
+          "isCorrect": false,
+          "rationale": "Los controles de acceso requieren una actualizaci\u00f3n mucho m\u00e1s frecuente que un periodo anual."
+        }
+      ],
+      "hint": "Diferencie entre el plazo para la clave y el plazo para el documento de inscripci\u00f3n."
+    },
+    {
+      "question": "En la plataforma AFPnet, \u00bfcon qu\u00e9 frecuencia es obligatorio realizar el cambio de contrase\u00f1a para todos los usuarios?",
+      "answerOptions": [
+        {
+          "text": "Cada 30 d\u00edas",
+          "isCorrect": false,
+          "rationale": "Aunque es una buena pr\u00e1ctica de seguridad, el sistema no exige la rotaci\u00f3n de claves de forma mensual."
+        },
+        {
+          "text": "Cada 90 d\u00edas",
+          "isCorrect": true,
+          "rationale": "Como protocolo de seguridad no negociable, el sistema obliga a renovar las contrase\u00f1as cada tres meses."
+        },
+        {
+          "text": "Cada 6 meses",
+          "isCorrect": false,
+          "rationale": "Esperar medio a\u00f1o dejar\u00eda el acceso vulnerable por demasiado tiempo seg\u00fan los est\u00e1ndares de la plataforma."
+        },
+        {
+          "text": "Solo cuando el administrador Admin 001 lo solicite.",
+          "isCorrect": false,
+          "rationale": "El cambio de contrase\u00f1a es una directiva autom\u00e1tica del sistema y no depende de la voluntad del administrador."
+        }
+      ],
+      "hint": "Piense en un periodo trimestral de actualizaci\u00f3n de seguridad."
+    },
+    {
+      "question": "\u00bfQu\u00e9 c\u00f3digo de excepci\u00f3n debe utilizarse en el formato de AFPnet para reportar una licencia sin goce de haber?",
+      "answerOptions": [
+        {
+          "text": "U",
+          "isCorrect": false,
+          "rationale": "La letra 'U' se utiliza espec\u00edficamente para identificar periodos de subsidios en la planilla \u00fanica."
+        },
+        {
+          "text": "J",
+          "isCorrect": false,
+          "rationale": "La letra 'J' est\u00e1 reservada para los casos de trabajadores en situaci\u00f3n de jubilaci\u00f3n."
+        },
+        {
+          "text": "L",
+          "isCorrect": true,
+          "rationale": "La letra 'L' es el indicador obligatorio para se\u00f1alar que no hubo remuneraci\u00f3n debido a una licencia sin goce."
+        },
+        {
+          "text": "S",
+          "isCorrect": false,
+          "rationale": "Este c\u00f3digo no forma parte de las excepciones est\u00e1ndar mencionadas para la estructura del archivo previsional."
+        }
+      ],
+      "hint": "Relacione el c\u00f3digo con la primera letra de la palabra que describe el permiso."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la tasa fija de retenci\u00f3n para un trabajador afiliado al Sistema Nacional de Pensiones (ONP)?",
+      "answerOptions": [
+        {
+          "text": "El $10\\%$ de la remuneraci\u00f3n asegurable.",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es la base del aporte al fondo en el sistema privado (AFP), no en el estatal."
+        },
+        {
+          "text": "El $13\\%$ de la remuneraci\u00f3n asegurable.",
+          "isCorrect": true,
+          "rationale": "La ONP exige una retenci\u00f3n \u00fanica e inamovible del $13\\%$ para alimentar la bolsa com\u00fan solidaria."
+        },
+        {
+          "text": "El $9\\%$ del costo laboral total.",
+          "isCorrect": false,
+          "rationale": "El $9\\%$ es el aporte que realiza el empleador por concepto de ESSALUD."
+        },
+        {
+          "text": "Un porcentaje variable seg\u00fan la comisi\u00f3n de la gestora.",
+          "isCorrect": false,
+          "rationale": "A diferencia del sistema privado, la tasa de la ONP es fija y no depende de comisiones o seguros."
+        }
+      ],
+      "hint": "Busque el porcentaje que se destina al fondo com\u00fan solidario estatal."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los requisitos base para acceder a una pensi\u00f3n ordinaria en la ONP?",
+      "answerOptions": [
+        {
+          "text": "60 a\u00f1os de edad y 15 a\u00f1os de aportes.",
+          "isCorrect": false,
+          "rationale": "Estos par\u00e1metros son inferiores a la regla de oro establecida para el r\u00e9gimen estatal general."
+        },
+        {
+          "text": "65 a\u00f1os de edad y un m\u00ednimo de 20 a\u00f1os de aportes comprobables.",
+          "isCorrect": true,
+          "rationale": "El sistema exige alcanzar la edad de 65 a\u00f1os y haber contribuido al menos durante dos d\u00e9cadas al fondo com\u00fan."
+        },
+        {
+          "text": "50 a\u00f1os de edad y 25 a\u00f1os de aportes.",
+          "isCorrect": false,
+          "rationale": "Esta configuraci\u00f3n corresponde a la figura de la pensi\u00f3n adelantada, no a la ordinaria."
+        },
+        {
+          "text": "No existe edad m\u00ednima si se han acumulado 30 a\u00f1os de aportes.",
+          "isCorrect": false,
+          "rationale": "El sistema nacional siempre requiere el cumplimiento de una edad m\u00ednima para el cese por jubilaci\u00f3n."
+        }
+      ],
+      "hint": "Considere la 'regla de oro' que combina una edad de retiro est\u00e1ndar y dos d\u00e9cadas de contribuci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza a la Pensi\u00f3n Conyugal dentro del Sistema Nacional de Pensiones?",
+      "answerOptions": [
+        {
+          "text": "Permite que el viudo o viuda herede el $100\\%$ del fondo acumulado del fallecido.",
+          "isCorrect": false,
+          "rationale": "La herencia de fondos es propia de la capitalizaci\u00f3n individual (AFP), no de la bolsa com\u00fan de la ONP."
+        },
+        {
+          "text": "Permite que los c\u00f3nyuges sumen sus a\u00f1os de aportes para alcanzar el umbral de los 20 a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Es una alternativa para parejas que individualmente no llegan al m\u00ednimo, permiti\u00e9ndoles acceder al derecho sumando sus historiales."
+        },
+        {
+          "text": "Otorga un bono adicional del $20\\%$ si ambos esposos est\u00e1n afiliados a la misma AFP.",
+          "isCorrect": false,
+          "rationale": "La pensi\u00f3n conyugal mencionada es una figura del sistema estatal (ONP) y no otorga bonos por afiliaci\u00f3n privada."
+        },
+        {
+          "text": "Exonera del pago del $13\\%$ a uno de los c\u00f3nyuges si el otro ya aporta.",
+          "isCorrect": false,
+          "rationale": "La obligaci\u00f3n de retenci\u00f3n es individual e ineludible para todo trabajador en actividad."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo dos personas pueden colaborar para cumplir un requisito de tiempo que solos no logran."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo legal de pensi\u00f3n mensual que otorga la ONP?",
+      "answerOptions": [
+        {
+          "text": "No tiene l\u00edmite, depende del sueldo hist\u00f3rico del trabajador.",
+          "isCorrect": false,
+          "rationale": "Debido a su naturaleza solidaria, el sistema impone techos r\u00edgidos para las pensiones m\u00e1s altas."
+        },
+        {
+          "text": "893 soles",
+          "isCorrect": true,
+          "rationale": "Independientemente de lo aportado en vida, la pensi\u00f3n m\u00e1xima est\u00e1 topada por ley en este monto mensual."
+        },
+        {
+          "text": "500 soles",
+          "isCorrect": false,
+          "rationale": "Este monto representa el piso o pensi\u00f3n m\u00ednima garantizada, no el techo m\u00e1ximo."
+        },
+        {
+          "text": "1,200 soles",
+          "isCorrect": false,
+          "rationale": "Aunque es un monto mayor, no corresponde al l\u00edmite legal establecido para el r\u00e9gimen de la ONP."
+        }
+      ],
+      "hint": "Identifique el techo monetario que refleja la naturaleza solidaria y 'topada' del estado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el estado de 'check verde' en la planilla dentro del PDT Plame?",
+      "answerOptions": [
+        {
+          "text": "Que el empleador ya cancel\u00f3 la deuda tributaria en el banco.",
+          "isCorrect": false,
+          "rationale": "El check verde es una validaci\u00f3n l\u00f3gica del software, previa a la generaci\u00f3n del archivo de pago y al desembolso."
+        },
+        {
+          "text": "Que los d\u00edas, horas y conceptos de pago del trabajador guardan consistencia absoluta.",
+          "isCorrect": true,
+          "rationale": "Indica que la arquitectura de datos por cada trabajador es correcta y que la informaci\u00f3n puede ser grabada sin errores."
+        },
+        {
+          "text": "Que el trabajador ha sido dado de baja exitosamente en el T-Registro.",
+          "isCorrect": false,
+          "rationale": "La baja se gestiona en el T-Registro; el check verde en el Plame valida la informaci\u00f3n de la liquidaci\u00f3n mensual."
+        },
+        {
+          "text": "Que la auditor\u00eda de la SUNAT ha finalizado sin observaciones.",
+          "isCorrect": false,
+          "rationale": "Este indicador es parte del proceso de declaraci\u00f3n del usuario, no un resultado de una fiscalizaci\u00f3n externa."
+        }
+      ],
+      "hint": "Asocie este s\u00edmbolo con la validaci\u00f3n exitosa de los datos ingresados en el aplicativo."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Planilla Electr\u00f3nica (T-Registro y PDT Plame)",
+      "Remuneraciones y Beneficios Sociales",
+      "Retenciones de Ley (Quinta Categor\u00eda y Pensiones)",
+      "Operatividad de Plataformas (AFPnet)"
+    ],
+    "followUp": [
+      "Fiscalizaci\u00f3n Laboral de SUNAFIL",
+      "C\u00e1lculo de Gratificaciones y CTS",
+      "Gesti\u00f3n de Subsidios por Incapacidad",
+      "An\u00e1lisis de Costos Laborales en el Sector Privado"
+    ]
+  }
+}

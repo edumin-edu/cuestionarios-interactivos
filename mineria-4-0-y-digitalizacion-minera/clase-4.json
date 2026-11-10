@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 establece el axioma de la inercia en la gesti\u00f3n de datos industriales?",
+      "answerOptions": [
+        {
+          "text": "Un dato guardado y est\u00e1tico posee un valor operativo y econ\u00f3mico nulo.",
+          "isCorrect": true,
+          "rationale": "El valor del dato solo se activa cuando este se integra en un flujo de procesamiento que culmina en una acci\u00f3n concreta."
+        },
+        {
+          "text": "La calidad del dato es el \u00fanico factor que determina su \u00e9xito en el modelo.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde al axioma de calidad, no al de inercia."
+        },
+        {
+          "text": "Los datos deben almacenarse en su formato original para evitar la p\u00e9rdida de metadatos.",
+          "isCorrect": false,
+          "rationale": "Si bien es una pr\u00e1ctica com\u00fan en el modelo ELT, no define el concepto de inercia del dato."
+        },
+        {
+          "text": "La velocidad de transmisi\u00f3n es inversamente proporcional al peso del archivo.",
+          "isCorrect": false,
+          "rationale": "Esta es una consideraci\u00f3n t\u00e9cnica de latencia, pero no constituye un axioma fundamental de la gesti\u00f3n de datos."
+        }
+      ],
+      "hint": "Piensa en la utilidad de la informaci\u00f3n que permanece inm\u00f3vil en un servidor sin ser procesada."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja t\u00e9cnica del formato Parquet en arquitecturas de datos modernas?",
+      "answerOptions": [
+        {
+          "text": "Su alta compatibilidad con sistemas legados y registros manuales.",
+          "isCorrect": false,
+          "rationale": "El texto plano, como el CSV, es el formato que ofrece esta compatibilidad con sistemas antiguos."
+        },
+        {
+          "text": "Su naturaleza semiestructurada ideal para capturar telemetr\u00eda IoT cambiante.",
+          "isCorrect": false,
+          "rationale": "Esta es la caracter\u00edstica principal del formato JSON, no del Parquet."
+        },
+        {
+          "text": "Su capacidad de compresi\u00f3n masiva y velocidad en consultas hist\u00f3ricas por ser columnar.",
+          "isCorrect": true,
+          "rationale": "Al ser binario y columnar, optimiza el almacenamiento y permite realizar an\u00e1lisis masivos de forma eficiente."
+        },
+        {
+          "text": "La facilidad de lectura directa por humanos sin necesidad de software especializado.",
+          "isCorrect": false,
+          "rationale": "Parquet es un formato binario, lo que lo hace dif\u00edcil de leer para un humano sin herramientas de procesamiento."
+        }
+      ],
+      "hint": "Considera c\u00f3mo su estructura interna favorece el an\u00e1lisis de grandes vol\u00famenes de datos hist\u00f3ricos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el Data Lakehouse se considera el est\u00e1ndar \u00f3ptimo para la miner\u00eda 4.0?",
+      "answerOptions": [
+        {
+          "text": "Porque elimina la necesidad de contar con una arquitectura de nube costosa.",
+          "isCorrect": false,
+          "rationale": "El Lakehouse no elimina los costos de nube, sino que los optimiza mediante una estructura h\u00edbrida."
+        },
+        {
+          "text": "Porque combina la flexibilidad del Data Lake con la gobernanza del Data Warehouse.",
+          "isCorrect": true,
+          "rationale": "Esta arquitectura permite realizar anal\u00edtica avanzada sobre datos estructurados y ruidosos simult\u00e1neamente con altos est\u00e1ndares de calidad."
+        },
+        {
+          "text": "Porque se especializa \u00fanicamente en el procesamiento de datos financieros de SAP.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n tradicional de un Data Warehouse (la mansi\u00f3n), no de una arquitectura h\u00edbrida."
+        },
+        {
+          "text": "Porque es la opci\u00f3n de m\u00e1s bajo costo disponible para almacenar archivos geol\u00f3gicos.",
+          "isCorrect": false,
+          "rationale": "El Data Lake puro (la chosa) suele ser m\u00e1s econ\u00f3mico, aunque menos ordenado que el Lakehouse."
+        }
+      ],
+      "hint": "Es un modelo h\u00edbrido que intenta capturar lo mejor de la flexibilidad y el control estricto."
+    },
+    {
+      "question": "En el contexto de bases de datos, \u00bfqu\u00e9 garantiza la propiedad de durabilidad del est\u00e1ndar ACID?",
+      "answerOptions": [
+        {
+          "text": "Que el dato guardado sobreviva a fallos del sistema o apagones.",
+          "isCorrect": true,
+          "rationale": "Asegura que una vez que la transacci\u00f3n ha sido confirmada, los cambios persistir\u00e1n de forma permanente."
+        },
+        {
+          "text": "Que el sistema siempre se encuentre en un estado v\u00e1lido tras una operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta definici\u00f3n corresponde a la propiedad de consistencia, no a la durabilidad."
+        },
+        {
+          "text": "Que la transacci\u00f3n se complete al $100\\%$ o falle totalmente.",
+          "isCorrect": false,
+          "rationale": "Este concepto describe la atomicidad, que evita estados intermedios incompletos."
+        },
+        {
+          "text": "Que m\u00faltiples transacciones ocurran en paralelo sin interferir entre s\u00ed.",
+          "isCorrect": false,
+          "rationale": "Esto describe la propiedad de aislamiento dentro del est\u00e1ndar ACID."
+        }
+      ],
+      "hint": "Relaciona este t\u00e9rmino con la persistencia de la informaci\u00f3n ante eventos catastr\u00f3ficos de hardware."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la innovaci\u00f3n principal del modelo ELT frente al tradicional ETL?",
+      "answerOptions": [
+        {
+          "text": "Carga los datos brutos en la nube antes de realizar cualquier transformaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Esto permite conservar el dato original intacto para aplicar diferentes algoritmos o correcciones en el futuro."
+        },
+        {
+          "text": "Limpia y cura los datos rigurosamente antes de que toquen el repositorio final.",
+          "isCorrect": false,
+          "rationale": "Ese es el enfoque tradicional de ETL, el cual puede perder informaci\u00f3n original durante la limpieza previa."
+        },
+        {
+          "text": "Elimina la necesidad de utilizar herramientas de orquestaci\u00f3n en la nube.",
+          "isCorrect": false,
+          "rationale": "ELT sigue requiriendo orquestaci\u00f3n, solo que cambia el orden de ejecuci\u00f3n de los procesos."
+        },
+        {
+          "text": "Reduce el volumen de datos almacenados al filtrar la telemetr\u00eda en el origen.",
+          "isCorrect": false,
+          "rationale": "Al contrario, ELT suele almacenar vol\u00famenes masivos de datos brutos para su posterior an\u00e1lisis."
+        }
+      ],
+      "hint": "Piensa en el momento en que el dato original es almacenado respecto a su procesamiento."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja ofrece el control predictivo (MPC) sobre el control PID tradicional?",
+      "answerOptions": [
+        {
+          "text": "Es mucho m\u00e1s sencillo de configurar y requiere menos potencia de c\u00f3mputo.",
+          "isCorrect": false,
+          "rationale": "El MPC es m\u00e1s complejo y demandante computacionalmente que un PID est\u00e1ndar."
+        },
+        {
+          "text": "Se anticipa al futuro y puede manejar m\u00faltiples variables simult\u00e1neamente.",
+          "isCorrect": true,
+          "rationale": "A diferencia del PID reactivo, el MPC modela el proceso para ajustar variables antes de que ocurran desviaciones cr\u00edticas."
+        },
+        {
+          "text": "Elimina totalmente la necesidad de sensores f\u00edsicos en la planta.",
+          "isCorrect": false,
+          "rationale": "El MPC optimiza el control, pero a\u00fan requiere datos de entrada, ya sean f\u00edsicos o virtuales."
+        },
+        {
+          "text": "Es la \u00fanica forma de garantizar que una v\u00e1lvula se abra o cierre f\u00edsicamente.",
+          "isCorrect": false,
+          "rationale": "Cualquier controlador puede accionar una v\u00e1lvula; la diferencia radica en la estrategia y anticipaci\u00f3n del ajuste."
+        }
+      ],
+      "hint": "Uno reacciona al error pasado, mientras que el otro utiliza un modelo para prever el estado del sistema."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de un sensor blando (soft sensor) en una operaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "Actuar como un dispositivo f\u00edsico de respaldo en caso de incendios.",
+          "isCorrect": false,
+          "rationale": "Un sensor blando no es un dispositivo f\u00edsico, sino un algoritmo matem\u00e1tico o proxy virtual."
+        },
+        {
+          "text": "Medir directamente la dureza del mineral mediante contacto ultras\u00f3nico.",
+          "isCorrect": false,
+          "rationale": "La dureza es una variable dif\u00edcil de medir directamente; el sensor blando la estimar\u00eda mediante otras variables."
+        },
+        {
+          "text": "Calcular variables internas cr\u00edticas mediante algoritmos y datos externos medibles.",
+          "isCorrect": true,
+          "rationale": "Se utilizan cuando las condiciones extremas (como el interior de un molino) destruir\u00edan un sensor f\u00edsico."
+        },
+        {
+          "text": "Reducir el consumo el\u00e9ctrico de los sensores inal\u00e1mbricos IoT.",
+          "isCorrect": false,
+          "rationale": "Su prop\u00f3sito es la estimaci\u00f3n de variables, no la optimizaci\u00f3n energ\u00e9tica del hardware de sensado."
+        }
+      ],
+      "hint": "Se trata de un componente virtual que estima lo que sucede donde no se puede colocar un term\u00f3metro o man\u00f3metro f\u00edsico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 busca prevenir la norma ISA 101 mediante el uso de colores neutros en las interfaces?",
+      "answerOptions": [
+        {
+          "text": "La fatiga cognitiva y la ocultaci\u00f3n de desviaciones reales en la operaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "El exceso de colores distrae; al usar grises, cualquier alerta de color resalta inmediatamente ante el operador."
+        },
+        {
+          "text": "El alto consumo de energ\u00eda de las pantallas industriales de gran tama\u00f1o.",
+          "isCorrect": false,
+          "rationale": "La norma se enfoca en la ergonom\u00eda visual y seguridad, no en la eficiencia energ\u00e9tica del hardware."
+        },
+        {
+          "text": "La incompatibilidad entre diferentes sistemas operativos de sala de control.",
+          "isCorrect": false,
+          "rationale": "ISA 101 es una norma de dise\u00f1o visual, no de interoperabilidad de software o sistemas operativos."
+        },
+        {
+          "text": "El uso de simbolog\u00eda t\u00e9cnica que solo los ingenieros pueden entender.",
+          "isCorrect": false,
+          "rationale": "La norma busca claridad, pero su objetivo principal es que las anomal\u00edas sean visualmente evidentes mediante el contraste."
+        }
+      ],
+      "hint": "Considera c\u00f3mo influye el ruido visual en la capacidad de reacci\u00f3n de un operador ante una emergencia."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre con los datos al avanzar a la capa oro en la arquitectura medall\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Se almacenan de forma totalmente cruda para auditor\u00edas legales.",
+          "isCorrect": false,
+          "rationale": "El almacenamiento de datos crudos ocurre en la capa bronce."
+        },
+        {
+          "text": "Se estandarizan para que los ingenieros realicen an\u00e1lisis t\u00e9cnicos profundos.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n de la capa plata, donde el dato ya est\u00e1 limpio pero no necesariamente optimizado para decisiones finales."
+        },
+        {
+          "text": "Se destilan y optimizan para consultas r\u00e1pidas en tableros de decisi\u00f3n estrat\u00e9gica.",
+          "isCorrect": true,
+          "rationale": "La capa oro contiene la informaci\u00f3n de mayor valor, lista para ser consumida por la alta gerencia."
+        },
+        {
+          "text": "Se eliminan permanentemente para ahorrar costos de almacenamiento en la nube.",
+          "isCorrect": false,
+          "rationale": "La arquitectura medall\u00f3n busca refinar el dato, no destruir la informaci\u00f3n valiosa."
+        }
+      ],
+      "hint": "Esta es la etapa final de refinamiento, comparable con el producto terminado de una planta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el fen\u00f3meno de deriva de datos (data drift) en modelos predictivos?",
+      "answerOptions": [
+        {
+          "text": "La p\u00e9rdida de paquetes de informaci\u00f3n durante la transmisi\u00f3n inal\u00e1mbrica.",
+          "isCorrect": false,
+          "rationale": "Esto es un problema de red o latencia, no una deriva estad\u00edstica del modelo."
+        },
+        {
+          "text": "La desalineaci\u00f3n del modelo respecto a la realidad f\u00edsica debido al desgaste o cambios externos.",
+          "isCorrect": true,
+          "rationale": "Con el tiempo, factores como el desgaste de maquinaria hacen que las predicciones del modelo dejen de coincidir con la realidad."
+        },
+        {
+          "text": "El aumento exponencial del costo de procesamiento en arquitecturas Lambda.",
+          "isCorrect": false,
+          "rationale": "El costo puede aumentar, pero el t\u00e9rmino 'drift' se refiere espec\u00edficamente a la precisi\u00f3n del modelo algor\u00edtmico."
+        },
+        {
+          "text": "La duplicaci\u00f3n accidental de registros en la capa de streaming.",
+          "isCorrect": false,
+          "rationale": "La duplicidad es un error de integridad de datos, no un cambio en la relaci\u00f3n estad\u00edstica que el modelo intenta predecir."
+        }
+      ],
+      "hint": "Visual\u00edzalo como una br\u00fajula que, con el tiempo, deja de apuntar correctamente al norte geogr\u00e1fico."
+    },
+    {
+      "question": "En el contexto de la gesti\u00f3n de activos, \u00bfpara qu\u00e9 sirve la norma ISO 14224?",
+      "answerOptions": [
+        {
+          "text": "Para definir los protocolos de ciberseguridad en redes OT.",
+          "isCorrect": false,
+          "rationale": "La ciberseguridad se rige por otros marcos; la ISO 14224 se enfoca en la clasificaci\u00f3n de activos f\u00edsicos."
+        },
+        {
+          "text": "Para establecer una taxonom\u00eda estandarizada en la clasificaci\u00f3n de equipos.",
+          "isCorrect": true,
+          "rationale": "Permite que diferentes plantas llamen de la misma forma a sus equipos, facilitando comparaciones de rendimiento confiables."
+        },
+        {
+          "text": "Para regular la emisi\u00f3n de gases contaminantes en camiones mineros.",
+          "isCorrect": false,
+          "rationale": "Esta norma es de gesti\u00f3n de datos y taxonom\u00eda de mantenimiento, no de regulaciones ambientales."
+        },
+        {
+          "text": "Para certificar la calidad del mineral extra\u00eddo en los laboratorios.",
+          "isCorrect": false,
+          "rationale": "La norma se aplica a los equipos e infraestructura, no a la composici\u00f3n qu\u00edmica del producto minero."
+        }
+      ],
+      "hint": "Piensa en la importancia de que todos en la empresa utilicen el mismo nombre y categor\u00eda para una m\u00e1quina."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal de la arquitectura Kappa?",
+      "answerOptions": [
+        {
+          "text": "Utiliza dos pistas separadas: una para datos hist\u00f3ricos y otra para tiempo real.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde a la arquitectura Lambda, que mantiene procesos redundantes."
+        },
+        {
+          "text": "Trata todos los datos exclusivamente como un flujo continuo o streaming.",
+          "isCorrect": true,
+          "rationale": "Al eliminar la capa batch separada, simplifica el c\u00f3digo y es ideal para respuestas instant\u00e1neas."
+        },
+        {
+          "text": "Requiere que todos los datos sean transformados manualmente antes de cargarse.",
+          "isCorrect": false,
+          "rationale": "Kappa es un modelo automatizado de procesamiento de flujos, no un proceso manual."
+        },
+        {
+          "text": "Es compatible \u00fanicamente con sistemas de almacenamiento locales sin conexi\u00f3n a la nube.",
+          "isCorrect": false,
+          "rationale": "Kappa se despliega preferentemente en entornos de nube modernos para manejar flujos masivos."
+        }
+      ],
+      "hint": "Se enfoca en simplificar el procesamiento al no distinguir entre datos viejos y nuevos, vi\u00e9ndolos como una sola corriente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 problema busca resolver la norma ISA 18.2 en las operaciones mineras?",
+      "answerOptions": [
+        {
+          "text": "La ceguera de alarmas causada por un exceso de se\u00f1ales sin prioridad clara.",
+          "isCorrect": true,
+          "rationale": "Asegura que cada alarma exija una acci\u00f3n espec\u00edfica y que el operador no se vea abrumado por ruidos innecesarios."
+        },
+        {
+          "text": "La baja velocidad de respuesta de los actuadores neum\u00e1ticos en la planta.",
+          "isCorrect": false,
+          "rationale": "La norma gestiona la respuesta humana ante alarmas, no la velocidad f\u00edsica del hardware de control."
+        },
+        {
+          "text": "La falta de comunicaci\u00f3n entre los sistemas de contabilidad y los de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Eso es un problema de interoperabilidad (ISA 95), no de gesti\u00f3n de alarmas operativas."
+        },
+        {
+          "text": "El desgaste prematuro de los sensores de vibraci\u00f3n en las chancadoras.",
+          "isCorrect": false,
+          "rationale": "Aunque una alarma puede avisar del desgaste, la norma no se ocupa del mantenimiento f\u00edsico del sensor."
+        }
+      ],
+      "hint": "Tiene que ver con la capacidad del operador para discernir qu\u00e9 evento requiere su atenci\u00f3n inmediata."
+    },
+    {
+      "question": "\u00bfQu\u00e9 es el linaje de datos y por qu\u00e9 es vital para la confianza t\u00e9cnica?",
+      "answerOptions": [
+        {
+          "text": "Es el proceso de encriptaci\u00f3n de datos para evitar hackeos externos.",
+          "isCorrect": false,
+          "rationale": "El linaje se refiere a la trazabilidad, no a la seguridad criptogr\u00e1fica de la informaci\u00f3n."
+        },
+        {
+          "text": "Es la capacidad de rastrear un dato desde un tablero estrat\u00e9gico hasta su origen en un sensor.",
+          "isCorrect": true,
+          "rationale": "Permite verificar matem\u00e1ticamente de d\u00f3nde proviene un n\u00famero, garantizando transparencia y cumplimiento normativo."
+        },
+        {
+          "text": "Es la jerarqu\u00eda de mando que decide qu\u00e9 datos se borran del sistema.",
+          "isCorrect": false,
+          "rationale": "El linaje es un concepto t\u00e9cnico de flujo de informaci\u00f3n, no una estructura organizacional de personal."
+        },
+        {
+          "text": "Es la t\u00e9cnica para predecir cu\u00e1ndo fallar\u00e1 un servidor de base de datos.",
+          "isCorrect": false,
+          "rationale": "Eso se conoce como mantenimiento predictivo de IT, no linaje de datos."
+        }
+      ],
+      "hint": "Relaci\u00f3nalo con la historia o el \u00e1rbol geneal\u00f3gico de una cifra que aparece en un reporte."
+    },
+    {
+      "question": "En un Centro Integrado de Operaciones (CIO), \u00bfc\u00f3mo se utiliza la informaci\u00f3n a nivel t\u00e1ctico?",
+      "answerOptions": [
+        {
+          "text": "Monitoreando variables cr\u00edticas segundo a segundo para evitar accidentes inmediatos.",
+          "isCorrect": false,
+          "rationale": "Este uso corresponde al nivel operacional, enfocado en el tiempo real estricto."
+        },
+        {
+          "text": "Definiendo los objetivos de negocio a diez a\u00f1os plazo de la corporaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este es el horizonte del nivel estrat\u00e9gico, no del t\u00e1ctico."
+        },
+        {
+          "text": "Revisando tendencias a mediano plazo para asegurar el cumplimiento del plan mensual.",
+          "isCorrect": true,
+          "rationale": "El nivel t\u00e1ctico act\u00faa como puente entre la operaci\u00f3n diaria y los objetivos anuales de la gerencia."
+        },
+        {
+          "text": "Realizando el mantenimiento f\u00edsico de los servidores y cables de red.",
+          "isCorrect": false,
+          "rationale": "Eso es soporte de infraestructura y no forma parte del consumo de datos en los niveles de decisi\u00f3n del CIO."
+        }
+      ],
+      "hint": "Se sit\u00faa en un punto medio entre la urgencia del momento y los grandes planes del futuro."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de un Gateway en una planta con maquinaria antigua?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la potencia el\u00e9ctrica de los motores para que funcionen m\u00e1s r\u00e1pido.",
+          "isCorrect": false,
+          "rationale": "Un gateway es un componente de comunicaci\u00f3n de datos, no un dispositivo de potencia el\u00e9ctrica."
+        },
+        {
+          "text": "Actuar como traductor para que m\u00e1quinas viejas hablen protocolos modernos como OPCUA.",
+          "isCorrect": true,
+          "rationale": "Permite integrar equipos que no poseen tecnolog\u00eda de comunicaci\u00f3n actual a la red de datos moderna."
+        },
+        {
+          "text": "Almacenar copias de seguridad de los manuales de usuario en formato PDF.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n es el procesamiento y traducci\u00f3n de tr\u00e1fico de datos en tiempo real, no el almacenamiento de documentos."
+        },
+        {
+          "text": "Enfriar los tableros el\u00e9ctricos mediante ventilaci\u00f3n controlada por software.",
+          "isCorrect": false,
+          "rationale": "El control de temperatura es una tarea de infraestructura f\u00edsica, no la funci\u00f3n de un gateway de datos."
+        }
+      ],
+      "hint": "Imagina a una persona que traduce un idioma antiguo a uno moderno para que dos personas se entiendan."
+    },
+    {
+      "question": "Seg\u00fan el axioma del contexto, \u00bfcu\u00e1l es el peligro de analizar un n\u00famero fuera de su entorno operativo?",
+      "answerOptions": [
+        {
+          "text": "Confundir simples coincidencias estad\u00edsticas con verdaderas causalidades f\u00edsicas.",
+          "isCorrect": true,
+          "rationale": "Sin contexto, un analista podr\u00eda pensar que dos eventos est\u00e1n relacionados cuando no existe un v\u00ednculo real en la operaci\u00f3n."
+        },
+        {
+          "text": "Que el dato ocupe demasiado espacio en el disco duro del servidor.",
+          "isCorrect": false,
+          "rationale": "El contexto es una necesidad de interpretaci\u00f3n l\u00f3gica, no una limitaci\u00f3n de almacenamiento f\u00edsico."
+        },
+        {
+          "text": "Que la velocidad de la red disminuya por el exceso de metadatos.",
+          "isCorrect": false,
+          "rationale": "El axioma se refiere a la interpretaci\u00f3n humana y algor\u00edtmica, no al rendimiento del ancho de banda."
+        },
+        {
+          "text": "Perder la licencia de uso del software de anal\u00edtica avanzada.",
+          "isCorrect": false,
+          "rationale": "El contexto es un principio conceptual de la ciencia de datos, no un requisito legal de licencias."
+        }
+      ],
+      "hint": "Un n\u00famero 'fr\u00edo' no explica el 'por qu\u00e9' de las cosas si no se sabe qu\u00e9 estaba pasando alrededor."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es cient\u00edficamente imposible alcanzar el 'cero error' en los sistemas de datos?",
+      "answerOptions": [
+        {
+          "text": "Por una limitaci\u00f3n presupuestaria de las empresas mineras.",
+          "isCorrect": false,
+          "rationale": "Aunque el presupuesto influye, el texto menciona que es una imposibilidad f\u00edsica y cient\u00edfica."
+        },
+        {
+          "text": "Debido a la incertidumbre inherente y las limitaciones de la f\u00edsica.",
+          "isCorrect": true,
+          "rationale": "Por ello, el dise\u00f1o debe enfocarse en reducir la incertidumbre sistem\u00e1ticamente en lugar de buscar una perfecci\u00f3n irreal."
+        },
+        {
+          "text": "Porque los programadores siempre cometen errores en el c\u00f3digo SQL.",
+          "isCorrect": false,
+          "rationale": "El error humano es un factor, pero la imposibilidad mencionada es de car\u00e1cter f\u00edsico y te\u00f3rico."
+        },
+        {
+          "text": "Debido a que el protocolo MQTT siempre pierde un $1\\%$ de los datos.",
+          "isCorrect": false,
+          "rationale": "Los protocolos son eficientes, pero la imposibilidad de cero error es un concepto m\u00e1s profundo de la ciencia de datos."
+        }
+      ],
+      "hint": "Se menciona como una 'dura realidad' relacionada con las leyes de la naturaleza y la medici\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito del protocolo MQTT en el ecosistema de Miner\u00eda 4.0?",
+      "answerOptions": [
+        {
+          "text": "Garantizar que los estados financieros de la empresa sean auditables.",
+          "isCorrect": false,
+          "rationale": "MQTT es para transporte de datos de sensores; la auditor\u00eda financiera depende de sistemas SQL/ACID."
+        },
+        {
+          "text": "Transportar telemetr\u00eda de forma ligera y r\u00e1pida a trav\u00e9s de redes inal\u00e1mbricas.",
+          "isCorrect": true,
+          "rationale": "Es el est\u00e1ndar ideal para sensores repartidos en la mina que requieren bajo consumo de ancho de banda."
+        },
+        {
+          "text": "Servir como el lenguaje principal para programar robots aut\u00f3nomos.",
+          "isCorrect": false,
+          "rationale": "MQTT es un protocolo de mensajer\u00eda, no un lenguaje de programaci\u00f3n de l\u00f3gica rob\u00f3tica."
+        },
+        {
+          "text": "Remplazar totalmente al cableado de fibra \u00f3ptica en toda la planta.",
+          "isCorrect": false,
+          "rationale": "Complementa las comunicaciones, especialmente en \u00e1reas inal\u00e1mbricas, pero no sustituye la infraestructura troncal cableada."
+        }
+      ],
+      "hint": "Es un protocolo dise\u00f1ado para ser eficiente en entornos donde la conexi\u00f3n puede ser limitada o inal\u00e1mbrica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la recomendaci\u00f3n estrat\u00e9gica final para equilibrar el avance tecnol\u00f3gico en la pr\u00f3xima d\u00e9cada?",
+      "answerOptions": [
+        {
+          "text": "Invertir exclusivamente en hardware de procesamiento local sin usar la nube.",
+          "isCorrect": false,
+          "rationale": "El texto sugiere arquitecturas h\u00edbridas y uso de la nube (ELT), no el aislamiento local."
+        },
+        {
+          "text": "Equilibrar estrictamente la ciberseguridad con la accesibilidad de los datos.",
+          "isCorrect": true,
+          "rationale": "Sin este equilibrio, el avance real no ser\u00e1 posible ya que los sistemas ser\u00e1n vulnerables o in\u00fatiles por falta de acceso."
+        },
+        {
+          "text": "Eliminar todos los sistemas legados y formatos CSV de forma inmediata.",
+          "isCorrect": false,
+          "rationale": "Se reconoce que los sistemas legados a\u00fan operan y deben ser integrados, no eliminados bruscamente."
+        },
+        {
+          "text": "Priorizar el dise\u00f1o visual colorido sobre los est\u00e1ndares de sobriedad de la norma ISA.",
+          "isCorrect": false,
+          "rationale": "Al contrario, se enfatiza la sobriedad visual para garantizar la seguridad operativa."
+        }
+      ],
+      "hint": "Se trata de proteger la informaci\u00f3n sin que esa protecci\u00f3n impida que las personas adecuadas la utilicen."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Arquitectura de Datos (Lakehouse, Medall\u00f3n, Lambda/Kappa)",
+      "Formatos de Intercambio (CSV, JSON, Parquet)",
+      "Est\u00e1ndares Industriales y Visuales (ISA, ISO)",
+      "Gesti\u00f3n de Modelos y Anal\u00edtica (MLOps, MPC, Soft Sensors)",
+      "Axiomas de Gesti\u00f3n de Datos"
+    ],
+    "followUp": [
+      "Implementaci\u00f3n de Protocolos OPCUA y MQTT en Redes Industriales",
+      "Modelamiento Predictivo Avanzado en Procesos Qu\u00edmicos",
+      "Gobernanza de Datos bajo el Marco ITIL",
+      "Simulaci\u00f3n y Optimizaci\u00f3n mediante Gemelos Digitales"
+    ]
+  }
+}

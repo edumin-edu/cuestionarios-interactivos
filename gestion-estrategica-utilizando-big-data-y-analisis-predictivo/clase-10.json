@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal al transformar la anal\u00edtica descriptiva en inteligencia aplicada dentro de la industria 4.0?",
+      "answerOptions": [
+        {
+          "text": "Pasar de la captura pasiva de datos a la ejecuci\u00f3n de decisiones automatizadas.",
+          "isCorrect": true,
+          "rationale": "El cambio estrat\u00e9gico radical busca que el sistema act\u00fae de forma aut\u00f3noma bas\u00e1ndose en la informaci\u00f3n procesada."
+        },
+        {
+          "text": "Incrementar \u00fanicamente la capacidad de almacenamiento en bases de datos SQL.",
+          "isCorrect": false,
+          "rationale": "El almacenamiento es solo una etapa t\u00e9cnica inicial y no define por s\u00ed solo la inteligencia aplicada o la automatizaci\u00f3n."
+        },
+        {
+          "text": "Sustituir todos los procesos industriales por redes neuronales convolucionales.",
+          "isCorrect": false,
+          "rationale": "Las redes convolucionales son espec\u00edficas para visi\u00f3n; la inteligencia aplicada requiere una orquestaci\u00f3n de diversos modelos seg\u00fan el dato."
+        },
+        {
+          "text": "Eliminar la necesidad de protocolos de validaci\u00f3n en la ingesta de datos.",
+          "isCorrect": false,
+          "rationale": "La validaci\u00f3n es el cimiento ineludible; sin datos de calidad, la capacidad de generalizaci\u00f3n del modelo se ve limitada."
+        }
+      ],
+      "hint": "Se busca evolucionar desde la observaci\u00f3n hacia la autonom\u00eda sist\u00e9mica."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 etapa del pipeline de digitalizaci\u00f3n el sistema coordina un flujo continuo de decisiones de forma aut\u00f3noma?",
+      "answerOptions": [
+        {
+          "text": "Modelamiento.",
+          "isCorrect": false,
+          "rationale": "Esta etapa se centra en el entrenamiento del algoritmo para encontrar patrones, no en la ejecuci\u00f3n coordinada de decisiones."
+        },
+        {
+          "text": "Consulta y orquestaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Es la etapa definitiva donde el sistema interact\u00faa con el entorno real para ejecutar acciones sin intervenci\u00f3n humana."
+        },
+        {
+          "text": "Ingesta y captura.",
+          "isCorrect": false,
+          "rationale": "Esta fase inicial se limita a recibir se\u00f1ales sensoriales o de datos brutos del entorno."
+        },
+        {
+          "text": "Integraci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La integraci\u00f3n se ocupa de consolidar y limpiar datos redundantes, preparando el terreno para el modelo."
+        }
+      ],
+      "hint": "Es la quinta y \u00faltima fase del pipeline industrial."
+    },
+    {
+      "question": "\u00bfQu\u00e9 protocolo es considerado el est\u00e1ndar para la captura de se\u00f1ales en sectores industriales pesados debido a su eficiencia en el uso de ancho de banda?",
+      "answerOptions": [
+        {
+          "text": "HTTP/HTTPS.",
+          "isCorrect": false,
+          "rationale": "Aunque es com\u00fan en la web, su sobrecarga de cabeceras lo hace menos eficiente que protocolos dise\u00f1ados para telemetr\u00eda industrial."
+        },
+        {
+          "text": "MQTT.",
+          "isCorrect": true,
+          "rationale": "Su ligereza permite transmitir miles de se\u00f1ales por segundo de m\u00faltiples sensores usando recursos m\u00ednimos de red."
+        },
+        {
+          "text": "CSV Directo.",
+          "isCorrect": false,
+          "rationale": "Los archivos CSV son formatos de almacenamiento est\u00e1tico y no protocolos de comunicaci\u00f3n en tiempo real."
+        },
+        {
+          "text": "FTP.",
+          "isCorrect": false,
+          "rationale": "El protocolo de transferencia de archivos no est\u00e1 optimizado para la alta frecuencia y baja latencia de sensores industriales."
+        }
+      ],
+      "hint": "Es capaz de enviar miles de se\u00f1ales usando menos datos que un correo electr\u00f3nico simple."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la optimizaci\u00f3n cl\u00e1sica suele colapsar en los ecosistemas digitales modernos?",
+      "answerOptions": [
+        {
+          "text": "Porque requiere demasiado poder de c\u00f3mputo para tareas de regresi\u00f3n simple.",
+          "isCorrect": false,
+          "rationale": "La optimizaci\u00f3n cl\u00e1sica es eficiente en tareas simples; el problema surge ante la complejidad, no ante la simplicidad."
+        },
+        {
+          "text": "Debido a la alta dimensionalidad y a la naturaleza no lineal de las variables interconectadas.",
+          "isCorrect": true,
+          "rationale": "Los m\u00e9todos tradicionales est\u00e1n dise\u00f1ados para variables limitadas y predecibles, fallando ante el caos del mundo digital actual."
+        },
+        {
+          "text": "Porque solo puede procesar datos almacenados en nubes p\u00fablicas como AWS.",
+          "isCorrect": false,
+          "rationale": "La limitaci\u00f3n es matem\u00e1tica y estructural, independientemente de d\u00f3nde se alojen los datos f\u00edsicamente."
+        },
+        {
+          "text": "Debido a que no permite el uso de la librer\u00eda Pandas para el manejo de informaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Pandas es una herramienta de manipulaci\u00f3n de datos que no condiciona la validez matem\u00e1tica de la optimizaci\u00f3n cl\u00e1sica."
+        }
+      ],
+      "hint": "Piense en la frontera matem\u00e1tica cuando el n\u00famero de variables crece y se vuelve impredecible."
+    },
+    {
+      "question": "\u00bfQu\u00e9 arquitectura de red neuronal es la m\u00e1s adecuada para realizar clasificaciones de riesgo crediticio basadas en datos tabulares estructurados?",
+      "answerOptions": [
+        {
+          "text": "Redes Neuronales Convolucionales (CNN).",
+          "isCorrect": false,
+          "rationale": "Las CNN est\u00e1n optimizadas para datos con estructura espacial, como im\u00e1genes, no para filas y columnas de bases de datos."
+        },
+        {
+          "text": "Perceptr\u00f3n Multicapa (MLP).",
+          "isCorrect": true,
+          "rationale": "Su uso de capas densas lo convierte en la mejor opci\u00f3n para encontrar relaciones complejas en tablas de datos financieros."
+        },
+        {
+          "text": "Transformers.",
+          "isCorrect": false,
+          "rationale": "Aunque potentes, su fuerte es el procesamiento de secuencias y lenguaje, superando la necesidad t\u00e9cnica de un simple an\u00e1lisis tabular."
+        },
+        {
+          "text": "Redes Recurrentes (RNN).",
+          "isCorrect": false,
+          "rationale": "Las RNN se enfocan en datos secuenciales temporales, mientras que el riesgo crediticio suele ser una evaluaci\u00f3n de estado puntual."
+        }
+      ],
+      "hint": "Es la base del aprendizaje profundo y utiliza capas densas para procesar 'tablitas' tipo Excel."
+    },
+    {
+      "question": "En el contexto de la visi\u00f3n artificial, \u00bfcu\u00e1l es la funci\u00f3n principal de las redes CNN al procesar una imagen?",
+      "answerOptions": [
+        {
+          "text": "Eliminar por completo el ruido estad\u00edstico de la se\u00f1al de entrada.",
+          "isCorrect": false,
+          "rationale": "La limpieza de datos ocurre en fases previas; la CNN se enfoca en el reconocimiento de patrones visuales."
+        },
+        {
+          "text": "Establecer una jerarqu\u00eda visual que extrae desde bordes simples hasta texturas y objetos complejos.",
+          "isCorrect": true,
+          "rationale": "Su capacidad para entender el contexto espacial reside en identificar niveles progresivos de abstracci\u00f3n visual."
+        },
+        {
+          "text": "Convertir im\u00e1genes en secuencias de tiempo para ser procesadas en paralelo.",
+          "isCorrect": false,
+          "rationale": "Las CNN analizan estructuras espaciales simult\u00e1neas, no necesariamente secuencias temporales como las RNN."
+        },
+        {
+          "text": "Asignar probabilidades de forma que siempre sumen un $100\\%$ al inicio del proceso.",
+          "isCorrect": false,
+          "rationale": "La distribuci\u00f3n de probabilidades ocurre t\u00edpicamente en la capa de salida, no es el proceso central de extracci\u00f3n de caracter\u00edsticas."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo se descompone una imagen paso a paso, de lo simple a lo complejo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja espec\u00edfica ofrecen las redes LSTM frente a las RNN tradicionales en el mantenimiento predictivo?",
+      "answerOptions": [
+        {
+          "text": "Evitan que el sistema olvide informaci\u00f3n cr\u00edtica de series de tiempo largas.",
+          "isCorrect": true,
+          "rationale": "Su dise\u00f1o permite capturar dependencias de largo plazo, solucionando el problema de la p\u00e9rdida de memoria en secuencias extensas."
+        },
+        {
+          "text": "Permiten el procesamiento en paralelo de m\u00faltiples im\u00e1genes de alta resoluci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esa es una caracter\u00edstica de los Transformers o CNN; las LSTM se centran en el flujo secuencial temporal."
+        },
+        {
+          "text": "Sustituyen la necesidad de usar funciones de activaci\u00f3n como Softmax.",
+          "isCorrect": false,
+          "rationale": "Las funciones de activaci\u00f3n siguen siendo necesarias en la capa de salida para interpretar los resultados de la LSTM."
+        },
+        {
+          "text": "Son inmunes al desequilibrio de datos en la detecci\u00f3n de fraudes.",
+          "isCorrect": false,
+          "rationale": "Ninguna arquitectura es inmune por s\u00ed misma al desequilibrio de datos; esto requiere t\u00e9cnicas como SMOTE."
+        }
+      ],
+      "hint": "Su nombre en ingl\u00e9s hace referencia a la memoria de corto y largo plazo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el mecanismo clave que permite a los Transformers procesar secuencias de lenguaje de forma global y simult\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "Mecanismos de atenci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Permiten que el modelo eval\u00fae qu\u00e9 partes de una secuencia son m\u00e1s relevantes en un mismo momento, facilitando el procesamiento paralelo."
+        },
+        {
+          "text": "Convoluciones espaciales.",
+          "isCorrect": false,
+          "rationale": "Las convoluciones son propias de las CNN para im\u00e1genes, no de la arquitectura original de los Transformers para lenguaje."
+        },
+        {
+          "text": "Sobremuestreo aleatorio simple.",
+          "isCorrect": false,
+          "rationale": "Esta es una t\u00e9cnica de preprocesamiento de datos y no un componente arquitect\u00f3nico de las redes neuronales."
+        },
+        {
+          "text": "Recursi\u00f3n de memoria infinita.",
+          "isCorrect": false,
+          "rationale": "Los Transformers eliminan la recursi\u00f3n para favorecer el paralelismo, a diferencia de las redes recurrentes."
+        }
+      ],
+      "hint": "Es la t\u00e9cnica que permite a modelos como ChatGPT entender el contexto de una p\u00e1gina entera de un solo golpe."
+    },
+    {
+      "question": "En la detecci\u00f3n de fraudes financieros, \u00bfqu\u00e9 representa t\u00edpicamente un valor de $0.17\\%$?",
+      "answerOptions": [
+        {
+          "text": "La tasa de error permitida en la infraestructura de la nube.",
+          "isCorrect": false,
+          "rationale": "Las infraestructuras de nube suelen garantizar disponibilidades mucho m\u00e1s altas y este valor no se asocia con su desempe\u00f1o."
+        },
+        {
+          "text": "La cantidad de eventos positivos (fraudes) frente al total de transacciones leg\u00edtimas.",
+          "isCorrect": true,
+          "rationale": "Ilustra el desequilibrio estad\u00edstico severo donde la anomal\u00eda es extremadamente rara en comparaci\u00f3n con la normalidad."
+        },
+        {
+          "text": "La probabilidad de que una red MLP olvide datos estructurados.",
+          "isCorrect": false,
+          "rationale": "El olvido de datos es un problema de las RNN y no se cuantifica con una constante fija para las redes MLP."
+        },
+        {
+          "text": "El incremento en la precisi\u00f3n tras aplicar la t\u00e9cnica de Dropout.",
+          "isCorrect": false,
+          "rationale": "Dropout es una t\u00e9cnica de regularizaci\u00f3n; su impacto var\u00eda y no est\u00e1 definido por un porcentaje est\u00e1tico universal."
+        }
+      ],
+      "hint": "Es la representaci\u00f3n de 'una aguja en un pajar' dentro de la anal\u00edtica financiera."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se diferencia la t\u00e9cnica SMOTE de un sobremuestreo aleatorio convencional?",
+      "answerOptions": [
+        {
+          "text": "SMOTE crea ejemplos sint\u00e9ticos basados en el an\u00e1lisis de las caracter\u00edsticas de la minor\u00eda.",
+          "isCorrect": true,
+          "rationale": "En lugar de copiar datos existentes, utiliza algoritmos de vecinos cercanos para generar nueva informaci\u00f3n matem\u00e1tica realista."
+        },
+        {
+          "text": "SMOTE reduce el n\u00famero de ejemplos de la clase mayoritaria para igualar la balanza.",
+          "isCorrect": false,
+          "rationale": "Eso describe el submuestreo (undersampling), mientras que SMOTE es una t\u00e9cnica de sobremuestreo (oversampling) sint\u00e9tico."
+        },
+        {
+          "text": "SMOTE desactiva neuronas aleatoriamente durante el entrenamiento del modelo.",
+          "isCorrect": false,
+          "rationale": "La desactivaci\u00f3n aleatoria de neuronas es la definici\u00f3n de Dropout, no de SMOTE."
+        },
+        {
+          "text": "SMOTE solo funciona con datos de im\u00e1genes procesados por redes CNN.",
+          "isCorrect": false,
+          "rationale": "Es una t\u00e9cnica estad\u00edstica general aplicable a diversos tipos de datos para corregir desequilibrios de clase."
+        }
+      ],
+      "hint": "Utiliza el algoritmo de vecinos m\u00e1s cercanos para descubrir el 'ADN' del evento raro."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito fundamental de aplicar 'Dropout' durante el entrenamiento de una red neuronal?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la velocidad de procesamiento de los protocolos MQTT.",
+          "isCorrect": false,
+          "rationale": "MQTT es un protocolo de transporte externo a la arquitectura interna del modelo neuronal entrenado."
+        },
+        {
+          "text": "Obligar a la red a construir una robustez sist\u00e9mica evitando la dependencia de rutas internas \u00fanicas.",
+          "isCorrect": true,
+          "rationale": "Al desactivar neuronas al azar, el sistema aprende a generalizar mejor y previene el sobreentrenamiento."
+        },
+        {
+          "text": "Permitir que el modelo memorice con mayor exactitud los ejemplos de entrenamiento.",
+          "isCorrect": false,
+          "rationale": "El objetivo de Dropout es precisamente evitar la memorizaci\u00f3n (overfitting) para favorecer la generalizaci\u00f3n."
+        },
+        {
+          "text": "Distribuir las probabilidades de salida para que sumen exactamente $100\\%$.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n de Softmax, no de una t\u00e9cnica de regularizaci\u00f3n como Dropout."
+        }
+      ],
+      "hint": "Involucra 'apagar' neuronas estrat\u00e9gicamente para que el modelo no se vuelva dependiente."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo es estrat\u00e9gicamente preferible priorizar el 'Recall' sobre la 'Precisi\u00f3n'?",
+      "answerOptions": [
+        {
+          "text": "Cuando el costo de un falso positivo es operacionalmente inasumible.",
+          "isCorrect": false,
+          "rationale": "En este caso se priorizar\u00eda la precisi\u00f3n para evitar bloquear o alertar sobre eventos normales err\u00f3neamente."
+        },
+        {
+          "text": "Cuando omitir un evento cr\u00edtico representa un riesgo de desastre o alta peligrosidad.",
+          "isCorrect": true,
+          "rationale": "En situaciones como fallas de turbinas, es mejor lidiar con falsas alarmas que ignorar una falla real."
+        },
+        {
+          "text": "Cuando se desea minimizar el tiempo de entrenamiento del algoritmo.",
+          "isCorrect": false,
+          "rationale": "El recall y la precisi\u00f3n son m\u00e9tricas de evaluaci\u00f3n del desempe\u00f1o, no factores que reduzcan el tiempo de c\u00f3mputo."
+        },
+        {
+          "text": "Cuando el modelo utiliza \u00fanicamente funciones de activaci\u00f3n sigmoideas.",
+          "isCorrect": false,
+          "rationale": "La elecci\u00f3n de la m\u00e9trica depende del impacto de negocio del error, no de la funci\u00f3n de activaci\u00f3n utilizada."
+        }
+      ],
+      "hint": "Piense en un escenario donde una falla no detectada sea catastr\u00f3fica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n de activaci\u00f3n se debe emplear en la capa de salida para una clasificaci\u00f3n multiclase donde se requiere una distribuci\u00f3n de probabilidad?",
+      "answerOptions": [
+        {
+          "text": "Sigmoidea.",
+          "isCorrect": false,
+          "rationale": "La sigmoidea es ideal para problemas binarios, devolviendo una probabilidad para una \u00fanica clase."
+        },
+        {
+          "text": "Softmax.",
+          "isCorrect": true,
+          "rationale": "Softmax distribuye las probabilidades entre m\u00faltiples categor\u00edas asegurando que la suma total sea $100\\%$."
+        },
+        {
+          "text": "Relu.",
+          "isCorrect": false,
+          "rationale": "Relu se usa com\u00fanmente en capas ocultas para introducir no linealidad, pero no para normalizar probabilidades de salida multiclase."
+        },
+        {
+          "text": "Tangente hiperb\u00f3lica.",
+          "isCorrect": false,
+          "rationale": "Aunque es una funci\u00f3n de activaci\u00f3n, no tiene la propiedad de normalizar una distribuci\u00f3n de probabilidad multiclase como Softmax."
+        }
+      ],
+      "hint": "Es la funci\u00f3n que reparte las probabilidades entre todas las opciones posibles."
+    },
+    {
+      "question": "En el marco de MLOps, \u00bfpara qu\u00e9 se utiliza la herramienta 'Joblib'?",
+      "answerOptions": [
+        {
+          "text": "Para realizar web scraping en tiempo real en entornos comerciales.",
+          "isCorrect": false,
+          "rationale": "El web scraping es una t\u00e9cnica de ingesta, mientras que Joblib se enfoca en la persistencia del modelo."
+        },
+        {
+          "text": "Para empaquetar la l\u00f3gica del modelo en archivos formato .pkl para su despliegue.",
+          "isCorrect": true,
+          "rationale": "Permite transportar la inteligencia del modelo a producci\u00f3n sin repetir el costoso proceso de entrenamiento."
+        },
+        {
+          "text": "Para coordinar sensores de alta frecuencia en plantas automotrices.",
+          "isCorrect": false,
+          "rationale": "La coordinaci\u00f3n de sensores es tarea de protocolos de comunicaci\u00f3n (como MQTT) y orquestadores, no de librer\u00edas de serializaci\u00f3n."
+        },
+        {
+          "text": "Para visualizar inferencias de deep learning mediante dashboards est\u00e1ticos.",
+          "isCorrect": false,
+          "rationale": "Joblib no es una herramienta de visualizaci\u00f3n, sino de almacenamiento y carga de objetos de Python."
+        }
+      ],
+      "hint": "Ayuda a 'congelar' el cerebro del sistema para llevarlo a otro lugar."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja competitiva ofrecen plataformas como Hugging Face y Gradio en el ciclo de vida de la IA?",
+      "answerOptions": [
+        {
+          "text": "Garantizan el cumplimiento autom\u00e1tico de las normativas ISO.",
+          "isCorrect": false,
+          "rationale": "El cumplimiento normativo es un proceso de gobernanza humana y procedimental que las herramientas solo facilitan, no garantizan."
+        },
+        {
+          "text": "Permiten el prototipado \u00e1gil y la creaci\u00f3n r\u00e1pida de interfaces para el usuario final.",
+          "isCorrect": true,
+          "rationale": "Facilitan poner el algoritmo frente al usuario para validar su utilidad pr\u00e1ctica sin esperas de meses."
+        },
+        {
+          "text": "Sustituyen la necesidad de utilizar infraestructuras de nube como Azure.",
+          "isCorrect": false,
+          "rationale": "Estas herramientas a menudo corren sobre infraestructura de nube; no la reemplazan, sino que la complementan."
+        },
+        {
+          "text": "Eliminan la deriva de datos (data drift) en modelos de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La deriva de datos es un fen\u00f3meno natural del entorno; estas herramientas ayudan a detectar o mostrar el modelo, pero no detienen el cambio en los datos."
+        }
+      ],
+      "hint": "Son ideales para mostrar resultados din\u00e1micos de forma inmediata."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 las soluciones nativas en Python se consideran superiores a herramientas tradicionales como Power BI para visualizar Deep Learning en tiempo real?",
+      "answerOptions": [
+        {
+          "text": "Porque Power BI no permite el uso de ning\u00fan tipo de base de datos SQL.",
+          "isCorrect": false,
+          "rationale": "Power BI es excelente conect\u00e1ndose a SQL; su limitaci\u00f3n reside en la flexibilidad para integrar modelos din\u00e1micos de IA."
+        },
+        {
+          "text": "Debido a su integraci\u00f3n org\u00e1nica y a la flexibilidad para responder a aplicaciones din\u00e1micas.",
+          "isCorrect": true,
+          "rationale": "Python ofrece un ecosistema donde el modelo y la visualizaci\u00f3n conviven sin las rigideces de las plataformas de BI tradicionales."
+        },
+        {
+          "text": "Porque Python es el \u00fanico lenguaje capaz de ejecutar el protocolo MQTT.",
+          "isCorrect": false,
+          "rationale": "MQTT es un est\u00e1ndar abierto que puede ser implementado en m\u00faltiples lenguajes de programaci\u00f3n, no solo en Python."
+        },
+        {
+          "text": "Debido a que las librer\u00edas de Python no requieren el uso de hardware especializado.",
+          "isCorrect": false,
+          "rationale": "El deep learning en Python frecuentemente requiere hardware potente (GPUs), al igual que cualquier otra implementaci\u00f3n de IA compleja."
+        }
+      ],
+      "hint": "Se relaciona con la rigidez versus la respuesta inmediata en entornos cambiantes."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la visi\u00f3n actual sobre la gobernanza \u00e9tica en la implementaci\u00f3n de la inteligencia artificial corporativa?",
+      "answerOptions": [
+        {
+          "text": "Es una barrera burocr\u00e1tica que frena la innovaci\u00f3n t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "La gobernanza no es un freno, sino un marco que asegura que la innovaci\u00f3n sea segura y sostenible."
+        },
+        {
+          "text": "Es un motor de rentabilidad sostenible que mitiga riesgos y asegura valor a largo plazo.",
+          "isCorrect": true,
+          "rationale": "Alinear la IA con est\u00e1ndares \u00e9ticos y audatibles garantiza que los activos de IA sean rentables y confiables para la organizaci\u00f3n."
+        },
+        {
+          "text": "Se limita \u00fanicamente a cumplir con las gu\u00edas internas de empresas como Google.",
+          "isCorrect": false,
+          "rationale": "La gobernanza abarca normativas internacionales (ISO) y leyes locales, adem\u00e1s de gu\u00edas corporativas."
+        },
+        {
+          "text": "Es un proceso que solo debe aplicarse al finalizar el despliegue del modelo.",
+          "isCorrect": false,
+          "rationale": "La gobernanza debe cubrir todo el ciclo de vida del modelo para ser efectiva, desde la ingesta hasta la inferencia."
+        }
+      ],
+      "hint": "La \u00e9tica no detiene el progreso; lo hace viable en el tiempo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede cuando un modelo de inteligencia artificial se obsesiona con el ruido estad\u00edstico de los datos de entrenamiento?",
+      "answerOptions": [
+        {
+          "text": "Aumenta su capacidad de generalizaci\u00f3n ante nuevos datos.",
+          "isCorrect": false,
+          "rationale": "Al obsesionarse con el ruido, el modelo pierde capacidad de generalizar y falla ante datos nuevos."
+        },
+        {
+          "text": "Ocurre el fen\u00f3meno de sobreentrenamiento u overfitting.",
+          "isCorrect": true,
+          "rationale": "El sistema memoriza los ejemplos espec\u00edficos en lugar de aprender los patrones subyacentes o fronteras de decisi\u00f3n."
+        },
+        {
+          "text": "Se activa autom\u00e1ticamente un mecanismo de atenci\u00f3n de tipo Transformer.",
+          "isCorrect": false,
+          "rationale": "El overfitting es un error de entrenamiento, mientras que los Transformers son una arquitectura espec\u00edfica."
+        },
+        {
+          "text": "El modelo requiere un cambio inmediato a bases de datos NoSQL.",
+          "isCorrect": false,
+          "rationale": "El tipo de base de datos no soluciona el sobreentrenamiento; se requieren ajustes en la arquitectura o regularizaci\u00f3n."
+        }
+      ],
+      "hint": "Es como si el modelo decidiera presentar un examen basado solo en la memoria."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que los modelos de inteligencia artificial son 'activos vivos'?",
+      "answerOptions": [
+        {
+          "text": "Porque pueden evolucionar biol\u00f3gicamente sin intervenci\u00f3n humana.",
+          "isCorrect": false,
+          "rationale": "La evoluci\u00f3n de los modelos es t\u00e9cnica y requiere supervisi\u00f3n e ingenier\u00eda constante."
+        },
+        {
+          "text": "Exigen un reentrenamiento constante para sobrevivir a la deriva de datos.",
+          "isCorrect": true,
+          "rationale": "El entorno cambia y la informaci\u00f3n nueva puede invalidar los patrones aprendidos anteriormente, exigiendo actualizaciones."
+        },
+        {
+          "text": "Debido a que sus neuronas se mantienen activas incluso sin energ\u00eda el\u00e9ctrica.",
+          "isCorrect": false,
+          "rationale": "Los modelos son software y dependen totalmente de la infraestructura de c\u00f3mputo para funcionar."
+        },
+        {
+          "text": "Porque son capaces de generar su propio presupuesto de inversi\u00f3n industrial.",
+          "isCorrect": false,
+          "rationale": "Aunque generan valor econ\u00f3mico, la gesti\u00f3n presupuestaria sigue siendo una funci\u00f3n administrativa humana."
+        }
+      ],
+      "hint": "El mundo real cambia constantemente, y el modelo debe seguirle el ritmo."
+    },
+    {
+      "question": "En la jerarqu\u00eda de prioridades para el \u00e9xito de la IA, \u00bfqu\u00e9 elemento es innegociable frente a la complejidad algor\u00edtmica?",
+      "answerOptions": [
+        {
+          "text": "El uso de la versi\u00f3n m\u00e1s reciente de la nube AWS.",
+          "isCorrect": false,
+          "rationale": "La versi\u00f3n de la nube es secundaria; un mal modelo fallar\u00e1 incluso en el hardware m\u00e1s moderno."
+        },
+        {
+          "text": "La calidad de la ingesta de datos.",
+          "isCorrect": true,
+          "rationale": "Ning\u00fan algoritmo sofisticado puede compensar una entrada de datos sucia o con fallas."
+        },
+        {
+          "text": "La implementaci\u00f3n de redes recurrentes en todos los procesos.",
+          "isCorrect": false,
+          "rationale": "La arquitectura debe elegirse seg\u00fan el tipo de dato; imponer una sola arquitectura es un error estrat\u00e9gico."
+        },
+        {
+          "text": "La eliminaci\u00f3n de todos los protocolos de gobernanza t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "La gobernanza es necesaria para la rentabilidad y la \u00e9tica; eliminarla aumenta el riesgo operativo."
+        }
+      ],
+      "hint": "Si le damos datos con ruido al modelo, el resultado ser\u00e1 in\u00fatil independientemente del algoritmo."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Pipeline de digitalizaci\u00f3n industrial",
+      "Arquitecturas de Redes Neuronales (MLP, CNN, RNN, Transformers)",
+      "Optimizaci\u00f3n y gesti\u00f3n de desequilibrios en datos",
+      "M\u00e9tricas de evaluaci\u00f3n y MLOps",
+      "Gobernanza y \u00c9tica en IA"
+    ],
+    "followUp": [
+      "Implementaci\u00f3n de protocolos MQTT en IoT industrial",
+      "T\u00e9cnicas avanzadas de regularizaci\u00f3n para evitar el overfitting",
+      "Estrategias de despliegue continuo con herramientas de Python",
+      "Marcos normativos internacionales para la IA \u00e9tica (ISO/IEEE)"
+    ]
+  }
+}

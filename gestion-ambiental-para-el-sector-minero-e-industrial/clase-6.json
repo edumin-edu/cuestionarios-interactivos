@@ -1,0 +1,543 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfPor qu\u00e9 el enfoque de gesti\u00f3n ambiental industrial permite una intervenci\u00f3n m\u00e1s eficaz en comparaci\u00f3n con el monitoreo urbano difuso?",
+      "answerOptions": [
+        {
+          "text": "Permite intervenir directamente en la fuente de emisi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La gesti\u00f3n industrial se centra en puntos de origen espec\u00edficos y controlables, a diferencia del monitoreo urbano que mide mezclas complejas de m\u00faltiples fuentes."
+        },
+        {
+          "text": "Depende exclusivamente de la normativa legal vigente.",
+          "isCorrect": false,
+          "rationale": "Si bien la ley es importante, la eficacia t\u00e9cnica radica en la capacidad de actuar sobre el proceso operativo y no solo en el cumplimiento del papel."
+        },
+        {
+          "text": "Elimina la necesidad de realizar modelamientos matem\u00e1ticos.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la complejidad de las fuentes industriales a menudo requiere modelos m\u00e1s precisos para predecir el impacto ambiental."
+        },
+        {
+          "text": "Se basa \u00fanicamente en reportes reactivos de fin de mes.",
+          "isCorrect": false,
+          "rationale": "El enfoque moderno busca una gesti\u00f3n proactiva y t\u00e9cnica que se anticipe a los impactos antes de que ocurran."
+        }
+      ],
+      "hint": "Considere la diferencia entre tratar de limpiar el aire de una ciudad entera frente a una chimenea espec\u00edfica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un ejemplo de una fuente de emisi\u00f3n natural que aporta gases a la atm\u00f3sfera de forma incontrolable?",
+      "answerOptions": [
+        {
+          "text": "Volcanes liberando di\u00f3xido de azufre ($SO_{2}$).",
+          "isCorrect": true,
+          "rationale": "Los fen\u00f3menos geol\u00f3gicos como las erupciones son procesos naturales que emiten grandes vol\u00famenes de contaminantes sin intervenci\u00f3n humana."
+        },
+        {
+          "text": "Combusti\u00f3n intensiva de motores di\u00e9sel en miner\u00eda.",
+          "isCorrect": false,
+          "rationale": "Esta es una fuente antropog\u00e9nica, ya que es producto directo de la actividad industrial humana."
+        },
+        {
+          "text": "Procesos mec\u00e1nicos de voladura en tajos abiertos.",
+          "isCorrect": false,
+          "rationale": "Las voladuras son actividades planificadas por el hombre para la extracci\u00f3n de minerales, no procesos naturales."
+        },
+        {
+          "text": "Fugas en ductos de transporte de gas natural.",
+          "isCorrect": false,
+          "rationale": "Aunque el gas es natural, la infraestructura de transporte y la fuga son fallas humanas o mec\u00e1nicas industriales."
+        }
+      ],
+      "hint": "Piense en procesos terrestres o biol\u00f3gicos que ocurren sin presencia del hombre."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia t\u00e9cnica en el monitoreo de un foco fijo frente a un foco m\u00f3vil?",
+      "answerOptions": [
+        {
+          "text": "El foco fijo usa sensores est\u00e1ticos mientras que el m\u00f3vil requiere modelamiento din\u00e1mico complejo.",
+          "isCorrect": true,
+          "rationale": "Las fuentes m\u00f3viles, al desplazarse, requieren integrar factores de ruta, tiempo y velocidad en modelos matem\u00e1ticos avanzados."
+        },
+        {
+          "text": "El foco m\u00f3vil emite m\u00e1s part\u00edculas por definici\u00f3n que una chimenea fija.",
+          "isCorrect": false,
+          "rationale": "La cantidad de emisi\u00f3n depende del tipo de combustible y escala, no necesariamente de si la fuente se mueve o no."
+        },
+        {
+          "text": "Solo los focos fijos est\u00e1n sujetos a regulaciones de l\u00edmites m\u00e1ximos.",
+          "isCorrect": false,
+          "rationale": "Ambos tipos de fuentes est\u00e1n regulados por leyes ambientales estrictas para proteger la salud p\u00fablica."
+        },
+        {
+          "text": "Los focos m\u00f3viles no requieren mantenimiento en sus sistemas de control de gases.",
+          "isCorrect": false,
+          "rationale": "La maquinaria pesada requiere un mantenimiento riguroso para asegurar que sus emisiones no excedan los par\u00e1metros permitidos."
+        }
+      ],
+      "hint": "Piense en la dificultad de medir algo que est\u00e1 en constante movimiento por kil\u00f3metros de ruta."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define el concepto de 'tiempo de residencia' de un contaminante en la atm\u00f3sfera?",
+      "answerOptions": [
+        {
+          "text": "Es el tiempo que un contaminante sobrevive flotando antes de caer o transformarse.",
+          "isCorrect": true,
+          "rationale": "Define la persistencia f\u00edsica y qu\u00edmica de la part\u00edcula o gas en el aire antes de interactuar con el suelo o convertirse en otra sustancia."
+        },
+        {
+          "text": "Es el horario en el que la planta emite la mayor cantidad de gases t\u00f3xicos.",
+          "isCorrect": false,
+          "rationale": "Este concepto se refiere a los ciclos operativos de la empresa, no al comportamiento f\u00edsico del contaminante en la atm\u00f3sfera."
+        },
+        {
+          "text": "Es el tiempo que tardan los inspectores de la OEFA en llegar a una planta.",
+          "isCorrect": false,
+          "rationale": "Esto se refiere a tiempos de respuesta administrativa y no a una propiedad f\u00edsico-qu\u00edmica del aire."
+        },
+        {
+          "text": "Es la velocidad a la que el viento transporta el material particulado.",
+          "isCorrect": false,
+          "rationale": "La velocidad del viento afecta la dispersi\u00f3n, pero el tiempo de residencia se enfoca en la permanencia del contaminante."
+        }
+      ],
+      "hint": "Reflexione sobre cu\u00e1nto dura una part\u00edcula suspendida antes de desaparecer o cambiar."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica distintiva de un contaminante secundario?",
+      "answerOptions": [
+        {
+          "text": "Se forma en la atm\u00f3sfera mediante reacciones qu\u00edmicas a partir de otros precursores.",
+          "isCorrect": true,
+          "rationale": "A diferencia de los primarios, no se emiten directamente de un tubo de escape, sino que surgen por procesos como la fot\u00f3lisis."
+        },
+        {
+          "text": "Es menos peligroso que un contaminante primario debido a su baja densidad.",
+          "isCorrect": false,
+          "rationale": "Muchos contaminantes secundarios, como el ozono troposf\u00e9rico, pueden ser m\u00e1s agresivos e insidiosos que los primarios."
+        },
+        {
+          "text": "Se puede capturar f\u00e1cilmente instalando un filtro de mangas en la chimenea.",
+          "isCorrect": false,
+          "rationale": "Al formarse en el aire a kil\u00f3metros de distancia, no pueden ser atrapados por filtros mec\u00e1nicos en el punto de emisi\u00f3n."
+        },
+        {
+          "text": "Su origen es exclusivamente biol\u00f3gico y natural.",
+          "isCorrect": false,
+          "rationale": "Los contaminantes secundarios a menudo provienen de reacciones entre gases antropog\u00e9nicos emitidos por la industria."
+        }
+      ],
+      "hint": "Piense en algo que no sale de la f\u00e1brica, sino que 'aparece' en el aire por el sol."
+    },
+    {
+      "question": "En el ciclo fotol\u00edtico de los \u00f3xidos de nitr\u00f3geno, \u00bfcu\u00e1l es el resultado de la colisi\u00f3n entre el ox\u00edgeno at\u00f3mico libre y el ox\u00edgeno molecular ($O_{2}$)?",
+      "answerOptions": [
+        {
+          "text": "La formaci\u00f3n de ozono ($O_{3}$).",
+          "isCorrect": true,
+          "rationale": "El \u00e1tomo de ox\u00edgeno inestable liberado por la disociaci\u00f3n del $NO_{2}$ se une r\u00e1pidamente al $O_{2}$ ambiental para crear ozono."
+        },
+        {
+          "text": "La creaci\u00f3n de mon\u00f3xido de carbono ($CO$).",
+          "isCorrect": false,
+          "rationale": "El mon\u00f3xido de carbono suele ser un contaminante primario de combusti\u00f3n incompleta, no el producto de este ciclo de nitr\u00f3geno."
+        },
+        {
+          "text": "La precipitaci\u00f3n inmediata de lluvia \u00e1cida.",
+          "isCorrect": false,
+          "rationale": "Aunque el nitr\u00f3geno est\u00e1 involucrado en la lluvia \u00e1cida, la reacci\u00f3n espec\u00edfica mencionada produce un gas oxidante, no un \u00e1cido l\u00edquido."
+        },
+        {
+          "text": "La neutralizaci\u00f3n total de los contaminantes gaseosos.",
+          "isCorrect": false,
+          "rationale": "Esta reacci\u00f3n no neutraliza, sino que genera un contaminante secundario agresivo para la salud."
+        }
+      ],
+      "hint": "Esta reacci\u00f3n ocurre en el paso tres de la transformaci\u00f3n invisible en la trop\u00f3sfera."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el material particulado de tipo $PM_{2.5}$ representa un riesgo mayor para la salud humana que el $PM_{10}$?",
+      "answerOptions": [
+        {
+          "text": "Logra penetrar hasta los alv\u00e9olos pulmonares e ingresar al torrente sangu\u00edneo.",
+          "isCorrect": true,
+          "rationale": "Su tama\u00f1o microsc\u00f3pico le permite evadir las defensas respiratorias superiores que s\u00ed atrapan a las part\u00edculas m\u00e1s gruesas."
+        },
+        {
+          "text": "Es m\u00e1s pesado y se deposita r\u00e1pidamente en las fuentes de agua.",
+          "isCorrect": false,
+          "rationale": "Las part\u00edculas m\u00e1s pesadas y que caen r\u00e1pido son generalmente las de mayor tama\u00f1o, como el polvo grueso."
+        },
+        {
+          "text": "Su composici\u00f3n qu\u00edmica es siempre inerte y no reacciona con el cuerpo.",
+          "isCorrect": false,
+          "rationale": "El riesgo del $PM_{2.5}$ radica precisamente en su potencial qu\u00edmico y su capacidad de transporte de sustancias t\u00f3xicas al interior del organismo."
+        },
+        {
+          "text": "Es visible a simple vista y causa irritaci\u00f3n ocular inmediata.",
+          "isCorrect": false,
+          "rationale": "A diferencia del polvo com\u00fan, el $PM_{2.5}$ es microsc\u00f3pico y suele ser invisible sin equipos especializados."
+        }
+      ],
+      "hint": "Considere la profundidad a la que una part\u00edcula min\u00fascula puede llegar dentro del sistema circulatorio."
+    },
+    {
+      "question": "\u00bfQu\u00e9 hito legal ocurri\u00f3 en el a\u00f1o 2001 dentro de la evoluci\u00f3n del marco regulatorio peruano?",
+      "answerOptions": [
+        {
+          "text": "Se introdujeron los primeros Est\u00e1ndares de Calidad Ambiental ($ECA$) a nivel nacional.",
+          "isCorrect": true,
+          "rationale": "El a\u00f1o 2001 marc\u00f3 el inicio de los $ECA$, estableciendo los par\u00e1metros de calidad para el aire que respira la poblaci\u00f3n general."
+        },
+        {
+          "text": "Se establecieron los primeros l\u00edmites para azufre y metales en miner\u00eda.",
+          "isCorrect": false,
+          "rationale": "Eso ocurri\u00f3 anteriormente, en el a\u00f1o 1996, como parte de las primeras regulaciones sectoriales."
+        },
+        {
+          "text": "Se consolidaron los 10 par\u00e1metros prioritarios de monitoreo industrial.",
+          "isCorrect": false,
+          "rationale": "Esta consolidaci\u00f3n exhaustiva se dio mucho despu\u00e9s, espec\u00edficamente con el decreto de 2017."
+        },
+        {
+          "text": "Se hizo obligatorio el an\u00e1lisis de metales pesados en el polvo mediante el m\u00e9todo EPA.",
+          "isCorrect": false,
+          "rationale": "Esta es una exigencia reciente que corresponde a la reglamentaci\u00f3n del a\u00f1o 2023."
+        }
+      ],
+      "hint": "Fue la primera vez que se fijaron est\u00e1ndares para la calidad del aire del entorno habitable."
+    },
+    {
+      "question": "\u00bfQu\u00e9 metales pesados espec\u00edficos exige analizar la normativa de 2023 dentro del material particulado $PM_{10}$?",
+      "answerOptions": [
+        {
+          "text": "Ars\u00e9nico ($As$), cadmio ($Cd$) y cromo ($Cr$).",
+          "isCorrect": true,
+          "rationale": "La ley reciente obliga a buscar estos metales espec\u00edficos que viajan adheridos a las part\u00edculas de polvo."
+        },
+        {
+          "text": "Oro ($Au$), plata ($Ag$) y cobre ($Cu$).",
+          "isCorrect": false,
+          "rationale": "Estos son metales de inter\u00e9s comercial, pero no son los contaminantes prioritarios listados para el monitoreo de salud en $PM_{10}$."
+        },
+        {
+          "text": "Hierro ($Fe$), magnesio ($Mg$) y potasio ($K$).",
+          "isCorrect": false,
+          "rationale": "Aunque son comunes, no se consideran metales pesados cr\u00edticos de alta toxicidad bajo la nueva regulaci\u00f3n de monitoreo ambiental."
+        },
+        {
+          "text": "Aluminio ($Al$), titanio ($Ti$) y calcio ($Ca$).",
+          "isCorrect": false,
+          "rationale": "Estos elementos suelen ser de origen geol\u00f3gico y no son el foco principal de la toxicolog\u00eda forense ambiental de 2023."
+        }
+      ],
+      "hint": "Son tres metales de alta toxicidad que requieren m\u00e9todos estandarizados como los de la EPA."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el 'Principio de No Retroactividad' en el \u00e1mbito de la ingenier\u00eda ambiental?",
+      "answerOptions": [
+        {
+          "text": "Una operaci\u00f3n se eval\u00faa con los est\u00e1ndares vigentes al momento de la aprobaci\u00f3n de su Estudio de Impacto Ambiental.",
+          "isCorrect": true,
+          "rationale": "Otorga seguridad jur\u00eddica al evitar que empresas antiguas sean sancionadas por normas que no exist\u00edan cuando fueron dise\u00f1adas."
+        },
+        {
+          "text": "La industria no est\u00e1 obligada a actualizar sus tecnolog\u00edas de control en ning\u00fan caso.",
+          "isCorrect": false,
+          "rationale": "La no retroactividad protege el dise\u00f1o original, pero las empresas a menudo deben adaptarse para mantener su licencia social."
+        },
+        {
+          "text": "Las leyes nuevas anulan autom\u00e1ticamente cualquier permiso ambiental otorgado en el pasado.",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda una aplicaci\u00f3n retroactiva de la ley, lo cual es contrario al principio de estabilidad jur\u00eddica mencionado."
+        },
+        {
+          "text": "Solo las empresas nuevas deben cumplir con el monitoreo de gases t\u00f3xicos.",
+          "isCorrect": false,
+          "rationale": "Todas las operaciones deben monitorear sus emisiones, independientemente de su antig\u00fcedad, aunque el est\u00e1ndar de evaluaci\u00f3n var\u00ede."
+        }
+      ],
+      "hint": "Recuerde que el desempe\u00f1o se mide con las 'reglas de juego' originales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia estrat\u00e9gica entre el cumplimiento de los $ECA$ y los $LMP$?",
+      "answerOptions": [
+        {
+          "text": "Los $ECA$ miden la calidad del entorno general, mientras que los $LMP$ miden la emisi\u00f3n en la fuente.",
+          "isCorrect": true,
+          "rationale": "Los $ECA$ se enfocan en el aire que respiramos todos y los $LMP$ en lo que sale directamente por el ducto o chimenea."
+        },
+        {
+          "text": "Los $LMP$ son voluntarios y los $ECA$ son obligatorios para la industria minera.",
+          "isCorrect": false,
+          "rationale": "Ambos son par\u00e1metros de cumplimiento legal obligatorio; uno para el control de la fuente y otro para el impacto ambiental."
+        },
+        {
+          "text": "Cumplir los $ECA$ garantiza autom\u00e1ticamente que no se est\u00e1n excediendo los $LMP$.",
+          "isCorrect": false,
+          "rationale": "Una empresa puede estar en una zona con buen aire ($ECA$) pero tener una chimenea que sobrepasa sus propios l\u00edmites de emisi\u00f3n ($LMP$)."
+        },
+        {
+          "text": "Los $ECA$ se aplican a los veh\u00edculos y los $LMP$ a las chimeneas industriales.",
+          "isCorrect": false,
+          "rationale": "Los $LMP$ se pueden aplicar a cualquier fuente espec\u00edfica (chimenea o veh\u00edculo), mientras que el $ECA$ es una medida de calidad del aire exterior."
+        }
+      ],
+      "hint": "Piense en lo que pasa dentro de la tuber\u00eda versus lo que pasa en el aire de la ciudad."
+    },
+    {
+      "question": "En una estrategia de ubicaci\u00f3n de estaciones, \u00bfqu\u00e9 representa el punto de 'Barlovento'?",
+      "answerOptions": [
+        {
+          "text": "Es el punto antes de que el viento cruce la zona industrial, proporcionando la l\u00ednea base del aire.",
+          "isCorrect": true,
+          "rationale": "Sirve como referencia para saber qu\u00e9 tan limpio est\u00e1 el aire antes de recibir el posible aporte contaminante de la operaci\u00f3n."
+        },
+        {
+          "text": "Es la zona de mayor impacto donde se depositan todos los gases pesados.",
+          "isCorrect": false,
+          "rationale": "La zona de impacto se encuentra en la direcci\u00f3n opuesta al viento, conocida como sotavento."
+        },
+        {
+          "text": "Es el punto exacto donde se ubica la chimenea principal de la planta.",
+          "isCorrect": false,
+          "rationale": "El barlovento es un punto geogr\u00e1fico externo a la fuente de emisi\u00f3n para establecer una comparaci\u00f3n ambiental."
+        },
+        {
+          "text": "Representa el \u00e1rea donde la velocidad del viento es siempre igual a cero.",
+          "isCorrect": false,
+          "rationale": "El concepto depende precisamente del movimiento del aire; si no hay viento, no se puede definir barlovento ni sotavento."
+        }
+      ],
+      "hint": "Visualice de d\u00f3nde viene el aire antes de 'ensuciarse' con la actividad de la planta."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la tasa de succi\u00f3n utilizada por los sistemas 'Low Vol' para capturar material particulado fino?",
+      "answerOptions": [
+        {
+          "text": "$1\\ m^{3}/h$.",
+          "isCorrect": true,
+          "rationale": "Esta baja tasa de flujo permite que las part\u00edculas finas se depositen sin rebotar, asegurando una recolecci\u00f3n precisa."
+        },
+        {
+          "text": "$1.13\\ m^{3}/min$.",
+          "isCorrect": false,
+          "rationale": "Este es el caudal de los sistemas 'High Vol', dise\u00f1ados para succionar grandes vol\u00famenes de aire r\u00e1pidamente."
+        },
+        {
+          "text": "$400\\ toneladas/min$.",
+          "isCorrect": false,
+          "rationale": "Este valor se refiere a la capacidad de carga de los camiones mineros gigantes, no a un caudal de succi\u00f3n de aire."
+        },
+        {
+          "text": "$24\\ m^{3}/d\u00eda$.",
+          "isCorrect": false,
+          "rationale": "Aunque el monitoreo puede durar 24 horas, la tasa de succi\u00f3n se mide por hora o minuto, y este valor no es el est\u00e1ndar t\u00e9cnico mencionado."
+        }
+      ],
+      "hint": "Es una tasa pausada y controlada para no perder las part\u00edculas de $PM_{2.5}$."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 principio f\u00edsico se basa la tecnolog\u00eda TEOM para medir la concentraci\u00f3n de polvo en tiempo real?",
+      "answerOptions": [
+        {
+          "text": "El cambio en la frecuencia de vibraci\u00f3n de un elemento c\u00f3nico al aumentar su masa.",
+          "isCorrect": true,
+          "rationale": "Conforme el polvo se deposita en la punta del cono oscilante, la frecuencia var\u00eda, permitiendo calcular la masa exacta."
+        },
+        {
+          "text": "La medici\u00f3n de la luz dispersada por las part\u00edculas al pasar por un l\u00e1ser.",
+          "isCorrect": false,
+          "rationale": "Aunque existen sensores \u00f3pticos, el TEOM se basa espec\u00edficamente en la microbalanza oscilatoria, que es un principio gravim\u00e9trico."
+        },
+        {
+          "text": "La captura de part\u00edculas mediante fuerza centr\u00edfuga en un remolino.",
+          "isCorrect": false,
+          "rationale": "Este es el principio de funcionamiento de un cicl\u00f3n, no de un equipo de monitoreo de precisi\u00f3n como el TEOM."
+        },
+        {
+          "text": "El an\u00e1lisis qu\u00edmico de la reactividad del polvo con un sustrato l\u00edquido.",
+          "isCorrect": false,
+          "rationale": "El TEOM es un m\u00e9todo f\u00edsico y directo que no requiere reactivos qu\u00edmicos para determinar la masa del material."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo var\u00eda el movimiento de un objeto cuando se le a\u00f1ade peso encima."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica la aplicaci\u00f3n real de Inteligencia Artificial en la ingenier\u00eda ambiental industrial?",
+      "answerOptions": [
+        {
+          "text": "Uso de algoritmos de Machine Learning para predecir patrones de dispersi\u00f3n y Big Data.",
+          "isCorrect": true,
+          "rationale": "La verdadera IA en este campo procesa grandes vol\u00famenes de datos operativos y meteorol\u00f3gicos para anticipar contingencias."
+        },
+        {
+          "text": "Utilizar chats generativos para redactar informes de cumplimiento ambiental.",
+          "isCorrect": false,
+          "rationale": "Redactar textos no es una aplicaci\u00f3n de ingenier\u00eda t\u00e9cnica; es solo una automatizaci\u00f3n administrativa b\u00e1sica."
+        },
+        {
+          "text": "Reemplazar todos los sensores f\u00edsicos por simulaciones virtuales de software.",
+          "isCorrect": false,
+          "rationale": "La IA complementa y procesa los datos de los sensores reales, pero no puede sustituir la medici\u00f3n f\u00edsica de la atm\u00f3sfera."
+        },
+        {
+          "text": "Programar m\u00e1quinas para que limpien autom\u00e1ticamente los filtros de mangas.",
+          "isCorrect": false,
+          "rationale": "La limpieza de filtros es automatizaci\u00f3n mec\u00e1nica industrial cl\u00e1sica, no necesariamente inteligencia artificial avanzada."
+        }
+      ],
+      "hint": "Vaya m\u00e1s all\u00e1 de la redacci\u00f3n de textos y piense en el an\u00e1lisis masivo de datos matem\u00e1ticos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de un Cicl\u00f3n en el control de emisiones industriales?",
+      "answerOptions": [
+        {
+          "text": "Utilizar la fuerza centr\u00edfuga para separar part\u00edculas gruesas mayores a $50\\ micras$.",
+          "isCorrect": true,
+          "rationale": "El aire gira velozmente y las part\u00edculas pesadas chocan contra las paredes del equipo, perdiendo inercia y cayendo al recolector."
+        },
+        {
+          "text": "Filtrar gases t\u00f3xicos mediante reacciones qu\u00edmicas catal\u00edticas.",
+          "isCorrect": false,
+          "rationale": "Los ciclones son equipos mec\u00e1nicos y no est\u00e1n dise\u00f1ados para tratar gases a nivel molecular."
+        },
+        {
+          "text": "Capturar el material particulado m\u00e1s fino ($PM_{2.5}$) mediante mallas textiles.",
+          "isCorrect": false,
+          "rationale": "Debido a su principio f\u00edsico, los ciclones son ineficientes para part\u00edculas ultra finas, las cuales requieren filtros de mangas."
+        },
+        {
+          "text": "Transformar el di\u00f3xido de azufre en yeso comercial.",
+          "isCorrect": false,
+          "rationale": "Esa transformaci\u00f3n ocurre en una torre de absorci\u00f3n y aireaci\u00f3n, no en un cicl\u00f3n centr\u00edfugo."
+        }
+      ],
+      "hint": "Imagine el movimiento de una lavadora que lanza el agua (o el polvo) hacia afuera."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se dice que los filtros de mangas no alcanzan su m\u00e1xima eficiencia cuando est\u00e1n nuevos?",
+      "answerOptions": [
+        {
+          "text": "Necesitan una capa inicial de polvo acumulado que act\u00fae como un filtro adicional.",
+          "isCorrect": true,
+          "rationale": "Esta 'torta de filtraci\u00f3n' inicial ayuda a cerrar los poros del tejido, mejorando la capacidad de captura de part\u00edculas."
+        },
+        {
+          "text": "Requieren calentarse a temperaturas extremas para que el tejido se expanda.",
+          "isCorrect": false,
+          "rationale": "El funcionamiento es mec\u00e1nico y poroso; el calor excesivo podr\u00eda da\u00f1ar las fibras textiles de las mangas."
+        },
+        {
+          "text": "Deben ser lavados con soluciones qu\u00edmicas antes de su primer uso.",
+          "isCorrect": false,
+          "rationale": "Los filtros de mangas operan en seco y la humedad podr\u00eda apelmazar el polvo, arruinando el sistema."
+        },
+        {
+          "text": "El aire comprimido de limpieza solo funciona despu\u00e9s de varios d\u00edas de uso.",
+          "isCorrect": false,
+          "rationale": "El sistema de inyecci\u00f3n de aire est\u00e1 listo desde el inicio, pero la eficiencia de filtrado depende de la saturaci\u00f3n del medio."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el mismo polvo ayuda a atrapar m\u00e1s polvo."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se convierte un gas t\u00f3xico como el di\u00f3xido de azufre ($SO_{2}$) en un producto valioso como el yeso?",
+      "answerOptions": [
+        {
+          "text": "Mediante absorci\u00f3n con caliza y un proceso posterior de aireaci\u00f3n para oxidar el sulfito.",
+          "isCorrect": true,
+          "rationale": "La reacci\u00f3n con caliza forma sulfito de calcio, que al ser oxigenado se convierte en sulfato de calcio dihidratado (yeso)."
+        },
+        {
+          "text": "Haci\u00e9ndolo pasar por un catalizador de vanadio y tungsteno a alta presi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este tipo de catalizadores se utilizan para la reducci\u00f3n de \u00f3xidos de nitr\u00f3geno, no para producir yeso."
+        },
+        {
+          "text": "Enfriando el gas hasta que se solidifique por debajo de los $0^{\\circ}C$.",
+          "isCorrect": false,
+          "rationale": "El $SO_{2}$ no se convierte en yeso por simple enfriamiento f\u00edsico; requiere una reacci\u00f3n qu\u00edmica con una base alcalina."
+        },
+        {
+          "text": "Mezcl\u00e1ndolo con ozono troposf\u00e9rico para neutralizar su acidez.",
+          "isCorrect": false,
+          "rationale": "Mezclar gases t\u00f3xicos no produce un s\u00f3lido industrial aprovechable como el yeso en la econom\u00eda circular."
+        }
+      ],
+      "hint": "Es un proceso de dos pasos: primero un ba\u00f1o de caliza y luego inyecci\u00f3n de ox\u00edgeno."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo del sistema de Reducci\u00f3n Catal\u00edtica Selectiva ($SCR$)?",
+      "answerOptions": [
+        {
+          "text": "Romper los \u00f3xidos de nitr\u00f3geno ($NO_{x}$) y devolverlos al ambiente como nitr\u00f3geno inerte.",
+          "isCorrect": true,
+          "rationale": "Utiliza un catalizador para transformar gases nocivos en componentes naturales de la atm\u00f3sfera."
+        },
+        {
+          "text": "Convertir el mon\u00f3xido de carbono en di\u00f3xido de carbono mediante calor.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n de la oxidaci\u00f3n catal\u00edtica, no de la reducci\u00f3n catal\u00edtica selectiva espec\u00edfica para nitr\u00f3geno."
+        },
+        {
+          "text": "Capturar el mercurio gaseoso antes de que llegue a la chimenea.",
+          "isCorrect": false,
+          "rationale": "El mercurio requiere m\u00e9todos de adsorci\u00f3n espec\u00edficos, usualmente con carb\u00f3n activado, no sistemas $SCR$."
+        },
+        {
+          "text": "Aumentar la temperatura de emisi\u00f3n para mejorar la dispersi\u00f3n de los gases.",
+          "isCorrect": false,
+          "rationale": "El $SCR$ es un tratamiento qu\u00edmico de limpieza, no un m\u00e9todo f\u00edsico de dispersi\u00f3n t\u00e9rmica."
+        }
+      ],
+      "hint": "Utiliza una receta de vanadio, tungsteno y titanio para tratar el nitr\u00f3geno."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se prefiere convertir el mon\u00f3xido de carbono ($CO$) en di\u00f3xido de carbono ($CO_{2}$) a pesar de que este \u00faltimo es un gas de efecto invernadero?",
+      "answerOptions": [
+        {
+          "text": "Porque el $CO_{2}$ es abismalmente menos t\u00f3xico para la salud humana inmediata que el $CO$.",
+          "isCorrect": true,
+          "rationale": "El $CO$ es un gas altamente peligroso que impide el transporte de ox\u00edgeno en la sangre, mientras que el $CO_{2}$ es un riesgo ambiental a largo plazo."
+        },
+        {
+          "text": "Porque el $CO_{2}$ puede ser atrapado f\u00e1cilmente por filtros de mangas.",
+          "isCorrect": false,
+          "rationale": "El $CO_{2}$ es un gas y atraviesa cualquier filtro mec\u00e1nico dise\u00f1ado para capturar polvo o part\u00edculas s\u00f3lidas."
+        },
+        {
+          "text": "Porque la normativa actual proh\u00edbe cualquier emisi\u00f3n de mon\u00f3xido de carbono.",
+          "isCorrect": false,
+          "rationale": "La norma establece l\u00edmites permisibles, pero la conversi\u00f3n se hace para reducir dr\u00e1sticamente la toxicidad en el \u00e1rea operativa."
+        },
+        {
+          "text": "Porque el proceso de conversi\u00f3n genera energ\u00eda el\u00e9ctrica para la planta.",
+          "isCorrect": false,
+          "rationale": "La oxidaci\u00f3n catal\u00edtica es un proceso de control de emisiones que consume energ\u00eda y recursos, no es una fuente de generaci\u00f3n el\u00e9ctrica."
+        }
+      ],
+      "hint": "Considere la toxicidad directa al respirar estos gases en las cercan\u00edas de la operaci\u00f3n."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Clasificaci\u00f3n de fuentes contaminantes (Fijas vs M\u00f3viles)",
+      "Contaminantes primarios y secundarios",
+      "Ciclo fotol\u00edtico de los \u00f3xidos de nitr\u00f3geno",
+      "Impacto de material particulado ($PM_{10}$ y $PM_{2.5}$) en la salud",
+      "Evoluci\u00f3n del marco regulatorio ambiental peruano",
+      "Estrategias de monitoreo atmosf\u00e9rico (Barlovento y Sotavento)",
+      "Tecnolog\u00edas de medici\u00f3n en tiempo real (TEOM)",
+      "Operaciones unitarias de mitigaci\u00f3n (Ciclones, Filtros, SCR y Absorci\u00f3n)"
+    ],
+    "followUp": [
+      "Din\u00e1mica de dispersi\u00f3n de contaminantes seg\u00fan meteorolog\u00eda local",
+      "Qu\u00edmica anal\u00edtica aplicada al monitoreo forense de metales pesados",
+      "Implementaci\u00f3n de modelos de Machine Learning en redes de monitoreo industrial",
+      "Econom\u00eda circular mediante la valorizaci\u00f3n de subproductos de emisiones ($Gypsum$)",
+      "Gesti\u00f3n de pasivos ambientales y licencia social para operar en miner\u00eda"
+    ]
+  }
+}

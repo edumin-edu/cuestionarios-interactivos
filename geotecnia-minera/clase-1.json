@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre la geotecnia y la geomec\u00e1nica?",
+      "answerOptions": [
+        {
+          "text": "La geotecnia es la disciplina macro integradora, mientras que la geomec\u00e1nica se enfoca espec\u00edficamente en las propiedades mec\u00e1nicas a nivel microsc\u00f3pico.",
+          "isCorrect": true,
+          "rationale": "La geotecnia act\u00faa como el marco global que abarca suelos y rocas, mientras que la geomec\u00e1nica utiliza un enfoque m\u00e1s t\u00e9cnico y quir\u00fargico sobre las propiedades mec\u00e1nicas de los materiales."
+        },
+        {
+          "text": "La geotecnia se encarga exclusivamente de las rocas y la geomec\u00e1nica se encarga de los suelos.",
+          "isCorrect": false,
+          "rationale": "Ambas disciplinas tratan con suelos y rocas, pero difieren en la escala y especificidad de su an\u00e1lisis."
+        },
+        {
+          "text": "La geotecnia es una rama t\u00e9cnica de la geomec\u00e1nica que se enfoca solo en la construcci\u00f3n de puentes.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; la geomec\u00e1nica es la rama espec\u00edfica dentro del campo m\u00e1s amplio de la geotecnia."
+        },
+        {
+          "text": "No existe diferencia alguna, ambos t\u00e9rminos son sin\u00f3nimos exactos en la ingenier\u00eda civil.",
+          "isCorrect": false,
+          "rationale": "Aunque es com\u00fan usarlos como sin\u00f3nimos, operan en niveles conceptuales distintos: uno global y otro espec\u00edfico."
+        }
+      ],
+      "hint": "Considere cu\u00e1l de las dos disciplinas act\u00faa como el 'director de orquesta' global."
+    },
+    {
+      "question": "\u00bfQu\u00e9 define operativamente a una roca frente a un suelo?",
+      "answerOptions": [
+        {
+          "text": "Su composici\u00f3n qu\u00edmica basada en silicatos ferromagnesianos.",
+          "isCorrect": false,
+          "rationale": "La distinci\u00f3n operativa no se basa en la qu\u00edmica mineral\u00f3gica, sino en su estado f\u00edsico de agregaci\u00f3n."
+        },
+        {
+          "text": "Ser estrictamente un cuerpo consolidado.",
+          "isCorrect": true,
+          "rationale": "A diferencia del suelo, que es un conjunto de part\u00edculas no consolidadas, la roca se define por su naturaleza s\u00f3lida y firme."
+        },
+        {
+          "text": "Su capacidad para disolverse en agua de lluvia.",
+          "isCorrect": false,
+          "rationale": "La solubilidad es una propiedad qu\u00edmica espec\u00edfica y no el criterio de distinci\u00f3n entre suelo y roca."
+        },
+        {
+          "text": "El tama\u00f1o de sus part\u00edculas, que debe ser mayor a 2 metros.",
+          "isCorrect": false,
+          "rationale": "La definici\u00f3n de roca no depende de un tama\u00f1o de part\u00edcula espec\u00edfico, sino de su consolidaci\u00f3n como cuerpo \u00fanico."
+        }
+      ],
+      "hint": "Piense en el estado de uni\u00f3n o firmeza de las part\u00edculas que componen el material."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el fen\u00f3meno conocido como pseudocomportamiento de suelo?",
+      "answerOptions": [
+        {
+          "text": "Es cuando un suelo granular se cementa tanto que empieza a actuar como una roca s\u00f3lida.",
+          "isCorrect": false,
+          "rationale": "Este ser\u00eda el proceso inverso a lo que describe el concepto de pseudocomportamiento de suelo."
+        },
+        {
+          "text": "Ocurre cuando macizos rocosos muy fracturados o alterados act\u00faan con la din\u00e1mica de un material granular.",
+          "isCorrect": true,
+          "rationale": "Bajo condiciones de fracturamiento extremo, la roca pierde su comportamiento de cuerpo s\u00f3lido y se comporta mec\u00e1nicamente como un suelo."
+        },
+        {
+          "text": "Es la capacidad de las rocas \u00edgneas para flotar sobre sedimentos arcillosos.",
+          "isCorrect": false,
+          "rationale": "Este concepto no tiene relaci\u00f3n con la flotabilidad, sino con el modelo mec\u00e1nico de estabilidad aplicable."
+        },
+        {
+          "text": "Se refiere a la formaci\u00f3n de caliche en entornos volc\u00e1nicos de alta temperatura.",
+          "isCorrect": false,
+          "rationale": "El caliche es una formaci\u00f3n espec\u00edfica y no define el comportamiento mec\u00e1nico general de macizos fracturados."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 sucede cuando una roca est\u00e1 tan rota que deja de comportarse como un bloque s\u00f3lido."
+    },
+    {
+      "question": "\u00bfQu\u00e9 miden espec\u00edficamente las propiedades mec\u00e1nicas de los materiales geol\u00f3gicos?",
+      "answerOptions": [
+        {
+          "text": "La densidad intr\u00ednseca y la temperatura de fusi\u00f3n del material.",
+          "isCorrect": false,
+          "rationale": "Estas son propiedades f\u00edsicas que no alteran ni responden directamente a esfuerzos mec\u00e1nicos externos."
+        },
+        {
+          "text": "La respuesta ante presiones, tirones o cortes para ubicar zonas de cedencia.",
+          "isCorrect": true,
+          "rationale": "Las propiedades mec\u00e1nicas se centran en la deformaci\u00f3n y resistencia del material frente a fuerzas aplicadas."
+        },
+        {
+          "text": "La capacidad del material para interactuar con solventes polares como el agua.",
+          "isCorrect": false,
+          "rationale": "La interacci\u00f3n con l\u00edquidos corresponde a las propiedades hidr\u00e1ulicas o qu\u00edmicas del material."
+        },
+        {
+          "text": "La aptitud del material para ser transformado a nivel industrial.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n pertenece a las propiedades tecnol\u00f3gicas o ingenieriles, como la ductilidad."
+        }
+      ],
+      "hint": "Enf\u00f3quese en c\u00f3mo reacciona el material ante fuerzas f\u00edsicas externas como el empuje o la tracci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de las siguientes especialidades se encarga de estudiar las discontinuidades del terreno, como fallas y diaclasas?",
+      "answerOptions": [
+        {
+          "text": "Geomorfolog\u00eda.",
+          "isCorrect": false,
+          "rationale": "La geomorfolog\u00eda se centra en las formas del relieve externo y no en las estructuras internas de ruptura."
+        },
+        {
+          "text": "Hidrogeolog\u00eda.",
+          "isCorrect": false,
+          "rationale": "Esta rama estudia la din\u00e1mica y qu\u00edmica de las aguas subterr\u00e1neas."
+        },
+        {
+          "text": "Geolog\u00eda estructural.",
+          "isCorrect": true,
+          "rationale": "La geolog\u00eda estructural analiza las deformaciones y fracturas del terreno que alteran el dise\u00f1o geot\u00e9cnico."
+        },
+        {
+          "text": "Petrolog\u00eda sedimentaria.",
+          "isCorrect": false,
+          "rationale": "Esta especialidad estudia el origen y composici\u00f3n de rocas sedimentarias, no sus fracturas estructurales."
+        }
+      ],
+      "hint": "Busque la rama que pone la lupa sobre las grietas y rupturas que dividen el macizo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 elementos deben converger simult\u00e1neamente para que se genere el drenaje \u00e1cido de mina (DAM)?",
+      "answerOptions": [
+        {
+          "text": "Material reactivo, agua y ox\u00edgeno.",
+          "isCorrect": true,
+          "rationale": "La tr\u00edada de prevenci\u00f3n establece que la ausencia de cualquiera de estos tres componentes detiene la reacci\u00f3n de acidez."
+        },
+        {
+          "text": "Nitr\u00f3geno, material inerte y calor extremo.",
+          "isCorrect": false,
+          "rationale": "El nitr\u00f3geno no es un componente clave en esta reacci\u00f3n de oxidaci\u00f3n, y se requiere material reactivo, no inerte."
+        },
+        {
+          "text": "Suelo granular, vac\u00edo y presi\u00f3n atmosf\u00e9rica.",
+          "isCorrect": false,
+          "rationale": "Aunque est\u00e1n presentes, no son los reactivos qu\u00edmicos que desencadenan la generaci\u00f3n de \u00e1cido."
+        },
+        {
+          "text": "Hierro oxidado, di\u00f3xido de carbono y humedad relativa.",
+          "isCorrect": false,
+          "rationale": "La reacci\u00f3n requiere espec\u00edficamente el contacto del agua y ox\u00edgeno con minerales sulfurosos reactivos."
+        }
+      ],
+      "hint": "Recuerde los tres pilares de la tr\u00edada de prevenci\u00f3n para neutralizar el problema ambiental."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la soluci\u00f3n m\u00e1s directa para detener el proceso de generaci\u00f3n de acidez en una mina seg\u00fan la tr\u00edada de prevenci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la temperatura de fusi\u00f3n del material reactivo.",
+          "isCorrect": false,
+          "rationale": "La temperatura de fusi\u00f3n es una propiedad intr\u00ednseca que no previene la oxidaci\u00f3n superficial."
+        },
+        {
+          "text": "Eliminar o aislar al menos uno de los tres elementos (material, agua u ox\u00edgeno).",
+          "isCorrect": true,
+          "rationale": "Al romper la tr\u00edada eliminando solo un componente, la reacci\u00f3n en cadena de oxidaci\u00f3n se detiene."
+        },
+        {
+          "text": "Incrementar la porosidad del material para que el agua fluya m\u00e1s r\u00e1pido.",
+          "isCorrect": false,
+          "rationale": "Aumentar el flujo de agua y la porosidad podr\u00eda acelerar el proceso en lugar de detenerlo."
+        },
+        {
+          "text": "Aplicar presi\u00f3n mec\u00e1nica constante para sellar las grietas microsc\u00f3picas.",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda, la prevenci\u00f3n se basa fundamentalmente en el aislamiento qu\u00edmico de los reactivos."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo se puede neutralizar una ecuaci\u00f3n qu\u00edmica eliminando uno de sus reactivos necesarios."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 en ingenier\u00eda se considera despreciable el peso de la fase gaseosa (aire) al calcular el peso total del suelo?",
+      "answerOptions": [
+        {
+          "text": "Porque el aire no ocupa volumen dentro de los espacios vac\u00edos.",
+          "isCorrect": false,
+          "rationale": "El aire s\u00ed ocupa volumen, pero su masa es la que se considera irrelevante para los c\u00e1lculos de carga."
+        },
+        {
+          "text": "Debido a que su peso espec\u00edfico es de aproximadamente $0.0012\\ g/cm^{3}$.",
+          "isCorrect": true,
+          "rationale": "Al ser un valor tan \u00ednfimo en comparaci\u00f3n con los s\u00f3lidos y el agua, se asume como cero para fines pr\u00e1cticos."
+        },
+        {
+          "text": "Porque el aire se evapora inmediatamente al contacto con la matriz s\u00f3lida.",
+          "isCorrect": false,
+          "rationale": "El aire permanece atrapado en los poros; no se evapora, simplemente tiene una densidad muy baja."
+        },
+        {
+          "text": "Porque la fase gaseosa solo existe en suelos saturados al $100\\%$.",
+          "isCorrect": false,
+          "rationale": "En un suelo totalmente saturado, el aire es desplazado por el agua; la fase gaseosa es propia de suelos no saturados."
+        }
+      ],
+      "hint": "Considere el valor num\u00e9rico de la densidad del aire frente a la de los materiales s\u00f3lidos."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define la porosidad ($n$) en la mec\u00e1nica de suelos?",
+      "answerOptions": [
+        {
+          "text": "La raz\u00f3n entre el peso del agua y el peso de los s\u00f3lidos.",
+          "isCorrect": false,
+          "rationale": "Esa definici\u00f3n corresponde al contenido de humedad, no a la porosidad."
+        },
+        {
+          "text": "La proporci\u00f3n entre el volumen de vac\u00edos y el volumen total de la muestra.",
+          "isCorrect": true,
+          "rationale": "La porosidad indica qu\u00e9 porcentaje del espacio total est\u00e1 disponible para ser ocupado por fluidos o gases."
+        },
+        {
+          "text": "La relaci\u00f3n espec\u00edfica entre el volumen de vac\u00edos y el volumen de la matriz s\u00f3lida.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde a la relaci\u00f3n de vac\u00edos ($e$), no a la porosidad ($n$)."
+        },
+        {
+          "text": "El grado de inundaci\u00f3n de los poros por parte de la fase l\u00edquida.",
+          "isCorrect": false,
+          "rationale": "Esto define el grado de saturaci\u00f3n, que es una m\u00e9trica distinta a la porosidad total."
+        }
+      ],
+      "hint": "Relacione el espacio vac\u00edo con el 'todo' de la muestra analizada."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa la relaci\u00f3n de vac\u00edos ($e$) en un an\u00e1lisis de cimentaciones?",
+      "answerOptions": [
+        {
+          "text": "Qu\u00e9 tan denso o suelto est\u00e1 el esqueleto mineral puro del suelo.",
+          "isCorrect": true,
+          "rationale": "Al comparar los vac\u00edos contra el s\u00f3lido (y no el total), revela la compacidad de la estructura mineral."
+        },
+        {
+          "text": "El peso unitario h\u00famedo dividido por la gravedad constante.",
+          "isCorrect": false,
+          "rationale": "Esa operaci\u00f3n dar\u00eda como resultado la densidad h\u00fameda, no una relaci\u00f3n de vac\u00edos volum\u00e9trica."
+        },
+        {
+          "text": "La capacidad del suelo para repeler el agua mediante electromagnetismo.",
+          "isCorrect": false,
+          "rationale": "Eso describe la hidrofobicidad, un fen\u00f3meno f\u00edsico-qu\u00edmico superficial."
+        },
+        {
+          "text": "El volumen de aire que puede ser comprimido bajo cargas s\u00edsmicas.",
+          "isCorrect": false,
+          "rationale": "Aunque el aire se comprime, la relaci\u00f3n de vac\u00edos es una proporci\u00f3n volum\u00e9trica est\u00e1tica de dise\u00f1o."
+        }
+      ],
+      "hint": "Piense en la comparaci\u00f3n entre el espacio que no tiene nada y la parte s\u00f3lida 'dura' del suelo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 impacto tiene la hidrofobicidad en los an\u00e1lisis geot\u00e9cnicos de campo?",
+      "answerOptions": [
+        {
+          "text": "Facilita la absorci\u00f3n de l\u00edquidos, mejorando la precisi\u00f3n de las calicatas.",
+          "isCorrect": false,
+          "rationale": "La hidrofobicidad causa repulsi\u00f3n de l\u00edquidos, no absorci\u00f3n, lo que complica la toma de datos."
+        },
+        {
+          "text": "Altera las presiones de poros y falsea los niveles de saturaci\u00f3n en las muestras.",
+          "isCorrect": true,
+          "rationale": "La repulsi\u00f3n activa del agua por las part\u00edculas electromagnetizadas impide obtener datos reales de humedad."
+        },
+        {
+          "text": "Aumenta la densidad relativa del suelo de forma natural sin intervenci\u00f3n mec\u00e1nica.",
+          "isCorrect": false,
+          "rationale": "La hidrofobicidad no cambia la organizaci\u00f3n f\u00edsica de las part\u00edculas, solo su interacci\u00f3n con el agua."
+        },
+        {
+          "text": "Es una propiedad deseable que garantiza la estabilidad de los taludes ante lluvias intensas.",
+          "isCorrect": false,
+          "rationale": "En geotecnia es un riesgo porque impide predecir correctamente el comportamiento del material ante el agua."
+        }
+      ],
+      "hint": "Considere c\u00f3mo afectar\u00eda un 'escudo contra fluidos' a la medici\u00f3n del agua dentro del suelo."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el peso unitario seco ($\\gamma_{d}$) es vital para la rentabilidad financiera en miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Porque permite calcular la cantidad exacta de ox\u00edgeno necesaria para la oxidaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El peso seco se usa para log\u00edstica de transporte, no para c\u00e1lculos estequiom\u00e9tricos de oxidaci\u00f3n."
+        },
+        {
+          "text": "Porque evita gastar recursos transportando agua que no aporta valor econ\u00f3mico.",
+          "isCorrect": true,
+          "rationale": "La industria monetiza s\u00f3lidos; mover agua innecesaria en grandes vol\u00famenes representa una p\u00e9rdida log\u00edstica millonaria."
+        },
+        {
+          "text": "Porque es el \u00fanico par\u00e1metro que permite predecir sismos en la costa peruana.",
+          "isCorrect": false,
+          "rationale": "La predicci\u00f3n s\u00edsmica no depende del peso unitario seco de los dep\u00f3sitos superficiales."
+        },
+        {
+          "text": "Porque garantiza que el material no se incendie durante el traslado por fricci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El peso seco es una m\u00e9trica de masa y volumen, no un indicador de inflamabilidad."
+        }
+      ],
+      "hint": "Piense en el costo de mover toneladas de material y qu\u00e9 componente de ese material no tiene valor de venta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00eda se menciona para maximizar la estabilidad estructural en dep\u00f3sitos cr\u00edticos como relaveras?",
+      "answerOptions": [
+        {
+          "text": "Inyecci\u00f3n de pol\u00edmeros l\u00edquidos para sellar la porosidad.",
+          "isCorrect": false,
+          "rationale": "Aunque existen pol\u00edmeros, el m\u00e9todo destacado es la reorganizaci\u00f3n mec\u00e1nica mediante equipos espec\u00edficos."
+        },
+        {
+          "text": "M\u00e1quinas anfibias de tecnolog\u00eda australiana que exprimen los fluidos in situ.",
+          "isCorrect": true,
+          "rationale": "Estas m\u00e1quinas reorganizan las part\u00edculas continuamente para reducir la porosidad y aumentar la densidad."
+        },
+        {
+          "text": "Uso de drones t\u00e9rmicos para evaporar el agua superficial.",
+          "isCorrect": false,
+          "rationale": "La evaporaci\u00f3n superficial por calor no es un m\u00e9todo eficiente para la consolidaci\u00f3n profunda de relaves."
+        },
+        {
+          "text": "Perforaci\u00f3n diamantina con recuperaci\u00f3n de calor exot\u00e9rmico.",
+          "isCorrect": false,
+          "rationale": "La perforaci\u00f3n diamantina es una t\u00e9cnica de exploraci\u00f3n, no de compactaci\u00f3n o estabilizaci\u00f3n de relaveras."
+        }
+      ],
+      "hint": "Piense en equipos capaces de operar en terrenos blandos para 'exprimir' el agua del suelo."
+    },
+    {
+      "question": "En un caso pr\u00e1ctico, si una muestra tiene un peso h\u00famedo de $5500\\ N$ y un peso seco de $4911\\ N$, \u00bfcu\u00e1l es su contenido de humedad ($w$)?",
+      "answerOptions": [
+        {
+          "text": "$15\\%$.",
+          "isCorrect": false,
+          "rationale": "Este valor no se obtiene de la relaci\u00f3n entre el peso del agua evaporada y el peso seco de la muestra."
+        },
+        {
+          "text": "$12\\%$.",
+          "isCorrect": true,
+          "rationale": "Se calcula restando el peso seco al h\u00famedo ($589\\ N$) y dividiendo el resultado entre el peso seco ($4911\\ N$)."
+        },
+        {
+          "text": "$10.7\\%$.",
+          "isCorrect": false,
+          "rationale": "Este error suele ocurrir si se divide el peso del agua entre el peso total h\u00famedo en lugar del peso seco."
+        },
+        {
+          "text": "$22\\%$.",
+          "isCorrect": false,
+          "rationale": "Es un valor demasiado alto que no corresponde a la diferencia de pesos proporcionada."
+        }
+      ],
+      "hint": "Reste el peso seco del h\u00famedo para hallar el peso del agua y div\u00eddalo entre el peso de los s\u00f3lidos."
+    },
+    {
+      "question": "Si el volumen de una muestra es $0.3\\ m^{3}$ y su peso h\u00famedo es $5500\\ N$, \u00bfcu\u00e1l es su peso unitario h\u00famedo ($\\gamma$) en $kN/m^{3}$?",
+      "answerOptions": [
+        {
+          "text": "$16.37\\ kN/m^{3}$.",
+          "isCorrect": false,
+          "rationale": "Este valor corresponde al peso unitario seco del caso pr\u00e1ctico, no al h\u00famedo."
+        },
+        {
+          "text": "$18.33\\ kN/m^{3}$.",
+          "isCorrect": true,
+          "rationale": "Se obtiene dividiendo $5500\\ N$ entre $0.3\\ m^{3}$ ($18333.3\\ N/m^{3}$) y convirtiendo a kilonewtons."
+        },
+        {
+          "text": "$21.50\\ kN/m^{3}$.",
+          "isCorrect": false,
+          "rationale": "Es un valor incorrecto que no surge de la divisi\u00f3n del peso h\u00famedo entre el volumen dado."
+        },
+        {
+          "text": "$9.81\\ kN/m^{3}$.",
+          "isCorrect": false,
+          "rationale": "Este valor corresponde a la constante de gravedad, no al peso unitario de la muestra."
+        }
+      ],
+      "hint": "Divida el peso total inicial por el volumen y ajuste las unidades a kilonewtons."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se obtienen los datos para construir modelos de bloques tridimensionales confiables en la pr\u00e1ctica?",
+      "answerOptions": [
+        {
+          "text": "Mediante la extrapolaci\u00f3n matem\u00e1tica de datos emp\u00edricos de perforaciones diamantinas.",
+          "isCorrect": true,
+          "rationale": "Se extraen cilindros de roca reales para obtener datos estad\u00edsticos que luego alimentan el modelo 3D."
+        },
+        {
+          "text": "\u00danicamente a trav\u00e9s de suposiciones te\u00f3ricas de homogeneidad absoluta.",
+          "isCorrect": false,
+          "rationale": "Los modelos puramente te\u00f3ricos no son suficientes; requieren validaci\u00f3n con datos reales de campo."
+        },
+        {
+          "text": "Utilizando solo sensores satelitales que miden la temperatura del relieve.",
+          "isCorrect": false,
+          "rationale": "La teledetecci\u00f3n t\u00e9rmica no proporciona la informaci\u00f3n interna necesaria para un modelo de bloques geomec\u00e1nico."
+        },
+        {
+          "text": "A partir del an\u00e1lisis qu\u00edmico del drenaje \u00e1cido de mina exclusivamente.",
+          "isCorrect": false,
+          "rationale": "El DAM es un problema ambiental/qu\u00edmico, no la base para el modelamiento f\u00edsico de bloques del yacimiento."
+        }
+      ],
+      "hint": "Piense en el m\u00e9todo de extracci\u00f3n f\u00edsica de cilindros de material desde el subsuelo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 papel juega el agua en la estabilidad de un talud seg\u00fan el an\u00e1lisis de propiedades hidr\u00e1ulicas?",
+      "answerOptions": [
+        {
+          "text": "Act\u00faa como un pegamento mineral que incrementa la cohesi\u00f3n del terreno.",
+          "isCorrect": false,
+          "rationale": "Aunque hay cohesi\u00f3n aparente en algunos suelos, el agua generalmente reduce la estabilidad al aportar peso y presi\u00f3n."
+        },
+        {
+          "text": "Es un factor implacable que determina directamente si el talud permanece o colapsa.",
+          "isCorrect": true,
+          "rationale": "La interacci\u00f3n de los l\u00edquidos con la porosidad altera las fuerzas internas, siendo cr\u00edtico para la seguridad operativa."
+        },
+        {
+          "text": "No tiene impacto relevante mientras el material sea roca consolidada.",
+          "isCorrect": false,
+          "rationale": "Incluso en rocas, el agua en las fracturas (hidrogeolog\u00eda) es determinante para la estabilidad."
+        },
+        {
+          "text": "Ayuda a enfriar el material reactivo, eliminando cualquier riesgo de oxidaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El agua es en realidad un reactivo necesario para la oxidaci\u00f3n (DAM), no un agente enfriador preventivo."
+        }
+      ],
+      "hint": "Considere la influencia de la fase l\u00edquida en el peso y la presi\u00f3n interna de las estructuras de tierra."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es necesario asumir una 'homogeneidad te\u00f3rica' al modelar materiales granulares?",
+      "answerOptions": [
+        {
+          "text": "Porque los granos de arena y arcilla son id\u00e9nticos en forma y tama\u00f1o en la naturaleza.",
+          "isCorrect": false,
+          "rationale": "La realidad es el caos microsc\u00f3pico y la heterogeneidad extrema de las part\u00edculas."
+        },
+        {
+          "text": "Para facilitar los c\u00e1lculos de equilibrio sin lidiar con infinitas variables microsc\u00f3picas.",
+          "isCorrect": true,
+          "rationale": "Es una simplificaci\u00f3n necesaria para que los modelos matem\u00e1ticos de ingenier\u00eda sean operables y \u00fatiles."
+        },
+        {
+          "text": "Debido a que el aire atrapado unifica autom\u00e1ticamente las propiedades del s\u00f3lido.",
+          "isCorrect": false,
+          "rationale": "El aire no unifica las propiedades; de hecho, complica el comportamiento del sistema trif\u00e1sico."
+        },
+        {
+          "text": "Porque las leyes internacionales de miner\u00eda proh\u00edben el uso de modelos heterog\u00e9neos.",
+          "isCorrect": false,
+          "rationale": "No es una restricci\u00f3n legal, sino una limitaci\u00f3n pr\u00e1ctica del modelamiento matem\u00e1tico."
+        }
+      ],
+      "hint": "Piense en la dificultad de calcular el comportamiento de cada grano individualmente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ejemplo de formaci\u00f3n geol\u00f3gica en el Per\u00fa se asocia con el estudio de la geomorfolog\u00eda y los 'bosques de piedra'?",
+      "answerOptions": [
+        {
+          "text": "El batolito costero de Arequipa.",
+          "isCorrect": false,
+          "rationale": "El batolito es una estructura \u00edgnea profunda asociada m\u00e1s a la geolog\u00eda estructural y petrolog\u00eda."
+        },
+        {
+          "text": "Huayllay en Pasco.",
+          "isCorrect": true,
+          "rationale": "Es un ejemplo cl\u00e1sico de formas de relieve espectaculares que requieren an\u00e1lisis geomorfol\u00f3gico."
+        },
+        {
+          "text": "Los tajos abiertos de la selva amaz\u00f3nica.",
+          "isCorrect": false,
+          "rationale": "Los tajos son excavaciones artificiales, no formaciones de relieve natural como los bosques de piedra."
+        },
+        {
+          "text": "Las dunas de arena de la costa de Ica.",
+          "isCorrect": false,
+          "rationale": "Aunque son geomorfolog\u00eda, el material menciona espec\u00edficamente los bosques de piedra de Pasco y Huancayo."
+        }
+      ],
+      "hint": "Identifique la ubicaci\u00f3n geogr\u00e1fica del famoso bosque de piedra mencionado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la reflexi\u00f3n \u00e9tica final respecto al rigor en los c\u00e1lculos de estabilidad?",
+      "answerOptions": [
+        {
+          "text": "Los c\u00e1lculos son solo sugerencias t\u00e9cnicas que pueden omitirse por razones presupuestarias.",
+          "isCorrect": false,
+          "rationale": "La \u00e9tica profesional dicta que la seguridad no es negociable frente al costo."
+        },
+        {
+          "text": "El rigor estricto es lo que garantiza la seguridad y salva vidas ante fallas como las de Chancay.",
+          "isCorrect": true,
+          "rationale": "Los colapsos por subsidencia demuestran que la responsabilidad geot\u00e9cnica es ineludible para prevenir tragedias."
+        },
+        {
+          "text": "La geotecnia es una ciencia exacta que nunca presenta errores ni necesita validaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La geotecnia avanza por aproximaciones y todo modelo debe validarse con el terreno real."
+        },
+        {
+          "text": "El dise\u00f1o debe priorizar la rentabilidad log\u00edstica sobre cualquier factor de seguridad estructural.",
+          "isCorrect": false,
+          "rationale": "Aunque la rentabilidad es importante, la seguridad operativa es el pilar fundamental del dise\u00f1o."
+        }
+      ],
+      "hint": "Piense en las consecuencias humanas de un dise\u00f1o geot\u00e9cnico deficiente."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Geotecnia y Geomec\u00e1nica",
+      "Propiedades F\u00edsicas y Mec\u00e1nicas de Materiales",
+      "Drenaje \u00c1cido de Mina (DAM)",
+      "Mec\u00e1nica de Suelos y Relaciones Volum\u00e9tricas",
+      "C\u00e1lculos Gravim\u00e9tricos en Ingenier\u00eda"
+    ],
+    "followUp": [
+      "Estabilidad de Taludes y Propiedades Hidr\u00e1ulicas",
+      "Caracterizaci\u00f3n de Macizos Rocosos Fracturados",
+      "Gesti\u00f3n Ambiental y Prevenci\u00f3n de Oxidaci\u00f3n en Miner\u00eda",
+      "Modelamiento Geot\u00e9cnico Tridimensional y Perforaci\u00f3n Diamantina"
+    ]
+  }
+}

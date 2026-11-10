@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre el Estado y el gobierno en el contexto de la gesti\u00f3n de proyectos?",
+      "answerOptions": [
+        {
+          "text": "El Estado es la macroestructura permanente, mientras que el gobierno es la administraci\u00f3n temporal de turno.",
+          "isCorrect": true,
+          "rationale": "El Estado representa la continuidad jur\u00eddica y social del pa\u00eds, mientras que el gobierno cambia seg\u00fan los periodos electorales."
+        },
+        {
+          "text": "El Estado se encarga de los proyectos mineros y el gobierno de los proyectos energ\u00e9ticos.",
+          "isCorrect": false,
+          "rationale": "Esta distinci\u00f3n es incorrecta ya que ambos sectores son regulados por el aparato estatal independientemente de la administraci\u00f3n."
+        },
+        {
+          "text": "El gobierno es la estructura jur\u00eddica fija y el Estado es el conjunto de ciudadanos.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n invierte los conceptos, pues el Estado es el que posee la estructura permanente que integra a la sociedad."
+        },
+        {
+          "text": "No existe diferencia alguna, ambos t\u00e9rminos son sin\u00f3nimos en la gesti\u00f3n de crisis.",
+          "isCorrect": false,
+          "rationale": "Confundir estos conceptos es un error cr\u00edtico para un estratega, ya que la gesti\u00f3n de crisis debe anclarse en la permanencia del Estado."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 concepto representa la continuidad y cu\u00e1l representa la transitoriedad."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza a la denominada \"cultura del parche\" en la gesti\u00f3n de crisis?",
+      "answerOptions": [
+        {
+          "text": "Una gesti\u00f3n reactiva que busca soluciones coyunturales y r\u00e1pidas sin abordar causas estructurales.",
+          "isCorrect": true,
+          "rationale": "Se basa en apagar incendios sociales y firmar compromisos apresurados para salir del paso inmediato."
+        },
+        {
+          "text": "La implementaci\u00f3n de est\u00e1ndares internacionales de alta calidad en el territorio.",
+          "isCorrect": false,
+          "rationale": "Al contrario, esta cultura ignora los procesos t\u00e9cnicos y preventivos de largo plazo."
+        },
+        {
+          "text": "Un modelo de gobernanza multiactor que prioriza el di\u00e1logo preventivo.",
+          "isCorrect": false,
+          "rationale": "La cultura del parche es opuesta a la prevenci\u00f3n, ya que solo act\u00faa cuando la crisis ya ha estallado."
+        },
+        {
+          "text": "La centralizaci\u00f3n de todas las decisiones en el Poder Judicial.",
+          "isCorrect": false,
+          "rationale": "Este fen\u00f3meno se refiere a la forma de gestionar conflictos, no a la asignaci\u00f3n de poder a una rama espec\u00edfica."
+        }
+      ],
+      "hint": "Se asocia con acciones superficiales tomadas bajo presi\u00f3n."
+    },
+    {
+      "question": "En el sistema bicameral, \u00bfcu\u00e1l es la funci\u00f3n estrat\u00e9gica de los senadores respecto a la normativa?",
+      "answerOptions": [
+        {
+          "text": "Aportar una perspectiva de Estado con una revisi\u00f3n estrat\u00e9gica y global de largo plazo.",
+          "isCorrect": true,
+          "rationale": "Su responsabilidad es mirar m\u00e1s all\u00e1 de lo inmediato para dar equilibrio y visi\u00f3n nacional al sistema."
+        },
+        {
+          "text": "Actuar como enlace directo con las demandas cotidianas de los ciudadanos locales.",
+          "isCorrect": false,
+          "rationale": "Esta funci\u00f3n de conexi\u00f3n territorial directa corresponde primordialmente a los diputados."
+        },
+        {
+          "text": "Administrar justicia en controversias sociales de alto impacto.",
+          "isCorrect": false,
+          "rationale": "La administraci\u00f3n de justicia es competencia exclusiva del Poder Judicial, no del Legislativo."
+        },
+        {
+          "text": "Ejecutar el presupuesto nacional para infraestructura en zonas mineras.",
+          "isCorrect": false,
+          "rationale": "La ejecuci\u00f3n presupuestal es una funci\u00f3n del Poder Ejecutivo y sus ministerios."
+        }
+      ],
+      "hint": "Busque la funci\u00f3n que se enfoca en la estabilidad normativa y la visi\u00f3n macro."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor fue determinante para el rechazo del $98.65\\%$ de la poblaci\u00f3n al proyecto Tambogrande en Piura?",
+      "answerOptions": [
+        {
+          "text": "El choque entre la identidad productiva agr\u00edcola local y la actividad minera percibida como amenaza.",
+          "isCorrect": true,
+          "rationale": "La comunidad sent\u00eda que la miner\u00eda atentaba directamente contra su modo de vida agr\u00edcola arraigado."
+        },
+        {
+          "text": "La falta de solvencia t\u00e9cnica y financiera de la empresa encargada.",
+          "isCorrect": false,
+          "rationale": "El problema no fue t\u00e9cnico ni de dinero, sino un conflicto de identidades y percepciones de desarrollo."
+        },
+        {
+          "text": "La ausencia total de dep\u00f3sitos minerales en la zona del proyecto.",
+          "isCorrect": false,
+          "rationale": "El proyecto fue cancelado por rechazo social, no por la inviabilidad del recurso mineral."
+        },
+        {
+          "text": "La intervenci\u00f3n directa de organismos internacionales que prohibieron la extracci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Fue la propia poblaci\u00f3n local la que manifest\u00f3 su rechazo masivo mediante la consulta social."
+        }
+      ],
+      "hint": "Considere la actividad econ\u00f3mica tradicional de la zona de Piura mencionada."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los dos principales detonantes de crisis en los proyectos extractivos?",
+      "answerOptions": [
+        {
+          "text": "La gesti\u00f3n del agua y el respeto a la identidad local.",
+          "isCorrect": true,
+          "rationale": "Estos elementos son los ejes centrales sobre los cuales se construye o se quiebra la confianza comunitaria."
+        },
+        {
+          "text": "El precio internacional de los metales y el tipo de cambio.",
+          "isCorrect": false,
+          "rationale": "Aunque afectan la econom\u00eda, no son los disparadores directos de la conflictividad social en el territorio."
+        },
+        {
+          "text": "La cantidad de mineral extra\u00eddo y la profundidad del socav\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La conflictividad rara vez tiene que ver con el mineral per se, sino con los impactos sociales y ambientales percibidos."
+        },
+        {
+          "text": "La tecnolog\u00eda de excavaci\u00f3n y el n\u00famero de empleados extranjeros.",
+          "isCorrect": false,
+          "rationale": "Estos son aspectos t\u00e9cnicos que, si bien son relevantes, no constituyen la ra\u00edz principal de las crisis sociales."
+        }
+      ],
+      "hint": "Piense en el recurso vital y en el sentimiento de pertenencia de las comunidades."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el proyecto Conga en Cajamarca es considerado un fracaso emblem\u00e1tico de gesti\u00f3n social?",
+      "answerOptions": [
+        {
+          "text": "Debido a la desconfianza por el agua y un peritaje internacional negativo que quebr\u00f3 la licencia social.",
+          "isCorrect": true,
+          "rationale": "La preocupaci\u00f3n por el recurso h\u00eddrico y la validaci\u00f3n t\u00e9cnica negativa resultaron en un costo humano tr\u00e1gico."
+        },
+        {
+          "text": "Porque la empresa decidi\u00f3 retirarse voluntariamente para invertir en otro pa\u00eds.",
+          "isCorrect": false,
+          "rationale": "El retiro no fue voluntario, sino consecuencia de una crisis social insostenible y violenta."
+        },
+        {
+          "text": "Por la ca\u00edda dr\u00e1stica del precio del oro en los mercados globales.",
+          "isCorrect": false,
+          "rationale": "Los factores externos de mercado no fueron la causa del quiebre de la viabilidad social del proyecto."
+        },
+        {
+          "text": "Debido a que el Estado nacionaliz\u00f3 la mina antes de iniciar operaciones.",
+          "isCorrect": false,
+          "rationale": "No hubo un proceso de nacionalizaci\u00f3n, sino una paralizaci\u00f3n por conflicto social."
+        }
+      ],
+      "hint": "Recuerde el papel que jugaron los estudios t\u00e9cnicos externos y el temor ambiental."
+    },
+    {
+      "question": "\u00bfQu\u00e9 estrategia permiti\u00f3 al proyecto Quellaveco en Moquegua asegurar su viabilidad operativa?",
+      "answerOptions": [
+        {
+          "text": "La creaci\u00f3n de una mesa de di\u00e1logo con 26 acuerdos medibles y monitoreo participativo.",
+          "isCorrect": true,
+          "rationale": "El \u00e9xito se bas\u00f3 en compromisos verificables y en involucrar a la comunidad en la vigilancia t\u00e9cnica."
+        },
+        {
+          "text": "La firma de acuerdos secretos con los l\u00edderes locales para evitar protestas.",
+          "isCorrect": false,
+          "rationale": "La transparencia y la participaci\u00f3n p\u00fablica son lo opuesto a acuerdos secretos, los cuales suelen generar m\u00e1s desconfianza."
+        },
+        {
+          "text": "La implementaci\u00f3n de una zona de exclusi\u00f3n militar alrededor del proyecto.",
+          "isCorrect": false,
+          "rationale": "La paz social se construye mediante el di\u00e1logo y la confianza, no mediante la fuerza militar."
+        },
+        {
+          "text": "El pago directo de salarios mensuales a todos los habitantes de la regi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta pr\u00e1ctica no ser\u00eda sostenible ni constituye una gobernanza participativa real."
+        }
+      ],
+      "hint": "Enfoque su respuesta en la transparencia y el seguimiento de compromisos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue la acci\u00f3n determinante de la empresa Cerro Verde para construir legitimidad social en Arequipa?",
+      "answerOptions": [
+        {
+          "text": "La construcci\u00f3n de la planta de tratamiento La Enlosada para resolver un problema sanitario hist\u00f3rico.",
+          "isCorrect": true,
+          "rationale": "Al procesar el $95\\%$ de las aguas residuales de la ciudad, la empresa cerr\u00f3 una brecha cr\u00edtica de servicios p\u00fablicos."
+        },
+        {
+          "text": "La donaci\u00f3n de computadoras a todas las escuelas primarias de la regi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Si bien es una acci\u00f3n positiva, no resuelve un problema estructural de infraestructura p\u00fablica como el saneamiento."
+        },
+        {
+          "text": "La creaci\u00f3n de un fondo de becas exclusivo para hijos de trabajadores mineros.",
+          "isCorrect": false,
+          "rationale": "Las becas exclusivas no generan la legitimidad amplia que se logra al beneficiar a toda una metr\u00f3poli."
+        },
+        {
+          "text": "El patrocinio del equipo de f\u00fatbol local durante diez a\u00f1os consecutivos.",
+          "isCorrect": false,
+          "rationale": "El patrocinio deportivo es filantrop\u00eda tradicional y no constituye una inversi\u00f3n social estrat\u00e9gica en infraestructura."
+        }
+      ],
+      "hint": "Piense en una obra de gran envergadura que beneficia a casi toda el \u00e1rea metropolitana."
+    },
+    {
+      "question": "Seg\u00fan el ciclo de riesgos sociales, \u00bfqu\u00e9 se busca en la fase de identificaci\u00f3n y an\u00e1lisis?",
+      "answerOptions": [
+        {
+          "text": "Desarmar el riesgo en sus componentes t\u00e9cnicos, sociales y ambientales para entenderlo integralmente.",
+          "isCorrect": true,
+          "rationale": "No es posible resolver un problema sin comprender todas las dimensiones que lo componen."
+        },
+        {
+          "text": "Firmar actas p\u00fablicas de cierre de conflicto con la comunidad.",
+          "isCorrect": false,
+          "rationale": "La firma de actas pertenece a las fases finales de negociaci\u00f3n y cierre, no a la identificaci\u00f3n inicial."
+        },
+        {
+          "text": "Calcular \u00fanicamente las p\u00e9rdidas financieras proyectadas para los inversionistas.",
+          "isCorrect": false,
+          "rationale": "El enfoque debe ser multidimensional, integrando lo social y ambiental, no solo lo financiero."
+        },
+        {
+          "text": "Seleccionar qu\u00e9 l\u00edderes comunitarios ser\u00e1n invitados a la mesa de di\u00e1logo.",
+          "isCorrect": false,
+          "rationale": "El mapeo de actores es parte del proceso, pero la identificaci\u00f3n del riesgo se centra en el problema mismo."
+        }
+      ],
+      "hint": "Es la etapa inicial donde se analiza la naturaleza del problema."
+    },
+    {
+      "question": "\u00bfC\u00f3mo ayuda el est\u00e1ndar ISO 31000 a la gesti\u00f3n social profesionalizada?",
+      "answerOptions": [
+        {
+          "text": "Permite transformar percepciones sociales subjetivas en datos t\u00e9cnicos gestionables.",
+          "isCorrect": true,
+          "rationale": "Convierte el conflicto en un proceso administrable mediante la predicci\u00f3n, medici\u00f3n y control."
+        },
+        {
+          "text": "Define los salarios m\u00ednimos que deben recibir los trabajadores del proyecto.",
+          "isCorrect": false,
+          "rationale": "La norma ISO 31000 se enfoca en la gesti\u00f3n de riesgos, no en escalas salariales laborales."
+        },
+        {
+          "text": "Establece los l\u00edmites m\u00e1ximos permitidos de emisiones de carbono.",
+          "isCorrect": false,
+          "rationale": "Existen otras normas espec\u00edficas para emisiones ambientales; la ISO 31000 es un marco general de riesgos."
+        },
+        {
+          "text": "Proporciona una lista de empresas constructoras certificadas para el sector.",
+          "isCorrect": false,
+          "rationale": "Se trata de un marco metodol\u00f3gico de gesti\u00f3n, no de un directorio de proveedores."
+        }
+      ],
+      "hint": "Piense en la transici\u00f3n de la intuici\u00f3n a la metodolog\u00eda t\u00e9cnica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el impacto de la denominada \"tramitolog\u00eda\" en el riesgo social de un proyecto?",
+      "answerOptions": [
+        {
+          "text": "Agota la paciencia de las comunidades que esperan beneficios, generando fricciones evitables.",
+          "isCorrect": true,
+          "rationale": "La demora de 2-3 a\u00f1os te\u00f3ricos a 6-7 a\u00f1os reales impacta negativamente en la percepci\u00f3n comunitaria."
+        },
+        {
+          "text": "Asegura que todos los estudios ambientales sean perfectos antes de empezar.",
+          "isCorrect": false,
+          "rationale": "La tramitolog\u00eda suele ser producto de ineficiencia y duplicidad, no necesariamente de mayor rigor t\u00e9cnico."
+        },
+        {
+          "text": "Reduce los costos operativos al retrasar la contrataci\u00f3n de personal.",
+          "isCorrect": false,
+          "rationale": "Al contrario, las demoras burocr\u00e1ticas suelen inflar significativamente los costos del proyecto."
+        },
+        {
+          "text": "Elimina por completo la necesidad de consulta previa.",
+          "isCorrect": false,
+          "rationale": "La consulta previa es una obligaci\u00f3n legal ineludible independientemente de los plazos burocr\u00e1ticos."
+        }
+      ],
+      "hint": "Considere el efecto del tiempo en las expectativas de la poblaci\u00f3n local."
+    },
+    {
+      "question": "En la negociaci\u00f3n por principios, \u00bfqu\u00e9 significa el concepto de las 3P?",
+      "answerOptions": [
+        {
+          "text": "Separar t\u00e1cticamente a las Personas, los Problemas y los Procesos.",
+          "isCorrect": true,
+          "rationale": "Esta separaci\u00f3n permite bajar la carga emocional y descubrir los intereses reales tras las posturas."
+        },
+        {
+          "text": "Priorizar el Poder, el Patrimonio y el Prestigio de la empresa.",
+          "isCorrect": false,
+          "rationale": "Este enfoque ser\u00eda adversarial y egoc\u00e9ntrico, lo cual impide una soluci\u00f3n sostenible."
+        },
+        {
+          "text": "Evaluar la Probabilidad, la Poblaci\u00f3n y el Presupuesto del riesgo.",
+          "isCorrect": false,
+          "rationale": "Aunque son variables de riesgo, las 3P de la negociaci\u00f3n se centran en la din\u00e1mica del conflicto."
+        },
+        {
+          "text": "Gestionar los Permisos, los Plazos y el Petr\u00f3leo extra\u00eddo.",
+          "isCorrect": false,
+          "rationale": "Esta es una visi\u00f3n puramente operativa que ignora la metodolog\u00eda de resoluci\u00f3n de conflictos."
+        }
+      ],
+      "hint": "Se refiere a los elementos que deben aislarse para negociar efectivamente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 principio de Humberto Maturana se aplica para humanizar la estrategia de di\u00e1logo?",
+      "answerOptions": [
+        {
+          "text": "Reconocer a la contraparte como un \"leg\u00edtimo otro\" en el territorio.",
+          "isCorrect": true,
+          "rationale": "Esto implica que el otro no es un obst\u00e1culo a vencer, sino un actor con legitimidad propia."
+        },
+        {
+          "text": "Establecer una jerarqu\u00eda t\u00e9cnica donde la empresa siempre tiene la raz\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esto contradice el reconocimiento del otro y bloquea la construcci\u00f3n de confianza genuina."
+        },
+        {
+          "text": "Ignorar las emociones para centrarse \u00fanicamente en la rentabilidad.",
+          "isCorrect": false,
+          "rationale": "La Biolog\u00eda del Amor de Maturana resalta precisamente la importancia de la emoci\u00f3n y el respeto mutuo."
+        },
+        {
+          "text": "Utilizar la presi\u00f3n pol\u00edtica para acelerar los acuerdos sociales.",
+          "isCorrect": false,
+          "rationale": "La presi\u00f3n es opuesta al di\u00e1logo efectivo y al reconocimiento de la legitimidad del otro."
+        }
+      ],
+      "hint": "Tiene que ver con la validaci\u00f3n de la existencia y derechos de la persona con la que se habla."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afecta un vocabulario funcional limitado (entre 50 y 150 palabras) a la gesti\u00f3n social?",
+      "answerOptions": [
+        {
+          "text": "Crea muros de exclusi\u00f3n si la empresa utiliza jerga t\u00e9cnica hiperespecializada.",
+          "isCorrect": true,
+          "rationale": "La incomprensi\u00f3n genera desinformaci\u00f3n y miedo, impidiendo una comunicaci\u00f3n efectiva."
+        },
+        {
+          "text": "Facilita la firma de contratos ya que hay menos discusi\u00f3n sobre los t\u00e9rminos.",
+          "isCorrect": false,
+          "rationale": "La falta de comprensi\u00f3n de los t\u00e9rminos invalida la legitimidad de los acuerdos y genera conflictos futuros."
+        },
+        {
+          "text": "Obliga a la empresa a contratar traductores de idiomas extranjeros.",
+          "isCorrect": false,
+          "rationale": "El problema no es el idioma, sino el nivel de complejidad y abstracci\u00f3n del lenguaje t\u00e9cnico usado."
+        },
+        {
+          "text": "Asegura que las comunidades acepten cualquier propuesta de desarrollo.",
+          "isCorrect": false,
+          "rationale": "La falta de entendimiento suele provocar rechazo defensivo, no aceptaci\u00f3n autom\u00e1tica."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede cuando una de las partes no entiende los t\u00e9rminos complejos de la otra."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la t\u00e9cnica de \"teatralizaci\u00f3n pedag\u00f3gica\"?",
+      "answerOptions": [
+        {
+          "text": "Traducir conceptos abstractos en realidades visuales y tangibles del contexto cotidiano.",
+          "isCorrect": true,
+          "rationale": "Permite que la gente conecte con los riesgos y soluciones mediante ejemplos pr\u00e1cticos de su vida diaria."
+        },
+        {
+          "text": "Contratar actores profesionales para simular que hay paz social en la zona.",
+          "isCorrect": false,
+          "rationale": "Simular la paz social es un enga\u00f1o que destruye la confianza y la credibilidad de la empresa."
+        },
+        {
+          "text": "Realizar obras de teatro recreativas para entretener a la poblaci\u00f3n durante las protestas.",
+          "isCorrect": false,
+          "rationale": "No es una t\u00e9cnica de entretenimiento, sino una metodolog\u00eda de comunicaci\u00f3n y educaci\u00f3n t\u00e9cnica."
+        },
+        {
+          "text": "Exagerar los beneficios econ\u00f3micos del proyecto para convencer a los indecisos.",
+          "isCorrect": false,
+          "rationale": "La exageraci\u00f3n es desinformaci\u00f3n; la teatralizaci\u00f3n busca claridad y entendimiento mutuo."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo explicar algo complejo de forma visual y sencilla."
+    },
+    {
+      "question": "Dentro del dise\u00f1o procedimental de la negociaci\u00f3n, \u00bfqu\u00e9 se debe asegurar en la fase de acreditaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "La validaci\u00f3n de representantes incluyendo obligatoriamente cuotas de mujeres y j\u00f3venes.",
+          "isCorrect": true,
+          "rationale": "Esto asegura una representatividad real y evita negociar solo con un sector de la comunidad."
+        },
+        {
+          "text": "El pago de una fianza bancaria por parte de la comunidad para iniciar el di\u00e1logo.",
+          "isCorrect": false,
+          "rationale": "Exigir pagos para dialogar es una barrera que impide la participaci\u00f3n y la construcci\u00f3n de confianza."
+        },
+        {
+          "text": "La revisi\u00f3n de los antecedentes penales de todos los habitantes del pueblo.",
+          "isCorrect": false,
+          "rationale": "La acreditaci\u00f3n se refiere a la representatividad pol\u00edtica y social, no a un control policial masivo."
+        },
+        {
+          "text": "Que solo los ancianos y jefes de familia participen en la mesa de decisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Limitar la participaci\u00f3n excluye voces vitales como las de j\u00f3venes y mujeres, restando legitimidad."
+        }
+      ],
+      "hint": "Busque el criterio de inclusi\u00f3n que hace que la representaci\u00f3n sea diversa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito de la fase de implementaci\u00f3n y seguimiento en un plan de acci\u00f3n social?",
+      "answerOptions": [
+        {
+          "text": "Realizar auditor\u00edas sociales y monitoreo participativo para verificar el cumplimiento de acuerdos.",
+          "isCorrect": true,
+          "rationale": "Garantiza que lo firmado se cumpla y que la comunidad sea parte activa de la vigilancia."
+        },
+        {
+          "text": "Iniciar la construcci\u00f3n de la mina sin necesidad de avisar a la poblaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El seguimiento requiere comunicaci\u00f3n continua; actuar a espaldas de la poblaci\u00f3n reactiva el conflicto."
+        },
+        {
+          "text": "Disolver la mesa de di\u00e1logo una vez que se ha obtenido el permiso legal.",
+          "isCorrect": false,
+          "rationale": "La mesa de di\u00e1logo debe continuar para supervisar la ejecuci\u00f3n de los acuerdos a largo plazo."
+        },
+        {
+          "text": "Cambiar los t\u00e9rminos de los acuerdos si la rentabilidad de la empresa disminuye.",
+          "isCorrect": false,
+          "rationale": "Modificar acuerdos unilateralmente destruye la confianza y la paz social alcanzada."
+        }
+      ],
+      "hint": "Se trata de lo que sucede despu\u00e9s de que se llega a un acuerdo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 impacto tiene la falta de viabilidad social en t\u00e9rminos de laudos arbitrales para el Estado?",
+      "answerOptions": [
+        {
+          "text": "Deriva en facturas legales y financieras incre\u00edblemente costosas pagadas por el Estado peruano.",
+          "isCorrect": true,
+          "rationale": "Casos como R\u00edo Blanco y Santana muestran que el fracaso social tiene un alto costo legal internacional."
+        },
+        {
+          "text": "Genera ingresos adicionales por las multas cobradas a las empresas que fallan.",
+          "isCorrect": false,
+          "rationale": "Los arbitrajes internacionales suelen ser demandas de las empresas contra el Estado, no al rev\u00e9s."
+        },
+        {
+          "text": "No tiene impacto econ\u00f3mico, ya que el Estado tiene inmunidad soberana.",
+          "isCorrect": false,
+          "rationale": "El Estado debe responder ante tratados internacionales y pagar compensaciones si se violan contratos."
+        },
+        {
+          "text": "Obliga a las empresas a donar sus equipos al gobierno regional.",
+          "isCorrect": false,
+          "rationale": "Los laudos arbitrales resultan en compensaciones monetarias, no en la donaci\u00f3n forzosa de activos."
+        }
+      ],
+      "hint": "Piense en la consecuencia financiera de que un proyecto se congele por rechazo social."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el costo estimado de los conflictos sociales en relaci\u00f3n con el Producto Interno Bruto (PIB) mencionado?",
+      "answerOptions": [
+        {
+          "text": "Aproximadamente $1.2$ veces el PIB.",
+          "isCorrect": true,
+          "rationale": "Esta cifra representa la enorme magnitud econ\u00f3mica de las oportunidades perdidas por la conflictividad."
+        },
+        {
+          "text": "Cerca del $0.1\\%$ del PIB anual.",
+          "isCorrect": false,
+          "rationale": "Esta cifra subestima groseramente el impacto real de los conflictos en la econom\u00eda nacional."
+        },
+        {
+          "text": "Exactamente el $50\\%$ del PIB nacional.",
+          "isCorrect": false,
+          "rationale": "Es una cifra exagerada; aunque el impacto es grande, no llega a la mitad de la producci\u00f3n total del pa\u00eds."
+        },
+        {
+          "text": "No se puede medir en relaci\u00f3n con el PIB, solo en vidas humanas.",
+          "isCorrect": false,
+          "rationale": "Aunque el costo humano es primordial, existen m\u00e9tricas econ\u00f3micas claras para cuantificar el impacto financiero."
+        }
+      ],
+      "hint": "Es un valor que supera ligeramente la unidad en la comparaci\u00f3n proporcional mencionada."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo final de la gobernanza multiactor en la gesti\u00f3n de inversiones extractivas?",
+      "answerOptions": [
+        {
+          "text": "Traducir la riqueza extractiva en bienestar humano y desarrollo territorial sostenible.",
+          "isCorrect": true,
+          "rationale": "Busca que la actividad minera o energ\u00e9tica deje un legado positivo y legitimidad en la zona."
+        },
+        {
+          "text": "Asegurar que las empresas no paguen impuestos durante los primeros diez a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "La gobernanza busca el equilibrio de intereses, no la evasi\u00f3n de responsabilidades fiscales."
+        },
+        {
+          "text": "Reemplazar completamente las funciones del Estado por las de la empresa privada.",
+          "isCorrect": false,
+          "rationale": "La empresa puede cerrar brechas, pero el objetivo no es suplantar la soberan\u00eda estatal permanentemente."
+        },
+        {
+          "text": "Minimizar la participaci\u00f3n ciudadana para acelerar los plazos de construcci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La gobernanza multiactor promueve precisamente lo contrario: una participaci\u00f3n activa y leg\u00edtima."
+        }
+      ],
+      "hint": "Es el prop\u00f3sito superior que justifica la convivencia entre industria y comunidad."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gobernanza multiactor",
+      "Gesti\u00f3n de riesgos sociales",
+      "Arquitectura institucional del Estado",
+      "Est\u00e1ndares internacionales de gesti\u00f3n (ISO 31000, IFC)",
+      "An\u00e1lisis de casos de conflicto y resiliencia",
+      "Metodolog\u00edas de negociaci\u00f3n y di\u00e1logo"
+    ],
+    "followUp": [
+      "Modelos operativos de monitoreo participativo",
+      "Impacto de la tramitolog\u00eda en la inversi\u00f3n extranjera",
+      "Legislaci\u00f3n de consulta previa en el sector minero",
+      "Inversi\u00f3n social estrat\u00e9gica y cierre de brechas de infraestructura",
+      "Psicolog\u00eda de la comunicaci\u00f3n en entornos de alta conflictividad"
+    ]
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el principal riesgo de mantener un perfil bajo o de \"elefante dormido\" en grandes proyectos mineros?",
+      "answerOptions": [
+        {
+          "text": "La vulnerabilidad ante rumores destructivos por falta de comunicaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La falta de transparencia y proactividad informativa permite que la desinformaci\u00f3n llene los vac\u00edos de comunicaci\u00f3n."
+        },
+        {
+          "text": "El aumento excesivo de los costos operativos de mantenimiento.",
+          "isCorrect": false,
+          "rationale": "Aunque el mantenimiento tiene costos, el problema central identificado es la vulnerabilidad social frente a la desinformaci\u00f3n."
+        },
+        {
+          "text": "La imposibilidad de aplicar tecnolog\u00edas de desalinizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La desalinizaci\u00f3n es un reto t\u00e9cnico, pero el perfil bajo afecta principalmente la percepci\u00f3n y estabilidad social."
+        },
+        {
+          "text": "La p\u00e9rdida autom\u00e1tica de la certificaci\u00f3n de calidad internacional.",
+          "isCorrect": false,
+          "rationale": "Las certificaciones dependen de est\u00e1ndares t\u00e9cnicos, mientras que el perfil bajo impacta directamente en el entorno social."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el silencio corporativo influye en la percepci\u00f3n de la comunidad."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor determin\u00f3 el fracaso social del proyecto Milpo a pesar de su \u00e9xito t\u00e9cnico en desalinizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Una brecha de comunicaci\u00f3n sobre la devoluci\u00f3n de la salmuera al mar.",
+          "isCorrect": true,
+          "rationale": "La falta de transparencia sobre procesos t\u00e9cnicos espec\u00edficos gener\u00f3 desconfianza insuperable en la comunidad."
+        },
+        {
+          "text": "El uso de tecnolog\u00eda obsoleta para el tratamiento de aguas residuales.",
+          "isCorrect": false,
+          "rationale": "El proyecto fue un \u00e9xito t\u00e9cnico rotundo, lo que descarta el uso de tecnolog\u00eda deficiente."
+        },
+        {
+          "text": "La falta de presupuesto para programas de asistencia social directa.",
+          "isCorrect": false,
+          "rationale": "El problema no fue financiero ni de asistencia, sino una falla cr\u00edtica en la comunicaci\u00f3n de impactos ambientales."
+        },
+        {
+          "text": "La negativa de la empresa a contratar mano de obra local calificada.",
+          "isCorrect": false,
+          "rationale": "El caso se centra espec\u00edficamente en la desinformaci\u00f3n sobre el manejo de la salmuera y no en la contrataci\u00f3n."
+        }
+      ],
+      "hint": "Considere qu\u00e9 aspecto del proceso de desalinizaci\u00f3n no fue explicado adecuadamente a la poblaci\u00f3n."
+    },
+    {
+      "question": "En el contexto de la gesti\u00f3n moderna, \u00bfqu\u00e9 representan los criterios ESG?",
+      "answerOptions": [
+        {
+          "text": "Est\u00e1ndares ambientales, sociales y de gobernanza para atraer inversi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Estos criterios son indicadores verificables que los capitales globales exigen para asegurar la sostenibilidad y estabilidad."
+        },
+        {
+          "text": "Estrategias de filantrop\u00eda corporativa para mejorar la imagen p\u00fablica.",
+          "isCorrect": false,
+          "rationale": "El enfoque moderno se aleja de la caridad para integrarse como un dise\u00f1o de operaciones a largo plazo."
+        },
+        {
+          "text": "Protocolos exclusivos para la gesti\u00f3n de crisis ante desastres naturales.",
+          "isCorrect": false,
+          "rationale": "Si bien ayudan en crisis, son est\u00e1ndares de operaci\u00f3n continua y no solo protocolos de emergencia."
+        },
+        {
+          "text": "Normativas estatales para la formalizaci\u00f3n de la miner\u00eda artesanal.",
+          "isCorrect": false,
+          "rationale": "Los criterios ESG son est\u00e1ndares de inversi\u00f3n global, no leyes nacionales de formalizaci\u00f3n minera."
+        }
+      ],
+      "hint": "Relacione las siglas con los pilares de sostenibilidad que exigen los inversores internacionales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la 'cuarta pata' indispensable para el desarrollo sostenible en la pr\u00e1ctica real?",
+      "answerOptions": [
+        {
+          "text": "La voluntad pol\u00edtica.",
+          "isCorrect": true,
+          "rationale": "Sin la articulaci\u00f3n efectiva con el Estado, los proyectos t\u00e9cnicos y sociales carecen de respaldo institucional y legal."
+        },
+        {
+          "text": "La innovaci\u00f3n tecnol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda es un pilar t\u00e9cnico, pero no constituye la dimensi\u00f3n pol\u00edtica necesaria para la viabilidad territorial."
+        },
+        {
+          "text": "El financiamiento internacional.",
+          "isCorrect": false,
+          "rationale": "El capital es necesario, pero se considera parte del pilar econ\u00f3mico ya establecido en el modelo tradicional."
+        },
+        {
+          "text": "La educaci\u00f3n comunitaria.",
+          "isCorrect": false,
+          "rationale": "La educaci\u00f3n es una herramienta social, pero la 'cuarta pata' se refiere espec\u00edficamente a la gesti\u00f3n con el Estado."
+        }
+      ],
+      "hint": "Identifique el elemento institucional que permite la articulaci\u00f3n entre la empresa y el territorio."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el fen\u00f3meno de la 'sustituci\u00f3n del Estado' en zonas de influencia industrial?",
+      "answerOptions": [
+        {
+          "text": "La empresa privada asume roles gubernamentales ante la ausencia del gobierno.",
+          "isCorrect": true,
+          "rationale": "Ocurre cuando las comunidades presionan a las empresas para proveer infraestructura o seguridad que corresponden al sector p\u00fablico."
+        },
+        {
+          "text": "El gobierno expropia las instalaciones mineras para gestionarlas directamente.",
+          "isCorrect": false,
+          "rationale": "La sustituci\u00f3n se refiere a la transferencia de responsabilidades de servicio, no a la propiedad de la empresa."
+        },
+        {
+          "text": "Las comunidades locales crean sus propias leyes ignorando la constituci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Es una distorsi\u00f3n de roles de servicio p\u00fablico, no necesariamente un cambio en el marco constitucional."
+        },
+        {
+          "text": "La ONU interviene para administrar los recursos naturales del territorio.",
+          "isCorrect": false,
+          "rationale": "Se trata de una din\u00e1mica local entre empresa, comunidad y Estado, no de una intervenci\u00f3n internacional directa."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 sucede cuando el gobierno no cumple con sus funciones b\u00e1sicas en el territorio."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el impacto negativo de mantener el Reinfo abierto por m\u00e1s de trece a\u00f1os?",
+      "answerOptions": [
+        {
+          "text": "Funciona como un incentivo para la permanencia de econom\u00edas informales.",
+          "isCorrect": true,
+          "rationale": "La extensi\u00f3n indefinida degrada los est\u00e1ndares nacionales y permite la competencia desleal frente a empresas que s\u00ed cumplen."
+        },
+        {
+          "text": "Aumenta excesivamente la recaudaci\u00f3n tributaria del sector minero.",
+          "isCorrect": false,
+          "rationale": "La informalidad suele implicar una evasi\u00f3n o baja contribuci\u00f3n, por lo que no incrementa la recaudaci\u00f3n formal."
+        },
+        {
+          "text": "Garantiza que todas las empresas operen bajo estrictas normas ambientales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, operar bajo este registro por tanto tiempo suele evadir los controles rigurosos de las empresas formales."
+        },
+        {
+          "text": "Reduce la conflictividad social al legalizar autom\u00e1ticamente a los mineros.",
+          "isCorrect": false,
+          "rationale": "La prolongaci\u00f3n del registro genera desorden y competencia desleal, lo que a menudo agrava las tensiones sociales."
+        }
+      ],
+      "hint": "Reflexione sobre c\u00f3mo las pr\u00f3rrogas constantes afectan a quienes s\u00ed cumplen las regulaciones."
+    },
+    {
+      "question": "Seg\u00fan el enfoque de Amartya Sen, \u00bfc\u00f3mo se define el verdadero desarrollo?",
+      "answerOptions": [
+        {
+          "text": "Como la expansi\u00f3n de las libertades humanas y capacidades reales.",
+          "isCorrect": true,
+          "rationale": "El desarrollo no es solo crecimiento econ\u00f3mico, sino empoderar a los individuos para que tomen las riendas de sus vidas."
+        },
+        {
+          "text": "Como el incremento sostenido del Producto Interno Bruto (PIB) per c\u00e1pita.",
+          "isCorrect": false,
+          "rationale": "Este es un indicador puramente econ\u00f3mico que no necesariamente refleja la libertad o calidad de vida individual."
+        },
+        {
+          "text": "Como la entrega eficiente de bienes y servicios gratuitos a la poblaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Sen critica el asistencialismo paliativo; busca la creaci\u00f3n de oportunidades reales en lugar de solo donaciones."
+        },
+        {
+          "text": "Como la industrializaci\u00f3n total de las zonas rurales y altoandinas.",
+          "isCorrect": false,
+          "rationale": "La industrializaci\u00f3n es un medio, pero el fin del desarrollo para Sen es la capacidad humana y su libertad."
+        }
+      ],
+      "hint": "Piense en el concepto de empoderamiento individual frente al simple asistencialismo."
+    },
+    {
+      "question": "Al analizar la realidad nacional, \u00bfqu\u00e9 indica un \u00cdndice de Desarrollo Humano (IDH) de $0.762$ ajustado por desigualdad?",
+      "answerOptions": [
+        {
+          "text": "Una fragmentaci\u00f3n social profunda a pesar de la estabilidad macroecon\u00f3mica.",
+          "isCorrect": true,
+          "rationale": "Este valor revela una desconexi\u00f3n entre la solidez financiera del pa\u00eds y el bienestar real distribuido en la poblaci\u00f3n."
+        },
+        {
+          "text": "Que el pa\u00eds ha alcanzado el nivel de desarrollo de las potencias europeas.",
+          "isCorrect": false,
+          "rationale": "Aunque es un avance, la fragmentaci\u00f3n social lo sit\u00faa lejos de los est\u00e1ndares de bienestar de los pa\u00edses m\u00e1s desarrollados."
+        },
+        {
+          "text": "Una distribuci\u00f3n equitativa de la riqueza en todas las regiones del territorio.",
+          "isCorrect": false,
+          "rationale": "El ajuste por desigualdad precisamente resalta que la riqueza no est\u00e1 distribuida de manera uniforme."
+        },
+        {
+          "text": "La desaparici\u00f3n total de la pobreza extrema en las zonas de influencia minera.",
+          "isCorrect": false,
+          "rationale": "El \u00edndice refleja promedios y desigualdades, no la erradicaci\u00f3n total de problemas estructurales como la pobreza."
+        }
+      ],
+      "hint": "Compare el \u00e9xito financiero del Banco Central con la realidad social de las comunidades."
+    },
+    {
+      "question": "\u00bfQu\u00e9 acci\u00f3n concreta ejemplifica el cumplimiento del ODS 2 (Hambre Cero) en comunidades altoandinas?",
+      "answerOptions": [
+        {
+          "text": "Proyectos de avena forrajera para proteger al ganado durante el friaje.",
+          "isCorrect": true,
+          "rationale": "Al asegurar la supervivencia del ganado, se protege el capital pecuario y la seguridad alimentaria de las familias."
+        },
+        {
+          "text": "La construcci\u00f3n de hospitales especializados en zonas de selva baja.",
+          "isCorrect": false,
+          "rationale": "Esto se relacionar\u00eda m\u00e1s con el ODS 3 de salud que con el ODS 2 de hambre y nutrici\u00f3n."
+        },
+        {
+          "text": "El monitoreo participativo de la calidad del agua en las cuencas.",
+          "isCorrect": false,
+          "rationale": "Esta actividad corresponde al ODS 6 (Agua limpia y saneamiento)."
+        },
+        {
+          "text": "La firma de acuerdos de gobierno a gobierno para obras viales.",
+          "isCorrect": false,
+          "rationale": "Esto se enmarca en el ODS 17 (Alianzas) y ODS 9 (Infraestructura)."
+        }
+      ],
+      "hint": "Considere qu\u00e9 proyecto ayuda a evitar que los animales de los que dependen las comunidades mueran por el clima."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una caracter\u00edstica fundamental de la licencia social para operar?",
+      "answerOptions": [
+        {
+          "text": "Es un activo intangible y fr\u00e1gil que debe renovarse diariamente.",
+          "isCorrect": true,
+          "rationale": "No es un sello permanente, sino el resultado de la coherencia constante entre el discurso y la acci\u00f3n en el campo."
+        },
+        {
+          "text": "Es un permiso legal otorgado por el Ministerio de Energ\u00eda y Minas.",
+          "isCorrect": false,
+          "rationale": "La licencia social no es un documento legal formal, sino una aceptaci\u00f3n \u00e9tica y social por parte de la comunidad."
+        },
+        {
+          "text": "Se obtiene mediante un pago \u00fanico al inicio del proyecto industrial.",
+          "isCorrect": false,
+          "rationale": "La confianza no se compra con un pago, se construye a trav\u00e9s de relaciones y cumplimiento de compromisos en el tiempo."
+        },
+        {
+          "text": "Es inalterable una vez que el proyecto t\u00e9cnico ha sido aprobado.",
+          "isCorrect": false,
+          "rationale": "Es extremadamente fr\u00e1gil y puede perderse r\u00e1pidamente si se rompe la confianza o la coherencia."
+        }
+      ],
+      "hint": "Reflexione sobre la diferencia entre un permiso burocr\u00e1tico y la confianza de una poblaci\u00f3n."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 result\u00f3 exitoso el modelo de gesti\u00f3n (PMO) en el Aeropuerto de Chinchero?",
+      "answerOptions": [
+        {
+          "text": "Blind\u00f3 jur\u00eddicamente el proyecto contra la inestabilidad pol\u00edtica local.",
+          "isCorrect": true,
+          "rationale": "El uso de convenios G2G y oficinas especializadas cre\u00f3 un entorno predecible y eficiente para las inversiones."
+        },
+        {
+          "text": "Permiti\u00f3 que la empresa operadora no tuviera que realizar compras locales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el modelo super\u00f3 con creces las metas de compras locales, inyectando dinamismo a la zona."
+        },
+        {
+          "text": "Elimin\u00f3 la necesidad de realizar estudios de impacto ambiental.",
+          "isCorrect": false,
+          "rationale": "Un modelo PMO optimiza la gesti\u00f3n, pero no exime del cumplimiento de regulaciones ambientales obligatorias."
+        },
+        {
+          "text": "Otorg\u00f3 el control total de la infraestructura a las comunidades campesinas.",
+          "isCorrect": false,
+          "rationale": "La administraci\u00f3n se mantuvo bajo una oficina t\u00e9cnica especializada, no bajo el control comunitario directo."
+        }
+      ],
+      "hint": "Piense en las ventajas de los acuerdos entre Estados para evitar cuellos de botella administrativos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje real de compras locales alcanz\u00f3 el proyecto Chinchero frente al compromiso contractual m\u00ednimo?",
+      "answerOptions": [
+        {
+          "text": "Entre $60\\%$ y $65\\%$ frente al $25\\%$ exigido.",
+          "isCorrect": true,
+          "rationale": "El proyecto no solo cumpli\u00f3 la meta m\u00ednima, sino que la super\u00f3 ampliamente, beneficiando directamente al territorio."
+        },
+        {
+          "text": "Solo el $25\\%$, cumpliendo estrictamente con lo pactado.",
+          "isCorrect": false,
+          "rationale": "El resultado real fue mucho m\u00e1s din\u00e1mico y exitoso que el m\u00ednimo legal establecido."
+        },
+        {
+          "text": "Un $100\\%$, eliminando por completo los proveedores nacionales.",
+          "isCorrect": false,
+          "rationale": "Aunque fue alto, el $100\\%$ es poco realista y no coincide con las cifras del caso de estudio."
+        },
+        {
+          "text": "Menos del $10\\%$ debido a la baja calidad de los insumos locales.",
+          "isCorrect": false,
+          "rationale": "El modelo demostr\u00f3 que los proveedores locales pudieron integrarse exitosamente a la cadena de valor."
+        }
+      ],
+      "hint": "Busque las cifras que demuestran que se super\u00f3 con creces la meta inicial."
+    },
+    {
+      "question": "\u00bfCu\u00e1nto tiempo tom\u00f3 en Huaraz lograr que la poblaci\u00f3n validara totalmente los resultados t\u00e9cnicos del monitoreo de cuencas?",
+      "answerOptions": [
+        {
+          "text": "$18$ a\u00f1os de persistencia absoluta.",
+          "isCorrect": true,
+          "rationale": "La confianza es un proceso acumulativo que se construye 'gota a gota' y no se puede decretar de la noche a la ma\u00f1ana."
+        },
+        {
+          "text": "$1$ a\u00f1o, tras el primer monitoreo participativo.",
+          "isCorrect": false,
+          "rationale": "En el primer a\u00f1o apenas arranc\u00f3 el proceso; la validaci\u00f3n total de la comunidad requiri\u00f3 casi dos d\u00e9cadas."
+        },
+        {
+          "text": "$5$ a\u00f1os, coincidiendo con el cambio de gobierno local.",
+          "isCorrect": false,
+          "rationale": "El tiempo requerido fue significativamente mayor debido a la desconfianza hist\u00f3rica acumulada."
+        },
+        {
+          "text": "$10$ a\u00f1os, despu\u00e9s de la implementaci\u00f3n de laboratorios automatizados.",
+          "isCorrect": false,
+          "rationale": "Aunque hubo avances a los 10 a\u00f1os, la validaci\u00f3n al $100\\%$ se alcanz\u00f3 reci\u00e9n a los 18 a\u00f1os."
+        }
+      ],
+      "hint": "Considere que la construcci\u00f3n de confianza es un proceso de muy largo plazo en zonas con desconfianza hist\u00f3rica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 rol jug\u00f3 la Iglesia Cat\u00f3lica en el monitoreo de cuencas de Huaraz?",
+      "answerOptions": [
+        {
+          "text": "Actu\u00f3 como un mediador neutral con legitimidad social.",
+          "isCorrect": true,
+          "rationale": "Su participaci\u00f3n sirvi\u00f3 de puente entre el rigor del laboratorio y la percepci\u00f3n de la comunidad, neutralizando rumores."
+        },
+        {
+          "text": "Financi\u00f3 la construcci\u00f3n de las plantas de tratamiento de agua.",
+          "isCorrect": false,
+          "rationale": "Su rol fue de acompa\u00f1amiento y legitimaci\u00f3n social, no de financiamiento de infraestructura industrial."
+        },
+        {
+          "text": "Fue la encargada de realizar los an\u00e1lisis qu\u00edmicos de las muestras.",
+          "isCorrect": false,
+          "rationale": "Los an\u00e1lisis son t\u00e9cnicos y de laboratorio; la Iglesia brind\u00f3 transparencia y validaci\u00f3n social al proceso."
+        },
+        {
+          "text": "Sustituy\u00f3 a la autoridad ambiental del Estado en la toma de decisiones.",
+          "isCorrect": false,
+          "rationale": "Actu\u00f3 como veedor y mediador, pero no reemplaz\u00f3 las funciones legales de las autoridades gubernamentales."
+        }
+      ],
+      "hint": "Piense en instituciones que poseen autoridad moral para validar datos frente a la poblaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una recomendaci\u00f3n para la comunicaci\u00f3n en zonas rurales donde la brecha digital es alta?",
+      "answerOptions": [
+        {
+          "text": "Utilizar radios locales a pilas y parlantes comunales.",
+          "isCorrect": true,
+          "rationale": "Volver a lo b\u00e1sico asegura que el mensaje llegue efectivamente a la poblaci\u00f3n sin depender de infraestructura digital inexistente."
+        },
+        {
+          "text": "Implementar aplicaciones m\u00f3viles de \u00faltima generaci\u00f3n para todos.",
+          "isCorrect": false,
+          "rationale": "En zonas rurales con baja conectividad, las soluciones digitales suelen crear burbujas inaccesibles para muchos."
+        },
+        {
+          "text": "Enviar correos electr\u00f3nicos masivos a los l\u00edderes comunitarios.",
+          "isCorrect": false,
+          "rationale": "El correo electr\u00f3nico no es un medio de comunicaci\u00f3n efectivo en \u00e1reas con limitado acceso a internet y tecnolog\u00eda."
+        },
+        {
+          "text": "Publicar los anuncios exclusivamente en la p\u00e1gina web corporativa.",
+          "isCorrect": false,
+          "rationale": "Esto garantiza que la mayor\u00eda de la comunidad local nunca se entere de las actividades o compromisos de la empresa."
+        }
+      ],
+      "hint": "Identifique los medios tradicionales que siguen siendo vigentes en el campo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el primer paso innegociable en la jerarqu\u00eda de mitigaci\u00f3n de impactos f\u00edsicos?",
+      "answerOptions": [
+        {
+          "text": "Prevenci\u00f3n (evitar el impacto desde el dise\u00f1o).",
+          "isCorrect": true,
+          "rationale": "La mejor forma de gestionar un impacto es evitarlo totalmente, por ejemplo, alejando instalaciones de cauces h\u00eddricos."
+        },
+        {
+          "text": "Compensaci\u00f3n (reponer lo da\u00f1ado inmediatamente).",
+          "isCorrect": false,
+          "rationale": "La compensaci\u00f3n es el \u00faltimo recurso para el impacto residual que no pudo ser evitado, minimizado o corregido."
+        },
+        {
+          "text": "Correcci\u00f3n (usar ingenier\u00eda para atenuar el da\u00f1o).",
+          "isCorrect": false,
+          "rationale": "La correcci\u00f3n ocurre despu\u00e9s de que el dise\u00f1o no pudo prevenir o minimizar suficientemente el impacto."
+        },
+        {
+          "text": "Minimizaci\u00f3n (reducir la magnitud del impacto).",
+          "isCorrect": false,
+          "rationale": "La minimizaci\u00f3n es el segundo paso, cuando ya se determin\u00f3 que el impacto no puede evitarse por completo."
+        }
+      ],
+      "hint": "Piense en la acci\u00f3n m\u00e1s efectiva que se toma antes de empezar cualquier construcci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 material se utiliz\u00f3 para restituir r\u00e1pidamente el agua de consumo tras el deslizamiento en La Estrella?",
+      "answerOptions": [
+        {
+          "text": "Tuber\u00edas de polietileno de alta densidad (HDPE).",
+          "isCorrect": true,
+          "rationale": "Este material permite una instalaci\u00f3n \u00e1gil y resistente en situaciones de emergencia t\u00e9cnica."
+        },
+        {
+          "text": "Canales de concreto reforzado con gaviones.",
+          "isCorrect": false,
+          "rationale": "Los gaviones se usan para contenci\u00f3n de derrumbes, pero no para el transporte r\u00e1pido de agua potable en crisis."
+        },
+        {
+          "text": "Sistemas de bombeo manual de acero inoxidable.",
+          "isCorrect": false,
+          "rationale": "El acero es menos flexible para una respuesta de emergencia r\u00e1pida comparado con las tuber\u00edas de polietileno."
+        },
+        {
+          "text": "Tuber\u00edas de cer\u00e1mica para evitar la corrosi\u00f3n qu\u00edmica.",
+          "isCorrect": false,
+          "rationale": "La cer\u00e1mica es fr\u00e1gil y lenta de instalar, lo que la hace inviable para una respuesta t\u00e9cnica en $5$ d\u00edas."
+        }
+      ],
+      "hint": "Identifique un pol\u00edmero com\u00fan y vers\u00e1til usado en ingenier\u00eda minera para fluidos."
+    },
+    {
+      "question": "Seg\u00fan el informe t\u00e9cnico de Ingemmet, \u00bfcu\u00e1l fue la prueba irrefutable de que las grietas en La Estrella no fueron causadas por la mina?",
+      "answerOptions": [
+        {
+          "text": "La presencia de moho y vegetaci\u00f3n arraigada dentro de las grietas.",
+          "isCorrect": true,
+          "rationale": "El crecimiento de vida biol\u00f3gica antigua dentro de las fallas demuestra que estas ten\u00edan m\u00e1s de $10$ a\u00f1os de antig\u00fcedad."
+        },
+        {
+          "text": "El uso de sism\u00f3grafos que detectaron explosiones lejanas.",
+          "isCorrect": false,
+          "rationale": "Aunque se usan sism\u00f3grafos, la evidencia biol\u00f3gica interna fue la prueba determinante de la antig\u00fcedad de la falla."
+        },
+        {
+          "text": "La declaraci\u00f3n jurada de los trabajadores de la miner\u00eda informal.",
+          "isCorrect": false,
+          "rationale": "Los testimonios pueden ser subjetivos; la ciencia se bas\u00f3 en evidencias f\u00edsicas encontradas en la geolog\u00eda local."
+        },
+        {
+          "text": "La ausencia de metales pesados en las muestras de suelo.",
+          "isCorrect": false,
+          "rationale": "La investigaci\u00f3n se centr\u00f3 en la estabilidad f\u00edsica (geotecnia) y no principalmente en la composici\u00f3n qu\u00edmica del suelo."
+        }
+      ],
+      "hint": "Observe qu\u00e9 elemento natural encontrado dentro del terreno indica el paso de mucho tiempo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor antr\u00f3pico ajeno a la operaci\u00f3n formal contribuy\u00f3 al deslizamiento en la unidad minera La Estrella?",
+      "answerOptions": [
+        {
+          "text": "Cortes en la ladera para caminos precarios hechos por mineros informales.",
+          "isCorrect": true,
+          "rationale": "Estas intervenciones humanas alteraron la estabilidad natural de la geolog\u00eda, catalizando el desastre natural."
+        },
+        {
+          "text": "La deforestaci\u00f3n masiva realizada por empresas madereras legales.",
+          "isCorrect": false,
+          "rationale": "El informe se\u00f1ala espec\u00edficamente actividades ligadas a la miner\u00eda informal y no a la industria maderera."
+        },
+        {
+          "text": "El exceso de regad\u00edo en cultivos de exportaci\u00f3n cercanos.",
+          "isCorrect": false,
+          "rationale": "No se menciona la agricultura intensiva como causa, sino intervenciones f\u00edsicas en el relieve de la ladera."
+        },
+        {
+          "text": "La construcci\u00f3n de una represa hidroel\u00e9ctrica en la base de la monta\u00f1a.",
+          "isCorrect": false,
+          "rationale": "La causa identificada fue el corte precario de taludes por miner\u00eda informal, no una obra de ingenier\u00eda el\u00e9ctrica."
+        }
+      ],
+      "hint": "Busque la acci\u00f3n humana espec\u00edfica que debilit\u00f3 la base de la monta\u00f1a."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 las l\u00edneas base t\u00e9cnicas s\u00f3lidas se consideran el 'escudo institucional definitivo'?",
+      "answerOptions": [
+        {
+          "text": "Permiten documentar la realidad previa para diferenciar desastres naturales de responsabilidades corporativas.",
+          "isCorrect": true,
+          "rationale": "Contar con datos rigurosos antes de un evento permite a la empresa defenderse con ciencia frente a acusaciones infundadas."
+        },
+        {
+          "text": "Aseguran que el gobierno no pueda cobrar impuestos adicionales.",
+          "isCorrect": false,
+          "rationale": "Las l\u00edneas base son ambientales y sociales, no herramientas de planificaci\u00f3n o evasi\u00f3n tributaria."
+        },
+        {
+          "text": "Evitan que las comunidades realicen protestas o manifestaciones p\u00fablicas.",
+          "isCorrect": false,
+          "rationale": "No impiden la protesta, pero brindan argumentos cient\u00edficos para resolver conflictos basados en percepciones err\u00f3neas."
+        },
+        {
+          "text": "Garantizan que la producci\u00f3n minera nunca se detenga ante una crisis.",
+          "isCorrect": false,
+          "rationale": "Son herramientas de defensa legal y t\u00e9cnica, pero no pueden evitar f\u00edsicamente la detenci\u00f3n de operaciones en una emergencia."
+        }
+      ],
+      "hint": "Reflexione sobre la importancia de conocer el estado del terreno antes de iniciar cualquier actividad."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gesti\u00f3n socioambiental estrat\u00e9gica",
+      "Sostenibilidad y est\u00e1ndares ESG",
+      "Licencia social y construcci\u00f3n de confianza",
+      "Modelos de gesti\u00f3n p\u00fablica-privada (G2G y PMO)",
+      "Gesti\u00f3n de riesgos geot\u00e9cnicos y mitigaci\u00f3n",
+      "Relaciones comunitarias e inversi\u00f3n social"
+    ],
+    "followUp": [
+      "Marco normativo del Reinfo y formalizaci\u00f3n minera",
+      "Teor\u00eda de las capacidades de Amartya Sen en contextos industriales",
+      "Impacto de los convenios Gobierno a Gobierno en infraestructura nacional",
+      "Metodolog\u00edas de monitoreo participativo de recursos h\u00eddricos",
+      "Instrumentalizaci\u00f3n pol\u00edtica de desastres naturales en conflictos sociales"
+    ]
+  }
+}

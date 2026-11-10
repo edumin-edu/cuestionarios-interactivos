@@ -1,0 +1,543 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 factor tecnol\u00f3gico fue determinante para superar el denominado \"invierno de la inteligencia artificial\"?",
+      "answerOptions": [
+        {
+          "text": "El aumento en la densidad de transistores y la democratizaci\u00f3n de las GPU.",
+          "isCorrect": true,
+          "rationale": "El incremento en el poder computacional masivo permiti\u00f3 que el entrenamiento de redes profundas fuera viable econ\u00f3micamente y t\u00e9cnicamente r\u00e1pido."
+        },
+        {
+          "text": "La creaci\u00f3n de software comercial basado en reglas fijas.",
+          "isCorrect": false,
+          "rationale": "Este tipo de software fue una soluci\u00f3n pragm\u00e1tica durante el invierno de la IA, pero no fue lo que impuls\u00f3 su renacimiento moderno."
+        },
+        {
+          "text": "La invenci\u00f3n del primer perceptr\u00f3n en la d\u00e9cada de los a\u00f1os 70.",
+          "isCorrect": false,
+          "rationale": "El primer modelo entrenable surgi\u00f3 antes, y los a\u00f1os 70 fueron precisamente parte del periodo de estancamiento o invierno."
+        },
+        {
+          "text": "La reducci\u00f3n del uso de procesamiento en paralelo.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el procesamiento paralelo masivo habilitado por las GPU fue un motor fundamental para el avance del aprendizaje profundo."
+        }
+      ],
+      "hint": "Considera qu\u00e9 componentes de hardware se dise\u00f1aron originalmente para videojuegos pero revolucionaron el entrenamiento neuronal."
+    },
+    {
+      "question": "Dentro de la anatom\u00eda de un perceptr\u00f3n, \u00bfcu\u00e1l es la funci\u00f3n de los pesos?",
+      "answerOptions": [
+        {
+          "text": "Determinar matem\u00e1ticamente la relevancia o importancia de cada dato de entrada.",
+          "isCorrect": true,
+          "rationale": "Los pesos multiplican las entradas para indicar al modelo a qu\u00e9 informaci\u00f3n debe prestar mayor atenci\u00f3n estrat\u00e9gica."
+        },
+        {
+          "text": "Actuar como el punto de encuentro donde se suman todas las se\u00f1ales.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde a la uni\u00f3n sumadora, que ocurre despu\u00e9s de aplicar los pesos."
+        },
+        {
+          "text": "Evaluar el resultado final para decidir si la se\u00f1al pasa al resto de la red.",
+          "isCorrect": false,
+          "rationale": "Esta es la funci\u00f3n del mecanismo de umbral conocido como funci\u00f3n de activaci\u00f3n."
+        },
+        {
+          "text": "Fragmentar el texto en unidades m\u00ednimas denominadas tokens.",
+          "isCorrect": false,
+          "rationale": "La tokenizaci\u00f3n es un proceso del pipeline de lenguaje natural, no una parte del perceptr\u00f3n b\u00e1sico."
+        }
+      ],
+      "hint": "Piensa en el componente que asigna una jerarqu\u00eda de valor a la informaci\u00f3n bruta que entra al sistema."
+    },
+    {
+      "question": "En el contexto de las redes neuronales, \u00bfqu\u00e9 papel desempe\u00f1a la funci\u00f3n de activaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Act\u00faa como un mecanismo de umbral que decide si la se\u00f1al tiene fuerza suficiente para transmitirse.",
+          "isCorrect": true,
+          "rationale": "La funci\u00f3n de activaci\u00f3n determina si el resultado de la suma ponderada cumple con el criterio para activar la neurona."
+        },
+        {
+          "text": "Se encarga de normalizar los datos eliminando s\u00edmbolos irrelevantes.",
+          "isCorrect": false,
+          "rationale": "La normalizaci\u00f3n es una fase de limpieza de datos previa al procesamiento del modelo."
+        },
+        {
+          "text": "Representa el historial de pagos y deudas en un modelo financiero.",
+          "isCorrect": false,
+          "rationale": "Esos son ejemplos de datos de entrada espec\u00edficos para un modelo de riesgo, no una funci\u00f3n de red."
+        },
+        {
+          "text": "Multiplica la densidad de los transistores siguiendo la Ley de Moore.",
+          "isCorrect": false,
+          "rationale": "La Ley de Moore es un principio de hardware, mientras que la funci\u00f3n de activaci\u00f3n es un componente matem\u00e1tico del algoritmo."
+        }
+      ],
+      "hint": "Imagina a este componente como un portero que permite o bloquea el flujo de informaci\u00f3n bas\u00e1ndose en un l\u00edmite."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el periodo entre los a\u00f1os 70 y 80 es conocido como el \"invierno de la IA\"?",
+      "answerOptions": [
+        {
+          "text": "Debido al alto costo del procesamiento y la incapacidad del hardware de la \u00e9poca.",
+          "isCorrect": true,
+          "rationale": "Aunque la teor\u00eda matem\u00e1tica exist\u00eda, las limitaciones tecnol\u00f3gicas hac\u00edan que los modelos fueran econ\u00f3micamente inviables para las empresas."
+        },
+        {
+          "text": "Porque se demostr\u00f3 que la teor\u00eda de la sinapsis biol\u00f3gica era err\u00f3nea.",
+          "isCorrect": false,
+          "rationale": "El problema no era la base te\u00f3rica de la red neuronal, sino la infraestructura f\u00edsica para ejecutarla."
+        },
+        {
+          "text": "A ra\u00edz de la invenci\u00f3n de la propagaci\u00f3n inversa en 1986.",
+          "isCorrect": false,
+          "rationale": "La propagaci\u00f3n inversa fue el evento que ayud\u00f3 a salir del invierno, no lo que lo caus\u00f3."
+        },
+        {
+          "text": "Por la falta de inter\u00e9s en el software comercial de reglas fijas.",
+          "isCorrect": false,
+          "rationale": "Al contrario, las empresas prefirieron el software de reglas fijas por ser m\u00e1s barato y resolutivo en ese momento."
+        }
+      ],
+      "hint": "Enf\u00f3cate en la relaci\u00f3n entre el pragmatismo econ\u00f3mico empresarial y la potencia de c\u00e1lculo disponible en esos a\u00f1os."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja principal ofrece el perceptr\u00f3n multicapa frente al perceptr\u00f3n simple?",
+      "answerOptions": [
+        {
+          "text": "La capacidad de resolver problemas no lineales mediante capas ocultas.",
+          "isCorrect": true,
+          "rationale": "La profundidad jer\u00e1rquica permite encontrar patrones complejos que no pueden separarse con una simple l\u00ednea recta."
+        },
+        {
+          "text": "Una arquitectura lineal m\u00e1s sencilla de entrenar en computadoras b\u00e1sicas.",
+          "isCorrect": false,
+          "rationale": "La arquitectura lineal es caracter\u00edstica del perceptr\u00f3n simple, el cual es limitado para problemas complejos de mercado."
+        },
+        {
+          "text": "La reducci\u00f3n del tiempo de respuesta mediante decisiones binarias de s\u00ed o no.",
+          "isCorrect": false,
+          "rationale": "El modelo multicapa utiliza funciones continuas como Sigmoide o ReLU, alej\u00e1ndose de las decisiones binarias simples."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de la necesidad de usar funciones de activaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Ambos modelos requieren funciones de activaci\u00f3n, pero el multicapa utiliza versiones m\u00e1s robustas y sofisticadas."
+        }
+      ],
+      "hint": "Considera c\u00f3mo la profundidad de la red ayuda a mapear mercados que no se comportan de forma recta u obvia."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio estrat\u00e9gico aporta el aprendizaje profundo al sector retail en la gesti\u00f3n de inventarios?",
+      "answerOptions": [
+        {
+          "text": "Permite un ajuste din\u00e1mico que reduce los quiebres de stock y mejora el flujo de caja.",
+          "isCorrect": true,
+          "rationale": "Al cruzar variables como estacionalidad y promociones, el modelo optimiza las existencias de forma milim\u00e9trica."
+        },
+        {
+          "text": "Automatiza la contrataci\u00f3n de personal en tiendas urbanas.",
+          "isCorrect": false,
+          "rationale": "Aunque es posible aplicar IA en recursos humanos, el ajuste de inventario se enfoca espec\u00edficamente en la cadena de suministro."
+        },
+        {
+          "text": "Elimina la competencia directa mediante el an\u00e1lisis de precios.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis de precios ayuda a competir mejor, pero no elimina a la competencia de forma directa."
+        },
+        {
+          "text": "Garantiza que el cliente siempre compre el producto m\u00e1s caro.",
+          "isCorrect": false,
+          "rationale": "El objetivo es la precisi\u00f3n del inventario para satisfacer la demanda, no necesariamente forzar la venta del art\u00edculo de mayor precio."
+        }
+      ],
+      "hint": "Piensa en el impacto financiero de evitar que un cliente encuentre estantes vac\u00edos."
+    },
+    {
+      "question": "En el an\u00e1lisis de riesgo financiero, \u00bfpor qu\u00e9 los modelos de redes neuronales superan a los m\u00e9todos tradicionales?",
+      "answerOptions": [
+        {
+          "text": "Por su precisi\u00f3n al procesar m\u00faltiples entradas de datos de forma no lineal.",
+          "isCorrect": true,
+          "rationale": "Esto permite identificar probabilidades de impago con una exactitud que los an\u00e1lisis de riesgo convencionales no pueden alcanzar."
+        },
+        {
+          "text": "Porque solo consideran el ingreso mensual del cliente.",
+          "isCorrect": false,
+          "rationale": "Los modelos tradicionales suelen ser limitados, mientras que las redes neuronales absorben m\u00faltiples variables como historial y estabilidad."
+        },
+        {
+          "text": "Debido a que sus decisiones son 100\\% subjetivas y basadas en la intuici\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los modelos se basan en matem\u00e1ticas rigurosas y datos precisos, eliminando la subjetividad humana del proceso inicial."
+        },
+        {
+          "text": "Porque ignoran el historial de pagos para evitar sesgos.",
+          "isCorrect": false,
+          "rationale": "El historial de pagos es una de las entradas cr\u00edticas que el modelo analiza para determinar el perfil de riesgo."
+        }
+      ],
+      "hint": "Reflexiona sobre la capacidad de estos sistemas para encontrar relaciones ocultas entre variables como deuda, estabilidad y comportamiento de pago."
+    },
+    {
+      "question": "\u00bfC\u00f3mo ayuda un modelo predictivo a reducir la rotaci\u00f3n laboral en una empresa?",
+      "answerOptions": [
+        {
+          "text": "Generando alertas tempranas al cruzar datos de satisfacci\u00f3n con variables de mercado.",
+          "isCorrect": true,
+          "rationale": "El sistema detecta patrones de comportamiento que indican una alta probabilidad de renuncia antes de que esta ocurra."
+        },
+        {
+          "text": "Aumentando autom\u00e1ticamente el sueldo de todos los empleados.",
+          "isCorrect": false,
+          "rationale": "El modelo provee informaci\u00f3n para una estrategia de retenci\u00f3n, pero no ejecuta cambios salariales de forma aut\u00f3noma."
+        },
+        {
+          "text": "Impidiendo que los empleados presenten su carta de renuncia.",
+          "isCorrect": false,
+          "rationale": "La IA da margen para actuar preventivamente, pero no tiene control administrativo sobre las acciones legales de los trabajadores."
+        },
+        {
+          "text": "Ignorando los datos cualitativos para centrarse solo en las horas trabajadas.",
+          "isCorrect": false,
+          "rationale": "El valor del modelo reside precisamente en mezclar datos cualitativos (satisfacci\u00f3n) con datos duros."
+        }
+      ],
+      "hint": "El modelo act\u00faa proactivamente analizando el nivel de compromiso y compensaci\u00f3n frente al mercado."
+    },
+    {
+      "question": "En la industria pesada, \u00bfcu\u00e1l es el prop\u00f3sito principal del mantenimiento predictivo basado en IA?",
+      "answerOptions": [
+        {
+          "text": "Programar reparaciones basadas en la realidad t\u00e9cnica del equipo para evitar paradas no planificadas.",
+          "isCorrect": true,
+          "rationale": "El monitoreo en tiempo real de variables como vibraci\u00f3n y presi\u00f3n permite saber cu\u00e1ndo una pieza fallar\u00e1 antes de que suceda."
+        },
+        {
+          "text": "Sustituir todas las piezas de las m\u00e1quinas cada semana por precauci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda un mantenimiento preventivo tradicional e ineficiente, elevando costos innecesariamente."
+        },
+        {
+          "text": "Reducir la presi\u00f3n y temperatura de los equipos para que nunca fallen.",
+          "isCorrect": false,
+          "rationale": "El objetivo es la continuidad operativa a niveles \u00f3ptimos, no sacrificar la productividad bajando el rendimiento."
+        },
+        {
+          "text": "Eliminar la necesidad de sensores en biorreactores o celdas de flotaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los sensores son la fuente de datos esencial para que el modelo predictivo funcione."
+        }
+      ],
+      "hint": "Piensa en el ahorro econ\u00f3mico que supone no detener la producci\u00f3n de forma inesperada."
+    },
+    {
+      "question": "En el Procesamiento de Lenguaje Natural (PLN), \u00bfpor qu\u00e9 se dice que el texto es una secuencia?",
+      "answerOptions": [
+        {
+          "text": "Porque el significado de una frase depende por completo de la posici\u00f3n y el orden de las palabras.",
+          "isCorrect": true,
+          "rationale": "A diferencia de un conjunto de datos desordenado, en el lenguaje el contexto est\u00e1 dictado por la relaci\u00f3n posicional."
+        },
+        {
+          "text": "Debido a que las m\u00e1quinas solo pueden leer una palabra a la vez.",
+          "isCorrect": false,
+          "rationale": "Aunque tradicionalmente era as\u00ed, hoy existen modelos que procesan datos en paralelo, pero la naturaleza secuencial del lenguaje persiste."
+        },
+        {
+          "text": "Porque el texto siempre debe estar escrito en min\u00fasculas para ser procesado.",
+          "isCorrect": false,
+          "rationale": "Pasar a min\u00fasculas es parte de la normalizaci\u00f3n, no la raz\u00f3n por la cual el lenguaje es una secuencia."
+        },
+        {
+          "text": "Para que los sistemas de b\u00fasqueda por palabra clave funcionen m\u00e1s r\u00e1pido.",
+          "isCorrect": false,
+          "rationale": "El procesamiento secuencial busca entender intenciones complejas, superando los l\u00edmites de las b\u00fasquedas por palabras clave."
+        }
+      ],
+      "hint": "Considera c\u00f3mo cambiar el orden de las palabras en una oraci\u00f3n puede alterar dr\u00e1sticamente lo que se quiere decir."
+    },
+    {
+      "question": "\u00bfQu\u00e9 se logra mediante el paso de \"padding\" o relleno en un pipeline de procesamiento de texto?",
+      "answerOptions": [
+        {
+          "text": "Igualar la longitud de todas las secuencias para que las dimensiones sean uniformes.",
+          "isCorrect": true,
+          "rationale": "Las redes neuronales requieren entradas de tama\u00f1o constante, por lo que el padding estandariza los datos."
+        },
+        {
+          "text": "Eliminar los s\u00edmbolos extra\u00f1os y ruidos del texto original.",
+          "isCorrect": false,
+          "rationale": "Esta tarea corresponde a la fase inicial de limpieza y normalizaci\u00f3n."
+        },
+        {
+          "text": "Convertir las palabras en vectores num\u00e9ricos densos con significado sem\u00e1ntico.",
+          "isCorrect": false,
+          "rationale": "Este proceso se conoce como vectorizaci\u00f3n o embeddings."
+        },
+        {
+          "text": "Dividir un documento largo en fragmentos m\u00e1s peque\u00f1os llamados tokens.",
+          "isCorrect": false,
+          "rationale": "Esa acci\u00f3n se denomina tokenizaci\u00f3n."
+        }
+      ],
+      "hint": "Piensa en la necesidad t\u00e9cnica de que todas las entradas de una red tengan el mismo formato geom\u00e9trico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal de los \"embeddings\" o vectorizaci\u00f3n en el PLN?",
+      "answerOptions": [
+        {
+          "text": "Transforman palabras en vectores num\u00e9ricos que conservan relaciones sem\u00e1nticas complejas.",
+          "isCorrect": true,
+          "rationale": "Esto permite que las m\u00e1quinas operen matem\u00e1ticamente con el lenguaje manteniendo el contexto y el significado."
+        },
+        {
+          "text": "Asignan un n\u00famero aleatorio a cada palabra sin importar su contexto.",
+          "isCorrect": false,
+          "rationale": "Si los n\u00fameros fueran aleatorios, el modelo no podr\u00eda capturar la relaci\u00f3n l\u00f3gica entre t\u00e9rminos como 'rey' y 'reina'."
+        },
+        {
+          "text": "Reducen el tama\u00f1o del texto para que ocupe menos memoria en el servidor.",
+          "isCorrect": false,
+          "rationale": "El objetivo no es la compresi\u00f3n de archivos, sino la representaci\u00f3n matem\u00e1tica del significado."
+        },
+        {
+          "text": "Sirven para detectar errores de ortograf\u00eda en documentos legales.",
+          "isCorrect": false,
+          "rationale": "Aunque podr\u00edan ayudar en esa tarea, su fin principal es habilitar la operatividad matem\u00e1tica del lenguaje."
+        }
+      ],
+      "hint": "Enf\u00f3cate en c\u00f3mo se representan las palabras de modo que el sistema entienda que dos t\u00e9rminos est\u00e1n relacionados."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 situaci\u00f3n es preferible utilizar una arquitectura GRU sobre una LSTM?",
+      "answerOptions": [
+        {
+          "text": "Cuando se requiere una ejecuci\u00f3n r\u00e1pida y un menor costo computacional en aplicaciones en tiempo real.",
+          "isCorrect": true,
+          "rationale": "Gracias a su estructura simplificada de dos compuertas, la unidad GRU es m\u00e1s \u00e1gil que la compleja LSTM."
+        },
+        {
+          "text": "Para procesar documentos legales extremadamente largos que requieren mucha memoria.",
+          "isCorrect": false,
+          "rationale": "En secuencias muy extensas donde la retenci\u00f3n de contexto es cr\u00edtica, la arquitectura LSTM suele ser superior por sus tres compuertas."
+        },
+        {
+          "text": "Cuando el presupuesto para el proyecto es ilimitado y no importa el gasto de c\u00f3mputo.",
+          "isCorrect": false,
+          "rationale": "Si el costo no fuera problema, se usar\u00edan modelos m\u00e1s pesados o complejos; GRU se elige precisamente por eficiencia."
+        },
+        {
+          "text": "Para eliminar el procesamiento en paralelo de los modelos modernos.",
+          "isCorrect": false,
+          "rationale": "Tanto LSTM como GRU son arquitecturas secuenciales; el procesamiento paralelo masivo lleg\u00f3 despu\u00e9s con los Transformers."
+        }
+      ],
+      "hint": "Considera la diferencia entre tener tres compuertas de gesti\u00f3n de memoria frente a tener solo dos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue el cambio de paradigma fundamental introducido por los mecanismos de atenci\u00f3n en los Transformers?",
+      "answerOptions": [
+        {
+          "text": "Permitieron el procesamiento paralelo de la informaci\u00f3n capturando relaciones simult\u00e1neas.",
+          "isCorrect": true,
+          "rationale": "Esto elimin\u00f3 el cuello de botella de analizar palabra por palabra, acelerando dr\u00e1sticamente el entrenamiento."
+        },
+        {
+          "text": "Obligaron a los modelos a leer estrictamente de izquierda a derecha de forma secuencial.",
+          "isCorrect": false,
+          "rationale": "Esta era la limitaci\u00f3n de los modelos tradicionales que los Transformers lograron superar."
+        },
+        {
+          "text": "Sustituyeron por completo la necesidad de utilizar unidades de procesamiento gr\u00e1fico (GPU).",
+          "isCorrect": false,
+          "rationale": "Al contrario, los Transformers aprovechan al m\u00e1ximo el poder de procesamiento paralelo de las GPU."
+        },
+        {
+          "text": "Redujeron la capacidad de los modelos para entender el contexto a largo plazo.",
+          "isCorrect": false,
+          "rationale": "Los mecanismos de atenci\u00f3n mejoraron precisamente la captura de relaciones de largo alcance en el texto."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo la capacidad de ver toda la oraci\u00f3n al mismo tiempo cambia la velocidad del sistema."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el fen\u00f3meno conocido como \"deriva de datos\" o *data drift* en la gobernanza de modelos?",
+      "answerOptions": [
+        {
+          "text": "La p\u00e9rdida de precisi\u00f3n del modelo porque la realidad del mercado cambia constantemente.",
+          "isCorrect": true,
+          "rationale": "Si el entorno operativo evoluciona y el modelo no se actualiza, sus decisiones dejan de ser v\u00e1lidas para el nuevo contexto."
+        },
+        {
+          "text": "Un error t\u00e9cnico donde los datos se borran accidentalmente del servidor.",
+          "isCorrect": false,
+          "rationale": "La deriva no es un borrado de datos, sino un cambio en la relaci\u00f3n estad\u00edstica entre las variables del mundo real."
+        },
+        {
+          "text": "El aumento excesivo en los costos de consulta de una API por token.",
+          "isCorrect": false,
+          "rationale": "Esto es un problema de gesti\u00f3n financiera (OPEX), no una degradaci\u00f3n de la representaci\u00f3n de la realidad del modelo."
+        },
+        {
+          "text": "La fase inicial de entrenamiento donde se consumen muchos recursos de capital.",
+          "isCorrect": false,
+          "rationale": "Esa fase es el entrenamiento inicial; la deriva ocurre una vez que el modelo ya est\u00e1 en producci\u00f3n."
+        }
+      ],
+      "hint": "Imagina que un modelo entrenado para la econom\u00eda de 2010 intenta predecir el mercado de 2024."
+    },
+    {
+      "question": "En el ciclo de vida estrat\u00e9gico de un modelo de IA, \u00bfcu\u00e1l es la funci\u00f3n del monitoreo y reentrenamiento?",
+      "answerOptions": [
+        {
+          "text": "Detectar el momento exacto en que el modelo deja de representar la realidad operativa.",
+          "isCorrect": true,
+          "rationale": "Este pilar asegura que el sistema se mantenga actualizado y \u00fatil frente a los cambios del entorno."
+        },
+        {
+          "text": "Realizar la inversi\u00f3n masiva inicial en infraestructura computacional.",
+          "isCorrect": false,
+          "rationale": "Esto corresponde a la fase de preparaci\u00f3n y entrenamiento, considerada como CAPEX."
+        },
+        {
+          "text": "Integrar el modelo por primera vez a la realidad operativa del negocio.",
+          "isCorrect": false,
+          "rationale": "Ese es el paso de despliegue e inferencia, que ocurre antes del monitoreo continuo."
+        },
+        {
+          "text": "Validar si el modelo funciona correctamente solo con datos te\u00f3ricos de prueba.",
+          "isCorrect": false,
+          "rationale": "La validaci\u00f3n estricta es un paso previo al despliegue, mientras que el monitoreo ocurre durante la operaci\u00f3n real."
+        }
+      ],
+      "hint": "Es la fase que garantiza la sostenibilidad del valor del proyecto a largo plazo."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se clasifican financieramente los costos de consultar diariamente un modelo a trav\u00e9s de una API?",
+      "answerOptions": [
+        {
+          "text": "Como gasto operativo recurrente o OPEX.",
+          "isCorrect": true,
+          "rationale": "La inferencia y el uso diario representan costos variables vinculados a la operaci\u00f3n continua del negocio."
+        },
+        {
+          "text": "Como inversi\u00f3n inicial masiva o CAPEX.",
+          "isCorrect": false,
+          "rationale": "El CAPEX se asocia con el entrenamiento inicial del modelo y la adquisici\u00f3n de infraestructura pesada."
+        },
+        {
+          "text": "Como una ganancia directa en el flujo de caja inmediato.",
+          "isCorrect": false,
+          "rationale": "Aunque la IA genera beneficios, las consultas a la API son egresos que deben gestionarse para no erosionar el retorno de inversi\u00f3n."
+        },
+        {
+          "text": "Como un costo fijo de soporte t\u00e9cnico pasajero.",
+          "isCorrect": false,
+          "rationale": "No es pasajero ni necesariamente fijo, ya que depende del volumen de tokens procesados y la complejidad de la tarea."
+        }
+      ],
+      "hint": "Distingue entre la compra de una maquinaria (inversi\u00f3n) y el pago de la electricidad para usarla (gasto)."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es fundamental la trazabilidad de auditor\u00eda en sectores como las finanzas y la salud?",
+      "answerOptions": [
+        {
+          "text": "Para cumplir con la obligaci\u00f3n legal de explicar el porqu\u00e9 de cada decisi\u00f3n automatizada.",
+          "isCorrect": true,
+          "rationale": "En sectores regulados, es innegociable poder justificar los criterios algor\u00edtmicos detr\u00e1s de diagn\u00f3sticos o cr\u00e9ditos."
+        },
+        {
+          "text": "Para asegurar que el modelo sea lo m\u00e1s complejo y grande posible.",
+          "isCorrect": false,
+          "rationale": "La complejidad excesiva puede dificultar la trazabilidad; se busca transparencia, no necesariamente tama\u00f1o."
+        },
+        {
+          "text": "Para reducir los costos de entrenamiento eliminando pasos de validaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La auditor\u00eda suele a\u00f1adir pasos de control, no eliminarlos, para garantizar la seguridad y \u00e9tica."
+        },
+        {
+          "text": "Para evitar que los humanos intervengan en las decisiones cr\u00edticas.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la auditor\u00eda facilita que los humanos puedan supervisar y corregir el sistema."
+        }
+      ],
+      "hint": "Considera la responsabilidad legal cuando una m\u00e1quina decide sobre la salud o el patrimonio de una persona."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el concepto de \"humano en el bucle\" (*man in the loop*)?",
+      "answerOptions": [
+        {
+          "text": "En mantener la supervisi\u00f3n experta para aportar juicio \u00e9tico y contexto estrat\u00e9gico.",
+          "isCorrect": true,
+          "rationale": "La intervenci\u00f3n humana es irreemplazable para frenar errores algor\u00edtmicos y proveer sutilezas que la IA no capta."
+        },
+        {
+          "text": "En obligar a los empleados a realizar las tareas que la IA no quiere hacer.",
+          "isCorrect": false,
+          "rationale": "No se trata de repartir tareas indeseadas, sino de integrar el juicio cr\u00edtico en puntos decisivos."
+        },
+        {
+          "text": "En sustituir todos los algoritmos por procesos manuales para ahorrar OPEX.",
+          "isCorrect": false,
+          "rationale": "El objetivo es el equilibrio entre la velocidad del algoritmo y la \u00e9tica humana, no renunciar a la tecnolog\u00eda."
+        },
+        {
+          "text": "En entrenar a la IA para que aprenda a imitar las emociones humanas sin control.",
+          "isCorrect": false,
+          "rationale": "El concepto se enfoca en la supervisi\u00f3n y gobernanza, no en la simulaci\u00f3n emocional descontrolada."
+        }
+      ],
+      "hint": "Se refiere a la ventaja competitiva real que surge de combinar la rapidez de la m\u00e1quina con la sabidur\u00eda de las personas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el riesgo financiero de implementar un modelo excesivamente complejo para una tarea binaria simple?",
+      "answerOptions": [
+        {
+          "text": "La erosi\u00f3n del retorno de inversi\u00f3n debido a costos innecesarios por token procesado.",
+          "isCorrect": true,
+          "rationale": "Usar un \"gigante\" para tareas simples dispara el OPEX sin aportar un valor proporcional al negocio."
+        },
+        {
+          "text": "La mejora autom\u00e1tica en la precisi\u00f3n del scoring crediticio.",
+          "isCorrect": false,
+          "rationale": "La complejidad no siempre garantiza mayor precisi\u00f3n si el problema es inherentemente sencillo."
+        },
+        {
+          "text": "El aumento del CAPEX computacional durante la fase de inferencia.",
+          "isCorrect": false,
+          "rationale": "La inferencia se clasifica como OPEX; el CAPEX se asocia principalmente al entrenamiento inicial."
+        },
+        {
+          "text": "La eliminaci\u00f3n inmediata de la deriva de datos.",
+          "isCorrect": false,
+          "rationale": "Un modelo complejo tambi\u00e9n puede sufrir deriva si el mercado cambia; la complejidad no previene este fen\u00f3meno."
+        }
+      ],
+      "hint": "Piensa en la eficiencia de costos al elegir la herramienta adecuada para el tama\u00f1o del problema."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Historia y evoluci\u00f3n de la IA",
+      "Arquitectura del perceptr\u00f3n y redes neuronales",
+      "Aplicaciones empresariales del aprendizaje profundo",
+      "Procesamiento de Lenguaje Natural (PLN)",
+      "Estructuras de memoria LSTM y GRU",
+      "Revoluci\u00f3n de los Transformers y atenci\u00f3n",
+      "Gobernanza MLOps y gesti\u00f3n de riesgo",
+      "Finanzas de la IA: CAPEX vs OPEX"
+    ],
+    "followUp": [
+      "Optimizaci\u00f3n de hiperpar\u00e1metros en redes neuronales profundas",
+      "Mitigaci\u00f3n de sesgos algor\u00edtmicos en modelos de IA generativa",
+      "Integraci\u00f3n de modelos multimodales en la toma de decisiones estrat\u00e9gicas",
+      "Estrategias de retenci\u00f3n de talento mediante anal\u00edtica predictiva avanzada",
+      "Implementaci\u00f3n de arquitecturas Transformer en sectores regulados"
+    ]
+  }
+}

@@ -1,0 +1,542 @@
+
+{
+  "quiz": [
+    {
+      "question": "¿Cuál es la distinción fundamental entre una operación minera y un proyecto minero?",
+      "answerOptions": [
+        {
+          "text": "La operación es cíclica y repetitiva, mientras que el proyecto es un esfuerzo finito con un fin específico.",
+          "isCorrect": true,
+          "rationale": "Las operaciones mantienen la continuidad del negocio mediante procesos rutinarios, mientras que los proyectos buscan hitos específicos en un tiempo determinado."
+        },
+        {
+          "text": "Los proyectos son siempre de bajo costo, mientras que las operaciones requieren inversiones millonarias.",
+          "isCorrect": false,
+          "rationale": "Ambos pueden involucrar inversiones significativas; la diferencia radica en la temporalidad y el objetivo, no necesariamente en el monto."
+        },
+        {
+          "text": "La operación tiene una fecha de caducidad establecida, mientras que el proyecto es indefinido.",
+          "isCorrect": false,
+          "rationale": "Es al revés: los proyectos tienen un inicio y un fin definidos, mientras que las operaciones son continuas para sostener la caja."
+        },
+        {
+          "text": "El proyecto se encarga del mantenimiento de rutina y la operación de la expansión estratégica.",
+          "isCorrect": false,
+          "rationale": "Generalmente, las expansiones se gestionan como proyectos debido a su naturaleza finita y objetivos de crecimiento, mientras que la rutina es operativa."
+        }
+      ],
+      "hint": "Piense en cuál de los dos conceptos actúa como el 'motor' de crecimiento y cuál mantiene el 'barco a flote'."
+    },
+    {
+      "question": "En la gestión de proyectos mineros, ¿qué tipo de actividades se asocian usualmente a un horizonte de tiempo de 3 a 6 meses?",
+      "answerOptions": [
+        {
+          "text": "Ajustes técnicos rápidos y seguimientos de modulación en planta.",
+          "isCorrect": false,
+          "rationale": "Estas actividades suelen corresponder a ciclos más cortos, de aproximadamente 1 a 2 meses."
+        },
+        {
+          "text": "Proyectos de mejora operativa para optimizar procesos puntuales sin detener la producción.",
+          "isCorrect": true,
+          "rationale": "Este horizonte intermedio permite implementar optimizaciones específicas que requieren un planeamiento más allá de lo inmediato pero sin ser de largo plazo."
+        },
+        {
+          "text": "Planificación estratégica para la expansión monumental del tajo de una mina.",
+          "isCorrect": false,
+          "rationale": "Las expansiones mayores y la infraestructura pesada requieren horizontes de 1 a 2 años o incluso más."
+        },
+        {
+          "text": "Contratos de servicios especializados y valorizaciones anuales.",
+          "isCorrect": false,
+          "rationale": "Este tipo de gestiones usualmente se enmarcan en horizontes de 6 a 12 meses."
+        }
+      ],
+      "hint": "Considere el nivel de complejidad que permite optimizar procesos sin llegar a ser una inversión de infraestructura mayor."
+    },
+    {
+      "question": "¿Cuáles son los componentes que integran la denominada 'restricción triple extendida' en el sector extractivo?",
+      "answerOptions": [
+        {
+          "text": "Alcance, tiempo y costo.",
+          "isCorrect": false,
+          "rationale": "Estos tres componentes forman la restricción triple clásica, pero la versión extendida para alta complejidad incluye tres más."
+        },
+        {
+          "text": "Alcance, tiempo, costo, calidad, recursos y riesgo.",
+          "isCorrect": true,
+          "rationale": "La gestión moderna en minería exige equilibrar estos seis pilares para asegurar la viabilidad de inversiones de alto riesgo."
+        },
+        {
+          "text": "Maquinaria, mano de obra, explosivos, logística, seguridad y finanzas.",
+          "isCorrect": false,
+          "rationale": "Aunque son elementos operativos, no constituyen las dimensiones estándar de la restricción triple extendida en dirección de proyectos."
+        },
+        {
+          "text": "Producción, exportación, exploración, seguridad, legal y ambiental.",
+          "isCorrect": false,
+          "rationale": "Estos representan áreas funcionales de la mina, no los pilares de control de la restricción de un proyecto."
+        }
+      ],
+      "hint": "La gestión de proyectos compleja añade calidad, recursos y la gestión de lo inesperado a la fórmula tradicional."
+    },
+    {
+      "question": "¿Qué consecuencia financiera inmediata generan los retrasos en los cronogramas de proyectos mineros de alta complejidad?",
+      "answerOptions": [
+        {
+          "text": "Aumento del flujo de caja operativo por ahorro en salarios.",
+          "isCorrect": false,
+          "rationale": "Los retrasos suelen incrementar los costos fijos y financieros, nunca generan ahorros reales en contextos de alta inversión."
+        },
+        {
+          "text": "Activación de penalidades contractuales severas que destruyen la rentabilidad.",
+          "isCorrect": true,
+          "rationale": "En una industria que opera $24/7$, el tiempo tiene un valor monetario directo y los contratos suelen incluir multas por incumplimiento de plazos."
+        },
+        {
+          "text": "Reducción automática de los impuestos corporativos por baja productividad.",
+          "isCorrect": false,
+          "rationale": "La carga impositiva no compensa las pérdidas por multas y el costo de oportunidad de no producir."
+        },
+        {
+          "text": "Mejora en la calidad del activo físico debido a un tiempo de espera prolongado.",
+          "isCorrect": false,
+          "rationale": "El tiempo de espera prolongado suele degradar los equipos y aumentar los costos de mantenimiento, no mejora la calidad."
+        }
+      ],
+      "hint": "Piense en las cláusulas de los contratos que protegen al cliente frente a la pérdida de tiempo en una operación que no duerme."
+    },
+    {
+      "question": "¿Cuál es el riesgo de intentar reducir costos mediante la adquisición de suministros genéricos en lugar de herramientas de grado industrial?",
+      "answerOptions": [
+        {
+          "text": "Se optimiza el ciclo de vida del activo al máximo.",
+          "isCorrect": false,
+          "rationale": "Las herramientas genéricas suelen fallar antes, acortando el ciclo de vida y aumentando la frecuencia de reemplazo."
+        },
+        {
+          "text": "Se incrementa la rentabilidad neta al reducir el gasto OPEX.",
+          "isCorrect": false,
+          "rationale": "El ahorro inicial se ve anulado por los costos de paradas no programadas y fallas técnicas."
+        },
+        {
+          "text": "Se genera la receta perfecta para un desastre operativo y la paralización de la mina.",
+          "isCorrect": true,
+          "rationale": "La baja calidad de los suministros críticos compromete la seguridad y la continuidad operativa bajo condiciones extremas."
+        },
+        {
+          "text": "Se facilita la gestión de la matriz de Kraljic para suministros rutinarios.",
+          "isCorrect": false,
+          "rationale": "La matriz de Kraljic busca el equilibrio, pero nunca a costa de comprometer la integridad de la operación crítica."
+        }
+      ],
+      "hint": "Considere el impacto que tiene una pieza defectuosa en una maquinaria que debe funcionar de forma ininterrumpida."
+    },
+    {
+      "question": "¿Qué concepto define la responsabilidad final y absoluta del director de proyectos para asegurar la convergencia técnica y el cumplimiento de metas?",
+      "answerOptions": [
+        {
+          "text": "Stakeholder management.",
+          "isCorrect": false,
+          "rationale": "Se refiere a la gestión de interesados, una parte del trabajo, pero no define la responsabilidad absoluta de los resultados."
+        },
+        {
+          "text": "Ultimate accountability.",
+          "isCorrect": true,
+          "rationale": "Este término describe el rol del director como el responsable máximo de que el proyecto se entregue según lo planeado."
+        },
+        {
+          "text": "Operational excellence.",
+          "isCorrect": false,
+          "rationale": "Es un objetivo organizacional general, no un rol de responsabilidad específica sobre un proyecto finito."
+        },
+        {
+          "text": "Technical feasibility.",
+          "isCorrect": false,
+          "rationale": "Es la viabilidad técnica, un requisito previo, no una descripción del rol de liderazgo."
+        }
+      ],
+      "hint": "Es un término en inglés que implica que 'la responsabilidad termina con él'."
+    },
+    {
+      "question": "¿Cuál es una característica fundamental del ciclo de vida predictivo (modelo cascada) en la infraestructura minera?",
+      "answerOptions": [
+        {
+          "text": "Los requisitos pueden cambiar drásticamente durante la fase de construcción.",
+          "isCorrect": false,
+          "rationale": "En el modelo cascada, los requisitos deben estar fijos y bien definidos desde el inicio para evitar sobrecostos masivos."
+        },
+        {
+          "text": "Es una estructura altamente secuencial donde no se avanza sin asegurar el escalón anterior.",
+          "isCorrect": true,
+          "rationale": "Este rigor es vital en minería pesada donde las fases de diseño y prefactibilidad deben estar talladas en piedra antes de construir."
+        },
+        {
+          "text": "Permite realizar pruebas técnicas antes de tener planos precisos.",
+          "isCorrect": false,
+          "rationale": "El diseño con planos precisos es un paso obligatorio antes de cualquier construcción o prueba técnica en este modelo."
+        },
+        {
+          "text": "Se basa en iteraciones cortas llamadas sprints para definir el alcance.",
+          "isCorrect": false,
+          "rationale": "El uso de sprints es característico de metodologías ágiles, no del modelo predictivo o cascada."
+        }
+      ],
+      "hint": "Imagine una escalera donde es imposible y peligroso intentar subir al tercer peldaño sin haber pisado el segundo."
+    },
+    {
+      "question": "Al comparar el enfoque tradicional del PMI con metodologías ágiles como Scrum, ¿cuál es la principal ventaja de estas últimas en un entorno minero de alta variabilidad?",
+      "answerOptions": [
+        {
+          "text": "Permiten una planificación fija y rígida desde el primer día.",
+          "isCorrect": false,
+          "rationale": "La planificación rígida es propia del modelo predictivo, no de la agilidad."
+        },
+        {
+          "text": "Ofrecen una altísima adaptabilidad a los cambios repentinos mediante iteraciones rápidas.",
+          "isCorrect": true,
+          "rationale": "La agilidad permite reaccionar en tiempo real a la variabilidad geológica o de mercado sin perder el foco en el valor inmediato."
+        },
+        {
+          "text": "Eliminan por completo la necesidad de contar con un director de proyectos.",
+          "isCorrect": false,
+          "rationale": "Incluso en entornos ágiles, la figura de liderazgo y responsabilidad sigue siendo crucial para la gobernanza."
+        },
+        {
+          "text": "Garantizan que no existan riesgos externos durante la ejecución.",
+          "isCorrect": false,
+          "rationale": "Ninguna metodología elimina los riesgos externos; la agilidad solo ayuda a gestionarlos mejor una vez que aparecen."
+        }
+      ],
+      "hint": "Piense en la capacidad de ajustar el rumbo del proyecto de forma progresiva y flexible."
+    },
+    {
+      "question": "¿Qué herramienta se considera el 'corazón palpitante' de la planificación por su capacidad de desglosar proyectos masivos en paquetes de trabajo manejables?",
+      "answerOptions": [
+        {
+          "text": "La Matriz de Kraljic.",
+          "isCorrect": false,
+          "rationale": "Esta matriz se utiliza para categorizar suministros, no para desglosar el trabajo físico o técnico del proyecto."
+        },
+        {
+          "text": "La EDT (Estructura de Desglose de Trabajo) o WBS.",
+          "isCorrect": true,
+          "rationale": "La EDT proporciona la granularidad necesaria para que la complejidad técnica de un yacimiento sea operativamente gestionable."
+        },
+        {
+          "text": "El Diagrama de flujo OPEX.",
+          "isCorrect": false,
+          "rationale": "Se enfoca en los gastos operativos, no en la estructura de las tareas o entregables del proyecto."
+        },
+        {
+          "text": "El Acta de aceptación final.",
+          "isCorrect": false,
+          "rationale": "Este documento es para el cierre formal, no para la planificación y desglose inicial del trabajo."
+        }
+      ],
+      "hint": "Se trata de un mapa jerárquico que descompone el alcance total en partes pequeñas y específicas."
+    },
+    {
+      "question": "Dentro de la matriz de Kraljic, ¿cómo se definen los suministros catalogados como 'cuellos de botella'?",
+      "answerOptions": [
+        {
+          "text": "Son productos de bajo impacto financiero y muchos proveedores disponibles.",
+          "isCorrect": false,
+          "rationale": "Esos son suministros rutinarios; los cuellos de botella tienen pocos proveedores disponibles."
+        },
+        {
+          "text": "Son vitales para la operación pero cuentan con muy pocos proveedores especializados.",
+          "isCorrect": true,
+          "rationale": "Su escasez de fuentes de suministro representa un riesgo alto, como repuestos específicos para maquinaria pesada."
+        },
+        {
+          "text": "Son reactivos químicos que se compran en grandes volúmenes a bajo costo.",
+          "isCorrect": false,
+          "rationale": "Si son críticos y detienen la planta, suelen ser estratégicos; si son comunes, son apalancados."
+        },
+        {
+          "text": "Son herramientas genéricas que se pueden adquirir en cualquier mercado local.",
+          "isCorrect": false,
+          "rationale": "Los artículos genéricos con muchos proveedores no representan un cuello de botella logístico."
+        }
+      ],
+      "hint": "Piense en repuestos únicos para la 'línea amarilla' que solo un fabricante produce."
+    },
+    {
+      "question": "¿Cuál es la diferencia técnica entre incertidumbre y riesgo en un entorno de inversión minera?",
+      "answerOptions": [
+        {
+          "text": "La incertidumbre se puede medir con probabilidades, el riesgo no.",
+          "isCorrect": false,
+          "rationale": "Es exactamente al revés: el riesgo es el que posee probabilidades medibles."
+        },
+        {
+          "text": "El riesgo es un evento futuro con probabilidad e impacto cuantificables; la incertidumbre carece de ellos.",
+          "isCorrect": true,
+          "rationale": "Gestionar riesgos implica asignar números a la posibilidad de ocurrencia, mientras que la incertidumbre es un escenario 'a ciegas'."
+        },
+        {
+          "text": "Ambos términos son sinónimos y se usan indistintamente en la alta dirección.",
+          "isCorrect": false,
+          "rationale": "Confundirlos es un error común; la distinción es clave para la toma de decisiones financieras informadas."
+        },
+        {
+          "text": "La incertidumbre es siempre interna y el riesgo es siempre externo.",
+          "isCorrect": false,
+          "rationale": "Tanto el riesgo como la incertidumbre pueden originarse por factores internos o externos a la mina."
+        }
+      ],
+      "hint": "La clave está en si el escenario puede ser traducido a una cifra o probabilidad matemática."
+    },
+    {
+      "question": "En el análisis de riesgos, ¿cuál es la fórmula para calcular el Valor Esperado ($VE$)?",
+      "answerOptions": [
+        {
+          "text": "$VE = Inversi\\acute{o}n \\\\times Rentabilidad$",
+          "isCorrect": false,
+          "rationale": "Esta fórmula podría calcular un retorno esperado, pero no el valor de un riesgo específico."
+        },
+        {
+          "text": "$VE = Probabilidad \\\\times Impacto$",
+          "isCorrect": true,
+          "rationale": "Esta ecuación permite traducir la amenaza de un evento a una cifra monetaria para compararla con costos de mitigación."
+        },
+        {
+          "text": "$VE = CAPEX + OPEX$",
+          "isCorrect": false,
+          "rationale": "Esta es la suma del gasto total de capital y operación, no una medida de riesgo."
+        },
+        {
+          "text": "$VE = Alcance / Tiempo$",
+          "isCorrect": false,
+          "rationale": "Esta relación podría indicar una tasa de avance, pero no define el valor esperado de un riesgo."
+        }
+      ],
+      "hint": "Considere la combinación de la posibilidad de que algo pase y el golpe financiero que causaría."
+    },
+    {
+      "question": "Si un incendio tiene un Valor Esperado de riesgo de $2,000$, pero la prima de un seguro contra incendios cuesta $3,000$, ¿cuál es la lógica detrás de pagar el seguro?",
+      "answerOptions": [
+        {
+          "text": "Se busca perder dinero deliberadamente para reducir la carga fiscal.",
+          "isCorrect": false,
+          "rationale": "Ninguna decisión estratégica busca perder dinero; la lógica es la protección del patrimonio."
+        },
+        {
+          "text": "Se transfiere el riesgo para evitar una catástrofe que podría quebrar financieramente el activo.",
+          "isCorrect": true,
+          "rationale": "Aunque el costo del seguro sea mayor al valor matemático esperado, proporciona certeza y protege contra el impacto total devastador."
+        },
+        {
+          "text": "Es una decisión puramente matemática donde siempre se elige el número menor.",
+          "isCorrect": false,
+          "rationale": "Si fuera solo matemática, no se pagaría el seguro; es una decisión de negocio basada en la tolerancia al riesgo."
+        },
+        {
+          "text": "Se paga el seguro porque es obligatorio por el Decreto Supremo 024.",
+          "isCorrect": false,
+          "rationale": "Aunque existan regulaciones, el análisis financiero se basa en la protección del capital frente a impactos catastróficos."
+        }
+      ],
+      "hint": "Piense en la diferencia entre un promedio matemático y la realidad de un desastre único que agota la caja."
+    },
+    {
+      "question": "¿Qué función cumple el supervisor escolta en la logística de materiales peligrosos (Matpel) en una mina?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la velocidad de los convoyes para cumplir con los plazos del proyecto.",
+          "isCorrect": false,
+          "rationale": "Al contrario, su función es asegurar que se respeten los límites bajos de velocidad ($40$-$60\\ km/h$) por seguridad."
+        },
+        {
+          "text": "Mitigar riesgos en carretera, controlar la velocidad y prevenir accidentes o multas administrativas.",
+          "isCorrect": true,
+          "rationale": "El supervisor escolta gestiona la seguridad física y normativa de sustancias críticas como explosivos o ácidos."
+        },
+        {
+          "text": "Reemplazar al PMO en la verificación de los entregables de construcción.",
+          "isCorrect": false,
+          "rationale": "Sus funciones son logísticas y de seguridad en transporte, no de control de avance de obra civil."
+        },
+        {
+          "text": "Negociar directamente los precios de los reactivos con los proveedores estratégicos.",
+          "isCorrect": false,
+          "rationale": "La negociación de precios es una función de compras o suministros, no del personal de escolta en campo."
+        }
+      ],
+      "hint": "Su trabajo se centra en el control físico de los convoyes que transportan sustancias como ácido sulfúrico o TNT."
+    },
+    {
+      "question": "Dentro de la gobernanza operativa, ¿cuál es una de las tareas críticas diarias del PMO (Project Management Office) en el terreno?",
+      "answerOptions": [
+        {
+          "text": "Diseñar los planos de prefactibilidad desde cero.",
+          "isCorrect": false,
+          "rationale": "El diseño de planos ocurre en fases previas a la ejecución de campo donde opera el PMO."
+        },
+        {
+          "text": "Eliminar agresivamente cualquier tiempo muerto, como maquinaria pesada inactiva.",
+          "isCorrect": true,
+          "rationale": "Mantener equipos rentados apagados genera una hemorragia financiera sin avance físico, lo cual el PMO debe evitar."
+        },
+        {
+          "text": "Modificar el alcance del proyecto sin consultar al director de proyectos.",
+          "isCorrect": false,
+          "rationale": "El PMO monitorea el plan, no tiene autoridad para cambiar el alcance unilateralmente."
+        },
+        {
+          "text": "Ignorar las desviaciones menores del cronograma si son inferiores al $10\\%$.",
+          "isCorrect": false,
+          "rationale": "El PMO debe detectar cualquier brecha para aplicar medidas correctivas antes de que sean irreversibles."
+        }
+      ],
+      "hint": "Considere el costo exorbitante de tener un tractor Caterpillar o un mixer detenido sin trabajar."
+    },
+    {
+      "question": "¿Qué herramienta de software es considerada el estándar indiscutible para la gestión de cronogramas complejos y pesados en minería?",
+      "answerOptions": [
+        {
+          "text": "Jira.",
+          "isCorrect": false,
+          "rationale": "Jira se utiliza más para gestión ágil y seguimiento de tareas, no para cronogramas de infraestructura masiva."
+        },
+        {
+          "text": "Primavera P6 o Microsoft Project.",
+          "isCorrect": true,
+          "rationale": "Estas plataformas permiten visualizar desviaciones al milímetro y ajustar recursos en proyectos de gran envergadura."
+        },
+        {
+          "text": "AutoCAD.",
+          "isCorrect": false,
+          "rationale": "AutoCAD es para diseño y planos técnicos, no para la gestión de tiempos y cronogramas de proyectos."
+        },
+        {
+          "text": "Slack.",
+          "isCorrect": false,
+          "rationale": "Slack es una herramienta de comunicación, no de planificación y control de proyectos mineros."
+        }
+      ],
+      "hint": "Piense en plataformas robustas que permiten manejar miles de actividades interconectadas."
+    },
+    {
+      "question": "¿Por qué es indispensable construir una cultura de 'lecciones aprendidas' al finalizar un proyecto minero?",
+      "answerOptions": [
+        {
+          "text": "Para cumplir con un requisito burocrático sin valor operativo.",
+          "isCorrect": false,
+          "rationale": "Las lecciones aprendidas tienen un valor vital para evitar la repetición de errores costosos en el futuro."
+        },
+        {
+          "text": "Para reducir drásticamente la incertidumbre en futuros ciclos de inversión y salvar operaciones críticas.",
+          "isCorrect": true,
+          "rationale": "Documentar lo que salió bien y mal permite que la organización no tropiece dos veces con el mismo problema financiero o técnico."
+        },
+        {
+          "text": "Para justificar el despido del personal que cometió errores durante la obra.",
+          "isCorrect": false,
+          "rationale": "El objetivo es el aprendizaje organizacional y la mejora de procesos, no la búsqueda de culpables para sanciones."
+        },
+        {
+          "text": "Para aumentar el valor de las acciones en la bolsa de valores de forma inmediata.",
+          "isCorrect": false,
+          "rationale": "Aunque mejora la gestión a largo plazo, no tiene un impacto directo e inmediato en el precio de las acciones."
+        }
+      ],
+      "hint": "Considere la importancia de no repetir errores carísimos en yacimientos como Southern o Poderosa."
+    },
+    {
+      "question": "¿Qué requisito es vital para dar por cerrado formalmente un proyecto en la industria extractiva?",
+      "answerOptions": [
+        {
+          "text": "Haber gastado el $100\\%$ del presupuesto CAPEX asignado.",
+          "isCorrect": false,
+          "rationale": "Gastar el presupuesto no garantiza que el proyecto sea exitoso o esté terminado correctamente."
+        },
+        {
+          "text": "La validación exhaustiva de los involucrados y la firma de las actas de aceptación.",
+          "isCorrect": true,
+          "rationale": "El cierre no es automático; requiere la conformidad formal de que los entregables cumplen con lo pactado."
+        },
+        {
+          "text": "Despedir a todos los contratistas antes de realizar las pruebas técnicas.",
+          "isCorrect": false,
+          "rationale": "Las pruebas técnicas deben realizarse antes del cierre y usualmente requieren la presencia de los expertos o contratistas."
+        },
+        {
+          "text": "Iniciar inmediatamente el siguiente proyecto sin documentar el anterior.",
+          "isCorrect": false,
+          "rationale": "Omitir la documentación de cierre destruye el valor del aprendizaje y deja cabos sueltos legales y técnicos."
+        }
+      ],
+      "hint": "Piense en el documento legal que certifica que el cliente recibió lo que pidió satisfactoriamente."
+    },
+    {
+      "question": "¿A qué categoría de riesgo pertenecen los cambios regulatorios como las actualizaciones del Decreto Supremo 024?",
+      "answerOptions": [
+        {
+          "text": "Riesgos técnicos.",
+          "isCorrect": false,
+          "rationale": "Los técnicos se refieren al diseño o la tecnología, no a las leyes del país."
+        },
+        {
+          "text": "Riesgos externos.",
+          "isCorrect": true,
+          "rationale": "Son factores que operan totalmente fuera del control directo de la mina, como las leyes o la fluctuación de precios de metales."
+        },
+        {
+          "text": "Riesgos organizacionales.",
+          "isCorrect": false,
+          "rationale": "Estos se refieren a problemas internos como la rotación de personal o falta de presupuesto corporativo."
+        },
+        {
+          "text": "Riesgos de dirección de proyectos.",
+          "isCorrect": false,
+          "rationale": "Se asocian a errores en la estimación de tiempos o costos por parte del equipo gestor."
+        }
+      ],
+      "hint": "Es algo que viene impuesto por el gobierno y la sociedad, fuera de los límites de la operación."
+    },
+    {
+      "question": "¿Cómo contribuye la inteligencia artificial al futuro de la gestión minera según las tendencias actuales?",
+      "answerOptions": [
+        {
+          "text": "Sustituyendo por completo la necesidad de directores de proyectos humanos.",
+          "isCorrect": false,
+          "rationale": "La IA es una herramienta de apoyo; el liderazgo y las habilidades blandas siguen siendo humanos y esenciales."
+        },
+        {
+          "text": "Brindando un control predictivo avanzado para mitigar riesgos sobre los activos físicos.",
+          "isCorrect": true,
+          "rationale": "La IA permite anticipar fallas y optimizar ciclos de inversión mediante el análisis masivo de datos operativos."
+        },
+        {
+          "text": "Eliminando la necesidad de utilizar la EDT en la planificación estratégica.",
+          "isCorrect": false,
+          "rationale": "La EDT sigue siendo la base estructural; la IA solo ayuda a gestionarla de manera más eficiente."
+        },
+        {
+          "text": "Haciendo que las operaciones mineras sean 100% libres de riesgos externos.",
+          "isCorrect": false,
+          "rationale": "Ninguna tecnología puede eliminar riesgos como conflictos sociales o cambios en el precio del oro."
+        }
+      ],
+      "hint": "Piense en la capacidad de las máquinas para procesar datos y avisar antes de que algo falle."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Diferenciación entre Operaciones y Proyectos",
+      "Dirección de Proyectos y Triple Restricción Extendida",
+      "Ciclos de Vida: Predictivo vs Ágil",
+      "Gestión y Mitigación de Riesgos Mineros",
+      "Logística de Materiales Peligrosos (Matpel)",
+      "Control de Inversiones CAPEX y OPEX"
+    ],
+    "followUp": [
+      "Aplicación de Metodologías Ágiles (Sprints) en Minería",
+      "Optimización de la Cadena de Suministro con la Matriz de Kraljic",
+      "Gobernanza de Proyectos mediante PMO y Software Especializado",
+      "Modelos de Decisión Financiera y Valor Esperado de Riesgo",
+      "Cultura de Lecciones Aprendidas y Cierre de Proyectos"
+    ]
+  }
+}

@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la log\u00edstica dentro del ecosistema de la industria minera?",
+      "answerOptions": [
+        {
+          "text": "Actuar como el sistema circulatorio que garantiza la supervivencia financiera y operativa.",
+          "isCorrect": true,
+          "rationale": "La log\u00edstica se considera la sangre del proyecto, permitiendo que las operaciones en zonas hostiles se mantengan viables."
+        },
+        {
+          "text": "Servir como una funci\u00f3n de soporte administrativo para reducir costos de oficina.",
+          "isCorrect": false,
+          "rationale": "En miner\u00eda, la log\u00edstica trasciende el simple soporte para convertirse en un componente cr\u00edtico de la operatividad."
+        },
+        {
+          "text": "Gestionar exclusivamente el transporte de personal administrativo a las zonas de tajo.",
+          "isCorrect": false,
+          "rationale": "Aunque incluye transporte, su alcance es mucho mayor, abarcando suministros cr\u00edticos y mantenimiento de activos."
+        },
+        {
+          "text": "Reemplazar la tecnolog\u00eda internacional por proveedores locales de bajo costo.",
+          "isCorrect": false,
+          "rationale": "El modelo busca combinar tecnolog\u00eda de punta con aliados locales, no sustituir la calidad por el costo."
+        }
+      ],
+      "hint": "Piense en la analog\u00eda biol\u00f3gica utilizada para describir la importancia del flujo de suministros."
+    },
+    {
+      "question": "\u00bfA cu\u00e1nto asciende aproximadamente la hemorragia financiera por cada d\u00eda que una operaci\u00f3n minera permanece paralizada?",
+      "answerOptions": [
+        {
+          "text": "Entre $\\$ 1,000$ y $\\$ 1,500$ d\u00f3lares.",
+          "isCorrect": false,
+          "rationale": "Esta cifra subestima significativamente el impacto de detener maquinaria de millones de d\u00f3lares y personal calificado."
+        },
+        {
+          "text": "Entre $\\$ 2,000$ y $\\$ 5,000$ d\u00f3lares.",
+          "isCorrect": true,
+          "rationale": "Este rango refleja el costo diario real de la inactividad debido a la falta de un insumo cr\u00edtico."
+        },
+        {
+          "text": "Exactamente $\\$ 10,000$ d\u00f3lares por hora de retraso.",
+          "isCorrect": false,
+          "rationale": "Aunque el costo es alto, la medida est\u00e1ndar mencionada se calcula por d\u00eda de paralizaci\u00f3n total."
+        },
+        {
+          "text": "Depende \u00fanicamente del precio del combustible en ese momento.",
+          "isCorrect": false,
+          "rationale": "La p\u00e9rdida incluye costos fijos de maquinaria, salarios de operadores y lucro cesante, no solo combustible."
+        }
+      ],
+      "hint": "Se trata de un rango de miles de d\u00f3lares asociado a la inactividad de maquinaria pesada."
+    },
+    {
+      "question": "En el contexto de la gesti\u00f3n de suministros, \u00bfqu\u00e9 se conoce com\u00fanmente como la 'l\u00ednea amarilla'?",
+      "answerOptions": [
+        {
+          "text": "El \u00e1rea de seguridad donde se almacenan los explosivos de alta potencia.",
+          "isCorrect": false,
+          "rationale": "Esa zona tiene protocolos estrictos, pero no es la definici\u00f3n t\u00e9cnica de este t\u00e9rmino log\u00edstico."
+        },
+        {
+          "text": "La flota de maquinaria pesada utilizada en la operaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Este t\u00e9rmino se refiere a los equipos de gran escala cuyos repuestos son cr\u00edticos y tienen un margen de error cero."
+        },
+        {
+          "text": "La ruta de transporte exclusiva para materiales corrosivos y \u00e1cidos.",
+          "isCorrect": false,
+          "rationale": "Aunque el transporte es vital, la l\u00ednea amarilla identifica espec\u00edficamente a los activos de maquinaria."
+        },
+        {
+          "text": "El l\u00edmite de cr\u00e9dito m\u00e1ximo permitido para proveedores nuevos.",
+          "isCorrect": false,
+          "rationale": "La salud financiera se mide por reportes bancarios, no por una l\u00ednea de color en los balances."
+        }
+      ],
+      "hint": "Piense en los equipos de gran tama\u00f1o que requieren mantenimiento constante y repuestos espec\u00edficos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece la 'ley del mal menor' en la evaluaci\u00f3n del costo total de adquisici\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Es preferible pagar un sobrecosto por un proveedor premium que perder la producci\u00f3n diaria.",
+          "isCorrect": true,
+          "rationale": "Un gasto extra de urgencia es menor comparado con la p\u00e9rdida masiva por tener la planta detenida."
+        },
+        {
+          "text": "Se debe elegir siempre al postor m\u00e1s barato para minimizar el gasto operativo.",
+          "isCorrect": false,
+          "rationale": "Buscar lo m\u00e1s barato en una crisis puede exacerbar el tiempo de inactividad, aumentando la p\u00e9rdida total."
+        },
+        {
+          "text": "Los riesgos financieros deben ser asumidos siempre por el transportista local.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de riesgos es compartida y el estratega debe tomar decisiones para salvaguardar la producci\u00f3n."
+        },
+        {
+          "text": "El inventario de repuestos debe mantenerse al m\u00ednimo para evitar costos de almacenamiento.",
+          "isCorrect": false,
+          "rationale": "Mantener inventario cr\u00edtico es parte de la fiabilidad para evitar recurrir constantemente a emergencias."
+        }
+      ],
+      "hint": "Considere la comparaci\u00f3n entre un sobrecosto de entrega y una producci\u00f3n diaria de $\\$ 60,000$."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la herramienta obligatoria para auditar la salud financiera de un proveedor en el sistema peruano?",
+      "answerOptions": [
+        {
+          "text": "La presentaci\u00f3n comercial de ventas de la empresa.",
+          "isCorrect": false,
+          "rationale": "Las presentaciones comerciales pueden ser subjetivas y no reflejan necesariamente los datos duros financieros."
+        },
+        {
+          "text": "Los reportes oficiales de la Superintendencia de Banca y Seguros (SBS).",
+          "isCorrect": true,
+          "rationale": "Estos reportes proporcionan el historial crediticio real y alertan sobre posibles riesgos operativos por deudas."
+        },
+        {
+          "text": "El balance general firmado solo por el contador del proveedor.",
+          "isCorrect": false,
+          "rationale": "Aunque es un documento contable, el reporte de la SBS es el filtro externo que indica el 'sem\u00e1foro' de riesgo."
+        },
+        {
+          "text": "Una carta de recomendaci\u00f3n de otra unidad minera.",
+          "isCorrect": false,
+          "rationale": "La recomendaci\u00f3n valida la experiencia t\u00e9cnica, pero no garantiza la solvencia econ\u00f3mica actual."
+        }
+      ],
+      "hint": "Piense en la entidad estatal que supervisa el sistema financiero y crediticio."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es vital que un proveedor tenga solvencia econ\u00f3mica demostrable?",
+      "answerOptions": [
+        {
+          "text": "Porque si el proveedor tiene deudas, no podr\u00e1 pagar a sus transportistas ni comprar materia prima.",
+          "isCorrect": true,
+          "rationale": "La asfixia financiera del proveedor se traduce matem\u00e1ticamente en retrasos en la entrega de insumos."
+        },
+        {
+          "text": "Para asegurar que el proveedor pueda financiar los eventos sociales de la mina.",
+          "isCorrect": false,
+          "rationale": "La relaci\u00f3n es puramente operativa y t\u00e9cnica, centrada en la resiliencia de la cadena de suministro."
+        },
+        {
+          "text": "Para garantizar que el proveedor pueda bajar sus precios en el futuro.",
+          "isCorrect": false,
+          "rationale": "La solvencia busca fiabilidad y cumplimiento de plazos, no necesariamente una reducci\u00f3n de precios futuros."
+        },
+        {
+          "text": "Es un requisito legal que no impacta realmente la log\u00edstica del d\u00eda a d\u00eda.",
+          "isCorrect": false,
+          "rationale": "El impacto es directo, ya que una crisis financiera del proveedor puede paralizar el abastecimiento del proyecto."
+        }
+      ],
+      "hint": "Analice qu\u00e9 sucede con la cadena de pagos del proveedor si este carece de liquidez."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de entidades como SGS o Bureau Veritas en el proceso de homologaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Actuar como jueces independientes que validan el ADN operativo de forma imparcial.",
+          "isCorrect": true,
+          "rationale": "Delegar la evaluaci\u00f3n a externos garantiza transparencia y rigurosidad t\u00e9cnica sin sesgos internos."
+        },
+        {
+          "text": "Proveer los repuestos para la l\u00ednea amarilla cuando hay emergencias.",
+          "isCorrect": false,
+          "rationale": "Estas son entidades certificadoras y de auditor\u00eda, no proveedores de suministros industriales."
+        },
+        {
+          "text": "Financiar los proyectos de expansi\u00f3n de los yacimientos mineros.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n es t\u00e9cnica y de certificaci\u00f3n, no act\u00faan como entidades bancarias o financieras."
+        },
+        {
+          "text": "Entrenar a los operadores de maquinaria en el uso de explosivos.",
+          "isCorrect": false,
+          "rationale": "Aunque eval\u00faan la seguridad, no son las encargadas de la capacitaci\u00f3n operativa directa del personal de la mina."
+        }
+      ],
+      "hint": "Considere por qu\u00e9 una empresa minera no realizar\u00eda la evaluaci\u00f3n de sus propios proveedores internamente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 paso del proceso de homologaci\u00f3n permite verificar que las capacidades declaradas por el proveedor sean reales?",
+      "answerOptions": [
+        {
+          "text": "La invitaci\u00f3n formal por correo electr\u00f3nico.",
+          "isCorrect": false,
+          "rationale": "Este es solo el inicio del proceso administrativo y no valida ninguna capacidad t\u00e9cnica."
+        },
+        {
+          "text": "El registro de los datos corporativos b\u00e1sicos.",
+          "isCorrect": false,
+          "rationale": "El registro es un paso burocr\u00e1tico inicial que no implica verificaci\u00f3n de infraestructura."
+        },
+        {
+          "text": "La visita t\u00e9cnica directamente en el terreno.",
+          "isCorrect": true,
+          "rationale": "Los auditores comprueban f\u00edsicamente las instalaciones y equipos para validar lo declarado en la autoevaluaci\u00f3n."
+        },
+        {
+          "text": "La firma del contrato de confidencialidad.",
+          "isCorrect": false,
+          "rationale": "Este documento protege la informaci\u00f3n, pero no sirve para auditar la capacidad operativa del postor."
+        }
+      ],
+      "hint": "Es la etapa final del proceso de auditor\u00eda donde se usa la observaci\u00f3n directa."
+    },
+    {
+      "question": "\u00bfBajo qu\u00e9 pilar de la homologaci\u00f3n se revisan las hojas de seguridad MSDS y los certificados de calibraci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Pilar Contable.",
+          "isCorrect": false,
+          "rationale": "El \u00e1rea contable se enfoca en balances y declaraciones juradas financieras."
+        },
+        {
+          "text": "Pilar Ambiental.",
+          "isCorrect": false,
+          "rationale": "El pilar ambiental se centra en pol\u00edticas de manejo de residuos y certificaciones ecol\u00f3gicas."
+        },
+        {
+          "text": "Pilar T\u00e9cnico.",
+          "isCorrect": true,
+          "rationale": "En esta categor\u00eda se eval\u00faa la precisi\u00f3n de los instrumentos y la seguridad qu\u00edmica de los insumos."
+        },
+        {
+          "text": "Pilar de Seguridad y Salud.",
+          "isCorrect": false,
+          "rationale": "Aunque est\u00e1n relacionados, el manejo t\u00e9cnico de calibraciones y MSDS es una especificidad del pilar t\u00e9cnico puro."
+        }
+      ],
+      "hint": "Piense en la documentaci\u00f3n que valida la precisi\u00f3n de los instrumentos y la naturaleza de los materiales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el puntaje requerido para obtener un estatus de 'aceptado' y lograr la adjudicaci\u00f3n inmediata?",
+      "answerOptions": [
+        {
+          "text": "Entre el $50\\%$ y el $65\\%$.",
+          "isCorrect": false,
+          "rationale": "Este puntaje suele situarse en la zona de planes de mejora o incluso de rechazo."
+        },
+        {
+          "text": "Entre el $80\\%$ y el $100\\%$.",
+          "isCorrect": true,
+          "rationale": "Este rango representa la excelencia operativa necesaria para ser socio estrat\u00e9gico de inmediato."
+        },
+        {
+          "text": "Cualquier puntaje superior al $47\\%$.",
+          "isCorrect": false,
+          "rationale": "$47\\%$ es el l\u00edmite de supervivencia est\u00e1ndar para no ser descartado, no para ser aceptado plenamente."
+        },
+        {
+          "text": "\u00danicamente el $100\\%$ de cumplimiento.",
+          "isCorrect": false,
+          "rationale": "Aunque se busca la excelencia, existe un margen aceptable a partir del $80\\%$ para la adjudicaci\u00f3n."
+        }
+      ],
+      "hint": "Se trata de un rango que indica un nivel de excelencia en la evaluaci\u00f3n de los cuatro pilares."
+    },
+    {
+      "question": "\u00bfQu\u00e9 umbral de puntaje de homologaci\u00f3n consideran las unidades mineras m\u00e1s rigurosas como motivo de rechazo implacable?",
+      "answerOptions": [
+        {
+          "text": "Cualquier puntaje por debajo del $59\\%$.",
+          "isCorrect": true,
+          "rationale": "Las unidades de alta exigencia elevan la barrera para garantizar que solo los mejores proveedores operen."
+        },
+        {
+          "text": "Cualquier puntaje por debajo del $47\\%$.",
+          "isCorrect": false,
+          "rationale": "Este es el est\u00e1ndar general de la industria, pero las unidades m\u00e1s estrictas suben este l\u00edmite."
+        },
+        {
+          "text": "Solo aquellos que obtengan un $0\\%$ en el pilar ambiental.",
+          "isCorrect": false,
+          "rationale": "El rechazo se basa en el puntaje consolidado de todos los pilares, no solo en uno."
+        },
+        {
+          "text": "Puntajes entre el $60\\%$ y $70\\%$.",
+          "isCorrect": false,
+          "rationale": "Este rango usualmente permite entrar en un plan de mejora en lugar de un rechazo autom\u00e1tico."
+        }
+      ],
+      "hint": "Es un porcentaje superior al est\u00e1ndar de descartes habitual ($47\\%$)."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 se diferencia la planificaci\u00f3n estrat\u00e9gica de la planificaci\u00f3n t\u00e1ctica en el abastecimiento?",
+      "answerOptions": [
+        {
+          "text": "La estrat\u00e9gica mira el largo plazo y expansi\u00f3n, mientras que la t\u00e1ctica se enfoca en el cumplimiento de cuotas diarias.",
+          "isCorrect": true,
+          "rationale": "Ambas deben trabajar en armon\u00eda para alinear la visi\u00f3n del yacimiento con la operatividad inmediata."
+        },
+        {
+          "text": "La estrat\u00e9gica solo ve los costos y la t\u00e1ctica solo ve la seguridad del personal.",
+          "isCorrect": false,
+          "rationale": "Ambas funciones integran m\u00faltiples factores, diferenci\u00e1ndose principalmente por su horizonte temporal."
+        },
+        {
+          "text": "La estrat\u00e9gica es realizada por proveedores externos y la t\u00e1ctica por personal interno.",
+          "isCorrect": false,
+          "rationale": "Ambos niveles de planificaci\u00f3n son responsabilidades clave de la gesti\u00f3n log\u00edstica de la empresa minera."
+        },
+        {
+          "text": "No existe diferencia, son t\u00e9rminos intercambiables en la gesti\u00f3n de activos.",
+          "isCorrect": false,
+          "rationale": "La distinci\u00f3n es fundamental para separar las inversiones estructurales de los gastos de operaci\u00f3n cotidiana."
+        }
+      ],
+      "hint": "Considere la diferencia entre proyectar el futuro del yacimiento y garantizar el combustible del d\u00eda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el OPEX (Gasto Operativo) en una mina?",
+      "answerOptions": [
+        {
+          "text": "La inversi\u00f3n inicial para la compra de excavadoras y camiones de gran escala.",
+          "isCorrect": false,
+          "rationale": "La compra de activos pesados de larga duraci\u00f3n corresponde al CAPEX (Gasto de Capital)."
+        },
+        {
+          "text": "Los gastos cotidianos y vitales como combustible, alimentaci\u00f3n y repuestos de alta rotaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "El OPEX es el 'ox\u00edgeno' que mantiene la operaci\u00f3n respirando y funcionando cada d\u00eda."
+        },
+        {
+          "text": "El costo de construcci\u00f3n de la planta de procesamiento metal\u00fargico.",
+          "isCorrect": false,
+          "rationale": "La infraestructura fundacional es una inversi\u00f3n de capital y no un gasto operativo diario."
+        },
+        {
+          "text": "El pago de impuestos anuales al estado.",
+          "isCorrect": false,
+          "rationale": "Aunque es un gasto, el OPEX en log\u00edstica se asocia a los insumos necesarios para la extracci\u00f3n y mantenimiento."
+        }
+      ],
+      "hint": "Piense en los elementos que se consumen o requieren reposici\u00f3n constante para que la mina no se detenga."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el ciclo estricto de renovaci\u00f3n de maquinaria pesada recomendado para evitar altos costos de mantenimiento?",
+      "answerOptions": [
+        {
+          "text": "$10$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "A los diez a\u00f1os, los costos de reparaci\u00f3n suelen superar con creces el valor operativo del equipo."
+        },
+        {
+          "text": "$5$ a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Pasado este periodo, la eficiencia disminuye y los costos de mantenimiento se disparan, justificando la reinversi\u00f3n."
+        },
+        {
+          "text": "$2$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Un ciclo tan corto no permitir\u00eda amortizar la colosal inversi\u00f3n inicial que requiere la maquinaria pesada."
+        },
+        {
+          "text": "No existe un ciclo fijo, se reparan hasta que dejen de encender.",
+          "isCorrect": false,
+          "rationale": "La alta gerencia dicta est\u00e1ndares de renovaci\u00f3n para garantizar la m\u00e1xima eficiencia operativa y evitar fugas de capital."
+        }
+      ],
+      "hint": "Es un periodo de tiempo en a\u00f1os que equilibra la inversi\u00f3n de capital con el desgaste mec\u00e1nico."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se utilizan espec\u00edficamente los diagramas de Gantt en el entorno minero cr\u00edtico?",
+      "answerOptions": [
+        {
+          "text": "Para calcular el valor del mineral en la bolsa de Londres.",
+          "isCorrect": false,
+          "rationale": "El valor del mineral depende del mercado externo, no de una herramienta de programaci\u00f3n interna."
+        },
+        {
+          "text": "Para llevar un control cronom\u00e9trico milim\u00e9trico durante paradas de planta.",
+          "isCorrect": true,
+          "rationale": "En situaciones donde cada minuto vale oro, el Gantt permite coordinar tareas complejas con precisi\u00f3n de reloj suizo."
+        },
+        {
+          "text": "Para seleccionar a los proveedores mediante un sorteo aleatorio.",
+          "isCorrect": false,
+          "rationale": "La selecci\u00f3n se basa en la homologaci\u00f3n y criterios t\u00e9cnicos, no en cronogramas de actividades."
+        },
+        {
+          "text": "Para medir la humedad de los concentrados de mineral.",
+          "isCorrect": false,
+          "rationale": "La medici\u00f3n de humedad es un proceso t\u00e9cnico de muestreo, no una herramienta de gesti\u00f3n de tiempo."
+        }
+      ],
+      "hint": "Piense en la necesidad de sincronizar m\u00faltiples actividades en periodos de tiempo muy cortos y costosos."
+    },
+    {
+      "question": "\u00bfCu\u00e1ntas unidades de inventario activo (SKUs) debe ser capaz de gestionar un sistema MRP en el sector extractivo?",
+      "answerOptions": [
+        {
+          "text": "Aproximadamente $50$.",
+          "isCorrect": false,
+          "rationale": "Esta cantidad es insuficiente para la complejidad de una mina que requiere miles de tipos de repuestos y suministros."
+        },
+        {
+          "text": "M\u00e1s de $450$.",
+          "isCorrect": true,
+          "rationale": "Gestionar tal avalancha de requerimientos sin error es fundamental para que el suministro siga el ritmo de la perforaci\u00f3n."
+        },
+        {
+          "text": "Exactamente $1,000$ por cada excavadora.",
+          "isCorrect": false,
+          "rationale": "Aunque son muchos, la gesti\u00f3n se realiza sobre el total del inventario activo de la operaci\u00f3n, no por m\u00e1quina individual."
+        },
+        {
+          "text": "Menos de $100$ para evitar confusiones tecnol\u00f3gicas.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda actual permite y requiere manejar vol\u00famenes mucho m\u00e1s altos de datos para ser eficiente."
+        }
+      ],
+      "hint": "Es una cifra que refleja la enorme diversidad de materiales y repuestos necesarios en la operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo de capacidad productiva de la planta al implementar tecnolog\u00edas como SCADA y mantenimiento predictivo?",
+      "answerOptions": [
+        {
+          "text": "Mantenerla entre un $98\\%$ y un $99\\%$.",
+          "isCorrect": true,
+          "rationale": "Esta cifra representa una operatividad casi perfecta, lograda mediante la reducci\u00f3n del error humano y fallas inesperadas."
+        },
+        {
+          "text": "Llegar al $75\\%$ de eficiencia para reducir el desgaste.",
+          "isCorrect": false,
+          "rationale": "Un $75\\%$ se considerar\u00eda una operaci\u00f3n ineficiente con demasiados tiempos muertos para los est\u00e1ndares modernos."
+        },
+        {
+          "text": "Superar siempre el $110\\%$ de la capacidad nominal.",
+          "isCorrect": false,
+          "rationale": "Operar por encima de la capacidad nominal de forma constante puede causar da\u00f1os catastr\u00f3ficos en la infraestructura."
+        },
+        {
+          "text": "No existe un objetivo fijo, se produce seg\u00fan la demanda del d\u00eda.",
+          "isCorrect": false,
+          "rationale": "La industria minera busca la m\u00e1xima consistencia posible para rentabilizar las inmensas inversiones en activos."
+        }
+      ],
+      "hint": "Se busca un nivel de consistencia operativa que roce la perfecci\u00f3n t\u00e9cnica."
+    },
+    {
+      "question": "De acuerdo con los protocolos t\u00e9cnicos, \u00bfc\u00f3mo debe realizarse el muestreo si el lote de metales refinados supera las $30$ toneladas?",
+      "answerOptions": [
+        {
+          "text": "Extraer cinco lingotes de forma aleatoria.",
+          "isCorrect": false,
+          "rationale": "Este es el protocolo para lotes menores a $30$ toneladas, no para vol\u00famenes mayores."
+        },
+        {
+          "text": "Tomar un lingote por cada $5$ toneladas del lote.",
+          "isCorrect": true,
+          "rationale": "Esta regla asegura una representatividad estad\u00edstica incuestionable para validar la pureza del metal ante el mercado."
+        },
+        {
+          "text": "Muestrear \u00fanicamente la capa superior del cargamento.",
+          "isCorrect": false,
+          "rationale": "El muestreo debe ser aleatorio y representativo de todo el volumen para evitar sesgos en la calidad."
+        },
+        {
+          "text": "Pesar el total del lote sin necesidad de extraer muestras f\u00edsicas.",
+          "isCorrect": false,
+          "rationale": "El peso es solo una variable; el muestreo f\u00edsico es indispensable para determinar la ley (pureza) del mineral."
+        }
+      ],
+      "hint": "La frecuencia del muestreo aumenta proporcionalmente al tonelaje cuando se cruza cierto umbral."
+    },
+    {
+      "question": "\u00bfCon cu\u00e1nta anticipaci\u00f3n m\u00ednima deben proyectar sus compras los gestores log\u00edsticos frente a la volatilidad de los mercados?",
+      "answerOptions": [
+        {
+          "text": "$30$ d\u00edas.",
+          "isCorrect": false,
+          "rationale": "Un mes es un tiempo demasiado corto para reaccionar a los ciclos econ\u00f3micos y log\u00edsticos globales de la miner\u00eda."
+        },
+        {
+          "text": "$8$ meses.",
+          "isCorrect": true,
+          "rationale": "Este horizonte de tiempo permite asegurar la liquidez y el ox\u00edgeno operativo ante las fluctuaciones de la Bolsa de Londres."
+        },
+        {
+          "text": "$24$ meses.",
+          "isCorrect": false,
+          "rationale": "Aunque se planifica a largo plazo, el horizonte de proyecci\u00f3n t\u00e1ctica-operativa mencionado como clave es menor a dos a\u00f1os."
+        },
+        {
+          "text": "$1$ semana.",
+          "isCorrect": false,
+          "rationale": "La planificaci\u00f3n semanal es puramente reactiva y llevar\u00eda a un fracaso millonario en este sector."
+        }
+      ],
+      "hint": "Es un periodo de m\u00e1s de medio a\u00f1o necesario para blindar el proyecto contra la incertidumbre econ\u00f3mica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 normativa t\u00e9cnica regula el muestreo de minerales para asegurar su valor en el mercado de futuros?",
+      "answerOptions": [
+        {
+          "text": "ISO $14001$.",
+          "isCorrect": false,
+          "rationale": "Esta norma se enfoca en la gesti\u00f3n ambiental, no en los procedimientos t\u00e9cnicos de muestreo de minerales."
+        },
+        {
+          "text": "NTP $342.223$.",
+          "isCorrect": true,
+          "rationale": "El cumplimiento de esta norma t\u00e9cnica peruana es lo que define el valor real y evita mermas por humedad o impurezas."
+        },
+        {
+          "text": "ISO $45001$.",
+          "isCorrect": false,
+          "rationale": "Esta norma regula la seguridad y salud en el trabajo, no la representatividad estad\u00edstica de las muestras."
+        },
+        {
+          "text": "Ley de Bancos y Seguros.",
+          "isCorrect": false,
+          "rationale": "Dicha ley rige la salud financiera, pero no los protocolos metal\u00fargicos de comercializaci\u00f3n."
+        }
+      ],
+      "hint": "Se trata de una Norma T\u00e9cnica Peruana espec\u00edfica para la representatividad de la calidad del producto."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Log\u00edstica en el Sector Extractivo",
+      "Homologaci\u00f3n de Proveedores",
+      "Planificaci\u00f3n Estrat\u00e9gica y T\u00e1ctica",
+      "Gesti\u00f3n de Activos (CAPEX y OPEX)",
+      "Comercializaci\u00f3n y Muestreo de Minerales"
+    ],
+    "followUp": [
+      "Implementaci\u00f3n de Inteligencia Artificial en Procesos Metal\u00fargicos",
+      "Mantenimiento Predictivo y su impacto en la Rentabilidad",
+      "Gesti\u00f3n de Riesgos Financieros y el uso de Reportes de la SBS",
+      "Normativas ISO Actualizadas para la Cadena de Suministro"
+    ]
+  }
+}

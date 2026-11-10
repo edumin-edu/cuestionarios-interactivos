@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el requisito fundamental que excluye a la obsidiana de ser clasificada como un mineral verdadero?",
+      "answerOptions": [
+        {
+          "text": "Su origen volc\u00e1nico a partir del enfriamiento del magma.",
+          "isCorrect": false,
+          "rationale": "Muchos minerales verdaderos se forman a partir del enfriamiento del magma; este no es el criterio de exclusi\u00f3n."
+        },
+        {
+          "text": "Su composici\u00f3n qu\u00edmica rica en s\u00edlice.",
+          "isCorrect": false,
+          "rationale": "La composici\u00f3n qu\u00edmica por s\u00ed sola no determina si algo es un mineral, ya que existen minerales con composiciones similares."
+        },
+        {
+          "text": "La carencia de una estructura cristalina ordenada.",
+          "isCorrect": true,
+          "rationale": "T\u00e9cnicamente, los minerales deben poseer una red at\u00f3mica repetitiva y geom\u00e9trica, mientras que la obsidiana es un material amorfo."
+        },
+        {
+          "text": "Su proceso de formaci\u00f3n puramente inorg\u00e1nico.",
+          "isCorrect": false,
+          "rationale": "Ser inorg\u00e1nico es un requisito para ser un mineral, por lo que este factor no la excluir\u00eda de la definici\u00f3n."
+        }
+      ],
+      "hint": "Considere la diferencia entre un s\u00f3lido con orden interno y uno que carece de \u00e9l."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define el fen\u00f3meno conocido como alocromatismo en la identificaci\u00f3n de minerales?",
+      "answerOptions": [
+        {
+          "text": "La variaci\u00f3n del color del mineral debido a peque\u00f1as trazas de impurezas.",
+          "isCorrect": true,
+          "rationale": "El alocromatismo describe c\u00f3mo factores externos m\u00ednimos en la red cristalina pueden alterar dr\u00e1sticamente el color superficial observado."
+        },
+        {
+          "text": "El cambio de color de la raya al triturar el mineral en polvo.",
+          "isCorrect": false,
+          "rationale": "La raya suele ser un indicador mucho m\u00e1s estable y confiable que el color superficial del esp\u00e9cimen masivo."
+        },
+        {
+          "text": "La capacidad del mineral de reflejar la luz en diferentes \u00e1ngulos.",
+          "isCorrect": false,
+          "rationale": "Esto se refiere m\u00e1s al brillo o propiedades \u00f3pticas direccionales que al color intr\u00ednseco por impurezas."
+        },
+        {
+          "text": "La propiedad de un mineral de ser transparente u opaco.",
+          "isCorrect": false,
+          "rationale": "La diafanidad es una propiedad distinta que no est\u00e1 directamente relacionada con el t\u00e9rmino alocromatismo."
+        }
+      ],
+      "hint": "Piense en por qu\u00e9 el color externo a veces se considera un criterio de diagn\u00f3stico poco confiable."
+    },
+    {
+      "question": "En una exploraci\u00f3n de campo, se encuentran dos minerales oscuros visualmente id\u00e9nticos. Si uno tiene una densidad de $7.5\\ g/cm^3$ y el otro de $4\\ g/cm^3$, \u00bfqu\u00e9 minerales se han identificado respectivamente?",
+      "answerOptions": [
+        {
+          "text": "Cuarzo y Caliza.",
+          "isCorrect": false,
+          "rationale": "Estos minerales tienen densidades y apariencias muy diferentes a los valores y descripciones de sulfuros met\u00e1licos pesados."
+        },
+        {
+          "text": "Galena y Esfalerita.",
+          "isCorrect": true,
+          "rationale": "La galena es un mineral de plomo muy denso ($7.5\\ g/cm^3$), mientras que la esfalerita es un mineral de zinc con una densidad cercana a $4\\ g/cm^3$."
+        },
+        {
+          "text": "Pirita y Magnetita.",
+          "isCorrect": false,
+          "rationale": "Aunque son minerales met\u00e1licos, sus densidades espec\u00edficas no coinciden exactamente con el contraste de casi el doble mencionado."
+        },
+        {
+          "text": "Biotita y Moscovita.",
+          "isCorrect": false,
+          "rationale": "Estas son micas con densidades mucho m\u00e1s bajas y estructuras laminares muy distintas a los sulfuros."
+        }
+      ],
+      "hint": "Recuerde qu\u00e9 mineral es una fuente fundamental de plomo comparado con uno de zinc."
+    },
+    {
+      "question": "Al usar un microscopio petrogr\u00e1fico, \u00bfqu\u00e9 caracter\u00edstica permite diferenciar a los minerales is\u00f3tropos de los anis\u00f3tropos?",
+      "answerOptions": [
+        {
+          "text": "Su dureza bajo la escala de Mohs.",
+          "isCorrect": false,
+          "rationale": "La dureza es una propiedad mec\u00e1nica macrosc\u00f3pica que no se determina mediante el comportamiento de la luz en el microscopio."
+        },
+        {
+          "text": "La variabilidad de su \u00edndice de refracci\u00f3n seg\u00fan el \u00e1ngulo de observaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Los minerales is\u00f3tropos mantienen un \u00edndice constante, mientras que en los anis\u00f3tropos la luz se curva y viaja a distintas velocidades seg\u00fan la direcci\u00f3n."
+        },
+        {
+          "text": "Su capacidad de efervescencia ante \u00e1cidos.",
+          "isCorrect": false,
+          "rationale": "Esta es una prueba qu\u00edmica cualitativa que no requiere el uso de luz polarizada."
+        },
+        {
+          "text": "El tama\u00f1o de sus cristales a escala macrosc\u00f3pica.",
+          "isCorrect": false,
+          "rationale": "La isotrop\u00eda es una propiedad \u00f3ptica interna vinculada al sistema cristalino, no al tama\u00f1o externo del grano."
+        }
+      ],
+      "hint": "Reflexione sobre c\u00f3mo interact\u00faa la luz al atravesar diferentes estructuras at\u00f3micas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 t\u00e9cnica instrumental avanzada es considerada la herramienta definitiva para identificar fases cristalinas en mezclas complejas de polvo o arcillas?",
+      "answerOptions": [
+        {
+          "text": "Espectroscop\u00eda Raman.",
+          "isCorrect": false,
+          "rationale": "Aunque es excelente para la identificaci\u00f3n molecular no destructiva, no es la t\u00e9cnica est\u00e1ndar primaria para fases cristalinas espec\u00edficas en polvos."
+        },
+        {
+          "text": "Microscop\u00eda electr\u00f3nica de barrido.",
+          "isCorrect": false,
+          "rationale": "Se utiliza principalmente para obtener im\u00e1genes de alta resoluci\u00f3n de la morfolog\u00eda, no para determinar la estructura cristalina interna."
+        },
+        {
+          "text": "Difracci\u00f3n de rayos X.",
+          "isCorrect": true,
+          "rationale": "Esta t\u00e9cnica permite determinar la estructura interna de los cristales, siendo fundamental para identificar minerales que son visualmente indistinguibles."
+        },
+        {
+          "text": "Luz polarizada paralela (PPL).",
+          "isCorrect": false,
+          "rationale": "Esta es una t\u00e9cnica de microscop\u00eda \u00f3ptica convencional, no una t\u00e9cnica instrumental avanzada para polvos finos."
+        }
+      ],
+      "hint": "Busque el m\u00e9todo que analiza c\u00f3mo los rayos interact\u00faan con los planos at\u00f3micos del cristal."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el factor principal que desencadena la formaci\u00f3n de magma primario en las zonas de subducci\u00f3n profunda?",
+      "answerOptions": [
+        {
+          "text": "La descompresi\u00f3n adiab\u00e1tica de las rocas.",
+          "isCorrect": false,
+          "rationale": "Este mecanismo es m\u00e1s com\u00fan en dorsales oce\u00e1nicas, no es el factor estrella en las zonas de subducci\u00f3n."
+        },
+        {
+          "text": "La adici\u00f3n de vol\u00e1tiles, principalmente agua ($H_2O$).",
+          "isCorrect": true,
+          "rationale": "La inyecci\u00f3n de fluidos reduce dr\u00e1sticamente el punto de fusi\u00f3n de las peridotitas del manto, permitiendo la g\u00e9nesis magm\u00e1tica."
+        },
+        {
+          "text": "El enfriamiento r\u00e1pido al contacto con el oc\u00e9ano.",
+          "isCorrect": false,
+          "rationale": "El enfriamiento produce la solidificaci\u00f3n de la roca, no la creaci\u00f3n de magma."
+        },
+        {
+          "text": "La presencia de grandes dep\u00f3sitos de carb\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El carb\u00f3n es una roca sedimentaria org\u00e1nica y no participa en los procesos de fusi\u00f3n del manto profundo."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sustancia reduce el punto de fusi\u00f3n de las rocas del manto."
+    },
+    {
+      "question": "Si un magma f\u00e9lsico (rico en s\u00edlice) se enfr\u00eda lentamente en las profundidades de la corteza, \u00bfqu\u00e9 tipo de roca \u00edgnea se forma?",
+      "answerOptions": [
+        {
+          "text": "Riolita.",
+          "isCorrect": false,
+          "rationale": "La riolita es el equivalente volc\u00e1nico (enfriamiento r\u00e1pido superficial) de un magma f\u00e9lsico."
+        },
+        {
+          "text": "Granito.",
+          "isCorrect": true,
+          "rationale": "El granito es una roca plut\u00f3nica que se forma a partir de magmas ricos en s\u00edlice mediante un enfriamiento lento que permite cristales visibles."
+        },
+        {
+          "text": "Basalto.",
+          "isCorrect": false,
+          "rationale": "El basalto proviene de magmas m\u00e1ficos (pobres en s\u00edlice) y suele tener un origen volc\u00e1nico."
+        },
+        {
+          "text": "Obsidiana.",
+          "isCorrect": false,
+          "rationale": "La obsidiana se forma por un enfriamiento instant\u00e1neo que impide cualquier tipo de cristalizaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en el ambiente plut\u00f3nico y la composici\u00f3n qu\u00edmica rica en $SiO_2$."
+    },
+    {
+      "question": "\u00bfQu\u00e9 revela una textura afan\u00e9rica en una roca \u00edgnea sobre su historia t\u00e9rmica?",
+      "answerOptions": [
+        {
+          "text": "Que la roca se enfri\u00f3 muy lentamente en la profundidad.",
+          "isCorrect": false,
+          "rationale": "El enfriamiento lento produce texturas faner\u00edticas con cristales grandes y visibles."
+        },
+        {
+          "text": "Que hubo un choque t\u00e9rmico instant\u00e1neo al tocar el oc\u00e9ano.",
+          "isCorrect": false,
+          "rationale": "Un choque t\u00e9rmico instant\u00e1neo suele producir una textura v\u00edtrea o amorfa."
+        },
+        {
+          "text": "Que los cristales son grandes e irrefutables.",
+          "isCorrect": false,
+          "rationale": "Esto describe a la textura faner\u00edtica, no a la afaner\u00edtica (t\u00e9rmino que aqu\u00ed se usa para diferenciar el enfriamiento lento)."
+        },
+        {
+          "text": "Que el enfriamiento fue lo suficientemente lento para formar cristales visibles a simple vista.",
+          "isCorrect": true,
+          "rationale": "La textura afaner\u00edtica (o faner\u00edtica en otros contextos, pero aqu\u00ed referida a cristales grandes) es prueba de un enfriamiento lento en la corteza."
+        }
+      ],
+      "hint": "Relacione el tama\u00f1o de los cristales con el tiempo disponible para que los \u00e1tomos se ordenen."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el proceso cr\u00edtico de la sedimentaci\u00f3n que transforma los sedimentos sueltos en una unidad geol\u00f3gica predecible y s\u00f3lida?",
+      "answerOptions": [
+        {
+          "text": "Erosi\u00f3n mec\u00e1nica.",
+          "isCorrect": false,
+          "rationale": "La erosi\u00f3n es el inicio del ciclo, encargada del desgaste, no de la consolidaci\u00f3n de la roca."
+        },
+        {
+          "text": "Transporte por gravedad.",
+          "isCorrect": false,
+          "rationale": "El transporte solo mueve el material de un lugar a otro antes de su dep\u00f3sito."
+        },
+        {
+          "text": "Diag\u00e9nesis.",
+          "isCorrect": true,
+          "rationale": "La diag\u00e9nesis incluye la compactaci\u00f3n extrema y la cementaci\u00f3n qu\u00edmica necesarias para formar rocas sedimentarias s\u00f3lidas."
+        },
+        {
+          "text": "Metamorfismo regional.",
+          "isCorrect": false,
+          "rationale": "El metamorfismo transforma rocas ya existentes bajo presi\u00f3n y calor, no es parte de la formaci\u00f3n inicial de la roca sedimentaria."
+        }
+      ],
+      "hint": "Es el cuarto paso del ciclo sedimentario que involucra compactaci\u00f3n y cementaci\u00f3n."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 categor\u00eda de rocas sedimentarias pertenece la formaci\u00f3n Chambar\u00e1, mencionada como protagonista en casos pr\u00e1cticos de ingenier\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Detr\u00edticas.",
+          "isCorrect": false,
+          "rationale": "Las detr\u00edticas, como las areniscas, se forman por fragmentos mec\u00e1nicos, a diferencia de las calizas qu\u00edmicas."
+        },
+        {
+          "text": "Qu\u00edmicas.",
+          "isCorrect": true,
+          "rationale": "La formaci\u00f3n Chambar\u00e1 consiste en calizas qu\u00edmicas, las cuales resultan de procesos de precipitaci\u00f3n qu\u00edmica."
+        },
+        {
+          "text": "Org\u00e1nicas.",
+          "isCorrect": false,
+          "rationale": "Las rocas org\u00e1nicas, como el carb\u00f3n, provienen de restos biol\u00f3gicos acumulados."
+        },
+        {
+          "text": "Metam\u00f3rficas de contacto.",
+          "isCorrect": false,
+          "rationale": "Aunque puede metamorfizarse, su origen primario en el ciclo sedimentario es qu\u00edmico."
+        }
+      ],
+      "hint": "Considere el proceso de formaci\u00f3n de las calizas masivas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza fundamentalmente al proceso de metamorfismo en las rocas?",
+      "answerOptions": [
+        {
+          "text": "La fusi\u00f3n completa de la roca para formar nuevo magma.",
+          "isCorrect": false,
+          "rationale": "Si la roca se funde, entra en el ciclo \u00edgneo; el metamorfismo ocurre estrictamente en estado s\u00f3lido."
+        },
+        {
+          "text": "El mantenimiento de la roca en estado s\u00f3lido durante su transformaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "El metamorfismo implica cambios estructurales y mineral\u00f3gicos por presi\u00f3n y temperatura sin llegar al punto de fusi\u00f3n."
+        },
+        {
+          "text": "La evaporaci\u00f3n de minerales debido a fluidos fr\u00edos.",
+          "isCorrect": false,
+          "rationale": "El metamorfismo requiere condiciones extremas de calor y presi\u00f3n, no fluidos fr\u00edos."
+        },
+        {
+          "text": "La fragmentaci\u00f3n mec\u00e1nica de la roca en la superficie.",
+          "isCorrect": false,
+          "rationale": "La fragmentaci\u00f3n mec\u00e1nica es parte de la erosi\u00f3n y meteorizaci\u00f3n, no del metamorfismo."
+        }
+      ],
+      "hint": "Piense en la analog\u00eda de una 'olla de presi\u00f3n' que cambia la forma pero no funde el contenido."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el resultado de someter a una arenisca rica en cuarzo a condiciones de alta presi\u00f3n y temperatura?",
+      "answerOptions": [
+        {
+          "text": "M\u00e1rmol.",
+          "isCorrect": false,
+          "rationale": "El m\u00e1rmol es el producto del metamorfismo de la caliza, no de la arenisca."
+        },
+        {
+          "text": "Pizarra.",
+          "isCorrect": false,
+          "rationale": "La pizarra se origina a partir del metamorfismo de bajo grado de la lutita."
+        },
+        {
+          "text": "Cuarcita.",
+          "isCorrect": true,
+          "rationale": "La cuarcita es una roca metam\u00f3rfica muy dura que se forma por la recristalizaci\u00f3n de una arenisca rica en cuarzo."
+        },
+        {
+          "text": "Gneiss.",
+          "isCorrect": false,
+          "rationale": "El gneiss suele ser el resultado del metamorfismo de alto grado de rocas como el granito."
+        }
+      ],
+      "hint": "El nombre de la roca resultante refleja su alto contenido del mineral original."
+    },
+    {
+      "question": "En el an\u00e1lisis forense de la mina La Estrella, \u00bfqu\u00e9 paradoja se present\u00f3 con respecto a la formaci\u00f3n Chambar\u00e1?",
+      "answerOptions": [
+        {
+          "text": "Era una roca blanda que se comport\u00f3 como una roca extremadamente dura.",
+          "isCorrect": false,
+          "rationale": "La realidad fue la opuesta: una roca supuestamente resistente se comport\u00f3 como un material de mala calidad."
+        },
+        {
+          "text": "Siendo calizas masivas te\u00f3ricamente resistentes, estaban altamente fracturadas y meteorizadas.",
+          "isCorrect": true,
+          "rationale": "A pesar de su resistencia te\u00f3rica, el estado de fracturaci\u00f3n degrad\u00f3 su calidad geot\u00e9cnica a regular o mala."
+        },
+        {
+          "text": "La roca era impermeable pero absorbi\u00f3 toda el agua de lluvia.",
+          "isCorrect": false,
+          "rationale": "La inestabilidad se debi\u00f3 a la fracturaci\u00f3n que permit\u00eda la entrada de agua, no a una paradoja de impermeabilidad."
+        },
+        {
+          "text": "Su composici\u00f3n qu\u00edmica cambi\u00f3 instant\u00e1neamente a carb\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La composici\u00f3n qu\u00edmica no cambi\u00f3 de esa manera; el problema fue estructural y de meteorizaci\u00f3n."
+        }
+      ],
+      "hint": "Considere la diferencia entre la resistencia te\u00f3rica del material y su estado f\u00edsico real en el sitio."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue el umbral cr\u00edtico de precipitaci\u00f3n que satur\u00f3 el sistema en el caso de la mina La Estrella?",
+      "answerOptions": [
+        {
+          "text": "$100\\ mm$.",
+          "isCorrect": false,
+          "rationale": "Este valor no alcanz\u00f3 el volumen abrumador identificado como el disparador del desastre."
+        },
+        {
+          "text": "$185\\ mm$.",
+          "isCorrect": true,
+          "rationale": "Este fue el volumen de agua abrumador que actu\u00f3 como gatillo definitivo para la falla del talud."
+        },
+        {
+          "text": "$50\\ mm$.",
+          "isCorrect": false,
+          "rationale": "Una lluvia de $50\\ mm$ es significativa pero no represent\u00f3 el punto de saturaci\u00f3n cr\u00edtica en este caso."
+        },
+        {
+          "text": "$250\\ mm$.",
+          "isCorrect": false,
+          "rationale": "Aunque es un valor alto, el an\u00e1lisis t\u00e9cnico determin\u00f3 que el fallo ocurri\u00f3 espec\u00edficamente al alcanzar los $185\\ mm$."
+        }
+      ],
+      "hint": "Es un n\u00famero espec\u00edfico que representa un volumen de agua abrumador en poco tiempo."
+    },
+    {
+      "question": "Seg\u00fan la evidencia t\u00e9cnica, \u00bfcu\u00e1l fue la verdadera intervenci\u00f3n humana que provoc\u00f3 la inestabilidad del talud en la mina?",
+      "answerOptions": [
+        {
+          "text": "Las vibraciones constantes de las voladuras mineras.",
+          "isCorrect": false,
+          "rationale": "Aunque la comunidad lo sospechaba, los an\u00e1lisis t\u00e9cnicos descartaron que las voladuras fueran la causa."
+        },
+        {
+          "text": "La construcci\u00f3n de viviendas pesadas en la cima del cerro.",
+          "isCorrect": false,
+          "rationale": "El problema no fue el peso en la cima, sino la remoci\u00f3n de material en la parte inferior."
+        },
+        {
+          "text": "Cortes no documentados en la base del cerro para v\u00edas de acceso.",
+          "isCorrect": true,
+          "rationale": "Al realizar cortes sin soporte de ingenier\u00eda en la base, se 'le quit\u00f3 el piso' al talud, empeorando su estabilidad."
+        },
+        {
+          "text": "El uso excesivo de agua para el procesamiento metal\u00fargico.",
+          "isCorrect": false,
+          "rationale": "El agua que satur\u00f3 el terreno fue de origen pluvial (lluvia), no por uso industrial de la mina."
+        }
+      ],
+      "hint": "Piense en modificaciones topogr\u00e1ficas realizadas sin el soporte de ingenier\u00eda adecuado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 medida de mitigaci\u00f3n consiste en retirar bloques de roca sueltos que representan un peligro de ca\u00edda inminente?",
+      "answerOptions": [
+        {
+          "text": "Instalaci\u00f3n de gaviones.",
+          "isCorrect": false,
+          "rationale": "Los gaviones se usan para contenci\u00f3n y peso en la base, no para retirar material suelto."
+        },
+        {
+          "text": "Desinche mec\u00e1nico.",
+          "isCorrect": true,
+          "rationale": "El desinche es la t\u00e9cnica de limpieza de taludes para eliminar fragmentos inestables o sueltos."
+        },
+        {
+          "text": "Zanjas de coronaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las zanjas se utilizan para el control de aguas superficiales, no para la remoci\u00f3n de rocas."
+        },
+        {
+          "text": "Monitoreo de grietas.",
+          "isCorrect": false,
+          "rationale": "El monitoreo es una actividad de observaci\u00f3n, no una acci\u00f3n de remoci\u00f3n f\u00edsica de bloques."
+        }
+      ],
+      "hint": "Es una acci\u00f3n de limpieza directa sobre la cara del macizo rocoso."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el rango de inclinaci\u00f3n de la pendiente en la zona del deslizamiento de la mina La Estrella?",
+      "answerOptions": [
+        {
+          "text": "Entre $10^\\circ$ y $20^\\circ$.",
+          "isCorrect": false,
+          "rationale": "Esta es una pendiente moderada que no coincide con el escenario de inestabilidad severa descrito."
+        },
+        {
+          "text": "Entre $25^\\circ$ y $45^\\circ$.",
+          "isCorrect": true,
+          "rationale": "Este rango representa una pendiente fuertemente escarpada que facilit\u00f3 el movimiento de masa."
+        },
+        {
+          "text": "Casi vertical, superior a $80^\\circ$.",
+          "isCorrect": false,
+          "rationale": "Aunque es muy empinada, el reporte t\u00e9cnico especific\u00f3 un rango menor para este caso particular."
+        },
+        {
+          "text": "Plana, con menos de $5^\\circ$ de inclinaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Un terreno plano no presentar\u00eda el tipo de deslizamiento de talud analizado."
+        }
+      ],
+      "hint": "Se describe como una pendiente fuertemente escarpada."
+    },
+    {
+      "question": "\u00bfQu\u00e9 propiedad \u00f3ptica de la luz en minerales como la biotita se observa al girar la muestra bajo luz polarizada paralela (PPL)?",
+      "answerOptions": [
+        {
+          "text": "Birrefringencia.",
+          "isCorrect": false,
+          "rationale": "La birrefringencia se observa con luz polarizada cruzada (XPL), no paralela."
+        },
+        {
+          "text": "Pleocro\u00edsmo.",
+          "isCorrect": true,
+          "rationale": "El pleocro\u00edsmo es el cambio llamativo de color que ocurre al rotar ciertos minerales bajo PPL."
+        },
+        {
+          "text": "Colores de interferencia.",
+          "isCorrect": false,
+          "rationale": "Al igual que la birrefringencia, estos colores son caracter\u00edsticos de la observaci\u00f3n en XPL."
+        },
+        {
+          "text": "Densidad \u00f3ptica.",
+          "isCorrect": false,
+          "rationale": "La densidad no es una propiedad que se manifieste como un cambio de color al girar la muestra en el microscopio."
+        }
+      ],
+      "hint": "Se trata de un cambio de color selectivo seg\u00fan la orientaci\u00f3n del cristal."
+    },
+    {
+      "question": "En el contexto de la gesti\u00f3n de riesgos, \u00bfcu\u00e1l es el rol fundamental del ge\u00f3logo senior seg\u00fan lo discutido?",
+      "answerOptions": [
+        {
+          "text": "Realizar \u00fanicamente descripciones te\u00f3ricas de rocas.",
+          "isCorrect": false,
+          "rationale": "La geolog\u00eda moderna va mucho m\u00e1s all\u00e1 de la simple descripci\u00f3n; es una herramienta de precisi\u00f3n financiera y seguridad."
+        },
+        {
+          "text": "Actuar como un mediador t\u00e9cnico para lograr paz social y viabilidad operativa.",
+          "isCorrect": true,
+          "rationale": "El ge\u00f3logo senior debe comunicar hallazgos t\u00e9cnicos con transparencia para equilibrar la percepci\u00f3n social y la realidad cient\u00edfica."
+        },
+        {
+          "text": "Ignorar la evidencia t\u00e9cnica para favorecer la opini\u00f3n de la comunidad.",
+          "isCorrect": false,
+          "rationale": "El rigor cient\u00edfico y la evidencia t\u00e9cnica son la base para salvar vidas y prevenir desastres."
+        },
+        {
+          "text": "Dedicar su tiempo exclusivamente al laboratorio sin ir al campo.",
+          "isCorrect": false,
+          "rationale": "La geolog\u00eda minera integra el trabajo de campo, laboratorio y an\u00e1lisis forense integral."
+        }
+      ],
+      "hint": "Considere la conexi\u00f3n entre la ciencia t\u00e9cnica y la comunicaci\u00f3n con la sociedad."
+    },
+    {
+      "question": "\u00bfQu\u00e9 gases masivos son com\u00fanmente expulsados por estructuras volc\u00e1nicas en erupci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Ox\u00edgeno puro y nitr\u00f3geno.",
+          "isCorrect": false,
+          "rationale": "Estos son componentes atmosf\u00e9ricos normales, no los gases volc\u00e1nicos dominantes en una erupci\u00f3n."
+        },
+        {
+          "text": "Vapor de agua ($H_2O$) y di\u00f3xido de carbono ($CO_2$).",
+          "isCorrect": true,
+          "rationale": "Estos son los principales gases masivos liberados durante la actividad volc\u00e1nica superficial."
+        },
+        {
+          "text": "Arg\u00f3n y Helio.",
+          "isCorrect": false,
+          "rationale": "Aunque pueden estar presentes en trazas, no constituyen la masa principal de los gases expulsados."
+        },
+        {
+          "text": "Metano y Mon\u00f3xido de Carbono \u00fanicamente.",
+          "isCorrect": false,
+          "rationale": "Si bien pueden existir, el vapor de agua y el di\u00f3xido de carbono son significativamente m\u00e1s masivos."
+        }
+      ],
+      "hint": "Piense en las mol\u00e9culas gaseosas m\u00e1s simples y abundantes relacionadas con el magma y el agua."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Definici\u00f3n y propiedades f\u00edsicas de los minerales",
+      "T\u00e9cnicas de microscop\u00eda y an\u00e1lisis instrumental",
+      "Petrolog\u00eda \u00edgnea y g\u00e9nesis magm\u00e1tica",
+      "Ciclo sedimentario y diag\u00e9nesis",
+      "Metamorfismo y transformaci\u00f3n de rocas",
+      "Geodin\u00e1mica aplicada y gesti\u00f3n de riesgos geol\u00f3gicos",
+      "An\u00e1lisis forense de fallas de talud"
+    ],
+    "followUp": [
+      "Sistemas cristalinos y su relaci\u00f3n con la isotrop\u00eda \u00f3ptica",
+      "Mecanismos de fusi\u00f3n parcial en el manto superior",
+      "Geotecnia aplicada a la estabilidad de macizos rocosos fracturados",
+      "Impacto de la meteorizaci\u00f3n qu\u00edmica en calizas masivas",
+      "Dise\u00f1o de sistemas de drenaje y control de aguas en miner\u00eda"
+    ]
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 porcentaje aproximado del Producto Interno Bruto (PIB) de Per\u00fa es impulsado por el sector minero?",
+      "answerOptions": [
+        {
+          "text": "$14\\%$",
+          "isCorrect": true,
+          "rationale": "Este valor refleja la importancia estrat\u00e9gica de la miner\u00eda como pilar de la econom\u00eda nacional."
+        },
+        {
+          "text": "$20\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra significativa, sobreestima el aporte actual mencionado para este sector espec\u00edfico."
+        },
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Esta cifra subestima el impacto real de la miner\u00eda en la estructura econ\u00f3mica del pa\u00eds."
+        },
+        {
+          "text": "$5\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es demasiado bajo para un sector considerado el pilar estrat\u00e9gico de la naci\u00f3n."
+        }
+      ],
+      "hint": "Representa poco m\u00e1s de una d\u00e9cima parte del total de la econom\u00eda peruana."
+    },
+    {
+      "question": "\u00bfQu\u00e9 entidad es la responsable de la supervisi\u00f3n hiperespecializada en el sector minero, a diferencia de otros sectores?",
+      "answerOptions": [
+        {
+          "text": "Ministerio de Energ\u00eda y Minas (MinEM)",
+          "isCorrect": true,
+          "rationale": "Debido al alto riesgo de la actividad, se requiere un rigor t\u00e9cnico que esta entidad especializada proporciona."
+        },
+        {
+          "text": "Sunafil",
+          "isCorrect": false,
+          "rationale": "Esta entidad se encarga de la supervisi\u00f3n laboral general, pero la miner\u00eda tiene un organismo t\u00e9cnico m\u00e1s espec\u00edfico."
+        },
+        {
+          "text": "Indecopi",
+          "isCorrect": false,
+          "rationale": "Esta instituci\u00f3n protege los derechos del consumidor y la competencia, no la seguridad t\u00e9cnica minera."
+        },
+        {
+          "text": "Ministerio del Ambiente",
+          "isCorrect": false,
+          "rationale": "Aunque vigila aspectos ecol\u00f3gicos, la seguridad operativa y t\u00e9cnica recae en el sector de energ\u00eda y minas."
+        }
+      ],
+      "hint": "Es el organismo gubernamental que regula directamente los recursos energ\u00e9ticos y minerales."
+    },
+    {
+      "question": "En el contexto de la gesti\u00f3n de riesgos, \u00bfcu\u00e1l es la definici\u00f3n t\u00e9cnica de 'Peligro'?",
+      "answerOptions": [
+        {
+          "text": "La fuente f\u00edsica o elemento tangible capaz de causar da\u00f1o.",
+          "isCorrect": true,
+          "rationale": "El peligro se identifica como el origen f\u00edsico, como una roca suelta o una fuga de gas."
+        },
+        {
+          "text": "La probabilidad matem\u00e1tica de que ocurra un evento adverso.",
+          "isCorrect": false,
+          "rationale": "Esta definici\u00f3n corresponde al riesgo, no al peligro en s\u00ed mismo."
+        },
+        {
+          "text": "La severidad del da\u00f1o multiplicado por la frecuencia.",
+          "isCorrect": false,
+          "rationale": "Esto describe el c\u00e1lculo para evaluar un riesgo, no la naturaleza del peligro."
+        },
+        {
+          "text": "El equipo de protecci\u00f3n personal mal utilizado.",
+          "isCorrect": false,
+          "rationale": "El mal uso de un equipo es un acto o condici\u00f3n, mientras que el peligro es la fuente del da\u00f1o potencial."
+        }
+      ],
+      "hint": "Se refiere al objeto o situaci\u00f3n real que tiene el potencial de herir a alguien."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define matem\u00e1ticamente el 'Riesgo' en las operaciones mineras?",
+      "answerOptions": [
+        {
+          "text": "Probabilidad $\\times$ Severidad",
+          "isCorrect": true,
+          "rationale": "Esta ecuaci\u00f3n permite determinar la urgencia y el tipo de control de seguridad necesario."
+        },
+        {
+          "text": "Frecuencia $+$ Gravedad",
+          "isCorrect": false,
+          "rationale": "El riesgo no se obtiene mediante una suma simple, sino mediante una relaci\u00f3n multiplicativa de factores."
+        },
+        {
+          "text": "Peligro $/$ Tiempo de exposici\u00f3n",
+          "isCorrect": false,
+          "rationale": "Esta f\u00f3rmula no representa el est\u00e1ndar t\u00e9cnico para evaluar la magnitud del riesgo."
+        },
+        {
+          "text": "N\u00famero de accidentes $/$ Horas hombre",
+          "isCorrect": false,
+          "rationale": "Esto describe un \u00edndice de accidentabilidad, no la evaluaci\u00f3n de un riesgo espec\u00edfico."
+        }
+      ],
+      "hint": "Es una combinaci\u00f3n entre qu\u00e9 tan posible es un evento y qu\u00e9 tan grave ser\u00eda su resultado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el nivel menos efectivo en la jerarqu\u00eda de controles operacionales?",
+      "answerOptions": [
+        {
+          "text": "Equipo de Protecci\u00f3n Personal (EPP)",
+          "isCorrect": true,
+          "rationale": "Se considera la \u00faltima l\u00ednea de defensa porque solo act\u00faa cuando el riesgo ya ha impactado al trabajador."
+        },
+        {
+          "text": "Eliminaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Al contrario, es el control m\u00e1s efectivo porque suprime el peligro de ra\u00edz."
+        },
+        {
+          "text": "Controles de ingenier\u00eda",
+          "isCorrect": false,
+          "rationale": "Estos son m\u00e1s efectivos que el EPP porque a\u00edslan el peligro antes de que llegue a la persona."
+        },
+        {
+          "text": "Sustituci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Este control es superior al EPP ya que reemplaza un elemento peligroso por uno menos da\u00f1ino."
+        }
+      ],
+      "hint": "Ocupa el quinto y \u00faltimo escal\u00f3n de la jerarqu\u00eda de seguridad."
+    },
+    {
+      "question": "En una operaci\u00f3n a tajo abierto, \u00bfcu\u00e1l debe ser el ancho de una v\u00eda de doble sentido seg\u00fan los est\u00e1ndares de seguridad?",
+      "answerOptions": [
+        {
+          "text": "$3$ veces el tama\u00f1o del veh\u00edculo m\u00e1s grande.",
+          "isCorrect": true,
+          "rationale": "Esta medida asegura un margen de maniobra y separaci\u00f3n suficiente para evitar colisiones catastr\u00f3ficas."
+        },
+        {
+          "text": "$2$ veces el tama\u00f1o del veh\u00edculo m\u00e1s grande.",
+          "isCorrect": false,
+          "rationale": "Este ancho es el est\u00e1ndar para v\u00edas de un solo sentido, no de doble sentido."
+        },
+        {
+          "text": "$4$ veces el tama\u00f1o del veh\u00edculo m\u00e1s grande.",
+          "isCorrect": false,
+          "rationale": "Aunque es m\u00e1s seguro, excede el requisito matem\u00e1tico m\u00ednimo establecido por la norma operativa."
+        },
+        {
+          "text": "$1.5$ veces el tama\u00f1o del veh\u00edculo m\u00e1s grande.",
+          "isCorrect": false,
+          "rationale": "Este ancho ser\u00eda insuficiente y extremadamente peligroso para el tr\u00e1nsito de maquinaria pesada en ambos sentidos."
+        }
+      ],
+      "hint": "Se requiere un factor multiplicador de tres para garantizar la seguridad vial."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00eda se utiliza en las paredes de un tajo abierto para detectar desplazamientos de tierra milim\u00e9tricos?",
+      "answerOptions": [
+        {
+          "text": "Radares de monitoreo",
+          "isCorrect": true,
+          "rationale": "Estos equipos permiten alertas tempranas para evacuaciones mucho antes de que ocurra un colapso del talud."
+        },
+        {
+          "text": "Drones con sensores t\u00e9rmicos",
+          "isCorrect": false,
+          "rationale": "Los drones son \u00fatiles, pero no ofrecen la precisi\u00f3n milim\u00e9trica constante necesaria para el monitoreo de taludes."
+        },
+        {
+          "text": "C\u00e1maras de inteligencia artificial",
+          "isCorrect": false,
+          "rationale": "Esta tecnolog\u00eda se usa m\u00e1s para el comportamiento del operador que para la estabilidad geomec\u00e1nica de las paredes."
+        },
+        {
+          "text": "Sism\u00f3grafos port\u00e1tiles",
+          "isCorrect": false,
+          "rationale": "Miden vibraciones, pero no est\u00e1n dise\u00f1ados para mapear desplazamientos estructurales en la superficie del tajo."
+        }
+      ],
+      "hint": "Es un sistema que rastrea movimientos en la roca con precisi\u00f3n extrema."
+    },
+    {
+      "question": "En la gesti\u00f3n de la fatiga, \u00bfpara qu\u00e9 se utilizan los smartwatches antes de iniciar una guardia?",
+      "answerOptions": [
+        {
+          "text": "Para medir de forma objetiva si el sue\u00f1o fue reparador.",
+          "isCorrect": true,
+          "rationale": "Permite pasar de una autodeclaraci\u00f3n subjetiva a una vigilancia proactiva basada en datos biom\u00e9tricos."
+        },
+        {
+          "text": "Para cronometrar el tiempo de transporte a la mina.",
+          "isCorrect": false,
+          "rationale": "El prop\u00f3sito principal es la salud y el estado de alerta, no la log\u00edstica del transporte."
+        },
+        {
+          "text": "Para detectar niveles de radiaci\u00f3n solar.",
+          "isCorrect": false,
+          "rationale": "Aunque es un riesgo, los smartwatches en este contexto est\u00e1n enfocados en el factor humano y el cansancio."
+        },
+        {
+          "text": "Para comunicarse con el centro de control.",
+          "isCorrect": false,
+          "rationale": "Existen radios y otros sistemas para la comunicaci\u00f3n; el reloj cumple una funci\u00f3n de monitoreo biol\u00f3gico."
+        }
+      ],
+      "hint": "Su funci\u00f3n es evaluar la calidad del descanso del trabajador."
+    },
+    {
+      "question": "\u00bfQu\u00e9 acci\u00f3n realiza el sistema de asistencia en cabina si detecta un microsue\u00f1o inminente en el operador?",
+      "answerOptions": [
+        {
+          "text": "Dispara alarmas sonoras y hace vibrar el asiento.",
+          "isCorrect": true,
+          "rationale": "Estas alertas inmediatas son el \u00faltimo control de ingenier\u00eda para evitar tragedias por cansancio."
+        },
+        {
+          "text": "Apaga el motor del veh\u00edculo autom\u00e1ticamente.",
+          "isCorrect": false,
+          "rationale": "Apagar el motor de forma repentina podr\u00eda causar un accidente adicional en pendientes o rutas complejas."
+        },
+        {
+          "text": "Inyecta ox\u00edgeno adicional en la cabina.",
+          "isCorrect": false,
+          "rationale": "Aunque el ox\u00edgeno ayuda, la medida de seguridad cr\u00edtica es la alerta f\u00edsica y auditiva para despertar al operador."
+        },
+        {
+          "text": "Env\u00eda un mensaje de texto al supervisor.",
+          "isCorrect": false,
+          "rationale": "Si bien puede notificar al supervisor, la acci\u00f3n inmediata debe ser sobre el operador para detener el riesgo."
+        }
+      ],
+      "hint": "El sistema utiliza est\u00edmulos t\u00e1ctiles y auditivos para reaccionar al instante."
+    },
+    {
+      "question": "Ante una lectura de vibraciones de $12\\ m/s^{2}$ en equipos mineros, \u00bfcu\u00e1l es la medida correctiva necesaria?",
+      "answerOptions": [
+        {
+          "text": "Mantenimiento preventivo de amortiguadores y rotaci\u00f3n del personal.",
+          "isCorrect": true,
+          "rationale": "Esta cifra supera el l\u00edmite de $8\\ m/s^{2}$, exigiendo una intervenci\u00f3n t\u00e9cnica y administrativa inmediata."
+        },
+        {
+          "text": "Aumento de la velocidad de operaci\u00f3n para terminar r\u00e1pido.",
+          "isCorrect": false,
+          "rationale": "Aumentar la velocidad incrementar\u00eda peligrosamente el nivel de vibraci\u00f3n y el riesgo de lesiones."
+        },
+        {
+          "text": "Uso de fajas lumbares obligatorias.",
+          "isCorrect": false,
+          "rationale": "El EPP no soluciona el origen del problema t\u00e9cnico de la vibraci\u00f3n excesiva de la maquinaria."
+        },
+        {
+          "text": "Suspensi\u00f3n definitiva del equipo sin revisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La norma exige mantenimiento y gesti\u00f3n del personal, no necesariamente el descarte inmediato del activo."
+        }
+      ],
+      "hint": "Se requiere una combinaci\u00f3n de reparaci\u00f3n t\u00e9cnica y gesti\u00f3n del tiempo de exposici\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo de temperatura para realizar trabajos en socav\u00f3n antes de considerarse estr\u00e9s t\u00e9rmico cr\u00edtico?",
+      "answerOptions": [
+        {
+          "text": "$28^{\\circ}C$",
+          "isCorrect": true,
+          "rationale": "Superar este l\u00edmite puede provocar descompensaciones cr\u00edticas en el personal dentro de la mina subterr\u00e1nea."
+        },
+        {
+          "text": "$35^{\\circ}C$",
+          "isCorrect": false,
+          "rationale": "Esta temperatura es extremadamente alta y ya habr\u00eda causado estragos en la salud de los trabajadores mucho antes."
+        },
+        {
+          "text": "$24^{\\circ}C$",
+          "isCorrect": false,
+          "rationale": "Esta es una temperatura manejable donde el flujo de aire regular suele ser suficiente."
+        },
+        {
+          "text": "$30^{\\circ}C$",
+          "isCorrect": false,
+          "rationale": "Aunque est\u00e1 cerca, el l\u00edmite normativo establecido para activar controles estrictos es ligeramente menor."
+        }
+      ],
+      "hint": "Es un valor que se encuentra a finales de los veinte grados celsius."
+    },
+    {
+      "question": "\u00bfQu\u00e9 medida es innegociable cuando el ruido durante la perforaci\u00f3n alcanza los $95$ decibeles?",
+      "answerOptions": [
+        {
+          "text": "Uso de doble protecci\u00f3n auditiva y encapsulamiento de equipos.",
+          "isCorrect": true,
+          "rationale": "A esos niveles de ruido, un solo nivel de protecci\u00f3n es insuficiente para prevenir da\u00f1os auditivos permanentes."
+        },
+        {
+          "text": "Reducci\u00f3n del tiempo de jornada a $4$ horas.",
+          "isCorrect": false,
+          "rationale": "La prioridad es el control f\u00edsico y la protecci\u00f3n, no solo la reducci\u00f3n del tiempo de exposici\u00f3n."
+        },
+        {
+          "text": "Uso de tapones de o\u00eddos simples.",
+          "isCorrect": false,
+          "rationale": "Los tapones simples no ofrecen la atenuaci\u00f3n necesaria para un nivel de $95$ decibeles."
+        },
+        {
+          "text": "Implementaci\u00f3n de comunicaci\u00f3n por se\u00f1as.",
+          "isCorrect": false,
+          "rationale": "Esto es un m\u00e9todo de comunicaci\u00f3n, pero no protege la salud del sistema auditivo frente al ruido."
+        }
+      ],
+      "hint": "Implica combinar dos tipos de barreras para los o\u00eddos y aislar la fuente sonora."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el radio de seguridad m\u00ednimo exigido para separar dep\u00f3sitos de explosivos de los campamentos mineros?",
+      "answerOptions": [
+        {
+          "text": "$200$ metros",
+          "isCorrect": true,
+          "rationale": "Esta distancia act\u00faa como una barrera espacial no negociable para proteger la vida en los campamentos."
+        },
+        {
+          "text": "$100$ metros",
+          "isCorrect": false,
+          "rationale": "Esta distancia se considera insuficiente ante el riesgo de una detonaci\u00f3n accidental masiva."
+        },
+        {
+          "text": "$500$ metros",
+          "isCorrect": false,
+          "rationale": "Aunque es m\u00e1s seguro, la norma espec\u00edfica el radio m\u00ednimo obligatorio en una cifra menor."
+        },
+        {
+          "text": "$50$ metros",
+          "isCorrect": false,
+          "rationale": "Es una distancia peligrosamente corta que no ofrece protecci\u00f3n real en caso de cat\u00e1strofe con explosivos."
+        }
+      ],
+      "hint": "Es una cifra redonda que equivale a dos cuadras de longitud."
+    },
+    {
+      "question": "En la prevenci\u00f3n de ca\u00edda de rocas, \u00bfqu\u00e9 funciones cumplen las dos personas requeridas por el protocolo de desatado?",
+      "answerOptions": [
+        {
+          "text": "Un operador especialista ejecuta el desatado y un vig\u00eda monitorea la seguridad.",
+          "isCorrect": true,
+          "rationale": "Esta dupla asegura que la labor se realice t\u00e9cnicamente mientras alguien vigila peligros adicionales desde zona segura."
+        },
+        {
+          "text": "Ambas personas deben desatar rocas al mismo tiempo para avanzar m\u00e1s r\u00e1pido.",
+          "isCorrect": false,
+          "rationale": "Tener a dos personas desatando simult\u00e1neamente aumentar\u00eda el riesgo de accidentes cruzados."
+        },
+        {
+          "text": "Un ingeniero supervisa y un obrero sostiene la barretilla.",
+          "isCorrect": false,
+          "rationale": "El protocolo exige un especialista en la ejecuci\u00f3n y un vig\u00eda dedicado exclusivamente a la observaci\u00f3n de seguridad."
+        },
+        {
+          "text": "Un conductor de maquinaria y un t\u00e9cnico en explosivos.",
+          "isCorrect": false,
+          "rationale": "Estas funciones no corresponden al proceso manual de desatado de rocas sueltas en el frente."
+        }
+      ],
+      "hint": "Uno hace el trabajo f\u00edsico con la barretilla y el otro observa el entorno."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la concentraci\u00f3n m\u00ednima de ox\u00edgeno permitida para que el personal ingrese al socab\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "$19.5\\%$",
+          "isCorrect": true,
+          "rationale": "Este es el l\u00edmite base no negociable para asegurar un ambiente compatible con la vida y el trabajo."
+        },
+        {
+          "text": "$21\\%$",
+          "isCorrect": false,
+          "rationale": "Este es el nivel normal de ox\u00edgeno en el aire atmosf\u00e9rico, pero el m\u00ednimo legal permitido en mina es ligeramente menor."
+        },
+        {
+          "text": "$18\\%$",
+          "isCorrect": false,
+          "rationale": "Un nivel de $18\\%$ ya se considera deficiente en ox\u00edgeno y peligroso para la salud humana."
+        },
+        {
+          "text": "$16\\%$",
+          "isCorrect": false,
+          "rationale": "A este nivel, los efectos de la hipoxia son severos y el ambiente es totalmente inseguro."
+        }
+      ],
+      "hint": "Es un valor apenas por debajo del nivel de ox\u00edgeno en la superficie."
+    },
+    {
+      "question": "Si la temperatura en la mina sube entre $24$ y $29^{\\circ}C$, \u00bfcu\u00e1l es la velocidad de aire m\u00ednima requerida?",
+      "answerOptions": [
+        {
+          "text": "$30$ metros por minuto",
+          "isCorrect": true,
+          "rationale": "Esta velocidad es necesaria para purgar r\u00e1pidamente gases t\u00f3xicos del di\u00e9sel y vapores nitrosos acumulados."
+        },
+        {
+          "text": "$15$ metros por minuto",
+          "isCorrect": false,
+          "rationale": "A esa temperatura, esta velocidad de flujo ser\u00eda insuficiente para limpiar el ambiente de contaminantes."
+        },
+        {
+          "text": "$60$ metros por minuto",
+          "isCorrect": false,
+          "rationale": "Aunque es un flujo potente, la exigencia normativa m\u00ednima para ese rango t\u00e9rmico es menor."
+        },
+        {
+          "text": "$10$ metros por segundo",
+          "isCorrect": false,
+          "rationale": "Esta es una unidad de medida diferente y una velocidad excesiva que no corresponde al est\u00e1ndar de ventilaci\u00f3n."
+        }
+      ],
+      "hint": "Se mide en metros por minuto y la cifra es una decena exacta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica de seguridad deben tener los ventiladores principales de una mina subterr\u00e1nea ante fallas de energ\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Sistemas de arranque autom\u00e1tico y alarmas sonoras/visuales.",
+          "isCorrect": true,
+          "rationale": "Esto garantiza que el soporte vital no se interrumpa y que se notifiquen fallas tanto en superficie como en interior."
+        },
+        {
+          "text": "Capacidad de funcionar en reversa para extraer humo.",
+          "isCorrect": false,
+          "rationale": "Aunque algunos pueden, el requisito de respaldo vital cr\u00edtico es el arranque autom\u00e1tico y la se\u00f1alizaci\u00f3n de fallas."
+        },
+        {
+          "text": "Bater\u00edas internas con autonom\u00eda de $24$ horas.",
+          "isCorrect": false,
+          "rationale": "Los ventiladores principales consumen demasiada energ\u00eda para depender solo de bater\u00edas; requieren sistemas de respaldo m\u00e1s robustos."
+        },
+        {
+          "text": "Control manual exclusivo para evitar encendidos accidentales.",
+          "isCorrect": false,
+          "rationale": "El control manual ser\u00eda peligroso en una emergencia, ya que retrasar\u00eda la restauraci\u00f3n del aire vital."
+        }
+      ],
+      "hint": "Deben ser capaces de reactivarse solos y avisar si algo sale mal."
+    },
+    {
+      "question": "\u00bfA cu\u00e1ntas horas anuales se redujo la capacitaci\u00f3n obligatoria en las \u00faltimas actualizaciones normativas?",
+      "answerOptions": [
+        {
+          "text": "$57$ horas",
+          "isCorrect": true,
+          "rationale": "La reducci\u00f3n busca eliminar contenido gen\u00e9rico para enfocarse en competencias t\u00e9cnicas reales y el dominio del IPERC."
+        },
+        {
+          "text": "$156$ horas",
+          "isCorrect": false,
+          "rationale": "Esta era la cantidad de horas previas a la actualizaci\u00f3n que buscaba mayor agilidad operativa."
+        },
+        {
+          "text": "$80$ horas",
+          "isCorrect": false,
+          "rationale": "No es la cifra establecida en la nueva normativa para optimizar el entrenamiento."
+        },
+        {
+          "text": "$40$ horas",
+          "isCorrect": false,
+          "rationale": "Es una cantidad inferior a la exigencia t\u00e9cnica m\u00ednima que a\u00fan se mantiene para la seguridad."
+        }
+      ],
+      "hint": "Es una cifra menor a $60$ horas que reemplaz\u00f3 a las antiguas $156$ horas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 nuevas especialidades profesionales pueden ahora asumir la Gerencia de Seguridad y Salud seg\u00fan la ley?",
+      "answerOptions": [
+        {
+          "text": "Ingenieros qu\u00edmicos y metalurgistas colegiados.",
+          "isCorrect": true,
+          "rationale": "Se reconoce que los procesos mineros actuales implican altos riesgos qu\u00edmicos que requieren su experticia."
+        },
+        {
+          "text": "Ingenieros civiles y arquitectos.",
+          "isCorrect": false,
+          "rationale": "Aunque participan en construcci\u00f3n, la norma se actualiz\u00f3 espec\u00edficamente para perfiles ligados a procesos qu\u00edmicos."
+        },
+        {
+          "text": "Administradores de empresas y abogados.",
+          "isCorrect": false,
+          "rationale": "La gerencia de seguridad requiere un perfil t\u00e9cnico de ingenier\u00eda seg\u00fan la actualizaci\u00f3n mencionada."
+        },
+        {
+          "text": "M\u00e9dicos ocupacionales \u00fanicamente.",
+          "isCorrect": false,
+          "rationale": "Los m\u00e9dicos ven la salud, pero la gerencia integral de seguridad ahora integra a especialistas en procesos qu\u00edmicos."
+        }
+      ],
+      "hint": "Son profesionales expertos en transformaci\u00f3n de materiales y manejo de sustancias."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de las nuevas auditor\u00edas externas obligatorias para la gesti\u00f3n de relaves?",
+      "answerOptions": [
+        {
+          "text": "Asegurar la estabilidad f\u00edsica y prevenir fallas catastr\u00f3ficas mediante una mirada imparcial.",
+          "isCorrect": true,
+          "rationale": "La mirada externa ayuda a identificar riesgos que la gesti\u00f3n interna podr\u00eda pasar por alto en infraestructuras cr\u00edticas."
+        },
+        {
+          "text": "Reducir los costos de mantenimiento de las presas.",
+          "isCorrect": false,
+          "rationale": "Las auditor\u00edas est\u00e1n enfocadas en la seguridad y prevenci\u00f3n de desastres, no en la reducci\u00f3n de costos operativos."
+        },
+        {
+          "text": "Validar el contenido de oro y plata en los desechos.",
+          "isCorrect": false,
+          "rationale": "El enfoque de estas auditor\u00edas es estrictamente de gesti\u00f3n de riesgos y estabilidad, no metal\u00fargico comercial."
+        },
+        {
+          "text": "Sustituir el trabajo de los ingenieros de la propia mina.",
+          "isCorrect": false,
+          "rationale": "La auditor\u00eda complementa y verifica la gesti\u00f3n interna, no reemplaza la responsabilidad operativa."
+        }
+      ],
+      "hint": "Se busca una opini\u00f3n externa sobre la seguridad estructural de los dep\u00f3sitos de desechos."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Indicadores Econ\u00f3micos de la Miner\u00eda",
+      "Marco Normativo y Entidades de Supervisi\u00f3n",
+      "Matriz IPERC y Conceptos de Riesgo",
+      "Jerarqu\u00eda de Controles de Seguridad",
+      "Est\u00e1ndares en Miner\u00eda a Tajo Abierto",
+      "Gesti\u00f3n de Fatiga y Somnolencia",
+      "Seguridad en Miner\u00eda Subterr\u00e1nea",
+      "Ventilaci\u00f3n y Agentes F\u00edsicos",
+      "Manejo de Explosivos",
+      "Actualizaciones en Capacitaci\u00f3n y Liderazgo"
+    ],
+    "followUp": [
+      "Geomec\u00e1nica avanzada en socavones",
+      "Protocolos espec\u00edficos de respuesta ante emergencias qu\u00edmicas",
+      "Tecnolog\u00edas de automatizaci\u00f3n para remoci\u00f3n de escombros",
+      "Sistemas de gesti\u00f3n ambiental en dep\u00f3sitos de relaves",
+      "Psicolog\u00eda del comportamiento en la cultura preventiva minera"
+    ]
+  }
+}

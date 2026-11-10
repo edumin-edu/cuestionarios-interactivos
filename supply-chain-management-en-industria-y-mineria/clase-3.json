@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de considerar la operaci\u00f3n log\u00edstica como un ciclo de vida interdependiente en lugar de procesos aislados?",
+      "answerOptions": [
+        {
+          "text": "Optimizar todo el sistema para minimizar tiempos de respuesta y costos.",
+          "isCorrect": true,
+          "rationale": "Ver la operaci\u00f3n de forma integral permite identificar cuellos de botella y eliminar desperdicios que afectan a toda la cadena de valor."
+        },
+        {
+          "text": "Maximizar la independencia de cada departamento para evitar interferencias.",
+          "isCorrect": false,
+          "rationale": "Tratar los procesos como silos aislados es justamente lo que se busca evitar para lograr una sincronizaci\u00f3n real."
+        },
+        {
+          "text": "Enfocarse exclusivamente en el movimiento f\u00edsico de mercanc\u00edas.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n moderna incluye flujos de informaci\u00f3n y financieros, no solo el movimiento de cajas."
+        },
+        {
+          "text": "Priorizar \u00fanicamente el flujo de informaci\u00f3n sobre el flujo f\u00edsico.",
+          "isCorrect": false,
+          "rationale": "La competitividad depende de la orquestaci\u00f3n simult\u00e1nea de los flujos f\u00edsicos, financieros y de informaci\u00f3n."
+        }
+      ],
+      "hint": "Piensa en el beneficio de ver el 'cuadro completo' de la maquinaria viva de la empresa."
+    },
+    {
+      "question": "En el abastecimiento estrat\u00e9gico, \u00bfcu\u00e1l es el criterio fundamental para elegir un proveedor m\u00e1s all\u00e1 del costo unitario?",
+      "answerOptions": [
+        {
+          "text": "La construcci\u00f3n de relaciones s\u00f3lidas que garanticen la continuidad operativa.",
+          "isCorrect": true,
+          "rationale": "Un proveedor estrat\u00e9gico es aquel que asegura que la operaci\u00f3n no se detenga ante imprevistos, aportando resiliencia."
+        },
+        {
+          "text": "La proximidad geogr\u00e1fica inmediata a la planta de fabricaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque la cercan\u00eda ayuda, la confiabilidad y la capacidad de respuesta son m\u00e1s cr\u00edticas para el abastecimiento estrat\u00e9gico."
+        },
+        {
+          "text": "La obtenci\u00f3n sistem\u00e1tica del precio m\u00e1s bajo en el mercado.",
+          "isCorrect": false,
+          "rationale": "Buscar solo el precio m\u00e1s bajo suele sacrificar la calidad y la seguridad de suministro, lo cual es opuesto a la visi\u00f3n estrat\u00e9gica."
+        },
+        {
+          "text": "La capacidad de ofrecer los plazos de pago m\u00e1s largos posibles.",
+          "isCorrect": false,
+          "rationale": "Si bien el flujo de caja es importante, el abastecimiento estrat\u00e9gico prioriza la garant\u00eda de operaci\u00f3n ininterrumpida."
+        }
+      ],
+      "hint": "Considera qu\u00e9 factor evita que una planta se detenga durante una crisis."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja competitiva ofrecen plataformas de vanguardia como SAP S4 Hana en la cadena de suministro?",
+      "answerOptions": [
+        {
+          "text": "Capacidad de procesar millones de datos en segundos para anticipar riesgos en tiempo real.",
+          "isCorrect": true,
+          "rationale": "Estas tecnolog\u00edas permiten una visibilidad y precisi\u00f3n milim\u00e9trica para ajustar recursos de forma inmediata."
+        },
+        {
+          "text": "Automatizaci\u00f3n total de la mano de obra en los almacenes f\u00edsicos.",
+          "isCorrect": false,
+          "rationale": "Aunque ayudan a la automatizaci\u00f3n, su funci\u00f3n principal mencionada es la visibilidad y el procesamiento masivo de datos para la toma de decisiones."
+        },
+        {
+          "text": "Eliminaci\u00f3n completa de la necesidad de planificaci\u00f3n operativa manual.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda apoya la planificaci\u00f3n, pero la alineaci\u00f3n operativa sigue requiriendo decisiones basadas en inteligencia directiva."
+        },
+        {
+          "text": "Reducci\u00f3n de los costos de transporte mediante la eliminaci\u00f3n de intermediarios.",
+          "isCorrect": false,
+          "rationale": "El valor principal de estas plataformas radica en la integraci\u00f3n de datos y la capacidad de an\u00e1lisis, no necesariamente en la eliminaci\u00f3n de terceros."
+        }
+      ],
+      "hint": "Enf\u00f3cate en el volumen de informaci\u00f3n que manejan y la velocidad de respuesta que permiten."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 se refiere el concepto de 'calidad en la fuente' dentro de la etapa de fabricaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Establecer m\u00e9tricas rigurosas en las primeras etapas para evitar errores en cascada.",
+          "isCorrect": true,
+          "rationale": "Detectar errores al inicio evita costos de distribuci\u00f3n de productos defectuosos y protege la promesa al cliente."
+        },
+        {
+          "text": "Comprobar la calidad del producto final justo antes de ser entregado al cliente.",
+          "isCorrect": false,
+          "rationale": "Esperar al final puede causar un 'efecto domin\u00f3' donde el error ya avanz\u00f3 por toda la cadena, incrementando costos."
+        },
+        {
+          "text": "Utilizar exclusivamente materias primas de origen natural o certificado.",
+          "isCorrect": false,
+          "rationale": "La calidad en la fuente se refiere al control de procesos y detecci\u00f3n temprana de fallas, no solo al tipo de insumo."
+        },
+        {
+          "text": "Delegar la responsabilidad de la calidad \u00fanicamente al departamento de log\u00edstica inversa.",
+          "isCorrect": false,
+          "rationale": "La log\u00edstica inversa maneja el error ya cometido; la calidad en la fuente busca prevenirlo desde la fabricaci\u00f3n."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo prevenir un error 'chiquito' antes de que se convierta en una fortuna perdida."
+    },
+    {
+      "question": "En la log\u00edstica de entrega, \u00bfcu\u00e1l es el principal beneficio de recurrir a la tercerizaci\u00f3n u outsourcing?",
+      "answerOptions": [
+        {
+          "text": "Dinamismo para escalar la operaci\u00f3n r\u00e1pidamente seg\u00fan la demanda estacional.",
+          "isCorrect": true,
+          "rationale": "El outsourcing permite aumentar la capacidad de reparto de forma inmediata sin invertir en activos fijos adicionales."
+        },
+        {
+          "text": "Control absoluto y directo sobre los tiempos y el estado del veh\u00edculo.",
+          "isCorrect": false,
+          "rationale": "El control absoluto es una ventaja t\u00edpica de tener una flota propia, no de la tercerizaci\u00f3n."
+        },
+        {
+          "text": "Garant\u00eda de menores costos de entrega por unidad transportada.",
+          "isCorrect": false,
+          "rationale": "No siempre es m\u00e1s barato; su ventaja principal reside en la flexibilidad y escalabilidad operativa."
+        },
+        {
+          "text": "Eliminaci\u00f3n total del riesgo de accidentes en la ruta de distribuci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El riesgo de accidentes existe independientemente de si la flota es propia o de un tercero."
+        }
+      ],
+      "hint": "Analiza qu\u00e9 opci\u00f3n permite adaptarse mejor a una temporada alta de ventas de la noche a la ma\u00f1ana."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es un error considerar la log\u00edstica inversa \u00fanicamente como el manejo de desperdicios?",
+      "answerOptions": [
+        {
+          "text": "Porque es una herramienta cr\u00edtica para recuperar la confianza y fidelizar al consumidor.",
+          "isCorrect": true,
+          "rationale": "Un procesamiento \u00e1gil de devoluciones mejora la experiencia del cliente y puede renovar el valor del producto."
+        },
+        {
+          "text": "Porque su funci\u00f3n principal es generar ingresos por la venta de productos da\u00f1ados.",
+          "isCorrect": false,
+          "rationale": "Aunque se puede recuperar valor, el objetivo estrat\u00e9gico es el servicio postventa y la lealtad del cliente."
+        },
+        {
+          "text": "Porque consume la mayor parte del presupuesto operativo de la cadena de suministro.",
+          "isCorrect": false,
+          "rationale": "Generalmente representa una fracci\u00f3n menor comparada con la log\u00edstica directa, aunque su impacto en el cliente es alto."
+        },
+        {
+          "text": "Porque permite eliminar la necesidad de control de calidad en la fabricaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La log\u00edstica inversa no sustituye el control de calidad; de hecho, una buena fabricaci\u00f3n reduce la necesidad de devoluciones."
+        }
+      ],
+      "hint": "Visualiza el momento m\u00e1s cr\u00edtico de la experiencia de un cliente insatisfecho."
+    },
+    {
+      "question": "Dentro de la arquitectura de planificaci\u00f3n, \u00bfcu\u00e1l es el horizonte de tiempo que corresponde al nivel t\u00e1ctico?",
+      "answerOptions": [
+        {
+          "text": "De $13$ a $18$ meses.",
+          "isCorrect": true,
+          "rationale": "Este nivel intermedio busca asegurar los recursos necesarios para cumplir con la visi\u00f3n estrat\u00e9gica a largo plazo."
+        },
+        {
+          "text": "De $2$ a $5$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "El horizonte de $2$ a $5$ a\u00f1os corresponde al nivel estrat\u00e9gico o centro de mando de largo plazo."
+        },
+        {
+          "text": "De car\u00e1cter diario o semanal.",
+          "isCorrect": false,
+          "rationale": "El pulso diario y la toma de decisiones inmediatas corresponden al nivel operativo."
+        },
+        {
+          "text": "M\u00e1s de $10$ a\u00f1os para infraestructuras mayores.",
+          "isCorrect": false,
+          "rationale": "En la gesti\u00f3n est\u00e1ndar de SCM, los planes t\u00e1cticos no se extienden a periodos tan largos."
+        }
+      ],
+      "hint": "Se trata del nivel que conecta la gran visi\u00f3n con la operaci\u00f3n diaria."
+    },
+    {
+      "question": "En el caso de Alicorp, \u00bfpor qu\u00e9 se exige un nivel de cumplimiento del $98\\%$ al canal moderno frente a un $95\\%$ al canal tradicional?",
+      "answerOptions": [
+        {
+          "text": "Debido a que los supermercados imponen multas y penalidades econ\u00f3micas severas por retrasos.",
+          "isCorrect": true,
+          "rationale": "La rentabilidad dicta la prioridad operativa; los contratos con canales modernos suelen incluir cl\u00e1usulas de castigo financiero."
+        },
+        {
+          "text": "Porque el canal tradicional maneja productos con fechas de vencimiento m\u00e1s largas.",
+          "isCorrect": false,
+          "rationale": "La diferencia no se basa en el producto, sino en la estructura de costos y sanciones de cada canal de venta."
+        },
+        {
+          "text": "Para incentivar a los peque\u00f1os comerciantes a convertirse en grandes supermercados.",
+          "isCorrect": false,
+          "rationale": "El objetivo es la optimizaci\u00f3n de recursos y la mitigaci\u00f3n de riesgos financieros, no el cambio del modelo de negocio del cliente."
+        },
+        {
+          "text": "Debido a que el canal tradicional no valora la puntualidad en las entregas.",
+          "isCorrect": false,
+          "rationale": "Todos los canales valoran la puntualidad, pero el impacto financiero de fallar en el canal moderno es mucho mayor."
+        }
+      ],
+      "hint": "Piensa en el impacto monetario que genera el incumplimiento en grandes corporaciones."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del proceso S&OP (Sales and Operations Planning)?",
+      "answerOptions": [
+        {
+          "text": "Equilibrar la demanda proyectada con la capacidad f\u00edsica real de producci\u00f3n y entrega.",
+          "isCorrect": true,
+          "rationale": "Funciona como un escudo para evitar sobreproducci\u00f3n, desperdicios o quiebres de stock."
+        },
+        {
+          "text": "Aumentar artificialmente las proyecciones de venta para motivar al equipo comercial.",
+          "isCorrect": false,
+          "rationale": "El S&OP busca el realismo y el equilibrio, no metas infladas que desestabilicen la capacidad productiva."
+        },
+        {
+          "text": "Sustituir el uso de tecnolog\u00eda en la planificaci\u00f3n mediante reuniones presenciales.",
+          "isCorrect": false,
+          "rationale": "El S&OP es un mecanismo de gesti\u00f3n que utiliza datos tecnol\u00f3gicos para la toma de decisiones colaborativas."
+        },
+        {
+          "text": "Centrarse exclusivamente en la reducci\u00f3n de costos de mano de obra.",
+          "isCorrect": false,
+          "rationale": "Aunque revisa la mano de obra, su fin es la sincronizaci\u00f3n total entre lo que se vende y lo que se puede fabricar."
+        }
+      ],
+      "hint": "Considera el 'pegamento' que une el optimismo de ventas con la realidad de la planta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 desventaja principal presenta una red log\u00edstica centralizada en comparaci\u00f3n con una de m\u00faltiples centros de distribuci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Incrementa el riesgo de dejar zonas alejadas sin producto si falla la ruta principal.",
+          "isCorrect": true,
+          "rationale": "Al depender de un solo nodo, cualquier interrupci\u00f3n en el transporte troncal afecta gravemente el servicio en periferias."
+        },
+        {
+          "text": "Eleva dr\u00e1sticamente los costos fijos al tener que replicar tecnolog\u00eda y personal.",
+          "isCorrect": false,
+          "rationale": "Esa es una desventaja de tener m\u00faltiples centros, no de la centralizaci\u00f3n."
+        },
+        {
+          "text": "Reduce la visibilidad total del inventario disponible en la empresa.",
+          "isCorrect": false,
+          "rationale": "Centralizar suele facilitar la visibilidad del stock al estar todo concentrado en un solo punto."
+        },
+        {
+          "text": "Obliga a la empresa a tercerizar obligatoriamente su flota de transporte.",
+          "isCorrect": false,
+          "rationale": "El dise\u00f1o de red es independiente de la decisi\u00f3n de propiedad de la flota."
+        }
+      ],
+      "hint": "Imagina qu\u00e9 sucede si hay un bloqueo en la \u00fanica carretera que conecta tu almac\u00e9n central con el resto del pa\u00eds."
+    },
+    {
+      "question": "\u00bfC\u00f3mo debe entenderse el inventario desde una perspectiva financiera moderna?",
+      "answerOptions": [
+        {
+          "text": "Como un activo financiero vivo que debe equilibrar disponibilidad y flujo de caja.",
+          "isCorrect": true,
+          "rationale": "El inventario inmovilizado asfixia el capital; gestionarlo requiere precisi\u00f3n para no tener de m\u00e1s ni de menos."
+        },
+        {
+          "text": "Como un conjunto de existencias est\u00e1ticas que garantizan riqueza a largo plazo.",
+          "isCorrect": false,
+          "rationale": "El inventario est\u00e1tico pierde valor y genera costos de almacenamiento; debe ser din\u00e1mico."
+        },
+        {
+          "text": "Como una m\u00e9trica secundaria que no afecta la salud financiera de la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El inventario es uno de los mayores usos de capital y es fundamental para la liquidez de la empresa."
+        },
+        {
+          "text": "Como un gasto operativo que debe eliminarse por completo mediante el sistema Just-in-Time.",
+          "isCorrect": false,
+          "rationale": "Aunque el exceso es malo, en entornos vol\u00e1tiles el inventario es un mecanismo de supervivencia y no siempre puede eliminarse."
+        }
+      ],
+      "hint": "No lo veas solo como cajas, sino como dinero en movimiento."
+    },
+    {
+      "question": "\u00bfQu\u00e9 mide el indicador $MAPE$ (Mean Absolute Percentage Error) en la gesti\u00f3n de inventarios?",
+      "answerOptions": [
+        {
+          "text": "La exactitud del pron\u00f3stico de demanda comparado con las ventas reales.",
+          "isCorrect": true,
+          "rationale": "Es el est\u00e1ndar matem\u00e1tico cr\u00edtico para saber qu\u00e9 tan bien estamos previendo el futuro."
+        },
+        {
+          "text": "El tiempo promedio que tarda un proveedor en entregar un pedido.",
+          "isCorrect": false,
+          "rationale": "El tiempo de entrega del proveedor se conoce como Lead Time, no $MAPE$."
+        },
+        {
+          "text": "El porcentaje de productos defectuosos encontrados en la fuente.",
+          "isCorrect": false,
+          "rationale": "Esa m\u00e9trica corresponde a la calidad de fabricaci\u00f3n, no a la precisi\u00f3n del pron\u00f3stico."
+        },
+        {
+          "text": "La rentabilidad bruta de cada categor\u00eda de productos de la matriz ABC.",
+          "isCorrect": false,
+          "rationale": "La matriz ABC se basa en valor de ventas o inversi\u00f3n, mientras que el $MAPE$ mide error de predicci\u00f3n."
+        }
+      ],
+      "hint": "Es la herramienta que evita 'volar a ciegas' en la planificaci\u00f3n de existencias."
+    },
+    {
+      "question": "Para un producto con demanda estable, \u00bfcu\u00e1l es el margen de error m\u00e1ximo aceptable en el pron\u00f3stico para considerar una gesti\u00f3n eficiente?",
+      "answerOptions": [
+        {
+          "text": "Menor al $5\\%$.",
+          "isCorrect": true,
+          "rationale": "Los productos estables permiten una precisi\u00f3n muy alta; superar este margen indica fallas en la planificaci\u00f3n."
+        },
+        {
+          "text": "Entre el $10\\%$ y el $15\\%$.",
+          "isCorrect": false,
+          "rationale": "Este rango de error es aceptable para productos con alta estacionalidad, no para productos estables."
+        },
+        {
+          "text": "Exactamente el $20\\%$.",
+          "isCorrect": false,
+          "rationale": "Un error del $20\\%$ se considera elevado y pone en riesgo la disponibilidad o genera exceso de stock."
+        },
+        {
+          "text": "Cualquier porcentaje por debajo del $50\\%$.",
+          "isCorrect": false,
+          "rationale": "Un error tan alto destruir\u00eda la eficiencia operativa y financiera de la cadena."
+        }
+      ],
+      "hint": "En condiciones estables, se espera una precisi\u00f3n casi quir\u00fargica."
+    },
+    {
+      "question": "En la matriz de segmentaci\u00f3n ABC, \u00bfqu\u00e9 caracteriza a los productos de la categor\u00eda A?",
+      "answerOptions": [
+        {
+          "text": "Representan pocos SKUs ($5\\%$ a $15\\%$) pero generan el $80\\%$ del valor de ventas.",
+          "isCorrect": true,
+          "rationale": "Debido a su alto impacto financiero, requieren el control m\u00e1s estricto y los mayores niveles de seguridad."
+        },
+        {
+          "text": "Son la gran mayor\u00eda del volumen del almac\u00e9n pero con bajo aporte econ\u00f3mico.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde a la categor\u00eda C, no a la A."
+        },
+        {
+          "text": "Tienen un impacto financiero moderado y requieren controles autom\u00e1ticos.",
+          "isCorrect": false,
+          "rationale": "Los productos con impacto moderado suelen clasificarse en la categor\u00eda B."
+        },
+        {
+          "text": "Representan el $80\\%$ del total de SKUs de la organizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La categor\u00eda A se enfoca en el valor, no en la cantidad de tipos de productos; el $80\\%$ de SKUs suele ser de categor\u00edas menores."
+        }
+      ],
+      "hint": "Enfoca tus recursos donde el impacto financiero 'duele' m\u00e1s."
+    },
+    {
+      "question": "En industrias de alto riesgo como la miner\u00eda, \u00bfpor qu\u00e9 el stock de seguridad se considera una 'p\u00f3liza de seguro'?",
+      "answerOptions": [
+        {
+          "text": "Porque evita paradas de planta no programadas que cuestan millones de d\u00f3lares por hora.",
+          "isCorrect": true,
+          "rationale": "En sectores cr\u00edticos, el costo de quedarse sin un repuesto supera por mucho el costo de mantenerlo en inventario."
+        },
+        {
+          "text": "Porque garantiza que los productos se vendan a un precio m\u00e1s alto en el futuro.",
+          "isCorrect": false,
+          "rationale": "El objetivo no es la especulaci\u00f3n de precios, sino la continuidad de la operaci\u00f3n."
+        },
+        {
+          "text": "Porque permite cumplir con las normativas legales de almacenamiento de minerales.",
+          "isCorrect": false,
+          "rationale": "Aunque existan leyes, la raz\u00f3n estrat\u00e9gica del stock de seguridad es la mitigaci\u00f3n de riesgos operativos."
+        },
+        {
+          "text": "Porque reduce el pago de impuestos sobre los activos inmovilizados.",
+          "isCorrect": false,
+          "rationale": "El inventario suele pagar impuestos o generar costos; se mantiene por supervivencia, no por beneficio fiscal."
+        }
+      ],
+      "hint": "Considera las consecuencias de apagar una maquinaria de molienda por falta de un cable o repuesto."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los tres componentes necesarios para calcular matem\u00e1ticamente el punto de reorden?",
+      "answerOptions": [
+        {
+          "text": "Demanda promedio, Lead Time del proveedor y factor de seguridad.",
+          "isCorrect": true,
+          "rationale": "Esta f\u00f3rmula asegura que los materiales lleguen antes de que ocurra un desabastecimiento cr\u00edtico."
+        },
+        {
+          "text": "Precio unitario, costo de transporte y margen de utilidad deseado.",
+          "isCorrect": false,
+          "rationale": "Estos datos sirven para fijar precios o evaluar rentabilidad, pero no para determinar cu\u00e1ndo pedir mercanc\u00eda."
+        },
+        {
+          "text": "Capacidad del almac\u00e9n, n\u00famero de empleados y velocidad de empaque.",
+          "isCorrect": false,
+          "rationale": "Son m\u00e9tricas de eficiencia interna, pero no definen el momento exacto de reposici\u00f3n frente a la demanda externa."
+        },
+        {
+          "text": "Historial de ventas, presupuesto de marketing y tasa de inflaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque influyen en la demanda, el punto de reorden requiere espec\u00edficamente el tiempo de respuesta del proveedor y un blindaje de seguridad."
+        }
+      ],
+      "hint": "Necesitas saber cu\u00e1nto consumes, cu\u00e1nto tardan en tra\u00e9rtelo y cu\u00e1nto margen de error quieres cubrir."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el rango t\u00edpico del costo log\u00edstico sobre ventas en el sector farmac\u00e9utico y por qu\u00e9?",
+      "answerOptions": [
+        {
+          "text": "Entre $10\\%$ y $12\\%$, debido a la complejidad de las cadenas de fr\u00edo y biol\u00f3gicos sensibles.",
+          "isCorrect": true,
+          "rationale": "La exigencia de infraestructuras que no pueden fallar eleva los costos operativos por encima de sectores como el retail."
+        },
+        {
+          "text": "Exactamente $8\\%$, porque los productos son peque\u00f1os y f\u00e1ciles de transportar.",
+          "isCorrect": false,
+          "rationale": "El $8\\%$ es t\u00edpico del sector retail; los f\u00e1rmacos requieren cuidados especiales que encarecen la log\u00edstica."
+        },
+        {
+          "text": "Menos del $5\\%$, ya que el alto valor de los medicamentos diluye el costo de env\u00edo.",
+          "isCorrect": false,
+          "rationale": "A pesar del valor, la 'paranoia operativa' y los requerimientos biol\u00f3gicos mantienen el costo porcentual elevado."
+        },
+        {
+          "text": "Alrededor del $20\\%$, por la alta inversi\u00f3n en publicidad televisiva.",
+          "isCorrect": false,
+          "rationale": "Los costos de publicidad no se consideran parte del costo log\u00edstico sobre ventas."
+        }
+      ],
+      "hint": "Piensa en el nivel de 'paranoia operativa' que requiere mover vacunas o productos biol\u00f3gicos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 garantiza espec\u00edficamente la m\u00e9trica OTIF (On Time In Full) en la log\u00edstica?",
+      "answerOptions": [
+        {
+          "text": "Que el cliente reciba exactamente lo que pidi\u00f3 en el momento exacto prometido.",
+          "isCorrect": true,
+          "rationale": "Es el indicador definitivo de la perfecci\u00f3n y representa el 'momento de la verdad' frente al consumidor."
+        },
+        {
+          "text": "Que los camiones viajen siempre a su m\u00e1xima capacidad de carga permitida.",
+          "isCorrect": false,
+          "rationale": "Esa m\u00e9trica se refiere a la utilizaci\u00f3n de la flota, no necesariamente al cumplimiento con el cliente."
+        },
+        {
+          "text": "Que el inventario en sistema coincida al $100\\%$ con el inventario f\u00edsico.",
+          "isCorrect": false,
+          "rationale": "Eso se conoce como Exactitud de Inventario (ERI), no OTIF."
+        },
+        {
+          "text": "Que el tiempo de fabricaci\u00f3n sea el menor posible dentro del mercado.",
+          "isCorrect": false,
+          "rationale": "El OTIF mide la entrega final al cliente, no solo la eficiencia interna de la producci\u00f3n."
+        }
+      ],
+      "hint": "Se trata de cumplir la promesa de entrega de forma impecable."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la aplicaci\u00f3n principal del Blockchain mencionada para mejorar la trazabilidad en la cadena de suministro?",
+      "answerOptions": [
+        {
+          "text": "Asegurar que un mineral extra\u00eddo tenga una trazabilidad legal inmutable desde la mina hasta el comprador.",
+          "isCorrect": true,
+          "rationale": "La naturaleza inmutable del blockchain garantiza que los registros de origen y legalidad no puedan ser alterados."
+        },
+        {
+          "text": "Predecir el comportamiento futuro de los consumidores mediante machine learning.",
+          "isCorrect": false,
+          "rationale": "Esa es una funci\u00f3n de la Inteligencia Artificial, no del Blockchain."
+        },
+        {
+          "text": "Realizar inventarios a\u00e9reos autom\u00e1ticos mediante el uso de drones.",
+          "isCorrect": false,
+          "rationale": "Los drones se usan para el conteo f\u00edsico; el blockchain es para el registro de datos seguros."
+        },
+        {
+          "text": "Aumentar la velocidad de los camiones de reparto mediante sensores RFID.",
+          "isCorrect": false,
+          "rationale": "El RFID ayuda a la identificaci\u00f3n, pero no afecta directamente la velocidad f\u00edsica del transporte."
+        }
+      ],
+      "hint": "Piensa en la imposibilidad de borrar o cambiar la historia de un dato."
+    },
+    {
+      "question": "\u00bfQu\u00e9 causa el fen\u00f3meno del 'efecto l\u00e1tigo' (bullwhip effect) y cu\u00e1l es su soluci\u00f3n fundamental?",
+      "answerOptions": [
+        {
+          "text": "Causado por silos de informaci\u00f3n; la soluci\u00f3n es tener pron\u00f3sticos colaborativos y transparencia en tiempo real.",
+          "isCorrect": true,
+          "rationale": "La falta de comunicaci\u00f3n amplifica las distorsiones de demanda hacia atr\u00e1s; compartir datos elimina esa incertidumbre."
+        },
+        {
+          "text": "Causado por el exceso de tecnolog\u00eda; la soluci\u00f3n es volver al uso de registros manuales en Excel.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda mal aplicada puede ser un reto, pero los registros manuales suelen agravar la falta de visibilidad."
+        },
+        {
+          "text": "Causado por la baja calidad de las materias primas; la soluci\u00f3n es cambiar de proveedores estrat\u00e9gicos.",
+          "isCorrect": false,
+          "rationale": "El efecto l\u00e1tigo es un problema de flujo de informaci\u00f3n y demanda, no de calidad f\u00edsica del insumo."
+        },
+        {
+          "text": "Causado por la lentitud de los drones; la soluci\u00f3n es invertir en flotas propias de camiones.",
+          "isCorrect": false,
+          "rationale": "La velocidad del transporte influye, pero la ra\u00edz del efecto l\u00e1tigo es la distorsi\u00f3n de la se\u00f1al de demanda por falta de comunicaci\u00f3n."
+        }
+      ],
+      "hint": "El problema es que 'nadie se habla' a lo largo de la cadena."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gesti\u00f3n Integral de Procesos y Arquitectura de la Cadena de Valor",
+      "Abastecimiento Estrat\u00e9gico y Tecnolog\u00edas de Gesti\u00f3n (SAP S4 Hana)",
+      "Fabricaci\u00f3n, Log\u00edstica de Entrega y Log\u00edstica Inversa",
+      "Planificaci\u00f3n de Ventas y Operaciones (S&OP) y Dise\u00f1o de Redes",
+      "Optimizaci\u00f3n de Inventarios (MAPE, Matriz ABC y Stock de Seguridad)",
+      "Control de Gesti\u00f3n, KPIs (OTIF, Costo Log\u00edstico) y Transformaci\u00f3n Digital"
+    ],
+    "followUp": [
+      "Resiliencia Adaptativa en Entornos Vol\u00e1tiles",
+      "Modelos de Demanda Predictiva mediante Inteligencia Artificial",
+      "Estrategias de Mitigaci\u00f3n del Efecto L\u00e1tigo",
+      "Impacto Financiero de la Trazabilidad con Blockchain",
+      "Gesti\u00f3n de Riesgos Operativos en Industrias Extractivas"
+    ]
+  }
+}

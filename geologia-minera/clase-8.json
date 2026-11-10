@@ -1,0 +1,538 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1les son los tres pilares cient\u00edficos fundamentales que deben sincronizarse para la supervivencia de un proyecto de ingenier\u00eda minera?",
+      "answerOptions": [
+        {
+          "text": "Ciencias de la Tierra, dise\u00f1o de explotaciones y tratamiento de minerales",
+          "isCorrect": true,
+          "rationale": "Estos tres ejes cubren desde la localizaci\u00f3n del recurso hasta su procesamiento metal\u00fargico final, asegurando la viabilidad t\u00e9cnica y econ\u00f3mica."
+        },
+        {
+          "text": "Geolog\u00eda aplicada, gesti\u00f3n de recursos humanos y log\u00edstica de transporte",
+          "isCorrect": false,
+          "rationale": "Aunque importantes, la gesti\u00f3n humana y la log\u00edstica no constituyen los pilares cient\u00edficos de base para la definici\u00f3n del m\u00e9todo de extracci\u00f3n."
+        },
+        {
+          "text": "Ingenier\u00eda civil, seguridad industrial y econom\u00eda de mercado",
+          "isCorrect": false,
+          "rationale": "Estos elementos son transversales a muchas industrias, pero no definen la sinergia cient\u00edfica espec\u00edfica de la ingenier\u00eda de minas."
+        },
+        {
+          "text": "Prospecci\u00f3n geof\u00edsica, mantenimiento mec\u00e1nico y administraci\u00f3n de contratos",
+          "isCorrect": false,
+          "rationale": "El mantenimiento y los contratos son funciones de soporte operativo, no los pilares cient\u00edficos que determinan el dise\u00f1o de la explotaci\u00f3n."
+        }
+      ],
+      "hint": "Considere las etapas que van desde encontrar el mineral hasta convertirlo en un producto vendible."
+    },
+    {
+      "question": "\u00bfQu\u00e9 concepto define el equilibrio financiero donde la venta del concentrado mineral cubre todos los costos operativos, administrativos y de exploraci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Rentabilidad de superficie",
+          "isCorrect": false,
+          "rationale": "Este t\u00e9rmino se refiere a la eficiencia operativa en tajos abiertos, pero no describe el equilibrio total de costos del proyecto."
+        },
+        {
+          "text": "Grado de liberaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Este es un t\u00e9rmino t\u00e9cnico metal\u00fargico referido a la separaci\u00f3n de part\u00edculas, no a un objetivo financiero global."
+        },
+        {
+          "text": "Objetivo de comercializaci\u00f3n",
+          "isCorrect": true,
+          "rationale": "Representa el punto en el que el valor del producto final justifica toda la inversi\u00f3n y el gasto operativo de la cadena minera."
+        },
+        {
+          "text": "Valoraci\u00f3n econ\u00f3mica de criadero",
+          "isCorrect": false,
+          "rationale": "Esta es una fase preliminar de estudio de potencial, no el objetivo de operaci\u00f3n de una mina activa."
+        }
+      ],
+      "hint": "Se refiere al \u00e9xito final de la transacci\u00f3n econ\u00f3mica del producto extra\u00eddo."
+    },
+    {
+      "question": "En el estudio de la geometalurgia, \u00bfqu\u00e9 determina el grado de liberaci\u00f3n obtenido mediante an\u00e1lisis microsc\u00f3picos como la petrograf\u00eda?",
+      "answerOptions": [
+        {
+          "text": "La cantidad total de est\u00e9ril que debe removerse por tonelada",
+          "isCorrect": false,
+          "rationale": "Esto se conoce como ratio de desbroce y es una medida geom\u00e9trica, no microsc\u00f3pica del mineral."
+        },
+        {
+          "text": "La dificultad o facilidad para separar los minerales de valor de la ganga",
+          "isCorrect": true,
+          "rationale": "La petrograf\u00eda revela c\u00f3mo est\u00e1n unidos los minerales a nivel microsc\u00f3pico, indicando cu\u00e1nta energ\u00eda o esfuerzo requiere su separaci\u00f3n."
+        },
+        {
+          "text": "La profundidad m\u00e1xima que pueden alcanzar las rampas subterr\u00e1neas",
+          "isCorrect": false,
+          "rationale": "La profundidad est\u00e1 determinada por la geomec\u00e1nica y la geolog\u00eda estructural, no por la textura microsc\u00f3pica del mineral."
+        },
+        {
+          "text": "El tiempo de fraguado del concreto lanzado en los t\u00faneles",
+          "isCorrect": false,
+          "rationale": "El fraguado es un proceso qu\u00edmico del sostenimiento y no guarda relaci\u00f3n con la liberaci\u00f3n del mineral met\u00e1lico."
+        }
+      ],
+      "hint": "Piense en la relaci\u00f3n f\u00edsica entre el mineral valioso y la roca sin valor."
+    },
+    {
+      "question": "De acuerdo con la clasificaci\u00f3n jer\u00e1rquica de recursos minerales de John Bill ($1973$), \u00bfen qu\u00e9 fase se definen por primera vez los l\u00edmites geogr\u00e1ficos y geof\u00edsicos precisos?",
+      "answerOptions": [
+        {
+          "text": "Indicios",
+          "isCorrect": false,
+          "rationale": "En esta fase inicial solo se cuenta con pistas o datos preliminares sin delimitaci\u00f3n clara."
+        },
+        {
+          "text": "Criaderos",
+          "isCorrect": false,
+          "rationale": "Aunque hay potencial detectado, todav\u00eda no se ha establecido una valoraci\u00f3n econ\u00f3mica ni l\u00edmites definitivos."
+        },
+        {
+          "text": "Yacimientos",
+          "isCorrect": true,
+          "rationale": "Es la fase donde el recurso ya est\u00e1 t\u00e9cnicamente definido y acotado espacialmente antes de convertirse en una unidad operativa."
+        },
+        {
+          "text": "Mina",
+          "isCorrect": false,
+          "rationale": "Esta fase representa la unidad ya en producci\u00f3n diaria, siendo la etapa final de la jerarqu\u00eda."
+        }
+      ],
+      "hint": "Es la etapa inmediatamente anterior a que el proyecto se convierta en una mina operativa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la estrategia principal para garantizar la rentabilidad en operaciones de miner\u00eda a cielo abierto (Open Pit) cuando la ley del mineral es baja?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la selectividad de la excavaci\u00f3n para buscar vetas ricas",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda a cielo abierto se basa en el volumen, no en la b\u00fasqueda selectiva de vetas peque\u00f1as."
+        },
+        {
+          "text": "Maximizar el tonelaje movido por hora y minimizar el costo por tonelada",
+          "isCorrect": true,
+          "rationale": "Dado que el valor por unidad es bajo, el negocio depende de procesar cantidades masivas de forma extremadamente barata."
+        },
+        {
+          "text": "Reducir el tama\u00f1o de la flota de camiones para ahorrar combustible",
+          "isCorrect": false,
+          "rationale": "Reducir la flota disminuir\u00eda el volumen de producci\u00f3n, lo cual es contraproducente para la rentabilidad por econom\u00eda de escala."
+        },
+        {
+          "text": "Priorizar la perforaci\u00f3n diamantina sobre la excavaci\u00f3n mec\u00e1nica",
+          "isCorrect": false,
+          "rationale": "La perforaci\u00f3n diamantina es exploratoria; la rentabilidad se logra en la fase de producci\u00f3n y acarreo masivo."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre la cantidad de material y el costo de su procesamiento."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica distingue a la dragalina de otros equipos de excavaci\u00f3n masiva en minas de gran escala?",
+      "answerOptions": [
+        {
+          "text": "Su capacidad de ser transportada r\u00e1pidamente entre diferentes minas",
+          "isCorrect": false,
+          "rationale": "Debido a su tama\u00f1o colosal, estos equipos no son m\u00f3viles y deben ensamblarse en el sitio de operaci\u00f3n."
+        },
+        {
+          "text": "Su peso aproximado de $13,000$ toneladas y ensamblaje directo en la mina",
+          "isCorrect": true,
+          "rationale": "Es una m\u00e1quina de dimensiones monumentales que utiliza cables y cadenas para mover una pala descomunal para remover est\u00e9ril."
+        },
+        {
+          "text": "Su funci\u00f3n principal de transporte de mineral hacia la planta de beneficio",
+          "isCorrect": false,
+          "rationale": "La dragalina es un equipo de excavaci\u00f3n y remoci\u00f3n de sobrecapa, no un veh\u00edculo de transporte de larga distancia."
+        },
+        {
+          "text": "Su alta precisi\u00f3n para el corte de materiales extremadamente blandos",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n corresponde m\u00e1s a equipos como la mototraila o scrapper, no a la fuerza masiva de la dragalina."
+        }
+      ],
+      "hint": "Piense en la magnitud f\u00edsica y el proceso log\u00edstico necesario para tenerla operativa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo cr\u00edtico debe gestionar el operador de una mototraila (scrapper) al trabajar en yacimientos de carb\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "La inundaci\u00f3n de los sistemas hidr\u00e1ulicos por lodo",
+          "isCorrect": false,
+          "rationale": "Aunque es un problema operativo, no es el riesgo espec\u00edfico y cr\u00edtico asociado a la naturaleza del carb\u00f3n."
+        },
+        {
+          "text": "El inicio de incendios masivos debido a la fricci\u00f3n y abrasividad",
+          "isCorrect": true,
+          "rationale": "El carb\u00f3n es altamente combustible y el roce mec\u00e1nico del equipo puede generar el calor necesario para una ignici\u00f3n."
+        },
+        {
+          "text": "La p\u00e9rdida de tracci\u00f3n en las pendientes pronunciadas del tajo",
+          "isCorrect": false,
+          "rationale": "Esto es un riesgo general de cualquier equipo pesado, no una vulnerabilidad ligada espec\u00edficamente al material carbon\u00edfero."
+        },
+        {
+          "text": "El desgaste prematuro de la rueda giratoria de corte",
+          "isCorrect": false,
+          "rationale": "La rueda giratoria es un componente de la rotopala, no de la mototraila o scrapper."
+        }
+      ],
+      "hint": "Recuerde las propiedades f\u00edsicas y qu\u00edmicas del material que se est\u00e1 excavando."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el mantenimiento de las v\u00edas de acarreo mediante la motoniveladora es vital para la rentabilidad de una mina?",
+      "answerOptions": [
+        {
+          "text": "Porque permite que los camiones mantengan velocidades constantes sin frenar",
+          "isCorrect": true,
+          "rationale": "Caminos irregulares obligan a los camiones a reducir velocidad, lo que disminuye el tonelaje total movido y afecta los ingresos."
+        },
+        {
+          "text": "Porque ayuda a la prospecci\u00f3n de nuevos minerales en la superficie",
+          "isCorrect": false,
+          "rationale": "La motoniveladora es un equipo de mantenimiento vial y terminaci\u00f3n superficial, no de exploraci\u00f3n geol\u00f3gica."
+        },
+        {
+          "text": "Porque reduce la necesidad de usar explosivos en los frentes de cargu\u00edo",
+          "isCorrect": false,
+          "rationale": "El mantenimiento de caminos no influye en la dureza de la roca o el dise\u00f1o de las voladuras."
+        },
+        {
+          "text": "Porque extiende la vida \u00fatil de los sistemas de perforaci\u00f3n diamantina",
+          "isCorrect": false,
+          "rationale": "Los sistemas de perforaci\u00f3n son independientes del estado de las v\u00edas de acarreo para camiones dumpers."
+        }
+      ],
+      "hint": "Piense en el impacto de la superficie del suelo en el ciclo de transporte de los camiones gigantes."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la capacidad de carga aproximada de los dumpers de alta capacidad utilizados en operaciones de clase mundial?",
+      "answerOptions": [
+        {
+          "text": "M\u00e1s de $240$ toneladas",
+          "isCorrect": true,
+          "rationale": "Estos gigantes log\u00edsticos permiten mover vol\u00famenes masivos en un solo viaje, optimizando la productividad de la mina."
+        },
+        {
+          "text": "Exactamente $100$ toneladas",
+          "isCorrect": false,
+          "rationale": "Este valor corresponde a camiones hist\u00f3ricos o de menor escala, no a los dumpers modernos de alta capacidad."
+        },
+        {
+          "text": "Entre $10$ y $50$ toneladas",
+          "isCorrect": false,
+          "rationale": "Este rango de carga es t\u00edpico de camiones convencionales de construcci\u00f3n, no de miner\u00eda a cielo abierto masiva."
+        },
+        {
+          "text": "$13,000$ toneladas",
+          "isCorrect": false,
+          "rationale": "Este es el peso operativo total de una dragalina, no la capacidad de carga de un cami\u00f3n de transporte."
+        }
+      ],
+      "hint": "Considere la escala de un veh\u00edculo que tiene la altura de un edificio de cuatro pisos."
+    },
+    {
+      "question": "En la miner\u00eda subterr\u00e1nea, \u00bfcu\u00e1l es el prop\u00f3sito principal de utilizar equipos de perforaci\u00f3n diamantina como los modelos Explorer o LM?",
+      "answerOptions": [
+        {
+          "text": "Realizar la voladura primaria de los frentes de avance",
+          "isCorrect": false,
+          "rationale": "La voladura se prepara con Jumbos; la perforaci\u00f3n diamantina se usa para obtener n\u00facleos de informaci\u00f3n."
+        },
+        {
+          "text": "Entender las estructuras y caracter\u00edsticas del macizo rocoso",
+          "isCorrect": true,
+          "rationale": "Estos equipos permiten extraer muestras de roca para conocer la geolog\u00eda y competencia del terreno antes de avanzar."
+        },
+        {
+          "text": "Instalar pernos de anclaje para el sostenimiento de las galer\u00edas",
+          "isCorrect": false,
+          "rationale": "Aunque perforan, su funci\u00f3n es exploratoria y de reconocimiento, no de instalaci\u00f3n de elementos de soporte."
+        },
+        {
+          "text": "Limpiar los escombros acumulados tras una detonaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La limpieza de escombros es una tarea de cargu\u00edo realizada por equipos como el scoop."
+        }
+      ],
+      "hint": "Se relaciona con la necesidad de obtener informaci\u00f3n antes de realizar excavaciones mayores."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia mec\u00e1nica tiene el uso incorrecto de los brazos del Jumbo para realizar el desate de rocas sueltas?",
+      "answerOptions": [
+        {
+          "text": "Mejora la velocidad de fraguado del concreto lanzado",
+          "isCorrect": false,
+          "rationale": "El desate mec\u00e1nico no tiene ninguna influencia en las propiedades qu\u00edmicas del concreto."
+        },
+        {
+          "text": "Destroza los trompos de la pluma y revienta los componentes hidr\u00e1ulicos",
+          "isCorrect": true,
+          "rationale": "Los brazos est\u00e1n dise\u00f1ados para perforaci\u00f3n axial, no para soportar fuerzas de palanca laterales que exceden su resistencia."
+        },
+        {
+          "text": "Aumenta la precisi\u00f3n de la perforaci\u00f3n diamantina posterior",
+          "isCorrect": false,
+          "rationale": "Da\u00f1ar el equipo de perforaci\u00f3n disminuye la precisi\u00f3n y disponibilidad, no aporta beneficios t\u00e9cnicos."
+        },
+        {
+          "text": "Reduce el consumo de combustible del motor di\u00e9sel",
+          "isCorrect": false,
+          "rationale": "El esfuerzo extra para palanquear rocas suele aumentar la carga del motor y el consumo, adem\u00e1s de da\u00f1ar la estructura."
+        }
+      ],
+      "hint": "Piense en el da\u00f1o que sufren los componentes de precisi\u00f3n cuando se usan como herramientas de fuerza bruta."
+    },
+    {
+      "question": "Adem\u00e1s del acarreo de mineral, \u00bfqu\u00e9 otra responsabilidad operativa tiene el Scoop (Scooptram) dentro de la mina subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "Realizar el levantamiento topogr\u00e1fico con drones",
+          "isCorrect": false,
+          "rationale": "Esta es una funci\u00f3n tecnol\u00f3gica de equipos de monitoreo especializados, no una funci\u00f3n mec\u00e1nica del scoop."
+        },
+        {
+          "text": "Mantener las v\u00edas de acceso libres de escombros",
+          "isCorrect": true,
+          "rationale": "El scoop utiliza su cuchara no solo para cargar mineral, sino para limpiar el piso y garantizar el tr\u00e1nsito seguro."
+        },
+        {
+          "text": "Sellar los t\u00faneles mediante el lanzamiento de shotcrete",
+          "isCorrect": false,
+          "rationale": "El sellado con shotcrete lo realizan equipos lanzadores espec\u00edficos, no el cargador frontal subterr\u00e1neo."
+        },
+        {
+          "text": "Perforar los frentes de voladura en los subniveles",
+          "isCorrect": false,
+          "rationale": "La perforaci\u00f3n de frentes es tarea exclusiva del Jumbo."
+        }
+      ],
+      "hint": "Piense en la limpieza necesaria para que otros equipos puedan circular por las galer\u00edas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja operativa ofrece la rosadora en comparaci\u00f3n con el ciclo convencional de perforaci\u00f3n y voladura?",
+      "answerOptions": [
+        {
+          "text": "Permite una excavaci\u00f3n mec\u00e1nica continua y con precisi\u00f3n milim\u00e9trica",
+          "isCorrect": true,
+          "rationale": "A diferencia de las explosiones, la rosadora corta la roca de forma constante y sin generar las vibraciones de una detonaci\u00f3n."
+        },
+        {
+          "text": "Es capaz de operar en ambientes con temperaturas superiores a los $500 \\, ^\\circ C$",
+          "isCorrect": false,
+          "rationale": "Ninguna maquinaria minera est\u00e1ndar est\u00e1 dise\u00f1ada para operar de forma continua en tales temperaturas extremas de fundici\u00f3n."
+        },
+        {
+          "text": "Reduce la necesidad de utilizar sostenimiento en los t\u00faneles",
+          "isCorrect": false,
+          "rationale": "Aunque es m\u00e1s precisa, la estabilidad del macizo rocoso sigue requiriendo sistemas de seguridad y soporte."
+        },
+        {
+          "text": "Puede transportar m\u00e1s de $240$ toneladas por viaje",
+          "isCorrect": false,
+          "rationale": "La rosadora es un equipo de excavaci\u00f3n, no de transporte masivo de larga distancia."
+        }
+      ],
+      "hint": "Considere la diferencia entre un proceso por etapas (detonaciones) y uno que no se detiene."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el principio rector que debe priorizar la gesti\u00f3n de activos en una flota de maquinaria minera?",
+      "answerOptions": [
+        {
+          "text": "Minimizar la inversi\u00f3n en repuestos para reducir el gasto diario",
+          "isCorrect": false,
+          "rationale": "Escatimar en repuestos b\u00e1sicos suele llevar a fallas mayores y paradas no programadas mucho m\u00e1s costosas."
+        },
+        {
+          "text": "Mantener la disponibilidad mec\u00e1nica por encima del ahorro de insumos",
+          "isCorrect": true,
+          "rationale": "Un equipo operando es m\u00e1s rentable que un ahorro m\u00ednimo en mantenimiento que resulte en una m\u00e1quina detenida en el taller."
+        },
+        {
+          "text": "Reemplazar toda la flota cada vez que aparece un modelo nuevo en el mercado",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda econ\u00f3micamente inviable; la gesti\u00f3n busca optimizar la vida \u00fatil del activo existente."
+        },
+        {
+          "text": "Utilizar \u00fanicamente personal sin certificaci\u00f3n para reducir costos de n\u00f3mina",
+          "isCorrect": false,
+          "rationale": "La falta de certificaci\u00f3n aumenta el riesgo de accidentes y da\u00f1os catastr\u00f3ficos a los equipos."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 es m\u00e1s caro: un repuesto o una m\u00e1quina que deja de producir por una falla."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue la raz\u00f3n hist\u00f3rica por la que Caterpillar cambi\u00f3 el color de su maquinaria de gris a amarillo en $1931$?",
+      "answerOptions": [
+        {
+          "text": "Para reducir la absorci\u00f3n de calor en climas des\u00e9rticos",
+          "isCorrect": false,
+          "rationale": "El cambio de color no tuvo un prop\u00f3sito t\u00e9rmico, sino puramente visual y de seguridad."
+        },
+        {
+          "text": "Para maximizar el contraste y la visibilidad en zonas oscuras y fangosas",
+          "isCorrect": true,
+          "rationale": "El amarillo de carretera ofrece una mejor identificaci\u00f3n de los equipos pesados en los entornos hostiles de la mina."
+        },
+        {
+          "text": "Para cumplir con normativas de transporte ferroviario de la \u00e9poca",
+          "isCorrect": false,
+          "rationale": "Fue una decisi\u00f3n de dise\u00f1o industrial propia de la marca para mejorar la seguridad operativa."
+        },
+        {
+          "text": "Para diferenciar los equipos de superficie de los subterr\u00e1neos",
+          "isCorrect": false,
+          "rationale": "El ic\u00f3nico amarillo se adopt\u00f3 de forma general para mejorar la visibilidad en cualquier entorno operativo."
+        }
+      ],
+      "hint": "Considere las condiciones de iluminaci\u00f3n y terreno que se encuentran com\u00fanmente en una operaci\u00f3n minera."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 temperatura deben curarse las part\u00edculas del recubrimiento electrost\u00e1tico para garantizar la resistencia a la corrosi\u00f3n subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "$50 \\, ^\\circ C$",
+          "isCorrect": false,
+          "rationale": "Esta temperatura es insuficiente para el proceso de curado t\u00e9rmico necesario para la adherencia de la pintura en polvo."
+        },
+        {
+          "text": "$100 \\, ^\\circ C$",
+          "isCorrect": false,
+          "rationale": "A esta temperatura no se logra la fusi\u00f3n completa de las part\u00edculas para evitar la formaci\u00f3n de burbujas corrosivas."
+        },
+        {
+          "text": "$200 \\, ^\\circ C$",
+          "isCorrect": true,
+          "rationale": "Este tratamiento t\u00e9rmico espec\u00edfico es el que permite que la pintura selle el metal y resista los ambientes m\u00e1s hostiles."
+        },
+        {
+          "text": "$500 \\, ^\\circ C$",
+          "isCorrect": false,
+          "rationale": "Una temperatura tan elevada podr\u00eda comprometer las propiedades estructurales del acero de algunos componentes del equipo."
+        }
+      ],
+      "hint": "Es un n\u00famero redondo y elevado que asegura que no se formen burbujas en la pintura."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre autom\u00e1ticamente en un Scoop si el sistema de interbloqueo detecta que la puerta de la cabina se abre durante la operaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Se activa una alarma sonora pero el equipo sigue operando",
+          "isCorrect": false,
+          "rationale": "Una simple alarma no previene mec\u00e1nicamente un accidente por aplastamiento o ca\u00edda."
+        },
+        {
+          "text": "Se bloquea la articulaci\u00f3n de la cintura y se desactivan las funciones el\u00e9ctricas",
+          "isCorrect": true,
+          "rationale": "El sistema paraliza la m\u00e1quina instant\u00e1neamente para proteger al operador de posibles movimientos peligrosos."
+        },
+        {
+          "text": "El motor aumenta sus revoluciones para compensar la p\u00e9rdida de presi\u00f3n",
+          "isCorrect": false,
+          "rationale": "El aumento de revoluciones ser\u00eda peligroso e innecesario en una situaci\u00f3n de riesgo por puerta abierta."
+        },
+        {
+          "text": "Se despliega autom\u00e1ticamente un sistema de supresi\u00f3n de incendios",
+          "isCorrect": false,
+          "rationale": "El sistema contra incendios es independiente del sensor de apertura de puertas de la cabina."
+        }
+      ],
+      "hint": "Piense en una medida de seguridad f\u00edsica que impida que la m\u00e1quina se mueva."
+    },
+    {
+      "question": "\u00bfQu\u00e9 pr\u00e1ctica de gesti\u00f3n es fundamental realizar antes de adquirir nuevas flotas de maquinaria minera seg\u00fan los est\u00e1ndares gerenciales?",
+      "answerOptions": [
+        {
+          "text": "Benchmarking y pruebas demo exhaustivas en terreno",
+          "isCorrect": true,
+          "rationale": "Validar la ergonom\u00eda, visibilidad y rendimiento real en la mina propia es esencial antes de una inversi\u00f3n multimillonaria."
+        },
+        {
+          "text": "Seleccionar el equipo con el precio de compra m\u00e1s bajo disponible",
+          "isCorrect": false,
+          "rationale": "El precio inicial no garantiza que el equipo sea eficiente o seguro en las condiciones espec\u00edficas de la mina."
+        },
+        {
+          "text": "Comprar bas\u00e1ndose \u00fanicamente en los folletos t\u00e9cnicos del fabricante",
+          "isCorrect": false,
+          "rationale": "La teor\u00eda de los folletos debe ser contrastada con la realidad operativa mediante pruebas f\u00edsicas."
+        },
+        {
+          "text": "Delegar la decisi\u00f3n final a los proveedores de combustible de la mina",
+          "isCorrect": false,
+          "rationale": "Los proveedores de insumos no tienen el criterio t\u00e9cnico ni la responsabilidad sobre la operatividad de la flota."
+        }
+      ],
+      "hint": "Se refiere a la comparaci\u00f3n con otras operaciones y la validaci\u00f3n pr\u00e1ctica del equipo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el t\u00e9rmino t\u00e9cnico 'ganga' en el contexto de la explotaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "El mineral con la ley m\u00e1s alta de todo el yacimiento",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda el mineral de alta ley; la ganga es exactamente lo opuesto."
+        },
+        {
+          "text": "El material est\u00e9ril o roca sin valor econ\u00f3mico que acompa\u00f1a al mineral",
+          "isCorrect": true,
+          "rationale": "Es la parte del material extra\u00eddo que debe ser separada y descartada porque no contiene elementos comercializables."
+        },
+        {
+          "text": "Un tipo de maquinaria especializada para el desate de rocas",
+          "isCorrect": false,
+          "rationale": "La ganga no es una herramienta, sino un componente del material geol\u00f3gico."
+        },
+        {
+          "text": "La bonificaci\u00f3n econ\u00f3mica que reciben los operadores por productividad",
+          "isCorrect": false,
+          "rationale": "Este ser\u00eda un incentivo laboral, no un concepto relacionado con la composici\u00f3n de la roca."
+        }
+      ],
+      "hint": "Piense en lo que sobra despu\u00e9s de extraer el mineral valioso."
+    },
+    {
+      "question": "En la gesti\u00f3n de seguridad, \u00bfqu\u00e9 es el 'bypass fatal'?",
+      "answerOptions": [
+        {
+          "text": "Una t\u00e9cnica de ventilaci\u00f3n para t\u00faneles con exceso de gas",
+          "isCorrect": false,
+          "rationale": "El bypass fatal no es un procedimiento t\u00e9cnico leg\u00edtimo, sino una transgresi\u00f3n de seguridad."
+        },
+        {
+          "text": "La decisi\u00f3n de alterar o puentear sistemas de seguridad para ahorrar tiempo",
+          "isCorrect": true,
+          "rationale": "Inhabilitar sensores o bloqueos de seguridad con el fin de no detener la operaci\u00f3n suele terminar en accidentes mortales."
+        },
+        {
+          "text": "Un sistema de respaldo para los frenos de los camiones dumpers",
+          "isCorrect": false,
+          "rationale": "Un sistema de respaldo es una medida de seguridad positiva, mientras que el bypass fatal es una acci\u00f3n negligente."
+        },
+        {
+          "text": "El proceso de desviar el flujo de agua en minas inundadas",
+          "isCorrect": false,
+          "rationale": "Este es un manejo hidr\u00e1ulico operativo normal y no se denomina de esa manera."
+        }
+      ],
+      "hint": "Se refiere a una acci\u00f3n humana peligrosa que anula las protecciones de la m\u00e1quina."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Fundamentos de Ingenier\u00eda Minera",
+      "Maquinaria para Miner\u00eda a Cielo Abierto",
+      "Ciclo Operativo Subterr\u00e1neo",
+      "Seguridad y Gesti\u00f3n de Activos"
+    ],
+    "followUp": [
+      "Sistemas de Sostenimiento Geomec\u00e1nico",
+      "Metalurgia Extractiva y Concentraci\u00f3n",
+      "Planificaci\u00f3n y Dise\u00f1o de Minas de Gran Escala",
+      "Tecnolog\u00edas de Monitoreo y Telemetr\u00eda en Miner\u00eda"
+    ]
+  }
+}

@@ -1,0 +1,541 @@
+
+{
+  "quiz": [
+    {
+      "question": "¿Cuál de los siguientes elementos se clasifica como un factor interno bajo el control directo de la gerencia en la industria extractiva?",
+      "answerOptions": [
+        {
+          "text": "Los precios internacionales de los metales",
+          "isCorrect": false,
+          "rationale": "Este factor es determinado por el mercado global y es impredecible para la empresa."
+        },
+        {
+          "text": "La gestión del Capex y el Opex",
+          "isCorrect": true,
+          "rationale": "Estas representan las inversiones de capital y gastos operativos que la organización planifica y ejecuta internamente."
+        },
+        {
+          "text": "Las normativas gubernamentales ambientales",
+          "isCorrect": false,
+          "rationale": "Estas son regulaciones externas impuestas por el Estado que la empresa debe cumplir pero no controla."
+        },
+        {
+          "text": "El tipo de cambio y la macroeconomía",
+          "isCorrect": false,
+          "rationale": "Son variables del entorno económico externo que afectan la rentabilidad pero son ajenas a la operación."
+        }
+      ],
+      "hint": "Considera las variables que dependen de las decisiones administrativas y operativas propias de la mina."
+    },
+    {
+      "question": "En la fórmula técnica para calcular el valor total de las ventas ($V$), ¿por qué es imperativo aplicar cálculos precisos de descuento?",
+      "answerOptions": [
+        {
+          "text": "Para aumentar el volumen de producción mensual",
+          "isCorrect": false,
+          "rationale": "El volumen de producción es una métrica operativa, no un ajuste de valor neto en ventas."
+        },
+        {
+          "text": "Para ignorar las penalidades del mercado",
+          "isCorrect": false,
+          "rationale": "Las penalidades son costos inevitables que deben restarse para conocer el valor real."
+        },
+        {
+          "text": "Para reflejar el valor neto real descontando costos de procesamiento y penalidades",
+          "isCorrect": true,
+          "rationale": "El valor bruto no representa la utilidad final si no se consideran las mermas por procesamiento y las sanciones comerciales."
+        },
+        {
+          "text": "Para evitar el pago de impuestos estatales",
+          "isCorrect": false,
+          "rationale": "El cálculo del valor de ventas tiene fines de gestión de rentabilidad operativa, no de evasión fiscal."
+        }
+      ],
+      "hint": "Piensa en la diferencia entre lo que se vende en bruto y lo que realmente queda después de los gastos logísticos y técnicos."
+    },
+    {
+      "question": "Dentro del proceso de transformación, ¿en qué escenario se captura el máximo valor marginal posible?",
+      "answerOptions": [
+        {
+          "text": "Venta de mineral bruto",
+          "isCorrect": false,
+          "rationale": "En esta etapa solo se cubren los costos de extracción con un margen de ganancia muy bajo."
+        },
+        {
+          "text": "Producción de concentrados",
+          "isCorrect": false,
+          "rationale": "Aunque hay procesamiento, todavía existen fuertes deducciones por maquila en destino."
+        },
+        {
+          "text": "Mineral refinado con $99.5\\%$ de pureza",
+          "isCorrect": true,
+          "rationale": "A mayor nivel de transformación interna, el impacto positivo en el margen de rentabilidad crece exponencialmente."
+        },
+        {
+          "text": "Mineral fundido mediante calor",
+          "isCorrect": false,
+          "rationale": "Captura más valor que el concentrado, pero no alcanza el techo de rentabilidad de la refinación total."
+        }
+      ],
+      "hint": "Identifica la etapa final de la cadena de valor donde el producto tiene el mayor grado de pureza."
+    },
+    {
+      "question": "¿Cómo afecta una deficiente calidad de minado (baja ley del mineral) a los procesos posteriores?",
+      "answerOptions": [
+        {
+          "text": "Reduce los costos de transporte por tonelada",
+          "isCorrect": false,
+          "rationale": "Independientemente de la ley, el peso transportado genera el mismo o mayor gasto logístico."
+        },
+        {
+          "text": "Genera un efecto dominó que incrementa los costos de procesamiento por tonelada",
+          "isCorrect": true,
+          "rationale": "Al haber menos metal por roca, se requiere procesar más material estéril, elevando el gasto operativo por unidad obtenida."
+        },
+        {
+          "text": "Aumenta automáticamente el precio del metal en el mercado",
+          "isCorrect": false,
+          "rationale": "La ley del mineral de una mina específica no tiene poder para alterar los precios internacionales."
+        },
+        {
+          "text": "Mejora la eficiencia de las plantas de fundición",
+          "isCorrect": false,
+          "rationale": "La baja ley suele complicar los procesos químicos y térmicos de recuperación."
+        }
+      ],
+      "hint": "Recuerda que procesar material con poco contenido metálico requiere los mismos recursos pero entrega menos producto final."
+    },
+    {
+      "question": "¿Cuál es el axioma fundamental que sustenta la metodología de costeo basado en actividades (Sistema ABC)?",
+      "answerOptions": [
+        {
+          "text": "Los productos generan costos y las actividades consumen recursos",
+          "isCorrect": false,
+          "rationale": "Esta es una inversión incorrecta del flujo lógico de la metodología ABC."
+        },
+        {
+          "text": "Las actividades generan costos y los productos consumen actividades",
+          "isCorrect": true,
+          "rationale": "Esta premisa permite asignar costos con precisión al rastrear qué actividades son necesarias para cada producto."
+        },
+        {
+          "text": "Los gastos fijos son más importantes que los variables",
+          "isCorrect": false,
+          "rationale": "El sistema ABC no prioriza tipos de gastos, sino la relación entre actividades y consumo."
+        },
+        {
+          "text": "La contabilidad tradicional es suficiente para medir la eficiencia",
+          "isCorrect": false,
+          "rationale": "El ABC surge precisamente para superar las limitaciones de precisión de la contabilidad tradicional."
+        }
+      ],
+      "hint": "Se trata de un puente narrativo que explica cómo se originan los gastos a través de la ejecución de tareas."
+    },
+    {
+      "question": "En el sistema ABC, ¿qué diferencia a los inductores de recursos de los inductores de actividades?",
+      "answerOptions": [
+        {
+          "text": "Los de recursos miden la intensidad y los de actividades el volumen",
+          "isCorrect": false,
+          "rationale": "Es al revés; los recursos se vinculan con la capacidad disponible y las actividades con su uso real."
+        },
+        {
+          "text": "Los de recursos se enfocan en el volumen disponible y los de actividades en la intensidad real de uso",
+          "isCorrect": true,
+          "rationale": "Por ejemplo, horas máquina disponibles (recurso) frente a toneladas efectivamente extraídas (actividad)."
+        },
+        {
+          "text": "No existe diferencia, ambos miden lo mismo bajo distintos nombres",
+          "isCorrect": false,
+          "rationale": "El sistema ABC los distingue para identificar cuellos de botella y ociosidad."
+        },
+        {
+          "text": "Los de actividades solo se aplican a gastos administrativos",
+          "isCorrect": false,
+          "rationale": "Se aplican a toda la operación, incluyendo extracción, planta y logística."
+        }
+      ],
+      "hint": "Piensa en la distinción entre 'lo que tenemos disponible' y 'lo que realmente estamos haciendo'."
+    },
+    {
+      "question": "¿Cuál es la función principal del 'Centro de Inversión' dentro de la subdivisión estratégica de costos?",
+      "answerOptions": [
+        {
+          "text": "Vigilar el cumplimiento de estándares técnicos de seguridad",
+          "isCorrect": false,
+          "rationale": "Esa función corresponde generalmente al centro de estudio y cumplimiento."
+        },
+        {
+          "text": "Comparar la producción real contra los presupuestos flexibles",
+          "isCorrect": false,
+          "rationale": "Esta tarea de monitoreo de desviaciones es propia del centro de variación."
+        },
+        {
+          "text": "Evaluar el retorno sobre la inversión y la utilidad marginal de los activos",
+          "isCorrect": true,
+          "rationale": "Busca asegurar que cada activo desplegado genere un beneficio financiero que justifique su existencia."
+        },
+        {
+          "text": "Asumir la responsabilidad del beneficio neto total",
+          "isCorrect": false,
+          "rationale": "Si bien está relacionado, la responsabilidad directa del beneficio frente a costos es del centro de utilidad."
+        }
+      ],
+      "hint": "Su enfoque está en la rentabilidad de los activos y el capital desplegado en el campo."
+    },
+    {
+      "question": "Al analizar los costos indirectos de la empresa 'Los Andes', ¿qué actividad absorbe la mayor parte del capital asignado y bajo qué métrica?",
+      "answerOptions": [
+        {
+          "text": "El transporte, basado en el kilometraje recorrido",
+          "isCorrect": false,
+          "rationale": "Aunque es significativo ($200,000), no es la cifra más alta en el caso de estudio."
+        },
+        {
+          "text": "El procesamiento, basado en el consumo de reactivos químicos",
+          "isCorrect": false,
+          "rationale": "El procesamiento representa $250,000, ocupando el segundo lugar en el desglose indirecto."
+        },
+        {
+          "text": "La extracción, basada en horas máquina de perforación y carga",
+          "isCorrect": true,
+          "rationale": "La extracción absorbe $350,000, siendo la fase dominante en el consumo de recursos indirectos."
+        },
+        {
+          "text": "La administración, basada en gastos de oficina central",
+          "isCorrect": false,
+          "rationale": "El análisis se centra en costos operativos como energía, mantenimiento y supervisión."
+        }
+      ],
+      "hint": "Busca la fase inicial del proceso que consume la mayor proporción de los $800,000 totales."
+    },
+    {
+      "question": "¿Por qué el transporte y el acarreo se consideran los componentes operativos más críticos para el flujo de caja diario?",
+      "answerOptions": [
+        {
+          "text": "Porque son las actividades más fáciles de automatizar",
+          "isCorrect": false,
+          "rationale": "La facilidad de automatización no dicta su peso financiero en el flujo de caja."
+        },
+        {
+          "text": "Porque representan las cargas financieras más pesadas y dictan la rentabilidad diaria",
+          "isCorrect": true,
+          "rationale": "Es en el movimiento constante de tierras donde se gana o se pierde la eficiencia económica operativa."
+        },
+        {
+          "text": "Porque no requieren mantenimiento preventivo",
+          "isCorrect": false,
+          "rationale": "Al contrario, requieren un mantenimiento intensivo y costoso debido al desgaste."
+        },
+        {
+          "text": "Porque el costo del diésel es siempre constante",
+          "isCorrect": false,
+          "rationale": "El diésel es un costo variable altamente volátil."
+        }
+      ],
+      "hint": "Considera qué actividad implica el mayor movimiento físico y gasto de recursos constantes en la mina."
+    },
+    {
+      "question": "¿Qué implica una intervención mecánica de nivel M4 (Overhaul) en la maquinaria pesada?",
+      "answerOptions": [
+        {
+          "text": "Un cambio rutinario de aceite y filtros cada semana",
+          "isCorrect": false,
+          "rationale": "Eso describe un mantenimiento preventivo básico (M1 o M2)."
+        },
+        {
+          "text": "La desarmada y reconstrucción completa del equipo",
+          "isCorrect": true,
+          "rationale": "Es una intervención mayor que cambia por completo la métrica de costo por kilómetro y requiere una gran inversión."
+        },
+        {
+          "text": "Una inspección visual rápida antes de cada turno",
+          "isCorrect": false,
+          "rationale": "Eso es parte del control operativo diario, no un overhaul."
+        },
+        {
+          "text": "El reemplazo exclusivo de los neumáticos",
+          "isCorrect": false,
+          "rationale": "Aunque es un costo variable, el M4 abarca todos los sistemas críticos del motor y estructura."
+        }
+      ],
+      "hint": "Se trata del mantenimiento más profundo y costoso que puede recibir un equipo minero."
+    },
+    {
+      "question": "¿Qué representa el multiplicador geográfico de $2.9$ en el contexto de la eficiencia operativa?",
+      "answerOptions": [
+        {
+          "text": "Que la producción en la sierra es $2.9$ veces más rápida",
+          "isCorrect": false,
+          "rationale": "La geografía de altura generalmente ralentiza los procesos debido a la dificultad del terreno."
+        },
+        {
+          "text": "Que los costos operativos en la sierra son hasta $2.9$ veces más altos que en la costa",
+          "isCorrect": true,
+          "rationale": "Esto se debe a pendientes duras, falta de oxígeno para motores y rutas sin afirmar que destrozan llantas."
+        },
+        {
+          "text": "Que el precio del metal aumenta $2.9$ veces si se extrae en altura",
+          "isCorrect": false,
+          "rationale": "El precio del metal es independiente del lugar de extracción."
+        },
+        {
+          "text": "Que la flota de camiones debe ser $2.9$ veces más grande",
+          "isCorrect": false,
+          "rationale": "El coeficiente refiere al costo operativo, no necesariamente a la cantidad de unidades."
+        }
+      ],
+      "hint": "Refleja cómo el entorno físico (pendientes, oxígeno, terreno) castiga financieramente la operación."
+    },
+    {
+      "question": "En la optimización financiera, ¿cuál es el propósito primordial de aplicar una estrategia de Hedging?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la ley del mineral mediante procesos químicos",
+          "isCorrect": false,
+          "rationale": "El hedging es una herramienta financiera, no un proceso metalúrgico."
+        },
+        {
+          "text": "Blindar a la empresa contra la volatilidad de precios usando contratos de futuros",
+          "isCorrect": true,
+          "rationale": "Permite asegurar ingresos proyectados incluso si los precios de los metales caen drásticamente."
+        },
+        {
+          "text": "Reducir el consumo de diésel en los camiones de acarreo",
+          "isCorrect": false,
+          "rationale": "La reducción de combustible se logra mediante eficiencia operativa, no mediante hedging."
+        },
+        {
+          "text": "Evitar el mantenimiento predictivo de la flota",
+          "isCorrect": false,
+          "rationale": "El hedging y el mantenimiento son estrategias complementarias, no excluyentes."
+        }
+      ],
+      "hint": "Se trata de un escudo financiero que se utiliza para estabilizar los ingresos frente a mercados inciertos."
+    },
+    {
+      "question": "Al utilizar la herramienta 'Buscar Objetivo' en un análisis de sensibilidad, ¿qué se intenta determinar?",
+      "answerOptions": [
+        {
+          "text": "La cantidad de empleados necesarios para la planta",
+          "isCorrect": false,
+          "rationale": "Esta es una decisión de recursos humanos, no un cálculo de punto de quiebre financiero."
+        },
+        {
+          "text": "El escenario donde el VAN es máximo",
+          "isCorrect": false,
+          "rationale": "Buscar objetivo suele usarse para encontrar límites críticos, como el punto donde el valor se vuelve cero."
+        },
+        {
+          "text": "La inversión inicial máxima que el proyecto soporta antes de que el VAN sea cero",
+          "isCorrect": true,
+          "rationale": "Identifica el punto de quiebre absoluto donde el proyecto deja de crear valor y empieza a destruirlo."
+        },
+        {
+          "text": "El historial de precios de los últimos diez años",
+          "isCorrect": false,
+          "rationale": "Buscar objetivo proyecta valores futuros basados en una meta, no analiza el pasado."
+        }
+      ],
+      "hint": "Piensa en encontrar el límite exacto de inversión que hace que el proyecto sea apenas viable."
+    },
+    {
+      "question": "¿Qué permite visualizar la herramienta 'Administrador de Escenarios' en la gestión de riesgos mineros?",
+      "answerOptions": [
+        {
+          "text": "El diseño detallado de la mina en 3D",
+          "isCorrect": false,
+          "rationale": "Es una herramienta de modelado financiero, no de diseño de ingeniería."
+        },
+        {
+          "text": "Contrastar realidades opuestas, como un escenario de auge frente a uno de crisis económica",
+          "isCorrect": true,
+          "rationale": "Muestra cómo variables como el WACC o el riesgo país pueden transformar un VAN positivo en uno negativo."
+        },
+        {
+          "text": "La ubicación exacta de los sensores de mantenimiento",
+          "isCorrect": false,
+          "rationale": "El administrador de escenarios maneja variables financieras agregadas, no datos de sensores."
+        },
+        {
+          "text": "La velocidad promedio de los scoops en tiempo real",
+          "isCorrect": false,
+          "rationale": "Esto corresponde a sistemas de telemetría, no a simulación financiera."
+        }
+      ],
+      "hint": "Su función es crear 'futuros paralelos' para ver cómo resiste el proyecto ante cambios drásticos del entorno."
+    },
+    {
+      "question": "¿Cuál es la utilidad específica de las 'Tablas de Datos' en una simulación de supervivencia financiera?",
+      "answerOptions": [
+        {
+          "text": "Registrar la asistencia diaria del personal",
+          "isCorrect": false,
+          "rationale": "Las tablas de datos en Excel para finanzas tienen un propósito analítico, no de control de personal."
+        },
+        {
+          "text": "Cruzar dos variables críticas simultáneamente para ver su impacto en el VAN",
+          "isCorrect": true,
+          "rationale": "Permite someter a estrés el proyecto combinando, por ejemplo, caída de precios y baja producción a la vez."
+        },
+        {
+          "text": "Listar todos los proveedores de la empresa",
+          "isCorrect": false,
+          "rationale": "Se trata de una herramienta de análisis de sensibilidad, no de una base de datos logística."
+        },
+        {
+          "text": "Calcular la depreciación línea recta de los activos",
+          "isCorrect": false,
+          "rationale": "Aunque puede usarse para ello, su valor estratégico reside en la matriz de combinaciones de riesgo."
+        }
+      ],
+      "hint": "Imagina una cuadrícula que te muestra qué pasa si dos desastres ocurren al mismo tiempo."
+    },
+    {
+      "question": "En el análisis de 'Los Andes', el proyecto presenta un VAN de $14,000,000$ y una TIR del $31\\%$. ¿Cuál es la interpretación estratégica de estos datos?",
+      "answerOptions": [
+        {
+          "text": "Que el proyecto es altamente riesgoso y debe cancelarse",
+          "isCorrect": false,
+          "rationale": "Un VAN positivo y una TIR del $31\\%$ suelen indicar un proyecto financieramente muy sólido."
+        },
+        {
+          "text": "Que el proyecto es sumamente sano pero debe someterse a pruebas de estrés",
+          "isCorrect": true,
+          "rationale": "Aunque los números son brillantes, el administrador estratégico debe verificar si soportan golpes de la realidad."
+        },
+        {
+          "text": "Que la inversión se recuperará en veinte años",
+          "isCorrect": false,
+          "rationale": "El caso menciona que la inversión se recupera en apenas 3 años."
+        },
+        {
+          "text": "Que no se requieren más controles de costos operativos",
+          "isCorrect": false,
+          "rationale": "El éxito financiero actual no elimina la necesidad de vigilancia constante."
+        }
+      ],
+      "hint": "Considera que un buen resultado en el papel es solo el punto de partida para el análisis de riesgos."
+    },
+    {
+      "question": "¿Por qué el mantenimiento preventivo y la seguridad minera deben considerarse inversiones y no simples gastos?",
+      "answerOptions": [
+        {
+          "text": "Porque permiten deducir más impuestos",
+          "isCorrect": false,
+          "rationale": "Aunque tiene efectos fiscales, su valor principal es operativo y de protección de activos."
+        },
+        {
+          "text": "Porque son obligatorios por ley en todos los países",
+          "isCorrect": false,
+          "rationale": "La obligatoriedad no define si contablemente es una inversión estratégica o un gasto."
+        },
+        {
+          "text": "Porque actúan como escudos que previenen paralizaciones imprevistas y sobrecostos catastróficos",
+          "isCorrect": true,
+          "rationale": "Evitan fallas que podrían destruir el flujo de caja, garantizando la rentabilidad a largo plazo."
+        },
+        {
+          "text": "Porque aumentan el valor de reventa de la chatarra",
+          "isCorrect": false,
+          "rationale": "El objetivo es la continuidad operativa y la vida útil del equipo, no el valor de desecho."
+        }
+      ],
+      "hint": "Piensa en el costo de oportunidad: ¿qué es más caro, mantener una máquina o que se detenga la producción por una falla?"
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de sincronizar el ciclo mecánico de trabajo de un scoop (carga, viaje, maniobra, descarga, retorno)?",
+      "answerOptions": [
+        {
+          "text": "Reducir el número de operadores necesarios",
+          "isCorrect": false,
+          "rationale": "La sincronización busca eficiencia de la máquina, no necesariamente reducción de personal."
+        },
+        {
+          "text": "Maximizar el tonelaje por hora eliminando los tiempos muertos",
+          "isCorrect": true,
+          "rationale": "Cada minuto que la máquina está parada representa dinero que se evapora del flujo de caja."
+        },
+        {
+          "text": "Aumentar el desgaste de los neumáticos",
+          "isCorrect": false,
+          "rationale": "Al contrario, una operación sincronizada y fluida tiende a optimizar la vida útil de los componentes."
+        },
+        {
+          "text": "Hacer que el viaje vacío sea más largo que el cargado",
+          "isCorrect": false,
+          "rationale": "Esto sería una ineficiencia logística grave."
+        }
+      ],
+      "hint": "Considera que el tiempo en minería es directamente proporcional a la rentabilidad del día a día."
+    },
+    {
+      "question": "En la gestión moderna, ¿qué permite identificar rápidamente el sistema de costeo ABC?",
+      "answerOptions": [
+        {
+          "text": "La ubicación de nuevas reservas minerales",
+          "isCorrect": false,
+          "rationale": "La exploración geológica identifica reservas; el ABC identifica ineficiencias en el gasto."
+        },
+        {
+          "text": "Las áreas cuello de botella y las actividades que no agregan valor",
+          "isCorrect": true,
+          "rationale": "Al mapear el consumo exacto de recursos, permite eliminar procesos innecesarios."
+        },
+        {
+          "text": "El precio futuro del cobre para el próximo año",
+          "isCorrect": false,
+          "rationale": "El ABC analiza costos internos, no predice precios de mercado externos."
+        },
+        {
+          "text": "La composición química exacta de la roca",
+          "isCorrect": false,
+          "rationale": "Eso es tarea del laboratorio metalúrgico, no del sistema de costeo."
+        }
+      ],
+      "hint": "Enfócate en la optimización de procesos y la eliminación de desperdicios operativos."
+    },
+    {
+      "question": "¿Cuál es la 'gran dualidad' que debe vigilarse constantemente para no hundir un proyecto minero?",
+      "answerOptions": [
+        {
+          "text": "La cantidad de agua frente a la cantidad de energía",
+          "isCorrect": false,
+          "rationale": "Aunque son recursos críticos, no definen la dualidad de gestión presupuestal mencionada."
+        },
+        {
+          "text": "Los factores internos controlables versus los factores externos incontrolables",
+          "isCorrect": true,
+          "rationale": "El equilibrio entre lo que la gerencia domina y cómo reacciona ante lo que no puede controlar es la clave de la supervivencia."
+        },
+        {
+          "text": "El número de camiones versus el número de palas",
+          "isCorrect": false,
+          "rationale": "Esto es un balance de flota, no la dualidad estratégica fundamental del presupuesto."
+        },
+        {
+          "text": "La producción diaria versus la producción anual",
+          "isCorrect": false,
+          "rationale": "Ambas son métricas internas y no representan fuerzas contrapuestas de control."
+        }
+      ],
+      "hint": "Se refiere a la lucha entre lo que la empresa puede decidir y las fuerzas del mercado o la economía global."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Control Presupuestal en Minería",
+      "Estructura de Costos y Valoración de Minerales",
+      "Metodología de Costeo Basado en Actividades (ABC)",
+      "Eficiencia Operativa en Extracción y Acarreo",
+      "Optimización Financiera y Análisis de Sensibilidad"
+    ],
+    "followUp": [
+      "Gestión de Mantenimiento Predictivo y Overhaul",
+      "Estrategias de Hedging y Cobertura de Precios",
+      "Simulación de Escenarios Económicos y Riesgo País",
+      "Impacto Geográfico en Costos Logísticos",
+      "Cálculo de Rentabilidad y Valor Actual Neto (VAN)"
+    ]
+  }
+}

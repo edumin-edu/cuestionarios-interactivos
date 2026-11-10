@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre la mec\u00e1nica de rocas y la geomec\u00e1nica?",
+      "answerOptions": [
+        {
+          "text": "La mec\u00e1nica de rocas es netamente te\u00f3rica mientras que la geomec\u00e1nica aplica esos principios en el dise\u00f1o de minas.",
+          "isCorrect": true,
+          "rationale": "La mec\u00e1nica de rocas se centra en el estudio te\u00f3rico del comportamiento de los macizos, mientras que la geomec\u00e1nica traslada esa teor\u00eda a la pr\u00e1ctica operativa para la seguridad y estabilidad."
+        },
+        {
+          "text": "La geomec\u00e1nica se enfoca solo en la superficie y la mec\u00e1nica de rocas en excavaciones subterr\u00e1neas.",
+          "isCorrect": false,
+          "rationale": "Ambas disciplinas se aplican tanto en entornos superficiales como subterr\u00e1neos, no se dividen por la ubicaci\u00f3n de la obra."
+        },
+        {
+          "text": "La mec\u00e1nica de rocas estudia el suelo y la geomec\u00e1nica estudia exclusivamente los minerales preciosos.",
+          "isCorrect": false,
+          "rationale": "La geomec\u00e1nica estudia el comportamiento estructural del macizo rocoso para la seguridad, no se limita a la b\u00fasqueda de minerales."
+        },
+        {
+          "text": "No existe diferencia t\u00e9cnica, son t\u00e9rminos intercambiables usados por diferentes departamentos.",
+          "isCorrect": false,
+          "rationale": "El texto establece una distinci\u00f3n clara basada en la aplicaci\u00f3n pr\u00e1ctica frente al estudio te\u00f3rico puro."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre el estudio te\u00f3rico puro y la aplicaci\u00f3n de ingenier\u00eda en el terreno."
+    },
+    {
+      "question": "\u00bfCu\u00e1les de los siguientes son ejemplos de rocas metam\u00f3rficas mencionadas en el proceso de caracterizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Andesita y basalto.",
+          "isCorrect": false,
+          "rationale": "Estos son ejemplos de rocas \u00edgneas o volc\u00e1nicas, no metam\u00f3rficas."
+        },
+        {
+          "text": "M\u00e1rmol y cuarcita.",
+          "isCorrect": true,
+          "rationale": "El m\u00e1rmol y la cuarcita se originan a partir de rocas previas sometidas a altas presiones y temperaturas, clasific\u00e1ndose como metam\u00f3rficas."
+        },
+        {
+          "text": "Caliza y arenisca.",
+          "isCorrect": false,
+          "rationale": "Estas rocas se forman por acumulaci\u00f3n de material, lo que las clasifica como sedimentarias."
+        },
+        {
+          "text": "Conglomerados y granito.",
+          "isCorrect": false,
+          "rationale": "El conglomerado es sedimentario y el granito es \u00edgneo, no cumplen con la clasificaci\u00f3n metam\u00f3rfica solicitada."
+        }
+      ],
+      "hint": "Piense en rocas que resultan de la transformaci\u00f3n de otras bajo condiciones extremas de calor y presi\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica define al macizo rocoso en comparaci\u00f3n con la roca intacta?",
+      "answerOptions": [
+        {
+          "text": "Es un medio is\u00f3tropo y homog\u00e9neo ideal para pruebas de laboratorio.",
+          "isCorrect": false,
+          "rationale": "Estas son caracter\u00edsticas de la roca intacta (bloque de muestra perfecto), no del macizo real."
+        },
+        {
+          "text": "Es un bloque de muestra perfecto sin fisuras visibles ni planos de debilidad.",
+          "isCorrect": false,
+          "rationale": "La ausencia de fisuras es propia de la roca intacta estudiada te\u00f3ricamente."
+        },
+        {
+          "text": "Es un medio intr\u00ednsecamente anisotr\u00f3pico, heterog\u00e9neo y discontinuo.",
+          "isCorrect": true,
+          "rationale": "El macizo rocoso es la realidad del terreno que incluye bloques de roca atravesados por m\u00faltiples planos de debilidad."
+        },
+        {
+          "text": "Es una roca que no presenta variaciones en sus propiedades mec\u00e1nicas independientemente de la direcci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esto describir\u00eda un material isotr\u00f3pico, lo cual es opuesto a la naturaleza discontinua del macizo rocoso."
+        }
+      ],
+      "hint": "Reflexione sobre la diferencia entre una muestra de laboratorio perfecta y la realidad geol\u00f3gica del terreno a excavar."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del m\u00f3dulo de Young ($E$) en los c\u00e1lculos de ingenier\u00eda de rocas?",
+      "answerOptions": [
+        {
+          "text": "Determinar la expansi\u00f3n lateral de un bloque bajo carga vertical.",
+          "isCorrect": false,
+          "rationale": "La expansi\u00f3n lateral es definida por la relaci\u00f3n de Poisson, no por el m\u00f3dulo de Young."
+        },
+        {
+          "text": "Definir la rigidez de la roca para calcular cu\u00e1nto se deformar\u00e1 bajo una carga espec\u00edfica.",
+          "isCorrect": true,
+          "rationale": "El m\u00f3dulo de Young es la constante el\u00e1stica que mide la rigidez y permite predecir la deformaci\u00f3n del material."
+        },
+        {
+          "text": "Calcular la cantidad de agua presente en las discontinuidades del macizo.",
+          "isCorrect": false,
+          "rationale": "El contenido de agua es un par\u00e1metro hidrogeol\u00f3gico, no una constante el\u00e1stica de rigidez."
+        },
+        {
+          "text": "Medir el \u00e1ngulo de ca\u00edda de un bloque en una falla inversa.",
+          "isCorrect": false,
+          "rationale": "Los \u00e1ngulos de falla son par\u00e1metros geom\u00e9tricos estructurales, no propiedades el\u00e1sticas intr\u00ednsecas del material."
+        }
+      ],
+      "hint": "Piense en la propiedad que relaciona la fuerza aplicada con la deformaci\u00f3n el\u00e1stica del material."
+    },
+    {
+      "question": "En el dise\u00f1o de labores mineras, \u00bfcu\u00e1l es el factor de seguridad ($FS$) m\u00ednimo exigido para labores permanentes?",
+      "answerOptions": [
+        {
+          "text": "$1.0$",
+          "isCorrect": false,
+          "rationale": "Un factor de $1.0$ representa un equilibrio cr\u00edtico sin margen de seguridad, insuficiente para labores permanentes."
+        },
+        {
+          "text": "$1.2$",
+          "isCorrect": false,
+          "rationale": "$1.2$ es el est\u00e1ndar aceptado para labores temporales, no para las permanentes."
+        },
+        {
+          "text": "$1.5$",
+          "isCorrect": true,
+          "rationale": "El est\u00e1ndar de ingenier\u00eda exige un factor de seguridad de al menos $1.5$ para garantizar la estabilidad a largo plazo en labores permanentes."
+        },
+        {
+          "text": "$2.0$",
+          "isCorrect": false,
+          "rationale": "Aunque es m\u00e1s seguro, $1.5$ es el requisito m\u00ednimo establecido por la norma mencionada."
+        }
+      ],
+      "hint": "Recuerde que las labores de larga duraci\u00f3n requieren un margen de seguridad mayor que las temporales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tipo de falla geol\u00f3gica se produce por tensi\u00f3n horizontal y presenta t\u00edpicamente un \u00e1ngulo de ca\u00edda del bloque de $60^{\\circ}$?",
+      "answerOptions": [
+        {
+          "text": "Falla inversa.",
+          "isCorrect": false,
+          "rationale": "Las fallas inversas se producen por compresi\u00f3n y suelen tener \u00e1ngulos menores, alrededor de $30^{\\circ}$."
+        },
+        {
+          "text": "Falla de desgarre (strike-slip).",
+          "isCorrect": false,
+          "rationale": "En estas fallas el movimiento es puramente horizontal y el \u00e1ngulo es variable."
+        },
+        {
+          "text": "Falla normal.",
+          "isCorrect": true,
+          "rationale": "Las fallas normales resultan de fuerzas tensionales y el bloque cae siguiendo un \u00e1ngulo t\u00edpico de $60^{\\circ}$."
+        },
+        {
+          "text": "Falla de cabalgamiento.",
+          "isCorrect": false,
+          "rationale": "Este t\u00e9rmino suele asociarse a fallas inversas de bajo \u00e1ngulo, no a fallas por tensi\u00f3n."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre la tensi\u00f3n horizontal y el \u00e1ngulo de buzamiento m\u00e1s pronunciado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 par\u00e1metros son innegociables medir en el campo para modelar la estabilidad mediante br\u00fajula y ecl\u00edmetro?",
+      "answerOptions": [
+        {
+          "text": "Dureza de Mohs y color de la veta.",
+          "isCorrect": false,
+          "rationale": "Estas son propiedades mineral\u00f3gicas, no estructurales para el modelamiento de estabilidad."
+        },
+        {
+          "text": "Buzamiento (dip) y direcci\u00f3n de buzamiento (dip direction).",
+          "isCorrect": true,
+          "rationale": "Estas mediciones geom\u00e9tricas de las discontinuidades son esenciales para cualquier software de modelamiento de estabilidad."
+        },
+        {
+          "text": "Porosidad efectiva y permeabilidad.",
+          "isCorrect": false,
+          "rationale": "Aunque importantes para la hidrogeolog\u00eda, no son los datos primarios de orientaci\u00f3n estructural."
+        },
+        {
+          "text": "Resistencia a la compresi\u00f3n simple y densidad.",
+          "isCorrect": false,
+          "rationale": "Estos datos suelen provenir de ensayos de laboratorio, no del mapeo estructural directo con br\u00fajula."
+        }
+      ],
+      "hint": "Piense en las dos medidas espaciales necesarias para definir la orientaci\u00f3n de un plano en el espacio."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 los espejos de falla o 'slicken sides' se consideran trampas ocultas en la miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Porque contienen altas concentraciones de gases explosivos.",
+          "isCorrect": false,
+          "rationale": "Su riesgo no es qu\u00edmico o inflamable, sino estructural por la baja fricci\u00f3n."
+        },
+        {
+          "text": "Porque son superficies tan duras que rompen las brocas de perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El problema no es la dureza del material, sino su inestabilidad."
+        },
+        {
+          "text": "Porque esconden cu\u00f1as inestables que pueden colapsar inesperadamente tras una voladura.",
+          "isCorrect": true,
+          "rationale": "Son superficies de fricci\u00f3n pulidas que facilitan el deslizamiento de bloques de roca que no se detectan a simple vista."
+        },
+        {
+          "text": "Porque indican la presencia de agua a alta presi\u00f3n de forma inmediata.",
+          "isCorrect": false,
+          "rationale": "Aunque el agua empeora la situaci\u00f3n, el riesgo intr\u00ednseco del espejo de falla es la falta de cohesi\u00f3n mec\u00e1nica."
+        }
+      ],
+      "hint": "Reflexione sobre el efecto que tiene una superficie muy pulida y lisa en la estabilidad de un bloque de roca."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fen\u00f3meno puede ocurrir en minas profundas (m\u00e1s de 500-800 m) debido al craquelado masivo por esfuerzos in situ?",
+      "answerOptions": [
+        {
+          "text": "Licuaci\u00f3n de suelos.",
+          "isCorrect": false,
+          "rationale": "La licuaci\u00f3n es t\u00edpica de suelos granulares saturados, no de rocas profundas sometidas a alta presi\u00f3n."
+        },
+        {
+          "text": "Estallidos de roca.",
+          "isCorrect": true,
+          "rationale": "Los estallidos de roca son eventos s\u00edsmicos inducidos por la liberaci\u00f3n violenta de energ\u00eda acumulada en el macizo a grandes profundidades."
+        },
+        {
+          "text": "Inundaciones por acu\u00edferos colgados.",
+          "isCorrect": false,
+          "rationale": "Si bien el agua es un riesgo, el texto destaca el da\u00f1o estructural por presi\u00f3n como el fen\u00f3meno cr\u00edtico a esas profundidades."
+        },
+        {
+          "text": "Estratificaci\u00f3n inversa de sedimentos.",
+          "isCorrect": false,
+          "rationale": "Este es un proceso geol\u00f3gico formativo, no un evento geodin\u00e1mico interno provocado por la excavaci\u00f3n."
+        }
+      ],
+      "hint": "Considere las consecuencias de la liberaci\u00f3n repentina de energ\u00eda acumulada por el peso de la monta\u00f1a."
+    },
+    {
+      "question": "En el ciclo minero ABC, \u00bfcu\u00e1l es el prop\u00f3sito fundamental del regado o lavado de la labor?",
+      "answerOptions": [
+        {
+          "text": "Humectar el mineral para facilitar su transporte en fajas.",
+          "isCorrect": false,
+          "rationale": "El transporte no es el objetivo de seguridad primordial del regado en el frente de trabajo."
+        },
+        {
+          "text": "Identificar tiros cortados y visualizar fracturas cr\u00edticas del terreno.",
+          "isCorrect": true,
+          "rationale": "El lavado limpia las superficies para detectar explosivos no detonados y permite una inspecci\u00f3n visual clara de las fisuras."
+        },
+        {
+          "text": "Diluir los gases nocivos de la voladura de forma qu\u00edmica.",
+          "isCorrect": false,
+          "rationale": "La evacuaci\u00f3n de gases es funci\u00f3n de la ventilaci\u00f3n, no del regado."
+        },
+        {
+          "text": "Aumentar la resistencia del macizo mediante la hidrataci\u00f3n de las arcillas.",
+          "isCorrect": false,
+          "rationale": "Hidratar arcillas suele reducir la resistencia en lugar de aumentarla."
+        }
+      ],
+      "hint": "Considere c\u00f3mo la limpieza de la superficie ayuda a ver peligros que antes estaban cubiertos por polvo y detritos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la regla de oro durante el procedimiento de desatado de rocas (scaling)?",
+      "answerOptions": [
+        {
+          "text": "Debe realizarse lo m\u00e1s r\u00e1pido posible para no retrasar la limpieza.",
+          "isCorrect": false,
+          "rationale": "La rapidez no debe comprometer la seguridad ni el cumplimiento de los protocolos."
+        },
+        {
+          "text": "El trabajador debe ubicarse siempre debajo de la roca que intenta remover para ganar palanca.",
+          "isCorrect": false,
+          "rationale": "Ubicarse debajo es extremadamente peligroso y contraviene las normas de seguridad geom\u00e9trica."
+        },
+        {
+          "text": "El trabajo jam\u00e1s se hace en solitario; requiere un desatador y un observador.",
+          "isCorrect": true,
+          "rationale": "La presencia del observador es vital para vigilar el entorno mientras el desatador se concentra en la roca suelta."
+        },
+        {
+          "text": "Solo se debe desatar en \u00e1reas donde el sonido sea met\u00e1lico.",
+          "isCorrect": false,
+          "rationale": "El sonido met\u00e1lico indica roca firme; el desatado se realiza precisamente donde el sonido es hueco."
+        }
+      ],
+      "hint": "Piense en la necesidad de tener un par de ojos adicionales enfocados exclusivamente en la seguridad del entorno."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es cr\u00edtico que el operador mantenga un \u00e1ngulo de $45^{\\circ}$ respecto al punto de desate?",
+      "answerOptions": [
+        {
+          "text": "Para maximizar la fuerza de impacto de la barretilla.",
+          "isCorrect": false,
+          "rationale": "El \u00e1ngulo busca la seguridad del personal, no la eficiencia de la fuerza mec\u00e1nica de la herramienta."
+        },
+        {
+          "text": "Para evitar que la trayectoria de ca\u00edda libre de la roca se cruce con la ubicaci\u00f3n del trabajador.",
+          "isCorrect": true,
+          "rationale": "Este posicionamiento matem\u00e1tico asegura que si la roca cae por gravedad, no impactar\u00e1 al operador."
+        },
+        {
+          "text": "Para cumplir con los est\u00e1ndares de ergonom\u00eda de la barretilla.",
+          "isCorrect": false,
+          "rationale": "Aunque es ergon\u00f3mico, la raz\u00f3n vital es la prevenci\u00f3n de accidentes por ca\u00edda directa de bloques."
+        },
+        {
+          "text": "Para permitir que el observador tenga una mejor vista del techo.",
+          "isCorrect": false,
+          "rationale": "La visibilidad es importante, pero el \u00e1ngulo est\u00e1 definido por la trayectoria de ca\u00edda del material."
+        }
+      ],
+      "hint": "Considere la trayectoria que sigue un objeto que cae debido a la gravedad."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diagn\u00f3stico de estabilidad ofrece el 'sonido de bombo' durante la percusi\u00f3n del macizo?",
+      "answerOptions": [
+        {
+          "text": "Confirma que la roca est\u00e1 intacta y bien adherida.",
+          "isCorrect": false,
+          "rationale": "El sonido met\u00e1lico o n\u00edtido es el que confirma la adherencia."
+        },
+        {
+          "text": "Indica la presencia de roca suelta o una falsa caja a punto de colapsar.",
+          "isCorrect": true,
+          "rationale": "El sonido hueco o de bombo es la advertencia ac\u00fastica de que existe un fragmento despegado del macizo principal."
+        },
+        {
+          "text": "Sugiere que el macizo tiene una alta resistencia a la compresi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Un sonido hueco indica debilidad estructural inmediata, no alta resistencia."
+        },
+        {
+          "text": "Es la se\u00f1al de que se ha alcanzado una zona de roca masiva sin fracturas.",
+          "isCorrect": false,
+          "rationale": "La roca masiva producir\u00eda un sonido seco y firme, no un eco hueco."
+        }
+      ],
+      "hint": "Piense en la diferencia ac\u00fastica entre golpear una pared s\u00f3lida y una que tiene un vac\u00edo detr\u00e1s."
+    },
+    {
+      "question": "Al calcular el RQD (Rock Quality Designation), \u00bfqu\u00e9 requisito deben cumplir los trozos de testigo para ser contabilizados?",
+      "answerOptions": [
+        {
+          "text": "Deben tener una longitud m\u00ednima de $5\\text{ cm}$.",
+          "isCorrect": false,
+          "rationale": "El est\u00e1ndar para RQD requiere una longitud mayor para asegurar que la roca es suficientemente competente."
+        },
+        {
+          "text": "Deben presentar superficies rugosas y secas.",
+          "isCorrect": false,
+          "rationale": "La rugosidad es un par\u00e1metro del RMR o GSI, pero el RQD se basa \u00fanicamente en la longitud de los fragmentos."
+        },
+        {
+          "text": "Deben superar los $10\\text{ cm}$ de longitud.",
+          "isCorrect": true,
+          "rationale": "El RQD solo suma la longitud de aquellos fragmentos de n\u00facleo recuperado que miden $10\\text{ cm}$ o m\u00e1s."
+        },
+        {
+          "text": "Deben ser de origen sedimentario exclusivamente.",
+          "isCorrect": false,
+          "rationale": "El RQD se aplica a cualquier tipo de roca litol\u00f3gica para medir su grado de fracturamiento."
+        }
+      ],
+      "hint": "Existe una medida longitudinal espec\u00edfica que separa los fragmentos significativos de los meros escombros de perforaci\u00f3n."
+    },
+    {
+      "question": "En el sistema RMR de Bieniawski, \u00bfcu\u00e1ntos puntos se pueden restar si la orientaci\u00f3n de las discontinuidades es desfavorable?",
+      "answerOptions": [
+        {
+          "text": "Hasta $5$ puntos.",
+          "isCorrect": false,
+          "rationale": "El ajuste por orientaci\u00f3n desfavorable es m\u00e1s severo que solo 5 puntos."
+        },
+        {
+          "text": "Hasta $12$ puntos.",
+          "isCorrect": true,
+          "rationale": "Una orientaci\u00f3n desfavorable de las estructuras respecto a la excavaci\u00f3n exige una penalidad de hasta 12 puntos en el c\u00e1lculo final del RMR."
+        },
+        {
+          "text": "No se restan puntos, se suma un factor de correcci\u00f3n de $1.2$.",
+          "isCorrect": false,
+          "rationale": "El sistema funciona restando puntos para reflejar el aumento del riesgo."
+        },
+        {
+          "text": "Se restan $20$ puntos de forma est\u00e1ndar.",
+          "isCorrect": false,
+          "rationale": "Aunque es una penalidad fuerte, el valor m\u00e1ximo de ajuste mencionado es de 12 puntos."
+        }
+      ],
+      "hint": "Piense en la magnitud de la penalizaci\u00f3n que obliga a redise\u00f1ar la densidad del soporte."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ejes fundamentales se cruzan en la tabla GSI (\u00cdndice de Resistencia Geol\u00f3gica) para evaluar el macizo?",
+      "answerOptions": [
+        {
+          "text": "Presi\u00f3n hidrost\u00e1tica y profundidad de la labor.",
+          "isCorrect": false,
+          "rationale": "Estos son factores ambientales, no los par\u00e1metros de entrada de la matriz GSI."
+        },
+        {
+          "text": "Condici\u00f3n estructural y condici\u00f3n superficial de las discontinuidades.",
+          "isCorrect": true,
+          "rationale": "El GSI eval\u00faa visualmente el grado de fracturamiento (estructura) frente a la calidad de las paredes de las fracturas (superficie)."
+        },
+        {
+          "text": "Tipo de explosivo usado y factor de carga.",
+          "isCorrect": false,
+          "rationale": "Estos son par\u00e1metros operativos de voladura, ajenos a la clasificaci\u00f3n geomec\u00e1nica intr\u00ednseca del GSI."
+        },
+        {
+          "text": "Costo del soporte y tiempo de instalaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El GSI es una herramienta t\u00e9cnica de resistencia, no de gesti\u00f3n econ\u00f3mica de proyectos."
+        }
+      ],
+      "hint": "Recuerde que el GSI analiza la fragmentaci\u00f3n del bloque y la rugosidad o relleno de sus juntas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal del sostenimiento activo, como los pernos Splitset o Swellex?",
+      "answerOptions": [
+        {
+          "text": "Esperan a que la monta\u00f1a se deforme para empezar a trabajar.",
+          "isCorrect": false,
+          "rationale": "Esta es la filosof\u00eda del sostenimiento pasivo, no del activo."
+        },
+        {
+          "text": "Se instalan solo en labores temporales de menos de un mes.",
+          "isCorrect": false,
+          "rationale": "Los pernos activos pueden usarse tanto en labores temporales como permanentes seg\u00fan el dise\u00f1o."
+        },
+        {
+          "text": "Aplican una carga interna inmediata que obliga a la roca a autosoportarse.",
+          "isCorrect": true,
+          "rationale": "El sostenimiento activo interact\u00faa con el macizo desde el momento de su instalaci\u00f3n, comprimiendo las fracturas."
+        },
+        {
+          "text": "Son elementos externos como mallas y cuadros de madera.",
+          "isCorrect": false,
+          "rationale": "Mallas y maderas son ejemplos cl\u00e1sicos de sostenimiento pasivo."
+        }
+      ],
+      "hint": "Piense en la diferencia entre un elemento que 'reacciona' y uno que 'interact\u00faa' inmediatamente con la presi\u00f3n interna."
+    },
+    {
+      "question": "En el sostenimiento pasivo con cuadros de madera, \u00bfcu\u00e1l es el di\u00e1metro m\u00ednimo requerido para los sombreros (caps)?",
+      "answerOptions": [
+        {
+          "text": "$5$ pulgadas.",
+          "isCorrect": false,
+          "rationale": "Este di\u00e1metro es insuficiente para garantizar la resistencia necesaria en la corona de una chimenea est\u00e1ndar."
+        },
+        {
+          "text": "$7$ pulgadas.",
+          "isCorrect": false,
+          "rationale": "$7$ pulgadas es el est\u00e1ndar para los postes verticales, no para los sombreros."
+        },
+        {
+          "text": "$8$ pulgadas.",
+          "isCorrect": true,
+          "rationale": "Los sombreros o caps deben tener un di\u00e1metro m\u00ednimo de $8$ pulgadas para soportar las presiones superiores en la corona."
+        },
+        {
+          "text": "$10$ pulgadas.",
+          "isCorrect": false,
+          "rationale": "Aunque ser\u00eda m\u00e1s resistente, el est\u00e1ndar param\u00e9trico m\u00ednimo mencionado es de 8 pulgadas."
+        }
+      ],
+      "hint": "Recuerde que el elemento superior de la estructura de madera suele requerir el mayor grosor para resistir la carga de la corona."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el rango de longitud estandarizado para la espiga o ten\u00f3n en las articulaciones de chimeneas de madera?",
+      "answerOptions": [
+        {
+          "text": "$1$ a $3\\text{ cm}$.",
+          "isCorrect": false,
+          "rationale": "Una espiga tan corta no proporcionar\u00eda la estabilidad estructural necesaria para la uni\u00f3n de los elementos."
+        },
+        {
+          "text": "$5$ a $10\\text{ cm}$.",
+          "isCorrect": true,
+          "rationale": "La espiga debe tallarse estrictamente entre $5$ y $10\\text{ cm}$ para garantizar una articulaci\u00f3n vital y resistente."
+        },
+        {
+          "text": "$15$ a $20\\text{ cm}$.",
+          "isCorrect": false,
+          "rationale": "Una longitud excesiva podr\u00eda debilitar la integridad de los postes o sombreros donde se inserta."
+        },
+        {
+          "text": "$2$ a $4$ pulgadas.",
+          "isCorrect": false,
+          "rationale": "Aunque cercano, el est\u00e1ndar mencionado en el texto utiliza cent\u00edmetros para esta medida espec\u00edfica ($5$ a $10\\text{ cm}$)."
+        }
+      ],
+      "hint": "Considere la medida precisa necesaria para que la articulaci\u00f3n del conjunto de madera soporte presiones formidables."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal recomendaci\u00f3n operativa al encontrar rocas d\u00e9biles o tras vibraciones por voladura?",
+      "answerOptions": [
+        {
+          "text": "Aumentar inmediatamente la ventilaci\u00f3n en el frente.",
+          "isCorrect": false,
+          "rationale": "La ventilaci\u00f3n ayuda con los gases, pero no soluciona el riesgo de inestabilidad mec\u00e1nica de la roca suelta."
+        },
+        {
+          "text": "Evacuar la mina y esperar 24 horas por asentamiento natural.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de riesgos exige una acci\u00f3n proactiva, no simplemente esperar fuera de la labor."
+        },
+        {
+          "text": "Realizar un redesate sistem\u00e1tico y peri\u00f3dico.",
+          "isCorrect": true,
+          "rationale": "El redesate es un pilar estrat\u00e9gico para eliminar fragmentos que se hayan aflojado por vibraciones posteriores a la voladura inicial."
+        },
+        {
+          "text": "Cambiar el tipo de sostenimiento de activo a pasivo.",
+          "isCorrect": false,
+          "rationale": "El cambio de soporte requiere un an\u00e1lisis t\u00e9cnico; la acci\u00f3n inmediata de seguridad ante roca d\u00e9bil es el desate."
+        }
+      ],
+      "hint": "Piense en la acci\u00f3n preventiva que se debe repetir cada vez que las condiciones de estabilidad del techo puedan haber cambiado."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Fundamentos de Geomec\u00e1nica",
+      "Caracterizaci\u00f3n del Macizo Rocoso",
+      "Geolog\u00eda Estructural Aplicada",
+      "Seguridad y Ciclo Minero",
+      "Sistemas de Sostenimiento"
+    ],
+    "followUp": [
+      "Mec\u00e1nica de Suelos en Miner\u00eda",
+      "Hidrogeolog\u00eda y Control de Agua Subterr\u00e1nea",
+      "Modelamiento Num\u00e9rico con Software RS2 y RS3",
+      "Gesti\u00f3n de Riesgos y Estallidos de Roca",
+      "Ingenier\u00eda de Voladura y Vibraciones"
+    ]
+  }
+}

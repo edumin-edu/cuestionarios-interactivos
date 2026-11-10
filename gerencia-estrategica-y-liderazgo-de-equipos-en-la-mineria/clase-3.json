@@ -1,0 +1,544 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el motor principal que impulsa la metamorfosis estructural en la industria minera global contempor\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "Las tecnolog\u00edas de la cuarta revoluci\u00f3n industrial.",
+          "isCorrect": true,
+          "rationale": "La innovaci\u00f3n t\u00e9cnica basada en la industria 4.0 se ha convertido en el n\u00facleo vital para la sostenibilidad y competitividad del sector."
+        },
+        {
+          "text": "El aumento masivo de la mano de obra f\u00edsica.",
+          "isCorrect": false,
+          "rationale": "La tendencia actual busca reducir la exposici\u00f3n humana y automatizar procesos en lugar de incrementar el esfuerzo manual."
+        },
+        {
+          "text": "La mecanizaci\u00f3n hidr\u00e1ulica y de vapor.",
+          "isCorrect": false,
+          "rationale": "Estas tecnolog\u00edas corresponden a la primera revoluci\u00f3n industrial y ya han sido superadas por la digitalizaci\u00f3n."
+        },
+        {
+          "text": "La exclusi\u00f3n total de sistemas digitales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la digitalizaci\u00f3n es el eje transversal que conecta hoy toda la cadena productiva."
+        }
+      ],
+      "hint": "Relaciona este cambio con el concepto de la industria 4.0."
+    },
+    {
+      "question": "En el contexto de la transformaci\u00f3n industrial, \u00bfc\u00f3mo se define la innovaci\u00f3n a diferencia de la tecnolog\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Como el acto de introducir elementos in\u00e9ditos para resolver necesidades operativas.",
+          "isCorrect": true,
+          "rationale": "La innovaci\u00f3n se enfoca en la novedad y la respuesta creativa ante problemas espec\u00edficos del terreno."
+        },
+        {
+          "text": "Como el conjunto de cables y dispositivos electr\u00f3nicos.",
+          "isCorrect": false,
+          "rationale": "Esta es una visi\u00f3n limitada que no abarca el conocimiento cient\u00edfico aplicado que define a la tecnolog\u00eda."
+        },
+        {
+          "text": "Como el conocimiento cient\u00edfico aplicado a herramientas.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde a la tecnolog\u00eda, que act\u00faa como un habilitador basado en ciencia."
+        },
+        {
+          "text": "Como un proceso puramente administrativo y sin impacto t\u00e9cnico.",
+          "isCorrect": false,
+          "rationale": "La innovaci\u00f3n tiene un impacto directo en la eficiencia de las tareas de campo y la seguridad."
+        }
+      ],
+      "hint": "Piensa en el significado de la ra\u00edz latina 'nova'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 hito t\u00e9cnico marc\u00f3 el inicio de la segunda revoluci\u00f3n industrial en la d\u00e9cada de 1870?",
+      "answerOptions": [
+        {
+          "text": "La introducci\u00f3n de la electricidad y el petr\u00f3leo.",
+          "isCorrect": true,
+          "rationale": "Estos elementos permitieron la producci\u00f3n masiva y la creaci\u00f3n de econom\u00edas de escala."
+        },
+        {
+          "text": "El desarrollo de los sistemas ciberf\u00edsicos.",
+          "isCorrect": false,
+          "rationale": "Los sistemas ciberf\u00edsicos son el pilar de la cuarta revoluci\u00f3n industrial, no de la segunda."
+        },
+        {
+          "text": "La invenci\u00f3n de la m\u00e1quina de vapor.",
+          "isCorrect": false,
+          "rationale": "La m\u00e1quina de vapor es la caracter\u00edstica central de la primera revoluci\u00f3n industrial a finales del siglo XVIII."
+        },
+        {
+          "text": "La creaci\u00f3n de la primera computadora industrial.",
+          "isCorrect": false,
+          "rationale": "La computaci\u00f3n y la rob\u00f3tica b\u00e1sica definen la tercera revoluci\u00f3n industrial iniciada en 1970."
+        }
+      ],
+      "hint": "Asocia esta etapa con la producci\u00f3n en masa y las cadenas de montaje."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza a los sistemas f\u00edsicos cibern\u00e9ticos (CPS) dentro de la Industria 4.0?",
+      "answerOptions": [
+        {
+          "text": "Redes donde el hardware f\u00edsico y el software anal\u00edtico coexisten en un bucle de retroalimentaci\u00f3n constante.",
+          "isCorrect": true,
+          "rationale": "Los CPS integran datos del terreno con entornos digitales para devolver par\u00e1metros de optimizaci\u00f3n en tiempo real."
+        },
+        {
+          "text": "Programas inform\u00e1ticos aislados que no interact\u00faan con maquinaria.",
+          "isCorrect": false,
+          "rationale": "La esencia de los CPS es precisamente la interacci\u00f3n \u00edntima entre lo digital y lo f\u00edsico."
+        },
+        {
+          "text": "Herramientas manuales de piedra y hueso potenciadas por vapor.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n mezcla herramientas prehist\u00f3ricas con la primera revoluci\u00f3n industrial, ajenas a la era digital."
+        },
+        {
+          "text": "Sistemas de control que operan exclusivamente de forma presencial.",
+          "isCorrect": false,
+          "rationale": "Los CPS permiten la virtualizaci\u00f3n y el control remoto a trav\u00e9s de redes integradas."
+        }
+      ],
+      "hint": "Imagina una conexi\u00f3n bidireccional entre una m\u00e1quina y su gemelo digital."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del Internet de las Cosas (IoT) en una mina moderna?",
+      "answerOptions": [
+        {
+          "text": "Actuar como un sistema sensorial que captura y transmite datos cr\u00edticos como presi\u00f3n y vibraci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "El IoT despliega una red de sensores para recolectar evidencia pura del terreno de forma continua."
+        },
+        {
+          "text": "Sustituir por completo la necesidad de inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "El IoT es el paso inicial de recolecci\u00f3n de datos que luego alimenta a la inteligencia artificial."
+        },
+        {
+          "text": "Almacenar \u00fanicamente datos hist\u00f3ricos sin conexi\u00f3n a la nube.",
+          "isCorrect": false,
+          "rationale": "El IoT se caracteriza por la transmisi\u00f3n constante de datos hacia la nube para su procesamiento."
+        },
+        {
+          "text": "Limitar el flujo de informaci\u00f3n para evitar la ciberseguridad.",
+          "isCorrect": false,
+          "rationale": "El IoT aumenta el flujo de informaci\u00f3n, lo que requiere precisamente de una arquitectura de seguridad robusta."
+        }
+      ],
+      "hint": "Consid\u00e9ralo como el sistema nervioso que detecta est\u00edmulos del entorno."
+    },
+    {
+      "question": "En la triada tecnol\u00f3gica de la miner\u00eda inteligente, \u00bfqu\u00e9 rol desempe\u00f1a el Machine Learning?",
+      "answerOptions": [
+        {
+          "text": "Funciona como un motor predictivo para identificar patrones ocultos y anomal\u00edas en bases de datos.",
+          "isCorrect": true,
+          "rationale": "El Machine Learning procesa los vol\u00famenes de Big Data para prever tendencias y comportamientos operativos."
+        },
+        {
+          "text": "Se encarga \u00fanicamente de la recolecci\u00f3n f\u00edsica de datos en el tajo.",
+          "isCorrect": false,
+          "rationale": "La recolecci\u00f3n es tarea del IoT; el Machine Learning se ocupa del an\u00e1lisis cognitivo de esos datos."
+        },
+        {
+          "text": "Es una herramienta de comunicaci\u00f3n por voz para los operadores.",
+          "isCorrect": false,
+          "rationale": "Aunque existen interfaces de voz, el rol central del Machine Learning es la anal\u00edtica predictiva masiva."
+        },
+        {
+          "text": "Establece los l\u00edmites f\u00edsicos de profundidad de la mina.",
+          "isCorrect": false,
+          "rationale": "El Machine Learning analiza datos, pero los l\u00edmites f\u00edsicos dependen de la geolog\u00eda y la ingenier\u00eda de dise\u00f1o."
+        }
+      ],
+      "hint": "Piensa en la capacidad de las m\u00e1quinas para razonar y encontrar tendencias."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite de latencia cr\u00edtico para garantizar la seguridad en la teleoperaci\u00f3n de equipos aut\u00f3nomos?",
+      "answerOptions": [
+        {
+          "text": "50 milisegundos.",
+          "isCorrect": true,
+          "rationale": "Superar este umbral puede causar colisiones catastr\u00f3ficas al no haber una respuesta en tiempo real precisa."
+        },
+        {
+          "text": "500 milisegundos.",
+          "isCorrect": false,
+          "rationale": "Media segundo de retraso es demasiado alto para maniobras remotas seguras en maquinaria colosal."
+        },
+        {
+          "text": "5 segundos.",
+          "isCorrect": false,
+          "rationale": "Este nivel de latencia har\u00eda imposible cualquier tipo de operaci\u00f3n remota o aut\u00f3noma efectiva."
+        },
+        {
+          "text": "50 microsegundos.",
+          "isCorrect": false,
+          "rationale": "Aunque es una latencia ideal, el est\u00e1ndar t\u00e9cnico determinante mencionado para la seguridad es de 50 milisegundos."
+        }
+      ],
+      "hint": "Es un valor milim\u00e9trico esencial para evitar colisiones."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio econ\u00f3mico report\u00f3 la implementaci\u00f3n de perforadoras automatizadas en el caso de Minera Los Pelambres?",
+      "answerOptions": [
+        {
+          "text": "Una reducci\u00f3n del 80\\% en los costos por metro perforado.",
+          "isCorrect": true,
+          "rationale": "La automatizaci\u00f3n permiti\u00f3 optimizar dr\u00e1sticamente el gasto operativo y aumentar la eficiencia del proceso."
+        },
+        {
+          "text": "Un aumento del 50\\% en el consumo de combustible.",
+          "isCorrect": false,
+          "rationale": "Al contrario, estos sistemas suelen generar ahorros significativos en el uso de combustible."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de la necesidad de mantenimiento.",
+          "isCorrect": false,
+          "rationale": "Las m\u00e1quinas siempre requieren mantenimiento, aunque la automatizaci\u00f3n ayuda a predecirlo mejor."
+        },
+        {
+          "text": "Una disminuci\u00f3n en la vida \u00fatil de las herramientas de perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La precisi\u00f3n rob\u00f3tica increment\u00f3 la vida \u00fatil de las herramientas en un 27\\%."
+        }
+      ],
+      "hint": "Es un porcentaje de ahorro extremadamente alto e impactante."
+    },
+    {
+      "question": "\u00bfQu\u00e9 es un Gemelo Digital (Digital Twin) en la operaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "Una r\u00e9plica virtual conectada en tiempo real que permite realizar simulaciones y mantenimiento predictivo.",
+          "isCorrect": true,
+          "rationale": "A diferencia de un modelo 3D est\u00e1tico, el gemelo digital se alimenta de datos reales para probar ajustes operativos."
+        },
+        {
+          "text": "Un duplicado f\u00edsico exacto de una excavadora guardado en un almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "El concepto es digital y virtual, no una pieza de repuesto f\u00edsica."
+        },
+        {
+          "text": "Un sistema de respaldo que solo guarda copias de seguridad de archivos PDF.",
+          "isCorrect": false,
+          "rationale": "Es un ecosistema din\u00e1mico que simula la operaci\u00f3n completa, no un simple repositorio de documentos."
+        },
+        {
+          "text": "Un software que solo se usa para el dise\u00f1o est\u00e9tico de la planta.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n es operativa y t\u00e9cnica, orientada a la toma de decisiones y prevenci\u00f3n de da\u00f1os."
+        }
+      ],
+      "hint": "No es solo un dibujo; es un modelo que 'respira' datos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia operativa clave entre la Realidad Virtual (RV) y la Realidad Aumentada (RA)?",
+      "answerOptions": [
+        {
+          "text": "La RV se usa para entrenamientos inmersivos, mientras que la RA asiste en tiempo real sobre el campo f\u00edsico.",
+          "isCorrect": true,
+          "rationale": "La RV a\u00edsla al usuario en un entorno simulado y la RA superpone datos \u00fatiles sobre la visi\u00f3n real del t\u00e9cnico."
+        },
+        {
+          "text": "La RV es para uso exclusivo de gerentes y la RA para personal de limpieza.",
+          "isCorrect": false,
+          "rationale": "Ambas tecnolog\u00edas tienen fines t\u00e9cnicos y operativos espec\u00edficos independientemente del rango jer\u00e1rquico."
+        },
+        {
+          "text": "La RA requiere desconectarse de internet y la RV siempre est\u00e1 en la nube.",
+          "isCorrect": false,
+          "rationale": "Ambas suelen requerir conectividad para el flujo de datos y actualizaciones de modelos."
+        },
+        {
+          "text": "No existe diferencia; son dos nombres para la misma tecnolog\u00eda de pantallas.",
+          "isCorrect": false,
+          "rationale": "Son tecnolog\u00edas con prop\u00f3sitos distintos: una es inmersiva total y la otra es de superposici\u00f3n de informaci\u00f3n."
+        }
+      ],
+      "hint": "Piensa en cu\u00e1l te permite ver tu entorno real mientras trabajas."
+    },
+    {
+      "question": "En la gesti\u00f3n de suministros, \u00bfqu\u00e9 permite el uso de la tecnolog\u00eda Blockchain?",
+      "answerOptions": [
+        {
+          "text": "Garantizar un nivel de trazabilidad y seguridad inquebrantable en las transacciones.",
+          "isCorrect": true,
+          "rationale": "El blockchain asegura la integridad de los datos en flujos masivos de informaci\u00f3n log\u00edstica."
+        },
+        {
+          "text": "Reducir la velocidad de procesamiento de pedidos administrativos.",
+          "isCorrect": false,
+          "rationale": "Al contrario, busca optimizar y asegurar el proceso, no ralentizarlo."
+        },
+        {
+          "text": "Eliminar la necesidad de tener proveedores locales.",
+          "isCorrect": false,
+          "rationale": "El blockchain es una herramienta de registro y seguridad; no determina la ubicaci\u00f3n geogr\u00e1fica de los proveedores."
+        },
+        {
+          "text": "Sustituir el uso de internet por una red de radio frecuencia.",
+          "isCorrect": false,
+          "rationale": "Blockchain es una tecnolog\u00eda que corre sobre infraestructura de internet o redes de datos."
+        }
+      ],
+      "hint": "Se relaciona con la transparencia y la inmutabilidad de los registros."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el concepto de 'Costo Total de Pertenencia' (TCO) frente al modelo de compras tradicional?",
+      "answerOptions": [
+        {
+          "text": "Una m\u00e9trica din\u00e1mica que proyecta mantenimiento, valor residual y log\u00edstica de repuestos.",
+          "isCorrect": true,
+          "rationale": "El TCO mira m\u00e1s all\u00e1 del precio inicial para evaluar el impacto econ\u00f3mico durante toda la vida \u00fatil del activo."
+        },
+        {
+          "text": "Un c\u00e1lculo est\u00e1tico basado \u00fanicamente en el precio de la etiqueta.",
+          "isCorrect": false,
+          "rationale": "Esta es la visi\u00f3n tradicional que el TCO busca reemplazar para evitar decisiones costosas a largo plazo."
+        },
+        {
+          "text": "El costo de despedir a los operadores manuales.",
+          "isCorrect": false,
+          "rationale": "El TCO se aplica principalmente a activos y equipos, no es una m\u00e9trica de liquidaci\u00f3n de personal."
+        },
+        {
+          "text": "Un impuesto gubernamental aplicado a la propiedad de la tierra minera.",
+          "isCorrect": false,
+          "rationale": "El TCO es una m\u00e9trica de gesti\u00f3n estrat\u00e9gica de adquisiciones, no un tributo legal."
+        }
+      ],
+      "hint": "Considera que lo barato al principio puede salir caro despu\u00e9s."
+    },
+    {
+      "question": "Dentro del perfil del operador moderno, \u00bfqu\u00e9 habilidades est\u00e1n ganando mayor relevancia?",
+      "answerOptions": [
+        {
+          "text": "Capacidad anal\u00edtica y dominio de lenguajes de programaci\u00f3n como Python.",
+          "isCorrect": true,
+          "rationale": "El trabajo evoluciona de la fuerza f\u00edsica hacia la gesti\u00f3n de sistemas aut\u00f3nomos y an\u00e1lisis de datos."
+        },
+        {
+          "text": "Fuerza f\u00edsica extrema para el manejo manual de herramientas pesadas.",
+          "isCorrect": false,
+          "rationale": "La automatizaci\u00f3n est\u00e1 desplazando precisamente las tareas que requieren mayor esfuerzo f\u00edsico y rutina."
+        },
+        {
+          "text": "Conocimientos exclusivos en mec\u00e1nica de vapor del siglo XVIII.",
+          "isCorrect": false,
+          "rationale": "Esos conocimientos son obsoletos para operar en un ecosistema de miner\u00eda inteligente 4.0."
+        },
+        {
+          "text": "Habilidad para trabajar sin ning\u00fan tipo de conectividad digital.",
+          "isCorrect": false,
+          "rationale": "El operador moderno debe estar inmerso en un entorno altamente conectado y digitalizado."
+        }
+      ],
+      "hint": "El nuevo perfil es h\u00edbrido y enfocado en la tecnolog\u00eda de datos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el a\u00f1o 2060 es una fecha cr\u00edtica para la miner\u00eda global?",
+      "answerOptions": [
+        {
+          "text": "Es el a\u00f1o l\u00edmite de neutralidad de carbono para potencias como China.",
+          "isCorrect": true,
+          "rationale": "Este compromiso impulsa la demanda de metales cr\u00edticos y exige operaciones bajo criterios ESG estrictos."
+        },
+        {
+          "text": "Se estima que para esa fecha se agotar\u00e1n todos los recursos minerales del planeta.",
+          "isCorrect": false,
+          "rationale": "No existe evidencia t\u00e9cnica que sustente el agotamiento total para ese a\u00f1o; se trata de una meta ambiental."
+        },
+        {
+          "text": "Es el a\u00f1o en que se prohibir\u00e1 el uso de cualquier tipo de inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "La tendencia es la integraci\u00f3n mayor de la IA, no su prohibici\u00f3n."
+        },
+        {
+          "text": "Marca el inicio de la primera revoluci\u00f3n industrial en Marte.",
+          "isCorrect": false,
+          "rationale": "Esta es una suposici\u00f3n de ciencia ficci\u00f3n ajena a los marcos estrat\u00e9gicos actuales del sector."
+        }
+      ],
+      "hint": "Relaci\u00f3nalo con la descarbonizaci\u00f3n y la transici\u00f3n energ\u00e9tica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia filos\u00f3fica de la Industria 5.0 respecto a la 4.0?",
+      "answerOptions": [
+        {
+          "text": "Vuelve a poner a la persona en el centro, buscando una simbiosis humano-m\u00e1quina \u00e9tica y sostenible.",
+          "isCorrect": true,
+          "rationale": "A diferencia de la 4.0, que se centraba en la automatizaci\u00f3n total, la 5.0 potencia las capacidades humanas."
+        },
+        {
+          "text": "Busca eliminar por completo el uso de tecnolog\u00eda para volver a procesos manuales.",
+          "isCorrect": false,
+          "rationale": "La industria 5.0 usa tecnolog\u00eda avanzada, pero con un enfoque m\u00e1s humano y resiliente."
+        },
+        {
+          "text": "Se enfoca exclusivamente en reducir costos sin importar el impacto social.",
+          "isCorrect": false,
+          "rationale": "La sostenibilidad y la \u00e9tica son pilares innegociables en el paradigma de la industria 5.0."
+        },
+        {
+          "text": "Prioriza el uso de maquinaria de vapor para ser m\u00e1s ecol\u00f3gicos.",
+          "isCorrect": false,
+          "rationale": "La industria 5.0 utiliza IA y biotecnolog\u00eda, no tecnolog\u00edas obsoletas de siglos pasados."
+        }
+      ],
+      "hint": "Piensa en el concepto de 'simbiosis'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple el monitoreo ambiental de $CO_2$ y $O_2$ mediante IoT en miner\u00eda subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "Preservar la vida de los trabajadores mediante el control milim\u00e9trico del aire.",
+          "isCorrect": true,
+          "rationale": "El IoT permite detectar niveles peligrosos de gases y asegurar condiciones respirables en tiempo real."
+        },
+        {
+          "text": "Aumentar artificialmente la temperatura para acelerar la extracci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El objetivo del monitoreo es la seguridad y salud, no alterar la temperatura para fines de producci\u00f3n."
+        },
+        {
+          "text": "Contabilizar el n\u00famero de rocas extra\u00eddas por hora.",
+          "isCorrect": false,
+          "rationale": "El monitoreo de gases se enfoca en la calidad del aire, no en el pesaje de material."
+        },
+        {
+          "text": "Reducir la necesidad de ventilaci\u00f3n en la mina para ahorrar energ\u00eda.",
+          "isCorrect": false,
+          "rationale": "Al contrario, los datos del monitoreo activan o regulan los sistemas de ventilaci\u00f3n para garantizar la seguridad."
+        }
+      ],
+      "hint": "Es un mecanismo indispensable para proteger el activo humano."
+    },
+    {
+      "question": "En el flujo de trabajo l\u00f3gico, \u00bfqu\u00e9 sucede una vez que el Big Data ha organizado los vol\u00famenes masivos de datos?",
+      "answerOptions": [
+        {
+          "text": "La Inteligencia Artificial y el Machine Learning act\u00faan para identificar patrones y razonar sobre los datos.",
+          "isCorrect": true,
+          "rationale": "Una vez organizado el dato, se convierte en inteligencia estrat\u00e9gica mediante algoritmos predictivos."
+        },
+        {
+          "text": "Los datos son eliminados autom\u00e1ticamente para liberar espacio en la nube.",
+          "isCorrect": false,
+          "rationale": "Los datos organizados son activos valiosos que se utilizan para el entrenamiento de modelos, no se borran."
+        },
+        {
+          "text": "Se procede a la extracci\u00f3n manual del mineral sin usar m\u00e1quinas.",
+          "isCorrect": false,
+          "rationale": "La organizaci\u00f3n de datos busca optimizar la operaci\u00f3n tecnol\u00f3gica, no revertir el progreso."
+        },
+        {
+          "text": "El sistema se apaga para evitar ataques de ciberseguridad.",
+          "isCorrect": false,
+          "rationale": "El procesamiento es continuo y se protege con capas de seguridad, no mediante la inactividad."
+        }
+      ],
+      "hint": "Es el paso final donde el 'ruido' se convierte en 'inteligencia estrat\u00e9gica'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 demostr\u00f3 el caso de la empresa peruana MS4M a nivel global?",
+      "answerOptions": [
+        {
+          "text": "Que la ingenier\u00eda local puede competir con est\u00e1ndares mundiales en sistemas de gesti\u00f3n de flota.",
+          "isCorrect": true,
+          "rationale": "Nacida en Cajamarca, esta empresa logr\u00f3 desplegar sus soluciones tecnol\u00f3gicas en Australia, Chile y Kirguist\u00e1n."
+        },
+        {
+          "text": "Que solo las empresas extranjeras pueden innovar en miner\u00eda inteligente.",
+          "isCorrect": false,
+          "rationale": "El \u00e9xito de MS4M ratifica que la innovaci\u00f3n de punta puede nacer en ecosistemas locales."
+        },
+        {
+          "text": "Que el hardware casero es suficiente para operar sin necesidad de software.",
+          "isCorrect": false,
+          "rationale": "Aunque usaron hardware casero en sus inicios, su \u00e9xito se bas\u00f3 en el rigor t\u00e9cnico de sus soluciones integrales."
+        },
+        {
+          "text": "Que la miner\u00eda inteligente no es rentable en regiones como Latinoam\u00e9rica.",
+          "isCorrect": false,
+          "rationale": "MS4M demostr\u00f3 lo contrario, convirti\u00e9ndose en un referente de rentabilidad y eficiencia exportable."
+        }
+      ],
+      "hint": "Refleja el potencial del talento regional para escalar al mundo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un freno estructural mencionado para la adopci\u00f3n de la miner\u00eda 4.0 en zonas rurales?",
+      "answerOptions": [
+        {
+          "text": "La carencia de conectividad e infraestructura digital b\u00e1sica.",
+          "isCorrect": true,
+          "rationale": "Sin internet ni redes de datos, los sensores y sistemas avanzados no pueden generar valor operativo."
+        },
+        {
+          "text": "El exceso de se\u00f1al 5G que interfiere con los instrumentos de geolog\u00eda.",
+          "isCorrect": false,
+          "rationale": "El problema es la falta de se\u00f1al, no el exceso de conectividad."
+        },
+        {
+          "text": "La abundancia de personal altamente capacitado en Python.",
+          "isCorrect": false,
+          "rationale": "Existe una brecha de talento y necesidad de alfabetizaci\u00f3n digital, no una abundancia de estos perfiles."
+        },
+        {
+          "text": "La prohibici\u00f3n gubernamental de usar software en la nube.",
+          "isCorrect": false,
+          "rationale": "No se menciona una prohibici\u00f3n, sino un reto de infraestructura y resistencia cultural."
+        }
+      ],
+      "hint": "Sin este 'sistema nervioso' b\u00e1sico, la tecnolog\u00eda es solo de adorno."
+    },
+    {
+      "question": "\u00bfQu\u00e9 es la 'regla de Pareto' aplicada a la cola de gasto en adquisiciones inteligentes?",
+      "answerOptions": [
+        {
+          "text": "Una estrategia para optimizar el esfuerzo administrativo dejando de perder tiempo en compras menores.",
+          "isCorrect": true,
+          "rationale": "Permite enfocarse en lo estrat\u00e9gico y automatizar o simplificar el mar de adquisiciones peque\u00f1as."
+        },
+        {
+          "text": "Una ley que obliga a comprar solo el 80\\% del mineral extra\u00eddo.",
+          "isCorrect": false,
+          "rationale": "La regla de Pareto en compras se refiere a la gesti\u00f3n de proveedores y gastos, no a la producci\u00f3n f\u00edsica."
+        },
+        {
+          "text": "Un sistema para pagarle menos a los proveedores locales.",
+          "isCorrect": false,
+          "rationale": "Se trata de eficiencia operativa y administrativa, no de una pol\u00edtica de reducci\u00f3n salarial o de pagos."
+        },
+        {
+          "text": "Un algoritmo que predice el precio del cobre en el a\u00f1o 2080.",
+          "isCorrect": false,
+          "rationale": "Es una herramienta de priorizaci\u00f3n log\u00edstica y financiera actual, no una bola de cristal econ\u00f3mica."
+        }
+      ],
+      "hint": "Se enfoca en el 80/20 para maximizar la eficiencia del departamento de compras."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Transformaci\u00f3n Digital en Miner\u00eda",
+      "Evoluci\u00f3n de las Revoluciones Industriales",
+      "Sistemas Ciberf\u00edsicos (CPS) e Industria 4.0",
+      "Internet de las Cosas (IoT) y Sensores",
+      "Inteligencia Artificial y Machine Learning en Operaciones",
+      "Casos de \u00c9xito y Aplicaci\u00f3n Pr\u00e1ctica (Antamina, Los Pelambres, MS4M)",
+      "Infraestructura de Conectividad (5G, LTE y Nube)",
+      "Gesti\u00f3n Estrat\u00e9gica de la Cadena de Suministro",
+      "Industria 5.0 y Sostenibilidad (ESG)"
+    ],
+    "followUp": [
+      "Ciberseguridad en Entornos Industriales Cr\u00edticos",
+      "Implementaci\u00f3n de Gemelos Digitales para Mantenimiento Predictivo",
+      "Alfabetizaci\u00f3n Digital y Nuevos Perfiles Profesionales en el Sector Extractivo",
+      "Estrategias de Nearshoring y Desarrollo de Proveedores Locales",
+      "Descarbonizaci\u00f3n y Metales Cr\u00edticos para la Transici\u00f3n Energ\u00e9tica"
+    ]
+  }
+}

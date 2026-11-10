@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la concepci\u00f3n fundamental del conflicto social en el entorno contempor\u00e1neo de las industrias extractivas?",
+      "answerOptions": [
+        {
+          "text": "Es una falla cr\u00edtica del sistema operativo.",
+          "isCorrect": false,
+          "rationale": "Esta visi\u00f3n corresponde a estrategias antiguas que no reconocen la naturaleza humana del desacuerdo."
+        },
+        {
+          "text": "Es un fen\u00f3meno humano totalmente natural.",
+          "isCorrect": true,
+          "rationale": "El conflicto se entiende como una interacci\u00f3n inherente a la complejidad social y no como un error t\u00e9cnico."
+        },
+        {
+          "text": "Es una anomal\u00eda pasajera de f\u00e1cil resoluci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Ignorar la persistencia y profundidad del conflicto lo reduce a algo temporal, lo cual contradice su car\u00e1cter inmanente."
+        },
+        {
+          "text": "Es un sabotaje externo al desarrollo econ\u00f3mico.",
+          "isCorrect": false,
+          "rationale": "Ver el conflicto solo como sabotaje ignora las causas leg\u00edtimas y las cosmovisiones involucradas."
+        }
+      ],
+      "hint": "Considere si el conflicto se ve como un error de dise\u00f1o o como parte de la interacci\u00f3n humana."
+    },
+    {
+      "question": "Seg\u00fan la premisa de Ernst Cassirer, \u00bfpor qu\u00e9 el ser humano no interact\u00faa con la realidad de forma puramente objetiva?",
+      "answerOptions": [
+        {
+          "text": "Porque es un animal simb\u00f3lico mediado por la cultura.",
+          "isCorrect": true,
+          "rationale": "Cassirer sostiene que el lenguaje, los mitos y la cultura filtran nuestra percepci\u00f3n de la realidad material."
+        },
+        {
+          "text": "Porque carece de herramientas de c\u00e1lculo matem\u00e1tico.",
+          "isCorrect": false,
+          "rationale": "Aunque el c\u00e1lculo es una herramienta, la subjetividad mencionada por Cassirer es de origen ontol\u00f3gico y simb\u00f3lico."
+        },
+        {
+          "text": "Porque los recursos naturales son limitados por naturaleza.",
+          "isCorrect": false,
+          "rationale": "Este es un axioma econ\u00f3mico, no la raz\u00f3n filos\u00f3fica de la mediaci\u00f3n subjetiva del individuo."
+        },
+        {
+          "text": "Porque la ingenier\u00eda impone una l\u00f3gica \u00fanica.",
+          "isCorrect": false,
+          "rationale": "La ingenier\u00eda es uno de los filtros, pero Cassirer se refiere a la condici\u00f3n humana general de crear s\u00edmbolos."
+        }
+      ],
+      "hint": "Recuerde el t\u00e9rmino que define al hombre por su capacidad de crear y vivir a trav\u00e9s de s\u00edmbolos."
+    },
+    {
+      "question": "En el an\u00e1lisis de un evento en campo, como una voladura minera, \u00bfqu\u00e9 porcentaje del conflicto corresponde a la interpretaci\u00f3n subjetiva?",
+      "answerOptions": [
+        {
+          "text": "$100\\%$",
+          "isCorrect": false,
+          "rationale": "No es la totalidad, ya que existe un componente f\u00edsico y material que tambi\u00e9n conforma el evento."
+        },
+        {
+          "text": "$75\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es alto, el modelo de naturaleza dual propone una divisi\u00f3n equitativa entre lo f\u00edsico y lo simb\u00f3lico."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": true,
+          "rationale": "Se postula que la realidad del objeto f\u00edsico y la interpretaci\u00f3n subjetiva pesan exactamente lo mismo."
+        },
+        {
+          "text": "$25\\%$",
+          "isCorrect": false,
+          "rationale": "Subestimar la carga subjetiva es un error com\u00fan que suele llevar al fracaso de las estrategias sociales."
+        }
+      ],
+      "hint": "El modelo propone que las dos realidades coexisten con el mismo peso relativo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el axioma econ\u00f3mico que explica la colisi\u00f3n fundamental en los ecosistemas productivos?",
+      "answerOptions": [
+        {
+          "text": "La competencia por la mano de obra calificada.",
+          "isCorrect": false,
+          "rationale": "Si bien es un factor econ\u00f3mico, no es la contradicci\u00f3n existencial base de los conflictos socioambientales."
+        },
+        {
+          "text": "La disparidad entre recursos finitos y necesidades infinitas.",
+          "isCorrect": true,
+          "rationale": "Esta es la ra\u00edz material del conflicto, especialmente en industrias que dependen de recursos cr\u00edticos como el agua."
+        },
+        {
+          "text": "El aumento de los costos de producci\u00f3n y la baja del precio del mineral.",
+          "isCorrect": false,
+          "rationale": "Este es un desaf\u00edo financiero del mercado, no la colisi\u00f3n fundamental entre sociedad y recursos."
+        },
+        {
+          "text": "La falta de inversi\u00f3n estatal en zonas de influencia minera.",
+          "isCorrect": false,
+          "rationale": "Esto es una causa estructural o pol\u00edtica, pero no define el axioma econ\u00f3mico de la disputa de recursos."
+        }
+      ],
+      "hint": "Piense en la relaci\u00f3n entre la disponibilidad de la naturaleza y las expectativas de la poblaci\u00f3n."
+    },
+    {
+      "question": "\u00bfC\u00f3mo influye un l\u00e9xico limitado en la resoluci\u00f3n de desacuerdos complejos?",
+      "answerOptions": [
+        {
+          "text": "Facilita la comprensi\u00f3n de t\u00e9rminos t\u00e9cnicos de ingenier\u00eda.",
+          "isCorrect": false,
+          "rationale": "Un vocabulario limitado dificulta, en lugar de facilitar, el procesamiento de conceptos t\u00e9cnicos."
+        },
+        {
+          "text": "Promueve el uso de m\u00e9todos de arbitraje internacional.",
+          "isCorrect": false,
+          "rationale": "El arbitraje requiere herramientas verbales sofisticadas de las que carece una persona con l\u00e9xico limitado."
+        },
+        {
+          "text": "Empuja a reemplazar la negociaci\u00f3n por la agresi\u00f3n f\u00edsica.",
+          "isCorrect": true,
+          "rationale": "Sin herramientas verbales para procesar el desacuerdo, la violencia se convierte en el mecanismo de respuesta."
+        },
+        {
+          "text": "No tiene impacto, ya que la comunicaci\u00f3n es mayormente no verbal.",
+          "isCorrect": false,
+          "rationale": "La falta de herramientas verbales es un catalizador cr\u00edtico que acumula tensi\u00f3n en el conflicto."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede cuando una persona no tiene las palabras para expresar un desacuerdo."
+    },
+    {
+      "question": "Dentro de la taxonom\u00eda de Johan Galtung, \u00bfen qu\u00e9 consiste el conflicto estructural?",
+      "answerOptions": [
+        {
+          "text": "En el uso de la fuerza f\u00edsica y bloqueos de carreteras.",
+          "isCorrect": false,
+          "rationale": "Estas son manifestaciones visibles que corresponden a la categor\u00eda de conflicto directo."
+        },
+        {
+          "text": "En el choque de valores, la intolerancia y el desconocimiento del otro.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n pertenece al nivel de conflicto cultural, ubicado en la ra\u00edz del problema."
+        },
+        {
+          "text": "En la inequidad sist\u00e9mica y la marginaci\u00f3n hist\u00f3rica.",
+          "isCorrect": true,
+          "rationale": "El conflicto estructural se refiere a las fallas institucionales y brechas sociales que generan exclusi\u00f3n."
+        },
+        {
+          "text": "En la fase donde surgen las primeras demandas p\u00fablicas.",
+          "isCorrect": false,
+          "rationale": "Esto describe una etapa del ciclo de vida del conflicto, no una dimensi\u00f3n de la violencia seg\u00fan Galtung."
+        }
+      ],
+      "hint": "Piense en las desigualdades que est\u00e1n incorporadas en el sistema social y pol\u00edtico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la respuesta m\u00e1s efectiva para abordar un conflicto de tipo cultural?",
+      "answerOptions": [
+        {
+          "text": "Una intervenci\u00f3n mediata de crisis para calmar la violencia.",
+          "isCorrect": false,
+          "rationale": "La mediaci\u00f3n de crisis es reactiva y solo aborda los s\u00edntomas del conflicto directo."
+        },
+        {
+          "text": "Reformas institucionales profundas y pol\u00edticas inclusivas.",
+          "isCorrect": false,
+          "rationale": "Estas medidas son ideales para el conflicto estructural, pero no resuelven necesariamente el choque de valores."
+        },
+        {
+          "text": "El fomento del di\u00e1logo intercultural y la empat\u00eda biol\u00f3gica.",
+          "isCorrect": true,
+          "rationale": "Atacar la ra\u00edz cultural requiere entender la cosmovisi\u00f3n del otro y generar conexiones genuinas."
+        },
+        {
+          "text": "La entrega de beneficios materiales directos a la comunidad.",
+          "isCorrect": false,
+          "rationale": "Los incentivos materiales no resuelven la intolerancia ni el desconocimiento mutuo de valores."
+        }
+      ],
+      "hint": "Busque la soluci\u00f3n que se enfoca en entender y respetar la visi\u00f3n de mundo del otro."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 fase del ciclo de vida del conflicto las posiciones se polarizan severamente y se rompe la comunicaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Fase latente.",
+          "isCorrect": false,
+          "rationale": "En esta fase la tensi\u00f3n es silenciosa y subyacente, a\u00fan no hay una ruptura p\u00fablica."
+        },
+        {
+          "text": "Fase emergente.",
+          "isCorrect": false,
+          "rationale": "Aqu\u00ed apenas surgen las primeras demandas; la polarizaci\u00f3n extrema ocurre despu\u00e9s."
+        },
+        {
+          "text": "Fase de escalamiento.",
+          "isCorrect": true,
+          "rationale": "Es la zona de peligro donde la polarizaci\u00f3n impide el di\u00e1logo y prepara el terreno para la crisis."
+        },
+        {
+          "text": "Fase de desescalamiento.",
+          "isCorrect": false,
+          "rationale": "En esta etapa la tensi\u00f3n disminuye, ya sea por acuerdo o por agotamiento de las partes."
+        }
+      ],
+      "hint": "Identifique el momento previo al estallido total donde el di\u00e1logo se vuelve casi imposible."
+    },
+    {
+      "question": "Al utilizar la herramienta del \u00e1rbol de conflictos, \u00bfqu\u00e9 representan las ramas?",
+      "answerOptions": [
+        {
+          "text": "Las causas hist\u00f3ricas y la desconfianza ra\u00edz.",
+          "isCorrect": false,
+          "rationale": "Las causas y ra\u00edces se ubican, l\u00f3gicamente, en la parte inferior del \u00e1rbol (las ra\u00edces)."
+        },
+        {
+          "text": "Los efectos visibles como bloqueos o da\u00f1os medi\u00e1ticos.",
+          "isCorrect": true,
+          "rationale": "Las ramas simbolizan las manifestaciones externas y perif\u00e9ricas que captan la atenci\u00f3n inmediata."
+        },
+        {
+          "text": "El problema central de la disputa.",
+          "isCorrect": false,
+          "rationale": "El problema central es representado por el tronco del \u00e1rbol, que une las ra\u00edces con las ramas."
+        },
+        {
+          "text": "Las necesidades y valores innegociables.",
+          "isCorrect": false,
+          "rationale": "Estos elementos suelen ser analizados con la herramienta de la cebolla, no con el \u00e1rbol."
+        }
+      ],
+      "hint": "Piense en lo que es m\u00e1s f\u00e1cil de ver a simple vista en una crisis social."
+    },
+    {
+      "question": "En la t\u00e9cnica de la cebolla del conflicto, \u00bfqu\u00e9 capa representa los objetivos materiales detr\u00e1s del discurso?",
+      "answerOptions": [
+        {
+          "text": "Posiciones p\u00fablicas.",
+          "isCorrect": false,
+          "rationale": "Las posiciones son el discurso oficial o lo que se dice a viva voz, no necesariamente el objetivo real."
+        },
+        {
+          "text": "Intereses reales.",
+          "isCorrect": true,
+          "rationale": "Los intereses son los beneficios tangibles u objetivos materiales que subyacen a las posiciones."
+        },
+        {
+          "text": "Necesidades b\u00e1sicas.",
+          "isCorrect": false,
+          "rationale": "Las necesidades est\u00e1n en el n\u00facleo y tienen que ver con la identidad y supervivencia, no solo con lo material."
+        },
+        {
+          "text": "Valores culturales.",
+          "isCorrect": false,
+          "rationale": "Al igual que las necesidades, los valores est\u00e1n en el centro de la cebolla y no son negociables."
+        }
+      ],
+      "hint": "Busque el nivel que revela lo que las partes realmente quieren obtener materialmente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de un sociograma en el diagn\u00f3stico social?",
+      "answerOptions": [
+        {
+          "text": "Enumerar cronol\u00f3gicamente todos los eventos del conflicto.",
+          "isCorrect": false,
+          "rationale": "Esa ser\u00eda la funci\u00f3n de una l\u00ednea de tiempo, no de un mapa de relaciones de poder."
+        },
+        {
+          "text": "Mapear visualmente nodos de poder, alianzas y fracturas.",
+          "isCorrect": true,
+          "rationale": "El sociograma permite ver la simetr\u00eda o asimetr\u00eda del campo social mediante nodos y tipos de l\u00edneas."
+        },
+        {
+          "text": "Calcular el presupuesto necesario para proyectos sociales.",
+          "isCorrect": false,
+          "rationale": "El sociograma provee informaci\u00f3n estrat\u00e9gica, pero no es una herramienta de contabilidad financiera."
+        },
+        {
+          "text": "Determinar las \u00e9pocas de cosecha de la comunidad.",
+          "isCorrect": false,
+          "rationale": "Esa informaci\u00f3n corresponde a los calendarios estacionales, no a la red de actores."
+        }
+      ],
+      "hint": "Piense en una representaci\u00f3n gr\u00e1fica que muestra qui\u00e9n tiene influencia y qui\u00e9nes est\u00e1n aliados."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es un error estrat\u00e9gico programar una consulta comunitaria sin revisar los calendarios estacionales?",
+      "answerOptions": [
+        {
+          "text": "Porque aumenta innecesariamente el costo de la log\u00edstica.",
+          "isCorrect": false,
+          "rationale": "Aunque puede afectar el costo, el impacto principal es de \u00edndole social y de respeto cultural."
+        },
+        {
+          "text": "Porque las autoridades gubernamentales no asisten en d\u00edas festivos.",
+          "isCorrect": false,
+          "rationale": "La preocupaci\u00f3n central es la participaci\u00f3n y la percepci\u00f3n de la comunidad, no solo la agenda oficial."
+        },
+        {
+          "text": "Porque se percibe como una falta de respeto a sus ritmos agr\u00edcolas o rituales.",
+          "isCorrect": true,
+          "rationale": "Ignorar el reloj cultural genera un rechazo inmediato al ser visto como un insulto a su forma de vida."
+        },
+        {
+          "text": "Porque la ley proh\u00edbe realizar consultas en \u00e9pocas de cosecha.",
+          "isCorrect": false,
+          "rationale": "No es tanto un tema de prohibici\u00f3n legal, sino de legitimidad y gesti\u00f3n del riesgo social."
+        }
+      ],
+      "hint": "Considere la reacci\u00f3n emocional de una comunidad cuando no se toman en cuenta sus fechas importantes."
+    },
+    {
+      "question": "\u00bfQu\u00e9 m\u00e9tricas se utilizan para cuantificar el peso de los actores en el mapeo de poder?",
+      "answerOptions": [
+        {
+          "text": "Nivel de ingresos y educaci\u00f3n formal.",
+          "isCorrect": false,
+          "rationale": "Estas son variables sociodemogr\u00e1ficas, pero no definen necesariamente el poder en un conflicto."
+        },
+        {
+          "text": "Legitimidad frente a las bases y capacidad de veto.",
+          "isCorrect": true,
+          "rationale": "Estas m\u00e9tricas determinan si un actor puede representar a otros y si tiene poder para frenar un proyecto."
+        },
+        {
+          "text": "N\u00famero de seguidores en redes sociales y edad.",
+          "isCorrect": false,
+          "rationale": "Aunque pueden influir, no son las m\u00e9tricas t\u00e9cnicas fundamentales para el an\u00e1lisis de riesgo operativo."
+        },
+        {
+          "text": "Cercan\u00eda geogr\u00e1fica al proyecto y a\u00f1os de residencia.",
+          "isCorrect": false,
+          "rationale": "Estos datos ayudan a clasificar actores (primarios/secundarios), pero no miden su poder real de acci\u00f3n."
+        }
+      ],
+      "hint": "Piense en la representatividad y la fuerza operativa de un actor para detener una operaci\u00f3n."
+    },
+    {
+      "question": "En el contexto del rol del Estado, \u00bfqu\u00e9 significa que act\u00fae como 'papel de muertos'?",
+      "answerOptions": [
+        {
+          "text": "Que promueve leyes de indemnizaci\u00f3n por fallecimiento.",
+          "isCorrect": false,
+          "rationale": "Es una met\u00e1fora sobre su modo de actuar, no sobre una pol\u00edtica funeraria."
+        },
+        {
+          "text": "Que interviene de forma preventiva antes de que estalle la crisis.",
+          "isCorrect": false,
+          "rationale": "Actuar de forma preventiva es lo opuesto al concepto de 'papel de muertos'."
+        },
+        {
+          "text": "Que act\u00faa de forma retroactiva, llegando solo cuando la crisis ya es violenta.",
+          "isCorrect": true,
+          "rationale": "Se refiere a una burocracia que solo aparece para 'limpiar escombros' despu\u00e9s del estallido social."
+        },
+        {
+          "text": "Que no tiene ninguna autoridad legal en las zonas rurales.",
+          "isCorrect": false,
+          "rationale": "El Estado tiene autoridad, el problema se\u00f1alado es su falta de capacidad preventiva y su reacci\u00f3n tard\u00eda."
+        }
+      ],
+      "hint": "Asocie el t\u00e9rmino con una intervenci\u00f3n que ocurre solo despu\u00e9s de que el da\u00f1o ya est\u00e1 hecho."
+    },
+    {
+      "question": "En el caso del proyecto T\u00eda Mar\u00eda, \u00bfpor qu\u00e9 fall\u00f3 la soluci\u00f3n t\u00e9cnica de la desalinizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Porque la ingenier\u00eda fue deficiente y el agua no era apta.",
+          "isCorrect": false,
+          "rationale": "La soluci\u00f3n t\u00e9cnica fue brillante, el problema fue su falta de eficacia en la dimensi\u00f3n social."
+        },
+        {
+          "text": "Porque no abord\u00f3 la herida simb\u00f3lica y la desconfianza estructural previa.",
+          "isCorrect": true,
+          "rationale": "Un cambio en el dise\u00f1o t\u00e9cnico no puede sanar una relaci\u00f3n da\u00f1ada por percepciones de enga\u00f1o anteriores."
+        },
+        {
+          "text": "Porque el costo de desalinizar el agua hac\u00eda que el proyecto no fuera rentable.",
+          "isCorrect": false,
+          "rationale": "Aunque cost\u00f3 millones, el fracaso no fue financiero, sino la persistencia del conflicto social."
+        },
+        {
+          "text": "Porque la comunidad prefer\u00eda seguir usando el agua del r\u00edo.",
+          "isCorrect": false,
+          "rationale": "La desalinizaci\u00f3n resolv\u00eda el inter\u00e9s material del agua, pero no la desconfianza hacia la empresa."
+        }
+      ],
+      "hint": "Recuerde la diferencia entre resolver un problema t\u00e9cnico y resolver un conflicto de confianza."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia negativa tiene la desescalada por agotamiento mediante la cooptaci\u00f3n de l\u00edderes?",
+      "answerOptions": [
+        {
+          "text": "El proyecto se vuelve demasiado caro por los beneficios entregados.",
+          "isCorrect": false,
+          "rationale": "El costo econ\u00f3mico es secundario frente a la p\u00e9rdida total de la estructura de di\u00e1logo."
+        },
+        {
+          "text": "La dirigencia pierde legitimidad y la comunidad queda hu\u00e9rfana de representaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Al sentir que sus l\u00edderes fueron 'comprados', la comunidad deja de confiar en cualquier intermediario."
+        },
+        {
+          "text": "Se genera un exceso de confianza entre la empresa y la poblaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La cooptaci\u00f3n destruye la confianza a largo plazo, creando una 'paz' falsa y fr\u00e1gil."
+        },
+        {
+          "text": "El Estado se ve obligado a intervenir como \u00e1rbitro preventivo.",
+          "isCorrect": false,
+          "rationale": "La cooptaci\u00f3n suele ocurrir ante la ausencia de un arbitraje estatal efectivo."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 sucede con la voz de la comunidad cuando sus representantes aceptan beneficios personales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la duraci\u00f3n promedio estimada de los conflictos mineros seg\u00fan las m\u00e9tricas operativas mencionadas?",
+      "answerOptions": [
+        {
+          "text": "12 meses.",
+          "isCorrect": false,
+          "rationale": "Un a\u00f1o es poco tiempo comparado con el desgaste sist\u00e9mico que sufren estos proyectos."
+        },
+        {
+          "text": "M\u00e1s de 35 meses.",
+          "isCorrect": true,
+          "rationale": "El promedio de casi tres a\u00f1os refleja la complejidad y la dificultad de resolver las causas estructurales."
+        },
+        {
+          "text": "60 meses.",
+          "isCorrect": false,
+          "rationale": "Aunque algunos duran d\u00e9cadas, el promedio citado es de aproximadamente 35 meses."
+        },
+        {
+          "text": "24 meses.",
+          "isCorrect": false,
+          "rationale": "La cifra real es mayor, indicando un proceso de desgaste de casi tres a\u00f1os."
+        }
+      ],
+      "hint": "Es un periodo de tiempo que equivale a casi tres a\u00f1os de paralizaci\u00f3n."
+    },
+    {
+      "question": "Frente a la fiscalizaci\u00f3n de la miner\u00eda formal, \u00bfcu\u00e1l es la situaci\u00f3n de la miner\u00eda ilegal en zonas como Madre de Dios?",
+      "answerOptions": [
+        {
+          "text": "Cumple con est\u00e1ndares ambientales a\u00fan m\u00e1s estrictos.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda ilegal se caracteriza precisamente por la falta total de est\u00e1ndares ambientales."
+        },
+        {
+          "text": "Est\u00e1 bajo la supervisi\u00f3n constante de la Autoridad Nacional del Agua.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda ilegal opera al margen de la ley y de las instituciones de fiscalizaci\u00f3n."
+        },
+        {
+          "text": "Opera bajo un manto de impunidad absoluta arrasando ecosistemas.",
+          "isCorrect": true,
+          "rationale": "Esto genera un sentimiento de injusticia estructural frente a la miner\u00eda formal que s\u00ed es fiscalizada."
+        },
+        {
+          "text": "Ha sido erradicada por completo gracias al rol preventivo del Estado.",
+          "isCorrect": false,
+          "rationale": "La impunidad mencionada indica que el problema persiste y alimenta el conflicto social."
+        }
+      ],
+      "hint": "Piense en el contraste entre el rigor aplicado a las empresas formales y la falta de control en el sector ilegal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica el aprendizaje clave denominado 'efecto mariposa' en la gesti\u00f3n social?",
+      "answerOptions": [
+        {
+          "text": "Que los conflictos desaparecen solos con el paso del tiempo.",
+          "isCorrect": false,
+          "rationale": "El tiempo sin gesti\u00f3n proactiva suele agravar los conflictos en lugar de disolverlos."
+        },
+        {
+          "text": "Que una m\u00ednima descortes\u00eda en terreno puede detonar una crisis millonaria.",
+          "isCorrect": true,
+          "rationale": "Peque\u00f1as acciones negativas pueden amplificarse debido a la carga simb\u00f3lica y la desconfianza acumulada."
+        },
+        {
+          "text": "Que las comunidades cambian de opini\u00f3n de forma impredecible.",
+          "isCorrect": false,
+          "rationale": "Los cambios no son al azar; responden a est\u00edmulos y percepciones del comportamiento corporativo."
+        },
+        {
+          "text": "Que la tecnolog\u00eda de drones es vital para el mapeo de actores.",
+          "isCorrect": false,
+          "rationale": "El concepto se refiere a la sensibilidad social, no a herramientas tecnol\u00f3gicas de vigilancia."
+        }
+      ],
+      "hint": "Considere c\u00f3mo un peque\u00f1o gesto negativo puede escalar en un entorno de alta tensi\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza a la 'licencia social' seg\u00fan los pilares operativos de sostenibilidad?",
+      "answerOptions": [
+        {
+          "text": "Es un permiso administrativo otorgado por el Estado.",
+          "isCorrect": false,
+          "rationale": "La licencia social no es un tr\u00e1mite burocr\u00e1tico; es una validaci\u00f3n \u00e9tica de la comunidad."
+        },
+        {
+          "text": "Es un documento est\u00e1tico que se firma al inicio del proyecto.",
+          "isCorrect": false,
+          "rationale": "No es un papel fijo; debe renovarse y legitimarse mediante el comportamiento diario."
+        },
+        {
+          "text": "Es un proceso din\u00e1mico que se gana todos los d\u00edas con respeto.",
+          "isCorrect": true,
+          "rationale": "La sostenibilidad depende de mantener la legitimidad de la presencia corporativa de forma continua."
+        },
+        {
+          "text": "Es un acuerdo de intercambio de tierras por maquinaria.",
+          "isCorrect": false,
+          "rationale": "Eso ser\u00eda una transacci\u00f3n material, la cual no garantiza la licencia social genuina ni duradera."
+        }
+      ],
+      "hint": "Piense en algo que no es un papel, sino un sentimiento de aceptaci\u00f3n continua."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Ontolog\u00eda y dualidad del conflicto socioambiental",
+      "Taxonom\u00eda de la violencia de Johan Galtung",
+      "Herramientas de diagn\u00f3stico visual (\u00c1rbol, Cebolla, Sociograma)",
+      "Ciclo de vida y fases del conflicto social",
+      "An\u00e1lisis de asimetr\u00eda y el rol del Estado",
+      "Casos pr\u00e1cticos y soluciones t\u00e9cnicas frente a heridas simb\u00f3licas"
+    ],
+    "followUp": [
+      "Estrategias de comunicaci\u00f3n intercultural para la industria extractiva",
+      "Metodolog\u00edas para la construcci\u00f3n de empat\u00eda biol\u00f3gica en mesas de di\u00e1logo",
+      "Institucionalidad y pol\u00edticas preventivas en la gesti\u00f3n de crisis",
+      "\u00c9tica corporativa como pilar de la licencia social permanente"
+    ]
+  }
+}

@@ -1,0 +1,543 @@
+
+{
+  "quiz": [
+    {
+      "question": "¿Cuál es el pilar que se considera el \"piso mínimo\" de actuación en la minería moderna?",
+      "answerOptions": [
+        {
+          "text": "La gestión social",
+          "isCorrect": false,
+          "rationale": "Aunque es fundamental para la estabilidad, se considera un pilar que va más allá del cumplimiento básico obligatorio."
+        },
+        {
+          "text": "El cumplimiento de la ley",
+          "isCorrect": true,
+          "rationale": "El marco normativo es el requisito base obligatorio, pero la excelencia operativa exige superar este estándar con sensibilidad social."
+        },
+        {
+          "text": "La rentabilidad económica",
+          "isCorrect": false,
+          "rationale": "La rentabilidad es una consecuencia de la estabilidad operativa y no el punto de partida legal mínimo."
+        },
+        {
+          "text": "El factor humano",
+          "isCorrect": false,
+          "rationale": "Este elemento es considerado el factor definitivo para el éxito ético, situándose por encima del piso mínimo legal."
+        }
+      ],
+      "hint": "Considere qué elemento es obligatorio por mandato del Estado antes de aplicar criterios de excelencia."
+    },
+    {
+      "question": "¿Qué elemento constituye el mayor escudo de una empresa contra las fiscalizaciones del Estado y los cuestionamientos sociales?",
+      "text": "Gestión de datos impecable",
+      "answerOptions": [
+        {
+          "text": "Inversión en filantropía",
+          "isCorrect": false,
+          "rationale": "La filantropía es un modelo caduco que no ofrece protección técnica ante auditorías o inspecciones estatales."
+        },
+        {
+          "text": "Gestión de datos impecable",
+          "isCorrect": true,
+          "rationale": "Contar con información precisa y rigurosa permite sustentar técnicamente la operación ante cualquier entidad fiscalizadora."
+        },
+        {
+          "text": "Contratación de mano de obra local",
+          "isCorrect": false,
+          "rationale": "Si bien ayuda a la paz social, no protege legalmente a la empresa contra procesos de fiscalización normativa."
+        },
+        {
+          "text": "Uso de tecnología de punta",
+          "isCorrect": false,
+          "rationale": "La tecnología por sí sola no sirve como defensa si no hay un registro de datos que demuestre el cumplimiento ambiental."
+        }
+      ],
+      "hint": "Piense en la herramienta técnica que permite documentar y demostrar el cumplimiento de compromisos."
+    },
+    {
+      "question": "¿Cuál es la premisa central del paradigma del valor compartido en la industria extractiva?",
+      "answerOptions": [
+        {
+          "text": "La rentabilidad es proporcional al progreso social del entorno",
+          "isCorrect": true,
+          "rationale": "Este modelo integra el bienestar de la comunidad como una estrategia de negocio para mitigar riesgos y asegurar la viabilidad."
+        },
+        {
+          "text": "La empresa debe sustituir las funciones del Estado",
+          "isCorrect": false,
+          "rationale": "El valor compartido no implica que la empresa asuma roles estatales, sino que alinee sus metas con el crecimiento local."
+        },
+        {
+          "text": "La donación de activos es la mejor forma de inversión",
+          "isCorrect": false,
+          "rationale": "El modelo de caridad o donaciones directas se considera una práctica asistencialista superada por la sostenibilidad integral."
+        },
+        {
+          "text": "El éxito depende exclusivamente de la riqueza geológica",
+          "isCorrect": false,
+          "rationale": "La visión moderna indica que tener buenos recursos ya no es suficiente sin una gestión social y ética robusta."
+        }
+      ],
+      "hint": "Reflexione sobre la relación simbiótica entre las ganancias corporativas y el desarrollo comunitario."
+    },
+    {
+      "question": "En el contexto de la Agenda 2030, ¿cuántos son los Objetivos de Desarrollo Sostenible (ODS) de la ONU con los que debe alinearse la minería?",
+      "answerOptions": [
+        {
+          "text": "$10$",
+          "isCorrect": false,
+          "rationale": "Este número no corresponde al estándar global establecido por las Naciones Unidas para el desarrollo sostenible."
+        },
+        {
+          "text": "$15$",
+          "isCorrect": false,
+          "rationale": "Es una cifra incorrecta que no refleja el total de metas internacionales de la Agenda 2030."
+        },
+        {
+          "text": "$17$",
+          "isCorrect": true,
+          "rationale": "Los $17$ ODS representan el estándar obligatorio que las empresas deben seguir para mantener su legitimidad global."
+        },
+        {
+          "text": "$21$",
+          "isCorrect": false,
+          "rationale": "Aunque existen diversos marcos internacionales, el número oficial de la ONU para estos objetivos es menor."
+        }
+      ],
+      "hint": "Identifique el número específico que define las metas globales de sostenibilidad."
+    },
+    {
+      "question": "¿Qué porcentaje de la producción mundial de cobre representan conjuntamente Perú y Chile?",
+      "answerOptions": [
+        {
+          "text": "$25\\%$",
+          "isCorrect": false,
+          "rationale": "Esta cifra subestima el peso geopolítico y la capacidad productiva real de la región andina en el mercado del cobre."
+        },
+        {
+          "text": "$30\\%$",
+          "isCorrect": false,
+          "rationale": "Es un porcentaje menor al volumen masivo que estos dos países aportan a la demanda global, especialmente de China."
+        },
+        {
+          "text": "$40\\%$",
+          "isCorrect": true,
+          "rationale": "La unión de la producción de ambos países constituye casi la mitad del suministro global de este mineral crítico."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque la región es líder mundial, todavía no alcanza a cubrir la mitad exacta de la producción global por sí sola."
+        }
+      ],
+      "hint": "Piense en una cifra cercana a la mitad de la producción total global."
+    },
+    {
+      "question": "¿Cómo se financia exactamente el canon minero en el Perú?",
+      "answerOptions": [
+        {
+          "text": "Con el $50\\%$ de las utilidades netas de la empresa",
+          "isCorrect": false,
+          "rationale": "El canon no se calcula sobre las utilidades directamente, sino sobre un tributo específico pagado al Estado."
+        },
+        {
+          "text": "Con el $50\\%$ del Impuesto a la Renta pagado al Estado",
+          "isCorrect": true,
+          "rationale": "La ley establece que la mitad de lo recaudado por concepto de Impuesto a la Renta minero se redistribuye a las regiones."
+        },
+        {
+          "text": "Con el $100\\%$ de las regalías mineras",
+          "isCorrect": false,
+          "rationale": "Las regalías son un concepto distinto al canon, el cual proviene estrictamente de la tributación por renta."
+        },
+        {
+          "text": "Con el $30\\%$ de las ventas brutas anuales",
+          "isCorrect": false,
+          "rationale": "El cálculo del canon no se basa en el volumen de ventas, sino en la renta gravable que genera la operación."
+        }
+      ],
+      "hint": "Considere la mitad de un impuesto específico que las empresas abonan al gobierno central."
+    },
+    {
+      "question": "¿Qué porcentaje del canon minero se reserva exclusivamente para las universidades nacionales de la región?",
+      "answerOptions": [
+        {
+          "text": "$2\\%$",
+          "isCorrect": false,
+          "rationale": "Es un porcentaje demasiado bajo que no coincide con la cuota establecida legalmente para la educación superior."
+        },
+        {
+          "text": "$5\\%$",
+          "isCorrect": true,
+          "rationale": "La ley asigna esta porción específica para fomentar la investigación y el desarrollo académico regional."
+        },
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje corresponde legalmente a los distritos productores y no a las instituciones universitarias."
+        },
+        {
+          "text": "$15\\%$",
+          "isCorrect": false,
+          "rationale": "Es una cifra superior a la reserva actual, lo que distorsionaría el esquema de distribución presupuestaria."
+        }
+      ],
+      "hint": "Se trata de la porción más pequeña en la escala de distribución porcentual mencionada."
+    },
+    {
+      "question": "¿Qué caracteriza el cambio del modelo de gestión de fondos de \"García\" a \"Humala\"?",
+      "answerOptions": [
+        {
+          "text": "La eliminación total del canon minero",
+          "isCorrect": false,
+          "rationale": "El canon continuó existiendo; lo que cambió fue el mecanismo de administración y ejecución de las obras."
+        },
+        {
+          "text": "El paso de la ejecución directa empresarial a la centralización estatal",
+          "isCorrect": true,
+          "rationale": "La gestión se movió desde una intervención directa de la empresa en obras hacia una administración pública de los recursos."
+        },
+        {
+          "text": "La descentralización total de los fondos hacia las comunidades",
+          "isCorrect": false,
+          "rationale": "Al contrario, el cambio buscó que el aparato estatal centralizara la gestión de los recursos generados por la minería."
+        },
+        {
+          "text": "La privatización de la inversión social",
+          "isCorrect": false,
+          "rationale": "El cambio de modelo fortaleció el rol del Estado como gestor presupuestario frente a la ejecución privada anterior."
+        }
+      ],
+      "hint": "Piense en quién pasó a tener la responsabilidad principal de ejecutar las obras con el dinero del canon."
+    },
+    {
+      "question": "¿Cuál es el rango aproximado de ejecución presupuestal que suelen alcanzar los gobiernos locales con los fondos del canon?",
+      "answerOptions": [
+        {
+          "text": "Entre $10\\%$ y $20\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque la capacidad es limitada, el nivel de ejecución suele ser ligeramente superior a este rango mínimo."
+        },
+        {
+          "text": "Entre $30\\%$ y $40\\%$",
+          "isCorrect": true,
+          "rationale": "Esta baja capacidad administrativa genera una brecha entre la riqueza generada y el bienestar real percibido por la población."
+        },
+        {
+          "text": "Entre $60\\%$ y $70\\%$",
+          "isCorrect": false,
+          "rationale": "Lograr este nivel de ejecución requeriría una eficiencia administrativa que actualmente el Estado no ha consolidado."
+        },
+        {
+          "text": "Más del $90\\%$",
+          "isCorrect": false,
+          "rationale": "Si la ejecución fuera tan alta, no existiría la brecha de percepción que detona la mayoría de los conflictos sociales."
+        }
+      ],
+      "hint": "Identifique un nivel de eficiencia administrativa bajo, menor a la mitad del presupuesto disponible."
+    },
+    {
+      "question": "¿Por qué la transición de la fase de construcción a la de operación suele generar tensiones sociales?",
+      "answerOptions": [
+        {
+          "text": "Por la caída en la demanda de mano de obra no calificada",
+          "isCorrect": true,
+          "rationale": "La etapa de operación exige personal muy técnico, lo que reduce drásticamente el empleo masivo local generado en la construcción."
+        },
+        {
+          "text": "Debido al aumento súbito de la contaminación sonora",
+          "isCorrect": false,
+          "rationale": "Aunque el ruido es un factor ambiental, el detonante social crítico es la pérdida de oportunidades laborales para los locales."
+        },
+        {
+          "text": "Porque el canon deja de pagarse al iniciar la operación",
+          "isCorrect": false,
+          "rationale": "El canon comienza a generarse precisamente con la producción, por lo que no es el motivo del conflicto en esta fase."
+        },
+        {
+          "text": "Por la prohibición de ingreso de proveedores locales",
+          "isCorrect": false,
+          "rationale": "Los proveedores locales suelen ser necesarios; el problema real radica en el perfil técnico que la mina empieza a requerir."
+        }
+      ],
+      "hint": "Considere cómo cambia el perfil del trabajador necesario cuando la mina termina de edificarse y empieza a producir."
+    },
+    {
+      "question": "Más allá de las etiquetas superficiales, ¿qué interés suele ocultarse bajo la máscara de algunos conflictos socioambientales?",
+      "answerOptions": [
+        {
+          "text": "Intereses de organizaciones académicas internacionales",
+          "isCorrect": false,
+          "rationale": "Las disputas suelen tener raíces locales y económicas más directas que objetivos puramente académicos."
+        },
+        {
+          "text": "Deseos genuinos de volver a una economía puramente agrícola",
+          "isCorrect": false,
+          "rationale": "Si bien existe el agro, los conflictos de gran escala suelen ser instrumentalizados por actores con otros fines económicos."
+        },
+        {
+          "text": "Injerencia de mafias de minería ilegal",
+          "isCorrect": true,
+          "rationale": "Actores ilegales utilizan el discurso ambiental para controlar territorios o corredores logísticos estratégicos."
+        },
+        {
+          "text": "Búsqueda de autonomía política regional",
+          "isCorrect": false,
+          "rationale": "Aunque hay tensiones políticas, el control de la riqueza directa y las rutas es un factor mucho más recurrente."
+        }
+      ],
+      "hint": "Piense en grupos que operan fuera del marco legal y se benefician del caos social."
+    },
+    {
+      "question": "¿En qué consiste la técnica de \"monitoreo de deudas\" como herramienta de inteligencia social?",
+      "answerOptions": [
+        {
+          "text": "En auditar las cuentas bancarias personales de los líderes comunales",
+          "isCorrect": false,
+          "rationale": "Esta acción sería ilegal e intrusiva; el monitoreo se enfoca en las relaciones comerciales del proyecto."
+        },
+        {
+          "text": "En verificar si los subcontratistas han pagado a proveedores locales",
+          "isCorrect": true,
+          "rationale": "Detectar deudas impagas en hoteles o tiendas locales previene huelgas y bloqueos causados por el malestar económico local."
+        },
+        {
+          "text": "En calcular cuánto debe la comunidad al Estado por servicios básicos",
+          "isCorrect": false,
+          "rationale": "La empresa no supervisa las deudas tributarias de los ciudadanos, sino sus propios compromisos indirectos con el entorno."
+        },
+        {
+          "text": "En evaluar la capacidad de crédito de la empresa minera",
+          "isCorrect": false,
+          "rationale": "El monitoreo de deudas es una táctica externa de campo, no una auditoría de finanzas corporativas internas."
+        }
+      ],
+      "hint": "Relacione esta labor con la prevención de conflictos causados por falta de pago a pequeños negocios de la zona."
+    },
+    {
+      "question": "En una matriz de riesgos sociales, ¿qué nivel de intervención requiere un escenario calificado como $5/5$?",
+      "answerOptions": [
+        {
+          "text": "Seguimiento trimestral por el área de comunicaciones",
+          "isCorrect": false,
+          "rationale": "Un riesgo $5/5$ es crítico y no puede esperar a evaluaciones periódicas de largo plazo."
+        },
+        {
+          "text": "Delegación del problema a las autoridades locales",
+          "isCorrect": false,
+          "rationale": "La empresa debe asumir la gestión directa de sus crisis operativas de alto impacto en lugar de externalizarlas."
+        },
+        {
+          "text": "Intervención absoluta e inmediata de la alta gerencia",
+          "isCorrect": true,
+          "rationale": "Dada la altísima probabilidad y severidad (como el incendio de un campamento), se requiere acción inmediata sin burocracia."
+        },
+        {
+          "text": "Revisión técnica de los instrumentos ambientales",
+          "isCorrect": false,
+          "rationale": "Un riesgo de conflicto social inminente y violento no se resuelve con trámites documentales o técnicos."
+        }
+      ],
+      "hint": "Considere la máxima prioridad y el nivel jerárquico necesario para actuar ante una crisis total."
+    },
+    {
+      "question": "¿Cuál es el propósito fundamental del monitoreo ambiental participativo?",
+      "answerOptions": [
+        {
+          "text": "Reducir los costos de las consultoras ambientales externas",
+          "isCorrect": false,
+          "rationale": "El objetivo no es el ahorro, sino la validación social y técnica de los resultados ambientales."
+        },
+        {
+          "text": "Involucrar a figuras de peso moral para generar confianza y transparencia",
+          "isCorrect": true,
+          "rationale": "Al incluir a docentes o médicos en la toma de muestras, se desmitifican temores y se blinda la operación de falsas acusaciones."
+        },
+        {
+          "text": "Entrenar a la comunidad para que trabaje en la planta de procesos",
+          "isCorrect": false,
+          "rationale": "Este monitoreo es una herramienta de transparencia social, no un programa de capacitación laboral técnica."
+        },
+        {
+          "text": "Cumplir con una formalidad exigida por la bolsa de valores",
+          "isCorrect": false,
+          "rationale": "Si bien ayuda a la imagen, su valor real es la pacificación y legitimidad en el terreno operativo local."
+        }
+      ],
+      "hint": "Piense en cómo se utiliza la reputación de líderes locales para validar que no hay contaminación."
+    },
+    {
+      "question": "¿Qué facultad legal tienen organismos como la ANA o el OEFA respecto al ingreso a las unidades mineras?",
+      "answerOptions": [
+        {
+          "text": "Deben solicitar permiso con $48$ horas de anticipación",
+          "isCorrect": false,
+          "rationale": "La ley permite fiscalizaciones inopinadas para asegurar que las condiciones encontradas sean las reales del día a día."
+        },
+        {
+          "text": "Solo pueden ingresar acompañados por un juez de la región",
+          "isCorrect": false,
+          "rationale": "Estas entidades tienen autonomía administrativa para fiscalizar sin requerir una orden judicial previa en visitas de rutina."
+        },
+        {
+          "text": "Pueden entrar de forma inopinada en cualquier momento",
+          "isCorrect": true,
+          "rationale": "La empresa tiene la obligación legal de dar facilidades inmediatas; obstruir el paso es una falta administrativa gravísima."
+        },
+        {
+          "text": "Tienen prohibido el ingreso si la empresa es de capital privado",
+          "isCorrect": false,
+          "rationale": "La propiedad privada no es una barrera contra la autoridad ambiental del Estado en el sector minero."
+        }
+      ],
+      "hint": "Reflexione sobre la capacidad de estas autoridades para realizar visitas sorpresa."
+    },
+    {
+      "question": "¿Cuál es la fuente primaria y oficial para consultar normas vigentes y evitar el uso de leyes derogadas?",
+      "answerOptions": [
+        {
+          "text": "El buscador de Google Noticias",
+          "isCorrect": false,
+          "rationale": "Google no garantiza la vigencia jurídica oficial de los textos legales, lo que puede inducir a errores fatales."
+        },
+        {
+          "text": "El Sistema Peruano de Información Jurídica (SPIJ)",
+          "isCorrect": true,
+          "rationale": "Es la plataforma oficial del Ministerio de Justicia que asegura que la información técnica y legal esté $100\\%$ al día."
+        },
+        {
+          "text": "Los archivos históricos de la Biblioteca Nacional",
+          "isCorrect": false,
+          "rationale": "Aunque son valiosos, no son la herramienta dinámica que requiere un profesional para la gestión técnica actual."
+        },
+        {
+          "text": "Los comunicados de prensa de la Sociedad de Minería",
+          "isCorrect": false,
+          "rationale": "Estos son documentos informativos o gremiales, pero no constituyen la fuente legal oficial del Estado."
+        }
+      ],
+      "hint": "Identifique el acrónimo de la plataforma digital gestionada por el Ministerio de Justicia."
+    },
+    {
+      "question": "¿Cuál es la diferencia técnica fundamental entre un ECA y un LMP?",
+      "answerOptions": [
+        {
+          "text": "El ECA mide la emisión en el tubo y el LMP mide el aire general",
+          "isCorrect": false,
+          "rationale": "Es exactamente al revés; el LMP se enfoca en el punto de origen de la descarga."
+        },
+        {
+          "text": "El ECA es voluntario y el LMP es obligatorio por ley",
+          "isCorrect": false,
+          "rationale": "Ambos son estándares normativos obligatorios; la diferencia radica en la metodología y punto de medición."
+        },
+        {
+          "text": "El ECA mide el entorno receptor y el LMP mide el punto de emisión",
+          "isCorrect": true,
+          "rationale": "Los ECA evalúan la salud general del ambiente (aire, suelo, agua), mientras que los LMP controlan la fuente específica."
+        },
+        {
+          "text": "El ECA se aplica a la minería y el LMP a la agricultura",
+          "isCorrect": false,
+          "rationale": "Ambos conceptos son transversales y se aplican rigurosamente en la fiscalización de la actividad minera."
+        }
+      ],
+      "hint": "Piense en qué indicador mide el ambiente total frente a cuál mide el 'chorro' o salida de la fuente."
+    },
+    {
+      "question": "¿Qué instrumento de gestión ambiental se requiere obligatoriamente cuando el impacto de un proyecto es calificado como \"significativo\"?",
+      "answerOptions": [
+        {
+          "text": "Declaración de Impacto Ambiental (DIA)",
+          "isCorrect": false,
+          "rationale": "La DIA se reserva para impactos leves, principalmente en exploraciones iniciales de categoría $1$."
+        },
+        {
+          "text": "EIA semidetallado (EIAsd)",
+          "isCorrect": false,
+          "rationale": "Este documento es para impactos moderados; los proyectos de explotación pura requieren un análisis más profundo."
+        },
+        {
+          "text": "EIA detallado (EIAd)",
+          "isCorrect": true,
+          "rationale": "Es el estudio más exhaustivo exigido para la etapa de explotación, analizando líneas de base físicas, biológicas y sociales."
+        },
+        {
+          "text": "Programa de Adecuación Ambiental (PAMA)",
+          "isCorrect": false,
+          "rationale": "El PAMA era una herramienta de transición para operaciones antiguas, no es el estudio preventivo estándar actual para proyectos nuevos."
+        }
+      ],
+      "hint": "Identifique el estudio de mayor rigor técnico necesario para la etapa de explotación pura y dura."
+    },
+    {
+      "question": "¿En qué etapa del proceso de beneficio se utiliza el método de flotación para la separación química de los metales?",
+      "answerOptions": [
+        {
+          "text": "Preparación mecánica",
+          "isCorrect": false,
+          "rationale": "Esta fase se limita a la trituración y molienda física de la roca mediante molinos."
+        },
+        {
+          "text": "Refinación",
+          "isCorrect": false,
+          "rationale": "La refinación es el paso final de purificación extrema para dejar los metales listos para el mercado."
+        },
+        {
+          "text": "Metalurgia",
+          "isCorrect": true,
+          "rationale": "En esta fase se aplican procesos químicos y físicos, como el uso de espesadores y flotación, para extraer el valor del mineral."
+        },
+        {
+          "text": "Prospección",
+          "isCorrect": false,
+          "rationale": "La prospección es una etapa inicial de exploración para encontrar el yacimiento, no para procesar el mineral."
+        }
+      ],
+      "hint": "Se trata del proceso intermedio entre la molienda de la roca y la purificación final."
+    },
+    {
+      "question": "¿Cuántos años puede llegar a durar la etapa de postcierre en una mina de gran escala como Pierina?",
+      "answerOptions": [
+        {
+          "text": "$10$ años",
+          "isCorrect": false,
+          "rationale": "Dada la magnitud de los pasivos y la necesidad de estabilidad ecosistémica, una década es insuficiente."
+        },
+        {
+          "text": "$20$ años",
+          "isCorrect": false,
+          "rationale": "Aunque es un periodo largo, los compromisos de monitoreo post-minería pueden duplicar este tiempo."
+        },
+        {
+          "text": "$40$ años",
+          "isCorrect": true,
+          "rationale": "Este extenso periodo es necesario para garantizar que el entorno se estabilice por completo tras el cese de operaciones."
+        },
+        {
+          "text": "$100$ años",
+          "isCorrect": false,
+          "rationale": "Aunque el monitoreo es riguroso, el estándar legal y técnico mencionado para estos casos es menor a un siglo."
+        }
+      ],
+      "hint": "Considere un periodo que abarca cuatro décadas completas de compromiso ambiental."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Sostenibilidad y Licencia Social",
+      "Marco Normativo y Fiscalización (OEFA/ANA)",
+      "Gestión de Conflictos Socioambientales",
+      "Canon Minero y Modelos de Gestión",
+      "Instrumentos de Gestión Ambiental (IGA)",
+      "Ciclo de Vida de la Mina y Cierre"
+    ],
+    "followUp": [
+      "Metodologías de Mapeo de Actores Informales",
+      "Análisis de Casos de Justicia Ambiental: La Oroya",
+      "Estándares Internacionales de la Agenda 2030 en Extractivas",
+      "Técnicas Avanzadas de Monitoreo Ambiental Participativo",
+      "Estrategias de Reutilización de Infraestructura Minera"
+    ]
+  }
+}

@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la definici\u00f3n de 'valor' en una organizaci\u00f3n moderna que sigue la cultura de disciplina operativa?",
+      "answerOptions": [
+        {
+          "text": "La suma de las horas de esfuerzo invertidas en la fabricaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El esfuerzo interno no dicta el valor si no se traduce en algo que el mercado aprecie."
+        },
+        {
+          "text": "El costo total reflejado en los libros contables de la empresa.",
+          "isCorrect": false,
+          "rationale": "Los costos contables son m\u00e9tricas internas y no necesariamente coinciden con lo que el cliente valora."
+        },
+        {
+          "text": "\u00danica y estrictamente la percepci\u00f3n externa del cliente final.",
+          "isCorrect": true,
+          "rationale": "El valor se define por aquello por lo que el cliente est\u00e1 dispuesto a pagar, independientemente de los procesos internos."
+        },
+        {
+          "text": "La diferencia entre el precio de venta y el costo de los materiales.",
+          "isCorrect": false,
+          "rationale": "Esta es una definici\u00f3n de margen de utilidad, no de la naturaleza del valor percibido."
+        }
+      ],
+      "hint": "Piense en qui\u00e9n tiene la \u00faltima palabra sobre la utilidad de un producto."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la sobreproducci\u00f3n se considera el peor de los siete desperdicios cl\u00e1sicos (muda)?",
+      "answerOptions": [
+        {
+          "text": "Porque aumenta directamente los costos de transporte externo.",
+          "isCorrect": false,
+          "rationale": "Aunque puede afectar el transporte, su impacto principal es interno y estructural."
+        },
+        {
+          "text": "Porque oculta las ineficiencias del sistema y moviliza capital innecesariamente.",
+          "isCorrect": true,
+          "rationale": "Al tener exceso de material, los fallos en m\u00e1quinas o procesos lentos pasan desapercibidos, perpetuando los problemas."
+        },
+        {
+          "text": "Porque requiere la contrataci\u00f3n inmediata de m\u00e1s personal operativo.",
+          "isCorrect": false,
+          "rationale": "No siempre requiere m\u00e1s personal, pero s\u00ed genera un uso ineficiente de los recursos ya existentes."
+        },
+        {
+          "text": "Porque es el \u00fanico desperdicio que genera defectos de fabricaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los defectos son un desperdicio independiente, aunque la sobreproducci\u00f3n puede dificultar su detecci\u00f3n temprana."
+        }
+      ],
+      "hint": "Considere la analog\u00eda de esconder la basura debajo de la alfombra."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del concepto 'Jidoka' en un sistema industrial?",
+      "answerOptions": [
+        {
+          "text": "Nivelar la producci\u00f3n para evitar picos de trabajo innecesarios.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n del Heijunka; Jidoka se centra en la detecci\u00f3n de anomal\u00edas."
+        },
+        {
+          "text": "Organizar el espacio de trabajo mediante cinco pasos secuenciales.",
+          "isCorrect": false,
+          "rationale": "Esa es la descripci\u00f3n de la metodolog\u00eda de las 5S."
+        },
+        {
+          "text": "Dotar a m\u00e1quinas y operarios del poder de detener el proceso ante anomal\u00edas.",
+          "isCorrect": true,
+          "rationale": "Jidoka asegura que ning\u00fan defecto avance a la siguiente etapa al permitir el frenado inmediato del sistema."
+        },
+        {
+          "text": "Sincronizar la llegada de materiales justo en el momento necesario.",
+          "isCorrect": false,
+          "rationale": "Ese es el objetivo del Just in Time (JIT)."
+        }
+      ],
+      "hint": "Se relaciona con el control de calidad en la fuente y el freno de emergencia."
+    },
+    {
+      "question": "En el marco de Six Sigma, \u00bfqu\u00e9 representa el est\u00e1ndar de excelencia operativa de $3.4$?",
+      "answerOptions": [
+        {
+          "text": "El porcentaje m\u00e1ximo de desperdicio de materia prima permitido.",
+          "isCorrect": false,
+          "rationale": "Six Sigma no mide porcentajes de materia prima, sino la frecuencia de errores en procesos."
+        },
+        {
+          "text": "La cantidad de defectos por cada mill\u00f3n de oportunidades (DPMO).",
+          "isCorrect": true,
+          "rationale": "Este nivel estad\u00edstico indica un proceso casi perfecto con una variabilidad m\u00ednima."
+        },
+        {
+          "text": "El n\u00famero de minutos que una planta puede estar detenida por turno.",
+          "isCorrect": false,
+          "rationale": "El est\u00e1ndar se refiere a la calidad de la salida del proceso, no al tiempo de inactividad."
+        },
+        {
+          "text": "La relaci\u00f3n entre el capital invertido y el retorno operativo anual.",
+          "isCorrect": false,
+          "rationale": "Esta es una m\u00e9trica financiera general, no una m\u00e9trica de precisi\u00f3n estad\u00edstica de procesos."
+        }
+      ],
+      "hint": "Es una medida de precisi\u00f3n extrema aplicada a grandes vol\u00famenes de producci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fase del ciclo DMAIC se encarga de descubrir la verdadera causa ra\u00edz de la variabilidad mediante el an\u00e1lisis de datos?",
+      "answerOptions": [
+        {
+          "text": "Definir",
+          "isCorrect": false,
+          "rationale": "En esta fase se delimita el problema, pero no se encuentran todav\u00eda las causas ocultas."
+        },
+        {
+          "text": "Medir",
+          "isCorrect": false,
+          "rationale": "Esta fase se enfoca en recolectar datos sobre el rendimiento actual, no en interpretarlos."
+        },
+        {
+          "text": "Analizar",
+          "isCorrect": true,
+          "rationale": "En este paso se procesa la informaci\u00f3n para entender el 'porqu\u00e9' de las fallas industriales."
+        },
+        {
+          "text": "Controlar",
+          "isCorrect": false,
+          "rationale": "Esta fase es posterior y busca mantener las mejoras logradas en el tiempo."
+        }
+      ],
+      "hint": "Piense en el paso donde se busca el origen del problema antes de intentar solucionarlo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 impacto financiero promedio se estima al fusionar Lean y Six Sigma en una operaci\u00f3n industrial?",
+      "answerOptions": [
+        {
+          "text": "Una reducci\u00f3n de los costos operativos del $10\\%$.",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es conservador frente al impacto real que permite la eliminaci\u00f3n sistem\u00e1tica de desperdicios y variabilidad."
+        },
+        {
+          "text": "Una reducci\u00f3n de los costos operativos del $30\\%$.",
+          "isCorrect": true,
+          "rationale": "La combinaci\u00f3n de ambas metodolog\u00edas libera una cantidad inmensa de capital al estabilizar y limpiar los procesos."
+        },
+        {
+          "text": "Un incremento del presupuesto de mantenimiento del $50\\%$.",
+          "isCorrect": false,
+          "rationale": "El objetivo es reducir costos y mejorar eficiencia, no aumentar el gasto en mantenimiento."
+        },
+        {
+          "text": "Una duplicaci\u00f3n inmediata del valor de las acciones de la empresa.",
+          "isCorrect": false,
+          "rationale": "Aunque mejora la rentabilidad, no garantiza una duplicaci\u00f3n inmediata del valor burs\u00e1til."
+        }
+      ],
+      "hint": "Se trata de un ahorro significativo que ronda casi un tercio de los costos actuales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una caracter\u00edstica fundamental de la arquitectura tecnol\u00f3gica en la Industria 4.0?",
+      "answerOptions": [
+        {
+          "text": "El uso de muestreos manuales realizados por operarios cada hora.",
+          "isCorrect": false,
+          "rationale": "La Industria 4.0 reemplaza el muestreo manual por capturas autom\u00e1ticas constantes."
+        },
+        {
+          "text": "La revisi\u00f3n peri\u00f3dica de la l\u00ednea de ensamblaje mediante reportes en papel.",
+          "isCorrect": false,
+          "rationale": "Este es un enfoque anal\u00f3gico tradicional que no pertenece a la digitalizaci\u00f3n avanzada."
+        },
+        {
+          "text": "La captura de datos mediante sensores que realizan hasta $30$ mediciones por segundo.",
+          "isCorrect": true,
+          "rationale": "La alta velocidad de procesamiento permite una visibilidad instant\u00e1nea y detallada de variables cr\u00edticas."
+        },
+        {
+          "text": "El almacenamiento exclusivo de datos en servidores locales sin conexi\u00f3n a red.",
+          "isCorrect": false,
+          "rationale": "La interconectividad es clave en este modelo; el aislamiento limita la agilidad de la toma de decisiones."
+        }
+      ],
+      "hint": "Considere la velocidad de procesamiento que supera la capacidad biol\u00f3gica humana."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumplen las Redes Neuronales de Funci\u00f3n de Base Radial (RBFN) en el entorno industrial moderno?",
+      "answerOptions": [
+        {
+          "text": "Automatizar el proceso de contrataci\u00f3n de personal t\u00e9cnico.",
+          "isCorrect": false,
+          "rationale": "Su aplicaci\u00f3n principal es operativa y de control de procesos, no administrativa de recursos humanos."
+        },
+        {
+          "text": "Realizar modelamiento fractal para encontrar orden en comportamientos no lineales.",
+          "isCorrect": true,
+          "rationale": "Permiten ajustar miles de variables simult\u00e1neamente para optimizar sistemas complejos y aparentemente ca\u00f3ticos."
+        },
+        {
+          "text": "Sustituir el uso de PLCs en la l\u00ednea de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La IA complementa a los PLCs actuando como el cerebro que procesa los datos que estos capturan."
+        },
+        {
+          "text": "Gestionar la contabilidad de la empresa en tiempo real.",
+          "isCorrect": false,
+          "rationale": "Aunque procesan datos, su enfoque est\u00e1 en la optimizaci\u00f3n t\u00e9cnica y f\u00edsica de la producci\u00f3n."
+        }
+      ],
+      "hint": "Piense en la capacidad de la inteligencia artificial para manejar datos complejos que la estad\u00edstica tradicional no puede."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja competitiva ofrecen los 'Digital Twins' o gemelos digitales en sectores como la miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Eliminar la necesidad de usar sensores f\u00edsicos en las m\u00e1quinas reales.",
+          "isCorrect": false,
+          "rationale": "Los gemelos digitales dependen precisamente de los datos en tiempo real de los sensores f\u00edsicos para funcionar."
+        },
+        {
+          "text": "Permitir la simulaci\u00f3n de desastres y pruebas extremas en un entorno virtual sin riesgo f\u00edsico.",
+          "isCorrect": true,
+          "rationale": "Al usar r\u00e9plicas virtuales, se pueden anticipar fallas y optimizar configuraciones antes de actuar en el mundo real."
+        },
+        {
+          "text": "Reducir el tama\u00f1o de los camiones para que sean m\u00e1s f\u00e1ciles de conducir.",
+          "isCorrect": false,
+          "rationale": "El gemelo digital no cambia el hardware f\u00edsico, sino c\u00f3mo se monitorea y gestiona."
+        },
+        {
+          "text": "Sustituir por completo a los ingenieros encargados de la planificaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Son herramientas para que los ingenieros tomen mejores decisiones, no para eliminarlos."
+        }
+      ],
+      "hint": "Considere la posibilidad de probar escenarios peligrosos sin poner en riesgo a las personas o los equipos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el beneficio directo en la calidad del producto al integrar inteligencia artificial en los ajustes de la l\u00ednea de producci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Un aumento de la calidad del $5\\%$ mediante revisiones visuales.",
+          "isCorrect": false,
+          "rationale": "La IA ofrece mejoras significativamente mayores al eliminar la variabilidad humana."
+        },
+        {
+          "text": "La elevaci\u00f3n de la consistencia de la calidad en un $50\\%$.",
+          "isCorrect": true,
+          "rationale": "Al eliminar el cansancio cognitivo y reaccionar a velocidades matem\u00e1ticas, la IA garantiza productos casi id\u00e9nticos."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de la necesidad de protocolos de seguridad.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda de vanguardia, por el contrario, exige protocolos de seguridad a\u00fan m\u00e1s estrictos."
+        },
+        {
+          "text": "Un incremento en el tiempo necesario para finalizar cada producto.",
+          "isCorrect": false,
+          "rationale": "La IA busca optimizar la velocidad y la calidad simult\u00e1neamente, no ralentizar el proceso."
+        }
+      ],
+      "hint": "Piense en el impacto de sustituir el error humano por ajustes algor\u00edtmicos constantes."
+    },
+    {
+      "question": "Dentro de la gesti\u00f3n de riesgos industriales, \u00bfqu\u00e9 implica el 'factor escala' en la miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Que los riesgos son proporcionalmente menores cuanto m\u00e1s grande es el equipo.",
+          "isCorrect": false,
+          "rationale": "A mayor escala, la fragilidad humana aumenta y los errores pueden ser catastr\u00f3ficos."
+        },
+        {
+          "text": "Que la fragilidad humana es total frente a equipos de proporciones colosales.",
+          "isCorrect": true,
+          "rationale": "La escala de maquinaria como camiones de 100 toneladas hace que cualquier error humano sea potencialmente letal."
+        },
+        {
+          "text": "Que es m\u00e1s econ\u00f3mico reparar equipos grandes que equipos peque\u00f1os.",
+          "isCorrect": false,
+          "rationale": "La escala usualmente implica mayores costos de reparaci\u00f3n y mayores p\u00e9rdidas por inactividad."
+        },
+        {
+          "text": "Que la tecnolog\u00eda de drones no puede aplicarse en entornos tan grandes.",
+          "isCorrect": false,
+          "rationale": "Los drones son herramientas clave precisamente para vigilar entornos de gran escala desde una zona segura."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre el tama\u00f1o de un neum\u00e1tico minero y la altura de una persona."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es fundamental gestionar los riesgos psicosociales con la misma severidad que los riesgos f\u00edsicos?",
+      "answerOptions": [
+        {
+          "text": "Porque son m\u00e1s f\u00e1ciles de detectar mediante sensores electr\u00f3nicos.",
+          "isCorrect": false,
+          "rationale": "Estos riesgos son a menudo 'invisibles' y m\u00e1s dif\u00edciles de detectar que una falla mec\u00e1nica."
+        },
+        {
+          "text": "Porque el estr\u00e9s o el acoso laboral impactan negativamente en el clima y la productividad.",
+          "isCorrect": true,
+          "rationale": "Los factores psicol\u00f3gicos pueden degradar la eficiencia operativa tanto como un cuello de botella f\u00edsico."
+        },
+        {
+          "text": "Porque son riesgos que solo afectan a la gerencia de la empresa.",
+          "isCorrect": false,
+          "rationale": "Los riesgos psicosociales afectan a todos los niveles de la organizaci\u00f3n sin distinci\u00f3n."
+        },
+        {
+          "text": "Porque as\u00ed lo exigen los algoritmos de las redes neuronales.",
+          "isCorrect": false,
+          "rationale": "Es una necesidad de gesti\u00f3n humana y organizacional, no un requerimiento de la IA."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo factores como el clima laboral influyen en el desempe\u00f1o general."
+    },
+    {
+      "question": "Ante una Alerta Roja por tormenta el\u00e9ctrica en una mina, \u00bfcu\u00e1l es el prop\u00f3sito de desenchufar las laptops?",
+      "answerOptions": [
+        {
+          "text": "Ahorrar energ\u00eda mientras la planta est\u00e1 detenida.",
+          "isCorrect": false,
+          "rationale": "El ahorro de energ\u00eda es irrelevante frente a la magnitud de la emergencia."
+        },
+        {
+          "text": "Evitar que los trabajadores se distraigan con el trabajo administrativo.",
+          "isCorrect": false,
+          "rationale": "El protocolo busca la seguridad f\u00edsica y t\u00e9cnica, no el control de distracciones."
+        },
+        {
+          "text": "Proteger la infraestructura tecnol\u00f3gica de picos de voltaje al restablecer la energ\u00eda.",
+          "isCorrect": true,
+          "rationale": "Protege el 'cerebro inform\u00e1tico' de la empresa para asegurar un reinicio de operaciones sin p\u00e9rdida de datos."
+        },
+        {
+          "text": "Permitir que las se\u00f1ales de los drones aut\u00f3nomos sean m\u00e1s potentes.",
+          "isCorrect": false,
+          "rationale": "Desenchufar equipos no mejora la se\u00f1al inal\u00e1mbrica de otros dispositivos."
+        }
+      ],
+      "hint": "Se trata de proteger el hardware vital contra fallas el\u00e9ctricas externas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 indicador demuestra que una cultura organizativa de seguridad ha alcanzado la madurez?",
+      "answerOptions": [
+        {
+          "text": "Cuando solo el gerente de planta puede ordenar la parada de una m\u00e1quina.",
+          "isCorrect": false,
+          "rationale": "Esto refleja una jerarqu\u00eda r\u00edgida que puede retrasar la reacci\u00f3n ante peligros inminentes."
+        },
+        {
+          "text": "Cuando se instalan m\u00e1s c\u00e1maras de vigilancia en las zonas de descanso.",
+          "isCorrect": false,
+          "rationale": "La vigilancia no equivale a una cultura de responsabilidad y empoderamiento."
+        },
+        {
+          "text": "Cuando cualquier trabajador tiene autoridad para detener la operaci\u00f3n ante un peligro.",
+          "isCorrect": true,
+          "rationale": "El empoderamiento individual es el escudo definitivo para prevenir accidentes fatales."
+        },
+        {
+          "text": "Cuando la empresa deja de utilizar proveedores externos para la seguridad.",
+          "isCorrect": false,
+          "rationale": "La madurez se mide por el comportamiento interno y no por la procedencia del personal de seguridad."
+        }
+      ],
+      "hint": "Considere el nivel de autoridad que tiene un operario de base frente a una situaci\u00f3n de riesgo."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la eliminaci\u00f3n de 'silos' departamentales en una empresa industrial?",
+      "answerOptions": [
+        {
+          "text": "En crear departamentos independientes que compitan entre s\u00ed por recursos.",
+          "isCorrect": false,
+          "rationale": "La competencia interna y el aislamiento son precisamente lo que define a un silo y lo que se busca eliminar."
+        },
+        {
+          "text": "En lograr que Operaciones, Log\u00edstica y Mantenimiento act\u00faen como un solo organismo sincronizado.",
+          "isCorrect": true,
+          "rationale": "La colaboraci\u00f3n y el flujo de datos entre \u00e1reas aseguran que la cadena de valor no se rompa."
+        },
+        {
+          "text": "En reducir el n\u00famero de gerentes en cada \u00e1rea de la empresa.",
+          "isCorrect": false,
+          "rationale": "No se trata de reducir personal, sino de mejorar la comunicaci\u00f3n y sincron\u00eda entre las funciones existentes."
+        },
+        {
+          "text": "En subcontratar todas las \u00e1reas de la empresa a diferentes proveedores.",
+          "isCorrect": false,
+          "rationale": "La subcontrataci\u00f3n fragmentada puede empeorar la creaci\u00f3n de silos si no hay una gesti\u00f3n integrada."
+        }
+      ],
+      "hint": "Piense en la transici\u00f3n de islas aisladas a una m\u00e1quina perfectamente engranada."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una estrategia clave del Supply Chain Management moderno para mitigar riesgos globales?",
+      "answerOptions": [
+        {
+          "text": "Depender de un \u00fanico proveedor para maximizar los descuentos por volumen.",
+          "isCorrect": false,
+          "rationale": "La dependencia de un solo proveedor es un riesgo cr\u00edtico, especialmente en modelos Just in Time."
+        },
+        {
+          "text": "Diversificar los proveedores para evitar paros totales ante bloqueos externos.",
+          "isCorrect": true,
+          "rationale": "Contar con m\u00faltiples fuentes de suministro protege la continuidad del negocio ante imprevistos mundiales."
+        },
+        {
+          "text": "Ignorar la demanda real del mercado para producir siempre al m\u00e1ximo de capacidad.",
+          "isCorrect": false,
+          "rationale": "Esto genera sobreproducci\u00f3n, que es el desperdicio m\u00e1s costoso seg\u00fan la filosof\u00eda Lean."
+        },
+        {
+          "text": "Eliminar por completo el uso de tecnolog\u00edas digitales en la log\u00edstica.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda digital es indispensable para la visibilidad y transparencia de la cadena de suministro."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 sucede si su \u00fanica fuente de suministros falla."
+    },
+    {
+      "question": "\u00bfC\u00f3mo ayuda el Big Data a evitar las trampas de fabricar de m\u00e1s o quedarse sin productos?",
+      "answerOptions": [
+        {
+          "text": "Reduciendo el n\u00famero de empleados en el \u00e1rea de ventas.",
+          "isCorrect": false,
+          "rationale": "El Big Data es una herramienta de informaci\u00f3n, no un m\u00e9todo de reducci\u00f3n de personal de ventas."
+        },
+        {
+          "text": "Procesando informaci\u00f3n masiva para entender y predecir la demanda real del cliente.",
+          "isCorrect": true,
+          "rationale": "Permite ajustar la producci\u00f3n a lo que el mercado realmente necesita, evitando inventarios estancados."
+        },
+        {
+          "text": "Aumentando los precios autom\u00e1ticamente cada vez que el inventario baja.",
+          "isCorrect": false,
+          "rationale": "Aunque es una t\u00e1ctica posible, el enfoque analizado es la optimizaci\u00f3n operativa de la producci\u00f3n."
+        },
+        {
+          "text": "Eliminando la necesidad de realizar mantenimiento preventivo.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el Big Data facilita el mantenimiento predictivo al dar visibilidad sobre el estado de los equipos."
+        }
+      ],
+      "hint": "Considere la capacidad de anticipar lo que el cliente querr\u00e1 en el futuro."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio se obtiene al realizar 'paradas predictivas' mediante el uso de datos compartidos?",
+      "answerOptions": [
+        {
+          "text": "Que mantenimiento pueda detener m\u00e1quinas en cualquier momento sin avisar.",
+          "isCorrect": false,
+          "rationale": "Esto causar\u00eda conflictos con operaciones; el objetivo es la coordinaci\u00f3n, no la arbitrariedad."
+        },
+        {
+          "text": "Realizar arreglos quir\u00fargicos justo antes de que se necesite exprimir la planta al m\u00e1ximo.",
+          "isCorrect": true,
+          "rationale": "Permite que la maquinaria est\u00e9 lista y rinda al $100\\%$ durante los picos de demanda esperados."
+        },
+        {
+          "text": "Aumentar el tiempo total de inactividad de la planta para que los operarios descansen.",
+          "isCorrect": false,
+          "rationale": "Las paradas predictivas buscan optimizar la disponibilidad del equipo, no aumentar el tiempo muerto."
+        },
+        {
+          "text": "Garantizar que las m\u00e1quinas nunca necesiten repuestos nuevos.",
+          "isCorrect": false,
+          "rationale": "El mantenimiento predictivo detecta cu\u00e1ndo un repuesto es necesario antes de que falle catastr\u00f3ficamente."
+        }
+      ],
+      "hint": "Piense en la coordinaci\u00f3n entre Mantenimiento y Operaciones para evitar fallos durante periodos cr\u00edticos."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los tres niveles de la 'nueva alfabetizaci\u00f3n gerencial' requerida en la era digital?",
+      "answerOptions": [
+        {
+          "text": "Contabilidad b\u00e1sica, oratoria y manejo de redes sociales.",
+          "isCorrect": false,
+          "rationale": "Aunque \u00fatiles, no constituyen el n\u00facleo de la competencia t\u00e9cnica exigida por la industria 4.0."
+        },
+        {
+          "text": "Formaci\u00f3n t\u00e9cnica cl\u00e1sica, dominio de idiomas y manejo de algoritmos digitales.",
+          "isCorrect": true,
+          "rationale": "Esta combinaci\u00f3n hol\u00edstica permite liderar la convergencia entre eficiencia, innovaci\u00f3n y seguridad."
+        },
+        {
+          "text": "Derecho laboral, marketing digital y dise\u00f1o gr\u00e1fico.",
+          "isCorrect": false,
+          "rationale": "Estas habilidades son perif\u00e9ricas al mandato de optimizaci\u00f3n y gesti\u00f3n de riesgos industriales."
+        },
+        {
+          "text": "Mec\u00e1nica automotriz, ventas telef\u00f3nicas y gesti\u00f3n de inventarios manuales.",
+          "isCorrect": false,
+          "rationale": "Este perfil es demasiado operativo o tradicional para las exigencias de un entorno hiperr\u00e1pido."
+        }
+      ],
+      "hint": "Se trata de un modelo que unifica lo t\u00e9cnico, lo comunicativo y lo tecnol\u00f3gico avanzado."
+    },
+    {
+      "question": "En el contexto actual, \u00bfcu\u00e1l es el prop\u00f3sito final de unificar la eficiencia, la innovaci\u00f3n y la seguridad?",
+      "answerOptions": [
+        {
+          "text": "Cumplir con las normativas legales m\u00ednimas para evitar multas.",
+          "isCorrect": false,
+          "rationale": "Cumplir la ley es el punto de partida, pero no es el prop\u00f3sito estrat\u00e9gico de supervivencia y excelencia."
+        },
+        {
+          "text": "Garantizar operaciones sostenibles frente a los retos del siglo XXI.",
+          "isCorrect": true,
+          "rationale": "La integraci\u00f3n hol\u00edstica es lo que permite que una empresa sea resiliente, rentable y segura a largo plazo."
+        },
+        {
+          "text": "Reducir la inversi\u00f3n en tecnolog\u00eda para proteger el capital.",
+          "isCorrect": false,
+          "rationale": "El modelo exige invertir en tecnolog\u00eda e innovaci\u00f3n para lograr la excelencia operacional."
+        },
+        {
+          "text": "Aumentar la complejidad de los procesos para dificultar la competencia.",
+          "isCorrect": false,
+          "rationale": "El objetivo de Lean y Six Sigma es precisamente reducir la variabilidad y el caos, no aumentar la complejidad."
+        }
+      ],
+      "hint": "Piense en la visi\u00f3n hol\u00edstica necesaria para la longevidad corporativa moderna."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Lean Manufacturing y los Siete Desperdicios",
+      "Metodolog\u00eda Six Sigma y Ciclo DMAIC",
+      "Industria 4.0 y Tecnolog\u00edas Digitales",
+      "Gesti\u00f3n de Riesgos Industriales y Protocolos de Crisis",
+      "Integraci\u00f3n de la Cadena de Suministro (Supply Chain Management)"
+    ],
+    "followUp": [
+      "Modelamiento con Redes Neuronales de Funci\u00f3n de Base Radial (RBFN)",
+      "Implementaci\u00f3n de Sistemas PULL y Heijunka",
+      "Estructuras Organizativas \u00c1giles frente a Silos Departamentales",
+      "Arquitectura de Controladores L\u00f3gicos Programables (PLC) y Sensores Industriales"
+    ]
+  }
+}

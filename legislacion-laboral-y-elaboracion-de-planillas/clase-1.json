@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito fundamental del derecho laboral en la relaci\u00f3n entre empleador y trabajador?",
+      "answerOptions": [
+        {
+          "text": "Maximizar la rentabilidad de las organizaciones mediante la disciplina.",
+          "isCorrect": false,
+          "rationale": "Aunque la productividad es importante, no es el fin protector y humanista del derecho laboral."
+        },
+        {
+          "text": "Equilibrar la asimetr\u00eda real y la vulnerabilidad del trabajador frente al poder directivo.",
+          "isCorrect": true,
+          "rationale": "El derecho laboral nace como una disciplina aut\u00f3noma que reconoce la desigualdad de poder para proteger la dignidad humana."
+        },
+        {
+          "text": "Establecer una presunci\u00f3n de igualdad formal absoluta entre ambas partes.",
+          "isCorrect": false,
+          "rationale": "Precisamente se busca dejar atr\u00e1s la idea de igualdad formal para reconocer la asimetr\u00eda real existente."
+        },
+        {
+          "text": "Eliminar por completo la capacidad de direcci\u00f3n del empleador.",
+          "isCorrect": false,
+          "rationale": "El derecho laboral regula y equilibra este poder, pero no busca su eliminaci\u00f3n total."
+        }
+      ],
+      "hint": "Considera por qu\u00e9 la ley interviene en un contrato donde una parte tiene m\u00e1s poder que la otra."
+    },
+    {
+      "question": "\u00bfQu\u00e9 hito hist\u00f3rico internacional de 1919 sent\u00f3 las bases para el constitucionalismo social y la seguridad social?",
+      "answerOptions": [
+        {
+          "text": "Las Leyes Brit\u00e1nicas de 1833.",
+          "isCorrect": false,
+          "rationale": "Estas leyes fueron precursoras para frenar abusos infantiles, pero son muy anteriores al constitucionalismo social del siglo XX."
+        },
+        {
+          "text": "La Constituci\u00f3n de M\u00e9xico de 1917.",
+          "isCorrect": false,
+          "rationale": "Es una pionera fundamental, pero no es la de 1919 que se asocia directamente con los cimientos de la OIT."
+        },
+        {
+          "text": "La Constituci\u00f3n de Weimar en Alemania.",
+          "isCorrect": true,
+          "rationale": "Este documento plasm\u00f3 derechos como el descanso remunerado y la negociaci\u00f3n colectiva, influyendo en la creaci\u00f3n de la OIT."
+        },
+        {
+          "text": "La Revoluci\u00f3n Francesa de 1848.",
+          "isCorrect": false,
+          "rationale": "Fue un antecedente importante en la lucha social, pero no corresponde al marco jur\u00eddico de 1919."
+        }
+      ],
+      "hint": "Se trata de un documento alem\u00e1n muy famoso que influy\u00f3 en la estructura de los derechos laborales modernos."
+    },
+    {
+      "question": "En el contexto peruano, \u00bfqu\u00e9 avance significativo se logr\u00f3 espec\u00edficamente en la Constituci\u00f3n de 1933?",
+      "answerOptions": [
+        {
+          "text": "La incorporaci\u00f3n por primera vez de derechos laborales.",
+          "isCorrect": false,
+          "rationale": "Este primer paso se dio anteriormente en el a\u00f1o 1920."
+        },
+        {
+          "text": "El reconocimiento de contratos colectivos y la seguridad social obligatoria.",
+          "isCorrect": true,
+          "rationale": "Este a\u00f1o marc\u00f3 la formalizaci\u00f3n de la protecci\u00f3n colectiva y el inicio del sistema de previsi\u00f3n social obligatorio en el pa\u00eds."
+        },
+        {
+          "text": "La creaci\u00f3n del r\u00e9gimen de Contrataci\u00f3n Administrativa de Servicios (CAS).",
+          "isCorrect": false,
+          "rationale": "El CAS es una modalidad mucho m\u00e1s reciente y no tiene su origen en la constituci\u00f3n de 1933."
+        },
+        {
+          "text": "El establecimiento de la jornada de las 8 horas como \u00fanico derecho.",
+          "isCorrect": false,
+          "rationale": "La lucha por las 8 horas fue un motor previo y no el \u00fanico avance de ese marco constitucional."
+        }
+      ],
+      "hint": "Piensa en las bases de los acuerdos grupales y el sistema de salud y pensiones."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica el elemento de 'prestaci\u00f3n personal' (intuito personae) en un contrato de trabajo?",
+      "answerOptions": [
+        {
+          "text": "Que el trabajador puede delegar sus funciones a un tercero si este est\u00e1 capacitado.",
+          "isCorrect": false,
+          "rationale": "La esencia de este elemento es precisamente la imposibilidad de delegar la labor contratada."
+        },
+        {
+          "text": "Que la empresa puede sustituir al trabajador libremente sin aviso previo.",
+          "isCorrect": false,
+          "rationale": "Esto se refiere a la facultad del empleador, no a la obligaci\u00f3n del trabajador de realizar la tarea por s\u00ed mismo."
+        },
+        {
+          "text": "Que el servicio debe ser realizado exclusivamente por la persona natural contratada.",
+          "isCorrect": true,
+          "rationale": "Significa que el v\u00ednculo es con una persona de carne y hueso espec\u00edfica y no permite sustituciones por iniciativa del trabajador."
+        },
+        {
+          "text": "Que el trabajo solo puede realizarse de forma presencial en las instalaciones.",
+          "isCorrect": false,
+          "rationale": "La prestaci\u00f3n personal se refiere a 'qui\u00e9n' hace el trabajo, no a 'd\u00f3nde' se realiza."
+        }
+      ],
+      "hint": "Recuerda el concepto de exclusividad en la ejecuci\u00f3n de la labor por parte del contratado."
+    },
+    {
+      "question": "Dentro del poder de subordinaci\u00f3n, \u00bfcu\u00e1les son las tres facultades espec\u00edficas que la ley otorga al empleador?",
+      "answerOptions": [
+        {
+          "text": "Contrataci\u00f3n, despido y liquidaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Estos son procesos del ciclo laboral, pero no las facultades t\u00e9cnicas que definen la subordinaci\u00f3n diaria."
+        },
+        {
+          "text": "Direcci\u00f3n, fiscalizaci\u00f3n y sanci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Estas facultades permiten al empleador dar \u00f3rdenes, supervisar el cumplimiento y aplicar medidas correctivas."
+        },
+        {
+          "text": "Inversi\u00f3n, producci\u00f3n y comercializaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Estos son elementos propios de la gesti\u00f3n empresarial y econ\u00f3mica, no facultades del v\u00ednculo laboral."
+        },
+        {
+          "text": "Sueldo, vacaciones y gratificaciones.",
+          "isCorrect": false,
+          "rationale": "Estos son beneficios y derechos del trabajador, no poderes del empleador."
+        }
+      ],
+      "hint": "Se refiere a mandar, vigilar y corregir el comportamiento laboral."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia clave entre el suministro directo e indirecto de alimentos en la remuneraci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "El suministro directo es mediante vales y el indirecto es en efectivo.",
+          "isCorrect": false,
+          "rationale": "La entrega de vales es una caracter\u00edstica del suministro indirecto."
+        },
+        {
+          "text": "El suministro directo tiene car\u00e1cter remunerativo, mientras que el indirecto no.",
+          "isCorrect": true,
+          "rationale": "El alimento servido por la empresa suma para beneficios sociales, a diferencia de los vales de concesionarios externos."
+        },
+        {
+          "text": "Ambos tipos de suministro siempre deben incluirse en el c\u00e1lculo de la CTS.",
+          "isCorrect": false,
+          "rationale": "El suministro indirecto est\u00e1 legalmente excluido de la base de c\u00e1lculo de beneficios sociales."
+        },
+        {
+          "text": "El suministro indirecto es gestionado por el comedor propio de la empresa.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n propia define al suministro directo."
+        }
+      ],
+      "hint": "Considera qu\u00e9 tipo de alimentaci\u00f3n impacta legalmente en el c\u00e1lculo de los beneficios sociales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece el principio de 'ajenidad' en el derecho laboral?",
+      "answerOptions": [
+        {
+          "text": "Que el trabajador es ajeno a las decisiones de la gerencia.",
+          "isCorrect": false,
+          "rationale": "La ajenidad no se refiere a la participaci\u00f3n en la toma de decisiones estrat\u00e9gicas."
+        },
+        {
+          "text": "Que los riesgos econ\u00f3micos del negocio pertenecen exclusivamente al empleador.",
+          "isCorrect": true,
+          "rationale": "Protege el salario del trabajador independientemente de si la empresa tiene p\u00e9rdidas o ganancias."
+        },
+        {
+          "text": "Que el trabajador debe proveer sus propias herramientas de trabajo.",
+          "isCorrect": false,
+          "rationale": "Esto contradice la naturaleza de la relaci\u00f3n laboral, donde el empleador debe proveer los medios."
+        },
+        {
+          "text": "Que los beneficios sociales son ajenos a la remuneraci\u00f3n mensual.",
+          "isCorrect": false,
+          "rationale": "Los beneficios sociales se derivan precisamente de la existencia de una remuneraci\u00f3n."
+        }
+      ],
+      "hint": "Piensa en qui\u00e9n debe asumir las consecuencias si la empresa tiene un mal mes financiero."
+    },
+    {
+      "question": "Ante una discrepancia entre un contrato de locaci\u00f3n de servicios firmado y la realidad de una jornada subordinada, \u00bfqu\u00e9 principio se aplica?",
+      "answerOptions": [
+        {
+          "text": "Principio de legalidad documental.",
+          "isCorrect": false,
+          "rationale": "Este principio dar\u00eda prioridad al papel, lo cual es contrario a la protecci\u00f3n laboral."
+        },
+        {
+          "text": "Principio de buena fe contractual.",
+          "isCorrect": false,
+          "rationale": "Aunque es importante, no es el mecanismo espec\u00edfico para resolver el conflicto entre hechos y documentos."
+        },
+        {
+          "text": "Principio de primac\u00eda de la realidad.",
+          "isCorrect": true,
+          "rationale": "Este principio permite al juez ignorar documentos falsos o simulados para dar valor a lo que realmente sucede en los hechos."
+        },
+        {
+          "text": "Principio de autonom\u00eda de la voluntad.",
+          "isCorrect": false,
+          "rationale": "En derecho laboral, la autonom\u00eda est\u00e1 limitada por derechos irrenunciables, por lo que la voluntad escrita no supera a la realidad."
+        }
+      ],
+      "hint": "Se refiere a que los hechos 'aplastan' a lo que diga el papel firmado."
+    },
+    {
+      "question": "En el r\u00e9gimen general de la actividad privada (728), \u00bfcu\u00e1l es la regla de oro respecto a la estabilidad laboral?",
+      "answerOptions": [
+        {
+          "text": "El contrato a plazo fijo es la norma para todas las empresas.",
+          "isCorrect": false,
+          "rationale": "Los contratos a plazo fijo son considerados la excepci\u00f3n y requieren una causa objetiva."
+        },
+        {
+          "text": "El contrato debe ser renovado obligatoriamente cada 6 meses.",
+          "isCorrect": false,
+          "rationale": "La renovaci\u00f3n constante no es la regla, sino que puede indicar una desnaturalizaci\u00f3n si no hay causa."
+        },
+        {
+          "text": "El contrato a plazo indeterminado es la regla general.",
+          "isCorrect": true,
+          "rationale": "El sistema busca garantizar la estabilidad del trabajador, haciendo que los contratos sin fecha de fin sean la base."
+        },
+        {
+          "text": "Todos los contratos deben ser locaciones de servicios inicialmente.",
+          "isCorrect": false,
+          "rationale": "La locaci\u00f3n de servicios es un contrato civil y no forma parte de la estabilidad laboral del r\u00e9gimen 728."
+        }
+      ],
+      "hint": "Enf\u00f3cate en la preferencia del sistema legal por la permanencia del v\u00ednculo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo de acumulaci\u00f3n para cualquier combinaci\u00f3n de contratos modales (a plazo fijo)?",
+      "answerOptions": [
+        {
+          "text": "2 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Este es el l\u00edmite para casos espec\u00edficos como reconversi\u00f3n tecnol\u00f3gica, pero no el tope de acumulaci\u00f3n total."
+        },
+        {
+          "text": "3 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Es el l\u00edmite para inicio de actividad o servicio espec\u00edfico, no el m\u00e1ximo agregado."
+        },
+        {
+          "text": "5 a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Superar este l\u00edmite agregado de cinco a\u00f1os causa autom\u00e1ticamente la desnaturalizaci\u00f3n del contrato a uno indeterminado."
+        },
+        {
+          "text": "10 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Es un periodo excesivo que vulnerar\u00eda el principio de estabilidad laboral."
+        }
+      ],
+      "hint": "Es el n\u00famero de a\u00f1os tras el cual la relaci\u00f3n se vuelve indeterminada por ley."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre si un trabajador bajo contrato de suplencia contin\u00faa laborando despu\u00e9s del regreso del titular?",
+      "answerOptions": [
+        {
+          "text": "Se le debe pagar el doble de su remuneraci\u00f3n ese d\u00eda.",
+          "isCorrect": false,
+          "rationale": "La consecuencia no es un pago extra, sino un cambio radical en la naturaleza del v\u00ednculo legal."
+        },
+        {
+          "text": "El contrato se desnaturaliza y se convierte en indeterminado.",
+          "isCorrect": true,
+          "rationale": "Al exceder el prop\u00f3sito de reemplazar al titular, la ley asume que la relaci\u00f3n ya no es temporal."
+        },
+        {
+          "text": "El empleador puede despedirlo sin pago de beneficios sociales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el despido en este estado se considerar\u00eda arbitrario y dar\u00eda derecho a indemnizaci\u00f3n."
+        },
+        {
+          "text": "Se debe firmar una adenda de renovaci\u00f3n autom\u00e1tica por un a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "La conversi\u00f3n a contrato indeterminado ocurre por ley, no requiere de una adenda o voluntad del empleador."
+        }
+      ],
+      "hint": "Considera qu\u00e9 sucede cuando se rompe la causa temporal que justificaba el contrato."
+    },
+    {
+      "question": "En el marco del teletrabajo moderno, \u00bfqu\u00e9 derecho se considera la 'nueva frontera' de la protecci\u00f3n laboral?",
+      "answerOptions": [
+        {
+          "text": "El derecho a la alimentaci\u00f3n en el hogar.",
+          "isCorrect": false,
+          "rationale": "Aunque es un aspecto log\u00edstico, no se tipifica como un derecho fundamental nuevo en la ley de teletrabajo."
+        },
+        {
+          "text": "El derecho a la desconexi\u00f3n digital.",
+          "isCorrect": true,
+          "rationale": "Garantiza que el trabajador no sea contactado ni deba trabajar fuera de su jornada, protegiendo su tiempo personal."
+        },
+        {
+          "text": "El derecho a elegir el horario de inicio libremente.",
+          "isCorrect": false,
+          "rationale": "El empleador a\u00fan mantiene la facultad de dirigir y fijar horarios en el teletrabajo."
+        },
+        {
+          "text": "El derecho a la vigilancia continua por c\u00e1mara.",
+          "isCorrect": false,
+          "rationale": "La vigilancia invasiva est\u00e1 prohibida; el derecho protege precisamente contra esta pr\u00e1ctica."
+        }
+      ],
+      "hint": "Se refiere a la posibilidad de 'apagar' el v\u00ednculo laboral fuera de horas de oficina."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una de las principales carencias del r\u00e9gimen CAS en el sector p\u00fablico comparado con el r\u00e9gimen 728?",
+      "answerOptions": [
+        {
+          "text": "No cuenta con el beneficio de 30 d\u00edas de vacaciones.",
+          "isCorrect": false,
+          "rationale": "Tras reformas recientes, el CAS s\u00ed otorga 30 d\u00edas de vacaciones."
+        },
+        {
+          "text": "Carece totalmente de CTS y de indemnizaci\u00f3n por despido arbitrario.",
+          "isCorrect": true,
+          "rationale": "A diferencia del 728, el CAS no ofrece compensaci\u00f3n por tiempo de servicios ni protecci\u00f3n indemnizatoria ante el cese injustificado."
+        },
+        {
+          "text": "No permite la afiliaci\u00f3n a la seguridad social (EsSalud).",
+          "isCorrect": false,
+          "rationale": "Los trabajadores CAS s\u00ed cuentan con cobertura de seguridad social en salud."
+        },
+        {
+          "text": "Solo permite trabajar un m\u00e1ximo de 4 horas diarias.",
+          "isCorrect": false,
+          "rationale": "El r\u00e9gimen CAS contempla jornadas completas de trabajo similares a otros reg\u00edmenes."
+        }
+      ],
+      "hint": "Piensa en el pago acumulado por a\u00f1os de servicio y el castigo econ\u00f3mico por despido."
+    },
+    {
+      "question": "\u00bfQu\u00e9 facultad permite al empleador realizar cambios razonables en la jornada o lugar de trabajo por necesidades operativas?",
+      "answerOptions": [
+        {
+          "text": "El *Ius variandi*.",
+          "isCorrect": true,
+          "rationale": "Es el poder de direcci\u00f3n que permite adaptar las condiciones de trabajo, siempre bajo l\u00edmites de razonabilidad y dignidad."
+        },
+        {
+          "text": "La primac\u00eda de la forma.",
+          "isCorrect": false,
+          "rationale": "Este concepto no existe en derecho laboral; lo que existe es la primac\u00eda de la realidad."
+        },
+        {
+          "text": "La autonom\u00eda de la libertad.",
+          "isCorrect": false,
+          "rationale": "Es un concepto civil general, no la facultad espec\u00edfica para modificar condiciones laborales."
+        },
+        {
+          "text": "El principio de inmediatez.",
+          "isCorrect": false,
+          "rationale": "La inmediatez se refiere al tiempo para sancionar una falta, no a la facultad de cambiar horarios."
+        }
+      ],
+      "hint": "Es un t\u00e9rmino en lat\u00edn que se traduce como el derecho a variar las condiciones."
+    },
+    {
+      "question": "\u00bfA partir de cu\u00e1ntos trabajadores una empresa est\u00e1 obligada a implementar un Reglamento Interno de Trabajo (RIT)?",
+      "answerOptions": [
+        {
+          "text": "M\u00e1s de 10 trabajadores.",
+          "isCorrect": false,
+          "rationale": "Este n\u00famero no es el umbral legal para la obligaci\u00f3n del RIT."
+        },
+        {
+          "text": "M\u00e1s de 20 trabajadores.",
+          "isCorrect": true,
+          "rationale": "Llegar a este n\u00famero convierte al RIT en una herramienta obligatoria para ejercer el poder disciplinario."
+        },
+        {
+          "text": "M\u00e1s de 50 trabajadores.",
+          "isCorrect": false,
+          "rationale": "Aunque es una empresa m\u00e1s grande, la obligaci\u00f3n legal nace mucho antes."
+        },
+        {
+          "text": "M\u00e1s de 100 trabajadores.",
+          "isCorrect": false,
+          "rationale": "Este umbral se asocia con otras obligaciones como tener un m\u00e9dico ocupacional, no con el inicio del RIT."
+        }
+      ],
+      "hint": "Es la base necesaria para poder aplicar cualquier sanci\u00f3n disciplinaria formalmente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la penalidad econ\u00f3mica ('triple pago') si una empresa obliga a trabajar un feriado sin dar un descanso sustitutorio?",
+      "answerOptions": [
+        {
+          "text": "El sueldo del d\u00eda m\u00e1s un bono de alimentaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La ley establece una penalidad mucho m\u00e1s severa que un simple bono."
+        },
+        {
+          "text": "El sueldo del feriado, el pago por la labor realizada y una sobretasa del $100\\%$.",
+          "isCorrect": true,
+          "rationale": "Se paga el d\u00eda (ya incluido en el sueldo), la labor efectiva y una indemnizaci\u00f3n equivalente a un d\u00eda adicional."
+        },
+        {
+          "text": "El pago de tres sueldos mensuales completos.",
+          "isCorrect": false,
+          "rationale": "La penalidad se calcula sobre el valor diario, no sobre el sueldo mensual total."
+        },
+        {
+          "text": "El sueldo del d\u00eda multiplicado por tres, pero sin pagar el feriado original.",
+          "isCorrect": false,
+          "rationale": "La estructura del 'triple pago' incluye la remuneraci\u00f3n ordinaria que ya percibe el trabajador por el feriado."
+        }
+      ],
+      "hint": "Incluye el pago del d\u00eda, el trabajo f\u00edsico y una multa o castigo adicional."
+    },
+    {
+      "question": "\u00bfQu\u00e9 plazo m\u00e1ximo tiene el empleador para depositar los beneficios sociales (liquidaci\u00f3n) tras el cese de un trabajador?",
+      "answerOptions": [
+        {
+          "text": "24 horas.",
+          "isCorrect": false,
+          "rationale": "Aunque ser\u00eda ideal, el plazo legal otorgado es ligeramente superior."
+        },
+        {
+          "text": "48 horas.",
+          "isCorrect": true,
+          "rationale": "Sunafil fiscaliza estrictamente este plazo; pasarlo genera intereses moratorios autom\u00e1ticos."
+        },
+        {
+          "text": "5 d\u00edas h\u00e1biles.",
+          "isCorrect": false,
+          "rationale": "Es una creencia com\u00fan, pero la ley laboral peruana es mucho m\u00e1s exigente con este tiempo."
+        },
+        {
+          "text": "30 d\u00edas calendario.",
+          "isCorrect": false,
+          "rationale": "Este plazo es excesivo y causar\u00eda graves contingencias legales e intereses para la empresa."
+        }
+      ],
+      "hint": "Es un periodo de dos d\u00edas medido con exactitud por la autoridad inspectiva."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia jur\u00eddica de un 'despido nulo' motivado por discriminaci\u00f3n o embarazo?",
+      "answerOptions": [
+        {
+          "text": "El pago de una indemnizaci\u00f3n de 12 sueldos.",
+          "isCorrect": false,
+          "rationale": "Esta es la indemnizaci\u00f3n m\u00e1xima por despido arbitrario, no la consecuencia del despido nulo."
+        },
+        {
+          "text": "La reposici\u00f3n obligatoria al puesto y el pago de sueldos devengados.",
+          "isCorrect": true,
+          "rationale": "Al vulnerar derechos fundamentales, el despido se invalida y el trabajador debe recuperar su empleo con todos sus pagos atrasados."
+        },
+        {
+          "text": "La inhabilitaci\u00f3n definitiva del empleador para contratar.",
+          "isCorrect": false,
+          "rationale": "Aunque hay sanciones, no se llega a la inhabilitaci\u00f3n comercial permanente de la empresa."
+        },
+        {
+          "text": "El traslado del trabajador a una entidad p\u00fablica.",
+          "isCorrect": false,
+          "rationale": "El trabajador tiene derecho a regresar a su mismo empleador en las mismas condiciones."
+        }
+      ],
+      "hint": "Considera que el trabajador vuelve a su puesto como si nunca se hubiera ido."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la 'acci\u00f3n de homologaci\u00f3n' en un juicio laboral?",
+      "answerOptions": [
+        {
+          "text": "En validar que un contrato civil sea igual a uno laboral.",
+          "isCorrect": false,
+          "rationale": "La homologaci\u00f3n se refiere a la igualdad de salarios, no a la validaci\u00f3n de contratos."
+        },
+        {
+          "text": "En exigir el mismo sueldo para trabajadores que realizan la misma funci\u00f3n y categor\u00eda.",
+          "isCorrect": true,
+          "rationale": "Busca corregir brechas salariales injustas cuando no hay una raz\u00f3n t\u00e9cnica o de desempe\u00f1o que las justifique."
+        },
+        {
+          "text": "En registrar el reglamento interno ante el Ministerio de Trabajo.",
+          "isCorrect": false,
+          "rationale": "Esto es un tr\u00e1mite administrativo de registro, no una acci\u00f3n judicial de homologaci\u00f3n."
+        },
+        {
+          "text": "En comparar los beneficios de una empresa con los de su competencia.",
+          "isCorrect": false,
+          "rationale": "La comparaci\u00f3n se hace internamente entre puestos de la misma organizaci\u00f3n."
+        }
+      ],
+      "hint": "Se basa en el principio de 'a igual trabajo, igual remuneraci\u00f3n'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo enfrentan los altos directivos si se comprueba que omitieron corregir peligros cr\u00edticos que causaron un accidente fatal?",
+      "answerOptions": [
+        {
+          "text": "Solo el pago de una multa administrativa a Sunafil.",
+          "isCorrect": false,
+          "rationale": "En casos de accidentes graves o fatales con negligencia, la responsabilidad supera lo administrativo."
+        },
+        {
+          "text": "Responsabilidad penal con posibles penas privativas de libertad.",
+          "isCorrect": true,
+          "rationale": "La ley sanciona penalmente a los gerentes y responsables por poner en riesgo la vida de los trabajadores."
+        },
+        {
+          "text": "La disoluci\u00f3n autom\u00e1tica de la sociedad comercial.",
+          "isCorrect": false,
+          "rationale": "La sanci\u00f3n penal es personal para los directivos, no necesariamente implica el cierre de la empresa."
+        },
+        {
+          "text": "Una amonestaci\u00f3n p\u00fablica en el diario oficial.",
+          "isCorrect": false,
+          "rationale": "Es una medida insuficiente ante la gravedad de un da\u00f1o a la integridad f\u00edsica o la vida."
+        }
+      ],
+      "hint": "Recuerda que la negligencia extrema puede llevar a los gerentes a la c\u00e1rcel."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Principios fundamentales del derecho laboral",
+      "Evoluci\u00f3n hist\u00f3rica de los derechos laborales",
+      "Elementos constitutivos de la relaci\u00f3n laboral",
+      "Tipos de contrataci\u00f3n y reg\u00edmenes laborales en Per\u00fa",
+      "Facultades del empleador y l\u00edmites al poder de direcci\u00f3n",
+      "Protecci\u00f3n contra el despido y fiscalizaci\u00f3n laboral",
+      "Responsabilidad civil y penal en la gesti\u00f3n de equipos"
+    ],
+    "followUp": [
+      "Interpretaci\u00f3n de tratados internacionales en la normativa interna",
+      "Desnaturalizaci\u00f3n de contratos modales y sus consecuencias",
+      "Gesti\u00f3n de la seguridad y salud en el trabajo seg\u00fan el volumen de empleados",
+      "Protocolos de prevenci\u00f3n de hostigamiento sexual laboral",
+      "Diferencias estructurales entre el r\u00e9gimen CAS y la Ley del Servicio Civil"
+    ]
+  }
+}

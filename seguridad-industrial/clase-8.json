@@ -1,0 +1,543 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfEn qu\u00e9 punto espec\u00edfico se deben medir los L\u00edmites M\u00e1ximos Permisibles ($LMP$)?",
+      "answerOptions": [
+        {
+          "text": "En el cuerpo receptor como r\u00edos o lagos.",
+          "isCorrect": false,
+          "rationale": "La medici\u00f3n en cuerpos receptores corresponde a los Est\u00e1ndares de Calidad Ambiental ($ECA$), no a los $LMP$."
+        },
+        {
+          "text": "Directamente en la fuente emisora, como una chimenea o tubo de descarga.",
+          "isCorrect": true,
+          "rationale": "Los $LMP$ controlan las emisiones en el punto exacto de generaci\u00f3n para asignar responsabilidad directa al operador."
+        },
+        {
+          "text": "En el aire circundante de las zonas residenciales m\u00e1s cercanas.",
+          "isCorrect": false,
+          "rationale": "El aire ambiental eval\u00faa el impacto acumulativo en el entorno, lo cual es competencia de los $ECA$."
+        },
+        {
+          "text": "A una distancia m\u00ednima de $500$ metros del proyecto industrial.",
+          "isCorrect": false,
+          "rationale": "Esta distancia es un criterio de ubicaci\u00f3n para ciertos impactos, pero no define el punto de medici\u00f3n de un $LMP$."
+        }
+      ],
+      "hint": "Piense en la analog\u00eda del l\u00edmite de velocidad aplicado directamente a un veh\u00edculo individual."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de los Est\u00e1ndares de Calidad Ambiental ($ECA$)?",
+      "answerOptions": [
+        {
+          "text": "Regular la cantidad de contaminantes permitidos en el punto de vertimiento.",
+          "isCorrect": false,
+          "rationale": "La regulaci\u00f3n en el punto de vertimiento es la definici\u00f3n t\u00e9cnica de un L\u00edmite M\u00e1ximo Permisible."
+        },
+        {
+          "text": "Establecer sanciones econ\u00f3micas directas por cada gramo de emisi\u00f3n generado.",
+          "isCorrect": false,
+          "rationale": "Los $ECA$ son indicadores de calidad del entorno, no mecanismos de tasaci\u00f3n de multas por emisi\u00f3n individual."
+        },
+        {
+          "text": "Evaluar la concentraci\u00f3n acumulada de contaminantes en el medio ambiente para proteger la salud.",
+          "isCorrect": true,
+          "rationale": "Los $ECA$ miden el estado del aire, agua o suelo que nos rodea para asegurar que sea seguro para los seres vivos."
+        },
+        {
+          "text": "Garantizar que las empresas utilicen exclusivamente sistemas activos de remediaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La elecci\u00f3n del sistema de remediaci\u00f3n es una decisi\u00f3n operativa y no el objetivo de un est\u00e1ndar de calidad."
+        }
+      ],
+      "hint": "Considere qu\u00e9 instrumento mide el estado general del entorno tras recibir m\u00faltiples aportes de distintas fuentes."
+    },
+    {
+      "question": "De acuerdo con la regla de temporalidad, \u00bfcon qu\u00e9 normativa se eval\u00faa el desempe\u00f1o ambiental de un proyecto?",
+      "answerOptions": [
+        {
+          "text": "Con la normativa m\u00e1s estricta que haya salido en el a\u00f1o vigente.",
+          "isCorrect": false,
+          "rationale": "La normativa vigente no se aplica retroactivamente a proyectos con instrumentos ya aprobados, a menos que se actualicen."
+        },
+        {
+          "text": "Con el $ECA$ que estaba vigente en el a\u00f1o de aprobaci\u00f3n del instrumento ambiental original.",
+          "isCorrect": true,
+          "rationale": "Esta regla funciona como una c\u00e1psula del tiempo legal para proteger la estabilidad jur\u00eddica del proyecto."
+        },
+        {
+          "text": "Con los est\u00e1ndares internacionales de la $ISO$ $14001$.",
+          "isCorrect": false,
+          "rationale": "La $ISO$ es un est\u00e1ndar voluntario de gesti\u00f3n, no la norma legal de temporalidad dictada por el Estado."
+        },
+        {
+          "text": "Con el est\u00e1ndar que decida la entidad fiscalizadora de forma discrecional.",
+          "isCorrect": false,
+          "rationale": "La evaluaci\u00f3n debe basarse en criterios legales objetivos y predecibles, no en decisiones arbitrarias."
+        }
+      ],
+      "hint": "Esta regla act\u00faa como una protecci\u00f3n jur\u00eddica basada en la fecha de inicio legal del proyecto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el rol del Estado frente a la responsabilidad ambiental seg\u00fan la Ley $28611$?",
+      "answerOptions": [
+        {
+          "text": "El Estado asume todos los costos de remediaci\u00f3n en zonas industriales.",
+          "isCorrect": false,
+          "rationale": "La ley establece que la responsabilidad legal y operativa recae en los operadores privados."
+        },
+        {
+          "text": "El Estado act\u00faa \u00fanicamente como garante del cumplimiento normativo.",
+          "isCorrect": true,
+          "rationale": "La responsabilidad total de la operaci\u00f3n y sus impactos es asumida legalmente por el operador."
+        },
+        {
+          "text": "El Estado es el encargado de dise\u00f1ar los planes de descontaminaci\u00f3n de cada empresa.",
+          "isCorrect": false,
+          "rationale": "Es responsabilidad de la organizaci\u00f3n proponer y ejecutar sus propios planes t\u00e9cnicos de descontaminaci\u00f3n."
+        },
+        {
+          "text": "El Estado exime de responsabilidad a quienes aleguen desconocimiento de la norma.",
+          "isCorrect": false,
+          "rationale": "La ignorancia de la ley no es una defensa v\u00e1lida ni exime de las responsabilidades legales correspondientes."
+        }
+      ],
+      "hint": "Piense en qui\u00e9n supervisa frente a qui\u00e9n debe ejecutar y responder legalmente por la operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el material particulado $PM_{2.5}$ se considera m\u00e1s peligroso que el $PM_{10}$?",
+      "answerOptions": [
+        {
+          "text": "Porque su tama\u00f1o le permite ser retenido f\u00e1cilmente por los cilios de la nariz.",
+          "isCorrect": false,
+          "rationale": "Son las part\u00edculas $PM_{10}$ las que suelen ser retenidas por las defensas del tracto respiratorio superior."
+        },
+        {
+          "text": "Porque tienen un color m\u00e1s oscuro que las hace absorber m\u00e1s calor ambiental.",
+          "isCorrect": false,
+          "rationale": "El peligro principal radica en su capacidad de penetraci\u00f3n biol\u00f3gica por tama\u00f1o, no en sus propiedades t\u00e9rmicas."
+        },
+        {
+          "text": "Porque viajan profundamente y se alojan de forma directa en los alveolos pulmonares.",
+          "isCorrect": true,
+          "rationale": "Su tama\u00f1o microsc\u00f3pico burla las defensas primarias e interfiere directamente en el intercambio de ox\u00edgeno."
+        },
+        {
+          "text": "Porque son las \u00fanicas part\u00edculas que contienen metales como el mercurio.",
+          "isCorrect": false,
+          "rationale": "Tanto el $PM_{10}$ como el $PM_{2.5}$ pueden contener metales; su diferencia cr\u00edtica es la profundidad de su alcance respiratorio."
+        }
+      ],
+      "hint": "Reflexione sobre la ubicaci\u00f3n final de estas part\u00edculas dentro del sistema respiratorio humano."
+    },
+    {
+      "question": "\u00bfQu\u00e9 cambio fundamental introdujo la actualizaci\u00f3n de los $ECA$ de aire en el a\u00f1o $2023$?",
+      "answerOptions": [
+        {
+          "text": "La eliminaci\u00f3n de los l\u00edmites para el di\u00f3xido de azufre.",
+          "isCorrect": false,
+          "rationale": "El di\u00f3xido de azufre sigue siendo un par\u00e1metro cr\u00edtico y no ha sido eliminado de las mediciones."
+        },
+        {
+          "text": "La inclusi\u00f3n de par\u00e1metros cr\u00edticos como ars\u00e9nico, cromo y cadmio.",
+          "isCorrect": true,
+          "rationale": "Esta actualizaci\u00f3n elev\u00f3 la complejidad t\u00e9cnica al sumar metales espec\u00edficos a las mediciones de material particulado."
+        },
+        {
+          "text": "La reducci\u00f3n de las multas para la peque\u00f1a miner\u00eda.",
+          "isCorrect": false,
+          "rationale": "La actualizaci\u00f3n se centr\u00f3 en par\u00e1metros t\u00e9cnicos de calidad, no en la estructura de sanciones administrativas."
+        },
+        {
+          "text": "La prohibici\u00f3n total de emisiones de mon\u00f3xido de carbono.",
+          "isCorrect": false,
+          "rationale": "La norma establece l\u00edmites permisibles de concentraci\u00f3n, no una prohibici\u00f3n absoluta de emisi\u00f3n de gases de combusti\u00f3n."
+        }
+      ],
+      "hint": "Se trata de la incorporaci\u00f3n de metales pesados espec\u00edficos para la industria pesada y minera."
+    },
+    {
+      "question": "Al realizar monitoreo de aire, \u00bfcu\u00e1l es el prop\u00f3sito de colocar una estaci\u00f3n a Barlovento?",
+      "answerOptions": [
+        {
+          "text": "Capturar el aire despu\u00e9s de que ha interactuado con la planta industrial.",
+          "isCorrect": false,
+          "rationale": "La captura del aire impactado por la planta se realiza en la zona de salida o Sotavento."
+        },
+        {
+          "text": "Medir la velocidad m\u00e1xima del viento para evitar da\u00f1os en los equipos.",
+          "isCorrect": false,
+          "rationale": "Aunque se mide el viento, el objetivo principal de la estaci\u00f3n es obtener la l\u00ednea base del aire entrante."
+        },
+        {
+          "text": "Obtener una medici\u00f3n del aire limpio de fondo antes de entrar a la zona de operaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Esto permite establecer una comparaci\u00f3n clara entre el aire que entra y el aire que sale del proyecto."
+        },
+        {
+          "text": "Reducir el ruido que generan los equipos de succi\u00f3n de part\u00edculas.",
+          "isCorrect": false,
+          "rationale": "La ubicaci\u00f3n responde a la direcci\u00f3n del viento y la representatividad de la muestra, no a la mitigaci\u00f3n ac\u00fastica."
+        }
+      ],
+      "hint": "Considere la direcci\u00f3n desde la cual sopla el viento hacia la instalaci\u00f3n industrial."
+    },
+    {
+      "question": "En la gesti\u00f3n de recursos h\u00eddricos, \u00bfqu\u00e9 caracteriza a las fuentes de agua de subnivel $A3$?",
+      "answerOptions": [
+        {
+          "text": "Son aguas tan puras que solo requieren una simple desinfecci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La descripci\u00f3n de pureza extrema y desinfecci\u00f3n simple corresponde al subnivel $A1$."
+        },
+        {
+          "text": "Son aguas destinadas exclusivamente al riego de cultivos de tallo corto.",
+          "isCorrect": false,
+          "rationale": "El subnivel $A3$ pertenece a la categor\u00eda de uso poblacional y recreacional, no espec\u00edficamente a riego agr\u00edcola."
+        },
+        {
+          "text": "Son fuentes con alta carga contaminante que exigen un tratamiento avanzado y complejo.",
+          "isCorrect": true,
+          "rationale": "Debido a su origen o exposici\u00f3n antr\u00f3pica, requieren procesos fisicoqu\u00edmicos intensos para ser potables."
+        },
+        {
+          "text": "Son aguas marinas destinadas a la extracci\u00f3n de moluscos.",
+          "isCorrect": false,
+          "rationale": "La extracci\u00f3n de moluscos y actividades marinocosteras pertenecen a categor\u00edas distintas del uso poblacional."
+        }
+      ],
+      "hint": "Piense en el ejemplo del r\u00edo R\u00edmac y el nivel de esfuerzo t\u00e9cnico requerido para potabilizar su agua."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una desventaja operativa de los sistemas activos de tratamiento de agua, como la neutralizaci\u00f3n con cal?",
+      "answerOptions": [
+        {
+          "text": "Requieren grandes extensiones de terreno para funcionar por decantaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El requerimiento de grandes extensiones de terreno es caracter\u00edstico de los sistemas pasivos como los humedales."
+        },
+        {
+          "text": "Generan una producci\u00f3n constante de lodos qu\u00edmicos que deben ser gestionados.",
+          "isCorrect": true,
+          "rationale": "Al inyectar reactivos, el sistema produce subproductos s\u00f3lidos que representan un reto log\u00edstico y ambiental adicional."
+        },
+        {
+          "text": "Son demasiado lentos para procesos industriales de alto volumen.",
+          "isCorrect": false,
+          "rationale": "Los sistemas activos son precisamente valorados por ser muy r\u00e1pidos y efectivos en cortos periodos."
+        },
+        {
+          "text": "Dependen exclusivamente de procesos biol\u00f3gicos naturales sin intervenci\u00f3n qu\u00edmica.",
+          "isCorrect": false,
+          "rationale": "Los sistemas activos se basan fundamentalmente en la intervenci\u00f3n qu\u00edmica directa mediante reactivos."
+        }
+      ],
+      "hint": "Piense en lo que sucede con los residuos resultantes tras a\u00f1adir qu\u00edmicos para neutralizar el agua."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define la naturaleza del suelo como receptor ambiental en comparaci\u00f3n con el aire o el agua?",
+      "answerOptions": [
+        {
+          "text": "Como un medio de dispersi\u00f3n vol\u00e1til y extremadamente veloz.",
+          "isCorrect": false,
+          "rationale": "La volatilidad y velocidad de dispersi\u00f3n son propiedades t\u00edpicas del aire, no del suelo."
+        },
+        {
+          "text": "Como un filtro tridimensional estacionario que retiene contaminantes.",
+          "isCorrect": true,
+          "rationale": "A diferencia del agua o aire que fluyen, el suelo acumula los agentes qu\u00edmicos en su estructura por largos periodos."
+        },
+        {
+          "text": "Como un recurso que no requiere monitoreo de profundidad.",
+          "isCorrect": false,
+          "rationale": "La caracterizaci\u00f3n del suelo exige obligatoriamente medir la profundidad del da\u00f1o debido a su naturaleza volum\u00e9trica."
+        },
+        {
+          "text": "Como un receptor din\u00e1mico que diluye contaminantes en cuesti\u00f3n de horas.",
+          "isCorrect": false,
+          "rationale": "El suelo no tiene la capacidad de diluci\u00f3n r\u00e1pida; por el contrario, tiende a concentrar y retener los contaminantes."
+        }
+      ],
+      "hint": "Considere la movilidad del medio y su capacidad para acumular sustancias a lo largo del tiempo."
+    },
+    {
+      "question": "En el proceso de remediaci\u00f3n de suelos, \u00bfcu\u00e1l es el objetivo de la Fase $2$ o Caracterizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Identificar \u00fanicamente el nombre del agente qu\u00edmico contaminante.",
+          "isCorrect": false,
+          "rationale": "La identificaci\u00f3n del agente es el objetivo de la Fase $1$, no de la caracterizaci\u00f3n detallada."
+        },
+        {
+          "text": "Medir cient\u00edficamente la magnitud, extensi\u00f3n horizontal y profundidad del da\u00f1o.",
+          "isCorrect": true,
+          "rationale": "Esta fase busca dimensionar el volumen total del impacto para poder dise\u00f1ar un plan de remediaci\u00f3n efectivo."
+        },
+        {
+          "text": "Ejecutar de inmediato las acciones de limpieza y disposici\u00f3n de tierras.",
+          "isCorrect": false,
+          "rationale": "La ejecuci\u00f3n de la limpieza corresponde a la Fase $3$ ($PDS$), una vez que se tiene la data de la caracterizaci\u00f3n."
+        },
+        {
+          "text": "Solicitar el cierre definitivo de la operaci\u00f3n industrial ante la autoridad.",
+          "isCorrect": false,
+          "rationale": "La caracterizaci\u00f3n es un paso t\u00e9cnico para la remediaci\u00f3n, no un tr\u00e1mite autom\u00e1tico de cierre de empresa."
+        }
+      ],
+      "hint": "Esta fase se enfoca en determinar 'cu\u00e1nto' y 'd\u00f3nde' est\u00e1 exactamente la contaminaci\u00f3n en las tres dimensiones."
+    },
+    {
+      "question": "\u00bfC\u00f3mo ayuda el an\u00e1lisis de incertidumbre metrol\u00f3gica en la defensa t\u00e9cnica de un proyecto?",
+      "answerOptions": [
+        {
+          "text": "Permite ignorar los resultados de laboratorio que superen el $ECA$.",
+          "isCorrect": false,
+          "rationale": "No permite ignorar resultados, sino interpretarlos cient\u00edficamente considerando el margen de error del equipo."
+        },
+        {
+          "text": "Garantiza que ning\u00fan equipo de medici\u00f3n falle durante el trabajo de campo.",
+          "isCorrect": false,
+          "rationale": "La incertidumbre no evita fallos, sino que cuantifica la variabilidad intr\u00ednseca de cualquier medici\u00f3n cient\u00edfica."
+        },
+        {
+          "text": "Valida si un exceso aparente est\u00e1 dentro del margen de error acreditado del instrumento.",
+          "isCorrect": true,
+          "rationale": "Al aplicar el margen de error, un valor ligeramente superior al l\u00edmite podr\u00eda ser matem\u00e1ticamente inferior al est\u00e1ndar legal."
+        },
+        {
+          "text": "Sustituye la necesidad de enviar muestras a laboratorios certificados.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el an\u00e1lisis de incertidumbre se basa en los certificados de calibraci\u00f3n y acreditaci\u00f3n de dichos laboratorios."
+        }
+      ],
+      "hint": "Piense en la variabilidad estad\u00edstica que tienen todos los instrumentos de medici\u00f3n, como los certificados por Inacal."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo de ruido permitido durante la noche en una zona de protecci\u00f3n especial?",
+      "answerOptions": [
+        {
+          "text": "$80$ decibeles.",
+          "isCorrect": false,
+          "rationale": "$80$ decibeles es un l\u00edmite diurno aceptable para zonas industriales, no para protecci\u00f3n especial nocturna."
+        },
+        {
+          "text": "$50$ decibeles.",
+          "isCorrect": false,
+          "rationale": "$50$ decibeles es el l\u00edmite permitido para zonas de protecci\u00f3n especial durante el d\u00eda, no durante la noche."
+        },
+        {
+          "text": "$40$ decibeles.",
+          "isCorrect": true,
+          "rationale": "Las zonas de protecci\u00f3n especial (como hospitales) exigen niveles de silencio muy estrictos durante el horario nocturno."
+        },
+        {
+          "text": "$70$ decibeles.",
+          "isCorrect": false,
+          "rationale": "Este nivel es demasiado elevado para zonas sensibles y corresponde a entornos comerciales o industriales ligeros."
+        }
+      ],
+      "hint": "Este es el valor m\u00e1s restrictivo de la norma para garantizar el descanso absoluto en lugares sensibles."
+    },
+    {
+      "question": "Bajo la Ley $31316$, \u00bfcu\u00e1l es la restricci\u00f3n de distancia para instalar iluminaci\u00f3n publicitaria cerca de ecosistemas fr\u00e1giles?",
+      "answerOptions": [
+        {
+          "text": "No existe restricci\u00f3n de distancia mientras se paguen los derechos municipales.",
+          "isCorrect": false,
+          "rationale": "La ley establece una frontera f\u00edsica clara para proteger la biodiversidad de la contaminaci\u00f3n lum\u00ednica."
+        },
+        {
+          "text": "A una distancia no menor de $500$ metros de los l\u00edmites del ecosistema.",
+          "isCorrect": true,
+          "rationale": "Esta es una restricci\u00f3n operativa directa que busca mitigar el impacto de la luz artificial en la fauna y flora nocturna."
+        },
+        {
+          "text": "A una distancia de $100$ metros si se utilizan luces de tipo $LED$.",
+          "isCorrect": false,
+          "rationale": "La norma de distancia es absoluta y no hace distinciones basadas \u00fanicamente en la tecnolog\u00eda de la luminaria."
+        },
+        {
+          "text": "\u00danicamente en zonas que no tengan presencia de aves migratorias.",
+          "isCorrect": false,
+          "rationale": "La protecci\u00f3n se aplica a cualquier ecosistema catalogado como fr\u00e1gil, independientemente de la especie espec\u00edfica."
+        }
+      ],
+      "hint": "Se trata de medio kil\u00f3metro de separaci\u00f3n para proteger la oscuridad natural del \u00e1rea."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tipo de estudio ambiental requiere un proyecto clasificado en la Categor\u00eda $III$ del $SEIA$?",
+      "answerOptions": [
+        {
+          "text": "Declaraci\u00f3n de Impacto Ambiental ($DIA$).",
+          "isCorrect": false,
+          "rationale": "La $DIA$ es el instrumento correspondiente a la Categor\u00eda $I$ para impactos muy leves."
+        },
+        {
+          "text": "Estudio de Impacto Ambiental semidetallado ($EIA-sd$).",
+          "isCorrect": false,
+          "rationale": "El $EIA-sd$ corresponde a la Categor\u00eda $II$ para proyectos con impactos moderados."
+        },
+        {
+          "text": "Estudio de Impacto Ambiental detallado ($EIA-d$).",
+          "isCorrect": true,
+          "rationale": "La Categor\u00eda $III$ es para proyectos con impactos significativos que requieren un an\u00e1lisis profundo y planes de contingencia masivos."
+        },
+        {
+          "text": "Un Informe T\u00e9cnico Sustentatorio ($ITS$) simplificado.",
+          "isCorrect": false,
+          "rationale": "Los proyectos de gran envergadura (Categor\u00eda $III$) no pueden operar con instrumentos simplificados por su alto riesgo."
+        }
+      ],
+      "hint": "Esta categor\u00eda est\u00e1 reservada para la gran industria y miner\u00eda pesada con impactos significativos."
+    },
+    {
+      "question": "En la redacci\u00f3n de informes ambientales, \u00bfcu\u00e1l es la diferencia cr\u00edtica entre los t\u00e9rminos 'debe' y 'puede'?",
+      "answerOptions": [
+        {
+          "text": "Ambos t\u00e9rminos significan que la acci\u00f3n es de cumplimiento obligatorio.",
+          "isCorrect": false,
+          "rationale": "Existe una distinci\u00f3n legal y sem\u00e1ntica fundamental entre una obligaci\u00f3n y una opci\u00f3n sugerida."
+        },
+        {
+          "text": "'Debe' es un requisito vinculante e imperativo; 'puede' es una recomendaci\u00f3n t\u00e9cnica.",
+          "isCorrect": true,
+          "rationale": "Confundir estos t\u00e9rminos en una auditor\u00eda puede convertir una sugerencia en una obligaci\u00f3n legal exigible."
+        },
+        {
+          "text": "'Puede' se utiliza para leyes nacionales y 'debe' para normas internas de la empresa.",
+          "isCorrect": false,
+          "rationale": "La diferencia radica en el grado de obligatoriedad del requisito, no en el origen jer\u00e1rquico de la norma."
+        },
+        {
+          "text": "No existe ninguna diferencia real en el marco de la fiscalizaci\u00f3n ambiental.",
+          "isCorrect": false,
+          "rationale": "Para los auditores, la sem\u00e1ntica define si un incumplimiento es sancionable o simplemente una oportunidad de mejora."
+        }
+      ],
+      "hint": "Uno implica una orden ineludible, mientras que el otro sugiere una posibilidad u opci\u00f3n t\u00e9cnica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el di\u00e1metro promedio de un cabello humano utilizado como referencia para entender el material particulado?",
+      "answerOptions": [
+        {
+          "text": "$10$ a $25$ micras.",
+          "isCorrect": false,
+          "rationale": "Este rango es demasiado peque\u00f1o y se acerca m\u00e1s al tama\u00f1o de las part\u00edculas contaminantes que al del cabello."
+        },
+        {
+          "text": "$50$ a $70$ micras.",
+          "isCorrect": true,
+          "rationale": "Esta referencia visual ayuda a dimensionar cu\u00e1n peque\u00f1as son las part\u00edculas $PM_{10}$ y $PM_{2.5}$ en comparaci\u00f3n con algo visible."
+        },
+        {
+          "text": "$100$ a $150$ micras.",
+          "isCorrect": false,
+          "rationale": "Un di\u00e1metro de $100$ micras o m\u00e1s exceder\u00eda el promedio t\u00edpico de un cabello humano utilizado en gesti\u00f3n ambiental."
+        },
+        {
+          "text": "Menos de $2.5$ micras.",
+          "isCorrect": false,
+          "rationale": "Este es el tama\u00f1o de las part\u00edculas m\u00e1s peligrosas, las cuales son invisibles y mucho m\u00e1s delgadas que un cabello."
+        }
+      ],
+      "hint": "Piense en el n\u00famero que se mencion\u00f3 para crear una imagen mental del tama\u00f1o aerodin\u00e1mico de la amenaza invisible."
+    },
+    {
+      "question": "Ante la sospecha de riesgo por part\u00edculas ultrafinas de $0.1$ $\\mu m$, \u00bfqu\u00e9 principio debe aplicar una operaci\u00f3n de primer nivel?",
+      "answerOptions": [
+        {
+          "text": "Principio de legalidad estricta.",
+          "isCorrect": false,
+          "rationale": "Este principio solo obligar\u00eda a actuar si ya existiera una norma escrita, ignorando riesgos emergentes no regulados."
+        },
+        {
+          "text": "Principio precautorio.",
+          "isCorrect": true,
+          "rationale": "Exige adelantarse y mitigar impactos ante la sospecha de riesgo, incluso si no hay una norma universal escrita a\u00fan."
+        },
+        {
+          "text": "Principio de gradualismo.",
+          "isCorrect": false,
+          "rationale": "El gradualismo se refiere a la aplicaci\u00f3n progresiva de normas, no a la acci\u00f3n inmediata ante riesgos invisibles."
+        },
+        {
+          "text": "Principio de confidencialidad t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n ambiental de excelencia prioriza la transparencia y la mitigaci\u00f3n sobre la reserva de informaci\u00f3n de riesgos."
+        }
+      ],
+      "hint": "Este principio dicta actuar para prevenir da\u00f1os aun cuando no exista certeza cient\u00edfica total o normativa espec\u00edfica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00eda permite obtener datos de calidad del aire en tiempo real mediante reacciones de luz a nivel molecular?",
+      "answerOptions": [
+        {
+          "text": "Microbalanzas c\u00f3nicas oscilantes.",
+          "isCorrect": false,
+          "rationale": "Las microbalanzas miden masa f\u00edsica de part\u00edculas, no reacciones lum\u00ednicas moleculares."
+        },
+        {
+          "text": "An\u00e1lisis por gravimetr\u00eda manual.",
+          "isCorrect": false,
+          "rationale": "La gravimetr\u00eda es un m\u00e9todo de pesaje en laboratorio que no ofrece resultados en tiempo real."
+        },
+        {
+          "text": "Quimioluminiscencia autom\u00e1tica.",
+          "isCorrect": true,
+          "rationale": "Esta tecnolog\u00eda avanzada permite detectar concentraciones de gases mediante la luz emitida en reacciones qu\u00edmicas espec\u00edficas."
+        },
+        {
+          "text": "Neutralizaci\u00f3n por inyecci\u00f3n de cal.",
+          "isCorrect": false,
+          "rationale": "Este es un proceso de tratamiento de agua y no una tecnolog\u00eda de medici\u00f3n de aire."
+        }
+      ],
+      "hint": "El nombre de esta tecnolog\u00eda combina conceptos de qu\u00edmica y emisi\u00f3n de luz."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se dice que el aire no conoce fronteras en el contexto de los est\u00e1ndares ambientales?",
+      "answerOptions": [
+        {
+          "text": "Porque su dispersi\u00f3n es tan r\u00e1pida que obliga a una evoluci\u00f3n constante de las normas.",
+          "isCorrect": true,
+          "rationale": "La volatilidad del aire hace que los impactos se trasladen r\u00e1pido, exigiendo que los est\u00e1ndares sigan el ritmo de la industria."
+        },
+        {
+          "text": "Porque las leyes peruanas de aire se aplican autom\u00e1ticamente en otros pa\u00edses.",
+          "isCorrect": false,
+          "rationale": "Las leyes son nacionales; la frase se refiere al comportamiento f\u00edsico del contaminante, no a la jurisdicci\u00f3n legal."
+        },
+        {
+          "text": "Porque el aire no puede ser medido mediante estaciones fijas de monitoreo.",
+          "isCorrect": false,
+          "rationale": "El aire s\u00ed se mide con estaciones fijas, precisamente para capturar su movimiento a trav\u00e9s de un punto dado."
+        },
+        {
+          "text": "Porque las part\u00edculas de $PM_{10}$ son demasiado pesadas para viajar largas distancias.",
+          "isCorrect": false,
+          "rationale": "Aunque son m\u00e1s pesadas que las $PM_{2.5}$, las part\u00edculas $PM_{10}$ tambi\u00e9n se dispersan significativamente con el viento."
+        }
+      ],
+      "hint": "Reflexione sobre la volatilidad del medio y la necesidad de que la regulaci\u00f3n sea din\u00e1mica."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Diferenciaci\u00f3n entre Est\u00e1ndares de Calidad Ambiental (ECA) y L\u00edmites M\u00e1ximos Permisibles (LMP)",
+      "Marco Legal Ambiental Peruano (Ley 28611 y Regla de Temporalidad)",
+      "Gesti\u00f3n de Calidad del Aire y Material Particulado ($PM_{10}$, $PM_{2.5}$)",
+      "Monitoreo de Emisiones y Estaciones de Barlovento y Sotavento",
+      "Gesti\u00f3n de Recursos H\u00eddricos y Sistemas de Tratamiento",
+      "Remediaci\u00f3n de Suelos y Fases de Caracterizaci\u00f3n",
+      "Est\u00e1ndares de Ruido y Contaminaci\u00f3n Lum\u00ednica",
+      "Sistema Nacional de Evaluaci\u00f3n de Impacto Ambiental (SEIA)"
+    ],
+    "followUp": [
+      "Protocolos espec\u00edficos de fiscalizaci\u00f3n ambiental por la OEFA",
+      "Metodolog\u00edas para la elaboraci\u00f3n de Planes de Descontaminaci\u00f3n de Suelos (PDS)",
+      "Criterios de acreditaci\u00f3n de laboratorios ambientales ante el INACAL",
+      "Dise\u00f1o avanzado de humedales artificiales para tratamiento de aguas mineras",
+      "Modelamiento de dispersi\u00f3n de contaminantes atmosf\u00e9ricos"
+    ]
+  }
+}

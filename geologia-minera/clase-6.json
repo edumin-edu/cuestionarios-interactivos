@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l fue la prueba f\u00edsica irrefutable que permiti\u00f3 descubrir el fraude en el proyecto Busang (caso Bre-X)?",
+      "answerOptions": [
+        {
+          "text": "La morfolog\u00eda redondeada de las part\u00edculas de oro bajo el microscopio.",
+          "isCorrect": true,
+          "rationale": "El oro de r\u00edo o aluvial presenta formas redondeadas por el transporte, a diferencia del oro in situ que es anguloso."
+        },
+        {
+          "text": "La ausencia total de oro en los an\u00e1lisis qu\u00edmicos de laboratorio.",
+          "isCorrect": false,
+          "rationale": "El fraude consist\u00eda precisamente en agregar oro (salting) para que los an\u00e1lisis qu\u00edmicos reportaran leyes alt\u00edsimas."
+        },
+        {
+          "text": "La profundidad excesiva de los pozos de perforaci\u00f3n realizados.",
+          "isCorrect": false,
+          "rationale": "La profundidad de perforaci\u00f3n no fue el factor determinante, sino la manipulaci\u00f3n de las muestras obtenidas de dichos pozos."
+        },
+        {
+          "text": "El uso de m\u00e9todos geof\u00edsicos no autorizados por la normativa internacional.",
+          "isCorrect": false,
+          "rationale": "Aunque se usaron diversos m\u00e9todos, fue la geolog\u00eda forense aplicada a las muestras f\u00edsicas la que revel\u00f3 la verdad."
+        }
+      ],
+      "hint": "Observe la diferencia entre el oro que nace en la roca y el que ha sido transportado por agua."
+    },
+    {
+      "question": "\u00bfQu\u00e9 figura profesional es obligatoria y asume la responsabilidad legal de la veracidad de los datos seg\u00fan la norma $NI43101$?",
+      "answerOptions": [
+        {
+          "text": "La Persona Calificada o Persona Competente.",
+          "isCorrect": true,
+          "rationale": "Esta figura debe validar y firmar toda la informaci\u00f3n t\u00e9cnica, asumiendo las consecuencias legales de la integridad de los datos."
+        },
+        {
+          "text": "El Director de Finanzas de la compa\u00f1\u00eda minera.",
+          "isCorrect": false,
+          "rationale": "Aunque es responsable de los estados financieros, la norma t\u00e9cnica exige espec\u00edficamente un profesional con experiencia t\u00e9cnica en geolog\u00eda o miner\u00eda."
+        },
+        {
+          "text": "El Gerente General de la operaci\u00f3n en campo.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad t\u00e9cnica y legal espec\u00edfica ante los est\u00e1ndares internacionales recae en un profesional t\u00e9cnico certificado, no necesariamente en la gerencia administrativa."
+        },
+        {
+          "text": "El Auditor Externo de la bolsa de valores.",
+          "isCorrect": false,
+          "rationale": "El auditor revisa procesos, pero la norma exige que un profesional competente firme y valide el contenido t\u00e9cnico desde su origen."
+        }
+      ],
+      "hint": "Se trata de un experto con certificaci\u00f3n espec\u00edfica para validar recursos y reservas."
+    },
+    {
+      "question": "En los protocolos $QA/QC$, \u00bfcu\u00e1l es el objetivo principal de utilizar muestras de 'Blancos'?",
+      "answerOptions": [
+        {
+          "text": "Detectar la contaminaci\u00f3n cruzada entre muestras en el laboratorio.",
+          "isCorrect": true,
+          "rationale": "Al usar roca est\u00e9ril, cualquier valor positivo de mineral indica que los equipos no fueron limpiados correctamente entre procesos."
+        },
+        {
+          "text": "Calibrar la exactitud de los equipos de medici\u00f3n qu\u00edmica.",
+          "isCorrect": false,
+          "rationale": "La calibraci\u00f3n de exactitud se realiza con est\u00e1ndares certificados de leyes conocidas, no con material est\u00e9ril."
+        },
+        {
+          "text": "Evaluar la variabilidad del error humano durante el muestreo.",
+          "isCorrect": false,
+          "rationale": "La variabilidad del error humano y la precisi\u00f3n del proceso se eval\u00faan mediante el uso de muestras duplicadas."
+        },
+        {
+          "text": "Determinar la densidad promedio de la roca mineralizada.",
+          "isCorrect": false,
+          "rationale": "La densidad es una propiedad f\u00edsica que se mide de forma independiente y no forma parte del control de contaminaci\u00f3n por blancos."
+        }
+      ],
+      "hint": "Piense en lo que sucede si queda polvo de una muestra rica en oro dentro de una trituradora."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de los 'Est\u00e1ndares Certificados' dentro de una auditor\u00eda de base de datos geocient\u00edfica?",
+      "answerOptions": [
+        {
+          "text": "Medir qu\u00e9 tan exactos son los resultados que entrega el laboratorio.",
+          "isCorrect": true,
+          "rationale": "Al conocer de antemano el valor exacto de la muestra, se puede verificar si el laboratorio tiene errores de calibraci\u00f3n."
+        },
+        {
+          "text": "Comprobar que los protocolos de limpieza sean perfectos.",
+          "isCorrect": false,
+          "rationale": "La limpieza se comprueba con los blancos, mientras que los est\u00e1ndares se enfocan en la veracidad del valor reportado."
+        },
+        {
+          "text": "Identificar errores en el corte de los testigos de perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los errores de corte se identifican mediante duplicados de campo, no con materiales de referencia internacional."
+        },
+        {
+          "text": "Establecer la trayectoria exacta del sondaje bajo tierra.",
+          "isCorrect": false,
+          "rationale": "La trayectoria se mide con herramientas de desviaci\u00f3n (survey) y no tiene relaci\u00f3n con los est\u00e1ndares qu\u00edmicos."
+        }
+      ],
+      "hint": "Son muestras preparadas internacionalmente con valores de ley ya conocidos con precisi\u00f3n absoluta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 aspecto de la calidad de los datos se eval\u00faa espec\u00edficamente mediante el uso de 'Duplicados'?",
+      "answerOptions": [
+        {
+          "text": "La precisi\u00f3n y la consistencia de los m\u00e9todos de muestreo.",
+          "isCorrect": true,
+          "rationale": "Comparar dos mitades o partes de la misma muestra permite verificar si los resultados son repetibles y estad\u00edsticamente consistentes."
+        },
+        {
+          "text": "La presencia de leyes de oro anormalmente altas o err\u00e1ticas.",
+          "isCorrect": false,
+          "rationale": "Detectar leyes altas es parte del proceso de ensayo general, no el objetivo espec\u00edfico de la m\u00e9trica de precisi\u00f3n por duplicados."
+        },
+        {
+          "text": "La ubicaci\u00f3n geogr\u00e1fica del punto de inicio de la perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La ubicaci\u00f3n se gestiona mediante el archivo collar y mediciones topogr\u00e1ficas, no mediante duplicados qu\u00edmicos."
+        },
+        {
+          "text": "El grado de fracturamiento f\u00edsico de la roca s\u00f3lida.",
+          "isCorrect": false,
+          "rationale": "El fracturamiento se mide a trav\u00e9s del $RQD$ durante el logueo geol\u00f3gico, no mediante an\u00e1lisis de duplicados en laboratorio."
+        }
+      ],
+      "hint": "Imagine comparar dos mitades de un mismo cilindro de roca para ver si el corte fue adecuado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 informaci\u00f3n cr\u00edtica proporciona el archivo 'Collar' en una base de datos geol\u00f3gica?",
+      "answerOptions": [
+        {
+          "text": "La coordenada exacta en $3D$ donde la perforadora inici\u00f3 el sondaje.",
+          "isCorrect": true,
+          "rationale": "Funciona como el ancla del proyecto; si este punto es err\u00f3neo, toda la informaci\u00f3n de profundidad estar\u00e1 desplazada."
+        },
+        {
+          "text": "La trayectoria curva que sigue la broca al desviarse bajo tierra.",
+          "isCorrect": false,
+          "rationale": "Esa informaci\u00f3n corresponde al archivo 'Survey' o de desviaci\u00f3n, no al punto de inicio superficial."
+        },
+        {
+          "text": "Los resultados de los ensayos qu\u00edmicos validados por $QA/QC$.",
+          "isCorrect": false,
+          "rationale": "Los resultados qu\u00edmicos se almacenan en el archivo 'Assay' o de ensayos."
+        },
+        {
+          "text": "El registro fotogr\u00e1fico de alta resoluci\u00f3n de las cajas de roca.",
+          "isCorrect": false,
+          "rationale": "Las fotos son archivos de soporte visual y no forman parte de las tres tablas maestras de coordenadas y leyes."
+        }
+      ],
+      "hint": "Es el punto de contacto inicial entre la maquinaria y la superficie terrestre."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es vital el uso de giroscopios para generar el archivo 'Survey'?",
+      "answerOptions": [
+        {
+          "text": "Porque las brocas de perforaci\u00f3n casi nunca viajan en l\u00ednea recta perfecta.",
+          "isCorrect": true,
+          "rationale": "La desviaci\u00f3n natural de la perforaci\u00f3n requiere mediciones peri\u00f3dicas para conocer la posici\u00f3n real del sondaje en profundidad."
+        },
+        {
+          "text": "Para determinar el valor econ\u00f3mico final de la roca extra\u00edda.",
+          "isCorrect": false,
+          "rationale": "El valor econ\u00f3mico depende de los ensayos qu\u00edmicos (assay), no de la trayectoria f\u00edsica del pozo."
+        },
+        {
+          "text": "Para capturar fotograf\u00edas de alta resoluci\u00f3n dentro del pozo.",
+          "isCorrect": false,
+          "rationale": "El survey mide orientaci\u00f3n (azimut e inclinaci\u00f3n), no captura im\u00e1genes visuales de la roca."
+        },
+        {
+          "text": "Para medir la cantidad de agua presente en las fracturas de la roca.",
+          "isCorrect": false,
+          "rationale": "La medici\u00f3n de agua o humedad no es el prop\u00f3sito de las herramientas de desviaci\u00f3n o survey."
+        }
+      ],
+      "hint": "Considere que la resistencia de la roca hace que la perforaci\u00f3n se desv\u00ede de su trayectoria original."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece el 'Principio de Estacionariedad' en el modelamiento de recursos?",
+      "answerOptions": [
+        {
+          "text": "La necesidad de mantener homogeneidad estad\u00edstica dentro de un mismo dominio geol\u00f3gico.",
+          "isCorrect": true,
+          "rationale": "Este principio proh\u00edbe mezclar poblaciones de datos distintas (como peras con manzanas) para no invalidar los c\u00e1lculos matem\u00e1ticos."
+        },
+        {
+          "text": "La obligaci\u00f3n de detener la producci\u00f3n minera si los precios del metal caen.",
+          "isCorrect": false,
+          "rationale": "La estacionariedad es un concepto estad\u00edstico de modelado, no una regla de mercado sobre la continuidad operativa."
+        },
+        {
+          "text": "Que el modelo tridimensional no debe actualizarse nunca una vez finalizado.",
+          "isCorrect": false,
+          "rationale": "Al contrario, los modelos deben ser din\u00e1micos; la estacionariedad se refiere a la coherencia de los datos en el momento del c\u00e1lculo."
+        },
+        {
+          "text": "Que la ubicaci\u00f3n de la planta de procesos debe estar siempre cerca de la mina.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino no se refiere a la ubicaci\u00f3n f\u00edsica de instalaciones, sino a la consistencia de las leyes dentro de un dominio."
+        }
+      ],
+      "hint": "Piense en por qu\u00e9 no se deben promediar leyes de sistemas geol\u00f3gicos totalmente diferentes en un mismo bloque."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja del modelado impl\u00edcito frente al modelado expl\u00edcito tradicional?",
+      "answerOptions": [
+        {
+          "text": "Permite realizar actualizaciones din\u00e1micas mediante algoritmos potentes.",
+          "isCorrect": true,
+          "rationale": "El modelado impl\u00edcito usa herramientas como Leapfrog para generar s\u00f3lidos autom\u00e1ticamente, facilitando cambios r\u00e1pidos."
+        },
+        {
+          "text": "Elimina por completo la necesidad de supervisi\u00f3n humana en el dise\u00f1o.",
+          "isCorrect": false,
+          "rationale": "La supervisi\u00f3n humana es cr\u00edtica para evitar errores como los 'ojitos volando' generados por el software."
+        },
+        {
+          "text": "Reduce el costo de las licencias de software a menos de $\\$5,000$ anuales.",
+          "isCorrect": false,
+          "rationale": "El costo de estas licencias especializadas es elevado, oscilando entre los $\\$30,000$ y $\\$40,000$ anuales."
+        },
+        {
+          "text": "Garantiza que no existan fallas geol\u00f3gicas en el yacimiento.",
+          "isCorrect": false,
+          "rationale": "El software modela la realidad existente, pero no puede alterar o eliminar las caracter\u00edsticas estructurales naturales como las fallas."
+        }
+      ],
+      "hint": "Se relaciona con la velocidad de procesamiento y la generaci\u00f3n de geometr\u00edas complejas mediante software."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo se mitiga al implementar 'Bordes Duros' (Hard Boundaries) en el modelo de bloques?",
+      "answerOptions": [
+        {
+          "text": "La contaminaci\u00f3n estad\u00edstica de zonas est\u00e9riles con leyes de zonas de alta concentraci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Los bordes duros impiden que el software suavice o difumine las leyes altas hacia \u00e1reas que no tienen mineralizaci\u00f3n."
+        },
+        {
+          "text": "El fracturamiento excesivo de la roca durante la voladura.",
+          "isCorrect": false,
+          "rationale": "El control de voladura es un proceso operativo f\u00edsico; el borde duro es un l\u00edmite matem\u00e1tico en el modelo digital."
+        },
+        {
+          "text": "La ca\u00edda accidental de maquinaria pesada en zonas de tajeo antiguo.",
+          "isCorrect": false,
+          "rationale": "Los bordes duros definen l\u00edmites de estimaci\u00f3n de leyes, no son barreras f\u00edsicas de seguridad en la mina."
+        },
+        {
+          "text": "El error en la lectura de coordenadas del GPS de superficie.",
+          "isCorrect": false,
+          "rationale": "Los errores de GPS se corrigen en la etapa de captura de datos (collar), no mediante l\u00edmites de dominio en el modelamiento."
+        }
+      ],
+      "hint": "Imagine una barrera que impide que el 'brillo' de una zona rica se extienda artificialmente a una zona vac\u00eda."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la tr\u00edada fundamental utilizada para construir s\u00f3lidos coherentes con la realidad f\u00edsica del yacimiento?",
+      "answerOptions": [
+        {
+          "text": "Litolog\u00eda, alteraci\u00f3n y mineralizaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Estas tres caracter\u00edsticas geol\u00f3gicas deben conversar entre s\u00ed para definir con precisi\u00f3n la geometr\u00eda del modelo $3D$."
+        },
+        {
+          "text": "Presupuesto, tiempo y mano de obra.",
+          "isCorrect": false,
+          "rationale": "Aunque son importantes para la gesti\u00f3n de proyectos, no son los pilares t\u00e9cnicos para la construcci\u00f3n de s\u00f3lidos geol\u00f3gicos."
+        },
+        {
+          "text": "Oro, plata y cobre.",
+          "isCorrect": false,
+          "rationale": "Estos son los elementos econ\u00f3micos, pero los s\u00f3lidos se construyen bas\u00e1ndose en las caracter\u00edsticas de la roca que los contiene."
+        },
+        {
+          "text": "Software, hardware y conectividad.",
+          "isCorrect": false,
+          "rationale": "Son herramientas de soporte, pero la tr\u00edada t\u00e9cnica se refiere a las observaciones geol\u00f3gicas realizadas en la roca."
+        }
+      ],
+      "hint": "Son las tres capas de informaci\u00f3n geol\u00f3gica que se observan directamente en los testigos de perforaci\u00f3n."
+    },
+    {
+      "question": "Para que un recurso mineral sea clasificado como 'Medido' (color rojo), \u00bfqu\u00e9 condici\u00f3n de espaciamiento suele requerirse?",
+      "answerOptions": [
+        {
+          "text": "Mallas de perforaci\u00f3n estrechas, generalmente a distancias menores de $25\\text{ m}$.",
+          "isCorrect": true,
+          "rationale": "La alta confianza econ\u00f3mica de los recursos medidos exige una densidad de informaci\u00f3n muy alta."
+        },
+        {
+          "text": "Perforaciones distanciadas a m\u00e1s de $100\\text{ m}$ para cubrir m\u00e1s \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "Distancias tan amplias suelen categorizar los recursos como 'Inferidos' debido a la baja certidumbre."
+        },
+        {
+          "text": "Solo se requiere un sondaje profundo que atraviese el centro del cuerpo.",
+          "isCorrect": false,
+          "rationale": "Un solo sondaje no proporciona la continuidad estad\u00edstica necesaria para clasificar un recurso como medido."
+        },
+        {
+          "text": "Cualquier distancia es v\u00e1lida siempre que el ge\u00f3logo firme el reporte.",
+          "isCorrect": false,
+          "rationale": "La clasificaci\u00f3n depende de la variograf\u00eda y densidad de datos, no solo de la firma del profesional."
+        }
+      ],
+      "hint": "Es la categor\u00eda que representa la mayor seguridad econ\u00f3mica y requiere mucha informaci\u00f3n cercana."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el concepto de 'Cut-off' en la evaluaci\u00f3n econ\u00f3mica de una mina?",
+      "answerOptions": [
+        {
+          "text": "El costo total por tonelada que el valor del mineral debe superar para ser rentable.",
+          "isCorrect": true,
+          "rationale": "En el ejemplo mencionado, si el costo total es de $\\$66.96$, cualquier roca por debajo de ese valor no se considera recurso explotable."
+        },
+        {
+          "text": "La profundidad m\u00e1xima a la que puede llegar una perforadora de diamante.",
+          "isCorrect": false,
+          "rationale": "El cut-off es un l\u00edmite econ\u00f3mico de valor o ley, no una limitaci\u00f3n t\u00e9cnica de profundidad de maquinaria."
+        },
+        {
+          "text": "El porcentaje de mineral que se pierde inevitablemente en la planta de procesos.",
+          "isCorrect": false,
+          "rationale": "Ese concepto se refiere a la recuperaci\u00f3n metal\u00fargica, no al l\u00edmite de corte econ\u00f3mico."
+        },
+        {
+          "text": "La fecha l\u00edmite para entregar el reporte de recursos a los accionistas.",
+          "isCorrect": false,
+          "rationale": "El cut-off es un par\u00e1metro t\u00e9cnico-econ\u00f3mico constante en la operaci\u00f3n, no una fecha de entrega administrativa."
+        }
+      ],
+      "hint": "Es la barrera econ\u00f3mica que separa lo que es 'mineral' de lo que es simplemente 'roca est\u00e9ril'."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afecta la 'diluci\u00f3n operativa' a la ley de cabeza de los metales en la planta?",
+      "answerOptions": [
+        {
+          "text": "Provoca una ca\u00edda inmediata de la ley al mezclar el mineral con roca est\u00e9ril.",
+          "isCorrect": true,
+          "rationale": "Al extraer m\u00e1s volumen del planificado incorporando material sin valor, la ley promedio resultante disminuye."
+        },
+        {
+          "text": "Aumenta la ley del metal al concentrar m\u00e1s volumen en menos tiempo.",
+          "isCorrect": false,
+          "rationale": "La diluci\u00f3n siempre empobrece la mezcla; nunca aumenta la concentraci\u00f3n de metal por tonelada."
+        },
+        {
+          "text": "No tiene impacto en la ley, solo aumenta los costos de transporte.",
+          "isCorrect": false,
+          "rationale": "Adem\u00e1s de aumentar costos, el impacto principal y m\u00e1s grave es la reducci\u00f3n de la ley de los metales."
+        },
+        {
+          "text": "Mejora la eficiencia de recuperaci\u00f3n metal\u00fargica en las celdas de flotaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La diluci\u00f3n suele perjudicar la eficiencia de la planta al introducir material no deseado en el proceso."
+        }
+      ],
+      "hint": "Piense en el efecto de agregar agua a un jugo concentrado: el volumen sube, pero el sabor se debilita."
+    },
+    {
+      "question": "En el ejemplo del plomo, \u00bfqu\u00e9 ocurri\u00f3 con la ley del $4\\%$ al aumentar el ancho del tajeo de $3\\text{ m}$ a $3.5\\text{ m}$?",
+      "answerOptions": [
+        {
+          "text": "La ley se desplom\u00f3 del $4\\%$ al $3.76\\%$.",
+          "isCorrect": true,
+          "rationale": "Este es un ejemplo claro de c\u00f3mo un error de medio metro en la voladura destruye el valor planificado."
+        },
+        {
+          "text": "La ley se mantuvo constante gracias a la compensaci\u00f3n de volumen.",
+          "isCorrect": false,
+          "rationale": "El aumento de volumen fue por material est\u00e9ril, por lo que matem\u00e1ticamente es imposible que la ley se mantenga constante."
+        },
+        {
+          "text": "La ley subi\u00f3 al $4.25\\%$ debido a la mayor exposici\u00f3n de la beta.",
+          "isCorrect": false,
+          "rationale": "La exposici\u00f3n adicional fue de roca de caja (est\u00e9ril), lo que diluye y baja la ley original."
+        },
+        {
+          "text": "El valor se duplic\u00f3 al haber extra\u00eddo m\u00e1s toneladas totales.",
+          "isCorrect": false,
+          "rationale": "Extraer m\u00e1s toneladas no significa m\u00e1s valor si esas toneladas adicionales no contienen mineral."
+        }
+      ],
+      "hint": "Es un caso de estudio sobre c\u00f3mo una variaci\u00f3n milim\u00e9trica genera p\u00e9rdidas financieras."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia principal entre un 'Quicklog' y un 'Logueo Detallado'?",
+      "answerOptions": [
+        {
+          "text": "La rapidez para la toma de decisiones diarias frente al detalle para modelos auditables.",
+          "isCorrect": true,
+          "rationale": "Los quicklogs sirven para reportes diarios r\u00e1pidos, mientras que el logueo detallado es la base del modelo $3D$ a largo plazo."
+        },
+        {
+          "text": "El quicklog solo se hace en papel y el detallado solo en formato digital.",
+          "isCorrect": false,
+          "rationale": "Ambos pueden ser digitales; la diferencia radica en la profundidad y precisi\u00f3n de la informaci\u00f3n recolectada."
+        },
+        {
+          "text": "El quicklog lo hacen los ayudantes y el detallado solo la Persona Calificada.",
+          "isCorrect": false,
+          "rationale": "Generalmente, ambos son realizados por ge\u00f3logos, pero con distintos objetivos de tiempo y nivel de detalle."
+        },
+        {
+          "text": "No hay diferencia; son dos nombres para el mismo proceso de registro.",
+          "isCorrect": false,
+          "rationale": "Existen dos velocidades de procesamiento de datos seg\u00fan la urgencia de la operaci\u00f3n o la planificaci\u00f3n estrat\u00e9gica."
+        }
+      ],
+      "hint": "Uno se enfoca en la operaci\u00f3n inmediata de la mina y el otro en la construcci\u00f3n del modelo estrat\u00e9gico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de los siguientes archivos NO forma parte de la tr\u00edada esencial de la base de datos geocient\u00edfica?",
+      "answerOptions": [
+        {
+          "text": "Archivo de Inventario de Almac\u00e9n.",
+          "isCorrect": true,
+          "rationale": "Los archivos esenciales son Collar, Survey y Assay; el inventario es administrativo y no define la geometr\u00eda del subsuelo."
+        },
+        {
+          "text": "Archivo Collar.",
+          "isCorrect": false,
+          "rationale": "Es fundamental porque define las coordenadas de inicio de cada perforaci\u00f3n."
+        },
+        {
+          "text": "Archivo Survey.",
+          "isCorrect": false,
+          "rationale": "Es cr\u00edtico para conocer la trayectoria y desviaci\u00f3n de los sondajes bajo tierra."
+        },
+        {
+          "text": "Archivo Assay.",
+          "isCorrect": false,
+          "rationale": "Es vital porque contiene los valores qu\u00edmicos y leyes del mineral."
+        }
+      ],
+      "hint": "Piense en los tres archivos t\u00e9cnicos que permiten dibujar los sondajes en un software $3D$."
+    },
+    {
+      "question": "\u00bfQu\u00e9 utilidad tiene la medici\u00f3n del $RQD$ durante la captura de datos en las cajas de sondaje?",
+      "answerOptions": [
+        {
+          "text": "Proporcionar informaci\u00f3n sobre el grado de fracturamiento para modelos geot\u00e9cnicos.",
+          "isCorrect": true,
+          "rationale": "El $RQD$ indica la calidad de la masa rocosa, lo cual es vital para el dise\u00f1o seguro de la mina."
+        },
+        {
+          "text": "Calcular directamente el precio de venta del concentrado de cobre.",
+          "isCorrect": false,
+          "rationale": "El precio de venta depende del mercado y la ley qu\u00edmica, no del estado f\u00edsico de fracturamiento de la roca."
+        },
+        {
+          "text": "Determinar si el oro presente es de origen aluvial o in situ.",
+          "isCorrect": false,
+          "rationale": "Eso se determina mediante microscop\u00eda y geolog\u00eda forense, no mediante el \u00edndice de fracturamiento $RQD$."
+        },
+        {
+          "text": "Validar si el laboratorio qu\u00edmico ha cometido un fraude.",
+          "isCorrect": false,
+          "rationale": "La validaci\u00f3n contra el fraude se hace con protocolos $QA/QC$ (blancos, est\u00e1ndares y duplicados)."
+        }
+      ],
+      "hint": "Es una medida f\u00edsica relacionada con la estabilidad y resistencia de la roca."
+    },
+    {
+      "question": "En el caso Bre-X, \u00bfqu\u00e9 discrepancia estad\u00edstica en las leyes de oro fue la primera se\u00f1al de alerta?",
+      "answerOptions": [
+        {
+          "text": "Reportes de $85\\text{ g/t}$ frente a un promedio real de $1\\text{-}2\\text{ g/t}$ en dep\u00f3sitos similares.",
+          "isCorrect": true,
+          "rationale": "Las leyes reportadas eran t\u00e9cnicamente imposibles y abismalmente superiores a la realidad de cualquier yacimiento rentable."
+        },
+        {
+          "text": "Reportes de leyes negativas de oro en zonas de alta mineralizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las leyes no eran negativas; al contrario, eran exageradamente altas para atraer inversionistas."
+        },
+        {
+          "text": "Una diferencia de apenas el $0.5\\%$ entre los datos de campo y el laboratorio.",
+          "isCorrect": false,
+          "rationale": "Una diferencia tan peque\u00f1a se considerar\u00eda normal; el fraude implicaba una discrepancia t\u00e9cnica masiva."
+        },
+        {
+          "text": "La detecci\u00f3n de plata en lugar de oro en los an\u00e1lisis de rayos X.",
+          "isCorrect": false,
+          "rationale": "El problema no fue el tipo de metal, sino la cantidad astron\u00f3mica y ficticia de oro reportada."
+        }
+      ],
+      "hint": "Compare los n\u00fameros de una 'locura' estad\u00edstica con un yacimiento real y rentable."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que transformar sondajes en modelos $3D$ auditables es la mejor defensa contra la incertidumbre financiera?",
+      "answerOptions": [
+        {
+          "text": "Porque permite reducir la brecha entre lo programado y lo ejecutado mensualmente.",
+          "isCorrect": true,
+          "rationale": "La precisi\u00f3n en el modelo evita errores matem\u00e1ticos gigantescos que destruyen la rentabilidad operativa."
+        },
+        {
+          "text": "Porque garantiza que el precio de los metales nunca baje en el mercado internacional.",
+          "isCorrect": false,
+          "rationale": "El modelo controla variables internas t\u00e9cnicas, pero no tiene influencia sobre los precios de los metales (commodities)."
+        },
+        {
+          "text": "Porque elimina la necesidad de realizar perforaciones costosas en el futuro.",
+          "isCorrect": false,
+          "rationale": "El modelo se alimenta de perforaciones; si no hay datos nuevos, el modelo no puede mejorar ni expandirse."
+        },
+        {
+          "text": "Porque el software predice autom\u00e1ticamente d\u00f3nde habr\u00e1 nuevos descubrimientos sin explorar.",
+          "isCorrect": false,
+          "rationale": "El software modela lo que se ha explorado y ensayado; no es una herramienta de adivinaci\u00f3n sobre terreno desconocido."
+        }
+      ],
+      "hint": "Considere el impacto de proyectar $5000$ toneladas y entregar solo $4500$ por una mala interpretaci\u00f3n."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Caso Bre-X y fraude minero",
+      "Normativa NI 43-101 y Persona Calificada",
+      "Protocolos QA/QC (Blancos, Est\u00e1ndares, Duplicados)",
+      "Gesti\u00f3n de Bases de Datos Geocient\u00edficas (Collar, Survey, Assay)",
+      "Modelamiento Geol\u00f3gico Tridimensional e Impl\u00edcito",
+      "Estimaci\u00f3n Econ\u00f3mica y Valor Neto de Fundici\u00f3n (NSR)",
+      "Diluci\u00f3n Operativa y su impacto financiero"
+    ],
+    "followUp": [
+      "Geolog\u00eda forense aplicada a la miner\u00eda",
+      "Algoritmos de interpolaci\u00f3n y estimaci\u00f3n de leyes",
+      "Geotecnia y c\u00e1lculo del RQD en sondajes",
+      "Dise\u00f1o de mallas de perforaci\u00f3n para categorizaci\u00f3n de recursos",
+      "Optimizaci\u00f3n de procesos metal\u00fargicos seg\u00fan ley de cabeza"
+    ]
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el concepto del triple resultado introducido por John Elkington?",
+      "answerOptions": [
+        {
+          "text": "Integrar el desempe\u00f1o econ\u00f3mico, el impacto ambiental y el impacto social.",
+          "isCorrect": true,
+          "rationale": "Este modelo propone que las empresas deben medir su \u00e9xito no solo por las ganancias, sino tambi\u00e9n por su impacto en el planeta y las personas."
+        },
+        {
+          "text": "Maximizar las utilidades para los accionistas, el estado y los empleados.",
+          "isCorrect": false,
+          "rationale": "Esta visi\u00f3n se alinea m\u00e1s con el modelo tradicional de Friedman, enfoc\u00e1ndose \u00fanicamente en el beneficio financiero de ciertos grupos."
+        },
+        {
+          "text": "Dividir las operaciones en fases de exploraci\u00f3n, explotaci\u00f3n y cierre.",
+          "isCorrect": false,
+          "rationale": "Esto describe el ciclo de vida de un proyecto minero, no las dimensiones de sostenibilidad del triple resultado."
+        },
+        {
+          "text": "Priorizar la inversi\u00f3n extranjera sobre la local para asegurar el capital.",
+          "isCorrect": false,
+          "rationale": "Aunque la inversi\u00f3n extranjera es mencionada como vital, no forma parte de los tres pilares definidos por Elkington."
+        }
+      ],
+      "hint": "Se trata de equilibrar tres dimensiones fundamentales del negocio moderno."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa la denominada licencia social en la industria extractiva?",
+      "answerOptions": [
+        {
+          "text": "Un permiso legal otorgado por el gobierno nacional para iniciar excavaciones.",
+          "isCorrect": false,
+          "rationale": "La licencia social es informal y comunitaria, a diferencia de los permisos legales o t\u00edtulos de concesi\u00f3n estatales."
+        },
+        {
+          "text": "La aprobaci\u00f3n y legitimidad continua de la comunidad para operar en su territorio.",
+          "isCorrect": true,
+          "rationale": "Se refiere a la aceptaci\u00f3n y confianza que la poblaci\u00f3n local otorga a la empresa para que pueda trabajar de forma arm\u00f3nica."
+        },
+        {
+          "text": "Un contrato firmado con ONGs externas para gestionar el impacto ambiental.",
+          "isCorrect": false,
+          "rationale": "El material advierte contra la dependencia de ONGs externas, priorizando el v\u00ednculo directo y genuino con la gente."
+        },
+        {
+          "text": "El pago de impuestos y regal\u00edas al estado para compensar la extracci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El cumplimiento tributario es una obligaci\u00f3n legal, mientras que la licencia social es un activo intangible basado en el relacionamiento."
+        }
+      ],
+      "hint": "No es un documento oficial del estado, sino un v\u00ednculo de aceptaci\u00f3n con los vecinos del proyecto."
+    },
+    {
+      "question": "Para ganar legitimidad social real, \u00bfcu\u00e1l es el tiempo m\u00ednimo de residencia recomendado para los equipos t\u00e9cnicos en la zona de influencia?",
+      "answerOptions": [
+        {
+          "text": "De 1 a 2 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Un periodo corto no permitir\u00eda entender profundamente la intersubjetividad comunitaria ni generar v\u00ednculos sostenidos."
+        },
+        {
+          "text": "De 4 a 5 a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Esta continuidad es vital para que el personal multidisciplinario logre una convivencia genuina y entienda el entorno social."
+        },
+        {
+          "text": "Solamente durante la etapa de construcci\u00f3n de la infraestructura.",
+          "isCorrect": false,
+          "rationale": "La presencia debe ser constante y no limitarse a una fase espec\u00edfica para evitar el asistencialismo."
+        },
+        {
+          "text": "10 a\u00f1os o hasta el cierre definitivo de la mina.",
+          "isCorrect": false,
+          "rationale": "Aunque la permanencia es importante, el modelo espec\u00edfico mencionado establece un rango inicial de 4 a 5 a\u00f1os para cimentar la legitimidad."
+        }
+      ],
+      "hint": "Se busca una continuidad suficiente para entender la realidad local sin generar dependencia perpetua."
+    },
+    {
+      "question": "\u00bfQu\u00e9 elementos se combinan para lograr una verdadera sostenibilidad en el terreno?",
+      "answerOptions": [
+        {
+          "text": "Asistencialismo directo y donaciones monetarias peri\u00f3dicas.",
+          "isCorrect": false,
+          "rationale": "El modelo de intervenci\u00f3n busca alejarse del paternalismo y el asistencialismo para crear valor real."
+        },
+        {
+          "text": "Transferencia tecnol\u00f3gica e infraestructura productiva.",
+          "isCorrect": true,
+          "rationale": "La suma de herramientas t\u00e9cnicas y obras f\u00edsicas \u00fatiles permite que la comunidad mejore sus medios de vida de forma aut\u00f3noma."
+        },
+        {
+          "text": "Publicidad corporativa y eventos sociales en la comunidad.",
+          "isCorrect": false,
+          "rationale": "Estas son acciones de comunicaci\u00f3n o relaciones p\u00fablicas, pero no constituyen una base de sostenibilidad productiva."
+        },
+        {
+          "text": "Liderazgo de ONGs internacionales y subvenciones estatales.",
+          "isCorrect": false,
+          "rationale": "El enfoque propuesto prefiere las alianzas tripartitas y la capacidad t\u00e9cnica propia sobre la dependencia de terceros."
+        }
+      ],
+      "hint": "Piensa en la uni\u00f3n de conocimientos t\u00e9cnicos con la construcci\u00f3n de obras tangibles."
+    },
+    {
+      "question": "En las zonas altoandinas, \u00bfcu\u00e1l es el objetivo primordial de introducir semillas resistentes y t\u00e9cnicas de encilado?",
+      "answerOptions": [
+        {
+          "text": "Aumentar las exportaciones de la empresa minera hacia nuevos mercados.",
+          "isCorrect": false,
+          "rationale": "Estas t\u00e9cnicas est\u00e1n destinadas a fortalecer la econom\u00eda local de la comunidad, no el negocio principal de la minera."
+        },
+        {
+          "text": "Proteger el patrimonio ganadero frente a fen\u00f3menos como el friaje.",
+          "isCorrect": true,
+          "rationale": "Estas tecnolog\u00edas act\u00faan como un escudo protector para el motor econ\u00f3mico de la comunidad ante climas extremos."
+        },
+        {
+          "text": "Reducir el costo de alimentaci\u00f3n de los trabajadores en el campamento.",
+          "isCorrect": false,
+          "rationale": "La intervenci\u00f3n social se enfoca en los medios de vida de los comuneros, no en la log\u00edstica interna del comedor minero."
+        },
+        {
+          "text": "Cumplir con las normativas de reforestaci\u00f3n obligatorias por ley.",
+          "isCorrect": false,
+          "rationale": "Aunque es una mejora ambiental, el prop\u00f3sito espec\u00edfico mencionado es salvaguardar la ganader\u00eda local."
+        }
+      ],
+      "hint": "Se busca mitigar el impacto de las condiciones clim\u00e1ticas extremas en el sustento principal de los habitantes."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de un plan de salida t\u00e9cnica en un proyecto de responsabilidad social?",
+      "answerOptions": [
+        {
+          "text": "Garantizar que la comunidad sea autosustentable cuando la empresa se retire.",
+          "isCorrect": true,
+          "rationale": "El objetivo es fortalecer las capacidades locales desde el inicio para evitar el colapso social tras el fin del ciclo operativo."
+        },
+        {
+          "text": "Reducir los costos de inversi\u00f3n social en los \u00faltimos a\u00f1os del proyecto.",
+          "isCorrect": false,
+          "rationale": "No se trata de ahorro financiero, sino de asegurar la viabilidad a largo plazo de las intervenciones."
+        },
+        {
+          "text": "Transferir toda la responsabilidad legal a una ONG en la fase final.",
+          "isCorrect": false,
+          "rationale": "El plan busca autonom\u00eda comunitaria, no simplemente trasladar la tutela de una organizaci\u00f3n a otra."
+        },
+        {
+          "text": "Evitar el pago de indemnizaciones ambientales por cierre de mina.",
+          "isCorrect": false,
+          "rationale": "El plan de salida t\u00e9cnica se enfoca en la sostenibilidad de los proyectos sociales, no en las obligaciones de remediaci\u00f3n ambiental."
+        }
+      ],
+      "hint": "Su meta es prevenir la dependencia corporativa permanente."
+    },
+    {
+      "question": "En la arquitectura \u00e9tica corporativa, \u00bfc\u00f3mo se definen las reglas pr\u00e1cticas y normas de conducta del d\u00eda a d\u00eda?",
+      "answerOptions": [
+        {
+          "text": "\u00c9tica.",
+          "isCorrect": false,
+          "rationale": "La \u00e9tica se define como la reflexi\u00f3n te\u00f3rica o el estudio profundo sobre el bien y el mal."
+        },
+        {
+          "text": "Moral.",
+          "isCorrect": true,
+          "rationale": "La moral se refiere espec\u00edficamente a las normas aplicadas y el comportamiento pr\u00e1ctico cotidiano en la operaci\u00f3n."
+        },
+        {
+          "text": "Protocolo de cortes\u00eda.",
+          "isCorrect": false,
+          "rationale": "Esto es un concepto mucho m\u00e1s limitado que se refiere a interacciones sociales espec\u00edficas, no al marco general de conducta."
+        },
+        {
+          "text": "Filosof\u00eda declarativa.",
+          "isCorrect": false,
+          "rationale": "Lo declarativo corresponde al C\u00f3digo de \u00c9tica, mientras que lo moral es la ejecuci\u00f3n de la conducta."
+        }
+      ],
+      "hint": "Es la distinci\u00f3n entre el estudio te\u00f3rico y la aplicaci\u00f3n pr\u00e1ctica de las normas."
+    },
+    {
+      "question": "Seg\u00fan el marco organizacional, \u00bfen qu\u00e9 momento ocurre la corrupci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Cuando la empresa decide expandir sus operaciones a nuevos territorios.",
+          "isCorrect": false,
+          "rationale": "La expansi\u00f3n es una decisi\u00f3n estrat\u00e9gica que no implica necesariamente una falta de integridad."
+        },
+        {
+          "text": "Cuando un bien externo sustituye al bien interno como motor principal.",
+          "isCorrect": true,
+          "rationale": "La corrupci\u00f3n se manifiesta cuando tentaciones como el lucro desmedido reemplazan el prop\u00f3sito leg\u00edtimo de la organizaci\u00f3n."
+        },
+        {
+          "text": "Al momento de contratar personal que no reside en la zona de influencia.",
+          "isCorrect": false,
+          "rationale": "La contrataci\u00f3n de personal externo puede ser una necesidad t\u00e9cnica y no define un acto de corrupci\u00f3n por s\u00ed solo."
+        },
+        {
+          "text": "Cuando se excede el presupuesto asignado para programas sociales.",
+          "isCorrect": false,
+          "rationale": "El exceso presupuestario puede ser un error de gesti\u00f3n, pero la corrupci\u00f3n requiere la suplantaci\u00f3n de los valores fundamentales."
+        }
+      ],
+      "hint": "Sucede cuando el beneficio personal o el poder superan al prop\u00f3sito leg\u00edtimo de la empresa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre el C\u00f3digo de \u00c9tica y el C\u00f3digo de Conducta?",
+      "answerOptions": [
+        {
+          "text": "El de \u00c9tica es declarativo y el de Conducta es de cumplimiento obligatorio estricto.",
+          "isCorrect": true,
+          "rationale": "El C\u00f3digo de \u00c9tica establece los principios filos\u00f3ficos, mientras que el de Conducta define las reglas operativas y sanciones."
+        },
+        {
+          "text": "El de \u00c9tica es para los directivos y el de Conducta para los operarios.",
+          "isCorrect": false,
+          "rationale": "Ambos documentos deben regir a toda la organizaci\u00f3n, independientemente de la jerarqu\u00eda."
+        },
+        {
+          "text": "El de Conducta es opcional mientras que el de \u00c9tica est\u00e1 regulado por ley.",
+          "isCorrect": false,
+          "rationale": "Ambos son herramientas de integridad, pero el de Conducta es el que tiene car\u00e1cter vinculante y operativo."
+        },
+        {
+          "text": "El de \u00c9tica se enfoca en el medio ambiente y el de Conducta en la comunidad.",
+          "isCorrect": false,
+          "rationale": "Ambos c\u00f3digos cubren diversas \u00e1reas, pero se distinguen por su naturaleza te\u00f3rica frente a la pr\u00e1ctica."
+        }
+      ],
+      "hint": "Uno establece los grandes ideales y el otro las reglas de juego con sus consecuencias."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el \u00e1rea de abastecimiento se considera el flanco de mayor vulnerabilidad \u00e9tica?",
+      "answerOptions": [
+        {
+          "text": "Debido a que maneja la mayor cantidad de personal de la mina.",
+          "isCorrect": false,
+          "rationale": "El riesgo no proviene del volumen de personal, sino de la naturaleza de las transacciones y contratos."
+        },
+        {
+          "text": "Porque un error en la cadena de suministro puede destruir la licencia social.",
+          "isCorrect": true,
+          "rationale": "La gesti\u00f3n de compras tiene un impacto directo en la percepci\u00f3n p\u00fablica y la legitimidad de toda la operaci\u00f3n."
+        },
+        {
+          "text": "Porque es la \u00fanica \u00e1rea que no est\u00e1 sujeta a auditor\u00edas financieras.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el material sugiere que la falta de auditor\u00edas en esta \u00e1rea es justamente lo que propicia el fraude."
+        },
+        {
+          "text": "Debido a que depende exclusivamente de proveedores internacionales.",
+          "isCorrect": false,
+          "rationale": "El riesgo existe tanto con proveedores locales como internacionales si no hay controles rigurosos."
+        }
+      ],
+      "hint": "Un fallo en esta zona operativa tiene el poder de comprometer la viabilidad de todo el proyecto."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n inquebrantable dej\u00f3 el caso hist\u00f3rico del desastre de Choropampa?",
+      "answerOptions": [
+        {
+          "text": "Que las empresas solo deben contratar proveedores locales para evitar riesgos.",
+          "isCorrect": false,
+          "rationale": "La procedencia del proveedor no elimina el riesgo; lo importante es la gesti\u00f3n y supervisi\u00f3n \u00e9tica."
+        },
+        {
+          "text": "Que la responsabilidad por las acciones de los contratistas no se puede tercerizar.",
+          "isCorrect": true,
+          "rationale": "La empresa principal es \u00e9tica y legalmente responsable de lo que hagan u omitan las empresas que contrata."
+        },
+        {
+          "text": "Que los accidentes de transporte son siempre responsabilidad exclusiva del estado.",
+          "isCorrect": false,
+          "rationale": "El caso subraya que la responsabilidad corporativa se extiende a toda la cadena de valor."
+        },
+        {
+          "text": "Que es preferible no documentar las operaciones de alto riesgo.",
+          "isCorrect": false,
+          "rationale": "La falta de documentaci\u00f3n y transparencia es precisamente lo que aumenta la vulnerabilidad reputacional."
+        }
+      ],
+      "hint": "Tiene que ver con la imposibilidad de delegar la responsabilidad \u00e9tica ante terceros."
+    },
+    {
+      "question": "En la gesti\u00f3n de conflictos de inter\u00e9s, \u00bfcu\u00e1l es el rango monetario t\u00edpico permitido para cortes\u00edas comerciales?",
+      "answerOptions": [
+        {
+          "text": "Cualquier monto, siempre que se entregue en p\u00fablico.",
+          "isCorrect": false,
+          "rationale": "Permitir cualquier monto anular\u00eda la efectividad de los controles anticorrupci\u00f3n."
+        },
+        {
+          "text": "De 50 a 100 soles.",
+          "isCorrect": true,
+          "rationale": "Este rango estricto busca evitar que los obsequios se conviertan en mecanismos de influencia indebida."
+        },
+        {
+          "text": "Hasta un 10% del valor del contrato adjudicado.",
+          "isCorrect": false,
+          "rationale": "Vincular el regalo al valor del contrato es una pr\u00e1ctica altamente riesgosa que fomenta el soborno."
+        },
+        {
+          "text": "El equivalente a un sueldo m\u00ednimo vital.",
+          "isCorrect": false,
+          "rationale": "Ese monto es excesivo para ser considerado una cortes\u00eda comercial est\u00e1ndar en pol\u00edticas de cumplimiento."
+        }
+      ],
+      "hint": "Es un monto peque\u00f1o y espec\u00edfico dise\u00f1ado para ser meramente simb\u00f3lico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 debe hacerse con un obsequio de un proveedor que excede los l\u00edmites permitidos por la pol\u00edtica interna?",
+      "answerOptions": [
+        {
+          "text": "Debe ser devuelto inmediatamente sin dejar registro alguno.",
+          "isCorrect": false,
+          "rationale": "Aunque debe rechazarse o gestionarse, el protocolo exige que todo proceso sea auditable y reportado."
+        },
+        {
+          "text": "Debe institucionalizarse mediante subastas p\u00fablicas o donaciones oficiales.",
+          "isCorrect": true,
+          "rationale": "Este mecanismo elimina el beneficio personal indebido y asegura la transparencia total de la interacci\u00f3n."
+        },
+        {
+          "text": "Puede ser aceptado si el trabajador lo reporta como 'ingreso extra'.",
+          "isCorrect": false,
+          "rationale": "Aceptar beneficios personales que exceden el l\u00edmite vulnera el c\u00f3digo de conducta y la arquitectura \u00e9tica."
+        },
+        {
+          "text": "Se permite su recepci\u00f3n solo si el proveedor ya gan\u00f3 la licitaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los regalos despu\u00e9s de la adjudicaci\u00f3n siguen siendo un riesgo de cobro de favores o corrupci\u00f3n futura."
+        }
+      ],
+      "hint": "El protocolo dicta que el objeto pase a ser un activo institucional para beneficio com\u00fan o social."
+    },
+    {
+      "question": "Seg\u00fan el art\u00edculo 25 de la Ley 3424 en el contexto peruano, \u00bfcu\u00e1l es el beneficio de un modelo de prevenci\u00f3n robusto?",
+      "answerOptions": [
+        {
+          "text": "Permite evadir el pago de impuestos sobre las utilidades.",
+          "isCorrect": false,
+          "rationale": "El modelo de prevenci\u00f3n no tiene fines tributarios, sino de control de delitos corporativos."
+        },
+        {
+          "text": "Otorga la exenci\u00f3n de responsabilidad administrativa frente a delitos graves.",
+          "isCorrect": true,
+          "rationale": "Si la empresa demuestra diligencia debida, puede quedar libre de sanciones por actos de terceros o empleados aislados."
+        },
+        {
+          "text": "Acelera autom\u00e1ticamente la aprobaci\u00f3n de estudios de impacto ambiental.",
+          "isCorrect": false,
+          "rationale": "Son procesos legales distintos; el modelo de prevenci\u00f3n se enfoca en la integridad y no en tr\u00e1mites ambientales."
+        },
+        {
+          "text": "Garantiza la obtenci\u00f3n de pr\u00e9stamos con intereses cero.",
+          "isCorrect": false,
+          "rationale": "Aunque mejora la reputaci\u00f3n ante inversores, no es un beneficio legal directo estipulado en dicho art\u00edculo."
+        }
+      ],
+      "hint": "Act\u00faa como un escudo legal que protege a la organizaci\u00f3n de las consecuencias de delitos como el cohecho."
+    },
+    {
+      "question": "\u00bfQu\u00e9 significa el 'sinceramiento de compromisos hist\u00f3ricos' en la gesti\u00f3n social?",
+      "answerOptions": [
+        {
+          "text": "Cancelar todas las deudas financieras que la empresa tenga con el estado.",
+          "isCorrect": false,
+          "rationale": "El sinceramiento se refiere a expectativas sociales y promesas comunitarias, no a deudas impositivas."
+        },
+        {
+          "text": "Documentar y transparentar promesas informales hechas en etapas de exploraci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Identificar estas promesas antiguas evita que se acumulen y estallen como conflictos sociales en el presente."
+        },
+        {
+          "text": "Publicar el salario de todos los directivos de la compa\u00f1\u00eda minera.",
+          "isCorrect": false,
+          "rationale": "La transparencia interna de salarios no est\u00e1 relacionada con la gesti\u00f3n de expectativas de la comunidad local."
+        },
+        {
+          "text": "Renegociar los contratos de suministro cada vez que cambia el gobierno local.",
+          "isCorrect": false,
+          "rationale": "Esto generar\u00eda inestabilidad operativa y no aborda el origen de las promesas sociales del pasado."
+        }
+      ],
+      "hint": "Busca limpiar el pasado de expectativas olvidadas para prevenir conflictos futuros."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre la debida diligencia de la ONU y la de la OCDE?",
+      "answerOptions": [
+        {
+          "text": "La ONU solo aplica para el sector p\u00fablico y la OCDE para el privado.",
+          "isCorrect": false,
+          "rationale": "Ambos marcos est\u00e1n dise\u00f1ados para guiar la conducta de las empresas en sus interacciones globales."
+        },
+        {
+          "text": "La OCDE exige que la conducta empresarial responsable se integre en toda la estructura corporativa y socios.",
+          "isCorrect": true,
+          "rationale": "Mientras la ONU lo define como cuidado continuo, la OCDE manda que sea expansivo a filiales, joint ventures y redes de socios."
+        },
+        {
+          "text": "La ONU impone sanciones econ\u00f3micas directas y la OCDE es solo de car\u00e1cter \u00e9tico.",
+          "isCorrect": false,
+          "rationale": "Ninguno de los dos marcos tiene poder sancionador legal directo per se, sino que son est\u00e1ndares de cumplimiento."
+        },
+        {
+          "text": "La debida diligencia de la OCDE es un proceso est\u00e1tico de una sola vez.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la debida diligencia debe ser din\u00e1mica y proporcional al riesgo en ambos marcos."
+        }
+      ],
+      "hint": "Una se enfoca en el proceso de cuidado y la otra en la integraci\u00f3n obligatoria en toda la red de negocio."
+    },
+    {
+      "question": "Seg\u00fan el est\u00e1ndar ISO 37001, \u00bfcu\u00e1ndo es obligatorio aplicar una debida diligencia exhaustiva?",
+      "answerOptions": [
+        {
+          "text": "\u00danicamente en contratos que superen el mill\u00f3n de d\u00f3lares.",
+          "isCorrect": false,
+          "rationale": "El est\u00e1ndar se basa en el nivel de riesgo, no exclusivamente en el monto monetario del contrato."
+        },
+        {
+          "text": "En cualquier proyecto o socio donde el riesgo de soborno sea superior a bajo.",
+          "isCorrect": true,
+          "rationale": "El cap\u00edtulo 8.2 especifica que si el riesgo no es expl\u00edcitamente bajo, la evaluaci\u00f3n debe ser rigurosa."
+        },
+        {
+          "text": "Solo cuando se trabaja con proveedores que no tienen oficina f\u00edsica.",
+          "isCorrect": false,
+          "rationale": "Aunque la falta de historial es una bandera roja, la norma exige diligencia ante cualquier riesgo de soborno identificado."
+        },
+        {
+          "text": "Cada vez que se contrata a un familiar de un trabajador de la empresa.",
+          "isCorrect": false,
+          "rationale": "Esto es un control de conflicto de inter\u00e9s, pero la norma ISO es m\u00e1s amplia en cuanto a riesgos de soborno corporativo."
+        }
+      ],
+      "hint": "Depende de la calificaci\u00f3n de la probabilidad de que ocurra una pr\u00e1ctica deshonesta."
+    },
+    {
+      "question": "\u00bfQui\u00e9nes est\u00e1n incluidos en la definici\u00f3n de Persona Pol\u00edticamente Expuesta (PEP) para una debida diligencia rigurosa?",
+      "answerOptions": [
+        {
+          "text": "Solo el funcionario p\u00fablico de m\u00e1s alta jerarqu\u00eda.",
+          "isCorrect": false,
+          "rationale": "La definici\u00f3n es mucho m\u00e1s amplia para evitar la triangulaci\u00f3n de influencias o beneficios."
+        },
+        {
+          "text": "El funcionario, su pareja y familiares hasta el segundo grado de consanguinidad.",
+          "isCorrect": true,
+          "rationale": "El sistema debe detectar a hermanos, padres o c\u00f3nyuges para prevenir el uso indebido de posiciones de poder."
+        },
+        {
+          "text": "Cualquier persona que haya votado en las \u00faltimas elecciones generales.",
+          "isCorrect": false,
+          "rationale": "El ejercicio del voto no convierte a un ciudadano en una persona pol\u00edticamente expuesta."
+        },
+        {
+          "text": "Todos los empleados de cualquier organismo del estado sin distinci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La categor\u00eda PEP suele reservarse para quienes tienen capacidad de decisi\u00f3n, influencia o manejo de recursos p\u00fablicos."
+        }
+      ],
+      "hint": "El radar de control se extiende al c\u00edrculo familiar cercano del funcionario."
+    },
+    {
+      "question": "\u00bfPor cu\u00e1nto tiempo se mantiene activo el estatus de PEP despu\u00e9s de que un funcionario deja su cargo?",
+      "answerOptions": [
+        {
+          "text": "Se elimina autom\u00e1ticamente el d\u00eda que entrega el cargo.",
+          "isCorrect": false,
+          "rationale": "El riesgo de cobro de favores o influencia persiste despu\u00e9s de la salida oficial."
+        },
+        {
+          "text": "Por un periodo de un a\u00f1o completo.",
+          "isCorrect": true,
+          "rationale": "Esta norma de prudencia legal reconoce que la vulnerabilidad y la influencia no desaparecen de inmediato."
+        },
+        {
+          "text": "Durante cinco a\u00f1os, seg\u00fan las normas internacionales de Interpol.",
+          "isCorrect": false,
+          "rationale": "Aunque otros pa\u00edses pueden variar, el est\u00e1ndar mencionado en el material establece un plazo de un a\u00f1o."
+        },
+        {
+          "text": "De por vida, si ocup\u00f3 un cargo de ministro o presidente.",
+          "isCorrect": false,
+          "rationale": "El estatus operativo para monitoreo de cumplimiento tiene un l\u00edmite temporal definido para ser manejable."
+        }
+      ],
+      "hint": "Es un plazo prudencial de doce meses posteriores al cese de funciones."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de las siguientes es una 'bandera roja' cr\u00edtica al evaluar a un nuevo socio de negocio?",
+      "answerOptions": [
+        {
+          "text": "Que el socio tenga oficinas en m\u00e1s de dos pa\u00edses.",
+          "isCorrect": false,
+          "rationale": "La presencia multinacional suele ser se\u00f1al de solidez, no necesariamente de un riesgo \u00e9tico."
+        },
+        {
+          "text": "La falta de un historial operativo verificable.",
+          "isCorrect": true,
+          "rationale": "Las empresas fantasma de reciente creaci\u00f3n se usan frecuentemente para encubrir fraudes corporativos."
+        },
+        {
+          "text": "Que la empresa proveedora sea liderada por una mujer.",
+          "isCorrect": false,
+          "rationale": "El g\u00e9nero de los l\u00edderes no tiene ninguna relaci\u00f3n con el riesgo de cumplimiento o integridad."
+        },
+        {
+          "text": "Tener un sistema de gesti\u00f3n de calidad certificado por ISO 9001.",
+          "isCorrect": false,
+          "rationale": "Contar con certificaciones internacionales suele ser un indicador positivo de estandarizaci\u00f3n de procesos."
+        }
+      ],
+      "hint": "Debes sospechar si una empresa aparece de la nada para ganar un contrato millonario."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Responsabilidad Social Corporativa",
+      "\u00c9tica y Moral Organizacional",
+      "Gesti\u00f3n de la Licencia Social",
+      "Cumplimiento y Prevenci\u00f3n de Delitos (Compliance)",
+      "Debida Diligencia en la Cadena de Suministro",
+      "Sostenibilidad Ambiental en Miner\u00eda"
+    ],
+    "followUp": [
+      "Implementaci\u00f3n de la ISO 37001 en Industrias Extractivas",
+      "Metodolog\u00edas de Valor Compartido vs Paternalismo",
+      "An\u00e1lisis de la Ley 3424 sobre Responsabilidad Administrativa",
+      "Protocolos de Gesti\u00f3n de Personas Pol\u00edticamente Expuestas (PEPS)",
+      "Modelos de Intervenci\u00f3n Social en Contextos Altoandinos"
+    ]
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 estrategia se considera actualmente indispensable para dominar la cadena de suministro global en un mundo hiperconectado?",
+      "answerOptions": [
+        {
+          "text": "Log\u00edstica predictiva",
+          "isCorrect": true,
+          "rationale": "Esta estrategia utiliza inteligencia artificial y an\u00e1lisis de datos para optimizar procesos cr\u00edticos como la \u00faltima milla."
+        },
+        {
+          "text": "Almacenamiento est\u00e1tico",
+          "isCorrect": false,
+          "rationale": "El enfoque actual es din\u00e1mico y predictivo, no se limita a la simple acumulaci\u00f3n de mercanc\u00eda en reposo."
+        },
+        {
+          "text": "Reducci\u00f3n de personal operativo",
+          "isCorrect": false,
+          "rationale": "Aunque se usa tecnolog\u00eda, el \u00e9xito radica en la optimizaci\u00f3n estrat\u00e9gica de la cadena y no meramente en el recorte de personal."
+        },
+        {
+          "text": "Marketing internacional masivo",
+          "isCorrect": false,
+          "rationale": "Tener un gran producto o publicidad ya no basta; la ventaja competitiva real hoy reside en la gesti\u00f3n log\u00edstica."
+        }
+      ],
+      "hint": "Se apoya en tecnolog\u00edas como la inteligencia artificial para anticipar necesidades en la cadena de suministro."
+    },
+    {
+      "question": "En la prospecci\u00f3n estrat\u00e9gica internacional, \u00bfpor qu\u00e9 se desaconseja elegir a un proveedor bas\u00e1ndose \u00fanicamente en el precio m\u00e1s bajo?",
+      "answerOptions": [
+        {
+          "text": "Suele conllevar costos ocultos por fallas t\u00e9cnicas o baja calidad",
+          "isCorrect": true,
+          "rationale": "Un ahorro inicial aparente puede resultar en mayores gastos operativos si el producto no cumple con los est\u00e1ndares requeridos."
+        },
+        {
+          "text": "Los proveedores baratos no aceptan Incoterms",
+          "isCorrect": false,
+          "rationale": "El uso de Incoterms es independiente del precio del producto, ya que son reglas universales del comercio."
+        },
+        {
+          "text": "Aumenta autom\u00e1ticamente el valor de los aranceles",
+          "isCorrect": false,
+          "rationale": "Los aranceles dependen de la clasificaci\u00f3n de la mercanc\u00eda y tratados, no de si el proveedor es el m\u00e1s econ\u00f3mico o no."
+        },
+        {
+          "text": "Impide la emisi\u00f3n de la factura comercial",
+          "isCorrect": false,
+          "rationale": "Cualquier proveedor legal, independientemente de su precio, tiene la obligaci\u00f3n de emitir documentos comerciales."
+        }
+      ],
+      "hint": "Considere las repercusiones a largo plazo sobre la operatividad y la calidad del producto final."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la plataforma Trademap en el an\u00e1lisis de mercado?",
+      "answerOptions": [
+        {
+          "text": "Realizar estudios de mercado puramente estad\u00edsticos",
+          "isCorrect": true,
+          "rationale": "Esta herramienta se especializa en analizar el movimiento de exportaciones e importaciones a nivel global mediante datos num\u00e9ricos."
+        },
+        {
+          "text": "Contactar fabricantes verificados en Hong Kong",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n espec\u00edfica corresponde a plataformas como HKTDC para desarrollos comerciales sofisticados."
+        },
+        {
+          "text": "Comprar muestras r\u00e1pidas de productos de consumo",
+          "isCorrect": false,
+          "rationale": "Para compras peque\u00f1as o muestras directas al consumidor se utilizan plataformas como AliExpress o TEMU."
+        },
+        {
+          "text": "Monitorear en tiempo real las operaciones de los competidores",
+          "isCorrect": false,
+          "rationale": "El seguimiento detallado y en tiempo real de la competencia es una funci\u00f3n propia de plataformas como Very Trade."
+        }
+      ],
+      "hint": "Piense en el uso de datos agregados para entender flujos comerciales mundiales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 distingue t\u00e9cnicamente a un arancel de un impuesto general?",
+      "answerOptions": [
+        {
+          "text": "Se aplica exclusivamente al comercio transfronterizo",
+          "isCorrect": true,
+          "rationale": "El arancel act\u00faa como un derecho de paso que se grava \u00fanicamente cuando la mercanc\u00eda cruza una frontera soberana."
+        },
+        {
+          "text": "Es una regla de juego para la actividad econ\u00f3mica interna",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde al impuesto, que grava la actividad dentro del territorio nacional."
+        },
+        {
+          "text": "Solo se aplica si la mercanc\u00eda es transportada por v\u00eda a\u00e9rea",
+          "isCorrect": false,
+          "rationale": "El arancel se aplica a la entrada o salida de mercanc\u00edas independientemente del medio de transporte utilizado."
+        },
+        {
+          "text": "Se calcula siempre sobre el precio de venta al p\u00fablico",
+          "isCorrect": false,
+          "rationale": "Los aranceles suelen basarse en el valor de aduana (CIF) y no en el precio minorista final del mercado interno."
+        }
+      ],
+      "hint": "Relacione el t\u00e9rmino con el concepto de 'derecho de paso' en una frontera."
+    },
+    {
+      "question": "En el contexto peruano, \u00bfcu\u00e1l es la carga tributaria total resultante de combinar el IGB y el IPM en la aduana?",
+      "answerOptions": [
+        {
+          "text": "$18\\%$",
+          "isCorrect": true,
+          "rationale": "Se obtiene sumando el $16\\%$ del Impuesto General a las Ventas (IGB) y el $2\\%$ del Impuesto de Promoci\u00f3n Municipal (IPM)."
+        },
+        {
+          "text": "$16\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje corresponde \u00fanicamente al IGB, sin considerar el aporte adicional del IPM."
+        },
+        {
+          "text": "$20\\%$",
+          "isCorrect": false,
+          "rationale": "Esta cifra excede la suma establecida por la normativa tributaria aduanera vigente para estos dos impuestos combinados."
+        },
+        {
+          "text": "$15\\%$",
+          "isCorrect": false,
+          "rationale": "Este valor es inferior a la carga impositiva real que se aplica para nacionalizar carga en el Per\u00fa."
+        }
+      ],
+      "hint": "Sume los porcentajes individuales asignados al impuesto general y al de promoci\u00f3n municipal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 aspecto de la operaci\u00f3n comercial definen con precisi\u00f3n los Incoterms 2020?",
+      "answerOptions": [
+        {
+          "text": "El punto de transferencia de riesgo y la responsabilidad de costos",
+          "isCorrect": true,
+          "rationale": "Los Incoterms delimitan geogr\u00e1ficamente cu\u00e1ndo el riesgo pasa del vendedor al comprador y qui\u00e9n asume cada gasto log\u00edstico."
+        },
+        {
+          "text": "La propiedad legal de la mercanc\u00eda",
+          "isCorrect": false,
+          "rationale": "Los Incoterms no determinan qui\u00e9n es el due\u00f1o de la carga, sino qui\u00e9n es responsable de su seguridad y costos en tr\u00e1nsito."
+        },
+        {
+          "text": "El medio de transporte que debe usarse obligatoriamente",
+          "isCorrect": false,
+          "rationale": "Aunque algunos Incoterms son mar\u00edtimos, su funci\u00f3n principal es delimitar responsabilidades, no imponer el transporte."
+        },
+        {
+          "text": "La clasificaci\u00f3n arancelaria del producto",
+          "isCorrect": false,
+          "rationale": "La clasificaci\u00f3n arancelaria depende de la naturaleza del producto y la ley nacional, no del t\u00e9rmino de negociaci\u00f3n elegido."
+        }
+      ],
+      "hint": "Piense en las obligaciones log\u00edsticas y los momentos cr\u00edticos de peligro para la carga."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el Incoterm que representa la m\u00e1xima obligaci\u00f3n para el vendedor al entregar la mercanc\u00eda con derechos pagados en destino?",
+      "answerOptions": [
+        {
+          "text": "DDP",
+          "isCorrect": true,
+          "rationale": "En el Deliver Duty Paid, el vendedor asume todos los costos, incluyendo tr\u00e1mites y tributos aduaneros en el pa\u00eds de llegada."
+        },
+        {
+          "text": "EXW",
+          "isCorrect": false,
+          "rationale": "Este t\u00e9rmino representa la m\u00ednima obligaci\u00f3n para el vendedor, quien solo pone la carga a disposici\u00f3n en su propia f\u00e1brica."
+        },
+        {
+          "text": "FOB",
+          "isCorrect": false,
+          "rationale": "En FOB el vendedor solo es responsable hasta que la mercanc\u00eda est\u00e1 a bordo del buque en el puerto de origen."
+        },
+        {
+          "text": "CIF",
+          "isCorrect": false,
+          "rationale": "Aunque incluye seguro y flete, el riesgo se transfiere en el origen y no incluye el pago de impuestos de importaci\u00f3n."
+        }
+      ],
+      "hint": "Es el t\u00e9rmino opuesto al que implica la m\u00ednima obligaci\u00f3n (EXW)."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica jur\u00eddica fundamental que distingue al Bill of Lading (BL) mar\u00edtimo de la Gu\u00eda A\u00e9rea (AWB)?",
+      "answerOptions": [
+        {
+          "text": "El BL es un t\u00edtulo de propiedad negociable",
+          "isCorrect": true,
+          "rationale": "Poseer el documento original del BL otorga legalmente la propiedad de la mercanc\u00eda, a diferencia de la Gu\u00eda A\u00e9rea."
+        },
+        {
+          "text": "La Gu\u00eda A\u00e9rea permite transferir la propiedad mediante endoso",
+          "isCorrect": false,
+          "rationale": "La Gu\u00eda A\u00e9rea es estrictamente un contrato de transporte no negociable y no funciona como t\u00edtulo valor."
+        },
+        {
+          "text": "El BL solo sirve como comprobante de recepci\u00f3n",
+          "isCorrect": false,
+          "rationale": "El BL es mucho m\u00e1s que un recibo; es un t\u00edtulo de propiedad que permite el control real del flujo de mercanc\u00eda."
+        },
+        {
+          "text": "Ambos documentos tienen el mismo peso legal sobre la propiedad",
+          "isCorrect": false,
+          "rationale": "Existe una diferencia jur\u00eddica cr\u00edtica: uno es negociable (mar\u00edtimo) y el otro no lo es (a\u00e9reo)."
+        }
+      ],
+      "hint": "Piense en cu\u00e1l de los dos documentos representa el derecho legal sobre el bien transportado."
+    },
+    {
+      "question": "En la estructura integral de costos de importaci\u00f3n, \u00bfcu\u00e1l es el quinto escal\u00f3n que se suma despu\u00e9s del transporte interno?",
+      "answerOptions": [
+        {
+          "text": "Tributos aduaneros",
+          "isCorrect": true,
+          "rationale": "Una vez que la carga llega a la frontera, deben calcularse y sumarse los impuestos (como el IGB e IPM) para su nacionalizaci\u00f3n."
+        },
+        {
+          "text": "Seguro internacional",
+          "isCorrect": false,
+          "rationale": "El seguro es el tercer paso, aplicado para cubrir riesgos antes de los traslados locales y el pago de tributos."
+        },
+        {
+          "text": "Gastos de agenciamiento",
+          "isCorrect": false,
+          "rationale": "Los honorarios de los operadores log\u00edsticos son el paso final (sexto) para cerrar la estructura de costos."
+        },
+        {
+          "text": "Flete internacional",
+          "isCorrect": false,
+          "rationale": "El flete es el segundo escal\u00f3n, sum\u00e1ndose directamente al valor de la factura comercial inicial."
+        }
+      ],
+      "hint": "Es la carga econ\u00f3mica que impone el Estado cuando la mercanc\u00eda llega a la aduana."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la norma t\u00e9cnica de cabecera que rige las operaciones aduaneras en el Per\u00fa?",
+      "answerOptions": [
+        {
+          "text": "Ley General de Aduanas (Decreto Legislativo 1053)",
+          "isCorrect": true,
+          "rationale": "Este decreto constituye el marco legal principal que dicta las reglas para el ingreso y salida de mercanc\u00edas del pa\u00eds."
+        },
+        {
+          "text": "Constituci\u00f3n Pol\u00edtica del Per\u00fa",
+          "isCorrect": false,
+          "rationale": "Aunque es la base de todo derecho, la Ley General de Aduanas es la herramienta t\u00e9cnica espec\u00edfica para la operatividad del sector."
+        },
+        {
+          "text": "Resoluciones de la SUNAT",
+          "isCorrect": false,
+          "rationale": "Estas resoluciones regulan el d\u00eda a d\u00eda operativo, pero est\u00e1n jer\u00e1rquicamente por debajo de la Ley General."
+        },
+        {
+          "text": "C\u00f3digo de Comercio Internacional",
+          "isCorrect": false,
+          "rationale": "El comercio se rige por leyes nacionales espec\u00edficas en cada pa\u00eds; en Per\u00fa es el Decreto Legislativo 1053."
+        }
+      ],
+      "hint": "Busque el decreto legislativo que moderniz\u00f3 el marco aduanero peruano."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el cambio de la Declaraci\u00f3n \u00danica de Aduanas (DUA) a la Declaraci\u00f3n Aduanera de Mercanc\u00edas (DAM)?",
+      "answerOptions": [
+        {
+          "text": "La modernizaci\u00f3n y digitalizaci\u00f3n de los procesos aduaneros",
+          "isCorrect": true,
+          "rationale": "La transici\u00f3n a la DAM refleja la b\u00fasqueda de un sistema m\u00e1s \u00e1gil, integrado y adaptado a la era digital."
+        },
+        {
+          "text": "Un cambio \u00fanicamente en el nombre sin impacto operativo",
+          "isCorrect": false,
+          "rationale": "No es solo un cambio terminol\u00f3gico; implica una evoluci\u00f3n hacia flujos documentales m\u00e1s eficientes."
+        },
+        {
+          "text": "La eliminaci\u00f3n de los controles f\u00edsicos de la carga",
+          "isCorrect": false,
+          "rationale": "Aunque el proceso es digital, los controles f\u00edsicos (canal rojo) siguen existiendo para garantizar la seguridad."
+        },
+        {
+          "text": "La obligaci\u00f3n de usar solo el puerto de Chancay",
+          "isCorrect": false,
+          "rationale": "La DAM es de uso nacional y obligatorio para cualquier aduana del pa\u00eds, no limitada a un puerto espec\u00edfico."
+        }
+      ],
+      "hint": "Refleja el paso del papel a sistemas electr\u00f3nicos m\u00e1s r\u00e1pidos."
+    },
+    {
+      "question": "Dentro de los pilares de la SUNAT, \u00bfqu\u00e9 significa el principio de presunci\u00f3n de veracidad?",
+      "answerOptions": [
+        {
+          "text": "Asumir que las declaraciones presentadas son honestas de entrada",
+          "isCorrect": true,
+          "rationale": "El sistema asume la buena fe del usuario para agilizar el flujo, aunque mantiene una fiscalizaci\u00f3n posterior implacable."
+        },
+        {
+          "text": "Revisar f\u00edsicamente el $100\\%$ de los contenedores",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda lo opuesto a la presunci\u00f3n de veracidad y asfixiar\u00eda el flujo log\u00edstico internacional."
+        },
+        {
+          "text": "Exigir que todos los documentos sean firmados por un notario",
+          "isCorrect": false,
+          "rationale": "La agilizaci\u00f3n busca reducir tr\u00e1mites burocr\u00e1ticos excesivos, no aumentarlos con requisitos notariales constantes."
+        },
+        {
+          "text": "Eliminar la responsabilidad legal de los agentes de aduana",
+          "isCorrect": false,
+          "rationale": "El agente de aduana sigue siendo el representante legal y t\u00e9cnico responsable ante el Estado por lo declarado."
+        }
+      ],
+      "hint": "Es la base de confianza inicial que otorga el Estado para facilitar el comercio."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del agente de aduana en la cadena log\u00edstica?",
+      "answerOptions": [
+        {
+          "text": "Actuar como representante legal y t\u00e9cnico ante el Estado",
+          "isCorrect": true,
+          "rationale": "Se encarga de la clasificaci\u00f3n arancelaria, liquidaci\u00f3n de tributos y la numeraci\u00f3n de la DAM ante la SUNAT."
+        },
+        {
+          "text": "Consolidar la mercanc\u00eda f\u00edsica y negociar fletes",
+          "isCorrect": false,
+          "rationale": "Esta es la funci\u00f3n del agente de carga (Freight Forwarder), quien es el arquitecto f\u00edsico del env\u00edo."
+        },
+        {
+          "text": "Emitir los documentos de transporte como el Bill of Lading",
+          "isCorrect": false,
+          "rationale": "La potestad de emitir documentos de transporte internacional recae principalmente en el agente de carga."
+        },
+        {
+          "text": "Transportar la mercanc\u00eda desde el puerto hasta el almac\u00e9n final",
+          "isCorrect": false,
+          "rationale": "Esa tarea corresponde a las empresas de transporte interno o terrestre, no a la gesti\u00f3n t\u00e9cnica aduanera."
+        }
+      ],
+      "hint": "Piense en qui\u00e9n se encarga de los c\u00e1lculos tributarios y la clasificaci\u00f3n legal de la carga."
+    },
+    {
+      "question": "\u00bfA cu\u00e1ntos contenedores de 20 pies equivale una unidad FEU (40 foot equivalent unit)?",
+      "answerOptions": [
+        {
+          "text": "2 TEU",
+          "isCorrect": true,
+          "rationale": "Dado que un TEU es de 20 pies, un contenedor de 40 pies (FEU) ocupa exactamente el doble de espacio base."
+        },
+        {
+          "text": "1 TEU",
+          "isCorrect": false,
+          "rationale": "Un FEU es el hermano mayor y representa una unidad de 40 pies, no de 20."
+        },
+        {
+          "text": "4 TEU",
+          "isCorrect": false,
+          "rationale": "Matem\u00e1ticamente, un espacio de 40 pies solo contiene dos unidades est\u00e1ndar de 20 pies."
+        },
+        {
+          "text": "0.5 TEU",
+          "isCorrect": false,
+          "rationale": "Esta relaci\u00f3n es inversa; el TEU es la unidad m\u00e1s peque\u00f1a y el FEU es la m\u00e1s grande."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n matem\u00e1tica entre las medidas de 20 y 40 pies."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 situaci\u00f3n es m\u00e1s rentable optar por un servicio LCL (Less than Container Load)?",
+      "answerOptions": [
+        {
+          "text": "Cuando la carga es peque\u00f1a y no llena un contenedor entero",
+          "isCorrect": true,
+          "rationale": "El LCL permite compartir el espacio y los costos del contenedor con otros importadores, optimizando la rentabilidad."
+        },
+        {
+          "text": "Cuando se desea exclusividad total de puerta a puerta",
+          "isCorrect": false,
+          "rationale": "La exclusividad y el uso del contenedor entero por un solo consignatario es la caracter\u00edstica del FCL."
+        },
+        {
+          "text": "Cuando la mercanc\u00eda es altamente peligrosa o prohibida",
+          "isCorrect": false,
+          "rationale": "La carga peligrosa requiere condiciones especiales que a menudo impiden su consolidaci\u00f3n con carga general en LCL."
+        },
+        {
+          "text": "Cuando el tiempo de entrega es la \u00fanica prioridad cr\u00edtica",
+          "isCorrect": false,
+          "rationale": "El LCL suele tardar m\u00e1s debido a los procesos de consolidaci\u00f3n y desconsolidaci\u00f3n de m\u00faltiples cargas."
+        }
+      ],
+      "hint": "Piense en la eficiencia de costos al transportar vol\u00famenes reducidos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la finalidad del documento conocido como volante de despacho?",
+      "answerOptions": [
+        {
+          "text": "Contrastar el peso y cantidad f\u00edsica real contra el manifiesto",
+          "isCorrect": true,
+          "rationale": "Es emitido por dep\u00f3sitos temporales para verificar si lo que lleg\u00f3 f\u00edsicamente coincide con lo declarado por el transportista."
+        },
+        {
+          "text": "Servir como t\u00edtulo de propiedad para la venta de la carga",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n es exclusiva del Bill of Lading y no de un documento de control de almac\u00e9n."
+        },
+        {
+          "text": "Sustituir a la DAM en el proceso de nacionalizaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La DAM es la declaraci\u00f3n oficial; el volante es solo un documento operativo de soporte y control."
+        },
+        {
+          "text": "Autorizar la salida de mercanc\u00eda prohibida",
+          "isCorrect": false,
+          "rationale": "La mercanc\u00eda prohibida no puede salir; el volante no tiene potestad para otorgar permisos especiales de ese tipo."
+        }
+      ],
+      "hint": "Se emite al recibir la carga en los dep\u00f3sitos temporales para detectar discrepancias."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica para un importador que su carga sea asignada al canal naranja de control?",
+      "answerOptions": [
+        {
+          "text": "Una revisi\u00f3n exhaustiva de la documentaci\u00f3n \u00fanicamente",
+          "isCorrect": true,
+          "rationale": "A diferencia del rojo, el canal naranja no requiere inspecci\u00f3n f\u00edsica, pero s\u00ed un control riguroso de los papeles presentados."
+        },
+        {
+          "text": "El levante autom\u00e1tico inmediato de la mercanc\u00eda",
+          "isCorrect": false,
+          "rationale": "El levante autom\u00e1tico sin revisi\u00f3n es la caracter\u00edstica principal del canal verde."
+        },
+        {
+          "text": "La apertura obligatoria del contenedor para inspecci\u00f3n f\u00edsica",
+          "isCorrect": false,
+          "rationale": "La inspecci\u00f3n f\u00edsica presencial por parte de un especialista es el procedimiento del canal rojo."
+        },
+        {
+          "text": "La incautaci\u00f3n definitiva por sospecha de fraude",
+          "isCorrect": false,
+          "rationale": "Un canal de control es un procedimiento de rutina; la incautaci\u00f3n solo ocurre si se confirman irregularidades graves."
+        }
+      ],
+      "hint": "Es un punto medio entre el control autom\u00e1tico y la inspecci\u00f3n f\u00edsica."
+    },
+    {
+      "question": "\u00bfC\u00f3mo beneficia el r\u00e9gimen de Drawback a los exportadores peruanos?",
+      "answerOptions": [
+        {
+          "text": "Devuelve el $3\\%$ del valor FOB de la exportaci\u00f3n",
+          "isCorrect": true,
+          "rationale": "Este incentivo restituye un porcentaje del valor de exportaci\u00f3n si se utilizaron insumos importados en la producci\u00f3n."
+        },
+        {
+          "text": "Exonera del pago total de aranceles a la importaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "El Drawback es una devoluci\u00f3n posterior a la exportaci\u00f3n, no una exoneraci\u00f3n previa en la entrada de insumos."
+        },
+        {
+          "text": "Permite exportar productos prohibidos sin sanciones",
+          "isCorrect": false,
+          "rationale": "El r\u00e9gimen no cambia la naturaleza legal de las mercanc\u00edas; lo prohibido sigue estando vedado."
+        },
+        {
+          "text": "Reduce los costos de flete mar\u00edtimo internacional",
+          "isCorrect": false,
+          "rationale": "El Drawback es un beneficio fiscal del Estado y no influye en las tarifas comerciales de los transportistas."
+        }
+      ],
+      "hint": "Piense en un incentivo financiero directo basado en el valor de venta al exterior."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia operativa entre mercanc\u00eda prohibida y mercanc\u00eda restringida?",
+      "answerOptions": [
+        {
+          "text": "La restringida puede transitar con permisos especiales",
+          "isCorrect": true,
+          "rationale": "A diferencia de lo prohibido (veto total), lo restringido requiere autorizaciones de entidades competentes para su tr\u00e1nsito."
+        },
+        {
+          "text": "La prohibida solo requiere pagar un arancel m\u00e1s alto",
+          "isCorrect": false,
+          "rationale": "Lo prohibido tiene el ingreso o salida totalmente vedado por ley, sin importar el pago de impuestos."
+        },
+        {
+          "text": "Ambas categor\u00edas requieren exactamente los mismos tr\u00e1mites",
+          "isCorrect": false,
+          "rationale": "Existe una distinci\u00f3n legal clara: una no entra/sale bajo ninguna circunstancia y la otra es condicional."
+        },
+        {
+          "text": "La restringida solo se aplica a productos de lujo",
+          "isCorrect": false,
+          "rationale": "La restricci\u00f3n se basa en seguridad, salud o patrimonio (como alimentos o medicinas), no en el valor del bien."
+        }
+      ],
+      "hint": "Una categor\u00eda tiene la puerta cerrada, la otra requiere una 'llave' legal espec\u00edfica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 entidad es la responsable de otorgar autorizaciones para la importaci\u00f3n o exportaci\u00f3n de armas, municiones y explosivos?",
+      "answerOptions": [
+        {
+          "text": "SUCAMEC",
+          "isCorrect": true,
+          "rationale": "Esta es la autoridad especializada que toma el control cuando la log\u00edstica involucra elementos de seguridad nacional."
+        },
+        {
+          "text": "DIGESA",
+          "isCorrect": false,
+          "rationale": "DIGESA se encarga de temas sanitarios y de salud ambiental, no de armamento o explosivos."
+        },
+        {
+          "text": "SANIPES",
+          "isCorrect": false,
+          "rationale": "SANIPES tiene competencia exclusiva sobre productos hidrobiol\u00f3gicos como pescado o harina de pescado."
+        },
+        {
+          "text": "SENASA",
+          "isCorrect": false,
+          "rationale": "SENASA supervisa la sanidad agraria y productos agr\u00edcolas, no materiales peligrosos de uso militar o civil."
+        }
+      ],
+      "hint": "Es la autoridad vinculada a la seguridad y el control de armas civiles."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Log\u00edstica internacional y predictiva",
+      "Incoterms 2020",
+      "Marco legal aduanero peruano",
+      "Estructura de costos de importaci\u00f3n",
+      "Reg\u00edmenes y documentos aduaneros"
+    ],
+    "followUp": [
+      "Sistemas de valoraci\u00f3n aduanera",
+      "Trazabilidad de la \u00faltima milla",
+      "Clasificaci\u00f3n arancelaria avanzada",
+      "Tratados de libre comercio y preferencias arancelarias",
+      "Seguridad en la cadena de suministro internacional"
+    ]
+  }
+}

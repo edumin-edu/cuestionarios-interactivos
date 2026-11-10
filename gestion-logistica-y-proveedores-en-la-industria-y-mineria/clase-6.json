@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia en el impacto financiero entre el CAPEX y el OPEX?",
+      "answerOptions": [
+        {
+          "text": "El CAPEX se registra directamente en el estado de resultados, mientras que el OPEX se deprecia en el balance general.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n invierte los conceptos contables, ya que es el gasto de capital el que se activa en el balance para su depreciaci\u00f3n posterior."
+        },
+        {
+          "text": "El OPEX impacta de forma inmediata la rentabilidad del periodo, mientras que el CAPEX se deprecia a lo largo de los a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "El gasto operativo se reconoce como un costo en el periodo en que ocurre, afectando directamente el flujo de caja y los resultados actuales."
+        },
+        {
+          "text": "El CAPEX permite una deducibilidad tributaria inmediata a diferencia del OPEX.",
+          "isCorrect": false,
+          "rationale": "La deducibilidad inmediata es una ventaja caracter\u00edstica del OPEX, no del CAPEX, cuya recuperaci\u00f3n de inversi\u00f3n toma a\u00f1os."
+        },
+        {
+          "text": "El OPEX inmoviliza capital a largo plazo, mientras que el CAPEX ofrece flexibilidad ante cambios tecnol\u00f3gicos.",
+          "isCorrect": false,
+          "rationale": "En realidad, es el CAPEX el que amarra recursos a largo plazo, mientras que el OPEX permite ajustes \u00e1giles seg\u00fan la demanda."
+        }
+      ],
+      "hint": "Considera cu\u00e1l de los dos tipos de gasto se registra como un costo de ventas en el tiempo real de la operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito fundamental de la etapa de precalificaci\u00f3n o RFI en una licitaci\u00f3n operativa?",
+      "answerOptions": [
+        {
+          "text": "Negociar el precio final unitario antes de la evaluaci\u00f3n t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "El RFI no es una etapa de negociaci\u00f3n econ\u00f3mica, sino un filtro de informaci\u00f3n para validar capacidades antes de recibir ofertas."
+        },
+        {
+          "text": "Detectar y eliminar el riesgo de insolvencia de un proveedor antes de que afecte la operaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Esta fase busca asegurar que los proveedores tengan el m\u00fasculo financiero necesario para garantizar la continuidad del suministro sin colapsar."
+        },
+        {
+          "text": "Establecer las penalidades por ruptura de stock en el contrato definitivo.",
+          "isCorrect": false,
+          "rationale": "Las penalidades se definen en las bases comerciales y el contrato, no durante la fase de solicitud de informaci\u00f3n o precalificaci\u00f3n."
+        },
+        {
+          "text": "Abrir los sobres de las propuestas econ\u00f3micas para descartar a los m\u00e1s costosos.",
+          "isCorrect": false,
+          "rationale": "La apertura de sobres econ\u00f3micos es una de las \u00faltimas fases y no ocurre durante el proceso inicial de RFI."
+        }
+      ],
+      "hint": "Enf\u00f3cate en la prevenci\u00f3n de riesgos log\u00edsticos relacionados con la estabilidad financiera del contratante."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica deben tener las garant\u00edas exigidas en las bases comerciales de una licitaci\u00f3n de alto nivel?",
+      "answerOptions": [
+        {
+          "text": "Deben ser condicionales y emitidas por cualquier entidad financiera local.",
+          "isCorrect": false,
+          "rationale": "Las garant\u00edas deben ser incondicionales para asegurar el cobro efectivo, y provenir de instituciones de primer nivel para reducir riesgos."
+        },
+        {
+          "text": "Deben ser revocables si el proveedor demuestra falta de liquidez temporal.",
+          "isCorrect": false,
+          "rationale": "Una garant\u00eda revocable no protege a la empresa, ya que el proveedor podr\u00eda retirarla en el momento de mayor necesidad."
+        },
+        {
+          "text": "Deben ser incondicionales, irrevocables y emitidas por bancos de primer nivel.",
+          "isCorrect": true,
+          "rationale": "Estas condiciones blindan financieramente el contrato, asegurando que la empresa pueda ejecutar el dinero ante incumplimientos sin trabas."
+        },
+        {
+          "text": "Deben limitarse a una carta de intenci\u00f3n de cumplimiento sin respaldo monetario.",
+          "isCorrect": false,
+          "rationale": "Una simple carta de intenci\u00f3n no ofrece protecci\u00f3n financiera real ante una falla operativa o t\u00e9cnica grave."
+        }
+      ],
+      "hint": "Busca los tres adjetivos que garantizan la seguridad total del cobro de la fianza."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la 'trilog\u00eda completa' de certificaciones ISO requerida para proveedores en operaciones de alto riesgo?",
+      "answerOptions": [
+        {
+          "text": "ISO $9001$ (Calidad), ISO $14001$ (Ambiente) e ISO $45001$ (Salud Ocupacional).",
+          "isCorrect": true,
+          "rationale": "Estas tres normas cubren los pilares esenciales de gesti\u00f3n que garantizan que un proveedor es viable para entornos industriales exigentes."
+        },
+        {
+          "text": "ISO $9000$ (Fundamentos), ISO $27001$ (Seguridad de Informaci\u00f3n) e ISO $50001$ (Energ\u00eda).",
+          "isCorrect": false,
+          "rationale": "Aunque son normas v\u00e1lidas, no representan el est\u00e1ndar m\u00ednimo de seguridad operativa y ambiental exigido en licitaciones industriales cr\u00edticas."
+        },
+        {
+          "text": "ISO $17025$ (Laboratorios), ISO $22000$ (Alimentos) e ISO $31000$ (Riesgos).",
+          "isCorrect": false,
+          "rationale": "Estas certificaciones son muy espec\u00edficas para sectores que no necesariamente reflejan la gesti\u00f3n integral de un proveedor industrial."
+        },
+        {
+          "text": "ISO $9001$ (Calidad), ISO $26000$ (Responsabilidad Social) e ISO $14001$ (Ambiente).",
+          "isCorrect": false,
+          "rationale": "Falta la ISO $45001$, que es cr\u00edtica para la salud y seguridad de los trabajadores en operaciones mineras o industriales."
+        }
+      ],
+      "hint": "Piensa en las tres \u00e1reas clave: calidad del producto, cuidado del entorno y seguridad de las personas."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es imperativo que los pesos de la matriz de evaluaci\u00f3n sean aprobados antes de abrir las propuestas?",
+      "answerOptions": [
+        {
+          "text": "Para permitir que los proveedores ajusten sus precios a \u00faltima hora.",
+          "isCorrect": false,
+          "rationale": "Ajustar precios despu\u00e9s de conocer los pesos de evaluaci\u00f3n comprometer\u00eda la transparencia y la equidad del proceso."
+        },
+        {
+          "text": "Para evitar la subjetividad y prevenir la alteraci\u00f3n de porcentajes para favorecer a un postor espec\u00edfico.",
+          "isCorrect": true,
+          "rationale": "Fijar las reglas matem\u00e1ticas de antemano asegura que la decisi\u00f3n final sea objetiva y auditable, protegiendo la integridad del proceso."
+        },
+        {
+          "text": "Para cumplir con las normas de depreciaci\u00f3n del balance general.",
+          "isCorrect": false,
+          "rationale": "Los pesos de una matriz de licitaci\u00f3n son herramientas de selecci\u00f3n comercial y no tienen relaci\u00f3n directa con las normas contables de depreciaci\u00f3n."
+        },
+        {
+          "text": "Para asegurar que el precio siempre tenga un peso superior al $70\\%$.",
+          "isCorrect": false,
+          "rationale": "El peso del precio var\u00eda seg\u00fan la estrategia, y en licitaciones cr\u00edticas suele priorizarse lo t\u00e9cnico por encima del costo nominal."
+        }
+      ],
+      "hint": "Considera qu\u00e9 pasar\u00eda si se cambiaran las reglas del juego una vez que ya se conocen las ofertas de los participantes."
+    },
+    {
+      "question": "En la evaluaci\u00f3n t\u00e9cnica de bolas de acero para molienda, \u00bfcu\u00e1les son los elementos qu\u00edmicos clave cuyo porcentaje debe analizarse?",
+      "answerOptions": [
+        {
+          "text": "Oro, Plata, Cobre, Plomo y Zinc.",
+          "isCorrect": false,
+          "rationale": "Estos son metales que se extraen o procesan, pero no forman parte de la aleaci\u00f3n t\u00e9cnica de los medios de molienda."
+        },
+        {
+          "text": "Carbono, Cromo, Manganeso, Silicio y Molibdeno.",
+          "isCorrect": true,
+          "rationale": "La combinaci\u00f3n precisa de estos elementos determina la durabilidad y resistencia del acero ante condiciones abrasivas extremas."
+        },
+        {
+          "text": "Nitr\u00f3geno, Ox\u00edgeno, Hidr\u00f3geno y Helio.",
+          "isCorrect": false,
+          "rationale": "Estos son gases que no se utilizan como componentes principales para definir la dureza y calidad de las aleaciones de acero industriales."
+        },
+        {
+          "text": "Hierro puro sin ninguna otra aleaci\u00f3n para evitar la corrosi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El hierro puro es demasiado blando para la molienda; se requieren aleaciones espec\u00edficas para alcanzar la dureza necesaria."
+        }
+      ],
+      "hint": "Recuerda los componentes met\u00e1licos que, junto al carbono, forman aceros de alta resistencia."
+    },
+    {
+      "question": "\u00bfQu\u00e9 mide exactamente la certificaci\u00f3n de dureza Rockwell en los suministros de molienda?",
+      "answerOptions": [
+        {
+          "text": "La resistencia del material a ser deformado o penetrado bajo condiciones extremas.",
+          "isCorrect": true,
+          "rationale": "Esta medici\u00f3n es fundamental para garantizar que el insumo no se desgaste o se rompa prematuramente dentro del molino."
+        },
+        {
+          "text": "El peso total de la carga que puede soportar un cami\u00f3n de transporte.",
+          "isCorrect": false,
+          "rationale": "La escala Rockwell se refiere a propiedades mec\u00e1nicas intr\u00ednsecas del material, no a capacidades log\u00edsticas de carga externa."
+        },
+        {
+          "text": "La velocidad a la que el acero se oxida en contacto con el agua.",
+          "isCorrect": false,
+          "rationale": "La oxidaci\u00f3n es una propiedad qu\u00edmica, mientras que la dureza Rockwell es una prueba f\u00edsica de resistencia mec\u00e1nica."
+        },
+        {
+          "text": "La pureza del cianuro de sodio en un contrato de suministro.",
+          "isCorrect": false,
+          "rationale": "La dureza Rockwell aplica a materiales s\u00f3lidos como metales, no a la pureza de compuestos qu\u00edmicos l\u00edquidos o granulares."
+        }
+      ],
+      "hint": "Esta escala es un est\u00e1ndar industrial para determinar qu\u00e9 tan 'duro' es un metal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia al Costo Total de Pertenencia (TCO) del precio unitario FOB?",
+      "answerOptions": [
+        {
+          "text": "El TCO solo incluye el costo de fabricaci\u00f3n en la planta del proveedor.",
+          "isCorrect": false,
+          "rationale": "El costo de fabricaci\u00f3n es solo una fracci\u00f3n del TCO; esta m\u00e9trica es integral y abarca toda la cadena hasta el destino final."
+        },
+        {
+          "text": "El TCO integra fletes, seguros, gastos de importaci\u00f3n y transporte hasta la mina.",
+          "isCorrect": true,
+          "rationale": "El TCO ofrece la foto completa del gasto real puesto en el sitio de operaci\u00f3n, permitiendo comparaciones justas entre proveedores."
+        },
+        {
+          "text": "El precio FOB es siempre m\u00e1s alto que el TCO porque incluye los impuestos locales.",
+          "isCorrect": false,
+          "rationale": "El precio FOB (Free On Board) suele ser menor porque no contempla los costos log\u00edsticos internacionales ni la entrega final."
+        },
+        {
+          "text": "El TCO es una m\u00e9trica puramente t\u00e9cnica que no considera valores monetarios.",
+          "isCorrect": false,
+          "rationale": "El TCO es una herramienta financiera fundamental que suma todos los costos asociados a la adquisici\u00f3n y uso de un producto."
+        }
+      ],
+      "hint": "Piensa en el costo acumulado desde que el producto sale de la f\u00e1brica hasta que llega f\u00edsicamente a la planta del cliente."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la t\u00e9cnica de 'bolas marcadas' o tags en la gesti\u00f3n de suministros?",
+      "answerOptions": [
+        {
+          "text": "En pintar los camiones de los proveedores para rastrearlos por GPS.",
+          "isCorrect": false,
+          "rationale": "Esta t\u00e9cnica se aplica directamente al insumo en el proceso productivo, no al transporte log\u00edstico externo."
+        },
+        {
+          "text": "En introducir piezas piloto para medir el desgaste real en condiciones operativas de planta.",
+          "isCorrect": true,
+          "rationale": "El uso de tags permite obtener datos emp\u00edricos sobre el rendimiento del material bajo fuego cruzado en los molinos."
+        },
+        {
+          "text": "En etiquetar los sobres de las propuestas econ\u00f3micas para asegurar su confidencialidad.",
+          "isCorrect": false,
+          "rationale": "Aunque la confidencialidad es clave, los tags o bolas marcadas son protocolos de campo para pruebas de rendimiento t\u00e9cnico."
+        },
+        {
+          "text": "En marcar el inventario que ya ha sido pagado para diferenciarlo del que est\u00e1 en consignaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La t\u00e9cnica de bolas marcadas es un protocolo de prueba de desgaste, no un sistema de control contable de propiedad."
+        }
+      ],
+      "hint": "Se trata de un experimento f\u00edsico para validar la calidad del material durante su uso real."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la ventaja financiera principal del modelo de contrato por consignaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Permite que la empresa sea due\u00f1a de todo el stock desde que llega al almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "En la consignaci\u00f3n, la propiedad contable permanece con el proveedor hasta el momento del consumo, lo cual es su mayor beneficio."
+        },
+        {
+          "text": "Elimina la necesidad de realizar auditor\u00edas de seguridad en la planta.",
+          "isCorrect": false,
+          "rationale": "Las auditor\u00edas de seguridad son independientes del modelo de propiedad del inventario y siguen siendo obligatorias."
+        },
+        {
+          "text": "Libera capital de trabajo al mantener el inventario en los libros del proveedor hasta su uso.",
+          "isCorrect": true,
+          "rationale": "Al no pagar por el insumo hasta consumirlo, la empresa mejora su liquidez y reduce el capital inmovilizado en bodegas."
+        },
+        {
+          "text": "Garantiza que el precio del producto se mantenga congelado por diez a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "La consignaci\u00f3n gestiona la propiedad y el flujo del inventario, pero no determina necesariamente la fijeza del precio a largo plazo."
+        }
+      ],
+      "hint": "Considera qu\u00e9 sucede con el dinero de la empresa si el producto est\u00e1 en su almac\u00e9n pero no le pertenece contablemente todav\u00eda."
+    },
+    {
+      "question": "En un contrato de cianuro de sodio, \u00bfqu\u00e9 documento anula cualquier debate sobre el precio debido a su importancia cr\u00edtica?",
+      "answerOptions": [
+        {
+          "text": "La factura comercial de exportaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La factura es un documento contable, pero no prevalece sobre las normas de seguridad en el manejo de productos letales."
+        },
+        {
+          "text": "La Hoja de Datos de Seguridad o MSDS.",
+          "isCorrect": true,
+          "rationale": "Dada la alta letalidad del producto, el cumplimiento estricto de las normas de seguridad y manejo es el requisito innegociable n\u00famero uno."
+        },
+        {
+          "text": "El certificado de origen para beneficios arancelarios.",
+          "isCorrect": false,
+          "rationale": "Los ahorros arancelarios son secundarios frente al riesgo de muerte o desastre ambiental asociado al cianuro."
+        },
+        {
+          "text": "El comprobante de pago de la garant\u00eda bancaria.",
+          "isCorrect": false,
+          "rationale": "Aunque es necesario para el contrato, no define los protocolos de vida o muerte para el manejo del material peligroso."
+        }
+      ],
+      "hint": "Es el documento que detalla los riesgos qu\u00edmicos y los procedimientos de emergencia del producto."
+    },
+    {
+      "question": "\u00bfQu\u00e9 est\u00e1ndar internacional debe cumplir un proveedor de cianuro para ser considerado viable?",
+      "answerOptions": [
+        {
+          "text": "El C\u00f3digo Internacional para el Manejo del Cianuro.",
+          "isCorrect": true,
+          "rationale": "Este c\u00f3digo es el est\u00e1ndar de oro que garantiza que toda la cadena de producci\u00f3n y transporte cumple con niveles de seguridad extremos."
+        },
+        {
+          "text": "Las normas de contabilidad gubernamental del pa\u00eds de origen.",
+          "isCorrect": false,
+          "rationale": "La viabilidad t\u00e9cnica y de seguridad de un proveedor de qu\u00edmicos peligrosos se mide por est\u00e1ndares operativos, no contables."
+        },
+        {
+          "text": "El manual de identidad corporativa de la empresa minera.",
+          "isCorrect": false,
+          "rationale": "La imagen corporativa es irrelevante frente a la capacidad t\u00e9cnica de prevenir accidentes qu\u00edmicos fatales."
+        },
+        {
+          "text": "La certificaci\u00f3n de excelencia en servicio al cliente.",
+          "isCorrect": false,
+          "rationale": "El servicio al cliente no sustituye los rigurosos protocolos de seguridad f\u00edsica y ambiental requeridos para este compuesto."
+        }
+      ],
+      "hint": "Busca el nombre de la normativa espec\u00edfica creada para regular este qu\u00edmico letal en la industria."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de una f\u00f3rmula polin\u00f3mica en la ingenier\u00eda de precios de contratos industriales?",
+      "answerOptions": [
+        {
+          "text": "Calcular la cantidad de operarios necesarios para un proyecto.",
+          "isCorrect": false,
+          "rationale": "Las f\u00f3rmulas polin\u00f3micas se usan para ajustes financieros, no para la planificaci\u00f3n de recursos humanos."
+        },
+        {
+          "text": "Blindar el contrato contra la volatilidad mediante reajustes autom\u00e1ticos basados en \u00edndices globales.",
+          "isCorrect": true,
+          "rationale": "Estas f\u00f3rmulas ligan el precio a indicadores transparentes (como el acero o la energ\u00eda), asegurando equidad si el mercado cambia."
+        },
+        {
+          "text": "Determinar la resistencia mec\u00e1nica de los tanques de almacenamiento.",
+          "isCorrect": false,
+          "rationale": "La resistencia mec\u00e1nica se determina mediante c\u00e1lculos de ingenier\u00eda estructural, no mediante f\u00f3rmulas de reajuste de precios."
+        },
+        {
+          "text": "Eliminar por completo el pago de impuestos de importaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las f\u00f3rmulas polin\u00f3micas no afectan las obligaciones legales tributarias, solo la din\u00e1mica de precios entre comprador y vendedor."
+        }
+      ],
+      "hint": "Sirve para que el precio del contrato 'se mueva' de acuerdo a c\u00f3mo suben o bajan los costos en el mundo."
+    },
+    {
+      "question": "En la fabricaci\u00f3n de tanques industriales, \u00bfqu\u00e9 est\u00e1ndar se exige t\u00edpicamente para garantizar la integridad de las soldaduras?",
+      "answerOptions": [
+        {
+          "text": "Est\u00e1ndares AWS (American Welding Society).",
+          "isCorrect": true,
+          "rationale": "El cumplimiento de AWS asegura que las uniones estructurales del tanque soportar\u00e1n las presiones y cargas operativas sin fallar."
+        },
+        {
+          "text": "C\u00f3digo de colores RAL para pintura.",
+          "isCorrect": false,
+          "rationale": "El c\u00f3digo RAL se refiere a la protecci\u00f3n contra la corrosi\u00f3n y est\u00e9tica, pero no garantiza la resistencia estructural de la soldadura."
+        },
+        {
+          "text": "Normas de etiquetado de productos de consumo masivo.",
+          "isCorrect": false,
+          "rationale": "Estas normas no aplican a la fabricaci\u00f3n de activos cr\u00edticos de infraestructura pesada en la industria."
+        },
+        {
+          "text": "Certificaci\u00f3n de velocidad de descarga de fluidos.",
+          "isCorrect": false,
+          "rationale": "Aunque es un dato operativo, no es el est\u00e1ndar que rige la calidad de la construcci\u00f3n y uni\u00f3n de los metales del tanque."
+        }
+      ],
+      "hint": "Es una organizaci\u00f3n internacional reconocida por sus siglas dedicadas exclusivamente a la soldadura."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio aporta el uso de c\u00f3digos de pintura RAL en proyectos de infraestructura pesada?",
+      "answerOptions": [
+        {
+          "text": "Mejorar la conductividad el\u00e9ctrica de los equipos.",
+          "isCorrect": false,
+          "rationale": "La pintura suele actuar como aislante o recubrimiento protector, no como un conductor de electricidad."
+        },
+        {
+          "text": "Frenar la corrosi\u00f3n de los activos mediante especificaciones t\u00e9cnicas de recubrimiento precisas.",
+          "isCorrect": true,
+          "rationale": "En entornos industriales agresivos, un sistema de pintura bajo est\u00e1ndares RAL es vital para extender la vida \u00fatil de los equipos."
+        },
+        {
+          "text": "Reducir el peso total de la estructura para facilitar su transporte.",
+          "isCorrect": false,
+          "rationale": "El recubrimiento de pintura a\u00f1ade una capa de protecci\u00f3n, pero su impacto en la reducci\u00f3n de peso de un tanque masivo es nulo."
+        },
+        {
+          "text": "Permitir que el tanque cambie de color seg\u00fan la temperatura del l\u00edquido.",
+          "isCorrect": false,
+          "rationale": "Los c\u00f3digos RAL definen tonos estables para protecci\u00f3n y se\u00f1alizaci\u00f3n, no propiedades termocr\u00f3micas especiales."
+        }
+      ],
+      "hint": "Relaciona el acabado de la superficie con la protecci\u00f3n contra el desgaste ambiental y qu\u00edmico."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 no se debe elegir a un proveedor bas\u00e1ndose \u00fanicamente en el precio nominal m\u00e1s bajo?",
+      "answerOptions": [
+        {
+          "text": "Porque los departamentos de contabilidad prefieren pagar m\u00e1s para aumentar el gasto.",
+          "isCorrect": false,
+          "rationale": "Contabilidad siempre busca eficiencia; la raz\u00f3n de no elegir lo m\u00e1s barato es evitar sobrecostos ocultos por fallas."
+        },
+        {
+          "text": "Porque un ahorro inicial peque\u00f1o puede multiplicarse en costos por paradas de planta o accidentes.",
+          "isCorrect": true,
+          "rationale": "La falta de capacidad t\u00e9cnica en un proveedor 'barato' pone en riesgo la continuidad operativa, lo cual es mucho m\u00e1s costoso."
+        },
+        {
+          "text": "Porque las leyes internacionales proh\u00edben aceptar la oferta de menor costo.",
+          "isCorrect": false,
+          "rationale": "No existe tal prohibici\u00f3n legal; es una decisi\u00f3n de gesti\u00f3n de riesgos basada en la b\u00fasqueda de valor y seguridad."
+        },
+        {
+          "text": "Porque el precio m\u00e1s bajo siempre indica que el producto es robado.",
+          "isCorrect": false,
+          "rationale": "Un precio bajo puede deberse a muchos factores leg\u00edtimos, pero en suministros cr\u00edticos suele sugerir menor calidad o seguridad."
+        }
+      ],
+      "hint": "Piensa en el concepto de 'lo barato sale caro' aplicado a una planta que deja de producir por una falla."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta de inteligencia comercial se utiliza durante el RFI para descartar proveedores con riesgo de quiebra?",
+      "answerOptions": [
+        {
+          "text": "El rating de Don & Bradstreet.",
+          "isCorrect": true,
+          "rationale": "Este sistema proporciona datos emp\u00edricos sobre la salud financiera de empresas a nivel global, permitiendo una preselecci\u00f3n segura."
+        },
+        {
+          "text": "La cantidad de seguidores en redes sociales corporativas.",
+          "isCorrect": false,
+          "rationale": "La presencia en redes sociales no es un indicador fiable ni t\u00e9cnico de la solvencia financiera de un eslab\u00f3n log\u00edstico."
+        },
+        {
+          "text": "El cat\u00e1logo de productos en formato PDF.",
+          "isCorrect": false,
+          "rationale": "Un cat\u00e1logo muestra lo que el proveedor vende, pero no revela su capacidad real para pagar deudas o mantenerse operativo."
+        },
+        {
+          "text": "La antig\u00fcedad del logotipo de la empresa.",
+          "isCorrect": false,
+          "rationale": "El dise\u00f1o gr\u00e1fico no guarda relaci\u00f3n alguna con la estabilidad financiera o la probabilidad de insolvencia."
+        }
+      ],
+      "hint": "Es una de las agencias de calificaci\u00f3n financiera m\u00e1s famosas del mundo para el sector B2B."
+    },
+    {
+      "question": "En el embudo estrat\u00e9gico de proveedores, \u00bfcu\u00e1ntos postores se suelen invitar inicialmente para llegar a una terna final competitiva?",
+      "answerOptions": [
+        {
+          "text": "Exactamente dos postores para evitar complicaciones.",
+          "isCorrect": false,
+          "rationale": "Invitar solo a dos postores limita la competencia y no permite un filtrado riguroso para asegurar la mejor opci\u00f3n."
+        },
+        {
+          "text": "Aproximadamente 12 postores.",
+          "isCorrect": true,
+          "rationale": "Comenzar con una base amplia permite aplicar filtros sucesivos (RFI, t\u00e9cnico, econ\u00f3mico) hasta encontrar a los tres m\u00e1s aptos."
+        },
+        {
+          "text": "M\u00e1s de 100 proveedores para asegurar el precio m\u00e1s bajo posible.",
+          "isCorrect": false,
+          "rationale": "Gestionar tal cantidad de postores en una licitaci\u00f3n industrial compleja ser\u00eda ineficiente y diluir\u00eda el rigor del an\u00e1lisis t\u00e9cnico."
+        },
+        {
+          "text": "Solo proveedores locales sin importar su tama\u00f1o financiero.",
+          "isCorrect": false,
+          "rationale": "La selecci\u00f3n debe ser global y rigurosa, priorizando el m\u00fasculo financiero y t\u00e9cnico sobre la ubicaci\u00f3n geogr\u00e1fica."
+        }
+      ],
+      "hint": "Se menciona una cifra de una docena para iniciar el proceso de descarte."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de los planes de contingencia en un contrato de suministro de qu\u00edmicos peligrosos?",
+      "answerOptions": [
+        {
+          "text": "Reducir los costos de env\u00edo mediante rutas m\u00e1s largas.",
+          "isCorrect": false,
+          "rationale": "Los planes de contingencia buscan seguridad y rapidez en la respuesta ante crisis, no necesariamente la reducci\u00f3n de costos de flete."
+        },
+        {
+          "text": "Garantizar una respuesta auditable ante emergencias para proteger la vida y el ambiente.",
+          "isCorrect": true,
+          "rationale": "Dada la letalidad de ciertos insumos, el proveedor debe demostrar que sabe exactamente qu\u00e9 hacer si ocurre un derrame o accidente."
+        },
+        {
+          "text": "Aumentar el precio del contrato bas\u00e1ndose en riesgos hipot\u00e9ticos.",
+          "isCorrect": false,
+          "rationale": "Los planes de contingencia son una exigencia operativa obligatoria y no un mecanismo para inflar precios injustificadamente."
+        },
+        {
+          "text": "Establecer las vacaciones del personal encargado del transporte.",
+          "isCorrect": false,
+          "rationale": "Los planes de contingencia se enfocan en la gesti\u00f3n de crisis operativas, no en la administraci\u00f3n de recursos humanos b\u00e1sica."
+        }
+      ],
+      "hint": "Sirven para saber c\u00f3mo actuar inmediatamente si algo sale muy mal durante el transporte o descarga."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el 'pilar de agilidad' en la gesti\u00f3n moderna de suministros industriales?",
+      "answerOptions": [
+        {
+          "text": "Comprar siempre lo primero que est\u00e9 disponible en el mercado local.",
+          "isCorrect": false,
+          "rationale": "La agilidad no significa falta de planeaci\u00f3n, sino la capacidad de ajustar el gasto operativo r\u00e1pidamente ante la volatilidad."
+        },
+        {
+          "text": "La transici\u00f3n del CAPEX r\u00edgido hacia un modelo OPEX que optimiza el flujo de caja.",
+          "isCorrect": true,
+          "rationale": "Utilizar el gasto operativo permite a las organizaciones adaptarse a los cambios de precios de los metales sin comprometer su balance."
+        },
+        {
+          "text": "Eliminar todos los procedimientos de auditor\u00eda para acelerar las compras.",
+          "isCorrect": false,
+          "rationale": "La agilidad nunca debe comprometer el cumplimiento y la \u00e9tica; los procedimientos son el escudo de la organizaci\u00f3n."
+        },
+        {
+          "text": "Utilizar \u00fanicamente transporte a\u00e9reo para todos los insumos recurrentes.",
+          "isCorrect": false,
+          "rationale": "La agilidad financiera y operativa se logra con modelos de contrataci\u00f3n inteligentes, no necesariamente con el transporte m\u00e1s r\u00e1pido."
+        }
+      ],
+      "hint": "Relaciona la rapidez de respuesta con el cambio de invertir en activos fijos a gastar en la operaci\u00f3n diaria."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gesti\u00f3n de Licitaciones OPEX",
+      "Arquitectura de Licitaciones Industriales",
+      "An\u00e1lisis de Riesgo y Solvencia de Proveedores",
+      "Modelos de Costo Total de Pertenencia (TCO)",
+      "Gesti\u00f3n de Suministros Cr\u00edticos y Peligrosos",
+      "Estrategias Financieras en Abastecimiento (Consignaci\u00f3n)"
+    ],
+    "followUp": [
+      "Implementaci\u00f3n de auditor\u00edas bajo est\u00e1ndares ISO 9001, 14001 y 45001",
+      "C\u00e1lculo avanzado de f\u00f3rmulas polin\u00f3micas para reajuste de precios",
+      "Protocolos de seguridad para el C\u00f3digo Internacional de Manejo del Cianuro",
+      "Optimizaci\u00f3n del capital de trabajo mediante modelos Just In Time",
+      "Ingenier\u00eda de materiales aplicada a medios de molienda"
+    ]
+  }
+}

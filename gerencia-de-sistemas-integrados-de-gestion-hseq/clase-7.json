@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el cambio fundamental en el enfoque de la norma ISO 14001:2015 respecto a la gesti\u00f3n organizacional?",
+      "answerOptions": [
+        {
+          "text": "La transici\u00f3n de un enfoque transaccional a la integraci\u00f3n de ecosistemas complejos HSIQ.",
+          "isCorrect": true,
+          "rationale": "La norma evoluciona de ser un simple tr\u00e1mite administrativo a convertirse en un eje estrat\u00e9gico integrado que combina calidad, seguridad y custodia ambiental."
+        },
+        {
+          "text": "La simplificaci\u00f3n de los requisitos legales para facilitar la certificaci\u00f3n de peque\u00f1as empresas.",
+          "isCorrect": false,
+          "rationale": "La norma en realidad aumenta las exigencias estrat\u00e9gicas y operativas para asegurar la supervivencia corporativa a nivel global."
+        },
+        {
+          "text": "El enfoque exclusivo en la calidad del producto final sobre el proceso de fabricaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El enfoque se centra en la gesti\u00f3n del impacto ambiental y la sostenibilidad tripartita, no solo en la calidad del producto."
+        },
+        {
+          "text": "La eliminaci\u00f3n de la responsabilidad civil en caso de da\u00f1os ambientales accidentales.",
+          "isCorrect": false,
+          "rationale": "La norma refuerza la responsabilidad integral y la proactividad preventiva para evitar da\u00f1os que conllevan consecuencias legales."
+        }
+      ],
+      "hint": "Considere la evoluci\u00f3n hacia un sistema que une calidad, seguridad y medio ambiente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja operativa ofrece la adopci\u00f3n de la Estructura de Alto Nivel (HLS) en las normas ISO?",
+      "answerOptions": [
+        {
+          "text": "Garantiza una compatibilidad absoluta entre diferentes normas como la 9001 y la 45001.",
+          "isCorrect": true,
+          "rationale": "El HLS funciona como un sistema operativo universal con t\u00e9rminos y textos comunes que permiten la integraci\u00f3n total de diversas normas de gesti\u00f3n."
+        },
+        {
+          "text": "Reduce los costos de auditor\u00eda externa al eliminar la necesidad de documentaci\u00f3n f\u00edsica.",
+          "isCorrect": false,
+          "rationale": "Aunque da flexibilidad, el HLS no elimina la auditor\u00eda ni la necesidad de evidencia rigurosa, sino que estandariza la estructura de la norma."
+        },
+        {
+          "text": "Permite que cada departamento de la empresa utilice su propio lenguaje t\u00e9cnico de gesti\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el HLS obliga a que todos los sistemas hablen el mismo idioma para facilitar la operatividad."
+        },
+        {
+          "text": "Sustituye por completo el ciclo de mejora continua PHBA por un modelo lineal.",
+          "isCorrect": false,
+          "rationale": "La estructura est\u00e1 dise\u00f1ada precisamente para alinearse y fortalecer el ciclo de mejora continua PHBA."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo interact\u00faan diferentes sistemas de gesti\u00f3n dentro de una misma organizaci\u00f3n."
+    },
+    {
+      "question": "Dentro de la arquitectura de la norma ISO 14001, \u00bfa qu\u00e9 fase del ciclo PHBA corresponden las cl\u00e1usulas 4, 5 y 6?",
+      "answerOptions": [
+        {
+          "text": "Planear",
+          "isCorrect": true,
+          "rationale": "Estas cl\u00e1usulas se centran en el an\u00e1lisis del entorno, el compromiso de la direcci\u00f3n y la identificaci\u00f3n de riesgos y oportunidades."
+        },
+        {
+          "text": "Hacer",
+          "isCorrect": false,
+          "rationale": "La fase de ejecuci\u00f3n o 'hacer' est\u00e1 vinculada a las cl\u00e1usulas 7 y 8, que tratan sobre recursos y control operacional."
+        },
+        {
+          "text": "Verificar",
+          "isCorrect": false,
+          "rationale": "La verificaci\u00f3n corresponde a la cl\u00e1usula 9, donde se realizan el monitoreo y las auditor\u00edas del sistema."
+        },
+        {
+          "text": "Actuar",
+          "isCorrect": false,
+          "rationale": "La fase de actuar se concentra en la cl\u00e1usula 10, enfocada en la mejora continua y optimizaci\u00f3n constante."
+        }
+      ],
+      "hint": "Es la etapa inicial donde se analiza el contexto y se amarra el compromiso directivo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica el concepto de 'informaci\u00f3n documentada' introducido en la versi\u00f3n 2015?",
+      "answerOptions": [
+        {
+          "text": "Mayor flexibilidad en el soporte f\u00edsico manteniendo una exigencia de evidencia rigurosa.",
+          "isCorrect": true,
+          "rationale": "Sustituye los t\u00e9rminos r\u00edgidos de 'documentos y registros' para adaptarse a soportes digitales, sin perder la necesidad de probar el cumplimiento."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de registros hist\u00f3ricos para optimizar el almacenamiento digital.",
+          "isCorrect": false,
+          "rationale": "La norma sigue exigiendo evidencia rigurosa; el cambio busca flexibilidad, no la eliminaci\u00f3n de pruebas de gesti\u00f3n."
+        },
+        {
+          "text": "La obligaci\u00f3n de imprimir todos los procesos en formato f\u00edsico para auditor\u00edas estatales.",
+          "isCorrect": false,
+          "rationale": "El concepto moderno permite precisamente lo contrario: el uso de diversos soportes que no se limitan al papel."
+        },
+        {
+          "text": "La delegaci\u00f3n de la gesti\u00f3n documental exclusivamente a las partes interesadas externas.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad de la informaci\u00f3n documentada recae directamente sobre la organizaci\u00f3n que implementa el sistema de gesti\u00f3n."
+        }
+      ],
+      "hint": "Considere la transici\u00f3n de formatos f\u00edsicos tradicionales a una gesti\u00f3n de datos m\u00e1s adaptable."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define a las 'partes interesadas' bajo el enfoque moderno de gesti\u00f3n ambiental?",
+      "answerOptions": [
+        {
+          "text": "Cualquier grupo que afecte o sea afectado por la operaci\u00f3n, incluyendo comunidades locales.",
+          "isCorrect": true,
+          "rationale": "La definici\u00f3n moderna se expande m\u00e1s all\u00e1 de empleados y accionistas para incluir el entorno social afectado por la actividad operativa."
+        },
+        {
+          "text": "\u00danicamente los accionistas mayoritarios y los proveedores directos de insumos.",
+          "isCorrect": false,
+          "rationale": "Esta es una visi\u00f3n limitada y tradicional que la versi\u00f3n 2015 de la norma ha superado para incluir realidades sociales."
+        },
+        {
+          "text": "Exclusivamente los organismos reguladores del Estado que emiten las multas ambientales.",
+          "isCorrect": false,
+          "rationale": "Aunque el Estado es una parte interesada, la norma exige considerar a cualquier grupo impactado, especialmente comunidades en la zona de influencia."
+        },
+        {
+          "text": "Solo los empleados que trabajan directamente en la gesti\u00f3n de residuos peligrosos.",
+          "isCorrect": false,
+          "rationale": "La definici\u00f3n es transversal a toda la organizaci\u00f3n y su entorno, no se limita a un departamento t\u00e9cnico espec\u00edfico."
+        }
+      ],
+      "hint": "Piense en qui\u00e9nes habitan en la zona de influencia directa de una empresa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia t\u00e9cnica clave entre un 'aspecto ambiental' y un 'impacto ambiental'?",
+      "answerOptions": [
+        {
+          "text": "El aspecto es la causa (acci\u00f3n f\u00edsica) y el impacto es el efecto (consecuencia).",
+          "isCorrect": true,
+          "rationale": "El aspecto es la interacci\u00f3n con el ambiente (ej. consumo de agua), mientras que el impacto es el cambio resultante (ej. agotamiento del recurso)."
+        },
+        {
+          "text": "El aspecto se refiere a multas legales y el impacto a la p\u00e9rdida de biodiversidad.",
+          "isCorrect": false,
+          "rationale": "Ambos conceptos son operativos; las multas son consecuencias legales del incumplimiento, no la definici\u00f3n t\u00e9cnica del aspecto."
+        },
+        {
+          "text": "El impacto es la causa industrial y el aspecto es la medida de mitigaci\u00f3n aplicada.",
+          "isCorrect": false,
+          "rationale": "T\u00e9cnicamente es al rev\u00e9s: la causa es el aspecto y el efecto sobre el medio es el impacto."
+        },
+        {
+          "text": "No existe diferencia t\u00e9cnica, son t\u00e9rminos sin\u00f3nimos en la legislaci\u00f3n nacional.",
+          "isCorrect": false,
+          "rationale": "La norma exige distinguir ambos para poder dise\u00f1ar controles preventivos eficaces en la fuente (aspecto)."
+        }
+      ],
+      "hint": "Recuerde la relaci\u00f3n causa-efecto en los procesos industriales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza t\u00e9cnicamente al concepto de 'agua muerta' en la gesti\u00f3n h\u00eddrica industrial?",
+      "answerOptions": [
+        {
+          "text": "La p\u00e9rdida completa de su demanda bioqu\u00edmica de ox\u00edgeno ($BOD$).",
+          "isCorrect": true,
+          "rationale": "Es agua que ha perdido la capacidad de sostener vida tras procesos industriales y requiere tratamientos avanzados para ser reintegrada."
+        },
+        {
+          "text": "Cualquier tipo de agua que contenga sedimentos s\u00f3lidos visibles a simple vista.",
+          "isCorrect": false,
+          "rationale": "La turbidez por sedimentos no define el 'agua muerta'; el factor cr\u00edtico es la degradaci\u00f3n de su capacidad bioqu\u00edmica."
+        },
+        {
+          "text": "Agua de lluvia que ha sido recolectada pero no ha pasado por filtros de carb\u00f3n activado.",
+          "isCorrect": false,
+          "rationale": "El 'agua muerta' es un subproducto de procesos industriales o hidroel\u00e9ctricos severos, no agua pluvial sin filtrar."
+        },
+        {
+          "text": "El agua que se encuentra congelada en los relaves mineros durante el invierno.",
+          "isCorrect": false,
+          "rationale": "El estado f\u00edsico (s\u00f3lido) no tiene relaci\u00f3n con la definici\u00f3n de p\u00e9rdida de $BOD$ que caracteriza este problema operacional."
+        }
+      ],
+      "hint": "Enfoque su atenci\u00f3n en la capacidad del recurso para sostener vida biol\u00f3gica."
+    },
+    {
+      "question": "\u00bfHasta qu\u00e9 punto se extiende la responsabilidad de una empresa bajo la metodolog\u00eda del ciclo de vida?",
+      "answerOptions": [
+        {
+          "text": "Desde el dise\u00f1o inicial y compra de insumos hasta la disposici\u00f3n final post-consumo.",
+          "isCorrect": true,
+          "rationale": "La responsabilidad integral abarca toda la cadena de suministro, contratistas y el destino final del producto despu\u00e9s de su uso."
+        },
+        {
+          "text": "\u00danicamente mientras el producto se encuentra dentro de los l\u00edmites f\u00edsicos de la f\u00e1brica.",
+          "isCorrect": false,
+          "rationale": "Esta visi\u00f3n 'de puerta a puerta' es obsoleta bajo la versi\u00f3n 2015, que exige una perspectiva expandida del ciclo de vida."
+        },
+        {
+          "text": "Hasta que el producto es entregado al primer distribuidor mayorista.",
+          "isCorrect": false,
+          "rationale": "La norma moderna incluye la disposici\u00f3n final del consumidor, obligando a la empresa a considerar el fin de la vida \u00fatil."
+        },
+        {
+          "text": "Solo durante el proceso de transformaci\u00f3n de la materia prima en producto terminado.",
+          "isCorrect": false,
+          "rationale": "El ciclo de vida incluye etapas previas (insumos) y posteriores (residuos post-consumo), no solo la manufactura."
+        }
+      ],
+      "hint": "Piense en un enfoque que no se detiene en la puerta de salida de la organizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 cr\u00edtica se realiza a la gobernanza pol\u00edtica actual respecto a las crisis ambientales?",
+      "answerOptions": [
+        {
+          "text": "La priorizaci\u00f3n de agendas simb\u00f3licas, como d\u00edas nacionales, sobre problemas urgentes como la miner\u00eda ilegal.",
+          "isCorrect": true,
+          "rationale": "Se critica la desconexi\u00f3n legislativa que dedica recursos a temas triviales mientras fallan los controles sobre devastaciones ecol\u00f3gicas masivas."
+        },
+        {
+          "text": "El exceso de leyes t\u00e9cnicas que impiden el crecimiento de la industria 4.0.",
+          "isCorrect": false,
+          "rationale": "La cr\u00edtica es la opuesta: el sistema legal es insuficiente y no sigue el ritmo de los desaf\u00edos industriales modernos."
+        },
+        {
+          "text": "La falta de creaci\u00f3n de suficientes ministerios para atender cada recurso natural por separado.",
+          "isCorrect": false,
+          "rationale": "El problema se\u00f1alado es de efectividad y priorizaci\u00f3n de la agenda, no de falta de burocracia ministerial."
+        },
+        {
+          "text": "La eliminaci\u00f3n del principio de 'el que contamina paga' de la constituci\u00f3n nacional.",
+          "isCorrect": false,
+          "rationale": "Dicho principio sigue vigente; lo que se cuestiona es la falta de sincron\u00eda y fiscalizaci\u00f3n real del Estado."
+        }
+      ],
+      "hint": "Considere el ejemplo mencionado sobre el 'D\u00eda Nacional del Kion' frente a la realidad de la selva."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 a\u00f1o se cre\u00f3 el Ministerio del Ambiente (MINAM) como parte de la evoluci\u00f3n del marco legal nacional?",
+      "answerOptions": [
+        {
+          "text": "2008",
+          "isCorrect": true,
+          "rationale": "Tras leyes previas en 1990, 2001 y 2005, el MINAM se fund\u00f3 en 2008 para institucionalizar la gesti\u00f3n ambiental estatal."
+        },
+        {
+          "text": "1990",
+          "isCorrect": false,
+          "rationale": "En 1990 se promulg\u00f3 el C\u00f3digo del Medio Ambiente, que fue el inicio, pero no la creaci\u00f3n del ministerio."
+        },
+        {
+          "text": "2005",
+          "isCorrect": false,
+          "rationale": "El a\u00f1o 2005 corresponde a la promulgaci\u00f3n de la Ley General del Ambiente (Ley $28,611$)."
+        },
+        {
+          "text": "2012",
+          "isCorrect": false,
+          "rationale": "En 2012 se cre\u00f3 el Senace, una instituci\u00f3n posterior a la fundaci\u00f3n del Ministerio del Ambiente."
+        }
+      ],
+      "hint": "Fue un hito ocurrido tres a\u00f1os despu\u00e9s de la Ley General del Ambiente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n espec\u00edfica de los L\u00edmites M\u00e1ximos Permisibles (LMP) en la regulaci\u00f3n ambiental?",
+      "answerOptions": [
+        {
+          "text": "Controlar las emisiones y vertimientos directamente en el punto de salida de la fuente emisora.",
+          "isCorrect": true,
+          "rationale": "Los LMP miden lo que sale de la chimenea o el tubo de desag\u00fce, estableciendo topes estrictos a la empresa."
+        },
+        {
+          "text": "Medir la calidad del aire que respira la poblaci\u00f3n en los centros urbanos.",
+          "isCorrect": false,
+          "rationale": "La medici\u00f3n de la calidad del aire ambiente corresponde a los ECA, no a los LMP que se miden en la fuente."
+        },
+        {
+          "text": "Establecer el precio que las empresas deben pagar por cada tonelada de $CO_2$ emitida.",
+          "isCorrect": false,
+          "rationale": "Los LMP son l\u00edmites f\u00edsicos de concentraci\u00f3n de contaminantes, no un sistema de impuestos o bonos de carbono."
+        },
+        {
+          "text": "Determinar la cantidad de hect\u00e1reas que una empresa puede deforestar legalmente.",
+          "isCorrect": false,
+          "rationale": "Los LMP se aplican a efluentes y emisiones gaseosas, no a la gesti\u00f3n de superficies forestales."
+        }
+      ],
+      "hint": "Piense en una medida que se toma 'al final del tubo' de la f\u00e1brica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencian a los Est\u00e1ndares de Calidad Ambiental (ECA) de los LMP?",
+      "answerOptions": [
+        {
+          "text": "Los ECA miden la calidad del cuerpo receptor (aire, agua o suelo) para proteger la salud p\u00fablica.",
+          "isCorrect": true,
+          "rationale": "A diferencia de los LMP, los ECA eval\u00faan el entorno natural donde se dispersan los contaminantes."
+        },
+        {
+          "text": "Los ECA son opcionales para la industria formal mientras que los LMP son obligatorios.",
+          "isCorrect": false,
+          "rationale": "Ambos son instrumentos regulatorios obligatorios que forman parte de la columna vertebral del sistema de gesti\u00f3n nacional."
+        },
+        {
+          "text": "Los ECA se aplican \u00fanicamente a la miner\u00eda ilegal en zonas de selva virgen.",
+          "isCorrect": false,
+          "rationale": "Los ECA son est\u00e1ndares nacionales aplicables a todo el territorio para proteger la salud y el entorno."
+        },
+        {
+          "text": "Los ECA miden la eficiencia energ\u00e9tica de la maquinaria pesada de una organizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Se enfocan en la calidad de los elementos naturales (aire, agua, suelo) y no en el rendimiento de los equipos."
+        }
+      ],
+      "hint": "Considere qu\u00e9 instrumento se utiliza para monitorear el r\u00edo o el aire de una ciudad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la extensi\u00f3n aproximada de selva deforestada por la miner\u00eda ilegal en la regi\u00f3n de Madre de Dios?",
+      "answerOptions": [
+        {
+          "text": "$200,000$ hect\u00e1reas",
+          "isCorrect": true,
+          "rationale": "Esta cifra ilustra la escala masiva de devastaci\u00f3n ecol\u00f3gica y el colapso de la gobernanza en esa zona del pa\u00eds."
+        },
+        {
+          "text": "$50,000$ hect\u00e1reas",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra alta, el impacto documentado en Madre de Dios es cuatro veces superior a este valor."
+        },
+        {
+          "text": "$500,000$ hect\u00e1reas",
+          "isCorrect": false,
+          "rationale": "Esta cifra exceder\u00eda los datos presentados sobre la devastaci\u00f3n espec\u00edfica en la regi\u00f3n mencionada."
+        },
+        {
+          "text": "$10,000$ hect\u00e1reas",
+          "isCorrect": false,
+          "rationale": "Esta cantidad es insuficiente para describir la cat\u00e1strofe ecol\u00f3gica generada por la infraestructura ilegal de gran escala."
+        }
+      ],
+      "hint": "Es un n\u00famero de seis cifras que representa un \u00e1rea forestal gigantesca desaparecida."
+    },
+    {
+      "question": "\u00bfQu\u00e9 infraestructura ilegal se utiliza para el lavado de mineral y puede alcanzar hasta cuatro pisos de altura?",
+      "answerOptions": [
+        {
+          "text": "Chutes",
+          "isCorrect": true,
+          "rationale": "Los 'chutes' son estructuras de gran envergadura utilizadas en la miner\u00eda informal que demuestran el nivel de inversi\u00f3n del mercado negro."
+        },
+        {
+          "text": "Geomallas",
+          "isCorrect": false,
+          "rationale": "Las geomallas son tecnolog\u00edas avanzadas utilizadas en la miner\u00eda formal para el tratamiento de suelos y agua."
+        },
+        {
+          "text": "Dragas",
+          "isCorrect": false,
+          "rationale": "Aunque se usan en miner\u00eda ilegal, el t\u00e9rmino espec\u00edfico para las estructuras de lavado de varios pisos mencionado es 'chutes'."
+        },
+        {
+          "text": "Enzimas",
+          "isCorrect": false,
+          "rationale": "Las enzimas se utilizan en tratamientos qu\u00edmicos para recuperar la biodiversidad del agua, no son infraestructuras de construcci\u00f3n."
+        }
+      ],
+      "hint": "Busque el t\u00e9rmino local que describe estas construcciones monumentales en zonas informales."
+    },
+    {
+      "question": "En la miner\u00eda formal, \u00bfqu\u00e9 reducci\u00f3n de incidentes ambientales se ha logrado mediante sistemas de gesti\u00f3n modernos?",
+      "answerOptions": [
+        {
+          "text": "De 45 a 18 incidentes.",
+          "isCorrect": true,
+          "rationale": "Este KPI demuestra c\u00f3mo la adopci\u00f3n de est\u00e1ndares rigurosos transforma riesgos en seguridad operativa real y medible."
+        },
+        {
+          "text": "De 100 a 0 incidentes.",
+          "isCorrect": false,
+          "rationale": "Lograr cero incidentes es el ideal, pero los datos reales reportados muestran una ca\u00edda significativa pero no la eliminaci\u00f3n total."
+        },
+        {
+          "text": "De 20 a 15 incidentes.",
+          "isCorrect": false,
+          "rationale": "La mejora reportada es mucho m\u00e1s dr\u00e1stica que una simple reducci\u00f3n de cinco puntos, reflejando una mayor eficiencia."
+        },
+        {
+          "text": "No hubo reducci\u00f3n, ya que la producci\u00f3n aument\u00f3 proporcionalmente.",
+          "isCorrect": false,
+          "rationale": "Los datos indican que la formalidad permite desacoplar el crecimiento de la producci\u00f3n del n\u00famero de fallos ambientales."
+        }
+      ],
+      "hint": "Piense en una ca\u00edda de m\u00e1s del 50% en los registros de fallos operacionales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 volumen de datos diarios puede procesar una operaci\u00f3n de miner\u00eda inteligente basada en 5G e Inteligencia Artificial?",
+      "answerOptions": [
+        {
+          "text": "170 millones de datos.",
+          "isCorrect": true,
+          "rationale": "Esta escala de hiperconectividad permite una precisi\u00f3n milim\u00e9trica guiada por algoritmos y una gesti\u00f3n de riesgos sin precedentes."
+        },
+        {
+          "text": "10 millones de datos.",
+          "isCorrect": false,
+          "rationale": "Dada la complejidad de los sensores 5G, la cantidad de informaci\u00f3n procesada es significativamente mayor."
+        },
+        {
+          "text": "1 bill\u00f3n de datos.",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra alta, el reporte espec\u00edfico de gigantes tecnol\u00f3gicos menciona los 170 millones como el est\u00e1ndar de vanguardia."
+        },
+        {
+          "text": "500 mil datos.",
+          "isCorrect": false,
+          "rationale": "Esta cantidad ser\u00eda insuficiente para un sistema de inteligencia artificial que monitorea operaciones mineras complejas en tiempo real."
+        }
+      ],
+      "hint": "Es una cifra masiva que refleja la capacidad de la industria 4.0."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el impacto directo de la automatizaci\u00f3n en la seguridad del personal en minas de vanguardia?",
+      "answerOptions": [
+        {
+          "text": "Una reducci\u00f3n del 42% del personal que trabaja bajo tierra.",
+          "isCorrect": true,
+          "rationale": "Sacar a las personas de la 'l\u00ednea de fuego' minimiza el riesgo f\u00edsico y optimiza la operaci\u00f3n mediante control remoto."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de la necesidad de supervisi\u00f3n humana en superficie.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda reemplaza el trabajo de riesgo en el socav\u00f3n, pero la supervisi\u00f3n experta en superficie sigue siendo vital."
+        },
+        {
+          "text": "Un aumento del 42% en la contrataci\u00f3n de mano de obra no calificada.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda inteligente requiere personal m\u00e1s especializado y tiende a reducir la presencia f\u00edsica en zonas peligrosas."
+        },
+        {
+          "text": "La sustituci\u00f3n del personal de seguridad por drones de vigilancia social.",
+          "isCorrect": false,
+          "rationale": "El impacto mencionado se refiere espec\u00edficamente a la reducci\u00f3n de trabajadores en labores subterr\u00e1neas de alto riesgo."
+        }
+      ],
+      "hint": "Considere c\u00f3mo la tecnolog\u00eda ayuda a retirar a los seres humanos de entornos peligrosos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 concepto es indispensable para operar un proyecto minero, incluso por encima de la tecnolog\u00eda avanzada?",
+      "answerOptions": [
+        {
+          "text": "La licencia social.",
+          "isCorrect": true,
+          "rationale": "Sin la aprobaci\u00f3n cultural y comunitaria, cualquier avance t\u00e9cnico o algoritmo predictivo puede colapsar."
+        },
+        {
+          "text": "El certificado de exportaci\u00f3n 5G.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda 5G es una herramienta, pero no es el requisito habilitante fundamental para la viabilidad de un proyecto en una comunidad."
+        },
+        {
+          "text": "La patente de algoritmos de inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "Aunque son importantes para la eficiencia, no garantizan que la comunidad permita la operaci\u00f3n del proyecto."
+        },
+        {
+          "text": "El permiso de importaci\u00f3n de maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "Es un tr\u00e1mite log\u00edstico, pero no aborda la complejidad humana y cultural necesaria para la sostenibilidad."
+        }
+      ],
+      "hint": "Se refiere a la aprobaci\u00f3n no escrita pero innegociable de la comunidad local."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ritual tradicional se menciona como ejemplo cr\u00edtico para la obtenci\u00f3n de acuerdos comunitarios?",
+      "answerOptions": [
+        {
+          "text": "El cordero al palo.",
+          "isCorrect": true,
+          "rationale": "Compartir esta comida tradicional simboliza el sello final de un acuerdo, demostrando que la etiqueta cultural es tan vital como el estudio t\u00e9cnico."
+        },
+        {
+          "text": "El pago a la tierra con hojas de coca.",
+          "isCorrect": false,
+          "rationale": "Aunque es un ritual com\u00fan, el ejemplo espec\u00edfico citado para ilustrar el cierre de acuerdos sociales fue el compartir la comida tradicional."
+        },
+        {
+          "text": "La danza de las tijeras en la plaza mayor.",
+          "isCorrect": false,
+          "rationale": "Es una manifestaci\u00f3n cultural importante, pero no fue el ejemplo utilizado para explicar la 'firma' social de un acuerdo minero."
+        },
+        {
+          "text": "La procesi\u00f3n del Se\u00f1or de los Milagros.",
+          "isCorrect": false,
+          "rationale": "Este es un evento religioso masivo, pero no tiene relaci\u00f3n con el protocolo de negociaci\u00f3n comunitaria descrito."
+        }
+      ],
+      "hint": "Es un acto de convivencia gastron\u00f3mica que sella la confianza entre las partes."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la postura final sobre la meta de neutralidad de carbono para el a\u00f1o 2060?",
+      "answerOptions": [
+        {
+          "text": "Existe un escepticismo fundado sobre lograr alcanzarla a pesar de la automatizaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Aunque la tecnolog\u00eda ayuda, los desaf\u00edos estructurales y la velocidad actual de cambio generan dudas sobre el cumplimiento de este objetivo global."
+        },
+        {
+          "text": "Es una meta garantizada gracias al uso masivo de inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis sugiere que la tecnolog\u00eda por s\u00ed sola no garantiza el \u00e9xito debido a factores pol\u00edticos y sociales complejos."
+        },
+        {
+          "text": "Se lograr\u00e1 \u00fanicamente si se proh\u00edbe toda actividad industrial extractiva.",
+          "isCorrect": false,
+          "rationale": "La propuesta no es la prohibici\u00f3n, sino una gesti\u00f3n industrial transparente y proactiva, aunque el objetivo de 2060 sigue siendo incierto."
+        },
+        {
+          "text": "Se ha adelantado para el a\u00f1o 2040 debido a la eficiencia de la miner\u00eda formal.",
+          "isCorrect": false,
+          "rationale": "No se menciona un adelanto de la meta; al contrario, se cuestiona la viabilidad del plazo original de 2060."
+        }
+      ],
+      "hint": "Reflexione sobre la viabilidad de los compromisos globales frente a la realidad operativa."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "ISO 14001:2015 y Gobernanza Ambiental",
+      "Conceptos T\u00e9cnicos de Impacto y Aspecto Ambiental",
+      "Gesti\u00f3n de Recursos H\u00eddricos e 'Agua Muerta'",
+      "Marco Legal Ambiental Peruano y Principios Punitivos",
+      "Miner\u00eda Ilegal vs. Miner\u00eda Formal 4.0",
+      "Licencia Social y Factores Culturales en la Industria"
+    ],
+    "followUp": [
+      "Metodolog\u00edas Avanzadas de Remediaci\u00f3n con Enzimas y Geomallas",
+      "Integraci\u00f3n de Sistemas HSIQ en la Industria 4.0",
+      "Desaf\u00edos de la Fiscalizaci\u00f3n Ambiental en Ecosistemas Amaz\u00f3nicos",
+      "Estrategias de Descarbonizaci\u00f3n y Neutralidad de Carbono 2060",
+      "\u00c9tica y Transparencia en la Gesti\u00f3n de Datos Industriales"
+    ]
+  }
+}

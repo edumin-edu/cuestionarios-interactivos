@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 interpretaci\u00f3n se le da a la conducta de salar la comida antes de probarla en el contexto del car\u00e1cter de un l\u00edder?",
+      "answerOptions": [
+        {
+          "text": "Indica una toma de decisiones impulsiva sin realizar un diagn\u00f3stico previo.",
+          "isCorrect": true,
+          "rationale": "Salar la comida antes de probarla simboliza actuar bas\u00e1ndose en suposiciones en lugar de evaluar la situaci\u00f3n real presente."
+        },
+        {
+          "text": "Representa una alta eficiencia t\u00e9cnica y b\u00fasqueda de resultados r\u00e1pidos.",
+          "isCorrect": false,
+          "rationale": "Aunque parece una acci\u00f3n r\u00e1pida, en el liderazgo se critica como una falta de observaci\u00f3n y an\u00e1lisis de la situaci\u00f3n espec\u00edfica."
+        },
+        {
+          "text": "Refleja una personalidad proactiva que se anticipa a los problemas futuros.",
+          "isCorrect": false,
+          "rationale": "La proactividad requiere entender el entorno, mientras que esta acci\u00f3n ignora la condici\u00f3n actual del objeto de estudio."
+        },
+        {
+          "text": "Demuestra una gran confianza en las habilidades aprendidas previamente.",
+          "isCorrect": false,
+          "rationale": "La confianza excesiva que ignora el contexto actual se traduce en negligencia diagn\u00f3stica, no en una virtud de liderazgo."
+        }
+      ],
+      "hint": "Relaciona el acto de modificar algo sin conocer su estado actual con la etapa inicial de cualquier proceso de resoluci\u00f3n de problemas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el enfoque principal del liderazgo operacional en la gesti\u00f3n industrial?",
+      "answerOptions": [
+        {
+          "text": "La sostenibilidad a largo plazo y la relaci\u00f3n con gobiernos locales.",
+          "isCorrect": false,
+          "rationale": "Estos aspectos corresponden a la visi\u00f3n estrat\u00e9gica y el manejo de stakeholders, no al d\u00eda a d\u00eda operativo."
+        },
+        {
+          "text": "La eficiencia en la ejecuci\u00f3n t\u00e1ctica y el cumplimiento de metas inmediatas.",
+          "isCorrect": true,
+          "rationale": "El l\u00edder operacional se centra en que los engranajes diarios, como la extracci\u00f3n o el mantenimiento, funcionen sin cuellos de botella."
+        },
+        {
+          "text": "La creaci\u00f3n de una cultura organizacional adaptable a cada territorio.",
+          "isCorrect": false,
+          "rationale": "La adaptaci\u00f3n cultural territorial es una funci\u00f3n de la mirada estrat\u00e9gica para evitar conflictos sociales."
+        },
+        {
+          "text": "La gesti\u00f3n de la reputaci\u00f3n corporativa ante los inversionistas.",
+          "isCorrect": false,
+          "rationale": "La reputaci\u00f3n y la imagen ante terceros son objetivos de largo alcance propios del nivel estrat\u00e9gico."
+        }
+      ],
+      "hint": "Piensa en las tareas que aseguran que la planta no se detenga durante el turno actual."
+    },
+    {
+      "question": "\u00bfQu\u00e9 horizonte temporal define generalmente la visi\u00f3n de un l\u00edder estrat\u00e9gico?",
+      "answerOptions": [
+        {
+          "text": "El turno de trabajo actual.",
+          "isCorrect": false,
+          "rationale": "El enfoque en el turno presente es caracter\u00edstico del liderazgo operacional y t\u00e1ctico."
+        },
+        {
+          "text": "Un periodo de una semana a un mes.",
+          "isCorrect": false,
+          "rationale": "Este plazo sigue siendo parte de la planificaci\u00f3n operativa de corto aliento."
+        },
+        {
+          "text": "Un marco de tiempo de uno a diez a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "El liderazgo estrat\u00e9gico busca la sostenibilidad y continuidad del negocio proyectando las necesidades y el entorno a largo plazo."
+        },
+        {
+          "text": "Exclusivamente el cierre del a\u00f1o fiscal.",
+          "isCorrect": false,
+          "rationale": "Aunque el cierre anual es importante, la estrategia suele extenderse m\u00e1s all\u00e1 de un solo ciclo contable."
+        }
+      ],
+      "hint": "Considera la diferencia entre 'apagar incendios diarios' y construir la viabilidad futura de la empresa."
+    },
+    {
+      "question": "En la industria extractiva, \u00bfqu\u00e9 caracteriza a la patolog\u00eda directiva conocida como 'manejo por excepci\u00f3n'?",
+      "answerOptions": [
+        {
+          "text": "Intervenir \u00fanicamente cuando ya se ha producido una desviaci\u00f3n o falla evidente.",
+          "isCorrect": true,
+          "rationale": "Es una postura pasiva donde el l\u00edder solo act\u00faa ante el error, priorizando la productividad sobre la prevenci\u00f3n constante."
+        },
+        {
+          "text": "Premiar excepcionalmente a los trabajadores que superan las cuotas de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esto se asocia m\u00e1s con un liderazgo transaccional basado en recompensas, no con la pasividad ante el riesgo."
+        },
+        {
+          "text": "Delegar todas las funciones t\u00e9cnicas a personal externo especializado.",
+          "isCorrect": false,
+          "rationale": "La delegaci\u00f3n es una herramienta de gesti\u00f3n, mientras que el manejo por excepci\u00f3n es una disfunci\u00f3n en la supervisi\u00f3n."
+        },
+        {
+          "text": "Implementar medidas de seguridad extraordinarias ante riesgos latentes.",
+          "isCorrect": false,
+          "rationale": "El manejo por excepci\u00f3n ignora los riesgos latentes y solo reacciona ante los accidentes consumados."
+        }
+      ],
+      "hint": "Imagina a un supervisor que se mantiene de brazos cruzados hasta que algo explota."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el principal costo oculto de implementar un liderazgo basado en el manejo por miedo?",
+      "answerOptions": [
+        {
+          "text": "El aumento excesivo en los bonos de productividad por cumplimiento.",
+          "isCorrect": false,
+          "rationale": "El miedo suele suprimir los incentivos positivos, centr\u00e1ndose solo en el refuerzo negativo."
+        },
+        {
+          "text": "La destrucci\u00f3n de la comunicaci\u00f3n honesta sobre cuasi accidentes y riesgos.",
+          "isCorrect": true,
+          "rationale": "Si el personal teme el castigo, ocultar\u00e1 los errores y riesgos menores, dejando a la organizaci\u00f3n ciega ante peligros mortales."
+        },
+        {
+          "text": "La mejora inmediata y sostenible de los est\u00e1ndares de seguridad.",
+          "isCorrect": false,
+          "rationale": "Aunque puede haber un cambio conductual moment\u00e1neo, no es sostenible ni mejora la cultura de seguridad real."
+        },
+        {
+          "text": "La reducci\u00f3n del agotamiento emocional en los trabajadores de campo.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el miedo incrementa significativamente el estr\u00e9s y la carga cognitiva negativa."
+        }
+      ],
+      "hint": "Piensa en lo que un trabajador dejar\u00eda de reportar si supiera que ser\u00e1 castigado sistem\u00e1ticamente."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el enfoque teleol\u00f3gico del liderazgo moderno?",
+      "answerOptions": [
+        {
+          "text": "La creencia de que el l\u00edder nace con atributos innatos imposibles de aprender.",
+          "isCorrect": false,
+          "rationale": "Ese es el enfoque ontol\u00f3gico, que se centra en el 'ser' est\u00e1tico del individuo."
+        },
+        {
+          "text": "La idea de que el liderazgo es una competencia que se construye y entrena continuamente.",
+          "isCorrect": true,
+          "rationale": "Bajo este enfoque, el l\u00edder se 'hace' a trav\u00e9s de procesos movilizadores y l\u00edneas de carrera escalables."
+        },
+        {
+          "text": "El uso exclusivo de la jerarqu\u00eda para imponer \u00f3rdenes t\u00e9cnicas.",
+          "isCorrect": false,
+          "rationale": "El enfoque teleol\u00f3gico promueve el desarrollo de habilidades, no simplemente el uso del poder posicional."
+        },
+        {
+          "text": "La selecci\u00f3n de l\u00edderes basada \u00fanicamente en sus notas acad\u00e9micas.",
+          "isCorrect": false,
+          "rationale": "El enfoque moderno valora el entrenamiento conductual y la experiencia sobre la brillantez t\u00e9cnica pura."
+        }
+      ],
+      "hint": "Contrasta la idea de 'talento natural' con la de 'desarrollo profesional entrenable'."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define el carisma en el marco del liderazgo transformacional y hol\u00edstico?",
+      "answerOptions": [
+        {
+          "text": "Tener un ego dominante y ser siempre el centro de atenci\u00f3n del equipo.",
+          "isCorrect": false,
+          "rationale": "El carisma transformacional no se trata de egocentrismo, sino de la capacidad de conectar con otros."
+        },
+        {
+          "text": "Una herramienta de influencia emp\u00e1tica que genera conciencia y entusiasmo.",
+          "isCorrect": true,
+          "rationale": "Se utiliza para movilizar equipos bajo presi\u00f3n extrema mediante la comprensi\u00f3n y la inspiraci\u00f3n genuina."
+        },
+        {
+          "text": "La capacidad de convencer al personal de ignorar los riesgos por la producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El liderazgo hol\u00edstico busca precisamente lo contrario: elevar la conciencia sobre la seguridad."
+        },
+        {
+          "text": "Un rasgo de personalidad que no puede ser desarrollado mediante entrenamiento.",
+          "isCorrect": false,
+          "rationale": "En el modelo teleol\u00f3gico, estas capacidades de influencia son vistas como entrenables."
+        }
+      ],
+      "hint": "Busca una definici\u00f3n que se centre en la conexi\u00f3n emocional y la motivaci\u00f3n grupal, no en la vanidad."
+    },
+    {
+      "question": "Dentro de un sistema de delegaci\u00f3n efectiva, \u00bfcu\u00e1l es el prop\u00f3sito t\u00e9cnico de definir claramente los roles?",
+      "answerOptions": [
+        {
+          "text": "Permitir que el l\u00edder se desentienda por completo de la responsabilidad final.",
+          "isCorrect": false,
+          "rationale": "Delegar no es deshacerse del trabajo, sino optimizar c\u00f3mo se ejecuta manteniendo la responsabilidad."
+        },
+        {
+          "text": "Optimizar los perfiles de puesto y prevenir el agotamiento emocional o burnout.",
+          "isCorrect": true,
+          "rationale": "Al evitar la sobrecarga cognitiva y la ambig\u00fcedad, se protege la salud mental y la eficiencia del equipo."
+        },
+        {
+          "text": "Incrementar la jerarqu\u00eda y los niveles de mando en la organizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La delegaci\u00f3n efectiva busca claridad y fluidez, no necesariamente aumentar la complejidad burocr\u00e1tica."
+        },
+        {
+          "text": "Asegurar que una sola persona ejecute todas las tareas cr\u00edticas del turno.",
+          "isCorrect": false,
+          "rationale": "Esto causar\u00eda un cuello de botella y riesgo operativo, que es precisamente lo que la delegaci\u00f3n busca evitar."
+        }
+      ],
+      "hint": "Considera el impacto de la claridad en la carga mental del trabajador."
+    },
+    {
+      "question": "En la matriz RASAI aplicada al mantenimiento, \u00bfqui\u00e9n es la persona que rinde cuentas por la calidad y el costo?",
+      "answerOptions": [
+        {
+          "text": "El Supervisor de turno (Responsable).",
+          "isCorrect": false,
+          "rationale": "El supervisor es quien ejecuta la acci\u00f3n, pero no necesariamente quien asume la rendici\u00f3n de cuentas final ante la gerencia."
+        },
+        {
+          "text": "El Jefe de guardia (Aprobador).",
+          "isCorrect": true,
+          "rationale": "El rol del aprobador es ser el 'accountable', quien garantiza que el resultado final cumpla con los est\u00e1ndares exigidos."
+        },
+        {
+          "text": "El Gerente de operaciones (Consultado).",
+          "isCorrect": false,
+          "rationale": "El consultado aporta informaci\u00f3n para no detener la producci\u00f3n, pero no aprueba el detalle t\u00e9cnico final del mantenimiento."
+        },
+        {
+          "text": "La Oficina t\u00e9cnica (Informada).",
+          "isCorrect": false,
+          "rationale": "La oficina t\u00e9cnica solo recibe la informaci\u00f3n para fines presupuestarios, sin participar en la ejecuci\u00f3n o aprobaci\u00f3n."
+        }
+      ],
+      "hint": "Distingue entre quien hace el trabajo y quien da el 'visto bueno' final y asume la responsabilidad del resultado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 utilidad predictiva ofrece la aplicaci\u00f3n del cuestionario MLQ6S?",
+      "answerOptions": [
+        {
+          "text": "Determinar la cantidad exacta de minerales que se extraer\u00e1n en el mes.",
+          "isCorrect": false,
+          "rationale": "El MLQ6S es una herramienta psicom\u00e9trica de liderazgo, no un software de planificaci\u00f3n minera."
+        },
+        {
+          "text": "Identificar si el estilo de mando es transformacional, transaccional o pasivo.",
+          "isCorrect": true,
+          "rationale": "Permite diagnosticar las estructuras de liderazgo antes de promover personal a cargos de alta responsabilidad."
+        },
+        {
+          "text": "Calcular el presupuesto necesario para el mantenimiento de equipos pesados.",
+          "isCorrect": false,
+          "rationale": "El presupuesto se gestiona mediante datos financieros e informes t\u00e9cnicos, no mediante encuestas de liderazgo."
+        },
+        {
+          "text": "Medir exclusivamente el nivel de fatiga f\u00edsica de los conductores.",
+          "isCorrect": false,
+          "rationale": "Para la fatiga se usan otras m\u00e9tricas; el MLQ6S se enfoca en la conducta y estilo del l\u00edder."
+        }
+      ],
+      "hint": "Enf\u00f3cate en la evaluaci\u00f3n de los estilos de liderazgo presentes en la organizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 dimensiones eval\u00faa la escala US (UWES) para medir el compromiso del equipo?",
+      "answerOptions": [
+        {
+          "text": "Velocidad, precisi\u00f3n y fuerza f\u00edsica.",
+          "isCorrect": false,
+          "rationale": "Estas son m\u00e9tricas de rendimiento f\u00edsico, no dimensiones de compromiso psicol\u00f3gico u organizacional."
+        },
+        {
+          "text": "Vigor, dedicaci\u00f3n y absorci\u00f3n en las tareas.",
+          "isCorrect": true,
+          "rationale": "Estas tres m\u00e9tricas permiten determinar cient\u00edficamente qu\u00e9 tan conectado y motivado est\u00e1 el trabajador con su labor."
+        },
+        {
+          "text": "Puntualidad, asistencia y cumplimiento de uniforme.",
+          "isCorrect": false,
+          "rationale": "Estos son indicadores b\u00e1sicos de disciplina laboral, pero no profundizan en el compromiso real (engagement)."
+        },
+        {
+          "text": "Capacidad t\u00e9cnica, a\u00f1os de experiencia y nivel educativo.",
+          "isCorrect": false,
+          "rationale": "Estos factores definen el perfil profesional, pero no el nivel de compromiso emocional con el trabajo."
+        }
+      ],
+      "hint": "Piensa en los factores psicol\u00f3gicos que mantienen a un trabajador enfocado y con energ\u00eda en su puesto."
+    },
+    {
+      "question": "Si un diagn\u00f3stico de compromiso arroja un puntaje de 0 a 2 (c\u00f3digo rojo), \u00bfcu\u00e1l es la prescripci\u00f3n gerencial inmediata?",
+      "answerOptions": [
+        {
+          "text": "Incrementar las horas de trabajo para recuperar la productividad perdida.",
+          "isCorrect": false,
+          "rationale": "Esto agravar\u00eda el riesgo de colapso y accidentes en un equipo ya desgastado."
+        },
+        {
+          "text": "Implementar pausas activas, rotaciones a turnos ligeros y coaching psicol\u00f3gico.",
+          "isCorrect": true,
+          "rationale": "Se trata de un rescate operativo urgente para evitar el agotamiento total del personal."
+        },
+        {
+          "text": "Brindar premios econ\u00f3micos por no reportar incidentes menores.",
+          "isCorrect": false,
+          "rationale": "Esto fomentar\u00eda una cultura de ocultamiento peligrosa y no soluciona el bajo compromiso."
+        },
+        {
+          "text": "Despedir inmediatamente a todo el equipo para renovar el personal.",
+          "isCorrect": false,
+          "rationale": "La prescripci\u00f3n busca la recuperaci\u00f3n y gesti\u00f3n del talento, no la eliminaci\u00f3n masiva de capital humano."
+        }
+      ],
+      "hint": "Busca medidas que prioricen la salud mental y la recuperaci\u00f3n f\u00edsica del trabajador."
+    },
+    {
+      "question": "Seg\u00fan las estad\u00edsticas de fatalidad del sector extractivo en 2023, \u00bfcu\u00e1l fue la principal causa de accidentes mortales?",
+      "answerOptions": [
+        {
+          "text": "Derrumbes por fallas geomec\u00e1nicas ($15\\%$).",
+          "isCorrect": false,
+          "rationale": "Aunque es una causa importante, no representa el mayor porcentaje de las fatalidades registradas."
+        },
+        {
+          "text": "Accidentes de tr\u00e1nsito por exceso de velocidad o fatiga ($41\\%$).",
+          "isCorrect": true,
+          "rationale": "Los siniestros viales son la mayor amenaza identificada, superando a los riesgos propios de la excavaci\u00f3n o sustancias qu\u00edmicas."
+        },
+        {
+          "text": "Inhalaci\u00f3n de sustancias t\u00f3xicas por mala ventilaci\u00f3n ($18\\%$).",
+          "isCorrect": false,
+          "rationale": "Este factor ocupa el segundo lugar en las estad\u00edsticas mencionadas, por debajo de los accidentes de tr\u00e1nsito."
+        },
+        {
+          "text": "Ca\u00eddas de gran altura en plantas de procesamiento.",
+          "isCorrect": false,
+          "rationale": "Esta causa no se destaca como la principal dentro del desglose estad\u00edstico del a\u00f1o 2023 proporcionado."
+        }
+      ],
+      "hint": "Recuerda el factor que est\u00e1 m\u00e1s relacionado con el transporte y la fatiga al volante."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tendencia se observa al comparar la mortalidad entre empresas titulares y empresas contratistas?",
+      "answerOptions": [
+        {
+          "text": "Ambas mantienen \u00edndices de mortalidad id\u00e9nticos debido a la misma tecnolog\u00eda.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda por s\u00ed sola no iguala los resultados si no hay una estandarizaci\u00f3n de liderazgo efectiva."
+        },
+        {
+          "text": "Las empresas contratistas reportan \u00edndices de mortalidad considerablemente m\u00e1s altos.",
+          "isCorrect": true,
+          "rationale": "Esto se\u00f1ala la necesidad urgente de estandarizar el liderazgo en seguridad en toda la cadena de suministro."
+        },
+        {
+          "text": "Las empresas titulares tienen mayor accidentabilidad por manejar mayor personal.",
+          "isCorrect": false,
+          "rationale": "A pesar del volumen, los sistemas de gesti\u00f3n suelen ser m\u00e1s robustos en las titulares, reflejando menores \u00edndices mortales."
+        },
+        {
+          "text": "La mortalidad ha desaparecido totalmente en las empresas conexas.",
+          "isCorrect": false,
+          "rationale": "Lamentablemente, las fatalidades persisten y son m\u00e1s cr\u00edticas precisamente en el sector de contratistas."
+        }
+      ],
+      "hint": "Enf\u00f3cate en qu\u00e9 grupo de la cadena de suministro presenta el mayor riesgo seg\u00fan los datos de supervisi\u00f3n."
+    },
+    {
+      "question": "De acuerdo con los principios de cumplimiento \u00e9tico (como ISO 37301), \u00bfqu\u00e9 debe hacer un l\u00edder durante una crisis?",
+      "answerOptions": [
+        {
+          "text": "Maquillar los datos estad\u00edsticos para proteger la reputaci\u00f3n de la empresa.",
+          "isCorrect": false,
+          "rationale": "Ocultar informaci\u00f3n viola los principios \u00e9ticos y pone en riesgo la seguridad futura al no aprender de los errores."
+        },
+        {
+          "text": "Mantener una transparencia absoluta y ser el referente de calma.",
+          "isCorrect": true,
+          "rationale": "La honestidad y el control emocional evitan que el p\u00e1nico cause m\u00e1s desviaciones operativas durante la emergencia."
+        },
+        {
+          "text": "Priorizar el cumplimiento de las cuotas de producci\u00f3n sobre la investigaci\u00f3n del incidente.",
+          "isCorrect": false,
+          "rationale": "La producci\u00f3n nunca debe estar por encima de la vida humana o la integridad de los protocolos de crisis."
+        },
+        {
+          "text": "Delegar la comunicaci\u00f3n de la crisis a personal de menor rango para evitar responsabilidad.",
+          "isCorrect": false,
+          "rationale": "El l\u00edder debe ser la cara visible y responsable en los momentos cr\u00edticos de la operaci\u00f3n."
+        }
+      ],
+      "hint": "Considera el valor de la honestidad y la estabilidad emocional frente al caos."
+    },
+    {
+      "question": "En el incidente del 'robot mixer', \u00bfcu\u00e1l fue la causa ra\u00edz identificada a nivel de liderazgo?",
+      "answerOptions": [
+        {
+          "text": "Una falla mec\u00e1nica impredecible en el sistema de aislamiento de energ\u00eda.",
+          "isCorrect": false,
+          "rationale": "Aunque el protocolo fue violado, la causa ra\u00edz no fue la m\u00e1quina, sino el entorno de gesti\u00f3n."
+        },
+        {
+          "text": "Permitir una cultura donde la rapidez eclipsaba la obligaci\u00f3n de trabajar seguro.",
+          "isCorrect": true,
+          "rationale": "El l\u00edder foment\u00f3 o toler\u00f3 que el trabajador priorizara la velocidad, destruyendo la credibilidad del protocolo de seguridad."
+        },
+        {
+          "text": "La falta de capacitaci\u00f3n t\u00e9cnica del trabajador que perdi\u00f3 el dedo.",
+          "isCorrect": false,
+          "rationale": "El conocimiento exist\u00eda, pero la presi\u00f3n o cultura de 'hacerlo r\u00e1pido' pes\u00f3 m\u00e1s que el entrenamiento."
+        },
+        {
+          "text": "La ausencia de supervisores en el \u00e1rea de la planta en el momento del acto.",
+          "isCorrect": false,
+          "rationale": "Incluso con supervisores, si el mensaje previo es 'la producci\u00f3n es lo primero', el accidente ocurrir\u00e1."
+        }
+      ],
+      "hint": "Busca la falla en la prioridad que el l\u00edder estableci\u00f3 entre velocidad y seguridad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el primer axioma fundamental para un liderazgo en seguridad industrial efectivo?",
+      "answerOptions": [
+        {
+          "text": "La inversi\u00f3n masiva en tecnolog\u00eda de automatizaci\u00f3n remota.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda ayuda, pero el fundamento del liderazgo reside en la conducta humana."
+        },
+        {
+          "text": "La credibilidad y el ejemplo del propio l\u00edder.",
+          "isCorrect": true,
+          "rationale": "Sin coherencia entre lo que el l\u00edder dice y lo que hace, no se puede inspirar una cultura de seguridad real."
+        },
+        {
+          "text": "La aplicaci\u00f3n estricta de multas econ\u00f3micas a los trabajadores.",
+          "isCorrect": false,
+          "rationale": "El castigo es una medida reactiva; el ejemplo es una medida preventiva y constructiva."
+        },
+        {
+          "text": "El cumplimiento estricto del presupuesto anual de operaciones.",
+          "isCorrect": false,
+          "rationale": "El presupuesto es un objetivo financiero, no un axioma de comportamiento preventivo en seguridad."
+        }
+      ],
+      "hint": "Piensa en el impacto que tiene ver a un jefe cumplir los protocolos que \u00e9l mismo exige."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica 'liderazgo visible' en el terreno operativo?",
+      "answerOptions": [
+        {
+          "text": "Monitorear todas las operaciones exclusivamente a trav\u00e9s de c\u00e1maras de seguridad.",
+          "isCorrect": false,
+          "rationale": "Estar presente f\u00edsicamente es vital; el monitoreo remoto no reemplaza la interacci\u00f3n directa."
+        },
+        {
+          "text": "Realizar caminatas de seguridad constantes y 'ensuciarse las botas'.",
+          "isCorrect": true,
+          "rationale": "Significa tener presencia real, observar conductas en campo y mantener una comunicaci\u00f3n directa con las cuadrillas."
+        },
+        {
+          "text": "Aparecer en el sitio de trabajo solo cuando ocurre un accidente grave.",
+          "isCorrect": false,
+          "rationale": "Eso es liderazgo reactivo; la visibilidad efectiva ocurre antes de que el incidente suceda."
+        },
+        {
+          "text": "Publicar fotos de los l\u00edderes en el peri\u00f3dico mural de la empresa.",
+          "isCorrect": false,
+          "rationale": "La visibilidad real es operativa y de campo, no se limita a una imagen publicitaria interna."
+        }
+      ],
+      "hint": "Se refiere a la presencia f\u00edsica y activa del supervisor en el lugar donde ocurren los riesgos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 capacidad debe garantizar el liderazgo transformacional en un trabajador empoderado?",
+      "answerOptions": [
+        {
+          "text": "La confianza absoluta para detener una labor insegura sin temor a represalias.",
+          "isCorrect": true,
+          "rationale": "Este es el est\u00e1ndar m\u00e1s alto de seguridad: cuando el trabajador siente el respaldo total para priorizar su vida."
+        },
+        {
+          "text": "La habilidad para reparar maquinaria pesada sin ayuda t\u00e9cnica externa.",
+          "isCorrect": false,
+          "rationale": "Esto se refiere a habilidades t\u00e9cnicas espec\u00edficas, no al empoderamiento desde el liderazgo transformacional."
+        },
+        {
+          "text": "El permiso para saltarse los protocolos en caso de urgencia productiva.",
+          "isCorrect": false,
+          "rationale": "El liderazgo transformacional nunca fomenta la violaci\u00f3n de protocolos de seguridad."
+        },
+        {
+          "text": "La obligaci\u00f3n de trabajar horas extra para compensar fallas del sistema.",
+          "isCorrect": false,
+          "rationale": "El empoderamiento busca la eficiencia y seguridad, no la explotaci\u00f3n por fallas estructurales."
+        }
+      ],
+      "hint": "Tiene que ver con el derecho a decir 'no' ante una situaci\u00f3n de peligro inminente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la conclusi\u00f3n definitiva sobre la aptitud para dirigir en entornos de alto riesgo?",
+      "answerOptions": [
+        {
+          "text": "Cualquier persona con un t\u00edtulo t\u00e9cnico puede dirigir si tiene el cargo.",
+          "isCorrect": false,
+          "rationale": "El rigor t\u00e9cnico es in\u00fatil si no se logra percibir y gestionar el factor humano y la seguridad."
+        },
+        {
+          "text": "Si un l\u00edder no es capaz de inspirar seguridad total, no es apto para dirigir.",
+          "isCorrect": true,
+          "rationale": "La seguridad es un valor innegociable; quien no la inspira pone en riesgo vidas humanas y la operaci\u00f3n misma."
+        },
+        {
+          "text": "El liderazgo solo es necesario cuando la tecnolog\u00eda de la planta falla.",
+          "isCorrect": false,
+          "rationale": "El liderazgo es el motor diario; la tecnolog\u00eda es solo una herramienta bajo el control humano."
+        },
+        {
+          "text": "Los mejores l\u00edderes son aquellos que nacen con un car\u00e1cter fuerte y autocr\u00e1tico.",
+          "isCorrect": false,
+          "rationale": "El modelo moderno prefiere el liderazgo transformacional y emp\u00e1tico, que se construye con entrenamiento."
+        }
+      ],
+      "hint": "Considera la seguridad no como un indicador, sino como el requisito \u00e9tico fundamental para el mando."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Liderazgo Operacional y Estrat\u00e9gico",
+      "Patolog\u00edas Directivas",
+      "Liderazgo Transformacional y Hol\u00edstico",
+      "Sistemas de Delegaci\u00f3n Efectiva (Matriz RASAI)",
+      "Evaluaci\u00f3n del Compromiso Organizacional (MLQ6S y US/UWES)",
+      "Seguridad Industrial y Gesti\u00f3n de Crisis"
+    ],
+    "followUp": [
+      "Psicolog\u00eda Organizacional en Miner\u00eda",
+      "Normativas Internacionales de Cumplimiento \u00c9tico (ISO 37301)",
+      "An\u00e1lisis de Causa Ra\u00edz en Accidentes Laborales",
+      "Factores Humanos y Ergonom\u00eda Cognitiva"
+    ]
+  }
+}

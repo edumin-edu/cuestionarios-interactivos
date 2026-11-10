@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfC\u00f3mo se define la comunicaci\u00f3n dentro del marco del relacionamiento comunitario efectivo?",
+      "answerOptions": [
+        {
+          "text": "Como un accesorio informativo para reportar avances t\u00e9cnicos.",
+          "isCorrect": false,
+          "rationale": "Considerar la comunicaci\u00f3n como un simple accesorio ignora su rol fundamental en la construcci\u00f3n de la viabilidad operativa y la realidad compartida."
+        },
+        {
+          "text": "Como la infraestructura cr\u00edtica que sostiene la viabilidad de cualquier acuerdo.",
+          "isCorrect": true,
+          "rationale": "La comunicaci\u00f3n act\u00faa como el soporte esencial sobre el cual se edifican acuerdos pol\u00edticamente viables y se previene la erosi\u00f3n de la confianza."
+        },
+        {
+          "text": "Como una herramienta reactiva dise\u00f1ada para apagar incendios sociales.",
+          "isCorrect": false,
+          "rationale": "El enfoque preventivo propuesto busca alejarse de la gesti\u00f3n de crisis reactiva para centrarse en la sostenibilidad a largo plazo."
+        },
+        {
+          "text": "Como un proceso unidireccional de transmisi\u00f3n de datos corporativos.",
+          "isCorrect": false,
+          "rationale": "La comunicaci\u00f3n efectiva se describe como un proceso bidireccional de fabricaci\u00f3n de realidades compartidas, no solo como informaci\u00f3n de una sola v\u00eda."
+        }
+      ],
+      "hint": "Piensa en el elemento que sirve de cimiento para que cualquier estructura de negociaci\u00f3n se mantenga en pie."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre cuando existe una divergencia profunda entre los datos t\u00e9cnicos y la vivencia comunitaria?",
+      "answerOptions": [
+        {
+          "text": "Se produce un error de c\u00e1lculo que se soluciona ajustando las estad\u00edsticas.",
+          "isCorrect": false,
+          "rationale": "Este fen\u00f3meno no es un simple error num\u00e9rico, sino una colisi\u00f3n de cosmovisiones que requiere una traducci\u00f3n cultural profunda."
+        },
+        {
+          "text": "Se genera un abismo sem\u00e1ntico que fractura la licencia social para operar.",
+          "isCorrect": true,
+          "rationale": "La falta de un marco conceptual com\u00fan convierte el dato t\u00e9cnico en ruido est\u00e9ril, rompiendo la confianza de la comunidad local."
+        },
+        {
+          "text": "La comunidad acepta autom\u00e1ticamente los l\u00edmites legales presentados por expertos.",
+          "isCorrect": false,
+          "rationale": "La percepci\u00f3n de la comunidad suele basarse en su realidad cotidiana, la cual puede entrar en conflicto con los argumentos de legalidad t\u00e9cnica."
+        },
+        {
+          "text": "El di\u00e1logo se vuelve innecesario debido a la superioridad del dato cient\u00edfico.",
+          "isCorrect": false,
+          "rationale": "El dato t\u00e9cnico sin empat\u00eda proactiva es insuficiente para gestionar las preocupaciones reales y emocionales de la poblaci\u00f3n."
+        }
+      ],
+      "hint": "Relaciona este concepto con la falta de un lenguaje com\u00fan entre dos realidades distintas."
+    },
+    {
+      "question": "En el contexto de una negociaci\u00f3n estrat\u00e9gica, \u00bfqu\u00e9 representa el BATNA?",
+      "answerOptions": [
+        {
+          "text": "El acuerdo final firmado y documentado en actas formales.",
+          "isCorrect": false,
+          "rationale": "El BATNA es un plan previo a la firma, no el resultado final del acuerdo en la mesa."
+        },
+        {
+          "text": "La zona geogr\u00e1fica donde es posible establecer una operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este concepto se refiere a la estrategia de negociaci\u00f3n y no a una delimitaci\u00f3n territorial del proyecto."
+        },
+        {
+          "text": "El punto de equilibrio donde ambas partes ceden sus pretensiones iniciales.",
+          "isCorrect": false,
+          "rationale": "Aunque se relaciona con la negociaci\u00f3n, esta descripci\u00f3n se acerca m\u00e1s al concepto de zona de posible acuerdo."
+        },
+        {
+          "text": "La ruta de acci\u00f3n espec\u00edfica a tomar si la negociaci\u00f3n fracasa por completo.",
+          "isCorrect": true,
+          "rationale": "Conocer el plan de rescate o alternativa al acuerdo permite neutralizar asimetr\u00edas de informaci\u00f3n y define el poder real en la mesa."
+        }
+      ],
+      "hint": "Es tu mejor alternativa en caso de que no se logre un consenso."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede con la ZOPA (Zona de Posible Acuerdo) si no se logra cerrar el abismo sem\u00e1ntico?",
+      "answerOptions": [
+        {
+          "text": "Se expande debido a la multiplicidad de interpretaciones.",
+          "isCorrect": false,
+          "rationale": "La divergencia de percepciones aleja las posturas de las partes en lugar de acercarlas."
+        },
+        {
+          "text": "Se mantiene constante mientras el presupuesto del proyecto sea alto.",
+          "isCorrect": false,
+          "rationale": "La viabilidad de la zona de acuerdo depende de la alineaci\u00f3n conceptual, no solamente de factores econ\u00f3micos."
+        },
+        {
+          "text": "Se encoge dr\u00e1sticamente hasta volverse inexistente.",
+          "isCorrect": true,
+          "rationale": "Sin un entendimiento com\u00fan, las soluciones aceptables para ambas partes desaparecen, haciendo imposible forzar un acuerdo operativo."
+        },
+        {
+          "text": "Se convierte autom\u00e1ticamente en una posici\u00f3n de demanda r\u00edgida.",
+          "isCorrect": false,
+          "rationale": "La ZOPA es un espacio de intersecci\u00f3n, mientras que las demandas r\u00edgidas son posiciones individuales que bloquean dicho espacio."
+        }
+      ],
+      "hint": "Considera c\u00f3mo afecta la falta de entendimiento mutuo a las opciones que ambas partes pueden aceptar."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre intereses y posiciones en una mesa de di\u00e1logo?",
+      "answerOptions": [
+        {
+          "text": "Los intereses son demandas r\u00edgidas y las posiciones son necesidades profundas.",
+          "isCorrect": false,
+          "rationale": "Esta definici\u00f3n invierte los conceptos; las posiciones son las demandas externas y los intereses las necesidades subyacentes."
+        },
+        {
+          "text": "Los intereses son necesidades vitales y las posiciones son exigencias inflexibles.",
+          "isCorrect": true,
+          "rationale": "Identificar la necesidad real (inter\u00e9s) permite destrabar bloqueos causados por exigencias externas r\u00edgidas (posiciones)."
+        },
+        {
+          "text": "No existe diferencia, ambos t\u00e9rminos se usan de forma intercambiable.",
+          "isCorrect": false,
+          "rationale": "La distinci\u00f3n entre ambos es la herramienta clave que permite al gestor mover la conversaci\u00f3n hacia metas compartidas."
+        },
+        {
+          "text": "Las posiciones son siempre leg\u00edtimas y los intereses son percepciones subjetivas.",
+          "isCorrect": false,
+          "rationale": "Ambos elementos forman parte del proceso, pero centrarse en posiciones suele llevar a bloqueos en la negociaci\u00f3n."
+        }
+      ],
+      "hint": "Distingue entre lo que alguien dice que quiere y el porqu\u00e9 realmente lo necesita."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es vital diferenciar entre qui\u00e9n es afectado por un proyecto y qui\u00e9n decide dentro de una comunidad?",
+      "answerOptions": [
+        {
+          "text": "Para priorizar el pago de compensaciones solo a los l\u00edderes formales.",
+          "isCorrect": false,
+          "rationale": "El objetivo no es econ\u00f3mico, sino identificar qui\u00e9nes realmente influyen en la mentalidad colectiva."
+        },
+        {
+          "text": "Porque los l\u00edderes naturales de opini\u00f3n suelen moldear las decisiones del colectivo.",
+          "isCorrect": true,
+          "rationale": "A diferencia de los l\u00edderes de escritorio, los l\u00edderes naturales tienen una conexi\u00f3n directa que determina la aceptaci\u00f3n del proyecto."
+        },
+        {
+          "text": "Para evitar el contacto con la poblaci\u00f3n que no tiene cargos directivos.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n comunitaria requiere un mapeo riguroso de todos los actores, especialmente de aquellos con influencia real en el terreno."
+        },
+        {
+          "text": "Porque las decisiones t\u00e9cnicas solo deben ser validadas por ingenieros for\u00e1neos.",
+          "isCorrect": false,
+          "rationale": "Ignorar la estructura social local y los liderazgos naturales fractura la legitimidad de cualquier acuerdo t\u00e9cnico."
+        }
+      ],
+      "hint": "Piensa en qui\u00e9n tiene el poder real de cambiar la opini\u00f3n de la gente en el d\u00eda a d\u00eda."
+    },
+    {
+      "question": "En el modelo CLARO, \u00bfqu\u00e9 representa la letra R?",
+      "answerOptions": [
+        {
+          "text": "Resultados trimestrales de la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El modelo se enfoca en la emisi\u00f3n de mensajes impecables, no en el reporte de desempe\u00f1o financiero."
+        },
+        {
+          "text": "Respuesta inmediata a quejas legales.",
+          "isCorrect": false,
+          "rationale": "Aunque la respuesta es importante, el modelo CLARO define la naturaleza del mensaje comunicativo."
+        },
+        {
+          "text": "Respeto absoluto a los c\u00f3digos culturales.",
+          "isCorrect": true,
+          "rationale": "Validar la cosmovisi\u00f3n y los c\u00f3digos locales es esencial para que el mensaje no sea motivo de sospecha o rechazo."
+        },
+        {
+          "text": "Reducci\u00f3n de costos de comunicaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La eficiencia econ\u00f3mica no forma parte de este anclaje nemot\u00e9cnico centrado en la calidad del di\u00e1logo."
+        }
+      ],
+      "hint": "Se refiere a la validaci\u00f3n de la forma de ver el mundo de la contraparte."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito del paso 'Reafirmar' dentro del acr\u00f3nimo MINERA de escucha activa?",
+      "answerOptions": [
+        {
+          "text": "Confirmar que la empresa tiene la raz\u00f3n t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "El objetivo de reafirmar no es imponer una postura, sino asegurar un entendimiento mutuo de lo expresado."
+        },
+        {
+          "text": "Parafrasear lo entendido para garantizar que ambos escuchan la misma historia.",
+          "isCorrect": true,
+          "rationale": "Esta t\u00e9cnica evita distorsiones perceptivas al verificar que el mensaje recibido es el mismo que se intent\u00f3 comunicar."
+        },
+        {
+          "text": "Imponer los plazos de ejecuci\u00f3n del proyecto.",
+          "isCorrect": false,
+          "rationale": "La reafirmaci\u00f3n es una t\u00e9cnica de escucha, no una herramienta de imposici\u00f3n de cronogramas."
+        },
+        {
+          "text": "Ignorar los sesgos personales del gestor.",
+          "isCorrect": false,
+          "rationale": "Neutralizar sesgos es un paso previo (N), mientras que reafirmar se centra en la validaci\u00f3n del contenido del di\u00e1logo."
+        }
+      ],
+      "hint": "Es la acci\u00f3n de repetir con tus propias palabras lo que el otro dijo para evitar confusiones."
+    },
+    {
+      "question": "Dentro de la matriz ACUERDO, \u00bfqu\u00e9 funci\u00f3n cumplen los 'Responsables'?",
+      "answerOptions": [
+        {
+          "text": "Actuar como testigos pasivos de la firma del acta.",
+          "isCorrect": false,
+          "rationale": "Los responsables deben tener un rol activo y espec\u00edfico para asegurar que el compromiso se cumpla."
+        },
+        {
+          "text": "Identificar a quienes se oponen al proyecto para excluirlos.",
+          "isCorrect": false,
+          "rationale": "La matriz busca blindar acuerdos, no generar exclusi\u00f3n de actores."
+        },
+        {
+          "text": "Terminar con las promesas vac\u00edas mediante nombres y apellidos espec\u00edficos.",
+          "isCorrect": true,
+          "rationale": "Asignar responsables directos garantiza que los compromisos tengan un seguimiento real y no se desvanezcan con el tiempo."
+        },
+        {
+          "text": "Delegar todas las tareas a la comunidad local.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad debe ser compartida y clara para ambas partes, asegurando la viabilidad mutua."
+        }
+      ],
+      "hint": "Se relaciona con evitar que las palabras se las lleve el viento mediante la rendici\u00f3n de cuentas."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define conceptualmente el riesgo social en el terreno?",
+      "answerOptions": [
+        {
+          "text": "Como la probabilidad de desastres naturales en la zona.",
+          "isCorrect": false,
+          "rationale": "El riesgo social se centra en las interacciones humanas y expectativas, no en eventos clim\u00e1ticos o geol\u00f3gicos."
+        },
+        {
+          "text": "Como la brecha entre las expectativas comunitarias y el desempe\u00f1o corporativo real.",
+          "isCorrect": true,
+          "rationale": "Esta fricci\u00f3n ocurre cuando lo que la gente espera no coincide con las acciones tangibles de la empresa."
+        },
+        {
+          "text": "Como el costo total de la licencia social para operar.",
+          "isCorrect": false,
+          "rationale": "El riesgo es una medida de incertidumbre y brecha, mientras que la licencia social es el activo que se busca proteger."
+        },
+        {
+          "text": "Como la falta de recursos t\u00e9cnicos de la comunidad.",
+          "isCorrect": false,
+          "rationale": "Aunque es un factor, el riesgo reside principalmente en la desconexi\u00f3n entre promesa y realidad percibida."
+        }
+      ],
+      "hint": "Piensa en el espacio de fricci\u00f3n que surge cuando la realidad no cumple con lo prometido."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es uno de los cuatro pilares fundamentales de una l\u00ednea de base social?",
+      "answerOptions": [
+        {
+          "text": "El balance contable anual de la empresa.",
+          "isCorrect": false,
+          "rationale": "La l\u00ednea de base social se enfoca en el diagn\u00f3stico del entorno externo, no en las finanzas internas corporativas."
+        },
+        {
+          "text": "La identificaci\u00f3n de aspectos culturales y sitios sagrados.",
+          "isCorrect": true,
+          "rationale": "Comprender el coraz\u00f3n de la cosmovisi\u00f3n local, como las huacas o cementerios, es cr\u00edtico para evitar errores garrafales."
+        },
+        {
+          "text": "El nivel de producci\u00f3n t\u00e9cnica de la mina.",
+          "isCorrect": false,
+          "rationale": "La producci\u00f3n es una m\u00e9trica operativa interna que no define el perfil social de la comunidad local."
+        },
+        {
+          "text": "La cantidad de personal for\u00e1neo contratado.",
+          "isCorrect": false,
+          "rationale": "Aunque relevante, los pilares se centran en la demograf\u00eda, econom\u00eda, cultura y aspiraciones de la poblaci\u00f3n residente."
+        }
+      ],
+      "hint": "Este pilar se enfoca en lo que le da sentido espiritual e hist\u00f3rico al territorio de la comunidad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n estrat\u00e9gica del mecanismo de atenci\u00f3n de quejas y reclamos (MACKER)?",
+      "answerOptions": [
+        {
+          "text": "Funcionar como un buz\u00f3n de sugerencias pasivo.",
+          "isCorrect": false,
+          "rationale": "Verlo como un simple buz\u00f3n ignora su capacidad de actuar como un term\u00f3metro estrat\u00e9gico din\u00e1mico."
+        },
+        {
+          "text": "Detectar tensiones en etapas tempranas para evitar que el conflicto escale.",
+          "isCorrect": true,
+          "rationale": "Act\u00faa como una herramienta de alerta temprana para prevenir fases confrontacionales o violentas ('pata en alto')."
+        },
+        {
+          "text": "Justificar legalmente el incumplimiento de acuerdos.",
+          "isCorrect": false,
+          "rationale": "El MACKER est\u00e1 dise\u00f1ado para salvaguardar el di\u00e1logo y resolver problemas, no para evadir responsabilidades."
+        },
+        {
+          "text": "Reducir la participaci\u00f3n comunitaria en el proyecto.",
+          "isCorrect": false,
+          "rationale": "Al contrario, fomenta un canal abierto que fortalece la interacci\u00f3n entre las partes."
+        }
+      ],
+      "hint": "Act\u00faa como un term\u00f3metro que mide la temperatura social antes de que algo 'explote'."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la transici\u00f3n del asistencialismo corporativo al valor compartido?",
+      "answerOptions": [
+        {
+          "text": "En aumentar la cantidad de donaciones y d\u00e1divas directas.",
+          "isCorrect": false,
+          "rationale": "Repartir d\u00e1divas es la base del asistencialismo, que es precisamente el paradigma que se busca superar."
+        },
+        {
+          "text": "En que la comunidad pase de ser un receptor pasivo a un socio estrat\u00e9gico.",
+          "isCorrect": true,
+          "rationale": "La cocreaci\u00f3n implica que la comunidad dise\u00f1e activamente su propio desarrollo junto con la empresa."
+        },
+        {
+          "text": "En delegar toda la responsabilidad social al Estado.",
+          "isCorrect": false,
+          "rationale": "El valor compartido es un esquema de corresponsabilidad y sociedad entre empresa y comunidad."
+        },
+        {
+          "text": "En reducir la inversi\u00f3n social para mejorar la rentabilidad.",
+          "isCorrect": false,
+          "rationale": "La cocreaci\u00f3n busca que la inversi\u00f3n sea estrat\u00e9gica y viable, no simplemente menor."
+        }
+      ],
+      "hint": "Se trata de dejar de dar 'regalos' para empezar a construir soluciones juntos."
+    },
+    {
+      "question": "En la f\u00f3rmula de viabilidad $V = \\\\frac{IS \\\\times AC}{CT \\\\times TI} + BE$, \u00bfcu\u00e1l es el papel de los componentes del numerador?",
+      "answerOptions": [
+        {
+          "text": "Representar la fricci\u00f3n t\u00e9cnica y el peso operativo.",
+          "isCorrect": false,
+          "rationale": "La fricci\u00f3n y el peso operativo est\u00e1n representados en el denominador (costo y tiempo)."
+        },
+        {
+          "text": "Funcionar como los motores que impulsan el valor de la iniciativa.",
+          "isCorrect": true,
+          "rationale": "El Impacto Social (IS) y la Aceptaci\u00f3n Comunitaria (AC) son los elementos positivos que generan viabilidad."
+        },
+        {
+          "text": "Medir el tiempo total de implementaci\u00f3n del proyecto.",
+          "isCorrect": false,
+          "rationale": "El tiempo de implementaci\u00f3n (TI) se encuentra en el denominador, reduciendo la viabilidad conforme aumenta."
+        },
+        {
+          "text": "Calcular \u00fanicamente el beneficio econ\u00f3mico para los accionistas.",
+          "isCorrect": false,
+          "rationale": "La f\u00f3rmula busca una viabilidad estrat\u00e9gica integral, donde el beneficio empresarial es solo una parte de la suma final."
+        }
+      ],
+      "hint": "En una fracci\u00f3n, los elementos de arriba son los que aumentan el valor final del resultado."
+    },
+    {
+      "question": "Seg\u00fan la l\u00f3gica de la f\u00f3rmula de viabilidad, \u00bfqu\u00e9 ocurre si el costo t\u00e9cnico o el tiempo de implementaci\u00f3n son excesivamente elevados?",
+      "answerOptions": [
+        {
+          "text": "La viabilidad del proyecto aumenta proporcionalmente.",
+          "isCorrect": false,
+          "rationale": "Al estar en el denominador, un aumento en estos factores disminuye matem\u00e1ticamente la viabilidad."
+        },
+        {
+          "text": "El impacto social se vuelve irrelevante para la empresa.",
+          "isCorrect": false,
+          "rationale": "El impacto social sigue siendo importante, pero la dificultad t\u00e9cnica puede hacer que el proyecto sea inejecutable."
+        },
+        {
+          "text": "La viabilidad se reduce dr\u00e1sticamente, volviendo el proyecto marginal.",
+          "isCorrect": true,
+          "rationale": "Una alta fricci\u00f3n t\u00e9cnica o temporal puede superar el beneficio social, invalidando la estrategia."
+        },
+        {
+          "text": "Se debe eliminar el componente de aceptaci\u00f3n comunitaria.",
+          "isCorrect": false,
+          "rationale": "Eliminar la aceptaci\u00f3n comunitaria solo agravar\u00eda el riesgo social y la falta de licencia para operar."
+        }
+      ],
+      "hint": "Considera c\u00f3mo afectan los obst\u00e1culos operativos al \u00e9xito de un proyecto en una divisi\u00f3n matem\u00e1tica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple el 'Beneficio Empresarial' ($BE$) dentro de la f\u00f3rmula de viabilidad?",
+      "answerOptions": [
+        {
+          "text": "Es el \u00fanico factor que determina si se realiza un proyecto.",
+          "isCorrect": false,
+          "rationale": "El $BE$ es un componente sumatorio, pero la viabilidad depende tambi\u00e9n del cociente social/t\u00e9cnico."
+        },
+        {
+          "text": "Funciona como un blindaje o 'chaleco antibalas' para la licencia social.",
+          "isCorrect": true,
+          "rationale": "Representa el valor reputacional o estrat\u00e9gico que protege la continuidad operativa de la organizaci\u00f3n."
+        },
+        {
+          "text": "Sustituye la necesidad de aceptaci\u00f3n comunitaria.",
+          "isCorrect": false,
+          "rationale": "Ning\u00fan beneficio empresarial puede compensar a largo plazo la falta de legitimidad ante la comunidad."
+        },
+        {
+          "text": "Es una variable que disminuye el impacto social esperado.",
+          "isCorrect": false,
+          "rationale": "En la f\u00f3rmula, el $BE$ suma valor a la viabilidad total, no resta impacto a lo social."
+        }
+      ],
+      "hint": "Relaci\u00f3nalo con un elemento de protecci\u00f3n que asegura la permanencia de la empresa en el territorio."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia operativa entre la Asamblea Comunitaria y la Mesa Chica de Seguimiento?",
+      "answerOptions": [
+        {
+          "text": "La asamblea es para t\u00e9cnicos y la mesa chica es para toda la poblaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; la asamblea es el espacio masivo y la mesa chica es el espacio reducido de trabajo t\u00e9cnico."
+        },
+        {
+          "text": "La asamblea otorga legitimidad p\u00fablica y la mesa chica asegura el cumplimiento t\u00e9cnico.",
+          "isCorrect": true,
+          "rationale": "Mientras la asamblea establece las reglas generales, la mesa chica es el motor que verifica hitos y rinde cuentas detalladas."
+        },
+        {
+          "text": "No hay diferencia, ambas cumplen la misma funci\u00f3n de firmar acuerdos.",
+          "isCorrect": false,
+          "rationale": "Sin la mesa chica, la asamblea pierde fuerza y se degrada en una lista de promesas incumplidas."
+        },
+        {
+          "text": "La mesa chica es un espacio secreto para evitar la participaci\u00f3n social.",
+          "isCorrect": false,
+          "rationale": "La mesa chica es una instancia de cocreaci\u00f3n t\u00e9cnica que debe alimentar la transparencia hacia el colectivo mayor."
+        }
+      ],
+      "hint": "Distingue entre el gran escenario de validaci\u00f3n social y el peque\u00f1o motor de trabajo diario."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n fundamental sobre la transparencia dej\u00f3 el caso Yanacocha?",
+      "answerOptions": [
+        {
+          "text": "Que el uso de cisternas es suficiente para mitigar el polvo.",
+          "isCorrect": false,
+          "rationale": "Esa fue una soluci\u00f3n temporal superada por la infraestructura visible en otros casos como el corredor minero."
+        },
+        {
+          "text": "Que la desconfianza es inherente y no se puede modificar.",
+          "isCorrect": false,
+          "rationale": "El caso demostr\u00f3 que acciones concretas pueden transformar la percepci\u00f3n negativa."
+        },
+        {
+          "text": "Que sustituir el rumor por monitoreo participativo cambia las reglas del juego.",
+          "isCorrect": true,
+          "rationale": "Permitir que la comunidad elija laboratorios y palpe la realidad t\u00e9cnica construye una confianza basada en evidencia tangible."
+        },
+        {
+          "text": "Que los estudios de impacto ambiental no necesitan ser explicados.",
+          "isCorrect": false,
+          "rationale": "La falta de fiabilidad percibida en los estudios es precisamente lo que genera el congelamiento de proyectos."
+        }
+      ],
+      "hint": "Se refiere a permitir que la comunidad verifique con sus propios ojos los datos t\u00e9cnicos del agua."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 un vocero con legitimidad cultural es m\u00e1s efectivo que un alto directivo for\u00e1neo?",
+      "answerOptions": [
+        {
+          "text": "Porque los directivos for\u00e1neos no tienen capacidad de decisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los directivos suelen tener el poder, pero carecen del v\u00ednculo emocional y el entendimiento del territorio."
+        },
+        {
+          "text": "Porque el vocero leg\u00edtimo entiende el sistema nervioso de la comunidad.",
+          "isCorrect": true,
+          "rationale": "Como se vio en el caso de Espinar, la conexi\u00f3n previa y el conocimiento del d\u00eda a d\u00eda permiten construir acuerdos m\u00e1s s\u00f3lidos."
+        },
+        {
+          "text": "Porque la comunidad prefiere negociar con personas de menor rango jer\u00e1rquico.",
+          "isCorrect": false,
+          "rationale": "No se trata de rango, sino de la confianza y la validaci\u00f3n de la cosmovisi\u00f3n local que proyecta el vocero."
+        },
+        {
+          "text": "Porque los ingenieros no saben hablar en p\u00fablico frente a comunidades.",
+          "isCorrect": false,
+          "rationale": "El problema no es la oratoria, sino la falta de entendimiento profundo de la realidad palpitante de la zona."
+        }
+      ],
+      "hint": "Considera la importancia de conocer el 'sentir genuino' y la conexi\u00f3n emocional con el pueblo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la paradoja que enfrentan los acuerdos t\u00e9cnicos impecables en el campo social?",
+      "answerOptions": [
+        {
+          "text": "Que siempre son aceptados si el dato cient\u00edfico es correcto.",
+          "isCorrect": false,
+          "rationale": "Un dato correcto puede ser percibido como ruido si no hay traducci\u00f3n cultural o confianza."
+        },
+        {
+          "text": "Que un acuerdo t\u00e9cnicamente perfecto puede ser un mal acuerdo si no sobrevive a la realidad social diaria.",
+          "isCorrect": true,
+          "rationale": "La viabilidad operativa depende de que lo pactado sea sostenible y aceptado en la convivencia cotidiana de la comunidad."
+        },
+        {
+          "text": "Que la comunidad prefiere acuerdos informales sobre actas documentadas.",
+          "isCorrect": false,
+          "rationale": "La documentaci\u00f3n formal es un blindaje necesario para que lo pactado perdure en el tiempo."
+        },
+        {
+          "text": "Que el conflicto desaparece por completo una vez que se firma el documento.",
+          "isCorrect": false,
+          "rationale": "El conflicto no desaparece, sino que se gestiona mediante canales de confianza y seguimiento constante."
+        }
+      ],
+      "hint": "Piensa en qu\u00e9 sucede cuando la teor\u00eda del papel choca con el d\u00eda a d\u00eda de la gente."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Comunicaci\u00f3n estrat\u00e9gica en entornos comunitarios",
+      "Modelos de negociaci\u00f3n (BATNA y ZOPA)",
+      "Gesti\u00f3n de riesgos socioambientales",
+      "Metodolog\u00edas de cocreaci\u00f3n y viabilidad",
+      "Modelos t\u00e1cticos de di\u00e1logo (CLARO, MINERA, ACUERDO)"
+    ],
+    "followUp": [
+      "Din\u00e1micas de poder y liderazgo natural en comunidades",
+      "Sostenibilidad de la Licencia Social para Operar (LSO)",
+      "An\u00e1lisis de casos cr\u00edticos en el sector extractivo",
+      "Traducci\u00f3n cultural y ling\u00fc\u00edstica en la resoluci\u00f3n de conflictos",
+      "Indicadores de paz org\u00e1nica y crecimiento organizado"
+    ]
+  }
+}

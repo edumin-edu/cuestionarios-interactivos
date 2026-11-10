@@ -1,0 +1,544 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la visi\u00f3n moderna de la calidad dentro de una organizaci\u00f3n industrial en comparaci\u00f3n con la perspectiva tradicional?",
+      "answerOptions": [
+        {
+          "text": "Es el verdadero cimiento estrat\u00e9gico del negocio.",
+          "isCorrect": true,
+          "rationale": "La calidad ha dejado de ser vista como un simple gasto para convertirse en la base que garantiza la viabilidad comercial y la escalabilidad."
+        },
+        {
+          "text": "Se considera principalmente como un centro de costos necesario.",
+          "isCorrect": false,
+          "rationale": "Esta es la vieja idea que se busca reemplazar, ya que limita la visi\u00f3n de la calidad a un gasto operativo."
+        },
+        {
+          "text": "Es una funci\u00f3n puramente operativa delegada a los supervisores.",
+          "isCorrect": false,
+          "rationale": "La calidad actual requiere un enfoque ejecutivo y estrat\u00e9gico que blinde la marca, no solo supervisi\u00f3n en planta."
+        },
+        {
+          "text": "Se limita al cumplimiento de normas de seguridad laboral.",
+          "isCorrect": false,
+          "rationale": "Aunque la seguridad es importante, la calidad estrat\u00e9gica abarca la eficiencia, estandarizaci\u00f3n y sostenibilidad operativa completa."
+        }
+      ],
+      "hint": "Piense en si la calidad es un gasto o una inversi\u00f3n fundamental para la supervivencia de la empresa."
+    },
+    {
+      "question": "En el contexto de la gesti\u00f3n operativa diaria, \u00bfcu\u00e1l es el margen de variabilidad m\u00e1ximo que se suele tolerar?",
+      "answerOptions": [
+        {
+          "text": "$0.5$",
+          "isCorrect": true,
+          "rationale": "Este margen representa una tolerancia estricta necesaria para minimizar la variabilidad en los procesos de producci\u00f3n."
+        },
+        {
+          "text": "$1.0$",
+          "isCorrect": false,
+          "rationale": "Un margen de este nivel se considerar\u00eda demasiado amplio frente a los est\u00e1ndares de precisi\u00f3n industrial mencionados."
+        },
+        {
+          "text": "$0.1$",
+          "isCorrect": false,
+          "rationale": "Aunque es m\u00e1s estricto, no es el valor espec\u00edfico definido como est\u00e1ndar operativo de tolerancia en la gesti\u00f3n de variabilidad."
+        },
+        {
+          "text": "$0.05$",
+          "isCorrect": false,
+          "rationale": "Este valor es diez veces menor al margen est\u00e1ndar de variabilidad tolerado en las operaciones diarias."
+        }
+      ],
+      "hint": "Se trata de un valor decimal que representa un equilibrio entre precisi\u00f3n y realidad operativa."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es fundamental la documentaci\u00f3n rigurosa de los procesos antes de intentar optimizarlos?",
+      "answerOptions": [
+        {
+          "text": "Porque la improvisaci\u00f3n erosiona la rentabilidad y la estabilidad.",
+          "isCorrect": true,
+          "rationale": "Sin una base documentada, cualquier intento de mejora carece de direcci\u00f3n y pone en riesgo los m\u00e1rgenes operativos."
+        },
+        {
+          "text": "Para cumplir \u00fanicamente con requisitos legales de exportaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La documentaci\u00f3n tiene un fin estrat\u00e9gico interno de eficiencia, no solo de cumplimiento externo."
+        },
+        {
+          "text": "Porque permite eliminar a todos los trabajadores de la planta.",
+          "isCorrect": false,
+          "rationale": "El objetivo es la mejora del proceso y el flujo, no la eliminaci\u00f3n de la fuerza laboral."
+        },
+        {
+          "text": "Para reducir el tiempo de descanso del personal operativo.",
+          "isCorrect": false,
+          "rationale": "La documentaci\u00f3n busca estabilizar el proceso, no reducir los derechos o tiempos de descanso de los operarios."
+        }
+      ],
+      "hint": "Piense en las consecuencias de actuar sin tener un mapa claro de c\u00f3mo funciona el sistema paso a paso."
+    },
+    {
+      "question": "Dentro del ciclo PDCA (Deming), \u00bfqu\u00e9 actividad se realiza espec\u00edficamente en la etapa de 'Verificar'?",
+      "answerOptions": [
+        {
+          "text": "Un an\u00e1lisis supercr\u00edtico de los resultados validado con datos reales.",
+          "isCorrect": true,
+          "rationale": "La verificaci\u00f3n exige contrastar la ejecuci\u00f3n contra los objetivos mediante evidencia emp\u00edrica."
+        },
+        {
+          "text": "La definici\u00f3n de los objetivos estrat\u00e9gicos por la alta direcci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta actividad corresponde a la fase de Planificaci\u00f3n, no a la de Verificaci\u00f3n."
+        },
+        {
+          "text": "La ejecuci\u00f3n directa de los programas en el piso de f\u00e1brica.",
+          "isCorrect": false,
+          "rationale": "Poner manos a la obra es parte de la etapa de 'Hacer'."
+        },
+        {
+          "text": "La toma de decisiones sobre qu\u00e9 ajustes finales son necesarios.",
+          "isCorrect": false,
+          "rationale": "Ajustar o corregir en funci\u00f3n de lo aprendido es la esencia de la etapa de 'Actuar'."
+        }
+      ],
+      "hint": "Esta etapa se centra en la observaci\u00f3n y el contraste de lo planeado versus lo ejecutado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal del balanceo de l\u00edneas en la filosof\u00eda Kaizen?",
+      "answerOptions": [
+        {
+          "text": "Que el trabajo fluya de manera arm\u00f3nica sin cuellos de botella.",
+          "isCorrect": true,
+          "rationale": "El balanceo busca equilibrar las cargas de trabajo para evitar tiempos muertos y saturaci\u00f3n en estaciones espec\u00edficas."
+        },
+        {
+          "text": "Aumentar la velocidad de las m\u00e1quinas por encima de su l\u00edmite nominal.",
+          "isCorrect": false,
+          "rationale": "Forzar las m\u00e1quinas es contraproducente y se asocia con el concepto de Muri (sobrecarga)."
+        },
+        {
+          "text": "Reducir el salario de los operarios que tienen menos carga de trabajo.",
+          "isCorrect": false,
+          "rationale": "La filosof\u00eda Kaizen busca la mejora beneficiosa, no penalizar econ\u00f3micamente al personal."
+        },
+        {
+          "text": "Eliminar la necesidad de realizar mantenimiento preventivo.",
+          "isCorrect": false,
+          "rationale": "El balanceo optimiza el flujo, pero no reemplaza la necesidad de cuidar los equipos."
+        }
+      ],
+      "hint": "Imagine un flujo de agua constante donde ninguna secci\u00f3n del tubo se desborda ni se queda seca."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 se refiere el t\u00e9rmino 'Muri' dentro de los enemigos de la eficiencia?",
+      "answerOptions": [
+        {
+          "text": "A la sobrecarga impuesta a m\u00e1quinas o personal humano.",
+          "isCorrect": true,
+          "rationale": "Muri representa el desgaste innecesario y el riesgo de fallas cr\u00edticas por exceder l\u00edmites sostenibles."
+        },
+        {
+          "text": "A la falta de uniformidad o irregularidad en el flujo de trabajo.",
+          "isCorrect": false,
+          "rationale": "La irregularidad se define como Mura, no como Muri."
+        },
+        {
+          "text": "Al desperdicio puro y duro de materiales o tiempo.",
+          "isCorrect": false,
+          "rationale": "El desperdicio se clasifica como Muda."
+        },
+        {
+          "text": "A la falta de capacitaci\u00f3n de los mandos medios.",
+          "isCorrect": false,
+          "rationale": "Aunque es un problema, no es la definici\u00f3n t\u00e9cnica de Muri en el sistema de producci\u00f3n."
+        }
+      ],
+      "hint": "Piense en lo que sucede cuando se exige a un motor o a una persona m\u00e1s de lo que puede dar f\u00edsicamente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la f\u00f3rmula correcta para calcular el ritmo de producci\u00f3n conocido como $Takt \\text{ Time}$?",
+      "answerOptions": [
+        {
+          "text": "$\\frac{\\text{Tiempo total disponible}}{\\text{Requerimiento del cliente}}$",
+          "isCorrect": true,
+          "rationale": "Esta divisi\u00f3n determina el ritmo exacto necesario para satisfacer la demanda sin sobreproducir ni retrasarse."
+        },
+        {
+          "text": "$\\frac{\\text{Requerimiento del cliente}}{\\text{Tiempo total disponible}}$",
+          "isCorrect": false,
+          "rationale": "Esta f\u00f3rmula dar\u00eda la frecuencia de demanda, no el tiempo disponible por unidad producida."
+        },
+        {
+          "text": "$\\text{Tiempo de ciclo} \\times \\text{N\u00famero de estaciones}$",
+          "isCorrect": false,
+          "rationale": "Esta operaci\u00f3n se relaciona con la capacidad instalada, pero no define el latido del cliente."
+        },
+        {
+          "text": "$\\text{Producci\u00f3n total} - \\text{Defectos encontrados}$",
+          "isCorrect": false,
+          "rationale": "Esto calcula la producci\u00f3n neta de calidad, no el ritmo de la f\u00e1brica."
+        }
+      ],
+      "hint": "Imagine que debe repartir su tiempo total de trabajo entre todas las unidades que le han pedido."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito fundamental de la fase 'Seiso' (limpiar) en la metodolog\u00eda de las $5S$?",
+      "answerOptions": [
+        {
+          "text": "Identificar fallas mec\u00e1nicas antes de que detengan la producci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La limpieza permite detectar fugas, ruidos o desgastes que de otro modo estar\u00edan ocultos por la suciedad."
+        },
+        {
+          "text": "Mejorar \u00fanicamente la apariencia visual para las visitas de clientes.",
+          "isCorrect": false,
+          "rationale": "Aunque mejora la imagen, su fin principal es la detecci\u00f3n temprana de anomal\u00edas operativas."
+        },
+        {
+          "text": "Reducir el costo del inventario de productos terminados.",
+          "isCorrect": false,
+          "rationale": "La limpieza se enfoca en el mantenimiento del \u00e1rea y equipo, no directamente en la gesti\u00f3n de stock."
+        },
+        {
+          "text": "Sustituir al personal especializado en mantenimiento preventivo.",
+          "isCorrect": false,
+          "rationale": "Seiso es una herramienta de apoyo, pero no elimina la necesidad de t\u00e9cnicos especializados."
+        }
+      ],
+      "hint": "La limpieza en una f\u00e1brica es una forma de inspecci\u00f3n profunda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza a la l\u00f3gica 'Pull' o de arrastre en Lean Manufacturing?",
+      "answerOptions": [
+        {
+          "text": "Producir \u00fanica y exclusivamente lo que el cliente demanda en el instante.",
+          "isCorrect": true,
+          "rationale": "Este enfoque evita la sobreproducci\u00f3n y la acumulaci\u00f3n de inventario innecesario en el mercado."
+        },
+        {
+          "text": "Empujar el inventario sobrante hacia los puntos de venta.",
+          "isCorrect": false,
+          "rationale": "Eso describe la l\u00f3gica 'Push', que es justamente lo que Lean intenta abandonar."
+        },
+        {
+          "text": "Producir a la m\u00e1xima capacidad de las m\u00e1quinas todo el tiempo.",
+          "isCorrect": false,
+          "rationale": "Producir sin demanda genera desperdicio por sobreproducci\u00f3n, contrario a la filosof\u00eda Lean."
+        },
+        {
+          "text": "Depender de pron\u00f3sticos de venta a muy largo plazo.",
+          "isCorrect": false,
+          "rationale": "La l\u00f3gica 'Pull' reacciona al consumo real, no a estimaciones inciertas del futuro."
+        }
+      ],
+      "hint": "Piense en una se\u00f1al que viene del cliente hacia la f\u00e1brica, no al rev\u00e9s."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el est\u00e1ndar de \u00e9xito para la t\u00e9cnica SMED en la reducci\u00f3n de tiempos de preparaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Menos de $10$ minutos.",
+          "isCorrect": true,
+          "rationale": "SMED busca que los cambios de herramienta o maquinaria se realicen en un tiempo de un solo d\u00edgito de minutos."
+        },
+        {
+          "text": "Exactamente $60$ segundos.",
+          "isCorrect": false,
+          "rationale": "Aunque es ideal, el est\u00e1ndar de la metodolog\u00eda se define como el rango por debajo de los diez minutos."
+        },
+        {
+          "text": "Aproximadamente una hora por turno.",
+          "isCorrect": false,
+          "rationale": "Una hora de preparaci\u00f3n se considera tiempo muerto excesivo para un entorno Lean."
+        },
+        {
+          "text": "El tiempo que indique el manual del fabricante de la m\u00e1quina.",
+          "isCorrect": false,
+          "rationale": "SMED busca optimizar el proceso humano y t\u00e9cnico m\u00e1s all\u00e1 de los est\u00e1ndares gen\u00e9ricos del fabricante."
+        }
+      ],
+      "hint": "La sigla SMED se refiere a realizar el cambio en un n\u00famero de minutos de un solo d\u00edgito."
+    },
+    {
+      "question": "En la metodolog\u00eda $6$ Sigma, \u00bfqu\u00e9 significa alcanzar un nivel de $3.4$ DPMO?",
+      "answerOptions": [
+        {
+          "text": "Tener un m\u00e1ximo de $3.4$ defectos por cada mill\u00f3n de oportunidades.",
+          "isCorrect": true,
+          "rationale": "Este es el est\u00e1ndar de oro de Six Sigma, representando un control de precisi\u00f3n casi perfecto."
+        },
+        {
+          "text": "Que el $3.4\\%$ de la producci\u00f3n total ser\u00e1 rechazada.",
+          "isCorrect": false,
+          "rationale": "Un $3.4\\%$ de rechazo ser\u00eda un nivel de calidad baj\u00edsimo comparado con el est\u00e1ndar DPMO."
+        },
+        {
+          "text": "Realizar $3.4$ inspecciones por cada operario en la l\u00ednea.",
+          "isCorrect": false,
+          "rationale": "DPMO es una m\u00e9trica de resultados de calidad, no de frecuencia de inspecci\u00f3n."
+        },
+        {
+          "text": "Reducir el tiempo de ciclo en un factor de $3.4$.",
+          "isCorrect": false,
+          "rationale": "Six Sigma se enfoca en la variabilidad y defectos, no primariamente en la velocidad de ciclo."
+        }
+      ],
+      "hint": "Se trata de una medida estad\u00edstica de errores en un volumen muy grande de producci\u00f3n."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 industrias como la farmac\u00e9utica exigen niveles de $5$ o $6$ Sigma a diferencia de la industria de golosinas?",
+      "answerOptions": [
+        {
+          "text": "Porque un solo error puede causar p\u00e9rdidas de vidas humanas.",
+          "isCorrect": true,
+          "rationale": "En sectores de alto riesgo, el costo cr\u00edtico de falla es inaceptable, exigiendo m\u00e1rgenes de error microsc\u00f3picos."
+        },
+        {
+          "text": "Debido a que el costo de las materias primas es menor.",
+          "isCorrect": false,
+          "rationale": "Al contrario, las materias primas farmac\u00e9uticas suelen ser m\u00e1s costosas, pero el factor decisivo es el riesgo humano."
+        },
+        {
+          "text": "Para evitar que los competidores copien sus f\u00f3rmulas secretas.",
+          "isCorrect": false,
+          "rationale": "La propiedad intelectual se protege con patentes, no con niveles Sigma de calidad."
+        },
+        {
+          "text": "Porque tienen m\u00e1s presupuesto para desperdiciar productos.",
+          "isCorrect": false,
+          "rationale": "Ninguna industria busca desperdiciar; Six Sigma busca precisamente lo contrario: reducir el desperdicio."
+        }
+      ],
+      "hint": "Considere las consecuencias de un error en un medicamento frente a un error en un caramelo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l se considera el octavo desperdicio en Lean Manufacturing y el m\u00e1s peligroso en la era de la Industria 4.0?",
+      "answerOptions": [
+        {
+          "text": "El potencial humano subutilizado.",
+          "isCorrect": true,
+          "rationale": "No aprovechar el talento creativo e intelectual de los trabajadores es un riesgo estrat\u00e9gico severo."
+        },
+        {
+          "text": "El exceso de inventario en tr\u00e1nsito.",
+          "isCorrect": false,
+          "rationale": "Aunque es un desperdicio tradicional, no es el 'octavo' desperdicio espec\u00edfico centrado en el talento."
+        },
+        {
+          "text": "El transporte innecesario de materiales.",
+          "isCorrect": false,
+          "rationale": "Este pertenece a los siete desperdicios cl\u00e1sicos identificados originalmente."
+        },
+        {
+          "text": "El sobreprocesado de piezas defectuosas.",
+          "isCorrect": false,
+          "rationale": "El sobreprocesado es uno de los siete desperdicios tradicionales, no el octavo."
+        }
+      ],
+      "hint": "Tiene que ver con lo que las m\u00e1quinas no pueden reemplazar: la innovaci\u00f3n y resoluci\u00f3n de problemas complejos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del sistema Andon en una planta de producci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Alertar visualmente mediante luces y sirenas sobre una anomal\u00eda.",
+          "isCorrect": true,
+          "rationale": "Andon permite que todo el personal sepa que hay un problema para corregirlo antes de que avance."
+        },
+        {
+          "text": "Calcular autom\u00e1ticamente el salario de los operarios por hora.",
+          "isCorrect": false,
+          "rationale": "El sistema Andon es una herramienta de comunicaci\u00f3n de calidad, no de n\u00f3mina."
+        },
+        {
+          "text": "Programar las vacaciones del personal administrativo.",
+          "isCorrect": false,
+          "rationale": "No tiene relaci\u00f3n con la gesti\u00f3n de recursos humanos de oficina."
+        },
+        {
+          "text": "Limpiar autom\u00e1ticamente las m\u00e1quinas al final de la jornada.",
+          "isCorrect": false,
+          "rationale": "Andon es un sistema de alerta, no un mecanismo de limpieza automatizada."
+        }
+      ],
+      "hint": "Piense en una se\u00f1al de auxilio o advertencia que todos puedan ver y o\u00edr."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el primer paso innegociable para iniciar la implementaci\u00f3n de la norma ISO 9001?",
+      "answerOptions": [
+        {
+          "text": "El compromiso de la alta gerencia e inversi\u00f3n real.",
+          "isCorrect": true,
+          "rationale": "Sin apoyo pol\u00edtico interno y recursos financieros, el sistema de gesti\u00f3n no tiene viabilidad."
+        },
+        {
+          "text": "La contrataci\u00f3n de nuevos operarios de planta.",
+          "isCorrect": false,
+          "rationale": "La norma se enfoca en gestionar los procesos existentes, no necesariamente en aumentar la plantilla."
+        },
+        {
+          "text": "La compra inmediata de inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "La ISO 9001 es una norma de gesti\u00f3n; la tecnolog\u00eda es secundaria al compromiso estrat\u00e9gico."
+        },
+        {
+          "text": "El despido del personal que se resiste al cambio.",
+          "isCorrect": false,
+          "rationale": "El paso correcto es la sensibilizaci\u00f3n y capacitaci\u00f3n, no el despido masivo inicial."
+        }
+      ],
+      "hint": "Nada se mueve en una organizaci\u00f3n si los que toman las decisiones no est\u00e1n convencidos y no ponen dinero."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia fundamental existe entre la lista maestra de documentos y la lista maestra de formatos?",
+      "answerOptions": [
+        {
+          "text": "Los documentos dictan las normas y los formatos recogen la evidencia operativa.",
+          "isCorrect": true,
+          "rationale": "Esta divisi\u00f3n separa lo administrativo (procedimientos) de lo emp\u00edrico (registros del d\u00eda a d\u00eda)."
+        },
+        {
+          "text": "Los documentos son digitales y los formatos son siempre f\u00edsicos.",
+          "isCorrect": false,
+          "rationale": "Ambos pueden existir en cualquier soporte; su diferencia radica en su funci\u00f3n, no en su formato."
+        },
+        {
+          "text": "La lista de formatos solo la utiliza el gerente general.",
+          "isCorrect": false,
+          "rationale": "Los formatos son registros del d\u00eda a d\u00eda usados por todo el personal operativo."
+        },
+        {
+          "text": "No existe diferencia, son t\u00e9rminos intercambiables.",
+          "isCorrect": false,
+          "rationale": "Confundirlos es un error grave que afecta el control de versiones y la integridad de la auditor\u00eda."
+        }
+      ],
+      "hint": "Uno dice 'c\u00f3mo se debe hacer' y el otro demuestra 'qu\u00e9 se hizo'."
+    },
+    {
+      "question": "En una auditor\u00eda de calidad, \u00bfqu\u00e9 indica la falta de correlatividad num\u00e9rica en los registros?",
+      "answerOptions": [
+        {
+          "text": "Sugiere la falsificaci\u00f3n de datos o 'magia' documental.",
+          "isCorrect": true,
+          "rationale": "Los saltos num\u00e9ricos destruyen la confianza en la integridad de la empresa ante un auditor."
+        },
+        {
+          "text": "Que la empresa est\u00e1 ahorrando papel de forma eficiente.",
+          "isCorrect": false,
+          "rationale": "Para la calidad, el ahorro de papel no justifica la p\u00e9rdida de trazabilidad num\u00e9rica."
+        },
+        {
+          "text": "Que el proceso es tan r\u00e1pido que no da tiempo a numerar.",
+          "isCorrect": false,
+          "rationale": "La rapidez no es excusa para romper el rigor documental exigido por las normas internacionales."
+        },
+        {
+          "text": "Es una pr\u00e1ctica com\u00fan permitida por la norma ISO 9001.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la norma exige procesos auditables y consistentes, invalidando registros incompletos."
+        }
+      ],
+      "hint": "Piense en lo que pensar\u00eda un auditor si faltan folios en una secuencia l\u00f3gica."
+    },
+    {
+      "question": "\u00bfPor cu\u00e1nto tiempo, como m\u00ednimo, deben retenerse los registros operativos cr\u00edticos seg\u00fan los est\u00e1ndares mencionados?",
+      "answerOptions": [
+        {
+          "text": "$5$ a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Este periodo asegura que la evidencia est\u00e9 disponible ante quejas legales, reclamos de clientes o auditor\u00edas retrospectivas."
+        },
+        {
+          "text": "$1$ a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Un a\u00f1o es insuficiente para cubrir los ciclos de responsabilidad legal y contractual en la industria."
+        },
+        {
+          "text": "$10$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Aunque algunas leyes locales pueden exigirlo, el est\u00e1ndar de gesti\u00f3n mencionado es de cinco a\u00f1os."
+        },
+        {
+          "text": "$6$ meses.",
+          "isCorrect": false,
+          "rationale": "Es un tiempo demasiado corto que dejar\u00eda a la empresa sin defensa ante revisiones de largo plazo."
+        }
+      ],
+      "hint": "Es un lustro de informaci\u00f3n protegida."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta permite mapear factores externos como la inflaci\u00f3n o nuevas leyes ambientales para alimentar la matriz FODA?",
+      "answerOptions": [
+        {
+          "text": "An\u00e1lisis PESTEL.",
+          "isCorrect": true,
+          "rationale": "PESTEL diagnostica variables pol\u00edticas, econ\u00f3micas, sociales, tecnol\u00f3gicas, ecol\u00f3gicas y legales del entorno."
+        },
+        {
+          "text": "Diagrama de Ishikawa.",
+          "isCorrect": false,
+          "rationale": "Ishikawa se usa para encontrar causas ra\u00edz de problemas internos, no para el an\u00e1lisis de contexto externo."
+        },
+        {
+          "text": "Ciclo PDCA.",
+          "isCorrect": false,
+          "rationale": "PDCA es un motor de gesti\u00f3n interna, no una herramienta de diagn\u00f3stico de variables macroecon\u00f3micas."
+        },
+        {
+          "text": "Metodolog\u00eda SMED.",
+          "isCorrect": false,
+          "rationale": "SMED es una t\u00e9cnica t\u00e9cnica para reducir tiempos de cambio en m\u00e1quinas, no para an\u00e1lisis estrat\u00e9gico."
+        }
+      ],
+      "hint": "Su nombre es un acr\u00f3nimo de seis pilares del contexto externo."
+    },
+    {
+      "question": "De acuerdo con el enfoque de excelencia operacional, \u00bfqu\u00e9 define a un sistema de gesti\u00f3n resiliente?",
+      "answerOptions": [
+        {
+          "text": "Aquel cuyo an\u00e1lisis de riesgo preventivo neutraliza amenazas antes de paralizar la planta.",
+          "isCorrect": true,
+          "rationale": "La resiliencia no es la ausencia de crisis, sino la capacidad de anticiparse y mitigar sus efectos."
+        },
+        {
+          "text": "Aquel que nunca presenta ning\u00fan tipo de error o desviaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La perfecci\u00f3n absoluta es irreal; la excelencia reside en c\u00f3mo se gestionan y previenen los riesgos."
+        },
+        {
+          "text": "Un sistema que depende exclusivamente de la suerte y el mercado.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de calidad busca eliminar el azar mediante el control y la estandarizaci\u00f3n."
+        },
+        {
+          "text": "Un sistema que cambia sus objetivos estrat\u00e9gicos cada semana.",
+          "isCorrect": false,
+          "rationale": "La inestabilidad en los objetivos es lo opuesto a la resiliencia y la estandarizaci\u00f3n."
+        }
+      ],
+      "hint": "No se trata de no tener problemas, sino de tener el escudo listo antes de que lleguen."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Estandarizaci\u00f3n y Calidad Estrat\u00e9gica",
+      "Ciclo Deming (PDCA)",
+      "Metodolog\u00edas de Mejora Continua (Kaizen, 5S)",
+      "Herramientas de Diagn\u00f3stico Industrial (Ishikawa, 6M)",
+      "Manufactura Esbelta (Lean Manufacturing)",
+      "Metodolog\u00eda Six Sigma",
+      "Implementaci\u00f3n y Auditor\u00eda ISO 9001",
+      "Gesti\u00f3n de Riesgos y Resiliencia Operativa"
+    ],
+    "followUp": [
+      "Eficiencia Global de los Equipos (OEE)",
+      "Log\u00edstica Milk Run y SMED",
+      "Sistemas de Alerta Andon y Autonom\u00eda Jidoka",
+      "An\u00e1lisis de Partes Interesadas (Stakeholders)",
+      "Identificaci\u00f3n de Peligros y Evaluaci\u00f3n de Riesgos (IPERC)",
+      "An\u00e1lisis PESTEL y Estrategias Cruzadas FODA"
+    ]
+  }
+}

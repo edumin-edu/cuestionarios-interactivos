@@ -1,0 +1,543 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el motor principal de toda gesti\u00f3n integrada para mitigar la obsolescencia operativa y construir resiliencia?",
+      "answerOptions": [
+        {
+          "text": "La intuici\u00f3n del liderazgo",
+          "isCorrect": false,
+          "rationale": "La intuici\u00f3n se queda corta frente a la complejidad de los riesgos operativos actuales."
+        },
+        {
+          "text": "El ciclo de planificar, hacer, verificar y actuar",
+          "isCorrect": true,
+          "rationale": "Este ciclo, propuesto por Deming, estructura la mejora continua con el rigor t\u00e9cnico necesario para la evoluci\u00f3n organizacional."
+        },
+        {
+          "text": "El cumplimiento estricto de reglas est\u00e1ticas",
+          "isCorrect": false,
+          "rationale": "Ya no basta con solo cumplir reglas; se requiere un proceso sist\u00e9mico de mejora constante."
+        },
+        {
+          "text": "La asignaci\u00f3n aleatoria de recursos",
+          "isCorrect": false,
+          "rationale": "Asignar recursos sin un diagn\u00f3stico previo resulta est\u00e9ril para el sistema de gesti\u00f3n."
+        }
+      ],
+      "hint": "Se refiere a un modelo estructurado de mejora continua a menudo asociado con Edward Deming."
+    },
+    {
+      "question": "En el marco PESTEL, \u00bfqu\u00e9 dimensi\u00f3n analiza variables como la inteligencia artificial o la maquinaria que ya no tiene repuestos en el mercado?",
+      "answerOptions": [
+        {
+          "text": "Dimensi\u00f3n Econ\u00f3mica",
+          "isCorrect": false,
+          "rationale": "Esta dimensi\u00f3n se enfoca en factores financieros y de mercado, no en la viabilidad t\u00e9cnica de los equipos."
+        },
+        {
+          "text": "Dimensi\u00f3n Ecol\u00f3gica",
+          "isCorrect": false,
+          "rationale": "Se ocupa de legislaciones ambientales y sostenibilidad, no de herramientas o sistemas de procesamiento."
+        },
+        {
+          "text": "Dimensi\u00f3n Tecnol\u00f3gica",
+          "isCorrect": true,
+          "rationale": "Esta dimensi\u00f3n examina tanto las innovaciones disruptivas como la obsolescencia de los activos f\u00edsicos de la operaci\u00f3n."
+        },
+        {
+          "text": "Dimensi\u00f3n Legal",
+          "isCorrect": false,
+          "rationale": "Se centra en el marco normativo y fiscalizaciones, no en el estado de la tecnolog\u00eda utilizada."
+        }
+      ],
+      "hint": "Considere la categor\u00eda que eval\u00faa las herramientas y avances que condicionan la viabilidad t\u00e9cnica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa la 'A' en la metodolog\u00eda SMART para la formulaci\u00f3n de metas?",
+      "answerOptions": [
+        {
+          "text": "Aleatorio",
+          "isCorrect": false,
+          "rationale": "Los objetivos deben ser precisos y estructurados, nunca dejados al azar."
+        },
+        {
+          "text": "Alcanzable",
+          "isCorrect": true,
+          "rationale": "Un objetivo debe ser realista considerando los recursos y presupuestos que realmente tiene la organizaci\u00f3n."
+        },
+        {
+          "text": "Anal\u00edtico",
+          "isCorrect": false,
+          "rationale": "Aunque el diagn\u00f3stico es anal\u00edtico, la meta en s\u00ed debe enfocarse en la viabilidad de ejecuci\u00f3n."
+        },
+        {
+          "text": "Ambicioso",
+          "isCorrect": false,
+          "rationale": "Ser ambicioso sin ser realista puede llevar a una falacia de planificaci\u00f3n si no hay recursos suficientes."
+        }
+      ],
+      "hint": "Relaci\u00f3nelo con la viabilidad de cumplir el objetivo seg\u00fan los recursos disponibles."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un error com\u00fan y fatal al identificar a las partes interesadas (stakeholders) en un sistema HSQ?",
+      "answerOptions": [
+        {
+          "text": "Integrar las expectativas de los contratistas",
+          "isCorrect": false,
+          "rationale": "Los contratistas deben estar alineados con los est\u00e1ndares de seguridad y son parte esencial del sistema."
+        },
+        {
+          "text": "Considerar \u00fanicamente al consumidor final",
+          "isCorrect": true,
+          "rationale": "Ignorar a entidades reguladoras, comunidades y proveedores puede llevar a la paralizaci\u00f3n total de las operaciones."
+        },
+        {
+          "text": "Analizar a las entidades reguladoras",
+          "isCorrect": false,
+          "rationale": "Los reguladores dictan las reglas del juego y su an\u00e1lisis es obligatorio para el cumplimiento legal."
+        },
+        {
+          "text": "Incluir al personal operativo en la planificaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La planificaci\u00f3n debe anclarse en la realidad cotidiana de quienes ejecutan las tareas."
+        }
+      ],
+      "hint": "Piense en la tendencia a enfocarse solo en quien compra el producto, olvidando a quienes orbitan la operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n primordial del An\u00e1lisis de Trabajo Seguro (ATS) durante el despliegue operativo?",
+      "answerOptions": [
+        {
+          "text": "Servir como un registro burocr\u00e1tico de asistencia",
+          "isCorrect": false,
+          "rationale": "El ATS no es un simple formalismo; es una herramienta de seguridad din\u00e1mica."
+        },
+        {
+          "text": "Reemplazar el manual de organizaci\u00f3n y funciones",
+          "isCorrect": false,
+          "rationale": "El ATS complementa los procedimientos, no sustituye la estructura organizacional b\u00e1sica."
+        },
+        {
+          "text": "Actuar como freno de mano para evaluar cr\u00edticamente el entorno antes de actuar",
+          "isCorrect": true,
+          "rationale": "Permite al operador detectar cambios impredecibles en el ambiente que un manual est\u00e1tico no podr\u00eda prever."
+        },
+        {
+          "text": "Eliminar la necesidad de supervisi\u00f3n externa",
+          "isCorrect": false,
+          "rationale": "Aunque empodera al trabajador, no sustituye la necesidad de monitoreo anal\u00edtico."
+        }
+      ],
+      "hint": "Imagine una herramienta que obliga a 'detenerse y pensar' justo antes de iniciar una tarea."
+    },
+    {
+      "question": "En la herramienta 5W2H, \u00bfqu\u00e9 distinci\u00f3n es vital realizar en la variable 'How much' (cu\u00e1nto)?",
+      "answerOptions": [
+        {
+          "text": "Diferenciar entre costo hundido y presupuesto real",
+          "isCorrect": true,
+          "rationale": "Es cr\u00edtico saber si se usar\u00e1 personal interno (ya pagado) o si se requiere inversi\u00f3n externa en dinero fresco."
+        },
+        {
+          "text": "Calcular \u00fanicamente el tiempo de ejecuci\u00f3n",
+          "isCorrect": false,
+          "rationale": "El tiempo se cubre en la variable 'When' (cu\u00e1ndo); el 'How much' se enfoca en recursos financieros."
+        },
+        {
+          "text": "Determinar cu\u00e1ntas personas realizar\u00e1n la tarea",
+          "isCorrect": false,
+          "rationale": "La cantidad de personas suele definirse en el 'Who' (qui\u00e9n) o como parte del m\u00e9todo en el 'How' (c\u00f3mo)."
+        },
+        {
+          "text": "Medir el nivel de ruido generado por la acci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Los decibeles ser\u00edan un indicador t\u00e9cnico, no la variable de costo de la planificaci\u00f3n 5W2H."
+        }
+      ],
+      "hint": "Se relaciona con la diferencia entre usar recursos que la empresa ya paga y solicitar fondos adicionales."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 se refiere el t\u00e9rmino 'costo hundido' en el contexto de la planificaci\u00f3n de tareas?",
+      "answerOptions": [
+        {
+          "text": "A las p\u00e9rdidas generadas por multas ambientales",
+          "isCorrect": false,
+          "rationale": "Las multas son gastos imprevistos por incumplimiento, no costos operativos planificados."
+        },
+        {
+          "text": "Al presupuesto asignado para capacitaci\u00f3n externa",
+          "isCorrect": false,
+          "rationale": "La capacitaci\u00f3n externa requiere inversi\u00f3n de dinero fresco, no es un costo ya cubierto."
+        },
+        {
+          "text": "A las horas hombre internas ya cubiertas en la planilla mensual",
+          "isCorrect": true,
+          "rationale": "Representa el tiempo del personal propio que la organizaci\u00f3n ya tiene comprometido financieramente."
+        },
+        {
+          "text": "Al costo de reposici\u00f3n de maquinaria obsoleta",
+          "isCorrect": false,
+          "rationale": "La compra de maquinaria nueva es una inversi\u00f3n de capital, no un costo operativo hundido."
+        }
+      ],
+      "hint": "Piense en los gastos de personal que la empresa ya tiene fijos independientemente del proyecto espec\u00edfico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia a un indicador de eficacia de un indicador de proceso?",
+      "answerOptions": [
+        {
+          "text": "El de proceso mide si el problema se resolvi\u00f3 de fondo",
+          "isCorrect": false,
+          "rationale": "El indicador de proceso solo verifica que la actividad se haya ejecutado."
+        },
+        {
+          "text": "El de eficacia demuestra si la actividad resolvi\u00f3 realmente el problema",
+          "isCorrect": true,
+          "rationale": "Mide el impacto real de la acci\u00f3n sobre el problema identificado, como la reducci\u00f3n efectiva de quejas."
+        },
+        {
+          "text": "El de eficacia solo cuenta el n\u00famero de formatos llenados",
+          "isCorrect": false,
+          "rationale": "Llenar formatos es una m\u00e9trica de cumplimiento de proceso, no de efectividad de la soluci\u00f3n."
+        },
+        {
+          "text": "No existe diferencia; ambos t\u00e9rminos son sin\u00f3nimos en HSQ",
+          "isCorrect": false,
+          "rationale": "Diferenciarlos es clave para evitar un espejismo de seguridad basado solo en cumplimiento documental."
+        }
+      ],
+      "hint": "Uno se enfoca en 'hacer la tarea' y el otro en 'lograr el resultado esperado'."
+    },
+    {
+      "question": "En la fase de 'Actuar' del ciclo de mejora continua, \u00bfcu\u00e1l es el prop\u00f3sito de la estandarizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Solucionar la crisis del momento de forma r\u00e1pida",
+          "isCorrect": false,
+          "rationale": "Eso corresponde al ajuste inmediato o 'apagar el incendio', no a la estandarizaci\u00f3n."
+        },
+        {
+          "text": "Evitar que un error se repita modificando los cimientos documentales",
+          "isCorrect": true,
+          "rationale": "La estandarizaci\u00f3n inyecta la lecci\u00f3n aprendida en el ADN de la empresa a trav\u00e9s de manuales y protocolos."
+        },
+        {
+          "text": "Asignar un presupuesto para gastos imprevistos",
+          "isCorrect": false,
+          "rationale": "La asignaci\u00f3n presupuestaria es parte de la planificaci\u00f3n, no de la consolidaci\u00f3n de la mejora."
+        },
+        {
+          "text": "Reducir el n\u00famero de inspecciones de seguridad",
+          "isCorrect": false,
+          "rationale": "La estandarizaci\u00f3n busca mejorar procesos, no necesariamente reducir el control preventivo."
+        }
+      ],
+      "hint": "Se trata de convertir una soluci\u00f3n temporal en un conocimiento permanente para toda la organizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta permite contrastar las debilidades y fortalezas internas de la organizaci\u00f3n frente a las amenazas y oportunidades del entorno?",
+      "answerOptions": [
+        {
+          "text": "Marco PESTEL",
+          "isCorrect": false,
+          "rationale": "PESTEL se enfoca exclusivamente en las variables externas del macroentorno."
+        },
+        {
+          "text": "Diagrama de Ishikawa",
+          "isCorrect": false,
+          "rationale": "Ishikawa se utiliza para encontrar la causa ra\u00edz de un problema espec\u00edfico."
+        },
+        {
+          "text": "Matriz FODA",
+          "isCorrect": true,
+          "rationale": "Esta matriz cruza la realidad interna con el entorno externo para fundamentar decisiones estrat\u00e9gicas."
+        },
+        {
+          "text": "An\u00e1lisis de Trabajo Seguro (ATS)",
+          "isCorrect": false,
+          "rationale": "El ATS es una herramienta de evaluaci\u00f3n operativa en el terreno, no de estrategia global."
+        }
+      ],
+      "hint": "Es la matriz cl\u00e1sica que analiza factores internos y externos para tomar decisiones basadas en datos."
+    },
+    {
+      "question": "Seg\u00fan la gesti\u00f3n preventiva, \u00bfcu\u00e1l es el ant\u00eddoto contra el caos operativo?",
+      "answerOptions": [
+        {
+          "text": "La intuici\u00f3n de los mandos medios",
+          "isCorrect": false,
+          "rationale": "La intuici\u00f3n no puede manejar la brutal complejidad de los riesgos operativos actuales."
+        },
+        {
+          "text": "El aumento de la rotaci\u00f3n de personal",
+          "isCorrect": false,
+          "rationale": "La rotaci\u00f3n de personal es una vulnerabilidad interna que pone en jaque la estabilidad."
+        },
+        {
+          "text": "La precisi\u00f3n en la formulaci\u00f3n de metas",
+          "isCorrect": true,
+          "rationale": "Metas ultra precisas evitan la dispersi\u00f3n del esfuerzo y definen claramente las responsabilidades."
+        },
+        {
+          "text": "La reducci\u00f3n de fiscalizaciones externas",
+          "isCorrect": false,
+          "rationale": "Las fiscalizaciones son variables externas que no dependen de la organizaci\u00f3n para evitar el caos."
+        }
+      ],
+      "hint": "Considere qu\u00e9 elemento de la planificaci\u00f3n evita que el esfuerzo organizacional se diluya."
+    },
+    {
+      "question": "\u00bfQu\u00e9 actor del ecosistema HSQ tiene el poder de paralizar la log\u00edstica de una planta en horas debido a ruidos u olores?",
+      "answerOptions": [
+        {
+          "text": "Los proveedores de insumos",
+          "isCorrect": false,
+          "rationale": "Aunque son importantes, los conflictos sociales suelen originarse en el entorno inmediato."
+        },
+        {
+          "text": "La comunidad local",
+          "isCorrect": true,
+          "rationale": "Los vecinos molestos pueden generar conflictos sociales que detienen las operaciones en seco."
+        },
+        {
+          "text": "El Comit\u00e9 de Seguridad y Salud",
+          "isCorrect": false,
+          "rationale": "Este es un actor interno que colabora en la planificaci\u00f3n, no un factor de bloqueo externo por ruidos."
+        },
+        {
+          "text": "Las entidades financieras",
+          "isCorrect": false,
+          "rationale": "Su impacto es econ\u00f3mico a largo plazo, no una paralizaci\u00f3n log\u00edstica inmediata por impacto ambiental local."
+        }
+      ],
+      "hint": "Piense en las personas que viven en los alrededores de la operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 acci\u00f3n debe realizarse inmediatamente despu\u00e9s de controlar una crisis o falla en el sistema?",
+      "answerOptions": [
+        {
+          "text": "Ignorar la falla si no hubo heridos",
+          "isCorrect": false,
+          "rationale": "Esto crea un espejismo de seguridad que precede a grandes crisis futuras."
+        },
+        {
+          "text": "Ajustar la falla para detener el da\u00f1o actual",
+          "isCorrect": true,
+          "rationale": "El primer paso es 'apagar el incendio' para evitar que la desviaci\u00f3n pase a mayores en el instante."
+        },
+        {
+          "text": "Actualizar el manual de organizaci\u00f3n de inmediato",
+          "isCorrect": false,
+          "rationale": "La actualizaci\u00f3n documental es parte de la estandarizaci\u00f3n posterior, no la acci\u00f3n de ajuste fugaz."
+        },
+        {
+          "text": "Contratar nuevo personal",
+          "isCorrect": false,
+          "rationale": "No es una acci\u00f3n correctiva directa sobre la falla operativa ocurrida."
+        }
+      ],
+      "hint": "Es la medida de control urgente que se toma en el preciso instante de la desviaci\u00f3n."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que la direcci\u00f3n debe entrenar al personal para 'pensar' y no solo para 'obedecer'?",
+      "answerOptions": [
+        {
+          "text": "Para que puedan ignorar los manuales cuando lo deseen",
+          "isCorrect": false,
+          "rationale": "El pensamiento cr\u00edtico apoya el uso de herramientas obligatorias, no las reemplaza."
+        },
+        {
+          "text": "Porque el cumplimiento rob\u00f3tico puede llevar a ignorar riesgos cr\u00edticos del entorno",
+          "isCorrect": true,
+          "rationale": "Seguir un manual sin analizar el entorno (como un terreno inestable) puede causar desastres."
+        },
+        {
+          "text": "Para reducir los costos de supervisi\u00f3n directa",
+          "isCorrect": false,
+          "rationale": "El objetivo es la seguridad y la resiliencia, no meramente un ahorro en supervisi\u00f3n."
+        },
+        {
+          "text": "Porque los manuales son siempre incorrectos",
+          "isCorrect": false,
+          "rationale": "Los manuales son necesarios, pero el mundo real es din\u00e1mico y requiere juicio cr\u00edtico adicional."
+        }
+      ],
+      "hint": "Considere las limitaciones de un documento est\u00e1tico frente a un entorno real cambiante."
+    },
+    {
+      "question": "En el caso de la empresa hipot\u00e9tica 'Ecoplast', \u00bfqu\u00e9 representaban las nuevas legislaciones ambientales?",
+      "answerOptions": [
+        {
+          "text": "Un simple tr\u00e1mite administrativo adicional",
+          "isCorrect": false,
+          "rationale": "Para una empresa de pl\u00e1sticos, estos cambios legislativos pueden ser mucho m\u00e1s profundos."
+        },
+        {
+          "text": "Una oportunidad para aumentar los precios",
+          "isCorrect": false,
+          "rationale": "Las leyes prohibitivas suelen ser amenazas, no palancas de precio directas."
+        },
+        {
+          "text": "Una amenaza existencial para su modelo de negocio",
+          "isCorrect": true,
+          "rationale": "Podr\u00edan volver obsoletos sus productos de la noche a la ma\u00f1ana, poniendo en riesgo su permanencia."
+        },
+        {
+          "text": "Un factor tecnol\u00f3gico irrelevante",
+          "isCorrect": false,
+          "rationale": "Es un factor de la dimensi\u00f3n legal y ecol\u00f3gica del PESTEL con alto impacto estrat\u00e9gico."
+        }
+      ],
+      "hint": "Piense en el impacto de prohibir el producto principal de una compa\u00f1\u00eda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta estructural se menciona como fundamental para la fase de verificaci\u00f3n anal\u00edtica?",
+      "answerOptions": [
+        {
+          "text": "Matriz de compatibilidad qu\u00edmica",
+          "isCorrect": false,
+          "rationale": "Esta es una herramienta t\u00e9cnica de ejecuci\u00f3n y ajuste, no de verificaci\u00f3n sist\u00e9mica general."
+        },
+        {
+          "text": "Auditor\u00edas ISO 1911",
+          "isCorrect": true,
+          "rationale": "Las auditor\u00edas proporcionan la evidencia dura necesaria para una fase de verificaci\u00f3n objetiva."
+        },
+        {
+          "text": "Manual de organizaci\u00f3n y funciones",
+          "isCorrect": false,
+          "rationale": "Es una herramienta de gesti\u00f3n del talento humano para la fase de ejecuci\u00f3n."
+        },
+        {
+          "text": "Presupuesto de inversi\u00f3n externa",
+          "isCorrect": false,
+          "rationale": "Es parte de la planificaci\u00f3n de recursos, no de la verificaci\u00f3n del desempe\u00f1o."
+        }
+      ],
+      "hint": "Se trata de un est\u00e1ndar internacional utilizado para evaluar sistem\u00e1ticamente el sistema."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor cr\u00edtico provoc\u00f3 el derrame de 300 litros en el caso del operador de cisterna?",
+      "answerOptions": [
+        {
+          "text": "No seguir el manual de descarga",
+          "isCorrect": false,
+          "rationale": "El operador sigui\u00f3 el manual paso a paso, lo cual fue parte del problema al no usar criterio."
+        },
+        {
+          "text": "Ignorar la inestabilidad del terreno",
+          "isCorrect": true,
+          "rationale": "La falta de an\u00e1lisis 'in situ' hizo que no notara el riesgo ambiental a pesar de cumplir el procedimiento."
+        },
+        {
+          "text": "Falta de capacitaci\u00f3n en el uso de mangueras",
+          "isCorrect": false,
+          "rationale": "El problema no fue t\u00e9cnico, sino de falta de observaci\u00f3n del entorno (juicio cr\u00edtico)."
+        },
+        {
+          "text": "Mal funcionamiento del motor de la cisterna",
+          "isCorrect": false,
+          "rationale": "La falla se debi\u00f3 a la rotura de una manguera por las condiciones del suelo, no por el motor."
+        }
+      ],
+      "hint": "El operador cumpli\u00f3 el procedimiento escrito pero no mir\u00f3 lo que ocurr\u00eda a su alrededor."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se logra que el ciclo de mejora continua se cierre rigurosamente en la estructura jer\u00e1rquica?",
+      "answerOptions": [
+        {
+          "text": "Aumentando las multas a los operarios",
+          "isCorrect": false,
+          "rationale": "Castigar al personal operativo no garantiza que los procesos se estandaricen."
+        },
+        {
+          "text": "Vinculando el desempe\u00f1o de los l\u00edderes al cierre de acciones correctivas",
+          "isCorrect": true,
+          "rationale": "Alinear los incentivos del liderazgo con la estandarizaci\u00f3n asegura que las mejoras se implementen realmente."
+        },
+        {
+          "text": "Eliminando la fase de verificaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Sin verificaci\u00f3n no hay datos para actuar, rompiendo el ciclo completo."
+        },
+        {
+          "text": "Dependiendo exclusivamente del personal nuevo",
+          "isCorrect": false,
+          "rationale": "La mejora debe ser parte del ADN de toda la organizaci\u00f3n actual, no solo de los nuevos ingresos."
+        }
+      ],
+      "hint": "Relacione la responsabilidad de los directivos con los incentivos por cumplir las mejoras."
+    },
+    {
+      "question": "\u00bfQu\u00e9 elemento del 5W2H convierte la estrategia en 't\u00e1ctica pura' para evitar que alguien alegue desconocimiento?",
+      "answerOptions": [
+        {
+          "text": "La justificaci\u00f3n del 'Why' (por qu\u00e9)",
+          "isCorrect": false,
+          "rationale": "El por qu\u00e9 explica la raz\u00f3n estrat\u00e9gica, pero no asigna la responsabilidad de ejecuci\u00f3n."
+        },
+        {
+          "text": "La definici\u00f3n del 'Who' (qui\u00e9n), 'When' (cu\u00e1ndo) y 'How' (c\u00f3mo)",
+          "isCorrect": true,
+          "rationale": "Estandariza la asignaci\u00f3n de tareas para que nada quede flotando y las responsabilidades sean claras."
+        },
+        {
+          "text": "El an\u00e1lisis macroambiental",
+          "isCorrect": false,
+          "rationale": "Este an\u00e1lisis es previo a la definici\u00f3n t\u00e1ctica de tareas espec\u00edficas."
+        },
+        {
+          "text": "La selecci\u00f3n de indicadores de eficacia",
+          "isCorrect": false,
+          "rationale": "Los indicadores miden el resultado, pero la t\u00e1ctica se define en la asignaci\u00f3n de la tarea."
+        }
+      ],
+      "hint": "Piense en las variables que definen responsable, momento y m\u00e9todo de trabajo."
+    },
+    {
+      "question": "En un sistema HSQ, \u00bfqu\u00e9 significa que la gesti\u00f3n deba ser 'preventiva'?",
+      "answerOptions": [
+        {
+          "text": "Reaccionar r\u00e1pidamente despu\u00e9s de que ocurra un accidente",
+          "isCorrect": false,
+          "rationale": "La reacci\u00f3n es correctiva, no preventiva."
+        },
+        {
+          "text": "Saber qu\u00e9 podr\u00eda salir mal con total certeza antes de que ocurra",
+          "isCorrect": true,
+          "rationale": "Es un juego de anticipaci\u00f3n pura basado en un an\u00e1lisis met\u00f3dico del entorno."
+        },
+        {
+          "text": "Adivinar posibles fallas mediante la intuici\u00f3n",
+          "isCorrect": false,
+          "rationale": "En HSQ no se puede adivinar; se requiere rigor t\u00e9cnico y datos."
+        },
+        {
+          "text": "Limitarse a cumplir las leyes vigentes",
+          "isCorrect": false,
+          "rationale": "El cumplimiento legal preventivo es solo una parte de la anticipaci\u00f3n operativa total."
+        }
+      ],
+      "hint": "Considere la idea de anticipaci\u00f3n met\u00f3dica frente a la reacci\u00f3n ante eventos."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Ciclo PDCA (Deming)",
+      "Marco PESTEL",
+      "Metodolog\u00eda SMART",
+      "Herramienta 5W2H",
+      "An\u00e1lisis de Trabajo Seguro (ATS)",
+      "Gesti\u00f3n de Stakeholders",
+      "Indicadores de Proceso y Eficacia",
+      "Gesti\u00f3n de HSQ"
+    ],
+    "followUp": [
+      "Auditor\u00edas bajo la norma ISO 1911",
+      "An\u00e1lisis de causa ra\u00edz con Diagramas de Ishikawa",
+      "Planificaci\u00f3n de inversiones vs costos hundidos",
+      "Liderazgo estrat\u00e9gico y pensamiento cr\u00edtico operativo",
+      "Estandarizaci\u00f3n de procesos en el ciclo de mejora"
+    ]
+  }
+}

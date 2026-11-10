@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el papel actual de la sostenibilidad en la miner\u00eda moderna?",
+      "answerOptions": [
+        {
+          "text": "Un imperativo estrat\u00e9gico vital y n\u00facleo de la resiliencia organizacional.",
+          "isCorrect": true,
+          "rationale": "La sostenibilidad ha dejado de ser una simple herramienta de relaciones p\u00fablicas para integrarse como el motor central de la viabilidad y protecci\u00f3n de la empresa."
+        },
+        {
+          "text": "Una funci\u00f3n perif\u00e9rica dedicada exclusivamente a las relaciones p\u00fablicas.",
+          "isCorrect": false,
+          "rationale": "Este enfoque corresponde a una visi\u00f3n tradicional que ya ha sido superada por la necesidad de resiliencia estrat\u00e9gica."
+        },
+        {
+          "text": "Un requisito administrativo opcional para empresas de gran escala.",
+          "isCorrect": false,
+          "rationale": "La sostenibilidad no es opcional, sino indispensable para garantizar la estabilidad financiera y la licencia social."
+        },
+        {
+          "text": "Un mecanismo est\u00e1tico para el cumplimiento de contratos legales.",
+          "isCorrect": false,
+          "rationale": "Se describe como un proceso din\u00e1mico y catalizador de desarrollo, no como un tr\u00e1mite est\u00e1tico."
+        }
+      ],
+      "hint": "Considere si este concepto se encuentra en el borde o en el centro de la estrategia de la empresa."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el est\u00e1ndar de 'debida diligencia' seg\u00fan los principios internacionales?",
+      "answerOptions": [
+        {
+          "text": "Un est\u00e1ndar de cuidado razonable y prudente para identificar, prevenir y mitigar impactos.",
+          "isCorrect": true,
+          "rationale": "Se basa en principios de la ONU y la OCDE para gestionar riesgos de forma transparente y exhaustiva."
+        },
+        {
+          "text": "Un conjunto de cl\u00e1usulas legales fijas para transferir riesgos a terceros.",
+          "isCorrect": false,
+          "rationale": "Transferir riesgos es parte del viejo paradigma; el nuevo est\u00e1ndar exige una gesti\u00f3n activa e intransferible."
+        },
+        {
+          "text": "Un tr\u00e1mite de una sola vez realizado antes de firmar un contrato comercial.",
+          "isCorrect": false,
+          "rationale": "La debida diligencia moderna es un organismo vivo que requiere adaptaci\u00f3n y monitoreo constante."
+        },
+        {
+          "text": "La sustituci\u00f3n de las funciones del Estado en la protecci\u00f3n de derechos.",
+          "isCorrect": false,
+          "rationale": "Las corporaciones no deben convertirse en gobiernos paralelos, sino ser responsables en proporci\u00f3n a su capacidad de acci\u00f3n."
+        }
+      ],
+      "hint": "Piense en la prevenci\u00f3n y la mitigaci\u00f3n de riesgos como un proceso continuo de cuidado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el alcance de la responsabilidad empresarial en la cadena de valor moderna?",
+      "answerOptions": [
+        {
+          "text": "Se expande a subsidiarias, subcontratistas, franquicias e inversores.",
+          "isCorrect": true,
+          "rationale": "La responsabilidad ya no termina en el contrato directo, sino que abarca todo el ecosistema de relaciones comerciales."
+        },
+        {
+          "text": "Se limita exclusivamente a las operaciones internas de la organizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este es un error com\u00fan que deja fuera los riesgos externos que pueden hacer colapsar la estructura."
+        },
+        {
+          "text": "Aplica \u00fanicamente a los proveedores directos de insumos cr\u00edticos.",
+          "isCorrect": false,
+          "rationale": "El est\u00e1ndar exige rastrear incluso los eslabones m\u00e1s d\u00e9biles y complejos de la cadena, no solo los directos."
+        },
+        {
+          "text": "Depende exclusivamente del cumplimiento de las normativas estatales locales.",
+          "isCorrect": false,
+          "rationale": "Aunque respeta al Estado, la empresa asume una rendici\u00f3n de cuentas propia basada en est\u00e1ndares internacionales."
+        }
+      ],
+      "hint": "Imagine la empresa como parte de un ecosistema m\u00e1s amplio que va m\u00e1s all\u00e1 de sus muros."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia al modelo de debida diligencia sostenible del modelo tradicional?",
+      "answerOptions": [
+        {
+          "text": "El modelo sostenible es preventivo, din\u00e1mico y utiliza la influencia corporativa.",
+          "isCorrect": true,
+          "rationale": "A diferencia del modelo reactivo, busca mitigar impactos antes de que ocurran mediante una gesti\u00f3n constante."
+        },
+        {
+          "text": "El modelo tradicional es proactivo y enfocado en el bienestar social.",
+          "isCorrect": false,
+          "rationale": "Hist\u00f3ricamente, el modelo tradicional era puramente reactivo y enfocado en la protecci\u00f3n legal est\u00e1tica."
+        },
+        {
+          "text": "El modelo sostenible transfiere los riesgos ambientales a los subcontratistas.",
+          "isCorrect": false,
+          "rationale": "La transferencia de riesgos es una pr\u00e1ctica del paradigma viejo; el nuevo exige responsabilidad intransferible."
+        },
+        {
+          "text": "No existen diferencias significativas entre ambos marcos operativos.",
+          "isCorrect": false,
+          "rationale": "Existe un giro de $180^{\\circ}$ entre la visi\u00f3n pasiva de escudo legal y la visi\u00f3n activa de gesti\u00f3n de impactos."
+        }
+      ],
+      "hint": "Considere la diferencia entre esperar a que algo pase y actuar antes de que ocurra."
+    },
+    {
+      "question": "En el proceso de identificaci\u00f3n de riesgos, \u00bfqu\u00e9 herramienta es esencial para evaluar la gravedad y probabilidad de los impactos?",
+      "answerOptions": [
+        {
+          "text": "Matrices de evaluaci\u00f3n de impactos y mapeo exhaustivo de actividades.",
+          "isCorrect": true,
+          "rationale": "Estas herramientas permiten ir m\u00e1s all\u00e1 del proveedor directo para detectar riesgos en los rincones m\u00e1s profundos de la cadena."
+        },
+        {
+          "text": "Contratos con cl\u00e1usulas de indemnizaci\u00f3n autom\u00e1tica.",
+          "isCorrect": false,
+          "rationale": "Las cl\u00e1usulas son parte del cierre legal, pero no sirven para identificar o mapear riesgos operativos reales."
+        },
+        {
+          "text": "Informes de relaciones p\u00fablicas anuales.",
+          "isCorrect": false,
+          "rationale": "Estos informes suelen ser retrospectivos y no act\u00faan como herramientas de detecci\u00f3n preventiva en el d\u00eda a d\u00eda."
+        },
+        {
+          "text": "Encuestas de satisfacci\u00f3n opcionales para los proveedores.",
+          "isCorrect": false,
+          "rationale": "La identificaci\u00f3n de riesgos requiere auditor\u00edas y evidencias t\u00e9cnicas, no solo opiniones subjetivas."
+        }
+      ],
+      "hint": "Piense en el trabajo de un detective que necesita organizar datos sistem\u00e1ticamente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 elemento es vital integrar en los planes de acci\u00f3n para la mitigaci\u00f3n de impactos sociales hoy en d\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Una perspectiva de g\u00e9nero y mecanismos de reparaci\u00f3n colaborativa.",
+          "isCorrect": true,
+          "rationale": "Estos elementos diferencian la gesti\u00f3n moderna al abordar vulnerabilidades espec\u00edficas y buscar soluciones conjuntas."
+        },
+        {
+          "text": "Un fondo de reserva para multas legales previsibles.",
+          "isCorrect": false,
+          "rationale": "El enfoque debe ser la prevenci\u00f3n y remediaci\u00f3n, no simplemente presupuestar el costo de fallar."
+        },
+        {
+          "text": "Una pol\u00edtica de comunicaci\u00f3n de crisis centrada en la marca.",
+          "isCorrect": false,
+          "rationale": "Mitigar impactos sociales requiere acciones en el terreno con las personas, no solo proteger la imagen corporativa."
+        },
+        {
+          "text": "La delegaci\u00f3n de la responsabilidad social a consultores externos.",
+          "isCorrect": false,
+          "rationale": "La influencia corporativa y el deber de intervenci\u00f3n son responsabilidades que la empresa debe asumir directamente."
+        }
+      ],
+      "hint": "Busque aspectos que aseguren la equidad y la compensaci\u00f3n cuando ocurren da\u00f1os."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la secuencia t\u00e1ctica progresiva ante un socio comercial que opera con pr\u00e1cticas de riesgo?",
+      "answerOptions": [
+        {
+          "text": "Mejora asistida, suspensi\u00f3n temporal y ruptura definitiva.",
+          "isCorrect": true,
+          "rationale": "Se busca primero inducir un cambio positivo mediante capacitaci\u00f3n antes de recurrir a medidas extremas."
+        },
+        {
+          "text": "Multa financiera inmediata, denuncia p\u00fablica y cancelaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La secuencia debe ser constructiva inicialmente para proteger el valor de la relaci\u00f3n y el entorno."
+        },
+        {
+          "text": "Ignorar el riesgo si el socio es cr\u00edtico para la producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Mirar hacia otro lado no es una opci\u00f3n; las organizaciones tienen el deber absoluto de usar su influencia."
+        },
+        {
+          "text": "Ruptura inmediata de lazos para proteger la reputaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Antes del 'portazo', se debe evaluar el impacto \u00e9tico y social que la ruptura podr\u00eda causar en la comunidad."
+        }
+      ],
+      "hint": "Es un proceso de escalamiento que empieza por la ayuda y termina en la separaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 dilema moral debe evaluarse antes de finalizar una relaci\u00f3n comercial con un proveedor riesgoso?",
+      "answerOptions": [
+        {
+          "text": "El impacto socioecon\u00f3mico que la ruptura puede causar en comunidades vulnerables.",
+          "isCorrect": true,
+          "rationale": "A veces el remedio (cortar el v\u00ednculo) puede ser peor que la enfermedad si se destruye el sustento de una regi\u00f3n entera."
+        },
+        {
+          "text": "La p\u00e9rdida de puntos en el \u00edndice de satisfacci\u00f3n del cliente.",
+          "isCorrect": false,
+          "rationale": "Aunque es un factor comercial, el dilema moral central se enfoca en el bienestar de las personas afectadas."
+        },
+        {
+          "text": "El costo de encontrar un nuevo proveedor en el mercado local.",
+          "isCorrect": false,
+          "rationale": "Este es un an\u00e1lisis de costos operativos, no un dilema \u00e9tico sobre la responsabilidad social."
+        },
+        {
+          "text": "La vigencia de las p\u00f3lizas de seguro de la empresa.",
+          "isCorrect": false,
+          "rationale": "La protecci\u00f3n financiera es importante, pero no constituye el n\u00facleo del dilema moral discutido."
+        }
+      ],
+      "hint": "Considere las consecuencias negativas no deseadas de una decisi\u00f3n bienintencionada."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los marcos globales que deben alinear el plan de auditor\u00eda interna moderno?",
+      "answerOptions": [
+        {
+          "text": "El modelo COSO ERM y los est\u00e1ndares de la norma ISO 31,000.",
+          "isCorrect": true,
+          "rationale": "Estos marcos aseguran que la auditor\u00eda no sea solo un checklist, sino un proceso estrat\u00e9gico de gesti\u00f3n de riesgos."
+        },
+        {
+          "text": "Los reglamentos internos de trabajo y los manuales de funciones.",
+          "isCorrect": false,
+          "rationale": "Aunque \u00fatiles, estos son documentos dom\u00e9sticos que no alcanzan el nivel de est\u00e1ndares globales de riesgo exigidos."
+        },
+        {
+          "text": "\u00danicamente las leyes locales de comercio del pa\u00eds de operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de integridad corporativa requiere marcos internacionales para ser competitiva y robusta globalmente."
+        },
+        {
+          "text": "Las normas contables b\u00e1sicas de ingresos y egresos.",
+          "isCorrect": false,
+          "rationale": "La auditor\u00eda de la que se habla va m\u00e1s all\u00e1 de lo financiero para incluir riesgos operativos y de sostenibilidad."
+        }
+      ],
+      "hint": "Busque est\u00e1ndares internacionales conocidos por su enfoque en la gesti\u00f3n de riesgos empresariales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el primer paso del procedimiento operativo de seis pasos de la OCDE?",
+      "answerOptions": [
+        {
+          "text": "Integrar la conducta responsable en las pol\u00edticas desde la alta direcci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "El compromiso debe nacer desde el liderazgo para que todo el andamiaje de integridad sea efectivo."
+        },
+        {
+          "text": "Identificar y evaluar los impactos en la cadena de suministro.",
+          "isCorrect": false,
+          "rationale": "Este es el paso dos; primero debe existir una base pol\u00edtica e institucional que lo respalde."
+        },
+        {
+          "text": "Reparar o cooperar en la remediaci\u00f3n de da\u00f1os.",
+          "isCorrect": false,
+          "rationale": "La reparaci\u00f3n es el \u00faltimo paso del ciclo (paso seis), no el inicio."
+        },
+        {
+          "text": "Rendir cuentas mediante informes p\u00fablicos transparentes.",
+          "isCorrect": false,
+          "rationale": "La rendici\u00f3n de cuentas ocurre en el paso cinco, una vez que se han ejecutado y seguido las acciones."
+        }
+      ],
+      "hint": "Todo sistema robusto comienza con el respaldo y la directriz de quienes toman las decisiones principales."
+    },
+    {
+      "question": "Seg\u00fan el est\u00e1ndar ISO 37001, \u00bfqu\u00e9 constituye una 'bandera roja' en la categor\u00eda de irregularidades operativas?",
+      "answerOptions": [
+        {
+          "text": "Facturaci\u00f3n fraccionada y solicitudes de pago en efectivo sin justificaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Estas pr\u00e1cticas suelen ser trucos para evadir controles financieros o esconder pagos indebidos."
+        },
+        {
+          "text": "Tener v\u00ednculos familiares con funcionarios p\u00fablicos.",
+          "isCorrect": false,
+          "rationale": "Este es un riesgo de perfil (PEP), no necesariamente una irregularidad operativa documental."
+        },
+        {
+          "text": "Cambios frecuentes en la estructura de los due\u00f1os de la empresa.",
+          "isCorrect": false,
+          "rationale": "Esto se clasifica como una estructura opaca, no como una falla en la documentaci\u00f3n de servicios prestados."
+        },
+        {
+          "text": "La falta de un sitio web corporativo actualizado.",
+          "isCorrect": false,
+          "rationale": "Aunque es una se\u00f1al, no es una irregularidad operativa cr\u00edtica identificada espec\u00edficamente en el requisito 8.2."
+        }
+      ],
+      "hint": "Piense en comportamientos financieros que intentan eludir los procesos de aprobaci\u00f3n normales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el orden cronol\u00f3gico correcto para la validaci\u00f3n de un nuevo socio comercial?",
+      "answerOptions": [
+        {
+          "text": "\u00c1rea requirente -> Legal -> Compliance -> Autoridad decisoria.",
+          "isCorrect": true,
+          "rationale": "Legal debe validar la vigencia de documentos antes de que Compliance gaste recursos en an\u00e1lisis reputacionales."
+        },
+        {
+          "text": "Compliance -> Legal -> \u00c1rea requirente -> Autoridad decisoria.",
+          "isCorrect": false,
+          "rationale": "No es eficiente realizar un an\u00e1lisis de cumplimiento si los documentos legales b\u00e1sicos son falsos o han vencido."
+        },
+        {
+          "text": "Autoridad decisoria -> \u00c1rea requirente -> Compliance -> Legal.",
+          "isCorrect": false,
+          "rationale": "La autoridad decisoria solo debe intervenir al final, una vez que toda la informaci\u00f3n ha sido procesada."
+        },
+        {
+          "text": "Legal -> Autoridad decisoria -> \u00c1rea requirente -> Compliance.",
+          "isCorrect": false,
+          "rationale": "El \u00e1rea requirente es la que inicia el proceso por necesidad comercial; no puede ir despu\u00e9s del dictamen legal."
+        }
+      ],
+      "hint": "Considere que primero se verifica que los papeles existan y sean v\u00e1lidos antes de investigar el historial de la persona."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se gestiona el riesgo de las Personas Expuestas Pol\u00edticamente (PEP) extranjeras?",
+      "answerOptions": [
+        {
+          "text": "Se clasifican autom\u00e1ticamente como de alto riesgo debido a la complejidad internacional.",
+          "isCorrect": true,
+          "rationale": "La dificultad de rastrear fondos en otros pa\u00edses y las leyes internacionales obligan a esta precauci\u00f3n innegociable."
+        },
+        {
+          "text": "Se eval\u00faan caso por caso seg\u00fan su nivel de influencia local.",
+          "isCorrect": false,
+          "rationale": "Este enfoque se aplica a los PEP nacionales, no a los extranjeros."
+        },
+        {
+          "text": "Se les proh\u00edbe cualquier tipo de relaci\u00f3n comercial de forma permanente.",
+          "isCorrect": false,
+          "rationale": "No est\u00e1n prohibidos, pero su gesti\u00f3n requiere un nivel de escrutinio y aprobaci\u00f3n superior."
+        },
+        {
+          "text": "No requieren monitoreo continuo si la alta direcci\u00f3n firma el contrato.",
+          "isCorrect": false,
+          "rationale": "El monitoreo continuo es obligatorio para todos los PEP, independientemente de qui\u00e9n firme."
+        }
+      ],
+      "hint": "Considere que cruzar fronteras a\u00f1ade capas de opacidad que el sistema debe tratar con extrema cautela."
+    },
+    {
+      "question": "En una auditor\u00eda ambiental, \u00bfcu\u00e1l es el elemento que garantiza la validez frente a un auditor ('papelito habla')?",
+      "answerOptions": [
+        {
+          "text": "La evidencia t\u00e9cnica como permisos de vertido y resoluciones ambientales.",
+          "isCorrect": true,
+          "rationale": "La evidencia documentada y verificable es el \u00fanico sustento real para demostrar el cumplimiento legal."
+        },
+        {
+          "text": "Las promesas verbales de mejora en la pr\u00f3xima reuni\u00f3n de gerencia.",
+          "isCorrect": false,
+          "rationale": "Las auditor\u00edas se basan en hechos y registros, no en intenciones futuras sin respaldo."
+        },
+        {
+          "text": "El historial de correos electr\u00f3nicos informales entre empleados.",
+          "isCorrect": false,
+          "rationale": "La falta de trazabilidad documental es precisamente una de las fallas m\u00e1s comunes que destruye la credibilidad."
+        },
+        {
+          "text": "La reputaci\u00f3n general de la empresa en los medios de comunicaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La auditor\u00eda t\u00e9cnica se enfoca en par\u00e1metros f\u00edsicos y legales, no en la imagen p\u00fablica."
+        }
+      ],
+      "hint": "Piense en los documentos oficiales que acreditan que una operaci\u00f3n est\u00e1 autorizada."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja operativa ofrecen las plataformas de software en la nube (SaaS) en la gesti\u00f3n de cumplimiento?",
+      "answerOptions": [
+        {
+          "text": "Automatizaci\u00f3n de matrices legales, territorialidad y trazabilidad de evidencias.",
+          "isCorrect": true,
+          "rationale": "Estas herramientas permiten gestionar m\u00faltiples normas (ISO) de forma integrada y generar reportes autom\u00e1ticos precisos."
+        },
+        {
+          "text": "Eliminaci\u00f3n total de la necesidad de realizar auditor\u00edas presenciales.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda apoya la gesti\u00f3n, pero la inspecci\u00f3n en el terreno sigue siendo parte esencial del ciclo de auditor\u00eda."
+        },
+        {
+          "text": "Sustituci\u00f3n de la responsabilidad legal de los gerentes de \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad sigue siendo humana; el software es solo un medio para facilitar el control."
+        },
+        {
+          "text": "Reducci\u00f3n de los est\u00e1ndares ambientales para acelerar la producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Al contrario, estas plataformas buscan elevar el rigor del cumplimiento y la transparencia."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo centralizar datos complejos que cambian seg\u00fan la ubicaci\u00f3n geogr\u00e1fica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 mide la 'materialidad de impacto' en el eje de la doble materialidad?",
+      "answerOptions": [
+        {
+          "text": "C\u00f3mo las operaciones de la empresa afectan a las comunidades y al medio ambiente.",
+          "isCorrect": true,
+          "rationale": "Representa el impacto de la organizaci\u00f3n hacia afuera, evaluando su huella social y ecol\u00f3gica."
+        },
+        {
+          "text": "C\u00f3mo los riesgos del entorno afectan el valor financiero de la empresa.",
+          "isCorrect": false,
+          "rationale": "Esta es la materialidad financiera, que mira hacia adentro, no la de impacto."
+        },
+        {
+          "text": "El cumplimiento estricto de las leyes fiscales nacionales.",
+          "isCorrect": false,
+          "rationale": "Aunque es importante, la materialidad de impacto se refiere a efectos sociales y ambientales m\u00e1s amplios."
+        },
+        {
+          "text": "La eficiencia en el uso de capital para proyectos de expansi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este es un indicador puramente financiero y no abarca el concepto de impacto hacia el entorno."
+        }
+      ],
+      "hint": "Piense en la flecha que sale de la organizaci\u00f3n hacia la sociedad y el planeta."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre los est\u00e1ndares GRI y SASB?",
+      "answerOptions": [
+        {
+          "text": "El GRI se enfoca en m\u00faltiples actores sociales, mientras que el SASB se enfoca en inversores.",
+          "isCorrect": true,
+          "rationale": "El GRI busca transparencia para la sociedad y el SASB comunica riesgos financieros espec\u00edficos para quienes proveen capital."
+        },
+        {
+          "text": "El GRI es para peque\u00f1as empresas y el SASB es para corporaciones multinacionales.",
+          "isCorrect": false,
+          "rationale": "Ambos son marcos internacionales utilizados por organizaciones de todos los tama\u00f1os, especialmente industrias pesadas."
+        },
+        {
+          "text": "El GRI es obligatorio por ley y el SASB es totalmente voluntario.",
+          "isCorrect": false,
+          "rationale": "Ambos suelen ser marcos voluntarios o exigidos por mercados de valores, pero no son leyes estatales per se."
+        },
+        {
+          "text": "El GRI mide impactos financieros y el SASB mide impactos ambientales.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; el GRI mira el impacto hacia afuera (ambiental/social) y el SASB mira el riesgo financiero hacia adentro."
+        }
+      ],
+      "hint": "Considere a qui\u00e9n va dirigido el mensaje: \u00bfa la comunidad o al bolsillo del accionista?"
+    },
+    {
+      "question": "\u00bfQu\u00e9 KPI es cr\u00edtico para mantener la 'licencia social para operar' en la miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Inversi\u00f3n social por unidad minera y porcentaje de contrataci\u00f3n local.",
+          "isCorrect": true,
+          "rationale": "Estos datos demuestran el compromiso tangible de la empresa con el desarrollo de su zona de influencia directa."
+        },
+        {
+          "text": "Margen de utilidad neta antes de impuestos (EBITDA).",
+          "isCorrect": false,
+          "rationale": "Esta es una m\u00e9trica financiera interna que no garantiza por s\u00ed sola la aceptaci\u00f3n de las comunidades."
+        },
+        {
+          "text": "Cantidad de premios de marketing ganados durante el a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Los premios son cosm\u00e9ticos; la licencia social se gana con datos reales de impacto y empleo local."
+        },
+        {
+          "text": "N\u00famero de abogados contratados para la gesti\u00f3n de conflictos.",
+          "isCorrect": false,
+          "rationale": "Un alto n\u00famero de abogados puede indicar una gesti\u00f3n reactiva y no una integraci\u00f3n social exitosa."
+        }
+      ],
+      "hint": "Piense en indicadores que reflejen un beneficio directo para las personas que viven cerca de la mina."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia clave entre los conceptos de sostenibilidad y sustentabilidad?",
+      "answerOptions": [
+        {
+          "text": "La sustentabilidad exige un enfoque regenerativo que iguale o supere la extracci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Mientras la sostenibilidad busca equilibrio, la sustentabilidad se enfoca en la regeneraci\u00f3n del capital natural."
+        },
+        {
+          "text": "La sostenibilidad es un t\u00e9rmino t\u00e9cnico y la sustentabilidad es comercial.",
+          "isCorrect": false,
+          "rationale": "Ambos son conceptos estrat\u00e9gicos con bases t\u00e9cnicas, pero con objetivos de impacto diferentes."
+        },
+        {
+          "text": "No existe ninguna diferencia; son sin\u00f3nimos exactos en todos los marcos.",
+          "isCorrect": false,
+          "rationale": "Existe un matiz fundamental: la sustentabilidad requiere un impacto positivo o neutral que garantice la viabilidad futura."
+        },
+        {
+          "text": "La sustentabilidad se refiere solo a la parte financiera del negocio.",
+          "isCorrect": false,
+          "rationale": "La sustentabilidad est\u00e1 intr\u00ednsecamente ligada al capital natural y su capacidad de regeneraci\u00f3n."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 concepto va m\u00e1s all\u00e1 del simple equilibrio para enfocarse en la recuperaci\u00f3n de lo extra\u00eddo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 nivel de la arquitectura de compras eval\u00faa los resultados tangibles generados en el ecosistema?",
+      "answerOptions": [
+        {
+          "text": "Nivel de impacto.",
+          "isCorrect": true,
+          "rationale": "Este nivel mide las consecuencias finales de las decisiones operativas y estrat\u00e9gicas en la sociedad y el ambiente."
+        },
+        {
+          "text": "Nivel estrat\u00e9gico.",
+          "isCorrect": false,
+          "rationale": "Este nivel se enfoca en las pol\u00edticas macro y la revelaci\u00f3n de datos generales, no en los resultados de campo."
+        },
+        {
+          "text": "Nivel operativo.",
+          "isCorrect": false,
+          "rationale": "El nivel operativo mide el desempe\u00f1o del d\u00eda a d\u00eda, como presupuestos o auditor\u00edas anticorrupci\u00f3n."
+        },
+        {
+          "text": "Nivel administrativo.",
+          "isCorrect": false,
+          "rationale": "Este nivel no forma parte de la arquitectura de tres escalones (Estrat\u00e9gico, Operativo, Impacto) descrita."
+        }
+      ],
+      "hint": "Es la base de la pir\u00e1mide donde se observan los cambios reales en el mundo exterior."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Sostenibilidad estrat\u00e9gica en miner\u00eda",
+      "Debida diligencia corporativa y est\u00e1ndares OCDE",
+      "Sistemas antisoborno e ISO 37001",
+      "Gesti\u00f3n de riesgos y cumplimiento (Compliance)",
+      "Marcos de reporte internacional (GRI y SASB)",
+      "Auditor\u00eda ambiental y tecnol\u00f3gica"
+    ],
+    "followUp": [
+      "Implementaci\u00f3n del modelo COSO ERM en industrias extractivas",
+      "Metodolog\u00edas para la remediaci\u00f3n de impactos sociales",
+      "An\u00e1lisis profundo de la Ley 3424 sobre responsabilidad penal",
+      "Digitalizaci\u00f3n de la matriz legal ambiental",
+      "C\u00e1lculo de emisiones de Alcance 3 en la cadena de suministro"
+    ]
+  }
+}

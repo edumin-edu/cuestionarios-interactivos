@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la geof\u00edsica en comparaci\u00f3n con la instrumentaci\u00f3n avanzada en el monitoreo de macizos rocosos?",
+      "answerOptions": [
+        {
+          "text": "La geof\u00edsica determina el lugar exacto de intervenci\u00f3n, mientras que la instrumentaci\u00f3n dicta el momento de actuar.",
+          "isCorrect": true,
+          "rationale": "La geof\u00edsica proporciona la ubicaci\u00f3n espacial precisa para las intervenciones, mientras que los instrumentos miden la evoluci\u00f3n temporal de los fen\u00f3menos."
+        },
+        {
+          "text": "La geof\u00edsica mide el tiempo de falla y la instrumentaci\u00f3n identifica la litolog\u00eda del terreno.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n invierte las funciones, ya que la caracterizaci\u00f3n del terreno es una tarea exploratoria t\u00edpica de la geof\u00edsica."
+        },
+        {
+          "text": "Ambas herramientas se encargan exclusivamente de validar el cumplimiento de la normativa legal vigente.",
+          "isCorrect": false,
+          "rationale": "Aunque cumplen con la ley, su valor t\u00e9cnico principal radica en la gesti\u00f3n interna de riesgos y la validaci\u00f3n de dise\u00f1os estructurales."
+        },
+        {
+          "text": "La geof\u00edsica reemplaza la necesidad de realizar sondeos mec\u00e1nicos de confirmaci\u00f3n en el terreno.",
+          "isCorrect": false,
+          "rationale": "La geof\u00edsica optimiza los sondeos, pero no los elimina; se utiliza para calibrar la mirada y ahorrar recursos en las perforaciones de confirmaci\u00f3n."
+        }
+      ],
+      "hint": "Considere la diferencia entre la ubicaci\u00f3n espacial de un problema y el seguimiento cronol\u00f3gico de su movimiento."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica distingue a las ondas s\u00edsmicas secundarias ($S$) de las primarias ($P$) en el diagn\u00f3stico del subsuelo?",
+      "answerOptions": [
+        {
+          "text": "Las ondas $S$ no pueden propagarse a trav\u00e9s de masas l\u00edquidas subterr\u00e1neas.",
+          "isCorrect": true,
+          "rationale": "Debido a su naturaleza transversal, las ondas secundarias requieren un medio con resistencia al corte para viajar, lo que las hace nulas en fluidos."
+        },
+        {
+          "text": "Las ondas $S$ son longitudinales y viajan a una velocidad mayor que las ondas $P$.",
+          "isCorrect": false,
+          "rationale": "Las ondas primarias son las longitudinales y las m\u00e1s veloces, siendo la primera energ\u00eda captada por el sism\u00f3grafo."
+        },
+        {
+          "text": "Las ondas $S$ son consideradas ruido molesto y no aportan informaci\u00f3n t\u00e9cnica relevante.",
+          "isCorrect": false,
+          "rationale": "Las ondas secundarias son una herramienta diagn\u00f3stica brutal para identificar la presencia de agua o lodos."
+        },
+        {
+          "text": "Las ondas $S$ se utilizan exclusivamente para el an\u00e1lisis de m\u00e9todos de superficie como el MASW.",
+          "isCorrect": false,
+          "rationale": "El MASW se basa principalmente en ondas de superficie como Rayleigh y Love, no espec\u00edficamente en las ondas de cuerpo tipo $S$."
+        }
+      ],
+      "hint": "Recuerde c\u00f3mo reaccionan los diferentes tipos de ondas al encontrarse con materiales que no tienen rigidez transversal."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal limitaci\u00f3n del m\u00e9todo de refracci\u00f3n s\u00edsmica en exploraciones del terreno?",
+      "answerOptions": [
+        {
+          "text": "Pierde precisi\u00f3n significativa al intentar mapear profundidades superiores a los $30$ metros.",
+          "isCorrect": true,
+          "rationale": "La desviaci\u00f3n angular de la se\u00f1al s\u00edsmica reduce la exactitud de los datos de refracci\u00f3n a medida que se profundiza en el terreno."
+        },
+        {
+          "text": "Es incapaz de detectar el techo rocoso en exploraciones superficiales.",
+          "isCorrect": false,
+          "rationale": "Por el contrario, la refracci\u00f3n s\u00edsmica es uno de los m\u00e9todos favoritos precisamente para localizar el lecho rocoso superficial."
+        },
+        {
+          "text": "Requiere la destrucci\u00f3n parcial del subsuelo para poder enviar las se\u00f1ales de energ\u00eda.",
+          "isCorrect": false,
+          "rationale": "Los m\u00e9todos geof\u00edsicos se caracterizan por ser m\u00e9todos indirectos y no destructivos que eval\u00faan el terreno sin tocarlo."
+        },
+        {
+          "text": "Solo funciona en terrenos compuestos por rocas sedimentarias altamente porosas.",
+          "isCorrect": false,
+          "rationale": "El m\u00e9todo funciona en diversos tipos de roca, aunque la velocidad de la onda var\u00eda seg\u00fan la densidad del material encontrado."
+        }
+      ],
+      "hint": "Piense en el alcance vertical y la desviaci\u00f3n de la se\u00f1al en m\u00e9todos de prospecci\u00f3n superficial."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se utiliza el 'nivel de referencia cero' en el monitoreo topogr\u00e1fico de superficie?",
+      "answerOptions": [
+        {
+          "text": "Para establecer un punto de control con movimiento nulo absoluto contra el cual comparar variaciones.",
+          "isCorrect": true,
+          "rationale": "Cualquier cambio en las coordenadas respecto a este punto estable indica la presencia de inestabilidades o asentamientos."
+        },
+        {
+          "text": "Para determinar la profundidad exacta donde deben anclarse los inclin\u00f3metros digitales.",
+          "isCorrect": false,
+          "rationale": "El anclaje de inclin\u00f3metros es un procedimiento de auscultaci\u00f3n profunda, no un par\u00e1metro de referencia de coordenadas superficiales."
+        },
+        {
+          "text": "Para calcular la presi\u00f3n de poros en suelos arcillosos impermeables.",
+          "isCorrect": false,
+          "rationale": "La presi\u00f3n de poros se mide con piez\u00f3metros y no est\u00e1 relacionada con los niveles de referencia topogr\u00e1ficos."
+        },
+        {
+          "text": "Para definir el l\u00edmite de deformaci\u00f3n de $30$ cent\u00edmetros permitido por las normativas internacionales.",
+          "isCorrect": false,
+          "rationale": "El l\u00edmite de $30$ cm es un est\u00e1ndar de dise\u00f1o de seguridad, no un punto de referencia f\u00edsico para la medici\u00f3n de coordenadas."
+        }
+      ],
+      "hint": "Imagine la necesidad de un punto fijo para poder medir cu\u00e1nto se ha movido algo m\u00e1s."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un requisito cr\u00edtico de instalaci\u00f3n para garantizar lecturas reales en un inclin\u00f3metro?",
+      "answerOptions": [
+        {
+          "text": "La base del tubo debe estar anclada firmemente entre $3$ y $6$ metros dentro de la roca de fundaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Un anclaje s\u00f3lido en roca evita que el tubo 'flote' y que las mediciones se confundan con errores de instalaci\u00f3n."
+        },
+        {
+          "text": "La sonda debe tomar lecturas exclusivamente en la superficie del talud cada $12$ mil\u00edmetros.",
+          "isCorrect": false,
+          "rationale": "Las lecturas de inclinometr\u00eda se realizan t\u00edpicamente cada medio metro a lo largo de toda la profundidad del tubo."
+        },
+        {
+          "text": "El equipo debe orientarse siempre hacia el eje $B$ negativo para evitar interferencias magn\u00e9ticas.",
+          "isCorrect": false,
+          "rationale": "La metodolog\u00eda correcta exige orientar la sonda hacia el eje $A$ positivo, apuntando directamente a la cara del talud."
+        },
+        {
+          "text": "El sistema debe operar de forma manual para evitar el retardo hidrodin\u00e1mico de los datos.",
+          "isCorrect": false,
+          "rationale": "El retardo hidrodin\u00e1mico es una preocupaci\u00f3n en piez\u00f3metros, no es un factor relevante en la operaci\u00f3n de inclin\u00f3metros."
+        }
+      ],
+      "hint": "Considere la estabilidad del extremo inferior del instrumento para que los datos sean confiables."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja tecnol\u00f3gica ofrece el sistema Tribec sobre los m\u00e9todos de monitoreo tradicionales?",
+      "answerOptions": [
+        {
+          "text": "Integra la medici\u00f3n de tres vectores de desplazamiento simult\u00e1neamente con precisi\u00f3n submilim\u00e9trica.",
+          "isCorrect": true,
+          "rationale": "A diferencia de los instrumentos que miden solo horizontal o verticalmente, el Tribec proporciona una radiograf\u00eda tridimensional completa."
+        },
+        {
+          "text": "Es el \u00fanico instrumento capaz de medir la presi\u00f3n de poros en tiempo real mediante hilos met\u00e1licos.",
+          "isCorrect": false,
+          "rationale": "La medici\u00f3n de presi\u00f3n de poros por hilos vibrantes es propia de los piez\u00f3metros de cuerda vibrante, no del sistema Tribec."
+        },
+        {
+          "text": "Reduce el factor de seguridad ($FS$) del proyecto para permitir mayores deformaciones.",
+          "isCorrect": false,
+          "rationale": "El monitoreo no busca reducir el factor de seguridad, sino validar que los niveles de seguridad reales coincidan con los dise\u00f1os."
+        },
+        {
+          "text": "Permite realizar sondeos de confirmaci\u00f3n no destructivos en el batolito costero.",
+          "isCorrect": false,
+          "rationale": "La caracterizaci\u00f3n no destructiva es una funci\u00f3n de la geof\u00edsica, mientras que el Tribec es un instrumento de monitoreo f\u00edsico de precisi\u00f3n."
+        }
+      ],
+      "hint": "Piense en la capacidad de este sistema para capturar el movimiento en todas las direcciones del espacio a la vez."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afecta el aumento de la presi\u00f3n intersticial de poros a la estabilidad de un macizo rocoso?",
+      "answerOptions": [
+        {
+          "text": "Reduce la tensi\u00f3n efectiva y la resistencia al corte al separar las part\u00edculas s\u00f3lidas.",
+          "isCorrect": true,
+          "rationale": "El agua empuja las part\u00edculas desde adentro, destruyendo la fricci\u00f3n interna vital para mantener la masa unida."
+        },
+        {
+          "text": "Aumenta la densidad del material, incrementando as\u00ed la velocidad de las ondas s\u00edsmicas.",
+          "isCorrect": false,
+          "rationale": "Aunque el agua llena los poros, su efecto principal es la reducci\u00f3n de estabilidad mec\u00e1nica, no una mejora en la propagaci\u00f3n de ondas."
+        },
+        {
+          "text": "Mejora la adherencia entre el suelo y las estructuras de hormig\u00f3n armado.",
+          "isCorrect": false,
+          "rationale": "La presi\u00f3n intersticial excesiva suele ser perjudicial para el contacto suelo-estructura, pudiendo causar fallas catastr\u00f3ficas."
+        },
+        {
+          "text": "Elimina el riesgo de licuaci\u00f3n est\u00e1tica al permitir que el agua escape r\u00e1pidamente.",
+          "isCorrect": false,
+          "rationale": "La licuaci\u00f3n ocurre precisamente cuando el agua no puede escapar y la presi\u00f3n interna supera la resistencia del terreno."
+        }
+      ],
+      "hint": "Reflexione sobre lo que sucede con la fricci\u00f3n entre granos cuando un fluido ejerce presi\u00f3n entre ellos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el piez\u00f3metro de Casagrande requiere un tubo de exactamente $12$ mil\u00edmetros de di\u00e1metro?",
+      "answerOptions": [
+        {
+          "text": "Para asegurar que las burbujas de aire puedan subir libremente sin bloquear la lectura.",
+          "isCorrect": true,
+          "rationale": "Un di\u00e1metro menor podr\u00eda atrapar burbujas que alterar\u00edan la precisi\u00f3n del nivel de agua medido."
+        },
+        {
+          "text": "Para permitir la inserci\u00f3n de sondas de inclinometr\u00eda digital dentro del mismo conducto.",
+          "isCorrect": false,
+          "rationale": "Los piez\u00f3metros e inclin\u00f3metros son instrumentos distintos con funciones y requisitos de instalaci\u00f3n diferentes."
+        },
+        {
+          "text": "Debido a que es el est\u00e1ndar requerido para soportar presiones de hasta $500$ toneladas.",
+          "isCorrect": false,
+          "rationale": "Las capacidades de carga en toneladas se refieren a c\u00e9lulas de carga para anclajes, no a di\u00e1metros de tubos piezom\u00e9tricos."
+        },
+        {
+          "text": "Para garantizar que el tiempo de respuesta en suelos arcillosos sea instant\u00e1neo.",
+          "isCorrect": false,
+          "rationale": "El piez\u00f3metro de Casagrande es conocido precisamente por tener un tiempo de respuesta lento, especialmente en suelos poco permeables."
+        }
+      ],
+      "hint": "Considere los problemas f\u00edsicos que podr\u00edan ocurrir con gases atrapados en un tubo muy estrecho."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia funcional entre una c\u00e9lula de presi\u00f3n total y una c\u00e9lula de carga?",
+      "answerOptions": [
+        {
+          "text": "La primera mide el contacto suelo-estructura y la segunda mide la tensi\u00f3n en anclajes o cables.",
+          "isCorrect": true,
+          "rationale": "Las c\u00e9lulas de presi\u00f3n total eval\u00faan \u00e1reas de contacto, mientras que las de carga se enfocan en elementos de refuerzo espec\u00edficos."
+        },
+        {
+          "text": "La c\u00e9lula de carga se usa para medir fluidos y la de presi\u00f3n total para medir ondas s\u00edsmicas.",
+          "isCorrect": false,
+          "rationale": "Ninguna de estas c\u00e9lulas est\u00e1 dise\u00f1ada para medir ondas s\u00edsmicas; esa es tarea de sism\u00f3grafos y ge\u00f3fonos."
+        },
+        {
+          "text": "La c\u00e9lula de presi\u00f3n total solo funciona en la selva y la de carga en la sierra alta.",
+          "isCorrect": false,
+          "rationale": "La ubicaci\u00f3n geogr\u00e1fica no define el prop\u00f3sito t\u00e9cnico de estos instrumentos industriales de precisi\u00f3n."
+        },
+        {
+          "text": "Ambas miden lo mismo, pero la c\u00e9lula de carga es m\u00e1s econ\u00f3mica y fr\u00e1gil.",
+          "isCorrect": false,
+          "rationale": "Son instrumentos con prop\u00f3sitos f\u00edsicos y rangos de magnitud de carga totalmente diferentes."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 tipo de elemento (un muro vs. un cable) est\u00e1 siendo monitoreado por cada sensor."
+    },
+    {
+      "question": "En el an\u00e1lisis de estabilidad, \u00bfqu\u00e9 indica un Factor de Seguridad ($FS$) situado entre $1.0$ y $1.5$?",
+      "answerOptions": [
+        {
+          "text": "Representa un estado cr\u00edtico que requiere medidas de mitigaci\u00f3n inmediatas.",
+          "isCorrect": true,
+          "rationale": "Aunque no ha colapsado a\u00fan, el margen de seguridad es insuficiente para garantizar la estabilidad operativa a largo plazo."
+        },
+        {
+          "text": "Indica una inestabilidad activa donde el terreno ya est\u00e1 cediendo.",
+          "isCorrect": false,
+          "rationale": "La inestabilidad activa se define t\u00e9cnicamente cuando el $FS$ es menor a $1.0$."
+        },
+        {
+          "text": "Significa que la estructura posee una estabilidad operativa totalmente aceptable.",
+          "isCorrect": false,
+          "rationale": "Para considerar una estabilidad operativa aceptable, el $FS$ debe ser superior a $1.5$."
+        },
+        {
+          "text": "Es el valor ideal para estructuras cr\u00edticas como presas de relaves seg\u00fan la norma SRK.",
+          "isCorrect": false,
+          "rationale": "Las estructuras cr\u00edticas exigen niveles de seguridad m\u00e1s altos y m\u00e1rgenes de deformaci\u00f3n m\u00e1s estrictos."
+        }
+      ],
+      "hint": "Es una zona intermedia donde el peligro es latente y no hay 'margen para respirar'."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el m\u00e9todo de construcci\u00f3n 'aguas arriba' en presas de relaves es intr\u00ednsecamente riesgoso?",
+      "answerOptions": [
+        {
+          "text": "Debido a que los esfuerzos horizontales crecen dr\u00e1sticamente sobre una base sin sostenimiento robusto.",
+          "isCorrect": true,
+          "rationale": "La estructura crece sobre materiales depositados anteriormente, lo que genera vulnerabilidad a medida que aumenta la altura y la carga."
+        },
+        {
+          "text": "Porque utiliza rocas metam\u00f3rficas que frenan la disipaci\u00f3n de la presi\u00f3n de poros.",
+          "isCorrect": false,
+          "rationale": "El riesgo est\u00e1 ligado a la geometr\u00eda de la construcci\u00f3n y la gesti\u00f3n de presiones en los relaves, no al tipo de roca de fundaci\u00f3n."
+        },
+        {
+          "text": "Porque requiere que el factor de seguridad sea siempre inversamente proporcional al tiempo.",
+          "isCorrect": false,
+          "rationale": "El $FS$ es inversamente proporcional a la deformaci\u00f3n permitida, no directamente al tiempo cronol\u00f3gico."
+        },
+        {
+          "text": "Debido a que proh\u00edbe el uso de software de modelado como RS2 o Norsan.",
+          "isCorrect": false,
+          "rationale": "Al contrario, este tipo de estructuras requiere el uso de software avanzado para simular su comportamiento y mitigar riesgos."
+        }
+      ],
+      "hint": "Considere la direcci\u00f3n en la que se a\u00f1aden las nuevas capas de material y el apoyo que tienen debajo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 efecto tiene extender el ritmo de construcci\u00f3n de un dique de $7$ a $30$ d\u00edas en la gesti\u00f3n de presiones?",
+      "answerOptions": [
+        {
+          "text": "Permite que la presi\u00f3n interna se disipe, reduciendo el riesgo de licuaci\u00f3n est\u00e1tica.",
+          "isCorrect": true,
+          "rationale": "Dar tiempo al agua atrapada para escapar baja los niveles de presi\u00f3n de poros (ej. de $600$ a $490$ kPa), aumentando la seguridad."
+        },
+        {
+          "text": "Aumenta la presi\u00f3n intersticial de poros hasta alcanzar un nivel cr\u00edtico de $600$ kPa.",
+          "isCorrect": false,
+          "rationale": "Extender el tiempo reduce la presi\u00f3n; los $600$ kPa se alcanzan precisamente con una construcci\u00f3n demasiado r\u00e1pida en $7$ d\u00edas."
+        },
+        {
+          "text": "Provoca que el terreno pierda su fuerza y fluya inmediatamente como un r\u00edo de lodo.",
+          "isCorrect": false,
+          "rationale": "Ese fen\u00f3meno (licuaci\u00f3n) es lo que se intenta prevenir al ralentizar el proceso de construcci\u00f3n."
+        },
+        {
+          "text": "Obliga a cambiar el modelo de an\u00e1lisis de elementos finitos por el de equilibrio l\u00edmite.",
+          "isCorrect": false,
+          "rationale": "El ritmo de construcci\u00f3n es una decisi\u00f3n de gesti\u00f3n de obra, no una restricci\u00f3n para el tipo de software de an\u00e1lisis utilizado."
+        }
+      ],
+      "hint": "Piense en el beneficio de 'darle tiempo' al agua para que se mueva a trav\u00e9s de los microporos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre el software Slide 2 y el RS2 en el modelado geot\u00e9cnico?",
+      "answerOptions": [
+        {
+          "text": "Slide 2 usa equilibrio l\u00edmite (rebanadas) mientras que RS2 emplea elementos finitos.",
+          "isCorrect": true,
+          "rationale": "Slide 2 es \u00fatil para validaciones r\u00e1pidas, mientras que RS2 permite acoplamientos hidromec\u00e1nicos complejos y simulaciones s\u00edsmicas."
+        },
+        {
+          "text": "Slide 2 es exclusivo para la selva y RS2 se utiliza solo en el batolito costero.",
+          "isCorrect": false,
+          "rationale": "Ambos programas son herramientas de ingenier\u00eda general aplicables a diferentes contextos geogr\u00e1ficos seg\u00fan la necesidad t\u00e9cnica."
+        },
+        {
+          "text": "RS2 es un m\u00e9todo no destructivo y Slide 2 requiere perforaciones en el terreno.",
+          "isCorrect": false,
+          "rationale": "Ambos son software de modelado digital; no realizan acciones f\u00edsicas sobre el terreno, sino simulaciones basadas en datos."
+        },
+        {
+          "text": "Slide 2 calcula presiones en toneladas y RS2 mide desplazamientos en mil\u00edmetros.",
+          "isCorrect": false,
+          "rationale": "Ambos programas pueden manejar diversas unidades y par\u00e1metros, pero su distinci\u00f3n principal es el motor matem\u00e1tico de c\u00e1lculo."
+        }
+      ],
+      "hint": "Recuerde los m\u00e9todos matem\u00e1ticos (uno m\u00e1s simple y otro m\u00e1s robusto) que utiliza cada uno."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito del modelo matem\u00e1tico Norsan en la ingenier\u00eda de presas?",
+      "answerOptions": [
+        {
+          "text": "Simular de forma predictiva el fen\u00f3meno de licuaci\u00f3n est\u00e1tica en relaves.",
+          "isCorrect": true,
+          "rationale": "Es una herramienta de vanguardia dise\u00f1ada para transformar datos crudos en resiliencia estructural frente a fallas por flujo."
+        },
+        {
+          "text": "Establecer el nivel de referencia cero para coordenadas GPS de alta precisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El nivel cero es un concepto topogr\u00e1fico operativo, no un modelo matem\u00e1tico de comportamiento de suelos."
+        },
+        {
+          "text": "Medir la frecuencia de vibraci\u00f3n de los hilos met\u00e1licos en piez\u00f3metros.",
+          "isCorrect": false,
+          "rationale": "Esa es una funci\u00f3n electr\u00f3nica interna de los sensores de cuerda vibrante, no una finalidad de un software de modelado."
+        },
+        {
+          "text": "Sustituir el criterio experto humano mediante el uso de inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "El material enfatiza que la tecnolog\u00eda asiste, pero jam\u00e1s sustituye al criterio experto que salva vidas."
+        }
+      ],
+      "hint": "Piense en un escenario donde el terreno se comporta como un l\u00edquido y qu\u00e9 herramienta ayudar\u00eda a predecirlo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 principio rige la relaci\u00f3n entre la seguridad y la deformaci\u00f3n en un proyecto cr\u00edtico?",
+      "answerOptions": [
+        {
+          "text": "El factor de seguridad es inversamente proporcional a la deformaci\u00f3n permitida en el terreno.",
+          "isCorrect": true,
+          "rationale": "A mayor exigencia de seguridad, menores son los l\u00edmites de movimiento que se pueden tolerar en la estructura."
+        },
+        {
+          "text": "A mayor deformaci\u00f3n medida, mayor es el factor de seguridad operativa del macizo.",
+          "isCorrect": false,
+          "rationale": "Por el contrario, grandes deformaciones suelen indicar una reducci\u00f3n en la estabilidad y en el factor de seguridad."
+        },
+        {
+          "text": "La deformaci\u00f3n permitida es constante e independiente de la normativa legal o t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "Los l\u00edmites de deformaci\u00f3n se ajustan seg\u00fan la criticidad de la obra y las exigencias de seguridad de cada proyecto."
+        },
+        {
+          "text": "El factor de seguridad depende \u00fanicamente de la velocidad de las ondas s\u00edsmicas transversales.",
+          "isCorrect": false,
+          "rationale": "El $FS$ es un c\u00e1lculo complejo que integra m\u00faltiples variables f\u00edsicas, estructurales y presiones, no solo datos geof\u00edsicos."
+        }
+      ],
+      "hint": "Si un proyecto debe ser extremadamente seguro, \u00bfpodemos permitir que el terreno se mueva mucho o poco?"
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera que las rocas metam\u00f3rficas muestran velocidades de onda s\u00edsmica alt\u00edsimas?",
+      "answerOptions": [
+        {
+          "text": "Debido a su alta compacidad y a las presiones extremas que han sufrido.",
+          "isCorrect": true,
+          "rationale": "La densidad del material es directamente proporcional a la velocidad de la onda; a mayor compactaci\u00f3n, mayor velocidad."
+        },
+        {
+          "text": "Porque poseen una gran porosidad que facilita el viaje de las ondas longitudinales.",
+          "isCorrect": false,
+          "rationale": "La porosidad (com\u00fan en rocas sedimentarias) en realidad frena la onda s\u00edsmica."
+        },
+        {
+          "text": "Debido a que est\u00e1n compuestas principalmente por masas de l\u00edquido subterr\u00e1neo.",
+          "isCorrect": false,
+          "rationale": "Las masas l\u00edquidas detienen las ondas $S$ y no son caracter\u00edsticas de la estructura s\u00f3lida de las rocas metam\u00f3rficas."
+        },
+        {
+          "text": "Porque su factor de seguridad es siempre inferior a $1.0$.",
+          "isCorrect": false,
+          "rationale": "La velocidad de la onda es una propiedad f\u00edsica del material y no define por s\u00ed sola el estado de estabilidad ($FS$)."
+        }
+      ],
+      "hint": "Asocie la densidad del material con la rapidez con la que se transmite la energ\u00eda a trav\u00e9s de \u00e9l."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumplen las ondas de superficie como Rayleigh y Love en el monitoreo avanzado?",
+      "answerOptions": [
+        {
+          "text": "Son el pilar fundamental para an\u00e1lisis avanzados de subsuelo como el MASW.",
+          "isCorrect": true,
+          "rationale": "Aunque hist\u00f3ricamente se vieron como ruido en otros m\u00e9todos, en el MASW estas ondas son informaci\u00f3n valiosa ('oro puro')."
+        },
+        {
+          "text": "Se utilizan para medir la tensi\u00f3n de anclajes profundos de hasta $500$ toneladas.",
+          "isCorrect": false,
+          "rationale": "Las tensiones en anclajes se miden con c\u00e9lulas de carga, no con ondas de superficie."
+        },
+        {
+          "text": "Sirven para detectar el nivel de referencia cero en la superficie de la selva.",
+          "isCorrect": false,
+          "rationale": "El nivel de referencia cero es un concepto de topograf\u00eda y GPS, no de sismolog\u00eda de ondas superficiales."
+        },
+        {
+          "text": "Su funci\u00f3n principal es anclar los tubos inclinom\u00e9tricos en la roca de fundaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El anclaje es un procedimiento f\u00edsico de instalaci\u00f3n, no una funci\u00f3n de las ondas s\u00edsmicas."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo algo que antes se consideraba 'basura' o ruido se convirti\u00f3 en una herramienta clave para un m\u00e9todo espec\u00edfico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un s\u00edntoma de que una anomal\u00eda inclinom\u00e9trica podr\u00eda estar relacionada con un problema hidr\u00e1ulico?",
+      "answerOptions": [
+        {
+          "text": "Podr\u00eda ser la alerta temprana de un bols\u00f3n de agua oculto que afecta la deformaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La integraci\u00f3n multidisciplinaria permite interpretar que movimientos f\u00edsicos pueden ser causados por presiones de fluidos invisibles."
+        },
+        {
+          "text": "Se manifiesta \u00fanicamente mediante la desaparici\u00f3n de las ondas primarias $P$.",
+          "isCorrect": false,
+          "rationale": "La presencia de agua afecta a las ondas $S$, no hace desaparecer las ondas $P$ (que s\u00ed viajan en l\u00edquidos)."
+        },
+        {
+          "text": "Ocurre cuando la sonda toma lecturas cada $12$ mil\u00edmetros en lugar de cada medio metro.",
+          "isCorrect": false,
+          "rationale": "Esa es una confusi\u00f3n entre las especificaciones del piez\u00f3metro de Casagrande y el procedimiento de inclinometr\u00eda."
+        },
+        {
+          "text": "Se confirma cuando el factor de seguridad sube por encima de $1.5$.",
+          "isCorrect": false,
+          "rationale": "Un aumento en el $FS$ indicar\u00eda mayor estabilidad, no una anomal\u00eda peligrosa vinculada a agua oculta."
+        }
+      ],
+      "hint": "Recuerde la importancia de 'leer entre l\u00edneas' y conectar los movimientos f\u00edsicos con las fuerzas invisibles."
+    },
+    {
+      "question": "En el contexto de la auscultaci\u00f3n, \u00bfqu\u00e9 significa que un sistema de cuerda vibrante tenga 'cero retardo hidrodin\u00e1mico'?",
+      "answerOptions": [
+        {
+          "text": "Que proporciona lecturas exactas, autom\u00e1ticas y en tiempo real sin esperas.",
+          "isCorrect": true,
+          "rationale": "A diferencia de los tubos abiertos, los sistemas electr\u00f3nicos reaccionan instant\u00e1neamente a los cambios de presi\u00f3n."
+        },
+        {
+          "text": "Que el agua tarda $30$ d\u00edas en disipar su presi\u00f3n interna de forma natural.",
+          "isCorrect": false,
+          "rationale": "Ese es el tiempo sugerido para la gesti\u00f3n del ritmo de construcci\u00f3n, no una caracter\u00edstica del sensor."
+        },
+        {
+          "text": "Que la sonda no puede moverse m\u00e1s de $30$ cent\u00edmetros dentro del terreno.",
+          "isCorrect": false,
+          "rationale": "El l\u00edmite de $30$ cm se refiere a la deformaci\u00f3n estructural permitida, no a una limitaci\u00f3n del sensor piezom\u00e9trico."
+        },
+        {
+          "text": "Que el instrumento es incapaz de funcionar en suelos arcillosos impermeables.",
+          "isCorrect": false,
+          "rationale": "De hecho, su rapidez es una gran ventaja precisamente en suelos de baja permeabilidad donde otros m\u00e9todos fallan."
+        }
+      ],
+      "hint": "Piense en la inmediatez de la obtenci\u00f3n de los datos ante un cambio en las condiciones del subsuelo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite absoluto de deformaci\u00f3n permisible en estructuras cr\u00edticas seg\u00fan est\u00e1ndares internacionales citados?",
+      "answerOptions": [
+        {
+          "text": "$30$ cent\u00edmetros.",
+          "isCorrect": true,
+          "rationale": "Superar este l\u00edmite en estructuras como presas de relaves podr\u00eda ser el preludio de una cat\u00e1strofe estructural."
+        },
+        {
+          "text": "$12$ mil\u00edmetros.",
+          "isCorrect": false,
+          "rationale": "Este valor corresponde al di\u00e1metro del tubo del piez\u00f3metro de Casagrande, no al l\u00edmite de deformaci\u00f3n."
+        },
+        {
+          "text": "$1000$ kilopascales.",
+          "isCorrect": false,
+          "rationale": "Este es un valor de rango de trabajo para c\u00e9lulas de presi\u00f3n total, no una medida de deformaci\u00f3n f\u00edsica."
+        },
+        {
+          "text": "$3$ a $6$ metros.",
+          "isCorrect": false,
+          "rationale": "Este rango se refiere a la profundidad de anclaje de la tuber\u00eda del inclin\u00f3metro en la roca firme."
+        }
+      ],
+      "hint": "Es un n\u00famero que, seg\u00fan el material, debe quedar 'grabado a fuego en la memoria'."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Geof\u00edsica aplicada al monitoreo",
+      "Instrumentaci\u00f3n de macizos rocosos",
+      "Din\u00e1mica de ondas s\u00edsmicas",
+      "Monitoreo de deformaciones y desplazamientos",
+      "Hidr\u00e1ulica y presiones intersticiales",
+      "Gesti\u00f3n de riesgos en presas de relaves",
+      "Modelado matem\u00e1tico y software especializado"
+    ],
+    "followUp": [
+      "Mec\u00e1nica de rocas avanzada",
+      "An\u00e1lisis de licuaci\u00f3n est\u00e1tica y din\u00e1mica",
+      "Instrumentaci\u00f3n con fibra \u00f3ptica en geotecnia",
+      "Normativas internacionales de seguridad de presas",
+      "Hidrogeolog\u00eda aplicada a la estabilidad de taludes"
+    ]
+  }
+}

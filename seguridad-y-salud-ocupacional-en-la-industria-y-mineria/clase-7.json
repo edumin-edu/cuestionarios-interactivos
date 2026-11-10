@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el reglamento espec\u00edfico que rige la seguridad y salud ocupacional en la actividad minera en Per\u00fa?",
+      "answerOptions": [
+        {
+          "text": "Ley 29783",
+          "isCorrect": false,
+          "rationale": "Esta es la ley general de seguridad y salud en el trabajo aplicable a todas las industrias, pero la miner\u00eda tiene un reglamento sectorial espec\u00edfico."
+        },
+        {
+          "text": "Decreto Supremo 024-2016-EM",
+          "isCorrect": true,
+          "rationale": "Este decreto, junto con sus modificatorias, constituye el est\u00e1ndar t\u00e9cnico absoluto y obligatorio para todas las operaciones mineras."
+        },
+        {
+          "text": "ISO 45001",
+          "isCorrect": false,
+          "rationale": "Se trata de una norma internacional voluntaria para sistemas de gesti\u00f3n, no del marco legal obligatorio del sector minero peruano."
+        },
+        {
+          "text": "Decreto Supremo 005-2012-TR",
+          "isCorrect": false,
+          "rationale": "Este es el reglamento general de la Ley de Seguridad y Salud en el Trabajo, no el reglamento especializado para miner\u00eda."
+        }
+      ],
+      "hint": "Busque el n\u00famero de decreto que es exclusivo para el sector de energ\u00eda y minas."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 en la industria minera se utiliza preferentemente el t\u00e9rmino Salud Ocupacional (SSO) en lugar de Seguridad y Salud en el Trabajo (SST)?",
+      "answerOptions": [
+        {
+          "text": "Por una simplificaci\u00f3n administrativa de los formularios",
+          "isCorrect": false,
+          "rationale": "No es una cuesti\u00f3n de papeleo, sino una distinci\u00f3n basada en el rigor t\u00e9cnico y m\u00e9dico requerido por los riesgos del sector."
+        },
+        {
+          "text": "Debido al alt\u00edsimo nivel de especializaci\u00f3n e involucramiento m\u00e9dico requerido",
+          "isCorrect": true,
+          "rationale": "La miner\u00eda exige una vigilancia exhaustiva de agentes f\u00edsicos, qu\u00edmicos y biol\u00f3gicos, donde el rol de la higiene y los m\u00e9dicos es el coraz\u00f3n del sistema."
+        },
+        {
+          "text": "Para diferenciarse de las normativas de los gobiernos regionales",
+          "isCorrect": false,
+          "rationale": "La distinci\u00f3n terminol\u00f3gica no busca separar jurisdicciones, sino enfatizar el enfoque preventivo en enfermedades profesionales."
+        },
+        {
+          "text": "Porque el t\u00e9rmino SST solo aplica a industrias de bajo riesgo",
+          "isCorrect": false,
+          "rationale": "SST se usa en industrias de alto riesgo tambi\u00e9n, pero la miner\u00eda resalta la Salud Ocupacional por la exposici\u00f3n constante en socavones y plantas."
+        }
+      ],
+      "hint": "Considere la importancia de la vigilancia m\u00e9dica constante frente a enfermedades profesionales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 art\u00edculo del reglamento minero obliga a los l\u00edderes a realizar auditor\u00edas sistem\u00e1ticas en la operaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Art\u00edculo 42",
+          "isCorrect": false,
+          "rationale": "Este art\u00edculo se enfoca en las facultades de fiscalizaci\u00f3n de las autoridades competentes, no en la obligaci\u00f3n de auditor\u00edas internas."
+        },
+        {
+          "text": "Art\u00edculo 49",
+          "isCorrect": false,
+          "rationale": "Este mandato se refiere a la obligatoriedad de realizar inspecciones de campo para identificar peligros."
+        },
+        {
+          "text": "Art\u00edculo 28",
+          "isCorrect": true,
+          "rationale": "Este art\u00edculo establece la obligaci\u00f3n innegociable de ejecutar auditor\u00edas de forma sistem\u00e1tica para evaluar el sistema de gesti\u00f3n."
+        },
+        {
+          "text": "Art\u00edculo 56",
+          "isCorrect": false,
+          "rationale": "Este art\u00edculo est\u00e1 orientado a la aplicaci\u00f3n de la mejora continua dentro del sistema operativo."
+        }
+      ],
+      "hint": "Es el primero de los cuatro pilares legales mencionados para el control del sistema."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece el principio de primac\u00eda de la realidad durante una inspecci\u00f3n de seguridad?",
+      "answerOptions": [
+        {
+          "text": "Que los documentos redactados tienen mayor peso legal que los testimonios",
+          "isCorrect": false,
+          "rationale": "Este principio establece justamente lo contrario: los hechos verificables superan a lo escrito en papel."
+        },
+        {
+          "text": "Que lo que sucede f\u00edsicamente en el terreno anula cualquier procedimiento escrito",
+          "isCorrect": true,
+          "rationale": "Los inspectores priorizan las condiciones reales de la maquinaria y los actos de los colaboradores sobre los manuales de oficina."
+        },
+        {
+          "text": "Que la realidad de la oficina debe coincidir exactamente con el campo",
+          "isCorrect": false,
+          "rationale": "Aunque es el ideal, el principio se usa cuando hay discrepancias, otorgando validez a la situaci\u00f3n f\u00edsica encontrada."
+        },
+        {
+          "text": "Que los inspectores deben avisar antes de llegar para verificar la realidad",
+          "isCorrect": false,
+          "rationale": "El principio no regula el aviso de inspecci\u00f3n, sino el criterio de evaluaci\u00f3n de los hallazgos encontrados."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 tiene m\u00e1s valor para un auditor: un manual perfecto o una m\u00e1quina sin guardas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la frecuencia obligatoria para las auditor\u00edas externas en el sector minero y en qu\u00e9 periodo deben realizarse?",
+      "answerOptions": [
+        {
+          "text": "Cada 2 a\u00f1os durante el primer semestre",
+          "isCorrect": false,
+          "rationale": "Esta frecuencia corresponde a otras industrias de alto riesgo, pero no a la miner\u00eda, que es m\u00e1s estricta."
+        },
+        {
+          "text": "Anual, dentro de los primeros 3 meses del a\u00f1o",
+          "isCorrect": true,
+          "rationale": "La normativa exige una auditor\u00eda externa anual ejecutada estrictamente en el primer trimestre por auditores registrados."
+        },
+        {
+          "text": "Cada 3 a\u00f1os para todas las unidades mineras",
+          "isCorrect": false,
+          "rationale": "Este es el plazo para empresas de bajo riesgo, lo cual no aplica a la complejidad de la operaci\u00f3n minera."
+        },
+        {
+          "text": "Anual, durante el \u00faltimo trimestre del a\u00f1o",
+          "isCorrect": false,
+          "rationale": "Aunque la frecuencia es anual, el plazo legal espec\u00edfico es el inicio del a\u00f1o para asegurar la planificaci\u00f3n preventiva."
+        }
+      ],
+      "hint": "Considere que el rigor en miner\u00eda exige una revisi\u00f3n al inicio de cada ciclo anual."
+    },
+    {
+      "question": "Ante una inspecci\u00f3n inopinada de Sunafil u Osinergmin, \u00bfcu\u00e1l es el tiempo m\u00e1ximo permitido para autorizar el ingreso a la unidad minera?",
+      "answerOptions": [
+        {
+          "text": "5 minutos",
+          "isCorrect": false,
+          "rationale": "Aunque se debe actuar r\u00e1pido, el protocolo marca un l\u00edmite ligeramente superior antes de considerarse obstrucci\u00f3n."
+        },
+        {
+          "text": "10 minutos",
+          "isCorrect": true,
+          "rationale": "Exceder este tiempo se considera autom\u00e1ticamente una obstrucci\u00f3n a la labor inspectiva, acarreando multas severas."
+        },
+        {
+          "text": "20 minutos",
+          "isCorrect": false,
+          "rationale": "Este tiempo es excesivo y detonar\u00eda una alerta roja de obstrucci\u00f3n seg\u00fan los protocolos de acceso cr\u00edtico."
+        },
+        {
+          "text": "30 minutos",
+          "isCorrect": false,
+          "rationale": "Esperar media hora imposibilitar\u00eda la naturaleza inopinada de la inspecci\u00f3n y es ilegal."
+        }
+      ],
+      "hint": "Es un n\u00famero de dos d\u00edgitos que requiere una sincronizaci\u00f3n total desde la garita de control."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se clasifica un hallazgo t\u00e9cnico cuando un proceso clave ha colapsado o existe un incumplimiento legal grave?",
+      "answerOptions": [
+        {
+          "text": "Observaci\u00f3n t\u00e9cnica",
+          "isCorrect": false,
+          "rationale": "Una observaci\u00f3n es solo una bandera amarilla preventiva, no un colapso del sistema."
+        },
+        {
+          "text": "No conformidad menor",
+          "isCorrect": false,
+          "rationale": "Esta clasificaci\u00f3n se usa para cumplimientos parciales o casos aislados que no comprometen todo el sistema."
+        },
+        {
+          "text": "No conformidad mayor",
+          "isCorrect": true,
+          "rationale": "Representa un riesgo inminente para la vida o un fallo sist\u00e9mico en el cumplimiento de la ley."
+        },
+        {
+          "text": "Oportunidad de mejora",
+          "isCorrect": false,
+          "rationale": "Esta es una recomendaci\u00f3n para optimizar algo que ya funciona bien, no para se\u00f1alar fallas graves."
+        }
+      ],
+      "hint": "Piense en el nivel de mayor gravedad que nadie desea ver en un informe."
+    },
+    {
+      "question": "\u00bfQu\u00e9 nivel de confianza estad\u00edstica se busca alcanzar al aplicar la metodolog\u00eda de Grupos de Exposici\u00f3n Similar (GES) en las inspecciones t\u00e9cnicas?",
+      "answerOptions": [
+        {
+          "text": "$90 \\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es un nivel alto, la norma t\u00e9cnica minera exige un rigor superior para garantizar la protecci\u00f3n de toda la poblaci\u00f3n."
+        },
+        {
+          "text": "$95 \\%$",
+          "isCorrect": true,
+          "rationale": "Este porcentaje garantiza matem\u00e1ticamente que los datos recolectados reflejan la realidad de los riesgos sin depender del azar."
+        },
+        {
+          "text": "$99 \\%$",
+          "isCorrect": false,
+          "rationale": "Aunque ser\u00eda ideal, el est\u00e1ndar t\u00e9cnico manejado para el muestreo en higiene y seguridad es usualmente del $95 \\%$."
+        },
+        {
+          "text": "$100 \\%$",
+          "isCorrect": false,
+          "rationale": "En estad\u00edstica de muestreo, el $100 \\%$ de confianza es te\u00f3ricamente inalcanzable mediante m\u00e9todos de inspecci\u00f3n por grupos."
+        }
+      ],
+      "hint": "Es el valor est\u00e1ndar de confianza utilizado para validar que la defensa t\u00e9cnica no se caiga a pedazos."
+    },
+    {
+      "question": "\u00bfDe cu\u00e1ntos d\u00edas al a\u00f1o dispone el Comit\u00e9 de Seguridad y Salud Ocupacional para realizar sus funciones con goce de haber?",
+      "answerOptions": [
+        {
+          "text": "15 d\u00edas",
+          "isCorrect": false,
+          "rationale": "Este tiempo ser\u00eda insuficiente para la labor de supervisi\u00f3n de libros, equipos e inspecciones que exige la ley."
+        },
+        {
+          "text": "30 d\u00edas",
+          "isCorrect": true,
+          "rationale": "El titular minero debe otorgar esta licencia obligatoria para asegurar que el comit\u00e9 ejerza su rol de vigilancia sin frenos."
+        },
+        {
+          "text": "60 d\u00edas",
+          "isCorrect": false,
+          "rationale": "La norma establece un mes completo, no dos, como el periodo de licencia remunerada para estas funciones."
+        },
+        {
+          "text": "10 d\u00edas",
+          "isCorrect": false,
+          "rationale": "Un plazo de 10 d\u00edas no permitir\u00eda cumplir con el cronograma de inspecciones planeadas e inopinadas requerido."
+        }
+      ],
+      "hint": "Equivale a la duraci\u00f3n promedio de un mes calendario."
+    },
+    {
+      "question": "En la medici\u00f3n de agentes f\u00edsicos, \u00bfcu\u00e1l es el l\u00edmite de vibraci\u00f3n permitido para el cuerpo entero durante un turno de 8 horas?",
+      "answerOptions": [
+        {
+          "text": "$4\\ m/s^{2}$",
+          "isCorrect": false,
+          "rationale": "Este es el l\u00edmite establecido espec\u00edficamente para la vibraci\u00f3n en mano-brazo, la cual es m\u00e1s resistente."
+        },
+        {
+          "text": "$1.15\\ m/s^{2}$",
+          "isCorrect": true,
+          "rationale": "El l\u00edmite para el cuerpo entero es significativamente menor debido a la sensibilidad de la columna y la caja tor\u00e1cica."
+        },
+        {
+          "text": "$0.5\\ m/s^{2}$",
+          "isCorrect": false,
+          "rationale": "Aunque es un valor bajo, el l\u00edmite normativo exacto para la jornada est\u00e1ndar es de $1.15\\ m/s^{2}$."
+        },
+        {
+          "text": "$2.5\\ m/s^{2}$",
+          "isCorrect": false,
+          "rationale": "Este valor no corresponde a los est\u00e1ndares de higiene ocupacional para ninguno de los dos tipos de exposici\u00f3n vibratoria."
+        }
+      ],
+      "hint": "Recuerde que el l\u00edmite para el cuerpo es mucho m\u00e1s estricto que para el brazo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 instrumento de medici\u00f3n es imperativo para asegurar la correcta diluci\u00f3n de contaminantes en el aire seg\u00fan la norma?",
+      "answerOptions": [
+        {
+          "text": "Dos\u00edmetro",
+          "isCorrect": false,
+          "rationale": "El dos\u00edmetro se utiliza para medir la exposici\u00f3n a radiaci\u00f3n ionizante o ruido, no la velocidad del aire."
+        },
+        {
+          "text": "Anem\u00f3metro",
+          "isCorrect": true,
+          "rationale": "Este equipo mide la velocidad del aire, garantizando que el flujo sea suficiente para ventilar la operaci\u00f3n."
+        },
+        {
+          "text": "Son\u00f3metro",
+          "isCorrect": false,
+          "rationale": "Este instrumento mide niveles de presi\u00f3n sonora, lo cual es distinto a la gesti\u00f3n de atm\u00f3sferas y contaminantes gaseosos."
+        },
+        {
+          "text": "Geman\u00f3metro",
+          "isCorrect": false,
+          "rationale": "Este t\u00e9rmino no corresponde a los instrumentos t\u00e9cnicos mencionados para el monitoreo de agentes f\u00edsicos."
+        }
+      ],
+      "hint": "Piense en el equipo que mide la velocidad de las corrientes de aire."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica la regla de oro 'LOTO' en la gesti\u00f3n de energ\u00edas peligrosas?",
+      "answerOptions": [
+        {
+          "text": "La limpieza obligatoria de todas las herramientas",
+          "isCorrect": false,
+          "rationale": "LOTO no se refiere a la limpieza (cleaning), sino al bloqueo f\u00edsico de fuentes de poder."
+        },
+        {
+          "text": "El bloqueo y etiquetado de energ\u00edas para desarmar una 'bomba' potencial",
+          "isCorrect": true,
+          "rationale": "Colocar candados y etiquetas evita la liberaci\u00f3n accidental de energ\u00eda mientras se interviene un equipo."
+        },
+        {
+          "text": "La revisi\u00f3n de la velocidad de los equipos pesados",
+          "isCorrect": false,
+          "rationale": "El control de velocidad es otra regla de seguridad, pero no est\u00e1 vinculada al sistema LOTO."
+        },
+        {
+          "text": "El uso de guantes diel\u00e9ctricos en todo momento",
+          "isCorrect": false,
+          "rationale": "Aunque es un EPP importante, el sistema LOTO es un control de ingenier\u00eda y administrativo sobre la fuente."
+        }
+      ],
+      "hint": "Se trata de poner un candado para evitar que alguien encienda una m\u00e1quina accidentalmente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la pol\u00edtica de tolerancia respecto al consumo de alcohol y drogas en las operaciones mineras?",
+      "answerOptions": [
+        {
+          "text": "Tolerancia moderada seg\u00fan el puesto de trabajo",
+          "isCorrect": false,
+          "rationale": "En miner\u00eda no existen niveles aceptables; el riesgo es demasiado alto para permitir cualquier consumo."
+        },
+        {
+          "text": "Cero tolerancia absoluta",
+          "isCorrect": true,
+          "rationale": "Esta es una regla inflexible que sostiene la integridad y seguridad de toda la operaci\u00f3n."
+        },
+        {
+          "text": "Permitido solo en campamentos durante el descanso",
+          "isCorrect": false,
+          "rationale": "La pol\u00edtica de cero tolerancia se extiende usualmente a toda la unidad minera para evitar incidentes."
+        },
+        {
+          "text": "Sujeto a la evaluaci\u00f3n del m\u00e9dico ocupacional",
+          "isCorrect": false,
+          "rationale": "No es una decisi\u00f3n cl\u00ednica discrecional, sino un mandato de seguridad innegociable."
+        }
+      ],
+      "hint": "Es una de las reglas inflexibles que no admite ninguna cantidad de estas sustancias."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el mon\u00f3xido de carbono y el \u00e1cido sulf\u00eddrico se consideran enemigos invisibles en el socav\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Porque brillan en la oscuridad dificultando la visi\u00f3n",
+          "isCorrect": false,
+          "rationale": "Estos gases no tienen propiedades lum\u00ednicas; su peligro radica en la falta de se\u00f1ales sensoriales."
+        },
+        {
+          "text": "Porque no huelen ni avisan, y pueden ser letales al instante",
+          "isCorrect": true,
+          "rationale": "Su inhalaci\u00f3n en concentraciones bajas puede causar la muerte sin que el trabajador detecte su presencia."
+        },
+        {
+          "text": "Porque solo afectan a la maquinaria pesada",
+          "isCorrect": false,
+          "rationale": "Estos gases son peligros biol\u00f3gicos directos para el ser humano, no solo un problema mec\u00e1nico."
+        },
+        {
+          "text": "Porque se eliminan f\u00e1cilmente con el uso de mascarillas simples",
+          "isCorrect": false,
+          "rationale": "Requieren monitoreo constante y ventilaci\u00f3n forzada, ya que los filtros comunes no siempre son suficientes."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede con los sentidos humanos ante la presencia de estos gases."
+    },
+    {
+      "question": "Para evitar el colapso de una excavaci\u00f3n en suelo tipo C (inestable y arenoso), \u00bfcu\u00e1l debe ser la inclinaci\u00f3n de la zanja?",
+      "answerOptions": [
+        {
+          "text": "$0.75:1$ (tres cuartos a uno)",
+          "isCorrect": false,
+          "rationale": "Esta inclinaci\u00f3n m\u00e1s empinada es adecuada solo para suelos tipo A, que son muy duros y estables."
+        },
+        {
+          "text": "$1:1$ (uno a uno)",
+          "isCorrect": false,
+          "rationale": "Este \u00e1ngulo se utiliza para suelos tipo B, con una estabilidad intermedia."
+        },
+        {
+          "text": "$1.5:1$ (uno y medio a uno)",
+          "isCorrect": true,
+          "rationale": "Al ser un suelo inestable, se requiere una apertura mayor (m\u00e1s inclinada) para evitar derrumbes."
+        },
+        {
+          "text": "$2:1$ (dos a uno)",
+          "isCorrect": false,
+          "rationale": "Aunque es muy segura, la norma t\u00e9cnica especifica el ratio de $1.5:1$ para suelos tipo C."
+        }
+      ],
+      "hint": "A medida que el suelo es m\u00e1s arenoso, la zanja debe estar m\u00e1s abierta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta es considerada la defensa de primera l\u00ednea para identificar peligros y evaluar riesgos al inicio de cada turno?",
+      "answerOptions": [
+        {
+          "text": "La auditor\u00eda externa",
+          "isCorrect": false,
+          "rationale": "Las auditor\u00edas son anuales y no sirven para la gesti\u00f3n operativa diaria en el frente de trabajo."
+        },
+        {
+          "text": "El IPERC continuo",
+          "isCorrect": true,
+          "rationale": "Es un proceso obligatorio que se ejecuta con rigor antes de mover cualquier m\u00e1quina o liberar energ\u00eda."
+        },
+        {
+          "text": "El manual de procedimientos",
+          "isCorrect": false,
+          "rationale": "Los manuales son est\u00e1ticos; el IPERC es din\u00e1mico y se adapta a las condiciones cambiantes del terreno cada d\u00eda."
+        },
+        {
+          "text": "El check-list de herramientas",
+          "isCorrect": false,
+          "rationale": "Aunque es \u00fatil, el IPERC es una herramienta integral que eval\u00faa el entorno, la tarea y los riesgos, no solo el equipo."
+        }
+      ],
+      "hint": "Sus siglas significan Identificaci\u00f3n de Peligros, Evaluaci\u00f3n de Riesgos y Medidas de Control."
+    },
+    {
+      "question": "Seg\u00fan el an\u00e1lisis de siniestralidad, \u00bfqu\u00e9 porcentaje de los accidentes en miner\u00eda provienen de actos humanos inseguros?",
+      "answerOptions": [
+        {
+          "text": "$50 \\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje subestima dr\u00e1sticamente el impacto del factor humano en la seguridad operativa."
+        },
+        {
+          "text": "$75 \\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra alta, la estad\u00edstica real muestra que la gran mayor\u00eda de incidentes tienen su origen en el comportamiento."
+        },
+        {
+          "text": "$95 \\%$",
+          "isCorrect": true,
+          "rationale": "Este dato alarmante subraya la necesidad de un liderazgo visible en el frente de trabajo para corregir conductas."
+        },
+        {
+          "text": "$10 \\%$",
+          "isCorrect": false,
+          "rationale": "Esto sugerir\u00eda que los accidentes son mayoritariamente por fallas mec\u00e1nicas, lo cual es incorrecto."
+        }
+      ],
+      "hint": "Es la gran mayor\u00eda de los casos, dejando solo un margen peque\u00f1o para fallas puramente t\u00e9cnicas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n del dos\u00edmetro personal en la gesti\u00f3n de higiene minera?",
+      "answerOptions": [
+        {
+          "text": "Medir la cantidad de polvo inhalado",
+          "isCorrect": false,
+          "rationale": "Para el polvo se usan otros m\u00e9todos de muestreo; el dos\u00edmetro tiene un fin f\u00edsico espec\u00edfico."
+        },
+        {
+          "text": "Registrar la exposici\u00f3n a radiaci\u00f3n ionizante",
+          "isCorrect": true,
+          "rationale": "Es obligatorio para personal expuesto y sus lecturas se reportan con rigor cient\u00edfico."
+        },
+        {
+          "text": "Controlar el consumo de agua del personal",
+          "isCorrect": false,
+          "rationale": "A pesar de su nombre, no mide dosis de hidrataci\u00f3n, sino dosis de energ\u00eda radiante absorbida."
+        },
+        {
+          "text": "Evaluar la fatiga muscular del trabajador",
+          "isCorrect": false,
+          "rationale": "La fatiga se eval\u00faa mediante ergonom\u00eda y vigilancia m\u00e9dica, no con un dos\u00edmetro."
+        }
+      ],
+      "hint": "Piense en la protecci\u00f3n contra riesgos invisibles relacionados con la energ\u00eda at\u00f3mica o rayos X."
+    },
+    {
+      "question": "\u00bfQu\u00e9 relaci\u00f3n debe existir entre el equipo de protecci\u00f3n personal (EPP) y el riesgo real detectado?",
+      "answerOptions": [
+        {
+          "text": "El EPP debe ser el m\u00e1s caro disponible en el mercado",
+          "isCorrect": false,
+          "rationale": "El costo no garantiza la seguridad si el equipo no es el t\u00e9cnicamente adecuado para el tipo de riesgo."
+        },
+        {
+          "text": "La protecci\u00f3n y el riesgo deben ser perfectamente sim\u00e9tricos",
+          "isCorrect": true,
+          "rationale": "Por ejemplo, un guante diel\u00e9ctrico debe certificar exactamente el voltaje de la tarea que se va a realizar."
+        },
+        {
+          "text": "Cualquier EPP es suficiente siempre que sea nuevo",
+          "isCorrect": false,
+          "rationale": "Un equipo nuevo pero de especificaci\u00f3n incorrecta (ej. guante de cuero para riesgo el\u00e9ctrico) es in\u00fatil."
+        },
+        {
+          "text": "Se debe usar siempre el EPP de m\u00e1ximo nivel para todas las tareas",
+          "isCorrect": false,
+          "rationale": "Esto puede dificultar la tarea o generar riesgos adicionales; la clave es la correspondencia t\u00e9cnica espec\u00edfica."
+        }
+      ],
+      "hint": "Piense en la certificaci\u00f3n t\u00e9cnica necesaria para tareas como trabajos el\u00e9ctricos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la meta final de la gesti\u00f3n proactiva y la cultura de prevenci\u00f3n en miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Maximizar el gasto operativo en seguridad",
+          "isCorrect": false,
+          "rationale": "La seguridad no es un gasto, sino una inversi\u00f3n estrat\u00e9gica en la continuidad del negocio."
+        },
+        {
+          "text": "Alcanzar el objetivo de cero accidentes",
+          "isCorrect": true,
+          "rationale": "La meta es dejar atr\u00e1s la gesti\u00f3n reactiva para blindar la productividad frente a la siniestralidad."
+        },
+        {
+          "text": "Cumplir \u00fanicamente con los tr\u00e1mites burocr\u00e1ticos",
+          "isCorrect": false,
+          "rationale": "La seguridad ya no puede ser un tr\u00e1mite perif\u00e9rico, sino una necesidad estrat\u00e9gica para proteger la vida."
+        },
+        {
+          "text": "Reducir el tiempo de las inspecciones t\u00e9cnicas",
+          "isCorrect": false,
+          "rationale": "La meta no es la rapidez, sino la rigurosidad para detectar condiciones subest\u00e1ndares."
+        }
+      ],
+      "hint": "Es el n\u00famero ideal de accidentes que toda empresa minera persigue."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Marco Legal Minero",
+      "Auditor\u00edas e Inspecciones",
+      "Higiene y Salud Ocupacional",
+      "Gesti\u00f3n de Riesgos Cr\u00edticos",
+      "Est\u00e1ndares de Seguridad en Campo"
+    ],
+    "followUp": [
+      "Protocolos de Respuesta ante Emergencias Mineras",
+      "Control de Agentes Qu\u00edmicos y Biol\u00f3gicos en Plantas",
+      "Gesti\u00f3n de Explosivos y Voladura",
+      "Liderazgo Visible en Seguridad Minera"
+    ]
+  }
+}

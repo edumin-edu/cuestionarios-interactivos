@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la frecuencia m\u00ednima obligatoria establecida para la realizaci\u00f3n de simulacros y alarmas seg\u00fan la normativa minera vigente?",
+      "answerOptions": [
+        {
+          "text": "Cada tres meses.",
+          "isCorrect": true,
+          "rationale": "La norma exige pruebas rigurosas de los planes mediante simulacros trimestrales para asegurar su funcionalidad."
+        },
+        {
+          "text": "Cada seis meses.",
+          "isCorrect": false,
+          "rationale": "Este periodo es demasiado extenso para mantener la preparaci\u00f3n operativa necesaria en entornos de alto riesgo."
+        },
+        {
+          "text": "Una vez al a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Un simulacro anual se considera una medida administrativa insuficiente que no garantiza la memoria muscular del personal."
+        },
+        {
+          "text": "Cada mes.",
+          "isCorrect": false,
+          "rationale": "Aunque una mayor frecuencia es positiva, la exigencia normativa m\u00ednima es de car\u00e1cter trimestral."
+        }
+      ],
+      "hint": "Relaciona la frecuencia con los periodos de un trimestre."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece el Art\u00edculo 63 de la Ley 29783 en relaci\u00f3n con la seguridad de los trabajadores?",
+      "answerOptions": [
+        {
+          "text": "El derecho a interrumpir labores y evacuar ante un peligro inminente e intolerable.",
+          "isCorrect": true,
+          "rationale": "Este art\u00edculo empodera a los trabajadores para priorizar su vida sobre la producci\u00f3n cuando el riesgo es inaceptable."
+        },
+        {
+          "text": "La obligatoriedad de formar brigadas de rescate compuestas solo por supervisores.",
+          "isCorrect": false,
+          "rationale": "La ley promueve la participaci\u00f3n de todo el personal, no limita las brigadas a un solo rango jer\u00e1rquico."
+        },
+        {
+          "text": "El pago de bonificaciones por trabajar en condiciones geol\u00f3gicas complejas.",
+          "isCorrect": false,
+          "rationale": "El art\u00edculo 63 se enfoca en la prevenci\u00f3n y protecci\u00f3n de la vida, no en compensaciones econ\u00f3micas."
+        },
+        {
+          "text": "La responsabilidad de los trabajadores de dise\u00f1ar sus propios protocolos de comunicaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los protocolos deben ser estandarizados por la organizaci\u00f3n, aunque los trabajadores participen en su validaci\u00f3n."
+        }
+      ],
+      "hint": "Se trata de una facultad legal de autoprotecci\u00f3n inmediata."
+    },
+    {
+      "question": "En la metodolog\u00eda de la 'Corbata de Michi' (Bow Tie), \u00bfcu\u00e1l es la funci\u00f3n de los elementos ubicados a la derecha del evento cr\u00edtico?",
+      "answerOptions": [
+        {
+          "text": "Actuar como barreras mitigadoras para frenar el impacto si el evento ocurre.",
+          "isCorrect": true,
+          "rationale": "El lado derecho del diagrama se enfoca en las medidas de respuesta y control una vez que la amenaza se ha materializado."
+        },
+        {
+          "text": "Identificar las causas ra\u00edces que podr\u00edan detonar la amenaza inicial.",
+          "isCorrect": false,
+          "rationale": "La identificaci\u00f3n de causas y prevenci\u00f3n primaria se ubica exclusivamente en el lado izquierdo del diagrama."
+        },
+        {
+          "text": "Evaluar el costo financiero de la p\u00e9rdida de equipos operativos.",
+          "isCorrect": false,
+          "rationale": "El Bow Tie es una herramienta de gesti\u00f3n de riesgos de seguridad, no un an\u00e1lisis de impacto financiero puro."
+        },
+        {
+          "text": "Establecer los procesos de selecci\u00f3n de personal para las brigadas.",
+          "isCorrect": false,
+          "rationale": "La selecci\u00f3n de personal es un proceso administrativo previo y no una barrera de mitigaci\u00f3n ante un evento espec\u00edfico."
+        }
+      ],
+      "hint": "Piensa en lo que sucede despu\u00e9s de que el muro de contenci\u00f3n preventivo ha fallado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el enfoque principal de la herramienta anal\u00edtica AMEF (An\u00e1lisis del Modo y Efecto de Falla) en la miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Calcular fallas potenciales en equipos de soporte vital antes de que ocurran.",
+          "isCorrect": true,
+          "rationale": "El AMEF es predictivo y busca evitar el colapso de sistemas cr\u00edticos como el suministro de ox\u00edgeno o bombeo."
+        },
+        {
+          "text": "Analizar la topograf\u00eda y los desniveles de la operaci\u00f3n minera.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis del terreno corresponde m\u00e1s a la matriz IPERC y estudios geomec\u00e1nicos que al AMEF de equipos."
+        },
+        {
+          "text": "Documentar las lecciones aprendidas despu\u00e9s de un desastre total.",
+          "isCorrect": false,
+          "rationale": "El AMEF es una herramienta preventiva y predictiva, no un an\u00e1lisis forense post-incidente."
+        },
+        {
+          "text": "Verificar el cumplimiento de los est\u00e1ndares de la norma ISO 45001.",
+          "isCorrect": false,
+          "rationale": "Aunque apoya el sistema de gesti\u00f3n, el AMEF es una t\u00e9cnica de ingenier\u00eda espec\u00edfica para fallas de componentes."
+        }
+      ],
+      "hint": "Se centra en prevenir que la maquinaria cr\u00edtica deje de funcionar."
+    },
+    {
+      "question": "\u00bfQu\u00e9 est\u00e1ndar internacional se especializa en la continuidad del negocio y la administraci\u00f3n de desastres a nivel corporativo?",
+      "answerOptions": [
+        {
+          "text": "NFPA 1600.",
+          "isCorrect": true,
+          "rationale": "Esta norma eleva la estrategia a un nivel institucional para asegurar que la empresa sobreviva a un desastre."
+        },
+        {
+          "text": "ISO 45001.",
+          "isCorrect": false,
+          "rationale": "ISO 45001 se enfoca en los sistemas de gesti\u00f3n de seguridad y salud en el trabajo, no espec\u00edficamente en continuidad de negocio."
+        },
+        {
+          "text": "Normativa OSHA.",
+          "isCorrect": false,
+          "rationale": "OSHA se centra primordialmente en la seguridad ocupacional y rutas de evacuaci\u00f3n f\u00edsicas en el lugar de trabajo."
+        },
+        {
+          "text": "Directrices de la OIT.",
+          "isCorrect": false,
+          "rationale": "La OIT se enfoca en la prevenci\u00f3n de accidentes industriales mayores y derechos laborales globales."
+        }
+      ],
+      "hint": "Es una norma de la National Fire Protection Association orientada a la estrategia."
+    },
+    {
+      "question": "\u00bfBajo qu\u00e9 condiciones es obligatorio contar con un centro m\u00e9dico propio dentro de la unidad minera?",
+      "answerOptions": [
+        {
+          "text": "Si el hospital m\u00e1s cercano est\u00e1 a m\u00e1s de 30 minutos o hay m\u00e1s de 100 trabajadores.",
+          "isCorrect": true,
+          "rationale": "La regla de los 30 minutos y el volumen de personal determinan la necesidad de infraestructura m\u00e9dica interna."
+        },
+        {
+          "text": "Solo cuando la mina tiene m\u00e1s de 500 empleados directos.",
+          "isCorrect": false,
+          "rationale": "El umbral es menor (100 trabajadores) y tambi\u00e9n depende del tiempo de respuesta externo."
+        },
+        {
+          "text": "\u00danicamente si se realizan labores subterr\u00e1neas de alto riesgo.",
+          "isCorrect": false,
+          "rationale": "La norma aplica a la unidad minera considerando distancia y cantidad de personal, independientemente del tipo de labor."
+        },
+        {
+          "text": "Si la operaci\u00f3n utiliza qu\u00edmicos peligrosos como el cianuro.",
+          "isCorrect": false,
+          "rationale": "Aunque el riesgo qu\u00edmico es importante, el criterio legal se basa en tiempo de acceso a salud y poblaci\u00f3n trabajadora."
+        }
+      ],
+      "hint": "Considera tanto el factor tiempo de traslado como la cantidad de personas en riesgo."
+    },
+    {
+      "question": "Si un hospital externo se encuentra a m\u00e1s de una hora de distancia de la mina, \u00bfqu\u00e9 tipo de transporte de emergencia se exige?",
+      "answerOptions": [
+        {
+          "text": "Ambulancias tipo 2 o tipo 3 (unidades de cuidados intensivos m\u00f3viles).",
+          "isCorrect": true,
+          "rationale": "Trayectos largos requieren soporte avanzado para estabilizar pacientes cr\u00edticos durante el traslado."
+        },
+        {
+          "text": "Veh\u00edculos de transporte de personal equipados con camillas.",
+          "isCorrect": false,
+          "rationale": "Los veh\u00edculos de personal no cuentan con el equipo biom\u00e9dico necesario para una emergencia grave."
+        },
+        {
+          "text": "Ambulancias b\u00e1sicas tipo 1 supervisadas por un brigadista.",
+          "isCorrect": false,
+          "rationale": "Las ambulancias b\u00e1sicas son insuficientes para traslados de m\u00e1s de una hora en situaciones de vida o muerte."
+        },
+        {
+          "text": "Cualquier veh\u00edculo que permita una evacuaci\u00f3n r\u00e1pida hacia la superficie.",
+          "isCorrect": false,
+          "rationale": "La normativa proh\u00edbe el uso de transporte no especializado para emergencias graves si la distancia es considerable."
+        }
+      ],
+      "hint": "Busca el equipamiento que permite atenci\u00f3n de alta complejidad durante el trayecto."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple la tecnolog\u00eda 'Leaky Feeder' en las operaciones mineras subterr\u00e1neas?",
+      "answerOptions": [
+        {
+          "text": "Act\u00faa como una antena gigante para permitir el uso de radios sin interrupciones.",
+          "isCorrect": true,
+          "rationale": "El cable coaxial ranurado emite y recibe se\u00f1ales a lo largo de los t\u00faneles donde las ondas normales no llegan."
+        },
+        {
+          "text": "Detecta filtraciones de agua en los niveles m\u00e1s profundos de la mina.",
+          "isCorrect": false,
+          "rationale": "A pesar de su nombre ('alimentador con fugas'), se refiere a fugas de se\u00f1al de radio, no de l\u00edquidos."
+        },
+        {
+          "text": "Mide la concentraci\u00f3n de metano y mon\u00f3xido de carbono autom\u00e1ticamente.",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n corresponde a los sensores de gases y sistemas SCADA, no al cable de comunicaci\u00f3n."
+        },
+        {
+          "text": "Sirve para alimentar de energ\u00eda el\u00e9ctrica a los refugios herm\u00e9ticos.",
+          "isCorrect": false,
+          "rationale": "Su prop\u00f3sito es estrictamente la transmisi\u00f3n de datos y voz inal\u00e1mbrica."
+        }
+      ],
+      "hint": "Est\u00e1 relacionado con la infraestructura de comunicaciones inal\u00e1mbricas en t\u00faneles."
+    },
+    {
+      "question": "En el contexto de la gesti\u00f3n de refugios, \u00bfcu\u00e1l es el objetivo del soporte vital aut\u00f3nomo?",
+      "answerOptions": [
+        {
+          "text": "Garantizar un ambiente habitable sin depender de recursos externos.",
+          "isCorrect": true,
+          "rationale": "Los refugios deben ser herm\u00e9ticos y proveer ox\u00edgeno y purificaci\u00f3n de aire por s\u00ed mismos durante una crisis."
+        },
+        {
+          "text": "Permitir la comunicaci\u00f3n por sat\u00e9lite con las autoridades gubernamentales.",
+          "isCorrect": false,
+          "rationale": "Aunque la comunicaci\u00f3n es vital, el soporte vital se refiere espec\u00edficamente a la supervivencia biol\u00f3gica (aire, agua)."
+        },
+        {
+          "text": "Entrenar a los trabajadores en t\u00e9cnicas de primeros auxilios avanzados.",
+          "isCorrect": false,
+          "rationale": "El soporte vital aut\u00f3nomo es un sistema f\u00edsico/tecnol\u00f3gico de la infraestructura, no un programa de capacitaci\u00f3n."
+        },
+        {
+          "text": "Reducir los costos de mantenimiento de los equipos de ventilaci\u00f3n principal.",
+          "isCorrect": false,
+          "rationale": "El refugio es una medida de emergencia y no tiene como fin la optimizaci\u00f3n de costos operativos normales."
+        }
+      ],
+      "hint": "Piensa en la capacidad de sobrevivir dentro de una estructura sellada."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es fundamental considerar factores como la fatiga o las barreras idiom\u00e1ticas en un plan de respuesta?",
+      "answerOptions": [
+        {
+          "text": "Porque el factor humano puede hacer fallar la ingenier\u00eda m\u00e1s perfecta.",
+          "isCorrect": true,
+          "rationale": "Un plan resiliente debe contemplar los l\u00edmites de la resistencia y comunicaci\u00f3n humana ante el estr\u00e9s."
+        },
+        {
+          "text": "Para cumplir con los requisitos de diversidad de la norma ISO 45001.",
+          "isCorrect": false,
+          "rationale": "Si bien la inclusi\u00f3n es importante, en emergencias el foco es la seguridad operativa y la claridad de las \u00f3rdenes."
+        },
+        {
+          "text": "Para justificar el uso de inteligencia artificial en la traducci\u00f3n de manuales.",
+          "isCorrect": false,
+          "rationale": "La IA ayuda, pero la raz\u00f3n de fondo es evitar errores fatales durante la ejecuci\u00f3n t\u00e1ctica de una evacuaci\u00f3n."
+        },
+        {
+          "text": "Porque la ley exige que todos los trabajadores hablen al menos dos idiomas.",
+          "isCorrect": false,
+          "rationale": "La ley no exige biling\u00fcismo, pero el plan debe prever que los mensajes de alerta sean entendidos por todos."
+        }
+      ],
+      "hint": "Involucra las limitaciones biol\u00f3gicas y sociales de las personas en situaciones cr\u00edticas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 metodolog\u00eda utiliza preguntas sistem\u00e1ticas sobre desviaciones en presi\u00f3n, temperatura o flujo para detectar fallas en circuitos?",
+      "answerOptions": [
+        {
+          "text": "HAZOP.",
+          "isCorrect": true,
+          "rationale": "El an\u00e1lisis de operabilidad y peligros disecciona cada componente buscando desviaciones mediante palabras gu\u00eda."
+        },
+        {
+          "text": "IPERC.",
+          "isCorrect": false,
+          "rationale": "La matriz IPERC identifica peligros y eval\u00faa riesgos de forma general, no mediante el an\u00e1lisis microsc\u00f3pico de flujos."
+        },
+        {
+          "text": "Anexo 18.",
+          "isCorrect": false,
+          "rationale": "El Anexo 18 dicta la estructura o anatom\u00eda que debe tener el plan, no es una t\u00e9cnica de an\u00e1lisis de procesos."
+        },
+        {
+          "text": "Modelo Bow Tie.",
+          "isCorrect": false,
+          "rationale": "El Bow Tie visualiza barreras preventivas y mitigadoras, no se enfoca en el an\u00e1lisis detallado de v\u00e1lvulas o tuber\u00edas."
+        }
+      ],
+      "hint": "Es un an\u00e1lisis microsc\u00f3pico de procesos industriales hiperconectados."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de los filtros de absorci\u00f3n en los refugios mineros?",
+      "answerOptions": [
+        {
+          "text": "Eliminar el $CO_2$ y otras toxinas del aire interno.",
+          "isCorrect": true,
+          "rationale": "En un ambiente herm\u00e9tico, la acumulaci\u00f3n de di\u00f3xido de carbono exhalado por las personas es letal sin purificaci\u00f3n."
+        },
+        {
+          "text": "Filtrar el polvo proveniente de las explosiones externas.",
+          "isCorrect": false,
+          "rationale": "Los refugios son herm\u00e9ticos, por lo que el polvo externo no deber\u00eda entrar; los filtros limpian el aire ya interior."
+        },
+        {
+          "text": "Convertir el nitr\u00f3geno en ox\u00edgeno respirable.",
+          "isCorrect": false,
+          "rationale": "Los filtros absorben contaminantes; el ox\u00edgeno se provee mediante cilindros o generadores qu\u00edmicos independientes."
+        },
+        {
+          "text": "Mantener la temperatura del refugio por debajo de los $25^{\\circ}C$.",
+          "isCorrect": false,
+          "rationale": "Esa es funci\u00f3n del sistema de climatizaci\u00f3n, no de los filtros de absorci\u00f3n qu\u00edmica."
+        }
+      ],
+      "hint": "Tiene que ver con el proceso de respiraci\u00f3n humana en espacios cerrados."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio aporta el uso de modelos de lenguaje (LLMs) en la gesti\u00f3n de emergencias seg\u00fan las tendencias modernas?",
+      "answerOptions": [
+        {
+          "text": "Detectar inconsistencias en los protocolos y simular escenarios complejos.",
+          "isCorrect": true,
+          "rationale": "La IA puede revisar grandes vol\u00famenes de datos para hallar errores que un humano podr\u00eda pasar por alto en los manuales."
+        },
+        {
+          "text": "Reemplazar completamente a las brigadas humanas en el rescate subterr\u00e1neo.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda es un catalizador, pero la intervenci\u00f3n humana sigue siendo invaluable e irreemplazable en el terreno."
+        },
+        {
+          "text": "Eliminar la necesidad de realizar simulacros f\u00edsicos en la mina.",
+          "isCorrect": false,
+          "rationale": "La pr\u00e1ctica f\u00edsica es la que salva vidas y no puede ser sustituida por simulaciones puramente digitales."
+        },
+        {
+          "text": "Redactar las sanciones legales para los trabajadores que no cumplan los protocolos.",
+          "isCorrect": false,
+          "rationale": "Su uso se enfoca en la mejora de la seguridad y operatividad, no en procesos punitivos de recursos humanos."
+        }
+      ],
+      "hint": "Se trata de una herramienta de an\u00e1lisis y estructuraci\u00f3n de procedimientos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito de integrar sensores IoT con sistemas SCADA en la mina?",
+      "answerOptions": [
+        {
+          "text": "Monitorear en tiempo real gases peligrosos y movimientos de roca.",
+          "isCorrect": true,
+          "rationale": "Esta integraci\u00f3n permite alertas tempranas autom\u00e1ticas antes de que el peligro sea visible para el ojo humano."
+        },
+        {
+          "text": "Registrar la asistencia y puntualidad del personal en cada turno.",
+          "isCorrect": false,
+          "rationale": "Aunque existen sistemas de control de asistencia, el SCADA se enfoca en el control y adquisici\u00f3n de datos operativos."
+        },
+        {
+          "text": "Controlar el flujo de camiones en las carreteras de superficie.",
+          "isCorrect": false,
+          "rationale": "El enfoque principal mencionado es la detecci\u00f3n de amenazas atmosf\u00e9ricas y geomec\u00e1nicas invisibles."
+        },
+        {
+          "text": "Automatizar el pago de planillas basado en el riesgo del \u00e1rea de trabajo.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda descrita tiene fines preventivos de seguridad, no fines administrativos contables."
+        }
+      ],
+      "hint": "Permite vigilar amenazas invisibles de manera constante y remota."
+    },
+    {
+      "question": "\u00bfQu\u00e9 requisito f\u00edsico se menciona como indispensable para la selecci\u00f3n de un brigadista minero?",
+      "answerOptions": [
+        {
+          "text": "Estabilidad cardiovascular, visual y auditiva certificada.",
+          "isCorrect": true,
+          "rationale": "El entorno de emergencia exige condiciones de salud excepcionales para operar bajo estr\u00e9s y condiciones extremas."
+        },
+        {
+          "text": "Tener menos de 30 a\u00f1os de edad cumplidos.",
+          "isCorrect": false,
+          "rationale": "La aptitud se basa en la salud f\u00edsica y mental, no exclusivamente en la edad cronol\u00f3gica del candidato."
+        },
+        {
+          "text": "Contar con licencia de conducir para veh\u00edculos pesados.",
+          "isCorrect": false,
+          "rationale": "Si bien es \u00fatil, la prioridad de selecci\u00f3n son las competencias t\u00e9cnicas de rescate y la salud de hierro."
+        },
+        {
+          "text": "Residir permanentemente en la zona de influencia de la mina.",
+          "isCorrect": false,
+          "rationale": "La residencia no garantiza la capacidad t\u00e9cnica o f\u00edsica necesaria para las tareas de una brigada."
+        }
+      ],
+      "hint": "Se relaciona con los sistemas vitales y sensoriales necesarios para el rescate."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el \u00faltimo paso del ciclo de entrenamiento para asegurar la mejora continua del plan de respuesta?",
+      "answerOptions": [
+        {
+          "text": "Documentar lecciones aprendidas e inyectarlas de vuelta al plan maestro.",
+          "isCorrect": true,
+          "rationale": "El c\u00edrculo se cierra cuando la experiencia real o del simulacro sirve para actualizar y robustecer el documento vivo."
+        },
+        {
+          "text": "Sancionar a quienes fallaron durante la ejecuci\u00f3n del simulacro.",
+          "isCorrect": false,
+          "rationale": "El objetivo es el aprendizaje organizacional, no la b\u00fasqueda de culpables o la aplicaci\u00f3n de medidas disciplinarias."
+        },
+        {
+          "text": "Enviar el informe de resultados \u00fanicamente a las autoridades gubernamentales.",
+          "isCorrect": false,
+          "rationale": "La informaci\u00f3n debe usarse internamente para mejorar, no solo para cumplimiento administrativo externo."
+        },
+        {
+          "text": "Comprar nuevos equipos de comunicaci\u00f3n de \u00faltima generaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La mejora continua se basa primero en la actualizaci\u00f3n de procedimientos antes que en la adquisici\u00f3n de hardware."
+        }
+      ],
+      "hint": "Consiste en retroalimentar el sistema con los aciertos y errores observados."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa un 'escenario de interdependencia ca\u00f3tica' en un taller subterr\u00e1neo?",
+      "answerOptions": [
+        {
+          "text": "Una reacci\u00f3n en cadena donde un incendio afecta ventilaci\u00f3n, energ\u00eda y comunicaciones.",
+          "isCorrect": true,
+          "rationale": "En miner\u00eda, las fallas sist\u00e9micas escalan r\u00e1pido cuando un evento primario inhabilita servicios cr\u00edticos secundarios."
+        },
+        {
+          "text": "La falta de coordinaci\u00f3n entre diferentes empresas contratistas.",
+          "isCorrect": false,
+          "rationale": "Eso es un problema de gesti\u00f3n administrativa, no un fen\u00f3meno de falla f\u00edsica sist\u00e9mica en cascada."
+        },
+        {
+          "text": "El exceso de se\u00f1alizaci\u00f3n en las rutas de evacuaci\u00f3n que genera confusi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La interdependencia se refiere a c\u00f3mo los sistemas operativos dependen unos de otros para funcionar."
+        },
+        {
+          "text": "La ca\u00edda de los precios de los metales que obliga a reducir el personal de seguridad.",
+          "isCorrect": false,
+          "rationale": "La interdependencia ca\u00f3tica describe una crisis f\u00edsica operativa acelerada, no factores econ\u00f3micos."
+        }
+      ],
+      "hint": "Es el efecto domin\u00f3 que ocurre cuando fallan m\u00faltiples sistemas conectados."
+    },
+    {
+      "question": "Seg\u00fan el marco legal minero, \u00bfqui\u00e9nes deben ser capacitados en los protocolos de emergencia antes de iniciar labores?",
+      "answerOptions": [
+        {
+          "text": "Todos los empleados directos, contratistas y terceros.",
+          "isCorrect": true,
+          "rationale": "La difusi\u00f3n y capacitaci\u00f3n son innegociables para cualquier persona que ingrese a las \u00e1reas de influencia."
+        },
+        {
+          "text": "Solo los miembros de las brigadas y el personal de rescate.",
+          "isCorrect": false,
+          "rationale": "Todo el personal debe conocer al menos las rutas de evacuaci\u00f3n y protocolos b\u00e1sicos de supervivencia."
+        },
+        {
+          "text": "Exclusivamente los supervisores de seguridad y gerentes de \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "La seguridad es una responsabilidad compartida; el conocimiento debe llegar hasta el frente de trabajo."
+        },
+        {
+          "text": "\u00danicamente el personal que trabaja en el interior de la mina.",
+          "isCorrect": false,
+          "rationale": "El plan abarca la operaci\u00f3n central y todas sus \u00e1reas de influencia, incluyendo superficie."
+        }
+      ],
+      "hint": "La norma no hace distinciones sobre el tipo de v\u00ednculo laboral para la seguridad."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica que un plan de respuesta a emergencias sea considerado un 'documento vivo'?",
+      "answerOptions": [
+        {
+          "text": "Que debe actualizarse inmediatamente ante cambios en tecnolog\u00eda o m\u00e9todos de minado.",
+          "isCorrect": true,
+          "rationale": "Para mantener su valor estrat\u00e9gico, el plan debe reflejar la realidad f\u00edsica y operativa actual de la mina."
+        },
+        {
+          "text": "Que el documento debe estar disponible en formato digital y f\u00edsico.",
+          "isCorrect": false,
+          "rationale": "El formato es importante, pero el concepto de 'vivo' se refiere a su relevancia y actualizaci\u00f3n constante."
+        },
+        {
+          "text": "Que requiere la firma diaria de todos los trabajadores para tener validez.",
+          "isCorrect": false,
+          "rationale": "La validez legal no depende de firmas diarias, sino de su gesti\u00f3n t\u00e9cnica y actualizaci\u00f3n peri\u00f3dica."
+        },
+        {
+          "text": "Que solo puede ser modificado por las autoridades del ministerio correspondiente.",
+          "isCorrect": false,
+          "rationale": "Es responsabilidad del titular minero mantenerlo actualizado y acorde a su propia realidad operativa."
+        }
+      ],
+      "hint": "Se refiere a la adaptabilidad del plan frente a la evoluci\u00f3n de la operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo primordial del uso de 'c\u00f3digos de colores' durante una emergencia?",
+      "answerOptions": [
+        {
+          "text": "Eliminar la confusi\u00f3n y activar flujos de trabajo estandarizados de inmediato.",
+          "isCorrect": true,
+          "rationale": "En el caos inicial, un lenguaje corto y claro como 'C\u00f3digo Rojo' unifica la respuesta de toda la cadena de mando."
+        },
+        {
+          "text": "Identificar el nivel de experiencia de cada brigadista en el terreno.",
+          "isCorrect": false,
+          "rationale": "Los colores de los cascos pueden indicar experiencia, pero el 'c\u00f3digo' se usa para la comunicaci\u00f3n de la alerta."
+        },
+        {
+          "text": "Clasificar la gravedad de los da\u00f1os econ\u00f3micos sufridos en la maquinaria.",
+          "isCorrect": false,
+          "rationale": "La prioridad de los c\u00f3digos de emergencia es la vida humana y la coordinaci\u00f3n de la respuesta, no la contabilidad."
+        },
+        {
+          "text": "Se\u00f1alar las \u00e1reas de la mina que tienen mayor contenido de mineral.",
+          "isCorrect": false,
+          "rationale": "Esa informaci\u00f3n es geol\u00f3gica/productiva y no tiene relaci\u00f3n con los protocolos de respuesta a crisis."
+        }
+      ],
+      "hint": "Busca rapidez y claridad en los primeros minutos del evento."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Normativa Legal Minera (DS 024-2016 y Ley 29783)",
+      "Est\u00e1ndares Internacionales de Seguridad",
+      "Herramientas de An\u00e1lisis de Riesgo (Bow Tie, HAZOP, AMEF)",
+      "Log\u00edstica y Soporte Vital en Refugios",
+      "Tecnolog\u00edas de Comunicaci\u00f3n y Monitoreo",
+      "Gesti\u00f3n de Brigadas y Respuesta M\u00e9dica"
+    ],
+    "followUp": [
+      "Dise\u00f1o e Implementaci\u00f3n del Anexo 18",
+      "Sistemas de Ventilaci\u00f3n de Emergencia en Minas Subterr\u00e1neas",
+      "Certificaciones Internacionales para Rescate en Espacios Confinados",
+      "Protocolos de Mantenimiento para Ambulancias Tipo 3",
+      "Modelos de IA aplicados a la Gesti\u00f3n de Riesgos Cr\u00edticos"
+    ]
+  }
+}

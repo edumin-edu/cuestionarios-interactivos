@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la p\u00e9rdida estimada por cada hora de inactividad operativa en una operaci\u00f3n minera de alta envergadura?",
+      "answerOptions": [
+        {
+          "text": "M\u00e1s de $\\$5,000$",
+          "isCorrect": true,
+          "rationale": "Este valor refleja el alto impacto financiero que tiene la detenci\u00f3n de equipos cr\u00edticos en la industria extractiva."
+        },
+        {
+          "text": "Exactamente $\\$1,000$",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra significativa, subestima el impacto real de la par\u00e1lisis operativa en minas de gran escala."
+        },
+        {
+          "text": "Entre $\\$500$ y $\\$1,000$",
+          "isCorrect": false,
+          "rationale": "Esta cifra es m\u00e1s representativa de industrias con menores costos de capital y m\u00e1rgenes de operaci\u00f3n."
+        },
+        {
+          "text": "M\u00e1s de $\\$50,000$",
+          "isCorrect": false,
+          "rationale": "Es una cifra exagerada respecto a la referencia t\u00e9cnica proporcionada para una sola hora de inactividad."
+        }
+      ],
+      "hint": "Piense en una cifra que represente un riesgo financiero cr\u00edtico pero realista para la escala de Orco Pampa."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 teor\u00eda econ\u00f3mica se basa esencialmente el modelo de abastecimiento propuesto por Peter Kraljic en $1983$?",
+      "answerOptions": [
+        {
+          "text": "Teor\u00eda de portafolio de Markowitz",
+          "isCorrect": true,
+          "rationale": "El modelo adapta la selecci\u00f3n de activos financieros al equilibrio entre riesgo y retorno en el suministro."
+        },
+        {
+          "text": "Teor\u00eda de la ventaja comparativa",
+          "isCorrect": false,
+          "rationale": "Esta teor\u00eda se enfoca en el comercio internacional y no en la clasificaci\u00f3n anal\u00edtica de insumos industriales."
+        },
+        {
+          "text": "Ley de rendimientos decrecientes",
+          "isCorrect": false,
+          "rationale": "Se refiere a la productividad marginal y no a la gesti\u00f3n estrat\u00e9gica del riesgo de abastecimiento."
+        },
+        {
+          "text": "Teor\u00eda de juegos de Nash",
+          "isCorrect": false,
+          "rationale": "Aunque es \u00fatil en negociaciones, no es el pilar estructural sobre el cual se construy\u00f3 la matriz de Kraljic."
+        }
+      ],
+      "hint": "Relacione el origen del modelo con la gesti\u00f3n de carteras de inversi\u00f3n financiera."
+    },
+    {
+      "question": "\u00bfQu\u00e9 variable se analiza en el eje horizontal de la matriz de Kraljic?",
+      "answerOptions": [
+        {
+          "text": "Riesgo de suministro",
+          "isCorrect": true,
+          "rationale": "Este eje eval\u00faa factores externos como la complejidad del mercado de proveedores y la escasez de fuentes."
+        },
+        {
+          "text": "Impacto financiero",
+          "isCorrect": false,
+          "rationale": "El impacto financiero se mide tradicionalmente en el eje vertical del modelo bidimensional."
+        },
+        {
+          "text": "Volumen de compra anual",
+          "isCorrect": false,
+          "rationale": "Esta variable suele utilizarse para determinar el tama\u00f1o de las burbujas en una representaci\u00f3n tridimensional."
+        },
+        {
+          "text": "Costo total del ciclo de vida",
+          "isCorrect": false,
+          "rationale": "Este es un componente que ayuda a definir la dimensi\u00f3n del impacto financiero, no del riesgo externo."
+        }
+      ],
+      "hint": "Considere la dimensi\u00f3n que eval\u00faa la complejidad del mercado y las barreras de entrada."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la prioridad estrat\u00e9gica para los productos clasificados como rutinarios?",
+      "answerOptions": [
+        {
+          "text": "Eficiencia y simplicidad administrativa",
+          "isCorrect": true,
+          "rationale": "Al ser de bajo riesgo e impacto, el objetivo es reducir los costos de transacci\u00f3n para que no superen el valor del bien."
+        },
+        {
+          "text": "Maximizaci\u00f3n del poder de negociaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Esta t\u00e1ctica es propia de los insumos palanca, donde la competencia de mercado permite forzar mejores condiciones."
+        },
+        {
+          "text": "Aseguramiento del suministro a largo plazo",
+          "isCorrect": false,
+          "rationale": "Esta es la prioridad para productos estrat\u00e9gicos o cuellos de botella, no para art\u00edculos de oficina o limpieza."
+        },
+        {
+          "text": "Cofinanciamiento de investigaci\u00f3n y desarrollo",
+          "isCorrect": false,
+          "rationale": "Esta acci\u00f3n se reserva para materiales cr\u00edticos que requieren una alianza profunda con el proveedor."
+        }
+      ],
+      "hint": "En este cuadrante, el costo del papeleo suele ser el mayor enemigo de la rentabilidad."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza a los productos cuello de botella en t\u00e9rminos de impacto y riesgo?",
+      "answerOptions": [
+        {
+          "text": "Bajo impacto financiero y alto riesgo de suministro",
+          "isCorrect": true,
+          "rationale": "Representan un gasto menor pero su carencia puede paralizar toda la operaci\u00f3n debido a monopolios o dependencia t\u00e9cnica."
+        },
+        {
+          "text": "Alto impacto financiero y bajo riesgo de suministro",
+          "isCorrect": false,
+          "rationale": "Esta combinaci\u00f3n define a los productos palanca, donde hay muchos oferentes pero un gasto elevado."
+        },
+        {
+          "text": "Alto impacto financiero y alto riesgo de suministro",
+          "isCorrect": false,
+          "rationale": "Esta es la definici\u00f3n de los productos estrat\u00e9gicos, que son el n\u00facleo de la viabilidad del negocio."
+        },
+        {
+          "text": "Bajo impacto financiero y bajo riesgo de suministro",
+          "isCorrect": false,
+          "rationale": "Corresponde a los productos rutinarios, que no suponen un desaf\u00edo cr\u00edtico para la operaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en un repuesto peque\u00f1o y econ\u00f3mico, pero cuya falta detendr\u00eda una l\u00ednea de producci\u00f3n completa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la premisa fundamental para gestionar los insumos denominados palanca?",
+      "answerOptions": [
+        {
+          "text": "Aprovechar la abundancia de oferentes para maximizar la rentabilidad",
+          "isCorrect": true,
+          "rationale": "Dado que el riesgo es bajo pero el impacto financiero es alto, se busca forzar la competencia para mejores precios."
+        },
+        {
+          "text": "Fomentar alianzas comerciales de exclusividad",
+          "isCorrect": false,
+          "rationale": "La exclusividad ser\u00eda contraproducente en un mercado con muchos proveedores dispuestos a competir."
+        },
+        {
+          "text": "Mantener altos niveles de stock de seguridad propio",
+          "isCorrect": false,
+          "rationale": "El bajo riesgo de suministro permite trabajar con esquemas m\u00e1s \u00e1giles sin necesidad de inmovilizar capital excesivo."
+        },
+        {
+          "text": "Reducir el n\u00famero de proveedores a uno solo",
+          "isCorrect": false,
+          "rationale": "Limitar las fuentes de suministro aumentar\u00eda artificialmente el riesgo en un cuadrante que se beneficia de la competencia."
+        }
+      ],
+      "hint": "El objetivo aqu\u00ed es usar el alto volumen de compra como una herramienta de presi\u00f3n comercial."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se recomienda utilizar una ventana temporal de $24$ meses m\u00f3viles para aplicar la ley de Pareto en las compras?",
+      "answerOptions": [
+        {
+          "text": "Para absorber y neutralizar efectos de estacionalidad",
+          "isCorrect": true,
+          "rationale": "Un periodo de dos a\u00f1os permite una visi\u00f3n estad\u00edstica m\u00e1s estable frente a picos o ca\u00eddas temporales de la demanda."
+        },
+        {
+          "text": "Para cumplir con normativas legales de auditor\u00eda externa",
+          "isCorrect": false,
+          "rationale": "Aunque es \u00fatil para auditor\u00edas, la raz\u00f3n t\u00e9cnica principal es la representatividad estad\u00edstica del patr\u00f3n de consumo."
+        },
+        {
+          "text": "Para reducir el tiempo de procesamiento de datos",
+          "isCorrect": false,
+          "rationale": "Analizar $24$ meses de datos consume m\u00e1s tiempo y recursos que analizar periodos m\u00e1s cortos."
+        },
+        {
+          "text": "Para justificar el despido de personal log\u00edstico poco eficiente",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis de Pareto es una herramienta de clasificaci\u00f3n de materiales, no de evaluaci\u00f3n de desempe\u00f1o de personal."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo fluct\u00faan las necesidades operativas a lo largo de las diferentes estaciones del a\u00f1o."
+    },
+    {
+      "question": "\u00bfQu\u00e9 elemento visual transforma el gr\u00e1fico de la matriz de Kraljic en una herramienta tridimensional?",
+      "answerOptions": [
+        {
+          "text": "El volumen de dinero anual invertido",
+          "isCorrect": true,
+          "rationale": "El tama\u00f1o de la burbuja a\u00f1ade la magnitud del gasto real a la posici\u00f3n de riesgo e impacto."
+        },
+        {
+          "text": "La cantidad de proveedores por familia",
+          "isCorrect": false,
+          "rationale": "El n\u00famero de proveedores es una variable que alimenta el eje de riesgo, pero no define la tercera dimensi\u00f3n del gr\u00e1fico."
+        },
+        {
+          "text": "La calificaci\u00f3n de desempe\u00f1o del proveedor",
+          "isCorrect": false,
+          "rationale": "El desempe\u00f1o es un factor de seguimiento posterior, no una variable estructural de la matriz de posicionamiento."
+        },
+        {
+          "text": "El tiempo de entrega promedio (Lead Time)",
+          "isCorrect": false,
+          "rationale": "Aunque es cr\u00edtico para la log\u00edstica, el modelo est\u00e1ndar utiliza el volumen monetario para la tridimensionalidad."
+        }
+      ],
+      "hint": "Se trata de la variable que indica d\u00f3nde se est\u00e1 concentrando realmente el capital de la empresa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 t\u00e1ctica es imperativa para sortear el peligro de los suministros cuello de botella?",
+      "answerOptions": [
+        {
+          "text": "Implementar inventarios administrados por el proveedor (VMI)",
+          "isCorrect": true,
+          "rationale": "Delegar la gesti\u00f3n del stock al proveedor ayuda a garantizar la disponibilidad de insumos cr\u00edticos de dif\u00edcil obtenci\u00f3n."
+        },
+        {
+          "text": "Realizar subastas inversas agresivas",
+          "isCorrect": false,
+          "rationale": "Las subastas inversas requieren alta competencia, algo que no existe en el cuadrante de cuello de botella."
+        },
+        {
+          "text": "Estandarizar n\u00fameros de referencia para compras puntuales",
+          "isCorrect": false,
+          "rationale": "Esta es una t\u00e1ctica de simplificaci\u00f3n para productos rutinarios, no de mitigaci\u00f3n de riesgo para cr\u00edticos."
+        },
+        {
+          "text": "Cofinanciar proyectos de expansi\u00f3n del proveedor",
+          "isCorrect": false,
+          "rationale": "Esto se reserva para productos estrat\u00e9gicos donde hay una dependencia mutua y alto impacto financiero."
+        }
+      ],
+      "hint": "Busque una soluci\u00f3n que traslade la responsabilidad de la reposici\u00f3n a quien tiene el control del material."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 cuadrante se clasifican t\u00edpicamente las herramientas de perforaci\u00f3n como brocas diamantadas en miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Productos estrat\u00e9gicos",
+          "isCorrect": true,
+          "rationale": "Tienen un alt\u00edsimo impacto en la continuidad operativa y su suministro es complejo y vital."
+        },
+        {
+          "text": "Productos rutinarios",
+          "isCorrect": false,
+          "rationale": "Dada su importancia para el ciclo del proyecto, no pueden ser gestionados como insumos de oficina de bajo riesgo."
+        },
+        {
+          "text": "Productos palanca",
+          "isCorrect": false,
+          "rationale": "Aunque el gasto es alto, el riesgo de suministro suele ser elevado, lo que impide tratarlos como un simple commodity."
+        },
+        {
+          "text": "Productos cuello de botella",
+          "isCorrect": false,
+          "rationale": "Su impacto financiero es demasiado alto para que solo sean considerados un problema de escasez t\u00e9cnica menor."
+        }
+      ],
+      "hint": "Considere estos insumos como la 'sangre' que mantiene vivo el ciclo de excavaci\u00f3n y producci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1ntos factores se deben identificar exactamente por cada pilar en la metodolog\u00eda del FODA matem\u00e1tico?",
+      "answerOptions": [
+        {
+          "text": "$5$ factores",
+          "isCorrect": true,
+          "rationale": "La metodolog\u00eda exige precisi\u00f3n y enfoque, limitando el an\u00e1lisis a cinco fortalezas, debilidades, oportunidades y amenazas."
+        },
+        {
+          "text": "$10$ factores",
+          "isCorrect": false,
+          "rationale": "Un exceso de factores dispersar\u00eda la atenci\u00f3n y complicar\u00eda innecesariamente la matriz de comparaciones apareadas."
+        },
+        {
+          "text": "Entre $3$ y $7$ factores",
+          "isCorrect": false,
+          "rationale": "Aunque parece flexible, la estructura t\u00e9cnica mencionada busca un rigor estad\u00edstico fijo de cinco elementos."
+        },
+        {
+          "text": "Un n\u00famero ilimitado de factores",
+          "isCorrect": false,
+          "rationale": "El objetivo del modelo es eliminar la subjetividad y las 'listas interminables' mediante una estructura finita."
+        }
+      ],
+      "hint": "Se busca un n\u00famero espec\u00edfico para garantizar que el an\u00e1lisis sea manejable y contundente."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se calcula el peso relativo de cada factor en el FODA matem\u00e1tico?",
+      "answerOptions": [
+        {
+          "text": "Dividiendo las victorias obtenidas entre el total de comparaciones",
+          "isCorrect": true,
+          "rationale": "La matriz de doble entrada funciona como un torneo donde cada factor compite contra los dem\u00e1s para medir su relevancia."
+        },
+        {
+          "text": "Asignando un porcentaje seg\u00fan la intuici\u00f3n del gerente",
+          "isCorrect": false,
+          "rationale": "Esto reintroducir\u00eda el sesgo subjetivo que el modelo matem\u00e1tico intenta eliminar por completo."
+        },
+        {
+          "text": "Multiplicando la frecuencia del evento por su costo estimado",
+          "isCorrect": false,
+          "rationale": "Este es un m\u00e9todo de gesti\u00f3n de riesgos tradicional, no la mec\u00e1nica de ponderaci\u00f3n relativa del FODA matem\u00e1tico."
+        },
+        {
+          "text": "Sumando todas las calificaciones del $1$ al $5$ dadas por el equipo",
+          "isCorrect": false,
+          "rationale": "La suma de calificaciones determina el impacto, pero no el peso relativo o importancia comparativa del factor."
+        }
+      ],
+      "hint": "El proceso se basa en un cara a cara estad\u00edstico entre todos los elementos del mismo pilar."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el puntaje ponderado final de una variable estrat\u00e9gica?",
+      "answerOptions": [
+        {
+          "text": "El producto entre el peso relativo y la calificaci\u00f3n de impacto",
+          "isCorrect": true,
+          "rationale": "Esta cifra combina la importancia estad\u00edstica del factor con la fuerza de su efecto real en la operaci\u00f3n."
+        },
+        {
+          "text": "El promedio de las opiniones de los directivos de log\u00edstica",
+          "isCorrect": false,
+          "rationale": "El modelo busca datos duros y resultados matem\u00e1ticos, no consensos basados en opiniones subjetivas."
+        },
+        {
+          "text": "El porcentaje de cumplimiento del presupuesto anual",
+          "isCorrect": false,
+          "rationale": "Este es un indicador de desempe\u00f1o financiero, no un valor de diagn\u00f3stico dentro de la matriz FODA."
+        },
+        {
+          "text": "La suma total de debilidades y amenazas externas",
+          "isCorrect": false,
+          "rationale": "Cada factor se punt\u00faa de forma individual para identificar cu\u00e1les dominan el tablero estrat\u00e9gico por separado."
+        }
+      ],
+      "hint": "Es el resultado del tercer y \u00faltimo paso de la f\u00f3rmula de cuantificaci\u00f3n de factores."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la matriz anal\u00edtica MAFE?",
+      "answerOptions": [
+        {
+          "text": "Transformar diagn\u00f3sticos num\u00e9ricos en acciones t\u00e1cticas accionables",
+          "isCorrect": true,
+          "rationale": "Es el puente que convierte los datos fr\u00edos del FODA matem\u00e1tico en una hoja de ruta operativa."
+        },
+        {
+          "text": "Clasificar los materiales seg\u00fan su peligrosidad qu\u00edmica",
+          "isCorrect": false,
+          "rationale": "Aunque los qu\u00edmicos son importantes, la MAFE es una herramienta de estrategia general, no de seguridad de materiales."
+        },
+        {
+          "text": "Calcular el retorno de inversi\u00f3n de nuevos proyectos mineros",
+          "isCorrect": false,
+          "rationale": "Su enfoque est\u00e1 en la respuesta estrat\u00e9gica ante el entorno, no en el modelado financiero de flujos de caja."
+        },
+        {
+          "text": "Listar los proveedores con mayor n\u00famero de infracciones",
+          "isCorrect": false,
+          "rationale": "La matriz eval\u00faa factores internos y externos amplios, no solo el historial de cumplimiento de terceros."
+        }
+      ],
+      "hint": "Act\u00faa como un motor que procesa datos para dictar los pr\u00f3ximos movimientos en el terreno."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tipo de estrategias se derivan del cruce entre debilidades y amenazas (DA)?",
+      "answerOptions": [
+        {
+          "text": "Maniobras cr\u00edticas de emergencia para evitar el colapso",
+          "isCorrect": true,
+          "rationale": "Son acciones defensivas puras dise\u00f1adas para proteger la operaci\u00f3n cuando los riesgos externos golpean las brechas internas."
+        },
+        {
+          "text": "Acciones agresivas para capturar nuevas cuotas de mercado",
+          "isCorrect": false,
+          "rationale": "La agresividad comercial surge de las estrategias FO, donde se aprovechan las fortalezas propias."
+        },
+        {
+          "text": "Proyectos de inversi\u00f3n en tecnolog\u00eda de punta",
+          "isCorrect": false,
+          "rationale": "Invertir suele ser una estrategia para superar debilidades (DO) o potenciar fortalezas, no una medida de emergencia DA."
+        },
+        {
+          "text": "Programas de fidelizaci\u00f3n de clientes actuales",
+          "isCorrect": false,
+          "rationale": "Este enfoque es comercial externo y no aborda necesariamente la vulnerabilidad operativa de la cadena de suministro."
+        }
+      ],
+      "hint": "En este cuadrante, la prioridad absoluta es la supervivencia operativa frente a peligros inminentes."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo recomendado de estrategias a ejecutar simult\u00e1neamente para asegurar una gesti\u00f3n inteligente de recursos?",
+      "answerOptions": [
+        {
+          "text": "Entre $5$ y $10$ estrategias",
+          "isCorrect": true,
+          "rationale": "Concentrar los recursos finitos en las iniciativas con mayor puntaje matem\u00e1tico garantiza una ejecuci\u00f3n eficiente."
+        },
+        {
+          "text": "Exactamente $20$ estrategias",
+          "isCorrect": false,
+          "rationale": "Intentar abarcar demasiadas acciones dispersa el capital y la atenci\u00f3n, llevando a un fracaso operativo."
+        },
+        {
+          "text": "Todas las que surjan de la matriz MAFE",
+          "isCorrect": false,
+          "rationale": "Los recursos corporativos son limitados y requieren una priorizaci\u00f3n extrema basada en el impacto real."
+        },
+        {
+          "text": "Solo una estrategia por cada pilar del FODA",
+          "isCorrect": false,
+          "rationale": "Limitarse a solo cuatro estrategias podr\u00eda dejar sin cobertura riesgos cr\u00edticos identificados num\u00e9ricamente."
+        }
+      ],
+      "hint": "Recuerde el refr\u00e1n: 'el que mucho abarca, poco aprieta'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 mide el KPI de 'porcentaje de reducci\u00f3n en \u00f3rdenes de compra manuales'?",
+      "answerOptions": [
+        {
+          "text": "Nivel de eficiencia administrativa y liberaci\u00f3n de horas hombre",
+          "isCorrect": true,
+          "rationale": "La automatizaci\u00f3n reduce la burocracia y permite que el equipo se enfoque en tareas de mayor valor estrat\u00e9gico."
+        },
+        {
+          "text": "Tasa de error en la entrega de suministros",
+          "isCorrect": false,
+          "rationale": "Este indicador medir\u00eda la calidad del servicio del proveedor, no la eficiencia del proceso interno de compra."
+        },
+        {
+          "text": "Cantidad total de dinero ahorrado en la negociaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "El ahorro monetario es un KPI financiero directo, diferente a la m\u00e9trica de eficiencia operativa de procesos."
+        },
+        {
+          "text": "Nivel de satisfacci\u00f3n del usuario final en la mina",
+          "isCorrect": false,
+          "rationale": "Aunque la automatizaci\u00f3n puede ayudar, la satisfacci\u00f3n suele medirse mediante encuestas o tiempos de respuesta."
+        }
+      ],
+      "hint": "Este indicador est\u00e1 directamente relacionado con la simplificaci\u00f3n de tareas transaccionales repetitivas."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se clasifican los explosivos y emulsiones en la industria minera debido a su carga regulatoria?",
+      "answerOptions": [
+        {
+          "text": "Cuello de botella o Estrat\u00e9gicos",
+          "isCorrect": true,
+          "rationale": "Debido a las restricciones legales y su importancia vital, su suministro es de alto riesgo y requiere vigilancia extrema."
+        },
+        {
+          "text": "Rutinarios o Commodities",
+          "isCorrect": false,
+          "rationale": "La alta regulaci\u00f3n y peligrosidad impiden que estos materiales sean tratados como insumos simples o de f\u00e1cil acceso."
+        },
+        {
+          "text": "Palanca o de alto volumen",
+          "isCorrect": false,
+          "rationale": "Aunque el volumen es alto, el riesgo log\u00edstico y legal predomina sobre la simple b\u00fasqueda de precio bajo."
+        },
+        {
+          "text": "Insumos de soporte administrativo",
+          "isCorrect": false,
+          "rationale": "Los explosivos son parte del n\u00facleo operativo de extracci\u00f3n, no suministros de soporte para oficinas."
+        }
+      ],
+      "hint": "Su gesti\u00f3n depende m\u00e1s de la seguridad y el cumplimiento legal que de la simple disponibilidad de mercado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia directa de no priorizar las estrategias seg\u00fan sus puntajes matem\u00e1ticos?",
+      "answerOptions": [
+        {
+          "text": "Dispersi\u00f3n del capital y ejecuci\u00f3n deficiente",
+          "isCorrect": true,
+          "rationale": "Sin una jerarqu\u00eda clara, la organizaci\u00f3n agota sus recursos en m\u00faltiples frentes sin lograr un impacto real en ninguno."
+        },
+        {
+          "text": "Aumento autom\u00e1tico en el precio de los metales",
+          "isCorrect": false,
+          "rationale": "El precio de los metales es un factor externo dictado por el mercado internacional y no por la gesti\u00f3n interna de estrategias."
+        },
+        {
+          "text": "Mejora en la relaci\u00f3n con las comunidades locales",
+          "isCorrect": false,
+          "rationale": "La falta de foco estrat\u00e9gico suele empeorar las crisis externas en lugar de mejorar la responsabilidad social."
+        },
+        {
+          "text": "Reducci\u00f3n inmediata de la carga regulatoria",
+          "isCorrect": false,
+          "rationale": "Las leyes y regulaciones son externas y no dependen de cu\u00e1ntas estrategias intente ejecutar la empresa."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede cuando una empresa intenta arreglar todo al mismo tiempo con recursos limitados."
+    },
+    {
+      "question": "\u00bfQu\u00e9 rol debe adoptar el l\u00edder log\u00edstico moderno seg\u00fan el modelo anal\u00edtico de suministros?",
+      "answerOptions": [
+        {
+          "text": "Arquitecto de valor estrat\u00e9gico",
+          "isCorrect": true,
+          "rationale": "El profesional debe trascender la simple transacci\u00f3n para dise\u00f1ar estructuras que defiendan la rentabilidad del negocio."
+        },
+        {
+          "text": "Simple tramitador de pedidos",
+          "isCorrect": false,
+          "rationale": "El modelo anal\u00edtico busca precisamente eliminar el perfil reactivo y transaccional tradicional de las compras."
+        },
+        {
+          "text": "Inspector de seguridad industrial \u00fanicamente",
+          "isCorrect": false,
+          "rationale": "Aunque colabora con seguridad, su enfoque principal es la arquitectura financiera y la viabilidad del abastecimiento."
+        },
+        {
+          "text": "Gestor de recursos humanos de la flota",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de personal es un rol de soporte, mientras que el l\u00edder log\u00edstico anal\u00edtico se centra en el eje cr\u00edtico financiero."
+        }
+      ],
+      "hint": "Piense en alguien que dise\u00f1a y construye ventajas competitivas sostenibles mediante datos duros."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Matriz de Kraljic",
+      "FODA Matem\u00e1tico",
+      "Gesti\u00f3n de Suministros en Miner\u00eda",
+      "Estrategias MAFE",
+      "KPIs Operativos"
+    ],
+    "followUp": [
+      "Teor\u00eda de Portafolio de Markowitz aplicada a Compras",
+      "Mitigaci\u00f3n de Riesgos en Log\u00edstica de \u00daltima Milla",
+      "Esquemas de Inventario Administrado por Proveedor (VMI)",
+      "Optimizaci\u00f3n del Costo Total de Propiedad (TCO)",
+      "An\u00e1lisis de Pareto en Gesti\u00f3n de Almacenes"
+    ]
+  }
+}

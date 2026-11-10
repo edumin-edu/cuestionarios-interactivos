@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el criterio fundamental para determinar si una actividad dentro de una operaci\u00f3n minera debe mantenerse o eliminarse?",
+      "answerOptions": [
+        {
+          "text": "Su capacidad de generar valor real y tangible a la operaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La regla de oro de la cadena de valor dicta que cualquier actividad que no aporte valor tangible es considerada un desperdicio que debe eliminarse."
+        },
+        {
+          "text": "El nivel de innovaci\u00f3n tecnol\u00f3gica que incorpora el proceso.",
+          "isCorrect": false,
+          "rationale": "Aunque la tecnolog\u00eda es importante, la miner\u00eda de commodities se centra en la eficiencia operativa m\u00e1s que en la innovaci\u00f3n del producto final."
+        },
+        {
+          "text": "La antig\u00fcedad del equipo o maquinaria utilizada en la tarea.",
+          "isCorrect": false,
+          "rationale": "La obsolescencia t\u00e9cnica es un factor de mantenimiento, pero no es el criterio de auditor\u00eda para la cadena de valor sist\u00e9mica."
+        },
+        {
+          "text": "El cumplimiento estricto de las multas administrativas previas.",
+          "isCorrect": false,
+          "rationale": "El cumplimiento legal es obligatorio, pero la cadena de valor se enfoca en la eficiencia productiva y la eliminaci\u00f3n de desperdicios."
+        }
+      ],
+      "hint": "Piense en la relaci\u00f3n entre el aporte directo al negocio y la definici\u00f3n de desperdicio."
+    },
+    {
+      "question": "En el contexto comercial minero, \u00bfqu\u00e9 representa el concepto de \"rollback\"?",
+      "answerOptions": [
+        {
+          "text": "La deducci\u00f3n econ\u00f3mica aplicada al precio final por procesamiento, log\u00edstica y penalidades.",
+          "isCorrect": true,
+          "rationale": "El rollback descuenta los costos operativos y las penalidades por impurezas del precio de pizarra para determinar el ingreso real."
+        },
+        {
+          "text": "El proceso de devoluci\u00f3n de impuestos por parte del Estado en etapas tempranas.",
+          "isCorrect": false,
+          "rationale": "Esta es una estrategia de mitigaci\u00f3n fiscal, no una deducci\u00f3n comercial directa sobre el valor del mineral."
+        },
+        {
+          "text": "La recuperaci\u00f3n de minerales valiosos mediante el proceso de lixiviaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La lixiviaci\u00f3n es un m\u00e9todo metal\u00fargico de procesamiento, no una m\u00e9trica de deducci\u00f3n comercial."
+        },
+        {
+          "text": "La fluctuaci\u00f3n de los precios en los mercados de Londres o Nueva York.",
+          "isCorrect": false,
+          "rationale": "La volatilidad de los precios es una condici\u00f3n del mercado, mientras que el rollback es una estructura de costos propia del yacimiento."
+        }
+      ],
+      "hint": "Se refiere a lo que separa el precio de mercado del dinero que realmente ingresa a la caja."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la m\u00e9trica crucial que define la ventaja competitiva en una operaci\u00f3n de commodities mineros?",
+      "answerOptions": [
+        {
+          "text": "La diferenciaci\u00f3n est\u00e9tica del producto final entregado.",
+          "isCorrect": false,
+          "rationale": "Los c\u00e1todos de cobre y otros minerales tienen est\u00e1ndares globales, por lo que no compiten por diferenciaci\u00f3n."
+        },
+        {
+          "text": "La optimizaci\u00f3n extrema del costo por tonelada.",
+          "isCorrect": true,
+          "rationale": "Debido a la volatilidad de precios, mantener los costos operativos al m\u00ednimo es la \u00fanica forma de garantizar la supervivencia comercial."
+        },
+        {
+          "text": "El n\u00famero de empleados contratados bajo la modalidad de tercerizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La cantidad de personal es una variable de gesti\u00f3n, pero la eficiencia se mide por el costo unitario de producci\u00f3n."
+        },
+        {
+          "text": "La cantidad de proyectos en fase de prospecci\u00f3n visual.",
+          "isCorrect": false,
+          "rationale": "La prospecci\u00f3n es una fase inicial de bajo impacto y no define la competitividad de una mina ya operativa."
+        }
+      ],
+      "hint": "Considere qu\u00e9 factor econ\u00f3mico puede controlar la empresa ante la volatilidad de los precios externos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 documentos son fundamentales en la normativa peruana para la trazabilidad de servicios tercerizados y cumplimiento estad\u00edstico?",
+      "answerOptions": [
+        {
+          "text": "El registro de perforaci\u00f3n diamantina y el modelo de bloques.",
+          "isCorrect": false,
+          "rationale": "Estos documentos son de car\u00e1cter geol\u00f3gico y t\u00e9cnico, no administrativo para el control de contratistas."
+        },
+        {
+          "text": "El Estam\u00edn (declaraci\u00f3n mensual) y el DAC (declaraci\u00f3n anual).",
+          "isCorrect": true,
+          "rationale": "Estos registros permiten al titular minero cumplir con la supervisi\u00f3n de actividades conexas y mantener el control legal sobre la responsabilidad solidaria."
+        },
+        {
+          "text": "La carta fianza y el fideicomiso de cierre de mina.",
+          "isCorrect": false,
+          "rationale": "Estos son instrumentos financieros de garant\u00eda ambiental para el final de la vida de la mina."
+        },
+        {
+          "text": "El mapeo de afloramientos y las calicatas de prospecci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Estas son herramientas de reconocimiento de campo en etapas iniciales de investigaci\u00f3n geol\u00f3gica."
+        }
+      ],
+      "hint": "Busque los acr\u00f3nimos que representan las declaraciones estad\u00edsticas mensuales y anuales."
+    },
+    {
+      "question": "Seg\u00fan el panorama fiscal actual en Per\u00fa, \u00bfqu\u00e9 porcentaje aproximado de las ganancias se destina a la carga impositiva total?",
+      "answerOptions": [
+        {
+          "text": "Entre el $10\\%$ y el $20\\%$.",
+          "isCorrect": false,
+          "rationale": "Esta cifra es demasiado baja y no refleja el peso del impuesto a la renta, regal\u00edas y canon minero combinados."
+        },
+        {
+          "text": "Entre el $47\\%$ y el $56\\%$.",
+          "isCorrect": true,
+          "rationale": "Este rango representa la carga fiscal total que exige una espalda financiera extraordinaria por parte de las empresas."
+        },
+        {
+          "text": "Exactamente el $30\\%$ fijo para todos los metales.",
+          "isCorrect": false,
+          "rationale": "La carga fiscal es variable y suele superar este porcentaje al sumar todos los conceptos impositivos."
+        },
+        {
+          "text": "Menos del $5\\%$ gracias a los mecanismos de devoluci\u00f3n del IGB.",
+          "isCorrect": false,
+          "rationale": "La devoluci\u00f3n del IGB es un alivio financiero temporal, no una reducci\u00f3n de la carga impositiva sobre las ganancias."
+        }
+      ],
+      "hint": "Se trata de un bloque masivo que representa cerca de la mitad de las utilidades."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la tasa de \u00e9xito estimada para que un proyecto de exploraci\u00f3n b\u00e1sica se convierta en una mina operativa de clase mundial?",
+      "answerOptions": [
+        {
+          "text": "$1$ de cada $10$ proyectos.",
+          "isCorrect": false,
+          "rationale": "Esta tasa es excesivamente optimista dada la enorme incertidumbre y el riesgo geol\u00f3gico de la industria."
+        },
+        {
+          "text": "$1$ de cada $600$ proyectos.",
+          "isCorrect": true,
+          "rationale": "Esta cifra ilustra el alt\u00edsimo riesgo geol\u00f3gico y financiero que enfrentan los inversionistas en la fase inicial."
+        },
+        {
+          "text": "$1$ de cada $100$ proyectos.",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra baja, las estad\u00edsticas reales de \u00e9xito para minas de clase mundial son significativamente menores."
+        },
+        {
+          "text": "$1$ de cada $50$ proyectos.",
+          "isCorrect": false,
+          "rationale": "Esta probabilidad no refleja la realidad del sector, donde la gran mayor\u00eda de los hallazgos no resultan econ\u00f3micamente viables."
+        }
+      ],
+      "hint": "Refleja una probabilidad extremadamente min\u00fascula comparada con la inversi\u00f3n requerida."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia t\u00e9cnica principal entre la prospecci\u00f3n y la exploraci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "La prospecci\u00f3n es un mapeo visual de bajo impacto, mientras que la exploraci\u00f3n implica perforaci\u00f3n y mayor certeza.",
+          "isCorrect": true,
+          "rationale": "La prospecci\u00f3n identifica anomal\u00edas superficiales, mientras que la exploraci\u00f3n utiliza m\u00e9todos destructivos para definir leyes y volumen."
+        },
+        {
+          "text": "La prospecci\u00f3n usa inteligencia artificial y la exploraci\u00f3n es puramente manual.",
+          "isCorrect": false,
+          "rationale": "La inteligencia artificial se utiliza para potenciar ambas fases, especialmente en la teledetecci\u00f3n para identificar blancos."
+        },
+        {
+          "text": "La exploraci\u00f3n es una actividad primaria y la prospecci\u00f3n es una actividad de apoyo.",
+          "isCorrect": false,
+          "rationale": "Ambas forman parte de la investigaci\u00f3n geol\u00f3gica inicial, no se dividen en primaria o de apoyo bajo ese criterio."
+        },
+        {
+          "text": "La prospecci\u00f3n requiere permisos de cierre de mina y la exploraci\u00f3n no.",
+          "isCorrect": false,
+          "rationale": "Toda actividad minera requiere planificaci\u00f3n ambiental, pero la exploraci\u00f3n tiene requisitos m\u00e1s estrictos por su naturaleza destructiva."
+        }
+      ],
+      "hint": "Piense en el nivel de impacto f\u00edsico en el terreno y el grado de confianza en los datos obtenidos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja principal ofrece la incorporaci\u00f3n de algoritmos de inteligencia artificial en la fase de investigaci\u00f3n geol\u00f3gica?",
+      "answerOptions": [
+        {
+          "text": "Elimina la necesidad de realizar perforaciones diamantinas en el futuro.",
+          "isCorrect": false,
+          "rationale": "La IA ayuda a identificar blancos, pero la perforaci\u00f3n sigue siendo indispensable para confirmar la calidad real del mineral."
+        },
+        {
+          "text": "Reduce dr\u00e1sticamente el tiempo y costo de identificar blancos de perforaci\u00f3n mediante reconocimiento de patrones.",
+          "isCorrect": true,
+          "rationale": "La IA analiza bases masivas de datos y rastros hist\u00f3ricos para evitar meses de recorridos visuales ineficientes."
+        },
+        {
+          "text": "Garantiza que el $100\\%$ de los proyectos de prospecci\u00f3n se conviertan en minas.",
+          "isCorrect": false,
+          "rationale": "La IA reduce la incertidumbre, pero no puede eliminar el riesgo geol\u00f3gico intr\u00ednseco de la naturaleza."
+        },
+        {
+          "text": "Automatiza el proceso de lixiviaci\u00f3n de \u00f3xidos en la planta.",
+          "isCorrect": false,
+          "rationale": "La teledetecci\u00f3n con IA se aplica en la fase geol\u00f3gica, no directamente en el procesamiento metal\u00fargico de la planta."
+        }
+      ],
+      "hint": "Considere c\u00f3mo el an\u00e1lisis de datos masivos puede acelerar la b\u00fasqueda de anomal\u00edas en el terreno."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es tan cr\u00edtico identificar elementos como el ars\u00e9nico o el antimonio en los testigos de perforaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Porque su presencia aumenta el valor comercial del c\u00e1todo de cobre.",
+          "isCorrect": false,
+          "rationale": "Al contrario, estos elementos son contaminantes que reducen el valor comercial del mineral."
+        },
+        {
+          "text": "Porque activan penalidades severas en el rollback o pueden inhabilitar el procesamiento.",
+          "isCorrect": true,
+          "rationale": "Los contaminantes complejos afectan la metalurgia y la viabilidad econ\u00f3mica, pudiendo detener proyectos enteros si no se gestionan."
+        },
+        {
+          "text": "Porque son indicadores necesarios para aplicar el m\u00e9todo de Kriging.",
+          "isCorrect": false,
+          "rationale": "El Kriging es un m\u00e9todo estad\u00edstico de extrapolaci\u00f3n, independientemente de los elementos espec\u00edficos presentes."
+        },
+        {
+          "text": "Porque facilitan el proceso de flotaci\u00f3n por burbujas.",
+          "isCorrect": false,
+          "rationale": "El ars\u00e9nico suele complicar el proceso de flotaci\u00f3n y requiere un manejo metal\u00fargico especializado y costoso."
+        }
+      ],
+      "hint": "Piense en el impacto negativo que tienen ciertas impurezas en la rentabilidad y la t\u00e9cnica de la planta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 distingue a las \"reservas\" de los \"recursos\" en un modelo geol\u00f3gico?",
+      "answerOptions": [
+        {
+          "text": "Los recursos son cilindros de roca y las reservas son modelos en 3D.",
+          "isCorrect": false,
+          "rationale": "Ambos conceptos se representan en modelos, la diferencia radica en su viabilidad econ\u00f3mica."
+        },
+        {
+          "text": "Las reservas son recursos cuya extracci\u00f3n es t\u00e9cnica y econ\u00f3micamente viable hoy.",
+          "isCorrect": true,
+          "rationale": "Solo las reservas cuentan con el respaldo de estudios de ingenier\u00eda y costos que aseguran que el mineral puede extraerse con beneficio."
+        },
+        {
+          "text": "Los recursos tienen mayor grado de confianza que las reservas.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; las reservas representan el nivel m\u00e1s alto de certeza tras aplicar variables de ingenier\u00eda."
+        },
+        {
+          "text": "Las minas se construyen prioritariamente sobre recursos para asegurar el futuro.",
+          "isCorrect": false,
+          "rationale": "Las minas solo se construyen sobre reservas validadas; los recursos son meramente potencial geol\u00f3gico."
+        }
+      ],
+      "hint": "La clave est\u00e1 en la aplicaci\u00f3n de factores modificadores de ingenier\u00eda y econom\u00eda."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo primordial del ciclo Perbol (perforaci\u00f3n y voladura) en la operaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "Generar la mayor cantidad posible de \"bolones\" para la planta.",
+          "isCorrect": false,
+          "rationale": "Los bolones son fallas operativas que deben evitarse para no da\u00f1ar la maquinaria de trituraci\u00f3n."
+        },
+        {
+          "text": "Lograr una fragmentaci\u00f3n perfecta para alimentar eficientemente la chancadora.",
+          "isCorrect": true,
+          "rationale": "Una fragmentaci\u00f3n adecuada reduce el consumo de energ\u00eda y evita paros en la planta de procesamiento."
+        },
+        {
+          "text": "Maximizar la onda de choque para desplazar el material a largas distancias.",
+          "isCorrect": false,
+          "rationale": "El desplazamiento excesivo puede dificultar el cargu\u00edo; el objetivo es la fragmentaci\u00f3n controlada."
+        },
+        {
+          "text": "Sustituir el uso de cargadores frontales por la fuerza de los gases.",
+          "isCorrect": false,
+          "rationale": "Los gases solo desplazan el material fracturado, pero el cargu\u00edo sigue siendo necesario para el transporte."
+        }
+      ],
+      "hint": "Considere el tama\u00f1o ideal que debe tener la roca antes de entrar a la primera m\u00e1quina de la planta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 equipo de perforaci\u00f3n se prefiere cuando el mineral se encuentra en vetas estrechas de menos de $70$ cm?",
+      "answerOptions": [
+        {
+          "text": "Jumbos electrohidr\u00e1ulicos.",
+          "isCorrect": false,
+          "rationale": "Estos son equipos masivos para gran escala que no pueden operar en espacios tan limitados."
+        },
+        {
+          "text": "Jacklegs neum\u00e1ticas manuales.",
+          "isCorrect": true,
+          "rationale": "En espacios de extrema limitaci\u00f3n espacial, la selectividad y flexibilidad del equipo manual es indispensable."
+        },
+        {
+          "text": "Radares geot\u00e9cnicos de precisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Estos son instrumentos de monitoreo de estabilidad, no equipos de perforaci\u00f3n de roca."
+        },
+        {
+          "text": "Maquinaria de perforaci\u00f3n diamantina.",
+          "isCorrect": false,
+          "rationale": "Esta se usa para obtener testigos de exploraci\u00f3n, no habitualmente para la producci\u00f3n en vetas angostas."
+        }
+      ],
+      "hint": "Piense en la necesidad de un trabajo quir\u00fargico y manual en espacios reducidos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el protocolo cr\u00edtico de seguridad respecto al ox\u00edgeno antes de reingresar a una mina tras una detonaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Esperar a que el nivel de ox\u00edgeno sea de al menos $19.5\\%$.",
+          "isCorrect": true,
+          "rationale": "Este umbral garantiza que los gases nitrosos t\u00f3xicos han sido ventilados y el aire es seguro para el personal."
+        },
+        {
+          "text": "Reingresar inmediatamente para aprovechar la fractura de la roca.",
+          "isCorrect": false,
+          "rationale": "Hacerlo es mortal debido a la alta concentraci\u00f3n de gases t\u00f3xicos atrapados tras la explosi\u00f3n."
+        },
+        {
+          "text": "Verificar que el nivel de nitr\u00f3geno sea superior al de ox\u00edgeno.",
+          "isCorrect": false,
+          "rationale": "El nitr\u00f3geno en exceso desplaza al ox\u00edgeno y es peligroso; el foco es asegurar el nivel m\u00ednimo de ox\u00edgeno."
+        },
+        {
+          "text": "Desactivar los radares geot\u00e9cnicos para evitar interferencias.",
+          "isCorrect": false,
+          "rationale": "La estabilidad de la roca es igual de importante que la calidad del aire tras la voladura."
+        }
+      ],
+      "hint": "Recuerde el valor porcentual m\u00ednimo de supervivencia mencionado para la ventilaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 determina el \"stripping ratio\" en una operaci\u00f3n de tajo abierto (Open Pit)?",
+      "answerOptions": [
+        {
+          "text": "La velocidad de rotaci\u00f3n de la chancadora de quijada.",
+          "isCorrect": false,
+          "rationale": "Esta es una variable mec\u00e1nica de la planta, no una relaci\u00f3n de movimiento de tierras."
+        },
+        {
+          "text": "La proporci\u00f3n entre el desmonte movido y la tonelada de mineral extra\u00eddo.",
+          "isCorrect": true,
+          "rationale": "Este indicador econ\u00f3mico define cu\u00e1nta roca sin valor debe removerse para acceder al mineral valioso."
+        },
+        {
+          "text": "El \u00e1ngulo de inclinaci\u00f3n m\u00e1ximo para el tr\u00e1nsito de camiones.",
+          "isCorrect": false,
+          "rationale": "Eso se refiere a las restricciones de tracci\u00f3n de los equipos en rampas o m\u00e9todos de pilares."
+        },
+        {
+          "text": "La cantidad de agua necesaria para el proceso de flotaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este es un factor de huella h\u00eddrica y procesamiento qu\u00edmico, ajeno al stripping ratio."
+        }
+      ],
+      "hint": "Es una medida de eficiencia que compara el material est\u00e9ril con el material con valor."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la limitaci\u00f3n f\u00edsica principal del m\u00e9todo de miner\u00eda subterr\u00e1nea de c\u00e1maras y pilares (Room and Pillar)?",
+      "answerOptions": [
+        {
+          "text": "La imposibilidad de usar ventilaci\u00f3n mec\u00e1nica.",
+          "isCorrect": false,
+          "rationale": "La ventilaci\u00f3n es siempre necesaria y posible, aunque compleja, en cualquier m\u00e9todo subterr\u00e1neo."
+        },
+        {
+          "text": "La restricci\u00f3n de tracci\u00f3n de equipos con ruedas en pendientes mayores a $60$ o $70$ grados.",
+          "isCorrect": true,
+          "rationale": "Debido a que requiere la circulaci\u00f3n de cargadores y camiones, este m\u00e9todo solo es viable en cuerpos de mineral planos."
+        },
+        {
+          "text": "La necesidad de inundar la mina con soluciones qu\u00edmicas.",
+          "isCorrect": false,
+          "rationale": "La inundaci\u00f3n qu\u00edmica es propia de la lixiviaci\u00f3n in situ, no del m\u00e9todo de c\u00e1maras y pilares."
+        },
+        {
+          "text": "El uso exclusivo de bacterias para la extracci\u00f3n de metales.",
+          "isCorrect": false,
+          "rationale": "La biolixiviaci\u00f3n es un proceso de planta u oxidaci\u00f3n, no un m\u00e9todo de minado subterr\u00e1neo."
+        }
+      ],
+      "hint": "Piense en la dificultad de los veh\u00edculos pesados para subir por paredes muy inclinadas."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera al \"Block Caving\" como el m\u00e9todo subterr\u00e1neo m\u00e1s econ\u00f3mico?",
+      "answerOptions": [
+        {
+          "text": "Porque no requiere el uso de explosivos en ninguna fase.",
+          "isCorrect": false,
+          "rationale": "Se requieren explosivos para socavar la base inicial, aunque luego la gravedad haga el trabajo principal."
+        },
+        {
+          "text": "Porque utiliza la fuerza de gravedad para el hundimiento masivo y extracci\u00f3n del mineral.",
+          "isCorrect": true,
+          "rationale": "Al provocar que el yacimiento colapse por su propio peso, se reducen dr\u00e1sticamente los costos de fragmentaci\u00f3n y transporte manual."
+        },
+        {
+          "text": "Porque es el m\u00e9todo que m\u00e1s personal manual requiere.",
+          "isCorrect": false,
+          "rationale": "Al contrario, es un m\u00e9todo altamente mecanizado que busca minimizar la intervenci\u00f3n manual directa."
+        },
+        {
+          "text": "Porque se aplica \u00fanicamente a minerales de muy alta ley como el oro puro.",
+          "isCorrect": false,
+          "rationale": "Suele aplicarse a yacimientos masivos de ley baja o media donde la eficiencia de costos es cr\u00edtica."
+        }
+      ],
+      "hint": "Considere cu\u00e1l es el \"empleado m\u00e1s barato\" que ayuda a mover la roca hacia abajo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 proceso metal\u00fargico es el adecuado para procesar minerales de tipo sulfuro?",
+      "answerOptions": [
+        {
+          "text": "Lixiviaci\u00f3n con soluciones \u00e1cidas.",
+          "isCorrect": false,
+          "rationale": "La lixiviaci\u00f3n es el camino est\u00e1ndar para los \u00f3xidos, no para los sulfuros primarios."
+        },
+        {
+          "text": "Flotaci\u00f3n mediante el uso de burbujas y reactivos qu\u00edmicos.",
+          "isCorrect": true,
+          "rationale": "La flotaci\u00f3n permite separar las part\u00edculas de sulfuro valiosas del material est\u00e9ril haci\u00e9ndolas flotar en celdas especiales."
+        },
+        {
+          "text": "Prospecci\u00f3n visual por afloramientos.",
+          "isCorrect": false,
+          "rationale": "Esta es una t\u00e9cnica de geolog\u00eda de campo, no un proceso de transformaci\u00f3n metal\u00fargica en planta."
+        },
+        {
+          "text": "Modelamiento de bloques por Kriging.",
+          "isCorrect": false,
+          "rationale": "Este es un proceso matem\u00e1tico de estimaci\u00f3n de recursos, no un m\u00e9todo de separaci\u00f3n de minerales."
+        }
+      ],
+      "hint": "Piense en el m\u00e9todo que utiliza burbujas para recolectar el mineral valioso."
+    },
+    {
+      "question": "\u00bfC\u00f3mo garantiza el Estado peruano que se realice la remediaci\u00f3n ambiental tras el fin de la vida de una mina?",
+      "answerOptions": [
+        {
+          "text": "Mediante la firma de una promesa de honor por parte de los directivos.",
+          "isCorrect": false,
+          "rationale": "La ley exige garant\u00edas reales y financieras, no solo compromisos verbales o escritos."
+        },
+        {
+          "text": "A trav\u00e9s de instrumentos financieros como fideicomisos o cartas fianza depositados desde el d\u00eda uno.",
+          "isCorrect": true,
+          "rationale": "Estos fondos bloqueados permiten al Estado ejecutar el cierre incluso si la empresa operadora quiebra o desaparece."
+        },
+        {
+          "text": "Utilizando el dinero recaudado exclusivamente por multas administrativas.",
+          "isCorrect": false,
+          "rationale": "Las multas no son suficientes ni est\u00e1n dise\u00f1adas para cubrir el costo total de una remediaci\u00f3n ambiental integral."
+        },
+        {
+          "text": "Esperando a que la mina genere suficientes recursos al final de su vida \u00fatil.",
+          "isCorrect": false,
+          "rationale": "La provisi\u00f3n debe ser progresiva y garantizada desde el inicio para evitar pasivos ambientales sin financiamiento."
+        }
+      ],
+      "hint": "Busque el mecanismo que bloquea millones de d\u00f3lares en el banco como respaldo preventivo."
+    },
+    {
+      "question": "En el caso de \u00e9xito de Cerro Verde, \u00bfcu\u00e1l fue el factor clave para triplicar su producci\u00f3n diaria?",
+      "answerOptions": [
+        {
+          "text": "El abandono total de las actividades de apoyo tecnol\u00f3gicas.",
+          "isCorrect": false,
+          "rationale": "El \u00e9xito dependi\u00f3 precisamente de integrar tecnolog\u00eda avanzada y optimizaci\u00f3n."
+        },
+        {
+          "text": "Un plan maestro de optimizaci\u00f3n que integr\u00f3 geolog\u00eda, planta y log\u00edstica.",
+          "isCorrect": true,
+          "rationale": "La sincronizaci\u00f3n quir\u00fargica de todos los pilares operativos permiti\u00f3 pasar de $120,000$ a $360,000$ toneladas diarias."
+        },
+        {
+          "text": "La reducci\u00f3n de la perforaci\u00f3n a menos de $1,000$ metros anuales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el hito exigi\u00f3 la perforaci\u00f3n de medio mill\u00f3n de metros para validar las reservas."
+        },
+        {
+          "text": "La eliminaci\u00f3n de los protocolos de seguridad ante gases nitrosos.",
+          "isCorrect": false,
+          "rationale": "La seguridad es innegociable y su eliminaci\u00f3n invalidar\u00eda cualquier operaci\u00f3n moderna."
+        }
+      ],
+      "hint": "Se trata de la alineaci\u00f3n perfecta de los tres pilares vitales del negocio."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es uno de los grandes retos futuros mencionados para asegurar la sostenibilidad del sector minero?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la huella h\u00eddrica en zonas de escasez.",
+          "isCorrect": false,
+          "rationale": "El objetivo es justamente lo contrario: reducir el uso de agua para minimizar el impacto ambiental."
+        },
+        {
+          "text": "Implementar automatizaci\u00f3n, control remoto y reducir la huella h\u00eddrica.",
+          "isCorrect": true,
+          "rationale": "Estas tecnolog\u00edas y pr\u00e1cticas son esenciales para gestionar recursos finitos y asegurar la licencia social a largo plazo."
+        },
+        {
+          "text": "Ignorar la responsabilidad penal directa de los directivos.",
+          "isCorrect": false,
+          "rationale": "La tendencia legal es hacia una mayor responsabilidad penal, lo que exige una gesti\u00f3n de riesgos sin errores."
+        },
+        {
+          "text": "Fomentar la informalidad en el registro del Reinfo.",
+          "isCorrect": false,
+          "rationale": "La formalizaci\u00f3n es una barrera cr\u00edtica que el sector busca superar para garantizar est\u00e1ndares de cumplimiento."
+        }
+      ],
+      "hint": "Piense en la modernizaci\u00f3n de los procesos y el cuidado del recurso h\u00eddrico."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Cadena de valor en procesos mineros",
+      "Optimizaci\u00f3n de costos y rollback",
+      "Marco fiscal y riesgo geol\u00f3gico",
+      "Exploraci\u00f3n y modelamiento de yacimientos",
+      "Ciclo de perforaci\u00f3n y voladura",
+      "M\u00e9todos de explotaci\u00f3n superficial y subterr\u00e1nea",
+      "Procesamiento metal\u00fargico y cierre de mina"
+    ],
+    "followUp": [
+      "Responsabilidad penal de directivos en la gesti\u00f3n minera",
+      "Estrategias avanzadas de remediaci\u00f3n ambiental y pasivos mineros",
+      "Impacto de la inteligencia artificial en la metalurgia de precisi\u00f3n",
+      "Gesti\u00f3n de la licencia social y conflictos en zonas de operaci\u00f3n",
+      "Log\u00edstica de clase mundial y puertos estrat\u00e9gicos (Chancay, Matarani)"
+    ]
+  }
+}

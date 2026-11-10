@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el pilar fundamental para lograr la eficiencia en la log\u00edstica internacional moderna?",
+      "answerOptions": [
+        {
+          "text": "El movimiento f\u00edsico de mercanc\u00edas por el mundo.",
+          "isCorrect": false,
+          "rationale": "Esta es la visi\u00f3n tradicional que el entorno global actual ha superado en favor de aspectos t\u00e9cnicos."
+        },
+        {
+          "text": "Una base t\u00e9cnica y legal s\u00f3lida.",
+          "isCorrect": true,
+          "rationale": "La eficiencia actual se sustenta en el dominio de la normativa para mitigar riesgos y optimizar la cadena de suministro."
+        },
+        {
+          "text": "La reducci\u00f3n de costos mediante el uso de intermediarios.",
+          "isCorrect": false,
+          "rationale": "Aunque el costo importa, la base t\u00e9cnica es lo que realmente garantiza la sostenibilidad del negocio."
+        },
+        {
+          "text": "La velocidad de entrega por encima de los tr\u00e1mites aduaneros.",
+          "isCorrect": false,
+          "rationale": "Priorizar la velocidad sobre el cumplimiento t\u00e9cnico genera vulnerabilidades que comprometen la continuidad operativa."
+        }
+      ],
+      "hint": "Considera qu\u00e9 aspecto proporciona una ventaja competitiva y seguridad ante la fiscalizaci\u00f3n."
+    },
+    {
+      "question": "En una negociaci\u00f3n internacional, \u00bfqu\u00e9 factor determina directamente la seguridad del negociador al cerrar un trato?",
+      "answerOptions": [
+        {
+          "text": "Su capacidad para improvisar estrategias psicol\u00f3gicas.",
+          "isCorrect": false,
+          "rationale": "La improvisaci\u00f3n sin base t\u00e9cnica deja la operaci\u00f3n vulnerable, similar a construir sobre arena."
+        },
+        {
+          "text": "La antig\u00fcedad del v\u00ednculo comercial con el proveedor.",
+          "isCorrect": false,
+          "rationale": "Como muestra el caso Ramos contra Quiroga, la confianza por antig\u00fcedad no protege contra la falta de informaci\u00f3n t\u00e9cnica."
+        },
+        {
+          "text": "El dominio de los n\u00fameros y la estructura de costos de la mercanc\u00eda.",
+          "isCorrect": true,
+          "rationale": "El conocimiento t\u00e9cnico de los costos otorga el poder real en la mesa de negociaci\u00f3n frente a la incertidumbre."
+        },
+        {
+          "text": "La posesi\u00f3n de un producto de alta calidad t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "Tener un buen producto no es suficiente si no se conocen los m\u00e1rgenes y procesos internos."
+        }
+      ],
+      "hint": "Piensa en la relaci\u00f3n de proporcionalidad mencionada sobre el conocimiento de la mercanc\u00eda."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 precio redujo el Sr. Quiroga su producto debido a la falta de inteligencia comercial y miedo a perder el contrato?",
+      "answerOptions": [
+        {
+          "text": "$$68$$",
+          "isCorrect": false,
+          "rationale": "Este era el precio de manufacturas Alasca, una de las cotizaciones competitivas que ten\u00eda el comprador."
+        },
+        {
+          "text": "$$75$$",
+          "isCorrect": false,
+          "rationale": "Este era el precio de metales brillantes, el m\u00e1s alto de las opciones competitivas mencionadas."
+        },
+        {
+          "text": "$$59$$",
+          "isCorrect": true,
+          "rationale": "Quiroga baj\u00f3 su precio a este nivel por p\u00e1nico, destruyendo su propio margen de ganancia innecesariamente."
+        },
+        {
+          "text": "$$65$$",
+          "isCorrect": false,
+          "rationale": "Este valor no figura en las m\u00e9tricas de mercado analizadas en el caso de estudio."
+        }
+      ],
+      "hint": "Recuerda que el negociador tom\u00f3 una decisi\u00f3n dr\u00e1stica que afect\u00f3 severamente su rentabilidad."
+    },
+    {
+      "question": "\u00bfCu\u00e1ntos d\u00edgitos componen la subpartida nacional para lograr una precisi\u00f3n total en la clasificaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "$$6$$ d\u00edgitos",
+          "isCorrect": false,
+          "rationale": "Los seis d\u00edgitos corresponden a la subpartida del Sistema Armonizado, un est\u00e1ndar global pero no nacional."
+        },
+        {
+          "text": "$$8$$ d\u00edgitos",
+          "isCorrect": false,
+          "rationale": "Ocho d\u00edgitos es el est\u00e1ndar regional utilizado por la Comunidad Andina (Nandina)."
+        },
+        {
+          "text": "$$10$$ d\u00edgitos",
+          "isCorrect": true,
+          "rationale": "La subpartida nacional alcanza los diez d\u00edgitos para identificar la mercanc\u00eda con exactitud milim\u00e9trica en el pa\u00eds."
+        },
+        {
+          "text": "$$4$$ d\u00edgitos",
+          "isCorrect": false,
+          "rationale": "Cuatro d\u00edgitos corresponden a la partida, que define categor\u00edas como el origen animal de un producto."
+        }
+      ],
+      "hint": "Es el nivel m\u00e1s espec\u00edfico de la jerarqu\u00eda, despu\u00e9s de los niveles regional y global."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el criterio t\u00e9cnico de clasificaci\u00f3n que prevalece para productos de alta complejidad como autos o electr\u00f3nica?",
+      "answerOptions": [
+        {
+          "text": "Criterio de composici\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este criterio se enfoca en los materiales (pl\u00e1sticos, metales), los cuales pasan a segundo plano en productos complejos."
+        },
+        {
+          "text": "Criterio de origen.",
+          "isCorrect": false,
+          "rationale": "El origen clasifica la materia prima seg\u00fan su reino natural, lo cual no define a un objeto tecnol\u00f3gico."
+        },
+        {
+          "text": "Criterio de funci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "En productos complejos, lo que realmente define su clasificaci\u00f3n es para qu\u00e9 sirven y cu\u00e1l es su destino final."
+        },
+        {
+          "text": "Criterio de jerarqu\u00eda regional.",
+          "isCorrect": false,
+          "rationale": "Este no es uno de los tres criterios t\u00e9cnicos rigurosos mencionados para determinar la subpartida."
+        }
+      ],
+      "hint": "En este caso, el material del que est\u00e1 hecho el objeto es menos relevante que su utilidad."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia log\u00edstica puede ocurrir debido a un solo d\u00edgito incorrecto en la clasificaci\u00f3n arancelaria, m\u00e1s all\u00e1 del aspecto econ\u00f3mico?",
+      "answerOptions": [
+        {
+          "text": "P\u00e9rdida autom\u00e1tica de la propiedad de la mercanc\u00eda.",
+          "isCorrect": false,
+          "rationale": "La p\u00e9rdida de propiedad (comiso) suele vincularse a infracciones graves o delitos, no a un error de d\u00edgito inicial."
+        },
+        {
+          "text": "Inmovilizaci\u00f3n de contenedores por restricciones no arancelarias.",
+          "isCorrect": true,
+          "rationale": "Un error en la clasificaci\u00f3n puede activar controles de entidades como DIGESA o SENASA, bloqueando la carga."
+        },
+        {
+          "text": "Aumento del margen de ganancia por error de c\u00e1lculo.",
+          "isCorrect": false,
+          "rationale": "Un error t\u00e9cnico suele resultar en multas o sobrecostos, no en beneficios de margen."
+        },
+        {
+          "text": "Cancelaci\u00f3n inmediata de la licencia de importador.",
+          "isCorrect": false,
+          "rationale": "La cancelaci\u00f3n de licencias es una sanci\u00f3n extrema para operadores, no una consecuencia log\u00edstica inmediata de clasificaci\u00f3n."
+        }
+      ],
+      "hint": "Considera c\u00f3mo las autoridades de salud o agrarias intervienen seg\u00fan el c\u00f3digo declarado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n log\u00edstica cr\u00edtica de la ficha t\u00e9cnica de un producto?",
+      "answerOptions": [
+        {
+          "text": "Actuar como manual de instrucciones para las agencias de carga.",
+          "isCorrect": true,
+          "rationale": "Dicta par\u00e1metros vitales como dimensiones, peso y requerimientos de cadena de fr\u00edo para el transporte."
+        },
+        {
+          "text": "Servir exclusivamente para el cierre de ventas internacionales.",
+          "isCorrect": false,
+          "rationale": "Aunque tiene un rol comercial importante, su funci\u00f3n log\u00edstica es igualmente cr\u00edtica para la operatividad."
+        },
+        {
+          "text": "Reemplazar el bolet\u00edn qu\u00edmico en la exportaci\u00f3n de minerales.",
+          "isCorrect": false,
+          "rationale": "En minerales, el bolet\u00edn qu\u00edmico de la SUNAT es la ley suprema y no es sustituible por la ficha t\u00e9cnica."
+        },
+        {
+          "text": "Establecer los acuerdos de complementaci\u00f3n econ\u00f3mica.",
+          "isCorrect": false,
+          "rationale": "Los acuerdos econ\u00f3micos son tratados internacionales, no parte del contenido de una ficha t\u00e9cnica de producto."
+        }
+      ],
+      "hint": "Esta funci\u00f3n asegura que la mercanc\u00eda se maneje correctamente durante su traslado f\u00edsico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor es de vida o muerte en la log\u00edstica del esp\u00e1rrago para evitar la p\u00e9rdida total de la carga?",
+      "answerOptions": [
+        {
+          "text": "La obtenci\u00f3n del acuerdo Per\u00fa-Mercosur.",
+          "isCorrect": false,
+          "rationale": "Este acuerdo es fundamental para el or\u00e9gano, no se menciona como el factor cr\u00edtico del esp\u00e1rrago."
+        },
+        {
+          "text": "Una cadena de fr\u00edo impecable y sin fisuras.",
+          "isCorrect": true,
+          "rationale": "Debido a su naturaleza perecedera, el esp\u00e1rrago requiere refrigeraci\u00f3n constante desde el campo al cliente."
+        },
+        {
+          "text": "La clasificaci\u00f3n qu\u00edmica de elementos pagables.",
+          "isCorrect": false,
+          "rationale": "La clasificaci\u00f3n de elementos pagables es propia de los concentrados de minerales, no de productos agr\u00edcolas."
+        },
+        {
+          "text": "El uso exclusivo de transporte terrestre hacia Brasil.",
+          "isCorrect": false,
+          "rationale": "El mercado brasile\u00f1o y sus preferencias arancelarias se destacan en el caso del or\u00e9gano."
+        }
+      ],
+      "hint": "Relaciona el producto con su caracter\u00edstica de ser altamente perecedero."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje de la exportaci\u00f3n de or\u00e9gano se dirige a Brasil gracias a las preferencias arancelarias?",
+      "answerOptions": [
+        {
+          "text": "$$100\\%$$",
+          "isCorrect": false,
+          "rationale": "El $$100\\%$$ se refiere a la preferencia arancelaria obtenida, no al volumen total exportado a ese pa\u00eds."
+        },
+        {
+          "text": "$$48\\%$$",
+          "isCorrect": true,
+          "rationale": "Casi la mitad de la exportaci\u00f3n de or\u00e9gano tiene como destino el mercado brasile\u00f1o."
+        },
+        {
+          "text": "$$30\\%$$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje no se menciona en relaci\u00f3n con las estad\u00edsticas de exportaci\u00f3n de este producto."
+        },
+        {
+          "text": "$$59\\%$$",
+          "isCorrect": false,
+          "rationale": "Este n\u00famero corresponde al precio reducido en el caso Ramos contra Quiroga, no a exportaciones."
+        }
+      ],
+      "hint": "Es una cifra cercana a la mitad del total exportado por este sector."
+    },
+    {
+      "question": "En el comercio de concentrados de minerales, \u00bfqu\u00e9 elementos representan impurezas que generan deducciones financieras?",
+      "answerOptions": [
+        {
+          "text": "Elementos pagables como el cobre.",
+          "isCorrect": false,
+          "rationale": "El cobre es un elemento que suma valor directo al concentrado."
+        },
+        {
+          "text": "Elementos penalizables como el ars\u00e9nico o bismuto.",
+          "isCorrect": true,
+          "rationale": "Estas impurezas son castigadas con fuertes deducciones financieras en el valor final."
+        },
+        {
+          "text": "Metales preciosos como la plata.",
+          "isCorrect": false,
+          "rationale": "La plata, al ser un elemento pagable, incrementa la rentabilidad del lote."
+        },
+        {
+          "text": "Compuestos qu\u00edmicos de origen vegetal.",
+          "isCorrect": false,
+          "rationale": "Los concentrados de minerales no contienen compuestos vegetales; se rigen por el reino mineral."
+        }
+      ],
+      "hint": "Busca los t\u00e9rminos asociados con 'penalizable' en el contexto de la miner\u00eda."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja financiera del r\u00e9gimen de dep\u00f3sito aduanero?",
+      "answerOptions": [
+        {
+          "text": "La eliminaci\u00f3n definitiva de todos los tributos de importaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El r\u00e9gimen no elimina los tributos, solo posterga su pago para optimizar la liquidez."
+        },
+        {
+          "text": "La posibilidad de nacionalizar la mercanc\u00eda de forma parcial.",
+          "isCorrect": true,
+          "rationale": "Permite retirar la carga poco a poco seg\u00fan la demanda, evitando descapitalizar la empresa con un solo pago."
+        },
+        {
+          "text": "El almacenamiento gratuito en recintos de la SUNAT.",
+          "isCorrect": false,
+          "rationale": "El almacenamiento se realiza en recintos autorizados (depositarios), pero conlleva costos de custodia y responsabilidad."
+        },
+        {
+          "text": "La aceleraci\u00f3n de los procesos de descarga en el puerto.",
+          "isCorrect": false,
+          "rationale": "El dep\u00f3sito aduanero es una herramienta de gesti\u00f3n post-descarga y financiera, no de velocidad portuaria."
+        }
+      ],
+      "hint": "Tiene que ver con la flexibilidad en el flujo de caja y la salida escalonada de productos."
+    },
+    {
+      "question": "\u00bfQui\u00e9n asume la responsabilidad f\u00edsica y legal de la mercanc\u00eda dentro del r\u00e9gimen de dep\u00f3sito?",
+      "answerOptions": [
+        {
+          "text": "El depositante.",
+          "isCorrect": false,
+          "rationale": "El depositante es el due\u00f1o de la carga y el estratega, no quien custodia f\u00edsicamente el bien bajo supervisi\u00f3n aduanera."
+        },
+        {
+          "text": "El depositario.",
+          "isCorrect": true,
+          "rationale": "El depositario es el recinto autorizado que asume la tremenda responsabilidad de cuidar la mercanc\u00eda frente a la SUNAT."
+        },
+        {
+          "text": "La agencia de carga.",
+          "isCorrect": false,
+          "rationale": "La agencia de carga maneja el transporte y log\u00edstica, pero no es el responsable legal del dep\u00f3sito aduanero."
+        },
+        {
+          "text": "El Ministerio de Transportes y Comunicaciones.",
+          "isCorrect": false,
+          "rationale": "Este ministerio regula normativas de veh\u00edculos, pero no ejerce de custodio en el r\u00e9gimen de dep\u00f3sito."
+        }
+      ],
+      "hint": "Es el actor que act\u00faa como el 'm\u00fasculo' responsable frente a la aduana en el almac\u00e9n."
+    },
+    {
+      "question": "En el caso de mercanc\u00edas perecibles, \u00bfc\u00f3mo se determina el plazo m\u00e1ximo de permanencia en el dep\u00f3sito aduanero?",
+      "answerOptions": [
+        {
+          "text": "Siempre es de $$12$$ meses seg\u00fan la ley est\u00e1ndar.",
+          "isCorrect": false,
+          "rationale": "Los $$12$$ meses son el l\u00edmite para mercanc\u00eda est\u00e1ndar, no para productos con vencimiento."
+        },
+        {
+          "text": "No puede exceder la fecha de vencimiento del producto.",
+          "isCorrect": true,
+          "rationale": "Si el producto caduca antes de los $$12$$ meses, el l\u00edmite legal se ajusta autom\u00e1ticamente a esa fecha de vencimiento."
+        },
+        {
+          "text": "Se otorga una pr\u00f3rroga autom\u00e1tica de $$30$$ d\u00edas adicionales.",
+          "isCorrect": false,
+          "rationale": "No existen excepciones ni pr\u00f3rrogas autom\u00e1ticas que superen la caducidad del insumo."
+        },
+        {
+          "text": "El plazo es de $$6$$ meses fijos para todos los alimentos.",
+          "isCorrect": false,
+          "rationale": "El plazo es variable y depende estrictamente de la fecha espec\u00edfica de caducidad de cada lote."
+        }
+      ],
+      "hint": "La seguridad alimentaria y la naturaleza del bien priman sobre el plazo general de un a\u00f1o."
+    },
+    {
+      "question": "\u00bfQu\u00e9 mercanc\u00edas est\u00e1n expresamente prohibidas de ingresar al r\u00e9gimen de dep\u00f3sito aduanero?",
+      "answerOptions": [
+        {
+          "text": "Veh\u00edculos nuevos y maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "Estos bienes suelen permitirse siempre que cumplan las normativas de importaci\u00f3n vigentes."
+        },
+        {
+          "text": "Armas, explosivos y menaje de casa.",
+          "isCorrect": true,
+          "rationale": "Por razones de seguridad nacional y naturaleza del r\u00e9gimen, estos art\u00edculos est\u00e1n en la lista cerrada de exclusi\u00f3n."
+        },
+        {
+          "text": "Concentrados de minerales y productos agr\u00edcolas.",
+          "isCorrect": false,
+          "rationale": "Estos productos son pilares del comercio exterior y pueden utilizar diversos reg\u00edmenes aduaneros."
+        },
+        {
+          "text": "Insumos industriales para transformaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los insumos industriales son candidatos ideales para el dep\u00f3sito para optimizar pagos de impuestos."
+        }
+      ],
+      "hint": "Incluye objetos de seguridad nacional y art\u00edculos de uso personal que no encajan en la l\u00f3gica comercial del r\u00e9gimen."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 momento se produce el abandono legal de una mercanc\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Cuando se vence el plazo de $$12$$ meses del dep\u00f3sito.",
+          "isCorrect": false,
+          "rationale": "El abandono legal mencionado se vincula espec\u00edficamente al plazo posterior a la descarga de la mercanc\u00eda."
+        },
+        {
+          "text": "$$30$$ d\u00edas despu\u00e9s de terminada la descarga sin haber solicitado la mercanc\u00eda.",
+          "isCorrect": true,
+          "rationale": "Este mecanismo libera espacio en puertos y aduanas para evitar el colapso de la cadena log\u00edstica."
+        },
+        {
+          "text": "Inmediatamente despu\u00e9s de detectar un error en la subpartida nacional.",
+          "isCorrect": false,
+          "rationale": "Un error de clasificaci\u00f3n genera multas o ajustes, no el abandono legal autom\u00e1tico de la carga."
+        },
+        {
+          "text": "Al cumplirse el sexto mes de almacenamiento de un producto perecible.",
+          "isCorrect": false,
+          "rationale": "Si bien el plazo se acorta, el abandono legal por falta de solicitud ocurre tras la descarga inicial."
+        }
+      ],
+      "hint": "Es un plazo de un mes contado desde un hito operativo en el puerto."
+    },
+    {
+      "question": "\u00bfQu\u00e9 unidad de medida se utiliza para calcular el valor de las multas y penalidades aduaneras?",
+      "answerOptions": [
+        {
+          "text": "El valor FOB de la mercanc\u00eda.",
+          "isCorrect": false,
+          "rationale": "Aunque el valor de la carga es relevante para el c\u00e1lculo de impuestos, las multas se miden en unidades tributarias."
+        },
+        {
+          "text": "La Unidad Impositiva Tributaria (UIT).",
+          "isCorrect": true,
+          "rationale": "La UIT es la regla de medir estandarizada para todas las penalidades del marco sancionador."
+        },
+        {
+          "text": "El porcentaje del Ad Valorem.",
+          "isCorrect": false,
+          "rationale": "El Ad Valorem es un arancel basado en el valor, no la unidad est\u00e1ndar para las sanciones administrativas."
+        },
+        {
+          "text": "El peso bruto de la carga en toneladas.",
+          "isCorrect": false,
+          "rationale": "El peso influye en la log\u00edstica y fletes, pero no determina la cuant\u00eda de una infracci\u00f3n legal."
+        }
+      ],
+      "hint": "Es una referencia econ\u00f3mica estatal cuyo valor actual se mencion\u00f3 como $$5.150$$."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el umbral econ\u00f3mico que separa una infracci\u00f3n administrativa de un delito de contrabando?",
+      "answerOptions": [
+        {
+          "text": "$$2$$ UIT",
+          "isCorrect": false,
+          "rationale": "Este valor es insuficiente para que la elusi\u00f3n del control aduanero se eleve a categor\u00eda penal."
+        },
+        {
+          "text": "$$4$$ UIT",
+          "isCorrect": true,
+          "rationale": "Si la mercanc\u00eda eludida supera este valor, el acto se considera autom\u00e1ticamente un delito de contrabando."
+        },
+        {
+          "text": "$$8$$ UIT",
+          "isCorrect": false,
+          "rationale": "Aunque es un monto mayor, la l\u00ednea divisoria legal se establece exactamente en la mitad de esta cifra."
+        },
+        {
+          "text": "$$10$$ UIT",
+          "isCorrect": false,
+          "rationale": "Este monto est\u00e1 muy por encima del l\u00edmite legal establecido para la tipificaci\u00f3n del delito."
+        }
+      ],
+      "hint": "Es el 'n\u00famero m\u00e1gico' mencionado como la l\u00ednea divisoria absolutamente rigurosa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sanci\u00f3n penal corresponde al delito de defraudaci\u00f3n de rentas mediante el uso de facturas falsas?",
+      "answerOptions": [
+        {
+          "text": "$$2$$ a $$5$$ a\u00f1os de prisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta pena es menor a la establecida para el enga\u00f1o fiscal mediante manipulaci\u00f3n de documentos."
+        },
+        {
+          "text": "$$5$$ a $$8$$ a\u00f1os de prisi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Este es el rango de castigo para quienes maquillan precios o usan documentos falsos para evadir tributos."
+        },
+        {
+          "text": "$$8$$ a $$12$$ a\u00f1os de prisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este rango de pena, m\u00e1s severo, se reserva para el tr\u00e1fico de mercanc\u00edas prohibidas."
+        },
+        {
+          "text": "Suspensi\u00f3n de la licencia de importador por $$12$$ meses.",
+          "isCorrect": false,
+          "rationale": "Esta es una sanci\u00f3n administrativa, no una pena privativa de libertad propia del terreno penal."
+        }
+      ],
+      "hint": "Es una pena severa pero menor que la aplicada al tr\u00e1fico il\u00edcito de bienes controlados."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de las siguientes situaciones se considera una circunstancia agravante que aumenta el rigor de la pena en delitos aduaneros?",
+      "answerOptions": [
+        {
+          "text": "El error de buena fe en el tecleo de un c\u00f3digo.",
+          "isCorrect": false,
+          "rationale": "Esto se considera una situaci\u00f3n no sancionable si se demuestra la falta de mala intenci\u00f3n."
+        },
+        {
+          "text": "El uso de veh\u00edculos con compartimientos ocultos o 'caletas'.",
+          "isCorrect": true,
+          "rationale": "Esta sofisticaci\u00f3n demuestra premeditaci\u00f3n clara y la ley la castiga con el m\u00e1ximo rigor."
+        },
+        {
+          "text": "La ca\u00edda de los sistemas inform\u00e1ticos de la SUNAT.",
+          "isCorrect": false,
+          "rationale": "Los fallos t\u00e9cnicos de la administraci\u00f3n son eximentes de responsabilidad para el usuario."
+        },
+        {
+          "text": "La falta de stock para abastecer un mercado internacional.",
+          "isCorrect": false,
+          "rationale": "Esto conlleva penalidades contractuales comerciales, pero no es un agravante de delito aduanero."
+        }
+      ],
+      "hint": "Se refiere a m\u00e9todos f\u00edsicos dise\u00f1ados espec\u00edficamente para enga\u00f1ar al control."
+    },
+    {
+      "question": "\u00bfQu\u00e9 oportunidad comercial estrat\u00e9gica representa el Puerto de Chancay para el futuro del comercio peruano?",
+      "answerOptions": [
+        {
+          "text": "La eliminaci\u00f3n de los requisitos de certificaci\u00f3n fitosanitaria.",
+          "isCorrect": false,
+          "rationale": "Las certificaciones seguir\u00e1n siendo obligatorias; el puerto mejora la conectividad, no elimina la norma."
+        },
+        {
+          "text": "La conexi\u00f3n directa con el mercado de Asia.",
+          "isCorrect": true,
+          "rationale": "Su capacidad y tecnolog\u00eda de \u00faltima generaci\u00f3n abrir\u00e1n rutas eficientes hacia el mercado asi\u00e1tico."
+        },
+        {
+          "text": "La centralizaci\u00f3n de todas las exportaciones hacia Brasil.",
+          "isCorrect": false,
+          "rationale": "Aunque es una infraestructura clave, su enfoque geogr\u00e1fico principal destacado es la ruta hacia Asia."
+        },
+        {
+          "text": "El reemplazo total de los dep\u00f3sitos aduaneros tradicionales.",
+          "isCorrect": false,
+          "rationale": "El puerto es infraestructura de llegada; los reg\u00edmenes aduaneros siguen siendo herramientas legales necesarias."
+        }
+      ],
+      "hint": "Considera la regi\u00f3n geogr\u00e1fica con la que conectar\u00e1 directamente este terminal de \u00faltima generaci\u00f3n."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Clasificaci\u00f3n Arancelaria y Sistema Armonizado",
+      "Estrategias de Negociaci\u00f3n Internacional y Costos",
+      "R\u00e9gimen de Dep\u00f3sito Aduanero",
+      "Marco Sancionador y Delitos Aduaneros",
+      "Log\u00edstica de Productos Perecederos y Minerales",
+      "Infraestructura Portuaria y Competitividad Global"
+    ],
+    "followUp": [
+      "Acuerdos de Complementaci\u00f3n Econ\u00f3mica (ACE)",
+      "Gesti\u00f3n de Riesgos en Operaciones de Comercio Exterior",
+      "An\u00e1lisis Cuantitativo y Cualitativo con Trademap y Beritrade",
+      "Certificaciones Fitosanitarias y Restricciones No Arancelarias",
+      "Potestad Punitiva del Estado y Derecho Aduanero"
+    ]
+  }
+}

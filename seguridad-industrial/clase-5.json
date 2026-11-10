@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la definici\u00f3n t\u00e9cnica de un material peligroso (MATPEL) en el entorno industrial?",
+      "answerOptions": [
+        {
+          "text": "Sustancias qu\u00edmicas que solo se encuentran en laboratorios de alta tecnolog\u00eda o complejos secretos.",
+          "isCorrect": false,
+          "rationale": "El riesgo qu\u00edmico no es exclusivo de instalaciones avanzadas, sino que est\u00e1 presente en actividades cotidianas como el uso de lej\u00eda o cemento."
+        },
+        {
+          "text": "Cualquier sustancia s\u00f3lida, l\u00edquida o gaseosa capaz de da\u00f1ar la salud, el ambiente o las propiedades.",
+          "isCorrect": true,
+          "rationale": "Esta definici\u00f3n abarca los tres pilares de impacto (salud, entorno y bienes) y contempla los tres estados f\u00edsicos de la materia."
+        },
+        {
+          "text": "Aquellos elementos que generan ebullici\u00f3n violenta \u00fanicamente al entrar en contacto directo con el agua.",
+          "isCorrect": false,
+          "rationale": "Aunque sustancias como la cal reaccionan as\u00ed, la definici\u00f3n de MATPEL es mucho m\u00e1s amplia y no se limita a esta reacci\u00f3n espec\u00edfica."
+        },
+        {
+          "text": "Productos manufacturados que han superado su fecha de caducidad en el envase pl\u00e1stico primario.",
+          "isCorrect": false,
+          "rationale": "Si bien la caducidad del envase aumenta el riesgo de derrame, el t\u00e9rmino MATPEL se refiere a las propiedades intr\u00ednsecas de la sustancia."
+        }
+      ],
+      "hint": "Considere la amplitud de los posibles da\u00f1os y los estados de la materia involucrados."
+    },
+    {
+      "question": "En el nivel de respuesta uno (Advertencia) ante materiales peligrosos, \u00bfcu\u00e1l es el mandato absoluto para el personal?",
+      "answerOptions": [
+        {
+          "text": "Intervenir inmediatamente con el equipo de protecci\u00f3n personal b\u00e1sico disponible en el \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "La intervenci\u00f3n directa sin el equipo especializado y entrenamiento adecuado est\u00e1 terminantemente prohibida en este nivel de respuesta."
+        },
+        {
+          "text": "Reconocer la amenaza, recopilar informaci\u00f3n a distancia segura y llamar a especialistas.",
+          "isCorrect": true,
+          "rationale": "El nivel de advertencia se centra exclusivamente en la identificaci\u00f3n y notificaci\u00f3n para evitar la exposici\u00f3n directa de personal no calificado."
+        },
+        {
+          "text": "Desplegar barreras f\u00edsicas y diques para evitar que el qu\u00edmico alcance alcantarillas de inmediato.",
+          "isCorrect": false,
+          "rationale": "Estas acciones corresponden a una fase de contenci\u00f3n t\u00e1ctica que requiere un nivel de respuesta y protecci\u00f3n superior al de advertencia."
+        },
+        {
+          "text": "Identificar la clase de riesgo utilizando el sistema de nueve clases de la ONU antes de evacuar.",
+          "isCorrect": false,
+          "rationale": "Aunque identificar es parte del proceso, la prioridad absoluta es mantener la distancia y notificar antes de intentar un an\u00e1lisis detallado."
+        }
+      ],
+      "hint": "Piense en la regla de oro que prioriza la vida sobre la intervenci\u00f3n directa en la primera fase."
+    },
+    {
+      "question": "Dentro del sistema de clasificaci\u00f3n de la ONU, \u00bfqu\u00e9 tipo de peligro representa la Clase 2?",
+      "answerOptions": [
+        {
+          "text": "S\u00f3lidos inflamables como el sodio met\u00e1lico que arde al contacto con el aire.",
+          "isCorrect": false,
+          "rationale": "Los s\u00f3lidos inflamables y sustancias reactivas al aire pertenecen a la Clase 4, no a la Clase 2."
+        },
+        {
+          "text": "L\u00edquidos inflamables que presentan un riesgo evidente de ignici\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta categor\u00eda corresponde a la Clase 3 del sistema estandarizado de la ONU."
+        },
+        {
+          "text": "Gases, incluyendo aquellos que pueden explotar bajo alta presi\u00f3n como el ox\u00edgeno.",
+          "isCorrect": true,
+          "rationale": "La Clase 2 agrupa todos los estados gaseosos, alertando sobre peligros de presi\u00f3n, inflamabilidad o toxicidad en este estado."
+        },
+        {
+          "text": "Materiales radioactivos o infecciosos de alta complejidad t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "Los materiales radioactivos e infecciosos se ubican en clases num\u00e9ricas superiores debido a su naturaleza espec\u00edfica."
+        }
+      ],
+      "hint": "Recuerde qu\u00e9 estado de la materia incluye a sustancias vitales que pueden volverse peligrosas bajo presi\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 indica el color azul en el sistema de se\u00f1alizaci\u00f3n visual NFPA 704, conocido como diamante de fuego?",
+      "answerOptions": [
+        {
+          "text": "El grado de inflamabilidad o facilidad con la que el qu\u00edmico puede arder.",
+          "isCorrect": false,
+          "rationale": "La inflamabilidad se representa mediante el color rojo en el diamante de seguridad."
+        },
+        {
+          "text": "La inestabilidad qu\u00edmica o la capacidad de reacci\u00f3n violenta del material.",
+          "isCorrect": false,
+          "rationale": "Este tipo de riesgo se identifica con el color amarillo en la escala de reactividad."
+        },
+        {
+          "text": "Los peligros espec\u00edficos, como la reacci\u00f3n violenta del material con el agua.",
+          "isCorrect": false,
+          "rationale": "Esta informaci\u00f3n se coloca en el cuadrante blanco mediante s\u00edmbolos espec\u00edficos."
+        },
+        {
+          "text": "Los riesgos o niveles de peligrosidad para la salud del personal expuesto.",
+          "isCorrect": true,
+          "rationale": "El azul est\u00e1 destinado exclusivamente a medir el impacto biol\u00f3gico y los da\u00f1os a la salud humana."
+        }
+      ],
+      "hint": "Este cuadrante alerta sobre el da\u00f1o directo al organismo del trabajador."
+    },
+    {
+      "question": "En la escala del sistema NFPA 704, \u00bfcu\u00e1l es el significado del nivel $4$?",
+      "answerOptions": [
+        {
+          "text": "Riesgo moderado que requiere precauci\u00f3n est\u00e1ndar durante el manejo.",
+          "isCorrect": false,
+          "rationale": "Los niveles intermedios indican riesgos controlables, pero el $4$ es el extremo m\u00e1ximo de la escala."
+        },
+        {
+          "text": "Riesgo mortal inminente ante la exposici\u00f3n o manipulaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La escala va de $0$ a $4$, donde el $4$ representa el peligro m\u00e1s severo y letal posible en esa categor\u00eda."
+        },
+        {
+          "text": "Material inerte que no presenta peligro bajo condiciones normales.",
+          "isCorrect": false,
+          "rationale": "La ausencia de peligro o riesgo m\u00ednimo se representa con el valor $0$."
+        },
+        {
+          "text": "Sustancia que requiere vigilancia m\u00e9dica solo despu\u00e9s de $24$ horas.",
+          "isCorrect": false,
+          "rationale": "El nivel $4$ implica una amenaza inmediata y cr\u00edtica, no una que permita esperas prolongadas."
+        }
+      ],
+      "hint": "Este n\u00famero representa el tope de la escala de severidad en el diamante de fuego."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la Hoja de Datos de Seguridad (SDS) provista por el fabricante?",
+      "answerOptions": [
+        {
+          "text": "Actuar como un registro administrativo para auditor\u00edas de almacenamiento masivo.",
+          "isCorrect": false,
+          "rationale": "Considerarla solo un tr\u00e1mite administrativo es un error, ya que es una herramienta operativa vital."
+        },
+        {
+          "text": "Servir como gu\u00eda para la facturaci\u00f3n y log\u00edstica de transporte internacional.",
+          "isCorrect": false,
+          "rationale": "Aunque contiene datos log\u00edsticos, su enfoque principal es la seguridad qu\u00edmica y la protecci\u00f3n del operador."
+        },
+        {
+          "text": "Detallar propiedades qu\u00edmicas exactas, EPP obligatorio y protocolos de primeros auxilios.",
+          "isCorrect": true,
+          "rationale": "Se considera la Biblia operativa porque re\u00fane toda la informaci\u00f3n cr\u00edtica necesaria para el manejo seguro de una sustancia."
+        },
+        {
+          "text": "Establecer \u00fanicamente los precios y la disponibilidad del producto en el mercado.",
+          "isCorrect": false,
+          "rationale": "La SDS es un documento t\u00e9cnico de seguridad y no tiene prop\u00f3sitos comerciales o de mercadeo."
+        }
+      ],
+      "hint": "Piense en el documento que se consulta para saber qu\u00e9 guantes usar o qu\u00e9 hacer en caso de contacto accidental."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es fundamental implementar una matriz de compatibilidad en los almacenes?",
+      "answerOptions": [
+        {
+          "text": "Para optimizar el espacio f\u00edsico permitiendo que todas las sustancias coexistan juntas.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la matriz restringe la coexistencia de ciertas sustancias para evitar reacciones peligrosas."
+        },
+        {
+          "text": "Para determinar qu\u00e9 sustancias pueden coexistir sin generar reacciones accidentales mortales.",
+          "isCorrect": true,
+          "rationale": "Esta herramienta evita que productos incompatibles (como t\u00f3xicos y corrosivos) se almacenen cerca, previniendo desastres por proximidad."
+        },
+        {
+          "text": "Para clasificar los envases seg\u00fan su fecha de caducidad pl\u00e1stica \u00fanicamente.",
+          "isCorrect": false,
+          "rationale": "La caducidad es un factor de mantenimiento, mientras que la compatibilidad se refiere a la interacci\u00f3n qu\u00edmica entre distintos productos."
+        },
+        {
+          "text": "Para facilitar el transporte masivo en palets hacia las carreteras p\u00fablicas.",
+          "isCorrect": false,
+          "rationale": "La matriz es una herramienta de ordenamiento interno en el almac\u00e9n, no un protocolo de carga para transporte."
+        }
+      ],
+      "hint": "Considere el riesgo de colocar sustancias con reactividades opuestas una al lado de la otra."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia cr\u00edtica tiene la caducidad del envase pl\u00e1stico primario de un material peligroso?",
+      "answerOptions": [
+        {
+          "text": "Un cambio inmediato en el color y la viscosidad del qu\u00edmico contenido.",
+          "isCorrect": false,
+          "rationale": "Aunque el qu\u00edmico puede degradarse, el peligro principal aqu\u00ed reside en la falla estructural del contenedor mismo."
+        },
+        {
+          "text": "La p\u00e9rdida de las etiquetas de identificaci\u00f3n y del diamante de fuego.",
+          "isCorrect": false,
+          "rationale": "La degradaci\u00f3n del pl\u00e1stico es un proceso f\u00edsico-qu\u00edmico del material, no solo un problema de se\u00f1alizaci\u00f3n externa."
+        },
+        {
+          "text": "Descomposici\u00f3n estructural que causa derrames y liberaci\u00f3n de micropl\u00e1sticos.",
+          "isCorrect": true,
+          "rationale": "Cuando el pl\u00e1stico vence, se debilita, aumentando el riesgo de fugas y contaminando el contenido con part\u00edculas pl\u00e1sticas."
+        },
+        {
+          "text": "Un aumento en el peso total del producto que dificulta el transporte en palets.",
+          "isCorrect": false,
+          "rationale": "La caducidad afecta la integridad y seguridad del envase, no su masa o peso gravitatorio."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 le sucede al material del recipiente con el paso del tiempo y c\u00f3mo afecta esto a la contenci\u00f3n."
+    },
+    {
+      "question": "En la ejecuci\u00f3n t\u00e1ctica ante un derrame, \u00bfcu\u00e1l es el objetivo del paso n\u00famero dos (Contener)?",
+      "answerOptions": [
+        {
+          "text": "Identificar el material y la magnitud del problema desde una distancia prudencial.",
+          "isCorrect": false,
+          "rationale": "Esta acci\u00f3n corresponde al paso uno (Evaluar), que debe preceder a cualquier intento de contenci\u00f3n f\u00edsica."
+        },
+        {
+          "text": "Desplegar barreras f\u00edsicas y diques para evitar que el qu\u00edmico llegue a alcantarillas.",
+          "isCorrect": true,
+          "rationale": "Contener implica limitar el \u00e1rea de propagaci\u00f3n del fluido para proteger los sistemas de drenaje y el medio ambiente."
+        },
+        {
+          "text": "Neutralizar o solidificar el l\u00edquido derramado utilizando kits especializados.",
+          "isCorrect": false,
+          "rationale": "La neutralizaci\u00f3n y solidificaci\u00f3n son parte del paso tres (Absorber), realizado una vez que el derrame ya no se est\u00e1 extendiendo."
+        },
+        {
+          "text": "Encapsular los residuos en bolsas etiquetadas para su eliminaci\u00f3n certificada.",
+          "isCorrect": false,
+          "rationale": "La encapsulaci\u00f3n es el paso final (Desechar), que se ejecuta tras haber controlado y absorbido el material."
+        }
+      ],
+      "hint": "Se trata de detener el avance del l\u00edquido hacia puntos cr\u00edticos como sumideros."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el concepto de contaminaci\u00f3n cruzada en la industria qu\u00edmica?",
+      "answerOptions": [
+        {
+          "text": "La mezcla intencional de dos qu\u00edmicos para potenciar su efectividad industrial.",
+          "isCorrect": false,
+          "rationale": "La contaminaci\u00f3n cruzada es un proceso no deseado y accidental, no una mezcla planificada."
+        },
+        {
+          "text": "La transferencia no deseada de agentes nocivos de una superficie a otra.",
+          "isCorrect": true,
+          "rationale": "Ocurre cuando equipos o superficies mal descontaminados llevan t\u00f3xicos a \u00e1reas limpias o a otros operarios."
+        },
+        {
+          "text": "El proceso de ebullici\u00f3n violenta que ocurre al mezclar cemento con agua.",
+          "isCorrect": false,
+          "rationale": "Ese fen\u00f3meno es una reacci\u00f3n qu\u00edmica espec\u00edfica, mientras que la contaminaci\u00f3n cruzada es un mecanismo de propagaci\u00f3n de riesgos."
+        },
+        {
+          "text": "La identificaci\u00f3n err\u00f3nea de un producto por falta de hojas de seguridad.",
+          "isCorrect": false,
+          "rationale": "La falta de identificaci\u00f3n es un fallo informativo; la contaminaci\u00f3n cruzada es un hecho f\u00edsico de transferencia de sustancias."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo un residuo invisible puede viajar desde un guante usado hasta una superficie limpia."
+    },
+    {
+      "question": "Dentro del modelo IPERC, \u00bfcu\u00e1l es la secuencia correcta de las etapas para la prevenci\u00f3n operativa?",
+      "answerOptions": [
+        {
+          "text": "Evaluaci\u00f3n de riesgos, compra de equipos y finalmente capacitaci\u00f3n del personal.",
+          "isCorrect": false,
+          "rationale": "El modelo IPERC tiene etapas t\u00e9cnicas definidas que comienzan con la detecci\u00f3n de la fuente del peligro."
+        },
+        {
+          "text": "Identificaci\u00f3n de peligros, evaluaci\u00f3n de riesgos y establecimiento de medidas de control.",
+          "isCorrect": true,
+          "rationale": "Esta secuencia l\u00f3gica permite entender primero a qu\u00e9 nos enfrentamos, qu\u00e9 tan grave es y c\u00f3mo vamos a mitigarlo."
+        },
+        {
+          "text": "Identificaci\u00f3n de negligencias, procesos penales y reestructuraci\u00f3n de la gerencia.",
+          "isCorrect": false,
+          "rationale": "Aunque las negligencias pueden llevar a procesos penales, el IPERC es una herramienta preventiva, no un proceso sancionador posterior."
+        },
+        {
+          "text": "Evaluaci\u00f3n del factor humano, monitoreo de la frecuencia card\u00edaca y control de estr\u00e9s.",
+          "isCorrect": false,
+          "rationale": "Estos son aspectos psicosociales que influyen en la seguridad, pero no definen la estructura central del modelo IPERC."
+        }
+      ],
+      "hint": "Son tres pasos fundamentales que van desde localizar el peligro hasta aplicar una soluci\u00f3n."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afectan los factores psicosociales, como la presi\u00f3n constante, al desempe\u00f1o biol\u00f3gico del trabajador?",
+      "answerOptions": [
+        {
+          "text": "Mejoran los reflejos y la capacidad de respuesta ante emergencias qu\u00edmicas.",
+          "isCorrect": false,
+          "rationale": "La presi\u00f3n excesiva generalmente degrada la capacidad cognitiva y f\u00edsica en lugar de mejorarla."
+        },
+        {
+          "text": "Reducen la sudoraci\u00f3n para permitir un mejor agarre de las herramientas de precisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El estr\u00e9s suele provocar sudoraci\u00f3n excesiva, lo cual puede ser un factor de riesgo adicional."
+        },
+        {
+          "text": "Generan precursores biol\u00f3gicos de error, como alteraci\u00f3n de sentidos y frecuencia card\u00edaca alta.",
+          "isCorrect": true,
+          "rationale": "El estr\u00e9s cr\u00f3nico desconecta la mente del protocolo, facilitando la ocurrencia de accidentes fatales por fallos f\u00edsicos y mentales."
+        },
+        {
+          "text": "Eliminan la necesidad de seguir los procedimientos operativos estandarizados.",
+          "isCorrect": false,
+          "rationale": "Ning\u00fan factor personal justifica omitir los est\u00e1ndares de seguridad; de hecho, los hace m\u00e1s necesarios."
+        }
+      ],
+      "hint": "Piense en las respuestas f\u00edsicas involuntarias que el cuerpo tiene cuando se trabaja bajo mucha prisa."
+    },
+    {
+      "question": "Seg\u00fan la Ley $29783$, \u00bfqu\u00e9 nivel de responsabilidad asumen los gerentes y supervisores ante negligencias en seguridad?",
+      "answerOptions": [
+        {
+          "text": "\u00danicamente una responsabilidad administrativa con multas menores para la empresa.",
+          "isCorrect": false,
+          "rationale": "La ley contempla repercusiones mucho m\u00e1s severas que el simple \u00e1mbito administrativo o pecuniario."
+        },
+        {
+          "text": "Responsabilidades legales y penales directas por omitir controles o equipos certificados.",
+          "isCorrect": true,
+          "rationale": "La legislaci\u00f3n actual sanciona con procesos penales a los l\u00edderes si su negligencia resulta en accidentes o fallos cr\u00edticos."
+        },
+        {
+          "text": "Responsabilidad compartida solo con el fabricante del equipo de protecci\u00f3n personal.",
+          "isCorrect": false,
+          "rationale": "El liderazgo organizacional tiene una obligaci\u00f3n directa de fomentar la prevenci\u00f3n que es independiente de la calidad del equipo."
+        },
+        {
+          "text": "Ninguna, ya que el trabajador es el \u00fanico responsable de seguir los protocolos.",
+          "isCorrect": false,
+          "rationale": "La ley establece que la organizaci\u00f3n debe garantizar las condiciones de seguridad, haciendo responsables a sus l\u00edderes."
+        }
+      ],
+      "hint": "Considere que las consecuencias pueden ir m\u00e1s all\u00e1 de una sanci\u00f3n econ\u00f3mica, llegando al \u00e1mbito judicial personal."
+    },
+    {
+      "question": "En la jerarqu\u00eda de controles, \u00bfcu\u00e1l es considerada la barrera blanda m\u00e1s cr\u00edtica en una operaci\u00f3n de alto riesgo?",
+      "answerOptions": [
+        {
+          "text": "La se\u00f1alizaci\u00f3n de \u00e1reas con cinta amarilla y letreros de advertencia.",
+          "isCorrect": false,
+          "rationale": "La se\u00f1alizaci\u00f3n es un control administrativo visual, pero no garantiza la comprensi\u00f3n profunda del riesgo."
+        },
+        {
+          "text": "El uso obligatorio de botas diel\u00e9ctricas y guantes de protecci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El equipo de protecci\u00f3n personal es la \u00faltima l\u00ednea de defensa, no una barrera blanda de gesti\u00f3n inicial."
+        },
+        {
+          "text": "La capacitaci\u00f3n del personal para comprender y enfrentar los riesgos.",
+          "isCorrect": true,
+          "rationale": "Sin capacitaci\u00f3n, los trabajadores no entienden a qu\u00e9 se enfrentan, haciendo que cualquier otra barrera sea ineficaz."
+        },
+        {
+          "text": "La instalaci\u00f3n de barreras f\u00edsicas permanentes y aislamiento de ingenier\u00eda.",
+          "isCorrect": false,
+          "rationale": "Estos son controles de ingenier\u00eda o 'barreras duras', no barreras blandas."
+        }
+      ],
+      "hint": "Es el elemento que asegura que el trabajador realmente sepa el porqu\u00e9 de los procedimientos."
+    },
+    {
+      "question": "\u00bfA partir de qu\u00e9 altura sobre el nivel del suelo se define t\u00e9cnicamente un trabajo en altura de cumplimiento obligatorio?",
+      "answerOptions": [
+        {
+          "text": "$1.20$ metros.",
+          "isCorrect": false,
+          "rationale": "Este valor es inferior al est\u00e1ndar t\u00e9cnico de seguridad de hierro mencionado para el uso obligatorio de arn\u00e9s."
+        },
+        {
+          "text": "$3.00$ metros.",
+          "isCorrect": false,
+          "rationale": "Esta cifra se asocia al pago de bonificaciones en construcci\u00f3n civil, pero la seguridad operativa rige desde mucho antes."
+        },
+        {
+          "text": "$1.80$ metros.",
+          "isCorrect": true,
+          "rationale": "A partir de $1.80$ m es obligatorio el uso de arn\u00e9s, puntos de anclaje y prohibici\u00f3n de trabajo en solitario."
+        },
+        {
+          "text": "$0.50$ metros.",
+          "isCorrect": false,
+          "rationale": "Este valor se relaciona con la distancia de seguridad en excavaciones, no con el umbral de ca\u00edda en altura."
+        }
+      ],
+      "hint": "Memorice el n\u00famero preciso que marca la obligatoriedad del arn\u00e9s de cuerpo completo."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es obligatorio el uso de un winche mec\u00e1nico al realizar trabajos en espacios confinados?",
+      "answerOptions": [
+        {
+          "text": "Para bajar las herramientas de forma m\u00e1s r\u00e1pida y eficiente al fondo del tanque.",
+          "isCorrect": false,
+          "rationale": "Su prop\u00f3sito no es la eficiencia log\u00edstica, sino la seguridad y el rescate de vidas."
+        },
+        {
+          "text": "Para monitorear los niveles de ox\u00edgeno y metano durante la jornada.",
+          "isCorrect": false,
+          "rationale": "El monitoreo atmosf\u00e9rico es una tarea previa que se realiza con detectores de gas, no con un winche."
+        },
+        {
+          "text": "Porque es casi imposible arrastrar el peso muerto de una persona inconsciente a puro pulso.",
+          "isCorrect": true,
+          "rationale": "En caso de desmayo, el cuerpo se vuelve peso muerto y solo un sistema mec\u00e1nico garantiza un rescate exitoso sin arriesgar a otros."
+        },
+        {
+          "text": "Para evitar que el personal tenga contacto con aguas residuales o lodo.",
+          "isCorrect": false,
+          "rationale": "El winche es un dispositivo de elevaci\u00f3n para rescate y acceso, no una barrera de protecci\u00f3n contra qu\u00edmicos."
+        }
+      ],
+      "hint": "Piense en la f\u00edsica involucrada al intentar sacar a un adulto desmayado de una profundidad."
+    },
+    {
+      "question": "En excavaciones, \u00bfcu\u00e1l es la regla de distancia m\u00ednima para colocar el material extra\u00eddo (tierra)?",
+      "answerOptions": [
+        {
+          "text": "Justo en el borde de la zanja para facilitar el relleno posterior.",
+          "isCorrect": false,
+          "rationale": "Colocar el peso en el borde garantiza el colapso de las paredes sobre los trabajadores."
+        },
+        {
+          "text": "A una distancia equivalente a $1.5$ veces la profundidad de la excavaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta es la distancia recomendada para maquinaria pesada que genera vibraciones, no para el material de desecho."
+        },
+        {
+          "text": "A una distancia m\u00ednima de $0.5$ veces la profundidad de la zanja.",
+          "isCorrect": true,
+          "rationale": "Se requiere medio metro de distancia por cada metro excavado para evitar que el propio peso de la tierra colapse la pared."
+        },
+        {
+          "text": "A una distancia fija de $1.80$ metros sin importar la profundidad cabada.",
+          "isCorrect": false,
+          "rationale": "La distancia debe ser proporcional a la profundidad para compensar la presi\u00f3n ejercida sobre el talud."
+        }
+      ],
+      "hint": "Es un c\u00e1lculo matem\u00e1tico basado en la mitad de la profundidad de la excavaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito del protocolo LOTO (Lockout/Tagout) en trabajos el\u00e9ctricos?",
+      "answerOptions": [
+        {
+          "text": "Aislar y bloquear f\u00edsicamente fuentes de energ\u00eda antes de tocar un equipo.",
+          "isCorrect": true,
+          "rationale": "El bloqueo y etiquetado garantiza que nadie pueda reconectar la corriente accidentalmente mientras se realiza el mantenimiento."
+        },
+        {
+          "text": "Proporcionar calzado diel\u00e9ctrico a todos los operarios del \u00e1rea el\u00e9ctrica.",
+          "isCorrect": false,
+          "rationale": "El calzado es un EPP, mientras que LOTO es un procedimiento administrativo y f\u00edsico de bloqueo de energ\u00eda."
+        },
+        {
+          "text": "Medir la resistencia del aislamiento en cables de alta tensi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "LOTO es un sistema de seguridad de bloqueo, no una herramienta de medici\u00f3n el\u00e9ctrica."
+        },
+        {
+          "text": "Establecer una vigilancia continua contra incendios durante soldaduras.",
+          "isCorrect": false,
+          "rationale": "La vigilancia de incendios es un protocolo para trabajos en caliente, no el objetivo de LOTO."
+        }
+      ],
+      "hint": "Imagine un candado que impide que alguien encienda una m\u00e1quina mientras usted la repara."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n fundamental dej\u00f3 el incidente radiol\u00f3gico de Yanango en $1999$?",
+      "answerOptions": [
+        {
+          "text": "Que los materiales radioactivos son inofensivos si se guardan en bolsillos de plomo.",
+          "isCorrect": false,
+          "rationale": "El incidente demostr\u00f3 exactamente lo contrario: la extrema peligrosidad de la exposici\u00f3n directa sin blindaje."
+        },
+        {
+          "text": "Que la ignorancia sobre los riesgos invisibles puede ser letal.",
+          "isCorrect": true,
+          "rationale": "El trabajador manipul\u00f3 Iridio $192$ sin saber qu\u00e9 era, lo que le caus\u00f3 necrosis grave y la p\u00e9rdida de una pierna."
+        },
+        {
+          "text": "Que el uso de detectores de gas es suficiente para prevenir riesgos de radiaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los detectores de gas no sirven para la radiaci\u00f3n; se requieren instrumentos espec\u00edficos y se\u00f1alizaci\u00f3n t\u00e9cnica."
+        },
+        {
+          "text": "Que las c\u00e1psulas de iridio solo son peligrosas si entran en contacto con el agua.",
+          "isCorrect": false,
+          "rationale": "La peligrosidad de la radiaci\u00f3n es por emisi\u00f3n de part\u00edculas/ondas, independientemente del contacto con sustancias como el agua."
+        }
+      ],
+      "hint": "Piense en las consecuencias de manipular objetos desconocidos en una zona industrial sin capacitaci\u00f3n."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es especialmente peligrosa la v\u00eda de entrada parenteral para los contaminantes qu\u00edmicos?",
+      "answerOptions": [
+        {
+          "text": "Porque el qu\u00edmico se inhala directamente hacia los pulmones.",
+          "isCorrect": false,
+          "rationale": "La inhalaci\u00f3n es la v\u00eda respiratoria, no la parenteral."
+        },
+        {
+          "text": "Porque los agentes nocivos se cuelan directamente por heridas o llagas abiertas.",
+          "isCorrect": true,
+          "rationale": "Esta v\u00eda salta la barrera protectora de la piel intacta, permitiendo el ingreso directo al torrente sangu\u00edneo o tejidos internos."
+        },
+        {
+          "text": "Porque ocurre a trav\u00e9s del contacto con los ojos durante un derrame.",
+          "isCorrect": false,
+          "rationale": "El contacto ocular es una v\u00eda de entrada mucosa o por absorci\u00f3n local, distinta a la parenteral."
+        },
+        {
+          "text": "Porque implica la ingesti\u00f3n accidental de sustancias qu\u00edmicas en el almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "La ingesti\u00f3n corresponde a la v\u00eda digestiva, no a la v\u00eda parenteral."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede cuando la piel tiene un corte o una lesi\u00f3n previa."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gesti\u00f3n de Materiales Peligrosos (MATPEL)",
+      "Sistemas de Clasificaci\u00f3n y Se\u00f1alizaci\u00f3n (ONU, NFPA 704)",
+      "Protocolos de Respuesta ante Derrames",
+      "Modelos de Gesti\u00f3n de Riesgos (IPERC)",
+      "Seguridad en Trabajos de Alto Riesgo (Altura, Espacios Confinados, Excavaciones)",
+      "Seguridad El\u00e9ctrica y Trabajos en Caliente",
+      "Riesgo Radiol\u00f3gico y Factores Psicosociales"
+    ],
+    "followUp": [
+      "Interpretaci\u00f3n avanzada de Hojas de Datos de Seguridad (SDS)",
+      "Criterios de certificaci\u00f3n para equipos de protecci\u00f3n personal (EPP)",
+      "Legislaci\u00f3n nacional en salud y seguridad ocupacional (Ley 29783)",
+      "Metodolog\u00edas de orden y limpieza industrial (5S)",
+      "Est\u00e1ndares internacionales ISO 45001 en seguridad industrial"
+    ]
+  }
+}

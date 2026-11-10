@@ -1,0 +1,543 @@
+
+{
+  "quiz": [
+    {
+      "question": "¿Cuál fue el cambio principal en el panorama de amenazas de seguridad para las operaciones mineras entre las décadas de 1980-90 y el siglo XXI?",
+      "answerOptions": [
+        {
+          "text": "La transición del terrorismo hacia los conflictos sociales y el crimen organizado.",
+          "isCorrect": true,
+          "rationale": "La evolución histórica muestra que las amenazas mutaron de un escenario de terrorismo a uno de mayor complejidad social y violencia criminal."
+        },
+        {
+          "text": "El paso de la delincuencia común a los ciberataques de alta tecnología.",
+          "isCorrect": false,
+          "rationale": "Aunque la tecnología es relevante, el cambio macro estructural identificado se centra en dinámicas sociales y bandas organizadas."
+        },
+        {
+          "text": "La sustitución de los conflictos laborales por desastres geológicos naturales.",
+          "isCorrect": false,
+          "rationale": "Los factores geológicos siempre están presentes, pero la evolución estratégica se refiere a las amenazas de seguridad externa."
+        },
+        {
+          "text": "El cambio de un enfoque preventivo a uno puramente basado en vigilancia física.",
+          "isCorrect": false,
+          "rationale": "Es lo opuesto; la estrategia obsoleta era la vigilancia física, evolucionando hacia la inteligencia avanzada."
+        }
+      ],
+      "hint": "Considere la evolución de las dinámicas sociales y el tipo de agrupaciones violentas que han ganado terreno recientemente."
+    },
+    {
+      "question": "¿Por qué se considera que los cercos perimétricos y cámaras son insuficientes en la minería moderna?",
+      "answerOptions": [
+        {
+          "text": "Porque las amenazas actuales poseen una capacidad de fuego y movilización que supera la infraestructura física.",
+          "isCorrect": true,
+          "rationale": "Las bandas organizadas actuales pueden rebasar los perímetros tradicionales mediante tácticas sofisticadas y fuerza masiva."
+        },
+        {
+          "text": "Debido a que el costo de mantenimiento de los muros es mayor que el beneficio operativo.",
+          "isCorrect": false,
+          "rationale": "El problema no es económico, sino de efectividad frente a la complejidad de las amenazas externas."
+        },
+        {
+          "text": "Porque la ley prohíbe el uso de barreras físicas en zonas de tránsito comunitario.",
+          "isCorrect": false,
+          "rationale": "No existe tal prohibición legal; se trata de una limitación estratégica de la barrera física ante amenazas complejas."
+        },
+        {
+          "text": "Ya que la vigilancia electrónica no funciona en condiciones geográficas adversas.",
+          "isCorrect": false,
+          "rationale": "La vigilancia electrónica es útil, pero insuficiente por sí sola para anticiparse a dinámicas sociales profundas."
+        }
+      ],
+      "hint": "Piense en la capacidad operativa de los grupos que generan las amenazas actuales."
+    },
+    {
+      "question": "¿Qué función estratégica cumplen las rondas campesinas al ser integradas en los esquemas de seguridad minera?",
+      "answerOptions": [
+        {
+          "text": "Actúan como un escudo social con autoridad legítima para mitigar conflictos y ataques armados.",
+          "isCorrect": true,
+          "rationale": "Su autoridad social y control local les permite proyectar un respeto que la fuerza pública tradicional a veces no logra."
+        },
+        {
+          "text": "Reemplazan por completo a la Policía Nacional en las tareas de detención de criminales.",
+          "isCorrect": false,
+          "rationale": "Su rol es de acompañamiento y amortiguación social, no sustituyen las facultades legales de la fuerza pública."
+        },
+        {
+          "text": "Se encargan exclusivamente de la capacitación técnica en seguridad industrial.",
+          "isCorrect": false,
+          "rationale": "Su función principal es la vigilancia comunitaria y el control social, no la capacitación técnica."
+        },
+        {
+          "text": "Funcionan como un sindicato para negociar salarios con la gerencia general.",
+          "isCorrect": false,
+          "rationale": "Las rondas campesinas son actores comunitarios de vigilancia, no organizaciones sindicales laborales."
+        }
+      ],
+      "hint": "Su efectividad radica en el reconocimiento que tienen dentro de su propia población."
+    },
+    {
+      "question": "¿Cuál es el porcentaje mínimo de empleo local requerido para generar lealtad y sentido de pertenencia en la comunidad?",
+      "answerOptions": [
+        {
+          "text": "$15\\%$",
+          "isCorrect": true,
+          "rationale": "Cumplir con este porcentaje de empleo local es un mecanismo crítico para prevenir conflictos y crear compromiso tangible."
+        },
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Este valor es inferior al requerimiento innegociable mencionado para mantener la estabilidad social."
+        },
+        {
+          "text": "$20\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje corresponde al ratio destinado a compras locales, no específicamente al empleo directo."
+        },
+        {
+          "text": "$25\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque sería beneficioso, el estándar operativo mencionado para cumplir con la cuota de recursos humanos es menor."
+        }
+      ],
+      "hint": "Este número representa una métrica innegociable para la contratación de personal de la zona."
+    },
+    {
+      "question": "¿Cuál es el propósito fundamental de destinar un $20\\%$ a las compras de proveedores locales?",
+      "answerOptions": [
+        {
+          "text": "Inyectar dinero en la economía de la zona para desactivar el riesgo de huelgas y bloqueos.",
+          "isCorrect": true,
+          "rationale": "El beneficio económico directo en la comunidad consolida la relación y asegura la continuidad de la operación."
+        },
+        {
+          "text": "Reducir los costos logísticos de importación de maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "La compra local suele enfocarse en servicios y suministros menores, no necesariamente en maquinaria de alta tecnología."
+        },
+        {
+          "text": "Cumplir con una tasa impositiva exigida por el Ministerio de Economía y Finanzas.",
+          "isCorrect": false,
+          "rationale": "Se trata de una estrategia de gestión de riesgos sociales, no de una obligación tributaria directa."
+        },
+        {
+          "text": "Evitar la fiscalización de entidades gubernamentales como la SUNAFIL.",
+          "isCorrect": false,
+          "rationale": "La compra local no exime a la empresa de las inspecciones laborales o de seguridad."
+        }
+      ],
+      "hint": "Considere el impacto que tiene el beneficio económico directo sobre la paz social."
+    },
+    {
+      "question": "¿Cuál es la norma considerada como la piedra angular de la seguridad laboral en el marco legal peruano?",
+      "answerOptions": [
+        {
+          "text": "Ley $29783$",
+          "isCorrect": true,
+          "rationale": "Esta es la ley base sobre la cual se construye toda la estructura normativa de seguridad y salud en el trabajo."
+        },
+        {
+          "text": "Decreto Supremo $024-2016-EM$",
+          "isCorrect": false,
+          "rationale": "Este es el reglamento específico para minería, pero se fundamenta en la ley general de seguridad laboral."
+        },
+        {
+          "text": "Decreto Supremo $023-2017-EM$",
+          "isCorrect": false,
+          "rationale": "Esta es una modificatoria del reglamento minero, no la ley base general."
+        },
+        {
+          "text": "Ley de Formalización de la Minería Informal",
+          "isCorrect": false,
+          "rationale": "Aunque relacionada con el sector, no es la norma matriz de seguridad y salud ocupacional."
+        }
+      ],
+      "hint": "Se trata de una ley general que aplica a todos los sectores económicos antes de los reglamentos específicos."
+    },
+    {
+      "question": "¿Qué requisito es indispensable para conformar un Comité de Seguridad y Salud Ocupacional en una unidad minera?",
+      "answerOptions": [
+        {
+          "text": "Contar con más de $20$ trabajadores y tener una estructura paritaria.",
+          "isCorrect": true,
+          "rationale": "La ley exige que el comité tenga igual representación de la empresa y los trabajadores cuando se supera ese número de empleados."
+        },
+        {
+          "text": "Tener la aprobación previa de la mayoría de las rondas campesinas locales.",
+          "isCorrect": false,
+          "rationale": "El comité es una estructura interna de la empresa regulada por la ley laboral, no por autoridades comunales."
+        },
+        {
+          "text": "Que todos los miembros sean designados exclusivamente por el gerente general.",
+          "isCorrect": false,
+          "rationale": "Los representantes de los trabajadores deben ser elegidos directamente por ellos mismos, no designados por la gerencia."
+        },
+        {
+          "text": "Que la unidad minera se encuentre en fase de explotación avanzada.",
+          "isCorrect": false,
+          "rationale": "La obligación de formar el comité depende del número de trabajadores, independientemente de la fase del proyecto."
+        }
+      ],
+      "hint": "Piense en el número mínimo de personal y en la igualdad de representación entre partes."
+    },
+    {
+      "question": "¿Por qué el liderazgo de la alta gerencia es vital para la cultura de seguridad?",
+      "answerOptions": [
+        {
+          "text": "Porque la seguridad debe fusionarse con la producción y contar con asignación presupuestaria real.",
+          "isCorrect": true,
+          "rationale": "Sin el respaldo económico y la prioridad del gerente general, el trabajador no adoptará una cultura preventiva real."
+        },
+        {
+          "text": "Para evitar que los trabajadores tomen decisiones sobre el uso del equipo de protección.",
+          "isCorrect": false,
+          "rationale": "El liderazgo busca empoderar y proteger, no centralizar decisiones técnicas de autoprotección."
+        },
+        {
+          "text": "Debido a que el gerente es el único responsable legal ante un accidente mortal.",
+          "isCorrect": false,
+          "rationale": "Aunque tiene responsabilidades, el enfoque del liderazgo es preventivo y sistémico, no solo legal punitivo."
+        },
+        {
+          "text": "Porque permite reducir el número de reuniones mensuales del comité de seguridad.",
+          "isCorrect": false,
+          "rationale": "El liderazgo efectivo suele fomentar, no reducir, los espacios de coordinación y comunicación."
+        }
+      ],
+      "hint": "Sin recursos y ejemplo desde la cima, la seguridad se percibe como algo secundario frente a las metas de extracción."
+    },
+    {
+      "question": "¿Qué factor de salud ocupacional ha ganado especial relevancia debido a regímenes como el $20 \\times 10$?",
+      "answerOptions": [
+        {
+          "text": "El factor psicosocial y el bienestar mental del trabajador.",
+          "isCorrect": true,
+          "rationale": "El desgaste por jornadas prolongadas y el aislamiento requiere un enfoque crítico en la salud mental para evitar errores fatales."
+        },
+        {
+          "text": "La resistencia física a la exposición de rayos gamma.",
+          "isCorrect": false,
+          "rationale": "Aunque hay riesgos físicos, el régimen de días trabajados impacta principalmente en la salud mental y emocional."
+        },
+        {
+          "text": "El control estricto de la dieta calórica diaria.",
+          "isCorrect": false,
+          "rationale": "La nutrición es importante, pero el desafío crítico de los regímenes mineros largos es la fatiga y el estado psicológico."
+        },
+        {
+          "text": "La prevención de enfermedades virales estacionales.",
+          "isCorrect": false,
+          "rationale": "Los riesgos biológicos se consideran, pero el enfoque en regímenes de permanencia es el desgaste psicosocial."
+        }
+      ],
+      "hint": "Piense en el efecto que tiene trabajar muchos días seguidos lejos de la familia y en soledad."
+    },
+    {
+      "question": "En la jerarquía de control de riesgos del IPERC, ¿cuál es la última línea de defensa que se debe aplicar?",
+      "answerOptions": [
+        {
+          "text": "Equipo de protección personal (EPP).",
+          "isCorrect": true,
+          "rationale": "El EPP solo se utiliza cuando no ha sido posible eliminar, sustituir o controlar el riesgo mediante ingeniería o administración."
+        },
+        {
+          "text": "Eliminación del peligro.",
+          "isCorrect": false,
+          "rationale": "La eliminación es la primera opción y la más efectiva en la jerarquía, no la última."
+        },
+        {
+          "text": "Controles de ingeniería.",
+          "isCorrect": false,
+          "rationale": "Estos se sitúan en el medio de la jerarquía, después de la sustitución y antes de los administrativos."
+        },
+        {
+          "text": "Sustitución de procesos.",
+          "isCorrect": false,
+          "rationale": "La sustitución es la segunda medida de control más efectiva después de la eliminación total."
+        }
+      ],
+      "hint": "Es el elemento que protege directamente al trabajador pero no elimina la fuente del riesgo."
+    },
+    {
+      "question": "¿Qué documento define el paso a paso metódico para realizar una tarea e incluye las restricciones que obligan a detenerla?",
+      "answerOptions": [
+        {
+          "text": "PETS (Procedimientos Escritos para Trabajo Seguro).",
+          "isCorrect": true,
+          "rationale": "Los PETS son hojas de ruta que detallan personal, herramientas, pasos y líneas rojas para la operación."
+        },
+        {
+          "text": "HDS (Hojas de Datos de Seguridad).",
+          "isCorrect": false,
+          "rationale": "Las HDS proporcionan información específica sobre sustancias químicas, no sobre el procedimiento general de una tarea."
+        },
+        {
+          "text": "IPERC Continuo.",
+          "isCorrect": false,
+          "rationale": "El IPERC es una evaluación de riesgos, mientras que el PETS es la guía procedimental de cómo ejecutar el trabajo."
+        },
+        {
+          "text": "Matriz de capacitación anual.",
+          "isCorrect": false,
+          "rationale": "Este documento registra el entrenamiento del personal, no los pasos operativos de una labor específica."
+        }
+      ],
+      "hint": "Considere el instrumento que funciona como un 'mapa de ruta' para evitar la improvisación."
+    },
+    {
+      "question": "¿Cuál es el nivel mínimo de oxígeno requerido por norma para autorizar el ingreso a un espacio confinado?",
+      "answerOptions": [
+        {
+          "text": "$19.5\\%$",
+          "isCorrect": true,
+          "rationale": "Este es el estándar de seguridad para garantizar una atmósfera respirable y prevenir la asfixia en espacios cerrados."
+        },
+        {
+          "text": "$21.0\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es el nivel normal en el aire atmosférico, el límite mínimo de seguridad permitido es ligeramente inferior."
+        },
+        {
+          "text": "$18.0\\%$",
+          "isCorrect": false,
+          "rationale": "Un nivel de $18\\%$ se considera deficiente y peligroso para la salud del trabajador en minería."
+        },
+        {
+          "text": "$15.5\\%$",
+          "isCorrect": false,
+          "rationale": "Este nivel es extremadamente bajo y provocaría una pérdida de conciencia inmediata."
+        }
+      ],
+      "hint": "Es un valor decimal específico por debajo del cual el ambiente se considera peligroso."
+    },
+    {
+      "question": "¿Qué lección fundamental dejó el accidente en Antamina relacionado con los puntos ciegos de la maquinaria pesada?",
+      "answerOptions": [
+        {
+          "text": "Nunca asumir que el operador te ha visto, incluso si hay alarmas de retroceso.",
+          "isCorrect": true,
+          "rationale": "La falla de una alarma técnica demuestra que la única barrera segura es mantenerse fuera de la línea de fuego y puntos ciegos."
+        },
+        {
+          "text": "Que los vehículos deben ser de menor tamaño para mejorar la visibilidad.",
+          "isCorrect": false,
+          "rationale": "El tamaño de la maquinaria es una necesidad operativa; la lección es sobre el comportamiento y posicionamiento del personal."
+        },
+        {
+          "text": "Que las alarmas de retroceso deben ser reemplazadas por señales de radio.",
+          "isCorrect": false,
+          "rationale": "Las alarmas son útiles, pero la lección crítica es no confiar ciegamente en ellas para la seguridad personal."
+        },
+        {
+          "text": "Que el personal de a pie tiene prioridad de paso absoluta sobre los camiones.",
+          "isCorrect": false,
+          "rationale": "En minería, debido a la inercia y puntos ciegos, la prioridad suele ser de la maquinaria pesada por razones de seguridad física."
+        }
+      ],
+      "hint": "Considere la vulnerabilidad de una persona frente a un vehículo gigante cuando la tecnología de advertencia falla."
+    },
+    {
+      "question": "¿En qué consiste el derecho a la 'negativa al trabajo inseguro'?",
+      "answerOptions": [
+        {
+          "text": "En la facultad ética y legal de detener una tarea si hay peligro inminente, sin temor a represalias.",
+          "isCorrect": true,
+          "rationale": "Es un escudo protector que empodera al trabajador para priorizar su vida frente a condiciones de riesgo no controladas."
+        },
+        {
+          "text": "En la posibilidad de renunciar a la empresa si no se está de acuerdo con los horarios.",
+          "isCorrect": false,
+          "rationale": "La negativa al trabajo se refiere a una labor específica peligrosa, no a la relación laboral general."
+        },
+        {
+          "text": "En el derecho a no usar el EPP si el trabajador lo considera incómodo.",
+          "isCorrect": false,
+          "rationale": "El uso de EPP es obligatorio; el derecho es a no trabajar si el entorno o las herramientas son inseguros."
+        },
+        {
+          "text": "En la opción de elegir tareas basándose únicamente en la preferencia personal.",
+          "isCorrect": false,
+          "rationale": "La negativa debe estar justificada por un riesgo real o percepción de peligro, no por gusto personal."
+        }
+      ],
+      "hint": "Es un mecanismo de empoderamiento ante situaciones como clima extremo o fallas mecánicas."
+    },
+    {
+      "question": "¿Cuál es el orden correcto de las acciones en el protocolo de respuesta ante emergencias PAS?",
+      "answerOptions": [
+        {
+          "text": "Proteger, Avisar, Socorrer.",
+          "isCorrect": true,
+          "rationale": "Primero se asegura la escena para evitar más víctimas, luego se comunica la emergencia y finalmente se brinda auxilio."
+        },
+        {
+          "text": "Prevenir, Analizar, Solucionar.",
+          "isCorrect": false,
+          "rationale": "Estas acciones son parte de la gestión general, pero no conforman el protocolo reactivo estandarizado PAS."
+        },
+        {
+          "text": "Socorrer, Avisar, Proteger.",
+          "isCorrect": false,
+          "rationale": "Socorrer primero sin proteger la zona podría convertir al rescatista en una segunda víctima."
+        },
+        {
+          "text": "Avisar, Proteger, Socorrer.",
+          "isCorrect": false,
+          "rationale": "Aunque avisar es importante, la prioridad absoluta inicial es garantizar que el área sea segura para el interviniente."
+        }
+      ],
+      "hint": "Piense en la secuencia lógica que garantiza primero la seguridad de quien va a ayudar."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de realizar una investigación de causa raíz tras un incidente?",
+      "answerOptions": [
+        {
+          "text": "Desentrañar los fallos ocultos en el sistema para evitar que el error estructural se repita.",
+          "isCorrect": true,
+          "rationale": "La investigación busca corregir el sistema, no culpar a individuos, asegurando una mejora continua."
+        },
+        {
+          "text": "Identificar al responsable directo para aplicar las sanciones administrativas correspondientes.",
+          "isCorrect": false,
+          "rationale": "Buscar 'chivos expiatorios' no es el fin de la investigación de seguridad; eso oculta los problemas del sistema."
+        },
+        {
+          "text": "Reducir el pago de primas de seguros mediante la justificación del error humano.",
+          "isCorrect": false,
+          "rationale": "El propósito es preventivo y ético (salvar vidas), no meramente financiero o de seguros."
+        },
+        {
+          "text": "Documentar el evento únicamente para cumplir con el trámite ante Osinergmin.",
+          "isCorrect": false,
+          "rationale": "El cumplimiento legal es necesario, pero el valor real es la implementación de correcciones permanentes."
+        }
+      ],
+      "hint": "Enfoque su pensamiento en la prevención futura y en las fallas del engranaje organizativo."
+    },
+    {
+      "question": "Durante una alerta roja por tormentas eléctricas, ¿cuál es el refugio más seguro y por qué?",
+      "answerOptions": [
+        {
+          "text": "Los vehículos, porque su diseño metálico actúa como una caja de Faraday.",
+          "isCorrect": true,
+          "rationale": "La estructura guía la electricidad por el exterior, manteniendo a los ocupantes a salvo en el interior."
+        },
+        {
+          "text": "Debajo de la maquinaria pesada, para evitar el impacto directo del rayo.",
+          "isCorrect": false,
+          "rationale": "Estar debajo o cerca de estructuras metálicas grandes sin estar dentro de ellas aumenta el riesgo por arco eléctrico."
+        },
+        {
+          "text": "Las torres de alta tensión, ya que poseen pararrayos integrados.",
+          "isCorrect": false,
+          "rationale": "Es extremadamente peligroso acercarse a estructuras de conducción eléctrica durante una tormenta."
+        },
+        {
+          "text": "Zonas abiertas y despejadas para no atraer descargas sobre objetos altos.",
+          "isCorrect": false,
+          "rationale": "En zonas abiertas, la persona se convierte en el punto más alto, lo cual es un riesgo crítico de impacto directo."
+        }
+      ],
+      "hint": "Piense en el principio físico que explica cómo un recinto metálico cerrado protege de las descargas externas."
+    },
+    {
+      "question": "¿Qué entidad se encarga específicamente de fiscalizar la seguridad técnica, como infraestructura y ventilación, en la minería?",
+      "answerOptions": [
+        {
+          "text": "Osinergmin",
+          "isCorrect": true,
+          "rationale": "Este organismo tiene la competencia de evaluar los aspectos técnicos y operativos de la infraestructura minera."
+        },
+        {
+          "text": "SUNAFIL",
+          "isCorrect": false,
+          "rationale": "SUNAFIL se enfoca en la fiscalización del cumplimiento de los derechos laborales y la seguridad del trabajador."
+        },
+        {
+          "text": "OEFA",
+          "isCorrect": false,
+          "rationale": "La OEFA es la encargada de la fiscalización y cumplimiento de los compromisos ambientales."
+        },
+        {
+          "text": "Ministerio de Salud (MINSA)",
+          "isCorrect": false,
+          "rationale": "Aunque regula la salud, no es el ente supervisor directo de la infraestructura técnica de una mina."
+        }
+      ],
+      "hint": "Es el organismo regulador de la inversión en energía y minería con enfoque técnico."
+    },
+    {
+      "question": "En el contexto de salud ocupacional, ¿qué acción evitó un accidente fatal en el caso del operario en Puno?",
+      "answerOptions": [
+        {
+          "text": "El retiro temporal del trabajador debido a la detección de un estado de duelo agudo.",
+          "isCorrect": true,
+          "rationale": "Detectar a tiempo una mente fragmentada por el duelo previene errores críticos de concentración en zonas de alto riesgo."
+        },
+        {
+          "text": "La entrega de un nuevo casco con mayor resistencia a impactos.",
+          "isCorrect": false,
+          "rationale": "El problema era de origen psicológico/atencional, no de falta de equipo de protección física."
+        },
+        {
+          "text": "La instalación de una barrera física en el andamio donde trabajaba.",
+          "isCorrect": false,
+          "rationale": "Las barreras físicas ayudan, pero la intervención clave fue sobre el factor humano y su estado emocional."
+        },
+        {
+          "text": "El aumento de la iluminación en el turno de noche.",
+          "isCorrect": false,
+          "rationale": "La iluminación es importante, pero no resuelve la pérdida de concentración derivada de una crisis personal grave."
+        }
+      ],
+      "hint": "Se centró en la gestión de la salud mental y la intervención proactiva del equipo médico."
+    },
+    {
+      "question": "¿Qué distingue a una empresa con 'empatía corporativa' frente a una que solo cumple la ley?",
+      "answerOptions": [
+        {
+          "text": "Acciones proactivas de apoyo ante emergencias familiares, como facilitar traslados inmediatos.",
+          "isCorrect": true,
+          "rationale": "Ir más allá del manual genera lealtad y compromiso, humanizando la relación entre empresa y trabajador."
+        },
+        {
+          "text": "Cumplir puntualmente con el pago de las gratificaciones legales.",
+          "isCorrect": false,
+          "rationale": "El pago de beneficios es una obligación legal básica, no necesariamente un gesto de empatía corporativa."
+        },
+        {
+          "text": "Contratar únicamente a personal que no tenga cargas familiares.",
+          "isCorrect": false,
+          "rationale": "Esto sería una práctica discriminatoria y contraria a los principios de responsabilidad social."
+        },
+        {
+          "text": "Tener un reglamento interno de trabajo muy estricto.",
+          "isCorrect": false,
+          "rationale": "La rigidez normativa no es sinónimo de empatía; la empatía se demuestra en la flexibilidad y apoyo ante lo humano."
+        }
+      ],
+      "hint": "Se refiere a gestos que demuestran una preocupación genuina por la persona más allá de su productividad."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Evolución estratégica de la seguridad minera",
+      "Gestión de riesgos sociales y criminalidad",
+      "Marco legal y normativo (Ley $29783$, DS $024-2016-EM$)",
+      "Salud ocupacional y factores psicosociales",
+      "Metodologías operativas (IPERC, PETS)",
+      "Seguridad en tareas de alto potencial",
+      "Protocolos de respuesta ante emergencias"
+    ],
+    "followUp": [
+      "Diseño de sistemas de inteligencia preventiva en minería",
+      "Psicología de la seguridad y prevención de errores humanos",
+      "Técnicas avanzadas de análisis de causa raíz ($RCA$)",
+      "Relaciones comunitarias y sostenibilidad social en proyectos extractivos",
+      "Estándares internacionales de higiene industrial"
+    ]
+  }
+}

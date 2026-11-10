@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el cambio fundamental en la l\u00f3gica de las decisiones del comercio internacional moderno?",
+      "answerOptions": [
+        {
+          "text": "Se basan primordialmente en el ahorro de costos log\u00edsticos y rapidez.",
+          "isCorrect": false,
+          "rationale": "Esta era la visi\u00f3n tradicional, pero ahora el comercio se entiende como una proyecci\u00f3n de intereses geopol\u00edticos."
+        },
+        {
+          "text": "Operan bajo una arquitectura de seguridad econ\u00f3mica y rivalidad estrat\u00e9gica.",
+          "isCorrect": true,
+          "rationale": "Las decisiones actuales trascienden lo operativo para convertirse en un juego de ajedrez geopol\u00edtico entre potencias."
+        },
+        {
+          "text": "Buscan \u00fanicamente la eliminaci\u00f3n total de las aduanas f\u00edsicas.",
+          "isCorrect": false,
+          "rationale": "Las aduanas siguen siendo cr\u00edticas como primera l\u00ednea de defensa y control de flujos globales."
+        },
+        {
+          "text": "Se centran exclusivamente en la expansi\u00f3n de mercados de consumo masivo.",
+          "isCorrect": false,
+          "rationale": "Si bien el consumo es importante, la seguridad nacional y la resiliencia operativa dictan las reglas actuales."
+        }
+      ],
+      "hint": "Considere que mover cajas ya no es el \u00fanico fin, sino que hay un trasfondo de poder global."
+    },
+    {
+      "question": "Desde una perspectiva estrat\u00e9gica, \u00bfc\u00f3mo debe ser considerada la importaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Como un simple gasto de divisas que afecta la balanza comercial.",
+          "isCorrect": false,
+          "rationale": "Ver la importaci\u00f3n solo como un gasto ignora su potencial para la transferencia tecnol\u00f3gica."
+        },
+        {
+          "text": "Como una herramienta para la adquisici\u00f3n de transferencias de tecnolog\u00eda vitales.",
+          "isCorrect": true,
+          "rationale": "Permite acceder a maquinaria o software especializado que optimiza la rentabilidad y el desarrollo local."
+        },
+        {
+          "text": "Como el principal motor para traer divisas al pa\u00eds.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde habitualmente a la exportaci\u00f3n, no a la importaci\u00f3n."
+        },
+        {
+          "text": "Como un mecanismo para frenar la competencia industrial interna.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el ingreso fluido de insumos puede actuar como un acelerador del desarrollo industrial."
+        }
+      ],
+      "hint": "Piense en lo que obtiene una empresa cuando adquiere software o maquinaria avanzada que no existe localmente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de los tratados de libre comercio (TLC) seg\u00fan las variables macroecon\u00f3micas?",
+      "answerOptions": [
+        {
+          "text": "Eliminar la necesidad de controles fitosanitarios en fronteras.",
+          "isCorrect": false,
+          "rationale": "Los controles sanitarios suelen mantenerse por seguridad, aunque el tratado facilite otros aspectos."
+        },
+        {
+          "text": "Estabilizar los tipos de cambio de las monedas involucradas.",
+          "isCorrect": false,
+          "rationale": "Los TLC reducen aranceles, pero no suelen fijar o controlar las fluctuaciones del mercado de divisas."
+        },
+        {
+          "text": "Brindar previsibilidad a largo plazo mediante la reducci\u00f3n de aranceles.",
+          "isCorrect": true,
+          "rationale": "Act\u00faan como salvavidas legales que permiten a las empresas planificar negocios sin cambios abruptos en las reglas."
+        },
+        {
+          "text": "Garantizar que la demanda de insumos siempre est\u00e9 en expansi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La demanda depende de los ciclos econ\u00f3micos mundiales, no directamente del marco legal del tratado."
+        }
+      ],
+      "hint": "Busque el beneficio legal que permite a un inversionista planificar a varios a\u00f1os de distancia."
+    },
+    {
+      "question": "\u00bfQu\u00e9 concepto define la capacidad del sistema legal de EE. UU. para sancionar empresas fuera de sus fronteras f\u00edsicas?",
+      "answerOptions": [
+        {
+          "text": "Soberan\u00eda econ\u00f3mica restringida.",
+          "isCorrect": false,
+          "rationale": "Este t\u00e9rmino no describe la proyecci\u00f3n de leyes nacionales sobre actores extranjeros."
+        },
+        {
+          "text": "Inmunidad comercial internacional.",
+          "isCorrect": false,
+          "rationale": "La inmunidad implicar\u00eda que no pueden ser sancionados, lo cual es opuesto a la realidad del sistema estadounidense."
+        },
+        {
+          "text": "Extraterritorialidad.",
+          "isCorrect": true,
+          "rationale": "Permite que sus leyes y castigos alcancen a entidades a miles de kil\u00f3metros si tienen contacto con su sistema financiero."
+        },
+        {
+          "text": "Jurisdicci\u00f3n aduanera compartida.",
+          "isCorrect": false,
+          "rationale": "Las aduanas operan en fronteras espec\u00edficas; la aplicaci\u00f3n de leyes anticorrupci\u00f3n o de emergencia va m\u00e1s all\u00e1."
+        }
+      ],
+      "hint": "Relacione el alcance de la ley con un prefijo que indica 'fuera de' o 'm\u00e1s all\u00e1 del' territorio."
+    },
+    {
+      "question": "Bajo la ley FCPA de Estados Unidos, \u00bfqu\u00e9 se exige a las empresas adem\u00e1s de la prohibici\u00f3n de sobornos?",
+      "answerOptions": [
+        {
+          "text": "Contratar \u00fanicamente personal estadounidense en puestos directivos.",
+          "isCorrect": false,
+          "rationale": "La ley no dicta pol\u00edticas de contrataci\u00f3n de personal basadas en nacionalidad."
+        },
+        {
+          "text": "Una transparencia contable absoluta para justificar cada transacci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Busca frenar el fraude exigiendo que cada centavo en operaciones internacionales est\u00e9 impecablemente registrado."
+        },
+        {
+          "text": "Operar exclusivamente con bancos que tengan sede f\u00edsica en Washington.",
+          "isCorrect": false,
+          "rationale": "Solo requiere un contacto o 'roce' con el sistema financiero, no exclusividad de sede."
+        },
+        {
+          "text": "Pagar un arancel adicional por cada contrato firmado con gobiernos extranjeros.",
+          "isCorrect": false,
+          "rationale": "La FCPA es una normativa de pr\u00e1cticas corruptas y transparencia, no un impuesto sobre contratos."
+        }
+      ],
+      "hint": "Piense en la 'segunda cara' de esta ley que obliga a llevar libros de registro muy detallados."
+    },
+    {
+      "question": "\u00bfQu\u00e9 facultad otorga la ley IEEPA al poder ejecutivo de los Estados Unidos?",
+      "answerOptions": [
+        {
+          "text": "Aumentar autom\u00e1ticamente el salario m\u00ednimo en sectores industriales.",
+          "isCorrect": false,
+          "rationale": "Esta es una pol\u00edtica laboral interna que no corresponde a la Ley de Poderes Econ\u00f3micos de Emergencia."
+        },
+        {
+          "text": "Investigar el da\u00f1o que las importaciones causan al mercado interno.",
+          "isCorrect": false,
+          "rationale": "Esta es una funci\u00f3n t\u00e9cnica de la ITC, no una facultad de emergencia del Ejecutivo."
+        },
+        {
+          "text": "Negociar tratados de libre comercio sin aprobaci\u00f3n del Congreso.",
+          "isCorrect": false,
+          "rationale": "La negociaci\u00f3n de tratados es un proceso pol\u00edtico complejo que suele liderar el USTR bajo otros marcos."
+        },
+        {
+          "text": "Restringir o congelar transacciones financieras ante amenazas a la seguridad nacional.",
+          "isCorrect": true,
+          "rationale": "Permite 'apagar el interruptor' de los negocios internacionales de inmediato si se considera que hay un riesgo pa\u00eds."
+        }
+      ],
+      "hint": "Recuerde que esta ley se activa en situaciones de crisis o emergencia internacional."
+    },
+    {
+      "question": "\u00bfQu\u00e9 agencia estadounidense act\u00faa como el 'cerebro' que formula pol\u00edticas comerciales y negocia tratados?",
+      "answerOptions": [
+        {
+          "text": "OFAC.",
+          "isCorrect": false,
+          "rationale": "La OFAC se encarga de la ejecuci\u00f3n de sanciones y control de activos, no de la negociaci\u00f3n de tratados."
+        },
+        {
+          "text": "USTR.",
+          "isCorrect": true,
+          "rationale": "La Oficina del Representante Comercial de los Estados Unidos es la encargada de la pol\u00edtica y tratados comerciales."
+        },
+        {
+          "text": "ITC.",
+          "isCorrect": false,
+          "rationale": "La ITC funciona como un \u00e1rbitro t\u00e9cnico que investiga el impacto de las importaciones en la industria local."
+        },
+        {
+          "text": "SUNAT.",
+          "isCorrect": false,
+          "rationale": "La SUNAT es una entidad de administraci\u00f3n aduanera y tributaria, mencionada como ejemplo regional, no estadounidense."
+        }
+      ],
+      "hint": "Es la entidad que dise\u00f1a la estrategia de inserci\u00f3n comercial de la potencia norteamericana."
+    },
+    {
+      "question": "En el marco del TMEC (USMCA), \u00bfcu\u00e1l es la vigencia garantizada del acuerdo para dar certeza a los inversionistas?",
+      "answerOptions": [
+        {
+          "text": "$5$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Un periodo tan corto no brindar\u00eda la estabilidad necesaria para cadenas de suministro de gran escala."
+        },
+        {
+          "text": "$10$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Aunque es un periodo considerable, el tratado estipul\u00f3 un tiempo mayor para asegurar inversiones multimillonarias."
+        },
+        {
+          "text": "$16$ a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Esta vigencia de $16$ a\u00f1os proporciona la tranquilidad necesaria para planificar operaciones complejas a largo plazo."
+        },
+        {
+          "text": "$25$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "El tratado es de largo plazo, pero la cifra exacta fijada fue de $16$ a\u00f1os."
+        }
+      ],
+      "hint": "Es un n\u00famero que permite a las corporaciones no 'sudar fr\u00edo' por cambios repentinos en las reglas."
+    },
+    {
+      "question": "\u00bfCon qu\u00e9 frecuencia se realiza la revisi\u00f3n conjunta obligatoria en el TMEC para asegurar su flexibilidad?",
+      "answerOptions": [
+        {
+          "text": "Anualmente.",
+          "isCorrect": false,
+          "rationale": "Una revisi\u00f3n anual ser\u00eda demasiado frecuente y generar\u00eda inestabilidad operativa."
+        },
+        {
+          "text": "Cada $6$ a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Permite ajustar el acuerdo a nuevas tecnolog\u00edas o crisis sin necesidad de desmantelar todo el tratado."
+        },
+        {
+          "text": "Cada $16$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Esta es la vigencia total del acuerdo, pero las revisiones ocurren en intervalos m\u00e1s cortos para mantenerlo actualizado."
+        },
+        {
+          "text": "Cada $10$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "El periodo establecido de revisi\u00f3n es menor a una d\u00e9cada para reaccionar a la volatilidad del mercado."
+        }
+      ],
+      "hint": "Es un periodo intermedio que permite sentarse a platicar sobre ajustes necesarios."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje de valor de contenido regional exige el TMEC para que un autom\u00f3vil circule sin aranceles?",
+      "answerOptions": [
+        {
+          "text": "$50\\%$.",
+          "isCorrect": false,
+          "rationale": "Un $50\\%$ permitir\u00eda que demasiadas piezas vinieran de fuera de la regi\u00f3n, lo cual el tratado busca limitar."
+        },
+        {
+          "text": "$62.5\\%$.",
+          "isCorrect": false,
+          "rationale": "Este era un est\u00e1ndar previo, pero el TMEC elev\u00f3 la exigencia para fortalecer la manufactura regional."
+        },
+        {
+          "text": "$75\\%$.",
+          "isCorrect": true,
+          "rationale": "Se requiere que tres cuartas partes del carro sean fabricadas dentro de Norteam\u00e9rica para evitar la triangulaci\u00f3n de piezas."
+        },
+        {
+          "text": "$90\\%$.",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra alta, el est\u00e1ndar negociado se fij\u00f3 en el $75\\%$ para ser exigente pero factible."
+        }
+      ],
+      "hint": "Considere que se pide que tres de cada cuatro partes del veh\u00edculo sean regionales."
+    },
+    {
+      "question": "\u00bfC\u00f3mo protege el TMEC la innovaci\u00f3n en el comercio digital?",
+      "answerOptions": [
+        {
+          "text": "Permitiendo aranceles reducidos solo para videojuegos.",
+          "isCorrect": false,
+          "rationale": "El tratado va m\u00e1s all\u00e1 y proh\u00edbe expl\u00edcitamente el cobro de aranceles a productos digitales en general."
+        },
+        {
+          "text": "Obligando a las startups a registrar sus patentes \u00fanicamente en EE. UU.",
+          "isCorrect": false,
+          "rationale": "El tratado busca la protecci\u00f3n de propiedad intelectual, pero no restringe el registro a un solo pa\u00eds."
+        },
+        {
+          "text": "Prohibiendo expl\u00edcitamente cobrar aranceles a productos digitales.",
+          "isCorrect": true,
+          "rationale": "Garantiza que el software y otros bienes digitales fluyan libremente sin muros de impuestos en las fronteras."
+        },
+        {
+          "text": "Limitando el acceso de software extranjero a la red local.",
+          "isCorrect": false,
+          "rationale": "El esp\u00edritu del TMEC en esta materia es la apertura y protecci\u00f3n del flujo digital, no su limitaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en lo que representa 'oro puro' para las startups tecnol\u00f3gicas al cruzar fronteras."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza al modelo de 'econom\u00eda socialista de mercado' de China?",
+      "answerOptions": [
+        {
+          "text": "Un sistema de libre mercado absoluto sin intervenci\u00f3n gubernamental.",
+          "isCorrect": false,
+          "rationale": "El modelo chino se caracteriza precisamente por una direcci\u00f3n estatal muy fuerte."
+        },
+        {
+          "text": "Una planificaci\u00f3n centralizada rigurosa fusionada con una apertura comercial estrat\u00e9gica.",
+          "isCorrect": true,
+          "rationale": "Permite capitalizar beneficios globales mientras el Estado mantiene el control de la direcci\u00f3n econ\u00f3mica."
+        },
+        {
+          "text": "La prohibici\u00f3n total de la inversi\u00f3n extranjera en todos los sectores.",
+          "isCorrect": false,
+          "rationale": "China utiliza la apertura estrat\u00e9gica y leyes de inversi\u00f3n para atraer capital externo bajo sus reglas."
+        },
+        {
+          "text": "La ausencia de normativas sobre la propiedad intelectual o comercio exterior.",
+          "isCorrect": false,
+          "rationale": "China posee una arquitectura legal compleja, incluyendo leyes de comercio exterior e inversi\u00f3n."
+        }
+      ],
+      "hint": "Considere la mezcla entre el control del Estado y la participaci\u00f3n en el mercado global."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito primordial de la Ley de Inversi\u00f3n Extranjera de $2020$ en China?",
+      "answerOptions": [
+        {
+          "text": "Nacionalizar todas las empresas tecnol\u00f3gicas externas.",
+          "isCorrect": false,
+          "rationale": "La ley busca regular y atraer inversi\u00f3n, no la expropiaci\u00f3n masiva de activos."
+        },
+        {
+          "text": "Simplificar procesos administrativos para atraer capital externo manteniendo la soberan\u00eda.",
+          "isCorrect": true,
+          "rationale": "Fue una respuesta a presiones internacionales para ofrecer mayor seguridad jur\u00eddica bajo las reglas locales."
+        },
+        {
+          "text": "Eliminar la necesidad de reportar datos al Ministerio de Comercio.",
+          "isCorrect": false,
+          "rationale": "El MOFCOM mantiene un rol rector y de supervisi\u00f3n constante sobre la actividad comercial."
+        },
+        {
+          "text": "Permitir que las empresas extranjeras dicten sus propias normativas de seguridad.",
+          "isCorrect": false,
+          "rationale": "El principio de 'reglas de la casa' indica que es el Estado quien mantiene el tim\u00f3n normativo."
+        }
+      ],
+      "hint": "Es una medida para balancear la seguridad jur\u00eddica pedida por el mundo con el control soberano."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 China impone restricciones a la exportaci\u00f3n de 'tierras raras'?",
+      "answerOptions": [
+        {
+          "text": "Debido a una escasez f\u00edsica absoluta de estos materiales.",
+          "isCorrect": false,
+          "rationale": "Las restricciones no se deben a falta de inventario, sino a una decisi\u00f3n estrat\u00e9gica de cadena de suministro."
+        },
+        {
+          "text": "Para incentivar que otros pa\u00edses exploren sus propios yacimientos.",
+          "isCorrect": false,
+          "rationale": "El objetivo es proteger la ventaja competitiva propia, no fomentar la competencia externa."
+        },
+        {
+          "text": "Para proteger su cadena de suministro interna y mantener una ventaja tecnol\u00f3gica.",
+          "isCorrect": true,
+          "rationale": "Al restringir estos materiales cr\u00edticos, aseguran el insumo para su propia industria frente al resto del mundo."
+        },
+        {
+          "text": "Como una medida de protecci\u00f3n ambiental exclusivamente.",
+          "isCorrect": false,
+          "rationale": "Aunque pueda haber factores ambientales, la motivaci\u00f3n principal es el control de recursos estrat\u00e9gicos."
+        }
+      ],
+      "hint": "Se trata de materiales hipercriticos para la industria tecnol\u00f3gica global."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la pol\u00edtica de localizaci\u00f3n de datos aplicada por China?",
+      "answerOptions": [
+        {
+          "text": "Obligar a las empresas a compartir sus contrase\u00f1as con el p\u00fablico.",
+          "isCorrect": false,
+          "rationale": "La pol\u00edtica se centra en la ubicaci\u00f3n f\u00edsica del almacenamiento, no en la divulgaci\u00f3n de credenciales individuales."
+        },
+        {
+          "text": "Almacenar informaci\u00f3n sensible \u00fanicamente dentro del territorio nacional.",
+          "isCorrect": true,
+          "rationale": "Busca blindar la infraestructura digital contra interferencias externas manteniendo los datos en fronteras f\u00edsicas."
+        },
+        {
+          "text": "Permitir que los datos de ciudadanos chinos se guarden en servidores en la nube de EE. UU.",
+          "isCorrect": false,
+          "rationale": "La localizaci\u00f3n de datos proh\u00edbe precisamente que la informaci\u00f3n sensible salga del pa\u00eds."
+        },
+        {
+          "text": "Eliminar los requisitos de ciberseguridad para empresas de software.",
+          "isCorrect": false,
+          "rationale": "Al contrario, estas pol\u00edticas son parte de un marco de seguridad cibern\u00e9tica muy estricto."
+        }
+      ],
+      "hint": "Piense en el requisito de que la informaci\u00f3n 'viva' f\u00edsicamente dentro de un lugar espec\u00edfico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede en la denominada 'trampa de los commodities'?",
+      "answerOptions": [
+        {
+          "text": "Un pa\u00eds exporta tecnolog\u00eda de alto valor e importa materias primas baratas.",
+          "isCorrect": false,
+          "rationale": "Esta situaci\u00f3n ser\u00eda favorable para los t\u00e9rminos de intercambio, no una 'trampa'."
+        },
+        {
+          "text": "Se produce una sobreoferta de productos manufacturados que nadie quiere comprar.",
+          "isCorrect": false,
+          "rationale": "La trampa se refiere a la relaci\u00f3n desigual entre materias primas y tecnolog\u00eda, no solo a la manufactura."
+        },
+        {
+          "text": "Se exportan materias primas baratas mientras se depende de importar tecnolog\u00eda cara.",
+          "isCorrect": true,
+          "rationale": "Esto perpet\u00faa una dependencia econ\u00f3mica donde los t\u00e9rminos de intercambio siempre juegan en contra."
+        },
+        {
+          "text": "El pa\u00eds logra autonom\u00eda total al no necesitar comercio exterior.",
+          "isCorrect": false,
+          "rationale": "La trampa describe una vulnerabilidad y dependencia, no la autonom\u00eda."
+        }
+      ],
+      "hint": "Es un ciclo de dependencia basado en vender lo b\u00e1sico y comprar lo complejo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor puede anular la ventaja de escala al importar tecnolog\u00eda desde China?",
+      "answerOptions": [
+        {
+          "text": "La alta calidad de los componentes.",
+          "isCorrect": false,
+          "rationale": "La calidad suele ser una ventaja, no un factor que anule los beneficios de costos."
+        },
+        {
+          "text": "La volatilidad del tipo de cambio.",
+          "isCorrect": true,
+          "rationale": "Si la moneda se mueve en contra, el margen de ganancia puede desaparecer de la noche a la ma\u00f1ana."
+        },
+        {
+          "text": "La cercan\u00eda geogr\u00e1fica de los centros de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La distancia con China suele ser grande, lo que genera riesgo log\u00edstico, no cercan\u00eda."
+        },
+        {
+          "text": "La ausencia de competidores regionales.",
+          "isCorrect": false,
+          "rationale": "La competencia regional suele existir (como el caso de Brasil mencionado) y es un reto, no algo que anule ventajas por s\u00ed solo."
+        }
+      ],
+      "hint": "Considere la variable financiera que cambia el valor de lo que pagas en un abrir y cerrar de ojos."
+    },
+    {
+      "question": "Para exportar caf\u00e9 org\u00e1nico a mercados de alto valor como Europa, \u00bfcu\u00e1l es el requisito innegociable?",
+      "answerOptions": [
+        {
+          "text": "Tener el precio m\u00e1s bajo del mercado mundial.",
+          "isCorrect": false,
+          "rationale": "En mercados de alto valor, el cumplimiento normativo es m\u00e1s importante que ser el m\u00e1s barato."
+        },
+        {
+          "text": "Contar con certificaciones sanitarias y de origen internacionales.",
+          "isCorrect": true,
+          "rationale": "Sin estas acreditaciones normativas es imposible penetrar legalmente en mercados regulados."
+        },
+        {
+          "text": "Utilizar \u00fanicamente envases de pl\u00e1stico producidos en el pa\u00eds de destino.",
+          "isCorrect": false,
+          "rationale": "Aunque el empaque importa, la certificaci\u00f3n de la calidad y el origen es la verdadera 'llave' de entrada."
+        },
+        {
+          "text": "Vender el producto sin procesar para evitar regulaciones de valor agregado.",
+          "isCorrect": false,
+          "rationale": "El procesamiento no exime de regulaciones sanitarias; de hecho, suele requerir m\u00e1s controles."
+        }
+      ],
+      "hint": "Recuerde la frase: 'la calidad te abre la puerta, pero la certificaci\u00f3n normativa es la llave'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la recomendaci\u00f3n para resolver litigios comerciales internacionales evitando sesgos y lentitud?",
+      "answerOptions": [
+        {
+          "text": "Acudir siempre a las cortes nacionales del pa\u00eds exportador.",
+          "isCorrect": false,
+          "rationale": "Las cortes nacionales suelen ser percibidas como lentas o sesgadas en disputas internacionales."
+        },
+        {
+          "text": "Ignorar las barreras no arancelarias y esperar a que el mercado se regule solo.",
+          "isCorrect": false,
+          "rationale": "Las barreras no arancelarias requieren una respuesta t\u00e9cnica y legal activa."
+        },
+        {
+          "text": "Utilizar mecanismos de arbitraje internacional y foros de la OMC.",
+          "isCorrect": true,
+          "rationale": "Garantizan una cancha neutral y resoluciones t\u00e9cnicas eficaces para las controversias."
+        },
+        {
+          "text": "Aumentar unilateralmente los precios para compensar las posibles multas.",
+          "isCorrect": false,
+          "rationale": "Esto no resuelve el conflicto legal y puede da\u00f1ar la competitividad de la empresa."
+        }
+      ],
+      "hint": "Busque un organismo multilateral que act\u00fae como mediador t\u00e9cnico global."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa una barrera no arancelaria en el comercio internacional?",
+      "answerOptions": [
+        {
+          "text": "Un impuesto directo porcentual sobre el valor de la carga.",
+          "isCorrect": false,
+          "rationale": "Esto describe a un arancel tradicional, no a una barrera 'no arancelaria'."
+        },
+        {
+          "text": "Cuotas de importaci\u00f3n, licencias engorrosas o subsidios locales.",
+          "isCorrect": true,
+          "rationale": "Son mecanismos que dificultan el comercio sin ser necesariamente un impuesto en frontera."
+        },
+        {
+          "text": "La fluctuaci\u00f3n natural de la oferta y la demanda en el mercado.",
+          "isCorrect": false,
+          "rationale": "La oferta y demanda son din\u00e1micas de mercado, no obst\u00e1culos regulatorios impuestos por el Estado."
+        },
+        {
+          "text": "La falta de infraestructura f\u00edsica como puertos o aeropuertos.",
+          "isCorrect": false,
+          "rationale": "Esto es un problema log\u00edstico, mientras que las barreras no arancelarias son de naturaleza normativa o pol\u00edtica."
+        }
+      ],
+      "hint": "Son obst\u00e1culos que a veces resultan peores que un impuesto alto debido a su complejidad administrativa."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Geopol\u00edtica y comercio internacional",
+      "Marcos regulatorios de potencias (EE. UU. y China)",
+      "Tratados comerciales y TMEC (USMCA)",
+      "Gesti\u00f3n de riesgos operativos y aduanas",
+      "Resoluci\u00f3n de disputas comerciales"
+    ],
+    "followUp": [
+      "Extraterritorialidad de la ley FCPA",
+      "Mecanismos de control de la OFAC y el USTR",
+      "Estrategia de tierras raras y soberan\u00eda tecnol\u00f3gica",
+      "An\u00e1lisis de t\u00e9rminos de intercambio y trampa de commodities"
+    ]
+  }
+}

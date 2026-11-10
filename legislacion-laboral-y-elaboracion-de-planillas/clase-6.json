@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el enfoque actual de la gesti\u00f3n de recursos humanos frente al antiguo modelo puramente administrativo?",
+      "answerOptions": [
+        {
+          "text": "Se consolida como un eje estrat\u00e9gico vital para la sostenibilidad corporativa.",
+          "isCorrect": true,
+          "rationale": "La gesti\u00f3n moderna busca integrar el cumplimiento legal y la optimizaci\u00f3n del talento como pilares fundamentales del negocio."
+        },
+        {
+          "text": "Se limita exclusivamente a la mitigaci\u00f3n de riesgos de car\u00e1cter pol\u00edtico.",
+          "isCorrect": false,
+          "rationale": "Aunque mitiga riesgos, el enfoque moderno trasciende lo reactivo para ser un componente estrat\u00e9gico integral."
+        },
+        {
+          "text": "Se enfoca \u00fanicamente en el c\u00e1lculo contable de las planillas mensuales.",
+          "isCorrect": false,
+          "rationale": "Ver la n\u00f3mina solo como contabilidad es una visi\u00f3n administrativa superada por la arquitectura organizacional estrat\u00e9gica."
+        },
+        {
+          "text": "Prioriza la inspecci\u00f3n vulnerable sobre el cumplimiento t\u00e9cnico estricto.",
+          "isCorrect": false,
+          "rationale": "El paradigma actual exige un cumplimiento t\u00e9cnico imparcial y alejado de intereses pol\u00edticos."
+        }
+      ],
+      "hint": "Considera c\u00f3mo la funci\u00f3n de recursos humanos aporta valor a largo plazo a la empresa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece el principio de primac\u00eda de la realidad en una inspecci\u00f3n laboral?",
+      "answerOptions": [
+        {
+          "text": "Los documentos formales siempre tienen mayor peso que los testimonios verbales.",
+          "isCorrect": false,
+          "rationale": "Este principio establece lo contrario, restando poder absoluto al papeleo frente a los hechos demostrados."
+        },
+        {
+          "text": "Los hechos constatados en la pr\u00e1ctica prevalecen sobre los documentos presentados.",
+          "isCorrect": true,
+          "rationale": "La autoridad prioriza la verdad material de lo que sucede en el centro de trabajo sobre lo que digan las pol\u00edticas escritas."
+        },
+        {
+          "text": "La normativa vigente se adapta a la situaci\u00f3n econ\u00f3mica real de la empresa.",
+          "isCorrect": false,
+          "rationale": "La ley no se flexibiliza por la econom\u00eda, sino que los hechos laborales determinan el cumplimiento legal."
+        },
+        {
+          "text": "Los acuerdos entre partes anulan cualquier disposici\u00f3n t\u00e9cnica previa.",
+          "isCorrect": false,
+          "rationale": "Los derechos laborales son irrenunciables y los hechos reales son los que validan o anulan dichos acuerdos."
+        }
+      ],
+      "hint": "Piensa en qu\u00e9 sucede si el contrato dice una cosa pero el trabajador hace otra."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de la Ley $30709$ sobre igualdad remunerativa?",
+      "answerOptions": [
+        {
+          "text": "Garantizar que todos los trabajadores de una empresa ganen exactamente el mismo sueldo.",
+          "isCorrect": false,
+          "rationale": "La ley permite diferencias salariales siempre que est\u00e9n justificadas objetivamente, no impone un sueldo \u00fanico."
+        },
+        {
+          "text": "Reducir los costos operativos mediante la estandarizaci\u00f3n de categor\u00edas.",
+          "isCorrect": false,
+          "rationale": "El fin es la equidad y la transparencia, no necesariamente el ahorro de costos."
+        },
+        {
+          "text": "Erradicar las brechas salariales de g\u00e9nero en las organizaciones.",
+          "isCorrect": true,
+          "rationale": "Esta normativa busca que no existan diferencias de sueldo basadas \u00fanicamente en el sexo del trabajador."
+        },
+        {
+          "text": "Permitir que la gerencia ejerza su poder de direcci\u00f3n de forma arbitraria.",
+          "isCorrect": false,
+          "rationale": "La ley busca precisamente limitar la arbitrariedad reemplaz\u00e1ndola por sistemas medibles y justificables."
+        }
+      ],
+      "hint": "Esta norma se enfoca en eliminar la discriminaci\u00f3n hist\u00f3rica entre hombres y mujeres."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica t\u00e9cnicamente el concepto de 'trabajo de igual valor'?",
+      "answerOptions": [
+        {
+          "text": "Dos puestos distintos pueden tener la misma importancia econ\u00f3mica para la empresa.",
+          "isCorrect": true,
+          "rationale": "Bajo criterios objetivos, cargos de \u00e1reas diferentes pueden requerir niveles de responsabilidad y esfuerzo equivalentes."
+        },
+        {
+          "text": "Solo se pueden comparar trabajadores que tengan el mismo t\u00edtulo de puesto.",
+          "isCorrect": false,
+          "rationale": "La ley obliga a mirar m\u00e1s all\u00e1 del t\u00edtulo, comparando el valor intr\u00ednseco de diferentes posiciones."
+        },
+        {
+          "text": "La valoraci\u00f3n debe centrarse en las competencias personales de quien ocupa el cargo.",
+          "isCorrect": false,
+          "rationale": "La regla de oro es que se eval\u00faa el puesto, nunca a la persona que lo desempe\u00f1a."
+        },
+        {
+          "text": "Los puestos operativos siempre tienen menos valor que los administrativos.",
+          "isCorrect": false,
+          "rationale": "El valor se determina por factores t\u00e9cnicos como esfuerzo y riesgo, no por la ubicaci\u00f3n en el organigrama."
+        }
+      ],
+      "hint": "Analiza c\u00f3mo se comparan puestos de diferentes \u00e1reas funcionales."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los cuatro pilares fundamentales para la valoraci\u00f3n objetiva de puestos?",
+      "answerOptions": [
+        {
+          "text": "Antig\u00fcedad, desempe\u00f1o, puntualidad y formaci\u00f3n acad\u00e9mica.",
+          "isCorrect": false,
+          "rationale": "Estos son criterios de diferenciaci\u00f3n individual, no pilares de valoraci\u00f3n de la estructura del puesto."
+        },
+        {
+          "text": "Calificaciones, esfuerzo, responsabilidades y condiciones de trabajo.",
+          "isCorrect": true,
+          "rationale": "Estos factores permiten medir la relevancia t\u00e9cnica de un cargo de manera neutra y libre de sesgos."
+        },
+        {
+          "text": "G\u00e9nero, edad, nacionalidad y habilidades blandas.",
+          "isCorrect": false,
+          "rationale": "Varios de estos criterios constituyen discriminaci\u00f3n directa y no son t\u00e9cnicos ni objetivos."
+        },
+        {
+          "text": "Salario base, bonos, utilidades y beneficios no monetarios.",
+          "isCorrect": false,
+          "rationale": "Estos son los resultados de la pol\u00edtica compensatoria, no los criterios para valorar el puesto."
+        }
+      ],
+      "hint": "Se refieren a las exigencias intr\u00ednsecas del cargo para la organizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la discriminaci\u00f3n salarial indirecta?",
+      "answerOptions": [
+        {
+          "text": "Establecer bonos exclusivos para un sexo de manera abierta.",
+          "isCorrect": false,
+          "rationale": "Esto constituye discriminaci\u00f3n directa, ya que el trato desigual es evidente y expl\u00edcito."
+        },
+        {
+          "text": "Aplicar requisitos neutrales que afectan desproporcionadamente a un grupo sin justificaci\u00f3n t\u00e9cnica.",
+          "isCorrect": true,
+          "rationale": "Ocurre cuando se exigen certificaciones o habilidades que el puesto no requiere para favorecer artificialmente a alguien."
+        },
+        {
+          "text": "Pagar menos a un trabajador por tener una categor\u00eda inferior en el cuadro de funciones.",
+          "isCorrect": false,
+          "rationale": "Si la categor\u00eda est\u00e1 bien definida y el puesto vale menos, la diferencia es legalmente v\u00e1lida."
+        },
+        {
+          "text": "Reducir el sueldo a un trabajador bas\u00e1ndose en su bajo desempe\u00f1o anual.",
+          "isCorrect": false,
+          "rationale": "La reducci\u00f3n injustificada es hostilidad, pero no define el concepto t\u00e9cnico de discriminaci\u00f3n indirecta."
+        }
+      ],
+      "hint": "Es un tipo de sesgo m\u00e1s sutil y oculto tras reglas que parecen iguales para todos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 personal queda excluido del cuadro de categor\u00edas y funciones de una empresa?",
+      "answerOptions": [
+        {
+          "text": "Los trabajadores que se encuentran en periodo de prueba.",
+          "isCorrect": false,
+          "rationale": "Al estar en planilla directa, deben ser incluidos en la estructura jer\u00e1rquica de la empresa."
+        },
+        {
+          "text": "Personal de confianza y directivos de alto rango.",
+          "isCorrect": false,
+          "rationale": "Todos los niveles del r\u00e9gimen privado directo deben figurar para garantizar la transparencia."
+        },
+        {
+          "text": "Terceros, locadores de servicios y personal de intermediaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Este documento es exclusivo para los trabajadores que forman parte de la planilla directa de la organizaci\u00f3n."
+        },
+        {
+          "text": "Trabajadores extranjeros con contrato vigente.",
+          "isCorrect": false,
+          "rationale": "Si est\u00e1n en planilla, su origen no es motivo para excluirlos de la categorizaci\u00f3n objetiva."
+        }
+      ],
+      "hint": "Piensa en qui\u00e9nes no tienen un v\u00ednculo laboral directo de subordinaci\u00f3n con la empresa principal."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 momentos es obligatorio comunicar la pol\u00edtica salarial a los trabajadores?",
+      "answerOptions": [
+        {
+          "text": "\u00danicamente cuando el trabajador solicita una revisi\u00f3n de su sueldo.",
+          "isCorrect": false,
+          "rationale": "La ley exige comunicaci\u00f3n proactiva en momentos espec\u00edficos de la relaci\u00f3n laboral, no solo a pedido."
+        },
+        {
+          "text": "Al ingreso, ante cambios de categor\u00eda y si var\u00eda el esquema remunerativo general.",
+          "isCorrect": true,
+          "rationale": "Estos tres hitos cronol\u00f3gicos aseguran la transparencia continua exigida por la normativa vigente."
+        },
+        {
+          "text": "Cada vez que la Sunafil inicia una inspecci\u00f3n de oficio en la empresa.",
+          "isCorrect": false,
+          "rationale": "Para cuando llega la inspecci\u00f3n, la comunicaci\u00f3n ya debi\u00f3 haberse realizado seg\u00fan los plazos de ley."
+        },
+        {
+          "text": "Solamente al cierre de cada ejercicio fiscal mediante un correo corporativo.",
+          "isCorrect": false,
+          "rationale": "La comunicaci\u00f3n debe ser oportuna al evento que genera el cambio, no una vez al a\u00f1o."
+        }
+      ],
+      "hint": "Son eventos clave que alteran la posici\u00f3n o el pago del empleado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de las siguientes es una justificaci\u00f3n legalmente admitida para una diferencia salarial en un mismo puesto?",
+      "answerOptions": [
+        {
+          "text": "La preferencia subjetiva del jefe directo basada en afinidad.",
+          "isCorrect": false,
+          "rationale": "La subjetividad gerencial no es un criterio t\u00e9cnico aceptable ante una fiscalizaci\u00f3n."
+        },
+        {
+          "text": "El lugar de trabajo cuando implica riesgos o condiciones geogr\u00e1ficas especiales.",
+          "isCorrect": true,
+          "rationale": "La compensaci\u00f3n por entorno (como el trabajo en socav\u00f3n) es una de las cuatro v\u00edas legales para diferenciar sueldos."
+        },
+        {
+          "text": "La necesidad econ\u00f3mica personal manifestada por el trabajador.",
+          "isCorrect": false,
+          "rationale": "La situaci\u00f3n financiera individual del empleado no otorga un valor diferencial t\u00e9cnico al puesto."
+        },
+        {
+          "text": "El cumplimiento de metas de ventas que no fueron comunicadas previamente.",
+          "isCorrect": false,
+          "rationale": "El desempe\u00f1o solo es v\u00e1lido si se mide con sistemas conocidos de antemano por el trabajador."
+        }
+      ],
+      "hint": "Recuerda los factores externos o acumulativos que aportan un valor real comprobable."
+    },
+    {
+      "question": "\u00bfQu\u00e9 restricci\u00f3n inquebrantable existe sobre el uso de bandas salariales?",
+      "answerOptions": [
+        {
+          "text": "No pueden tener m\u00e1s de tres niveles internos por categor\u00eda.",
+          "isCorrect": false,
+          "rationale": "La estructura interna de la banda es flexible siempre que sea objetiva y transparente."
+        },
+        {
+          "text": "No pueden utilizarse bajo ninguna circunstancia para bajar el sueldo actual de un trabajador.",
+          "isCorrect": true,
+          "rationale": "Reducir la remuneraci\u00f3n usando las bandas como pretexto se considera autom\u00e1ticamente un acto de hostilidad."
+        },
+        {
+          "text": "Deben ser publicadas obligatoriamente en peri\u00f3dicos de circulaci\u00f3n nacional.",
+          "isCorrect": false,
+          "rationale": "La comunicaci\u00f3n es interna y obligatoria hacia el trabajador, no requiere difusi\u00f3n p\u00fablica masiva."
+        },
+        {
+          "text": "Solo pueden aplicarse a trabajadores con m\u00e1s de cinco a\u00f1os de antig\u00fcedad.",
+          "isCorrect": false,
+          "rationale": "Las bandas son herramientas de gesti\u00f3n para todas las categor\u00edas, independientemente del tiempo de servicio."
+        }
+      ],
+      "hint": "Se relaciona con la protecci\u00f3n de los derechos econ\u00f3micos ya adquiridos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la cuota obligatoria de empleo para personas con discapacidad en empresas con m\u00e1s de $50$ trabajadores?",
+      "answerOptions": [
+        {
+          "text": "Un $5\\%$ del total de la planilla anualizada.",
+          "isCorrect": false,
+          "rationale": "El $5\\%$ aplica para el sector p\u00fablico; para el sector privado la cuota es menor."
+        },
+        {
+          "text": "Un $3\\%$ calculado sobre el promedio de trabajadores en el a\u00f1o fiscal.",
+          "isCorrect": true,
+          "rationale": "La Ley $29973$ establece este porcentaje m\u00ednimo obligatorio de car\u00e1cter anual e insubsanable."
+        },
+        {
+          "text": "Un $10\\%$ aplicable solo a las nuevas contrataciones del a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "La cuota se mide sobre el total de la planilla, no solo sobre las vacantes generadas."
+        },
+        {
+          "text": "Un $1\\%$ si la empresa pertenece al rubro de servicios u oficina.",
+          "isCorrect": false,
+          "rationale": "La ley no hace distinciones de rubro para el cumplimiento de esta cuota inclusiva."
+        }
+      ],
+      "hint": "Es un n\u00famero impar peque\u00f1o que se aplica a la planilla del sector privado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 trinomio de documentos es innegociable para acreditar a un trabajador con discapacidad ante una inspecci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "DNI, curr\u00edculum vitae y contrato de trabajo vigente.",
+          "isCorrect": false,
+          "rationale": "Estos son documentos b\u00e1sicos de cualquier trabajador, no acreditan la condici\u00f3n de discapacidad legal."
+        },
+        {
+          "text": "Informe psicol\u00f3gico, receta m\u00e9dica y carnet de seguro social.",
+          "isCorrect": false,
+          "rationale": "Aunque son documentos de salud, no cumplen con la formalidad t\u00e9cnica exigida por la normativa de inclusi\u00f3n."
+        },
+        {
+          "text": "Certificado de discapacidad permanente, aval de instituci\u00f3n autorizada y resoluci\u00f3n de CONADIS.",
+          "isCorrect": true,
+          "rationale": "Sin estos tres documentos oficiales, el trabajador no suma al c\u00e1lculo de la cuota ante la Sunafil."
+        },
+        {
+          "text": "Declaraci\u00f3n jurada del trabajador, examen m\u00e9dico de ingreso y fotocopia de historia cl\u00ednica.",
+          "isCorrect": false,
+          "rationale": "La buena fe o declaraciones simples no tienen validez legal para el cumplimiento de la cuota inclusiva."
+        }
+      ],
+      "hint": "Incluye una resoluci\u00f3n de un organismo estatal espec\u00edfico."
+    },
+    {
+      "question": "En el c\u00e1lculo de la cuota de discapacidad, \u00bfc\u00f3mo funciona la regla de redondeo centesimal?",
+      "answerOptions": [
+        {
+          "text": "Cualquier fracci\u00f3n decimal obliga siempre a redondear hacia arriba.",
+          "isCorrect": false,
+          "rationale": "El redondeo depende del valor de la fracci\u00f3n, no es autom\u00e1tico hacia arriba en todos los casos."
+        },
+        {
+          "text": "Se redondea al entero superior si la fracci\u00f3n es de $0.5$ o mayor.",
+          "isCorrect": true,
+          "rationale": "Esta precisi\u00f3n aritm\u00e9tica define si la empresa ha cumplido o no con el n\u00famero m\u00ednimo de trabajadores."
+        },
+        {
+          "text": "Se ignoran todos los decimales y solo se cuenta la parte entera.",
+          "isCorrect": false,
+          "rationale": "La normativa exige precisi\u00f3n decimal para no perjudicar el derecho a la inclusi\u00f3n."
+        },
+        {
+          "text": "El redondeo solo se aplica si la empresa tiene m\u00e1s de $100$ empleados.",
+          "isCorrect": false,
+          "rationale": "La regla aplica desde que nace la obligaci\u00f3n al superar los $50$ trabajadores."
+        }
+      ],
+      "hint": "Es una regla matem\u00e1tica est\u00e1ndar aplicada a la fracci\u00f3n media."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una de las excepciones legales v\u00e1lidas para no cumplir con la cuota de discapacidad?",
+      "answerOptions": [
+        {
+          "text": "Alegar que la infraestructura de la oficina es antigua.",
+          "isCorrect": false,
+          "rationale": "La empresa tiene el deber de realizar ajustes razonables; la antig\u00fcedad no es una excusa v\u00e1lida."
+        },
+        {
+          "text": "Demostrar que no se generaron nuevas vacantes en todo el a\u00f1o fiscal.",
+          "isCorrect": true,
+          "rationale": "Si no hubo rotaci\u00f3n ni crecimiento de personal, no hubo oportunidad material de contratar personal nuevo."
+        },
+        {
+          "text": "Argumentar que el personal actual se siente inc\u00f3modo con la medida.",
+          "isCorrect": false,
+          "rationale": "La percepci\u00f3n subjetiva del clima laboral no anula un mandato legal de inclusi\u00f3n."
+        },
+        {
+          "text": "Haber publicado anuncios solo en redes sociales privadas.",
+          "isCorrect": false,
+          "rationale": "Se requiere probar el uso de la bolsa de trabajo del Ministerio para validar el esfuerzo de b\u00fasqueda."
+        }
+      ],
+      "hint": "Se refiere a la imposibilidad de contratar por falta de plazas disponibles."
+    },
+    {
+      "question": "Respecto al hostigamiento sexual laboral, \u00bfqu\u00e9 establece la ley sobre la repetici\u00f3n de la conducta?",
+      "answerOptions": [
+        {
+          "text": "La conducta debe ser sistem\u00e1tica y ocurrir al menos tres veces.",
+          "isCorrect": false,
+          "rationale": "La ley no exige un patr\u00f3n de comportamiento para que se configure la falta."
+        },
+        {
+          "text": "Basta con un solo acto aislado para que se considere una infracci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La gravedad del acto define la sanci\u00f3n, sin necesidad de que la v\u00edctima sea expuesta repetidamente."
+        },
+        {
+          "text": "Solo se sanciona si el acto ocurre fuera del horario de oficina.",
+          "isCorrect": false,
+          "rationale": "El hostigamiento se sanciona sin importar el horario, siempre que ocurra en el \u00e1mbito laboral o derivado de \u00e9l."
+        },
+        {
+          "text": "Es necesario que existan testigos presenciales en todos los eventos.",
+          "isCorrect": false,
+          "rationale": "La investigaci\u00f3n puede basarse en indicios y pruebas diversas; la falta de testigos no anula la denuncia."
+        }
+      ],
+      "hint": "Cero tolerancia significa que no hace falta una 'segunda oportunidad' para el agresor."
+    },
+    {
+      "question": "\u00bfQu\u00e9 \u00f3rganos deben intervenir obligatoriamente en el proceso de investigaci\u00f3n y sanci\u00f3n de hostigamiento?",
+      "answerOptions": [
+        {
+          "text": "Un Comit\u00e9 de Intervenci\u00f3n (investigador) y Recursos Humanos (sancionador).",
+          "isCorrect": true,
+          "rationale": "Esta separaci\u00f3n de funciones garantiza la imparcialidad y el debido proceso dentro de la empresa."
+        },
+        {
+          "text": "La Gerencia General \u00fanicamente para evitar filtraciones de informaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La ley exige un \u00f3rgano colegiado (Comit\u00e9) para asegurar una investigaci\u00f3n objetiva."
+        },
+        {
+          "text": "Solo el sindicato de la empresa en representaci\u00f3n de la v\u00edctima.",
+          "isCorrect": false,
+          "rationale": "El empleador tiene la responsabilidad legal objetiva de estructurar los \u00f3rganos de investigaci\u00f3n."
+        },
+        {
+          "text": "Una empresa de auditor\u00eda externa contratada exclusivamente para el caso.",
+          "isCorrect": false,
+          "rationale": "Aunque se puede buscar apoyo, la ley exige \u00f3rganos internos establecidos seg\u00fan el n\u00famero de trabajadores."
+        }
+      ],
+      "hint": "Se divide el poder entre quienes buscan pruebas y quienes deciden la sanci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el plazo m\u00e1ximo que tiene el Comit\u00e9 para investigar una denuncia de hostigamiento?",
+      "answerOptions": [
+        {
+          "text": "$15$ d\u00edas h\u00e1biles.",
+          "isCorrect": false,
+          "rationale": "El plazo se cuenta en d\u00edas corridos, lo que acelera la resoluci\u00f3n del caso."
+        },
+        {
+          "text": "$15$ d\u00edas calendario.",
+          "isCorrect": true,
+          "rationale": "Los tiempos son agresivos e incluyen fines de semana para proteger la integridad de la v\u00edctima r\u00e1pidamente."
+        },
+        {
+          "text": "$30$ d\u00edas calendario.",
+          "isCorrect": false,
+          "rationale": "Un mes es demasiado tiempo bajo este protocolo, viciando el proceso por demora excesiva."
+        },
+        {
+          "text": "No existe un plazo fijo mientras la investigaci\u00f3n siga abierta.",
+          "isCorrect": false,
+          "rationale": "La falta de cumplimiento de los plazos milim\u00e9tricos puede anular todo el proceso sancionador."
+        }
+      ],
+      "hint": "Recuerda que para este tr\u00e1mite los domingos y feriados tambi\u00e9n cuentan."
+    },
+    {
+      "question": "\u00bfQu\u00e9 se entiende t\u00e9cnicamente por 'actos de hostilidad' en la legislaci\u00f3n laboral?",
+      "answerOptions": [
+        {
+          "text": "Llamados de atenci\u00f3n verbales por bajo rendimiento.",
+          "isCorrect": false,
+          "rationale": "Esto forma parte del poder de direcci\u00f3n leg\u00edtimo del empleador si se hace con respeto."
+        },
+        {
+          "text": "Incumplimientos graves del empleador que fuerzan al trabajador a renunciar.",
+          "isCorrect": true,
+          "rationale": "Se le denomina 'despido indirecto' porque las condiciones impuestas vuelven insostenible la permanencia."
+        },
+        {
+          "text": "Asignaci\u00f3n de tareas que no son del agrado del trabajador.",
+          "isCorrect": false,
+          "rationale": "Mientras las tareas est\u00e9n dentro de su categor\u00eda y contrato, no constituyen hostilidad legal."
+        },
+        {
+          "text": "Denegar un aumento de sueldo solicitado por el empleado.",
+          "isCorrect": false,
+          "rationale": "El aumento no es un derecho autom\u00e1tico; su denegaci\u00f3n no es un acto de hostilidad per se."
+        }
+      ],
+      "hint": "Es una forma de presi\u00f3n indebida para que el empleado abandone su puesto."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece la 'regla de los $10$ minutos' durante una inspecci\u00f3n de Sunafil?",
+      "answerOptions": [
+        {
+          "text": "Es el tiempo que tiene el inspector para presentar sus credenciales.",
+          "isCorrect": false,
+          "rationale": "El inspector debe identificarse de inmediato; el tiempo de tolerancia es para la empresa."
+        },
+        {
+          "text": "Es el plazo m\u00e1ximo para que un representante con poder legal atienda al inspector.",
+          "isCorrect": true,
+          "rationale": "Superar este tiempo o enviar a alguien sin conocimientos del tema configura obstrucci\u00f3n a la labor inspectiva."
+        },
+        {
+          "text": "Es la duraci\u00f3n m\u00e1xima permitida para una entrevista con un trabajador.",
+          "isCorrect": false,
+          "rationale": "El inspector puede tomarse el tiempo que necesite para recopilar testimonios y pruebas."
+        },
+        {
+          "text": "Es el tiempo de espera antes de que el inspector pueda entrar por la fuerza.",
+          "isCorrect": false,
+          "rationale": "El inspector tiene facultad de entrada inmediata; la regla de los $10$ minutos es para la comparecencia formal."
+        }
+      ],
+      "hint": "Es la delgada l\u00ednea entre la colaboraci\u00f3n y una multa muy grave por obstrucci\u00f3n."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 porcentaje puede reducirse una multa si la empresa subsana la infracci\u00f3n en las primeras etapas?",
+      "answerOptions": [
+        {
+          "text": "Hasta en un $50\\%$.",
+          "isCorrect": false,
+          "rationale": "La normativa ofrece un incentivo mucho m\u00e1s alto para fomentar la regularizaci\u00f3n r\u00e1pida."
+        },
+        {
+          "text": "Hasta en un $90\\%$.",
+          "isCorrect": true,
+          "rationale": "Este mecanismo busca que las empresas prefieran corregir sus errores proactivamente en lugar de litigar."
+        },
+        {
+          "text": "La multa es inapelable y no admite reducciones por subsanaci\u00f3n posterior.",
+          "isCorrect": false,
+          "rationale": "Existen incentivos legales dise\u00f1ados para que el sistema no sea solo punitivo, sino preventivo."
+        },
+        {
+          "text": "Solo un $10\\%$, manteniendo el $90\\%$ del pago original.",
+          "isCorrect": false,
+          "rationale": "Esa peque\u00f1a reducci\u00f3n no ser\u00eda un incentivo real para la correcci\u00f3n inmediata de faltas."
+        }
+      ],
+      "hint": "Es una rebaja espectacular que deja solo un remanente m\u00ednimo por pagar."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Evoluci\u00f3n estrat\u00e9gica de la gesti\u00f3n de recursos humanos",
+      "Igualdad remunerativa y Ley $30709$",
+      "Metodolog\u00eda de valoraci\u00f3n de puestos de trabajo",
+      "Cuotas de inclusi\u00f3n laboral para personas con discapacidad",
+      "Prevenci\u00f3n y protocolos contra el hostigamiento sexual",
+      "Actos de hostilidad laboral y despido indirecto",
+      "Procedimientos de inspecci\u00f3n de la Sunafil y sanciones"
+    ],
+    "followUp": [
+      "Implementaci\u00f3n t\u00e9cnica de ajustes razonables para personas con discapacidad",
+      "Jurisprudencia sobre el principio de primac\u00eda de la realidad en el Per\u00fa",
+      "Elaboraci\u00f3n detallada de perfiles de puesto basados en competencias t\u00e9cnicas",
+      "Gesti\u00f3n de relaciones colectivas y convenios de no discriminaci\u00f3n",
+      "Uso avanzado de herramientas digitales (PLAME y T-Registro) para cumplimiento"
+    ]
+  }
+}

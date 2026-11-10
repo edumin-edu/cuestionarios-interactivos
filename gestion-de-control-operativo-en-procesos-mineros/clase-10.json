@@ -1,0 +1,543 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfEn qu\u00e9 a\u00f1o se produjo la ruptura del ciclo hist\u00f3rico de la Ley de Moore, cuando la duplicaci\u00f3n de transistores pas\u00f3 de un ritmo de 2 a\u00f1os a un salto de 18 meses?",
+      "answerOptions": [
+        {
+          "text": "1956",
+          "isCorrect": false,
+          "rationale": "Este a\u00f1o marca el inicio de la regla de oro de Moore, no su ruptura o aceleraci\u00f3n posterior."
+        },
+        {
+          "text": "2007",
+          "isCorrect": true,
+          "rationale": "En este punto hist\u00f3rico, el ciclo de duplicaci\u00f3n se aceler\u00f3 de 2 a\u00f1os a 18 meses, alterando la predictibilidad tecnol\u00f3gica."
+        },
+        {
+          "text": "1984",
+          "isCorrect": false,
+          "rationale": "Aunque fue una d\u00e9cada de avance digital, no representa el hito de cambio en la cadencia de la Ley de Moore."
+        },
+        {
+          "text": "2015",
+          "isCorrect": false,
+          "rationale": "Para este a\u00f1o, el ritmo ya se consideraba incalculable, superando con creces la ruptura inicial del ciclo."
+        }
+      ],
+      "hint": "Considere el momento del siglo XXI en que la tecnolog\u00eda m\u00f3vil y el procesamiento empezaron a acelerarse dr\u00e1sticamente."
+    },
+    {
+      "question": "Dentro de la geopol\u00edtica de manufactura actual, \u00bfqu\u00e9 regi\u00f3n concentra casi el $100\\%$ del ensamblaje de hardware indispensable?",
+      "answerOptions": [
+        {
+          "text": "Norteam\u00e9rica (Estados Unidos y Canad\u00e1)",
+          "isCorrect": false,
+          "rationale": "Esta regi\u00f3n se especializa m\u00e1s en el dise\u00f1o conceptual, la inteligencia y el desarrollo de software."
+        },
+        {
+          "text": "Eje asi\u00e1tico (China, Taiw\u00e1n y Singapur)",
+          "isCorrect": true,
+          "rationale": "Estos pa\u00edses act\u00faan como el 'm\u00fasculo' de la industria, concentrando la capacidad de producci\u00f3n f\u00edsica global."
+        },
+        {
+          "text": "Uni\u00f3n Europea",
+          "isCorrect": false,
+          "rationale": "Si bien participan en la cadena, no poseen la concentraci\u00f3n casi total del ensamblaje de hardware."
+        },
+        {
+          "text": "Latinoam\u00e9rica",
+          "isCorrect": false,
+          "rationale": "La regi\u00f3n enfrenta retos de informalidad y falta de especializaci\u00f3n que le impiden dominar la manufactura de hardware."
+        }
+      ],
+      "hint": "Piense en la zona geogr\u00e1fica conocida como el centro de fabricaci\u00f3n electr\u00f3nica del mundo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de un gemelo digital en el entorno de la industria 4.0?",
+      "answerOptions": [
+        {
+          "text": "Reemplazar f\u00edsicamente a los trabajadores en tareas de alto riesgo.",
+          "isCorrect": false,
+          "rationale": "Esta es una funci\u00f3n m\u00e1s propia de la rob\u00f3tica aut\u00f3noma o drones, no de un modelo de simulaci\u00f3n."
+        },
+        {
+          "text": "Servir como una copia virtual exacta para optimizar decisiones mediante pruebas avanzadas.",
+          "isCorrect": true,
+          "rationale": "Permite experimentar escenarios extremos en un entorno seguro antes de aplicarlos a los activos reales."
+        },
+        {
+          "text": "Almacenar datos hist\u00f3ricos de la empresa de forma est\u00e1tica.",
+          "isCorrect": false,
+          "rationale": "Los gemelos digitales son din\u00e1micos y predictivos, no simples repositorios de informaci\u00f3n pasada."
+        },
+        {
+          "text": "Traducir idiomas en tiempo real para facilitar la comunicaci\u00f3n global.",
+          "isCorrect": false,
+          "rationale": "La traducci\u00f3n es una funci\u00f3n de pr\u00f3tesis cognitiva de la IA, no de la arquitectura de gemelos digitales."
+        }
+      ],
+      "hint": "Se trata de un simulador hiperrealista que protege los activos f\u00edsicos de la empresa."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera vital mantener un umbral del $80\\%$ de carga en sistemas industriales complejos?",
+      "answerOptions": [
+        {
+          "text": "Para maximizar el ahorro energ\u00e9tico y reducir costos operativos.",
+          "isCorrect": false,
+          "rationale": "Aunque ahorra energ\u00eda, el motivo principal es la seguridad estructural frente a la presi\u00f3n algor\u00edtmica."
+        },
+        {
+          "text": "Para ofrecer un colch\u00f3n de seguridad que prevenga fallas mec\u00e1nicas por presi\u00f3n o calor.",
+          "isCorrect": true,
+          "rationale": "Ese $20\\%$ restante act\u00faa como un margen humano para evitar que la estructura colapse ante exigencias de la IA."
+        },
+        {
+          "text": "Para cumplir con normativas internacionales de producci\u00f3n m\u00ednima.",
+          "isCorrect": false,
+          "rationale": "Este umbral es una medida t\u00e9cnica de seguridad preventiva, no un requisito de cuotas de producci\u00f3n."
+        },
+        {
+          "text": "Para permitir que la inteligencia artificial aprenda m\u00e1s despacio.",
+          "isCorrect": false,
+          "rationale": "La velocidad de aprendizaje de la IA no se ve afectada por el l\u00edmite de carga f\u00edsica del sistema."
+        }
+      ],
+      "hint": "Recuerde la met\u00e1fora del serpent\u00edn nuevo en un caldero antiguo y los riesgos de la presi\u00f3n."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 se refiere el concepto de 'velo tecnol\u00f3gico' en el uso de la realidad aumentada?",
+      "answerOptions": [
+        {
+          "text": "A la protecci\u00f3n f\u00edsica que brindan los lentes contra chispas o calor.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino no se refiere a una protecci\u00f3n f\u00edsica, sino a una limitaci\u00f3n en la percepci\u00f3n del usuario."
+        },
+        {
+          "text": "A la p\u00e9rdida del juicio cr\u00edtico cuando la percepci\u00f3n est\u00e1 excesivamente mediada por una pantalla.",
+          "isCorrect": true,
+          "rationale": "Ocurre cuando el trabajador conf\u00eda tanto en el algoritmo que ignora peligros f\u00edsicos evidentes no detectados por el sistema."
+        },
+        {
+          "text": "Al cifrado de seguridad que protege los datos transmitidos a la nube.",
+          "isCorrect": false,
+          "rationale": "Esto es seguridad inform\u00e1tica, mientras que el velo tecnol\u00f3gico es un fen\u00f3meno de desconexi\u00f3n sensorial."
+        },
+        {
+          "text": "A la capacidad de ver componentes internos de una m\u00e1quina sin abrirla.",
+          "isCorrect": false,
+          "rationale": "Esta es la ventaja de la realidad aumentada, no el riesgo asociado al velo tecnol\u00f3gico."
+        }
+      ],
+      "hint": "Piense en lo que sucede cuando un trabajador ignora la realidad f\u00edsica por confiar ciegamente en sus lentes inteligentes."
+    },
+    {
+      "question": "En el protocolo de responsabilidad anticipada ante fallos predictivos, \u00bfcu\u00e1l es el prop\u00f3sito del cuarto paso: evaluaci\u00f3n de impacto moral?",
+      "answerOptions": [
+        {
+          "text": "Determinar el costo financiero de la reparaci\u00f3n de la maquinaria.",
+          "isCorrect": false,
+          "rationale": "Este an\u00e1lisis es puramente econ\u00f3mico y se realiza en etapas t\u00e9cnicas, no en la evaluaci\u00f3n moral."
+        },
+        {
+          "text": "Restaurar la confianza y el bienestar del equipo humano tras un incidente.",
+          "isCorrect": true,
+          "rationale": "Busca sanar el miedo o la p\u00e9rdida de seguridad del personal, lo cual es tan cr\u00edtico como arreglar el equipo f\u00edsico."
+        },
+        {
+          "text": "Identificar si el error fue causado por un sesgo en el algoritmo.",
+          "isCorrect": false,
+          "rationale": "Dicha tarea corresponde al paso de an\u00e1lisis de causa ra\u00edz, no al de impacto moral."
+        },
+        {
+          "text": "Actualizar el software para que el error no se repita autom\u00e1ticamente.",
+          "isCorrect": false,
+          "rationale": "La actualizaci\u00f3n t\u00e9cnica es una medida correctiva operativa, no una gesti\u00f3n del impacto en las personas."
+        }
+      ],
+      "hint": "Considere que tras un fallo, no solo se rompen las m\u00e1quinas, sino tambi\u00e9n la tranquilidad de quienes las operan."
+    },
+    {
+      "question": "\u00bfQu\u00e9 efecto negativo sobre el equipo de trabajo se asocia con el 'control pan\u00f3ptico' mediante drones y sistemas aut\u00f3nomos?",
+      "answerOptions": [
+        {
+          "text": "Un aumento excesivo en la velocidad de producci\u00f3n manual.",
+          "isCorrect": false,
+          "rationale": "El control pan\u00f3ptico afecta principalmente el estado psicol\u00f3gico y el clima laboral, no la velocidad motriz."
+        },
+        {
+          "text": "La erosi\u00f3n de la moral debido a la sensaci\u00f3n de estar permanentemente vigilado.",
+          "isCorrect": true,
+          "rationale": "La vigilancia constante genera desconfianza invisible y puede derivar en un ambiente de explotaci\u00f3n laboral."
+        },
+        {
+          "text": "La mejora en la comunicaci\u00f3n entre departamentos.",
+          "isCorrect": false,
+          "rationale": "La vigilancia tiende a fragmentar y generar tensi\u00f3n, dificultando la colaboraci\u00f3n fluida."
+        },
+        {
+          "text": "La reducci\u00f3n de la necesidad de formaci\u00f3n t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "Al contrario, estos sistemas exigen trabajadores m\u00e1s capacitados para supervisar la tecnolog\u00eda."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo se siente un empleado cuando sabe que una IA lo observa desde cualquier \u00e1ngulo sin descanso."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje representa la formalidad laboral en contextos como el peruano, lo que evidencia la vulnerabilidad ante la industria 4.0?",
+      "answerOptions": [
+        {
+          "text": "$25\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje suele representar la informalidad en pa\u00edses desarrollados, no en el contexto analizado."
+        },
+        {
+          "text": "$75\\%$",
+          "isCorrect": true,
+          "rationale": "Este alto nivel de informalidad crea un 'escudo digital' inexistente para la mayor\u00eda de los trabajadores."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra alta, no refleja la magnitud real de la brecha socioecon\u00f3mica mencionada."
+        },
+        {
+          "text": "$100\\%$",
+          "isCorrect": false,
+          "rationale": "Es un escenario ideal de plena formalidad que no se ajusta a las realidades socioecon\u00f3micas fr\u00e1giles actuales."
+        }
+      ],
+      "hint": "Se trata de una cifra que resalta una grieta de desigualdad muy profunda en la regi\u00f3n."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se definen los 'algoritmos de exclusi\u00f3n' en el mercado laboral automatizado?",
+      "answerOptions": [
+        {
+          "text": "Sistemas que eliminan virus inform\u00e1ticos de las redes empresariales.",
+          "isCorrect": false,
+          "rationale": "Esta es una funci\u00f3n de ciberseguridad, no un fen\u00f3meno de exclusi\u00f3n social o laboral."
+        },
+        {
+          "text": "Procesos que favorecen perfiles hiperespecializados y castigan a quienes no tienen formaci\u00f3n digital.",
+          "isCorrect": true,
+          "rationale": "Al buscar eficiencia pura, la IA descarta a trabajadores vulnerables que carecen de credenciales tecnol\u00f3gicas."
+        },
+        {
+          "text": "Programas dise\u00f1ados para aumentar la diversidad de g\u00e9nero en las f\u00e1bricas.",
+          "isCorrect": false,
+          "rationale": "Los algoritmos de exclusi\u00f3n tienden a homogeneizar y marginar, no a fomentar la diversidad."
+        },
+        {
+          "text": "Protocolos que apagan las m\u00e1quinas cuando detectan un operario no autorizado.",
+          "isCorrect": false,
+          "rationale": "Esto es un sistema de seguridad f\u00edsica, no una din\u00e1mica de discriminaci\u00f3n algor\u00edtmica laboral."
+        }
+      ],
+      "hint": "Piense en la preferencia de la m\u00e1quina por la eficiencia y las credenciales avanzadas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la soluci\u00f3n propuesta para integrar a la poblaci\u00f3n informal en la cadena de valor digital y evitar su marginaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Prohibir el uso de inteligencia artificial en sectores de baja formaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Frenar la tecnolog\u00eda es inviable; la estrategia debe ser adaptativa y educativa."
+        },
+        {
+          "text": "Implementar programas agresivos de recapacitaci\u00f3n o 'reskilling'.",
+          "isCorrect": true,
+          "rationale": "La formaci\u00f3n continua es la \u00fanica v\u00eda para elevar al humano y hacerlo visible ante el algoritmo."
+        },
+        {
+          "text": "Reducir los impuestos a las empresas que no usen automatizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los incentivos fiscales por no innovar no resuelven el problema de la brecha de capacidades a largo plazo."
+        },
+        {
+          "text": "Sustituir a todos los trabajadores informales por robots para evitar errores.",
+          "isCorrect": false,
+          "rationale": "Esto agravar\u00eda la exclusi\u00f3n social en lugar de resolver el choque entre tecnolog\u00eda y sociedad."
+        }
+      ],
+      "hint": "Se trata de dotar a las personas de nuevas herramientas para que puedan participar en el mundo virtual."
+    },
+    {
+      "question": "En el marco de la responsabilidad compartida, \u00bfqui\u00e9n debe asumir las consecuencias legales y morales de un accidente causado por una m\u00e1quina aut\u00f3noma?",
+      "answerOptions": [
+        {
+          "text": "\u00danicamente el operario que se encontraba m\u00e1s cerca del accidente.",
+          "isCorrect": false,
+          "rationale": "El trabajador no debe ser el chivo expiatorio de fallos sist\u00e9micos o de dise\u00f1o."
+        },
+        {
+          "text": "Tanto el dise\u00f1ador del algoritmo como la empresa que lo implement\u00f3.",
+          "isCorrect": true,
+          "rationale": "Este principio garantiza que la responsabilidad sea distribuida entre los creadores y los usuarios corporativos."
+        },
+        {
+          "text": "Exclusivamente el fabricante del hardware de la m\u00e1quina.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad tambi\u00e9n recae en el software y en c\u00f3mo la empresa decide operar el sistema."
+        },
+        {
+          "text": "Nadie, ya que se considera un error aleatorio del sistema.",
+          "isCorrect": false,
+          "rationale": "La falta de responsables generar\u00eda un vac\u00edo \u00e9tico y legal inaceptable en la industria moderna."
+        }
+      ],
+      "hint": "Este principio evita que el hilo se rompa por lo m\u00e1s delgado: el trabajador."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja evolutiva del cerebro humano frente a las redes neuronales artificiales al procesar informaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "La capacidad de procesar millones de datos estad\u00edsticos por segundo.",
+          "isCorrect": false,
+          "rationale": "Esta es la fortaleza de la IA, mientras que el cerebro humano es m\u00e1s lento en c\u00e1lculos masivos."
+        },
+        {
+          "text": "La posibilidad de aprender patrones definitivos a partir de una \u00fanica experiencia.",
+          "isCorrect": true,
+          "rationale": "A diferencia de la IA, que requiere millones de ejemplos, el cerebro humano posee una eficiencia intuitiva superior."
+        },
+        {
+          "text": "La rigidez l\u00f3gica que impide cometer errores de interpretaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El cerebro humano es flexible y emocional, no r\u00edgidamente l\u00f3gico como un algoritmo estad\u00edstico."
+        },
+        {
+          "text": "La falta de necesidad de retroalimentaci\u00f3n para corregir errores.",
+          "isCorrect": false,
+          "rationale": "Tanto humanos como m\u00e1quinas necesitan retroalimentaci\u00f3n, pero el humano lo hace con mayor sabidur\u00eda intuitiva."
+        }
+      ],
+      "hint": "Piense en el ejemplo del ni\u00f1o peque\u00f1o que reconoce una gallina tras verla solo una vez."
+    },
+    {
+      "question": "En la arquitectura de una red neuronal, \u00bfqu\u00e9 ocurre en la 'capa oculta'?",
+      "answerOptions": [
+        {
+          "text": "Se recibe la informaci\u00f3n cruda directamente del mundo exterior.",
+          "isCorrect": false,
+          "rationale": "Esta funci\u00f3n pertenece a la capa de entrada, no a la oculta."
+        },
+        {
+          "text": "Se realiza el procesamiento matem\u00e1tico profundo mediante miles de conexiones invisibles.",
+          "isCorrect": true,
+          "rationale": "Es aqu\u00ed donde ocurre la 'magia' del aprendizaje y el ajuste de pesos de la informaci\u00f3n."
+        },
+        {
+          "text": "Se entrega la predicci\u00f3n o decisi\u00f3n final al usuario.",
+          "isCorrect": false,
+          "rationale": "Ese es el rol de la capa de salida, el resultado final del proceso."
+        },
+        {
+          "text": "Se eliminan los datos que el sistema considera irrelevantes para siempre.",
+          "isCorrect": false,
+          "rationale": "La capa oculta procesa y transforma los datos, no funciona simplemente como un filtro de eliminaci\u00f3n."
+        }
+      ],
+      "hint": "Es el nivel intermedio donde se ejecutan los c\u00e1lculos complejos que no vemos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica de las redes neuronales permite que sigan operando incluso si algunos de sus nodos o conexiones fallan?",
+      "answerOptions": [
+        {
+          "text": "Autoorganizaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Esta propiedad se refiere a la creaci\u00f3n de representaciones propias, no a la resiliencia ante fallos f\u00edsicos."
+        },
+        {
+          "text": "Tolerancia a fallos",
+          "isCorrect": true,
+          "rationale": "Gracias a su estructura distribuida, la red puede mantener resultados coherentes a pesar de rupturas parciales."
+        },
+        {
+          "text": "Aprendizaje adaptativo",
+          "isCorrect": false,
+          "rationale": "Esta caracter\u00edstica permite modificar el comportamiento por entrenamiento, no resistir aver\u00edas estructurales."
+        },
+        {
+          "text": "Memoria de corto plazo",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino no describe la capacidad de la red para sobrevivir a errores en sus conexiones."
+        }
+      ],
+      "hint": "Se refiere a la robustez del sistema debido a su naturaleza distribuida."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre la 'informaci\u00f3n' generada por la IA y lo que produce el ser humano?",
+      "answerOptions": [
+        {
+          "text": "La IA produce sabidur\u00eda, mientras que el humano produce datos brutos.",
+          "isCorrect": false,
+          "rationale": "Es exactamente al rev\u00e9s; la IA se limita a datos y patrones estad\u00edsticos."
+        },
+        {
+          "text": "La IA genera informaci\u00f3n, mientras que el ser humano produce sabidur\u00eda pura.",
+          "isCorrect": true,
+          "rationale": "La sabidur\u00eda humana incluye el juicio cr\u00edtico y el asombro, aspectos que la l\u00f3gica de la m\u00e1quina no posee."
+        },
+        {
+          "text": "No existe diferencia, ambas son formas de procesamiento de datos.",
+          "isCorrect": false,
+          "rationale": "Ignorar la distinci\u00f3n deshumaniza la capacidad estrat\u00e9gica y emocional \u00fanica de las personas."
+        },
+        {
+          "text": "La sabidur\u00eda humana es menos precisa que la informaci\u00f3n de la IA.",
+          "isCorrect": false,
+          "rationale": "La precisi\u00f3n no es el factor determinante, sino la capacidad de dotar de sentido y \u00e9tica a la acci\u00f3n."
+        }
+      ],
+      "hint": "Recuerde la met\u00e1fora de la lib\u00e9lula: la IA ve la palabra, pero no siente su belleza."
+    },
+    {
+      "question": "Seg\u00fan los principios para la industria futura, \u00bfqu\u00e9 debe priorizarse siempre por encima de las m\u00e1quinas?",
+      "answerOptions": [
+        {
+          "text": "La velocidad de respuesta del mercado.",
+          "isCorrect": false,
+          "rationale": "Aunque es un activo estrat\u00e9gico, no debe estar por encima de los valores humanos."
+        },
+        {
+          "text": "La sabidur\u00eda humana y el juicio cr\u00edtico.",
+          "isCorrect": true,
+          "rationale": "La tecnolog\u00eda debe ser solo una herramienta que potencie nuestra capacidad estrat\u00e9gica, nunca su reemplazo."
+        },
+        {
+          "text": "La reducci\u00f3n absoluta de costos de manufactura.",
+          "isCorrect": false,
+          "rationale": "Priorizar el costo sobre lo humano lleva a la deshumanizaci\u00f3n y a riesgos \u00e9ticos sist\u00e9micos."
+        },
+        {
+          "text": "La autonom\u00eda total de los algoritmos de decisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Delegar el $100\\%$ de las decisiones a la IA viola el principio de supervisi\u00f3n humana y seguridad."
+        }
+      ],
+      "hint": "Se trata de un desaf\u00edo existencial que exige reglas que protejan nuestra esencia."
+    },
+    {
+      "question": "\u00bfQu\u00e9 recurso natural se menciona como una materia prima cr\u00edtica cuya escasez plantea riesgos sist\u00e9micos para la soberan\u00eda tecnol\u00f3gica?",
+      "answerOptions": [
+        {
+          "text": "Petr\u00f3leo",
+          "isCorrect": false,
+          "rationale": "Aunque es importante para la energ\u00eda, no es el componente clave mencionado para la nueva cadena de valor tecnol\u00f3gica."
+        },
+        {
+          "text": "Litio",
+          "isCorrect": true,
+          "rationale": "Este mineral es indispensable para las bater\u00edas y componentes de la industria 4.0, y su suministro es limitado."
+        },
+        {
+          "text": "Acero",
+          "isCorrect": false,
+          "rationale": "El acero es vital para la industria anal\u00f3gica tradicional, pero el litio es el centro del juego de poder digital."
+        },
+        {
+          "text": "Silicio org\u00e1nico",
+          "isCorrect": false,
+          "rationale": "El silicio es fundamental, pero el texto destaca espec\u00edficamente la vulnerabilidad ligada al litio."
+        }
+      ],
+      "hint": "Es un mineral esencial para el almacenamiento de energ\u00eda y la movilidad el\u00e9ctrica."
+    },
+    {
+      "question": "Dentro del principio de 'transparencia algor\u00edtmica', \u00bfqu\u00e9 requisito deben cumplir las decisiones tomadas por la IA?",
+      "answerOptions": [
+        {
+          "text": "Ser instant\u00e1neas y no requerir explicaci\u00f3n humana.",
+          "isCorrect": false,
+          "rationale": "La rapidez sin explicaci\u00f3n impide la auditor\u00eda \u00e9tica y la detecci\u00f3n de sesgos."
+        },
+        {
+          "text": "Ser totalmente auditables y libres de sesgos de exclusi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La transparencia exige que podamos entender y cuestionar c\u00f3mo se lleg\u00f3 a una conclusi\u00f3n determinada."
+        },
+        {
+          "text": "Estar protegidas por secretos comerciales que nadie pueda conocer.",
+          "isCorrect": false,
+          "rationale": "El secreto comercial absoluto choca con la necesidad \u00e9tica de transparencia y responsabilidad social."
+        },
+        {
+          "text": "Seguir siempre la l\u00f3gica del menor costo posible.",
+          "isCorrect": false,
+          "rationale": "La l\u00f3gica financiera no garantiza la transparencia ni la equidad en las decisiones del algoritmo."
+        }
+      ],
+      "hint": "Considere la necesidad de supervisar que la m\u00e1quina no discrimine injustamente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 met\u00e1fora se utiliza para describir a la IA cuando facilita la integraci\u00f3n de mercados globales que hablan diferentes idiomas?",
+      "answerOptions": [
+        {
+          "text": "Un muro infranqueable.",
+          "isCorrect": false,
+          "rationale": "La IA busca precisamente lo contrario: borrar las barreras de comunicaci\u00f3n."
+        },
+        {
+          "text": "Una pr\u00f3tesis cognitiva.",
+          "isCorrect": true,
+          "rationale": "Funciona como una extensi\u00f3n de nuestra capacidad mental para entender y comunicarnos instant\u00e1neamente."
+        },
+        {
+          "text": "Un motor de combusti\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta es una analog\u00eda de la vieja industria anal\u00f3gica, no de la capacidad cognitiva de la IA."
+        },
+        {
+          "text": "Un caldero a presi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta met\u00e1fora se usa para explicar los riesgos de sobrecarga en sistemas viejos, no la comunicaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en algo que se a\u00f1ade al cuerpo o a la mente para mejorar una funci\u00f3n natural."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo final de la automatizaci\u00f3n seg\u00fan el enfoque \u00e9tico de la gesti\u00f3n moderna?",
+      "answerOptions": [
+        {
+          "text": "Sustituir por completo la necesidad de trabajadores humanos.",
+          "isCorrect": false,
+          "rationale": "El objetivo \u00e9tico no es el reemplazo, sino la liberaci\u00f3n de tareas tediosas."
+        },
+        {
+          "text": "Liberar al humano de tareas mec\u00e1nicas para potenciar su capacidad estrat\u00e9gica.",
+          "isCorrect": true,
+          "rationale": "Al delegar lo rutinario a las m\u00e1quinas, las personas pueden enfocarse en la creatividad y la sabidur\u00eda."
+        },
+        {
+          "text": "Crear un entorno donde las m\u00e1quinas tomen todas las decisiones cr\u00edticas.",
+          "isCorrect": false,
+          "rationale": "Esto violar\u00eda el principio de primac\u00eda \u00e9tica y supervisi\u00f3n humana indispensable."
+        },
+        {
+          "text": "Aumentar los aranceles tecnol\u00f3gicos para proteger la industria local.",
+          "isCorrect": false,
+          "rationale": "Este es un riesgo geopol\u00edtico mencionado, no el objetivo \u00e9tico de la automatizaci\u00f3n."
+        }
+      ],
+      "hint": "Se trata de usar la tecnolog\u00eda para elevar el potencial humano, no para anularlo."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Evoluci\u00f3n de la computaci\u00f3n y Ley de Moore",
+      "Geopol\u00edtica de la manufactura y soberan\u00eda tecnol\u00f3gica",
+      "Gemelos digitales y simulaci\u00f3n industrial",
+      "Realidad aumentada y percepci\u00f3n humana",
+      "\u00c9tica ante fallos predictivos y vigilancia pan\u00f3ptica",
+      "Arquitectura de redes neuronales y aprendizaje profundo",
+      "Principios \u00e9ticos de la industria futura"
+    ],
+    "followUp": [
+      "Nanotecnolog\u00eda y computaci\u00f3n cu\u00e1ntica",
+      "Gesti\u00f3n de la cadena de suministro y riesgos de materias primas",
+      "Protocolos de ciberseguridad industrial",
+      "Psicolog\u00eda organizacional en entornos altamente automatizados",
+      "Modelos de backpropagation en Deep Learning",
+      "Impacto socioecon\u00f3mico de la inteligencia artificial en econom\u00edas informales"
+    ]
+  }
+}

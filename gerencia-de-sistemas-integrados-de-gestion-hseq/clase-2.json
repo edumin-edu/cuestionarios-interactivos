@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el cambio fundamental al pasar de una gesti\u00f3n tradicional a un enfoque sist\u00e9mico de valor?",
+      "answerOptions": [
+        {
+          "text": "Priorizar la ejecuci\u00f3n de tareas individuales para cumplir con el horario de oficina.",
+          "isCorrect": false,
+          "rationale": "Este enfoque pertenece a la mentalidad tradicional que se agota en el conteo de acciones aisladas sin ver el impacto global."
+        },
+        {
+          "text": "Transformar la operaci\u00f3n para funcionar como un sistema interconectado que genera impacto real.",
+          "isCorrect": true,
+          "rationale": "La gesti\u00f3n sist\u00e9mica busca abandonar las \u00e1reas aisladas para adoptar una visi\u00f3n de cadena de valor donde el resultado final es lo primordial."
+        },
+        {
+          "text": "Aumentar la cantidad de tr\u00e1mites burocr\u00e1ticos para asegurar el cumplimiento legal.",
+          "isCorrect": false,
+          "rationale": "El material advierte que sin comprensi\u00f3n t\u00e9cnica, la gesti\u00f3n se convierte en papeleo in\u00fatil, lo cual es opuesto a la excelencia operativa."
+        },
+        {
+          "text": "Delegar la responsabilidad de la mejora exclusivamente al \u00e1rea de recursos humanos.",
+          "isCorrect": false,
+          "rationale": "La mejora es un motor sist\u00e9mico que involucra interconexiones entre todas las \u00e1reas, no una funci\u00f3n aislada de un solo departamento."
+        }
+      ],
+      "hint": "Piense en el paso de medir el esfuerzo a medir el resultado final en la organizaci\u00f3n."
+    },
+    {
+      "question": "Dentro de un sistema integrado, \u00bfc\u00f3mo debe definirse un proceso?",
+      "answerOptions": [
+        {
+          "text": "Como una lista secuencial de pasos est\u00e1ticos descritos en un manual aburrido.",
+          "isCorrect": false,
+          "rationale": "Ver los procesos como simples listas de pasos ignora su naturaleza din\u00e1mica y su interacci\u00f3n con el entorno."
+        },
+        {
+          "text": "Como un conjunto de tareas independientes que no requieren retroalimentaci\u00f3n externa.",
+          "isCorrect": false,
+          "rationale": "Esta visi\u00f3n fomenta el trabajo en islas, lo cual contradice la necesidad de interconexiones para el \u00e9xito del proceso principal."
+        },
+        {
+          "text": "Como un ecosistema vivo de actividades interrelacionadas que transforman entradas en salidas de valor.",
+          "isCorrect": true,
+          "rationale": "Esta definici\u00f3n reconoce el flujo de transformaci\u00f3n y la generaci\u00f3n de valor tanto para clientes internos como externos."
+        },
+        {
+          "text": "Como una estructura r\u00edgida dise\u00f1ada \u00fanicamente para superar auditor\u00edas externas anuales.",
+          "isCorrect": false,
+          "rationale": "Si el proceso solo sirve para auditor\u00edas, se convierte en un mecanismo burocr\u00e1tico sin utilidad pr\u00e1ctica en la operaci\u00f3n diaria."
+        }
+      ],
+      "hint": "Considere la analog\u00eda biol\u00f3gica que describe la interacci\u00f3n y el flujo de recursos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica el concepto de transversalidad en las operaciones industriales?",
+      "answerOptions": [
+        {
+          "text": "Que cada \u00e1rea debe ser autosuficiente y evitar depender de otros departamentos.",
+          "isCorrect": false,
+          "rationale": "La autosuficiencia total es imposible en un sistema de valor donde los procesos dependen de insumos y talento de otras \u00e1reas."
+        },
+        {
+          "text": "Que la responsabilidad de un proceso se diluye entre todos los empleados de la empresa.",
+          "isCorrect": false,
+          "rationale": "Aunque la responsabilidad es compartida, el sistema requiere una figura central o due\u00f1o de proceso para evitar que la ejecuci\u00f3n se pierda."
+        },
+        {
+          "text": "Que el \u00e9xito del proceso principal depende estrictamente de sus interconexiones con otras \u00e1reas.",
+          "isCorrect": true,
+          "rationale": "Operaciones requiere de reclutamiento para el personal y de compras para los insumos, formando una red de dependencia necesaria."
+        },
+        {
+          "text": "Que los procesos estrat\u00e9gicos no deben mezclarse con los procesos de soporte.",
+          "isCorrect": false,
+          "rationale": "Todos los niveles del mapa de procesos deben estar alineados y comunicados para que la br\u00fajula estrat\u00e9gica funcione."
+        }
+      ],
+      "hint": "Analice la relaci\u00f3n entre el \u00e1rea de operaciones, compras y recursos humanos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del due\u00f1o de proceso en la arquitectura sist\u00e9mica?",
+      "answerOptions": [
+        {
+          "text": "Supervisar exclusivamente que el personal cumpla con su horario de entrada y salida.",
+          "isCorrect": false,
+          "rationale": "El cumplimiento de horarios es una tarea administrativa que no asegura la mejora de los indicadores de valor del proceso."
+        },
+        {
+          "text": "Rendir cuentas por el funcionamiento del engranaje y la mejora de los indicadores.",
+          "isCorrect": true,
+          "rationale": "Esta figura es responsable de que el proceso no se diluya y de que la transformaci\u00f3n genere los resultados esperados."
+        },
+        {
+          "text": "Actuar como el \u00fanico ejecutor de todas las tareas operativas del \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "El due\u00f1o de proceso gestiona el engranaje y los resultados, no necesariamente realiza cada tarea f\u00edsica individual."
+        },
+        {
+          "text": "Documentar los procesos solo cuando se aproxima una fiscalizaci\u00f3n legal.",
+          "isCorrect": false,
+          "rationale": "La documentaci\u00f3n debe ser un cimiento constante para la mejora, no una reacci\u00f3n ante presiones externas."
+        }
+      ],
+      "hint": "Se trata de la persona que lidera y responde por el desempe\u00f1o de un flujo espec\u00edfico."
+    },
+    {
+      "question": "En un modelo avanzado de capacitaci\u00f3n, \u00bfqu\u00e9 m\u00e9trica demuestra el impacto real del proceso?",
+      "answerOptions": [
+        {
+          "text": "El n\u00famero total de charlas dictadas durante el mes.",
+          "isCorrect": false,
+          "rationale": "Contar las charlas mide el esfuerzo o el volumen, pero no garantiza que el conocimiento se haya aplicado con \u00e9xito."
+        },
+        {
+          "text": "La cantidad de certificados de asistencia impresos y firmados.",
+          "isCorrect": false,
+          "rationale": "Los certificados son evidencia documental, pero no reflejan un cambio real en el comportamiento de seguridad en el campo."
+        },
+        {
+          "text": "La reducci\u00f3n medible de los actos inseguros realizados por el personal.",
+          "isCorrect": true,
+          "rationale": "Este indicador mide el impacto directo de la formaci\u00f3n en la seguridad operativa, yendo m\u00e1s all\u00e1 del simple cumplimiento."
+        },
+        {
+          "text": "El presupuesto invertido en consultores externos para las capacitaciones.",
+          "isCorrect": false,
+          "rationale": "El gasto financiero no es un indicador de la efectividad t\u00e9cnica ni de la mitigaci\u00f3n de riesgos en el trabajo."
+        }
+      ],
+      "hint": "Busque un resultado que afecte directamente la seguridad de los trabajadores."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa la sostenibilidad operativa en una organizaci\u00f3n bien estructurada?",
+      "answerOptions": [
+        {
+          "text": "La capacidad de mantener resultados consistentes a pesar de la rotaci\u00f3n de personal.",
+          "isCorrect": true,
+          "rationale": "Un sistema robusto permite que la organizaci\u00f3n trascienda a los individuos, asegurando que el conocimiento no se pierda con las personas."
+        },
+        {
+          "text": "El aumento indefinido de la producci\u00f3n sin considerar los l\u00edmites de la maquinaria.",
+          "isCorrect": false,
+          "rationale": "La sostenibilidad operativa implica previsibilidad y control, no una sobreexplotaci\u00f3n de recursos que genere fallas."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de los procesos de soporte para reducir costos.",
+          "isCorrect": false,
+          "rationale": "Los procesos de soporte son vitales para obtener recursos cr\u00edticos; eliminarlos comprometer\u00eda la continuidad del negocio."
+        },
+        {
+          "text": "La dependencia exclusiva en el hero\u00edsmo de l\u00edderes individuales ante las crisis.",
+          "isCorrect": false,
+          "rationale": "Confiar en el hero\u00edsmo individual es arriesgado; el \u00e9xito real debe construirse sobre un dise\u00f1o sist\u00e9mico robusto."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 sucede cuando un empleado clave deja su puesto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre el manual de procesos (MAPRO) y los registros de ley?",
+      "answerOptions": [
+        {
+          "text": "El MAPRO es para auditor\u00edas externas y los registros son para uso interno.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; el MAPRO gu\u00eda el d\u00eda a d\u00eda interno y los registros suelen ser exigidos por entidades fiscalizadoras."
+        },
+        {
+          "text": "El MAPRO contiene las instrucciones del 'c\u00f3mo' y los registros son la evidencia auditable.",
+          "isCorrect": true,
+          "rationale": "Esta dualidad permite planificar con rigor y demostrar legalmente que se ejecut\u00f3 lo planeado siguiendo la ley."
+        },
+        {
+          "text": "Los registros de ley son opcionales, mientras que el MAPRO es obligatorio.",
+          "isCorrect": false,
+          "rationale": "Ambos son necesarios; los registros son cruciales ante entidades como Sunafil para demostrar cumplimiento legal."
+        },
+        {
+          "text": "El MAPRO se enfoca en el pasado y los registros se enfocan en el futuro de la empresa.",
+          "isCorrect": false,
+          "rationale": "El MAPRO establece el est\u00e1ndar operativo actual, mientras que los registros documentan hechos que ya ocurrieron."
+        }
+      ],
+      "hint": "Uno sirve de gu\u00eda y el otro sirve de prueba legal."
+    },
+    {
+      "question": "En la caracterizaci\u00f3n t\u00e9cnica, \u00bfqu\u00e9 pilar define los l\u00edmites de un proceso?",
+      "answerOptions": [
+        {
+          "text": "Proveedores y entradas.",
+          "isCorrect": false,
+          "rationale": "Los proveedores y entradas definen los insumos necesarios, pero no marcan el inicio y el fin del alcance operativo."
+        },
+        {
+          "text": "Salidas y clientes.",
+          "isCorrect": false,
+          "rationale": "Las salidas definen lo que se entrega al final, pero no establecen el marco de acci\u00f3n completo del proceso."
+        },
+        {
+          "text": "Objetivo y alcance.",
+          "isCorrect": true,
+          "rationale": "El objetivo explica la raz\u00f3n de existir del proceso y el alcance marca la cancha donde este empieza y termina."
+        },
+        {
+          "text": "Flujo de actividades.",
+          "isCorrect": false,
+          "rationale": "Las actividades describen el paso a paso de la transformaci\u00f3n, pero no los l\u00edmites jer\u00e1rquicos o de responsabilidad."
+        }
+      ],
+      "hint": "Se trata de 'marcar la cancha' antes de empezar a operar."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es in\u00fatil un mapa de procesos dise\u00f1ado \u00fanicamente desde un escritorio sin ir al campo?",
+      "answerOptions": [
+        {
+          "text": "Porque los colores y el dise\u00f1o gr\u00e1fico no ser\u00edan atractivos para los gerentes.",
+          "isCorrect": false,
+          "rationale": "La utilidad de un mapa no reside en su est\u00e9tica, sino en su capacidad para gestionar riesgos reales en la operaci\u00f3n."
+        },
+        {
+          "text": "Porque no reflejar\u00eda la din\u00e1mica real, los ruidos y los cuellos de botella del piso de trabajo.",
+          "isCorrect": true,
+          "rationale": "Un documento que ignora la realidad operativa pierde su valor como herramienta de supervivencia en entornos industriales complejos."
+        },
+        {
+          "text": "Porque las leyes internacionales proh\u00edben dise\u00f1ar procesos de forma remota.",
+          "isCorrect": false,
+          "rationale": "No es una prohibici\u00f3n legal, sino una falla metodol\u00f3gica que impide la mitigaci\u00f3n efectiva de accidentes y riesgos."
+        },
+        {
+          "text": "Porque los l\u00edderes operativos no tienen tiempo para leer documentos t\u00e9cnicos.",
+          "isCorrect": false,
+          "rationale": "Los l\u00edderes s\u00ed utilizan la documentaci\u00f3n si esta aborda sus verdaderos problemas y facilita la gesti\u00f3n de riesgos."
+        }
+      ],
+      "hint": "Piense en la diferencia entre la teor\u00eda acad\u00e9mica y el 'barro' de la operaci\u00f3n real."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se clasifican los procesos en un mapa arquitect\u00f3nico est\u00e1ndar?",
+      "answerOptions": [
+        {
+          "text": "Legales, financieros y administrativos.",
+          "isCorrect": false,
+          "rationale": "Esta clasificaci\u00f3n es muy estrecha y no cubre la totalidad de la cadena de valor ni la direcci\u00f3n estrat\u00e9gica."
+        },
+        {
+          "text": "Estrat\u00e9gicos, operativos y de soporte.",
+          "isCorrect": true,
+          "rationale": "Esta clasificaci\u00f3n tripartita permite organizar el norte de la empresa, la cadena de valor y los recursos necesarios."
+        },
+        {
+          "text": "Individuales, grupales y corporativos.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n por procesos se enfoca en flujos de valor interrelacionados, no en el nivel de las personas que los ejecutan."
+        },
+        {
+          "text": "Manuales, autom\u00e1ticos y semiautom\u00e1ticos.",
+          "isCorrect": false,
+          "rationale": "Esta es una clasificaci\u00f3n t\u00e9cnica de las tareas, no una estructura arquitect\u00f3nica de la gesti\u00f3n organizacional."
+        }
+      ],
+      "hint": "Considere los tres bloques funcionales que dividen la estrategia, la ejecuci\u00f3n y los recursos."
+    },
+    {
+      "question": "En la gesti\u00f3n de riesgos, \u00bfqu\u00e9 abarca la dimensi\u00f3n de los riesgos laborales?",
+      "answerOptions": [
+        {
+          "text": "Fallas de calidad que resultan en servicios mediocres para el cliente final.",
+          "isCorrect": false,
+          "rationale": "Las fallas de calidad corresponden a riesgos operativos que afectan el producto o servicio."
+        },
+        {
+          "text": "Falta de capacitaci\u00f3n o equipos en mal estado que comprometen la seguridad de la gente.",
+          "isCorrect": true,
+          "rationale": "Los riesgos laborales se centran espec\u00edficamente en la integridad f\u00edsica y la salud de los trabajadores."
+        },
+        {
+          "text": "Vertimientos accidentales que pueden da\u00f1ar el ecosistema circundante.",
+          "isCorrect": false,
+          "rationale": "Los vertimientos y el manejo de residuos se clasifican dentro de los impactos ambientales."
+        },
+        {
+          "text": "P\u00e9rdida de la licencia social para operar por conflictos con la comunidad.",
+          "isCorrect": false,
+          "rationale": "Esto suele ser una consecuencia de un mal manejo ambiental o social, no un riesgo laboral directo."
+        }
+      ],
+      "hint": "Piense en los factores que causan accidentes o enfermedades ocupacionales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo primordial del redise\u00f1o del proceso de residuos s\u00f3lidos?",
+      "answerOptions": [
+        {
+          "text": "Reducir el costo de transporte de la basura fuera de la planta.",
+          "isCorrect": false,
+          "rationale": "Aunque es un beneficio, el redise\u00f1o se centra en la eficiencia ambiental y la valorizaci\u00f3n del residuo."
+        },
+        {
+          "text": "Eliminar la necesidad de contratar personal de limpieza externo.",
+          "isCorrect": false,
+          "rationale": "El redise\u00f1o busca cambiar la din\u00e1mica del proceso, no necesariamente eliminar puestos de trabajo espec\u00edficos."
+        },
+        {
+          "text": "Cortar de ra\u00edz la contaminaci\u00f3n cruzada para valorizar el residuo desde el origen.",
+          "isCorrect": true,
+          "rationale": "Pasar de medir peso a medir el porcentaje de segregaci\u00f3n permite transformar un centro de costo en eficiencia ambiental."
+        },
+        {
+          "text": "Aumentar el peso total de los desechos para demostrar mayor actividad industrial.",
+          "isCorrect": false,
+          "rationale": "Producir m\u00e1s desechos no es un indicador de excelencia; el valor real est\u00e1 en la calidad de la segregaci\u00f3n."
+        }
+      ],
+      "hint": "Busque la mejora t\u00e9cnica que permite que los materiales reciclables mantengan su valor."
+    },
+    {
+      "question": "\u00bfQu\u00e9 distingue al modelo avanzado de inducci\u00f3n en entornos de alto riesgo?",
+      "answerOptions": [
+        {
+          "text": "Es una charla informativa general que todos los empleados aprueban por defecto.",
+          "isCorrect": false,
+          "rationale": "Ese es el modelo obsoleto que no garantiza que el trabajador sea competente ante el riesgo."
+        },
+        {
+          "text": "Es un filtro de acceso t\u00e9cnico con evaluaciones te\u00f3ricas y pr\u00e1cticas estrictas.",
+          "isCorrect": true,
+          "rationale": "El redise\u00f1o asegura que solo personal validado y registrado pueda exponerse a las operaciones de campo."
+        },
+        {
+          "text": "Se realiza \u00fanicamente mediante correos electr\u00f3nicos para ahorrar tiempo operativo.",
+          "isCorrect": false,
+          "rationale": "La informalidad en la inducci\u00f3n es una vulnerabilidad t\u00e9cnica que aumenta la probabilidad de accidentes fatales."
+        },
+        {
+          "text": "Se enfoca exclusivamente en la entrega de uniformes y carnets de identidad.",
+          "isCorrect": false,
+          "rationale": "Aunque es parte del proceso, el enfoque avanzado se centra en los est\u00e1ndares cr\u00edticos y matrices de riesgo."
+        }
+      ],
+      "hint": "Considere el proceso como una barrera de seguridad en lugar de un protocolo de bienvenida."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el riesgo de gestionar los equipos de protecci\u00f3n personal (EPP) mediante canales informales?",
+      "answerOptions": [
+        {
+          "text": "Ahorro excesivo en el presupuesto anual de seguridad.",
+          "isCorrect": false,
+          "rationale": "La informalidad suele generar descontrol y riesgos, no un ahorro sostenible ni t\u00e9cnico."
+        },
+        {
+          "text": "Mejora en la velocidad de respuesta para los trabajadores de primera l\u00ednea.",
+          "isCorrect": false,
+          "rationale": "La falta de rigor t\u00e9cnico puede ser r\u00e1pida, pero entrega equipos inadecuados o vencidos, comprometiendo la vida."
+        },
+        {
+          "text": "Vulnerabilidad legal total ante fiscalizaciones y multas millonarias por falta de trazabilidad.",
+          "isCorrect": true,
+          "rationale": "Sin actas ni registros formales, la empresa no tiene c\u00f3mo probar que entreg\u00f3 equipos certificados y adecuados."
+        },
+        {
+          "text": "Reducci\u00f3n en la carga de trabajo del personal de almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la informalidad genera desorden en los inventarios y dificulta la labor log\u00edstica."
+        }
+      ],
+      "hint": "Piense en las consecuencias de no tener evidencia auditable ante entidades como Sunafil."
+    },
+    {
+      "question": "En la gesti\u00f3n de EPP, \u00bfcu\u00e1l es el rol espec\u00edfico del \u00e1rea de log\u00edstica o almac\u00e9n?",
+      "answerOptions": [
+        {
+          "text": "Definir las normas t\u00e9cnicas internacionales ($ANSI$ o $EN$) que deben cumplir los equipos.",
+          "isCorrect": false,
+          "rationale": "Esa es una funci\u00f3n de gobernanza t\u00e9cnica que corresponde al \u00e1rea HSEQ."
+        },
+        {
+          "text": "Evaluar la calidad de los materiales y las fechas de caducidad de los cascos.",
+          "isCorrect": false,
+          "rationale": "HSEQ debe mantener la gobernanza sobre los criterios t\u00e9cnicos y materiales."
+        },
+        {
+          "text": "Garantizar el resguardo f\u00edsico y la entrega oportuna del inventario al personal.",
+          "isCorrect": true,
+          "rationale": "Log\u00edstica es due\u00f1a de la ejecuci\u00f3n y el resguardo, asegurando que los insumos lleguen a quien los necesita."
+        },
+        {
+          "text": "Dictar las reglas t\u00e9cnicas rigurosas para la selecci\u00f3n de proveedores.",
+          "isCorrect": false,
+          "rationale": "Log\u00edstica ejecuta la compra, pero los criterios t\u00e9cnicos los establece el \u00e1rea especialista en seguridad."
+        }
+      ],
+      "hint": "Piense en qui\u00e9n se encarga del movimiento f\u00edsico de los bienes en la empresa."
+    },
+    {
+      "question": "Al elegir m\u00e9tricas de desempe\u00f1o, \u00bfcu\u00e1l es la regla de oro para evitar fallas sist\u00e9micas?",
+      "answerOptions": [
+        {
+          "text": "Priorizar el volumen de producci\u00f3n por encima de cualquier otro indicador.",
+          "isCorrect": false,
+          "rationale": "De nada sirve producir grandes vol\u00famenes si los productos son defectuosos o inseguros."
+        },
+        {
+          "text": "Medir \u00fanicamente lo que es f\u00e1cil de contar para ahorrar tiempo administrativo.",
+          "isCorrect": false,
+          "rationale": "Lo f\u00e1cil de contar (volumen) no siempre refleja la eficacia ni el control de los peligros."
+        },
+        {
+          "text": "Priorizar la eficacia y el impacto sobre el simple volumen de actividades.",
+          "isCorrect": true,
+          "rationale": "La eficacia asegura que se cumpla el prop\u00f3sito del proceso y se mantengan los riesgos bajo control."
+        },
+        {
+          "text": "Mantener los indicadores de riesgo totalmente separados de los de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las m\u00e9tricas deben estar entrelazadas con la matriz de riesgos para proteger la operaci\u00f3n integralmente."
+        }
+      ],
+      "hint": "Considere si es mejor fabricar $10,000$ unidades defectuosas o menos unidades perfectas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede en la fase inmadura de un sistema HSEQ?",
+      "answerOptions": [
+        {
+          "text": "El \u00e1rea se convierte en una br\u00fajula estrat\u00e9gica que proporciona inteligencia de datos.",
+          "isCorrect": false,
+          "rationale": "Ese es el nivel avanzado; el nivel inmaduro est\u00e1 desconectado del pulso real del negocio."
+        },
+        {
+          "text": "El \u00e1rea funciona como un silo dedicado a imprimir papeles para sobrevivir a auditor\u00edas.",
+          "isCorrect": true,
+          "rationale": "En esta fase, la gesti\u00f3n es reactiva y se percibe como una carga burocr\u00e1tica sin valor operativo."
+        },
+        {
+          "text": "Los controles preventivos est\u00e1n incrustados en cada etapa de la transformaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esto caracteriza a un sistema maduro donde la prevenci\u00f3n es parte natural del flujo de trabajo."
+        },
+        {
+          "text": "La alta direcci\u00f3n toma todas las decisiones bas\u00e1ndose en an\u00e1lisis predictivos del \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "En sistemas inmaduros, la direcci\u00f3n suele ignorar al \u00e1rea de seguridad hasta que ocurre un accidente."
+        }
+      ],
+      "hint": "Visualice una f\u00e1brica de papeles que solo busca cumplir con firmas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de los procesos operativos en la arquitectura de una empresa?",
+      "answerOptions": [
+        {
+          "text": "Definir las pol\u00edticas de alto nivel y la visi\u00f3n a largo plazo.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n de los procesos estrat\u00e9gicos, que marcan el norte de la organizaci\u00f3n."
+        },
+        {
+          "text": "Proporcionar el mantenimiento de infraestructura y el talento humano.",
+          "isCorrect": false,
+          "rationale": "Estas actividades pertenecen a los procesos de soporte, necesarios para que la operaci\u00f3n funcione."
+        },
+        {
+          "text": "Constituir la cadena de valor principal donde ocurre la transformaci\u00f3n del producto.",
+          "isCorrect": true,
+          "rationale": "Aqu\u00ed es donde se genera el producto o servicio que se comercializa, como la cr\u00eda o producci\u00f3n en una av\u00edcola."
+        },
+        {
+          "text": "Supervisar exclusivamente el cumplimiento de las normas contables.",
+          "isCorrect": false,
+          "rationale": "Aunque importante, la contabilidad suele ser un proceso de soporte, no el coraz\u00f3n de la transformaci\u00f3n industrial."
+        }
+      ],
+      "hint": "Piense en el 'medio' del mapa, donde se crea el valor que el cliente compra."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la caracterizaci\u00f3n t\u00e9cnica se considera la 'infraestructura' de un proceso?",
+      "answerOptions": [
+        {
+          "text": "Porque requiere la construcci\u00f3n de edificios f\u00edsicos para almacenar manuales.",
+          "isCorrect": false,
+          "rationale": "Se refiere a una infraestructura l\u00f3gica y de informaci\u00f3n, no necesariamente a construcciones f\u00edsicas."
+        },
+        {
+          "text": "Porque es la base de la memoria institucional y permite rastrear, controlar y mejorar.",
+          "isCorrect": true,
+          "rationale": "Sin documentar el ADN del proceso, la empresa trabaja a ciegas y no puede evolucionar t\u00e9cnicamente."
+        },
+        {
+          "text": "Porque eleva el valor de las acciones de la empresa en el mercado burs\u00e1til.",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda a la rentabilidad, su funci\u00f3n t\u00e9cnica es el control y la mitigaci\u00f3n de riesgos operativos."
+        },
+        {
+          "text": "Porque permite que las m\u00e1quinas funcionen sin necesidad de operarios humanos.",
+          "isCorrect": false,
+          "rationale": "La caracterizaci\u00f3n ordena la gesti\u00f3n humana y t\u00e9cnica, pero no reemplaza autom\u00e1ticamente la mano de obra."
+        }
+      ],
+      "hint": "Sin estos cimientos, no hay forma de saber c\u00f3mo se hicieron las cosas en el pasado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 se busca lograr al separar la gobernanza del criterio t\u00e9cnico de la ejecuci\u00f3n log\u00edstica en los EPP?",
+      "answerOptions": [
+        {
+          "text": "Duplicar las tareas para asegurar que haya m\u00e1s puestos de trabajo disponibles.",
+          "isCorrect": false,
+          "rationale": "La separaci\u00f3n busca claridad y seguridad, no crear burocracia innecesaria o redundancia vac\u00eda."
+        },
+        {
+          "text": "Permitir que cada trabajador elija su propio equipo seg\u00fan su comodidad personal.",
+          "isCorrect": false,
+          "rationale": "El criterio t\u00e9cnico debe ser estricto y basado en normas, no en preferencias individuales que comprometan la seguridad."
+        },
+        {
+          "text": "Evitar que un elemento de seguridad sea tratado como un simple insumo de oficina sin control.",
+          "isCorrect": true,
+          "rationale": "Esto asegura que el EPP opere siempre como una barrera t\u00e9cnica rigurosa y auditable."
+        },
+        {
+          "text": "Fomentar la competencia interna entre los departamentos de HSEQ y Log\u00edstica.",
+          "isCorrect": false,
+          "rationale": "La meta es la colaboraci\u00f3n t\u00e9cnica y el deslinde de responsabilidades para blindar a la organizaci\u00f3n."
+        }
+      ],
+      "hint": "Imagine la diferencia entre comprar un l\u00e1piz y comprar un arn\u00e9s de seguridad certificado."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gesti\u00f3n Sist\u00e9mica",
+      "Mapeo de Procesos",
+      "Gesti\u00f3n HSEQ",
+      "Documentaci\u00f3n T\u00e9cnica",
+      "Gesti\u00f3n de Riesgos"
+    ],
+    "followUp": [
+      "Arquitectura de Procesos Industriales",
+      "Indicadores de Impacto",
+      "Gobernanza de Equipos de Protecci\u00f3n",
+      "Sostenibilidad Operativa"
+    ]
+  }
+}

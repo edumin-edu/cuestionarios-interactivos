@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 significa que el lenguaje sea considerado un fen\u00f3meno ontol\u00f3gico en entornos operativos?",
+      "answerOptions": [
+        {
+          "text": "Que el lenguaje es una herramienta puramente descriptiva de la realidad f\u00edsica.",
+          "isCorrect": false,
+          "rationale": "Esta visi\u00f3n ignora que el lenguaje no solo reporta lo que existe, sino que modifica activamente el entorno."
+        },
+        {
+          "text": "Que el lenguaje construye activamente el entorno operativo y genera realidades.",
+          "isCorrect": true,
+          "rationale": "El concepto ontol\u00f3gico sostiene que el lenguaje es generativo, creando posibilidades de acci\u00f3n que antes no exist\u00edan."
+        },
+        {
+          "text": "Que la comunicaci\u00f3n es solo la transferencia lineal de datos t\u00e9cnicos.",
+          "isCorrect": false,
+          "rationale": "La transferencia lineal es solo una parte de la comunicaci\u00f3n y no abarca su capacidad para crear realidades."
+        },
+        {
+          "text": "Que las barreras comunicativas son exclusivamente ruidos externos al sujeto.",
+          "isCorrect": false,
+          "rationale": "El enfoque ontol\u00f3gico destaca que las barreras principales son filtros internos, biol\u00f3gicos y ling\u00fc\u00edsticos."
+        }
+      ],
+      "hint": "Relaciona el t\u00e9rmino con la capacidad de crear o dar forma al mundo en lugar de solo etiquetarlo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre ver y observar dentro de un sistema complejo?",
+      "answerOptions": [
+        {
+          "text": "Ver es un proceso de interpretaci\u00f3n mediado por el lenguaje.",
+          "isCorrect": false,
+          "rationale": "Ver se define como una funci\u00f3n biol\u00f3gica b\u00e1sica de captar luz y movimiento, no una interpretaci\u00f3n profunda."
+        },
+        {
+          "text": "Observar es una funci\u00f3n biol\u00f3gica b\u00e1sica de los ojos ante la luz.",
+          "isCorrect": false,
+          "rationale": "La observaci\u00f3n va m\u00e1s all\u00e1 de lo biol\u00f3gico, implicando filtros internos y lenguaje."
+        },
+        {
+          "text": "Observar es un proceso de interpretaci\u00f3n mediado por filtros internos y lenguaje.",
+          "isCorrect": true,
+          "rationale": "La observaci\u00f3n ocurre cuando el sujeto le pone nombre a lo que ve, abriendo posibilidades de acci\u00f3n espec\u00edficas."
+        },
+        {
+          "text": "Ver y observar son sin\u00f3nimos t\u00e9cnicos en la gesti\u00f3n de seguridad.",
+          "isCorrect": false,
+          "rationale": "Distinguir ambos t\u00e9rminos es crucial para entender c\u00f3mo distintos sujetos perciben riesgos diferentes ante un mismo objeto."
+        }
+      ],
+      "hint": "Piensa en cu\u00e1l de los dos actos requiere asignarle un significado o nombre a lo percibido."
+    },
+    {
+      "question": "En el modelo OSAR, \u00bfqu\u00e9 acci\u00f3n es prioritaria para evitar una falla sist\u00e9mica ante un riesgo?",
+      "answerOptions": [
+        {
+          "text": "Modificar exclusivamente el manual de procedimientos t\u00e9cnicos.",
+          "isCorrect": false,
+          "rationale": "Cambiar solo las reglas t\u00e9cnicas no altera la percepci\u00f3n del riesgo del sujeto que opera."
+        },
+        {
+          "text": "Realizar un giro al observador para transformar su estructura mental.",
+          "isCorrect": true,
+          "rationale": "La seguridad depende de las distinciones que el observador es capaz de procesar, no solo de las reglas externas."
+        },
+        {
+          "text": "Actualizar los artefactos y herramientas de medici\u00f3n del entorno.",
+          "isCorrect": false,
+          "rationale": "Aunque las herramientas ayudan, el resultado final depende de c\u00f3mo el sujeto interpreta esos datos."
+        },
+        {
+          "text": "Eliminar la jerarqu\u00eda organizacional para agilizar la respuesta.",
+          "isCorrect": false,
+          "rationale": "El modelo OSAR no sugiere eliminar la jerarqu\u00eda, sino transformar la capacidad del sujeto para observar resultados."
+        }
+      ],
+      "hint": "Considera qu\u00e9 elemento del sistema determina la interpretaci\u00f3n de la realidad."
+    },
+    {
+      "question": "\u00bfC\u00f3mo influye la 'autopoyesis corp\u00f3rea' en la comunicaci\u00f3n de seguridad?",
+      "answerOptions": [
+        {
+          "text": "Determina que el lenguaje es independiente del estado f\u00edsico del hablante.",
+          "isCorrect": false,
+          "rationale": "La autopoyesis corp\u00f3rea afirma precisamente lo contrario: que el cuerpo y el lenguaje est\u00e1n ligados."
+        },
+        {
+          "text": "Establece que los datos t\u00e9cnicos son inmunes al estr\u00e9s del operador.",
+          "isCorrect": false,
+          "rationale": "El estr\u00e9s es un estado biol\u00f3gico que limita dr\u00e1sticamente lo que el operador puede observar y comunicar."
+        },
+        {
+          "text": "Reconoce que estados como la fatiga limitan lo que somos capaces de observar.",
+          "isCorrect": true,
+          "rationale": "Nuestra biolog\u00eda condiciona directamente nuestra capacidad cognitiva para procesar riesgos en un momento dado."
+        },
+        {
+          "text": "Garantiza que la mente siempre puede superar cualquier limitaci\u00f3n biol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "La biolog\u00eda impone restricciones duras que no se pueden ignorar mediante la voluntad mental."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo el cansancio o la enfermedad afectan tu percepci\u00f3n del entorno."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia operativa entre una afirmaci\u00f3n y un juicio?",
+      "answerOptions": [
+        {
+          "text": "Las afirmaciones son interpretaciones subjetivas y los juicios son hechos.",
+          "isCorrect": false,
+          "rationale": "Esta es una inversi\u00f3n de los conceptos; los hechos son objetivos y las interpretaciones subjetivas."
+        },
+        {
+          "text": "Ambos son actos ling\u00fc\u00edsticos que describen realidades verificables.",
+          "isCorrect": false,
+          "rationale": "Solo las afirmaciones son verificables; los juicios residen \u00fanicamente en el observador."
+        },
+        {
+          "text": "Las afirmaciones son hechos verificables y los juicios son interpretaciones subjetivas.",
+          "isCorrect": true,
+          "rationale": "Diferenciar entre un dato (afirmaci\u00f3n) y una valoraci\u00f3n (juicio) es vital para evitar el caos operativo."
+        },
+        {
+          "text": "Los juicios tienen autoridad legal y las afirmaciones son sugerencias.",
+          "isCorrect": false,
+          "rationale": "La autoridad se relaciona con las declaraciones, no necesariamente con la distinci\u00f3n entre juicio y afirmaci\u00f3n."
+        }
+      ],
+      "hint": "Considera cu\u00e1l de los dos puede ser comprobado mediante un instrumento de medici\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n de seguridad industrial se extrae del experimento de la 'Habitaci\u00f3n China' de John Searle?",
+      "answerOptions": [
+        {
+          "text": "Que seguir un manual ciegamente garantiza la comprensi\u00f3n del riesgo.",
+          "isCorrect": false,
+          "rationale": "El experimento demuestra que se puede seguir un c\u00f3digo (sintaxis) sin entender el significado (sem\u00e1ntica)."
+        },
+        {
+          "text": "Que la comprensi\u00f3n sem\u00e1ntica humana es equivalente al procesamiento de una m\u00e1quina.",
+          "isCorrect": false,
+          "rationale": "El experimento resalta la diferencia cr\u00edtica entre procesar datos y comprender realmente el peligro."
+        },
+        {
+          "text": "Que operar como m\u00e1quinas sin entender el significado real es peligroso.",
+          "isCorrect": true,
+          "rationale": "En industrias de alto impacto, la falta de comprensi\u00f3n sem\u00e1ntica sobre el riesgo puede llevar a desastres."
+        },
+        {
+          "text": "Que la automatizaci\u00f3n total es la \u00fanica forma de evitar errores sem\u00e1nticos.",
+          "isCorrect": false,
+          "rationale": "La automatizaci\u00f3n es sint\u00e1ctica; el riesgo humano surge cuando la persona no entiende el 'por qu\u00e9' de la regla."
+        }
+      ],
+      "hint": "Enf\u00f3cate en la diferencia entre seguir instrucciones y entender el peligro de fondo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo de 'abrir las cajas' en la met\u00e1fora del escarabajo de Wittgenstein aplicada a la industria?",
+      "answerOptions": [
+        {
+          "text": "Permitir que cada operador conf\u00ede en su propia intuici\u00f3n aislada.",
+          "isCorrect": false,
+          "rationale": "La intuici\u00f3n aislada es precisamente lo que se busca evitar mediante la estandarizaci\u00f3n."
+        },
+        {
+          "text": "Asegurar que la definici\u00f3n de un riesgo cr\u00edtico sea la misma para todo el equipo.",
+          "isCorrect": true,
+          "rationale": "Estandarizar el lenguaje corporativo convierte experiencias privadas en significados compartidos para operar con seguridad."
+        },
+        {
+          "text": "Fomentar la privacidad de las experiencias sensoriales durante el turno.",
+          "isCorrect": false,
+          "rationale": "La privacidad de la experiencia (no compartir lo que se observa) aumenta el riesgo de accidentes."
+        },
+        {
+          "text": "Ocultar los errores individuales para mantener la moral del grupo.",
+          "isCorrect": false,
+          "rationale": "Abrir las cajas implica transparencia y alineaci\u00f3n, no ocultamiento de informaci\u00f3n."
+        }
+      ],
+      "hint": "Piensa en la necesidad de que todos entiendan lo mismo cuando se habla de 'peligro'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre operativamente cuando un trabajador realiza una 'declaraci\u00f3n de agobio'?",
+      "answerOptions": [
+        {
+          "text": "Se abre un nuevo horizonte de posibilidades preventivas.",
+          "isCorrect": false,
+          "rationale": "La declaraci\u00f3n de agobio tiene el efecto contrario: cierra el futuro y a\u00edsla al sujeto."
+        },
+        {
+          "text": "Se interrumpe la fluidez operativa y el sujeto se vuelve puramente reactivo.",
+          "isCorrect": true,
+          "rationale": "El agobio es un quiebre ontol\u00f3gico que deja al operador incapaz de coordinar acciones preventivas."
+        },
+        {
+          "text": "Se mejora la coordinaci\u00f3n de acciones gracias a la honestidad emocional.",
+          "isCorrect": false,
+          "rationale": "Aunque es honesto, el estado de agobio sin gesti\u00f3n paraliza la capacidad de coordinaci\u00f3n efectiva."
+        },
+        {
+          "text": "Se demuestra que el hardware humano no tiene l\u00edmites de procesamiento.",
+          "isCorrect": false,
+          "rationale": "Precisamente el agobio es la evidencia de que se han superado las restricciones biol\u00f3gicas del cerebro."
+        }
+      ],
+      "hint": "Considera c\u00f3mo afecta este sentimiento a la capacidad de planificar o anticiparse a los problemas."
+    },
+    {
+      "question": "De acuerdo con investigaciones modernas, \u00bfcu\u00e1l es el l\u00edmite duro de unidades de informaci\u00f3n que la memoria de trabajo humana procesa simult\u00e1neamente?",
+      "answerOptions": [
+        {
+          "text": "Siete unidades, m\u00e1s o menos dos ($7 \\pm 2$).",
+          "isCorrect": false,
+          "rationale": "Este es considerado un mito urbano frente a los hallazgos contempor\u00e1neos m\u00e1s restrictivos."
+        },
+        {
+          "text": "De tres a cinco unidades de informaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Este es el l\u00edmite real demostrado por investigaciones modernas para evitar la saturaci\u00f3n cognitiva."
+        },
+        {
+          "text": "Aproximadamente diez unidades si el operador tiene experiencia.",
+          "isCorrect": false,
+          "rationale": "La experiencia mejora el agrupamiento, pero el l\u00edmite biol\u00f3gico de procesamiento simult\u00e1neo sigue siendo bajo."
+        },
+        {
+          "text": "No existe un l\u00edmite fijo, depende del nivel de estr\u00e9s del momento.",
+          "isCorrect": false,
+          "rationale": "Aunque el estr\u00e9s afecta, existe un l\u00edmite fisiol\u00f3gico m\u00e1ximo de procesamiento incluso en condiciones normales."
+        }
+      ],
+      "hint": "Es un n\u00famero menor al que tradicionalmente se cre\u00eda durante d\u00e9cadas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia directa de la 'fatiga de alarmas' en una sala de control?",
+      "answerOptions": [
+        {
+          "text": "Una mayor sensibilidad del cerebro ante est\u00edmulos visuales cr\u00edticos.",
+          "isCorrect": false,
+          "rationale": "La fatiga provoca desensibilizaci\u00f3n, no un aumento de la sensibilidad."
+        },
+        {
+          "text": "El cerebro se protege desensibiliz\u00e1ndose y convirtiendo se\u00f1ales cr\u00edticas en ruido.",
+          "isCorrect": true,
+          "rationale": "Al recibir demasiadas alertas, el cerebro deja de distinguir lo importante, ignorando peligros reales."
+        },
+        {
+          "text": "Se optimiza el recurso de la atenci\u00f3n mediante la multitarea.",
+          "isCorrect": false,
+          "rationale": "La saturaci\u00f3n destruye la atenci\u00f3n y la multitarea es ineficiente en escenarios de alta carga de datos."
+        },
+        {
+          "text": "Un aumento en la velocidad de respuesta del operador ante emergencias.",
+          "isCorrect": false,
+          "rationale": "La fatiga de alarmas ralentiza o anula la respuesta correcta al saturar el sistema cognitivo."
+        }
+      ],
+      "hint": "Piensa en qu\u00e9 sucede cuando un sistema etiqueta todo como 'importante'."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 edad promedio termina de madurar el l\u00f3bulo frontal, responsable del juicio cr\u00edtico y la evaluaci\u00f3n de riesgos?",
+      "answerOptions": [
+        {
+          "text": "A los 18 a\u00f1os, con la mayor\u00eda de edad legal.",
+          "isCorrect": false,
+          "rationale": "La madurez legal no coincide con la madurez neurobiol\u00f3gica de las funciones ejecutivas superiores."
+        },
+        {
+          "text": "Entre los 25 y 30 a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "La neurociencia confirma que esta regi\u00f3n del cerebro es de las \u00faltimas en completar su desarrollo f\u00edsico."
+        },
+        {
+          "text": "A los 21 a\u00f1os en la mayor\u00eda de los individuos.",
+          "isCorrect": false,
+          "rationale": "Aunque hay avances, la maduraci\u00f3n completa de la capacidad de evaluar riesgos a largo plazo toma m\u00e1s tiempo."
+        },
+        {
+          "text": "A los 15 a\u00f1os, cuando se desarrolla la empat\u00eda b\u00e1sica.",
+          "isCorrect": false,
+          "rationale": "A los 15 a\u00f1os el desarrollo est\u00e1 lejos de completarse en t\u00e9rminos de juicio cr\u00edtico y control de impulsos."
+        }
+      ],
+      "hint": "Es una edad m\u00e1s avanzada de lo que solemos considerar para la entrada al mundo laboral adulto."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afectan los 'marcadores som\u00e1ticos' la evaluaci\u00f3n t\u00e9cnica de un riesgo?",
+      "answerOptions": [
+        {
+          "text": "Garantizan que la evaluaci\u00f3n sea 100% objetiva y libre de sesgos.",
+          "isCorrect": false,
+          "rationale": "Los marcadores som\u00e1ticos son se\u00f1ales afectivas subconscientes que colorean la evaluaci\u00f3n t\u00e9cnica."
+        },
+        {
+          "text": "Funcionan como un atajo mental que puede subestimar peligros reales.",
+          "isCorrect": true,
+          "rationale": "Si una situaci\u00f3n genera afecto positivo o familiaridad, el cerebro tiende a clasificarla err\u00f3neamente como menos riesgosa."
+        },
+        {
+          "text": "Son herramientas de software que miden la fatiga muscular del trabajador.",
+          "isCorrect": false,
+          "rationale": "No son software, sino procesos biol\u00f3gicos internos de toma de decisiones basados en emociones."
+        },
+        {
+          "text": "Permiten eliminar la influencia de las emociones en la toma de decisiones.",
+          "isCorrect": false,
+          "rationale": "Al contrario, demuestran que las emociones son inseparables de cualquier evaluaci\u00f3n t\u00e9cnica o juicio."
+        }
+      ],
+      "hint": "Relaci\u00f3nalo con una 'intuici\u00f3n' biol\u00f3gica que simplifica el an\u00e1lisis de la realidad."
+    },
+    {
+      "question": "En t\u00e9rminos de estados emocionales, \u00bfcu\u00e1l es el efecto del 'resentimiento' en un equipo operativo?",
+      "answerOptions": [
+        {
+          "text": "Predispone al equipo hacia la proactividad y la mejora continua.",
+          "isCorrect": false,
+          "rationale": "Esas son caracter\u00edsticas del entusiasmo y la ambici\u00f3n, no del resentimiento."
+        },
+        {
+          "text": "Convierte el futuro en una amenaza y genera un modo defensivo.",
+          "isCorrect": false,
+          "rationale": "Esta es la descripci\u00f3n del miedo como estado emocional."
+        },
+        {
+          "text": "Nace de percibir una injusticia y conduce al aislamiento de las personas.",
+          "isCorrect": true,
+          "rationale": "El resentimiento rompe la coordinaci\u00f3n humana al cerrar la disposici\u00f3n comunicativa del individuo."
+        },
+        {
+          "text": "Impulsa al grupo a ver el futuro como una conquista operativa.",
+          "isCorrect": false,
+          "rationale": "Esta es la funci\u00f3n de la ambici\u00f3n, que motiva el crecimiento del equipo."
+        }
+      ],
+      "hint": "Piensa en el sentimiento que surge cuando alguien siente que ha sido tratado injustamente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fen\u00f3meno permite que el estado de \u00e1nimo de un l\u00edder se sincronice con el de su equipo de trabajo?",
+      "answerOptions": [
+        {
+          "text": "La jerarqu\u00eda administrativa y las normas de conducta.",
+          "isCorrect": false,
+          "rationale": "La sincronizaci\u00f3n es un proceso biol\u00f3gico, no una regla de comportamiento impuesta."
+        },
+        {
+          "text": "El uso de canales de comunicaci\u00f3n digital de alta velocidad.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda no garantiza la sincronizaci\u00f3n emocional; esta ocurre a nivel fisiol\u00f3gico."
+        },
+        {
+          "text": "Las neuronas espejo y el contagio emocional.",
+          "isCorrect": true,
+          "rationale": "Estos mecanismos biol\u00f3gicos hacen que los miembros del equipo absorban y reflejen la vibra y ansiedad del l\u00edder."
+        },
+        {
+          "text": "La estandarizaci\u00f3n de los protocolos de entrega de turno.",
+          "isCorrect": false,
+          "rationale": "Los protocolos estructuran la conversaci\u00f3n, pero el contagio emocional es un proceso subconsciente e instant\u00e1neo."
+        }
+      ],
+      "hint": "Busca un t\u00e9rmino neurocient\u00edfico relacionado con el reflejo de las acciones o sentimientos de otros."
+    },
+    {
+      "question": "\u00bfQu\u00e9 se entiende por 'silencio defensivo' en la seguridad industrial?",
+      "answerOptions": [
+        {
+          "text": "La ausencia de ruido en la planta para mejorar la concentraci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino no se refiere a la ac\u00fastica, sino a la comunicaci\u00f3n humana y el miedo social."
+        },
+        {
+          "text": "Callar un riesgo para evitar el juicio social o castigos jer\u00e1rquicos.",
+          "isCorrect": true,
+          "rationale": "Ocurre cuando el miedo al riesgo social supera la preocupaci\u00f3n por el riesgo f\u00edsico de un accidente."
+        },
+        {
+          "text": "Un protocolo de comunicaci\u00f3n discreta durante situaciones de emergencia.",
+          "isCorrect": false,
+          "rationale": "El silencio defensivo es una falla de seguridad, no un protocolo planificado."
+        },
+        {
+          "text": "La capacidad de los operadores para trabajar sin necesidad de hablar.",
+          "isCorrect": false,
+          "rationale": "Trabajar sin comunicaci\u00f3n en entornos complejos suele aumentar el riesgo, no es una defensa positiva."
+        }
+      ],
+      "hint": "Es la preferencia de enfrentar un peligro f\u00edsico antes que ser juzgado por los superiores."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el principio de 'deferencia a la experticia' en organizaciones de alta confiabilidad?",
+      "answerOptions": [
+        {
+          "text": "En que la jerarqu\u00eda siempre tiene la \u00faltima palabra en crisis.",
+          "isCorrect": false,
+          "rationale": "La deferencia a la experticia sugiere lo opuesto: que el rango ceda ante el conocimiento t\u00e9cnico."
+        },
+        {
+          "text": "En dar prioridad a los planes te\u00f3ricos dise\u00f1ados en la oficina.",
+          "isCorrect": false,
+          "rationale": "La sensibilidad a las operaciones prioriza la realidad del terreno sobre los planes te\u00f3ricos."
+        },
+        {
+          "text": "En que los rangos ceden el paso a quien tiene el conocimiento t\u00e9cnico m\u00e1s profundo.",
+          "isCorrect": true,
+          "rationale": "Frente a escenarios cr\u00edticos, la autoridad formal se subordina a quien entiende mejor el problema t\u00e9cnico."
+        },
+        {
+          "text": "En contratar \u00fanicamente a expertos externos para evaluar los riesgos.",
+          "isCorrect": false,
+          "rationale": "La experticia a menudo reside en los operadores experimentados en el terreno, no solo en consultores externos."
+        }
+      ],
+      "hint": "Considera qui\u00e9n deber\u00eda tomar el mando durante una falla t\u00e9cnica: el jefe o el especialista."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la pregunta '\u00bfhay algo que te preocupe aunque sea levemente?' es clave en una entrega de turno?",
+      "answerOptions": [
+        {
+          "text": "Para identificar fallas mec\u00e1nicas que los instrumentos ya detectaron.",
+          "isCorrect": false,
+          "rationale": "Los instrumentos ya dan datos; esta pregunta busca captar lo que los datos omiten."
+        },
+        {
+          "text": "Para desarmar el silencio defensivo y aflorar riesgos ocultos.",
+          "isCorrect": true,
+          "rationale": "Fomenta que el operador comparta observaciones sutiles o intuiciones que la burocracia normal ignora."
+        },
+        {
+          "text": "Para evaluar el estado de \u00e1nimo personal del trabajador de forma terap\u00e9utica.",
+          "isCorrect": false,
+          "rationale": "Aunque es interpersonal, el objetivo es netamente operativo y enfocado en la seguridad de la planta."
+        },
+        {
+          "text": "Para cumplir con un requisito administrativo de recursos humanos.",
+          "isCorrect": false,
+          "rationale": "Ver la entrega de turno como un simple tr\u00e1mite administrativo es un error que oculta peligros."
+        }
+      ],
+      "hint": "Esta pregunta busca rescatar detalles que el trabajador podr\u00eda considerar demasiado 'insignificantes' para reportar formalmente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de una pol\u00edtica de 'detenci\u00f3n de trabajo' (Stop Work Authority)?",
+      "answerOptions": [
+        {
+          "text": "Sancionar a los equipos que no cumplen con los tiempos de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta pol\u00edtica busca proteger la seguridad, incluso si eso implica detener la producci\u00f3n."
+        },
+        {
+          "text": "Permitir que solo los supervisores detengan tareas peligrosas.",
+          "isCorrect": false,
+          "rationale": "Para ser efectiva, debe empoderar a cualquier miembro del equipo, independientemente de su rango."
+        },
+        {
+          "text": "Erradicar la ansiedad comunicativa y empoderar al equipo ante tareas inseguras.",
+          "isCorrect": true,
+          "rationale": "Garantiza que cualquier persona pueda frenar una operaci\u00f3n peligrosa sin temor a represalias."
+        },
+        {
+          "text": "Aumentar la carga de datos que el operador debe procesar.",
+          "isCorrect": false,
+          "rationale": "Al contrario, busca simplificar la decisi\u00f3n ante un riesgo inminente."
+        }
+      ],
+      "hint": "Se trata de dar autoridad absoluta para parar una labor si se detecta peligro."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa la sensibilidad a las operaciones en entornos cr\u00edticos?",
+      "answerOptions": [
+        {
+          "text": "Enfocarse en la realidad cruda del funcionamiento diario frente a los planes te\u00f3ricos.",
+          "isCorrect": true,
+          "rationale": "Implica mantener la atenci\u00f3n en lo que realmente est\u00e1 pasando en el terreno minuto a minuto."
+        },
+        {
+          "text": "Aumentar el n\u00famero de indicadores de desempe\u00f1o en los tableros de control.",
+          "isCorrect": false,
+          "rationale": "M\u00e1s indicadores pueden llevar a la contaminaci\u00f3n de datos, lo cual es opuesto a una sensibilidad efectiva."
+        },
+        {
+          "text": "Priorizar la velocidad de producci\u00f3n sobre cualquier anomal\u00eda menor.",
+          "isCorrect": false,
+          "rationale": "La sensibilidad a las operaciones requiere estar atento a las anomal\u00edas m\u00e1s d\u00e9biles para evitar fallos mayores."
+        },
+        {
+          "text": "Delegar la seguridad \u00fanicamente en el departamento de prevenci\u00f3n de riesgos.",
+          "isCorrect": false,
+          "rationale": "La sensibilidad debe ser compartida por todos los involucrados en la operaci\u00f3n diaria."
+        }
+      ],
+      "hint": "Es la obsesi\u00f3n por lo que ocurre 'aqu\u00ed y ahora' en el campo de trabajo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito final de construir una arquitectura de seguridad psicol\u00f3gica?",
+      "answerOptions": [
+        {
+          "text": "Eliminar por completo las emociones del entorno de trabajo.",
+          "isCorrect": false,
+          "rationale": "Las emociones son el cimiento de la acci\u00f3n; no se eliminan, se gestionan para la seguridad."
+        },
+        {
+          "text": "Transformar el silencio defensivo en inteligencia operativa proactiva.",
+          "isCorrect": true,
+          "rationale": "Permite que la informaci\u00f3n fluya sin miedo, convirtiendo las dudas en aprendizaje preventivo."
+        },
+        {
+          "text": "Asegurar que los operarios sigan el manual sin cuestionar la jerarqu\u00eda.",
+          "isCorrect": false,
+          "rationale": "La seguridad psicol\u00f3gica fomenta precisamente el cuestionamiento constructivo ante riesgos."
+        },
+        {
+          "text": "Reducir los costos de capacitaci\u00f3n t\u00e9cnica del personal nuevo.",
+          "isCorrect": false,
+          "rationale": "Aunque eficiente, su fin primario es la preservaci\u00f3n de la vida y la integridad sist\u00e9mica."
+        }
+      ],
+      "hint": "Busca el beneficio de convertir el miedo a hablar en informaci\u00f3n \u00fatil para el equipo."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Comunicaci\u00f3n Ontol\u00f3gica y Lenguaje Generativo",
+      "Modelos de Observaci\u00f3n y el Modelo OSAR",
+      "Biolog\u00eda del Riesgo y Maduraci\u00f3n Cerebral",
+      "Gesti\u00f3n de la Complejidad y L\u00edmites Cognitivos",
+      "Arquitectura de Seguridad Psicol\u00f3gica y HRO"
+    ],
+    "followUp": [
+      "Protocolos de Conversaciones Cr\u00edticas en Terreno",
+      "Impacto de las Emociones y Marcadores Som\u00e1ticos en Decisiones T\u00e9cnicas",
+      "Diferenciaci\u00f3n de Actos del Habla en Operaciones Industriales",
+      "Prevenci\u00f3n de la Fatiga de Alarmas y Curadur\u00eda de Datos",
+      "Mecanismos de Autopoyesis Cognitiva y Corp\u00f3rea"
+    ]
+  }
+}

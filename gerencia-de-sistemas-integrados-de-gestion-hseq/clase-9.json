@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito fundamental de la evoluci\u00f3n sist\u00e9mica en la gesti\u00f3n HSEQ en el ecosistema empresarial actual?",
+      "answerOptions": [
+        {
+          "text": "Lograr una verdadera resiliencia organizacional y una ventaja competitiva sostenible.",
+          "isCorrect": true,
+          "rationale": "La convergencia de los pilares de salud, seguridad, ambiente y calidad permite a las organizaciones absorber disrupciones y optimizar el desempe\u00f1o estrat\u00e9gicamente."
+        },
+        {
+          "text": "Cumplir estrictamente con la carga burocr\u00e1tica impuesta por las normativas locales.",
+          "isCorrect": false,
+          "rationale": "El enfoque moderno busca dejar atr\u00e1s la idea del cumplimiento como una carga administrativa para centrarse en la creaci\u00f3n de valor real."
+        },
+        {
+          "text": "Mantener departamentos aislados para asegurar la especializaci\u00f3n t\u00e9cnica de cada \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n fragmentada se considera un modelo obsoleto que impide la sinergia operativa necesaria para la eficiencia actual."
+        },
+        {
+          "text": "Reducir los costos de personal mediante la eliminaci\u00f3n de supervisores de seguridad.",
+          "isCorrect": false,
+          "rationale": "Aunque se busca la madurez y el autocuidado, el objetivo no es el recorte de personal, sino la evoluci\u00f3n hacia una cultura interdependiente."
+        }
+      ],
+      "hint": "Piense en el resultado estrat\u00e9gico de pasar de un sistema fragmentado a uno integrado y adaptable."
+    },
+    {
+      "question": "En la dimensi\u00f3n de salud ($H$), \u00bfqu\u00e9 cambio define la visi\u00f3n moderna y estrat\u00e9gica de este pilar?",
+      "answerOptions": [
+        {
+          "text": "Un enfoque puramente f\u00edsico centrado en la atenci\u00f3n inmediata de lesiones.",
+          "isCorrect": false,
+          "rationale": "Limitarse a la atenci\u00f3n f\u00edsica es una visi\u00f3n tradicional que no abarca la complejidad de la salud en el trabajo actual."
+        },
+        {
+          "text": "Una visi\u00f3n hol\u00edstica que abarca el bienestar mental, social y la gesti\u00f3n del riesgo biol\u00f3gico.",
+          "isCorrect": true,
+          "rationale": "Esta perspectiva integral es vital para asegurar que el negocio pueda seguir operando al proteger al capital humano en todas sus dimensiones."
+        },
+        {
+          "text": "La contrataci\u00f3n exclusiva de personal que no presente antecedentes m\u00e9dicos de riesgo.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de la salud se enfoca en el bienestar y la prevenci\u00f3n dentro de la organizaci\u00f3n, no en la exclusi\u00f3n de talento."
+        },
+        {
+          "text": "El cumplimiento de jornadas laborales m\u00ednimas para evitar el desgaste f\u00edsico extremo.",
+          "isCorrect": false,
+          "rationale": "Si bien el descanso es importante, la visi\u00f3n estrat\u00e9gica es mucho m\u00e1s amplia e incluye factores mentales y sociales."
+        }
+      ],
+      "hint": "Considere qu\u00e9 t\u00e9rminos describen una perspectiva que va m\u00e1s all\u00e1 de lo meramente corporal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza la etapa de madurez en la dimensi\u00f3n de seguridad ($S$)?",
+      "answerOptions": [
+        {
+          "text": "El incremento de la vigilancia directa por parte de supervisores externos.",
+          "isCorrect": false,
+          "rationale": "La madurez implica alejarse de la dependencia de una supervisi\u00f3n constante que 'respira en la nuca' del trabajador."
+        },
+        {
+          "text": "La implementaci\u00f3n de sanciones econ\u00f3micas severas por cada acto inseguro detectado.",
+          "isCorrect": false,
+          "rationale": "Las sanciones son medidas reactivas; la madurez se basa en la convicci\u00f3n interna y no solo en el miedo al castigo."
+        },
+        {
+          "text": "El tr\u00e1nsito hacia una cultura profunda de autocuidado interdependiente.",
+          "isCorrect": true,
+          "rationale": "La verdadera evoluci\u00f3n ocurre cuando la prevenci\u00f3n nace de cada individuo y se extiende al cuidado mutuo entre compa\u00f1eros."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de los protocolos de respuesta ante emergencias.",
+          "isCorrect": false,
+          "rationale": "La madurez refuerza la prevenci\u00f3n, pero nunca elimina la preparaci\u00f3n necesaria para gestionar incidentes."
+        }
+      ],
+      "hint": "Piense en qui\u00e9n es el responsable principal de la prevenci\u00f3n cuando un sistema de seguridad ha evolucionado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo estrat\u00e9gico de la dimensi\u00f3n de medio ambiente ($E$) m\u00e1s all\u00e1 del cumplimiento legal?",
+      "answerOptions": [
+        {
+          "text": "Externalizar los riesgos ambientales a contratistas de servicios de limpieza.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad ambiental es integral a la organizaci\u00f3n y no se elimina simplemente delegando tareas externas."
+        },
+        {
+          "text": "Transformar la ecoeficiencia y el control de impactos en una fuente de innovaci\u00f3n y ahorro.",
+          "isCorrect": true,
+          "rationale": "Este pilar busca optimizar recursos como emisiones y residuos para generar valor econ\u00f3mico y operativo."
+        },
+        {
+          "text": "Pagar multas ambientales preventivas para asegurar la continuidad de la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El pago de multas representa un fallo en el sistema y una p\u00e9rdida de capital, no una estrategia de ahorro o innovaci\u00f3n."
+        },
+        {
+          "text": "Reducir la producci\u00f3n para minimizar autom\u00e1ticamente el impacto ecol\u00f3gico.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n ambiental busca la eficiencia en los procesos existentes, no la detenci\u00f3n de la actividad comercial."
+        }
+      ],
+      "hint": "Relacione la gesti\u00f3n de residuos y emisiones con la mejora de la rentabilidad."
+    },
+    {
+      "question": "En la gesti\u00f3n de calidad ($Q$), \u00bfcu\u00e1l es el enfoque principal para garantizar la promesa al cliente?",
+      "answerOptions": [
+        {
+          "text": "La flexibilidad creativa para improvisar soluciones ante fallos inesperados.",
+          "isCorrect": false,
+          "rationale": "La calidad busca eliminar la improvisaci\u00f3n mediante la estandarizaci\u00f3n y la consistencia absoluta."
+        },
+        {
+          "text": "La orientaci\u00f3n al mil\u00edmetro, la consistencia y el cumplimiento estricto de requisitos.",
+          "isCorrect": true,
+          "rationale": "Este enfoque garantiza que el producto o servicio entregado sea exactamente lo que se prometi\u00f3, sin margen para errores."
+        },
+        {
+          "text": "El aumento del precio final para cubrir posibles errores en la l\u00ednea de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Trasladar costos de ineficiencia al cliente destruye la competitividad y no resuelve el problema de fondo."
+        },
+        {
+          "text": "La inspecci\u00f3n visual r\u00e1pida de una muestra peque\u00f1a de los productos terminados.",
+          "isCorrect": false,
+          "rationale": "La calidad moderna es sist\u00e9mica y preventiva, no se limita a inspecciones superficiales al final del proceso."
+        }
+      ],
+      "hint": "Piense en el nivel de precisi\u00f3n y rigor necesario para asegurar un resultado id\u00e9ntico cada vez."
+    },
+    {
+      "question": "Seg\u00fan datos de la ASQ, \u00bfcu\u00e1nto puede llegar a costar la falta de calidad a una organizaci\u00f3n anualmente?",
+      "answerOptions": [
+        {
+          "text": "Entre el $15\\%$ y el $30\\%$ del ingreso operativo anual.",
+          "isCorrect": true,
+          "rationale": "Estos costos se derivan principalmente de reprocesos y fallas que consumen una parte significativa de la rentabilidad."
+        },
+        {
+          "text": "Aproximadamente el $5\\%$ de las utilidades netas antes de impuestos.",
+          "isCorrect": false,
+          "rationale": "Esta cifra subestima el impacto real de la no calidad, que afecta directamente el flujo operativo antes de llegar a la utilidad neta."
+        },
+        {
+          "text": "Cerca del $50\\%$ de la inversi\u00f3n inicial en infraestructura tecnol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "El impacto se mide sobre los ingresos operativos corrientes, no sobre la inversi\u00f3n en activos fijos."
+        },
+        {
+          "text": "Un valor despreciable si la empresa cuenta con seguros contra errores y omisiones.",
+          "isCorrect": false,
+          "rationale": "Los seguros no cubren la ineficiencia operativa ni los reprocesos constantes que erosionan el margen de ganancia."
+        }
+      ],
+      "hint": "Es un porcentaje considerable que impacta directamente el dinero que genera la operaci\u00f3n cada a\u00f1o."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del Anexo SL (estructura de alto nivel) en las normas ISO modernas?",
+      "answerOptions": [
+        {
+          "text": "Crear un manual de procedimientos \u00fanico para todas las empresas del mismo sector.",
+          "isCorrect": false,
+          "rationale": "Cada empresa debe dise\u00f1ar su propio sistema; el Anexo SL provee la estructura, no el contenido espec\u00edfico."
+        },
+        {
+          "text": "Establecer una arquitectura compartida que alinea documentos y t\u00e9rminos en diferentes normas.",
+          "isCorrect": true,
+          "rationale": "Funciona como una columna vertebral que permite integrar calidad, ambiente y seguridad sin duplicar esfuerzos ni crear caos documental."
+        },
+        {
+          "text": "Definir las sanciones legales aplicables en caso de accidentes laborales graves.",
+          "isCorrect": false,
+          "rationale": "Las normas ISO son est\u00e1ndares voluntarios y no c\u00f3digos penales; la estructura se enfoca en la gesti\u00f3n operativa."
+        },
+        {
+          "text": "Eliminar la necesidad de realizar auditor\u00edas internas anuales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el Anexo SL refuerza la necesidad de evaluaci\u00f3n y auditor\u00eda en su cl\u00e1usula $9$."
+        }
+      ],
+      "hint": "Considere c\u00f3mo se logra que diferentes normas 'hablen' el mismo lenguaje t\u00e9cnico."
+    },
+    {
+      "question": "Dentro del Anexo SL, \u00bfqu\u00e9 aspecto se aborda fundamentalmente en la Cl\u00e1usula 4?",
+      "answerOptions": [
+        {
+          "text": "La asignaci\u00f3n de recursos financieros para la compra de equipos.",
+          "isCorrect": false,
+          "rationale": "La asignaci\u00f3n de recursos corresponde a la etapa de soporte, no al an\u00e1lisis inicial del entorno."
+        },
+        {
+          "text": "El an\u00e1lisis del contexto de la organizaci\u00f3n mediante herramientas como FODA o PESTEL.",
+          "isCorrect": true,
+          "rationale": "Esta fase es el cimiento del sistema, donde se entienden los factores internos y externos que afectan la gesti\u00f3n."
+        },
+        {
+          "text": "La ejecuci\u00f3n de planes de respuesta ante emergencias ambientales.",
+          "isCorrect": false,
+          "rationale": "La ejecuci\u00f3n operativa se gestiona en la cl\u00e1usula $8$, una vez que el contexto y la planificaci\u00f3n est\u00e1n claros."
+        },
+        {
+          "text": "La revisi\u00f3n por la direcci\u00f3n de los resultados de las auditor\u00edas externas.",
+          "isCorrect": false,
+          "rationale": "Esa revisi\u00f3n es parte de la evaluaci\u00f3n del desempe\u00f1o en las etapas finales del ciclo de gesti\u00f3n."
+        }
+      ],
+      "hint": "Se trata de la base del sistema, enfocada en entender d\u00f3nde est\u00e1 parada la empresa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece la norma ISO 37301 en el marco de un sistema integrado?",
+      "answerOptions": [
+        {
+          "text": "Los requisitos t\u00e9cnicos para la certificaci\u00f3n de laboratorios de ensayo.",
+          "isCorrect": false,
+          "rationale": "Esa es una funci\u00f3n de otras normas espec\u00edficas; la ISO $37301$ se centra en el cumplimiento corporativo."
+        },
+        {
+          "text": "El est\u00e1ndar de oro para la gesti\u00f3n del cumplimiento (compliance) y el tono \u00e9tico.",
+          "isCorrect": true,
+          "rationale": "Asegura que el sistema no sea solo papel, sino que se sustente en la integridad y el cumplimiento de las leyes."
+        },
+        {
+          "text": "Las directrices para la auditor\u00eda de sistemas de gesti\u00f3n de calidad.",
+          "isCorrect": false,
+          "rationale": "Las pautas para auditar se encuentran principalmente en la norma ISO $19011$."
+        },
+        {
+          "text": "El protocolo de comunicaci\u00f3n con los medios de comunicaci\u00f3n en caso de crisis.",
+          "isCorrect": false,
+          "rationale": "Aunque el cumplimiento ayuda en crisis, la norma se enfoca en la estructura de gobernanza y \u00e9tica preventiva."
+        }
+      ],
+      "hint": "Busque el concepto relacionado con asegurar que la organizaci\u00f3n act\u00fae conforme a normas y valores \u00e9ticos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo enfrentan las empresas que utilizan un modelo de integraci\u00f3n 'progresivo' (una norma a la vez)?",
+      "answerOptions": [
+        {
+          "text": "Una inversi\u00f3n inicial excesivamente alta que agota el capital de trabajo.",
+          "isCorrect": false,
+          "rationale": "Este modelo suele diluir los costos en el tiempo, por lo que el riesgo principal no es la inversi\u00f3n inicial s\u00fabita."
+        },
+        {
+          "text": "Un riesgo alt\u00edsimo de duplicidad de tareas y tiempos de implementaci\u00f3n muy prolongados.",
+          "isCorrect": true,
+          "rationale": "Al no integrar desde el inicio, se suelen crear documentos o procesos por separado que luego deben unificarse con dificultad."
+        },
+        {
+          "text": "La p\u00e9rdida inmediata de todas las certificaciones previas si falla la nueva norma.",
+          "isCorrect": false,
+          "rationale": "Las certificaciones son independientes; el fallo en una no anula autom\u00e1ticamente las otras, aunque da\u00f1a la visi\u00f3n sist\u00e9mica."
+        },
+        {
+          "text": "La imposibilidad legal de contratar personal nuevo durante el proceso.",
+          "isCorrect": false,
+          "rationale": "No existen restricciones legales de este tipo vinculadas a los modelos de integraci\u00f3n de normas ISO."
+        }
+      ],
+      "hint": "Piense en las consecuencias de trabajar en 'silos' que se intentan unir poco a poco."
+    },
+    {
+      "question": "En el enfoque gradual de integraci\u00f3n, \u00bfcu\u00e1l es el objetivo de la fase 1 denominada 'diagn\u00f3stico de asimetr\u00edas'?",
+      "answerOptions": [
+        {
+          "text": "Sancionar a los jefes de \u00e1rea que no cumplen con los requisitos de la norma.",
+          "isCorrect": false,
+          "rationale": "El diagn\u00f3stico es una herramienta t\u00e9cnica de medici\u00f3n, no un proceso disciplinario contra el personal."
+        },
+        {
+          "text": "Mapear la brecha real entre las pr\u00e1cticas actuales y las exigencias de los est\u00e1ndares.",
+          "isCorrect": true,
+          "rationale": "Permite identificar qu\u00e9 tan lejos est\u00e1 la organizaci\u00f3n de cumplir con las normas para planificar las acciones necesarias."
+        },
+        {
+          "text": "Publicar los estados financieros para atraer a nuevos inversionistas ambientales.",
+          "isCorrect": false,
+          "rationale": "Aunque la sostenibilidad atrae inversi\u00f3n, esta fase es interna y t\u00e9cnica sobre procesos de gesti\u00f3n HSEQ."
+        },
+        {
+          "text": "Eliminar todos los manuales antiguos para empezar de cero sin antecedentes.",
+          "isCorrect": false,
+          "rationale": "El diagn\u00f3stico eval\u00faa lo existente; borrar todo sin analizarlo primero desperdiciar\u00eda informaci\u00f3n valiosa."
+        }
+      ],
+      "hint": "Se trata de identificar qu\u00e9 falta para llegar a la meta de certificaci\u00f3n o integraci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja de utilizar software especializado y tableros de control en lugar de sistemas manuales?",
+      "answerOptions": [
+        {
+          "text": "Reducir la necesidad de capacitaci\u00f3n del personal operativo.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el software requiere capacitaci\u00f3n espec\u00edfica para ser usado correctamente por el equipo."
+        },
+        {
+          "text": "Garantizar la toma de decisiones basadas en datos en tiempo real y eliminar la p\u00e9rdida de informaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La digitalizaci\u00f3n permite una respuesta r\u00e1pida y precisa, algo cr\u00edtico para salvar vidas y proteger activos."
+        },
+        {
+          "text": "Asegurar que el sistema se gestione autom\u00e1ticamente sin intervenci\u00f3n humana.",
+          "isCorrect": false,
+          "rationale": "El software es una herramienta; el liderazgo y la cultura humana siguen siendo los motores indispensables."
+        },
+        {
+          "text": "Ocultar errores operativos ante las auditor\u00edas externas mediante filtros digitales.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda busca la transparencia y trazabilidad, no la manipulaci\u00f3n de datos, lo cual ser\u00eda una falta \u00e9tica grave."
+        }
+      ],
+      "hint": "Piense en la velocidad y la fiabilidad de la informaci\u00f3n en situaciones cr\u00edticas."
+    },
+    {
+      "question": "En el modelo de valores competitivos de Cameron y Quinn, \u00bfqu\u00e9 debilidad presenta la 'Cultura de Mercado'?",
+      "answerOptions": [
+        {
+          "text": "Una lentitud burocr\u00e1tica excesiva que impide el cambio.",
+          "isCorrect": false,
+          "rationale": "La lentitud es caracter\u00edstica de la cultura de jerarqu\u00eda, no de la de mercado que prioriza la rapidez."
+        },
+        {
+          "text": "Una \u00e9tica d\u00e9bil donde la velocidad y los resultados devoran la seguridad.",
+          "isCorrect": true,
+          "rationale": "Existe la premisa de que detener la producci\u00f3n es inaceptable, lo que lleva a ignorar protocolos de riesgo."
+        },
+        {
+          "text": "Un exceso de colaboraci\u00f3n que impide tomar decisiones dif\u00edciles.",
+          "isCorrect": false,
+          "rationale": "La complacencia por exceso de colaboraci\u00f3n es propia de la cultura de clan."
+        },
+        {
+          "text": "La falta total de innovaci\u00f3n por miedo al fracaso operativo.",
+          "isCorrect": false,
+          "rationale": "En la cultura de mercado se innova para competir, pero el riesgo principal es la integridad del sistema preventivo."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede cuando la presi\u00f3n por cumplir metas comerciales supera la importancia de la prevenci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representan los 'supuestos subyacentes' en los niveles de la cultura organizacional?",
+      "answerOptions": [
+        {
+          "text": "Los elementos visibles como letreros, uniformes y equipos de protecci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esos son artefactos visibles, el nivel m\u00e1s superficial de la cultura."
+        },
+        {
+          "text": "Las creencias profundas y silenciosas que realmente gobiernan las acciones diarias.",
+          "isCorrect": true,
+          "rationale": "Son el nivel m\u00e1s determinante; por ejemplo, el miedo a reportar incidentes a pesar de lo que digan los manuales."
+        },
+        {
+          "text": "La misi\u00f3n y visi\u00f3n enmarcadas en las oficinas de la alta gerencia.",
+          "isCorrect": false,
+          "rationale": "Esos son valores declarados, que a menudo pueden estar divorciados de la realidad operativa."
+        },
+        {
+          "text": "El organigrama oficial que define los niveles de autoridad en la empresa.",
+          "isCorrect": false,
+          "rationale": "El organigrama es una estructura formal y visible, no una creencia profunda subyacente."
+        }
+      ],
+      "hint": "Es el nivel m\u00e1s profundo de la cultura, aquel que no se ve pero que dicta el comportamiento real."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 se refiere el concepto de 'tono \u00e9tico' del liderazgo (Tone at the top)?",
+      "answerOptions": [
+        {
+          "text": "A la frecuencia y volumen con que los gerentes dan \u00f3rdenes en la planta.",
+          "isCorrect": false,
+          "rationale": "No se refiere a la comunicaci\u00f3n verbal ac\u00fastica, sino a la coherencia moral y el ejemplo."
+        },
+        {
+          "text": "Al compromiso \u00e9tico de la alta direcci\u00f3n que debe ser promovido, exigido y ejemplificado.",
+          "isCorrect": true,
+          "rationale": "Es el motor del sistema; sin un ejemplo \u00edntegro desde la cima, cualquier sistema de gesti\u00f3n fracasa."
+        },
+        {
+          "text": "Al c\u00f3digo de vestimenta formal requerido para las reuniones de junta directiva.",
+          "isCorrect": false,
+          "rationale": "La \u00e9tica corporativa trasciende la apariencia f\u00edsica o las normas de etiqueta."
+        },
+        {
+          "text": "A la capacidad de los l\u00edderes para negociar multas con las autoridades regulatorias.",
+          "isCorrect": false,
+          "rationale": "El tono \u00e9tico busca evitar el incumplimiento, no evadir las consecuencias legales mediante negociaciones."
+        }
+      ],
+      "hint": "Piense en la influencia que tiene el comportamiento de los jefes sobre la integridad de toda la empresa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una consecuencia de mantener un 'doble discurso' en el liderazgo (ej. pedir seguridad pero premiar la velocidad imprudente)?",
+      "answerOptions": [
+        {
+          "text": "Un aumento temporal en la productividad que se mantiene a largo plazo.",
+          "isCorrect": false,
+          "rationale": "Cualquier ganancia es ef\u00edmera y suele terminar en desastres que destruyen el valor de la empresa."
+        },
+        {
+          "text": "El colapso de la credibilidad del sistema y la destrucci\u00f3n de la integridad operativa.",
+          "isCorrect": true,
+          "rationale": "Cuando los empleados notan que los valores reales son distintos a los declarados, dejan de confiar en los protocolos."
+        },
+        {
+          "text": "La obtenci\u00f3n m\u00e1s r\u00e1pida de certificaciones internacionales de calidad.",
+          "isCorrect": false,
+          "rationale": "Los auditores rigurosos detectan estas inconsistencias, lo que impide una certificaci\u00f3n leg\u00edtima y sostenible."
+        },
+        {
+          "text": "Una mejora en la retenci\u00f3n de talento joven y altamente calificado.",
+          "isCorrect": false,
+          "rationale": "El doble discurso genera frustraci\u00f3n y fuga de talentos que buscan entornos de trabajo coherentes y seguros."
+        }
+      ],
+      "hint": "Reflexione sobre qu\u00e9 sucede con la confianza del personal cuando lo que se dice no coincide con lo que se premia."
+    },
+    {
+      "question": "En el caso de un accidente grave, \u00bfpor qu\u00e9 el costo oculto puede ser de $4$ a $10$ veces el salario de la persona afectada?",
+      "answerOptions": [
+        {
+          "text": "Debido al pago de bonos de consolaci\u00f3n a los familiares del trabajador.",
+          "isCorrect": false,
+          "rationale": "Los costos ocultos son operativos y t\u00e9cnicos, no se limitan a pagos extraordinarios de benevolencia."
+        },
+        {
+          "text": "Por el aumento de primas de seguro, paradas de planta y p\u00e9rdida de conocimiento t\u00e9cnico irremplazable.",
+          "isCorrect": true,
+          "rationale": "Estos factores representan una hemorragia de capital y capacidad operativa que supera con creces el costo directo del salario."
+        },
+        {
+          "text": "Porque la ley exige que se le siga pagando el salario multiplicado por diez durante la recuperaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La legislaci\u00f3n no suele imponer esa multiplicaci\u00f3n directa del salario; el costo es una sumatoria de ineficiencias y gastos indirectos."
+        },
+        {
+          "text": "Debido a la necesidad de contratar a diez personas nuevas para reemplazar a un solo trabajador.",
+          "isCorrect": false,
+          "rationale": "El reemplazo no requiere necesariamente esa cantidad de personal, sino que el costo total de la disrupci\u00f3n es masivo."
+        }
+      ],
+      "hint": "Considere factores como la interrupci\u00f3n del trabajo, el prestigio y el conocimiento que se pierde."
+    },
+    {
+      "question": "\u00bfQu\u00e9 pilar sist\u00e9mico se encarga de eliminar las tareas duplicadas y acelerar la respuesta ante crisis?",
+      "answerOptions": [
+        {
+          "text": "La reputaci\u00f3n \u00e9tica.",
+          "isCorrect": false,
+          "rationale": "La reputaci\u00f3n es un resultado del sistema, pero no es la herramienta mec\u00e1nica que elimina duplicidades."
+        },
+        {
+          "text": "La eficiencia operativa.",
+          "isCorrect": true,
+          "rationale": "La integraci\u00f3n de procesos bajo una arquitectura coherente permite que la organizaci\u00f3n funcione con mayor fluidez y rapidez."
+        },
+        {
+          "text": "La madurez cultural del clan.",
+          "isCorrect": false,
+          "rationale": "Aunque la cultura ayuda, la eliminaci\u00f3n de duplicidades es una funci\u00f3n del dise\u00f1o t\u00e9cnico y operativo del sistema."
+        },
+        {
+          "text": "La gesti\u00f3n de recursos humanos.",
+          "isCorrect": false,
+          "rationale": "Es una parte del sistema, pero la eficiencia operativa integral es lo que espec\u00edficamente ataca las tareas repetitivas en HSEQ."
+        }
+      ],
+      "hint": "Se refiere a la optimizaci\u00f3n de los procesos internos para que no se haga el mismo trabajo dos veces."
+    },
+    {
+      "question": "En la Cl\u00e1usula 10 del Anexo SL, \u00bfc\u00f3mo se garantiza que la 'rueda del aprendizaje' jam\u00e1s se detenga?",
+      "answerOptions": [
+        {
+          "text": "Mediante la gesti\u00f3n de errores a trav\u00e9s de no conformidades y la mejora continua.",
+          "isCorrect": true,
+          "rationale": "Este proceso asegura que cada fallo sea analizado para evitar su repetici\u00f3n y optimizar el sistema constantemente."
+        },
+        {
+          "text": "Realizando celebraciones mensuales por cada d\u00eda sin accidentes reportados.",
+          "isCorrect": false,
+          "rationale": "Las celebraciones son motivacionales, pero no constituyen un proceso t\u00e9cnico de mejora sist\u00e9mica de errores."
+        },
+        {
+          "text": "Cambiando a los l\u00edderes de la organizaci\u00f3n cada vez que ocurre un error grave.",
+          "isCorrect": false,
+          "rationale": "La mejora continua busca arreglar los procesos, no simplemente rotar personas sin solucionar las causas ra\u00edz."
+        },
+        {
+          "text": "Delegando la responsabilidad de la mejora exclusivamente en consultores externos.",
+          "isCorrect": false,
+          "rationale": "La mejora debe ser intr\u00ednseca a la organizaci\u00f3n; los consultores pueden guiar, pero la gesti\u00f3n debe ser interna."
+        }
+      ],
+      "hint": "Piense en el proceso formal que se sigue cuando algo no sale seg\u00fan lo planeado en una norma ISO."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que la prevenci\u00f3n no es un gasto, sino una barrera protectora del patrimonio?",
+      "answerOptions": [
+        {
+          "text": "Porque permite evadir el pago de impuestos relacionados con la seguridad social.",
+          "isCorrect": false,
+          "rationale": "La prevenci\u00f3n no tiene relaci\u00f3n con la evasi\u00f3n fiscal; es una medida de protecci\u00f3n de activos y personas."
+        },
+        {
+          "text": "Porque evita hemorragias de capital y problemas legales derivados de fallas de supervisi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Como muestra el caso de los $80,000$ soles en gastos m\u00e9dicos, un solo ahorro en prevenci\u00f3n puede costar fortunas en incidentes."
+        },
+        {
+          "text": "Porque los equipos de protecci\u00f3n personal pueden ser revendidos al finalizar su vida \u00fatil.",
+          "isCorrect": false,
+          "rationale": "El valor del patrimonio se protege evitando p\u00e9rdidas por accidentes, no mediante la reventa de equipos usados."
+        },
+        {
+          "text": "Porque garantiza que la empresa nunca tendr\u00e1 que enfrentar una auditor\u00eda gubernamental.",
+          "isCorrect": false,
+          "rationale": "Las auditor\u00edas pueden ocurrir siempre; la prevenci\u00f3n asegura que los resultados de dichas auditor\u00edas sean favorables."
+        }
+      ],
+      "hint": "Considere los costos catastr\u00f3ficos que se evitan al invertir montos menores en protocolos y seguridad."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Evoluci\u00f3n sist\u00e9mica de la gesti\u00f3n HSEQ",
+      "Dimensiones cr\u00edticas: Salud, Seguridad, Medio Ambiente y Calidad",
+      "Arquitectura de las normas ISO y Anexo SL",
+      "Impacto financiero de la no calidad y siniestralidad",
+      "Modelos y fases de integraci\u00f3n de sistemas",
+      "Cultura organizacional y liderazgo \u00e9tico (Tone at the top)",
+      "Transformaci\u00f3n digital en la gesti\u00f3n de riesgos"
+    ],
+    "followUp": [
+      "Metodolog\u00edas espec\u00edficas para el an\u00e1lisis de riesgos biol\u00f3gicos en el trabajo",
+      "Dise\u00f1o de tableros de control (Dashboards) para indicadores HSEQ",
+      "Profundizaci\u00f3n en la norma ISO 37301 para sistemas de compliance",
+      "Estrategias de comunicaci\u00f3n para el cambio de mentalidad en seguridad interdependiente",
+      "An\u00e1lisis de casos de responsabilidad civil y penal por negligencia en HSEQ"
+    ]
+  }
+}

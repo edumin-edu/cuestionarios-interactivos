@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de implementar una estrategia de Big Data en la gesti\u00f3n empresarial moderna?",
+      "answerOptions": [
+        {
+          "text": "Acumular la mayor cantidad de datos posible de forma pasiva.",
+          "isCorrect": false,
+          "rationale": "La simple acumulaci\u00f3n sin prop\u00f3sito no genera valor estrat\u00e9gico ni eficiencia operativa."
+        },
+        {
+          "text": "Transformar los datos crudos en activos de inteligencia estrat\u00e9gica.",
+          "isCorrect": true,
+          "rationale": "El motor real del Big Data es convertir la informaci\u00f3n bruta en conocimientos que garanticen eficiencia y ventaja competitiva."
+        },
+        {
+          "text": "Sustituir todos los procesos humanos por algoritmos aut\u00f3nomos.",
+          "isCorrect": false,
+          "rationale": "Aunque la automatizaci\u00f3n es parte del proceso, el objetivo es la metamorfosis estrat\u00e9gica, no necesariamente la eliminaci\u00f3n total del factor humano."
+        },
+        {
+          "text": "Reducir el costo de almacenamiento utilizando servidores locales.",
+          "isCorrect": false,
+          "rationale": "El Big Data generalmente implica dejar atr\u00e1s la CPU local debido a su incapacidad para manejar la complejidad actual."
+        }
+      ],
+      "hint": "Considera qu\u00e9 es lo que realmente permite a una empresa tomar decisiones predictivas y sostenibles."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece el principio fundamental conocido como GIGO en la arquitectura de datos?",
+      "answerOptions": [
+        {
+          "text": "La velocidad de procesamiento es m\u00e1s importante que la calidad del dato.",
+          "isCorrect": false,
+          "rationale": "Incluso el sistema m\u00e1s r\u00e1pido es in\u00fatil si la informaci\u00f3n de entrada es err\u00f3nea."
+        },
+        {
+          "text": "Si los datos de entrada son deficientes, los resultados anal\u00edticos ser\u00e1n err\u00f3neos.",
+          "isCorrect": true,
+          "rationale": "El concepto 'Garbage In, Garbage Out' resalta que la utilidad de cualquier an\u00e1lisis depende directamente de la integridad y calidad del dato original."
+        },
+        {
+          "text": "La infraestructura millonaria puede compensar la falta de gobernanza de datos.",
+          "isCorrect": false,
+          "rationale": "Ninguna tecnolog\u00eda avanzada puede corregir autom\u00e1ticamente los resultados si la materia prima es 'basura'."
+        },
+        {
+          "text": "El almacenamiento distribuido elimina la necesidad de limpiar la informaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El almacenamiento solo resuelve el espacio, no la veracidad o precisi\u00f3n del contenido."
+        }
+      ],
+      "hint": "Piensa en la relaci\u00f3n directa entre la materia prima inyectada al sistema y el producto final obtenido."
+    },
+    {
+      "question": "En el contexto de las 5 Vs del Big Data, \u00bfa qu\u00e9 escala de magnitud se refiere t\u00edpicamente el Volumen?",
+      "answerOptions": [
+        {
+          "text": "Gigabytes almacenados en discos duros convencionales.",
+          "isCorrect": false,
+          "rationale": "El volumen del Big Data supera con creces las capacidades de almacenamiento de una oficina est\u00e1ndar."
+        },
+        {
+          "text": "Terabytes gestionados en bases de datos SQL tradicionales.",
+          "isCorrect": false,
+          "rationale": "Aunque es una cantidad considerable, el Big Data se define por romper los l\u00edmites operativos de estas bases tradicionales."
+        },
+        {
+          "text": "Exabytes que escalan de forma exponencial.",
+          "isCorrect": true,
+          "rationale": "El volumen en Big Data alcanza magnitudes masivas, como los exabytes, capaces de contener toda la historia del lenguaje humano."
+        },
+        {
+          "text": "Megabytes procesados en tiempo real por sensores de IoT.",
+          "isCorrect": false,
+          "rationale": "Esto se refiere m\u00e1s a la velocidad de transmisi\u00f3n que a la magnitud de acumulaci\u00f3n masiva."
+        }
+      ],
+      "hint": "Relaciona esta dimensi\u00f3n con una unidad de medida que sea capaz de contener todas las palabras jam\u00e1s habladas por la humanidad."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la Velocidad es cr\u00edtica en sistemas como la detecci\u00f3n de fraudes bancarios?",
+      "answerOptions": [
+        {
+          "text": "Permite realizar reportes mensuales m\u00e1s detallados para la gerencia.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis retrospectivo no ayuda a prevenir incidentes que requieren acci\u00f3n inmediata."
+        },
+        {
+          "text": "Reduce el espacio necesario en el almacenamiento horizontal.",
+          "isCorrect": false,
+          "rationale": "La velocidad se refiere al tiempo de procesamiento, no a la eficiencia del espacio f\u00edsico."
+        },
+        {
+          "text": "Garantiza una reacci\u00f3n inmediata antes de que la informaci\u00f3n quede obsoleta.",
+          "isCorrect": true,
+          "rationale": "En casos como el fraude, un retraso de horas har\u00eda que la intervenci\u00f3n fuera in\u00fatil; el procesamiento en tiempo real es vital."
+        },
+        {
+          "text": "Elimina la necesidad de usar protocolos de seguridad como SHA-256.",
+          "isCorrect": false,
+          "rationale": "La velocidad y la seguridad son dimensiones complementarias, no excluyentes."
+        }
+      ],
+      "hint": "Considera qu\u00e9 pasar\u00eda con el dinero en una transacci\u00f3n sospechosa si el sistema tarda horas en emitir una alerta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza a la dimensi\u00f3n de Variedad en los ecosistemas de datos modernos?",
+      "answerOptions": [
+        {
+          "text": "El uso exclusivo de tablas de Excel perfectamente ordenadas.",
+          "isCorrect": false,
+          "rationale": "La variedad implica precisamente lo opuesto al orden r\u00edgido de un solo formato."
+        },
+        {
+          "text": "La convivencia de flujos heterog\u00e9neos como video, audio y telemetr\u00eda.",
+          "isCorrect": true,
+          "rationale": "La variedad se refiere a la capacidad de la arquitectura para digerir formatos totalmente distintos y ca\u00f3ticos simult\u00e1neamente."
+        },
+        {
+          "text": "La actualizaci\u00f3n constante de los registros hist\u00f3ricos de la empresa.",
+          "isCorrect": false,
+          "rationale": "Esto se relaciona m\u00e1s con el ciclo de vida o la velocidad que con la diversidad de formatos."
+        },
+        {
+          "text": "La limitaci\u00f3n del sistema a procesar \u00fanicamente datos num\u00e9ricos.",
+          "isCorrect": false,
+          "rationale": "Un sistema de Big Data que solo procesa n\u00fameros no cumple con el principio de variedad."
+        }
+      ],
+      "hint": "Visualiza un sistema que recibe al mismo tiempo logs de texto, im\u00e1genes de c\u00e1maras y se\u00f1ales de motores."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la Veracidad dentro del marco del Big Data?",
+      "answerOptions": [
+        {
+          "text": "Aumentar el volumen de datos recolectados por los sensores.",
+          "isCorrect": false,
+          "rationale": "La veracidad se enfoca en la calidad, no en la cantidad de la informaci\u00f3n."
+        },
+        {
+          "text": "Asegurar que la informaci\u00f3n sea confiable y refleje la realidad operativa.",
+          "isCorrect": true,
+          "rationale": "Sin filtros y pol\u00edticas de gobernanza que aseguren la precisi\u00f3n, las decisiones de negocio se basar\u00edan en ilusiones."
+        },
+        {
+          "text": "Garantizar que los datos se procesen exclusivamente en la memoria RAM.",
+          "isCorrect": false,
+          "rationale": "El procesamiento en RAM es una caracter\u00edstica t\u00e9cnica de herramientas como Spark, no de la veracidad."
+        },
+        {
+          "text": "Permitir la captura de datos no estructurados como notas de voz.",
+          "isCorrect": false,
+          "rationale": "Capturar datos no estructurados es un reto de variedad y tecnolog\u00eda, no define la veracidad en s\u00ed misma."
+        }
+      ],
+      "hint": "Esta dimensi\u00f3n se conecta directamente con el concepto de 'si entra basura, sale basura'."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define la familia de datos semiestructurados?",
+      "answerOptions": [
+        {
+          "text": "Datos con esquemas fijos organizados en filas y columnas.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde a los datos estructurados, como los de SQL o Excel."
+        },
+        {
+          "text": "Datos que no poseen ninguna regla interna, como el video pesado.",
+          "isCorrect": false,
+          "rationale": "Eso define a los datos no estructurados, que son el mayor dolor de cabeza tecnol\u00f3gico."
+        },
+        {
+          "text": "Formatos que usan etiquetas para organizarse de forma flexible, como JSON.",
+          "isCorrect": true,
+          "rationale": "Los datos semiestructurados no son r\u00edgidos pero contienen metadatos o etiquetas que facilitan su organizaci\u00f3n."
+        },
+        {
+          "text": "Registros hist\u00f3ricos muertos que no pueden procesarse en tiempo real.",
+          "isCorrect": false,
+          "rationale": "Cualquier tipo de dato puede ser hist\u00f3rico; la estructura se refiere a su formato t\u00e9cnico."
+        }
+      ],
+      "hint": "Piensa en un formato ligero y vers\u00e1til muy utilizado para mover informaci\u00f3n en la web."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja de la escalabilidad horizontal frente a la vertical?",
+      "answerOptions": [
+        {
+          "text": "Permite aumentar la potencia de un solo servidor de forma infinita.",
+          "isCorrect": false,
+          "rationale": "La escalabilidad vertical tiene l\u00edmites f\u00edsicos y costos que crecen muy r\u00e1pido."
+        },
+        {
+          "text": "Utiliza cl\u00fasteres de servidores peque\u00f1os para lograr alta disponibilidad.",
+          "isCorrect": true,
+          "rationale": "Al distribuir los datos en m\u00faltiples nodos, si uno falla, otro toma su lugar sin interrumpir la operaci\u00f3n."
+        },
+        {
+          "text": "Es m\u00e1s econ\u00f3mica porque no requiere mantenimiento de hardware.",
+          "isCorrect": false,
+          "rationale": "Aunque es eficiente, a\u00fan requiere mantenimiento de los m\u00faltiples nodos que conforman el cl\u00faster."
+        },
+        {
+          "text": "Elimina la necesidad de utilizar lenguajes como Python o librer\u00edas Pandas.",
+          "isCorrect": false,
+          "rationale": "La arquitectura f\u00edsica de servidores es independiente de las herramientas de software utilizadas para el an\u00e1lisis."
+        }
+      ],
+      "hint": "Imagina un ej\u00e9rcito de caballos trabajando en paralelo en lugar de intentar crear un \u00fanico caballo gigante."
+    },
+    {
+      "question": "En el Internet Industrial de las Cosas (IIoT), \u00bfqu\u00e9 funci\u00f3n cumplen los actuadores?",
+      "answerOptions": [
+        {
+          "text": "Traducen vibraciones f\u00edsicas en se\u00f1ales binarias para la computadora.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n de los sensores, que act\u00faan como el sistema nervioso central."
+        },
+        {
+          "text": "Almacenan la informaci\u00f3n en cl\u00fasteres de nodos distribuidos.",
+          "isCorrect": false,
+          "rationale": "El almacenamiento es una funci\u00f3n de la infraestructura de red y servidores, no de los actuadores."
+        },
+        {
+          "text": "Ejecutan una acci\u00f3n mec\u00e1nica de forma aut\u00f3noma basada en se\u00f1ales procesadas.",
+          "isCorrect": true,
+          "rationale": "Los actuadores son los 'm\u00fasculos' que realizan maniobras f\u00edsicas, como frenar un motor en una emergencia."
+        },
+        {
+          "text": "Filtran los datos en la fase 'Reduce' del procesamiento matem\u00e1tico.",
+          "isCorrect": false,
+          "rationale": "El filtrado es un proceso algor\u00edtmico de software, no una acci\u00f3n mec\u00e1nica de hardware."
+        }
+      ],
+      "hint": "Pi\u00e9nsalos como los m\u00fasculos de la operaci\u00f3n que responden a las \u00f3rdenes del sistema."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el 'techo de Excel' que obliga a las empresas a migrar a herramientas como Python?",
+      "answerOptions": [
+        {
+          "text": "$10,000,000$ de celdas por hoja de trabajo.",
+          "isCorrect": false,
+          "rationale": "El l\u00edmite se define por el n\u00famero de filas, no por el total de celdas de forma gen\u00e9rica."
+        },
+        {
+          "text": "$1,048,576$ filas.",
+          "isCorrect": true,
+          "rationale": "Este es el l\u00edmite matem\u00e1tico y arquitect\u00f3nico exacto donde las herramientas de escritorio convencionales colapsan."
+        },
+        {
+          "text": "$500,000$ registros por segundo en tiempo real.",
+          "isCorrect": false,
+          "rationale": "Excel no est\u00e1 dise\u00f1ado para procesamiento en streaming de alta velocidad independientemente del n\u00famero de filas."
+        },
+        {
+          "text": "$2^{20}$ bytes de memoria RAM utilizada.",
+          "isCorrect": false,
+          "rationale": "Aunque es un l\u00edmite t\u00e9cnico, el punto de quiebre operativo m\u00e1s conocido es el recuento de filas."
+        }
+      ],
+      "hint": "Es un n\u00famero espec\u00edfico de siete cifras que marca el l\u00edmite de filas en una hoja de c\u00e1lculo tradicional."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia fundamental existe entre Apache Hadoop y Apache Spark?",
+      "answerOptions": [
+        {
+          "text": "Hadoop procesa datos en la memoria RAM y Spark en el disco duro.",
+          "isCorrect": false,
+          "rationale": "Es exactamente al rev\u00e9s; Spark es el que destaca por el uso de la RAM."
+        },
+        {
+          "text": "Hadoop es para tiempo real y Spark es para procesamiento por lotes.",
+          "isCorrect": false,
+          "rationale": "Spark es el rey del tiempo real, mientras que Hadoop se especializa en procesos 'batch' o por lotes."
+        },
+        {
+          "text": "Spark puede ser hasta 100 veces m\u00e1s r\u00e1pido que Hadoop al procesar en RAM.",
+          "isCorrect": true,
+          "rationale": "La capacidad de Spark de evitar la escritura constante en disco (Disk I/O) le otorga una ventaja de velocidad masiva."
+        },
+        {
+          "text": "Hadoop no permite el uso de la metodolog\u00eda MapReduce.",
+          "isCorrect": false,
+          "rationale": "Hadoop fue de hecho uno de los pioneros en implementar y popularizar MapReduce."
+        }
+      ],
+      "hint": "Uno es como un tractor para archivos hist\u00f3ricos y el otro es un b\u00f3lido de carreras para datos en streaming."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la fase 'Map' dentro de la metodolog\u00eda MapReduce?",
+      "answerOptions": [
+        {
+          "text": "En sumar todos los valores filtrados para generar un reporte final.",
+          "isCorrect": false,
+          "rationale": "La suma y consolidaci\u00f3n es la tarea de la fase 'Reduce', no de la fase 'Map'."
+        },
+        {
+          "text": "En actuar como un colador que filtra y selecciona solo los datos relevantes.",
+          "isCorrect": true,
+          "rationale": "La fase 'Map' organiza y etiqueta los registros desordenados, separando lo que importa del ruido."
+        },
+        {
+          "text": "En encriptar la informaci\u00f3n mediante el algoritmo SHA-256.",
+          "isCorrect": false,
+          "rationale": "La encriptaci\u00f3n es un proceso de seguridad independiente de la l\u00f3gica de procesamiento MapReduce."
+        },
+        {
+          "text": "En solicitar el consentimiento expl\u00edcito del usuario para tratar sus datos.",
+          "isCorrect": false,
+          "rationale": "El consentimiento es un requisito legal (Ley 29733), no una fase t\u00e9cnica de este algoritmo."
+        }
+      ],
+      "hint": "Visualiza un proceso de selecci\u00f3n inicial donde se separa el mineral valioso del resto de los registros."
+    },
+    {
+      "question": "Seg\u00fan la Ley 29733 en Per\u00fa, \u00bfqu\u00e9 acci\u00f3n t\u00e9cnica es obligatoria antes de procesar datos masivos?",
+      "answerOptions": [
+        {
+          "text": "Almacenar los datos exclusivamente en servidores f\u00edsicos nacionales.",
+          "isCorrect": false,
+          "rationale": "La ley no proh\u00edbe el cloud computing, pero exige protecci\u00f3n y cumplimiento de derechos."
+        },
+        {
+          "text": "Eliminar cualquier rastro que identifique a una persona (anonimizaci\u00f3n).",
+          "isCorrect": true,
+          "rationale": "La anonimizaci\u00f3n es un paso t\u00e9cnico crucial para proteger la privacidad antes de realizar an\u00e1lisis estad\u00edsticos."
+        },
+        {
+          "text": "Procesar la informaci\u00f3n a una velocidad superior a los exabytes.",
+          "isCorrect": false,
+          "rationale": "La ley se enfoca en la \u00e9tica y privacidad, no en el rendimiento t\u00e9cnico del sistema."
+        },
+        {
+          "text": "Utilizar \u00fanicamente software de c\u00f3digo abierto como Apache Spark.",
+          "isCorrect": false,
+          "rationale": "La normativa legal es neutral respecto a la marca o tipo de tecnolog\u00eda, siempre que cumpla con la protecci\u00f3n de datos."
+        }
+      ],
+      "hint": "Se trata de un proceso para que el dato ya no pueda vincularse a un nombre o DNI espec\u00edfico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n del algoritmo SHA-256 en la seguridad de los datos?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la velocidad de transferencia entre sensores y actuadores.",
+          "isCorrect": false,
+          "rationale": "SHA-256 es un proceso criptogr\u00e1fico que puede incluso a\u00f1adir una ligera carga de procesamiento, no aumenta la velocidad."
+        },
+        {
+          "text": "Generar una firma digital \u00fanica para detectar cualquier alteraci\u00f3n en la informaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Funciona como un 'notario matem\u00e1tico' que garantiza la integridad: si un solo bit cambia, la huella digital colapsa."
+        },
+        {
+          "text": "Traducir lenguajes de programaci\u00f3n como Python a c\u00f3digo de m\u00e1quina.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n de un int\u00e9rprete o compilador, no de un algoritmo de hash seguro."
+        },
+        {
+          "text": "Permitir que las PYMES utilicen herramientas como Odoo y Alegra.",
+          "isCorrect": false,
+          "rationale": "Odoo y Alegra son plataformas de gesti\u00f3n; SHA-256 es un est\u00e1ndar de seguridad que puede o no estar integrado en ellas."
+        }
+      ],
+      "hint": "Piensa en una 'huella dactilar' digital que se rompe si alguien intenta hackear el archivo original."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el sistema 'Dispatch' en operaciones mineras como las de Cerro Verde?",
+      "answerOptions": [
+        {
+          "text": "Un m\u00e9todo manual para asignar turnos a los conductores de camiones.",
+          "isCorrect": false,
+          "rationale": "El sistema es un ecosistema tecnol\u00f3gico de IoT, no un proceso manual."
+        },
+        {
+          "text": "Un ecosistema de IoT para el monitoreo milim\u00e9trico de maquinaria pesada.",
+          "isCorrect": true,
+          "rationale": "Permite la telemetr\u00eda constante para mantenimiento predictivo y control de flotas aut\u00f3nomas."
+        },
+        {
+          "text": "Una base de datos SQL para registrar \u00fanicamente las facturas de ventas.",
+          "isCorrect": false,
+          "rationale": "Un sistema Dispatch maneja datos operativos y f\u00edsicos en tiempo real, mucho m\u00e1s complejos que una base contable."
+        },
+        {
+          "text": "Un sistema de seguridad social para los trabajadores de la planta.",
+          "isCorrect": false,
+          "rationale": "Aunque es cr\u00edtico, el Dispatch se enfoca en la eficiencia y mantenimiento de la maquinaria y producci\u00f3n."
+        }
+      ],
+      "hint": "Es la tecnolog\u00eda que permite saber el estado de una perforadora o un cami\u00f3n aut\u00f3nomo en todo momento."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 paso del ciclo de vida del dato industrial se suele aplicar el Machine Learning?",
+      "answerOptions": [
+        {
+          "text": "Durante la captura de la variable f\u00edsica por el sensor.",
+          "isCorrect": false,
+          "rationale": "El sensor solo mide y traduce se\u00f1ales f\u00edsicas; el an\u00e1lisis complejo viene despu\u00e9s."
+        },
+        {
+          "text": "En la transmisi\u00f3n de se\u00f1ales por redes 5G.",
+          "isCorrect": false,
+          "rationale": "La transmisi\u00f3n es el medio de transporte del dato, no el momento de su interpretaci\u00f3n inteligente."
+        },
+        {
+          "text": "En la fase de an\u00e1lisis para buscar anomal\u00edas invisibles al ojo humano.",
+          "isCorrect": true,
+          "rationale": "El Machine Learning es el n\u00facleo del paso cinco, donde se peinan los datos para extraer valor real."
+        },
+        {
+          "text": "En el momento que el actuador ejecuta la maniobra mec\u00e1nica.",
+          "isCorrect": false,
+          "rationale": "La acci\u00f3n es el resultado final del an\u00e1lisis, no el proceso de an\u00e1lisis en s\u00ed mismo."
+        }
+      ],
+      "hint": "Es el quinto paso del ciclo, donde ocurre la 'magia' de transformar datos en conocimiento."
+    },
+    {
+      "question": "\u00bfQu\u00e9 son los dispositivos de borde o 'edge devices'?",
+      "answerOptions": [
+        {
+          "text": "Servidores centrales ubicados en la nube para almacenamiento masivo.",
+          "isCorrect": false,
+          "rationale": "Los edge devices est\u00e1n f\u00edsicamente cerca de la fuente del dato, no necesariamente en la nube central."
+        },
+        {
+          "text": "Equipos que realizan el procesamiento directamente en las m\u00e1quinas f\u00edsicas.",
+          "isCorrect": true,
+          "rationale": "El 'edge computing' busca reducir la latencia procesando la informaci\u00f3n lo m\u00e1s cerca posible de donde se genera."
+        },
+        {
+          "text": "Sistemas de respaldo que solo se activan cuando la red 5G falla.",
+          "isCorrect": false,
+          "rationale": "Son dispositivos operativos constantes, no solo sistemas de emergencia o respaldo."
+        },
+        {
+          "text": "Herramientas de escritorio para visualizar gr\u00e1ficos de Excel.",
+          "isCorrect": false,
+          "rationale": "Los dispositivos de borde suelen ser hardware industrial interconectado, no computadoras de oficina est\u00e1ndar."
+        }
+      ],
+      "hint": "Su nombre sugiere que el procesamiento ocurre en el 'extremo' o borde de la red, junto a la m\u00e1quina."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el rol de un ERP en el ecosistema de datos de una corporaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Gestionar exclusivamente la relaci\u00f3n y el afecto con los clientes.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n primordial de un CRM (Customer Relationship Management)."
+        },
+        {
+          "text": "Actuar como el cerebro administrativo que integra finanzas, log\u00edstica y n\u00f3mina.",
+          "isCorrect": true,
+          "rationale": "Sistemas como SAP son el est\u00e1ndar para centralizar la operaci\u00f3n administrativa y el grueso de los datos estructurados."
+        },
+        {
+          "text": "Capturar datos no estructurados de redes sociales como YouTube.",
+          "isCorrect": false,
+          "rationale": "Los ERP manejan principalmente datos estructurados y transaccionales internos de la empresa."
+        },
+        {
+          "text": "Reemplazar la necesidad de utilizar firmas digitales SHA-256.",
+          "isCorrect": false,
+          "rationale": "Un ERP es una plataforma de gesti\u00f3n, mientras que el hash es una medida de seguridad que protege sus datos."
+        }
+      ],
+      "hint": "Es el sistema que centraliza toda la gesti\u00f3n administrativa; SAP es un ejemplo muy conocido."
+    },
+    {
+      "question": "En el sector salud, \u00bfc\u00f3mo ayuda la hiperconectividad y el Big Data?",
+      "answerOptions": [
+        {
+          "text": "Digitalizando el seguimiento desde la cita hasta el uso de biosensores en cirug\u00eda.",
+          "isCorrect": true,
+          "rationale": "Esto permite un monitoreo continuo de signos vitales, mejorando la precisi\u00f3n m\u00e9dica y salvando vidas."
+        },
+        {
+          "text": "Eliminando la necesidad de m\u00e9dicos humanos en el quir\u00f3fano.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda asiste y mejora el seguimiento, pero no reemplaza el juicio y la \u00e9tica del personal m\u00e9dico."
+        },
+        {
+          "text": "Permitiendo que los pacientes operen sus propias m\u00e1quinas de anestesia.",
+          "isCorrect": false,
+          "rationale": "La automatizaci\u00f3n se aplica para seguridad y precisi\u00f3n bajo supervisi\u00f3n profesional, no para el autodiagn\u00f3stico o tratamiento."
+        },
+        {
+          "text": "Reduciendo el volumen de datos de los expedientes para ahorrar papel.",
+          "isCorrect": false,
+          "rationale": "Aunque ahorra papel, el objetivo del Big Data en salud es manejar vol\u00famenes mucho m\u00e1s grandes y complejos para mejorar la atenci\u00f3n."
+        }
+      ],
+      "hint": "Piensa en redes como Kyelin o Bart\u00f3 que monitorean al paciente en tiempo real."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el desaf\u00edo de los datos 'conductuales' en plataformas como Netflix o YouTube?",
+      "answerOptions": [
+        {
+          "text": "Son demasiado peque\u00f1os para ser procesados por cl\u00fasteres modernos.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el rastro digital de millones de usuarios genera un oc\u00e9ano brutal de informaci\u00f3n."
+        },
+        {
+          "text": "Est\u00e1n perfectamente estructurados en tablas de Excel desde su origen.",
+          "isCorrect": false,
+          "rationale": "Las interacciones como pausas, likes y clics son datos no estructurados y muy dif\u00edciles de tabular tradicionalmente."
+        },
+        {
+          "text": "Requieren sistemas avanzados para leer entre l\u00edneas y detectar patrones de consumo.",
+          "isCorrect": true,
+          "rationale": "Al no ser n\u00fameros directos, las empresas necesitan algoritmos potentes para entender qu\u00e9 le gusta o disgusta al usuario."
+        },
+        {
+          "text": "No tienen ning\u00fan valor para la toma de decisiones comerciales.",
+          "isCorrect": false,
+          "rationale": "Estos datos son fundamentales para la personalizaci\u00f3n y la ventaja competitiva en el mercado digital."
+        }
+      ],
+      "hint": "Considera que un 'like' o una pausa en un video no es tan f\u00e1cil de sumar como una columna de precios."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Fundamentos de Big Data y las 5 Vs",
+      "Arquitectura y Escalabilidad de Datos",
+      "Internet Industrial de las Cosas (IIoT)",
+      "Ciclo de Vida y Procesamiento de Datos (Hadoop vs Spark)",
+      "Seguridad, \u00c9tica y Legislaci\u00f3n de Datos"
+    ],
+    "followUp": [
+      "Implementaci\u00f3n de Machine Learning en Mantenimiento Predictivo",
+      "Gobernanza de Datos y Pol\u00edticas de Calidad (GIGO)",
+      "Programaci\u00f3n Avanzada con Python y Pandas para Grandes Vol\u00famenes",
+      "Arquitecturas de Borde (Edge Computing) en la Industria 4.0",
+      "Estrategias de Transformaci\u00f3n Digital y Metamorfosis Organizacional"
+    ]
+  }
+}

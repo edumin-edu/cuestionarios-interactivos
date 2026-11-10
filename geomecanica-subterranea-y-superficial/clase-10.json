@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfC\u00f3mo se define el fen\u00f3meno de la convergencia geomec\u00e1nica en una excavaci\u00f3n subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "El aumento de la densidad del macizo rocoso tras la voladura.",
+          "isCorrect": false,
+          "rationale": "La densidad es una propiedad f\u00edsica intr\u00ednseca de la roca que no cambia por el simple hecho de excavar un vac\u00edo."
+        },
+        {
+          "text": "El desplazamiento progresivo del terreno hacia el espacio vac\u00edo creado.",
+          "isCorrect": true,
+          "rationale": "Al romper el equilibrio natural, las tensiones se redistribuyen y fuerzan al terreno a moverse hacia el vac\u00edo buscando un nuevo estado de reposo."
+        },
+        {
+          "text": "La expansi\u00f3n t\u00e9rmica de los minerales debido a la profundidad.",
+          "isCorrect": false,
+          "rationale": "Aunque la temperatura aumenta con la profundidad, la convergencia es una respuesta mec\u00e1nica a la redistribuci\u00f3n de esfuerzos tensionales."
+        },
+        {
+          "text": "La erosi\u00f3n qu\u00edmica de las paredes causada por la ventilaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La convergencia es un movimiento f\u00edsico del macizo, no un proceso de degradaci\u00f3n qu\u00edmica superficial por aire."
+        }
+      ],
+      "hint": "Relaciona este concepto con el intento del macizo rocoso de recuperar su equilibrio tras ser alterado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el paso m\u00e1s cr\u00edtico para evitar lecturas falsas al instalar instrumentos de monitoreo de convergencia?",
+      "answerOptions": [
+        {
+          "text": "Fijar el instrumento directamente sobre cuadros de madera.",
+          "isCorrect": false,
+          "rationale": "Anclar en soportes pasivos medir\u00eda la deformaci\u00f3n del soporte (madera) y no la convergencia real del terreno."
+        },
+        {
+          "text": "Pintar la zona de medici\u00f3n para mejorar la visibilidad.",
+          "isCorrect": false,
+          "rationale": "La visibilidad es \u00fatil, pero no afecta la precisi\u00f3n t\u00e9cnica de la lectura ni evita datos falsos sobre el comportamiento del macizo."
+        },
+        {
+          "text": "Anclar los puntos de control directamente en la roca viva.",
+          "isCorrect": true,
+          "rationale": "Perforar y anclar en la roca viva garantiza que se mida el movimiento real del macizo y no el del sistema de sostenimiento."
+        },
+        {
+          "text": "Realizar las mediciones solo durante el turno de noche.",
+          "isCorrect": false,
+          "rationale": "La hora del d\u00eda no influye en la validez t\u00e9cnica de la lectura si el ambiente es estable para la calibraci\u00f3n."
+        }
+      ],
+      "hint": "Considera qu\u00e9 superficie garantiza que el desplazamiento medido provenga del macizo y no de un elemento artificial."
+    },
+    {
+      "question": "Al utilizar una cinta extensom\u00e9trica, \u00bfqu\u00e9 indica una luz roja en el instrumento durante la toma de lectura?",
+      "answerOptions": [
+        {
+          "text": "Que la bater\u00eda del equipo est\u00e1 por agotarse.",
+          "isCorrect": false,
+          "rationale": "Los indicadores de tensi\u00f3n en estos equipos de precisi\u00f3n est\u00e1n dise\u00f1ados para validar la integridad del dato, no el estado de carga."
+        },
+        {
+          "text": "Que se ha alcanzado el punto exacto de tensi\u00f3n para registrar.",
+          "isCorrect": false,
+          "rationale": "El registro v\u00e1lido ocurre con la luz verde; la roja se\u00f1ala una condici\u00f3n que invalida la integridad de la medida."
+        },
+        {
+          "text": "Una condici\u00f3n de sobretensi\u00f3n que invalida la medida.",
+          "isCorrect": true,
+          "rationale": "La luz roja es una advertencia de que se ha aplicado demasiada fuerza, lo que requiere reiniciar el proceso para asegurar datos \u00edntegros."
+        },
+        {
+          "text": "Que el macizo rocoso ha dejado de moverse por completo.",
+          "isCorrect": false,
+          "rationale": "El instrumento mide la tensi\u00f3n de la cinta entre dos puntos, no el cese del movimiento geol\u00f3gico de forma directa."
+        }
+      ],
+      "hint": "Piensa en el significado de las alertas visuales en equipos de medici\u00f3n de precisi\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el factor determinante para declarar una alerta cr\u00edtica en el monitoreo de convergencia?",
+      "answerOptions": [
+        {
+          "text": "La magnitud total del desplazamiento acumulado.",
+          "isCorrect": false,
+          "rationale": "Una magnitud grande puede ser estable si ocurre a una tasa constante o decreciente hacia un reposo asint\u00f3tico."
+        },
+        {
+          "text": "La profundidad a la que se encuentra la excavaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La profundidad influye en las tensiones, pero la alerta se basa en el comportamiento din\u00e1mico del movimiento medido."
+        },
+        {
+          "text": "La aceleraci\u00f3n de la convergencia a lo largo del tiempo.",
+          "isCorrect": true,
+          "rationale": "Un incremento progresivo en la velocidad de deformaci\u00f3n (aceleraci\u00f3n) indica una inestabilidad que puede llevar a un colapso inminente."
+        },
+        {
+          "text": "El costo de los instrumentos utilizados en el \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "La seguridad t\u00e9cnica se basa en el comportamiento del terreno, no en la inversi\u00f3n econ\u00f3mica del equipamiento."
+        }
+      ],
+      "hint": "Diferencia entre un movimiento que se estabiliza y uno que aumenta su ritmo de deformaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa t\u00e9cnicamente el concepto de 'encampane' en ingenier\u00eda subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "La cantidad de agua que se filtra por el techo del t\u00fanel.",
+          "isCorrect": false,
+          "rationale": "Esto se refiere al caudal de infiltraci\u00f3n, no a la geometr\u00eda de la cobertura de roca."
+        },
+        {
+          "text": "La cobertura de roca existente entre la excavaci\u00f3n y la superficie.",
+          "isCorrect": true,
+          "rationale": "Es la distancia vertical de material s\u00f3lido que protege la labor y separa la operaci\u00f3n de las estructuras superficiales."
+        },
+        {
+          "text": "El tiempo que tarda el cemento en fraguar tras ser proyectado.",
+          "isCorrect": false,
+          "rationale": "El fraguado es un proceso qu\u00edmico del concreto, mientras que el encampane es una variable geom\u00e9trica del dise\u00f1o."
+        },
+        {
+          "text": "El \u00e1ngulo de inclinaci\u00f3n de una chimenea de ventilaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La inclinaci\u00f3n se mide en grados de buzamiento o pendiente, no mediante el t\u00e9rmino encampane."
+        }
+      ],
+      "hint": "Asocia este t\u00e9rmino con el espesor de la capa que protege la excavaci\u00f3n desde arriba."
+    },
+    {
+      "question": "En infraestructuras permanentes bajo v\u00edas civiles, \u00bfcu\u00e1l es el umbral estrictamente obligatorio para el factor de seguridad?",
+      "answerOptions": [
+        {
+          "text": "Un valor de $1.0$.",
+          "isCorrect": false,
+          "rationale": "Un factor de $1.0$ representa un equilibrio precario donde cualquier perturbaci\u00f3n m\u00ednima causar\u00eda el colapso."
+        },
+        {
+          "text": "Un valor de $1.2$.",
+          "isCorrect": false,
+          "rationale": "Este valor suele aceptarse para labores temporales, pero es insuficiente para proteger infraestructuras cr\u00edticas permanentes."
+        },
+        {
+          "text": "Un valor de $1.5$.",
+          "isCorrect": true,
+          "rationale": "Este margen es necesario para absorber cargas din\u00e1micas (vibraciones de tr\u00e1fico) y garantizar la estabilidad a largo plazo."
+        },
+        {
+          "text": "Un valor de $0.5$.",
+          "isCorrect": false,
+          "rationale": "Cualquier factor por debajo de $1.0$ indica que la estructura ya se encuentra en un estado de falla te\u00f3rica."
+        }
+      ],
+      "hint": "Considera la necesidad de un margen adicional de seguridad cuando existen vibraciones externas constantes."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afecta el agua a las fracturas del macizo rocoso desde el punto de vista geomec\u00e1nico?",
+      "answerOptions": [
+        {
+          "text": "Aumenta la cohesi\u00f3n entre las part\u00edculas de roca.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el agua reduce la cohesi\u00f3n y act\u00faa como un lubricante que facilita el deslizamiento."
+        },
+        {
+          "text": "Reduce la presi\u00f3n intersticial permitiendo mayor estabilidad.",
+          "isCorrect": false,
+          "rationale": "El agua aumenta la presi\u00f3n intersticial, lo que empuja las fracturas desde adentro hacia afuera, debilitando el macizo."
+        },
+        {
+          "text": "Act\u00faa como un lubricante que reduce la resistencia al corte.",
+          "isCorrect": true,
+          "rationale": "Al infiltrarse, el agua facilita el movimiento en las discontinuidades, activando fallas que podr\u00edan estar en equilibrio seco."
+        },
+        {
+          "text": "Endurece la superficie de la roca mediante mineralizaci\u00f3n instant\u00e1nea.",
+          "isCorrect": false,
+          "rationale": "La mineralizaci\u00f3n es un proceso geol\u00f3gico extremadamente lento y no ocurre de forma que mejore la estabilidad inmediata."
+        }
+      ],
+      "hint": "Piensa en el efecto f\u00edsico que tiene un fluido al introducirse entre dos superficies en contacto bajo presi\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 etapa de la erosi\u00f3n h\u00eddrica superficial se caracteriza por la apertura de incisiones m\u00e9tricas en el terreno?",
+      "answerOptions": [
+        {
+          "text": "Erosi\u00f3n laminar.",
+          "isCorrect": false,
+          "rationale": "La erosi\u00f3n laminar es casi invisible y retira capas muy delgadas de suelo de forma uniforme."
+        },
+        {
+          "text": "Surcos.",
+          "isCorrect": true,
+          "rationale": "En esta etapa, el agua comienza a canalizarse, creando peque\u00f1as incisiones o canales m\u00e9tricos que rompen la continuidad del suelo."
+        },
+        {
+          "text": "C\u00e1rcavas.",
+          "isCorrect": false,
+          "rationale": "Las c\u00e1rcavas representan una etapa posterior con zanjas mucho m\u00e1s profundas y masivas (decam\u00e9tricas)."
+        },
+        {
+          "text": "Sufusi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La sufusi\u00f3n o piping es un proceso interno/subterr\u00e1neo, no una incisi\u00f3n superficial abierta visible inicialmente."
+        }
+      ],
+      "hint": "Es el paso intermedio entre el lavado invisible de suelo y la formaci\u00f3n de grandes zanjas."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el peligro oculto denominado 'sufusi\u00f3n' o 'piping'?",
+      "answerOptions": [
+        {
+          "text": "En el congelamiento del agua dentro de las grietas de la roca.",
+          "isCorrect": false,
+          "rationale": "Este proceso se conoce como crioclastia, no como sufusi\u00f3n."
+        },
+        {
+          "text": "En la acumulaci\u00f3n de gases t\u00f3xicos en las zonas bajas del t\u00fanel.",
+          "isCorrect": false,
+          "rationale": "La sufusi\u00f3n es un proceso de transporte de part\u00edculas s\u00f3lidas por agua, no una acumulaci\u00f3n de gases."
+        },
+        {
+          "text": "En la creaci\u00f3n de t\u00faneles vac\u00edos bajo tierra por arrastre de finos.",
+          "isCorrect": true,
+          "rationale": "El agua erosiona el subsuelo de forma invisible, dejando una costra superficial aparentemente estable que puede colapsar de golpe."
+        },
+        {
+          "text": "En la oxidaci\u00f3n r\u00e1pida de los pernos de anclaje met\u00e1licos.",
+          "isCorrect": false,
+          "rationale": "Aunque es un problema h\u00eddrico, la oxidaci\u00f3n es un proceso qu\u00edmico, mientras que el piping es un proceso de erosi\u00f3n mec\u00e1nica."
+        }
+      ],
+      "hint": "Se trata de un colapso violento debido a que el soporte estructural interno ha desaparecido sin signos externos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre la erosi\u00f3n natural y la antr\u00f3pica en t\u00e9rminos de estabilidad?",
+      "answerOptions": [
+        {
+          "text": "La erosi\u00f3n natural es siempre m\u00e1s destructiva que la humana.",
+          "isCorrect": false,
+          "rationale": "La naturaleza tiene mecanismos de equilibrio que suelen ser mucho m\u00e1s lentos y menos violentos que la intervenci\u00f3n humana."
+        },
+        {
+          "text": "La intervenci\u00f3n humana genera una aceleraci\u00f3n brutal del desgaste.",
+          "isCorrect": true,
+          "rationale": "Actividades como la miner\u00eda o la construcci\u00f3n mal planificada pueden destruir en una temporada lo que a la naturaleza le tomar\u00eda d\u00e9cadas."
+        },
+        {
+          "text": "La erosi\u00f3n antr\u00f3pica solo ocurre en climas des\u00e9rticos.",
+          "isCorrect": false,
+          "rationale": "La erosi\u00f3n causada por el hombre ocurre en cualquier entorno donde se altere el terreno de forma descontrolada."
+        },
+        {
+          "text": "No existe diferencia; ambas ocurren a la misma velocidad geol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "La velocidad es precisamente el factor diferenciador clave, siendo la humana dr\u00e1sticamente m\u00e1s r\u00e1pida."
+        }
+      ],
+      "hint": "Compara el ritmo del tiempo geol\u00f3gico frente al impacto de las actividades de construcci\u00f3n o miner\u00eda."
+    },
+    {
+      "question": "\u00bfC\u00f3mo act\u00faa la reforestaci\u00f3n como medida de mitigaci\u00f3n contra la erosi\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Aumentando la temperatura del suelo para evaporar el agua.",
+          "isCorrect": false,
+          "rationale": "El follaje suele refrescar el suelo; su funci\u00f3n principal es mec\u00e1nica y biol\u00f3gica, no t\u00e9rmica."
+        },
+        {
+          "text": "Las ra\u00edces amarran el suelo y el follaje disipa la energ\u00eda de la lluvia.",
+          "isCorrect": true,
+          "rationale": "Funciona como un escudo biol\u00f3gico que aumenta la cohesi\u00f3n del terreno y reduce el impacto cin\u00e9tico de las gotas de agua."
+        },
+        {
+          "text": "Extrayendo minerales pesados que debilitan el macizo rocoso.",
+          "isCorrect": false,
+          "rationale": "La fitorremediaci\u00f3n es para contaminantes, pero no es el mecanismo por el cual se estabilizan taludes frente a la erosi\u00f3n h\u00eddrica."
+        },
+        {
+          "text": "Cambiando la composici\u00f3n qu\u00edmica de la roca para hacerla impermeable.",
+          "isCorrect": false,
+          "rationale": "Las plantas no pueden impermeabilizar o alterar la qu\u00edmica profunda de la roca de forma significativa para la estabilidad."
+        }
+      ],
+      "hint": "Considera tanto lo que sucede bajo la superficie con las ra\u00edces como lo que ocurre arriba con las hojas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumplen las 'lloronas' en el sostenimiento de un t\u00fanel?",
+      "answerOptions": [
+        {
+          "text": "Alertar mediante sonido cuando el terreno comienza a ceder.",
+          "isCorrect": false,
+          "rationale": "No son dispositivos ac\u00fasticos, sino perforaciones f\u00edsicas para el manejo de fluidos."
+        },
+        {
+          "text": "Canalizar el agua atrapada para evitar la presi\u00f3n contra el concreto.",
+          "isCorrect": true,
+          "rationale": "Permiten que el agua drene antes de aplicar shotcrete, evitando que la presi\u00f3n hidrost\u00e1tica reviente el sistema de soporte."
+        },
+        {
+          "text": "Servir como puntos de anclaje para la iluminaci\u00f3n del t\u00fanel.",
+          "isCorrect": false,
+          "rationale": "Su prop\u00f3sito es hidrogeol\u00f3gico; usar drenajes para soporte el\u00e9ctrico ser\u00eda inadecuado y peligroso."
+        },
+        {
+          "text": "Inyectar resina de fraguado r\u00e1pido en las grietas del techo.",
+          "isCorrect": false,
+          "rationale": "Las lloronas son para salida de agua (drenaje), no para inyecci\u00f3n de materiales de consolidaci\u00f3n."
+        }
+      ],
+      "hint": "Relaciona estas perforaciones con la necesidad de aliviar fuerzas hidr\u00e1ulicas detr\u00e1s del revestimiento del t\u00fanel."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el riesgo de aplicar concreto proyectado (shotcrete) sin un sistema de drenaje previo en zonas con agua?",
+      "answerOptions": [
+        {
+          "text": "Que el concreto se vuelva demasiado duro y dif\u00edcil de inspeccionar.",
+          "isCorrect": false,
+          "rationale": "La dureza es deseable; el problema real es la presi\u00f3n que se genera detr\u00e1s de esa capa dura."
+        },
+        {
+          "text": "Que el agua atrapada act\u00fae como una prensa hidr\u00e1ulica y reviente el soporte.",
+          "isCorrect": true,
+          "rationale": "Sin salida, la presi\u00f3n del agua se acumula hasta superar la resistencia del concreto, arranc\u00e1ndolo de forma violenta."
+        },
+        {
+          "text": "Que el color del concreto cambie y afecte la visibilidad operativa.",
+          "isCorrect": false,
+          "rationale": "El cambio de color por humedad es un indicador visual, pero el riesgo cr\u00edtico es de fallo estructural masivo."
+        },
+        {
+          "text": "Que el concreto absorba el agua y se convierta en un l\u00edquido denso.",
+          "isCorrect": false,
+          "rationale": "Una vez fraguado, el concreto no vuelve a estado l\u00edquido, pero s\u00ed puede fracturarse por presi\u00f3n extrema."
+        }
+      ],
+      "hint": "Piensa en lo que sucede cuando un fluido incompresible queda encerrado y sigue recibiendo presi\u00f3n del macizo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 impacto qu\u00edmico tiene el agua de mina sobre los sistemas de sostenimiento met\u00e1licos?",
+      "answerOptions": [
+        {
+          "text": "Facilita la adhesi\u00f3n del concreto a las mallas met\u00e1licas.",
+          "isCorrect": false,
+          "rationale": "El agua de mina suele ser corrosiva, lo cual debilita la uni\u00f3n y la integridad de los elementos met\u00e1licos."
+        },
+        {
+          "text": "Aumenta la elasticidad del acero permitiendo mayor deformaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La corrosi\u00f3n reduce la secci\u00f3n transversal del metal, volvi\u00e9ndolo quebradizo y disminuyendo su capacidad de carga."
+        },
+        {
+          "text": "Provoca una r\u00e1pida oxidaci\u00f3n que destruye su capacidad de retenci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Debido a su alta carga mineral y acidez, el agua oxida pernos y mallas, anulando el refuerzo instalado."
+        },
+        {
+          "text": "Limpia las impurezas del acero mejorando su resistencia a largo plazo.",
+          "isCorrect": false,
+          "rationale": "El agua de mina no es un agente de limpieza; es un agente degradante altamente agresivo."
+        }
+      ],
+      "hint": "Considera la reacci\u00f3n del metal al estar en contacto prolongado con fluidos cargados de minerales."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se manifiesta el impacto mec\u00e1nico del agua en los cuadros de sostenimiento de madera?",
+      "answerOptions": [
+        {
+          "text": "La madera se cristaliza y se vuelve extremadamente fr\u00e1gil.",
+          "isCorrect": false,
+          "rationale": "La madera no se cristaliza por humedad; sus fibras responden de forma org\u00e1nica hinch\u00e1ndose."
+        },
+        {
+          "text": "La madera se hincha y sufre deformaciones por pandeo o buckling.",
+          "isCorrect": true,
+          "rationale": "La saturaci\u00f3n h\u00eddrica altera las dimensiones y la integridad estructural de la madera, provocando que se doble y falle."
+        },
+        {
+          "text": "La madera se vuelve inmune a los ataques de insectos subterr\u00e1neos.",
+          "isCorrect": false,
+          "rationale": "La humedad excesiva suele favorecer la degradaci\u00f3n biol\u00f3gica y no protege la estructura de la madera."
+        },
+        {
+          "text": "La madera se contrae aumentando la estabilidad de la uni\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La madera se expande al absorber agua, lo que genera tensiones internas no deseadas en el cuadro."
+        }
+      ],
+      "hint": "Recuerda qu\u00e9 le sucede a las fibras org\u00e1nicas cuando absorben una gran cantidad de l\u00edquido."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la saturaci\u00f3n h\u00eddrica puede invalidar los modelos num\u00e9ricos predictivos como el RS2?",
+      "answerOptions": [
+        {
+          "text": "Porque el software solo funciona en condiciones de vac\u00edo absoluto.",
+          "isCorrect": false,
+          "rationale": "Los softwares geomec\u00e1nicos consideran m\u00faltiples variables, pero requieren datos de entrada precisos sobre la presi\u00f3n del agua."
+        },
+        {
+          "text": "Porque el agua cambia dr\u00e1sticamente la resistencia real de la roca.",
+          "isCorrect": true,
+          "rationale": "Si los par\u00e1metros de resistencia ingresados no consideran la saturaci\u00f3n, las predicciones del modelo ser\u00e1n incorrectas y peligrosas."
+        },
+        {
+          "text": "Porque los monitores de computadora fallan en ambientes con alta humedad.",
+          "isCorrect": false,
+          "rationale": "La validez del modelo se refiere al rigor cient\u00edfico de los c\u00e1lculos, no al hardware donde se ejecuta."
+        },
+        {
+          "text": "Porque el agua borra los archivos digitales guardados en el sistema.",
+          "isCorrect": false,
+          "rationale": "Este es un problema de respaldo inform\u00e1tico, no una limitaci\u00f3n del modelamiento geomec\u00e1nico."
+        }
+      ],
+      "hint": "El software depende de que los datos de resistencia de la roca reflejen la realidad del terreno en ese momento."
+    },
+    {
+      "question": "\u00bfQu\u00e9 instrumento es vital para medir la presi\u00f3n del agua y obtener un balance h\u00eddrico exacto en la mina?",
+      "answerOptions": [
+        {
+          "text": "Extens\u00f3metro digital.",
+          "isCorrect": false,
+          "rationale": "Este instrumento mide desplazamientos de la roca (convergencia), no presiones de fluidos."
+        },
+        {
+          "text": "Piez\u00f3metro.",
+          "isCorrect": true,
+          "rationale": "Es la herramienta espec\u00edfica para monitorear los niveles y presiones del agua dentro del macizo rocoso o en presas de relaves."
+        },
+        {
+          "text": "Cinta extensom\u00e9trica.",
+          "isCorrect": false,
+          "rationale": "Se usa para medir distancias entre puntos fijos en la roca, no para variables hidrogeol\u00f3gicas."
+        },
+        {
+          "text": "Br\u00fajula geol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "Sirve para medir la orientaci\u00f3n de estructuras (rumbo y buzamiento), no presiones h\u00eddricas."
+        }
+      ],
+      "hint": "Busca el nombre del equipo dise\u00f1ado espec\u00edficamente para la gesti\u00f3n hidrogeol\u00f3gica."
+    },
+    {
+      "question": "En el proyecto de la Chimenea 219, \u00bfqu\u00e9 acci\u00f3n t\u00e9cnica fue recomendada cuando el factor de seguridad cay\u00f3 a $1.1$?",
+      "answerOptions": [
+        {
+          "text": "Continuar con el avance aumentando la velocidad de excavaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Acelerar la excavaci\u00f3n con un factor de seguridad tan bajo garantizar\u00eda un colapso inminente."
+        },
+        {
+          "text": "Ignorar el dato por considerarlo un error del software.",
+          "isCorrect": false,
+          "rationale": "Los modelos validados con datos de campo deben tomarse como advertencias cr\u00edticas de seguridad."
+        },
+        {
+          "text": "Detener el avance y proceder al relleno detr\u00edtico inmediato.",
+          "isCorrect": true,
+          "rationale": "Ante un riesgo de desastre por inestabilidad, la prioridad es estabilizar la cavidad con relleno para evitar la propagaci\u00f3n del fallo."
+        },
+        {
+          "text": "Retirar todo el sostenimiento para aliviar el peso en la corona.",
+          "isCorrect": false,
+          "rationale": "Retirar el sostenimiento eliminar\u00eda la poca resistencia que queda, provocando el hundimiento inmediato."
+        }
+      ],
+      "hint": "Es la medida m\u00e1s dr\u00e1stica para estabilizar una cavidad cuando el sostenimiento convencional ya no es suficiente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la capacidad de manejo de caudales masivos de agua que algunas operaciones mineras complejas deben gestionar proactivamente?",
+      "answerOptions": [
+        {
+          "text": "Hasta $10 \\text{ L/s}$.",
+          "isCorrect": false,
+          "rationale": "$10 \\text{ L/s}$ es un caudal menor que no suele requerir infraestructuras de drenaje agresivas de gran escala."
+        },
+        {
+          "text": "Hasta $1000 \\text{ L/s}$.",
+          "isCorrect": true,
+          "rationale": "Existen minas que deben evacuar caudales bestiales de hasta $1000 \\text{ L/s}$ para mantener la continuidad operativa y la seguridad."
+        },
+        {
+          "text": "Exactamente $1 \\text{ L/min}$.",
+          "isCorrect": false,
+          "rationale": "Esta es una cantidad insignificante para operaciones mineras industriales que enfrentan infiltraciones severas."
+        },
+        {
+          "text": "Cero, ya que las minas modernas son totalmente impermeables.",
+          "isCorrect": false,
+          "rationale": "Es imposible hacer una mina totalmente impermeable; la gesti\u00f3n proactiva del agua es siempre necesaria."
+        }
+      ],
+      "hint": "Recuerda el n\u00famero de tres ceros mencionado como ejemplo de caudales extremos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera que el control de estabilidad moderno es 'estrat\u00e9gico' y no opcional?",
+      "answerOptions": [
+        {
+          "text": "Porque permite reducir el sueldo de los operadores de seguridad.",
+          "isCorrect": false,
+          "rationale": "La seguridad estrat\u00e9gica requiere personal calificado e inversi\u00f3n; su fin no es el recorte de salarios."
+        },
+        {
+          "text": "Porque garantiza la continuidad operativa y protege vidas humanas.",
+          "isCorrect": true,
+          "rationale": "Sin estabilidad, la operaci\u00f3n se detiene por colapsos y se pone en riesgo la integridad f\u00edsica de los trabajadores."
+        },
+        {
+          "text": "Porque es un requisito est\u00e9tico para las visitas de inspecci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La estabilidad es una necesidad t\u00e9cnica y vital, no un aspecto cosm\u00e9tico de la mina."
+        },
+        {
+          "text": "Porque ayuda a encontrar vetas de mineral con mayor contenido de oro.",
+          "isCorrect": false,
+          "rationale": "El control de estabilidad mantiene la labor abierta, pero no influye en la ley o ubicaci\u00f3n del mineral."
+        }
+      ],
+      "hint": "Piensa en los dos objetivos fundamentales de cualquier operaci\u00f3n minera responsable."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Convergencia geomec\u00e1nica y monitoreo",
+      "Instrumentaci\u00f3n de precisi\u00f3n (extens\u00f3metros)",
+      "Factores de seguridad y modelamiento num\u00e9rico",
+      "Mecanismos de erosi\u00f3n h\u00eddrica superficial",
+      "Gesti\u00f3n de drenaje y control de agua subterr\u00e1nea"
+    ],
+    "followUp": [
+      "Dise\u00f1o de sostenimiento con shotcrete y pernos",
+      "An\u00e1lisis de riesgos por vibraciones din\u00e1micas en miner\u00eda superficial",
+      "Hidrogeolog\u00eda aplicada a la estabilidad de taludes",
+      "Protocolos de evacuaci\u00f3n ante alertas de convergencia acelerada"
+    ]
+  }
+}

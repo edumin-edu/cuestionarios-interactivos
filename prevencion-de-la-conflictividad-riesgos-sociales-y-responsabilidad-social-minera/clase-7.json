@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1les son los tres pilares fundamentales que deben equilibrarse para garantizar la sostenibilidad y la continuidad operativa en un gran proyecto?",
+      "answerOptions": [
+        {
+          "text": "Rentabilidad econ\u00f3mica, integridad ambiental y cohesi\u00f3n social.",
+          "isCorrect": true,
+          "rationale": "El equilibrio entre estos tres elementos asegura que el valor generado beneficie a inversionistas, sociedad y entorno natural simult\u00e1neamente."
+        },
+        {
+          "text": "Crecimiento del PBI, exportaciones masivas y regulaci\u00f3n estatal.",
+          "isCorrect": false,
+          "rationale": "Aunque son indicadores macroecon\u00f3micos importantes, no constituyen los pilares de la sostenibilidad integral a nivel de proyecto."
+        },
+        {
+          "text": "Filantrop\u00eda tradicional, donaciones y asistencia legal.",
+          "isCorrect": false,
+          "rationale": "Estas acciones suelen fomentar la dependencia y no garantizan la integridad ambiental ni la rentabilidad a largo plazo."
+        },
+        {
+          "text": "Maximizaci\u00f3n de beneficios, reducci\u00f3n de costos y marketing social.",
+          "isCorrect": false,
+          "rationale": "Este enfoque prioriza \u00fanicamente la visi\u00f3n de los accionistas, ignorando la licencia social y el impacto ambiental."
+        }
+      ],
+      "hint": "Piensa en las tres piezas del 'rompecabezas' que evitan la destrucci\u00f3n de recursos para futuras generaciones."
+    },
+    {
+      "question": "En el contexto de la evoluci\u00f3n de la Responsabilidad Social Empresarial, \u00bfqu\u00e9 propuso Edward Freeman en 1984?",
+      "answerOptions": [
+        {
+          "text": "La teor\u00eda de los stakeholders o partes interesadas.",
+          "isCorrect": true,
+          "rationale": "Freeman plante\u00f3 que las empresas deben considerar a todos los grupos afectados por sus operaciones, sentando las bases de la licencia social moderna."
+        },
+        {
+          "text": "Que la \u00fanica responsabilidad del negocio es maximizar las ganancias.",
+          "isCorrect": false,
+          "rationale": "Esta es la perspectiva de Milton Friedman de 1970, la cual se considera anacr\u00f3nica bajo los est\u00e1ndares actuales."
+        },
+        {
+          "text": "La pir\u00e1mide de responsabilidades econ\u00f3micas, legales y \u00e9ticas.",
+          "isCorrect": false,
+          "rationale": "Dicha estructura fue propuesta por Carroll en 1991, no por Freeman."
+        },
+        {
+          "text": "La responsabilidad intr\u00ednseca de la empresa hacia la sociedad.",
+          "isCorrect": false,
+          "rationale": "Bowen fue el pionero en plantear este concepto en 1953, marcando el inicio formal de la RSE."
+        }
+      ],
+      "hint": "Este autor cambi\u00f3 el enfoque exclusivo en el accionista por un enfoque en todos los afectados por la empresa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 distingue a la inversi\u00f3n social profesionalizada de la filantrop\u00eda tradicional?",
+      "answerOptions": [
+        {
+          "text": "Se enfoca en la transferencia de tecnolog\u00eda y el fortalecimiento de capacidades.",
+          "isCorrect": true,
+          "rationale": "La inversi\u00f3n profesionalizada busca generar autonom\u00eda y capital social real, a diferencia de las donaciones asistencialistas."
+        },
+        {
+          "text": "Consiste en la entrega de d\u00e1divas espor\u00e1dicas para mitigar conflictos.",
+          "isCorrect": false,
+          "rationale": "Esto describe la filantrop\u00eda tradicional, que suele fomentar el clientelismo y la dependencia."
+        },
+        {
+          "text": "Busca consolidar una simetr\u00eda de poder mediante la caridad.",
+          "isCorrect": false,
+          "rationale": "La caridad suele consolidar la asimetr\u00eda de poder, no la autonom\u00eda del territorio."
+        },
+        {
+          "text": "Prioriza el gasto en imagen corporativa sobre el impacto territorial.",
+          "isCorrect": false,
+          "rationale": "La inversi\u00f3n social profesionalizada se mide por resultados de desarrollo real, no por beneficios de marketing."
+        }
+      ],
+      "hint": "Considera cu\u00e1l de las dos opciones busca dejar algo duradero y fomentar la independencia de la comunidad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el rol estrat\u00e9gico del relacionista comunitario en el campo?",
+      "answerOptions": [
+        {
+          "text": "Actuar como un profesional de interfaz entre la cultura corporativa y la din\u00e1mica territorial.",
+          "isCorrect": true,
+          "rationale": "Su misi\u00f3n es gestionar la l\u00ednea invisible entre la corporaci\u00f3n y el entorno para construir legitimidad profunda."
+        },
+        {
+          "text": "Ejercer como un relacionista p\u00fablico encargado de mejorar la imagen externa.",
+          "isCorrect": false,
+          "rationale": "El rol va mucho m\u00e1s all\u00e1 de la simple imagen; busca la mitigaci\u00f3n de riesgos y la gesti\u00f3n de la porosidad cultural."
+        },
+        {
+          "text": "Garantizar que la comunidad acepte todas las condiciones de la empresa.",
+          "isCorrect": false,
+          "rationale": "El objetivo es la construcci\u00f3n de legitimidad y di\u00e1logo de doble v\u00eda, no la imposici\u00f3n de condiciones."
+        },
+        {
+          "text": "Sustituir al Estado en la provisi\u00f3n de servicios b\u00e1sicos de salud y educaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque es una demanda com\u00fan, el rol del relacionista es gestionar el impacto social y no reemplazar las funciones estatales."
+        }
+      ],
+      "hint": "No es un simple comunicador, sino un experto que maneja la interacci\u00f3n entre dos mundos distintos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es riesgoso para un proyecto enfocarse \u00fanicamente en los l\u00edderes formales de una comunidad?",
+      "answerOptions": [
+        {
+          "text": "Porque los actores informales suelen tener un alto nivel de influencia y pueden detonar crisis.",
+          "isCorrect": true,
+          "rationale": "L\u00edderes de opini\u00f3n o exdirigentes operan 'en la sombra' y su exclusi\u00f3n es a menudo la antesala de conflictos sociales."
+        },
+        {
+          "text": "Porque los alcaldes y gobernadores carecen de legitimidad institucional.",
+          "isCorrect": false,
+          "rationale": "Los l\u00edderes formales s\u00ed tienen representaci\u00f3n institucional, pero no son los \u00fanicos que mueven la opini\u00f3n p\u00fablica."
+        },
+        {
+          "text": "Porque el Estado proh\u00edbe legalmente el di\u00e1logo con autoridades electas.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el di\u00e1logo con autoridades formales es un requisito del plan de participaci\u00f3n ciudadana."
+        },
+        {
+          "text": "Porque los l\u00edderes formales no tienen capacidad de negociaci\u00f3n presupuestaria.",
+          "isCorrect": false,
+          "rationale": "Los l\u00edderes formales suelen tener las facultades legales para la negociaci\u00f3n, pero no siempre el control social total."
+        }
+      ],
+      "hint": "Piensa en qui\u00e9nes son los 'asesores en la sombra' o l\u00edderes hist\u00f3ricos que no ocupan cargos oficiales."
+    },
+    {
+      "question": "En el dec\u00e1logo de buenas pr\u00e1cticas de di\u00e1logo, \u00bfqu\u00e9 implica la 'transparencia radical'?",
+      "answerOptions": [
+        {
+          "text": "Informar honestamente sobre los impactos negativos de la operaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Aunque genera temor, comunicar los riesgos e impactos de frente es la herramienta m\u00e1s poderosa para ganar credibilidad."
+        },
+        {
+          "text": "Ocultar los riesgos ambientales para no alarmar a la poblaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La falta de informaci\u00f3n honesta destruye la confianza y es una de las principales causas de conflicto."
+        },
+        {
+          "text": "Publicar \u00fanicamente los beneficios econ\u00f3micos del proyecto en los medios.",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda una gesti\u00f3n de relaciones p\u00fablicas tradicional, no transparencia radical en el territorio."
+        },
+        {
+          "text": "Entregar informes t\u00e9cnicos sin simplificar el lenguaje para mantener el rigor.",
+          "isCorrect": false,
+          "rationale": "La transparencia requiere que la informaci\u00f3n sea comprensible para el interlocutor, evitando la condescendencia."
+        }
+      ],
+      "hint": "Se trata de decir la verdad incluso cuando los datos no son favorables para la empresa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 describe mejor el fen\u00f3meno de la 'paradoja de la abundancia' en el sector extractivo?",
+      "answerOptions": [
+        {
+          "text": "La coexistencia de una inmensa riqueza mineral subterr\u00e1nea con pobreza multidimensional en la superficie.",
+          "isCorrect": true,
+          "rationale": "Representa la contradicci\u00f3n entre el \u00e9xito macroecon\u00f3mico nacional y las carencias sociales cr\u00edticas en las zonas de operaci\u00f3n."
+        },
+        {
+          "text": "El exceso de recursos econ\u00f3micos en las municipalidades que no saben c\u00f3mo invertirlos.",
+          "isCorrect": false,
+          "rationale": "Si bien hay ineficiencia en el gasto, la paradoja se centra en la desconexi\u00f3n entre la riqueza generada y el bienestar local."
+        },
+        {
+          "text": "La sobreoferta de minerales en el mercado global que hace bajar los precios locales.",
+          "isCorrect": false,
+          "rationale": "Esta es una din\u00e1mica de mercado de materias primas, no una paradoja socioecon\u00f3mica de abundancia local."
+        },
+        {
+          "text": "La abundancia de leyes ambientales que impiden la ejecuci\u00f3n de proyectos rentables.",
+          "isCorrect": false,
+          "rationale": "Este concepto se refiere a la regulaci\u00f3n, no a la contradicci\u00f3n entre riqueza y pobreza."
+        }
+      ],
+      "hint": "Imagina una casa con una b\u00f3veda llena de oro pero que no tiene agua ni techo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el impacto social de la formaci\u00f3n de '\u00e9lites obreras' en comunidades rurales?",
+      "answerOptions": [
+        {
+          "text": "Erosi\u00f3n de la cohesi\u00f3n social debido a brechas de consumo repentinas.",
+          "isCorrect": true,
+          "rationale": "El acceso desigual a sueldos altos genera resentimiento entre quienes mantienen actividades de subsistencia."
+        },
+        {
+          "text": "Mejora generalizada de la econom\u00eda de todos los miembros de la comunidad.",
+          "isCorrect": false,
+          "rationale": "Las \u00e9lites obreras son grupos peque\u00f1os, lo que suele profundizar la desigualdad interna en lugar de beneficiar a todos."
+        },
+        {
+          "text": "Aumento de la inversi\u00f3n comunal en proyectos agr\u00edcolas sostenibles.",
+          "isCorrect": false,
+          "rationale": "Generalmente, los ingresos se destinan al consumo individual de tecnolog\u00eda o veh\u00edculos, no a la inversi\u00f3n colectiva."
+        },
+        {
+          "text": "Fortalecimiento de las tradiciones culturales frente a la modernidad.",
+          "isCorrect": false,
+          "rationale": "La riqueza repentina suele fracturar las tradiciones y la igualdad que caracterizaba a la comunidad."
+        }
+      ],
+      "hint": "Considera qu\u00e9 sucede cuando solo unos pocos obtienen mucha riqueza en un entorno donde antes todos eran similares."
+    },
+    {
+      "question": "\u00bfQu\u00e9 medida se propone para mitigar el resentimiento causado por las diferencias salariales en la comunidad?",
+      "answerOptions": [
+        {
+          "text": "Rotar al personal no especializado cada 6 meses.",
+          "isCorrect": true,
+          "rationale": "Democratizar el acceso a los empleos temporales evita que un peque\u00f1o grupo se atrincheren en los beneficios econ\u00f3micos."
+        },
+        {
+          "text": "Reducir los sueldos para que coincidan con el promedio local.",
+          "isCorrect": false,
+          "rationale": "Esto desincentivar\u00eda el trabajo y no resolver\u00eda el problema de la falta de oportunidades."
+        },
+        {
+          "text": "Prohibir a los trabajadores comprar bienes de lujo en la zona.",
+          "isCorrect": false,
+          "rationale": "Es una medida inviable que vulnera las libertades individuales y no soluciona la brecha de ingresos."
+        },
+        {
+          "text": "Contratar \u00fanicamente a personal for\u00e1neo para evitar conflictos internos.",
+          "isCorrect": false,
+          "rationale": "Esta acci\u00f3n suele ser el detonante principal de crisis sociales al excluir a la mano de obra local."
+        }
+      ],
+      "hint": "Busca una t\u00e1ctica de 'inteligencia social' basada en la alternancia de los puestos de trabajo."
+    },
+    {
+      "question": "De acuerdo con el Decreto Supremo $013/2024$, \u00bfcu\u00e1nto tiempo tiene el Senace para evaluar la admisibilidad de un expediente de participaci\u00f3n ciudadana?",
+      "answerOptions": [
+        {
+          "text": "Dos d\u00edas h\u00e1biles.",
+          "isCorrect": true,
+          "rationale": "Este plazo extremadamente corto busca garantizar la agilidad en el inicio de los procesos de participaci\u00f3n ciudadana."
+        },
+        {
+          "text": "Treinta d\u00edas h\u00e1biles.",
+          "isCorrect": false,
+          "rationale": "Los 30 d\u00edas corresponden al plazo m\u00e1ximo para la aprobaci\u00f3n t\u00e9cnica final, no para la admisibilidad inicial."
+        },
+        {
+          "text": "Quince d\u00edas calendario.",
+          "isCorrect": false,
+          "rationale": "El marco normativo establece plazos m\u00e1s estrictos y espec\u00edficos en d\u00edas h\u00e1biles para esta etapa."
+        },
+        {
+          "text": "Una semana laboral.",
+          "isCorrect": false,
+          "rationale": "El decreto especifica exactamente dos d\u00edas h\u00e1biles, enfatizando la rapidez del tr\u00e1mite."
+        }
+      ],
+      "hint": "Es un tiempo marat\u00f3nico dise\u00f1ado para que el proceso no se detenga por burocracia."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el uso de maquetas f\u00edsicas o simulaciones $3D$ se considera una herramienta de transparencia?",
+      "answerOptions": [
+        {
+          "text": "Eliminan las barreras t\u00e9cnicas permitiendo que cualquier persona comprenda los cambios en su territorio.",
+          "isCorrect": true,
+          "rationale": "Traducir planos complejos a formatos visuales accesibles disipa suspicacias y construye confianza genuina."
+        },
+        {
+          "text": "Son requisitos legales obligatorios para obtener la licencia de construcci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque son recomendables, su uso es m\u00e1s una estrategia t\u00e1ctica de comunicaci\u00f3n que un requisito legal estricto."
+        },
+        {
+          "text": "Sirven para ocultar los detalles menos atractivos del dise\u00f1o industrial.",
+          "isCorrect": false,
+          "rationale": "Su objetivo es precisamente lo opuesto: mostrar con claridad qu\u00e9 va a pasar para evitar desinformaci\u00f3n."
+        },
+        {
+          "text": "Aceleran los tiempos de aprobaci\u00f3n t\u00e9cnica por parte del Estado.",
+          "isCorrect": false,
+          "rationale": "Su impacto principal es en la relaci\u00f3n con la comunidad, no necesariamente en la velocidad administrativa del regulador."
+        }
+      ],
+      "hint": "Piensa en la diferencia entre mostrar un plano t\u00e9cnico de AutoCAD y una representaci\u00f3n visual realista."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la estrategia de 'Sinergia MEF-Expediente'?",
+      "answerOptions": [
+        {
+          "text": "La empresa financia la elaboraci\u00f3n de expedientes t\u00e9cnicos para que la municipalidad acceda a fondos p\u00fablicos.",
+          "isCorrect": true,
+          "rationale": "Esta jugada obliga al Estado a invertir su propio presupuesto en la comunidad utilizando la capacidad t\u00e9cnica de la empresa."
+        },
+        {
+          "text": "La empresa paga directamente los impuestos al Ministerio de Econom\u00eda en lugar de invertirlos en la zona.",
+          "isCorrect": false,
+          "rationale": "Esta es la forma tradicional de tributaci\u00f3n y no constituye una sinergia estrat\u00e9gica para el desarrollo territorial."
+        },
+        {
+          "text": "El Ministerio de Econom\u00eda elabora los proyectos sociales para que la empresa los ejecute.",
+          "isCorrect": false,
+          "rationale": "El Estado suele carecer de esta capacidad t\u00e9cnica r\u00e1pida, por eso la empresa asume la fase del expediente."
+        },
+        {
+          "text": "Es un acuerdo para reducir las multas ambientales si se construyen colegios.",
+          "isCorrect": false,
+          "rationale": "El cumplimiento ambiental es independiente de la inversi\u00f3n social y no se negocia mediante estas sinergias."
+        }
+      ],
+      "hint": "Se trata de usar el 'know-how' privado para desbloquear el 'billetero' p\u00fablico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja principal ofrece el mecanismo de Obras por Impuestos (OxI)?",
+      "answerOptions": [
+        {
+          "text": "Permite ejecutar infraestructura social con la velocidad y eficiencia del sector privado.",
+          "isCorrect": true,
+          "rationale": "Transforma la obligaci\u00f3n tributaria en proyectos tangibles que se terminan en meses en lugar de a\u00f1os."
+        },
+        {
+          "text": "Exonera a la empresa de cualquier responsabilidad ambiental futura.",
+          "isCorrect": false,
+          "rationale": "El mecanismo OxI es estrictamente tributario y social; no afecta las obligaciones ambientales."
+        },
+        {
+          "text": "Permite que la empresa decida unilateralmente qu\u00e9 obras necesita la comunidad.",
+          "isCorrect": false,
+          "rationale": "Las obras deben estar alineadas con las prioridades p\u00fablicas y ser aprobadas por las entidades competentes."
+        },
+        {
+          "text": "Garantiza que la empresa no tenga que pagar impuestos en efectivo durante diez a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Solo permite canjear una parte del impuesto a la renta por la ejecuci\u00f3n de obras espec\u00edficas ya acordadas."
+        }
+      ],
+      "hint": "Piensa en el tiempo que le toma al Estado hacer una obra frente al tiempo que le toma a una empresa como Antamina."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es uno de los objetivos de la sostenibilidad post-extractiva?",
+      "answerOptions": [
+        {
+          "text": "Fomentar industrias como la agroindustria o energ\u00edas renovables que sobrevivan al cierre de la mina.",
+          "isCorrect": true,
+          "rationale": "Busca garantizar que el territorio mantenga su autonom\u00eda econ\u00f3mica una vez que el recurso mineral se agote."
+        },
+        {
+          "text": "Asegurar que la comunidad siga dependiendo de las donaciones corporativas indefinidamente.",
+          "isCorrect": false,
+          "rationale": "El objetivo de la sostenibilidad es precisamente eliminar la dependencia mediante la autonom\u00eda."
+        },
+        {
+          "text": "Mantener la maquinaria minera operativa \u00fanicamente para fines tur\u00edsticos.",
+          "isCorrect": false,
+          "rationale": "Aunque el turismo industrial existe, no es el pilar principal de la supervivencia econ\u00f3mica de una regi\u00f3n post-miner\u00eda."
+        },
+        {
+          "text": "Trasladar a toda la poblaci\u00f3n a zonas urbanas una vez finalizada la extracci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La sostenibilidad territorial busca que la poblaci\u00f3n prospere en su propio entorno con nuevas actividades."
+        }
+      ],
+      "hint": "Se trata de planificar qu\u00e9 pasar\u00e1 con la gente cuando ya no haya minerales que extraer."
+    },
+    {
+      "question": "En el manejo de expectativas, \u00bfqu\u00e9 pr\u00e1ctica es vital para el relacionista comunitario?",
+      "answerOptions": [
+        {
+          "text": "Nunca prometer recursos que la empresa no pueda respaldar fehacientemente.",
+          "isCorrect": true,
+          "rationale": "Las falsas promesas son detonantes inmediatos de p\u00e9rdida de legitimidad y futuras crisis sociales."
+        },
+        {
+          "text": "Prometer beneficios a corto plazo para calmar una protesta activa.",
+          "isCorrect": false,
+          "rationale": "Esta es una medida reactiva que genera desconfianza cuando las promesas no se cumplen."
+        },
+        {
+          "text": "Delegar la comunicaci\u00f3n de compromisos financieros \u00fanicamente al Estado.",
+          "isCorrect": false,
+          "rationale": "La empresa debe ser responsable de sus propios compromisos para mantener la transparencia radical."
+        },
+        {
+          "text": "Ofrecer empleos a todos los miembros de la comunidad sin excepci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Es operativamente imposible y genera expectativas irreales que da\u00f1an la relaci\u00f3n a largo plazo."
+        }
+      ],
+      "hint": "Es mejor ser honesto sobre las limitaciones que intentar 'comprar' paz con promesas vac\u00edas."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el Estado es considerado el 'stakeholder ambiental primario'?",
+      "answerOptions": [
+        {
+          "text": "Porque tiene el poder de veto absoluto y la potestad de ordenar cierres mediante entidades como OEFA.",
+          "isCorrect": true,
+          "rationale": "Su capacidad regulatoria y coercitiva determina la legalidad y viabilidad operativa del proyecto."
+        },
+        {
+          "text": "Porque es el principal socio financiero en todas las operaciones mineras privadas.",
+          "isCorrect": false,
+          "rationale": "El Estado regula y recauda, pero no suele ser socio financiero directo en la mayor\u00eda de operaciones privadas."
+        },
+        {
+          "text": "Porque act\u00faa \u00fanicamente como un observador neutral en los conflictos por el agua.",
+          "isCorrect": false,
+          "rationale": "El Estado es un actor activo con poder de sanci\u00f3n, no un simple observador pasivo."
+        },
+        {
+          "text": "Porque es el encargado de contratar a todo el personal de relaciones comunitarias.",
+          "isCorrect": false,
+          "rationale": "El personal de relaciones comunitarias es contratado directamente por la empresa privada."
+        }
+      ],
+      "hint": "Piensa en el caso de la unidad minera cerrada entre Moquegua y Tacna por el manejo de aguas \u00e1cidas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 componente de la pir\u00e1mide de Carroll ($1991$) se refiere a las acciones que la sociedad desea que la empresa realice, aunque no sean obligatorias?",
+      "answerOptions": [
+        {
+          "text": "Responsabilidades discrecionales o filantr\u00f3picas.",
+          "isCorrect": true,
+          "rationale": "Estas se encuentran en la cima de la pir\u00e1mide y representan la contribuci\u00f3n voluntaria al bienestar social."
+        },
+        {
+          "text": "Responsabilidades legales.",
+          "isCorrect": false,
+          "rationale": "Estas son de cumplimiento obligatorio por norma y se encuentran en la base de la pir\u00e1mide."
+        },
+        {
+          "text": "Responsabilidades econ\u00f3micas.",
+          "isCorrect": false,
+          "rationale": "Su fin es la rentabilidad y producci\u00f3n de bienes, siendo el cimiento necesario para cualquier otra acci\u00f3n."
+        },
+        {
+          "text": "Responsabilidades \u00e9ticas.",
+          "isCorrect": false,
+          "rationale": "Se refieren a lo que es justo y correcto m\u00e1s all\u00e1 de lo que dicta la ley, pero con una expectativa social m\u00e1s fuerte que lo discrecional."
+        }
+      ],
+      "hint": "Es el nivel superior de la pir\u00e1mide, asociado con ser un 'buen ciudadano corporativo' de forma voluntaria."
+    },
+    {
+      "question": "\u00bfQu\u00e9 habilidad es esencial para la 'escucha anal\u00edtica' en el di\u00e1logo comunitario?",
+      "answerOptions": [
+        {
+          "text": "La capacidad de leer entre l\u00edneas y entender las preocupaciones no expresadas expl\u00edcitamente.",
+          "isCorrect": true,
+          "rationale": "Permite identificar intereses subyacentes que a menudo no se mencionan directamente en las mesas de di\u00e1logo."
+        },
+        {
+          "text": "La habilidad para memorizar todos los nombres de los asistentes a una asamblea.",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda a la empat\u00eda, no constituye un an\u00e1lisis profundo de la comunicaci\u00f3n y el conflicto."
+        },
+        {
+          "text": "Saber interrumpir en el momento justo para corregir datos t\u00e9cnicos err\u00f3neos.",
+          "isCorrect": false,
+          "rationale": "Interrumpir rompe el flujo del di\u00e1logo; el dec\u00e1logo sugiere evitar mon\u00f3logos y escuchar con respeto."
+        },
+        {
+          "text": "Registrar las sesiones de di\u00e1logo para usarlas como prueba legal en juicios.",
+          "isCorrect": false,
+          "rationale": "El enfoque anal\u00edtico busca la resoluci\u00f3n y prevenci\u00f3n de conflictos, no necesariamente la litigaci\u00f3n."
+        }
+      ],
+      "hint": "No se trata solo de o\u00edr las palabras, sino de captar el significado profundo de lo que la comunidad siente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el riesgo principal de fomentar el clientelismo mediante la filantrop\u00eda tradicional?",
+      "answerOptions": [
+        {
+          "text": "Crea una dependencia terrible que impide el desarrollo de capacidades locales aut\u00f3nomas.",
+          "isCorrect": true,
+          "rationale": "Al basarse en d\u00e1divas, la comunidad no desarrolla herramientas propias para progresar sin la empresa."
+        },
+        {
+          "text": "Aumenta excesivamente los costos de producci\u00f3n de la empresa minera.",
+          "isCorrect": false,
+          "rationale": "Aunque genera gastos, el riesgo real es social y estructural, no puramente contable."
+        },
+        {
+          "text": "Atrae demasiada atenci\u00f3n de los organismos reguladores internacionales.",
+          "isCorrect": false,
+          "rationale": "Los organismos internacionales suelen criticar el clientelismo por su falta de sostenibilidad, pero el riesgo principal es el da\u00f1o al capital social."
+        },
+        {
+          "text": "Provoca que la empresa pierda el control sobre sus propios activos.",
+          "isCorrect": false,
+          "rationale": "El clientelismo genera una relaci\u00f3n de poder asim\u00e9trica, pero no suele implicar la p\u00e9rdida de activos f\u00edsicos."
+        }
+      ],
+      "hint": "Considera qu\u00e9 pasa con una comunidad cuando se acostumbra a recibir 'propinas sociales' en lugar de aprender a producir."
+    },
+    {
+      "question": "En el contexto de la gesti\u00f3n social moderna, \u00bfqu\u00e9 garantiza el uso de est\u00e1ndares como el GRI o la ISO $26,000$?",
+      "answerOptions": [
+        {
+          "text": "Transparencia y rendici\u00f3n de cuentas ante el mercado con m\u00e9tricas auditables.",
+          "isCorrect": true,
+          "rationale": "Estos est\u00e1ndares demuestran que el desarrollo local no es solo discurso, sino un proceso con datos verificables."
+        },
+        {
+          "text": "Inmunidad total frente a sanciones ambientales por parte del Estado.",
+          "isCorrect": false,
+          "rationale": "Los est\u00e1ndares internacionales son voluntarios y no reemplazan ni anulan la legislaci\u00f3n ambiental nacional."
+        },
+        {
+          "text": "La eliminaci\u00f3n autom\u00e1tica de todos los conflictos sociales en el \u00e1rea de influencia.",
+          "isCorrect": false,
+          "rationale": "Son herramientas de gesti\u00f3n y reporte, pero la paz social requiere un trabajo constante en campo que va m\u00e1s all\u00e1 de un sello ISO."
+        },
+        {
+          "text": "El acceso exclusivo a pr\u00e9stamos bancarios sin intereses.",
+          "isCorrect": false,
+          "rationale": "Aunque mejoran el perfil de riesgo crediticio, no garantizan condiciones financieras tan espec\u00edficas como la ausencia de intereses."
+        }
+      ],
+      "hint": "Son marcos globales que sirven para 'medir' y 'reportar' qu\u00e9 tan responsable es realmente una empresa."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Sostenibilidad en grandes proyectos",
+      "Evoluci\u00f3n de la Responsabilidad Social Empresarial",
+      "Gesti\u00f3n de stakeholders y rol del Estado",
+      "Relacionamiento comunitario y di\u00e1logo en campo",
+      "Paradoja de la abundancia y fractura social",
+      "Mecanismos de transparencia y de-risking"
+    ],
+    "followUp": [
+      "Normativa de participaci\u00f3n ciudadana en miner\u00eda (Senace)",
+      "Est\u00e1ndares globales de reporte: GRI e ISO 26000",
+      "Estrategias de inversi\u00f3n social vs filantrop\u00eda",
+      "Prevenci\u00f3n de conflictos sociales en industrias extractivas",
+      "Modelos de desarrollo territorial post-extractivo"
+    ]
+  }
+}

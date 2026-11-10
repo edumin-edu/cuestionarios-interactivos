@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 porcentaje del Producto Interno Bruto ($PIB$) mundial representan los costos de los accidentes laborales seg\u00fan datos de la OIT?",
+      "answerOptions": [
+        {
+          "text": "$2\\%$",
+          "isCorrect": false,
+          "rationale": "Esta cifra subestima el impacto econ\u00f3mico real que los accidentes tienen sobre la econom\u00eda global."
+        },
+        {
+          "text": "$4\\%$",
+          "isCorrect": true,
+          "rationale": "Este valor refleja la p\u00e9rdida masiva de competitividad y recursos financieros a nivel global debido a la siniestralidad laboral."
+        },
+        {
+          "text": "$6\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque el costo es elevado, esta cifra excede las estimaciones oficiales proporcionadas por la Organizaci\u00f3n Internacional del Trabajo."
+        },
+        {
+          "text": "$8\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje representar\u00eda un impacto desproporcionado en comparaci\u00f3n con las estad\u00edsticas actuales de sostenibilidad corporativa."
+        }
+      ],
+      "hint": "Considere la cifra que se asocia con una p\u00e9rdida de competitividad gigantesca mencionada en los indicadores de impacto global."
+    },
+    {
+      "question": "\u00bfA qui\u00e9nes se extiende el deber de prevenci\u00f3n del empleador dentro de las instalaciones de la empresa?",
+      "answerOptions": [
+        {
+          "text": "\u00danicamente a trabajadores en n\u00f3mina directa",
+          "isCorrect": false,
+          "rationale": "Limitar la protecci\u00f3n solo al personal directo ignora la responsabilidad sobre terceros que operan en el mismo recinto."
+        },
+        {
+          "text": "Solo a empleados y contratistas fijos",
+          "isCorrect": false,
+          "rationale": "Esta visi\u00f3n excluye a proveedores eventuales y visitas, quienes tambi\u00e9n est\u00e1n expuestos a los riesgos del entorno."
+        },
+        {
+          "text": "Empleados, contratistas, proveedores y visitas",
+          "isCorrect": true,
+          "rationale": "El principio de prevenci\u00f3n es integral y protege a cualquier persona que se encuentre f\u00edsicamente en el centro de trabajo."
+        },
+        {
+          "text": "Exclusivamente a personal operativo y de planta",
+          "isCorrect": false,
+          "rationale": "Los riesgos laborales no distinguen jerarqu\u00edas ni funciones administrativas, por lo que la cobertura debe ser total."
+        }
+      ],
+      "hint": "Piense en un alcance que no haga distinciones entre el tipo de v\u00ednculo jur\u00eddico de las personas en el recinto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el n\u00famero m\u00ednimo de capacitaciones en materia de seguridad y salud que el empleador debe realizar al a\u00f1o?",
+      "answerOptions": [
+        {
+          "text": "$2$",
+          "isCorrect": false,
+          "rationale": "Esta cantidad es insuficiente seg\u00fan los est\u00e1ndares legales estrictos que buscan mantener al personal actualizado frente a peligros."
+        },
+        {
+          "text": "$3$",
+          "isCorrect": false,
+          "rationale": "Aunque es una mejora frente a un solo folleto, no cumple con el mandato legal m\u00ednimo establecido para el sistema de gesti\u00f3n."
+        },
+        {
+          "text": "$4$",
+          "isCorrect": true,
+          "rationale": "La normativa exige esta frecuencia m\u00ednima para garantizar que la informaci\u00f3n sobre riesgos se mantenga vigente y efectiva."
+        },
+        {
+          "text": "$6$",
+          "isCorrect": false,
+          "rationale": "Si bien una empresa puede realizar m\u00e1s capacitaciones, este n\u00famero no es el requerimiento m\u00ednimo legal obligatorio."
+        }
+      ],
+      "hint": "Es una cifra par que permite una actualizaci\u00f3n trimestral sugerida de los conocimientos preventivos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 principio establece que, en caso de discrepancia, los hechos constatados prevalecen sobre los documentos firmados?",
+      "answerOptions": [
+        {
+          "text": "Principio de Protecci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Este principio se enfoca en el bienestar hol\u00edstico del trabajador, no en la validaci\u00f3n de registros documentales."
+        },
+        {
+          "text": "Principio de Primac\u00eda de la Realidad",
+          "isCorrect": true,
+          "rationale": "Este concepto act\u00faa como un escudo contra sistemas de gesti\u00f3n ficticios donde los papeles no coinciden con la pr\u00e1ctica diaria."
+        },
+        {
+          "text": "Principio de Responsabilidad",
+          "isCorrect": false,
+          "rationale": "Este principio se centra en qui\u00e9n asume los costos econ\u00f3micos y legales, no en la veracidad de la documentaci\u00f3n."
+        },
+        {
+          "text": "Principio de Gesti\u00f3n Integral",
+          "isCorrect": false,
+          "rationale": "Se refiere a la integraci\u00f3n de la seguridad en las decisiones de la alta gerencia y no a la resoluci\u00f3n de conflictos entre hechos y papeles."
+        }
+      ],
+      "hint": "Es el principio que suele causar m\u00e1s multas durante las inspecciones cuando la pr\u00e1ctica no coincide con los archivos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el requisito de personal para que una empresa est\u00e9 obligada a constituir un Comit\u00e9 de Seguridad y Salud en el Trabajo?",
+      "answerOptions": [
+        {
+          "text": "M\u00e1s de $10$ trabajadores",
+          "isCorrect": false,
+          "rationale": "Para este rango de personal, la ley suele requerir la figura de un supervisor en lugar de un comit\u00e9 bipartito."
+        },
+        {
+          "text": "$20$ o m\u00e1s trabajadores",
+          "isCorrect": true,
+          "rationale": "A partir de este n\u00famero, la estructura organizativa debe ser obligatoriamente un comit\u00e9 paritario para manejar los riesgos."
+        },
+        {
+          "text": "Exactamente $50$ trabajadores",
+          "isCorrect": false,
+          "rationale": "Aunque las empresas grandes tienen comit\u00e9s, la obligaci\u00f3n legal comienza en un umbral mucho menor."
+        },
+        {
+          "text": "Cualquier n\u00famero de trabajadores",
+          "isCorrect": false,
+          "rationale": "La ley distingue la estructura (comit\u00e9 o supervisor) bas\u00e1ndose espec\u00edficamente en el volumen de la fuerza laboral."
+        }
+      ],
+      "hint": "Considere el n\u00famero que tambi\u00e9n marca la obligatoriedad del Reglamento Interno de Seguridad y Salud ($RIST$)."
+    },
+    {
+      "question": "\u00bfQu\u00e9 documento es considerado la base t\u00e9cnica sobre la cual se construyen todas las estrategias de prevenci\u00f3n en la organizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "El mapa de riesgos",
+          "isCorrect": false,
+          "rationale": "El mapa es una representaci\u00f3n visual, pero no contiene el an\u00e1lisis t\u00e9cnico detallado de evaluaci\u00f3n y control."
+        },
+        {
+          "text": "La matriz $IPERC$",
+          "isCorrect": true,
+          "rationale": "Esta herramienta permite identificar peligros y evaluar riesgos de forma sistem\u00e1tica para establecer medidas de control efectivas."
+        },
+        {
+          "text": "El registro de accidentes",
+          "isCorrect": false,
+          "rationale": "Este documento es reactivo, ya que registra lo sucedido, mientras que la base t\u00e9cnica debe ser eminentemente preventiva."
+        },
+        {
+          "text": "El contrato de trabajo",
+          "isCorrect": false,
+          "rationale": "El contrato establece el v\u00ednculo laboral, pero no define los protocolos t\u00e9cnicos de seguridad para las tareas espec\u00edficas."
+        }
+      ],
+      "hint": "Sus siglas corresponden a la Identificaci\u00f3n de Peligros, Evaluaci\u00f3n de Riesgos y Medidas de Control."
+    },
+    {
+      "question": "\u00bfCu\u00e1nto tiempo tiene el empleador para permitir el ingreso de un inspector de SUNAFIL antes de que se considere obstrucci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "$5$ minutos",
+          "isCorrect": false,
+          "rationale": "Aunque la rapidez es clave, el marco legal otorga un margen ligeramente superior antes de calificar la infracci\u00f3n."
+        },
+        {
+          "text": "$10$ minutos",
+          "isCorrect": true,
+          "rationale": "Superar este tiempo de espera sin justificaci\u00f3n activa autom\u00e1ticamente una sanci\u00f3n por obstrucci\u00f3n a la labor inspectiva."
+        },
+        {
+          "text": "$20$ minutos",
+          "isCorrect": false,
+          "rationale": "Este tiempo se considera excesivo y permitir\u00eda a la empresa alterar la escena de trabajo o la documentaci\u00f3n antes del ingreso."
+        },
+        {
+          "text": "$30$ minutos",
+          "isCorrect": false,
+          "rationale": "La normativa es implacable y no permite retrasos tan prolongados que bloqueen la tutela preventiva del Estado."
+        }
+      ],
+      "hint": "Es un intervalo de tiempo muy breve dise\u00f1ado para evitar que se 'arreglen' las cosas internamente ante la llegada de la autoridad."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factores se utilizan para calcular el monto de las sanciones econ\u00f3micas impuestas por SUNAFIL?",
+      "answerOptions": [
+        {
+          "text": "Solo el valor de la $UIT$ vigente",
+          "isCorrect": false,
+          "rationale": "La $UIT$ es la unidad de medida, pero el c\u00e1lculo requiere variables adicionales relacionadas con la falta espec\u00edfica."
+        },
+        {
+          "text": "Gravedad de la falta y antig\u00fcedad de la empresa",
+          "isCorrect": false,
+          "rationale": "La antig\u00fcedad de la empresa no influye en la multa; lo que importa es el impacto del riesgo en los trabajadores actuales."
+        },
+        {
+          "text": "$UIT$, gravedad de la falta y n\u00famero de trabajadores afectados",
+          "isCorrect": true,
+          "rationale": "Estos tres componentes aseguran que la multa sea proporcional al da\u00f1o potencial y al tama\u00f1o de la poblaci\u00f3n en riesgo."
+        },
+        {
+          "text": "Ingresos anuales y n\u00famero de sucursales",
+          "isCorrect": false,
+          "rationale": "El sistema se basa en la protecci\u00f3n del trabajador afectado y no directamente en el patrimonio total de la organizaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en una f\u00f3rmula multivariable que incluye la unidad impositiva, la severidad del incumplimiento y el alcance del personal."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la duraci\u00f3n establecida para el descanso por maternidad (pre y postnatal)?",
+      "answerOptions": [
+        {
+          "text": "$90$ d\u00edas",
+          "isCorrect": false,
+          "rationale": "Esta cifra es una aproximaci\u00f3n com\u00fan, pero no coincide con la precisi\u00f3n de los d\u00edas calendario otorgados por ley."
+        },
+        {
+          "text": "$98$ d\u00edas",
+          "isCorrect": true,
+          "rationale": "Es el periodo legalmente protegido para garantizar la salud de la madre y el reci\u00e9n nacido en circunstancias normales."
+        },
+        {
+          "text": "$120$ d\u00edas",
+          "isCorrect": false,
+          "rationale": "Este periodo solo se alcanzar\u00eda en casos especiales de partos m\u00faltiples, no como norma general para todos los embarazos."
+        },
+        {
+          "text": "$180$ d\u00edas",
+          "isCorrect": false,
+          "rationale": "Aunque existen licencias extendidas en otros contextos, la normativa de seguridad laboral est\u00e1ndar fija un l\u00edmite menor."
+        }
+      ],
+      "hint": "Es un n\u00famero ligeramente menor a cien que se reparte entre las etapas anterior y posterior al parto."
+    },
+    {
+      "question": "\u00bfBajo qu\u00e9 condici\u00f3n es obligatoria la implementaci\u00f3n de un lactario en el centro de trabajo?",
+      "answerOptions": [
+        {
+          "text": "Si hay al menos una madre lactante",
+          "isCorrect": false,
+          "rationale": "La obligaci\u00f3n es preventiva y se basa en el potencial demogr\u00e1fico de la empresa, no solo en la situaci\u00f3n actual de una empleada."
+        },
+        {
+          "text": "Si la empresa tiene m\u00e1s de $50$ trabajadores en total",
+          "isCorrect": false,
+          "rationale": "El criterio no es el total de la planilla, sino el n\u00famero espec\u00edfico de mujeres que podr\u00edan requerir el servicio."
+        },
+        {
+          "text": "Si laboran $20$ o m\u00e1s mujeres en edad f\u00e9rtil",
+          "isCorrect": true,
+          "rationale": "Este umbral poblacional busca garantizar que existan condiciones de higiene y privacidad para la lactancia de forma permanente."
+        },
+        {
+          "text": "Solo si lo solicita el sindicato",
+          "isCorrect": false,
+          "rationale": "La implementaci\u00f3n de infraestructuras b\u00e1sicas de salud es un mandato legal y no depende de negociaciones colectivas."
+        }
+      ],
+      "hint": "Considere un n\u00famero espec\u00edfico de mujeres en un rango de edad con capacidad reproductiva."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede con un trabajador cuya capacidad ha sido afectada por un accidente laboral si no puede retomar su puesto original?",
+      "answerOptions": [
+        {
+          "text": "Debe ser despedido con indemnizaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "El despido por discapacidad sobrevenida por el trabajo atenta contra la dignidad y la protecci\u00f3n legal del empleado."
+        },
+        {
+          "text": "Debe ser reubicado en un puesto de menor riesgo",
+          "isCorrect": true,
+          "rationale": "El empleador tiene la obligaci\u00f3n de adaptar o cambiar el puesto para garantizar la reinserci\u00f3n digna del trabajador."
+        },
+        {
+          "text": "Se le debe reducir el sueldo proporcionalmente",
+          "isCorrect": false,
+          "rationale": "La ley proh\u00edbe que la reubicaci\u00f3n por motivos de salud sea una excusa para afectar negativamente la remuneraci\u00f3n."
+        },
+        {
+          "text": "Debe pasar a jubilaci\u00f3n anticipada obligatoria",
+          "isCorrect": false,
+          "rationale": "La prioridad del sistema es la rehabilitaci\u00f3n y la continuidad laboral en condiciones seguras y productivas."
+        }
+      ],
+      "hint": "Busque la opci\u00f3n que promueva la continuidad del v\u00ednculo laboral mediante la adaptaci\u00f3n del entorno."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de los siguientes es uno de los cuatro pilares para que un concepto sea considerado 'condici\u00f3n de trabajo' y no remuneraci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Rentabilidad",
+          "isCorrect": false,
+          "rationale": "La capacidad de generar ganancias no es un criterio legal para definir la naturaleza de una herramienta de trabajo."
+        },
+        {
+          "text": "Razonabilidad",
+          "isCorrect": true,
+          "rationale": "El monto o valor otorgado debe ser l\u00f3gico y coherente con la funci\u00f3n que el trabajador desempe\u00f1a."
+        },
+        {
+          "text": "Antig\u00fcedad",
+          "isCorrect": false,
+          "rationale": "El tiempo que un trabajador lleva en la empresa no determina si un equipo es necesario para sus tareas."
+        },
+        {
+          "text": "Exclusividad",
+          "isCorrect": false,
+          "rationale": "Aunque un equipo sea de uso exclusivo, los pilares legales se centran en la necesidad, proporcionalidad, temporalidad y l\u00f3gica del monto."
+        }
+      ],
+      "hint": "Se refiere a que el valor entregado debe tener sentido com\u00fan y l\u00f3gica respecto a la tarea asignada."
+    },
+    {
+      "question": "\u00bfQu\u00e9 dolencia es un ejemplo com\u00fan de riesgo ergon\u00f3mico en entornos de oficina?",
+      "answerOptions": [
+        {
+          "text": "S\u00edndrome del t\u00fanel carpiano",
+          "isCorrect": true,
+          "rationale": "Esta es una afecci\u00f3n recurrente causada por movimientos repetitivos y posturas inadecuadas frente al computador."
+        },
+        {
+          "text": "Hipoacusia inducida por ruido",
+          "isCorrect": false,
+          "rationale": "Este es un riesgo t\u00edpico de sectores industriales con maquinaria pesada, no necesariamente del entorno ergon\u00f3mico de oficina."
+        },
+        {
+          "text": "Silicosis",
+          "isCorrect": false,
+          "rationale": "Es una enfermedad pulmonar causada por inhalaci\u00f3n de polvo de s\u00edlice, com\u00fan en miner\u00eda pero ajena a la ergonom\u00eda administrativa."
+        },
+        {
+          "text": "Dermatitis de contacto",
+          "isCorrect": false,
+          "rationale": "Suele originarse por la exposici\u00f3n a agentes qu\u00edmicos, mientras que los riesgos ergon\u00f3micos se vinculan con la postura y el dise\u00f1o del espacio."
+        }
+      ],
+      "hint": "Es una afecci\u00f3n que afecta la mu\u00f1eca y la mano debido al uso prolongado de perif\u00e9ricos sin apoyo adecuado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la edad m\u00ednima permitida para trabajar en el sector de miner\u00eda bajo autorizaci\u00f3n expresa?",
+      "answerOptions": [
+        {
+          "text": "$14$ a\u00f1os",
+          "isCorrect": false,
+          "rationale": "A esta edad se permiten ciertos trabajos ligeros, pero la miner\u00eda es un sector de alto riesgo con l\u00edmites m\u00e1s elevados."
+        },
+        {
+          "text": "$15$ a\u00f1os",
+          "isCorrect": true,
+          "rationale": "Es el l\u00edmite inferior establecido para este sector espec\u00edfico, siempre que cuente con el permiso del Ministerio de Trabajo."
+        },
+        {
+          "text": "$18$ a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Si bien la mayor\u00eda de edad es lo ideal, la ley permite excepciones controladas a partir de una edad menor bajo supervisi\u00f3n."
+        },
+        {
+          "text": "$21$ a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Este rango de edad no figura como l\u00edmite m\u00ednimo en las tablas de protecci\u00f3n de grupos vulnerables para este sector."
+        }
+      ],
+      "hint": "Es un a\u00f1o despu\u00e9s de la edad m\u00ednima general para el empleo protegido en otros rubros menos peligrosos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 documento registra cronol\u00f3gicamente los eventos de salud negativos para ser presentados ante una inspecci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Registro de accidentes e incidentes",
+          "isCorrect": true,
+          "rationale": "Es vital para el rastreo de causas y la implementaci\u00f3n de medidas correctivas que eviten la repetici\u00f3n de tragedias."
+        },
+        {
+          "text": "Plan de vigilancia sanitaria",
+          "isCorrect": false,
+          "rationale": "Este plan se enfoca en brotes end\u00e9micos o epid\u00e9micos, no necesariamente en el historial cronol\u00f3gico de accidentes traum\u00e1ticos."
+        },
+        {
+          "text": "Libro de reclamaciones",
+          "isCorrect": false,
+          "rationale": "Este documento es para la atenci\u00f3n al consumidor y no forma parte del sistema de gesti\u00f3n de seguridad laboral."
+        },
+        {
+          "text": "Manual de funciones ($MOF$)",
+          "isCorrect": false,
+          "rationale": "El $MOF$ describe responsabilidades del puesto, pero no contiene la evidencia tangible de los siniestros ocurridos."
+        }
+      ],
+      "hint": "Es el soporte vital donde se anotan detalladamente los sucesos que afectaron la integridad f\u00edsica del personal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede si una empresa entrega bonos de movilidad elevados sin sustento ni proporcionalidad?",
+      "answerOptions": [
+        {
+          "text": "Se consideran condici\u00f3n de trabajo exenta de impuestos",
+          "isCorrect": false,
+          "rationale": "Sin sustento, la autoridad tributaria y laboral asume que el monto tiene un prop\u00f3sito distinto al operativo."
+        },
+        {
+          "text": "Pasan a ser calificados como remuneraci\u00f3n",
+          "isCorrect": true,
+          "rationale": "Al no cumplir con los pilares de proporcionalidad y necesidad, el monto se integra al c\u00e1lculo de beneficios sociales como gratificaciones."
+        },
+        {
+          "text": "Son considerados una donaci\u00f3n voluntaria",
+          "isCorrect": false,
+          "rationale": "En el derecho laboral, los pagos recurrentes asociados al trabajo rara vez se interpretan como donaciones sin impacto en la n\u00f3mina."
+        },
+        {
+          "text": "El trabajador debe devolver el excedente a la empresa",
+          "isCorrect": false,
+          "rationale": "El error de gesti\u00f3n administrativa no obliga al trabajador a devolver montos percibidos de buena fe."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el incumplimiento de los pilares de la 'condici\u00f3n de trabajo' afecta el c\u00e1lculo de la $CTS$."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el \u00e1rea m\u00ednima requerida para un lactario institucional seg\u00fan la normativa?",
+      "answerOptions": [
+        {
+          "text": "$5.0$ $m^2$",
+          "isCorrect": false,
+          "rationale": "Este espacio se considera insuficiente para garantizar la comodidad y los requisitos de mobiliario del lactario."
+        },
+        {
+          "text": "$7.5$ $m^2$",
+          "isCorrect": true,
+          "rationale": "Es el metraje m\u00ednimo que asegura condiciones dignas de privacidad, higiene y circulaci\u00f3n interna."
+        },
+        {
+          "text": "$10.0$ $m^2$",
+          "isCorrect": false,
+          "rationale": "Aunque un espacio mayor es preferible, el requisito legal m\u00ednimo exigible es menor a esta cifra."
+        },
+        {
+          "text": "$15.0$ $m^2$",
+          "isCorrect": false,
+          "rationale": "Esta dimensi\u00f3n exceder\u00eda los est\u00e1ndares m\u00ednimos de infraestructura b\u00e1sica solicitados por la ley para empresas peque\u00f1as."
+        }
+      ],
+      "hint": "Es una cifra decimal que se encuentra entre los siete y los ocho metros cuadrados."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta digital permite a los trabajadores reportar incumplimientos o verificar su estado en planilla de forma an\u00f3nima?",
+      "answerOptions": [
+        {
+          "text": "Consulta RUC",
+          "isCorrect": false,
+          "rationale": "Esta herramienta sirve para verificar datos tributarios de empresas, no el estado laboral individual del trabajador."
+        },
+        {
+          "text": "Verifica tu Chamba",
+          "isCorrect": true,
+          "rationale": "Es una aplicaci\u00f3n virtual de SUNAFIL dise\u00f1ada para empoderar al trabajador y detectar la informalidad con precisi\u00f3n."
+        },
+        {
+          "text": "Portal del Empleo",
+          "isCorrect": false,
+          "rationale": "Se orienta a la b\u00fasqueda de vacantes y capacitaci\u00f3n, no a la fiscalizaci\u00f3n o reporte de irregularidades."
+        },
+        {
+          "text": "Denuncia Civil",
+          "isCorrect": false,
+          "rationale": "Este es un proceso judicial general y no una herramienta espec\u00edfica de inteligencia sanitaria o laboral r\u00e1pida."
+        }
+      ],
+      "hint": "Su nombre utiliza un t\u00e9rmino coloquial peruano para referirse al trabajo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 infracci\u00f3n se considera 'Muy Grave' en el sistema sancionador?",
+      "answerOptions": [
+        {
+          "text": "Errores de digitaci\u00f3n en los registros",
+          "isCorrect": false,
+          "rationale": "Los errores formales que no ponen en riesgo la vida suelen categorizarse como infracciones leves."
+        },
+        {
+          "text": "No entregar el Reglamento Interno a tiempo",
+          "isCorrect": false,
+          "rationale": "Aunque es una falta, usualmente se clasifica como grave pero no alcanza el nivel de amenaza directa a la vida."
+        },
+        {
+          "text": "Trabajo en altura sin sistemas antica\u00eddas",
+          "isCorrect": true,
+          "rationale": "Exponer al personal a riesgos mortales inminentes sin protecci\u00f3n es una de las faltas m\u00e1s severas del ordenamiento."
+        },
+        {
+          "text": "Retraso en la entrega de boletas de pago",
+          "isCorrect": false,
+          "rationale": "Este es un incumplimiento de car\u00e1cter administrativo-econ\u00f3mico, no un riesgo de seguridad de categor\u00eda muy grave."
+        }
+      ],
+      "hint": "Enfoque su elecci\u00f3n en aquellas conductas que representan una amenaza directa e inmediata a la vida o integridad f\u00edsica."
+    },
+    {
+      "question": "\u00bfBajo qu\u00e9 principio el empleador asume el $100\\%$ de los costos de un accidente incluso si ocurre fuera de la empresa cumpliendo \u00f3rdenes?",
+      "answerOptions": [
+        {
+          "text": "Principio de Cooperaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Este principio trata sobre la sinergia entre Estado y empleadores, no sobre la carga econ\u00f3mica individual."
+        },
+        {
+          "text": "Principio de Responsabilidad",
+          "isCorrect": true,
+          "rationale": "Dictamina que el empleador es el garante final de los da\u00f1os econ\u00f3micos y legales derivados de la labor encomendada."
+        },
+        {
+          "text": "Principio de Consulta",
+          "isCorrect": false,
+          "rationale": "Se refiere al di\u00e1logo sociolaboral para identificar peligros y no a la asunci\u00f3n de costos por siniestros."
+        },
+        {
+          "text": "Principio de Atenci\u00f3n Integral",
+          "isCorrect": false,
+          "rationale": "Se enfoca en el derecho del trabajador a recibir salud, pero la asunci\u00f3n de costos totales por parte de la empresa es un concepto de responsabilidad legal."
+        }
+      ],
+      "hint": "Es el principio que garantiza que el trabajador no deba costear las consecuencias de un riesgo al que fue expuesto por \u00f3rdenes superiores."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Principios de la Ley 29783",
+      "Fiscalizaci\u00f3n Laboral (SUNAFIL)",
+      "Protecci\u00f3n de Grupos Vulnerables",
+      "Gesti\u00f3n de Riesgos y Documentaci\u00f3n Obligatoria",
+      "Condiciones de Trabajo y Remuneraci\u00f3n",
+      "Ergonom\u00eda y Salud Ocupacional"
+    ],
+    "followUp": [
+      "Implementaci\u00f3n de la norma ISO 45001 en el marco peruano",
+      "Procedimientos espec\u00edficos para la elecci\u00f3n de representantes ante el comit\u00e9 de SST",
+      "Metodolog\u00edas detalladas para la elaboraci\u00f3n de la matriz IPERC",
+      "Jurisprudencia del Tribunal de Fiscalizaci\u00f3n Laboral sobre medidas correctivas",
+      "Est\u00e1ndares t\u00e9cnicos de ventilaci\u00f3n e iluminaci\u00f3n en el puesto de trabajo"
+    ]
+  }
+}

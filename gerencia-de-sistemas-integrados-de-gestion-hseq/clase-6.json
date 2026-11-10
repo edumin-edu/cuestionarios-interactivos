@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l fue el hito t\u00e9cnico alcanzado en 1919 tras intensas luchas obreras en los sectores textil y portuario?",
+      "answerOptions": [
+        {
+          "text": "La creaci\u00f3n del Seguro Social Obrero",
+          "isCorrect": false,
+          "rationale": "Esta instituci\u00f3n se fund\u00f3 d\u00e9cadas despu\u00e9s, espec\u00edficamente tras el fin de la Segunda Guerra Mundial."
+        },
+        {
+          "text": "La abolici\u00f3n de la esclavitud ind\u00edgena",
+          "isCorrect": false,
+          "rationale": "Este evento ocurri\u00f3 mucho antes, a mediados del siglo XIX, sentando las bases de los derechos humanos b\u00e1sicos."
+        },
+        {
+          "text": "La conquista de la jornada laboral de 8 horas",
+          "isCorrect": true,
+          "rationale": "Este hito estableci\u00f3 por primera vez un l\u00edmite t\u00e9cnico real a la duraci\u00f3n del trabajo diario en el pa\u00eds."
+        },
+        {
+          "text": "La promulgaci\u00f3n de la Ley 29783",
+          "isCorrect": false,
+          "rationale": "Esta ley es un marco normativo contempor\u00e1neo del siglo XXI, no de principios del siglo XX."
+        }
+      ],
+      "hint": "Considere el l\u00edmite de tiempo diario que hoy es est\u00e1ndar en la mayor\u00eda de los contratos laborales."
+    },
+    {
+      "question": "Dentro de la arquitectura de la norma ISO 45001, \u00bfqu\u00e9 objetivo principal tiene la Estructura de Alto Nivel (HLS)?",
+      "answerOptions": [
+        {
+          "text": "Establecer sanciones econ\u00f3micas estrictas",
+          "isCorrect": false,
+          "rationale": "La norma se enfoca en la gesti\u00f3n y prevenci\u00f3n, no en la definici\u00f3n de multas o penalidades legales."
+        },
+        {
+          "text": "Integrar diferentes sistemas de gesti\u00f3n eliminando silos",
+          "isCorrect": true,
+          "rationale": "Permite que las normas de calidad, medio ambiente y seguridad operen bajo una base com\u00fan y coordinada."
+        },
+        {
+          "text": "Sustituir por completo a la Ley 29783",
+          "isCorrect": false,
+          "rationale": "La ISO es un est\u00e1ndar internacional voluntario que complementa, pero no reemplaza, el marco legal nacional."
+        },
+        {
+          "text": "Documentar exclusivamente los accidentes ocurridos",
+          "isCorrect": false,
+          "rationale": "El enfoque es preventivo y proactivo, no solamente un registro hist\u00f3rico de eventos negativos."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo se pueden unir la seguridad, la calidad y el medio ambiente en un solo sistema."
+    },
+    {
+      "question": "\u00bfQu\u00e9 cl\u00e1usula de la ISO 45001 es considerada el 'coraz\u00f3n del sistema' al exigir compromiso de la gerencia y consulta con los trabajadores?",
+      "answerOptions": [
+        {
+          "text": "Cl\u00e1usula 2: Referencias normativas",
+          "isCorrect": false,
+          "rationale": "Esta secci\u00f3n es de car\u00e1cter informativo y, curiosamente, no contiene referencias espec\u00edficas en esta norma."
+        },
+        {
+          "text": "Cl\u00e1usula 5: Liderazgo",
+          "isCorrect": true,
+          "rationale": "El liderazgo es el eje central que impulsa la participaci\u00f3n y asegura los recursos para todo el sistema."
+        },
+        {
+          "text": "Cl\u00e1usula 8: Operaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Aunque es vital para el control diario, depende directamente de la direcci\u00f3n y el compromiso previo."
+        },
+        {
+          "text": "Cl\u00e1usula 10: Mejora",
+          "isCorrect": false,
+          "rationale": "Esta es la etapa final del ciclo de gesti\u00f3n, encargada de cerrar brechas basadas en el desempe\u00f1o."
+        }
+      ],
+      "hint": "Busque el elemento que gu\u00eda y dirige a toda la organizaci\u00f3n desde sus niveles m\u00e1s altos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la posici\u00f3n de los Equipos de Protecci\u00f3n Personal (EPP) dentro de la jerarqu\u00eda de controles de seguridad?",
+      "answerOptions": [
+        {
+          "text": "Primera l\u00ednea de defensa",
+          "isCorrect": false,
+          "rationale": "La metodolog\u00eda prioriza atacar la fuente del riesgo antes de proteger individualmente al trabajador."
+        },
+        {
+          "text": "Control de ingenier\u00eda prioritario",
+          "isCorrect": false,
+          "rationale": "Los controles de ingenier\u00eda modifican el entorno, mientras que los EPP solo act\u00faan sobre el individuo."
+        },
+        {
+          "text": "\u00daltimo eslab\u00f3n de la cadena",
+          "isCorrect": true,
+          "rationale": "Se consideran la barrera final cuando no ha sido posible eliminar o mitigar el riesgo mediante otros m\u00e9todos."
+        },
+        {
+          "text": "Sustituci\u00f3n t\u00e9cnica del riesgo",
+          "isCorrect": false,
+          "rationale": "La sustituci\u00f3n implica cambiar un elemento peligroso por uno que no lo sea, no usar una barrera f\u00edsica."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 medida se aplica cuando todas las dem\u00e1s opciones de dise\u00f1o fallan o son insuficientes."
+    },
+    {
+      "question": "En el contexto de la gesti\u00f3n de seguridad moderna, \u00bfqu\u00e9 nuevo estatus adquiere el trabajador?",
+      "answerOptions": [
+        {
+          "text": "Sujeto pasivo de protecci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Este es un enfoque anticuado donde el trabajador solo recib\u00eda \u00f3rdenes sin participar activamente."
+        },
+        {
+          "text": "Experto operativo",
+          "isCorrect": true,
+          "rationale": "Al estar en el terreno, se le reconoce como la fuente m\u00e1s confiable para identificar fallas cr\u00edticas y proponer mejoras."
+        },
+        {
+          "text": "Auditor externo del sistema",
+          "isCorrect": false,
+          "rationale": "Los auditores externos son entes independientes; el trabajador es una parte interna fundamental del proceso."
+        },
+        {
+          "text": "Responsable legal \u00fanico",
+          "isCorrect": false,
+          "rationale": "La responsabilidad legal es compartida y recae principalmente en la alta direcci\u00f3n de la organizaci\u00f3n."
+        }
+      ],
+      "hint": "Reflexione sobre qui\u00e9n conoce mejor los riesgos reales de una tarea por realizarla todos los d\u00edas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00eda permite aplicar la c\u00faspide de la jerarqu\u00eda de controles al eliminar el riesgo de ca\u00eddas en inspecciones de altura?",
+      "answerOptions": [
+        {
+          "text": "Arneses de \u00faltima generaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "El arn\u00e9s es un EPP que mitiga el da\u00f1o de la ca\u00edda, pero no elimina el hecho de que el humano debe subir."
+        },
+        {
+          "text": "Sensores de fatiga",
+          "isCorrect": false,
+          "rationale": "Esta tecnolog\u00eda se utiliza principalmente en transporte para monitorear biometr\u00eda, no para trabajos en altura."
+        },
+        {
+          "text": "Uso de drones",
+          "isCorrect": true,
+          "rationale": "Al delegar la tarea f\u00edsica a un veh\u00edculo no tripulado, se elimina por completo la necesidad de que una persona se exponga a la altura."
+        },
+        {
+          "text": "L\u00edneas de vida automatizadas",
+          "isCorrect": false,
+          "rationale": "Siguen siendo medidas de protecci\u00f3n para una persona que est\u00e1 f\u00edsicamente en un lugar peligroso."
+        }
+      ],
+      "hint": "Piense en un dispositivo volador que puede ver lo que un humano ver\u00eda sin necesidad de subir."
+    },
+    {
+      "question": "Seg\u00fan la evidencia emp\u00edrica de implementaci\u00f3n de sistemas de seguridad, \u00bfcu\u00e1l es el incremento promedio en la productividad operativa?",
+      "answerOptions": [
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es un avance positivo, los datos muestran un impacto mucho m\u00e1s profundo en el rendimiento industrial."
+        },
+        {
+          "text": "$41.1\\%$",
+          "isCorrect": true,
+          "rationale": "Este aumento se logra al eliminar tiempos muertos por accidentes y elevar la moral y eficiencia del equipo."
+        },
+        {
+          "text": "$62.5\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje corresponde espec\u00edficamente a la reducci\u00f3n de costos por bajas laborales, no al aumento de productividad."
+        },
+        {
+          "text": "$100\\%$",
+          "isCorrect": false,
+          "rationale": "Duplicar la productividad es una meta te\u00f3rica extrema que no refleja los promedios industriales medidos."
+        }
+      ],
+      "hint": "Busque un valor superior al cuarenta por ciento que refleja el impacto de un entorno controlado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 enfermedad degenerativa del sector minero se combate mediante controles de ingenier\u00eda como la ventilaci\u00f3n automatizada?",
+      "answerOptions": [
+        {
+          "text": "Estr\u00e9s laboral",
+          "isCorrect": false,
+          "rationale": "El estr\u00e9s es un riesgo psicosocial com\u00fan en el sector servicios, no una patolog\u00eda pulmonar por inhalaci\u00f3n."
+        },
+        {
+          "text": "Trastornos m\u00fasculoesquel\u00e9ticos",
+          "isCorrect": false,
+          "rationale": "Estos se relacionan con la ergonom\u00eda y posturas, no con la calidad del aire en los socavones."
+        },
+        {
+          "text": "Silicosis",
+          "isCorrect": true,
+          "rationale": "Es causada por inhalar s\u00edlice cristalina, la cual da\u00f1a los pulmones actuando como part\u00edculas de vidrio molido."
+        },
+        {
+          "text": "Fatiga cr\u00f3nica",
+          "isCorrect": false,
+          "rationale": "Se gestiona mediante control de jornadas y sensores biom\u00e9tricos, no principalmente con ventilaci\u00f3n."
+        }
+      ],
+      "hint": "Se trata de una afecci\u00f3n pulmonar grave causada por el polvo de piedra."
+    },
+    {
+      "question": "En el ciclo PHBA, \u00bfen qu\u00e9 etapa se implementan los procesos dise\u00f1ados y se asegura la competencia t\u00e9cnica del personal?",
+      "answerOptions": [
+        {
+          "text": "Planificar",
+          "isCorrect": false,
+          "rationale": "En esta etapa se establecen los objetivos y se eval\u00faan los riesgos, pero a\u00fan no se ejecutan las acciones."
+        },
+        {
+          "text": "Hacer",
+          "isCorrect": true,
+          "rationale": "Es el momento de la ejecuci\u00f3n operativa y puesta en marcha de lo establecido en el plan."
+        },
+        {
+          "text": "Verificar",
+          "isCorrect": false,
+          "rationale": "Esta fase se centra en el monitoreo y la medici\u00f3n de los resultados contra los objetivos iniciales."
+        },
+        {
+          "text": "Actuar",
+          "isCorrect": false,
+          "rationale": "Se enfoca en la toma de decisiones para corregir desviaciones y mejorar el desempe\u00f1o futuro."
+        }
+      ],
+      "hint": "Es la fase que sigue inmediatamente despu\u00e9s de la planificaci\u00f3n y se asocia con la ejecuci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio estrat\u00e9gico otorga la certificaci\u00f3n ISO 45001 en el \u00e1mbito del comercio internacional?",
+      "answerOptions": [
+        {
+          "text": "Exenci\u00f3n total de impuestos de exportaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Los beneficios tributarios dependen de tratados comerciales y leyes fiscales, no de normas ISO de seguridad."
+        },
+        {
+          "text": "Acceso a mercados premium en Europa y EE.UU.",
+          "isCorrect": true,
+          "rationale": "Funciona como un pasaporte t\u00e9cnico que garantiza a los compradores globales que el proveedor cumple est\u00e1ndares \u00e9ticos."
+        },
+        {
+          "text": "Eliminaci\u00f3n de la necesidad de auditor\u00edas",
+          "isCorrect": false,
+          "rationale": "Al contrario, la norma exige auditor\u00edas peri\u00f3dicas para mantener su validez y certificaci\u00f3n."
+        },
+        {
+          "text": "Garant\u00eda de precios de venta m\u00e1s bajos",
+          "isCorrect": false,
+          "rationale": "La norma busca seguridad y calidad; los precios son determinados por el mercado y la estructura de costos."
+        }
+      ],
+      "hint": "Considere qu\u00e9 buscan las grandes empresas internacionales en sus proveedores para asegurar una cadena de suministro \u00e9tica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue el impacto de la pandemia entre 2020 y 2025 en la normativa de seguridad laboral?",
+      "answerOptions": [
+        {
+          "text": "La prohibici\u00f3n definitiva del trabajo presencial",
+          "isCorrect": false,
+          "rationale": "El trabajo presencial continu\u00f3 en sectores cr\u00edticos; lo que ocurri\u00f3 fue una regulaci\u00f3n de modalidades alternativas."
+        },
+        {
+          "text": "El auge de la ergonom\u00eda digital y el teletrabajo",
+          "isCorrect": true,
+          "rationale": "La seguridad tuvo que trasladarse al hogar, enfoc\u00e1ndose en la salud mental y el entorno de pantallas."
+        },
+        {
+          "text": "La suspensi\u00f3n de la Ley 29783",
+          "isCorrect": false,
+          "rationale": "La ley no se suspendi\u00f3; por el contrario, su cumplimiento se volvi\u00f3 m\u00e1s cr\u00edtico ante los nuevos riesgos biol\u00f3gicos."
+        },
+        {
+          "text": "La eliminaci\u00f3n de los controles de ingenier\u00eda",
+          "isCorrect": false,
+          "rationale": "Los controles de ingenier\u00eda, como la ventilaci\u00f3n, se volvieron m\u00e1s importantes que nunca durante la crisis sanitaria."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo cambi\u00f3 el lugar de trabajo para millones de personas y los nuevos riesgos que aparecieron en casa."
+    },
+    {
+      "question": "En el an\u00e1lisis financiero, \u00bfqu\u00e9 porcentaje de reducci\u00f3n se observa en el costo anual por bajas laborales tras optimizar el sistema?",
+      "answerOptions": [
+        {
+          "text": "$41.1\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es el aumento de productividad, no la reducci\u00f3n de costos por ausentismo."
+        },
+        {
+          "text": "$62.5\\%$",
+          "isCorrect": true,
+          "rationale": "Esta cifra representa el desplome masivo de gastos cuando los trabajadores dejan de enfermarse o accidentarse."
+        },
+        {
+          "text": "$25\\%$",
+          "isCorrect": false,
+          "rationale": "Es una cifra demasiado conservadora frente al impacto real que documenta la maduraci\u00f3n de estos sistemas."
+        },
+        {
+          "text": "$85\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque la reducci\u00f3n es alta, este valor excede los promedios industriales reportados por la implementaci\u00f3n est\u00e1ndar."
+        }
+      ],
+      "hint": "Es un valor que supera la mitad del costo original, cayendo de promedios de $\\$120,000$ a $\\$45,000$."
+    },
+    {
+      "question": "\u00bfQu\u00e9 entidad estatal peruana realiza las fiscalizaciones que una organizaci\u00f3n puede superar m\u00e1s f\u00e1cilmente gracias a la ISO 45001?",
+      "answerOptions": [
+        {
+          "text": "Sunat",
+          "isCorrect": false,
+          "rationale": "Esta entidad se encarga de la recaudaci\u00f3n de impuestos, no de la supervisi\u00f3n de la seguridad laboral."
+        },
+        {
+          "text": "Sunafil",
+          "isCorrect": true,
+          "rationale": "Es el organismo responsable de fiscalizar el cumplimiento de las normas sociolaborales y de seguridad en el trabajo."
+        },
+        {
+          "text": "Indecopi",
+          "isCorrect": false,
+          "rationale": "Se enfoca en la defensa del consumidor y la propiedad intelectual, no en la seguridad de los trabajadores."
+        },
+        {
+          "text": "Osinergmin",
+          "isCorrect": false,
+          "rationale": "Aunque supervisa seguridad en miner\u00eda y energ\u00eda, la fiscalizaci\u00f3n laboral general corresponde a otra entidad."
+        }
+      ],
+      "hint": "Busque la superintendencia que vigila el cumplimiento de los derechos de los trabajadores en Per\u00fa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 \u00e1rea espec\u00edfica de la seguridad se volvi\u00f3 prioritaria en el sector servicios con la modernizaci\u00f3n de los sistemas?",
+      "answerOptions": [
+        {
+          "text": "Protecci\u00f3n contra explosiones",
+          "isCorrect": false,
+          "rationale": "Este riesgo es propio de industrias pesadas o qu\u00edmicas, no del entorno t\u00edpico de oficinas o servicios."
+        },
+        {
+          "text": "Gesti\u00f3n del estr\u00e9s y salud mental",
+          "isCorrect": true,
+          "rationale": "La norma moderna reconoce que el bienestar psicol\u00f3gico es tan cr\u00edtico como la integridad f\u00edsica."
+        },
+        {
+          "text": "Uso de l\u00edneas de vida",
+          "isCorrect": false,
+          "rationale": "Las l\u00edneas de vida son esenciales en construcci\u00f3n, pero poco comunes en el sector de servicios administrativos."
+        },
+        {
+          "text": "Ventilaci\u00f3n de socabones",
+          "isCorrect": false,
+          "rationale": "Este es un control de ingenier\u00eda espec\u00edfico para la miner\u00eda subterr\u00e1nea."
+        }
+      ],
+      "hint": "Considere los riesgos que afectan el bienestar emocional y mental en entornos de oficina."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de la Cl\u00e1usula 6 en el ciclo de mejora continua de la norma?",
+      "answerOptions": [
+        {
+          "text": "Identificar riesgos y oportunidades proactivamente",
+          "isCorrect": true,
+          "rationale": "Esta cl\u00e1usula obliga a la organizaci\u00f3n a planificar antes de que los eventos ocurran para mitigar peligros."
+        },
+        {
+          "text": "Realizar auditor\u00edas internas",
+          "isCorrect": false,
+          "rationale": "La evaluaci\u00f3n del desempe\u00f1o mediante auditor\u00edas es una funci\u00f3n de la cl\u00e1usula 9."
+        },
+        {
+          "text": "Gestionar la relaci\u00f3n con los contratistas",
+          "isCorrect": false,
+          "rationale": "El control de contratistas es una parte operativa detallada en la cl\u00e1usula 8."
+        },
+        {
+          "text": "Definir el glosario de t\u00e9rminos",
+          "isCorrect": false,
+          "rationale": "Los t\u00e9rminos y definiciones se encuentran en las secciones informativas iniciales (Cl\u00e1usula 3)."
+        }
+      ],
+      "hint": "Es la fase donde se mira hacia el futuro para prevenir incidentes mediante el dise\u00f1o de estrategias."
+    },
+    {
+      "question": "En la jerarqu\u00eda de controles, \u00bfen qu\u00e9 consiste la t\u00e9cnica de 'Sustituci\u00f3n'?",
+      "answerOptions": [
+        {
+          "text": "Colocar guardas de seguridad en las m\u00e1quinas",
+          "isCorrect": false,
+          "rationale": "Esto se clasifica como un control de ingenier\u00eda, ya que modifica el equipo pero el riesgo sigue ah\u00ed."
+        },
+        {
+          "text": "Cambiar un proceso o material peligroso por uno menos da\u00f1ino",
+          "isCorrect": true,
+          "rationale": "La sustituci\u00f3n busca reemplazar la fuente del peligro por una alternativa que sea intr\u00ednsecamente m\u00e1s segura."
+        },
+        {
+          "text": "Entregar respiradores a todo el personal",
+          "isCorrect": false,
+          "rationale": "El uso de respiradores es un Equipo de Protecci\u00f3n Personal, el nivel m\u00e1s bajo de la jerarqu\u00eda."
+        },
+        {
+          "text": "Reducir el tiempo de exposici\u00f3n al riesgo",
+          "isCorrect": false,
+          "rationale": "Esta medida se considera un control administrativo o de gesti\u00f3n del tiempo."
+        }
+      ],
+      "hint": "Imagine reemplazar un qu\u00edmico t\u00f3xico por uno que no cause da\u00f1o a la salud."
+    },
+    {
+      "question": "\u00bfQu\u00e9 hito hist\u00f3rico nacional represent\u00f3 el 'primer sistema estructural de protecci\u00f3n para el trabajador' en 1945?",
+      "answerOptions": [
+        {
+          "text": "La Constituci\u00f3n de 1979",
+          "isCorrect": false,
+          "rationale": "La constituci\u00f3n brind\u00f3 estabilidad laboral, pero el sistema estructural de seguridad social es anterior."
+        },
+        {
+          "text": "La creaci\u00f3n del Seguro Social Obrero",
+          "isCorrect": true,
+          "rationale": "Fue el salto de la teor\u00eda a una estructura tangible que brind\u00f3 cuidado y prevenci\u00f3n a nivel nacional."
+        },
+        {
+          "text": "La Ley de Accidentes de Trabajo",
+          "isCorrect": false,
+          "rationale": "Aunque importante, no constituy\u00f3 el sistema estructural masivo que signific\u00f3 el Seguro Social."
+        },
+        {
+          "text": "El inicio de la \u00e9poca republicana",
+          "isCorrect": false,
+          "rationale": "En el inicio de la rep\u00fablica (1821) a\u00fan persist\u00edan formas de servidumbre y falta de protecci\u00f3n t\u00e9cnica."
+        }
+      ],
+      "hint": "Piense en la instituci\u00f3n que naci\u00f3 para centralizar la salud y seguridad de los obreros tras la Segunda Guerra Mundial."
+    },
+    {
+      "question": "\u00bfQu\u00e9 aspecto cr\u00edtico se incluye en la Cl\u00e1usula 8 (Operaci\u00f3n) para asegurar la seguridad en toda la cadena de valor?",
+      "answerOptions": [
+        {
+          "text": "La planeaci\u00f3n presupuestaria anual",
+          "isCorrect": false,
+          "rationale": "El presupuesto es un soporte administrativo, mientras que la cl\u00e1usula 8 se enfoca en el control de actividades."
+        },
+        {
+          "text": "La gesti\u00f3n de contratistas",
+          "isCorrect": true,
+          "rationale": "Asegura que las empresas externas que operan en las instalaciones cumplan con los mismos est\u00e1ndares de seguridad."
+        },
+        {
+          "text": "La revisi\u00f3n por la direcci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La revisi\u00f3n de los resultados por parte de la alta gerencia es un requisito de la cl\u00e1usula 9."
+        },
+        {
+          "text": "El an\u00e1lisis del contexto externo",
+          "isCorrect": false,
+          "rationale": "El estudio del entorno legal y social se realiza en la etapa inicial de planificaci\u00f3n (Cl\u00e1usula 4)."
+        }
+      ],
+      "hint": "Reflexione sobre c\u00f3mo la empresa controla el riesgo de las personas que vienen de fuera a trabajar en su planta."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre la antigua norma OHSAS 18001 y la actual ISO 45001?",
+      "answerOptions": [
+        {
+          "text": "La ISO 45001 es de cumplimiento opcional y la OHSAS era obligatoria",
+          "isCorrect": false,
+          "rationale": "Ambos son est\u00e1ndares internacionales voluntarios; la obligatoriedad la definen las leyes nacionales."
+        },
+        {
+          "text": "La ISO 45001 coloca al liderazgo y participaci\u00f3n del trabajador en el centro",
+          "isCorrect": true,
+          "rationale": "Representa un cambio de paradigma de un modelo de \u00f3rdenes arriba-abajo a uno colaborativo y estrat\u00e9gico."
+        },
+        {
+          "text": "La OHSAS 18001 no permit\u00eda el uso de tecnolog\u00eda proactiva",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda puede usarse en cualquier modelo, pero la ISO 45001 la integra mejor estructuralmente."
+        },
+        {
+          "text": "La ISO 45001 elimina la necesidad de identificar riesgos",
+          "isCorrect": false,
+          "rationale": "Al contrario, la ISO 45001 profundiza y sistematiza la identificaci\u00f3n de riesgos y oportunidades."
+        }
+      ],
+      "hint": "Considere qui\u00e9nes son ahora los protagonistas activos del sistema de gesti\u00f3n frente al modelo anterior."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que la seguridad laboral ha pasado de ser una 'concesi\u00f3n graciosa' a un 'derecho t\u00e9cnico sistematizado'?",
+      "answerOptions": [
+        {
+          "text": "Porque ahora las empresas regalan m\u00e1s implementos de seguridad",
+          "isCorrect": false,
+          "rationale": "No se trata de obsequios, sino de una estructura cient\u00edfica y legalmente exigible."
+        },
+        {
+          "text": "Porque es el resultado de siglos de maduraci\u00f3n de los derechos sociales",
+          "isCorrect": true,
+          "rationale": "La seguridad hoy es una ciencia auditable y medible, fruto de una progresi\u00f3n hist\u00f3rica de luchas y leyes."
+        },
+        {
+          "text": "Porque la tecnolog\u00eda ha hecho que la seguridad sea gratuita",
+          "isCorrect": false,
+          "rationale": "La seguridad requiere inversi\u00f3n estrat\u00e9gica; la tecnolog\u00eda la hace m\u00e1s eficiente, no necesariamente gratuita."
+        },
+        {
+          "text": "Porque ya no existen riesgos en las industrias modernas",
+          "isCorrect": false,
+          "rationale": "Los riesgos siguen presentes; lo que ha cambiado es la sofisticaci\u00f3n t\u00e9cnica para prevenirlos y controlarlos."
+        }
+      ],
+      "hint": "Piense en la evoluci\u00f3n hist\u00f3rica desde la desprotecci\u00f3n colonial hasta las leyes obligatorias actuales."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Historia de los derechos laborales en Per\u00fa",
+      "Arquitectura y cl\u00e1usulas de la norma ISO 45001",
+      "Ciclo de mejora continua (PHBA) y jerarqu\u00eda de controles",
+      "Impacto financiero y productividad de la seguridad ocupacional",
+      "Tecnolog\u00eda e Industria 4.0 aplicada a la prevenci\u00f3n"
+    ],
+    "followUp": [
+      "Integraci\u00f3n de Sistemas de Gesti\u00f3n HSEQ (ISO 9001, 14001, 45001)",
+      "Marco legal de la Ley 29783 y su reglamento",
+      "Gesti\u00f3n de riesgos psicosociales y ergonom\u00eda digital",
+      "Metodolog\u00edas de auditor\u00eda para la norma ISO 45001"
+    ]
+  }
+}

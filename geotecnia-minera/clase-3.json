@@ -1,0 +1,544 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de transformar datos crudos de campo en predicciones mec\u00e1nicas precisas en la geotecnia minera moderna?",
+      "answerOptions": [
+        {
+          "text": "Garantizar la estabilidad de infraestructuras como dep\u00f3sitos de relaves por hasta 2,000 a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "La escala de las infraestructuras actuales exige proyecciones de seguridad a muy largo plazo debido a su magnitud y riesgo ambiental."
+        },
+        {
+          "text": "Sustituir por completo la observaci\u00f3n de campo por modelos matem\u00e1ticos puramente te\u00f3ricos.",
+          "isCorrect": false,
+          "rationale": "El material enfatiza que la modelaci\u00f3n avanzada complementa la observaci\u00f3n, pero siempre requiere una caracterizaci\u00f3n emp\u00edrica rigurosa."
+        },
+        {
+          "text": "Reducir el tiempo de ejecuci\u00f3n de los ensayos triaxiales en el laboratorio.",
+          "isCorrect": false,
+          "rationale": "Aunque la modelaci\u00f3n es eficiente, el objetivo no es acelerar los ensayos, sino mejorar la precisi\u00f3n de las predicciones de estabilidad."
+        },
+        {
+          "text": "Eliminar la necesidad de utilizar software especializado en la toma de decisiones.",
+          "isCorrect": false,
+          "rationale": "Al contrario, se promueve el salto hacia una sofisticada modelaci\u00f3n matem\u00e1tica avanzada mediante herramientas digitales."
+        }
+      ],
+      "hint": "Considere la escala de tiempo y la magnitud de las estructuras mencionadas."
+    },
+    {
+      "question": "De acuerdo con los fundamentos de la simulaci\u00f3n geomec\u00e1nica, \u00bfcu\u00e1l es el requisito indispensable antes de iniciar cualquier modelaci\u00f3n num\u00e9rica?",
+      "answerOptions": [
+        {
+          "text": "Una caracterizaci\u00f3n emp\u00edrica superrigurosa del terreno.",
+          "isCorrect": true,
+          "rationale": "La precisi\u00f3n de cualquier modelo matem\u00e1tico depende cr\u00edticamente de la calidad y rigurosidad de los par\u00e1metros de entrada iniciales."
+        },
+        {
+          "text": "La selecci\u00f3n del software con la interfaz gr\u00e1fica m\u00e1s avanzada del mercado.",
+          "isCorrect": false,
+          "rationale": "El software es solo una herramienta; la calidad de la simulaci\u00f3n reside en los datos emp\u00edricos de base, no en la est\u00e9tica del programa."
+        },
+        {
+          "text": "El c\u00e1lculo inmediato del \u00e1ngulo de fricci\u00f3n interna sin considerar la porosidad.",
+          "isCorrect": false,
+          "rationale": "Par\u00e1metros como la porosidad y la humedad son precisamente la base emp\u00edrica necesaria para levantar los modelos de comportamiento."
+        },
+        {
+          "text": "La ejecuci\u00f3n de auditor\u00edas t\u00e9cnicas internacionales antes de recolectar datos.",
+          "isCorrect": false,
+          "rationale": "Las auditor\u00edas ocurren despu\u00e9s de estructurar el informe; lo primero es la obtenci\u00f3n rigurosa de par\u00e1metros del terreno."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 elemento garantiza que los resultados de un software no sean enga\u00f1osos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 propiedad define el l\u00edmite exacto donde el suelo deja de ser un material pl\u00e1stico para comportarse como un fluido?",
+      "answerOptions": [
+        {
+          "text": "L\u00edmite l\u00edquido.",
+          "isCorrect": true,
+          "rationale": "Este l\u00edmite de Atterberg marca la frontera espec\u00edfica de transici\u00f3n hacia el comportamiento de flujo del material."
+        },
+        {
+          "text": "\u00cdndice de plasticidad.",
+          "isCorrect": false,
+          "rationale": "Este \u00edndice representa el margen donde el suelo se deforma sin fracturarse, no el punto de cambio a fluido."
+        },
+        {
+          "text": "Densidad relativa.",
+          "isCorrect": false,
+          "rationale": "La densidad relativa es un par\u00e1metro de estado f\u00edsico, no un l\u00edmite de consistencia de Atterberg."
+        },
+        {
+          "text": "Humedad natural.",
+          "isCorrect": false,
+          "rationale": "La humedad es una propiedad f\u00edsica variable, mientras que el l\u00edmite l\u00edquido es una frontera de comportamiento espec\u00edfica del material."
+        }
+      ],
+      "hint": "Recuerde los l\u00edmites de Atterberg mencionados para clasificar el comportamiento del material."
+    },
+    {
+      "question": "En la ejecuci\u00f3n del Ensayo de Penetraci\u00f3n Est\u00e1ndar (SPT), \u00bfcu\u00e1les son las especificaciones t\u00e9cnicas exactas para la masa del martillo y la altura de ca\u00edda?",
+      "answerOptions": [
+        {
+          "text": "$63.5\\text{ kg}$ ($140\\text{ lb}$) y una ca\u00edda libre de $76\\text{ cm}$.",
+          "isCorrect": true,
+          "rationale": "Estas medidas son estrictas para estandarizar la energ\u00eda aplicada durante el ensayo de resistencia din\u00e1mica in situ."
+        },
+        {
+          "text": "$70\\text{ kg}$ y una ca\u00edda libre de $100\\text{ cm}$.",
+          "isCorrect": false,
+          "rationale": "Estas cifras no corresponden a la normativa t\u00e9cnica milim\u00e9trica requerida para la validez del SPT."
+        },
+        {
+          "text": "$50\\text{ kg}$ y una ca\u00edda libre de $50\\text{ cm}$.",
+          "isCorrect": false,
+          "rationale": "Un martillo con este peso subestimar\u00eda la resistencia din\u00e1mica del suelo seg\u00fan el est\u00e1ndar establecido."
+        },
+        {
+          "text": "$63.5\\text{ kg}$ y una ca\u00edda libre variable seg\u00fan la dureza del terreno.",
+          "isCorrect": false,
+          "rationale": "La altura de ca\u00edda debe ser super estricta ($76\\text{ cm}$) para que el ensayo sea comparable y normalizable."
+        }
+      ],
+      "hint": "Se trata de valores fijos y precisos utilizados globalmente para la resistencia din\u00e1mica."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es obligatorio normalizar los conteos brutos de golpes del SPT al valor $N_{60}$?",
+      "answerOptions": [
+        {
+          "text": "Para permitir la comparaci\u00f3n de la resistencia del suelo a nivel internacional, independientemente de la maquinaria usada.",
+          "isCorrect": true,
+          "rationale": "La normalizaci\u00f3n al $60\\%$ de eficiencia energ\u00e9tica crea una l\u00ednea base t\u00e9cnica universal para el dise\u00f1o geot\u00e9cnico."
+        },
+        {
+          "text": "Para aumentar artificialmente los factores de seguridad en terrenos arenosos.",
+          "isCorrect": false,
+          "rationale": "La normalizaci\u00f3n busca precisi\u00f3n y estandarizaci\u00f3n, no la alteraci\u00f3n arbitraria de los factores de seguridad."
+        },
+        {
+          "text": "Porque el software de elementos finitos no puede procesar n\u00fameros mayores a $60$.",
+          "isCorrect": false,
+          "rationale": "El valor $N_{60}$ se refiere a la eficiencia energ\u00e9tica, no a una limitaci\u00f3n de capacidad de procesamiento del software."
+        },
+        {
+          "text": "Para evitar el uso de ecuaciones cuadr\u00e1ticas en el c\u00e1lculo del \u00e1ngulo de fricci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La normalizaci\u00f3n es previa a la aplicaci\u00f3n de cualquier ecuaci\u00f3n de correlaci\u00f3n, sea cuadr\u00e1tica o de otro tipo."
+        }
+      ],
+      "hint": "Piense en la necesidad de estandarizar datos obtenidos con equipos de diferentes tecnolog\u00edas."
+    },
+    {
+      "question": "Al aplicar la metodolog\u00eda de Hatanaka y Yushida para determinar el \u00e1ngulo de fricci\u00f3n interna efectivo, \u00bfcu\u00e1l es su principal restricci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "El \u00e1ngulo se vuelve fijo si el valor de $N_{60}$ supera los $30$.",
+          "isCorrect": true,
+          "rationale": "Este modelo presenta un tope cr\u00edtico de aplicabilidad donde la relaci\u00f3n deja de ser variable al cruzar dicho umbral."
+        },
+        {
+          "text": "Solo es aplicable en arcillas de alta plasticidad.",
+          "isCorrect": false,
+          "rationale": "El modelo se enfoca en par\u00e1metros derivados del SPT, que usualmente se aplican a suelos granulares o mezclas, no exclusivamente a arcillas pl\u00e1sticas."
+        },
+        {
+          "text": "Utiliza una ecuaci\u00f3n de ra\u00edz cuadrada que sobreestima la rigidez inicial.",
+          "isCorrect": false,
+          "rationale": "La descripci\u00f3n de la ra\u00edz cuadrada corresponde al modelo de Montenegro, el cual ofrece mayor flexibilidad que el de Hatanaka y Yushida."
+        },
+        {
+          "text": "Requiere datos clim\u00e1ticos hist\u00f3ricos de al menos $96$ a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "La referencia al a\u00f1o $96$ en el texto alude a la fecha de los datos en los que se basa la ecuaci\u00f3n de Terzaghi, no a un requisito de este modelo."
+        }
+      ],
+      "hint": "Busque la limitante num\u00e9rica espec\u00edfica mencionada para este modelo en particular."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la deficiencia cr\u00edtica del modelo Mohr-Coulomb al realizar an\u00e1lisis geot\u00e9cnicos a grandes profundidades?",
+      "answerOptions": [
+        {
+          "text": "Asume un m\u00f3dulo de elasticidad constante, ignorando que la rigidez aumenta con el confinamiento.",
+          "isCorrect": true,
+          "rationale": "En la realidad, el suelo se vuelve m\u00e1s r\u00edgido a mayor profundidad, y Mohr-Coulomb falla al no reconocer esta dependencia de los esfuerzos."
+        },
+        {
+          "text": "No permite el uso de la condici\u00f3n drenada para la estabilidad a largo plazo.",
+          "isCorrect": false,
+          "rationale": "Mohr-Coulomb puede usar condiciones drenadas, pero su error principal radica en la representaci\u00f3n de la rigidez, no en la condici\u00f3n de drenaje."
+        },
+        {
+          "text": "Requiere \u00fanicamente datos de entrada cualitativos en lugar de par\u00e1metros num\u00e9ricos.",
+          "isCorrect": false,
+          "rationale": "Como modelo constitutivo, requiere par\u00e1metros num\u00e9ricos precisos, pero su formulaci\u00f3n matem\u00e1tica es demasiado simplista para la profundidad."
+        },
+        {
+          "text": "Solo funciona para simular el comportamiento de resortes el\u00e1sticos perfectos bajo cargas peque\u00f1as.",
+          "isCorrect": false,
+          "rationale": "Aunque trata al suelo de forma limitada, se usa para fallas pl\u00e1sticas; su error es la rigidez constante, no la exclusi\u00f3n de cargas peque\u00f1as."
+        }
+      ],
+      "hint": "Considere c\u00f3mo cambia el suelo a medida que aumenta la carga de las capas superiores."
+    },
+    {
+      "question": "\u00bfC\u00f3mo logra el modelo Hardening Soil una mayor fidelidad a los ensayos triaxiales de laboratorio?",
+      "answerOptions": [
+        {
+          "text": "Utiliza una aproximaci\u00f3n hiperb\u00f3lica y diferencia la carga primaria de los procesos de descarga y recarga.",
+          "isCorrect": true,
+          "rationale": "Esta capacidad de separar el historial de cargas permite modelar el endurecimiento y la compactaci\u00f3n real con alta precisi\u00f3n."
+        },
+        {
+          "text": "Establece que la rigidez del suelo es totalmente independiente del nivel de esfuerzos aplicado.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la esencia del Hardening Soil es reconocer que la rigidez depende intr\u00ednsecamente del nivel de esfuerzos."
+        },
+        {
+          "text": "Elimina la necesidad de realizar ensayos de laboratorio especializados para alimentar el software.",
+          "isCorrect": false,
+          "rationale": "El modelo requiere inversi\u00f3n en ensayos especializados para poder capturar los par\u00e1metros necesarios para su precisi\u00f3n."
+        },
+        {
+          "text": "Sustituye el an\u00e1lisis de elementos finitos por ecuaciones lineales de equilibrio l\u00edmite.",
+          "isCorrect": false,
+          "rationale": "Hardening Soil es un modelo avanzado dise\u00f1ado espec\u00edficamente para ser implementado en potentes motores de elementos finitos."
+        }
+      ],
+      "hint": "Piense en la forma geom\u00e9trica de su aproximaci\u00f3n y en c\u00f3mo maneja el historial de esfuerzos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja estrat\u00e9gica de emplear el modelo Hardening Soil Small Strain (HSS)?",
+      "answerOptions": [
+        {
+          "text": "Captura la rigidez inicial en rangos de deformaci\u00f3n muy peque\u00f1os, evitando predicciones de asentamientos irreales.",
+          "isCorrect": true,
+          "rationale": "Los modelos convencionales suelen subestimar esta rigidez inicial, lo que lleva a un conservadurismo extremo y sobredise\u00f1os costosos."
+        },
+        {
+          "text": "Permite modelar el suelo como un fluido denso sin considerar el esfuerzo cortante.",
+          "isCorrect": false,
+          "rationale": "Este modelo sigue analizando el suelo como un s\u00f3lido elastopl\u00e1stico; el comportamiento de fluido se asocia a fallas por licuaci\u00f3n."
+        },
+        {
+          "text": "Reduce el tiempo de c\u00e1lculo del software en un $60\\%$ comparado con modelos b\u00e1sicos.",
+          "isCorrect": false,
+          "rationale": "Los modelos avanzados como HSS suelen requerir m\u00e1s capacidad de c\u00f3mputo y par\u00e1metros, no menos tiempo."
+        },
+        {
+          "text": "Garantiza que el \u00e1ngulo de fricci\u00f3n interna sea siempre superior a $30^{\\circ}$ en arenas finas.",
+          "isCorrect": false,
+          "rationale": "El modelo HSS se enfoca en la rigidez y deformaci\u00f3n, no en imponer valores m\u00ednimos de resistencia friccional."
+        }
+      ],
+      "hint": "Considere el comportamiento del suelo en sus primeras fases de carga y la precisi\u00f3n en los asentamientos."
+    },
+    {
+      "question": "En el contexto de suelos de alta compresibilidad como arcillas blandas, \u00bfqu\u00e9 representa la 'memoria del suelo'?",
+      "answerOptions": [
+        {
+          "text": "El historial de esfuerzos y preconsolidaci\u00f3n que determina la respuesta mec\u00e1nica futura ante nuevas cargas.",
+          "isCorrect": true,
+          "rationale": "La reacci\u00f3n de estos materiales no es est\u00e1ndar; est\u00e1 dictada por todas las tensiones que el suelo ya soport\u00f3 en su historia geol\u00f3gica."
+        },
+        {
+          "text": "La capacidad del material para recuperar su forma original despu\u00e9s de una descarga total.",
+          "isCorrect": false,
+          "rationale": "Esto se referir\u00eda a elasticidad pura; la 'memoria' en geotecnia se enfoca en el historial de consolidaci\u00f3n pl\u00e1stica."
+        },
+        {
+          "text": "La retenci\u00f3n de contaminantes qu\u00edmicos dentro de la matriz porosa a lo largo de los siglos.",
+          "isCorrect": false,
+          "rationale": "Aunque relevante en ambiental, en geotecnia la memoria se refiere a la respuesta mec\u00e1nica ante tensiones y cargas."
+        },
+        {
+          "text": "El registro digital de los golpes de SPT almacenados en el software de modelaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La 'memoria' es una propiedad intr\u00ednseca del material geol\u00f3gico, no un registro de datos inform\u00e1ticos."
+        }
+      ],
+      "hint": "Relacione este concepto con el pasado geol\u00f3gico del terreno."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 situaci\u00f3n es superior el modelo Soft Soil comparado con el modelo Cam-Clay?",
+      "answerOptions": [
+        {
+          "text": "Cuando se manejan materiales con compresibilidad alt\u00edsima, como las turbas o arcillas muy blandas.",
+          "isCorrect": true,
+          "rationale": "La matem\u00e1tica de Soft Soil maneja los grandes desplazamientos de las primeras fases de carga con mayor precisi\u00f3n que Cam-Clay."
+        },
+        {
+          "text": "Al evaluar la resistencia din\u00e1mica de arenas gruesas bajo sismos de gran magnitud.",
+          "isCorrect": false,
+          "rationale": "Ambos modelos est\u00e1n dise\u00f1ados para suelos finos compresibles, no para el comportamiento din\u00e1mico de arenas gruesas."
+        },
+        {
+          "text": "Cuando se requiere un modelo simple que no dependa de la relaci\u00f3n de vac\u00edos interna.",
+          "isCorrect": false,
+          "rationale": "Ambos modelos son complejos y dependen de la relaci\u00f3n de vac\u00edos; Cam-Clay incluso establece una relaci\u00f3n logar\u00edtmica con ella."
+        },
+        {
+          "text": "Para simular el comportamiento de rocas \u00edgneas en cimentaciones profundas.",
+          "isCorrect": false,
+          "rationale": "Estos modelos son espec\u00edficos para suelos blandos y compresibles, no para macizos rocosos."
+        }
+      ],
+      "hint": "Identifique el tipo de material donde el desplazamiento inicial es extremo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor cr\u00edtico a\u00f1ade el modelo Soft Soil Creep a la ecuaci\u00f3n de consolidaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "El factor tiempo para analizar la consolidaci\u00f3n secundaria y asentamientos diferidos.",
+          "isCorrect": true,
+          "rationale": "Este modelo permite calcular hundimientos lentos que ocurren a\u00f1os despu\u00e9s de terminada la construcci\u00f3n de la infraestructura."
+        },
+        {
+          "text": "La variaci\u00f3n del \u00e1ngulo de punta del tomamuestras de SPT.",
+          "isCorrect": false,
+          "rationale": "El Tomamuestras es un aspecto de la caracterizaci\u00f3n de campo, no un par\u00e1metro del modelo matem\u00e1tico de consolidaci\u00f3n Creep."
+        },
+        {
+          "text": "La reducci\u00f3n del peso del martillo a $140$ libras para mayor agilidad.",
+          "isCorrect": false,
+          "rationale": "El peso del martillo es una especificaci\u00f3n del SPT y no tiene relaci\u00f3n con el modelo de consolidaci\u00f3n secundaria por tiempo."
+        },
+        {
+          "text": "La eliminaci\u00f3n de las presiones de poros en condiciones no drenadas.",
+          "isCorrect": false,
+          "rationale": "El modelo Soft Soil Creep analiza precisamente c\u00f3mo evolucionan las deformaciones, a menudo influenciadas por la disipaci\u00f3n de presiones."
+        }
+      ],
+      "hint": "Piense en lo que sucede con el suelo mucho tiempo despu\u00e9s de que la maquinaria pesada se ha retirado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre el uso de condiciones drenadas y no drenadas en una simulaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "La condici\u00f3n no drenada se usa para escenarios de corto plazo (sismos), mientras que la drenada es para estabilidad a largo plazo.",
+          "isCorrect": true,
+          "rationale": "Esta distinci\u00f3n es vital porque el agua atrapada en los poros genera presiones que afectan la resistencia efectiva de forma inmediata."
+        },
+        {
+          "text": "La condici\u00f3n drenada asume que el agua nunca sale de los poros del suelo.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la condici\u00f3n drenada asume que ha pasado tiempo suficiente para que las presiones intersticiales se disipen por completo."
+        },
+        {
+          "text": "La simulaci\u00f3n no drenada es exclusiva de suelos granulares secos.",
+          "isCorrect": false,
+          "rationale": "La condici\u00f3n no drenada es especialmente cr\u00edtica en suelos saturados donde el agua no puede escapar r\u00e1pidamente bajo carga."
+        },
+        {
+          "text": "Solo la condici\u00f3n drenada permite calcular el factor de seguridad de un talud de relaves.",
+          "isCorrect": false,
+          "rationale": "Ambas condiciones son necesarias para evaluar diferentes etapas y riesgos del proyecto, incluyendo fallas repentinas."
+        }
+      ],
+      "hint": "Considere la variable del tiempo y la capacidad del agua para salir de la estructura del suelo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fen\u00f3meno catastr\u00f3fico puede ocurrir si se ignora el incremento de la presi\u00f3n de poros en taludes de relaves?",
+      "answerOptions": [
+        {
+          "text": "Licuaci\u00f3n est\u00e1tica.",
+          "isCorrect": true,
+          "rationale": "Un pico repentino en la presi\u00f3n de poros puede anular el esfuerzo efectivo, haciendo que el suelo se comporte como un l\u00edquido denso y colapse."
+        },
+        {
+          "text": "Endurecimiento por deformaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El endurecimiento suele aumentar la resistencia, mientras que el exceso de presi\u00f3n de poros la anula catastr\u00f3ficamente."
+        },
+        {
+          "text": "Sobredise\u00f1o de cimentaciones eficientes.",
+          "isCorrect": false,
+          "rationale": "Ignorar la presi\u00f3n de poros lleva a una subestimaci\u00f3n fatal del riesgo, no a un exceso de seguridad o eficiencia."
+        },
+        {
+          "text": "Aumento del m\u00f3dulo de elasticidad din\u00e1mico.",
+          "isCorrect": false,
+          "rationale": "La presi\u00f3n de poros elevada debilita la estructura del suelo; no mejora sus m\u00f3dulos din\u00e1micos."
+        }
+      ],
+      "hint": "Se trata de una falla violenta donde el material pierde toda su capacidad de soporte de forma repentina."
+    },
+    {
+      "question": "Entre los softwares mencionados, \u00bfcu\u00e1l destaca por su agilidad en el modelado estratigr\u00e1fico 3D y cimentaciones?",
+      "answerOptions": [
+        {
+          "text": "GeoStudio.",
+          "isCorrect": true,
+          "rationale": "Este programa es reconocido por su eficiencia espec\u00edfica en el modelado de estratigraf\u00eda tridimensional y bases de estructuras."
+        },
+        {
+          "text": "Plaxis 2D.",
+          "isCorrect": false,
+          "rationale": "Plaxis es el est\u00e1ndar para an\u00e1lisis complejos de endurecimiento y creep, pero GeoStudio se destaca por su agilidad en la parte estratigr\u00e1fica."
+        },
+        {
+          "text": "Soilworks.",
+          "isCorrect": false,
+          "rationale": "Soilworks es valorado por combinar equilibrio l\u00edmite y elementos finitos para t\u00faneles y taludes, no espec\u00edficamente por su agilidad estratigr\u00e1fica 3D."
+        },
+        {
+          "text": "Software de la bolsa ASX.",
+          "isCorrect": false,
+          "rationale": "La ASX es una plataforma de anuncios financieros y t\u00e9cnicos para inversores, no un software de modelaci\u00f3n geot\u00e9cnica."
+        }
+      ],
+      "hint": "Es uno de los 'grandes nombres' mencionado espec\u00edficamente por su rapidez en capas de suelo."
+    },
+    {
+      "question": "Para el proyecto minero Quellaveco, \u00bfcu\u00e1l es el est\u00e1ndar internacional utilizado para reportar informaci\u00f3n t\u00e9cnica y geot\u00e9cnica clave?",
+      "answerOptions": [
+        {
+          "text": "Est\u00e1ndar JORC.",
+          "isCorrect": true,
+          "rationale": "Al tener capitales australianos, el reporte riguroso bajo el c\u00f3digo JORC en la bolsa ASX es obligatorio para su transparencia t\u00e9cnica."
+        },
+        {
+          "text": "Norma ISO 9001.",
+          "isCorrect": false,
+          "rationale": "Aunque es una norma de calidad, no es el est\u00e1ndar espec\u00edfico de reporte de recursos y reservas minerales mencionado."
+        },
+        {
+          "text": "Reglamento Nacional de Edificaciones.",
+          "isCorrect": false,
+          "rationale": "Este es un marco normativo local para construcci\u00f3n general, no el est\u00e1ndar internacional espec\u00edfico para proyectos mineros de gran escala."
+        },
+        {
+          "text": "Certificaci\u00f3n Senace de bajo impacto.",
+          "isCorrect": false,
+          "rationale": "Senace es una entidad gubernamental para estudios ambientales en Per\u00fa, no el est\u00e1ndar t\u00e9cnico de reporte mencionado para Quellaveco."
+        }
+      ],
+      "hint": "Busque el acr\u00f3nimo asociado a los reportes de la bolsa australiana (ASX)."
+    },
+    {
+      "question": "\u00bfQu\u00e9 par\u00e1metros fundamentales para el dise\u00f1o sismorresistente se obtienen al mapear el ciclo de hist\u00e9resis del suelo?",
+      "answerOptions": [
+        {
+          "text": "M\u00f3dulo de rigidez din\u00e1mico ($G$) y raz\u00f3n de amortiguamiento.",
+          "isCorrect": true,
+          "rationale": "Estos par\u00e1metros determinan c\u00f3mo se transmite y disipa la energ\u00eda s\u00edsmica a trav\u00e9s del terreno antes de afectar las estructuras."
+        },
+        {
+          "text": "L\u00edmite l\u00edquido y porosidad relativa.",
+          "isCorrect": false,
+          "rationale": "Estos son par\u00e1metros est\u00e1ticos de caracterizaci\u00f3n f\u00edsica, no par\u00e1metros din\u00e1micos derivados de ciclos de carga s\u00edsmica."
+        },
+        {
+          "text": "\u00c1ngulo de punta de $60^{\\circ}$ y peso del martillo.",
+          "isCorrect": false,
+          "rationale": "Estos son detalles del equipo de perforaci\u00f3n SPT, no propiedades mec\u00e1nicas din\u00e1micas del suelo."
+        },
+        {
+          "text": "Eficiencia energ\u00e9tica del $60\\%$ y factor de seguridad est\u00e1tico.",
+          "isCorrect": false,
+          "rationale": "La eficiencia es una normalizaci\u00f3n de ensayo y el factor est\u00e1tico no captura el comportamiento c\u00edclico del sismo."
+        }
+      ],
+      "hint": "Piense en la rigidez bajo movimiento y la capacidad de absorber energ\u00eda s\u00edsmica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el primer paso en la cadena de eventos que conduce a la licuaci\u00f3n din\u00e1mica durante un terremoto?",
+      "answerOptions": [
+        {
+          "text": "La inducci\u00f3n instant\u00e1nea de un tremendo esfuerzo cortante por la onda s\u00edsmica.",
+          "isCorrect": true,
+          "rationale": "Este esfuerzo inicial es el que activa el proceso al intentar deformar el suelo m\u00e1s r\u00e1pido de lo que el agua puede ser evacuada."
+        },
+        {
+          "text": "La disipaci\u00f3n completa de las presiones intersticiales en los poros.",
+          "isCorrect": false,
+          "rationale": "La licuaci\u00f3n ocurre precisamente porque las presiones NO se disipan debido a la rapidez del evento s\u00edsmico."
+        },
+        {
+          "text": "La consolidaci\u00f3n secundaria del material por efectos del tiempo.",
+          "isCorrect": false,
+          "rationale": "La consolidaci\u00f3n secundaria es un proceso post-construcci\u00f3n muy lento, mientras que la licuaci\u00f3n es casi instant\u00e1nea durante el sismo."
+        },
+        {
+          "text": "El aumento del esfuerzo efectivo interno hasta superar la resistencia.",
+          "isCorrect": false,
+          "rationale": "En la licuaci\u00f3n, el esfuerzo efectivo se reduce (tiende a cero) debido al aumento de la presi\u00f3n de poros, no aumenta."
+        }
+      ],
+      "hint": "Identifique la acci\u00f3n inmediata que ocurre cuando la onda s\u00edsmica golpea el terreno."
+    },
+    {
+      "question": "En la transici\u00f3n catastr\u00f3fica de la licuaci\u00f3n, \u00bfqu\u00e9 sucede con el material suelo?",
+      "answerOptions": [
+        {
+          "text": "Pasa de ser un s\u00f3lido firme a comportarse como un material completamente licuable o l\u00edquido denso.",
+          "isCorrect": true,
+          "rationale": "Al anularse el esfuerzo efectivo por la presi\u00f3n de poros, el suelo pierde su capacidad de soporte y fluye."
+        },
+        {
+          "text": "Se compacta instant\u00e1neamente aumentando su densidad relativa al $100\\%$.",
+          "isCorrect": false,
+          "rationale": "Aunque hay reordenamiento de part\u00edculas, el efecto inmediato es la p\u00e9rdida de soporte, no una compactaci\u00f3n estabilizadora."
+        },
+        {
+          "text": "Incrementa su \u00e1ngulo de fricci\u00f3n interna debido a la vibraci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La licuaci\u00f3n anula la resistencia friccional efectiva; no la incrementa."
+        },
+        {
+          "text": "Se convierte en un material el\u00e1stico perfecto tipo resorte.",
+          "isCorrect": false,
+          "rationale": "El suelo licuado pierde su comportamiento de s\u00f3lido el\u00e1stico para actuar como un fluido sin rigidez cortante."
+        }
+      ],
+      "hint": "Piense en el cambio de estado f\u00edsico aparente del terreno durante el colapso."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la conclusi\u00f3n final sobre la relaci\u00f3n entre el software avanzado y el criterio ingenieril?",
+      "answerOptions": [
+        {
+          "text": "Ninguna matem\u00e1tica o software podr\u00e1 jam\u00e1s reemplazar el indispensable criterio ingenieril humano.",
+          "isCorrect": true,
+          "rationale": "La validaci\u00f3n de campo y la interpretaci\u00f3n cr\u00edtica son las defensas finales contra fallas, independientemente de la potencia del software."
+        },
+        {
+          "text": "El software es el \u00fanico responsable de decidir si un talud es seguro o no.",
+          "isCorrect": false,
+          "rationale": "El material afirma que el software calcula, pero el humano es quien toma la decisi\u00f3n final basada en el an\u00e1lisis."
+        },
+        {
+          "text": "Los modelos matem\u00e1ticos son la realidad absoluta del comportamiento del terreno.",
+          "isCorrect": false,
+          "rationale": "Se ense\u00f1a que un modelo es solo una herramienta de aproximaci\u00f3n cient\u00edfica, no la realidad absoluta."
+        },
+        {
+          "text": "La validaci\u00f3n de campo es opcional si se utiliza el modelo Hardening Soil Small Strain.",
+          "isCorrect": false,
+          "rationale": "Incluso con modelos avanzados, la validaci\u00f3n e interpretaci\u00f3n humana son indispensables para la seguridad."
+        }
+      ],
+      "hint": "Recuerde qui\u00e9n tiene la \u00faltima palabra en la interpretaci\u00f3n de los resultados de una simulaci\u00f3n."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Modelos constitutivos avanzados",
+      "Caracterizaci\u00f3n emp\u00edrica del terreno",
+      "Ensayo de Penetraci\u00f3n Est\u00e1ndar (SPT)",
+      "Correlaciones de resistencia",
+      "Modelos de endurecimiento y rigidez (Hardening Soil, HSS)",
+      "Consolidaci\u00f3n en suelos blandos y Creep",
+      "Condiciones de drenaje y presi\u00f3n de poros",
+      "Licuaci\u00f3n est\u00e1tica y din\u00e1mica",
+      "Software geot\u00e9cnico y est\u00e1ndares internacionales"
+    ],
+    "followUp": [
+      "An\u00e1lisis de estabilidad de taludes por equilibrio l\u00edmite",
+      "Din\u00e1mica de suelos y respuesta de sitio s\u00edsmica",
+      "Dise\u00f1o de dep\u00f3sitos de relaves de alta densidad",
+      "Instrumentaci\u00f3n geot\u00e9cnica para validaci\u00f3n de modelos",
+      "Mec\u00e1nica de suelos no saturados en miner\u00eda"
+    ]
+  }
+}

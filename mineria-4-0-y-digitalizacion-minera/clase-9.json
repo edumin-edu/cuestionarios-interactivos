@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de integrar la realidad f\u00edsica del tajo y la planta en un flujo de informaci\u00f3n continuo?",
+      "answerOptions": [
+        {
+          "text": "Optimizar el desempe\u00f1o operativo mitigando proactivamente riesgos f\u00edsicos.",
+          "isCorrect": true,
+          "rationale": "La integraci\u00f3n busca eliminar la brecha entre el evento f\u00edsico y la respuesta anal\u00edtica para mejorar la ejecuci\u00f3n y seguridad."
+        },
+        {
+          "text": "Reemplazar por completo la supervisi\u00f3n humana en las plantas de procesamiento.",
+          "isCorrect": false,
+          "rationale": "El material enfatiza la sinergia entre humanos y m\u00e1quinas, no la eliminaci\u00f3n total del personal de supervisi\u00f3n."
+        },
+        {
+          "text": "Aumentar \u00fanicamente la velocidad de transmisi\u00f3n de datos en la red interna.",
+          "isCorrect": false,
+          "rationale": "La velocidad de red es un componente t\u00e9cnico, pero la competitividad depende de la eficiencia de todo el ciclo de decisi\u00f3n."
+        },
+        {
+          "text": "Reducir la cantidad de sensores instalados en los activos cr\u00edticos.",
+          "isCorrect": false,
+          "rationale": "La digitalizaci\u00f3n requiere integrar sensores avanzados, no reducirlos, para alimentar los flujos de informaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en la relaci\u00f3n entre los datos en tiempo real y la prevenci\u00f3n de incidentes operativos."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define la latencia sist\u00e9mica en el contexto de una operaci\u00f3n industrial?",
+      "answerOptions": [
+        {
+          "text": "Es el tiempo que tarda un servidor en almacenar una base de datos hist\u00f3rica.",
+          "isCorrect": false,
+          "rationale": "El almacenamiento hist\u00f3rico es un proceso pasivo que no contempla la cadena completa hasta la acci\u00f3n ejecutada."
+        },
+        {
+          "text": "Es la demora total desde que un sensor capta un evento hasta que se ejecuta una decisi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La latencia sist\u00e9mica abarca toda la cadena de valor del dato, desde la detecci\u00f3n hasta el impacto en el resultado."
+        },
+        {
+          "text": "Es la velocidad de descarga de archivos desde plataformas en la nube.",
+          "isCorrect": false,
+          "rationale": "Esta es una medida de ancho de banda t\u00e9cnico, no de agilidad organizacional o de toma de decisiones."
+        },
+        {
+          "text": "Es el periodo de mantenimiento preventivo de los equipos de telecomunicaciones.",
+          "isCorrect": false,
+          "rationale": "El mantenimiento es una actividad programada, mientras que la latencia se refiere al flujo de respuesta ante eventos operativos."
+        }
+      ],
+      "hint": "Considere el ciclo completo que va desde la detecci\u00f3n de un dato hasta la ejecuci\u00f3n de una respuesta."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que el concepto de tiempo real es relativo en la miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Porque depende estrictamente de la ventana de oportunidad de cada proceso espec\u00edfico.",
+          "isCorrect": true,
+          "rationale": "Diferentes procesos tienen diferentes requerimientos de velocidad; lo que es tiempo real para log\u00edstica puede no serlo para un molino."
+        },
+        {
+          "text": "Porque todas las decisiones mineras deben tomarse invariablemente en milisegundos.",
+          "isCorrect": false,
+          "rationale": "Procesos como la log\u00edstica de repuestos pueden considerarse eficientes en escalas de tiempo mucho mayores."
+        },
+        {
+          "text": "Porque el tiempo real solo depende de la zona horaria donde se ubica el yacimiento.",
+          "isCorrect": false,
+          "rationale": "La ubicaci\u00f3n geogr\u00e1fica no define la eficiencia del ciclo de decisi\u00f3n t\u00e9cnica u operativa."
+        },
+        {
+          "text": "Porque la anal\u00edtica de datos siempre requiere al menos 24 horas para procesar la informaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La digitalizaci\u00f3n busca alcanzar la latencia cero, lo cual contradice la idea de un retraso fijo de 24 horas."
+        }
+      ],
+      "hint": "Compare las necesidades de respuesta de un molino frente a la gesti\u00f3n de log\u00edstica de repuestos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una caracter\u00edstica fundamental del ciclo OODA en comparaci\u00f3n con el ciclo de Deming?",
+      "answerOptions": [
+        {
+          "text": "Es un marco r\u00edgido dise\u00f1ado para procesos administrativos estables.",
+          "isCorrect": false,
+          "rationale": "El ciclo OODA se destaca por ser reactivo y adaptativo, a diferencia de la rigidez que puede presentar Deming en entornos fren\u00e9ticos."
+        },
+        {
+          "text": "Prioriza la planificaci\u00f3n a largo plazo sobre la acci\u00f3n inmediata.",
+          "isCorrect": false,
+          "rationale": "El OODA se enfoca en observar y actuar r\u00e1pidamente para responder a eventos en entornos din\u00e1micos."
+        },
+        {
+          "text": "Proporciona un marco reactivo y adaptativo para entornos de alta velocidad.",
+          "isCorrect": true,
+          "rationale": "Su estructura permite una navegaci\u00f3n \u00e1gil a trav\u00e9s de las fases de observaci\u00f3n, orientaci\u00f3n, decisi\u00f3n y acci\u00f3n inmediata."
+        },
+        {
+          "text": "Elimina la necesidad de aplicar reglas de negocio a los datos capturados.",
+          "isCorrect": false,
+          "rationale": "La fase de orientaci\u00f3n del ciclo OODA requiere precisamente la aplicaci\u00f3n de reglas de negocio para dar contexto al dato."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 modelo se adapta mejor a un entorno que cambia constantemente y requiere respuestas r\u00e1pidas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple el Control de Intervalo Corto (Short Interval Control) en un centro de operaciones?",
+      "answerOptions": [
+        {
+          "text": "Establece revisiones t\u00e1cticas de desempe\u00f1o en ventanas de tiempo de cada 2 horas.",
+          "isCorrect": true,
+          "rationale": "Este ritmo permite mantener el control operativo y corregir desviaciones sin abrumar al equipo de trabajo."
+        },
+        {
+          "text": "Automatiza la contrataci\u00f3n de personal externo para tareas de bajo riesgo.",
+          "isCorrect": false,
+          "rationale": "El control de intervalo corto se centra en el desempe\u00f1o t\u00e1ctico operativo, no en procesos de recursos humanos."
+        },
+        {
+          "text": "Reduce la cantidad de datos que los sensores deben enviar a la central.",
+          "isCorrect": false,
+          "rationale": "Su objetivo es la gesti\u00f3n de la informaci\u00f3n para la toma de decisiones, no la limitaci\u00f3n t\u00e9cnica de los sensores."
+        },
+        {
+          "text": "Elimina la necesidad de usar plataformas de visualizaci\u00f3n en vivo.",
+          "isCorrect": false,
+          "rationale": "Al contrario, requiere herramientas de visualizaci\u00f3n precisas para realizar las revisiones t\u00e1cticas de manera efectiva."
+        }
+      ],
+      "hint": "Recuerde el caso de \u00e9xito de la mina Centinela y su cadencia de revisi\u00f3n."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se prefieren los sistemas expertos sobre los algoritmos de caja negra en ciclos operativos cr\u00edticos?",
+      "answerOptions": [
+        {
+          "text": "Porque son m\u00e1s econ\u00f3micos de implementar en flotas de camiones aut\u00f3nomos.",
+          "isCorrect": false,
+          "rationale": "La preferencia no se basa en el costo, sino en la naturaleza de la gobernanza y la transparencia de la decisi\u00f3n."
+        },
+        {
+          "text": "Porque operan bajo reglas transparentes y auditables, fundamentales en operaciones de riesgo.",
+          "isCorrect": true,
+          "rationale": "En miner\u00eda, es innegociable poder entender y auditar el porqu\u00e9 de una decisi\u00f3n, especialmente si afecta la seguridad."
+        },
+        {
+          "text": "Porque no requieren la intervenci\u00f3n de ning\u00fan operador humano en ning\u00fan caso.",
+          "isCorrect": false,
+          "rationale": "Los sistemas expertos permiten al operador validar o intervenir (override), manteniendo la sinergia hombre-m\u00e1quina."
+        },
+        {
+          "text": "Porque procesan la informaci\u00f3n mucho m\u00e1s lento que el machine learning.",
+          "isCorrect": false,
+          "rationale": "La velocidad no es la raz\u00f3n de la elecci\u00f3n, sino la claridad de los criterios de decisi\u00f3n."
+        }
+      ],
+      "hint": "Reflexione sobre la importancia de la confianza y la posibilidad de verificar las decisiones en entornos peligrosos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 principio defiende la gesti\u00f3n moderna respecto a la relaci\u00f3n entre seguridad y productividad?",
+      "answerOptions": [
+        {
+          "text": "Que es necesario sacrificar un margen de seguridad para alcanzar r\u00e9cords de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n moderna rechaza la falsa dicotom\u00eda entre producir y estar seguro; ambos deben ir de la mano."
+        },
+        {
+          "text": "Que la seguridad jam\u00e1s se negocia y la tecnolog\u00eda ayuda a equilibrar el riesgo residual.",
+          "isCorrect": true,
+          "rationale": "Se busca eficiencia con cero da\u00f1o, utilizando la tecnolog\u00eda para proteger vidas sin comprometer el rendimiento."
+        },
+        {
+          "text": "Que la seguridad industrial es una responsabilidad exclusiva del personal operativo de campo.",
+          "isCorrect": false,
+          "rationale": "La seguridad es un principio organizacional soportado por la arquitectura digital y la cultura estrat\u00e9gica."
+        },
+        {
+          "text": "Que el aumento de la productividad siempre conlleva un aumento proporcional de accidentes.",
+          "isCorrect": false,
+          "rationale": "La aplicaci\u00f3n de anal\u00edtica y tecnolog\u00edas como la autonom\u00eda busca precisamente desvincular el aumento de producci\u00f3n del riesgo humano."
+        }
+      ],
+      "hint": "Considere el concepto de 'eficiencia con cero da\u00f1o'."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 se enfoca la filosof\u00eda de Lean Mining impulsada por la digitalizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "En aumentar la cantidad de personal administrativo para mejorar el control.",
+          "isCorrect": false,
+          "rationale": "Lean Mining busca eficiencia operativa y reducci\u00f3n de desperdicios, no necesariamente el incremento de burocracia."
+        },
+        {
+          "text": "En la eliminaci\u00f3n sistem\u00e1tica de desperdicios de tiempo, energ\u00eda, insumos y agua.",
+          "isCorrect": true,
+          "rationale": "La gesti\u00f3n \u00f3ptima de datos permite maximizar el rendimiento minimizando el consumo de recursos cr\u00edticos."
+        },
+        {
+          "text": "En priorizar la extracci\u00f3n de mineral de baja ley sin importar el costo energ\u00e9tico.",
+          "isCorrect": false,
+          "rationale": "Uno de los pilares de Lean Mining es precisamente optimizar el uso de energ\u00eda y reducir costos operativos."
+        },
+        {
+          "text": "En sustituir el uso de agua por qu\u00edmicos sint\u00e9ticos para facilitar el procesamiento.",
+          "isCorrect": false,
+          "rationale": "El enfoque mencionado es la optimizaci\u00f3n y el ahorro de recursos vitales como el agua, especialmente en zonas de escasez."
+        }
+      ],
+      "hint": "Piense en la optimizaci\u00f3n de recursos y la reducci\u00f3n de ineficiencias en el proceso productivo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es uno de los beneficios directos de la tecnolog\u00eda de veh\u00edculos aut\u00f3nomos en la miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la exposici\u00f3n de los trabajadores a las zonas de cargu\u00edo.",
+          "isCorrect": false,
+          "rationale": "La autonom\u00eda retira precisamente al personal de las zonas de mayor peligro."
+        },
+        {
+          "text": "Reducir la eficiencia operativa en un $5\\%$ debido a la complejidad t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "Se menciona que la autonom\u00eda puede elevar la eficiencia hasta en un $15\\%$."
+        },
+        {
+          "text": "Retirar la exposici\u00f3n humana de zonas peligrosas y aumentar la eficiencia.",
+          "isCorrect": true,
+          "rationale": "Representa un beneficio doble: mejora la productividad y garantiza la integridad f\u00edsica del personal."
+        },
+        {
+          "text": "Obligar a que todos los camiones operen exclusivamente en modo manual.",
+          "isCorrect": false,
+          "rationale": "La autonom\u00eda se basa en la operaci\u00f3n sin intervenci\u00f3n manual directa en la conducci\u00f3n del veh\u00edculo."
+        }
+      ],
+      "hint": "Identifique las ventajas tanto en rendimiento como en la protecci\u00f3n de la integridad f\u00edsica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el indicador h\u00edbrido $TPHHHH$?",
+      "answerOptions": [
+        {
+          "text": "El total de toneladas procesadas hist\u00f3ricamente por la herramienta hidr\u00e1ulica.",
+          "isCorrect": false,
+          "rationale": "El acr\u00f3nimo se refiere a una m\u00e9trica de productividad vinculada directamente con la seguridad humana."
+        },
+        {
+          "text": "Las toneladas por hora por hora-hombre sin accidentes.",
+          "isCorrect": true,
+          "rationale": "Es un KPI que garantiza que la productividad no crezca a costa de la integridad del ser humano."
+        },
+        {
+          "text": "El tiempo promedio de habilitaci\u00f3n de herramientas de hardware.",
+          "isCorrect": false,
+          "rationale": "No es una medida t\u00e9cnica de TI, sino un \u00edndice compuesto de desempe\u00f1o operativo y seguridad."
+        },
+        {
+          "text": "La tasa de p\u00e9rdida de horas hombre por huelgas laborales.",
+          "isCorrect": false,
+          "rationale": "Se enfoca en la relaci\u00f3n entre producci\u00f3n y ausencia de accidentes, no en conflictos sindicales."
+        }
+      ],
+      "hint": "Este indicador combina la medici\u00f3n de producci\u00f3n con la seguridad del personal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica el concepto de seguridad psicol\u00f3gica dentro de una operaci\u00f3n minera disciplinada?",
+      "answerOptions": [
+        {
+          "text": "El derecho de cualquier individuo a detener una tarea insegura sin temor a represalias.",
+          "isCorrect": true,
+          "rationale": "Es fundamental para una cultura de seguridad donde la integridad prima sobre el avance inmediato de la tarea."
+        },
+        {
+          "text": "La obligaci\u00f3n de continuar trabajando aunque se detecte un riesgo inminente.",
+          "isCorrect": false,
+          "rationale": "La seguridad psicol\u00f3gica promueve precisamente lo contrario: la detenci\u00f3n de actividades peligrosas."
+        },
+        {
+          "text": "Un sistema de bonos econ\u00f3micos para quienes nunca reportan alarmas.",
+          "isCorrect": false,
+          "rationale": "Premiar el silencio ante riesgos es contrario a los principios de seguridad psicol\u00f3gica y transparencia."
+        },
+        {
+          "text": "La evaluaci\u00f3n anual del estado emocional de los accionistas de la empresa.",
+          "isCorrect": false,
+          "rationale": "Se refiere a la confianza de los trabajadores operativos para actuar en favor de la seguridad en el campo."
+        }
+      ],
+      "hint": "Relacione este t\u00e9rmino con la libertad de acci\u00f3n de un trabajador ante una situaci\u00f3n de peligro."
+    },
+    {
+      "question": "Seg\u00fan el an\u00e1lisis financiero, \u00bfqu\u00e9 condici\u00f3n debe cumplir un proyecto de anal\u00edtica de datos para ser viable estrat\u00e9gicamente?",
+      "answerOptions": [
+        {
+          "text": "Debe demostrar una conexi\u00f3n matem\u00e1tica directa con la rentabilidad neta o el valor de la empresa.",
+          "isCorrect": true,
+          "rationale": "Cualquier inversi\u00f3n tecnol\u00f3gica debe pasar por un filtro financiero donde la mejora operativa se traduzca en valor tangible."
+        },
+        {
+          "text": "Basta con que la tecnolog\u00eda sea la m\u00e1s moderna disponible en el mercado.",
+          "isCorrect": false,
+          "rationale": "La modernidad por s\u00ed sola no justifica la inversi\u00f3n si no hay una creaci\u00f3n de valor auditable."
+        },
+        {
+          "text": "Debe ser aprobado \u00fanicamente por el Departamento de Sistemas sin revisar costos.",
+          "isCorrect": false,
+          "rationale": "La digitalizaci\u00f3n hoy es un motor del negocio que debe ser evaluado por sus impactos financieros globales."
+        },
+        {
+          "text": "Debe garantizar que el consumo de energ\u00eda aumente al menos un $10\\%$ anual.",
+          "isCorrect": false,
+          "rationale": "Los proyectos digitales suelen buscar lo contrario: optimizar y reducir consumos como el de energ\u00eda."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre las mejoras operativas y los resultados finales de la corporaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 indicadores de rentabilidad se ven directamente impulsados por la digitalizaci\u00f3n operativa?",
+      "answerOptions": [
+        {
+          "text": "\u00danicamente el n\u00famero de seguidores en redes sociales corporativas.",
+          "isCorrect": false,
+          "rationale": "La digitalizaci\u00f3n en miner\u00eda impacta m\u00e9tricas financieras profundas, no m\u00e9tricas de marketing digital superficial."
+        },
+        {
+          "text": "El EBITDA y el ROIC (retorno sobre el capital invertido).",
+          "isCorrect": true,
+          "rationale": "La reducci\u00f3n de costos y la optimizaci\u00f3n de activos impactan directamente en estos indicadores cr\u00edticos de \u00e9xito financiero."
+        },
+        {
+          "text": "La cantidad de patentes registradas en el siglo pasado.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis se enfoca en indicadores actuales de desempe\u00f1o financiero y generaci\u00f3n de valor."
+        },
+        {
+          "text": "El volumen de papel utilizado en los informes de fin de mes.",
+          "isCorrect": false,
+          "rationale": "Si bien la digitalizaci\u00f3n reduce el uso de papel, este no es un indicador clave de rentabilidad estrat\u00e9gica."
+        }
+      ],
+      "hint": "Piense en siglas financieras que miden el retorno de inversi\u00f3n y la salud operativa."
+    },
+    {
+      "question": "\u00bfC\u00f3mo act\u00faa la digitalizaci\u00f3n como un escudo protector en mercados de commodities vol\u00e1tiles?",
+      "answerOptions": [
+        {
+          "text": "Permitiendo que la empresa fije los precios mundiales de los metales.",
+          "isCorrect": false,
+          "rationale": "Las mineras suelen ser tomadoras de precios; la digitalizaci\u00f3n ayuda a gestionar lo interno, no a controlar el mercado global."
+        },
+        {
+          "text": "Al reducir el cash cost y situar a la operaci\u00f3n en el primer cuartil de costos de la industria.",
+          "isCorrect": true,
+          "rationale": "Tener costos bajos garantiza la supervivencia y rentabilidad incluso cuando los precios de los metales caen."
+        },
+        {
+          "text": "Aumentando la dependencia de pr\u00e9stamos bancarios de corto plazo.",
+          "isCorrect": false,
+          "rationale": "La resiliencia financiera busca robustez propia y mejores condiciones de financiamiento, no mayor dependencia riesgosa."
+        },
+        {
+          "text": "Eliminando por completo la necesidad de extraer mineral durante las crisis.",
+          "isCorrect": false,
+          "rationale": "El objetivo es seguir siendo rentable y operando de manera eficiente durante los ciclos bajos de precios."
+        }
+      ],
+      "hint": "Considere la importancia de ser uno de los productores de menor costo en el sector."
+    },
+    {
+      "question": "En el caso de Antamina, \u00bfcu\u00e1l fue el impacto econ\u00f3mico total logrado mediante anal\u00edtica avanzada?",
+      "answerOptions": [
+        {
+          "text": "$10$ millones de d\u00f3lares en gastos de oficina.",
+          "isCorrect": false,
+          "rationale": "La cifra es significativamente mayor y se enfoca en \u00e1reas operativas cr\u00edticas como combustible y molienda."
+        },
+        {
+          "text": "$170$ millones de d\u00f3lares mediante ahorros en combustible y optimizaci\u00f3n de molienda.",
+          "isCorrect": true,
+          "rationale": "Esta cifra demuestra c\u00f3mo la inteligencia de datos puede generar retornos comparables a descubrir nuevos yacimientos."
+        },
+        {
+          "text": "$500$ millones de d\u00f3lares exclusivamente por la venta de chatarra.",
+          "isCorrect": false,
+          "rationale": "El ahorro e incremento de valor provino de la eficiencia operativa en los procesos n\u00facleo de la mina."
+        },
+        {
+          "text": "$170$ mil d\u00f3lares en capacitaciones b\u00e1sicas de software.",
+          "isCorrect": false,
+          "rationale": "La magnitud del impacto financiero en el caso mencionado es de millones, no de miles de d\u00f3lares."
+        }
+      ],
+      "hint": "Recuerde la cifra de tres d\u00edgitos que rivaliza con el valor de un nuevo descubrimiento geol\u00f3gico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue la estrategia distintiva de Minsur (San Rafael) para generar valor adicional?",
+      "answerOptions": [
+        {
+          "text": "Comprar minas de oro en otros continentes para diversificar el riesgo.",
+          "isCorrect": false,
+          "rationale": "La estrategia mencionada se centr\u00f3 en la innovaci\u00f3n tecnol\u00f3gica interna y su comercializaci\u00f3n."
+        },
+        {
+          "text": "Ignorar las leyes de mineral bajas y enfocarse solo en la producci\u00f3n masiva.",
+          "isCorrect": false,
+          "rationale": "Minsur enfrent\u00f3 el reto de las leyes bajas mediante tecnolog\u00eda y un cambio en su modelo de negocio."
+        },
+        {
+          "text": "Monetizar su propiedad intelectual licenciando tecnolog\u00eda de relaves filtrados.",
+          "isCorrect": true,
+          "rationale": "Transformaron un desarrollo tecnol\u00f3gico interno en una fuente de ingresos adicional mediante el licenciamiento a terceros."
+        },
+        {
+          "text": "Reducir la inversi\u00f3n en tecnolog\u00eda digital para ahorrar capital.",
+          "isCorrect": false,
+          "rationale": "Al contrario, su \u00e9xito se bas\u00f3 en el desarrollo de soluciones tecnol\u00f3gicas avanzadas."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo convirtieron un desarrollo t\u00e9cnico propio en un producto para otras empresas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo corren los proyectos digitales que no est\u00e1n alineados con el plan estrat\u00e9gico quinquenal?",
+      "answerOptions": [
+        {
+          "text": "Tener un exceso de financiamiento por parte de los accionistas.",
+          "isCorrect": false,
+          "rationale": "La falta de alineaci\u00f3n estrat\u00e9gica suele conducir a la falta de apoyo y recursos, no al exceso de los mismos."
+        },
+        {
+          "text": "Quedarse sin tracci\u00f3n, perder el apoyo de los accionistas y el financiamiento.",
+          "isCorrect": true,
+          "rationale": "Sin el respaldo del documento maestro de la organizaci\u00f3n, los proyectos tecnol\u00f3gicos carecen de viabilidad a largo plazo."
+        },
+        {
+          "text": "Ser adoptados inmediatamente por todas las \u00e1reas de la empresa.",
+          "isCorrect": false,
+          "rationale": "La adopci\u00f3n generalizada requiere una integraci\u00f3n formal en la estrategia corporativa."
+        },
+        {
+          "text": "Convertirse autom\u00e1ticamente en la base de la cultura organizacional.",
+          "isCorrect": false,
+          "rationale": "La cultura se construye sobre la base de una estrategia clara y un compromiso formal de liderazgo."
+        }
+      ],
+      "hint": "Considere la importancia de la 'gasolina' financiera y el respaldo del directorio."
+    },
+    {
+      "question": "En el Balance Scorecard digital, \u00bfqu\u00e9 se busca en la capa de Procesos Internos?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la burocracia manual para evitar errores digitales.",
+          "isCorrect": false,
+          "rationale": "El objetivo es la agilidad y precisi\u00f3n, no el incremento de procesos manuales lentos."
+        },
+        {
+          "text": "Implementar gemelos digitales y centros de operaciones para mantenimiento predictivo.",
+          "isCorrect": true,
+          "rationale": "Estas herramientas permiten predecir fallas y optimizar la operaci\u00f3n antes de que ocurran incidentes."
+        },
+        {
+          "text": "Eliminar la capacitaci\u00f3n del personal para enfocarse solo en m\u00e1quinas.",
+          "isCorrect": false,
+          "rationale": "La capacitaci\u00f3n (upskilling) es la base de todo el edificio del Balance Scorecard digital."
+        },
+        {
+          "text": "Reducir la trazabilidad de los minerales para agilizar los despachos.",
+          "isCorrect": false,
+          "rationale": "La trazabilidad es cr\u00edtica para los interesados y clientes, y se fortalece con tecnolog\u00edas como blockchain."
+        }
+      ],
+      "hint": "Piense en herramientas tecnol\u00f3gicas que permiten anticiparse a problemas mec\u00e1nicos u operativos."
+    },
+    {
+      "question": "\u00bfC\u00f3mo beneficia el acceso a 'financiamiento verde' a una empresa minera digitalmente madura?",
+      "answerOptions": [
+        {
+          "text": "Permite ocultar los datos ambientales reales a los reguladores.",
+          "isCorrect": false,
+          "rationale": "El financiamiento verde se basa en la transparencia absoluta y datos verificables, no en el ocultamiento."
+        },
+        {
+          "text": "Obliga a la empresa a pagar tasas de inter\u00e9s m\u00e1s altas por ser tecnol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la transparencia y eficiencia demostrada permiten acceder a capital con costos mucho menores."
+        },
+        {
+          "text": "Proporciona capital con tasas de inter\u00e9s m\u00e1s bajas gracias a datos inmutables y transparentes.",
+          "isCorrect": true,
+          "rationale": "La evidencia digital del cumplimiento de metas ambientales genera confianza en los mercados globales (ej. bonos verdes)."
+        },
+        {
+          "text": "Garantiza que la empresa no tenga que devolver el dinero prestado.",
+          "isCorrect": false,
+          "rationale": "Es un financiamiento que debe ser retribuido, pero bajo condiciones preferenciales de costo y plazo."
+        }
+      ],
+      "hint": "Relacione la transparencia de los datos con la confianza de los inversionistas en Wall Street."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n estrat\u00e9gica de la gobernanza de datos seg\u00fan el paradigma econ\u00f3mico moderno?",
+      "answerOptions": [
+        {
+          "text": "Es simplemente un tema t\u00e9cnico que compete al \u00e1rea de soporte inform\u00e1tico.",
+          "isCorrect": false,
+          "rationale": "Hoy se considera un pilar estrat\u00e9gico que influye en el acceso a capitales y la competitividad."
+        },
+        {
+          "text": "Es la llave maestra para el financiamiento futuro y la transparencia ante el mercado.",
+          "isCorrect": true,
+          "rationale": "Permite respaldar el cumplimiento de metas y la eficiencia operativa con evidencia inalterable para los inversionistas."
+        },
+        {
+          "text": "Sirve para limitar el acceso de los gerentes a la informaci\u00f3n financiera.",
+          "isCorrect": false,
+          "rationale": "La gobernanza busca asegurar que la informaci\u00f3n sea correcta y est\u00e9 disponible para la toma de decisiones, no restringirla innecesariamente."
+        },
+        {
+          "text": "Es una herramienta para aumentar artificialmente el valor de las acciones.",
+          "isCorrect": false,
+          "rationale": "Su objetivo es reflejar la realidad operativa de manera auditable, lo que genera valor real y sostenible."
+        }
+      ],
+      "hint": "Considere el papel de los datos en la credibilidad ante entidades financieras externas."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Miner\u00eda 4.0",
+      "Latencia sist\u00e9mica",
+      "Ciclo OODA",
+      "Seguridad industrial y psicol\u00f3gica",
+      "Rentabilidad digital (EBITDA, ROIC)",
+      "Financiamiento verde y Bonos Verdes",
+      "Casos de estudio (Antamina, Minsur, Codelco)"
+    ],
+    "followUp": [
+      "Arquitecturas digitales robustas",
+      "Mantenimiento predictivo con Gemelos Digitales",
+      "Lean Mining y eficiencia de recursos",
+      "Gobernanza de datos para mercados de capitales"
+    ]
+  }
+}

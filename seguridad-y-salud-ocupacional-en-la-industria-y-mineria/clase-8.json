@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo primordial de una investigaci\u00f3n de accidentes en el entorno laboral?",
+      "answerOptions": [
+        {
+          "text": "Identificar y sancionar a los responsables individuales del suceso.",
+          "isCorrect": false,
+          "rationale": "El enfoque punitivo no previene la recurrencia ni analiza las causas de fondo del sistema."
+        },
+        {
+          "text": "Diagnosticar fallas sist\u00e9micas reales para construir barreras eficaces.",
+          "isCorrect": true,
+          "rationale": "La investigaci\u00f3n estrat\u00e9gica busca la ra\u00edz del problema para implementar mejoras que eviten que el incidente se repita."
+        },
+        {
+          "text": "Completar el papeleo legal requerido por las autoridades gubernamentales.",
+          "isCorrect": false,
+          "rationale": "Aunque es un requisito, ver la investigaci\u00f3n solo como un tr\u00e1mite administrativo ignora su valor preventivo."
+        },
+        {
+          "text": "Demostrar que la empresa cumple con todos los protocolos de seguridad.",
+          "isCorrect": false,
+          "rationale": "Este enfoque es reactivo y defensivo, en lugar de ser una herramienta de diagn\u00f3stico y mejora continua."
+        }
+      ],
+      "hint": "Piense en el prop\u00f3sito estrat\u00e9gico de encontrar la verdadera ra\u00edz del problema."
+    },
+    {
+      "question": "\u00bfC\u00f3mo act\u00faan las condiciones ambientales subest\u00e1ndar en la percepci\u00f3n del riesgo del trabajador?",
+      "answerOptions": [
+        {
+          "text": "Como distractores visuales que no afectan la respuesta fisiol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "Los factores ambientales tienen un impacto profundo que va m\u00e1s all\u00e1 de la simple distracci\u00f3n visual."
+        },
+        {
+          "text": "Como catalizadores silenciosos que alteran la respuesta fisiol\u00f3gica y la percepci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Estos factores pueden influir en el trabajador sin que este se d\u00e9 cuenta, propiciando errores antes de que ocurran."
+        },
+        {
+          "text": "Como indicadores secundarios que solo cobran importancia tras un error humano.",
+          "isCorrect": false,
+          "rationale": "Estos factores suelen ser la causa ra\u00edz y no simplemente un elemento secundario posterior al error."
+        },
+        {
+          "text": "Como barreras f\u00edsicas que impiden f\u00edsicamente la ejecuci\u00f3n de cualquier tarea.",
+          "isCorrect": false,
+          "rationale": "Aunque pueden dificultar la tarea, su peligro principal es c\u00f3mo alteran sutilmente la capacidad de respuesta del operador."
+        }
+      ],
+      "hint": "Considere la naturaleza invisible y transformadora de estos factores en el entorno f\u00edsico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el nivel m\u00ednimo de iluminaci\u00f3n en luxes exigido por la normativa para galer\u00edas y t\u00faneles?",
+      "answerOptions": [
+        {
+          "text": "18 lux",
+          "isCorrect": false,
+          "rationale": "Este valor es insuficiente y se asocia con condiciones de oscuridad que provocan accidentes graves."
+        },
+        {
+          "text": "50 lux",
+          "isCorrect": true,
+          "rationale": "Es el umbral m\u00ednimo legal para garantizar una visibilidad operativa b\u00e1sica en labores subterr\u00e1neas."
+        },
+        {
+          "text": "100 lux",
+          "isCorrect": false,
+          "rationale": "Aunque es una iluminaci\u00f3n superior, no es el m\u00ednimo t\u00e9cnico establecido espec\u00edficamente para t\u00faneles."
+        },
+        {
+          "text": "300 lux",
+          "isCorrect": false,
+          "rationale": "Este rango de iluminaci\u00f3n corresponde habitualmente a \u00e1reas de talleres y no a galer\u00edas de tr\u00e1nsito."
+        }
+      ],
+      "hint": "Es el 'n\u00famero m\u00e1gico' m\u00ednimo para \u00e1reas de tr\u00e1nsito subterr\u00e1neo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 rango de iluminaci\u00f3n se requiere espec\u00edficamente para los trabajos realizados en talleres?",
+      "answerOptions": [
+        {
+          "text": "Entre 50 y 100 lux",
+          "isCorrect": false,
+          "rationale": "Este nivel es demasiado bajo para las tareas de precisi\u00f3n o mantenimiento que se realizan en un taller."
+        },
+        {
+          "text": "Entre 300 y 500 lux",
+          "isCorrect": true,
+          "rationale": "Las tareas en talleres exigen una mayor agudeza visual, por lo que la norma eleva el requerimiento lum\u00ednico a este rango."
+        },
+        {
+          "text": "Exactamente 200 lux",
+          "isCorrect": false,
+          "rationale": "Aunque es mayor que en galer\u00edas, no alcanza el est\u00e1ndar \u00f3ptimo definido para entornos de taller."
+        },
+        {
+          "text": "M\u00e1s de 1000 lux",
+          "isCorrect": false,
+          "rationale": "Un nivel tan alto podr\u00eda generar deslumbramiento y no es el requisito est\u00e1ndar solicitado por la normativa minera."
+        }
+      ],
+      "hint": "Estas \u00e1reas requieren mucha m\u00e1s luz que las galer\u00edas debido a la complejidad de las tareas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el porcentaje m\u00ednimo de ox\u00edgeno obligatorio en cualquier labor subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "18.0%",
+          "isCorrect": false,
+          "rationale": "Este nivel se considera deficiente y representa un riesgo inmediato para la salud y la vida."
+        },
+        {
+          "text": "21.0%",
+          "isCorrect": false,
+          "rationale": "Aunque es el porcentaje normal en el aire atmosf\u00e9rico, el l\u00edmite legal m\u00ednimo permitido es ligeramente inferior."
+        },
+        {
+          "text": "19.5%",
+          "isCorrect": true,
+          "rationale": "Es el umbral cr\u00edtico por debajo del cual no se permite el ingreso de personal para evitar la hipoxia."
+        },
+        {
+          "text": "20.5%",
+          "isCorrect": false,
+          "rationale": "Es un valor seguro, pero no define el l\u00edmite t\u00e9cnico m\u00ednimo que marca la legalidad operativa."
+        }
+      ],
+      "hint": "Recuerde el valor decimal exacto que define la frontera de la supervivencia en atm\u00f3sferas confinadas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 velocidad m\u00ednima debe mantener el aire en las zonas m\u00e1s profundas de una operaci\u00f3n subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "$0.1 \\text{ m/s}$",
+          "isCorrect": false,
+          "rationale": "Una velocidad tan baja es insuficiente para diluir gases y mantener un ambiente respirable."
+        },
+        {
+          "text": "$0.3 \\text{ m/s}$",
+          "isCorrect": true,
+          "rationale": "Esta es la velocidad m\u00ednima requerida para asegurar una renovaci\u00f3n constante del aire en los frentes de trabajo."
+        },
+        {
+          "text": "$0.5 \\text{ m/s}$",
+          "isCorrect": false,
+          "rationale": "Aunque es una buena ventilaci\u00f3n, no es el valor m\u00ednimo t\u00e9cnico estipulado como base legal."
+        },
+        {
+          "text": "$1.0 \\text{ m/s}$",
+          "isCorrect": false,
+          "rationale": "Velocidades muy altas podr\u00edan ser molestas o levantar polvo innecesariamente, superando el m\u00ednimo requerido."
+        }
+      ],
+      "hint": "Es un valor decimal bajo, esencial para evitar el estancamiento de gases t\u00f3xicos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo de ruido permitido para una jornada laboral de 8 horas seg\u00fan la norma de ergonom\u00eda?",
+      "answerOptions": [
+        {
+          "text": "70 decibeles",
+          "isCorrect": false,
+          "rationale": "Este nivel es confortable, pero la normativa permite un umbral superior antes de exigir controles cr\u00edticos."
+        },
+        {
+          "text": "85 decibeles",
+          "isCorrect": true,
+          "rationale": "Este es el l\u00edmite t\u00e9cnico a partir del cual el ruido se considera da\u00f1ino para una exposici\u00f3n prolongada de 8 horas."
+        },
+        {
+          "text": "90 decibeles",
+          "isCorrect": false,
+          "rationale": "Este nivel excede el l\u00edmite permitido para 8 horas y requerir\u00eda una reducci\u00f3n dr\u00e1stica del tiempo de exposici\u00f3n."
+        },
+        {
+          "text": "100 decibeles",
+          "isCorrect": false,
+          "rationale": "Es un nivel muy alto que causar\u00eda da\u00f1o auditivo r\u00e1pidamente sin protecci\u00f3n extrema."
+        }
+      ],
+      "hint": "A partir de este n\u00famero, el ruido comienza a generar fatiga mental aplastante."
+    },
+    {
+      "question": "\u00bfQu\u00e9 efecto cr\u00edtico produce el exceso de ruido ambiental adem\u00e1s del riesgo de hipoacusia?",
+      "answerOptions": [
+        {
+          "text": "Aumento de la destreza manual en tareas repetitivas.",
+          "isCorrect": false,
+          "rationale": "El ruido excesivo degrada la coordinaci\u00f3n y no aporta beneficios a la destreza manual."
+        },
+        {
+          "text": "Bloqueo de la capacidad de escuchar se\u00f1ales de advertencia.",
+          "isCorrect": true,
+          "rationale": "El ruido enmascara las alarmas y alertas que salvan vidas, aislando operativamente al trabajador."
+        },
+        {
+          "text": "Mejora de la concentraci\u00f3n en entornos de alta presi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Por el contrario, el ruido genera fatiga mental y dificulta seriamente la concentraci\u00f3n."
+        },
+        {
+          "text": "Reducci\u00f3n de la temperatura corporal del trabajador.",
+          "isCorrect": false,
+          "rationale": "No existe una relaci\u00f3n directa entre el nivel de ruido y la termorregulaci\u00f3n corporal."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el sonido excesivo interact\u00faa con las alarmas de seguridad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo permitido para la exposici\u00f3n a vibraciones en las manos?",
+      "answerOptions": [
+        {
+          "text": "$1 \\text{ m/s}^2$",
+          "isCorrect": false,
+          "rationale": "Es un nivel de vibraci\u00f3n muy bajo que no suele ser el l\u00edmite restrictivo en herramientas industriales."
+        },
+        {
+          "text": "$5 \\text{ m/s}^2$",
+          "isCorrect": true,
+          "rationale": "Superar este valor puede destruir mec\u00e1nicamente la destreza necesaria para operar herramientas."
+        },
+        {
+          "text": "$10 \\text{ m/s}^2$",
+          "isCorrect": false,
+          "rationale": "Este nivel de vibraci\u00f3n es extremadamente alto y peligroso para los tejidos de la mano y el brazo."
+        },
+        {
+          "text": "$15 \\text{ m/s}^2$",
+          "isCorrect": false,
+          "rationale": "Exponerse a esta magnitud de vibraci\u00f3n causar\u00eda da\u00f1os inmediatos y severos en la salud biomec\u00e1nica."
+        }
+      ],
+      "hint": "Es la unidad de medida que limita el impacto mec\u00e1nico en las extremidades superiores."
+    },
+    {
+      "question": "\u00bfQu\u00e9 instrumento se utiliza t\u00e9cnicamente para medir el estr\u00e9s t\u00e9rmico en un ambiente laboral?",
+      "answerOptions": [
+        {
+          "text": "Term\u00f3metro de mercurio est\u00e1ndar.",
+          "isCorrect": false,
+          "rationale": "Un term\u00f3metro com\u00fan solo mide la temperatura seca y no considera la humedad ni la radiaci\u00f3n."
+        },
+        {
+          "text": "Term\u00f3metro de globo h\u00famedo.",
+          "isCorrect": true,
+          "rationale": "Este equipo eval\u00faa de manera integral c\u00f3mo el calor y la humedad afectan el estado de alerta del trabajador."
+        },
+        {
+          "text": "Anem\u00f3metro digital.",
+          "isCorrect": false,
+          "rationale": "El anem\u00f3metro se utiliza exclusivamente para medir la velocidad del aire, no la carga t\u00e9rmica."
+        },
+        {
+          "text": "Pir\u00f3metro l\u00e1ser.",
+          "isCorrect": false,
+          "rationale": "Mide la temperatura de superficies a distancia, pero no el estr\u00e9s t\u00e9rmico ambiental que afecta al cuerpo."
+        }
+      ],
+      "hint": "Considere la herramienta que combina la medici\u00f3n de la humedad y la temperatura global."
+    },
+    {
+      "question": "\u00bfC\u00f3mo debe definirse correctamente un Procedimiento Escrito de Trabajo Seguro (PETS)?",
+      "answerOptions": [
+        {
+          "text": "Como un tr\u00e1mite burocr\u00e1tico est\u00e1tico para cumplir la formalidad legal.",
+          "isCorrect": false,
+          "rationale": "Verlo como simple papeleo ignora su funci\u00f3n vital en la prevenci\u00f3n de accidentes."
+        },
+        {
+          "text": "Como un documento vivo alineado con la matriz IPERCK.",
+          "isCorrect": true,
+          "rationale": "Debe ser una hoja de ruta adaptable que evolucione con las lecciones aprendidas y los cambios tecnol\u00f3gicos."
+        },
+        {
+          "text": "Como una gu\u00eda general de comportamiento que no requiere validaci\u00f3n t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "La falta de validaci\u00f3n t\u00e9cnica lo convierte en un documento in\u00fatil para tareas de alto riesgo."
+        },
+        {
+          "text": "Como un manual de instrucciones dise\u00f1ado exclusivamente por personal de oficina.",
+          "isCorrect": false,
+          "rationale": "Los procedimientos de escritorio sin validaci\u00f3n de campo suelen ser inaplicables y peligrosos."
+        }
+      ],
+      "hint": "Piense en su relaci\u00f3n con la identificaci\u00f3n de peligros y su capacidad de adaptarse."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el principal riesgo de los denominados 'procedimientos de escritorio'?",
+      "answerOptions": [
+        {
+          "text": "Que consumen demasiado papel y recursos de impresi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El problema no es el recurso f\u00edsico, sino la calidad y aplicabilidad del contenido."
+        },
+        {
+          "text": "Que empujan al trabajador a cometer errores al ser f\u00edsicamente imposibles de ejecutar.",
+          "isCorrect": true,
+          "rationale": "Al no estar validados en terreno, exigen pasos que no coinciden con la realidad operativa, forzando atajos."
+        },
+        {
+          "text": "Que son demasiado largos y dif\u00edciles de leer para el personal.",
+          "isCorrect": false,
+          "rationale": "La longitud es secundaria; el peligro real es la desconexi\u00f3n con las herramientas y el entorno real."
+        },
+        {
+          "text": "Que no incluyen suficientes gr\u00e1ficos o ilustraciones en su dise\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Aunque el dise\u00f1o ayuda, el fallo cr\u00edtico es la inaplicabilidad de las instrucciones t\u00e9cnicas dadas."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede cuando un papel exige algo que no se puede cumplir con las herramientas disponibles."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza a una 'desviaci\u00f3n forzada' en una operaci\u00f3n t\u00e9cnica?",
+      "answerOptions": [
+        {
+          "text": "Una falla conductual por exceso de confianza o mala actitud.",
+          "isCorrect": false,
+          "rationale": "Esto describe una desviaci\u00f3n voluntaria, donde el trabajador elige no seguir la norma."
+        },
+        {
+          "text": "Un fallo sist\u00e9mico provocado por falta de recursos o presi\u00f3n de tiempo.",
+          "isCorrect": true,
+          "rationale": "Ocurre cuando el sistema obliga al trabajador a buscar atajos peligrosos debido a condiciones externas."
+        },
+        {
+          "text": "Un error involuntario causado por la falta de iluminaci\u00f3n en el \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "Si bien es un factor ambiental, la desviaci\u00f3n forzada se refiere espec\u00edficamente a la presi\u00f3n del sistema sobre el procedimiento."
+        },
+        {
+          "text": "La actualizaci\u00f3n constante de los est\u00e1ndares de seguridad.",
+          "isCorrect": false,
+          "rationale": "La actualizaci\u00f3n de est\u00e1ndares es una medida positiva y no una desviaci\u00f3n de la seguridad."
+        }
+      ],
+      "hint": "Piense en situaciones donde el entorno o la supervisi\u00f3n obligan a tomar un atajo."
+    },
+    {
+      "question": "\u00bfCu\u00e1ntos m\u00f3dulos cr\u00edticos de capacitaci\u00f3n exige la normativa minera como m\u00ednimo obligatorio?",
+      "answerOptions": [
+        {
+          "text": "5 m\u00f3dulos",
+          "isCorrect": false,
+          "rationale": "Esta cantidad es insuficiente para cubrir los temas transversales obligatorios definidos por ley."
+        },
+        {
+          "text": "10 m\u00f3dulos",
+          "isCorrect": true,
+          "rationale": "La normativa estipula esta cantidad espec\u00edfica de temas troncales para asegurar la competencia del personal."
+        },
+        {
+          "text": "15 m\u00f3dulos",
+          "isCorrect": false,
+          "rationale": "Aunque las empresas pueden impartir m\u00e1s, el m\u00ednimo legal obligatorio es menor."
+        },
+        {
+          "text": "20 m\u00f3dulos",
+          "isCorrect": false,
+          "rationale": "Excede el requisito b\u00e1sico inicial que exige la estructura normativa para la inducci\u00f3n y entrenamiento."
+        }
+      ],
+      "hint": "Es el n\u00famero que conforma la columna vertebral del plan anual de capacitaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 documentos garantizan la validez legal de una sesi\u00f3n de capacitaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Registros de asistencia, evaluaciones de eficacia y evidencia f\u00edsica.",
+          "isCorrect": true,
+          "rationale": "Estas tres piezas demuestran qui\u00e9n asisti\u00f3, si aprendi\u00f3 y si hubo una pr\u00e1ctica real."
+        },
+        {
+          "text": "Solo los diplomas firmados por el gerente de la empresa.",
+          "isCorrect": false,
+          "rationale": "Los certificados son testimoniales; la ley exige la trazabilidad de la asistencia y el aprendizaje."
+        },
+        {
+          "text": "Los manuales de estudio entregados a cada trabajador.",
+          "isCorrect": false,
+          "rationale": "Entregar material no garantiza que la capacitaci\u00f3n se haya realizado o que el conocimiento fuera absorbido."
+        },
+        {
+          "text": "El plan anual de capacitaci\u00f3n aprobado por el comit\u00e9.",
+          "isCorrect": false,
+          "rationale": "El plan es una intenci\u00f3n; la validez legal proviene de la ejecuci\u00f3n documentada de cada sesi\u00f3n."
+        }
+      ],
+      "hint": "Piense en la trazabilidad que va desde la firma hasta la demostraci\u00f3n de la eficacia."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre una norma t\u00e9cnica (ISO) y un reglamento (Decreto Supremo)?",
+      "answerOptions": [
+        {
+          "text": "La norma t\u00e9cnica es punitiva y el reglamento es solo sugerido.",
+          "isCorrect": false,
+          "rationale": "Es exactamente al rev\u00e9s; los reglamentos estatales tienen car\u00e1cter obligatorio y sancionador."
+        },
+        {
+          "text": "La norma t\u00e9cnica es referencial, mientras que el reglamento es obligatorio y punitivo.",
+          "isCorrect": true,
+          "rationale": "Los decretos supremos marcan los requisitos legales m\u00ednimos que no son opcionales para operar."
+        },
+        {
+          "text": "Ambas son gu\u00edas de aplicaci\u00f3n voluntaria seg\u00fan el criterio de la empresa.",
+          "isCorrect": false,
+          "rationale": "Confundir un mandato legal con una referencia voluntaria es un riesgo operativo inaceptable."
+        },
+        {
+          "text": "El reglamento solo aplica a los trabajadores y la norma t\u00e9cnica a los gerentes.",
+          "isCorrect": false,
+          "rationale": "Las leyes y normativas aplican de forma integral a toda la estructura organizacional."
+        }
+      ],
+      "hint": "Considere cu\u00e1l de las dos emana directamente del poder ejecutivo con fuerza de ley."
+    },
+    {
+      "question": "En la jerarqu\u00eda de controles de riesgos, \u00bfcu\u00e1l debe ser siempre la primera opci\u00f3n a evaluar?",
+      "answerOptions": [
+        {
+          "text": "El uso de Equipos de Protecci\u00f3n Personal (EPP).",
+          "isCorrect": false,
+          "rationale": "El EPP es la \u00faltima barrera de defensa y nunca debe ser la prioridad inicial."
+        },
+        {
+          "text": "La eliminaci\u00f3n del peligro.",
+          "isCorrect": true,
+          "rationale": "La meta suprema es quitar el peligro de la ecuaci\u00f3n por completo, por ejemplo, automatizando el proceso."
+        },
+        {
+          "text": "La implementaci\u00f3n de controles administrativos.",
+          "isCorrect": false,
+          "rationale": "Estos controles son menos efectivos que los cambios f\u00edsicos o de ingenier\u00eda en la fuente del riesgo."
+        },
+        {
+          "text": "La sustituci\u00f3n por un elemento menos riesgoso.",
+          "isCorrect": false,
+          "rationale": "Aunque es el segundo paso, la eliminaci\u00f3n siempre debe intentarse antes que cualquier otra medida."
+        }
+      ],
+      "hint": "Se trata de quitar el riesgo totalmente de la ecuaci\u00f3n."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el Equipo de Protecci\u00f3n Personal (EPP) se considera la \u00faltima barrera en la jerarqu\u00eda de controles?",
+      "answerOptions": [
+        {
+          "text": "Porque es el m\u00e9todo m\u00e1s costoso para la empresa.",
+          "isCorrect": false,
+          "rationale": "El costo no determina su posici\u00f3n; su ubicaci\u00f3n se debe a que no elimina el peligro, solo mitiga el da\u00f1o."
+        },
+        {
+          "text": "Porque depende totalmente de la voluntad y el uso correcto por parte del trabajador.",
+          "isCorrect": true,
+          "rationale": "Al ser un control que depende del factor humano, es el menos confiable comparado con controles de ingenier\u00eda."
+        },
+        {
+          "text": "Porque no existen normativas que regulen su calidad.",
+          "isCorrect": false,
+          "rationale": "El EPP est\u00e1 altamente regulado por est\u00e1ndares internacionales de calidad."
+        },
+        {
+          "text": "Porque solo debe usarse en caso de emergencia extrema.",
+          "isCorrect": false,
+          "rationale": "El EPP es de uso cotidiano, pero su funci\u00f3n es ser el \u00faltimo recurso cuando otros controles fallan."
+        }
+      ],
+      "hint": "Considere qu\u00e9 control es el m\u00e1s vulnerable si el trabajador olvida usarlo o lo usa mal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia legal espec\u00edfica pueden enfrentar los ejecutivos en caso de un accidente mortal sin capacitaci\u00f3n adecuada?",
+      "answerOptions": [
+        {
+          "text": "\u00danicamente una amonestaci\u00f3n verbal por parte del comit\u00e9.",
+          "isCorrect": false,
+          "rationale": "La gravedad de un accidente mortal conlleva implicaciones legales mucho m\u00e1s severas."
+        },
+        {
+          "text": "Responsabilidades penales directas.",
+          "isCorrect": true,
+          "rationale": "Si se demuestra que no hubo entrenamiento, el problema trasciende lo corporativo y se convierte en un tema penal personal."
+        },
+        {
+          "text": "Una reducci\u00f3n temporal en su salario mensual.",
+          "isCorrect": false,
+          "rationale": "Las sanciones por accidentes mortales no se limitan a ajustes salariales internos, sino a la justicia estatal."
+        },
+        {
+          "text": "La obligaci\u00f3n de asistir a un curso de liderazgo.",
+          "isCorrect": false,
+          "rationale": "Aunque es posible, no representa la consecuencia legal cr\u00edtica que marca la gravedad de la omisi\u00f3n."
+        }
+      ],
+      "hint": "Piense en la responsabilidad que llega hasta los tribunales de justicia."
+    },
+    {
+      "question": "Seg\u00fan el marco normativo, \u00bfcu\u00e1l es el deber fundamental del empleador respecto a las condiciones de trabajo?",
+      "answerOptions": [
+        {
+          "text": "Asegurar que los trabajadores compren su propio equipo de protecci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Es responsabilidad del empleador proveer todos los implementos de seguridad sin costo para el trabajador."
+        },
+        {
+          "text": "Proveer condiciones de trabajo seguras en todo momento sin excusas.",
+          "isCorrect": true,
+          "rationale": "El art\u00edculo 45 establece el deber de prevenci\u00f3n como una obligaci\u00f3n central e inalienable del empleador."
+        },
+        {
+          "text": "Supervisar solo las tareas que se realizan de d\u00eda.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad de seguridad es continua y abarca todos los turnos y horarios de operaci\u00f3n."
+        },
+        {
+          "text": "Delegar toda la responsabilidad de la seguridad en el departamento de RRHH.",
+          "isCorrect": false,
+          "rationale": "La prevenci\u00f3n es una responsabilidad de l\u00ednea que involucra a toda la jerarqu\u00eda de mando del empleador."
+        }
+      ],
+      "hint": "Es el principio de prevenci\u00f3n que sostiene toda la estructura legal de seguridad."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Investigaci\u00f3n estrat\u00e9gica de accidentes",
+      "Factores ambientales y m\u00e9tricas de seguridad",
+      "Control administrativo y Procedimientos Escritos (PETS)",
+      "Gesti\u00f3n de capacitaci\u00f3n y validez documental",
+      "Marco normativo y Jerarqu\u00eda de controles"
+    ],
+    "followUp": [
+      "Psicolog\u00eda de la seguridad y percepci\u00f3n del riesgo",
+      "Prevenci\u00f3n de enfermedades ocupacionales como la silicosis",
+      "Instrumentaci\u00f3n t\u00e9cnica para monitoreo de higiene ocupacional",
+      "Responsabilidades legales y penales en la industria minera"
+    ]
+  }
+}

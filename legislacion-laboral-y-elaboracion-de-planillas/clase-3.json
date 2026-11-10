@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 establece el art\u00edculo 22 de la Constituci\u00f3n Pol\u00edtica del Per\u00fa respecto al trabajo?",
+      "answerOptions": [
+        {
+          "text": "El trabajo es un deber y un derecho que sirve de base al bienestar social.",
+          "isCorrect": true,
+          "rationale": "La Constituci\u00f3n peruana define el trabajo como una obligaci\u00f3n y un derecho fundamental para el progreso social."
+        },
+        {
+          "text": "El trabajo es una facultad opcional regulada exclusivamente por el mercado.",
+          "isCorrect": false,
+          "rationale": "Esta visi\u00f3n ignora el car\u00e1cter de deber social y derecho que le otorga la Carta Magna."
+        },
+        {
+          "text": "El trabajo es un servicio civil obligatorio para todos los ciudadanos mayores de edad.",
+          "isCorrect": false,
+          "rationale": "Aunque es un deber, no se define como un servicio civil forzoso, sino como un derecho vinculado al bienestar."
+        },
+        {
+          "text": "El trabajo es un privilegio otorgado por el Estado seg\u00fan la necesidad econ\u00f3mica.",
+          "isCorrect": false,
+          "rationale": "La Constituci\u00f3n lo reconoce como un derecho fundamental, no como una concesi\u00f3n o privilegio estatal."
+        }
+      ],
+      "hint": "Relaciona el trabajo con una responsabilidad ciudadana y un beneficio para la sociedad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la frontera t\u00e9cnica inquebrantable que establece el sistema jur\u00eddico para definir la infancia?",
+      "answerOptions": [
+        {
+          "text": "Desde el nacimiento hasta los 10 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Este rango es menor al establecido legalmente, que extiende la protecci\u00f3n de la infancia hasta los 12 a\u00f1os."
+        },
+        {
+          "text": "Desde la concepci\u00f3n hasta los 12 a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "El ordenamiento jur\u00eddico peruano considera ni\u00f1o a todo ser humano desde su concepci\u00f3n hasta cumplir los 12 a\u00f1os."
+        },
+        {
+          "text": "Desde los 5 hasta los 14 a\u00f1os de edad.",
+          "isCorrect": false,
+          "rationale": "La ley inicia la protecci\u00f3n desde la concepci\u00f3n y marca el l\u00edmite de la ni\u00f1ez antes de los 14 a\u00f1os."
+        },
+        {
+          "text": "Desde el nacimiento hasta los 18 a\u00f1os de edad.",
+          "isCorrect": false,
+          "rationale": "A los 18 a\u00f1os se alcanza la mayor\u00eda de edad, pero la categor\u00eda de ni\u00f1o termina mucho antes, a los 12 a\u00f1os."
+        }
+      ],
+      "hint": "Comienza antes del nacimiento y termina al inicio de la adolescencia."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 edad puede otorgarse la emancipaci\u00f3n judicial para que un adolescente contrate laboralmente por s\u00ed mismo?",
+      "answerOptions": [
+        {
+          "text": "A partir de los 14 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "A esta edad el adolescente puede trabajar con permiso, pero no posee la capacidad plena que otorga la emancipaci\u00f3n."
+        },
+        {
+          "text": "A partir de los 15 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "La ley reserva este mecanismo legal espec\u00edfico para una edad m\u00e1s cercana a la mayor\u00eda de edad."
+        },
+        {
+          "text": "A partir de los 16 a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "La emancipaci\u00f3n judicial permite a los adolescentes de 16 a\u00f1os o m\u00e1s obligarse laboralmente de forma aut\u00f3noma."
+        },
+        {
+          "text": "A partir de los 17 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Aunque es posible a esta edad, el beneficio legal de autonom\u00eda puede solicitarse desde un a\u00f1o antes."
+        }
+      ],
+      "hint": "Es la edad m\u00ednima para reconocer una madurez anticipada mediante un juez."
+    },
+    {
+      "question": "Seg\u00fan la regla de proporcionalidad inversa, \u00bfcu\u00e1l es la edad m\u00ednima para realizar labores de pesca industrial?",
+      "answerOptions": [
+        {
+          "text": "14 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "A los 14 a\u00f1os solo se permiten labores generales que no impliquen riesgos elevados como la pesca industrial."
+        },
+        {
+          "text": "15 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Esta edad se asocia principalmente a la agricultura no industrial, no a actividades de alto riesgo extractivo."
+        },
+        {
+          "text": "16 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "A los 16 a\u00f1os se permite la miner\u00eda no met\u00e1lica, pero la pesca industrial requiere un a\u00f1o m\u00e1s de desarrollo."
+        },
+        {
+          "text": "17 a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Debido al alto riesgo de la actividad, la ley establece los 17 a\u00f1os como el umbral m\u00ednimo para la pesca industrial."
+        }
+      ],
+      "hint": "Es la edad m\u00e1s alta dentro de los rangos permitidos para el trabajo adolescente antes de la mayor\u00eda de edad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la jornada laboral m\u00e1xima permitida para adolescentes de 12 a 14 a\u00f1os en casos excepcionales?",
+      "answerOptions": [
+        {
+          "text": "6 horas diarias y 36 semanales.",
+          "isCorrect": false,
+          "rationale": "Esta jornada corresponde a adolescentes de mayor edad (15 a 17 a\u00f1os) debido a su mayor resistencia f\u00edsica."
+        },
+        {
+          "text": "4 horas diarias y 24 semanales.",
+          "isCorrect": true,
+          "rationale": "Para los menores de 12 a 14 a\u00f1os, el l\u00edmite es m\u00e1s estricto para evitar la fatiga y proteger su escolaridad."
+        },
+        {
+          "text": "5 horas diarias y 30 semanales.",
+          "isCorrect": false,
+          "rationale": "La ley establece l\u00edmites de 4 o 6 horas; no contempla un intermedio de 5 horas para este rango de edad."
+        },
+        {
+          "text": "3 horas diarias y 15 semanales.",
+          "isCorrect": false,
+          "rationale": "Aunque es una jornada protectora, el l\u00edmite legal m\u00e1ximo permitido es ligeramente superior."
+        }
+      ],
+      "hint": "Representa la mitad de una jornada laboral est\u00e1ndar de ocho horas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 requisito es indispensable para que un adolescente pueda realizar trabajo nocturno?",
+      "answerOptions": [
+        {
+          "text": "La autorizaci\u00f3n expresa y directa de un juez de familia.",
+          "isCorrect": true,
+          "rationale": "El juez de familia debe velar por que el entorno nocturno no da\u00f1e la formaci\u00f3n moral o f\u00edsica del menor."
+        },
+        {
+          "text": "Un acuerdo simple firmado entre el empleador y el adolescente.",
+          "isCorrect": false,
+          "rationale": "Un acuerdo privado no es suficiente dada la vulnerabilidad del menor y la severidad de las restricciones nocturnas."
+        },
+        {
+          "text": "La sola presencia de los padres durante la jornada de trabajo.",
+          "isCorrect": false,
+          "rationale": "La ley exige una validaci\u00f3n judicial previa, no simplemente el acompa\u00f1amiento de los tutores."
+        },
+        {
+          "text": "Un certificado de buena conducta emitido por el centro educativo.",
+          "isCorrect": false,
+          "rationale": "Aunque la educaci\u00f3n es prioridad, la seguridad en horario nocturno requiere la intervenci\u00f3n de una autoridad judicial."
+        }
+      ],
+      "hint": "Involucra a una autoridad del Poder Judicial encargada de proteger a los menores."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de los siguientes documentos es vital para obtener la autorizaci\u00f3n de trabajo adolescente?",
+      "answerOptions": [
+        {
+          "text": "Certificado de antecedentes penales del menor.",
+          "isCorrect": false,
+          "rationale": "Los menores no suelen presentar estos antecedentes y no es un requisito para la aptitud laboral b\u00e1sica."
+        },
+        {
+          "text": "Certificado m\u00e9dico expedido por el Ministerio de Salud (Minsa).",
+          "isCorrect": true,
+          "rationale": "Este documento confirma que el adolescente cuenta con la aptitud f\u00edsica y mental para el puesto espec\u00edfico."
+        },
+        {
+          "text": "Declaraci\u00f3n jurada de ingresos del n\u00facleo familiar.",
+          "isCorrect": false,
+          "rationale": "La autorizaci\u00f3n se basa en la protecci\u00f3n del menor y su aptitud, no en el nivel socioecon\u00f3mico de su familia."
+        },
+        {
+          "text": "Carta de recomendaci\u00f3n de un empleador anterior.",
+          "isCorrect": false,
+          "rationale": "Para la formalizaci\u00f3n administrativa, se requieren documentos oficiales de identidad, salud y educaci\u00f3n."
+        }
+      ],
+      "hint": "Es un documento que garantiza que el trabajo no afectar\u00e1 la salud del adolescente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje m\u00e1ximo de la planilla de una empresa puede estar compuesto por personal extranjero?",
+      "answerOptions": [
+        {
+          "text": "10%",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es demasiado bajo seg\u00fan el marco legal, que permite una mayor integraci\u00f3n de extranjeros."
+        },
+        {
+          "text": "20%",
+          "isCorrect": true,
+          "rationale": "La ley establece que el personal extranjero no debe superar el 20% para reservar el 80% al talento nacional."
+        },
+        {
+          "text": "30%",
+          "isCorrect": false,
+          "rationale": "El 30% es el l\u00edmite aplicado al monto total de las remuneraciones, no a la cantidad de personas en planilla."
+        },
+        {
+          "text": "50%",
+          "isCorrect": false,
+          "rationale": "Un porcentaje tan alto vulnerar\u00eda la protecci\u00f3n del mercado laboral interno para los trabajadores nacionales."
+        }
+      ],
+      "hint": "Es la quinta parte del total de trabajadores de la empresa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ciudadanos extranjeros est\u00e1n exonerados de los l\u00edmites de porcentajes de contrataci\u00f3n en Per\u00fa?",
+      "answerOptions": [
+        {
+          "text": "Ciudadanos de la Comunidad Andina (Bolivia, Ecuador y Colombia).",
+          "isCorrect": true,
+          "rationale": "Debido a convenios de integraci\u00f3n regional, estos ciudadanos reciben un trato igualitario al de los nacionales."
+        },
+        {
+          "text": "Ciudadanos con visa de turista que deseen trabajar temporalmente.",
+          "isCorrect": false,
+          "rationale": "La visa de turista proh\u00edbe terminantemente realizar actividades laborales remuneradas."
+        },
+        {
+          "text": "Inversionistas extranjeros con capital superior a un mill\u00f3n de d\u00f3lares.",
+          "isCorrect": false,
+          "rationale": "Aunque tienen facilidades migratorias, la exoneraci\u00f3n de l\u00edmites por nacionalidad se basa en acuerdos regionales."
+        },
+        {
+          "text": "Especialistas t\u00e9cnicos de cualquier pa\u00eds de la Uni\u00f3n Europea.",
+          "isCorrect": false,
+          "rationale": "La ley no otorga una exoneraci\u00f3n autom\u00e1tica general a ciudadanos europeos, salvo casos espec\u00edficos de convenios."
+        }
+      ],
+      "hint": "Pertenecen a un bloque regional de integraci\u00f3n del cual Per\u00fa es miembro."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el periodo de protecci\u00f3n del fuero maternal respecto al despido?",
+      "answerOptions": [
+        {
+          "text": "Solo durante los 9 meses de gestaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La protecci\u00f3n se extiende mucho m\u00e1s all\u00e1 del parto para incluir el periodo cr\u00edtico de lactancia."
+        },
+        {
+          "text": "Desde la notificaci\u00f3n del embarazo hasta un a\u00f1o despu\u00e9s del nacimiento.",
+          "isCorrect": true,
+          "rationale": "La ley protege a la madre desde que comunica su estado hasta que el hijo cumple un a\u00f1o, cubriendo la lactancia."
+        },
+        {
+          "text": "Desde el inicio del descanso prenatal hasta los 3 meses del beb\u00e9.",
+          "isCorrect": false,
+          "rationale": "Este periodo es insuficiente para garantizar la estabilidad laboral que busca la normativa peruana."
+        },
+        {
+          "text": "Durante los primeros seis meses de la relaci\u00f3n laboral.",
+          "isCorrect": false,
+          "rationale": "El fuero maternal no depende de la antig\u00fcedad, sino del estado biol\u00f3gico de la trabajadora."
+        }
+      ],
+      "hint": "Cubre todo el embarazo y se extiende hasta que finaliza el periodo de lactancia legal."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se distribuye el descanso remunerado por maternidad de 98 d\u00edas?",
+      "answerOptions": [
+        {
+          "text": "60 d\u00edas prenatales y 38 d\u00edas postnatales.",
+          "isCorrect": false,
+          "rationale": "La distribuci\u00f3n legal busca un equilibrio equitativo entre el descanso previo y posterior al parto."
+        },
+        {
+          "text": "30 d\u00edas prenatales y 68 d\u00edas postnatales.",
+          "isCorrect": false,
+          "rationale": "Aunque el descanso postnatal es vital, la ley establece mitades exactas para cada periodo."
+        },
+        {
+          "text": "49 d\u00edas prenatales y 49 d\u00edas postnatales.",
+          "isCorrect": true,
+          "rationale": "La norma divide los 98 d\u00edas en dos periodos iguales para proteger tanto la etapa final del embarazo como la recuperaci\u00f3n."
+        },
+        {
+          "text": "45 d\u00edas prenatales y 53 d\u00edas postnatales.",
+          "isCorrect": false,
+          "rationale": "Si bien suman una cifra cercana, no reflejan la divisi\u00f3n exacta de 49 d\u00edas establecida en la ley."
+        }
+      ],
+      "hint": "Se divide en dos partes exactamente iguales."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 caso se otorgan 30 d\u00edas adicionales de descanso postnatal?",
+      "answerOptions": [
+        {
+          "text": "Si la madre decide no tomar vacaciones ese a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Las vacaciones son un derecho independiente y no sustituyen o ampl\u00edan el descanso por maternidad por voluntad propia."
+        },
+        {
+          "text": "Si el nacimiento es m\u00faltiple o el hijo nace con discapacidad.",
+          "isCorrect": true,
+          "rationale": "Situaciones de mayor complejidad en el parto o salud del reci\u00e9n nacido activan esta extensi\u00f3n legal de protecci\u00f3n."
+        },
+        {
+          "text": "Si la empresa tiene m\u00e1s de 100 trabajadores en planilla.",
+          "isCorrect": false,
+          "rationale": "El tama\u00f1o de la empresa no influye en la duraci\u00f3n de los descansos biol\u00f3gicos de la madre."
+        },
+        {
+          "text": "Si el padre no cuenta con un empleo formal al momento del parto.",
+          "isCorrect": false,
+          "rationale": "El beneficio se basa en la condici\u00f3n de la madre y el neonato, no en la situaci\u00f3n laboral del c\u00f3nyuge."
+        }
+      ],
+      "hint": "Ocurre ante situaciones de salud especiales o cuando nace m\u00e1s de un beb\u00e9."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el monto del subsidio por lactancia por cada hijo nacido?",
+      "answerOptions": [
+        {
+          "text": "930 soles.",
+          "isCorrect": false,
+          "rationale": "Este monto sol\u00eda coincidir con la remuneraci\u00f3n m\u00ednima vital antigua, pero el subsidio de lactancia es un valor fijo distinto."
+        },
+        {
+          "text": "820 soles.",
+          "isCorrect": true,
+          "rationale": "Es la prestaci\u00f3n econ\u00f3mica que otorga el sistema de salud para el cuidado del reci\u00e9n nacido por cada hijo."
+        },
+        {
+          "text": "1025 soles.",
+          "isCorrect": false,
+          "rationale": "Esta cifra corresponde a la remuneraci\u00f3n m\u00ednima vital actual, no al subsidio espec\u00edfico por lactancia."
+        },
+        {
+          "text": "500 soles.",
+          "isCorrect": false,
+          "rationale": "Es una cantidad inferior a la establecida por la ley de seguridad social para este beneficio."
+        }
+      ],
+      "hint": "Es una cifra fija que ha permanecido estable para este tr\u00e1mite administrativo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la condici\u00f3n para que una empresa est\u00e9 obligada a implementar un lactario?",
+      "answerOptions": [
+        {
+          "text": "Tener al menos 50 trabajadores en total.",
+          "isCorrect": false,
+          "rationale": "La obligaci\u00f3n del lactario no depende del n\u00famero total de empleados, sino de un grupo demogr\u00e1fico espec\u00edfico."
+        },
+        {
+          "text": "Contar con 20 o m\u00e1s mujeres en edad f\u00e9rtil.",
+          "isCorrect": true,
+          "rationale": "La ley exige un lactario cuando se alcanza este n\u00famero de mujeres entre los 15 y 49 a\u00f1os."
+        },
+        {
+          "text": "Tener una facturaci\u00f3n anual superior a las 500 UIT.",
+          "isCorrect": false,
+          "rationale": "Se trata de un requisito de bienestar laboral basado en la demograf\u00eda del personal, no en ingresos econ\u00f3micos."
+        },
+        {
+          "text": "Contratar a una sola trabajadora gestante dentro de la oficina.",
+          "isCorrect": false,
+          "rationale": "La obligaci\u00f3n general se activa por el potencial de trabajadoras en edad f\u00e9rtil, no por un caso individual."
+        }
+      ],
+      "hint": "Se basa en el n\u00famero de mujeres que se encuentran en el rango de 15 a 49 a\u00f1os."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece el modelo social de discapacidad en la legislaci\u00f3n actual?",
+      "answerOptions": [
+        {
+          "text": "Que la discapacidad es una enfermedad que debe ser curada por el empleador.",
+          "isCorrect": false,
+          "rationale": "Este es el modelo m\u00e9dico obsoleto que se enfoca en la deficiencia y no en la interacci\u00f3n con el entorno."
+        },
+        {
+          "text": "Que la discapacidad resulta del choque entre la persona y las barreras del entorno.",
+          "isCorrect": true,
+          "rationale": "El modelo social entiende que las barreras f\u00edsicas o de actitud son las que generan la discapacidad, no la condici\u00f3n f\u00edsica sola."
+        },
+        {
+          "text": "Que las personas con discapacidad solo pueden realizar tareas manuales b\u00e1sicas.",
+          "isCorrect": false,
+          "rationale": "Esta es una idea discriminatoria que el modelo social busca erradicar mediante la inclusi\u00f3n en todo nivel."
+        },
+        {
+          "text": "Que el Estado debe asumir el 100% de los costos salariales de estas personas.",
+          "isCorrect": false,
+          "rationale": "La ley busca la integraci\u00f3n en el mercado laboral mediante cuotas y ajustes, no mediante el subsidio total del salario."
+        }
+      ],
+      "hint": "Cambia el enfoque desde la 'deficiencia' hacia las dificultades que impone la sociedad y la infraestructura."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la cuota de empleo obligatoria para personas con discapacidad en el sector privado?",
+      "answerOptions": [
+        {
+          "text": "5% si tiene m\u00e1s de 20 trabajadores.",
+          "isCorrect": false,
+          "rationale": "El 5% es la cuota correspondiente al sector p\u00fablico, que es m\u00e1s exigente."
+        },
+        {
+          "text": "3% si tiene m\u00e1s de 50 trabajadores.",
+          "isCorrect": true,
+          "rationale": "Las empresas privadas con m\u00e1s de 50 empleados deben cumplir con esta cuota m\u00ednima de inclusi\u00f3n."
+        },
+        {
+          "text": "2% sin importar el n\u00famero de empleados.",
+          "isCorrect": false,
+          "rationale": "La ley establece un umbral de cantidad de personal para que la obligaci\u00f3n sea exigible."
+        },
+        {
+          "text": "10% si la empresa recibe beneficios tributarios.",
+          "isCorrect": false,
+          "rationale": "Las cuotas son obligaciones generales y no dependen de reg\u00edmenes tributarios espec\u00edficos."
+        }
+      ],
+      "hint": "Es un porcentaje menor al exigido a las entidades del Estado."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la bonificaci\u00f3n para personas con discapacidad en concursos p\u00fablicos de m\u00e9ritos?",
+      "answerOptions": [
+        {
+          "text": "Un aumento del 5% en el salario base ofertado.",
+          "isCorrect": false,
+          "rationale": "La bonificaci\u00f3n se aplica al proceso de selecci\u00f3n, no directamente al monto del sueldo."
+        },
+        {
+          "text": "Un 15% adicional sobre el puntaje final obtenido.",
+          "isCorrect": true,
+          "rationale": "Esta acci\u00f3n afirmativa busca nivelar la cancha frente a las desigualdades hist\u00f3ricas en el acceso al empleo."
+        },
+        {
+          "text": "La exoneraci\u00f3n total de las pruebas de conocimientos.",
+          "isCorrect": false,
+          "rationale": "Deben participar en el concurso de m\u00e9ritos; la bonificaci\u00f3n ayuda al puntaje pero no elimina la evaluaci\u00f3n."
+        },
+        {
+          "text": "El pase directo a la entrevista personal sin filtros previos.",
+          "isCorrect": false,
+          "rationale": "Se deben cumplir todas las etapas del proceso; la bonificaci\u00f3n se suma al rendimiento demostrado."
+        }
+      ],
+      "hint": "Es un porcentaje que se suma a la calificaci\u00f3n al concluir las evaluaciones."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo puede un empleador negarse legalmente a realizar ajustes razonables para un trabajador con discapacidad?",
+      "answerOptions": [
+        {
+          "text": "Cuando el trabajador no tiene un t\u00edtulo profesional.",
+          "isCorrect": false,
+          "rationale": "La necesidad de ajustes se basa en la accesibilidad, no en el nivel educativo del trabajador."
+        },
+        {
+          "text": "Cuando el empleador considera que el cambio no es est\u00e9ticamente agradable.",
+          "isCorrect": false,
+          "rationale": "La est\u00e9tica no es un argumento v\u00e1lido frente al derecho de inclusi\u00f3n y accesibilidad."
+        },
+        {
+          "text": "Cuando demuestra que representan una carga econ\u00f3mica desproporcionada.",
+          "isCorrect": true,
+          "rationale": "El empleador debe sustentar t\u00e9cnicamente que el costo de la adaptaci\u00f3n amenaza la viabilidad del negocio."
+        },
+        {
+          "text": "Cuando el trabajador tiene menos de tres meses en la empresa.",
+          "isCorrect": false,
+          "rationale": "La obligaci\u00f3n de ajustes razonables aplica desde el inicio de la relaci\u00f3n laboral o la adquisici\u00f3n de la discapacidad."
+        }
+      ],
+      "hint": "Se relaciona con el impacto financiero que pondr\u00eda en riesgo a la empresa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el primer paso obligatorio si un trabajador adquiere una discapacidad durante la relaci\u00f3n laboral?",
+      "answerOptions": [
+        {
+          "text": "Reasignarlo inmediatamente a un puesto de menor responsabilidad.",
+          "isCorrect": false,
+          "rationale": "La reasignaci\u00f3n es el \u00faltimo recurso, no el primero, para proteger la dignidad del trabajador."
+        },
+        {
+          "text": "Tramitar el cese por invalidez sobreviniente.",
+          "isCorrect": false,
+          "rationale": "La ley busca la conservaci\u00f3n del empleo antes de considerar la desvinculaci\u00f3n."
+        },
+        {
+          "text": "Procurar la conservaci\u00f3n del puesto original del trabajador.",
+          "isCorrect": true,
+          "rationale": "La prioridad absoluta de la norma es que el trabajador mantenga su posici\u00f3n actual con las adaptaciones necesarias."
+        },
+        {
+          "text": "Otorgarle una jubilaci\u00f3n anticipada de forma autom\u00e1tica.",
+          "isCorrect": false,
+          "rationale": "La inclusi\u00f3n laboral busca que la persona siga productiva; la jubilaci\u00f3n es un derecho previsional distinto."
+        }
+      ],
+      "hint": "Se trata de mantener la estabilidad en las funciones que ya desempe\u00f1aba."
+    },
+    {
+      "question": "\u00bfQu\u00e9 entidad se encarga de fiscalizar el cumplimiento de las cuotas de discapacidad y la habilitaci\u00f3n de lactarios?",
+      "answerOptions": [
+        {
+          "text": "El Ministerio de Econom\u00eda y Finanzas (MEF).",
+          "isCorrect": false,
+          "rationale": "El MEF gestiona recursos p\u00fablicos, pero no tiene funciones de inspecci\u00f3n de condiciones laborales espec\u00edficas."
+        },
+        {
+          "text": "La Superintendencia Nacional de Fiscalizaci\u00f3n Laboral (Sunafil).",
+          "isCorrect": true,
+          "rationale": "Sunafil es el brazo fiscalizador que asegura que las normas de protecci\u00f3n sociolaboral no sean letra muerta."
+        },
+        {
+          "text": "La Defensor\u00eda del Pueblo.",
+          "isCorrect": false,
+          "rationale": "Aunque defiende derechos constitucionales, no tiene el poder sancionador administrativo directo sobre empresas en estos temas."
+        },
+        {
+          "text": "El Seguro Social de Salud (EsSalud).",
+          "isCorrect": false,
+          "rationale": "EsSalud brinda la cobertura m\u00e9dica y paga subsidios, pero no inspecciona el cumplimiento de cuotas laborales."
+        }
+      ],
+      "hint": "Es el organismo supervisor del cumplimiento de las leyes laborales en el Per\u00fa."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Marco Constitucional del Derecho Laboral Peruano",
+      "R\u00e9gimen de Protecci\u00f3n del Trabajo Infantil y Adolescente",
+      "Contrataci\u00f3n y L\u00edmites de Trabajadores Extranjeros",
+      "Fuero Maternal y Derechos de la Trabajadora Gestante",
+      "Inclusi\u00f3n Laboral de Personas con Discapacidad"
+    ],
+    "followUp": [
+      "Convenios de la OIT sobre Edad M\u00ednima y Peores Formas de Trabajo",
+      "Gesti\u00f3n del Sistema Virtual de Contratos Extranjeros (Civice)",
+      "C\u00e1lculo de Subsidios por Maternidad y Lactancia",
+      "Implementaci\u00f3n T\u00e9cnica de Ajustes Razonables en la Empresa",
+      "Procedimientos Sancionadores de Sunafil por Discriminaci\u00f3n"
+    ]
+  }
+}

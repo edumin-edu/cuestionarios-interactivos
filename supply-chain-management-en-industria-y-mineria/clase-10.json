@@ -1,0 +1,545 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple la cadena de suministro en relaci\u00f3n con los objetivos ESG (Ambientales, Sociales y de Gobernanza) en la miner\u00eda moderna?",
+      "answerOptions": [
+        {
+          "text": "Se encarga exclusivamente del transporte de minerales hacia los puertos de exportaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta visi\u00f3n limita la funci\u00f3n a la log\u00edstica tradicional, ignorando su rol estrat\u00e9gico en metas de sostenibilidad y licencia social."
+        },
+        {
+          "text": "Act\u00faa como el sistema nervioso central para gestionar la descarbonizaci\u00f3n y el apoyo a proveedores locales.",
+          "isCorrect": true,
+          "rationale": "La cadena de suministro es ahora el coraz\u00f3n de los objetivos ESG, permitiendo alinear la log\u00edstica con la responsabilidad social y ambiental."
+        },
+        {
+          "text": "Funciona como una herramienta de relaciones p\u00fablicas sin impacto en los riesgos operativos.",
+          "isCorrect": false,
+          "rationale": "El desarrollo de proveedores y la gesti\u00f3n log\u00edstica son estrategias de mitigaci\u00f3n de riesgos reales, no simples campa\u00f1as de imagen."
+        },
+        {
+          "text": "Es un \u00e1rea independiente que no influye en la obtenci\u00f3n de la licencia social para operar.",
+          "isCorrect": false,
+          "rationale": "La licencia social depende directamente de c\u00f3mo la empresa integra y beneficia a la red log\u00edstica y econ\u00f3mica local."
+        }
+      ],
+      "hint": "Considere la analog\u00eda utilizada para describir la red log\u00edstica como un sistema vital del cuerpo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 metales se mencionan como cr\u00edticos para el futuro y presentan una alta volatilidad de precios en el mercado global?",
+      "answerOptions": [
+        {
+          "text": "Oro y plata.",
+          "isCorrect": false,
+          "rationale": "Aunque son valiosos, el enfoque del an\u00e1lisis se centra en metales necesarios para la transici\u00f3n tecnol\u00f3gica y energ\u00e9tica."
+        },
+        {
+          "text": "Hierro y carb\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Estos materiales pertenecen a la industria tradicional y no se destacan como los elementos cr\u00edticos para las nuevas tecnolog\u00edas mencionadas."
+        },
+        {
+          "text": "Litio y n\u00edquel.",
+          "isCorrect": true,
+          "rationale": "Estos metales son fundamentales para las tecnolog\u00edas del futuro y enfrentan una presi\u00f3n de mercado y geopol\u00edtica significativa."
+        },
+        {
+          "text": "Plomo y zinc.",
+          "isCorrect": false,
+          "rationale": "Si bien son importantes en la miner\u00eda, no son los protagonistas de la volatilidad extrema ligada a la transici\u00f3n energ\u00e9tica actual."
+        }
+      ],
+      "hint": "Piense en los componentes esenciales para la fabricaci\u00f3n de bater\u00edas modernas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es uno de los mayores riesgos de utilizar un enfoque reactivo basado \u00fanicamente en consumos hist\u00f3ricos est\u00e1ticos?",
+      "answerOptions": [
+        {
+          "text": "Un aumento inesperado en la producci\u00f3n geol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "La geolog\u00eda de la mina es un factor independiente del m\u00e9todo de planificaci\u00f3n log\u00edstica utilizado."
+        },
+        {
+          "text": "La creaci\u00f3n de inventario innecesario y obsolescencia que da\u00f1a el flujo de caja.",
+          "isCorrect": true,
+          "rationale": "Mirar solo el pasado para predecir el futuro de forma lineal genera ineficiencias que inmovilizan capital innecesariamente."
+        },
+        {
+          "text": "Una mejora dr\u00e1stica en la comunicaci\u00f3n con los proveedores locales.",
+          "isCorrect": false,
+          "rationale": "Los modelos reactivos tienden a aislar a la empresa de su entorno al no prever cambios en la demanda o el mercado."
+        },
+        {
+          "text": "La reducci\u00f3n autom\u00e1tica de las tensiones territoriales.",
+          "isCorrect": false,
+          "rationale": "Las tensiones territoriales requieren estrategias sociales activas y no se resuelven mediante m\u00e9todos de inventario est\u00e1ticos."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 sucede con el dinero y los materiales cuando se compra de m\u00e1s bas\u00e1ndose en datos viejos."
+    },
+    {
+      "question": "En el uso de machine learning para la demanda, \u00bfcu\u00e1l de estos es uno de los pilares de datos fundamentales?",
+      "answerOptions": [
+        {
+          "text": "Resultados de encuestas de satisfacci\u00f3n al cliente.",
+          "isCorrect": false,
+          "rationale": "Aunque \u00fatiles en otros sectores, la miner\u00eda prioriza datos operativos y geol\u00f3gicos internos para su cadena de suministro."
+        },
+        {
+          "text": "Registros hist\u00f3ricos de asistencia del personal administrativo.",
+          "isCorrect": false,
+          "rationale": "Este tipo de datos no influye directamente en la predicci\u00f3n t\u00e9cnica de la demanda de repuestos o materiales operativos."
+        },
+        {
+          "text": "Telemetr\u00eda de los sensores en los equipos.",
+          "isCorrect": true,
+          "rationale": "La telemetr\u00eda permite conectar el estado real de la maquinaria en el frente de trabajo con las necesidades de suministro de forma predictiva."
+        },
+        {
+          "text": "Precios de la canasta b\u00e1sica en las comunidades locales.",
+          "isCorrect": false,
+          "rationale": "Estos datos corresponden a estudios socioecon\u00f3micos, no a los algoritmos de machine learning para la demanda operativa."
+        }
+      ],
+      "hint": "Considere la informaci\u00f3n t\u00e9cnica que proviene directamente de las m\u00e1quinas en funcionamiento."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 porcentaje aproximado mejora la precisi\u00f3n de los pron\u00f3sticos de demanda gracias a la sincronizaci\u00f3n con IA?",
+      "answerOptions": [
+        {
+          "text": "Entre un $5\\%$ y un $10\\%$.",
+          "isCorrect": false,
+          "rationale": "Esta mejora se considera marginal para el nivel de eficiencia que prometen las herramientas de inteligencia artificial avanzadas."
+        },
+        {
+          "text": "Entre un $20\\%$ y un $30\\%$.",
+          "isCorrect": true,
+          "rationale": "Este rango representa el salto de eficiencia medible al integrar algoritmos de machine learning en la planificaci\u00f3n de la demanda."
+        },
+        {
+          "text": "Aproximadamente un $50\\%$.",
+          "isCorrect": false,
+          "rationale": "Aunque es un objetivo ambicioso, el impacto inmediato y medible citado suele situarse en rangos m\u00e1s conservadores pero significativos."
+        },
+        {
+          "text": "Exactamente un $100\\%$.",
+          "isCorrect": false,
+          "rationale": "Es t\u00e9cnicamente imposible alcanzar una precisi\u00f3n perfecta en entornos operativos tan vol\u00e1tiles como la miner\u00eda."
+        }
+      ],
+      "hint": "Se trata de un incremento sustancial que suele superar la cuarta parte de la precisi\u00f3n inicial."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia principal aporta el modelo IBP (Integrated Business Planning) frente al S&OP tradicional?",
+      "answerOptions": [
+        {
+          "text": "Se enfoca exclusivamente en la log\u00edstica de transporte terrestre.",
+          "isCorrect": false,
+          "rationale": "El transporte es solo una parte t\u00e1ctica, mientras que el IBP busca una integraci\u00f3n a nivel organizacional mucho m\u00e1s amplia."
+        },
+        {
+          "text": "Elimina la necesidad de usar inteligencia artificial en los pron\u00f3sticos.",
+          "isCorrect": false,
+          "rationale": "El IBP no elimina la tecnolog\u00eda, sino que la ancla en un marco de planificaci\u00f3n financiera y estrat\u00e9gica."
+        },
+        {
+          "text": "Integra las finanzas y permite realizar simulaciones estrat\u00e9gicas a largo plazo.",
+          "isCorrect": true,
+          "rationale": "El IBP evoluciona del ritmo t\u00e1ctico mensual hacia una visi\u00f3n financiera que permite proyectar escenarios de capital a varios a\u00f1os."
+        },
+        {
+          "text": "Es un modelo que solo se aplica a proveedores de bajo valor econ\u00f3mico.",
+          "isCorrect": false,
+          "rationale": "El IBP es un marco de gobernanza para toda la operaci\u00f3n minera, independientemente del valor de los insumos."
+        }
+      ],
+      "hint": "Piense en la incorporaci\u00f3n de variables monetarias y la proyecci\u00f3n del negocio a futuro."
+    },
+    {
+      "question": "En la matriz de criticidad MRO, \u00bfqu\u00e9 categor\u00edas se cruzan para determinar el nivel de control de un material?",
+      "answerOptions": [
+        {
+          "text": "Distancia del proveedor y peso del material.",
+          "isCorrect": false,
+          "rationale": "Estos son factores log\u00edsticos, pero no definen la criticidad estrat\u00e9gica del repuesto en el inventario."
+        },
+        {
+          "text": "Valor econ\u00f3mico (A, B, C) y necesidad operativa (Vital, Esencial, Deseable).",
+          "isCorrect": true,
+          "rationale": "Cruzar el costo con el impacto operativo permite priorizar recursos y evitar burocracia en art\u00edculos de bajo impacto."
+        },
+        {
+          "text": "Fecha de caducidad y pa\u00eds de origen.",
+          "isCorrect": false,
+          "rationale": "Aunque relevantes para algunos insumos, no son los ejes principales de una matriz de criticidad para mantenimiento minero."
+        },
+        {
+          "text": "Tama\u00f1o del almac\u00e9n y n\u00famero de empleados.",
+          "isCorrect": false,
+          "rationale": "Estas son capacidades f\u00edsicas y de personal, no criterios para clasificar la importancia de los repuestos."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre cu\u00e1nto cuesta el objeto y qu\u00e9 tan necesario es para que la mina no se detenga."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el riesgo financiero de una parada no programada de un equipo principal en una mina de clase mundial?",
+      "answerOptions": [
+        {
+          "text": "Cientos de d\u00f3lares al mes.",
+          "isCorrect": false,
+          "rationale": "Esta cifra subestima masivamente el impacto econ\u00f3mico de la inactividad en la gran miner\u00eda."
+        },
+        {
+          "text": "Un aumento en el valor de las acciones de la empresa.",
+          "isCorrect": false,
+          "rationale": "Las paradas no programadas destruyen valor y generan incertidumbre, lo que suele afectar negativamente a los inversores."
+        },
+        {
+          "text": "Millones de d\u00f3lares al d\u00eda.",
+          "isCorrect": true,
+          "rationale": "La alta intensidad operativa hace que cualquier interrupci\u00f3n en equipos cr\u00edticos devore las ganancias r\u00e1pidamente."
+        },
+        {
+          "text": "No genera p\u00e9rdidas si el equipo tiene garant\u00eda del fabricante.",
+          "isCorrect": false,
+          "rationale": "La garant\u00eda puede cubrir el repuesto, pero no compensa el lucro cesante por la producci\u00f3n detenida."
+        }
+      ],
+      "hint": "Piense en la magnitud de la p\u00e9rdida econ\u00f3mica diaria en operaciones a gran escala."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es fundamental una codificaci\u00f3n y estandarizaci\u00f3n t\u00e9cnica estricta en el sistema de inventarios?",
+      "answerOptions": [
+        {
+          "text": "Para permitir que cualquier empleado escriba descripciones gen\u00e9ricas.",
+          "isCorrect": false,
+          "rationale": "Las descripciones gen\u00e9ricas son precisamente lo que se busca evitar para prevenir errores de compra."
+        },
+        {
+          "text": "Para evitar la duplicidad de stock y errores graves en la adquisici\u00f3n de materiales.",
+          "isCorrect": true,
+          "rationale": "Sin una base de datos t\u00e9cnica unificada, se terminan comprando piezas que ya existen bajo otros nombres o descripciones vagos."
+        },
+        {
+          "text": "Para reducir el n\u00famero de sensores IoT en la mina.",
+          "isCorrect": false,
+          "rationale": "La estandarizaci\u00f3n de datos es complementaria a la tecnolog\u00eda IoT y no busca reducir su presencia."
+        },
+        {
+          "text": "Para facilitar la contrataci\u00f3n de personal sin experiencia t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "Al contrario, mantener un sistema estandarizado requiere personal con alta capacidad anal\u00edtica y t\u00e9cnica."
+        }
+      ],
+      "hint": "Piense en el desorden que causar\u00eda tener el mismo repuesto registrado con tres nombres diferentes."
+    },
+    {
+      "question": "Seg\u00fan la evidencia operativa, \u00bfqu\u00e9 logro obtuvo la empresa Codelco mediante la implementaci\u00f3n de mantenimiento predictivo (PDM)?",
+      "answerOptions": [
+        {
+          "text": "Un $15\\%$ menos de paradas de equipo.",
+          "isCorrect": true,
+          "rationale": "El uso de sensores y software para detectar fallas antes de que ocurran permiti\u00f3 este incremento directo en la disponibilidad."
+        },
+        {
+          "text": "Un aumento del $30\\%$ en el tiempo de inactividad.",
+          "isCorrect": false,
+          "rationale": "El objetivo del PDM es reducir la inactividad, no aumentarla; este resultado ser\u00eda un fracaso del sistema."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de la necesidad de almacenes f\u00edsicos.",
+          "isCorrect": false,
+          "rationale": "Incluso con mantenimiento predictivo, los repuestos f\u00edsicos siguen siendo necesarios para realizar las reparaciones."
+        },
+        {
+          "text": "La reducci\u00f3n del $100\\%$ en el costo de transporte.",
+          "isCorrect": false,
+          "rationale": "El transporte siempre genera costos; el PDM solo optimiza cu\u00e1ndo y por qu\u00e9 se mueven las piezas."
+        }
+      ],
+      "hint": "Busque la m\u00e9trica espec\u00edfica relacionada con la continuidad de la operaci\u00f3n de sus m\u00e1quinas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el concepto de Costo Total de Propiedad (TCO) en la compra de equipos mineros?",
+      "answerOptions": [
+        {
+          "text": "El precio de etiqueta m\u00e1s bajo ofrecido por el proveedor en el momento de la compra.",
+          "isCorrect": false,
+          "rationale": "Este enfoque transaccional antiguo ignora los gastos futuros de mantenimiento y operaci\u00f3n."
+        },
+        {
+          "text": "Una visi\u00f3n integral del ciclo de vida del activo, incluyendo rendimiento, confiabilidad y duraci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Es m\u00e1s valioso un equipo que dure m\u00e1s y falle menos que uno barato que genere sobrecostos log\u00edsticos por reparaciones constantes."
+        },
+        {
+          "text": "El costo del seguro de transporte desde la f\u00e1brica hasta la mina.",
+          "isCorrect": false,
+          "rationale": "El seguro es solo un componente menor dentro del costo total de propiedad de un activo industrial complejo."
+        },
+        {
+          "text": "El gasto total en salarios de los operadores que usar\u00e1n el equipo.",
+          "isCorrect": false,
+          "rationale": "Aunque es un costo operativo, el TCO se centra espec\u00edficamente en los costos asociados al activo f\u00edsico en s\u00ed mismo."
+        }
+      ],
+      "hint": "Piense en mirar m\u00e1s all\u00e1 de la oferta inicial para considerar todos los gastos a lo largo de los a\u00f1os."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un beneficio financiero clave del modelo de Inventario Gestionado por el Proveedor (VMI)?",
+      "answerOptions": [
+        {
+          "text": "El operador minero debe pagar por adelantado todo el stock almacenado.",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda una compra tradicional, lo cual es opuesto a la ventaja financiera que ofrece el modelo VMI."
+        },
+        {
+          "text": "El costo de mantener el inventario para la empresa operadora es pr\u00e1cticamente cero.",
+          "isCorrect": true,
+          "rationale": "Bajo contratos en consignaci\u00f3n, el proveedor es due\u00f1o del stock y solo factura lo que el operador realmente consume."
+        },
+        {
+          "text": "Se eliminan las auditor\u00edas de inventario por parte de la empresa minera.",
+          "isCorrect": false,
+          "rationale": "A pesar de ser gestionado por el proveedor, el operador sigue auditando para asegurar la transparencia y disponibilidad."
+        },
+        {
+          "text": "El proveedor asume el pago de los impuestos de exportaci\u00f3n de la mina.",
+          "isCorrect": false,
+          "rationale": "Los impuestos de exportaci\u00f3n del mineral son responsabilidad de la empresa minera y no tienen relaci\u00f3n con el VMI."
+        }
+      ],
+      "hint": "Piense en qui\u00e9n es el due\u00f1o legal de las piezas mientras est\u00e1n guardadas en la bodega de la mina."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el desarrollo de proveedores locales se considera una estrategia de gesti\u00f3n de riesgos y no solo caridad?",
+      "answerOptions": [
+        {
+          "text": "Porque permite a la empresa pagar salarios m\u00e1s bajos que a los extranjeros.",
+          "isCorrect": false,
+          "rationale": "La estrategia busca valor compartido y calidad, no simplemente la reducci\u00f3n de salarios mediante la precarizaci\u00f3n."
+        },
+        {
+          "text": "Porque garantiza la licencia social para operar y reduce tiempos de entrega.",
+          "isCorrect": true,
+          "rationale": "Tener socios locales s\u00f3lidos mitiga conflictos sociales que podr\u00edan paralizar la mina y mejora la agilidad log\u00edstica."
+        },
+        {
+          "text": "Porque elimina la necesidad de realizar auditor\u00edas t\u00e9cnicas externas.",
+          "isCorrect": false,
+          "rationale": "Al contrario, se requiere auditar la solvencia t\u00e9cnica y \u00e9tica de los locales para integrarlos a est\u00e1ndares globales."
+        },
+        {
+          "text": "Porque obliga a los proveedores locales a trabajar sin contratos a largo plazo.",
+          "isCorrect": false,
+          "rationale": "La estabilidad de los contratos a largo plazo es justamente lo que permite a los proveedores locales reinvertir y crecer."
+        }
+      ],
+      "hint": "Piense en la relaci\u00f3n entre la comunidad y la continuidad operativa del proyecto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal de un operador log\u00edstico tipo 4PL?",
+      "answerOptions": [
+        {
+          "text": "Posee su propia flota de camiones y grandes almacenes f\u00edsicos.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde a un modelo 3PL, que basa su negocio en la propiedad y operaci\u00f3n de activos."
+        },
+        {
+          "text": "Se enfoca exclusivamente en reducir el costo unitario de cada flete.",
+          "isCorrect": false,
+          "rationale": "Su visi\u00f3n es hol\u00edstica y estrat\u00e9gica, no se limita a la reducci\u00f3n de costos t\u00e1cticos de transporte."
+        },
+        {
+          "text": "Es un integrador estrat\u00e9gico que no posee activos f\u00edsicos y gestiona a m\u00faltiples proveedores 3PL.",
+          "isCorrect": true,
+          "rationale": "El 4PL act\u00faa como el cerebro de la cadena de suministro, aportando una visi\u00f3n imparcial y optimizaci\u00f3n de extremo a extremo."
+        },
+        {
+          "text": "Solo opera en proyectos mineros de baja complejidad y baja altitud.",
+          "isCorrect": false,
+          "rationale": "El modelo 4PL es especialmente valioso en operaciones de alta complejidad donde se requiere una orquestaci\u00f3n sofisticada."
+        }
+      ],
+      "hint": "Piense en la diferencia entre quien pone los camiones y quien dise\u00f1a toda la estrategia de transporte."
+    },
+    {
+      "question": "En el caso del proyecto Toromocho, \u00bfqu\u00e9 desaf\u00edo geogr\u00e1fico extremo ilustra la necesidad de una log\u00edstica integral?",
+      "answerOptions": [
+        {
+          "text": "Operar en una selva tropical sin acceso a r\u00edos.",
+          "isCorrect": false,
+          "rationale": "Aunque es un entorno complejo, el caso de Toromocho destaca por su ubicaci\u00f3n en la alta monta\u00f1a andina."
+        },
+        {
+          "text": "Su ubicaci\u00f3n a $4500$ metros sobre el nivel del mar.",
+          "isCorrect": true,
+          "rationale": "Esta altitud extrema impone desaf\u00edos de ingenier\u00eda y log\u00edstica que requieren una planificaci\u00f3n mucho m\u00e1s all\u00e1 del transporte convencional."
+        },
+        {
+          "text": "La falta total de conexi\u00f3n a internet en la regi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Si bien la conectividad es un reto, el desaf\u00edo principal descrito fue el transporte de equipos colosales por la geograf\u00eda andina."
+        },
+        {
+          "text": "La competencia con otras minas por el mismo puerto de salida.",
+          "isCorrect": false,
+          "rationale": "El ejemplo se centra en la proeza t\u00e9cnica de llevar la carga desde Shanghai hasta la cima de los Andes peruanos."
+        }
+      ],
+      "hint": "Piense en la altura de los picos m\u00e1s altos de la Cordillera de los Andes donde se ubica el proyecto."
+    },
+    {
+      "question": "Durante un conteo f\u00edsico de inventario, \u00bfen qu\u00e9 consiste la etapa de lockdown o congelamiento?",
+      "answerOptions": [
+        {
+          "text": "En reducir la temperatura de los almacenes para conservar los repuestos.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino no se refiere a la temperatura f\u00edsica, sino a una restricci\u00f3n administrativa de movimientos."
+        },
+        {
+          "text": "En prohibir totalmente la entrada y salida de materiales durante el conteo.",
+          "isCorrect": true,
+          "rationale": "Este cierre dr\u00e1stico es la \u00fanica forma de garantizar que el stock contado coincida con la realidad sin interferencias de movimientos actuales."
+        },
+        {
+          "text": "En suspender el pago a los proveedores hasta que termine la auditor\u00eda.",
+          "isCorrect": false,
+          "rationale": "El lockdown afecta el flujo f\u00edsico de materiales en la bodega, no el flujo financiero de pagos administrativos."
+        },
+        {
+          "text": "En asegurar los equipos con candados digitales para evitar robos.",
+          "isCorrect": false,
+          "rationale": "Aunque la seguridad es importante, el prop\u00f3sito del lockdown es la exactitud matem\u00e1tica del inventario."
+        }
+      ],
+      "hint": "Imagine que necesita tomar una fotograf\u00eda n\u00edtida de algo que normalmente est\u00e1 en constante movimiento."
+    },
+    {
+      "question": "\u00bfQu\u00e9 requisito log\u00edstico a menudo se olvida al planificar la llegada de consultores externos a zonas mineras remotas?",
+      "answerOptions": [
+        {
+          "text": "La reserva de hoteles de lujo en la ciudad m\u00e1s cercana.",
+          "isCorrect": false,
+          "rationale": "Las prioridades en miner\u00eda remota son la seguridad y los permisos operativos, no el confort urbano."
+        },
+        {
+          "text": "La log\u00edstica de acceso humano, incluyendo ex\u00e1menes m\u00e9dicos y permisos especiales.",
+          "isCorrect": true,
+          "rationale": "En zonas de gran altitud o peligrosidad, el personal debe cumplir protocolos estrictos antes de poder ingresar a las instalaciones."
+        },
+        {
+          "text": "La compra de uniformes de gala para las reuniones de cierre.",
+          "isCorrect": false,
+          "rationale": "El equipo de campo requiere equipo de protecci\u00f3n personal (EPP), no vestimenta formal de oficina."
+        },
+        {
+          "text": "La traducci\u00f3n de todos los manuales t\u00e9cnicos al idioma local.",
+          "isCorrect": false,
+          "rationale": "Si bien es \u00fatil, no es el cuello de botella cr\u00edtico que detiene el cronograma de una auditor\u00eda en la entrada de la mina."
+        }
+      ],
+      "hint": "Piense en las condiciones de salud necesarias para trabajar a miles de metros de altura."
+    },
+    {
+      "question": "\u00bfQu\u00e9 mide exactamente el indicador maestro OTIF (On Time In Full)?",
+      "answerOptions": [
+        {
+          "text": "El tiempo total que el cami\u00f3n pasa en la carretera.",
+          "isCorrect": false,
+          "rationale": "Este ser\u00eda un indicador de tiempo de tr\u00e1nsito, pero no eval\u00faa si el pedido fue correcto o completo."
+        },
+        {
+          "text": "El porcentaje de pedidos entregados con el producto exacto, cantidad correcta, lugar y tiempo acordado.",
+          "isCorrect": true,
+          "rationale": "Es la m\u00e9trica definitiva de salud de la cadena de suministro, ya que no admite errores parciales en la entrega."
+        },
+        {
+          "text": "La cantidad de dinero ahorrada en la compra de repuestos usados.",
+          "isCorrect": false,
+          "rationale": "El OTIF mide el cumplimiento del servicio log\u00edstico, no el ahorro transaccional por calidad inferior."
+        },
+        {
+          "text": "El n\u00famero de veces que un proveedor visita la oficina central.",
+          "isCorrect": false,
+          "rationale": "Las visitas f\u00edsicas no son un indicador de la eficiencia operativa del flujo de materiales."
+        }
+      ],
+      "hint": "Es una m\u00e9trica que combina la puntualidad con la integridad absoluta de lo solicitado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una de las principales barreras organizacionales para la transformaci\u00f3n log\u00edstica mencionadas?",
+      "answerOptions": [
+        {
+          "text": "El exceso de presupuesto para tecnolog\u00eda avanzada.",
+          "isCorrect": false,
+          "rationale": "El problema suele ser la falta de recursos o su mala asignaci\u00f3n, no un exceso de capital."
+        },
+        {
+          "text": "La falta de inter\u00e9s de los inversores en la sostenibilidad.",
+          "isCorrect": false,
+          "rationale": "Hoy en d\u00eda, los inversores est\u00e1n sumamente interesados en los criterios ESG y la eficiencia operativa."
+        },
+        {
+          "text": "La resistencia al cambio y departamentos que operan como silos aislados.",
+          "isCorrect": true,
+          "rationale": "La falta de colaboraci\u00f3n entre \u00e1reas impide que la informaci\u00f3n fluya y que las nuevas tecnolog\u00edas se adopten con \u00e9xito."
+        },
+        {
+          "text": "La excesiva cantidad de analistas de datos en el mercado laboral.",
+          "isCorrect": false,
+          "rationale": "En realidad, existe una escasez de talento especializado capaz de manejar an\u00e1lisis de datos complejos en el sector."
+        }
+      ],
+      "hint": "Piense en los problemas de comunicaci\u00f3n y cultura interna dentro de las grandes empresas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja ofrece la implementaci\u00f3n de un \"Gemelo Digital\" (Digital Twin) en la log\u00edstica minera?",
+      "answerOptions": [
+        {
+          "text": "Reemplazar por completo a todos los trabajadores humanos de la mina.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda busca potenciar la toma de decisiones humana, no eliminar el factor humano que es clave para el \u00e9xito."
+        },
+        {
+          "text": "Crear una r\u00e9plica virtual para simular riesgos log\u00edsticos en tiempo real sin afectar el mundo f\u00edsico.",
+          "isCorrect": true,
+          "rationale": "Permite probar escenarios de crisis o cambios operativos en un entorno seguro antes de implementarlos en la mina real."
+        },
+        {
+          "text": "Duplicar f\u00edsicamente todas las m\u00e1quinas para tener repuestos siempre listos.",
+          "isCorrect": false,
+          "rationale": "Un gemelo digital es una representaci\u00f3n virtual basada en datos, no una duplicaci\u00f3n f\u00edsica de activos."
+        },
+        {
+          "text": "Hacer que los camiones viajen al doble de su velocidad m\u00e1xima permitida.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda se usa para optimizar y simular la seguridad, no para violar l\u00edmites f\u00edsicos o normativos de velocidad."
+        }
+      ],
+      "hint": "Considere la posibilidad de experimentar con la operaci\u00f3n en un entorno simulado por computadora."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Cadena de Suministro Minera",
+      "Estrategias ESG",
+      "Inteligencia Artificial y Machine Learning en Log\u00edstica",
+      "Marcos de Planificaci\u00f3n (S&OP e IBP)",
+      "Gesti\u00f3n de Inventarios MRO y Criticidad",
+      "Modelos de Tercerizaci\u00f3n (3PL vs 4PL)",
+      "Mantenimiento Predictivo (PDM)",
+      "Aprovisionamiento Estrat\u00e9gico y VMI",
+      "Indicadores de Gesti\u00f3n (KPI y OTIF)",
+      "Transformaci\u00f3n Digital 4.0"
+    ],
+    "followUp": [
+      "Descarbonizaci\u00f3n de la Flota Log\u00edstica en Altura",
+      "Implementaci\u00f3n de Blockchain para Trazabilidad de Minerales",
+      "Econom\u00eda Circular aplicada a Repuestos MRO",
+      "Gobernanza de Datos para Gemelos Digitales",
+      "Gesti\u00f3n de Riesgos Geopol\u00edticos en la Provisi\u00f3n de Metales Cr\u00edticos"
+    ]
+  }
+}

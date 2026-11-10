@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 elementos componen el equilibrio cr\u00edtico conocido como el triple bottom line en la gesti\u00f3n de operaciones?",
+      "answerOptions": [
+        {
+          "text": "Tiempo, costo y alcance.",
+          "isCorrect": true,
+          "rationale": "Estos tres pilares definen el equilibrio necesario para mantener la rentabilidad y la eficiencia operativa sin comprometer la calidad."
+        },
+        {
+          "text": "Producci\u00f3n, ventas y marketing.",
+          "isCorrect": false,
+          "rationale": "Aunque son \u00e1reas importantes, no representan el concepto t\u00e9cnico del triple bottom line aplicado a la eficiencia de procesos industriales."
+        },
+        {
+          "text": "Seguridad, medio ambiente y comunidad.",
+          "isCorrect": false,
+          "rationale": "Estos suelen referirse a la sostenibilidad social, pero el concepto operativo se centra en la ejecuci\u00f3n t\u00e9cnica del proyecto."
+        },
+        {
+          "text": "Maquinaria, mano de obra y materiales.",
+          "isCorrect": false,
+          "rationale": "Estos son recursos de producci\u00f3n, no las dimensiones m\u00e9tricas que definen el \u00e9xito del alcance y presupuesto."
+        }
+      ],
+      "hint": "Considere las tres restricciones b\u00e1sicas que todo administrador de proyectos debe equilibrar para evitar devorar la rentabilidad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la relaci\u00f3n ideal entre la filosof\u00eda y la t\u00e1ctica en un entorno industrial competitivo?",
+      "answerOptions": [
+        {
+          "text": "La filosof\u00eda debe estar incrustada en el ADN y preceder a las herramientas.",
+          "isCorrect": true,
+          "rationale": "La cultura de gesti\u00f3n debe ser un valor corporativo inquebrantable para que la aplicaci\u00f3n de herramientas sea efectiva y sostenible."
+        },
+        {
+          "text": "Las herramientas t\u00e1cticas deben implementarse antes de definir la filosof\u00eda.",
+          "isCorrect": false,
+          "rationale": "Implementar herramientas sin una base cultural suele llevar a que estas se olviden o se abandonen en el corto plazo."
+        },
+        {
+          "text": "La t\u00e1ctica y la filosof\u00eda son conceptos independientes que no deben mezclarse.",
+          "isCorrect": false,
+          "rationale": "Ambas est\u00e1n intr\u00ednsecamente ligadas, ya que la t\u00e1ctica es la ejecuci\u00f3n pr\u00e1ctica de los principios filos\u00f3ficos de la organizaci\u00f3n."
+        },
+        {
+          "text": "La filosof\u00eda es secundaria y solo se aplica si las herramientas fallan.",
+          "isCorrect": false,
+          "rationale": "La filosof\u00eda es el n\u00facleo vital; sin ella, no existe una gu\u00eda estrat\u00e9gica para la mejora continua."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 debe venir primero: el modelo mental que gu\u00eda a la organizaci\u00f3n o la herramienta espec\u00edfica que se usa en la l\u00ednea."
+    },
+    {
+      "question": "Bajo la lente de la optimizaci\u00f3n industrial, \u00bfc\u00f3mo se define estrictamente el concepto de valor?",
+      "answerOptions": [
+        {
+          "text": "Cualquier actividad que el cliente final est\u00e9 dispuesto a pagar.",
+          "isCorrect": true,
+          "rationale": "Esta definici\u00f3n \u00fanica y exclusiva permite identificar qu\u00e9 procesos suman realmente y cu\u00e1les son desperdicios o muda."
+        },
+        {
+          "text": "El costo total de producci\u00f3n sumado al margen de ganancia.",
+          "isCorrect": false,
+          "rationale": "Esta es una definici\u00f3n contable del precio, no una definici\u00f3n operativa de lo que genera utilidad real para el usuario."
+        },
+        {
+          "text": "La complejidad tecnol\u00f3gica empleada en la fabricaci\u00f3n del producto.",
+          "isCorrect": false,
+          "rationale": "A menudo, la complejidad excesiva puede ser un desperdicio si no aporta un beneficio directo que el cliente valore."
+        },
+        {
+          "text": "El tiempo total que un producto permanece en la l\u00ednea de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Un mayor tiempo en l\u00ednea suele ser un indicador de ineficiencia o espera, no necesariamente de valor a\u00f1adido."
+        }
+      ],
+      "hint": "Considere la perspectiva de la billetera del cliente final como el \u00fanico juez de lo que es \u00fatil."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de los siete desperdicios cr\u00edticos es considerado el delito operativo m\u00e1s grave por colapsar el flujo de trabajo?",
+      "answerOptions": [
+        {
+          "text": "La sobreproducci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Producir m\u00e1s de lo necesario o antes de tiempo genera un efecto domin\u00f3 que asfixia el inventario y los procesos posteriores."
+        },
+        {
+          "text": "Los transportes innecesarios.",
+          "isCorrect": false,
+          "rationale": "Aunque es un desperdicio significativo, no suele tener el impacto sist\u00e9mico de colapso total que provoca el exceso de producto terminado."
+        },
+        {
+          "text": "Los defectos de calidad.",
+          "isCorrect": false,
+          "rationale": "Los defectos obligan al retrabajo, pero la sobreproducci\u00f3n es m\u00e1s grave porque oculta problemas y consume recursos masivamente de forma anticipada."
+        },
+        {
+          "text": "Los movimientos del personal.",
+          "isCorrect": false,
+          "rationale": "Los movimientos absurdos restan eficiencia individual, pero no detienen ni saturan el flujo macro de la operaci\u00f3n de la misma manera."
+        }
+      ],
+      "hint": "Se trata del desperdicio que ocurre cuando se fabrica algo antes de que realmente se necesite."
+    },
+    {
+      "question": "\u00bfQu\u00e9 metodolog\u00eda sirve como fundaci\u00f3n innegociable para sostener el orden industrial y los sistemas traccionados?",
+      "answerOptions": [
+        {
+          "text": "Las $5S$.",
+          "isCorrect": true,
+          "rationale": "Esta metodolog\u00eda establece el orden y la disciplina necesarios para que herramientas m\u00e1s complejas como el Just-in-Time funcionen."
+        },
+        {
+          "text": "El ciclo DMAIC.",
+          "isCorrect": false,
+          "rationale": "El DMAIC es un m\u00e9todo de resoluci\u00f3n de problemas, pero no es la base f\u00edsica de orden y limpieza en la planta."
+        },
+        {
+          "text": "Los diagramas de Ishikawa.",
+          "isCorrect": false,
+          "rationale": "Estos diagramas son herramientas de an\u00e1lisis de causa ra\u00edz, no un sistema de organizaci\u00f3n del entorno de trabajo."
+        },
+        {
+          "text": "El dise\u00f1o de experimentos.",
+          "isCorrect": false,
+          "rationale": "Esta es una t\u00e9cnica avanzada de mejora estad\u00edstica, no una fundaci\u00f3n de disciplina operativa diaria."
+        }
+      ],
+      "hint": "Sin esta base de disciplina y limpieza, cualquier intento de orden industrial est\u00e1 destinado al fracaso."
+    },
+    {
+      "question": "En la analog\u00eda del alma de la soga aplicada a activos industriales, \u00bfqu\u00e9 se busca proteger principalmente?",
+      "answerOptions": [
+        {
+          "text": "La integridad interna y la resistencia a la fatiga invisible.",
+          "isCorrect": true,
+          "rationale": "Al igual que una cuerda de alpinismo, un activo puede parecer bien por fuera pero tener fibras internas fracturadas que causen fallas catastr\u00f3ficas."
+        },
+        {
+          "text": "La est\u00e9tica exterior de la maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "La apariencia visual es secundaria frente a la capacidad estructural y funcional interna del equipo."
+        },
+        {
+          "text": "La velocidad m\u00e1xima de operaci\u00f3n de la l\u00ednea.",
+          "isCorrect": false,
+          "rationale": "Aunque se busca eficiencia, la analog\u00eda se centra en la prevenci\u00f3n de rupturas inesperadas por tensi\u00f3n acumulada."
+        },
+        {
+          "text": "El cumplimiento de las horas de encendido del motor.",
+          "isCorrect": false,
+          "rationale": "Este es un indicador de uso, pero la analog\u00eda apunta a la condici\u00f3n real de las fibras o componentes cr\u00edticos internos."
+        }
+      ],
+      "hint": "Piense en lo que sucede dentro de un material o equipo tras un uso constante, incluso si por fuera luce impecable."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la m\u00e9trica exacta de defectos por cada mill\u00f3n de oportunidades que exige la metodolog\u00eda Six Sigma?",
+      "answerOptions": [
+        {
+          "text": "$3.4$",
+          "isCorrect": true,
+          "rationale": "Este nivel representa una b\u00fasqueda estad\u00edstica de la perfecci\u00f3n absoluta, reduciendo la variabilidad al m\u00ednimo posible."
+        },
+        {
+          "text": "$34$",
+          "isCorrect": false,
+          "rationale": "Este valor es demasiado alto para los est\u00e1ndares de precisi\u00f3n extrema que caracterizan a Six Sigma."
+        },
+        {
+          "text": "$0.34$",
+          "isCorrect": false,
+          "rationale": "Aunque ser\u00eda una meta ideal, el est\u00e1ndar industrial reconocido mundialmente para Six Sigma est\u00e1 fijado en tres punto cuatro."
+        },
+        {
+          "text": "$300$",
+          "isCorrect": false,
+          "rationale": "Un nivel de trescientos defectos por mill\u00f3n indicar\u00eda un proceso bajo control pero lejos de la maestr\u00eda estad\u00edstica de Sigma."
+        }
+      ],
+      "hint": "Se trata de un n\u00famero muy peque\u00f1o que refleja un control matem\u00e1tico casi total del error."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de la fase de an\u00e1lisis dentro del ciclo DMAIC?",
+      "answerOptions": [
+        {
+          "text": "Identificar y cazar la causa ra\u00edz del problema.",
+          "isCorrect": true,
+          "rationale": "En esta etapa se utilizan herramientas como el diagrama de Ishikawa para entender por qu\u00e9 ocurre la variabilidad antes de intentar mejorarla."
+        },
+        {
+          "text": "Recopilar datos duros sobre la realidad operativa.",
+          "isCorrect": false,
+          "rationale": "La recopilaci\u00f3n de datos pertenece a la fase de Medir, que es previa al an\u00e1lisis profundo de las causas."
+        },
+        {
+          "text": "Definir los indicadores clave de desempe\u00f1o ($KPI$).",
+          "isCorrect": false,
+          "rationale": "La definici\u00f3n de indicadores y el alcance del proyecto ocurren en la fase inicial de Definir."
+        },
+        {
+          "text": "Implementar gr\u00e1ficos de control estad\u00edstico.",
+          "isCorrect": false,
+          "rationale": "Los gr\u00e1ficos de control se utilizan en la fase final para monitorear y asegurar que las mejoras se mantengan en el tiempo."
+        }
+      ],
+      "hint": "Esta fase es el coraz\u00f3n del m\u00e9todo y a menudo utiliza diagramas de espina de pescado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio principal se obtiene al fusionar la agilidad de Lean con el rigor de Six Sigma?",
+      "answerOptions": [
+        {
+          "text": "Una ventaja competitiva virtualmente insuperable mediante velocidad y exactitud.",
+          "isCorrect": true,
+          "rationale": "La combinaci\u00f3n permite eliminar desperdicios r\u00e1pidamente mientras se somete por completo la variabilidad operativa con datos."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de la necesidad de supervisi\u00f3n humana.",
+          "isCorrect": false,
+          "rationale": "Incluso con Lean Six Sigma, se requiere una estructura humana de cinturones especializados para gestionar el sistema."
+        },
+        {
+          "text": "La reducci\u00f3n del costo de los materiales de seguridad.",
+          "isCorrect": false,
+          "rationale": "La seguridad es un pilar innegociable y estas metodolog\u00edas buscan optimizar el flujo, no recortar gastos en protecci\u00f3n cr\u00edtica."
+        },
+        {
+          "text": "El aumento de la burocracia en los informes departamentales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, estas metodolog\u00edas buscan eliminar procesos que no agregan valor, simplificando la gesti\u00f3n hacia la eficiencia."
+        }
+      ],
+      "hint": "Combine la rapidez para eliminar lo que no sirve con la precisi\u00f3n para que lo que quede sea perfecto."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que un proceso con alta variabilidad es, por definici\u00f3n, un proceso peligroso?",
+      "answerOptions": [
+        {
+          "text": "Porque la falta de control matem\u00e1tico y f\u00edsico genera imprevisibilidad y riesgos.",
+          "isCorrect": true,
+          "rationale": "La variabilidad impide predecir comportamientos del sistema, lo que puede derivar en fallas de seguridad inesperadas."
+        },
+        {
+          "text": "Porque los procesos variables siempre consumen m\u00e1s energ\u00eda el\u00e9ctrica.",
+          "isCorrect": false,
+          "rationale": "Si bien pueden ser ineficientes energ\u00e9ticamente, el peligro radica en la incertidumbre operativa, no solo en el consumo."
+        },
+        {
+          "text": "Porque atrae a personal menos capacitado a la l\u00ednea.",
+          "isCorrect": false,
+          "rationale": "La capacitaci\u00f3n del personal es una variable distinta; un proceso puede ser variable independientemente de qui\u00e9n lo opere si no est\u00e1 estandarizado."
+        },
+        {
+          "text": "Porque la variabilidad est\u00e1 prohibida por las leyes internacionales de comercio.",
+          "isCorrect": false,
+          "rationale": "No es una prohibici\u00f3n legal comercial, sino un riesgo f\u00edsico y \u00e9tico para la integridad de las personas y activos."
+        }
+      ],
+      "hint": "Piense en la relaci\u00f3n entre no saber qu\u00e9 pasar\u00e1 en el siguiente segundo de una operaci\u00f3n y la seguridad de los trabajadores."
+    },
+    {
+      "question": "En el marco de la seguridad operativa, \u00bfen qu\u00e9 momento exacto debe iniciar una verdadera cultura de prevenci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "En la reuni\u00f3n de arranque o kickoff.",
+          "isCorrect": true,
+          "rationale": "La planificaci\u00f3n implacable de la seguridad debe ocurrir antes de encender cualquier l\u00ednea de producci\u00f3n para categorizar peligros."
+        },
+        {
+          "text": "Al finalizar el primer mes de operaciones para revisar indicadores.",
+          "isCorrect": false,
+          "rationale": "Esperar un mes para revisar la seguridad significa operar con riesgos desconocidos que podr\u00edan causar accidentes fatales."
+        },
+        {
+          "text": "Cuando se detecta el primer defecto en la cadena de montaje.",
+          "isCorrect": false,
+          "rationale": "La seguridad no debe ser reactiva a los errores de producci\u00f3n, sino un pilar preventivo establecido desde el inicio."
+        },
+        {
+          "text": "\u00danicamente cuando se manipulan sustancias qu\u00edmicas peligrosas.",
+          "isCorrect": false,
+          "rationale": "La seguridad abarca riesgos mec\u00e1nicos, f\u00edsicos, ergon\u00f3micos y psicosociales en cualquier tipo de operaci\u00f3n industrial."
+        }
+      ],
+      "hint": "La prevenci\u00f3n no es algo que se revisa al final; es el punto cero de cualquier actividad."
+    },
+    {
+      "question": "Dentro de la gran miner\u00eda, \u00bfcu\u00e1l es el factor cr\u00edtico que hace que los veh\u00edculos gigantes conocidos como ticos sean extremadamente peligrosos?",
+      "answerOptions": [
+        {
+          "text": "La existencia de puntos ciegos y fallas moment\u00e1neas de visibilidad.",
+          "isCorrect": true,
+          "rationale": "Dada su escala colosal, un error de visibilidad resulta instant\u00e1neamente fatal, ya que no hay segundas oportunidades en ese entorno."
+        },
+        {
+          "text": "Su incapacidad para transportar m\u00e1s de diez toneladas.",
+          "isCorrect": false,
+          "rationale": "Al contrario, estos veh\u00edculos transportan cientos de toneladas, lo que aumenta su peligrosidad por la inercia y masa involucradas."
+        },
+        {
+          "text": "El ruido excesivo que emiten sus motores h\u00edbridos.",
+          "isCorrect": false,
+          "rationale": "Aunque el ruido es un factor, el riesgo vital m\u00e1s cr\u00edtico mencionado es la falta de visibilidad del operador sobre el entorno cercano."
+        },
+        {
+          "text": "La fragilidad de sus llantas ante terrenos rocosos.",
+          "isCorrect": false,
+          "rationale": "Sus llantas son enormes y robustas; el peligro real para las personas es la interacci\u00f3n con la escala del veh\u00edculo."
+        }
+      ],
+      "hint": "Considere la desproporci\u00f3n de tama\u00f1o entre estos camiones y una persona, y lo que el conductor puede o no ver."
+    },
+    {
+      "question": "\u00bfQu\u00e9 medida dr\u00e1stica es obligatoria durante una situaci\u00f3n de alerta roja en una instalaci\u00f3n industrial?",
+      "answerOptions": [
+        {
+          "text": "Desconectar f\u00edsicamente los sistemas electr\u00f3nicos.",
+          "isCorrect": true,
+          "rationale": "Esta maniobra busca proteger vidas y salvaguardar infraestructura contra sobrecargas energ\u00e9ticas devastadoras durante contingencias."
+        },
+        {
+          "text": "Reducir la velocidad de la producci\u00f3n a la mitad.",
+          "isCorrect": false,
+          "rationale": "Una alerta roja exige la detenci\u00f3n total y medidas de protecci\u00f3n extrema, no una simple reducci\u00f3n de ritmo."
+        },
+        {
+          "text": "Realizar una limpieza profunda de las \u00e1reas comunes.",
+          "isCorrect": false,
+          "rationale": "Las tareas de limpieza no son la prioridad ante una amenaza inminente que requiere protocolos de evacuaci\u00f3n o desconexi\u00f3n."
+        },
+        {
+          "text": "Cambiar el turno del personal de mantenimiento.",
+          "isCorrect": false,
+          "rationale": "La alerta roja es una emergencia operativa inmediata que trasciende la gesti\u00f3n ordinaria de turnos."
+        }
+      ],
+      "hint": "No basta con detener la m\u00e1quina; hay que aislarla de la fuente de energ\u00eda para evitar da\u00f1os mayores."
+    },
+    {
+      "question": "\u00bfQu\u00e9 rol departamental es el encargado de dictar el cu\u00e1ndo, asegurando que insumos y productos se muevan en el momento exacto?",
+      "answerOptions": [
+        {
+          "text": "Log\u00edstica.",
+          "isCorrect": true,
+          "rationale": "Log\u00edstica orquestra el flujo temporal de la cadena para que la producci\u00f3n tenga lo que necesita sin generar inventario excesivo."
+        },
+        {
+          "text": "Mantenimiento.",
+          "isCorrect": false,
+          "rationale": "Mantenimiento se encarga de la confiabilidad de los equipos, no de la programaci\u00f3n del flujo de insumos y productos."
+        },
+        {
+          "text": "Operaciones.",
+          "isCorrect": false,
+          "rationale": "Operaciones define el qu\u00e9 se debe lograr a nivel estrat\u00e9gico, mientras que la ejecuci\u00f3n temporal recae en otra \u00e1rea."
+        },
+        {
+          "text": "Producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Producci\u00f3n establece el c\u00f3mo a trav\u00e9s de m\u00e9todos f\u00edsicos, pero depende de la coordinaci\u00f3n temporal de log\u00edstica."
+        }
+      ],
+      "hint": "Piense en el eslab\u00f3n que conecta a los proveedores con la planta y a la planta con los clientes finales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n estrat\u00e9gica de los buffers o colchones en una operaci\u00f3n masiva?",
+      "answerOptions": [
+        {
+          "text": "Actuar como escudos que absorben la imprevisibilidad del entorno.",
+          "isCorrect": true,
+          "rationale": "Los buffers en tiempo, presupuesto o alcance protegen el n\u00facleo operativo de fallas clim\u00e1ticas, retrasos de proveedores o cambios bruscos."
+        },
+        {
+          "text": "Ocultar las ineficiencias de los mandos medios.",
+          "isCorrect": false,
+          "rationale": "Aunque a veces se malinterpretan como ineficiencia, su dise\u00f1o correcto es una herramienta de protecci\u00f3n estrat\u00e9gica, no de ocultamiento."
+        },
+        {
+          "text": "Aumentar artificialmente el precio de venta al cliente.",
+          "isCorrect": false,
+          "rationale": "Los buffers son mecanismos internos de gesti\u00f3n de riesgo y no tienen como fin el incremento de precios."
+        },
+        {
+          "text": "Sustituir la necesidad de mantenimiento preventivo.",
+          "isCorrect": false,
+          "rationale": "Un buffer no puede reemplazar la integridad mec\u00e1nica; son capas de defensa log\u00edstica y de planificaci\u00f3n."
+        }
+      ],
+      "hint": "Considere qu\u00e9 pasar\u00eda si no hubiera margen para maniobrar ante un retraso inesperado de un proveedor."
+    },
+    {
+      "question": "\u00bfQu\u00e9 efecto negativo suele aparecer en una organizaci\u00f3n cuando existe una subutilizaci\u00f3n del personal?",
+      "answerOptions": [
+        {
+          "text": "Aparici\u00f3n de rumores t\u00f3xicos y deterioro del clima laboral.",
+          "isCorrect": true,
+          "rationale": "La inactividad fomenta el chisme, lo cual destruye la confianza y la cultura de enfoque en la creaci\u00f3n de valor."
+        },
+        {
+          "text": "Un aumento dr\u00e1stico en la creatividad y la innovaci\u00f3n espont\u00e1nea.",
+          "isCorrect": false,
+          "rationale": "La falta de carga de trabajo \u00f3ptima suele generar desmotivaci\u00f3n y distracciones negativas m\u00e1s que innovaci\u00f3n productiva."
+        },
+        {
+          "text": "Una reducci\u00f3n inmediata de los defectos de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La falta de actividad no mejora la calidad; al contrario, la falta de ritmo puede llevar a errores por desatenci\u00f3n cuando se retoma la labor."
+        },
+        {
+          "text": "La eliminaci\u00f3n de los silos departamentales.",
+          "isCorrect": false,
+          "rationale": "La integraci\u00f3n de silos requiere coordinaci\u00f3n activa, no simplemente tener personal con poca carga de trabajo."
+        }
+      ],
+      "hint": "Piense en lo que sucede con la moral del equipo cuando la gente no se siente \u00fatil ni enfocada en tareas de valor."
+    },
+    {
+      "question": "En la transici\u00f3n hacia la Industria $4.0$, \u00bfc\u00f3mo se compara la velocidad de detecci\u00f3n de defectos entre el m\u00e9todo manual y el aut\u00f3nomo?",
+      "answerOptions": [
+        {
+          "text": "De una hora y media en el manual a $30$ mediciones por segundo en el aut\u00f3nomo.",
+          "isCorrect": true,
+          "rationale": "Esta diferencia abismal elimina la peligrosa ventana de ceguera operativa y reduce masivamente el desperdicio."
+        },
+        {
+          "text": "Ambos m\u00e9todos tienen velocidades similares pero el aut\u00f3nomo es m\u00e1s barato.",
+          "isCorrect": false,
+          "rationale": "La ventaja principal mencionada es la velocidad de procesamiento y precisi\u00f3n, no solo una cuesti\u00f3n de costos."
+        },
+        {
+          "text": "El m\u00e9todo manual es m\u00e1s r\u00e1pido para detectar cambios sutiles de color.",
+          "isCorrect": false,
+          "rationale": "Los sistemas digitales actuales superan la capacidad de observaci\u00f3n humana en frecuencia y objetividad de datos."
+        },
+        {
+          "text": "La Industria $4.0$ solo mejora la velocidad en un $10\\%$.",
+          "isCorrect": false,
+          "rationale": "El salto tecnol\u00f3gico representa un cambio de magnitud (de minutos a milisegundos), no un incremento marginal."
+        }
+      ],
+      "hint": "Piense en el contraste entre el tiempo que tarda un humano en tomar una muestra y la capacidad de un sensor electr\u00f3nico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica hace que la arquitectura $RBFN$ sea tan relevante para la toma de decisiones en maquinaria aut\u00f3noma?",
+      "answerOptions": [
+        {
+          "text": "Se acerca al funcionamiento matem\u00e1tico y l\u00f3gico del cerebro humano.",
+          "isCorrect": true,
+          "rationale": "Esta red neuronal permite analizar tendencias instant\u00e1neamente para tomar decisiones precisas en cuesti\u00f3n de milisegundos."
+        },
+        {
+          "text": "Es el sistema de cableado f\u00edsico m\u00e1s resistente al calor.",
+          "isCorrect": false,
+          "rationale": "La $RBFN$ es una arquitectura de inteligencia artificial (software/l\u00f3gica), no un componente de hardware t\u00e9rmico."
+        },
+        {
+          "text": "Permite que las m\u00e1quinas operen sin ninguna fuente de energ\u00eda externa.",
+          "isCorrect": false,
+          "rationale": "Todo sistema aut\u00f3nomo requiere energ\u00eda; la red neuronal solo gestiona la inteligencia del proceso."
+        },
+        {
+          "text": "Es una herramienta exclusiva para el dise\u00f1o de logotipos corporativos.",
+          "isCorrect": false,
+          "rationale": "Es una tecnolog\u00eda de vanguardia aplicada al control industrial y la predicci\u00f3n de fallas."
+        }
+      ],
+      "hint": "Su nombre t\u00e9cnico se refiere a una red de funci\u00f3n de base radial que imita procesos cognitivos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la utilidad principal de implementar gemelos digitales en una planta industrial?",
+      "answerOptions": [
+        {
+          "text": "Simular cambios operativos sin arriesgar activos en el mundo f\u00edsico.",
+          "isCorrect": true,
+          "rationale": "Permiten ver resultados y probar escenarios en una r\u00e9plica virtual exacta antes de realizar cualquier modificaci\u00f3n real."
+        },
+        {
+          "text": "Duplicar la producci\u00f3n f\u00edsica construyendo una segunda planta id\u00e9ntica.",
+          "isCorrect": false,
+          "rationale": "Un gemelo digital es una representaci\u00f3n virtual, no una construcci\u00f3n f\u00edsica adicional."
+        },
+        {
+          "text": "Sustituir a los gerentes de operaciones por avatares virtuales.",
+          "isCorrect": false,
+          "rationale": "Es una herramienta de apoyo a la decisi\u00f3n, no un reemplazo de la direcci\u00f3n estrat\u00e9gica humana."
+        },
+        {
+          "text": "Reducir el uso de software de gesti\u00f3n administrativa.",
+          "isCorrect": false,
+          "rationale": "Al contrario, es una tecnolog\u00eda avanzada que se integra y potencia otros sistemas de software de la planta."
+        }
+      ],
+      "hint": "Piense en la ventaja de poder equivocarse en una simulaci\u00f3n por computadora en lugar de en la l\u00ednea de producci\u00f3n real."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el mandato supremo de un liderazgo industrial que busca una productividad sostenible?",
+      "answerOptions": [
+        {
+          "text": "Garantizar seguridad, integridad y excelencia en cada milisegundo.",
+          "isCorrect": true,
+          "rationale": "Este enfoque integral asegura que la operaci\u00f3n no solo sea r\u00e1pida, sino tambi\u00e9n segura y duradera en el tiempo."
+        },
+        {
+          "text": "Maximizar la producci\u00f3n diaria sin importar el desgaste del equipo.",
+          "isCorrect": false,
+          "rationale": "Ignorar la integridad de los activos lleva a fallas catastr\u00f3ficas y no es sostenible a largo plazo."
+        },
+        {
+          "text": "Priorizar la reducci\u00f3n de costos de personal sobre la automatizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El liderazgo moderno integra la tecnolog\u00eda y el talento humano para crear una ventaja competitiva."
+        },
+        {
+          "text": "Mantener los procesos aislados para evitar la propagaci\u00f3n de errores.",
+          "isCorrect": false,
+          "rationale": "La excelencia requiere una red interconectada y coordinada, no silos que bloqueen la informaci\u00f3n."
+        }
+      ],
+      "hint": "Se trata de dise\u00f1ar un futuro donde la eficiencia no comprometa la vida humana ni la salud de los activos."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Planificaci\u00f3n Estrat\u00e9gica Industrial",
+      "Filosof\u00eda Lean y Eliminaci\u00f3n de Muda",
+      "Metodolog\u00eda Six Sigma y Ciclo DMAIC",
+      "Seguridad Operativa y Prevenci\u00f3n de Riesgos",
+      "Gesti\u00f3n de la Cadena de Suministro y Silos Departamentales",
+      "Industria 4.0 y Tecnolog\u00edas Aut\u00f3nomas"
+    ],
+    "followUp": [
+      "Implementaci\u00f3n de Sistemas Pull y Just-in-Time",
+      "Mantenimiento Predictivo y SMED",
+      "An\u00e1lisis de Causa Ra\u00edz con Diagramas de Ishikawa",
+      "Gesti\u00f3n de Riesgos Qu\u00edmicos y Hojas MSDS",
+      "Arquitecturas de Redes Neuronales RBFN en la Industria",
+      "Simulaci\u00f3n con Gemelos Digitales"
+    ]
+  }
+}

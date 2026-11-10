@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1les son los tres pilares fundamentales que definen la validez t\u00e9cnica de una muestra geol\u00f3gica?",
+      "answerOptions": [
+        {
+          "text": "Representatividad, homogeneidad y libertad de impurezas.",
+          "isCorrect": true,
+          "rationale": "Estos tres principios aseguran que la muestra sea un reflejo fiel del lote, tenga una distribuci\u00f3n uniforme y est\u00e9 libre de contaminantes externos."
+        },
+        {
+          "text": "Trazabilidad, volumen y profundidad de recolecci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque son importantes, no constituyen la 'trinidad' de pilares que validan t\u00e9cnicamente la esencia f\u00edsica de la muestra."
+        },
+        {
+          "text": "Dureza, coloraci\u00f3n y peso espec\u00edfico.",
+          "isCorrect": false,
+          "rationale": "Estas son propiedades f\u00edsicas de la roca, pero no son los criterios metodol\u00f3gicos para garantizar un muestreo correcto."
+        },
+        {
+          "text": "Costo operativo, velocidad de muestreo y cantidad de fragmentos.",
+          "isCorrect": false,
+          "rationale": "Priorizar la eficiencia econ\u00f3mica sobre el rigor cient\u00edfico compromete la integridad de la inversi\u00f3n multimillonaria."
+        }
+      ],
+      "hint": "Se refieren a la fidelidad del reflejo, la distribuci\u00f3n de part\u00edculas y la ausencia de agentes externos."
+    },
+    {
+      "question": "En t\u00e9rminos de seguridad operativa, \u00bfcu\u00e1l es el peso m\u00e1ximo permitido para un saco metalero de muestras para prevenir lesiones lumbares?",
+      "answerOptions": [
+        {
+          "text": "15 kg",
+          "isCorrect": false,
+          "rationale": "Este peso es inferior al l\u00edmite ergon\u00f3mico de oro establecido para optimizar la carga f\u00edsica del personal."
+        },
+        {
+          "text": "25 kg",
+          "isCorrect": true,
+          "rationale": "Se establece este l\u00edmite innegociable como una regla de oro ergon\u00f3mica para proteger la salud de la columna del equipo."
+        },
+        {
+          "text": "40 kg",
+          "isCorrect": false,
+          "rationale": "Exceder el l\u00edmite de 25 kg aumenta dr\u00e1sticamente el riesgo de lesiones lumbares cr\u00f3nicas en los trabajadores."
+        },
+        {
+          "text": "50 kg",
+          "isCorrect": false,
+          "rationale": "Un peso de 50 kg es el doble del l\u00edmite recomendado, lo que resultar\u00eda en un colapso de la seguridad ergon\u00f3mica."
+        }
+      ],
+      "hint": "Es un cuarto de quintal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta o est\u00e1ndar se utiliza para delimitar el \u00e1rea de trabajo y realizar el desate manual de rocas ($scaling$) de forma segura?",
+      "answerOptions": [
+        {
+          "text": "Barricadas tipo A y perforadoras manuales.",
+          "isCorrect": false,
+          "rationale": "El est\u00e1ndar espec\u00edfico mencionado para la delimitaci\u00f3n efectiva en estas operaciones es de otro tipo."
+        },
+        {
+          "text": "Cintas de se\u00f1alizaci\u00f3n amarillas y mallas met\u00e1licas.",
+          "isCorrect": false,
+          "rationale": "Aunque son comunes en construcci\u00f3n, no cumplen con el est\u00e1ndar de barricadas r\u00edgidas requerido para esta operaci\u00f3n minera."
+        },
+        {
+          "text": "Barricadas tipo B y desate manual de roca.",
+          "isCorrect": true,
+          "rationale": "El uso de barricadas tipo B y el $scaling$ son procedimientos cr\u00edticos para establecer un entorno controlado y evitar accidentes."
+        },
+        {
+          "text": "Conos reflectantes y redes de protecci\u00f3n de polietileno.",
+          "isCorrect": false,
+          "rationale": "Estas medidas son insuficientes para la protecci\u00f3n contra ca\u00eddas de rocas en frentes de trabajo activo."
+        }
+      ],
+      "hint": "Se utiliza una letra espec\u00edfica para clasificar este tipo de barricada."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es obligatorio realizar la recolecci\u00f3n de muestras de canales de forma ascendente (de caja piso a caja techo)?",
+      "answerOptions": [
+        {
+          "text": "Para facilitar la visibilidad del ge\u00f3logo al marcar los contactos.",
+          "isCorrect": false,
+          "rationale": "La visibilidad mejora, pero la raz\u00f3n t\u00e9cnica principal es evitar la alteraci\u00f3n qu\u00edmica por contaminantes f\u00edsicos."
+        },
+        {
+          "text": "Para evitar que el polvillo y esquirlas de las secciones superiores contaminen las bolsas inferiores.",
+          "isCorrect": true,
+          "rationale": "La gravedad har\u00eda que el material de arriba caiga en muestras ya procesadas de la parte inferior si se hiciera al rev\u00e9s."
+        },
+        {
+          "text": "Para asegurar que el material est\u00e9ril se recolecte primero que el mineralizado.",
+          "isCorrect": false,
+          "rationale": "El orden de mineralizaci\u00f3n no dicta la direcci\u00f3n; es la prevenci\u00f3n de la contaminaci\u00f3n cruzada la que manda."
+        },
+        {
+          "text": "Porque las herramientas manuales funcionan mejor contra la gravedad.",
+          "isCorrect": false,
+          "rationale": "El funcionamiento de la herramienta es independiente, pero la integridad de la muestra depende de la direcci\u00f3n del trabajo."
+        }
+      ],
+      "hint": "Considere la direcci\u00f3n en la que caen los fragmentos de roca al ser golpeados."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la secuencia correcta de los tres pasos para el muestreo sistem\u00e1tico de canales en miner\u00eda subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "Marcado de contactos, limpieza superficial y recolecci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "No se pueden marcar contactos de forma precisa si la pared a\u00fan est\u00e1 cubierta de polvo de voladura y costra meteorizada."
+        },
+        {
+          "text": "Limpieza superficial, marcado de contactos y recolecci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Primero se expone la roca fresca, luego el ge\u00f3logo identifica quir\u00fargicamente el mineral y finalmente se extrae el material."
+        },
+        {
+          "text": "Recolecci\u00f3n, limpieza y etiquetado.",
+          "isCorrect": false,
+          "rationale": "Recolectar antes de limpiar introducir\u00eda contaminantes como gases de voladura y polvo externo en la muestra."
+        },
+        {
+          "text": "Perforaci\u00f3n, marcado de contactos y lavado con presi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El lavado es parte de la limpieza inicial y la perforaci\u00f3n no es el paso principal del muestreo de canales."
+        }
+      ],
+      "hint": "Primero se limpia el \u00e1rea para exponer lo que se va a marcar."
+    },
+    {
+      "question": "En operaciones de tajo abierto, \u00bfqu\u00e9 se\u00f1al visual indica al ge\u00f3logo que debe detener la perforaci\u00f3n en el muestreo de detritos ($blast\\ hole$)?",
+      "answerOptions": [
+        {
+          "text": "La presencia de fragmentos de cuarzo blanco.",
+          "isCorrect": false,
+          "rationale": "El cuarzo suele ser parte de la ganga, no el indicador principal para detener la m\u00e1quina en busca de sulfuros."
+        },
+        {
+          "text": "Un cambio de color de blanco/gris (caliza est\u00e9ril) a un tono oscuro y met\u00e1lico (sulfuros).",
+          "isCorrect": true,
+          "rationale": "Este contraste visual permite separar mec\u00e1nicamente el mineral del est\u00e9ril para optimizar el control de leyes."
+        },
+        {
+          "text": "La aparici\u00f3n de agua subterr\u00e1nea en el pozo.",
+          "isCorrect": false,
+          "rationale": "El agua es una condici\u00f3n operativa, pero no un indicador geol\u00f3gico de mineralizaci\u00f3n de sulfuros."
+        },
+        {
+          "text": "El aumento en la velocidad de rotaci\u00f3n de la perforadora.",
+          "isCorrect": false,
+          "rationale": "Esto indica un cambio en la dureza de la roca, pero no necesariamente la presencia de la zona mineralizada objetivo."
+        }
+      ],
+      "hint": "Es una transici\u00f3n crom\u00e1tica entre el material est\u00e9ril y el mineral objetivo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 planta act\u00faa como un indicador biogeoqu\u00edmico para localizar mineralizaci\u00f3n de zinc ($Zn$) en zonas de gran altitud?",
+      "answerOptions": [
+        {
+          "text": "Ichu",
+          "isCorrect": false,
+          "rationale": "El ichu es vegetaci\u00f3n com\u00fan en los Andes, pero no tiene una relaci\u00f3n espec\u00edfica probada con dep\u00f3sitos de esfalerita."
+        },
+        {
+          "text": "Puya Raimondi",
+          "isCorrect": false,
+          "rationale": "Es una planta emblem\u00e1tica de altura, pero carece de valor como mapa geobot\u00e1nico para la prospecci\u00f3n de metales base."
+        },
+        {
+          "text": "Haman Pinta",
+          "isCorrect": true,
+          "rationale": "Esta planta es un indicador biol\u00f3gico comprobado que se\u00f1ala la presencia de esfalerita en el subsuelo."
+        },
+        {
+          "text": "Llant\u00e9n de altura",
+          "isCorrect": false,
+          "rationale": "Esta planta no se menciona como un proxy biogeoqu\u00edmico en la exploraci\u00f3n de yacimientos de zinc."
+        }
+      ],
+      "hint": "Es considerada un 'mapa geobot\u00e1nico viviente' en regiones como Huaraz."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 zona de un r\u00edo es m\u00e1s probable encontrar oro aluvial debido a la p\u00e9rdida de velocidad de la corriente?",
+      "answerOptions": [
+        {
+          "text": "En el centro del cauce principal.",
+          "isCorrect": false,
+          "rationale": "All\u00ed la velocidad es m\u00e1xima, lo que mantiene a las part\u00edculas pesadas en movimiento en lugar de depositarlas."
+        },
+        {
+          "text": "En las cascadas y r\u00e1pidos.",
+          "isCorrect": false,
+          "rationale": "La alta energ\u00eda del agua en estas zonas impide la sedimentaci\u00f3n de minerales pesados."
+        },
+        {
+          "text": "En los meandros y barras de punta ($point\\ bars$).",
+          "isCorrect": true,
+          "rationale": "En las curvas, el agua pierde fuerza, permitiendo que el oro caiga y se deposite por gravedad."
+        },
+        {
+          "text": "En la desembocadura directa al mar.",
+          "isCorrect": false,
+          "rationale": "Aunque ocurre sedimentaci\u00f3n, los meandros son trampas naturales m\u00e1s efectivas antes de llegar al oc\u00e9ano."
+        }
+      ],
+      "hint": "Busque donde el r\u00edo hace curvas y el agua se calma."
+    },
+    {
+      "question": "\u00bfQu\u00e9 problema estad\u00edstico ocurre en yacimientos de oro cuando una part\u00edcula de alta ley en una muestra peque\u00f1a causa una sobreestimaci\u00f3n del modelo?",
+      "answerOptions": [
+        {
+          "text": "Efecto pepita ($Nugget\\ effect$)",
+          "isCorrect": true,
+          "rationale": "Este fen\u00f3meno crea un espejismo estad\u00edstico que puede inflar artificialmente el valor econ\u00f3mico de un bloque."
+        },
+        {
+          "text": "Diluci\u00f3n econ\u00f3mica",
+          "isCorrect": false,
+          "rationale": "La diluci\u00f3n es la mezcla de est\u00e9ril con mineral, lo opuesto a la sobreestimaci\u00f3n por una part\u00edcula rica."
+        },
+        {
+          "text": "Segregaci\u00f3n de part\u00edculas",
+          "isCorrect": false,
+          "rationale": "Esto se refiere a la separaci\u00f3n f\u00edsica por tama\u00f1o o densidad, no al impacto de una sola part\u00edcula en la estad\u00edstica."
+        },
+        {
+          "text": "Sesgo por dureza",
+          "isCorrect": false,
+          "rationale": "Este es un error humano de selecci\u00f3n de roca blanda, no un fen\u00f3meno intr\u00ednseco de la distribuci\u00f3n del oro."
+        }
+      ],
+      "hint": "Es un t\u00e9rmino que alude a una peque\u00f1a masa de oro puro."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se instalan geomembranas en el piso del frente de trabajo durante el muestreo?",
+      "answerOptions": [
+        {
+          "text": "Para evitar que el ge\u00f3logo se ensucie durante la recolecci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El prop\u00f3sito es t\u00e9cnico y de integridad de la muestra, no de higiene personal del equipo."
+        },
+        {
+          "text": "Para capturar hasta el \u00faltimo gramo de material fino tras picar la estructura.",
+          "isCorrect": true,
+          "rationale": "Los finos suelen contener altas leyes; su recuperaci\u00f3n es vital para mantener la representatividad de la muestra."
+        },
+        {
+          "text": "Para impermeabilizar la zona contra filtraciones de agua de mina.",
+          "isCorrect": false,
+          "rationale": "Las geomembranas en este contexto son temporales para la recolecci\u00f3n, no para control de aguas."
+        },
+        {
+          "text": "Para marcar el l\u00edmite legal de la concesi\u00f3n minera.",
+          "isCorrect": false,
+          "rationale": "Los l\u00edmites legales se marcan con hitos o coordenadas, no con materiales de recolecci\u00f3n de muestras."
+        }
+      ],
+      "hint": "Tiene que ver con la recuperaci\u00f3n de part\u00edculas muy peque\u00f1as."
+    },
+    {
+      "question": "\u00bfQu\u00e9 di\u00e1metros de testigos de perforaci\u00f3n se utilizan estrat\u00e9gicamente para alcanzar profundidades mayores en la fase inicial de exploraci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "PQ y HQ",
+          "isCorrect": false,
+          "rationale": "Estos son di\u00e1metros grandes que ofrecen volumen pero tienen mayor fricci\u00f3n, lo que limita la profundidad m\u00e1xima."
+        },
+        {
+          "text": "AQ y BQ",
+          "isCorrect": true,
+          "rationale": "Al ser di\u00e1metros menores, permiten penetrar m\u00e1s profundamente en la corteza terrestre con menos esfuerzo mec\u00e1nico."
+        },
+        {
+          "text": "NQ y HQ",
+          "isCorrect": false,
+          "rationale": "El NQ es intermedio y el HQ es grande; no son los \u00f3ptimos para perforaciones de extrema profundidad inicial."
+        },
+        {
+          "text": "PQ exclusivamente",
+          "isCorrect": false,
+          "rationale": "El di\u00e1metro PQ es el m\u00e1s grande y se reserva para pruebas metal\u00fargicas de gran volumen."
+        }
+      ],
+      "hint": "Son las siglas de los di\u00e1metros m\u00e1s peque\u00f1os mencionados."
+    },
+    {
+      "question": "En el logueo de testigos, \u00bfqu\u00e9 mineral de color 'verde manzana' es un indicador clave de la zona de alteraci\u00f3n hidrotermal?",
+      "answerOptions": [
+        {
+          "text": "Clorita",
+          "isCorrect": false,
+          "rationale": "Aunque es un mineral de alteraci\u00f3n verde, no posee el tono 'manzana' caracter\u00edstico que define al otro mineral."
+        },
+        {
+          "text": "Malaquita",
+          "isCorrect": false,
+          "rationale": "La malaquita es un carbonato de cobre de zona de oxidaci\u00f3n, no un mineral t\u00edpico de la secuencia de alteraci\u00f3n descrita."
+        },
+        {
+          "text": "Epidota",
+          "isCorrect": true,
+          "rationale": "La epidota resalta visualmente por su color verde manzana y marca la transici\u00f3n hacia la zona mineralizada."
+        },
+        {
+          "text": "Olivino",
+          "isCorrect": false,
+          "rationale": "El olivino es un mineral de rocas \u00edgneas m\u00e1ficas y no es el indicador de alteraci\u00f3n hidrotermal mencionado."
+        }
+      ],
+      "hint": "Comienza con la letra 'E'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia directa de no delimitar correctamente los contactos geol\u00f3gicos e incluir material est\u00e9ril en los c\u00e1lculos?",
+      "answerOptions": [
+        {
+          "text": "Incremento falso de la ley del mineral.",
+          "isCorrect": false,
+          "rationale": "Incluir est\u00e9ril baja la ley (la diluye), no la incrementa."
+        },
+        {
+          "text": "Diluci\u00f3n econ\u00f3mica.",
+          "isCorrect": true,
+          "rationale": "Se sobreestima el volumen aprovechable, gastando recursos en procesar material sin valor, lo que destruye la rentabilidad."
+        },
+        {
+          "text": "Mejora en la recuperaci\u00f3n metal\u00fargica.",
+          "isCorrect": false,
+          "rationale": "El material est\u00e9ril suele complicar los procesos metal\u00fargicos en lugar de mejorarlos."
+        },
+        {
+          "text": "Reducci\u00f3n de los costos de molienda.",
+          "isCorrect": false,
+          "rationale": "Introducir m\u00e1s material innecesario aumenta los costos de molienda al procesar mayor volumen por la misma cantidad de metal."
+        }
+      ],
+      "hint": "T\u00e9rmino que describe la p\u00e9rdida de valor por la mezcla con material sin valor."
+    },
+    {
+      "question": "Seg\u00fan la propuesta de expertos como Fernando Linares, \u00bfcu\u00e1l es el beneficio de realizar un corte asim\u00e9trico (un tercio para muestra y dos tercios para caja) en el testigo?",
+      "answerOptions": [
+        {
+          "text": "Reduce el costo del transporte de las muestras al laboratorio.",
+          "isCorrect": false,
+          "rationale": "El ahorro en transporte es m\u00ednimo comparado con el valor de la seguridad t\u00e9cnica que ofrece este m\u00e9todo."
+        },
+        {
+          "text": "Acelera el proceso de pulverizaci\u00f3n en el laboratorio.",
+          "isCorrect": false,
+          "rationale": "La velocidad de pulverizaci\u00f3n depende del equipo, no de si la muestra es un tercio o la mitad del testigo."
+        },
+        {
+          "text": "Permite conservar una reserva m\u00e1s robusta para futuras auditor\u00edas o peritajes legales.",
+          "isCorrect": true,
+          "rationale": "Mantener dos tercios en archivo proporciona una base f\u00edsica s\u00f3lida para verificaciones cr\u00edticas de terceros."
+        },
+        {
+          "text": "Evita que la roca se fracture durante el corte longitudinal.",
+          "isCorrect": false,
+          "rationale": "La fracturaci\u00f3n depende de la dureza y la sierra, no de la asimetr\u00eda del corte."
+        }
+      ],
+      "hint": "Funciona como un 'seguro de vida geol\u00f3gico' para revisiones posteriores."
+    },
+    {
+      "question": "En la preparaci\u00f3n mec\u00e1nica de la muestra, \u00bfa qu\u00e9 tama\u00f1o se reduce la roca durante la etapa de chancado o quebrantado?",
+      "answerOptions": [
+        {
+          "text": "Malla -200",
+          "isCorrect": false,
+          "rationale": "Este tama\u00f1o extremadamente fino corresponde a la etapa de pulverizaci\u00f3n, no al chancado inicial."
+        },
+        {
+          "text": "$\\frac{3}{4}$ de pulgada",
+          "isCorrect": true,
+          "rationale": "El chancado es una reducci\u00f3n intermedia que prepara el material para el cuarteo y posterior pulverizaci\u00f3n final."
+        },
+        {
+          "text": "10 cent\u00edmetros",
+          "isCorrect": false,
+          "rationale": "10 cent\u00edmetros es un tama\u00f1o demasiado grande para ser considerado el producto final de la etapa de chancado de laboratorio."
+        },
+        {
+          "text": "Malla -10",
+          "isCorrect": false,
+          "rationale": "La malla -10 es un producto de pulverizaci\u00f3n gruesa o tamizado, m\u00e1s fino que el resultado del chancado."
+        }
+      ],
+      "hint": "Es una fracci\u00f3n de la unidad de medida inglesa de longitud."
+    },
+    {
+      "question": "\u00bfQu\u00e9 reactivo se utiliza como fundente en el ensayo al fuego para atrapar metales preciosos como el oro y la plata?",
+      "answerOptions": [
+        {
+          "text": "\u00c1cido n\u00edtrico",
+          "isCorrect": false,
+          "rationale": "El \u00e1cido n\u00edtrico se usa para separar la plata del oro despu\u00e9s de la fusi\u00f3n, no como fundente inicial."
+        },
+        {
+          "text": "Agua regia",
+          "isCorrect": false,
+          "rationale": "El agua regia es para disoluci\u00f3n l\u00edquida de metales base, no para procesos de fusi\u00f3n a alta temperatura."
+        },
+        {
+          "text": "\u00d3xido de plomo",
+          "isCorrect": true,
+          "rationale": "Act\u00faa como un im\u00e1n l\u00edquido que colecta los metales nobles y los separa de la escoria durante la fusi\u00f3n."
+        },
+        {
+          "text": "Cianuro de sodio",
+          "isCorrect": false,
+          "rationale": "Se usa en lixiviaci\u00f3n industrial, pero no es el fundente est\u00e1ndar para el ensayo al fuego anal\u00edtico."
+        }
+      ],
+      "hint": "Es un compuesto met\u00e1lico que act\u00faa como im\u00e1n l\u00edquido."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 tipo de metales se utiliza el ataque qu\u00edmico con 'Agua Regia' (mezcla de $HCl$ y $HNO_3$)?",
+      "answerOptions": [
+        {
+          "text": "Solo para el oro nativo.",
+          "isCorrect": false,
+          "rationale": "Aunque disuelve el oro, en el flujo descrito se usa principalmente para liberar una gama m\u00e1s amplia de metales."
+        },
+        {
+          "text": "Para metales base como cobre ($Cu$), plomo ($Pb$) y zinc ($Zn$).",
+          "isCorrect": true,
+          "rationale": "Esta mezcla agresiva disuelve la muestra entera para liberar estos metales en una soluci\u00f3n analizable."
+        },
+        {
+          "text": "Para separar diamantes de la roca caja.",
+          "isCorrect": false,
+          "rationale": "Los diamantes requieren m\u00e9todos f\u00edsicos y qu\u00edmicos muy diferentes debido a su estructura de carbono."
+        },
+        {
+          "text": "Para neutralizar los vapores de mercurio.",
+          "isCorrect": false,
+          "rationale": "El agua regia genera vapores \u00e1cidos fuertes y no es un agente de neutralizaci\u00f3n ambiental."
+        }
+      ],
+      "hint": "Se enfoca en los metales menos nobles pero industrialmente fundamentales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00eda destaca por su rapidez y capacidad de realizar an\u00e1lisis multielementales simult\u00e1neos en una soluci\u00f3n l\u00edquida?",
+      "answerOptions": [
+        {
+          "text": "Absorci\u00f3n At\u00f3mica (AAS)",
+          "isCorrect": false,
+          "rationale": "La AAS es como un 'francotirador' que analiza un solo elemento a la vez con gran precisi\u00f3n."
+        },
+        {
+          "text": "Espectrofotometr\u00eda de infrarrojo.",
+          "isCorrect": false,
+          "rationale": "Se usa para identificar minerales, no para cuantificar docenas de elementos met\u00e1licos en soluci\u00f3n."
+        },
+        {
+          "text": "Plasma acoplado inductivamente (ICP)",
+          "isCorrect": true,
+          "rationale": "El ICP es la estrella indiscutible para leer simult\u00e1neamente m\u00faltiples elementos con alta sensibilidad."
+        },
+        {
+          "text": "Difracci\u00f3n de Rayos X (DRX).",
+          "isCorrect": false,
+          "rationale": "La DRX identifica la estructura cristalina de los minerales, no la composici\u00f3n elemental de una soluci\u00f3n \u00e1cida."
+        }
+      ],
+      "hint": "Sus siglas en ingl\u00e9s significan 'Inductively Coupled Plasma'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 t\u00e9cnica geoestad\u00edstica permite interpolar los datos qu\u00edmicos en un espacio 3D para crear el modelo de bloques del yacimiento?",
+      "answerOptions": [
+        {
+          "text": "Regresi\u00f3n lineal simple.",
+          "isCorrect": false,
+          "rationale": "Este m\u00e9todo es demasiado b\u00e1sico para capturar la complejidad tridimensional de un dep\u00f3sito geol\u00f3gico."
+        },
+        {
+          "text": "Kriging",
+          "isCorrect": true,
+          "rationale": "Es la herramienta sofisticada que clasifica el volumen de roca en baja, media y alta ley dentro del modelo econ\u00f3mico."
+        },
+        {
+          "text": "M\u00e9todo del pol\u00edgono de frecuencias.",
+          "isCorrect": false,
+          "rationale": "Es una herramienta de visualizaci\u00f3n estad\u00edstica, pero no un m\u00e9todo de interpolaci\u00f3n espacial para recursos mineros."
+        },
+        {
+          "text": "Muestreo aleatorio estratificado.",
+          "isCorrect": false,
+          "rationale": "Esta es una t\u00e9cnica de recolecci\u00f3n de datos, no un algoritmo de generaci\u00f3n de modelos tridimensionales."
+        }
+      ],
+      "hint": "Es una palabra de origen extranjero que empieza con la letra 'K'."
+    },
+    {
+      "question": "En el proyecto SilverX de Huachocolpa, \u00bfcu\u00e1les son los minerales de inter\u00e9s que se buscan identificar dentro de las brechas de cuarzo-calcita?",
+      "answerOptions": [
+        {
+          "text": "Oro y Plata nativa.",
+          "isCorrect": false,
+          "rationale": "Aunque pueden estar presentes, el objetivo anal\u00edtico espec\u00edfico mencionado para este caso son otros sulfuros."
+        },
+        {
+          "text": "Galena y esfalerita.",
+          "isCorrect": true,
+          "rationale": "Estos minerales de plomo y zinc son el foco de la misi\u00f3n anal\u00edtica dirigida en ese entorno geol\u00f3gico particular."
+        },
+        {
+          "text": "Calcopirita y bornita.",
+          "isCorrect": false,
+          "rationale": "Estos son minerales de cobre, no los componentes principales buscados en las brechas de SilverX seg\u00fan el caso expuesto."
+        },
+        {
+          "text": "Magnetita y hematita.",
+          "isCorrect": false,
+          "rationale": "Son \u00f3xidos de hierro que no corresponden a la mineralog\u00eda de inter\u00e9s econ\u00f3mico principal en este proyecto."
+        }
+      ],
+      "hint": "Son los sulfuros de plomo y zinc respectivamente."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Muestreo Geol\u00f3gico Sistem\u00e1tico",
+      "Seguridad Operativa en Miner\u00eda",
+      "Exploraci\u00f3n Geoqu\u00edmica Superficial y Subterr\u00e1nea",
+      "An\u00e1lisis de Testigos de Perforaci\u00f3n",
+      "Procedimientos de Laboratorio Qu\u00edmico",
+      "Geoestad\u00edstica y Modelado de Bloques"
+    ],
+    "followUp": [
+      "Control de Calidad (QA/QC) Avanzado",
+      "Metalurgia Extractiva y Pruebas en Di\u00e1metros PQ",
+      "Gesti\u00f3n de Pasivos Ambientales Mineros",
+      "Hidrotermalismo y Secuencias de Alteraci\u00f3n",
+      "Log\u00edstica de Trazabilidad y Cadena de Custodia"
+    ]
+  }
+}

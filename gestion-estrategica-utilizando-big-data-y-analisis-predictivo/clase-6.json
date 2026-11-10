@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el pilar fundamental que permite a las empresas reducir costos operativos y aumentar la velocidad de respuesta al mercado en la optimizaci\u00f3n sist\u00e9mica?",
+      "answerOptions": [
+        {
+          "text": "La intuici\u00f3n de los l\u00edderes organizacionales.",
+          "isCorrect": false,
+          "rationale": "Aunque el liderazgo es importante, la optimizaci\u00f3n sist\u00e9mica moderna busca reemplazar la intuici\u00f3n con datos cuantificables para lograr precisi\u00f3n."
+        },
+        {
+          "text": "El uso de datos cuantificables y marcos metodol\u00f3gicos rigurosos.",
+          "isCorrect": true,
+          "rationale": "La base de la optimizaci\u00f3n sist\u00e9mica reside en transformar informaci\u00f3n pura en ejecuci\u00f3n de alto rendimiento mediante m\u00e9todos precisos."
+        },
+        {
+          "text": "La acumulaci\u00f3n masiva de recursos financieros.",
+          "isCorrect": false,
+          "rationale": "La agilidad organizacional no depende de la cantidad de recursos, sino de la capacidad de adaptaci\u00f3n y ajuste de procesos internos."
+        },
+        {
+          "text": "El incremento de la fuerza laboral operativa.",
+          "isCorrect": false,
+          "rationale": "Aumentar el personal no garantiza eficiencia; la optimizaci\u00f3n se enfoca en eliminar redundancias y mejorar la calidad mediante tecnolog\u00eda."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 elemento permite pasar de simples corazonadas a una ejecuci\u00f3n con precisi\u00f3n quir\u00fargica."
+    },
+    {
+      "question": "En el ciclo iterativo de mejora PHBA, \u00bfqu\u00e9 se recomienda hacer durante la fase de 'Hacer' para proteger la estabilidad del sistema?",
+      "answerOptions": [
+        {
+          "text": "Implementar los cambios en toda la organizaci\u00f3n simult\u00e1neamente.",
+          "isCorrect": false,
+          "rationale": "Ejecutar cambios a gran escala sin validaci\u00f3n previa pone en riesgo la continuidad del negocio si el proceso falla."
+        },
+        {
+          "text": "Ejecutar los procesos de manera controlada mediante proyectos piloto.",
+          "isCorrect": true,
+          "rationale": "El uso de pilotos permite validar la efectividad de una nueva t\u00e1ctica sin arriesgar todo el sistema operativo de golpe."
+        },
+        {
+          "text": "Eliminar la supervisi\u00f3n humana para agilizar la ejecuci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La fase de ejecuci\u00f3n requiere control y monitoreo para poder verificar t\u00e9cnicamente los resultados posteriormente."
+        },
+        {
+          "text": "Saltar directamente a la estandarizaci\u00f3n de procesos.",
+          "isCorrect": false,
+          "rationale": "La estandarizaci\u00f3n solo ocurre en la fase de 'Actuar', una vez que se han verificado los resultados del piloto."
+        }
+      ],
+      "hint": "Considere la analog\u00eda del chef que hornea un lote peque\u00f1o antes de cambiar toda la producci\u00f3n."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es crucial distinguir entre correlaci\u00f3n y causalidad durante la fase de verificaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Porque la correlaci\u00f3n siempre indica el motor real de un problema.",
+          "isCorrect": false,
+          "rationale": "Dos eventos pueden ocurrir al mismo tiempo sin que uno cause el otro, lo cual puede llevar a conclusiones err\u00f3neas."
+        },
+        {
+          "text": "Para evitar tomar decisiones basadas en espejismos estad\u00edsticos o ruido.",
+          "isCorrect": true,
+          "rationale": "Confundir una coincidencia con una causa ra\u00edz puede ser desastroso para la estrategia operativa de la empresa."
+        },
+        {
+          "text": "Porque los modelos matem\u00e1ticos no pueden detectar la causalidad.",
+          "isCorrect": false,
+          "rationale": "Existen herramientas como el an\u00e1lisis de regresi\u00f3n y pruebas de hip\u00f3tesis dise\u00f1adas espec\u00edficamente para este fin."
+        },
+        {
+          "text": "Porque la causalidad es menos relevante que el volumen de datos.",
+          "isCorrect": false,
+          "rationale": "Tener muchos datos no sirve de nada si no se comprende qu\u00e9 variable genera realmente el impacto en el negocio."
+        }
+      ],
+      "hint": "Evite confundir una coincidencia temporal con la verdadera ra\u00edz del \u00e9xito o del fallo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de integrar la simulaci\u00f3n de Montecarlo en la optimizaci\u00f3n avanzada?",
+      "answerOptions": [
+        {
+          "text": "Sustituir el ciclo de mejora PHBA por uno m\u00e1s corto.",
+          "isCorrect": false,
+          "rationale": "La simulaci\u00f3n no sustituye el ciclo, sino que potencia la fase de verificaci\u00f3n mediante proyecciones avanzadas."
+        },
+        {
+          "text": "Automatizar la contrataci\u00f3n de personal en departamentos cr\u00edticos.",
+          "isCorrect": false,
+          "rationale": "Montecarlo es una herramienta de an\u00e1lisis de escenarios y riesgo, no de gesti\u00f3n de recursos humanos."
+        },
+        {
+          "text": "Anticipar el impacto de m\u00faltiples variables inciertas proyectando miles de escenarios.",
+          "isCorrect": true,
+          "rationale": "Permite mitigar riesgos en un entorno virtual antes de implementar cambios costosos en el mundo real."
+        },
+        {
+          "text": "Eliminar la necesidad de utilizar indicadores SMART.",
+          "isCorrect": false,
+          "rationale": "La simulaci\u00f3n requiere indicadores bien definidos para alimentar sus modelos y medir los resultados proyectados."
+        }
+      ],
+      "hint": "Imagine un simulador de vuelo aplicado a la toma de decisiones empresariales."
+    },
+    {
+      "question": "En el marco de los indicadores SMART, \u00bfqu\u00e9 sucede si a un KPI le falta el criterio 'Temporal'?",
+      "answerOptions": [
+        {
+          "text": "El indicador se vuelve m\u00e1s flexible para el equipo.",
+          "isCorrect": false,
+          "rationale": "La flexibilidad sin l\u00edmites de tiempo suele conducir a la inacci\u00f3n o a la falta de urgencia estrat\u00e9gica."
+        },
+        {
+          "text": "El objetivo se convierte simplemente en un deseo al aire sin fecha l\u00edmite.",
+          "isCorrect": true,
+          "rationale": "Sin un marco temporal definido, es imposible medir el progreso real o determinar si se ha alcanzado la meta a tiempo."
+        },
+        {
+          "text": "Se mejora la relevancia del indicador para la visi\u00f3n de la empresa.",
+          "isCorrect": false,
+          "rationale": "La relevancia es un criterio independiente; la falta de temporalidad debilita la estructura del KPI en su totalidad."
+        },
+        {
+          "text": "El indicador autom\u00e1ticamente se clasifica como estrat\u00e9gico.",
+          "isCorrect": false,
+          "rationale": "Los indicadores estrat\u00e9gicos tambi\u00e9n deben ser temporales para ser accionables a largo plazo."
+        }
+      ],
+      "hint": "Considere la diferencia entre tener un plan con fecha de entrega y un anhelo indefinido."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumplen los KPIs t\u00e1cticos dentro de la estructura organizacional?",
+      "answerOptions": [
+        {
+          "text": "Miden la eficiencia t\u00e9cnica del d\u00eda a d\u00eda en la l\u00ednea de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n de los KPIs operativos, que se enfocan en el nivel micro de la empresa."
+        },
+        {
+          "text": "Act\u00faan como un puente que conecta la gran visi\u00f3n estrat\u00e9gica con las operaciones diarias.",
+          "isCorrect": true,
+          "rationale": "Aseguran que los objetivos de cada departamento se cumplan mensualmente para empujar los resultados macro."
+        },
+        {
+          "text": "Definen la participaci\u00f3n de mercado a largo plazo de la compa\u00f1\u00eda.",
+          "isCorrect": false,
+          "rationale": "El crecimiento de participaci\u00f3n de mercado es un KPI de nivel estrat\u00e9gico, no t\u00e1ctico."
+        },
+        {
+          "text": "Se encargan exclusivamente de la limpieza y transformaci\u00f3n de datos SQL.",
+          "isCorrect": false,
+          "rationale": "Esa es una tarea t\u00e9cnica de procesamiento de datos, no un indicador de gesti\u00f3n de desempe\u00f1o departamental."
+        }
+      ],
+      "hint": "Piense en la capa intermedia que permite que marketing y ventas trabajen alineados hacia un objetivo com\u00fan."
+    },
+    {
+      "question": "En el sector de manufactura, \u00bfc\u00f3mo se calcula el indicador rey conocido como OEE (Eficiencia General de los Equipos)?",
+      "answerOptions": [
+        {
+          "text": "Multiplicando la disponibilidad, el rendimiento y la calidad.",
+          "isCorrect": true,
+          "rationale": "El OEE es un producto de estos tres factores que ofrece una visi\u00f3n integral de la productividad de la maquinaria."
+        },
+        {
+          "text": "Sumando el total de piezas producidas y restando el desperdicio.",
+          "isCorrect": false,
+          "rationale": "Este c\u00e1lculo solo medir\u00eda el volumen neto, ignorando factores cr\u00edticos como el tiempo de inactividad o la velocidad."
+        },
+        {
+          "text": "Dividiendo el costo de transporte por la tasa de rechazo.",
+          "isCorrect": false,
+          "rationale": "Esta relaci\u00f3n no define la eficiencia del equipo, sino una m\u00e9trica mixta de log\u00edstica y calidad sin sentido t\u00e9cnico."
+        },
+        {
+          "text": "Restando los fallos mec\u00e1nicos de la capacidad te\u00f3rica total.",
+          "isCorrect": false,
+          "rationale": "Aunque considera fallos, no pondera adecuadamente el rendimiento durante los periodos de operaci\u00f3n activa."
+        }
+      ],
+      "hint": "Este indicador es el resultado de la intersecci\u00f3n entre el tiempo que la m\u00e1quina estuvo disponible, qu\u00e9 tan r\u00e1pido trabaj\u00f3 y cu\u00e1ntas piezas salieron bien."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal del modelado predictivo apoyado en machine learning?",
+      "answerOptions": [
+        {
+          "text": "Generar reportes detallados sobre las ventas del trimestre pasado.",
+          "isCorrect": false,
+          "rationale": "Mirar el pasado es an\u00e1lisis descriptivo; el modelado predictivo se enfoca en el futuro probabil\u00edstico."
+        },
+        {
+          "text": "Realizar pron\u00f3sticos proactivos sobre el ma\u00f1ana para optimizar recursos.",
+          "isCorrect": true,
+          "rationale": "Aprender de patrones hist\u00f3ricos ocultos permite anticiparse a cuellos de botella y asignar recursos 'justo a tiempo'."
+        },
+        {
+          "text": "Sustituir a los gerentes en la toma de decisiones finales.",
+          "isCorrect": false,
+          "rationale": "La IA construye una arquitectura de decisiones activas que sirve como soporte, no necesariamente como sustituto absoluto del juicio humano."
+        },
+        {
+          "text": "Aumentar la latencia operativa para revisar mejor los datos.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el objetivo es reducir dr\u00e1sticamente la latencia operativa mediante la anticipaci\u00f3n de problemas."
+        }
+      ],
+      "hint": "Piense en la diferencia entre mirar por el espejo retrovisor y mirar hacia el camino que viene adelante."
+    },
+    {
+      "question": "Para entrenar un modelo de machine learning de forma rigurosa, \u00bfcu\u00e1l es la regla de oro respecto a la divisi\u00f3n de datos?",
+      "answerOptions": [
+        {
+          "text": "Usar el 100% de los datos para entrenamiento para maximizar la precisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esto causar\u00eda un sobreajuste y no permitir\u00eda validar si el modelo realmente sabe generalizar con datos nuevos."
+        },
+        {
+          "text": "Entrenar con el 80% de los datos y reservar un 20% invisible para pruebas.",
+          "isCorrect": true,
+          "rationale": "Esta separaci\u00f3n estricta permite evaluar el desempe\u00f1o real del modelo frente a situaciones que no ha visto previamente."
+        },
+        {
+          "text": "Utilizar solo datos externos para evitar sesgos internos.",
+          "isCorrect": false,
+          "rationale": "Los modelos necesitan datos hist\u00f3ricos propios para entender la realidad espec\u00edfica del negocio que pretenden optimizar."
+        },
+        {
+          "text": "Mezclar los datos de entrenamiento y prueba constantemente durante el proceso.",
+          "isCorrect": false,
+          "rationale": "La contaminaci\u00f3n entre conjuntos de datos anula la validez de las m\u00e9tricas de error como el MAE o el MSE."
+        }
+      ],
+      "hint": "Recuerde la proporci\u00f3n que deja una quinta parte de la informaci\u00f3n 'en la oscuridad' para el algoritmo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 indican las m\u00e9tricas MAE (Error Medio Absoluto) y MSE (Error Cuadr\u00e1tico Medio) en un modelo de regresi\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "El nivel de rentabilidad esperada por cada unidad vendida.",
+          "isCorrect": false,
+          "rationale": "Estas son m\u00e9tricas de error t\u00e9cnico del modelo, no indicadores de margen de ganancia financiera."
+        },
+        {
+          "text": "Qu\u00e9 tan equivocadas estuvieron las predicciones frente a la realidad del negocio.",
+          "isCorrect": true,
+          "rationale": "Representan la magnitud del error; mientras m\u00e1s bajos sean estos valores, m\u00e1s precisa es la predicci\u00f3n del algoritmo."
+        },
+        {
+          "text": "El porcentaje de clientes que abandonar\u00e1n la empresa el pr\u00f3ximo mes.",
+          "isCorrect": false,
+          "rationale": "Aunque pueden usarse en esos contextos, MAE y MSE miden la desviaci\u00f3n general de cualquier variable num\u00e9rica predicha."
+        },
+        {
+          "text": "La velocidad a la que el algoritmo procesa los registros SQL.",
+          "isCorrect": false,
+          "rationale": "El tiempo de procesamiento es una m\u00e9trica de computaci\u00f3n, no una m\u00e9trica de precisi\u00f3n estad\u00edstica del modelo."
+        }
+      ],
+      "hint": "Piense en estas m\u00e9tricas como una medida de la distancia entre lo que el modelo dijo que pasar\u00eda y lo que realmente pas\u00f3."
+    },
+    {
+      "question": "En el contexto de clasificaci\u00f3n de calidad, \u00bfen qu\u00e9 consiste la 'trampa de las clases desbalanceadas'?",
+      "answerOptions": [
+        {
+          "text": "En tener demasiados datos de defectos que confunden al algoritmo.",
+          "isCorrect": false,
+          "rationale": "Normalmente ocurre lo contrario: los defectos son escasos, lo que dificulta que el modelo aprenda a identificarlos."
+        },
+        {
+          "text": "En que un modelo con alta precisi\u00f3n (accuracy) puede ser ciego ante la clase minoritaria (defectos).",
+          "isCorrect": true,
+          "rationale": "Si el 91% de los productos son buenos, un modelo que siempre diga 'bueno' tendr\u00e1 un 91% de precisi\u00f3n pero no detectar\u00e1 fallos."
+        },
+        {
+          "text": "En utilizar un bosque de \u00e1rboles de decisi\u00f3n demasiado peque\u00f1o.",
+          "isCorrect": false,
+          "rationale": "El tama\u00f1o del bosque afecta la robustez, pero la trampa del balanceo es un problema de la distribuci\u00f3n de los datos de entrada."
+        },
+        {
+          "text": "En que el algoritmo favorece siempre a los productos con mayor costo de fabricaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los algoritmos se basan en frecuencias estad\u00edsticas, no en el valor monetario, a menos que se codifique expl\u00edcitamente."
+        }
+      ],
+      "hint": "Reflexione sobre por qu\u00e9 un modelo que presume un 91% de acierto podr\u00eda ser absolutamente in\u00fatil para detectar fallas raras."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n espec\u00edfica del algoritmo Isolation Forest en la vigilancia operativa?",
+      "answerOptions": [
+        {
+          "text": "Clasificar los productos en categor\u00edas de 'Aceptable' y 'Premium'.",
+          "isCorrect": false,
+          "rationale": "Esa es una tarea de clasificaci\u00f3n est\u00e1ndar; Isolation Forest no busca categor\u00edas normales, sino lo at\u00edpico."
+        },
+        {
+          "text": "Aislar activamente comportamientos at\u00edpicos o anomal\u00edas para prevenir desastres.",
+          "isCorrect": true,
+          "rationale": "Su objetivo es detectar eventos que se desv\u00edan del flujo natural, como una vibraci\u00f3n excesiva en una m\u00e1quina."
+        },
+        {
+          "text": "Optimizar las rutas de transporte en tiempo real.",
+          "isCorrect": false,
+          "rationale": "La optimizaci\u00f3n de rutas suele requerir algoritmos de grafos o programaci\u00f3n lineal, no detecci\u00f3n de anomal\u00edas."
+        },
+        {
+          "text": "Estandarizar las recetas en una panader\u00eda industrial.",
+          "isCorrect": false,
+          "rationale": "La estandarizaci\u00f3n es parte de la fase 'Actuar' del ciclo PHBA, no una funci\u00f3n de un algoritmo de detecci\u00f3n de anomal\u00edas."
+        }
+      ],
+      "hint": "Busque la herramienta dise\u00f1ada para marcar inmediatamente un evento cuando supera un umbral cr\u00edtico de comportamiento."
+    },
+    {
+      "question": "Dentro de un script de machine learning, \u00bfqu\u00e9 ocurre espec\u00edficamente en el paso de extracci\u00f3n o ETL?",
+      "answerOptions": [
+        {
+          "text": "Se generan matrices de confusi\u00f3n para interpretar el modelo.",
+          "isCorrect": false,
+          "rationale": "Eso ocurre en la fase final de visualizaci\u00f3n para comunicar la robustez del modelo ya entrenado."
+        },
+        {
+          "text": "Se conectan a bases de datos, se limpia la data y se transforman variables en unos y ceros.",
+          "isCorrect": true,
+          "rationale": "Es la etapa de preparaci\u00f3n donde los datos crudos se vuelven digeribles para que el algoritmo pueda procesarlos matem\u00e1ticamente."
+        },
+        {
+          "text": "El algoritmo ajusta sus coeficientes bas\u00e1ndose en el historial.",
+          "isCorrect": false,
+          "rationale": "Este es el proceso central de la fase de entrenamiento, no de la extracci\u00f3n de datos."
+        },
+        {
+          "text": "Se decide si un producto es apto o defectuoso mediante votos.",
+          "isCorrect": false,
+          "rationale": "Esa es la mec\u00e1nica de ejecuci\u00f3n de un modelo de clasificaci\u00f3n como Random Forest."
+        }
+      ],
+      "hint": "Es el paso inicial donde se prepara el 'alimento' que consumir\u00e1 el algoritmo."
+    },
+    {
+      "question": "En la miner\u00eda de procesos, \u00bfqu\u00e9 representa la f\u00f3rmula matem\u00e1tica $M' = M - W + W'$?",
+      "answerOptions": [
+        {
+          "text": "El c\u00e1lculo de la rentabilidad neta de un proceso bancario.",
+          "isCorrect": false,
+          "rationale": "La f\u00f3rmula describe la din\u00e1mica de estados en una Red de Petri, no una m\u00e9trica financiera."
+        },
+        {
+          "text": "La transici\u00f3n a un nuevo estado del proceso basada en recursos consumidos y generados.",
+          "isCorrect": true,
+          "rationale": "Representa c\u00f3mo el estado actual ($M$) cambia al restar recursos usados ($W$) y sumar los nuevos resultados ($W'$)."
+        },
+        {
+          "text": "La precisi\u00f3n de un modelo de regresi\u00f3n lineal m\u00faltiple.",
+          "isCorrect": false,
+          "rationale": "Las regresiones usan funciones de error y coeficientes, no esta l\u00f3gica de balance de fichas o estados."
+        },
+        {
+          "text": "La diferencia entre el modelo te\u00f3rico y el log de eventos real.",
+          "isCorrect": false,
+          "rationale": "Esa comparaci\u00f3n es el objetivo general de la miner\u00eda de procesos, pero no es lo que describe espec\u00edficamente esta f\u00f3rmula."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo cambia un sistema paso a paso seg\u00fan lo que entra y lo que sale de cada actividad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la ventaja principal del algoritmo Heuristic Miner frente a otros como el Alpha Miner?",
+      "answerOptions": [
+        {
+          "text": "Es m\u00e1s transparente y funciona mejor con procesos puramente lineales.",
+          "isCorrect": false,
+          "rationale": "Esa es la caracter\u00edstica del Alpha Miner, el cual sufre cuando los datos tienen ruido o bucles complejos."
+        },
+        {
+          "text": "Es el campe\u00f3n para domar el caos en datos desordenados del mundo real.",
+          "isCorrect": true,
+          "rationale": "Utiliza m\u00e9tricas de dependencia para filtrar el ruido y revelar las conexiones verdaderamente causales entre actividades."
+        },
+        {
+          "text": "Asegura que el modelo generado nunca tendr\u00e1 bloqueos o deadlocks.",
+          "isCorrect": false,
+          "rationale": "Esa es la ventaja principal del Inductive Miner, aunque a veces pueda resultar en esquemas muy r\u00edgidos."
+        },
+        {
+          "text": "Requiere menos capacidad de c\u00f3mputo al ignorar la direccionalidad de los datos.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el Heuristic Miner analiza profundamente la direccionalidad para ser efectivo contra el ruido estad\u00edstico."
+        }
+      ],
+      "hint": "Considere qu\u00e9 algoritmo es ideal para sectores complejos como la banca donde los registros suelen estar 'sucios'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 concepto describe la obsolescencia de un modelo de IA debido a cambios en la realidad del entorno?",
+      "answerOptions": [
+        {
+          "text": "Latencia operativa.",
+          "isCorrect": false,
+          "rationale": "La latencia se refiere al tiempo de demora en la ejecuci\u00f3n de un flujo, no a la degradaci\u00f3n del modelo."
+        },
+        {
+          "text": "Concept drift.",
+          "isCorrect": true,
+          "rationale": "Se refiere a cuando los patrones que el modelo aprendi\u00f3 cambian en el tiempo, haciendo que sus predicciones dejen de ser precisas."
+        },
+        {
+          "text": "M\u00e9trica de dependencia.",
+          "isCorrect": false,
+          "rationale": "Este es un c\u00e1lculo estad\u00edstico usado por mineros de procesos para verificar la fuerza entre dos actividades."
+        },
+        {
+          "text": "Escalado de nivel dos.",
+          "isCorrect": false,
+          "rationale": "Es un procedimiento de resoluci\u00f3n de problemas en soporte t\u00e9cnico, no un fen\u00f3meno de degradaci\u00f3n algor\u00edtmica."
+        }
+      ],
+      "hint": "Piense en el t\u00e9rmino que define el 'desplazamiento' de la realidad frente a lo que el modelo aprendi\u00f3 originalmente."
+    },
+    {
+      "question": "\u00bfC\u00f3mo ayuda la visualizaci\u00f3n en tiempo real (usando herramientas como Streamlit) a la retenci\u00f3n de clientes?",
+      "answerOptions": [
+        {
+          "text": "Permite identificar la fuga de clientes solo despu\u00e9s de que ha ocurrido.",
+          "isCorrect": false,
+          "rationale": "La visualizaci\u00f3n reactiva no a\u00f1ade valor estrat\u00e9gico preventivo; el objetivo es la proactividad."
+        },
+        {
+          "text": "Permite actuar proactivamente antes de que el cliente abandone, elevando el LTV.",
+          "isCorrect": true,
+          "rationale": "Al ver predicciones de fuga en tiempo real, la empresa puede intervenir con ofertas o soporte justo a tiempo."
+        },
+        {
+          "text": "Reduce los costos de transporte de los productos f\u00edsicos.",
+          "isCorrect": false,
+          "rationale": "La retenci\u00f3n de clientes impacta el valor de vida del cliente, no directamente los costos log\u00edsticos de distribuci\u00f3n."
+        },
+        {
+          "text": "Sustituye la necesidad de realizar pruebas de hip\u00f3tesis.",
+          "isCorrect": false,
+          "rationale": "La visualizaci\u00f3n es el paso final para comunicar resultados, pero la validez de los datos sigue dependiendo del rigor estad\u00edstico previo."
+        }
+      ],
+      "hint": "Considere el impacto de tener a la vista qui\u00e9n est\u00e1 a punto de irse para poder evitarlo."
+    },
+    {
+      "question": "En el sector bancario, \u00bfqu\u00e9 mide espec\u00edficamente la tasa de morosidad?",
+      "answerOptions": [
+        {
+          "text": "El excedente de capital invertido en mercados de corto plazo.",
+          "isCorrect": false,
+          "rationale": "Eso describe los dep\u00f3sitos overnight, no la tasa de incumplimiento de pagos."
+        },
+        {
+          "text": "El porcentaje de cr\u00e9ditos o pr\u00e9stamos que presentan retrasos en sus pagos.",
+          "isCorrect": true,
+          "rationale": "Es un indicador cr\u00edtico de riesgo que se\u00f1ala la salud de la cartera de pr\u00e9stamos del banco."
+        },
+        {
+          "text": "La velocidad con la que el inventario de tarjetas de cr\u00e9dito rota anualmente.",
+          "isCorrect": false,
+          "rationale": "La rotaci\u00f3n de inventario es un KPI t\u00edpico del sector retail, no de la gesti\u00f3n de riesgo crediticio."
+        },
+        {
+          "text": "La relaci\u00f3n entre dep\u00f3sitos de ahorro y la inversi\u00f3n en tecnolog\u00eda IA.",
+          "isCorrect": false,
+          "rationale": "Esta es una m\u00e9trica de inversi\u00f3n presupuestaria, no un indicador de comportamiento de pago del cliente."
+        }
+      ],
+      "hint": "Este indicador sube cuando los clientes dejan de pagar sus deudas a tiempo."
+    },
+    {
+      "question": "Seg\u00fan el an\u00e1lisis de optimizaci\u00f3n en telecomunicaciones, \u00bfcu\u00e1l fue el factor clave para reducir el tiempo de resoluci\u00f3n de 18 a 11 horas?",
+      "answerOptions": [
+        {
+          "text": "La contrataci\u00f3n de m\u00e1s personal de nivel dos.",
+          "isCorrect": false,
+          "rationale": "La optimizaci\u00f3n se logr\u00f3 evitando precisamente los escalados innecesarios a niveles superiores."
+        },
+        {
+          "text": "La eliminaci\u00f3n de pasos redundantes y escalados innecesarios mediante an\u00e1lisis algor\u00edtmico.",
+          "isCorrect": true,
+          "rationale": "Identificar y quitar fricciones en el flujo de trabajo permiti\u00f3 una resoluci\u00f3n m\u00e1s directa y r\u00e1pida."
+        },
+        {
+          "text": "El aumento de la velocidad de banda ancha de los servidores.",
+          "isCorrect": false,
+          "rationale": "La mejora fue en el proceso organizacional y la latencia operativa, no en la infraestructura f\u00edsica de red."
+        },
+        {
+          "text": "La implementaci\u00f3n de simulaci\u00f3n estoc\u00e1stica para las ventas.",
+          "isCorrect": false,
+          "rationale": "Aunque es una herramienta potente, el caso espec\u00edfico menciona la mejora en flujos de resoluci\u00f3n de soporte."
+        }
+      ],
+      "hint": "Se enfocaron en limpiar el 'camino' del proceso para que la informaci\u00f3n fluyera sin trabas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre la miner\u00eda de procesos y los manuales te\u00f3ricos de una empresa?",
+      "answerOptions": [
+        {
+          "text": "Los manuales son m\u00e1s precisos al usar logs de eventos reales.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; los manuales dictan el 'deber ser', mientras que los logs muestran lo que realmente pasa."
+        },
+        {
+          "text": "La miner\u00eda reconstruye la realidad operativa tal y como sucedi\u00f3 bas\u00e1ndose en registros.",
+          "isCorrect": true,
+          "rationale": "Permite descubrir el flujo real, que a menudo difiere significativamente de lo que dicen los procedimientos oficiales."
+        },
+        {
+          "text": "La miner\u00eda de procesos no puede detectar bloqueos operativos.",
+          "isCorrect": false,
+          "rationale": "Una de las funciones principales de la miner\u00eda es detectar con exactitud quir\u00fargica d\u00f3nde est\u00e1n los cuellos de botella."
+        },
+        {
+          "text": "Los manuales te\u00f3ricos son din\u00e1micos y se actualizan autom\u00e1ticamente con IA.",
+          "isCorrect": false,
+          "rationale": "Los manuales suelen ser documentos est\u00e1ticos; la miner\u00eda de procesos es la que aporta el dinamismo basado en evidencia constante."
+        }
+      ],
+      "hint": "Piense en la diferencia entre el plano de una casa y c\u00f3mo la gente realmente camina por ella."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Optimizaci\u00f3n sist\u00e9mica",
+      "Ciclo PDCA",
+      "Indicadores Clave de Desempe\u00f1o (KPI)",
+      "Modelado predictivo",
+      "Miner\u00eda de procesos"
+    ],
+    "followUp": [
+      "Arquitectura de decisiones activas",
+      "Simulaci\u00f3n y optimizaci\u00f3n estoc\u00e1stica",
+      "Detecci\u00f3n de anomal\u00edas con Isolation Forest",
+      "Algoritmos de descubrimiento (Alpha, Inductive, Heuristic Miner)",
+      "Gesti\u00f3n del Concept Drift en modelos de IA"
+    ]
+  }
+}

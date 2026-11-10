@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal que define al CAPEX o gasto de capital en la industria minera?",
+      "answerOptions": [
+        {
+          "text": "Se trata de gastos recurrentes que se consumen totalmente en el a\u00f1o fiscal en curso.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde al gasto operativo (OPEX) y no a activos de larga vida \u00fatil."
+        },
+        {
+          "text": "Son inversiones en activos f\u00edsicos de larga vida \u00fatil que se deprecian o amortizan con el tiempo.",
+          "isCorrect": true,
+          "rationale": "El CAPEX se enfoca en la adquisici\u00f3n de bienes capitalizables que generan valor patrimonial y productividad futura."
+        },
+        {
+          "text": "Incluye exclusivamente los costos de insumos directos como explosivos y reactivos.",
+          "isCorrect": false,
+          "rationale": "Los insumos de consumo inmediato son clasificados como costos operativos diarios o variables."
+        },
+        {
+          "text": "Es un gasto deducible al $100\\%$ de manera inmediata en el estado de resultados.",
+          "isCorrect": false,
+          "rationale": "El beneficio de deducibilidad inmediata es una ventaja contable propia del OPEX, no del CAPEX."
+        }
+      ],
+      "hint": "Piense en la diferencia entre un gasto diario y una inversi\u00f3n en infraestructura que dura a\u00f1os."
+    },
+    {
+      "question": "\u00bfQu\u00e9 criterios adicionales al precio y calidad son obligatorios para elegir proveedores bajo los est\u00e1ndares del ICMN?",
+      "answerOptions": [
+        {
+          "text": "Criterios ambientales, sociales y de gobernanza (ESG).",
+          "isCorrect": true,
+          "rationale": "La sostenibilidad moderna exige que la gesti\u00f3n de proveedores incorpore responsabilidad corporativa y transparencia."
+        },
+        {
+          "text": "\u00danicamente la proximidad geogr\u00e1fica de la f\u00e1brica al proyecto minero.",
+          "isCorrect": false,
+          "rationale": "Aunque la log\u00edstica es importante, los est\u00e1ndares internacionales priorizan la sostenibilidad y el riesgo integral."
+        },
+        {
+          "text": "El volumen total de ventas anuales del proveedor en el mercado global.",
+          "isCorrect": false,
+          "rationale": "El tama\u00f1o de ventas por s\u00ed solo no garantiza el cumplimiento de est\u00e1ndares \u00e9ticos o ambientales obligatorios."
+        },
+        {
+          "text": "La cantidad de empleados que el proveedor tiene en su planilla administrativa.",
+          "isCorrect": false,
+          "rationale": "Este es un dato operativo menor que no refleja el impacto social o de gobernanza requerido por el sector."
+        }
+      ],
+      "hint": "Considere las siglas que agrupan los est\u00e1ndares de sostenibilidad y responsabilidad social."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se clasifica el capital destinado a la expansi\u00f3n de horizontes, como los proyectos Greenfield o Brownfield?",
+      "answerOptions": [
+        {
+          "text": "CAPEX de sostenimiento.",
+          "isCorrect": false,
+          "rationale": "El sostenimiento se enfoca en mantener la capacidad actual, no en expandirla hacia nuevos yacimientos."
+        },
+        {
+          "text": "CAPEX inicial.",
+          "isCorrect": false,
+          "rationale": "El capital inicial es el que se requiere para que el proyecto nazca y se construya la infraestructura base."
+        },
+        {
+          "text": "CAPEX de crecimiento.",
+          "isCorrect": true,
+          "rationale": "Esta categor\u00eda agrupa las inversiones destinadas a ampliar la producci\u00f3n o recategorizar recursos mediante exploraci\u00f3n."
+        },
+        {
+          "text": "OPEX de preparaci\u00f3n temporal.",
+          "isCorrect": false,
+          "rationale": "La preparaci\u00f3n temporal son labores de corto plazo para la producci\u00f3n diaria, no proyectos de expansi\u00f3n patrimonial."
+        }
+      ],
+      "hint": "Identifique el t\u00e9rmino que se utiliza cuando el objetivo es aumentar el alcance o la escala de la operaci\u00f3n."
+    },
+    {
+      "question": "En el contexto de la gesti\u00f3n de activos, \u00bfcu\u00e1l es el riesgo de ignorar los costos ocultos bajo el modelo del Costo Total de Propiedad (TCO)?",
+      "answerOptions": [
+        {
+          "text": "Una reducci\u00f3n inesperada en el pago de impuestos anuales.",
+          "isCorrect": false,
+          "rationale": "Los costos ocultos suelen aumentar los gastos, lo que no necesariamente reduce impuestos de forma controlada o beneficiosa."
+        },
+        {
+          "text": "Tomar decisiones basadas solo en el precio de adquisici\u00f3n, lo que puede causar un desastre financiero.",
+          "isCorrect": true,
+          "rationale": "El precio de compra es solo una fracci\u00f3n del costo real; el mantenimiento y las fallas pueden superar la inversi\u00f3n inicial."
+        },
+        {
+          "text": "Garantizar una mayor vida \u00fatil de los equipos mediante ahorro en mantenimiento.",
+          "isCorrect": false,
+          "rationale": "Ignorar costos de mantenimiento suele acortar la vida \u00fatil y provocar fallas catastr\u00f3ficas."
+        },
+        {
+          "text": "Facilitar la aprobaci\u00f3n inmediata de presupuestos por parte de tesorer\u00eda.",
+          "isCorrect": false,
+          "rationale": "Aunque el precio bajo atrae, la falta de planificaci\u00f3n de costos operativos generar\u00e1 problemas de liquidez futuros."
+        }
+      ],
+      "hint": "Piense en la analog\u00eda de un iceberg donde lo m\u00e1s peligroso no es lo que se ve a simple vista."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la f\u00f3rmula correcta para calcular el costo de preparaci\u00f3n por tonelada en una labor minera?",
+      "answerOptions": [
+        {
+          "text": "Costos totales de preparaci\u00f3n multiplicados por las toneladas totales extra\u00eddas.",
+          "isCorrect": false,
+          "rationale": "La multiplicaci\u00f3n no permite determinar el costo unitario por unidad de masa liberada."
+        },
+        {
+          "text": "Reservas probadas divididas entre el costo total de adquisici\u00f3n del equipo.",
+          "isCorrect": false,
+          "rationale": "Esta relaci\u00f3n no mide la eficiencia de la labor de preparaci\u00f3n espec\u00edfica en el subsuelo."
+        },
+        {
+          "text": "Costos totales de la labor de preparaci\u00f3n divididos entre las toneladas de reservas probadas liberadas.",
+          "isCorrect": true,
+          "rationale": "Esta m\u00e9trica permite evaluar la rentabilidad del esfuerzo operativo para acceder al mineral."
+        },
+        {
+          "text": "Precio de adquisici\u00f3n del activo sumado al costo del flete internacional.",
+          "isCorrect": false,
+          "rationale": "Esta f\u00f3rmula se acerca m\u00e1s al c\u00e1lculo de costo puesto en mina de un equipo, no a una labor de preparaci\u00f3n."
+        }
+      ],
+      "hint": "Se busca conocer cu\u00e1nto dinero cuesta cada tonelada de mineral que queda lista para ser extra\u00edda."
+    },
+    {
+      "question": "Si una motoniveladora tiene un precio de $500,000, una recuperaci\u00f3n por reventa del $40\\%$ y costos financieros de $14,000, \u00bfcu\u00e1l es su costo de posesi\u00f3n neto seg\u00fan el an\u00e1lisis de ciclo de vida?",
+      "answerOptions": [
+        {
+          "text": "$514,000",
+          "isCorrect": false,
+          "rationale": "Este c\u00e1lculo ignora el valor de recuperaci\u00f3n que se obtiene al final de la vida \u00fatil del equipo."
+        },
+        {
+          "text": "$442,000",
+          "isCorrect": true,
+          "rationale": "El c\u00e1lculo integra el precio inicial, resta el valor de rescate y suma otros gastos como intereses e instalaci\u00f3n."
+        },
+        {
+          "text": "$200,000",
+          "isCorrect": false,
+          "rationale": "Este monto solo representa el valor de reventa y no el costo total asumido por la empresa."
+        },
+        {
+          "text": "$314,000",
+          "isCorrect": false,
+          "rationale": "Este valor no contempla los costos adicionales de puesta en marcha o soporte t\u00e9cnico mencionados en el modelo integral."
+        }
+      ],
+      "hint": "Reste el valor recuperado al precio inicial y sume los cargos financieros adicionales."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 un descuento inicial del $17\\%$ en un equipo puede resultar m\u00e1s caro a largo plazo si tiene una alta probabilidad de falla?",
+      "answerOptions": [
+        {
+          "text": "Debido al lucro cesante masivo por paradas de planta no programadas.",
+          "isCorrect": true,
+          "rationale": "El costo sist\u00e9mico de detener la producci\u00f3n supera r\u00e1pidamente cualquier ahorro obtenido en el precio de compra."
+        },
+        {
+          "text": "Porque los equipos m\u00e1s baratos siempre consumen m\u00e1s combustible por dise\u00f1o.",
+          "isCorrect": false,
+          "rationale": "No siempre es una regla de dise\u00f1o; el impacto econ\u00f3mico real viene principalmente de la indisponibilidad operativa."
+        },
+        {
+          "text": "Porque el valor de reventa de un equipo con fallas aumenta artificialmente.",
+          "isCorrect": false,
+          "rationale": "Un equipo poco confiable suele tener un valor de mercado mucho menor al final de su vida."
+        },
+        {
+          "text": "Debido a que los impuestos sobre equipos baratos son proporcionalmente m\u00e1s altos.",
+          "isCorrect": false,
+          "rationale": "La carga tributaria suele ser porcentual, por lo que un precio menor implica menos impuestos iniciales."
+        }
+      ],
+      "hint": "Considere el dinero que la empresa deja de ganar cuando la producci\u00f3n se detiene por problemas t\u00e9cnicos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la Matriz de Kraljic en el proceso de licitaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Calcular la depreciaci\u00f3n exacta de los activos fijos cada mes.",
+          "isCorrect": false,
+          "rationale": "La depreciaci\u00f3n es una tarea contable, no una herramienta de clasificaci\u00f3n estrat\u00e9gica de suministros."
+        },
+        {
+          "text": "Clasificar las compras seg\u00fan su riesgo de suministro e impacto financiero para priorizar lo cr\u00edtico.",
+          "isCorrect": true,
+          "rationale": "Permite separar los insumos triviales de los vitales, optimizando el esfuerzo de negociaci\u00f3n y gesti\u00f3n."
+        },
+        {
+          "text": "Determinar el sueldo correspondiente a los operadores especialistas de maquinaria.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de n\u00f3minas es ajena a la matriz de clasificaci\u00f3n de materiales y servicios."
+        },
+        {
+          "text": "Evaluar el impacto de la altitud sobre la presi\u00f3n atmosf\u00e9rica en la mina.",
+          "isCorrect": false,
+          "rationale": "Esta es una evaluaci\u00f3n de ingenier\u00eda t\u00e9cnica, no una herramienta de an\u00e1lisis de mercado o abastecimiento."
+        }
+      ],
+      "hint": "Se utiliza para identificar qu\u00e9 tan importante y riesgoso es un producto para la empresa."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se utiliza el RFI (Solicitud de Informaci\u00f3n) al inicio de un proceso de licitaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Para negociar el precio final y los descuentos por volumen.",
+          "isCorrect": false,
+          "rationale": "La negociaci\u00f3n de precios ocurre en fases posteriores, como el RFP o la mesa de adjudicaci\u00f3n."
+        },
+        {
+          "text": "Como un filtro de solvencia financiera y t\u00e9cnica para mitigar el riesgo de quiebra del proveedor.",
+          "isCorrect": true,
+          "rationale": "Asegura que solo las empresas capaces de cumplir con el proyecto a largo plazo participen en la oferta econ\u00f3mica."
+        },
+        {
+          "text": "Para realizar el pago adelantado de los materiales de fabricaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El RFI no involucra transacciones financieras de pago, sino recopilaci\u00f3n y validaci\u00f3n de datos."
+        },
+        {
+          "text": "Para definir las rutas log\u00edsticas y los puntos de entrega en la cordillera.",
+          "isCorrect": false,
+          "rationale": "Aunque es informaci\u00f3n relevante, el objetivo primario del RFI es la homologaci\u00f3n y solvencia del postor."
+        }
+      ],
+      "hint": "Piense en un paso previo para verificar si una empresa es confiable antes de pedirle una cotizaci\u00f3n oficial."
+    },
+    {
+      "question": "En las bases de licitaci\u00f3n, \u00bfqu\u00e9 aspecto regulan espec\u00edficamente las bases administrativas?",
+      "answerOptions": [
+        {
+          "text": "Los est\u00e1ndares internacionales de calidad de los materiales, como las normas ASTM.",
+          "isCorrect": false,
+          "rationale": "Los est\u00e1ndares de materiales son parte de las bases t\u00e9cnicas, enfocadas en la ingenier\u00eda del producto."
+        },
+        {
+          "text": "Las condiciones de pago, vigencia de la oferta y modelos de contrato.",
+          "isCorrect": true,
+          "rationale": "Estas bases fijan las reglas de juego comerciales y legales que protegen la liquidez y formalidad del proyecto."
+        },
+        {
+          "text": "Los protocolos de seguridad para el montaje de equipos en la planta.",
+          "isCorrect": false,
+          "rationale": "La seguridad operativa y el montaje son requisitos t\u00e9cnicos y de ejecuci\u00f3n en terreno."
+        },
+        {
+          "text": "Los planos de ingenier\u00eda y las dimensiones milim\u00e9tricas de los equipos.",
+          "isCorrect": false,
+          "rationale": "Los planos definen la viabilidad t\u00e9cnica y funcional, no las condiciones comerciales del acuerdo."
+        }
+      ],
+      "hint": "Se centran en la parte financiera, legal y en la relaci\u00f3n comercial con el proveedor."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es obligatorio centralizar las consultas de los proveedores a trav\u00e9s de un canal \u00fanico en log\u00edstica durante el RFP?",
+      "answerOptions": [
+        {
+          "text": "Para evitar que los proveedores compitan entre s\u00ed por precio.",
+          "isCorrect": false,
+          "rationale": "La competencia es el objetivo de la licitaci\u00f3n; el canal \u00fanico busca transparencia, no eliminar la competencia."
+        },
+        {
+          "text": "Para prevenir el favoritismo y garantizar que todos los postores manejen la misma informaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Democratizar las respuestas evita ventajas indebidas y protege el proceso ante posibles auditor\u00edas o demandas."
+        },
+        {
+          "text": "Porque el \u00e1rea de operaciones no tiene permiso para hablar con externos.",
+          "isCorrect": false,
+          "rationale": "Operaciones interact\u00faa, pero debe hacerlo de forma estructurada para no viciar el proceso de selecci\u00f3n legal."
+        },
+        {
+          "text": "Para acelerar la entrega de los equipos mediante comunicaci\u00f3n directa con los fabricantes.",
+          "isCorrect": false,
+          "rationale": "La centralizaci\u00f3n a veces puede parecer m\u00e1s lenta, pero asegura la integridad legal del proceso."
+        }
+      ],
+      "hint": "Considere qu\u00e9 pasar\u00eda si un proveedor recibe informaci\u00f3n privilegiada que otros no tienen."
+    },
+    {
+      "question": "En una matriz de evaluaci\u00f3n t\u00e9cnica, \u00bfqu\u00e9 significa que un postor reciba una puntuaci\u00f3n de cero en un criterio determinante?",
+      "answerOptions": [
+        {
+          "text": "Que el proveedor debe ofrecer un descuento adicional para compensar.",
+          "isCorrect": false,
+          "rationale": "Un incumplimiento t\u00e9cnico cr\u00edtico no se compensa con dinero, ya que pone en riesgo la operaci\u00f3n."
+        },
+        {
+          "text": "Que existe una discrepancia cr\u00edtica que conlleva a la descalificaci\u00f3n inmediata.",
+          "isCorrect": true,
+          "rationale": "En la industria industrial, no cumplir con medidas o est\u00e1ndares de seguridad b\u00e1sicos hace inviable la propuesta."
+        },
+        {
+          "text": "Que el criterio ser\u00e1 evaluado nuevamente por la alta gerencia al final del a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "La evaluaci\u00f3n t\u00e9cnica ocurre durante la licitaci\u00f3n para decidir la adjudicaci\u00f3n en el momento."
+        },
+        {
+          "text": "Que el proveedor tiene un plazo de $90$ d\u00edas para corregir el dise\u00f1o sin costo.",
+          "isCorrect": false,
+          "rationale": "Si la falla es una 'bandera roja' en la fase de evaluaci\u00f3n, el postor queda fuera del proceso actual."
+        }
+      ],
+      "hint": "Piense en las consecuencias de un incumplimiento que impide que un equipo funcione o encaje en la planta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 permite calcular el factor de distribuci\u00f3n en un proceso de importaci\u00f3n de bienes?",
+      "answerOptions": [
+        {
+          "text": "La cantidad de mineral que se puede extraer por cada gal\u00f3n de combustible usado.",
+          "isCorrect": false,
+          "rationale": "Esto es una m\u00e9trica de eficiencia de consumo, no un factor log\u00edstico de costos de importaci\u00f3n."
+        },
+        {
+          "text": "El costo real de cada unidad puesta en mina repartiendo proporcionalmente fletes, seguros y aduanas.",
+          "isCorrect": true,
+          "rationale": "Este factor ayuda a conocer el costo final unitario m\u00e1s all\u00e1 del precio FOB en el puerto de origen."
+        },
+        {
+          "text": "El porcentaje de impuestos que se puede recuperar como cr\u00e9dito fiscal en el futuro.",
+          "isCorrect": false,
+          "rationale": "Aunque es un dato financiero, el factor de distribuci\u00f3n se enfoca en el costo log\u00edstico acumulado."
+        },
+        {
+          "text": "La velocidad a la que el barco transporta la mercanc\u00eda desde el puerto de origen.",
+          "isCorrect": false,
+          "rationale": "Este es un dato de tiempo de tr\u00e1nsito (lead time) y no una f\u00f3rmula de distribuci\u00f3n de costos financieros."
+        }
+      ],
+      "hint": "Es la relaci\u00f3n entre el costo total final y el valor de la mercanc\u00eda en el puerto de origen."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el impacto inmediato del IGB ($18\\%$) en una compra millonaria antes de que el equipo produzca?",
+      "answerOptions": [
+        {
+          "text": "Aumenta permanentemente el costo patrimonial del activo en los libros contables.",
+          "isCorrect": false,
+          "rationale": "El IGB no aumenta el costo real del equipo porque es un cr\u00e9dito recuperable, no un gasto de adquisici\u00f3n."
+        },
+        {
+          "text": "Exige un desembolso masivo de efectivo que afecta la liquidez inmediata de la empresa.",
+          "isCorrect": true,
+          "rationale": "El impuesto debe pagarse al nacionalizar la carga, lo que requiere planificaci\u00f3n de caja mucho antes de generar ingresos."
+        },
+        {
+          "text": "Reduce la responsabilidad legal del proveedor sobre la calidad del producto.",
+          "isCorrect": false,
+          "rationale": "Los impuestos son una obligaci\u00f3n fiscal y no tienen relaci\u00f3n con las garant\u00edas t\u00e9cnicas del fabricante."
+        },
+        {
+          "text": "Elimina la necesidad de contratar seguros de transporte internacional.",
+          "isCorrect": false,
+          "rationale": "El pago de impuestos y la contrataci\u00f3n de seguros son obligaciones independientes y ambas son necesarias."
+        }
+      ],
+      "hint": "Piense en la cantidad de dinero en efectivo que debe salir de la cuenta de la empresa el d\u00eda de la aduana."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia estrat\u00e9gica existe en las percepciones aduaneras para un importador frecuente frente a uno nuevo?",
+      "answerOptions": [
+        {
+          "text": "El importador frecuente paga un $10\\%$ y el nuevo solo un $3.5\\%$.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; el beneficio de menor percepci\u00f3n se otorga a quienes ya tienen un historial de importaci\u00f3n."
+        },
+        {
+          "text": "El importador nuevo debe pagar un $10\\%$ de percepci\u00f3n frente al $3.5\\%$ del importador frecuente.",
+          "isCorrect": true,
+          "rationale": "Esta diferencia de $6.5$ puntos porcentuales representa un esfuerzo de caja significativamente mayor para los nuevos proveedores."
+        },
+        {
+          "text": "No existe diferencia porcentual, solo cambia el tiempo de tr\u00e1mite administrativo.",
+          "isCorrect": false,
+          "rationale": "La normativa fiscal establece porcentajes distintos basados en la recurrencia del importador para gestionar el riesgo tributario."
+        },
+        {
+          "text": "El importador frecuente est\u00e1 exento de cualquier pago de percepciones aduaneras.",
+          "isCorrect": false,
+          "rationale": "Incluso los frecuentes pagan, pero lo hacen bajo una tasa reducida del $3.5\\%$."
+        }
+      ],
+      "hint": "Considere qui\u00e9n representa un mayor riesgo para la autoridad tributaria: alguien conocido o alguien que importa por primera vez."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un requisito innegociable para que un proveedor pueda iniciar la fabricaci\u00f3n de un equipo millonario?",
+      "answerOptions": [
+        {
+          "text": "Haber completado el entrenamiento del $100\\%$ del personal de la mina.",
+          "isCorrect": false,
+          "rationale": "El entrenamiento suele ocurrir cerca de la entrega o puesta en marcha, no antes de la fabricaci\u00f3n."
+        },
+        {
+          "text": "La firma formal de aprobaci\u00f3n de planos por parte del \u00e1rea de operaciones.",
+          "isCorrect": true,
+          "rationale": "Sin la validaci\u00f3n t\u00e9cnica del usuario final, existe el riesgo de fabricar algo que no sea compatible con la infraestructura existente."
+        },
+        {
+          "text": "El pago total por adelantado del valor del contrato.",
+          "isCorrect": false,
+          "rationale": "Generalmente los pagos se dividen por hitos; pagar el $100\\%$ al inicio es un riesgo financiero inaceptable."
+        },
+        {
+          "text": "La entrega de los manuales de mantenimiento en tres idiomas diferentes.",
+          "isCorrect": false,
+          "rationale": "Los manuales son un entregable final, no un prerrequisito t\u00e9cnico para encender la l\u00ednea de producci\u00f3n en f\u00e1brica."
+        }
+      ],
+      "hint": "Piense en el documento t\u00e9cnico que asegura que el dise\u00f1o es correcto para las necesidades de la mina."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se utiliza la supervisi\u00f3n financiera como herramienta de control operativo en la ejecuci\u00f3n contractual?",
+      "answerOptions": [
+        {
+          "text": "Pagando al proveedor una tarifa fija mensual independientemente del avance.",
+          "isCorrect": false,
+          "rationale": "Esto no incentiva el cumplimiento; el control real vincula el flujo de dinero con resultados f\u00edsicos."
+        },
+        {
+          "text": "Condicionando los pagos al cumplimiento de hitos verificables de progreso f\u00edsico.",
+          "isCorrect": true,
+          "rationale": "Asegura que la empresa solo desembolse capital a medida que el valor del proyecto se materializa tangiblemente."
+        },
+        {
+          "text": "Eliminando todas las penalidades para mantener una relaci\u00f3n amistosa con el proveedor.",
+          "isCorrect": false,
+          "rationale": "Las penalidades son necesarias para disuadir el mal desempe\u00f1o y proteger la rentabilidad del proyecto."
+        },
+        {
+          "text": "Permitiendo que el proveedor gestione el presupuesto sin necesidad de presentar reportes.",
+          "isCorrect": false,
+          "rationale": "La falta de informes impide el monitoreo del rendimiento y aumenta el riesgo de sobrecostos ocultos."
+        }
+      ],
+      "hint": "Relacione el momento en que el proveedor recibe el dinero con la entrega de avances reales."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es fundamental el embalaje certificado (Big bags o cajas tratadas) para suministros que van a campamentos a $4,600$ msnm?",
+      "answerOptions": [
+        {
+          "text": "Para reducir el peso total de la carga y pagar menos flete terrestre.",
+          "isCorrect": false,
+          "rationale": "El embalaje certificado a menudo a\u00f1ade robustez y peso, su objetivo es la protecci\u00f3n, no el ahorro de flete."
+        },
+        {
+          "text": "Para proteger componentes sensibles de la vibraci\u00f3n, humedad y cambios de presi\u00f3n extrema en la cordillera.",
+          "isCorrect": true,
+          "rationale": "Las condiciones log\u00edsticas extremas pueden da\u00f1ar equipos ultrasensibles si el embalaje no es el adecuado para la ruta minera."
+        },
+        {
+          "text": "\u00danicamente para cumplir con normativas est\u00e9ticas de almacenamiento en la bodega.",
+          "isCorrect": false,
+          "rationale": "La funci\u00f3n es operativa y de integridad del activo, mucho m\u00e1s all\u00e1 de la apariencia visual."
+        },
+        {
+          "text": "Para evitar que los operadores de la mina confundan los repuestos entre s\u00ed.",
+          "isCorrect": false,
+          "rationale": "La identificaci\u00f3n es importante, pero la certificaci\u00f3n del embalaje se refiere a la resistencia y protecci\u00f3n f\u00edsica."
+        }
+      ],
+      "hint": "Piense en el largo y dif\u00edcil camino por tierra que debe recorrer el equipo antes de llegar a la mina."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue el beneficio financiero documentado en el caso de Tantamayo gracias a una gesti\u00f3n estrat\u00e9gica de adquisiciones?",
+      "answerOptions": [
+        {
+          "text": "Un incremento del $50\\%$ en la velocidad de molienda del mineral.",
+          "isCorrect": false,
+          "rationale": "Aunque puede ser un beneficio operativo, el caso destaca espec\u00edficamente un ahorro monetario directo."
+        },
+        {
+          "text": "$2.3$ millones de d\u00f3lares en ahorros directos mediante negociaci\u00f3n t\u00e9cnica y manufactura local.",
+          "isCorrect": true,
+          "rationale": "Demuestra que la gesti\u00f3n de contratos y riesgos es un motor real de rentabilidad para el flujo de caja."
+        },
+        {
+          "text": "La eliminaci\u00f3n total del pago de impuestos por ser una zona de altitud extrema.",
+          "isCorrect": false,
+          "rationale": "La altitud no exime de las responsabilidades tributarias generales del pa\u00eds."
+        },
+        {
+          "text": "Un descuento del $5\\%$ en el precio del diesel para toda la flota de camiones.",
+          "isCorrect": false,
+          "rationale": "El caso se enfoca en el desarrollo de suministros estrat\u00e9gicos y contratos, no en el precio del combustible."
+        }
+      ],
+      "hint": "Identifique la cifra millonaria que result\u00f3 de aplicar inteligencia financiera en las compras de ese proyecto."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo se asume al utilizar especificaciones t\u00e9cnicas dirigidas (escenarios de fuente \u00fanica)?",
+      "answerOptions": [
+        {
+          "text": "Se genera una dependencia extrema de una sola marca y se eliminan los beneficios de la competencia.",
+          "isCorrect": true,
+          "rationale": "Esto limita la capacidad de negociaci\u00f3n, aumenta los precios y levanta alertas rojas en los procesos de auditor\u00eda."
+        },
+        {
+          "text": "Se reduce el tiempo de evaluaci\u00f3n t\u00e9cnica al tener solo un proveedor disponible.",
+          "isCorrect": false,
+          "rationale": "Aunque parezca m\u00e1s r\u00e1pido, el riesgo de sobrecosto y falta de repuestos a largo plazo es inaceptable."
+        },
+        {
+          "text": "Garantiza autom\u00e1ticamente que el equipo nunca tendr\u00e1 fallas t\u00e9cnicas.",
+          "isCorrect": false,
+          "rationale": "Ninguna marca garantiza fallas cero; la falta de competencia solo quita alternativas ante un mal servicio."
+        },
+        {
+          "text": "Facilita la obtenci\u00f3n de cr\u00e9ditos fiscales por parte de la autoridad tributaria.",
+          "isCorrect": false,
+          "rationale": "La tributaci\u00f3n no depende de cu\u00e1ntos proveedores compitan, sino del cumplimiento de las leyes fiscales."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede con el poder de negociaci\u00f3n de la empresa si solo existe una opci\u00f3n de compra."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Clasificaci\u00f3n Financiera CAPEX y OPEX",
+      "Costo Total de Propiedad (TCO)",
+      "Procesos de Licitaci\u00f3n y Homologaci\u00f3n (RFI/RFP)",
+      "Evaluaci\u00f3n Econ\u00f3mica de Importaciones e Impuestos",
+      "Ejecuci\u00f3n Contractual y Gesti\u00f3n de Riesgos"
+    ],
+    "followUp": [
+      "Est\u00e1ndares de Sostenibilidad y Criterios ESG en Miner\u00eda",
+      "Ingenier\u00eda de Costos y Matem\u00e1ticas Financieras Aplicadas",
+      "Log\u00edstica en Condiciones Geogr\u00e1ficas Extremas",
+      "Marcos Legales de Contratos de Suministro Industrial"
+    ]
+  }
+}

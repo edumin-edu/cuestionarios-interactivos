@@ -1,0 +1,538 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfC\u00f3mo se define la transformaci\u00f3n actual del departamento de gesti\u00f3n de suministros en las organizaciones modernas?",
+      "answerOptions": [
+        {
+          "text": "Como una simple funci\u00f3n log\u00edstica b\u00e1sica encargada del transporte.",
+          "isCorrect": false,
+          "rationale": "Esta visi\u00f3n es obsoleta y no reconoce el impacto estrat\u00e9gico y financiero que el \u00e1rea tiene actualmente."
+        },
+        {
+          "text": "Como el epicentro \u00e9tico y financiero absoluto de toda la organizaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "El \u00e1rea de compras ahora act\u00faa como una balanza cr\u00edtica que gestiona la rentabilidad sin comprometer la reputaci\u00f3n institucional."
+        },
+        {
+          "text": "Como un \u00e1rea de apoyo administrativo sin incidencia en la toma de decisiones.",
+          "isCorrect": false,
+          "rationale": "El departamento de suministros ahora tiene un rol estrat\u00e9gico debido a la magnitud de los recursos que controla."
+        },
+        {
+          "text": "Como una oficina t\u00e9cnica dedicada exclusivamente a la eficiencia de procesos.",
+          "isCorrect": false,
+          "rationale": "Aunque la eficiencia es importante, el enfoque moderno integra la integridad como un pilar fundamental sobre lo t\u00e9cnico."
+        }
+      ],
+      "hint": "Piense en el cambio de una funci\u00f3n operativa a una que equilibra la rentabilidad con la integridad moral."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la distinci\u00f3n fundamental entre la moral y la \u00e9tica dentro de la gesti\u00f3n organizacional?",
+      "answerOptions": [
+        {
+          "text": "La moral es individual, mientras que la \u00e9tica es un conjunto de reglas impuestas por la ley.",
+          "isCorrect": false,
+          "rationale": "La \u00e9tica no se limita a lo legal, sino que es una reflexi\u00f3n profunda sobre los fundamentos de las normas."
+        },
+        {
+          "text": "La moral dicta las reglas de la sociedad y la \u00e9tica es la reflexi\u00f3n cr\u00edtica sobre esas normas.",
+          "isCorrect": true,
+          "rationale": "La moral representa el conjunto de juicios sociales establecidos, mientras que la \u00e9tica exige un an\u00e1lisis sobre el porqu\u00e9 de dichas reglas."
+        },
+        {
+          "text": "Ambos t\u00e9rminos son sin\u00f3nimos y se refieren exclusivamente al comportamiento legal de los empleados.",
+          "isCorrect": false,
+          "rationale": "Se trata de conceptos diferentes; uno se refiere a la pr\u00e1ctica social y el otro a la teor\u00eda reflexiva."
+        },
+        {
+          "text": "La \u00e9tica es innata al profesional de compras y la moral se adquiere mediante la educaci\u00f3n acad\u00e9mica.",
+          "isCorrect": false,
+          "rationale": "El ETOS o car\u00e1cter del comprador no es de nacimiento, sino que se construye a trav\u00e9s de la educaci\u00f3n y formaci\u00f3n."
+        }
+      ],
+      "hint": "Considere cu\u00e1l de estos conceptos representa la acci\u00f3n normativa y cu\u00e1l representa la reflexi\u00f3n filos\u00f3fica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 magnitud de los ingresos de una organizaci\u00f3n suelen controlar habitualmente los gestores de compras?",
+      "answerOptions": [
+        {
+          "text": "Menos del $20\\%$ de los ingresos totales.",
+          "isCorrect": false,
+          "rationale": "Esta cifra subestima significativamente el poder financiero y la responsabilidad del \u00e1rea de adquisiciones."
+        },
+        {
+          "text": "Aproximadamente el $40\\%$ de los recursos operativos.",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra alta, la realidad financiera en la mayor\u00eda de las empresas supera este porcentaje."
+        },
+        {
+          "text": "Recursos que superan el $60\\%$ de los ingresos.",
+          "isCorrect": true,
+          "rationale": "Esta enorme magnitud financiera es la que genera asimetr\u00edas de informaci\u00f3n y riesgos latentes de corrupci\u00f3n."
+        },
+        {
+          "text": "Exactamente el $100\\%$ del flujo de caja de la empresa.",
+          "isCorrect": false,
+          "rationale": "Es imposible que un solo departamento controle la totalidad del flujo, ya que existen otras \u00e1reas operativas y financieras."
+        }
+      ],
+      "hint": "Recuerde que el impacto financiero de esta \u00e1rea es mayoritario respecto a los ingresos totales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre el c\u00f3digo de \u00e9tica y el c\u00f3digo de conducta de una empresa?",
+      "answerOptions": [
+        {
+          "text": "El de \u00e9tica es de naturaleza inspiracional y el de conducta es restrictivo y pragm\u00e1tico.",
+          "isCorrect": true,
+          "rationale": "El primero declara valores universales ante la sociedad, mientras que el segundo define comportamientos espec\u00edficos y sanciones."
+        },
+        {
+          "text": "El de conducta es p\u00fablico para los accionistas y el de \u00e9tica es de uso exclusivamente interno.",
+          "isCorrect": false,
+          "rationale": "Por lo general, el c\u00f3digo de \u00e9tica es el documento p\u00fablico que funciona como la 'constituci\u00f3n' de la empresa."
+        },
+        {
+          "text": "No existe diferencia, ambos documentos cumplen la misma funci\u00f3n administrativa de control.",
+          "isCorrect": false,
+          "rationale": "Existe una subordinaci\u00f3n t\u00e9cnica: el c\u00f3digo de conducta se deriva de los principios del c\u00f3digo de \u00e9tica."
+        },
+        {
+          "text": "El c\u00f3digo de \u00e9tica establece sanciones y el de conducta define los valores universales.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; el c\u00f3digo de conducta es el que detalla el r\u00e9gimen de sanciones y comportamientos prohibidos."
+        }
+      ],
+      "hint": "Uno funciona como una constituci\u00f3n de valores y el otro como un reglamento operativo diario."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el fen\u00f3meno de la 'desvirtuaci\u00f3n teleol\u00f3gica' en el \u00e1rea de abastecimiento?",
+      "answerOptions": [
+        {
+          "text": "En la actualizaci\u00f3n de los objetivos tecnol\u00f3gicos de la empresa cada a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino no se refiere a la tecnolog\u00eda, sino a la finalidad o prop\u00f3sito (telos) de la funci\u00f3n profesional."
+        },
+        {
+          "text": "En la mejora de los procesos log\u00edsticos mediante la inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "Se trata de un concepto \u00e9tico-acad\u00e9mico relacionado con la corrupci\u00f3n de los fines del departamento."
+        },
+        {
+          "text": "Cuando el prop\u00f3sito de servir a la organizaci\u00f3n es reemplazado por intereses privados.",
+          "isCorrect": true,
+          "rationale": "Ocurre cuando el funcionario utiliza su cargo para beneficio personal en lugar de buscar el valor leg\u00edtimo de la empresa."
+        },
+        {
+          "text": "Cuando se pierden los registros documentales f\u00edsicos por falta de digitalizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque es un problema operativo, la desvirtuaci\u00f3n teleol\u00f3gica es una patolog\u00eda \u00e9tica sobre el uso del poder."
+        }
+      ],
+      "hint": "Piense en lo que sucede cuando un empleado antepone sus ganancias propias al bienestar de la compa\u00f1\u00eda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 acci\u00f3n se clasifica como un mecanismo de extracci\u00f3n directa de valor corporativo?",
+      "answerOptions": [
+        {
+          "text": "Aceptar un sobreprecio sutil en un contrato de servicios complejos.",
+          "isCorrect": false,
+          "rationale": "Aceptar sobreprecios se considera una extracci\u00f3n indirecta, ya que no es un robo expl\u00edcito de efectivo de la caja."
+        },
+        {
+          "text": "Procesar pagos por servicios o bienes que jam\u00e1s existieron.",
+          "isCorrect": true,
+          "rationale": "Esta es una forma de fraude expl\u00edcito y malversaci\u00f3n que rompe abiertamente las leyes y pol\u00edticas internas."
+        },
+        {
+          "text": "Favorecer a un proveedor local sin realizar un an\u00e1lisis t\u00e9cnico previo.",
+          "isCorrect": false,
+          "rationale": "El favoritismo o nepotismo se clasifica habitualmente como extracci\u00f3n indirecta de valor."
+        },
+        {
+          "text": "Omitir la investigaci\u00f3n de mercado para agilizar una compra urgente.",
+          "isCorrect": false,
+          "rationale": "Esto se considera una falta de excelencia estrat\u00e9gica, pero no necesariamente un robo directo de activos."
+        }
+      ],
+      "hint": "Identifique la acci\u00f3n que representa un delito expl\u00edcito o un asalto evidente a los recursos financieros."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se caracteriza la extracci\u00f3n indirecta de valor en los procesos de compra?",
+      "answerOptions": [
+        {
+          "text": "Mediante el robo f\u00edsico de materiales del almac\u00e9n central.",
+          "isCorrect": false,
+          "rationale": "El robo f\u00edsico es una extracci\u00f3n directa de activos y no una maniobra sutil de mercado."
+        },
+        {
+          "text": "A trav\u00e9s de la falsificaci\u00f3n de firmas en cheques de la gerencia.",
+          "isCorrect": false,
+          "rationale": "La falsificaci\u00f3n de documentos financieros para obtener dinero es una extracci\u00f3n directa y criminal."
+        },
+        {
+          "text": "Mediante el direccionamiento de contratos hacia proveedores favoritos o familiares.",
+          "isCorrect": true,
+          "rationale": "Funciona como una 'hemorragia silenciosa' donde se sacrifica la eficiencia y objetividad t\u00e9cnica por favoritismo."
+        },
+        {
+          "text": "A trav\u00e9s de la solicitud de anticipos de sueldo por parte del personal de compras.",
+          "isCorrect": false,
+          "rationale": "Esto es un proceso administrativo de recursos humanos y no constituye un fraude de extracci\u00f3n de valor."
+        }
+      ],
+      "hint": "Piense en t\u00e1cticas que no roban dinero directamente de la caja, sino que perjudican la rentabilidad mediante decisiones sesgadas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre cuando un profesional de compras prioriza los 'bienes externos' sobre los 'bienes internos'?",
+      "answerOptions": [
+        {
+          "text": "Se enfoca en mejorar la relaci\u00f3n con las comunidades locales externas.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad social es positiva; el concepto de 'bienes externos' en este contexto se refiere a intereses ego\u00edstas."
+        },
+        {
+          "text": "Aumenta la excelencia operativa y la generaci\u00f3n de ahorros reales.",
+          "isCorrect": false,
+          "rationale": "Estos son precisamente los bienes internos que se descuidan cuando aparece la corrupci\u00f3n."
+        },
+        {
+          "text": "El profesional busca el dinero, el estatus o el poder por encima de la excelencia.",
+          "isCorrect": true,
+          "rationale": "La corrupci\u00f3n surge cuando el \u00e9xito personal y la autopromoci\u00f3n reemplazan la misi\u00f3n de servir a la organizaci\u00f3n."
+        },
+        {
+          "text": "Se da prioridad a la compra de activos fijos fuera de la sede principal.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino no hace referencia a la ubicaci\u00f3n f\u00edsica de los activos, sino a los valores que motivan la conducta."
+        }
+      ],
+      "hint": "Considere la diferencia entre los valores propios de la profesi\u00f3n y las recompensas individuales como el dinero o la fama."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la definici\u00f3n de aporofobia en el contexto de las cadenas de suministro?",
+      "answerOptions": [
+        {
+          "text": "El miedo irracional a la implementaci\u00f3n de nuevas tecnolog\u00edas de abastecimiento.",
+          "isCorrect": false,
+          "rationale": "La aporofobia es un fen\u00f3meno sociol\u00f3gico relacionado con el rechazo a personas, no a la tecnolog\u00eda."
+        },
+        {
+          "text": "El rechazo sistem\u00e1tico al proveedor peque\u00f1o o local por considerarlo vulnerable.",
+          "isCorrect": true,
+          "rationale": "Ocurre cuando el corrupto excluye a quien no tiene capacidad financiera o influencia para 'devolver el favor' personal."
+        },
+        {
+          "text": "La preferencia por proveedores extranjeros de grandes potencias econ\u00f3micas.",
+          "isCorrect": false,
+          "rationale": "Aunque puede estar relacionado, la aporofobia se centra espec\u00edficamente en el desprecio hacia lo pobre o vulnerable."
+        },
+        {
+          "text": "La falta de cumplimiento de las normativas ambientales por parte de los proveedores.",
+          "isCorrect": false,
+          "rationale": "El incumplimiento ambiental es una falta de sostenibilidad, pero no define el rechazo social al vulnerable."
+        }
+      ],
+      "hint": "Piense en la exclusi\u00f3n de proveedores que no pueden ofrecer beneficios personales debido a su limitada capacidad econ\u00f3mica."
+    },
+    {
+      "question": "En el eje del valor financiero, \u00bfpor qu\u00e9 el 'inventario muerto' se considera una falta de integridad?",
+      "answerOptions": [
+        {
+          "text": "Porque genera problemas de espacio f\u00edsico en los almacenes operativos.",
+          "isCorrect": false,
+          "rationale": "Aunque el espacio es un problema log\u00edstico, la implicaci\u00f3n \u00e9tica reside en el mal uso del capital."
+        },
+        {
+          "text": "Porque representa recursos inmovilizados que frenan la eficiencia de la empresa.",
+          "isCorrect": true,
+          "rationale": "Un comprador \u00edntegro entiende que el dinero estancado en inventarios innecesarios es una p\u00e9rdida de oportunidad para la organizaci\u00f3n."
+        },
+        {
+          "text": "Porque atrae plagas y suciedad que afectan la salud laboral del equipo.",
+          "isCorrect": false,
+          "rationale": "Esta es una cuesti\u00f3n de seguridad e higiene, no necesariamente una falla en el eje de integridad financiera."
+        },
+        {
+          "text": "Porque los proveedores se niegan a vender productos que no tienen rotaci\u00f3n constante.",
+          "isCorrect": false,
+          "rationale": "El problema no es la voluntad del proveedor, sino la decisi\u00f3n interna de compra que inmoviliza capital innecesariamente."
+        }
+      ],
+      "hint": "Piense en el impacto que tiene el dinero detenido en productos que no se utilizan."
+    },
+    {
+      "question": "Desde una perspectiva de valor estrat\u00e9gico, \u00bfpor qu\u00e9 el m\u00e9todo de las 'tres cotizaciones' se considera obsoleto?",
+      "answerOptions": [
+        {
+          "text": "Porque toma demasiado tiempo administrativo recolectar los documentos.",
+          "isCorrect": false,
+          "rationale": "La obsolescencia no se debe al tiempo, sino a la falta de profundidad en el conocimiento del mercado."
+        },
+        {
+          "text": "Porque hoy en d\u00eda todas las compras deben hacerse mediante subastas inversas digitales.",
+          "isCorrect": false,
+          "rationale": "La subasta es una herramienta, pero la estrategia real requiere una investigaci\u00f3n de mercado continua y objetiva."
+        },
+        {
+          "text": "Porque no garantiza que la empresa est\u00e9 protegida frente a monopolios o obsolescencia t\u00e9cnica.",
+          "isCorrect": true,
+          "rationale": "El valor estrat\u00e9gico exige dominar el ecosistema de proveedores m\u00e1s all\u00e1 de un simple tr\u00e1mite administrativo de precios bajos."
+        },
+        {
+          "text": "Porque los proveedores ya no est\u00e1n dispuestos a enviar cotizaciones gratuitas.",
+          "isCorrect": false,
+          "rationale": "El problema no radica en el comportamiento del proveedor, sino en la simplicidad peligrosa del m\u00e9todo de selecci\u00f3n."
+        }
+      ],
+      "hint": "Considere qu\u00e9 m\u00e9todo ofrece un conocimiento m\u00e1s profundo del ecosistema comercial para evitar enga\u00f1os t\u00e9cnicos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 pr\u00e1ctica es fundamental para mantener la transparencia radical en el valor \u00e9tico de las compras?",
+      "answerOptions": [
+        {
+          "text": "Aceptar \u00fanicamente regalos que no superen un valor monetario simb\u00f3lico.",
+          "isCorrect": false,
+          "rationale": "La lealtad profesional exige tolerancia cero; cualquier regalo puede comprometer la imparcialidad, al menos en apariencia."
+        },
+        {
+          "text": "Realizar registros documentales digitales que garanticen la trazabilidad total.",
+          "isCorrect": true,
+          "rationale": "Cada decisi\u00f3n debe ser auditable desde el inicio hasta el final para respaldar la honestidad del proceso."
+        },
+        {
+          "text": "Confiar en la buena voluntad de los proveedores de larga trayectoria.",
+          "isCorrect": false,
+          "rationale": "La \u00e9tica corporativa no se basa en la confianza ciega, sino en estructuras y reglas concretas de verificaci\u00f3n."
+        },
+        {
+          "text": "Omitir las auditor\u00edas externas para no interrumpir el flujo operativo de la mina.",
+          "isCorrect": false,
+          "rationale": "Las auditor\u00edas son precisamente el mecanismo que valida la integridad de los procesos de compra."
+        }
+      ],
+      "hint": "Identifique la herramienta tecnol\u00f3gica que permite verificar cada paso de una decisi\u00f3n comercial."
+    },
+    {
+      "question": "\u00bfC\u00f3mo maneja la empresa Antamina los regalos no autorizados enviados por proveedores?",
+      "answerOptions": [
+        {
+          "text": "Los devuelve inmediatamente mediante un servicio de mensajer\u00eda certificado.",
+          "isCorrect": false,
+          "rationale": "Devolverlos es una opci\u00f3n, pero la empresa utiliza un m\u00e9todo m\u00e1s creativo para neutralizar el intento de soborno."
+        },
+        {
+          "text": "Los entrega a la gerencia de recursos humanos para su uso administrativo.",
+          "isCorrect": false,
+          "rationale": "Esto no eliminar\u00eda el riesgo de favoritismo ni neutralizar\u00eda la intenci\u00f3n del proveedor de forma transparente."
+        },
+        {
+          "text": "Realiza una subasta interna y destina el dinero a un fondo de beneficio com\u00fan.",
+          "isCorrect": true,
+          "rationale": "Este sistema de 'rastrillo' neutraliza el beneficio personal del comprador y hace p\u00fablica la recepci\u00f3n del objeto."
+        },
+        {
+          "text": "Los proh\u00edbe mediante una carta notarial enviada a todos sus contratistas.",
+          "isCorrect": false,
+          "rationale": "Aunque se proh\u00edben por pol\u00edtica, el mecanismo mencionado es el que aplican cuando los regalos llegan de todos modos."
+        }
+      ],
+      "hint": "Recuerde el mecanismo original que convierte un posible soborno en un beneficio para todos los empleados."
+    },
+    {
+      "question": "\u00bfQu\u00e9 exige la normativa FCPA respecto a las Personas Pol\u00edticamente Expuestas (PEP)?",
+      "answerOptions": [
+        {
+          "text": "Prohibir cualquier contrato con empresas que tengan empleados que hayan trabajado en el gobierno.",
+          "isCorrect": false,
+          "rationale": "No se proh\u00edbe el contrato per se, sino que se exige una debida diligencia extrema para evitar riesgos de soborno."
+        },
+        {
+          "text": "Verificar exhaustivamente qui\u00e9n es el beneficiario final del proveedor.",
+          "isCorrect": true,
+          "rationale": "Debido a sus funciones p\u00fablicas, los PEP representan un alto riesgo de lavado de activos y soborno transnacional."
+        },
+        {
+          "text": "Otorgarles prioridad en las licitaciones por su relevancia en el sector p\u00fablico.",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda una pr\u00e1ctica de corrupci\u00f3n; la norma busca precisamente lo contrario: evitar tratos de favor."
+        },
+        {
+          "text": "Eximirlos de las auditor\u00edas t\u00e9cnicas debido a su estatus de protecci\u00f3n diplom\u00e1tica.",
+          "isCorrect": false,
+          "rationale": "El estatus de PEP los somete a un escrutinio mayor, no menor, dentro de los procesos de cumplimiento."
+        }
+      ],
+      "hint": "Considere el riesgo asociado a individuos con cargos p\u00fablicos prominentes y la necesidad de conocer a los due\u00f1os reales de las empresas."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se logr\u00f3 construir el 'monopolio t\u00e9cnico' en el caso de los pernos de fricci\u00f3n (split sets)?",
+      "answerOptions": [
+        {
+          "text": "Mediante el pago de sobornos directos en efectivo a la gerencia de finanzas.",
+          "isCorrect": false,
+          "rationale": "El caso destaca que no fue un soborno cl\u00e1sico, sino una manipulaci\u00f3n t\u00e9cnica mucho m\u00e1s sutil."
+        },
+        {
+          "text": "El proveedor compr\u00f3 todas las f\u00e1bricas de la competencia para ser el \u00fanico en el mercado.",
+          "isCorrect": false,
+          "rationale": "Exist\u00edan otros proveedores competidores, pero fueron bloqueados mediante sabotaje interno."
+        },
+        {
+          "text": "Sometiendo las muestras de los competidores a condiciones extremas para forzar fallos.",
+          "isCorrect": true,
+          "rationale": "Se enviaron piezas a zonas corrosivas para las que no fueron dise\u00f1adas, justificando as\u00ed el uso del proveedor 'amigo'."
+        },
+        {
+          "text": "A trav\u00e9s de una patente internacional que imped\u00eda a otros fabricar pernos similares.",
+          "isCorrect": false,
+          "rationale": "No fue una protecci\u00f3n legal leg\u00edtima, sino una desvirtuaci\u00f3n t\u00e9cnica basada en reportes de fallas falsas."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo se utilizaron reportes t\u00e9cnicos manipulados para excluir a la competencia de manera 'justificada'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito del ciclo PDSA en la implementaci\u00f3n de la norma ISO 14001?",
+      "answerOptions": [
+        {
+          "text": "Establecer una jerarqu\u00eda de mando r\u00edgida en el departamento de ambiente.",
+          "isCorrect": false,
+          "rationale": "El ciclo PDSA no es una estructura jer\u00e1rquica, sino una metodolog\u00eda de gesti\u00f3n de procesos."
+        },
+        {
+          "text": "Garantizar la mejora continua mediante los pasos de planificar, hacer, verificar y actuar.",
+          "isCorrect": true,
+          "rationale": "Este espiral ascendente obliga a corregir fallas detectadas en la verificaci\u00f3n y volver a planificar para alcanzar la excelencia."
+        },
+        {
+          "text": "Eliminar la necesidad de documentaci\u00f3n auditable para agilizar las operaciones mineras.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la ISO 14001 exige documentaci\u00f3n estricta del contexto, liderazgo y operaciones del cap\u00edtulo 4 al 10."
+        },
+        {
+          "text": "Reducir los costos de los equipos de protecci\u00f3n personal mediante compras masivas.",
+          "isCorrect": false,
+          "rationale": "La ISO 14001 se enfoca en el sistema de gesti\u00f3n ambiental, no en la reducci\u00f3n de costos de suministros m\u00e9dicos o de seguridad."
+        }
+      ],
+      "hint": "Identifique los cuatro pasos c\u00edclicos que buscan la optimizaci\u00f3n constante de un sistema de gesti\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia principal existe entre la ISO 14001 y la gu\u00eda ISO 26000?",
+      "answerOptions": [
+        {
+          "text": "La ISO 14001 es ambiental y la ISO 26000 es exclusivamente para el sector minero.",
+          "isCorrect": false,
+          "rationale": "Ambas son aplicables a diversos sectores, no son exclusivas de la miner\u00eda."
+        },
+        {
+          "text": "La ISO 14001 es obligatoria por ley y la ISO 26000 es una sugerencia opcional.",
+          "isCorrect": false,
+          "rationale": "La obligatoriedad depende de las leyes de cada pa\u00eds o contratos, pero la diferencia t\u00e9cnica radica en su certifiabilidad."
+        },
+        {
+          "text": "La ISO 14001 es certificable mediante auditor\u00edas y la ISO 26000 es solo una gu\u00eda no certificable.",
+          "isCorrect": true,
+          "rationale": "La ISO 26000 funciona como un paraguas de principios sociales, pero no otorga un diploma o certificaci\u00f3n t\u00e9cnica oficial."
+        },
+        {
+          "text": "La ISO 26000 se enfoca en la salud laboral y la ISO 14001 en los derechos humanos.",
+          "isCorrect": false,
+          "rationale": "Es m\u00e1s bien al rev\u00e9s en cuanto a alcance social; la ISO 26000 cubre derechos humanos y desarrollo comunitario."
+        }
+      ],
+      "hint": "Considere cu\u00e1l de las dos normativas permite obtener un certificado oficial de cumplimiento tras una auditor\u00eda."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 se refiere el est\u00e1ndar GRI 102 en el marco de los reportes de sostenibilidad?",
+      "answerOptions": [
+        {
+          "text": "A la gesti\u00f3n espec\u00edfica de emisiones de carbono de la flota de transporte.",
+          "isCorrect": false,
+          "rationale": "Los temas ambientales espec\u00edficos se tratan en otros m\u00f3dulos del GRI, no en las declaraciones generales."
+        },
+        {
+          "text": "A la 'partida de nacimiento' que detalla la identidad legal y operativa de la empresa.",
+          "isCorrect": true,
+          "rationale": "Este est\u00e1ndar proporciona todo el contexto de la entidad, incluyendo su estructura de gobierno y d\u00f3nde opera."
+        },
+        {
+          "text": "Al manual t\u00e9cnico para la eliminaci\u00f3n de residuos qu\u00edmicos en la cadena de suministro.",
+          "isCorrect": false,
+          "rationale": "El GRI 102 es de car\u00e1cter general y contextual, no es un manual de procedimientos qu\u00edmicos."
+        },
+        {
+          "text": "A la lista de sanciones econ\u00f3micas impuestas por el gobierno durante el a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Aunque se reportan sanciones, esto forma parte del enfoque de gesti\u00f3n y resultados, no solo de la identidad organizacional."
+        }
+      ],
+      "hint": "Piense en el documento que define qui\u00e9n es la empresa, su estructura y sus l\u00edneas de poder ante el mercado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 exige el 'principio de equilibrio' en la elaboraci\u00f3n de reportes de sostenibilidad corporativa?",
+      "answerOptions": [
+        {
+          "text": "Que los ingresos y egresos de la compa\u00f1\u00eda coincidan perfectamente al final del a\u00f1o fiscal.",
+          "isCorrect": false,
+          "rationale": "Este es un concepto contable de balance, no un principio de transparencia en sostenibilidad."
+        },
+        {
+          "text": "Que se reporten con la misma importancia tanto los logros como los fallos y sanciones.",
+          "isCorrect": true,
+          "rationale": "La honestidad brutal es clave; si un reporte solo muestra \u00e9xitos, pierde toda su credibilidad t\u00e9cnica ante el mercado."
+        },
+        {
+          "text": "Que exista un n\u00famero igual de proveedores locales y extranjeros en la cadena de valor.",
+          "isCorrect": false,
+          "rationale": "El equilibrio no se refiere a la cuota de proveedores, sino a la imparcialidad de la informaci\u00f3n presentada."
+        },
+        {
+          "text": "Que el impacto ambiental sea compensado exactamente con una inversi\u00f3n social equivalente.",
+          "isCorrect": false,
+          "rationale": "Aunque es deseable, el principio de equilibrio se refiere a la transparencia de la comunicaci\u00f3n, no a la compensaci\u00f3n financiera."
+        }
+      ],
+      "hint": "Considere la necesidad de ser honesto sobre los aspectos negativos para que el reporte sea cre\u00edble."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de una matriz de materialidad en una organizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Determinar qu\u00e9 materiales f\u00edsicos son necesarios para la construcci\u00f3n de una planta minera.",
+          "isCorrect": false,
+          "rationale": "La 'materialidad' en sostenibilidad no se refiere a materias primas, sino a la relevancia de los impactos."
+        },
+        {
+          "text": "Calcular la resistencia de los materiales utilizados en los equipos de protecci\u00f3n personal.",
+          "isCorrect": false,
+          "rationale": "Esta ser\u00eda una prueba de ingenier\u00eda t\u00e9cnica y no una herramienta de gesti\u00f3n estrat\u00e9gica y social."
+        },
+        {
+          "text": "Jerarquizar los temas que son cr\u00edticos tanto para el negocio como para los grupos de inter\u00e9s.",
+          "isCorrect": true,
+          "rationale": "Define qu\u00e9 impactos son prioritarios para ser reportados y gestionados bas\u00e1ndose en las expectativas de los stakeholders."
+        },
+        {
+          "text": "Listar todos los activos materiales que la empresa posee en sus registros contables.",
+          "isCorrect": false,
+          "rationale": "Esto se conoce como inventario o balance de activos, no como una matriz de materialidad de sostenibilidad."
+        }
+      ],
+      "hint": "Piense en la herramienta que ayuda a decidir qu\u00e9 temas son lo suficientemente importantes como para priorizarlos en un reporte."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gobernanza \u00e9tica en suministros",
+      "Arquitectura normativa organizacional",
+      "Patolog\u00edas \u00e9ticas y fraude corporativo",
+      "Est\u00e1ndares internacionales de gesti\u00f3n y sostenibilidad"
+    ],
+    "followUp": [
+      "Mec\u00e1nica de la debida diligencia y FCPA",
+      "Sistemas de reporte de sostenibilidad GRI",
+      "Mitigaci\u00f3n de riesgos ambientales en miner\u00eda",
+      "Principios de responsabilidad social ISO 26000"
+    ]
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre el est\u00e1ndar internacional ISO 45001 y la anterior norma OHSAS 18001?",
+      "answerOptions": [
+        {
+          "text": "La ISO 45001 nace de un consenso global que elimina la discrecionalidad t\u00e9cnica.",
+          "isCorrect": true,
+          "rationale": "A diferencia de la OHSAS 18001, que funcionaba bajo libre albedr\u00edo, la ISO 45001 establece una obligaci\u00f3n t\u00e9cnica estricta basada en comit\u00e9s internacionales."
+        },
+        {
+          "text": "La ISO 45001 es una gu\u00eda opcional centrada \u00fanicamente en el cumplimiento de leyes locales.",
+          "isCorrect": false,
+          "rationale": "Esto describe m\u00e1s bien la flexibilidad de est\u00e1ndares anteriores, mientras que la nueva norma busca una estandarizaci\u00f3n rigurosa para mercados globales."
+        },
+        {
+          "text": "La ISO 45001 se enfoca exclusivamente en la prevenci\u00f3n de accidentes traum\u00e1ticos agudos.",
+          "isCorrect": false,
+          "rationale": "La norma tiene un alcance integral que incluye la salud ocupacional y patolog\u00edas cr\u00f3nicas, no solo lesiones inmediatas."
+        },
+        {
+          "text": "La ISO 45001 permite que cada empresa decida sus propios protocolos sin supervisi\u00f3n externa.",
+          "isCorrect": false,
+          "rationale": "El objetivo de la norma es precisamente borrar esa discrecionalidad del mapa para empujar a las empresas hacia un rigor internacional."
+        }
+      ],
+      "hint": "Considere el origen suizo de la norma y su naturaleza de consenso obligatorio."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el Decreto Supremo 024 de 2016 para el sector extractivo en el modelo peruano?",
+      "answerOptions": [
+        {
+          "text": "Un salto cu\u00e1ntico que mimetiza la estructura de los sistemas de gesti\u00f3n internacionales.",
+          "isCorrect": true,
+          "rationale": "Este decreto es uno de los reglamentos m\u00e1s avanzados en Latinoam\u00e9rica al alinear la legislaci\u00f3n local con est\u00e1ndares globales de ejecuci\u00f3n real."
+        },
+        {
+          "text": "Una ley secundaria que solo establece multas administrativas para las empresas.",
+          "isCorrect": false,
+          "rationale": "Aunque contempla sanciones, su funci\u00f3n principal es establecer el andamiaje t\u00e9cnico para la continuidad operativa del negocio."
+        },
+        {
+          "text": "Un manual te\u00f3rico que no requiere ejecuci\u00f3n directa en el campo de trabajo.",
+          "isCorrect": false,
+          "rationale": "La normativa obliga espec\u00edficamente a que la seguridad deje de ser teor\u00eda y se transforme en una ejecuci\u00f3n operativa real."
+        },
+        {
+          "text": "La primera ley de seguridad minera creada en la historia de la regi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Existen leyes previas como la Ley $29783$, por lo que el DS 024 es una evoluci\u00f3n t\u00e9cnica y no el origen absoluto."
+        }
+      ],
+      "hint": "Piense en el nivel de sofisticaci\u00f3n y su relaci\u00f3n con las normas ISO."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la denominada arquitectura dual de prevenci\u00f3n en la gesti\u00f3n de alto nivel?",
+      "answerOptions": [
+        {
+          "text": "Frenar lesiones traum\u00e1ticas agudas y mitigar patolog\u00edas cr\u00f3nicas latentes.",
+          "isCorrect": true,
+          "rationale": "Este enfoque busca proteger al trabajador tanto de accidentes inmediatos como de enfermedades que se gestan a largo plazo por el entorno."
+        },
+        {
+          "text": "Integrar \u00fanicamente los departamentos de mantenimiento y geolog\u00eda a la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque la integraci\u00f3n de departamentos es vital, la arquitectura dual se refiere espec\u00edficamente a la naturaleza de los riesgos biol\u00f3gicos y f\u00edsicos."
+        },
+        {
+          "text": "Separar la responsabilidad \u00e9tica de los gerentes de la responsabilidad operativa.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n moderna busca precisamente unificar ambas responsabilidades como parte de un marco integral del siglo XXI."
+        },
+        {
+          "text": "Priorizar el uso de equipos de protecci\u00f3n personal sobre la ingenier\u00eda de procesos.",
+          "isCorrect": false,
+          "rationale": "La arquitectura dual implica controles m\u00e1s profundos que la simple entrega de implementos, atacando la causa ra\u00edz de las amenazas."
+        }
+      ],
+      "hint": "Se asemeja a tener dos escudos para diferentes tipos de amenazas temporales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre durante la segunda fase de la mec\u00e1nica destructiva de la silicosis en los pulmones?",
+      "answerOptions": [
+        {
+          "text": "Las part\u00edculas de s\u00edlice con bordes filosos laceran el tejido bioactivo pulmonar.",
+          "isCorrect": true,
+          "rationale": "En esta fase, la estructura cristalina act\u00faa como microcuchillas que causan da\u00f1o f\u00edsico real en el tejido interno."
+        },
+        {
+          "text": "El cuerpo genera una fibrosis extrema que destruye la capacidad alveolar.",
+          "isCorrect": false,
+          "rationale": "Este proceso de cicatrizaci\u00f3n corresponde a la tercera fase, que es la consecuencia final de los cortes continuos."
+        },
+        {
+          "text": "Se inhalan part\u00edculas microsc\u00f3picas invisibles que flotan en el ambiente.",
+          "isCorrect": false,
+          "rationale": "La inhalaci\u00f3n es la fase inicial o de arranque del proceso degenerativo, antes del da\u00f1o f\u00edsico directo."
+        },
+        {
+          "text": "El sistema inmunol\u00f3gico elimina con \u00e9xito los cristales de cuarzo del organismo.",
+          "isCorrect": false,
+          "rationale": "El da\u00f1o es irreversible precisamente porque el cuerpo no puede eliminar estas part\u00edculas, lo que lleva a la fibrosis."
+        }
+      ],
+      "hint": "Piense en la forma f\u00edsica de las part\u00edculas de s\u00edlice y su efecto mec\u00e1nico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la composici\u00f3n porcentual de az\u00facares procesados en la denominada dieta minera de los campamentos?",
+      "answerOptions": [
+        {
+          "text": "$35\\%$",
+          "isCorrect": true,
+          "rationale": "Esta cifra representa una carga gluc\u00e9mica alta que, sumada a carbohidratos y aceites, detona procesos degenerativos hep\u00e1ticos."
+        },
+        {
+          "text": "$40\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje corresponde a la proporci\u00f3n de carbohidratos presentes en la dieta analizada, no a los az\u00facares procesados."
+        },
+        {
+          "text": "$25\\%$",
+          "isCorrect": false,
+          "rationale": "Este es el valor asignado a los aceites hidrogenados dentro de la distribuci\u00f3n nutricional del campamento."
+        },
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Este valor es significativamente menor al nivel de riesgo real descrito para la amenaza metab\u00f3lica en la industria."
+        }
+      ],
+      "hint": "Es un valor intermedio entre el porcentaje de carbohidratos y el de aceites hidrogenados."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia m\u00e9dica puede derivar de la dieta minera si no se interviene la oferta nutricional?",
+      "answerOptions": [
+        {
+          "text": "Una progresi\u00f3n acelerada desde h\u00edgado graso moderado hacia la cirrosis.",
+          "isCorrect": true,
+          "rationale": "La alta ingesta de carbohidratos y grasas hidrogenadas act\u00faa como un detonante para enfermedades hep\u00e1ticas silenciosas."
+        },
+        {
+          "text": "Una mejora inmediata en la capacidad de respuesta f\u00edsica del operador.",
+          "isCorrect": false,
+          "rationale": "Por el contrario, esta dieta es descrita como una amenaza que enferma al trabajador a fuego lento a pesar de su salud inicial."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de la necesidad de filtros de ingreso m\u00e9dico.",
+          "isCorrect": false,
+          "rationale": "Los filtros de ingreso son estrictos, pero la dieta ir\u00f3nicamente degrada la salud de quienes pasaron dichas pruebas."
+        },
+        {
+          "text": "Un aumento en la resistencia pulmonar frente a part\u00edculas de s\u00edlice.",
+          "isCorrect": false,
+          "rationale": "No existe relaci\u00f3n entre la dieta de carbohidratos y la protecci\u00f3n biol\u00f3gica contra la silicosis; son amenazas de distinta naturaleza."
+        }
+      ],
+      "hint": "Reflexione sobre el proceso degenerativo silencioso mencionado en relaci\u00f3n con el h\u00edgado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica define a una matriz IPERC que funciona como una herramienta de gesti\u00f3n estrat\u00e9gica?",
+      "answerOptions": [
+        {
+          "text": "Su tratamiento como un documento vivo y din\u00e1mico ejecutado por quien realiza la tarea.",
+          "isCorrect": true,
+          "rationale": "Para ser efectiva, la IPERC no puede ser un papel est\u00e1tico, sino que debe reflejar las condiciones cambiantes del terreno."
+        },
+        {
+          "text": "Su funci\u00f3n como un registro hist\u00f3rico inamovible para cumplir con auditor\u00edas anuales.",
+          "isCorrect": false,
+          "rationale": "Si el documento se vuelve est\u00e1tico, pierde su poder de hacer visible lo invisible y proteger operativamente al equipo."
+        },
+        {
+          "text": "La exclusi\u00f3n de requisitos legales para simplificar el entendimiento del operador.",
+          "isCorrect": false,
+          "rationale": "Integrar el requisito legal es vital para demostrar que el control es una ejecuci\u00f3n t\u00e9cnica obligatoria y no una sugerencia."
+        },
+        {
+          "text": "Ser redactada exclusivamente por la gerencia general en oficinas centrales.",
+          "isCorrect": false,
+          "rationale": "La efectividad de la identificaci\u00f3n de peligros depende de la participaci\u00f3n directa del personal operativo en el campo."
+        }
+      ],
+      "hint": "Considere la frecuencia con la que debe actualizarse para ser \u00fatil."
+    },
+    {
+      "question": "En el control de energ\u00eda el\u00e9ctrica, \u00bfcu\u00e1l es la justificaci\u00f3n t\u00e9cnica para entubar y aterrar l\u00edneas de tensi\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "El cumplimiento estricto de las disposiciones del C\u00f3digo Nacional de Electricidad.",
+          "isCorrect": true,
+          "rationale": "Vincular el control con la ley cierra la puerta a la improvisaci\u00f3n y respalda la medida como una ejecuci\u00f3n t\u00e9cnica verificable."
+        },
+        {
+          "text": "Una simple opini\u00f3n subjetiva del supervisor basada en buenas intenciones.",
+          "isCorrect": false,
+          "rationale": "Las medidas de control deben basarse en est\u00e1ndares t\u00e9cnicos y legales, no en percepciones individuales."
+        },
+        {
+          "text": "La reducci\u00f3n est\u00e9tica del cableado visible en la zona de operaciones.",
+          "isCorrect": false,
+          "rationale": "El entubado y aterramiento tienen fines puramente de seguridad y disipaci\u00f3n de energ\u00eda, no ornamentales."
+        },
+        {
+          "text": "Aumentar la velocidad de transmisi\u00f3n de datos en la red el\u00e9ctrica.",
+          "isCorrect": false,
+          "rationale": "Estas medidas son barreras f\u00edsicas de seguridad para evitar electrocuci\u00f3n, no mejoras de rendimiento electr\u00f3nico."
+        }
+      ],
+      "hint": "Busque la fuente de autoridad que dicta los protocolos de seguridad el\u00e9ctrica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito fundamental del liderazgo relacional en una cultura operativa de excelencia?",
+      "answerOptions": [
+        {
+          "text": "Transformar a los l\u00edderes operativos en aliados estrat\u00e9gicos que asuman la seguridad como valor.",
+          "isCorrect": true,
+          "rationale": "Busca alejarse del castigo jer\u00e1rquico para lograr que la seguridad fluya en la cultura diaria de forma org\u00e1nica."
+        },
+        {
+          "text": "Establecer una jerarqu\u00eda punitiva para castigar cualquier incumplimiento menor.",
+          "isCorrect": false,
+          "rationale": "El liderazgo relacional es comparado con un coaching proactivo, opuesto a la imposici\u00f3n por miedo o castigo."
+        },
+        {
+          "text": "Sustituir todas las matrices t\u00e9cnicas por conversaciones informales con el personal.",
+          "isCorrect": false,
+          "rationale": "Este liderazgo no reemplaza lo t\u00e9cnico, sino que lo integra a la cultura para asegurar que se viva en el d\u00eda a d\u00eda."
+        },
+        {
+          "text": "Priorizar el cumplimiento de metas de producci\u00f3n sobre la detenci\u00f3n de tareas inseguras.",
+          "isCorrect": false,
+          "rationale": "El liderazgo genuino empodera al trabajador para decir no ante condiciones inseguras, sin importar la presi\u00f3n productiva."
+        }
+      ],
+      "hint": "Piense en la transici\u00f3n de un modelo de castigo a uno de colaboraci\u00f3n y coaching."
+    },
+    {
+      "question": "Si una operaci\u00f3n reduce su \u00edndice de frecuencia de $7$ a $0.5$, \u00bfcu\u00e1l es el impacto directo en el negocio?",
+      "answerOptions": [
+        {
+          "text": "Un aumento brutal de la rentabilidad debido a la eliminaci\u00f3n de desperdicios y paradas.",
+          "isCorrect": true,
+          "rationale": "Una operaci\u00f3n segura garantiza procesos bien hechos a la primera, lo que consolida el retorno de inversi\u00f3n y protege el VAN."
+        },
+        {
+          "text": "Un incremento masivo en los costos hundidos por mantenimiento preventivo.",
+          "isCorrect": false,
+          "rationale": "La reducci\u00f3n de incidentes disminuye los costos hundidos (indemnizaciones y crisis), mejorando la salud financiera del activo."
+        },
+        {
+          "text": "La anulaci\u00f3n de la ventaja competitiva en los mercados internacionales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, niveles bajos de accidentabilidad abren las puertas a nuevos capitales y mercados globales."
+        },
+        {
+          "text": "La necesidad de duplicar el personal administrativo para gestionar los datos.",
+          "isCorrect": false,
+          "rationale": "La seguridad eficiente optimiza procesos; no implica necesariamente un crecimiento burocr\u00e1tico desmedido."
+        }
+      ],
+      "hint": "Relacione la seguridad con la eficiencia operativa y el desperdicio cero."
+    },
+    {
+      "question": "\u00bfQu\u00e9 derecho inalienable del trabajador es fundamental para el empoderamiento real en terreno?",
+      "answerOptions": [
+        {
+          "text": "El derecho a detener una tarea si las condiciones son inseguras.",
+          "isCorrect": true,
+          "rationale": "Este es el ejercicio de priorizar la vida sobre la producci\u00f3n, validando todo el sistema de gesti\u00f3n en el momento cr\u00edtico."
+        },
+        {
+          "text": "El derecho a elegir el color y marca de sus equipos de protecci\u00f3n personal.",
+          "isCorrect": false,
+          "rationale": "Aunque existen derechos de bienestar, el empoderamiento estrat\u00e9gico se centra en la gesti\u00f3n del riesgo vital."
+        },
+        {
+          "text": "El derecho a modificar los protocolos legales a discreci\u00f3n personal.",
+          "isCorrect": false,
+          "rationale": "Los protocolos son de cumplimiento obligatorio y t\u00e9cnico; el derecho radica en la seguridad, no en la improvisaci\u00f3n normativa."
+        },
+        {
+          "text": "El derecho a ignorar la supervisi\u00f3n presencial si se cuenta con tecnolog\u00eda avanzada.",
+          "isCorrect": false,
+          "rationale": "La supervisi\u00f3n es necesaria para la validez de los sistemas; el trabajador debe estar acompa\u00f1ado por una gesti\u00f3n rigurosa."
+        }
+      ],
+      "hint": "Es la capacidad de decir \"no\" en favor de la integridad f\u00edsica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una de las medidas t\u00e9cnicas cr\u00edticas para el mantenimiento seguro de ciclones de molienda?",
+      "answerOptions": [
+        {
+          "text": "Ejecutar cortes t\u00e9cnicos tipo chanfle con oxicorte.",
+          "isCorrect": true,
+          "rationale": "Esta t\u00e9cnica, junto con el uso de gr\u00faas y estrobos, permite gestionar la energ\u00eda residual y evitar accidentes traum\u00e1ticos."
+        },
+        {
+          "text": "Utilizar palancas manuales para agilizar el proceso de desmontaje.",
+          "isCorrect": false,
+          "rationale": "El uso de palancas manuales debe rechazarse de tajo para eliminar el riesgo de aplastamiento."
+        },
+        {
+          "text": "Confiar exclusivamente en la presi\u00f3n de recuperaci\u00f3n metal\u00fargica para el soporte.",
+          "isCorrect": false,
+          "rationale": "La presi\u00f3n por producci\u00f3n suele ser un factor de riesgo; las medidas t\u00e9cnicas deben ser independientes de esta urgencia."
+        },
+        {
+          "text": "Realizar la tarea sin asegurar la estructura con estrobos externos.",
+          "isCorrect": false,
+          "rationale": "El uso de estrobos es fundamental para controlar la energ\u00eda residual brutal que queda tras los cortes."
+        }
+      ],
+      "hint": "Busque el procedimiento de corte especializado mencionado para la gesti\u00f3n de energ\u00eda."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica distintiva de la metodolog\u00eda ICAM frente a an\u00e1lisis tradicionales?",
+      "answerOptions": [
+        {
+          "text": "Se concentra quir\u00fargicamente en descubrir qu\u00e9 barrera organizacional colaps\u00f3.",
+          "isCorrect": true,
+          "rationale": "A diferencia de buscar culpables, el ICAM realiza una auditor\u00eda profunda de las fallas del sistema y sus controles."
+        },
+        {
+          "text": "Se enfoca en buscar y castigar al responsable directo del error humano.",
+          "isCorrect": false,
+          "rationale": "La metodolog\u00eda busca alejarse de la costumbre de apuntar con el dedo para entender las causas ra\u00edz sist\u00e9micas."
+        },
+        {
+          "text": "Es un reporte superficial que se completa r\u00e1pidamente tras un incidente menor.",
+          "isCorrect": false,
+          "rationale": "Se describe como un \"hiperposmortem\" o auditor\u00eda profund\u00edsima, lo que implica un alto nivel de detalle."
+        },
+        {
+          "text": "Solo analiza los costos financieros del accidente sin ver la seguridad.",
+          "isCorrect": false,
+          "rationale": "Aunque impacta en lo financiero, su objetivo es medir la madurez del sistema y prevenir recurrencias."
+        }
+      ],
+      "hint": "Considere si el enfoque es hacia la persona o hacia la organizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 indica el concepto de fractalidad estad\u00edstica cuando las curvas de incidentes menores y de tendencia hist\u00f3rica se cruzan?",
+      "answerOptions": [
+        {
+          "text": "Que una fatalidad es inminente si se sigue operando bajo las mismas condiciones.",
+          "isCorrect": true,
+          "rationale": "Este cruce matem\u00e1tico funciona como una alerta roja que predice cat\u00e1strofes mucho antes de que ocurran."
+        },
+        {
+          "text": "Que el sistema de gesti\u00f3n ha alcanzado su m\u00e1ximo nivel de eficiencia operativa.",
+          "isCorrect": false,
+          "rationale": "El ascenso de eventos menores cruzando la tendencia hist\u00f3rica es una se\u00f1al de fallo sist\u00e9mico, no de \u00e9xito."
+        },
+        {
+          "text": "Que los incidentes menores son irrelevantes para predecir accidentes mayores.",
+          "isCorrect": false,
+          "rationale": "La fractalidad utiliza precisamente los datos menores como herramienta predictiva definitiva para fallas enormes."
+        },
+        {
+          "text": "Que la operaci\u00f3n debe aumentar el ritmo de producci\u00f3n para compensar los retrasos.",
+          "isCorrect": false,
+          "rationale": "Ante este cruce, la \u00fanica intervenci\u00f3n aceptable es una parada de seguridad para recalibrar controles."
+        }
+      ],
+      "hint": "Es una advertencia matem\u00e1tica sobre el colapso del sistema."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la intervenci\u00f3n estrat\u00e9gica obligatoria ante un cruce de l\u00edneas en la fractalidad estad\u00edstica?",
+      "answerOptions": [
+        {
+          "text": "Ejecutar inmediatamente una parada de seguridad (safety stand down).",
+          "isCorrect": true,
+          "rationale": "Se requiere detener la operaci\u00f3n de golpe para recalibrar controles antes de que el sistema colapse irreversiblemente."
+        },
+        {
+          "text": "Convocar a un comit\u00e9 de debate para la siguiente semana.",
+          "isCorrect": false,
+          "rationale": "La alerta exige una respuesta urgente; esperar a reuniones programadas permitir\u00eda que ocurra la fatalidad predicha."
+        },
+        {
+          "text": "Ignorar la estad\u00edstica si no ha habido fatalidades reales todav\u00eda.",
+          "isCorrect": false,
+          "rationale": "La fractalidad es una herramienta predictiva; ignorarla es ignorar lo que los datos ya est\u00e1n gritando."
+        },
+        {
+          "text": "Sustituir al personal operativo sin revisar los controles organizacionales.",
+          "isCorrect": false,
+          "rationale": "La intervenci\u00f3n debe centrarse en los controles organizacionales que la estad\u00edstica se\u00f1ala como fallidos."
+        }
+      ],
+      "hint": "Piense en la rapidez y radicalidad de la acci\u00f3n necesaria."
+    },
+    {
+      "question": "En la gesti\u00f3n de tiros cortados (explosivos no detonados), \u00bfqu\u00e9 factor geol\u00f3gico dicta la estrategia de ingenier\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Las propiedades geomec\u00e1nicas como el $RQD$ y la dureza $UCS$.",
+          "isCorrect": true,
+          "rationale": "Comprender la competencia del macizo rocoso permite ajustar el factor de carga y asegurar la iniciaci\u00f3n total."
+        },
+        {
+          "text": "La profundidad de la napa fre\u00e1tica \u00fanicamente.",
+          "isCorrect": false,
+          "rationale": "Aunque influye, la dureza y calidad de la roca ($RQD$) son los pilares para evitar la detenci\u00f3n de la energ\u00eda explosiva."
+        },
+        {
+          "text": "El color de la roca y su valor comercial en el mercado.",
+          "isCorrect": false,
+          "rationale": "La estrategia de seguridad se basa en f\u00edsica y geomec\u00e1nica, no en criterios econ\u00f3micos del mineral."
+        },
+        {
+          "text": "La distancia entre la mina y el puerto de embarque m\u00e1s cercano.",
+          "isCorrect": false,
+          "rationale": "Este factor log\u00edstico no tiene relaci\u00f3n con el comportamiento t\u00e9cnico de la voladura en el frente de trabajo."
+        }
+      ],
+      "hint": "Relacione la dureza de la roca con la necesidad de m\u00faltiples iniciadores."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se utilizan m\u00faltiples boosters en macizos rocosos altamente competentes?",
+      "answerOptions": [
+        {
+          "text": "Para garantizar una iniciaci\u00f3n total a lo largo de la columna y evitar detonaciones accidentales futuras.",
+          "isCorrect": true,
+          "rationale": "En rocas duras, un solo punto de iniciaci\u00f3n puede fallar, dejando remanentes peligrosos para la fase de acarreo."
+        },
+        {
+          "text": "Para reducir el costo total de los explosivos utilizados en la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El uso de m\u00faltiples boosters es una medida de seguridad y efectividad t\u00e9cnica, no necesariamente de ahorro directo en insumos."
+        },
+        {
+          "text": "Para permitir que el balde de la pala cargadora detone el material remanente.",
+          "isCorrect": false,
+          "rationale": "Ese es precisamente el escenario de desastre que se busca evitar mediante la ingenier\u00eda aplicada."
+        },
+        {
+          "text": "Para eliminar la necesidad de usar detonadores electr\u00f3nicos.",
+          "isCorrect": false,
+          "rationale": "Los boosters complementan la estrategia de voladura, pero no sustituyen el tipo de detonador si la geolog\u00eda es compleja."
+        }
+      ],
+      "hint": "Piense en la continuidad de la energ\u00eda a trav\u00e9s del taladro."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el principio cient\u00edfico aplicado para proteger al personal de tormentas el\u00e9ctricas en plantas de procesamiento?",
+      "answerOptions": [
+        {
+          "text": "El principio de la Jaula de Faraday mediante estructuras interconectadas y aterradas.",
+          "isCorrect": true,
+          "rationale": "Este dise\u00f1o asegura que la energ\u00eda de una descarga atmosf\u00e9rica se disipe por la periferia sin da\u00f1ar a quienes est\u00e1n dentro."
+        },
+        {
+          "text": "La ley de gravedad para atraer los rayos hacia el centro de la planta.",
+          "isCorrect": false,
+          "rationale": "La energ\u00eda debe disiparse por la periferia de la estructura, no concentrarse en el centro operativo."
+        },
+        {
+          "text": "El uso de techos de material aislante no conductor como \u00fanica barrera.",
+          "isCorrect": false,
+          "rationale": "No basta con un techo; se requiere que toda la estructura met\u00e1lica est\u00e9 conectada a pozos de tierra perif\u00e9ricos."
+        },
+        {
+          "text": "La desconexi\u00f3n total de todos los sistemas el\u00e9ctricos durante la lluvia.",
+          "isCorrect": false,
+          "rationale": "Aunque es una medida, la protecci\u00f3n f\u00edsica de la jaula permite la seguridad del personal resguardado bajo dise\u00f1o de ingenier\u00eda."
+        }
+      ],
+      "hint": "Considere c\u00f3mo se comporta la electricidad sobre una superficie conductora cerrada."
+    },
+    {
+      "question": "En el contexto de la gesti\u00f3n moderna, \u00bfqu\u00e9 significa somatizar los lineamientos de seguridad?",
+      "answerOptions": [
+        {
+          "text": "Que la seguridad se transforme en un comportamiento instintivo integrado en la cultura diaria.",
+          "isCorrect": true,
+          "rationale": "Ocurre cuando deja de ser un manual guardado y fluye naturalmente en las acciones de gerentes, supervisores y operadores."
+        },
+        {
+          "text": "Memorizar todas las leyes vigentes para evitar multas administrativas.",
+          "isCorrect": false,
+          "rationale": "La somatizaci\u00f3n va m\u00e1s all\u00e1 de la memoria; se trata de la internalizaci\u00f3n y aplicaci\u00f3n pr\u00e1ctica inconsciente."
+        },
+        {
+          "text": "Sentir temor f\u00edsico ante la presencia de inspectores de salud ocupacional.",
+          "isCorrect": false,
+          "rationale": "El concepto no se refiere a una reacci\u00f3n de miedo, sino a un salto evolutivo hacia la excelencia y el respeto por la vida."
+        },
+        {
+          "text": "Registrar manualmente cada movimiento del personal en una bit\u00e1cora de campo.",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda un control administrativo est\u00e1tico, lo opuesto a la fluidez cultural que busca el sistema."
+        }
+      ],
+      "hint": "Piense en algo que se vuelve parte del ADN del trabajador y de la empresa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo final de la responsabilidad \u00e9tica del ingeniero en el siglo XXI?",
+      "answerOptions": [
+        {
+          "text": "Asegurar que los trabajadores vuelvan sanos y preserven su audici\u00f3n, columna y pulmones.",
+          "isCorrect": true,
+          "rationale": "El \u00e9xito real trasciende las m\u00e9tricas de producci\u00f3n y se centra en el respeto supremo por la vida y salud humana a largo plazo."
+        },
+        {
+          "text": "Cumplir estrictamente con la cuota de extracci\u00f3n de mineral diaria.",
+          "isCorrect": false,
+          "rationale": "La producci\u00f3n es necesaria, pero la \u00e9tica del siglo XXI la supedita a la seguridad como ventaja competitiva y valor central."
+        },
+        {
+          "text": "Lograr que el sistema de gesti\u00f3n pase auditor\u00edas sin observaciones documentales.",
+          "isCorrect": false,
+          "rationale": "Anotar papeles por llenar no es la meta; el cumplimiento es el piso, mientras que la excelencia es la protecci\u00f3n real del capital humano."
+        },
+        {
+          "text": "Maximizar el ahorro en dietas alimenticias para mejorar el balance financiero.",
+          "isCorrect": false,
+          "rationale": "Intervenir la nutrici\u00f3n es una obligaci\u00f3n \u00e9tica para evitar patolog\u00edas, no un \u00e1rea para recortes presupuestarios peligrosos."
+        }
+      ],
+      "hint": "Piense en los tres \u00f3rganos cr\u00edticos mencionados al final de la clase."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Normativa Internacional ISO 45001",
+      "Legislaci\u00f3n Minera Peruana (DS 024-2016)",
+      "Gesti\u00f3n de Riesgos de Higiene Ocupacional (Silicosis e H\u00edgado Graso)",
+      "Herramientas T\u00e9cnicas: Matriz IPERC y Metodolog\u00eda ICAM",
+      "Liderazgo Relacional y Cultura de Seguridad",
+      "Ingenier\u00eda de Seguridad en Operaciones (Energ\u00eda, Voladura y Tormentas)",
+      "Estad\u00edstica Predictiva y Fractalidad"
+    ],
+    "followUp": [
+      "Impacto Econ\u00f3mico del Valor Actual Neto (VAN) en la Seguridad",
+      "Estructuras de Est\u00e1ndares Suizos de Consenso Global",
+      "Bioactividad Pulmonar y Fibrosis por Part\u00edculas de Cuarzo",
+      "Modelos de Nutrici\u00f3n de Alta Calidad en Entornos Industriales",
+      "Manejo de Energ\u00edas Residuales en Mantenimiento Cr\u00edtico",
+      "Principios de F\u00edsica Aplicada a la Protecci\u00f3n Atmosf\u00e9rica"
+    ]
+  }
+}

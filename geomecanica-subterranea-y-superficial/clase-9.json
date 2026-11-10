@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia conceptual entre la matriz rocosa y el macizo rocoso?",
+      "answerOptions": [
+        {
+          "text": "La matriz rocosa es el bloque de roca intacta, mientras que el macizo rocoso incluye todas las discontinuidades y fallas.",
+          "isCorrect": true,
+          "rationale": "La distinci\u00f3n fundamental radica en que el macizo rocoso se considera el conjunto integral de la roca virgen m\u00e1s sus estructuras geol\u00f3gicas."
+        },
+        {
+          "text": "La matriz rocosa tiene una resistencia a la tracci\u00f3n nula, mientras que el macizo rocoso es altamente resistente.",
+          "isCorrect": false,
+          "rationale": "En realidad, es el macizo rocoso el que presenta una resistencia a la tracci\u00f3n pr\u00e1cticamente nula debido a sus fracturas."
+        },
+        {
+          "text": "La matriz rocosa es un medio heterog\u00e9neo y el macizo rocoso es un bloque s\u00f3lido y uniforme.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s: la matriz se asocia a la homogeneidad de la roca intacta, mientras que el macizo es heterog\u00e9neo por naturaleza."
+        },
+        {
+          "text": "La matriz rocosa solo se encuentra en miner\u00eda superficial y el macizo rocoso en miner\u00eda subterr\u00e1nea.",
+          "isCorrect": false,
+          "rationale": "Ambos conceptos son aplicables a cualquier tipo de excavaci\u00f3n en roca, independientemente de si es a cielo abierto o subterr\u00e1nea."
+        }
+      ],
+      "hint": "Piensa en cu\u00e1l de los dos t\u00e9rminos representa el 'paquete completo' que incluye grietas y fallas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 efecto cr\u00edtico tiene la presencia de arcilla como relleno en las discontinuidades de un macizo rocoso?",
+      "answerOptions": [
+        {
+          "text": "Act\u00faa como un agente cementante que incrementa la cohesi\u00f3n del bloque.",
+          "isCorrect": false,
+          "rationale": "Lejos de cementar, la arcilla suele reducir dr\u00e1sticamente la fricci\u00f3n interna de la discontinuidad."
+        },
+        {
+          "text": "Funciona como un lubricante que reduce la resistencia al corte y facilita el deslizamiento.",
+          "isCorrect": true,
+          "rationale": "Las propiedades f\u00edsicas de la arcilla favorecen el movimiento entre bloques, lo que representa un peligro para la estabilidad."
+        },
+        {
+          "text": "Aumenta la dureza de la matriz rocosa por encima de los $250\\ MPa$.",
+          "isCorrect": false,
+          "rationale": "El relleno afecta a la discontinuidad, no altera las propiedades f\u00edsicas intr\u00ednsecas de la matriz rocosa intacta."
+        },
+        {
+          "text": "Reduce la permeabilidad del macizo, impidiendo el paso del agua.",
+          "isCorrect": false,
+          "rationale": "Aunque puede ser impermeable, su efecto m\u00e1s peligroso en geomec\u00e1nica es la p\u00e9rdida de estabilidad por lubricaci\u00f3n."
+        }
+      ],
+      "hint": "Considera c\u00f3mo afecta un material blando y h\u00famedo a la fricci\u00f3n entre dos superficies de roca."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la utilidad principal del sistema de clasificaci\u00f3n RMR de Bieniawski?",
+      "answerOptions": [
+        {
+          "text": "Estimar el factor de seguridad tridimensional de las cu\u00f1as en el techo.",
+          "isCorrect": false,
+          "rationale": "El RMR es un sistema de clasificaci\u00f3n emp\u00edrica, no una herramienta de c\u00e1lculo de equilibrio l\u00edmite para cu\u00f1as espec\u00edficas."
+        },
+        {
+          "text": "Determinar los tiempos de autosoporte del terreno tras la excavaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "El RMR permite categorizar la calidad de la roca para predecir cu\u00e1nto tiempo puede mantenerse estable una labor sin sostenimiento."
+        },
+        {
+          "text": "Calcular \u00fanicamente la resistencia a la compresi\u00f3n simple de la matriz rocosa.",
+          "isCorrect": false,
+          "rationale": "Aunque incluye la resistencia de la roca, el RMR integra m\u00faltiples par\u00e1metros como el RQD y el espaciamiento de fracturas."
+        },
+        {
+          "text": "Definir la magnitud de un evento s\u00edsmico inducido por la profundidad.",
+          "isCorrect": false,
+          "rationale": "El RMR clasifica la calidad del macizo rocoso, pero no se utiliza para predecir la magnitud de sismos."
+        }
+      ],
+      "hint": "Relaciona este \u00edndice con la capacidad de la roca para sostenerse por s\u00ed misma temporalmente."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afecta la presencia de agua subterr\u00e1nea a la estabilidad de una excavaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Incrementa la resistencia al corte al rellenar los espacios vac\u00edos.",
+          "isCorrect": false,
+          "rationale": "El agua act\u00faa de forma opuesta, disminuyendo la fricci\u00f3n y reduciendo la resistencia al corte."
+        },
+        {
+          "text": "Reduce la presi\u00f3n de poros, permitiendo que la roca se compacte mejor.",
+          "isCorrect": false,
+          "rationale": "El agua en realidad incrementa la presi\u00f3n de poros, lo que empuja las paredes de las fracturas hacia afuera."
+        },
+        {
+          "text": "Disminuye la resistencia al corte y aumenta simult\u00e1neamente la presi\u00f3n de poros.",
+          "isCorrect": true,
+          "rationale": "Este doble efecto negativo act\u00faa como un agente desestabilizador agresivo que compromete la integridad del macizo."
+        },
+        {
+          "text": "Aumenta el m\u00f3dulo de Young de la roca, haci\u00e9ndola m\u00e1s el\u00e1stica.",
+          "isCorrect": false,
+          "rationale": "La presencia de agua no mejora las propiedades el\u00e1sticas de la roca; al contrario, degrada su comportamiento mec\u00e1nico."
+        }
+      ],
+      "hint": "Recuerda que el agua act\u00faa tanto como lubricante como fuerza interna en las grietas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia econ\u00f3mica y operativa tiene el sobredimensionamiento excesivo del soporte?",
+      "answerOptions": [
+        {
+          "text": "Genera colapsos catastr\u00f3ficos por el peso extra del acero instalado.",
+          "isCorrect": false,
+          "rationale": "Aunque es ineficiente, el exceso de soporte no suele causar colapsos por peso propio en zonas ya competentes."
+        },
+        {
+          "text": "Aumenta la seguridad de forma proporcional a la inversi\u00f3n realizada.",
+          "isCorrect": false,
+          "rationale": "Existe un punto de saturaci\u00f3n donde a\u00f1adir m\u00e1s soporte no incrementa significativamente la seguridad y solo eleva costos."
+        },
+        {
+          "text": "Provoca un gasto innecesario de recursos en zonas que ya son competentes por s\u00ed mismas.",
+          "isCorrect": true,
+          "rationale": "Instalar pernos o concreto donde no se requieren conlleva a la p\u00e9rdida de millones de d\u00f3lares sin beneficio operativo real."
+        },
+        {
+          "text": "Reduce el tiempo de ciclo de excavaci\u00f3n al asegurar el \u00e1rea m\u00e1s r\u00e1pido.",
+          "isCorrect": false,
+          "rationale": "Instalar soporte excesivo e innecesario en realidad retrasa el ciclo de avance de la mina."
+        }
+      ],
+      "hint": "Enf\u00f3cate en la eficiencia del dise\u00f1o cuando se instala m\u00e1s de lo que el terreno requiere t\u00e9cnicamente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n espec\u00edfica del software Dips en el an\u00e1lisis geomec\u00e1nico?",
+      "answerOptions": [
+        {
+          "text": "Modelar la redistribuci\u00f3n de esfuerzos mediante elementos finitos.",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n corresponde a softwares de modelamiento num\u00e9rico avanzado como RS2."
+        },
+        {
+          "text": "Procesar proyecciones estereogr\u00e1ficas para identificar familias de discontinuidades.",
+          "isCorrect": true,
+          "rationale": "Dips se especializa en el an\u00e1lisis estad\u00edstico de orientaciones estructurales (buzamiento y direcci\u00f3n de buzamiento)."
+        },
+        {
+          "text": "Calcular el factor de seguridad exacto de una cu\u00f1a en 3D.",
+          "isCorrect": false,
+          "rationale": "El c\u00e1lculo del factor de seguridad de cu\u00f1as espec\u00edficas es la tarea principal de softwares como Unwedge."
+        },
+        {
+          "text": "Monitorear en tiempo real la convergencia de las paredes de un t\u00fanel.",
+          "isCorrect": false,
+          "rationale": "Dips es una herramienta de dise\u00f1o y an\u00e1lisis estructural, no un sistema de instrumentaci\u00f3n de campo."
+        }
+      ],
+      "hint": "Relaciona este software con el manejo de datos estructurales como orientaciones y polos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja ofrece el modelamiento num\u00e9rico con RS2 frente a los m\u00e9todos de equilibrio l\u00edmite?",
+      "answerOptions": [
+        {
+          "text": "Permite calcular esfuerzos principales y zonas de plastificaci\u00f3n con alta precisi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "RS2 utiliza elementos finitos para simular c\u00f3mo se redistribuyen las tensiones y d\u00f3nde se deforma la roca tras la excavaci\u00f3n."
+        },
+        {
+          "text": "Es el \u00fanico m\u00e9todo capaz de identificar visualmente las grietas en el campo.",
+          "isCorrect": false,
+          "rationale": "El modelamiento es una simulaci\u00f3n digital; la identificaci\u00f3n de grietas en campo se hace mediante mapeo geol\u00f3gico manual."
+        },
+        {
+          "text": "No requiere de datos de entrada como el m\u00f3dulo de Young o el coeficiente de Poisson.",
+          "isCorrect": false,
+          "rationale": "Al contrario, estos par\u00e1metros el\u00e1sticos son fundamentales para que el modelo num\u00e9rico sea preciso."
+        },
+        {
+          "text": "Se utiliza principalmente para determinar la longitud de los pernos de forma manual.",
+          "isCorrect": false,
+          "rationale": "RS2 es para an\u00e1lisis global de esfuerzos; el dise\u00f1o espec\u00edfico de pernos para cu\u00f1as suele apoyarse en Unwedge."
+        }
+      ],
+      "hint": "Piensa en el an\u00e1lisis de tensiones globales y el comportamiento elasto-pl\u00e1stico de la monta\u00f1a."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor de seguridad m\u00ednimo exige la norma para las labores mineras permanentes, como las rampas principales?",
+      "answerOptions": [
+        {
+          "text": "$1.0$",
+          "isCorrect": false,
+          "rationale": "Un factor de $1.0$ representa un equilibrio cr\u00edtico donde cualquier variaci\u00f3n m\u00ednima provocar\u00eda la falla."
+        },
+        {
+          "text": "$1.2$",
+          "isCorrect": false,
+          "rationale": "$1.2$ es el est\u00e1ndar aceptable para labores temporales o tajeos de explotaci\u00f3n, pero insuficiente para zonas permanentes."
+        },
+        {
+          "text": "$1.5$",
+          "isCorrect": true,
+          "rationale": "Debido al alto tr\u00e1nsito de personal y equipos, las labores permanentes requieren un margen de seguridad m\u00e1s riguroso de $1.5$."
+        },
+        {
+          "text": "$2.0$",
+          "isCorrect": false,
+          "rationale": "Aunque es muy seguro, un factor de $2.0$ suele considerarse un sobredimensionamiento excesivo en la mayor\u00eda de los dise\u00f1os est\u00e1ndar."
+        }
+      ],
+      "hint": "Es un valor que ofrece un 50% de margen sobre el punto de falla te\u00f3rica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 variables son fundamentales para el c\u00e1lculo preciso de los esfuerzos en pilares de seguridad?",
+      "answerOptions": [
+        {
+          "text": "La profundidad, la densidad del material y los par\u00e1metros el\u00e1sticos (m\u00f3dulo de Young y coeficiente de Poisson).",
+          "isCorrect": true,
+          "rationale": "Estas cuatro variables permiten determinar tanto el peso de la columna de roca como la capacidad de deformaci\u00f3n del pilar."
+        },
+        {
+          "text": "\u00danicamente el ancho del pilar y la velocidad del aire en la ventilaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La ventilaci\u00f3n no influye en el c\u00e1lculo f\u00edsico de los esfuerzos estructurales de carga sobre el pilar."
+        },
+        {
+          "text": "La cantidad de explosivos usados en el frente y el tiempo de residencia de los trabajadores.",
+          "isCorrect": false,
+          "rationale": "Aunque son factores operativos, no son las variables f\u00edsicas base para el dise\u00f1o del equilibrio del pilar."
+        },
+        {
+          "text": "El color de la roca y la rugosidad superficial de las paredes de la labor.",
+          "isCorrect": false,
+          "rationale": "Estas son observaciones cualitativas que no entran directamente en las ecuaciones matem\u00e1ticas de esfuerzos globales."
+        }
+      ],
+      "hint": "Considera tanto el peso que viene desde la superficie como la elasticidad propia de la roca."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre durante una 'falla en cadena' en un sector de pilares?",
+      "answerOptions": [
+        {
+          "text": "Los pilares vecinos absorben la carga y la estructura se vuelve m\u00e1s estable con el tiempo.",
+          "isCorrect": false,
+          "rationale": "La absorci\u00f3n de carga extra suele sobrepasar la capacidad de los pilares vecinos, llev\u00e1ndolos tambi\u00e9n a la falla."
+        },
+        {
+          "text": "La carga de un pilar que cede se transfiere violentamente a los pilares contiguos, provocando un colapso masivo.",
+          "isCorrect": true,
+          "rationale": "Es un efecto domin\u00f3 donde la sobrecarga sucesiva destruye progresivamente toda la estabilidad de un sector."
+        },
+        {
+          "text": "El sistema se autorregula mediante la deformaci\u00f3n pl\u00e1stica sin comprometer la seguridad.",
+          "isCorrect": false,
+          "rationale": "Una falla en cadena es, por definici\u00f3n, un evento incontrolado y catastr\u00f3fico, no un proceso de autorregulaci\u00f3n."
+        },
+        {
+          "text": "Se detiene autom\u00e1ticamente cuando la sismicidad alcanza un valor de $1.0$ en la escala de Richter.",
+          "isCorrect": false,
+          "rationale": "La sismicidad puede ser una consecuencia de la falla, pero no es un factor que detenga el colapso estructural."
+        }
+      ],
+      "hint": "Imagina qu\u00e9 sucede con el peso que antes sosten\u00eda una columna cuando esta desaparece repentinamente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito de medir la 'convergencia' en una labor subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "Calcular la cantidad de aire fresco necesario para los operarios.",
+          "isCorrect": false,
+          "rationale": "La convergencia mide movimiento de roca, no par\u00e1metros de ventilaci\u00f3n o calidad del aire."
+        },
+        {
+          "text": "Detectar cierres milim\u00e9tricos en las paredes o el techo para anticipar deformaciones cr\u00edticas.",
+          "isCorrect": true,
+          "rationale": "Monitorear la convergencia permite identificar si la roca se est\u00e1 moviendo hacia el interior de la excavaci\u00f3n antes de un colapso."
+        },
+        {
+          "text": "Medir la velocidad de avance de la perforadora de frente.",
+          "isCorrect": false,
+          "rationale": "La convergencia es un par\u00e1metro de monitoreo geot\u00e9cnico de estabilidad, no una medida de productividad mec\u00e1nica."
+        },
+        {
+          "text": "Verificar que el concreto lanzado haya alcanzado su resistencia m\u00e1xima.",
+          "isCorrect": false,
+          "rationale": "Aunque el concreto ayuda a controlarla, la convergencia mide el desplazamiento del macizo, no la maduraci\u00f3n del material."
+        }
+      ],
+      "hint": "Relaciona este t\u00e9rmino con el movimiento relativo de las superficies de la excavaci\u00f3n hacia su centro."
+    },
+    {
+      "question": "\u00bfQu\u00e9 indica una luz roja de alerta en un extens\u00f3metro de cinta digital durante una medici\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Que la bater\u00eda del equipo est\u00e1 totalmente cargada.",
+          "isCorrect": false,
+          "rationale": "Las luces de advertencia en equipos de precisi\u00f3n suelen indicar fallas de medici\u00f3n o excedencia de l\u00edmites, no estado de bater\u00eda llena."
+        },
+        {
+          "text": "Que la tensi\u00f3n ha excedido la capacidad del equipo o que hay una deformaci\u00f3n extrema inv\u00e1lida.",
+          "isCorrect": true,
+          "rationale": "Es una se\u00f1al de alerta cr\u00edtica que indica que el movimiento de la roca ha sobrepasado los l\u00edmites el\u00e1sticos o de medici\u00f3n."
+        },
+        {
+          "text": "Que el terreno es totalmente estable y no presenta movimientos detectables.",
+          "isCorrect": false,
+          "rationale": "La estabilidad se refleja en lecturas constantes y cercanas a cero, no en alertas de error o excedencia."
+        },
+        {
+          "text": "Que el equipo ha detectado una filtraci\u00f3n de agua importante.",
+          "isCorrect": false,
+          "rationale": "El extens\u00f3metro mide desplazamientos mec\u00e1nicos, no presencia de fluidos o humedad."
+        }
+      ],
+      "hint": "Piensa en lo que sucede con un instrumento de medici\u00f3n cuando el fen\u00f3meno que mide supera su rango m\u00e1ximo."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el valor de magnitud $1.9$ se considera un umbral cr\u00edtico en miner\u00eda profunda?",
+      "answerOptions": [
+        {
+          "text": "Porque es el punto donde la roca comienza a cambiar de color por la presi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El color no es un indicador t\u00e9cnico de sismicidad cr\u00edtica; este umbral se refiere a la integridad estructural."
+        },
+        {
+          "text": "Porque es la magnitud m\u00e1xima que puede soportar una malla electrosoldada est\u00e1ndar antes de fallar.",
+          "isCorrect": true,
+          "rationale": "A partir de este nivel de energ\u00eda s\u00edsmica, las fortificaciones est\u00e1ticas tradicionales suelen ser insuficientes para contener el da\u00f1o."
+        },
+        {
+          "text": "Porque indica que el yacimiento de mineral se ha agotado por completo.",
+          "isCorrect": false,
+          "rationale": "La sismicidad inducida es un fen\u00f3meno geomec\u00e1nico y no tiene relaci\u00f3n directa con la ley o presencia de mineral."
+        },
+        {
+          "text": "Porque es la temperatura m\u00ednima necesaria para que el shotcrete frag\u00fce.",
+          "isCorrect": false,
+          "rationale": "$1.9$ se refiere a magnitud s\u00edsmica, no a grados de temperatura ambiente o del material."
+        }
+      ],
+      "hint": "Considera la capacidad de los sistemas de soporte r\u00edgidos frente a eventos de energ\u00eda repentina."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja de la malla eslabonada (o de cadena) en zonas de alta sismicidad?",
+      "answerOptions": [
+        {
+          "text": "Es mucho m\u00e1s r\u00edgida y evita cualquier tipo de movimiento en la roca.",
+          "isCorrect": false,
+          "rationale": "Su ventaja es precisamente la opuesta a la rigidez: su capacidad de ser flexible y deformable."
+        },
+        {
+          "text": "Es m\u00e1s econ\u00f3mica que la malla electrosoldada y f\u00e1cil de instalar.",
+          "isCorrect": false,
+          "rationale": "El factor determinante para su uso no es el costo, sino su comportamiento mec\u00e1nico superior bajo cargas din\u00e1micas."
+        },
+        {
+          "text": "Se deforma sin romperse, permitiendo absorber la energ\u00eda de un estallido de rocas.",
+          "isCorrect": true,
+          "rationale": "Funciona como una red el\u00e1stica que contiene el material proyectado por un evento s\u00edsmico sin que sus uniones fallen bruscamente."
+        },
+        {
+          "text": "No requiere de pernos de anclaje para sostenerse a la pared.",
+          "isCorrect": false,
+          "rationale": "Cualquier tipo de malla requiere de pernos para transmitir las cargas al macizo rocoso de forma efectiva."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo se comporta un material el\u00e1stico frente a un impacto comparado con uno r\u00edgido y soldado."
+    },
+    {
+      "question": "\u00bfC\u00f3mo contribuye el shotcrete (concreto lanzado) al sostenimiento din\u00e1mico?",
+      "answerOptions": [
+        {
+          "text": "Sirve \u00fanicamente como una capa decorativa para iluminar mejor el t\u00fanel.",
+          "isCorrect": false,
+          "rationale": "El shotcrete tiene una funci\u00f3n estructural y de protecci\u00f3n cr\u00edtica, no es un elemento est\u00e9tico."
+        },
+        {
+          "text": "Crea una coraza que consolida los pernos, la malla y la roca en un sistema capaz de absorber ondas de choque.",
+          "isCorrect": true,
+          "rationale": "Al integrar todos los elementos, el shotcrete evita la alteraci\u00f3n de la roca y mejora la respuesta del soporte ante impactos."
+        },
+        {
+          "text": "Elimina totalmente la necesidad de usar pernos helicoidales en el techo.",
+          "isCorrect": false,
+          "rationale": "El shotcrete suele ser un complemento; en la mayor\u00eda de los casos, los pernos siguen siendo necesarios para el anclaje profundo."
+        },
+        {
+          "text": "Aumenta la porosidad de la roca para que el agua drene m\u00e1s r\u00e1pido.",
+          "isCorrect": false,
+          "rationale": "El shotcrete act\u00faa como una barrera sellante, reduciendo la exposici\u00f3n de la roca a la humedad y el aire."
+        }
+      ],
+      "hint": "Visualiza c\u00f3mo una capa de concreto proyectado une los diferentes componentes del soporte externo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 se busca lograr al aplicar un sistema de sostenimiento 'activo'?",
+      "answerOptions": [
+        {
+          "text": "Esperar a que la roca falle para instalar los elementos de seguridad.",
+          "isCorrect": false,
+          "rationale": "Eso ser\u00eda un enfoque reactivo; el sostenimiento activo busca prevenir la falla antes de que ocurra."
+        },
+        {
+          "text": "Transferir carga al macizo para que este forme un arco de soporte natural y se sostenga a s\u00ed mismo.",
+          "isCorrect": true,
+          "rationale": "Los sistemas activos inyectan tensi\u00f3n y confinan la roca, mejorando su competencia estructural de manera inmediata."
+        },
+        {
+          "text": "Reducir el peso de la monta\u00f1a mediante la perforaci\u00f3n de huecos vac\u00edos.",
+          "isCorrect": false,
+          "rationale": "La perforaci\u00f3n no reduce significativamente el peso global; su fin es permitir la instalaci\u00f3n de elementos de refuerzo."
+        },
+        {
+          "text": "Aislar t\u00e9rmicamente la mina para evitar el calor en niveles profundos.",
+          "isCorrect": false,
+          "rationale": "El sostenimiento activo tiene objetivos exclusivamente mec\u00e1nicos y estructurales."
+        }
+      ],
+      "hint": "Piensa en el concepto de 'confinamiento' y en c\u00f3mo hacer que la roca trabaje a nuestro favor."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito del monitoreo en tiempo real en la gesti\u00f3n geomec\u00e1nica moderna?",
+      "answerOptions": [
+        {
+          "text": "Validar si el comportamiento real del macizo coincide con las predicciones de los modelos digitales.",
+          "isCorrect": true,
+          "rationale": "El monitoreo cierra el ciclo de retroalimentaci\u00f3n, permitiendo ajustar los dise\u00f1os si la roca se comporta distinto a lo simulado."
+        },
+        {
+          "text": "Sustituir por completo el mapeo geol\u00f3gico de campo para ahorrar tiempo.",
+          "isCorrect": false,
+          "rationale": "El monitoreo complementa el mapeo, pero no puede reemplazar el levantamiento inicial de las caracter\u00edsticas f\u00edsicas de la roca."
+        },
+        {
+          "text": "Controlar de forma remota las m\u00e1quinas perforadoras para que no da\u00f1en la roca.",
+          "isCorrect": false,
+          "rationale": "Aunque existe la teleoperaci\u00f3n, el monitoreo geot\u00e9cnico se centra en la respuesta de la monta\u00f1a, no en el control de maquinaria."
+        },
+        {
+          "text": "Asegurar que la ley del mineral sea la misma que se report\u00f3 en el modelo geol\u00f3gico.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n geomec\u00e1nica se ocupa de la estabilidad f\u00edsica, no de la calidad metal\u00fargica o econ\u00f3mica del mineral."
+        }
+      ],
+      "hint": "Considera la relaci\u00f3n entre lo que planeamos en el software y lo que sucede realmente en el t\u00fanel."
+    },
+    {
+      "question": "En el contexto de la clasificaci\u00f3n de dureza de la matriz rocosa, \u00bfcu\u00e1l es el rango de resistencia para una roca considerada 'muy blanda'?",
+      "answerOptions": [
+        {
+          "text": "Menos de $1\\ MPa$.",
+          "isCorrect": false,
+          "rationale": "Rocas con menos de $1\\ MPa$ suelen clasificarse m\u00e1s como suelos o materiales extremadamente degradados."
+        },
+        {
+          "text": "Entre $5$ y $25\\ MPa$.",
+          "isCorrect": true,
+          "rationale": "Este rango corresponde a rocas de baja competencia que requieren una atenci\u00f3n especial en el dise\u00f1o de soporte."
+        },
+        {
+          "text": "Exactamente $100\\ MPa$.",
+          "isCorrect": false,
+          "rationale": "$100\\ MPa$ representa una roca de dureza media a alta, lejos de ser calificada como muy blanda."
+        },
+        {
+          "text": "M\u00e1s de $250\\ MPa$.",
+          "isCorrect": false,
+          "rationale": "Los valores superiores a $250\\ MPa$ se reservan para terrenos extremadamente duros y competentes."
+        }
+      ],
+      "hint": "Es el escal\u00f3n m\u00e1s bajo mencionado para materiales que a\u00fan se categorizan como roca en el espectro geomec\u00e1nico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple el factor JSA dentro del sistema de clasificaci\u00f3n GSI?",
+      "answerOptions": [
+        {
+          "text": "Medir la cantidad de agua que fluye por las fracturas cada minuto.",
+          "isCorrect": false,
+          "rationale": "El flujo de agua es un par\u00e1metro hidrol\u00f3gico que, aunque relevante, no es el foco del factor JSA."
+        },
+        {
+          "text": "Ayudar en la transici\u00f3n hacia el modelamiento num\u00e9rico para estimar propiedades mec\u00e1nicas complejas.",
+          "isCorrect": true,
+          "rationale": "El JSA es un aliado fundamental para derivar propiedades de la masa rocosa necesarias en simulaciones digitales avanzadas."
+        },
+        {
+          "text": "Determinar el precio del acero necesario para los pernos de anclaje.",
+          "isCorrect": false,
+          "rationale": "Los sistemas geomec\u00e1nicos analizan propiedades f\u00edsicas, no variables econ\u00f3micas o de mercado."
+        },
+        {
+          "text": "Contar el n\u00famero exacto de fracturas por cada metro lineal de n\u00facleo de perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde m\u00e1s al \u00edndice RQD o a la frecuencia de fracturas que al factor JSA."
+        }
+      ],
+      "hint": "Relaci\u00f3nalo con la preparaci\u00f3n de datos para softwares de simulaci\u00f3n por elementos finitos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el \u00edndice RQD en la caracterizaci\u00f3n de un macizo rocoso?",
+      "answerOptions": [
+        {
+          "text": "La rugosidad de las caras de una fractura espec\u00edfica.",
+          "isCorrect": false,
+          "rationale": "La rugosidad se mide con otros par\u00e1metros espec\u00edficos; el RQD se centra en la integridad de los n\u00facleos de perforaci\u00f3n."
+        },
+        {
+          "text": "El porcentaje de recuperaci\u00f3n de trozos de n\u00facleo mayores a $10\\ cm$ que indica la calidad del macizo.",
+          "isCorrect": true,
+          "rationale": "El RQD (Rock Quality Designation) es un indicador est\u00e1ndar para evaluar cu\u00e1n fracturada est\u00e1 la roca a partir de sondajes."
+        },
+        {
+          "text": "La resistencia a la tracci\u00f3n pura de un bloque de roca virgen.",
+          "isCorrect": false,
+          "rationale": "El RQD eval\u00faa la fracturaci\u00f3n estructural, no la resistencia a la tracci\u00f3n del material intacto."
+        },
+        {
+          "text": "La distancia promedio entre dos familias de discontinuidades paralelas.",
+          "isCorrect": false,
+          "rationale": "Esa es la definici\u00f3n de espaciamiento, la cual es un par\u00e1metro distinto pero complementario al RQD."
+        }
+      ],
+      "hint": "Se obtiene analizando los testigos o n\u00facleos extra\u00eddos mediante perforaci\u00f3n diamantina."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Caracterizaci\u00f3n del macizo rocoso",
+      "Sistemas de clasificaci\u00f3n geomec\u00e1nica (RMR, GSI)",
+      "Modelamiento digital y num\u00e9rico",
+      "Dise\u00f1o de pilares de seguridad",
+      "Sistemas de sostenimiento y monitoreo"
+    ],
+    "followUp": [
+      "Mec\u00e1nica de rocas aplicada a la estabilidad de taludes",
+      "An\u00e1lisis de sismicidad inducida en miner\u00eda profunda",
+      "Instrumentaci\u00f3n geot\u00e9cnica avanzada",
+      "Dise\u00f1o de mezclas de concreto lanzado (Shotcrete)"
+    ]
+  }
+}

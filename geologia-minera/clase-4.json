@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de la exploraci\u00f3n geol\u00f3gica desde una perspectiva de gesti\u00f3n de activos?",
+      "answerOptions": [
+        {
+          "text": "Reducir sistem\u00e1ticamente la incertidumbre para transformar lo desconocido en activos financieros.",
+          "isCorrect": true,
+          "rationale": "La geolog\u00eda minera busca convertir la incertidumbre del subsuelo en datos y modelos que permitan gestionar el yacimiento como un activo econ\u00f3mico real."
+        },
+        {
+          "text": "Eliminar por completo el riesgo de p\u00e9rdida patrimonial mediante la observaci\u00f3n superficial.",
+          "isCorrect": false,
+          "rationale": "La observaci\u00f3n superficial no puede eliminar el riesgo total, ya que gran parte del valor yace en estructuras profundas e invisibles."
+        },
+        {
+          "text": "Recolectar la mayor cantidad de muestras de roca posibles sin importar su ubicaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La recolecci\u00f3n de muestras debe ser estrat\u00e9gica y sistem\u00e1tica, no simplemente acumulativa, para ser \u00fatil financieramente."
+        },
+        {
+          "text": "Sustituir el capital de inversi\u00f3n por modelos te\u00f3ricos de geolog\u00eda cl\u00e1sica.",
+          "isCorrect": false,
+          "rationale": "Los modelos geol\u00f3gicos no sustituyen la inversi\u00f3n, sino que sirven para justificar y dirigir las inversiones de capital agresivo."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre el conocimiento del subsuelo y la toma de decisiones econ\u00f3micas."
+    },
+    {
+      "question": "En la jerarqu\u00eda ineludible para justificar una inversi\u00f3n minera, \u00bfqu\u00e9 fase sigue inmediatamente despu\u00e9s de la prospecci\u00f3n de anomal\u00edas?",
+      "answerOptions": [
+        {
+          "text": "Explorar los vol\u00famenes de mineralizaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Una vez identificada una anomal\u00eda, el siguiente paso l\u00f3gico y t\u00e9cnico es determinar la magnitud y el volumen del dep\u00f3sito."
+        },
+        {
+          "text": "Evaluar la viabilidad financiera final.",
+          "isCorrect": false,
+          "rationale": "La evaluaci\u00f3n de viabilidad es el paso final de la jerarqu\u00eda, que solo ocurre despu\u00e9s de conocer los vol\u00famenes explorados."
+        },
+        {
+          "text": "Iniciar la extracci\u00f3n a escala industrial.",
+          "isCorrect": false,
+          "rationale": "La extracci\u00f3n industrial no puede iniciarse sin haber validado previamente los vol\u00famenes y la viabilidad t\u00e9cnica."
+        },
+        {
+          "text": "Ejecutar el cierre definitivo de la mina.",
+          "isCorrect": false,
+          "rationale": "El cierre es la etapa final de la vida de una mina, no una fase intermedia de la jerarqu\u00eda de inversi\u00f3n inicial."
+        }
+      ],
+      "hint": "Piense en el orden l\u00f3gico que va de detectar algo inusual a determinar cu\u00e1nto de eso existe."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica distintiva de la exploraci\u00f3n directa en el campo?",
+      "answerOptions": [
+        {
+          "text": "El contacto f\u00edsico e in situ con afloramientos y estructuras geol\u00f3gicas.",
+          "isCorrect": true,
+          "rationale": "La exploraci\u00f3n directa se basa en la evidencia emp\u00edrica obtenida mediante el mapeo, muestreo y excavaciones en el terreno."
+        },
+        {
+          "text": "El uso exclusivo de modelos matem\u00e1ticos para predecir la ubicaci\u00f3n del mineral.",
+          "isCorrect": false,
+          "rationale": "El modelamiento matem\u00e1tico es una herramienta de apoyo o parte de m\u00e9todos indirectos, no la esencia de la exploraci\u00f3n directa f\u00edsica."
+        },
+        {
+          "text": "La dependencia total de se\u00f1ales ocultas captadas desde sat\u00e9lites.",
+          "isCorrect": false,
+          "rationale": "Las se\u00f1ales remotas pertenecen a m\u00e9todos indirectos; la exploraci\u00f3n directa requiere presencia f\u00edsica sobre el terreno."
+        },
+        {
+          "text": "La interpretaci\u00f3n de anomal\u00edas f\u00edsicas sin tocar la roca madre.",
+          "isCorrect": false,
+          "rationale": "Interpretar anomal\u00edas sin contacto f\u00edsico define a la geof\u00edsica o m\u00e9todos indirectos, lo opuesto a la exploraci\u00f3n directa."
+        }
+      ],
+      "hint": "Se asocia con la frase coloquial de 'poner las botas sobre el terreno'."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que la geof\u00edsica es un m\u00e9todo probabil\u00edstico y no determin\u00edstico?",
+      "answerOptions": [
+        {
+          "text": "Porque utiliza principios f\u00edsicos para inferir modelos que manejan riesgos y costos, similar a un pron\u00f3stico del clima.",
+          "isCorrect": true,
+          "rationale": "La geof\u00edsica mide respuestas f\u00edsicas para crear modelos de probabilidad sobre lo que existe en el subsuelo, no certezas absolutas."
+        },
+        {
+          "text": "Porque siempre ofrece una radiograf\u00eda perfecta y exacta de la composici\u00f3n de la Tierra.",
+          "isCorrect": false,
+          "rationale": "La geof\u00edsica no proporciona im\u00e1genes exactas, sino interpretaciones basadas en anomal\u00edas de propiedades f\u00edsicas."
+        },
+        {
+          "text": "Porque se basa \u00fanicamente en la suerte del ge\u00f3logo al elegir el punto de medici\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque hay incertidumbre, el m\u00e9todo se basa en ciencia sofisticada y modelos matem\u00e1ticos, no en el azar."
+        },
+        {
+          "text": "Porque los instrumentos de medici\u00f3n suelen fallar en el $100\\%$ de los casos.",
+          "isCorrect": false,
+          "rationale": "Los instrumentos son precisos en medir propiedades; la naturaleza probabil\u00edstica reside en la interpretaci\u00f3n del modelo resultante."
+        }
+      ],
+      "hint": "Recuerde la analog\u00eda utilizada con la meteorolog\u00eda."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal limitaci\u00f3n del m\u00e9todo gravim\u00e9trico en terrenos con relieve accidentado?",
+      "answerOptions": [
+        {
+          "text": "Su alt\u00edsima dependencia de la topograf\u00eda, que puede distorsionar los datos de densidad.",
+          "isCorrect": true,
+          "rationale": "Las variaciones bruscas en el relieve afectan las mediciones de gravedad, dificultando la detecci\u00f3n de variaciones de densidad de los materiales."
+        },
+        {
+          "text": "Su incapacidad para detectar la presencia de hidrocarburos.",
+          "isCorrect": false,
+          "rationale": "El m\u00e9todo gravim\u00e9trico es, de hecho, muy \u00fatil para localizar hidrocarburos y gravas."
+        },
+        {
+          "text": "Su extrema sensibilidad a las l\u00edneas de alta tensi\u00f3n el\u00e9ctrica.",
+          "isCorrect": false,
+          "rationale": "La sensibilidad a ruidos el\u00e9ctricos o magn\u00e9ticos es caracter\u00edstica del m\u00e9todo magn\u00e9tico, no del gravim\u00e9trico."
+        },
+        {
+          "text": "La necesidad de utilizar explosivos para generar ondas de choque.",
+          "isCorrect": false,
+          "rationale": "El uso de ondas de choque es propio del m\u00e9todo s\u00edsmico, no de la medici\u00f3n de gravedad."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el relieve de una monta\u00f1a podr\u00eda influir en una medici\u00f3n que depende de la masa y la distancia."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo espec\u00edfico presentan las arcillas en el uso de m\u00e9todos el\u00e9ctricos para la b\u00fasqueda de agua?",
+      "answerOptions": [
+        {
+          "text": "Su alta conductividad puede mimetizarse con la firma el\u00e9ctrica del agua, generando falsos positivos.",
+          "isCorrect": true,
+          "rationale": "Las arcillas son conductivas y tienen baja resistividad, lo que puede enga\u00f1ar al int\u00e9rprete haci\u00e9ndole creer que ha encontrado un acu\u00edfero."
+        },
+        {
+          "text": "Su capacidad de absorber todas las ondas magn\u00e9ticas del equipo.",
+          "isCorrect": false,
+          "rationale": "El problema con las arcillas en m\u00e9todos el\u00e9ctricos es su conductividad, no su interacci\u00f3n con campos magn\u00e9ticos."
+        },
+        {
+          "text": "Su dureza extrema que impide la penetraci\u00f3n de la corriente el\u00e9ctrica.",
+          "isCorrect": false,
+          "rationale": "Las arcillas no son duras en t\u00e9rminos de resistividad el\u00e9ctrica; al contrario, facilitan el paso de la corriente."
+        },
+        {
+          "text": "La emisi\u00f3n de gases t\u00f3xicos al entrar en contacto con los electrodos.",
+          "isCorrect": false,
+          "rationale": "No existe una reacci\u00f3n qu\u00edmica que genere gases t\u00f3xicos por el contacto de electrodos de medici\u00f3n con arcillas."
+        }
+      ],
+      "hint": "Considere la propiedad f\u00edsica de baja resistividad que comparten ciertos minerales y los acu\u00edferos."
+    },
+    {
+      "question": "En el contexto de la formaci\u00f3n de diamantes, \u00bfcu\u00e1l es el segundo paso cr\u00edtico para que estas gemas lleguen a la superficie?",
+      "answerOptions": [
+        {
+          "text": "Un ascenso magm\u00e1tico r\u00e1pido a trav\u00e9s de chimeneas volc\u00e1nicas llamadas quimberlitas.",
+          "isCorrect": true,
+          "rationale": "Tras formarse en el manto, los diamantes requieren de un evento volc\u00e1nico violento y veloz para no transformarse en grafito durante el ascenso."
+        },
+        {
+          "text": "La erosi\u00f3n constante de la roca madre durante millones de a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "La erosi\u00f3n es un paso posterior que permite la formaci\u00f3n de yacimientos secundarios, no el ascenso inicial desde el manto."
+        },
+        {
+          "text": "La cristalizaci\u00f3n lenta en las capas m\u00e1s fr\u00edas de la corteza terrestre.",
+          "isCorrect": false,
+          "rationale": "Los diamantes se forman en condiciones extremas en el manto profundo, no por enfriamiento lento en la corteza superficial."
+        },
+        {
+          "text": "El transporte sedimentario a trav\u00e9s de grandes distancias fluviales.",
+          "isCorrect": false,
+          "rationale": "El transporte fluvial ocurre despu\u00e9s de que el diamante ya ha alcanzado la superficie o niveles erosivos."
+        }
+      ],
+      "hint": "Se trata de un evento geol\u00f3gico violento que act\u00faa como un 'ascensor' desde las profundidades."
+    },
+    {
+      "question": "\u00bfQu\u00e9 propiedad geol\u00f3gica permite que un diamante se encuentre \u00edntegro a miles de kil\u00f3metros de su origen volc\u00e1nico?",
+      "answerOptions": [
+        {
+          "text": "Su dureza de $10$ en la escala de Mohs, que lo hace extremadamente resistente al desgaste.",
+          "isCorrect": true,
+          "rationale": "La dureza m\u00e1xima del diamante impide que se degrade o pulverice durante el transporte erosivo que destruye a otros minerales."
+        },
+        {
+          "text": "Su capacidad de flotar en el agua debido a su estructura cristalina.",
+          "isCorrect": false,
+          "rationale": "Los diamantes tienen una densidad alta y no flotan; se asientan en el fondo de cauces y cuencas."
+        },
+        {
+          "text": "Su reactividad qu\u00edmica con el lodo de los r\u00edos que crea una capa protectora.",
+          "isCorrect": false,
+          "rationale": "El diamante es qu\u00edmicamente inerte en condiciones superficiales; su preservaci\u00f3n es f\u00edsica, no por reacciones qu\u00edmicas."
+        },
+        {
+          "text": "Su permeabilidad magn\u00e9tica que lo atrae hacia las cuencas secundarias.",
+          "isCorrect": false,
+          "rationale": "Los diamantes no son significativamente magn\u00e9ticos; su transporte depende de la din\u00e1mica sedimentaria y la erosi\u00f3n."
+        }
+      ],
+      "hint": "Es la calificaci\u00f3n m\u00e1xima de resistencia al rayado en la naturaleza."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia operativa entre los acu\u00edferos libres y los acu\u00edferos confinados?",
+      "answerOptions": [
+        {
+          "text": "Los libres son vulnerables a la contaminaci\u00f3n superficial, mientras que los confinados tienen tiempos de recarga de milenios.",
+          "isCorrect": true,
+          "rationale": "La conexi\u00f3n directa de los libres con la superficie los hace vulnerables, mientras que el aislamiento de los confinados limita su renovaci\u00f3n."
+        },
+        {
+          "text": "Los confinados se encuentran siempre en la superficie y los libres en el manto terrestre.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s en t\u00e9rminos de profundidad; los libres est\u00e1n arriba y los confinados est\u00e1n sellados por estratos impermeables m\u00e1s profundos."
+        },
+        {
+          "text": "Los acu\u00edferos libres no contienen agua potable debido a su alta salinidad.",
+          "isCorrect": false,
+          "rationale": "La salinidad suele aumentar con la profundidad y el tiempo de residencia, por lo que los acu\u00edferos libres suelen ser menos salinos que los profundos."
+        },
+        {
+          "text": "Los acu\u00edferos confinados no requieren de m\u00e9todos geof\u00edsicos para su detecci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Debido a que est\u00e1n ocultos bajo capas impermeables, los m\u00e9todos geof\u00edsicos son cruciales para localizar acu\u00edferos confinados."
+        }
+      ],
+      "hint": "Piense en la protecci\u00f3n natural contra contaminantes y la velocidad con la que se llenan de nuevo."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste t\u00e9cnicamente el m\u00e9todo de Sondeo El\u00e9ctrico Vertical (SEV)?",
+      "answerOptions": [
+        {
+          "text": "Inyectar corriente mediante cuatro electrodos para medir la resistividad y detectar la napa fre\u00e1tica.",
+          "isCorrect": true,
+          "rationale": "El SEV utiliza la respuesta el\u00e9ctrica del subsuelo a una corriente inyectada para identificar capas de agua seg\u00fan su resistividad."
+        },
+        {
+          "text": "Utilizar explosivos para medir la velocidad de las ondas s\u00edsmicas en el agua.",
+          "isCorrect": false,
+          "rationale": "Ese es el m\u00e9todo s\u00edsmico de refracci\u00f3n o reflexi\u00f3n, no el sondeo el\u00e9ctrico vertical."
+        },
+        {
+          "text": "Medir la atracci\u00f3n gravitacional de las masas de agua subterr\u00e1nea.",
+          "isCorrect": false,
+          "rationale": "La medici\u00f3n de la gravedad corresponde al m\u00e9todo gravim\u00e9trico, no al SEV."
+        },
+        {
+          "text": "Extraer muestras de lodo mediante perforaci\u00f3n de percusi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El SEV es un m\u00e9todo geof\u00edsico indirecto de superficie; no implica la extracci\u00f3n f\u00edsica de muestras por perforaci\u00f3n."
+        }
+      ],
+      "hint": "Se basa en la propiedad de los materiales de oponerse o facilitar el paso de la electricidad."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre con el ox\u00edgeno disuelto en el agua subterr\u00e1nea cuando esta alcanza grandes profundidades (proceso redox)?",
+      "answerOptions": [
+        {
+          "text": "El agua pierde su ox\u00edgeno disuelto, permitiendo la proliferaci\u00f3n de bacterias reductoras de sulfato.",
+          "isCorrect": true,
+          "rationale": "A grandes profundidades y sin contacto con la atm\u00f3sfera, el ambiente se vuelve reductor, cambiando la qu\u00edmica del agua."
+        },
+        {
+          "text": "El contenido de ox\u00edgeno aumenta dr\u00e1sticamente debido a la presi\u00f3n del subsuelo.",
+          "isCorrect": false,
+          "rationale": "La presi\u00f3n no genera ox\u00edgeno; por el contrario, los procesos qu\u00edmicos consumen el ox\u00edgeno disponible sin posibilidad de recarga."
+        },
+        {
+          "text": "El ox\u00edgeno se transforma en di\u00f3xido de carbono ($CO_2$) mediante fotos\u00edntesis subterr\u00e1nea.",
+          "isCorrect": false,
+          "rationale": "No existe fotos\u00edntesis en el subsuelo profundo debido a la ausencia total de luz solar."
+        },
+        {
+          "text": "El ox\u00edgeno se solidifica formando pepitas de \u00f3xido de hierro puro.",
+          "isCorrect": false,
+          "rationale": "El ox\u00edgeno es un gas disuelto; su consumo en reacciones redox no resulta en la solidificaci\u00f3n del gas en pepitas puras."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede en un ambiente aislado del aire por mucho tiempo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un subproducto de la alteraci\u00f3n de la anortita que puede reducir la permeabilidad de un acu\u00edfero?",
+      "answerOptions": [
+        {
+          "text": "Arcillas.",
+          "isCorrect": true,
+          "rationale": "La reacci\u00f3n qu\u00edmica de la anortita con el agua y el $CO_2$ produce arcillas que pueden taponar los poros de la roca."
+        },
+        {
+          "text": "Diamantes sint\u00e9ticos.",
+          "isCorrect": false,
+          "rationale": "Los diamantes no son subproductos de la alteraci\u00f3n de silicatos como la anortita en condiciones de acu\u00edferos."
+        },
+        {
+          "text": "Hidrocarburos ligeros.",
+          "isCorrect": false,
+          "rationale": "Los hidrocarburos provienen de materia org\u00e1nica, no de la alteraci\u00f3n mineral de rocas \u00edgneas como la anortita."
+        },
+        {
+          "text": "Oro nativo.",
+          "isCorrect": false,
+          "rationale": "La alteraci\u00f3n de la anortita produce minerales secundarios comunes (arcillas, calcita, s\u00edlice), no metales preciosos."
+        }
+      ],
+      "hint": "Se trata de un material de grano muy fino que suele causar problemas de conductividad y obstrucci\u00f3n."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 situaciones se prefiere el uso de tuber\u00edas de di\u00e1metro PQ en perforaci\u00f3n diamantina?",
+      "answerOptions": [
+        {
+          "text": "En zonas superficiales que se encuentran m\u00e1s fracturadas.",
+          "isCorrect": true,
+          "rationale": "El di\u00e1metro PQ, al ser m\u00e1s grande, ofrece mayor estabilidad y mejor recuperaci\u00f3n de muestra en terrenos inestables o superficiales."
+        },
+        {
+          "text": "\u00danicamente en perforaciones que superan los $2000$ metros de profundidad.",
+          "isCorrect": false,
+          "rationale": "A mayores profundidades se suelen usar di\u00e1metros m\u00e1s peque\u00f1os como HQ o NQ para reducir la fricci\u00f3n y el peso de la sarta."
+        },
+        {
+          "text": "Cuando se requiere la m\u00e1xima velocidad de rotaci\u00f3n posible.",
+          "isCorrect": false,
+          "rationale": "El mayor di\u00e1metro PQ generalmente implica velocidades de rotaci\u00f3n menores comparadas con di\u00e1metros m\u00e1s delgados."
+        },
+        {
+          "text": "Para perforar exclusivamente a trav\u00e9s de capas de agua pura.",
+          "isCorrect": false,
+          "rationale": "La perforaci\u00f3n diamantina se usa para obtener testigos de roca, no para bombear agua, independientemente del di\u00e1metro."
+        }
+      ],
+      "hint": "Recuerde la progresi\u00f3n de di\u00e1metros desde la superficie hacia la profundidad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la ventaja cr\u00edtica de la perforaci\u00f3n diamantina orientada frente a la no orientada?",
+      "answerOptions": [
+        {
+          "text": "Permite conocer el buzamiento y la direcci\u00f3n exacta de las estructuras en un modelo 3D.",
+          "isCorrect": true,
+          "rationale": "La orientaci\u00f3n del testigo proporciona la referencia espacial necesaria para reconstruir con precisi\u00f3n la geometr\u00eda del yacimiento."
+        },
+        {
+          "text": "Es significativamente m\u00e1s barata y r\u00e1pida de ejecutar.",
+          "isCorrect": false,
+          "rationale": "La perforaci\u00f3n orientada es m\u00e1s compleja y costosa que la no orientada debido a los procedimientos adicionales de marcado."
+        },
+        {
+          "text": "Evita por completo el desgaste de las coronas de diamante.",
+          "isCorrect": false,
+          "rationale": "La orientaci\u00f3n es una t\u00e9cnica de medici\u00f3n; no influye en el desgaste f\u00edsico de las herramientas de corte por abrasi\u00f3n."
+        },
+        {
+          "text": "Permite extraer muestras de gas en lugar de roca s\u00f3lida.",
+          "isCorrect": false,
+          "rationale": "Ambos tipos de perforaci\u00f3n diamantina est\u00e1n dise\u00f1ados para extraer testigos (muestras s\u00f3lidas) de roca."
+        }
+      ],
+      "hint": "Piense en la necesidad de ubicar una falla o veta en el espacio tridimensional."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la estrategia operativa de 'blending' o mezcla en miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Combinar mineral de alta ley con mineral de baja ley para optimizar el valor presente neto y la alimentaci\u00f3n de la planta.",
+          "isCorrect": true,
+          "rationale": "El blending busca homogenizar la alimentaci\u00f3n a la planta para mantener una operaci\u00f3n estable y maximizar la rentabilidad del activo."
+        },
+        {
+          "text": "Mezclar residuos qu\u00edmicos con agua de r\u00edo para diluir su impacto ambiental.",
+          "isCorrect": false,
+          "rationale": "Esa pr\u00e1ctica ser\u00eda ilegal y destructiva; el blending se refiere a la gesti\u00f3n de la ley del mineral para procesamiento."
+        },
+        {
+          "text": "Juntar diamantes con otros metales preciosos para aumentar su dureza.",
+          "isCorrect": false,
+          "rationale": "La dureza es una propiedad intr\u00ednseca del mineral y no se modifica mezcl\u00e1ndolo con otros metales."
+        },
+        {
+          "text": "Separar estrictamente el mineral del tajo abierto de cualquier otro material.",
+          "isCorrect": false,
+          "rationale": "El blending es precisamente lo opuesto a la separaci\u00f3n estricta: es la combinaci\u00f3n estrat\u00e9gica de diferentes fuentes."
+        }
+      ],
+      "hint": "Considere c\u00f3mo se puede equilibrar el volumen masivo de baja calidad con el volumen peque\u00f1o de alta calidad."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la 'licencia social para operar' se considera un riesgo de fatalidad corporativa?",
+      "answerOptions": [
+        {
+          "text": "Porque su ausencia puede provocar el cierre forzado del proyecto y la p\u00e9rdida total del capital invertido.",
+          "isCorrect": true,
+          "rationale": "Sin el apoyo de las comunidades y una gesti\u00f3n \u00e9tica, los proyectos pueden ser clausurados permanentemente por conflictos sociales."
+        },
+        {
+          "text": "Porque se refiere a la muerte f\u00edsica de todos los accionistas de la empresa.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino 'fatalidad corporativa' es una met\u00e1fora para el fracaso total y cierre del negocio, no un evento biol\u00f3gico masivo."
+        },
+        {
+          "text": "Porque obliga a la empresa a pagar impuestos del $100\\%$ sobre sus ganancias.",
+          "isCorrect": false,
+          "rationale": "Aunque implica costos de responsabilidad social, no se traduce en una tasa impositiva confiscatoria total."
+        },
+        {
+          "text": "Porque es un documento legal que expira cada 24 horas.",
+          "isCorrect": false,
+          "rationale": "La licencia social es un proceso continuo de relaci\u00f3n y legitimidad, no un documento de renovaci\u00f3n diaria."
+        }
+      ],
+      "hint": "Piense en las consecuencias extremas de no compartir beneficios o tener errores ambientales graves."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta digital se utiliza para sintetizar millones de puntos de datos en un 'gemelo digital' del yacimiento?",
+      "answerOptions": [
+        {
+          "text": "Softwares especializados como Deswick, Vulcan o Datamine.",
+          "isCorrect": true,
+          "rationale": "Estas plataformas permiten integrar datos geol\u00f3gicos, geof\u00edsicos y de ingenier\u00eda para crear modelos tridimensionales predictivos."
+        },
+        {
+          "text": "Procesadores de texto b\u00e1sicos para redactar informes de campo.",
+          "isCorrect": false,
+          "rationale": "Los procesadores de texto no tienen la capacidad de modelamiento matem\u00e1tico o espacial requerida para un gemelo digital."
+        },
+        {
+          "text": "Hojas de c\u00e1lculo simples para llevar el control de asistencia del personal.",
+          "isCorrect": false,
+          "rationale": "Las hojas de c\u00e1lculo son limitadas para la complejidad de un modelo de bloques tridimensional y la s\u00edntesis de datos geoespaciales."
+        },
+        {
+          "text": "Redes sociales para difundir hallazgos de forma instant\u00e1nea.",
+          "isCorrect": false,
+          "rationale": "Las redes sociales son canales de comunicaci\u00f3n, no herramientas de modelamiento t\u00e9cnico-geol\u00f3gico."
+        }
+      ],
+      "hint": "Son plataformas de ingenier\u00eda y geolog\u00eda de vanguardia mencionadas en el proceso de modelamiento."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se clasifican los yacimientos de diamantes que se encuentran en lechos marinos o r\u00edos aluviales?",
+      "answerOptions": [
+        {
+          "text": "Yacimientos secundarios.",
+          "isCorrect": true,
+          "rationale": "Los dep\u00f3sitos formados por la erosi\u00f3n y transporte de la roca madre hacia cuencas sedimentarias son denominados secundarios."
+        },
+        {
+          "text": "Yacimientos primarios.",
+          "isCorrect": false,
+          "rationale": "Los primarios son las fuentes volc\u00e1nicas originales (quimberlitas) donde el diamante se encuentra en su roca madre."
+        },
+        {
+          "text": "Yacimientos metam\u00f3rficos.",
+          "isCorrect": false,
+          "rationale": "Aunque el diamante requiere presi\u00f3n, su clasificaci\u00f3n minera principal se divide en primarios (volc\u00e1nicos) y secundarios (sedimentarios)."
+        },
+        {
+          "text": "Yacimientos atmosf\u00e9ricos.",
+          "isCorrect": false,
+          "rationale": "No existen dep\u00f3sitos minerales en la atm\u00f3sfera; todos son geol\u00f3gicos o superficiales."
+        }
+      ],
+      "hint": "Considere si el mineral est\u00e1 en su lugar de origen o si ha sido transportado por la naturaleza."
+    },
+    {
+      "question": "En el caso de la mina Orco Pampa, \u00bfqu\u00e9 oblig\u00f3 a la inyecci\u00f3n de capital agresivo tras 50 a\u00f1os de operaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "El colapso de sus reservas, llegando a un nivel cr\u00edtico de agotamiento.",
+          "isCorrect": true,
+          "rationale": "Cuando las reservas se agotan (rascando la base de la olla), se requiere inversi\u00f3n urgente en exploraci\u00f3n para evitar el cierre."
+        },
+        {
+          "text": "La decisi\u00f3n de cambiar todo el oro por diamantes sint\u00e9ticos.",
+          "isCorrect": false,
+          "rationale": "Las minas no cambian su naturaleza mineral\u00f3gica por decisi\u00f3n administrativa; la inversi\u00f3n fue para encontrar m\u00e1s del recurso original."
+        },
+        {
+          "text": "El descubrimiento de una civilizaci\u00f3n subterr\u00e1nea en los niveles profundos.",
+          "isCorrect": false,
+          "rationale": "Esta es una opci\u00f3n fantasiosa; la inversi\u00f3n minera real responde a la escasez de reservas o mejoras operativas."
+        },
+        {
+          "text": "La reducci\u00f3n del precio de la energ\u00eda el\u00e9ctrica a nivel mundial.",
+          "isCorrect": false,
+          "rationale": "Una reducci\u00f3n de costos de energ\u00eda facilitar\u00eda la operaci\u00f3n, pero no 'obliga' a una inyecci\u00f3n de capital agresivo en exploraci\u00f3n."
+        }
+      ],
+      "hint": "Se relaciona con el estado final de los activos extra\u00edbles despu\u00e9s de d\u00e9cadas de uso."
+    },
+    {
+      "question": "\u00bfQu\u00e9 m\u00e9todo se utiliza para la recuperaci\u00f3n de diamantes basada en su densidad superior a la de la grava com\u00fan?",
+      "answerOptions": [
+        {
+          "text": "Concentraci\u00f3n gravim\u00e9trica.",
+          "isCorrect": true,
+          "rationale": "Debido a que el diamante es m\u00e1s pesado que los sedimentos circundantes, se puede separar f\u00edsicamente mediante su peso relativo."
+        },
+        {
+          "text": "Flotaci\u00f3n por espuma con reactivos cianurados.",
+          "isCorrect": false,
+          "rationale": "La flotaci\u00f3n y el cianuro se asocian com\u00fanmente con el oro y metales b\u00e1sicos, no con la recuperaci\u00f3n f\u00edsica de diamantes por peso."
+        },
+        {
+          "text": "Lixiviaci\u00f3n bacteriana en pilas de gran tama\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Los diamantes son inertes y no pueden ser 'disueltos' por bacterias; se recuperan mediante m\u00e9todos f\u00edsicos."
+        },
+        {
+          "text": "Destilaci\u00f3n t\u00e9rmica a temperaturas solares.",
+          "isCorrect": false,
+          "rationale": "La destilaci\u00f3n no es un proceso minero para s\u00f3lidos como el diamante; su separaci\u00f3n es mec\u00e1nica o por densidad."
+        }
+      ],
+      "hint": "Es el mismo principio f\u00edsico que se usa tanto en bateas manuales como en grandes barcos mineros."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Geolog\u00eda minera",
+      "M\u00e9todos de exploraci\u00f3n directa e indirecta",
+      "Geof\u00edsica aplicada",
+      "Exploraci\u00f3n y propiedades de los diamantes",
+      "Hidrogeolog\u00eda y recursos h\u00eddricos subterr\u00e1neos",
+      "Gesti\u00f3n operativa y estrategia de blending",
+      "Viabilidad socioambiental y responsabilidad corporativa"
+    ],
+    "followUp": [
+      "Modelamiento geol\u00f3gico 3D y gemelos digitales",
+      "Cin\u00e9tica de reacciones qu\u00edmicas en acu\u00edferos mineros",
+      "Ingenier\u00eda de perforaci\u00f3n diamantina avanzada",
+      "Optimizaci\u00f3n del Valor Presente Neto (VPN) mediante planificaci\u00f3n minera",
+      "Gesti\u00f3n de relaves y sostenibilidad a largo plazo"
+    ]
+  }
+}

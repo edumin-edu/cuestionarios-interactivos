@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfC\u00f3mo se define conceptualmente un macizo rocoso en la ingenier\u00eda geomec\u00e1nica?",
+      "answerOptions": [
+        {
+          "text": "Es la combinaci\u00f3n de la roca intacta m\u00e1s sus planos de debilidad o discontinuidades.",
+          "isCorrect": true,
+          "rationale": "Esta definici\u00f3n reconoce que el comportamiento del terreno no depende solo de la dureza de la matriz, sino de la interacci\u00f3n con sus fracturas."
+        },
+        {
+          "text": "Es una masa de roca homog\u00e9nea que presenta las mismas propiedades en todas sus direcciones.",
+          "isCorrect": false,
+          "rationale": "Esta es una suposici\u00f3n t\u00edpica de la mec\u00e1nica de suelos que no aplica a la brutal heterogeneidad estructural de las rocas."
+        },
+        {
+          "text": "Es el conjunto de datos obtenidos exclusivamente mediante ensayos de laboratorio sobre probetas cil\u00edndricas.",
+          "isCorrect": false,
+          "rationale": "Los datos de laboratorio suelen subestimar la fragilidad real al ignorar las fallas y juntas presentes en el terreno real."
+        },
+        {
+          "text": "Es una estructura geol\u00f3gica compuesta \u00fanicamente por sedimentos consolidados sin fracturas.",
+          "isCorrect": false,
+          "rationale": "Incluso las rocas sedimentarias presentan discontinuidades mec\u00e1nicas o biog\u00e9nicas que alteran su competencia estructural."
+        }
+      ],
+      "hint": "Considere la diferencia entre lo que se analiza en un laboratorio y lo que se encuentra realmente en el terreno."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la causa principal de las discontinuidades de origen mec\u00e1nico en las rocas?",
+      "answerOptions": [
+        {
+          "text": "La acumulaci\u00f3n progresiva de sedimentos a lo largo de extensos periodos de tiempo.",
+          "isCorrect": false,
+          "rationale": "Este proceso describe el origen sedimentario, el cual es paciente y no violento como el origen mec\u00e1nico."
+        },
+        {
+          "text": "Las fuerzas tect\u00f3nicas brutales o procesos de orog\u00e9nesis que desgarran la roca.",
+          "isCorrect": true,
+          "rationale": "Las discontinuidades mec\u00e1nicas resultan de eventos geol\u00f3gicos violentos que superan la resistencia interna del material rocoso."
+        },
+        {
+          "text": "La infiltraci\u00f3n de agua a alta presi\u00f3n que disuelve los minerales internos de la matriz.",
+          "isCorrect": false,
+          "rationale": "Aunque el agua afecta la estabilidad, el origen mec\u00e1nico se refiere espec\u00edficamente a esfuerzos de deformaci\u00f3n cortical."
+        },
+        {
+          "text": "El enfriamiento r\u00e1pido de intrusiones \u00edgneas en contacto con la superficie.",
+          "isCorrect": false,
+          "rationale": "Esto describe la formaci\u00f3n de estructuras \u00edgneas espec\u00edficas como los diques, pero no define el origen mec\u00e1nico general."
+        }
+      ],
+      "hint": "Piense en procesos geol\u00f3gicos que impliquen deformaci\u00f3n violenta de la corteza terrestre."
+    },
+    {
+      "question": "En las estructuras sedimentarias, \u00bfqu\u00e9 caracter\u00edstica distingue a la laminaci\u00f3n de la estratificaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "La laminaci\u00f3n presenta un espesor diminuto de menos de $1\\text{ cm}$.",
+          "isCorrect": true,
+          "rationale": "La escala es el factor determinante, donde capas extremadamente delgadas apiladas definen la morfolog\u00eda de la laminaci\u00f3n."
+        },
+        {
+          "text": "La laminaci\u00f3n se origina por cambios litol\u00f3gicos dr\u00e1sticos y claramente visibles.",
+          "isCorrect": false,
+          "rationale": "Los cambios litol\u00f3gicos notorios suelen definir los planos de estratificaci\u00f3n de mayor escala."
+        },
+        {
+          "text": "La laminaci\u00f3n carece de planos de debilidad al ser estructuras muy compactas.",
+          "isCorrect": false,
+          "rationale": "Al contrario, estas capas delgadas alteran y reducen dr\u00e1sticamente la resistencia y competencia del macizo."
+        },
+        {
+          "text": "La laminaci\u00f3n solo ocurre en rocas de origen metam\u00f3rfico sometidas a altas presiones.",
+          "isCorrect": false,
+          "rationale": "Las estructuras milim\u00e9tricas en rocas metam\u00f3rficas se denominan esquistosidad, no laminaci\u00f3n sedimentaria."
+        }
+      ],
+      "hint": "Considere el umbral de espesor m\u00e9trico que separa estas dos clasificaciones visuales."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que la resistencia a la tracci\u00f3n de las discontinuidades es nula?",
+      "answerOptions": [
+        {
+          "text": "Porque las asperezas de las paredes impiden cualquier movimiento lateral.",
+          "isCorrect": false,
+          "rationale": "Las asperezas influyen en la resistencia al corte, no en la capacidad de resistir fuerzas de separaci\u00f3n o tracci\u00f3n."
+        },
+        {
+          "text": "Porque no existe una uni\u00f3n molecular real entre las dos caras de la fractura.",
+          "isCorrect": true,
+          "rationale": "Al estar juntas pero no unidas f\u00edsicamente a nivel at\u00f3mico, cualquier fuerza m\u00ednima de separaci\u00f3n abre la fractura sin resistencia."
+        },
+        {
+          "text": "Porque el material de relleno siempre tiene una cohesi\u00f3n infinita.",
+          "isCorrect": false,
+          "rationale": "El relleno puede tener cohesi\u00f3n, pero esto afecta la resistencia al corte, no garantiza resistencia a la tracci\u00f3n del plano."
+        },
+        {
+          "text": "Porque la presencia de agua genera una succi\u00f3n que mantiene las caras pegadas.",
+          "isCorrect": false,
+          "rationale": "El agua suele actuar como lubricante o generar presi\u00f3n de poros que facilita la apertura, no la cohesi\u00f3n."
+        }
+      ],
+      "hint": "Piense en la naturaleza del enlace f\u00edsico entre dos superficies que han sido fracturadas."
+    },
+    {
+      "question": "\u00bfDe qu\u00e9 factores depende exclusivamente la resistencia al corte en un plano de debilidad?",
+      "answerOptions": [
+        {
+          "text": "De la dureza de la matriz rocosa y la profundidad de la excavaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque son datos importantes, no dictan directamente la f\u00edsica del deslizamiento sobre una discontinuidad existente."
+        },
+        {
+          "text": "Del rozamiento f\u00edsico entre asperezas y la cohesi\u00f3n del material de relleno.",
+          "isCorrect": true,
+          "rationale": "La resistencia al corte es una funci\u00f3n de la fricci\u00f3n generada por la rugosidad superficial y la capacidad de pegado del material interno."
+        },
+        {
+          "text": "De la orientaci\u00f3n del rumbo y el \u00e1ngulo de buzamiento de la estructura.",
+          "isCorrect": false,
+          "rationale": "La orientaci\u00f3n define la probabilidad cinem\u00e1tica de falla, pero no la resistencia intr\u00ednseca del contacto."
+        },
+        {
+          "text": "Del volumen total del bloque y la aceleraci\u00f3n s\u00edsmica del \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "Estos factores determinan la fuerza actuante, pero no la capacidad resistente del plano de fractura."
+        }
+      ],
+      "hint": "Considere los componentes f\u00edsicos que generan fricci\u00f3n y adherencia entre dos superficies rugosas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre una diaclasa y una falla?",
+      "answerOptions": [
+        {
+          "text": "Las diaclasas son de origen volc\u00e1nico y las fallas son de origen sedimentario.",
+          "isCorrect": false,
+          "rationale": "Ambas pueden tener diversos or\u00edgenes geol\u00f3gicos; la distinci\u00f3n no se basa en la g\u00e9nesis litol\u00f3gica."
+        },
+        {
+          "text": "En las diaclasas no hay desplazamiento de bloques, mientras que en las fallas s\u00ed existe un desplazamiento evidente.",
+          "isCorrect": true,
+          "rationale": "El cizalle y el deslizamiento relativo entre los bloques es lo que define t\u00e9cnicamente a una falla frente a una simple junta."
+        },
+        {
+          "text": "Las diaclasas requieren fortificaci\u00f3n especial y las fallas se resuelven con sostenimiento est\u00e1ndar.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; las fallas representan riesgos mayores que suelen exigir evaluaciones cinem\u00e1ticas mucho m\u00e1s profundas."
+        },
+        {
+          "text": "Las fallas tienen un espaciado milim\u00e9trico mientras que las diaclasas tienen espaciados m\u00e9tricos.",
+          "isCorrect": false,
+          "rationale": "El espaciado es independiente del tipo de fractura; la esquistosidad es la que suele presentar espaciado milim\u00e9trico."
+        }
+      ],
+      "hint": "Observe si hubo o no movimiento relativo entre las partes de la roca rota."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es crucial distinguir las fracturas naturales de las antropog\u00e9nicas durante el mapeo?",
+      "answerOptions": [
+        {
+          "text": "Para evitar introducir errores gigantescos en las proyecciones de estabilidad y dise\u00f1o.",
+          "isCorrect": true,
+          "rationale": "Contabilizar el da\u00f1o causado por voladuras como debilidad natural del terreno arruina la fidelidad de los coeficientes de dise\u00f1o."
+        },
+        {
+          "text": "Porque las fracturas antropog\u00e9nicas tienen una resistencia a la tracci\u00f3n mucho mayor.",
+          "isCorrect": false,
+          "rationale": "Toda fractura carece de resistencia a la tracci\u00f3n; la distinci\u00f3n es para caracterizar la calidad original del macizo."
+        },
+        {
+          "text": "Para determinar el tipo de explosivo que se debe utilizar en la siguiente fase.",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda a la optimizaci\u00f3n de voladura, el objetivo principal del mapeo geomec\u00e1nico es la estabilidad del dise\u00f1o."
+        },
+        {
+          "text": "Porque las fracturas naturales no se ven afectadas por la presencia de agua.",
+          "isCorrect": false,
+          "rationale": "El agua afecta todas las discontinuidades abiertas, sin importar si fueron causadas por la geolog\u00eda o por el hombre."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo afectar\u00eda a sus c\u00e1lculos si confunde el da\u00f1o de la excavaci\u00f3n con la fragilidad intr\u00ednseca del terreno."
+    },
+    {
+      "question": "\u00bfQu\u00e9 par\u00e1metros definen la orientaci\u00f3n de una discontinuidad en el espacio tridimensional?",
+      "answerOptions": [
+        {
+          "text": "La persistencia y la apertura de la grieta.",
+          "isCorrect": false,
+          "rationale": "Estos par\u00e1metros miden la extensi\u00f3n y el hueco de la fractura, pero no su posici\u00f3n angular en el espacio."
+        },
+        {
+          "text": "El rumbo y el buzamiento.",
+          "isCorrect": true,
+          "rationale": "El rumbo marca la direcci\u00f3n del plano y el buzamiento dicta su grado de inclinaci\u00f3n respecto a la horizontal."
+        },
+        {
+          "text": "El coeficiente JRC y el \u00edndice RQD.",
+          "isCorrect": false,
+          "rationale": "Estos son \u00edndices de calidad y rugosidad, no m\u00e9tricas de orientaci\u00f3n espacial."
+        },
+        {
+          "text": "La litolog\u00eda y el grado de meteorizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Estos factores describen el estado f\u00edsico y qu\u00edmico de la roca, no su geometr\u00eda estructural."
+        }
+      ],
+      "hint": "Piense en las coordenadas angulares necesarias para ubicar un plano inclinado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 importancia tiene el espaciado de las discontinuidades en el dise\u00f1o ingenieril?",
+      "answerOptions": [
+        {
+          "text": "Determina el tiempo exacto que tardar\u00e1 la roca en degradarse a suelo.",
+          "isCorrect": false,
+          "rationale": "La degradaci\u00f3n depende de la meteorizaci\u00f3n qu\u00edmica y ambiental, no directamente del espaciado f\u00edsico."
+        },
+        {
+          "text": "Define directamente el tama\u00f1o de los bloques de roca con los que se debe lidiar.",
+          "isCorrect": true,
+          "rationale": "La distancia entre fracturas de una misma familia determina las dimensiones de los fragmentos que conforman el rompecabezas del macizo."
+        },
+        {
+          "text": "Establece la viscosidad cinem\u00e1tica del fluido que circula por las grietas.",
+          "isCorrect": false,
+          "rationale": "La viscosidad es una propiedad del fluido (como el agua), no depende de la distancia entre las fracturas."
+        },
+        {
+          "text": "Permite calcular la resistencia a la compresi\u00f3n simple de la matriz rocosa.",
+          "isCorrect": false,
+          "rationale": "La resistencia de la matriz se mide en laboratorio con roca intacta, independientemente del espaciado de las juntas."
+        }
+      ],
+      "hint": "Considere c\u00f3mo la distancia entre cortes en un material s\u00f3lido afecta las dimensiones de las piezas resultantes."
+    },
+    {
+      "question": "\u00bfQu\u00e9 mide el par\u00e1metro de persistencia en una fractura geol\u00f3gica?",
+      "answerOptions": [
+        {
+          "text": "La cantidad de agua que fluye a trav\u00e9s de la discontinuidad por segundo.",
+          "isCorrect": false,
+          "rationale": "Ese concepto se refiere al caudal o permeabilidad, no a la geometr\u00eda de la traza."
+        },
+        {
+          "text": "La extensi\u00f3n superficial o longitud que viaja la grieta en el terreno.",
+          "isCorrect": true,
+          "rationale": "A mayor persistencia, m\u00e1s grande es la superficie de debilidad continua escondida dentro de la estructura del macizo."
+        },
+        {
+          "text": "La profundidad a la cual la roca deja de comportarse como un s\u00f3lido.",
+          "isCorrect": false,
+          "rationale": "La persistencia se mide a lo largo del rumbo y buzamiento en superficies expuestas, no necesariamente hacia la profundidad total."
+        },
+        {
+          "text": "El grado de rugosidad comparado con los perfiles est\u00e1ndar de Barton.",
+          "isCorrect": false,
+          "rationale": "Esa es la definici\u00f3n del coeficiente JRC, el cual mide la irregularidad superficial, no su extensi\u00f3n."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 tan lejos llega la l\u00ednea de una grieta sobre una pared de roca."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se eval\u00faa el coeficiente de rugosidad de juntas (JRC)?",
+      "answerOptions": [
+        {
+          "text": "Midiendo la distancia perpendicular entre fracturas de una misma familia.",
+          "isCorrect": false,
+          "rationale": "Eso define el espaciado, no la rugosidad de la superficie individual."
+        },
+        {
+          "text": "Comparando visualmente la superficie de la fractura con los 10 perfiles est\u00e1ndar de Barton.",
+          "isCorrect": true,
+          "rationale": "Esta metodolog\u00eda permite clasificar desde superficies pulidas hasta muy escalonadas para asignarles un valor de resistencia."
+        },
+        {
+          "text": "Calculando la relaci\u00f3n entre el volumen de vac\u00edos y el volumen total de la roca.",
+          "isCorrect": false,
+          "rationale": "Esto describe la porosidad, que es una propiedad de la matriz y no de la rugosidad de la fractura."
+        },
+        {
+          "text": "Analizando la composici\u00f3n qu\u00edmica del material que rellena la abertura.",
+          "isCorrect": false,
+          "rationale": "La rugosidad se refiere a la geometr\u00eda de las paredes de roca, no a la naturaleza del relleno."
+        }
+      ],
+      "hint": "Se utiliza una herramienta de comparaci\u00f3n visual basada en perfiles de referencia."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 los rellenos arcillosos son considerados el mayor enemigo de la estabilidad del macizo?",
+      "answerOptions": [
+        {
+          "text": "Porque aumentan la viscosidad del agua dificultando su drenaje.",
+          "isCorrect": false,
+          "rationale": "Aunque afectan el flujo, su peligro principal reside en la alteraci\u00f3n de la fricci\u00f3n mec\u00e1nica."
+        },
+        {
+          "text": "Porque act\u00faan como lubricantes que reducen dr\u00e1sticamente la fricci\u00f3n al absorber humedad.",
+          "isCorrect": true,
+          "rationale": "La arcilla h\u00fameda desploma el factor de seguridad frente al deslizamiento, facilitando el colapso de bloques pesados."
+        },
+        {
+          "text": "Porque cristalizan r\u00e1pidamente aumentando la presi\u00f3n interna de la roca.",
+          "isCorrect": false,
+          "rationale": "La arcilla no suele cristalizar para dar resistencia; por el contrario, suele ablandarse y fallar bajo carga."
+        },
+        {
+          "text": "Porque su color oscuro impide ver la orientaci\u00f3n real de las juntas.",
+          "isCorrect": false,
+          "rationale": "El problema no es de visibilidad, sino de la p\u00e9rdida violenta de resistencia al corte en las interfaces."
+        }
+      ],
+      "hint": "Piense en el efecto que tiene un material resbaladizo cuando se introduce entre dos superficies bajo presi\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 procedimiento se utiliza para determinar el \u00edndice RQD mediante testigos de perforaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Contar cu\u00e1ntas fracturas existen por cada metro lineal de t\u00fanel excavado.",
+          "isCorrect": false,
+          "rationale": "Ese es el m\u00e9todo de Palmstrum, usado cuando no se dispone de perforaci\u00f3n directa de testigos."
+        },
+        {
+          "text": "Medir y sumar los fragmentos de roca s\u00f3lida que superen los $10\\text{ cm}$ de longitud.",
+          "isCorrect": true,
+          "rationale": "El RQD es una medida de la integridad de la roca basada en la recuperaci\u00f3n de trozos significativos y competentes."
+        },
+        {
+          "text": "Calcular la resistencia a la compresi\u00f3n uniaxial de la parte m\u00e1s meteorizada.",
+          "isCorrect": false,
+          "rationale": "El RQD mide calidad estructural por fragmentaci\u00f3n, no resistencia mec\u00e1nica de la matriz por carga."
+        },
+        {
+          "text": "Multiplicar el n\u00famero de familias de juntas por el factor de rugosidad JRC.",
+          "isCorrect": false,
+          "rationale": "El RQD es un par\u00e1metro independiente que se integra luego en clasificaciones m\u00e1s complejas como el RMR o Q."
+        }
+      ],
+      "hint": "Se enfoca en la longitud de las piezas de roca recuperadas de un sondeo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la limitaci\u00f3n estad\u00edstica principal de la f\u00f3rmula emp\u00edrica que relaciona el RQD con el \u00edndice volum\u00e9trico de juntas ($JV$)?",
+      "answerOptions": [
+        {
+          "text": "Solo es v\u00e1lida si el relleno de la junta es puramente calc\u00e1reo.",
+          "isCorrect": false,
+          "rationale": "La f\u00f3rmula depende de la frecuencia de fracturas, no de la composici\u00f3n qu\u00edmica del relleno."
+        },
+        {
+          "text": "Solo funciona de manera confiable si hay entre 6 y 16 (m\u00e1ximo 18) fracturas por metro.",
+          "isCorrect": true,
+          "rationale": "Al ser una f\u00f3rmula emp\u00edrica, pierde validez matem\u00e1tica y precisi\u00f3n fuera de ese rango espec\u00edfico de fracturaci\u00f3n."
+        },
+        {
+          "text": "Solo se puede aplicar en rocas que presenten un grado de meteorizaci\u00f3n tipo 6.",
+          "isCorrect": false,
+          "rationale": "En el grado 6 la roca ya se comporta como suelo y el concepto de RQD o fracturas por metro pierde sentido."
+        },
+        {
+          "text": "Requiere que todas las juntas tengan una apertura cavernosa mayor a un metro.",
+          "isCorrect": false,
+          "rationale": "La f\u00f3rmula se basa en la frecuencia de las discontinuidades, independientemente de qu\u00e9 tan abiertas est\u00e9n."
+        }
+      ],
+      "hint": "Considere la cantidad de fracturas por unidad de longitud para la cual la f\u00f3rmula fue calibrada."
+    },
+    {
+      "question": "Si se obtiene un factor beta de 350 en la caracterizaci\u00f3n de bloques, \u00bfqu\u00e9 geometr\u00eda se debe esperar?",
+      "answerOptions": [
+        {
+          "text": "Un bloque c\u00fabico equidimensional muy estable.",
+          "isCorrect": false,
+          "rationale": "Un bloque c\u00fabico se asocia t\u00edpicamente a un factor beta cercano a 27."
+        },
+        {
+          "text": "Un bloque muy longitudinal, similar a una columna delgada.",
+          "isCorrect": true,
+          "rationale": "Valores altos de beta indican una gran desproporci\u00f3n entre las dimensiones del bloque, aumentando el riesgo de inestabilidad."
+        },
+        {
+          "text": "Una masa de suelo residual sin ninguna estructura definida.",
+          "isCorrect": false,
+          "rationale": "El factor beta mide formas de bloques de roca; en el suelo residual no hay bloques definidos por juntas."
+        },
+        {
+          "text": "Un bloque perfectamente esf\u00e9rico generado por erosi\u00f3n h\u00eddrica.",
+          "isCorrect": false,
+          "rationale": "La geometr\u00eda de los bloques en el macizo est\u00e1 dictada por el cruce de familias de juntas planas, no por erosi\u00f3n."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo cambia la forma de un objeto a medida que este n\u00famero aumenta significativamente desde su base de 27."
+    },
+    {
+      "question": "\u00bfC\u00f3mo cambia el comportamiento de la roca al alcanzar el grado 6 de meteorizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Se vuelve extremadamente resistente debido a la recristalizaci\u00f3n de minerales.",
+          "isCorrect": false,
+          "rationale": "La meteorizaci\u00f3n es un proceso de degradaci\u00f3n, no de fortalecimiento o metamorfismo."
+        },
+        {
+          "text": "La estructura de la roca se destruye y pasa a comportarse mec\u00e1nicamente como un suelo.",
+          "isCorrect": true,
+          "rationale": "En este nivel m\u00e1ximo de alteraci\u00f3n, el macizo pierde sus propiedades de roca y se rige por las leyes de la mec\u00e1nica de suelos."
+        },
+        {
+          "text": "Se convierte en roca fresca sin ning\u00fan signo de alteraci\u00f3n qu\u00edmica.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde al grado 1 de meteorizaci\u00f3n."
+        },
+        {
+          "text": "Presenta manchas \u00fanicamente en las superficies de las juntas sin afectar la matriz.",
+          "isCorrect": false,
+          "rationale": "Las manchas superficiales son caracter\u00edsticas de los grados iniciales de meteorizaci\u00f3n, no del grado final."
+        }
+      ],
+      "hint": "Considere la transici\u00f3n final del material desde un estado s\u00f3lido fracturado hacia una masa disgregada."
+    },
+    {
+      "question": "Seg\u00fan la f\u00f3rmula de permeabilidad $K = \\frac{a^{2} \\cdot g}{12 \\cdot \\nu}$, \u00bfqu\u00e9 sucede si la apertura ($a$) de una fractura se duplica?",
+      "answerOptions": [
+        {
+          "text": "La permeabilidad se mantiene constante pero aumenta la presi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La f\u00f3rmula muestra una dependencia directa de la permeabilidad respecto a la apertura."
+        },
+        {
+          "text": "La permeabilidad aumenta de forma cuadr\u00e1tica respecto al incremento de la apertura.",
+          "isCorrect": true,
+          "rationale": "Dado que la apertura ($a$) est\u00e1 elevada al cuadrado, peque\u00f1os incrementos en el hueco generan aumentos explosivos en el flujo de agua."
+        },
+        {
+          "text": "La permeabilidad disminuye porque hay m\u00e1s espacio para que el fluido se detenga.",
+          "isCorrect": false,
+          "rationale": "A mayor espacio (apertura), menor es la restricci\u00f3n al flujo, por lo tanto la permeabilidad aumenta."
+        },
+        {
+          "text": "La permeabilidad se reduce a la mitad debido a la viscosidad cinem\u00e1tica.",
+          "isCorrect": false,
+          "rationale": "La viscosidad est\u00e1 en el denominador, pero la apertura est\u00e1 en el numerador y elevada al cuadrado, dominando el cambio."
+        }
+      ],
+      "hint": "F\u00edjese en el exponente que acompa\u00f1a a la variable de apertura en la ecuaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del software DIPS en un estudio geomec\u00e1nico?",
+      "answerOptions": [
+        {
+          "text": "Simular excavaciones din\u00e1micas mediante el m\u00e9todo de elementos finitos.",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n corresponde a programas como RS3 o FLAC, no a DIPS."
+        },
+        {
+          "text": "Realizar el an\u00e1lisis estereogr\u00e1fico y procesar la geometr\u00eda de las juntas.",
+          "isCorrect": true,
+          "rationale": "DIPS se especializa en la representaci\u00f3n de datos de orientaci\u00f3n para identificar familias de discontinuidades."
+        },
+        {
+          "text": "Calcular el dise\u00f1o de fundaciones y muros de contenci\u00f3n en suelos blandos.",
+          "isCorrect": false,
+          "rationale": "Programas como Plaxis est\u00e1n m\u00e1s orientados a superficies y fundaciones que al an\u00e1lisis de juntas de roca."
+        },
+        {
+          "text": "Determinar autom\u00e1ticamente el grado de meteorizaci\u00f3n qu\u00edmica de la roca.",
+          "isCorrect": false,
+          "rationale": "La meteorizaci\u00f3n es un par\u00e1metro que se determina en campo o laboratorio, no mediante software de geometr\u00eda."
+        }
+      ],
+      "hint": "Piense en la herramienta utilizada para manejar grandes vol\u00famenes de datos de rumbo y buzamiento."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el tiempo de validez t\u00e9cnica de la informaci\u00f3n geomec\u00e1nica de un proyecto seg\u00fan los est\u00e1ndares mencionados?",
+      "answerOptions": [
+        {
+          "text": "Es permanente y no requiere actualizaci\u00f3n a menos que ocurra un sismo.",
+          "isCorrect": false,
+          "rationale": "La estabilidad es din\u00e1mica y el terreno cambia, por lo que la validez no puede ser eterna."
+        },
+        {
+          "text": "Exactamente 5 a\u00f1os, tras los cuales pierde su representatividad t\u00e9cnica.",
+          "isCorrect": true,
+          "rationale": "Debido a la naturaleza din\u00e1mica del terreno y los cambios en los dise\u00f1os operativos, los datos deben actualizarse peri\u00f3dicamente."
+        },
+        {
+          "text": "10 a\u00f1os, siempre y cuando no se utilice agua en las operaciones.",
+          "isCorrect": false,
+          "rationale": "Incluso sin agua operativa, factores naturales y cambios de dise\u00f1o invalidan los datos mucho antes de una d\u00e9cada."
+        },
+        {
+          "text": "Solo 1 a\u00f1o, debido a la alta variabilidad clim\u00e1tica estacional.",
+          "isCorrect": false,
+          "rationale": "Aunque es variable, el est\u00e1ndar de ingenier\u00eda establece un ciclo de revisi\u00f3n de 5 a\u00f1os para la base de datos t\u00e9cnica."
+        }
+      ],
+      "hint": "Considere el periodo establecido para garantizar que los modelos sigan reflejando la realidad operativa actual."
+    },
+    {
+      "question": "\u00bfQui\u00e9nes son los \u00fanicos autorizados legalmente en Per\u00fa para validar estudios geomec\u00e1nicos seg\u00fan los anexos 024 y 40?",
+      "answerOptions": [
+        {
+          "text": "Cualquier ingeniero con m\u00e1s de 10 a\u00f1os de experiencia en miner\u00eda.",
+          "isCorrect": false,
+          "rationale": "La ley exige no solo experiencia, sino una acreditaci\u00f3n formal espec\u00edfica ante los colegios profesionales."
+        },
+        {
+          "text": "Especialistas colegiados y habilitados por el colegio profesional correspondiente.",
+          "isCorrect": true,
+          "rationale": "La validaci\u00f3n por especialistas habilitados garantiza que se cumplan los est\u00e1ndares de seguridad y responsabilidad \u00e9tica."
+        },
+        {
+          "text": "Los gerentes de operaciones, independientemente de su profesi\u00f3n base.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad t\u00e9cnica recae en el especialista geomec\u00e1nico que firma y valida el estudio, no solo en la jerarqu\u00eda administrativa."
+        },
+        {
+          "text": "Organismos internacionales de geolog\u00eda que supervisan el proyecto desde el extranjero.",
+          "isCorrect": false,
+          "rationale": "La normativa peruana se centra en la responsabilidad de los profesionales locales colegiados y habilitados en el pa\u00eds."
+        }
+      ],
+      "hint": "Piense en los requisitos de acreditaci\u00f3n oficial necesarios para firmar proyectos de ingenier\u00eda en el pa\u00eds."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Caracterizaci\u00f3n del macizo rocoso",
+      "Tipolog\u00eda y origen de discontinuidades",
+      "Propiedades f\u00edsicas y mec\u00e1nicas de fracturas",
+      "Clasificaciones geomec\u00e1nicas y RQD",
+      "Hidrogeolog\u00eda y permeabilidad en rocas",
+      "Modelado y software especializado"
+    ],
+    "followUp": [
+      "An\u00e1lisis cinem\u00e1tico de estabilidad de bloques",
+      "Sostenimiento y fortificaci\u00f3n de excavaciones",
+      "Geomec\u00e1nica aplicada a la miner\u00eda a cielo abierto",
+      "Monitoreo geot\u00e9cnico y gemelos digitales",
+      "Ensayos de laboratorio para roca intacta"
+    ]
+  }
+}

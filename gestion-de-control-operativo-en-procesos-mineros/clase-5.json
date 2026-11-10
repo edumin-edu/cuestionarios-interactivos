@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el cambio fundamental de paradigma al pasar de una f\u00e1brica tradicional a una inteligente?",
+      "answerOptions": [
+        {
+          "text": "Pasar de un enfoque reactivo ante errores a uno proactivo basado en la correcci\u00f3n predictiva.",
+          "isCorrect": true,
+          "rationale": "La industria moderna busca anticiparse a los fallos mediante el an\u00e1lisis de datos antes de que ocurran, en lugar de solo responder a ellos."
+        },
+        {
+          "text": "Aumentar la supervisi\u00f3n humana en cada etapa del flujo de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El modelo de f\u00e1brica inteligente busca la autonom\u00eda y la reducci\u00f3n de la intervenci\u00f3n humana directa en la supervisi\u00f3n de flujos."
+        },
+        {
+          "text": "Sustituir por completo el control de calidad por sensores de velocidad.",
+          "isCorrect": false,
+          "rationale": "El control de calidad no se elimina, sino que se integra y evoluciona hacia un modelo estrat\u00e9gico en tiempo real."
+        },
+        {
+          "text": "Priorizar la eficiencia operativa sobre la rentabilidad estrat\u00e9gica.",
+          "isCorrect": false,
+          "rationale": "La integraci\u00f3n busca que la eficiencia sea precisamente un imperativo estrat\u00e9gico para alcanzar la rentabilidad."
+        }
+      ],
+      "hint": "Considera c\u00f3mo cambia la respuesta del sistema ante la aparici\u00f3n de una anomal\u00eda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple la campana de Gauss en el entrenamiento del cerebro digital de una planta?",
+      "answerOptions": [
+        {
+          "text": "Establecer el marco de referencia de la normalidad operativa.",
+          "isCorrect": true,
+          "rationale": "Se utiliza para ense\u00f1ar al sistema qu\u00e9 comportamientos son normales, permiti\u00e9ndole identificar cualquier desviaci\u00f3n como una anomal\u00eda."
+        },
+        {
+          "text": "Calcular el costo total de los sensores instalados en la maquinaria.",
+          "isCorrect": false,
+          "rationale": "La campana de Gauss es un modelo estad\u00edstico de comportamiento de datos, no una herramienta de contabilidad de hardware."
+        },
+        {
+          "text": "Sustituir el uso de redes neuronales por f\u00f3rmulas estad\u00edsticas simples.",
+          "isCorrect": false,
+          "rationale": "La curva es el marco que permite entrenar a las redes neuronales, no un reemplazo para estas."
+        },
+        {
+          "text": "Determinar \u00fanicamente el valor m\u00e1ximo de producci\u00f3n de una m\u00e1quina.",
+          "isCorrect": false,
+          "rationale": "La curva representa una distribuci\u00f3n completa de datos de normalidad, no solo un l\u00edmite m\u00e1ximo."
+        }
+      ],
+      "hint": "Piensa en lo que necesita saber el sistema para reconocer que algo no anda bien."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se utiliza espec\u00edficamente la divisi\u00f3n de la curva en percentiles (100 partes)?",
+      "answerOptions": [
+        {
+          "text": "Para establecer l\u00edmites de control y tolerancias t\u00e9cnicas con alta precisi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Los percentiles permiten definir umbrales cr\u00edticos y tolerancias muy exigentes, actuando como un bistur\u00ed estad\u00edstico."
+        },
+        {
+          "text": "Para entrenar neuronas artificiales en rangos de datos muy amplios.",
+          "isCorrect": false,
+          "rationale": "Para el entrenamiento en rangos espec\u00edficos se suelen utilizar los deciles, que dividen la curva en 10 partes."
+        },
+        {
+          "text": "Para reducir la cantidad de sensores necesarios en la l\u00ednea de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La divisi\u00f3n estad\u00edstica mejora el an\u00e1lisis de datos, pero no reduce la infraestructura sensorial."
+        },
+        {
+          "text": "Para identificar el valor que m\u00e1s veces se repite en el proceso.",
+          "isCorrect": false,
+          "rationale": "Identificar el valor m\u00e1s frecuente es la funci\u00f3n de la moda, no de la divisi\u00f3n en percentiles."
+        }
+      ],
+      "hint": "Relaciona esta divisi\u00f3n fina con la met\u00e1fora del uso de un bistur\u00ed frente a una regla."
+    },
+    {
+      "question": "\u00bfQu\u00e9 indica un coeficiente de determinaci\u00f3n $R^2$ extremadamente cercano a 1 en un modelo predictivo?",
+      "answerOptions": [
+        {
+          "text": "Que la funci\u00f3n matem\u00e1tica es muy fiel a lo que ocurre en la realidad de la producci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Un $R^2$ cercano a la unidad valida que el modelo representa adecuadamente el fen\u00f3meno real de la l\u00ednea."
+        },
+        {
+          "text": "Que el sistema ha detectado un error cr\u00edtico que requiere una parada total.",
+          "isCorrect": false,
+          "rationale": "El $R^2$ mide la validez del modelo, no es una alarma directa de fallo mec\u00e1nico."
+        },
+        {
+          "text": "Que la variabilidad operativa ha alcanzado su punto m\u00e1s alto posible.",
+          "isCorrect": false,
+          "rationale": "Un modelo fiel ($R^2$ alto) ayuda a reducir la variabilidad, no indica que esta sea alta."
+        },
+        {
+          "text": "Que se debe reiniciar el entrenamiento de las redes neuronales.",
+          "isCorrect": false,
+          "rationale": "Si el $R^2$ es cercano a 1, el modelo es v\u00e1lido y no necesita ser descartado o reiniciado."
+        }
+      ],
+      "hint": "Considera la relaci\u00f3n entre la teor\u00eda matem\u00e1tica y los datos reales del proceso."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de la l\u00f3gica algor\u00edtmica 'Si sucede A, entonces ejecuta B' en el cerebro digital?",
+      "answerOptions": [
+        {
+          "text": "Evitar el colapso del sistema procesando entradas sensoriales de forma estricta y priorizada.",
+          "isCorrect": true,
+          "rationale": "Esta l\u00f3gica permite gestionar la avalancha de datos de forma eficiente, similar a como un cerebro humano toma decisiones \u00f3ptimas."
+        },
+        {
+          "text": "Permitir que los operadores humanos intervengan en cada decisi\u00f3n del sistema.",
+          "isCorrect": false,
+          "rationale": "Esta l\u00f3gica busca precisamente la autonom\u00eda del sistema sin que intervenga una persona."
+        },
+        {
+          "text": "Aumentar el ruido estad\u00edstico para diversificar las respuestas de la m\u00e1quina.",
+          "isCorrect": false,
+          "rationale": "La l\u00f3gica algor\u00edtmica busca eliminar el ruido y centrarse en variables cr\u00edticas para el resultado \u00f3ptimo."
+        },
+        {
+          "text": "Garantizar que la m\u00e1quina trabaje siempre al 100% de su capacidad f\u00edsica.",
+          "isCorrect": false,
+          "rationale": "La l\u00f3gica se enfoca en la toma de decisiones correctivas, no necesariamente en forzar la capacidad m\u00e1xima."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo el sistema maneja grandes cantidades de datos sensoriales simult\u00e1neamente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de los siguientes pasos NO forma parte del procedimiento cronol\u00f3gico del control estad\u00edstico de calidad en tiempo real?",
+      "answerOptions": [
+        {
+          "text": "Muestreo manual aleatorio por t\u00e9cnicos de laboratorio.",
+          "isCorrect": true,
+          "rationale": "El modelo moderno reemplaza el muestreo manual reactivo por monitorizaci\u00f3n, an\u00e1lisis y verificaci\u00f3n automatizada."
+        },
+        {
+          "text": "Monitorizaci\u00f3n ininterrumpida del flujo de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La monitorizaci\u00f3n es la fase inicial donde se sigue el flujo sin interrupciones."
+        },
+        {
+          "text": "An\u00e1lisis de tendencias estad\u00edsticas para detectar desviaciones min\u00fasculas.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis busca variaciones en la campana de Gauss para predecir fallos."
+        },
+        {
+          "text": "Verificaci\u00f3n del est\u00e1ndar t\u00e9cnico antes de la salida del producto.",
+          "isCorrect": false,
+          "rationale": "La verificaci\u00f3n es el paso final para asegurar que el producto cumple con la perfecci\u00f3n t\u00e9cnica."
+        }
+      ],
+      "hint": "Diferencia entre las pr\u00e1cticas tradicionales de 'autopsia' de productos y el control inteligente."
+    },
+    {
+      "question": "En el contexto de la industria textil, \u00bfc\u00f3mo se compara la velocidad del monitoreo inteligente frente al tradicional?",
+      "answerOptions": [
+        {
+          "text": "De realizar muestreos cada 1.25 horas a monitorear cada $\\frac{1}{30}$ de segundo.",
+          "isCorrect": true,
+          "rationale": "Esta aceleraci\u00f3n dr\u00e1stica permite corregir desviaciones antes de que el defecto se materialice en el producto final."
+        },
+        {
+          "text": "De realizar inspecciones visuales a usar lupas electr\u00f3nicas cada 15 minutos.",
+          "isCorrect": false,
+          "rationale": "La mejora no es solo \u00f3ptica, sino una transici\u00f3n hacia sensores y redes neuronales con frecuencia de milisegundos."
+        },
+        {
+          "text": "De corregir fallos en tiempo real a prevenirlos en una hora.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; el sistema tradicional tardaba m\u00e1s de una hora, mientras que el moderno act\u00faa al instante."
+        },
+        {
+          "text": "De procesar 30 lotes por hora a solo 1 lote con mayor precisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda busca aumentar la velocidad y la cantidad de producto sin defectos, no reducir la producci\u00f3n."
+        }
+      ],
+      "hint": "Recuerda el impacto de la cifra de 'una hora y cuarto' frente a las fracciones de segundo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta visual se utiliza espec\u00edficamente para vigilar el \u00edndice de defectos dentro de un lote?",
+      "answerOptions": [
+        {
+          "text": "Gr\u00e1fica de proporciones.",
+          "isCorrect": true,
+          "rationale": "Funciona como un microscopio enfocado en asegurar que anomal\u00edas aisladas no escalen fuera de control."
+        },
+        {
+          "text": "Gr\u00e1fica de medidas (XB).",
+          "isCorrect": false,
+          "rationale": "La gr\u00e1fica XB se encarga de detectar desplazamientos en la tendencia central del proceso general."
+        },
+        {
+          "text": "Gr\u00e1fica de rango (R).",
+          "isCorrect": false,
+          "rationale": "La gr\u00e1fica R eval\u00faa la consistencia y homogeneidad de todo el sistema productivo."
+        },
+        {
+          "text": "Gr\u00e1fica de campana de Gauss.",
+          "isCorrect": false,
+          "rationale": "Aunque es la base estad\u00edstica, no es la interfaz visual espec\u00edfica para el conteo de defectos por lote."
+        }
+      ],
+      "hint": "Esta herramienta se compara con un microscopio para ver problemas espec\u00edficos en grupos de productos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 se\u00f1al en una gr\u00e1fica de rango (R) activar\u00eda una alerta de recalibraci\u00f3n inmediata?",
+      "answerOptions": [
+        {
+          "text": "Un aumento repentino del rango.",
+          "isCorrect": true,
+          "rationale": "Un incremento s\u00fabito en el rango indica que se ha perdido la homogeneidad del sistema."
+        },
+        {
+          "text": "Un valor de rango constante e id\u00e9ntico a cero.",
+          "isCorrect": false,
+          "rationale": "Un rango constante suele indicar un proceso bajo control y altamente homog\u00e9neo."
+        },
+        {
+          "text": "Una fluctuaci\u00f3n leve dentro de los l\u00edmites de los percentiles.",
+          "isCorrect": false,
+          "rationale": "Las fluctuaciones dentro de los umbrales de tolerancia son normales y no requieren detener el sistema."
+        },
+        {
+          "text": "La convergencia del rango con el promedio aritm\u00e9tico.",
+          "isCorrect": false,
+          "rationale": "Esta coincidencia no es el indicador principal de p\u00e9rdida de control en una gr\u00e1fica de rangos."
+        }
+      ],
+      "hint": "Piensa en qu\u00e9 tipo de cambio visual representar\u00eda una p\u00e9rdida de homogeneidad."
+    },
+    {
+      "question": "\u00bfC\u00f3mo interact\u00faan los sensores con la inteligencia artificial seg\u00fan la met\u00e1fora biol\u00f3gica?",
+      "answerOptions": [
+        {
+          "text": "Como terminaciones nerviosas que env\u00edan impulsos constantes al cerebro digital.",
+          "isCorrect": true,
+          "rationale": "Los sensores permiten que la IA sienta su entorno f\u00edsico (presi\u00f3n, vibraci\u00f3n, temperatura) en tiempo real."
+        },
+        {
+          "text": "Como los m\u00fasculos que ejecutan el movimiento de las piezas pesadas.",
+          "isCorrect": false,
+          "rationale": "Los m\u00fasculos representan a los actuadores o robots; los sensores son los sentidos (entradas)."
+        },
+        {
+          "text": "Como la memoria a largo plazo que almacena datos hist\u00f3ricos del inventario.",
+          "isCorrect": false,
+          "rationale": "Los sensores proporcionan datos en tiempo real para la acci\u00f3n inmediata, no son principalmente almacenamiento de archivos."
+        },
+        {
+          "text": "Como filtros que bloquean la informaci\u00f3n para evitar el estr\u00e9s del software.",
+          "isCorrect": false,
+          "rationale": "Al contrario, proporcionan un flujo constante de datos para que la IA tenga visibilidad total."
+        }
+      ],
+      "hint": "Relaciona la entrada de datos sensoriales con la capacidad de 'sentir' el entorno."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal caracter\u00edstica de los cobots en comparaci\u00f3n con los robots industriales tradicionales?",
+      "answerOptions": [
+        {
+          "text": "Est\u00e1n dise\u00f1ados para compartir de forma segura el espacio de trabajo con humanos.",
+          "isCorrect": true,
+          "rationale": "A diferencia de los robots antiguos que requer\u00edan jaulas, los cobots colaboran directamente con el personal."
+        },
+        {
+          "text": "Tienen una estructura mucho m\u00e1s grande y pesada para manejar mayores cargas.",
+          "isCorrect": false,
+          "rationale": "Su enfoque no es el tama\u00f1o masivo, sino la precisi\u00f3n milim\u00e9trica y la colaboraci\u00f3n segura."
+        },
+        {
+          "text": "Requieren ser programados manualmente por el operador para cada movimiento.",
+          "isCorrect": false,
+          "rationale": "Los cobots suelen integrarse con el cerebro digital para ejecutar decisiones aut\u00f3nomas y precisas."
+        },
+        {
+          "text": "Sustituyen totalmente la necesidad de capital humano en la planta.",
+          "isCorrect": false,
+          "rationale": "Su objetivo es proteger la integridad del equipo humano y asumir tareas peligrosas, no eliminar al personal."
+        }
+      ],
+      "hint": "Observa el prefijo del nombre 'cobot' para entender su funci\u00f3n social en la planta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja ofrece la manufactura aditiva en t\u00e9rminos de dise\u00f1o de componentes?",
+      "answerOptions": [
+        {
+          "text": "Una reducci\u00f3n de hasta el 40% del peso mediante la optimizaci\u00f3n geom\u00e9trica.",
+          "isCorrect": true,
+          "rationale": "Al a\u00f1adir material solo donde es estructuralmente cr\u00edtico, se elimina lo superfluo y se reduce el peso significativamente."
+        },
+        {
+          "text": "La posibilidad de fabricar piezas \u00fanicamente con materiales met\u00e1licos tradicionales.",
+          "isCorrect": false,
+          "rationale": "La manufactura aditiva permite el uso de diversos materiales y t\u00e9cnicas de construcci\u00f3n por capas."
+        },
+        {
+          "text": "Un aumento en el uso de materiales de relleno para dar mayor robustez visual.",
+          "isCorrect": false,
+          "rationale": "La t\u00e9cnica busca eliminar el material innecesario, no a\u00f1adir relleno superfluo."
+        },
+        {
+          "text": "La imposibilidad de personalizar las piezas a gran escala.",
+          "isCorrect": false,
+          "rationale": "Al contrario, permite un nivel de personalizaci\u00f3n de hasta el 90% en el ensamblaje."
+        }
+      ],
+      "hint": "Piensa en el impacto de construir por capas solo lo necesario."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la impresi\u00f3n 3D in situ es vital para sectores como la miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Porque elimina los tiempos de inactividad al fabricar repuestos cr\u00edticos en el lugar.",
+          "isCorrect": true,
+          "rationale": "Fabricar piezas en el sitio evita esperar env\u00edos costosos y largos cuando una m\u00e1quina falla en lugares remotos."
+        },
+        {
+          "text": "Porque permite que los operadores mineros dise\u00f1en sus propias herramientas.",
+          "isCorrect": false,
+          "rationale": "Aunque es posible, el valor estrat\u00e9gico principal es la eliminaci\u00f3n del retraso por falta de inventario de repuestos."
+        },
+        {
+          "text": "Porque reduce la necesidad de usar sensores en las m\u00e1quinas de excavaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La impresi\u00f3n 3D es una t\u00e9cnica de fabricaci\u00f3n, no influye en la necesidad de monitorizaci\u00f3n sensorial."
+        },
+        {
+          "text": "Porque sustituye el uso de gemelos digitales en la planificaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Son tecnolog\u00edas complementarias: el gemelo simula y la impresi\u00f3n 3D ejecuta la soluci\u00f3n f\u00edsica."
+        }
+      ],
+      "hint": "Considera el costo de esperar un repuesto cuando una m\u00e1quina se rompe 'en medio de la nada'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa un 'gemelo digital' en la estrategia de una f\u00e1brica inteligente?",
+      "answerOptions": [
+        {
+          "text": "Una r\u00e9plica virtual exacta de toda la operaci\u00f3n para realizar simulaciones.",
+          "isCorrect": true,
+          "rationale": "Permite probar condiciones extremas sin poner en riesgo o desgastar los activos f\u00edsicos reales."
+        },
+        {
+          "text": "Un segundo operario que supervisa el trabajo del primer t\u00e9cnico.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino no se refiere a personal humano, sino a una infraestructura de software virtual."
+        },
+        {
+          "text": "Una m\u00e1quina id\u00e9ntica de respaldo guardada en el almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "Es una representaci\u00f3n digital basada en datos, no un duplicado f\u00edsico en inventario."
+        },
+        {
+          "text": "Un algoritmo que duplica la velocidad de producci\u00f3n autom\u00e1ticamente.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n principal es la simulaci\u00f3n estrat\u00e9gica y la visualizaci\u00f3n, no solo el aumento de velocidad."
+        }
+      ],
+      "hint": "Es un entorno virtual donde se puede 'jugar' con la planta sin romper nada."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el riesgo de la denominada 'utop\u00eda del 100%' en la gesti\u00f3n de capacidad?",
+      "answerOptions": [
+        {
+          "text": "Un colapso inminente del sistema por falta de margen para absorber perturbaciones.",
+          "isCorrect": true,
+          "rationale": "Operar a la capacidad m\u00e1xima te\u00f3rica no deja espacio para imprevistos o iteraciones necesarias."
+        },
+        {
+          "text": "Una reducci\u00f3n excesiva de los costos de mantenimiento preventivo.",
+          "isCorrect": false,
+          "rationale": "Llevar la planta al l\u00edmite suele aumentar, no reducir, los riesgos y costos de mantenimiento por desgaste."
+        },
+        {
+          "text": "La imposibilidad de utilizar sensores LED en la iluminaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La capacidad operativa de la maquinaria no est\u00e1 vinculada a la tecnolog\u00eda de iluminaci\u00f3n utilizada."
+        },
+        {
+          "text": "Un aumento innecesario del personal de gesti\u00f3n estrat\u00e9gica.",
+          "isCorrect": false,
+          "rationale": "El riesgo es t\u00e9cnico y operativo (colapso), m\u00e1s que una cuesti\u00f3n de cantidad de personal."
+        }
+      ],
+      "hint": "Piensa en qu\u00e9 sucede si un sistema sin 'colch\u00f3n' recibe un impacto inesperado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje se recomienda dejar como 'colch\u00f3n estrat\u00e9gico' o buffer en la operaci\u00f3n de una planta?",
+      "answerOptions": [
+        {
+          "text": "Entre un 10% y un 20%.",
+          "isCorrect": true,
+          "rationale": "Se recomienda operar entre el 80% y 90% para que el margen restante absorba perturbaciones."
+        },
+        {
+          "text": "Exactamente el 50%.",
+          "isCorrect": false,
+          "rationale": "Un buffer del 50% ser\u00eda una ineficiencia masiva de la capacidad instalada."
+        },
+        {
+          "text": "Menos del 5%.",
+          "isCorrect": false,
+          "rationale": "Un margen tan peque\u00f1o es insuficiente para absorber variaciones imprevistas de forma segura."
+        },
+        {
+          "text": "Un 40%, igual a la reducci\u00f3n de peso de las piezas.",
+          "isCorrect": false,
+          "rationale": "No hay relaci\u00f3n entre el porcentaje de reducci\u00f3n de peso por impresi\u00f3n 3D y el margen de seguridad operativa."
+        }
+      ],
+      "hint": "Es la franja de seguridad que queda cuando el n\u00facleo opera entre el 80% y 90%."
+    },
+    {
+      "question": "\u00bfQu\u00e9 t\u00e9cnica permite recortar el consumo el\u00e9ctrico en iluminaci\u00f3n hasta en un 50%?",
+      "answerOptions": [
+        {
+          "text": "Uso de tecnolog\u00eda LED combinada con sensores inteligentes.",
+          "isCorrect": true,
+          "rationale": "La combinaci\u00f3n de eficiencia lum\u00ednica y detecci\u00f3n de presencia o necesidad optimiza el gasto energ\u00e9tico."
+        },
+        {
+          "text": "Recuperaci\u00f3n de calor residual de los motores.",
+          "isCorrect": false,
+          "rationale": "La recuperaci\u00f3n de calor mejora la eficiencia t\u00e9rmica, pero no reduce directamente el consumo de iluminaci\u00f3n."
+        },
+        {
+          "text": "Implementaci\u00f3n de motores de alt\u00edsima eficiencia.",
+          "isCorrect": false,
+          "rationale": "Los motores eficientes reducen p\u00e9rdidas por fricci\u00f3n, no el consumo el\u00e9ctrico de las luces."
+        },
+        {
+          "text": "Uso de la metodolog\u00eda Lean para eliminar la 'muda'.",
+          "isCorrect": false,
+          "rationale": "Lean es un marco general, pero la t\u00e9cnica espec\u00edfica mencionada para ese ahorro es la iluminaci\u00f3n inteligente."
+        }
+      ],
+      "hint": "Combina una tecnolog\u00eda de l\u00e1mparas modernas con dispositivos que 'ven' cu\u00e1ndo encenderlas."
+    },
+    {
+      "question": "En el tratamiento de agua industrial, \u00bfqu\u00e9 ocurre durante el fen\u00f3meno de 'precipitaci\u00f3n'?",
+      "answerOptions": [
+        {
+          "text": "Se a\u00f1aden agentes qu\u00edmicos que se pegan a los s\u00f3lidos y los hacen caer al fondo.",
+          "isCorrect": true,
+          "rationale": "Sustancias como el alumbre facilitan la separaci\u00f3n de s\u00f3lidos para clarificar el agua."
+        },
+        {
+          "text": "El agua se evapora para eliminar las impurezas gaseosas.",
+          "isCorrect": false,
+          "rationale": "El proceso descrito se basa en la sedimentaci\u00f3n y precipitaci\u00f3n de s\u00f3lidos, no en la evaporaci\u00f3n."
+        },
+        {
+          "text": "Se extrae el agua limpia para riego en procesos secundarios.",
+          "isCorrect": false,
+          "rationale": "La extracci\u00f3n es el paso final (paso 3), despu\u00e9s de que ha ocurrido la precipitaci\u00f3n."
+        },
+        {
+          "text": "Se aumenta la est\u00e1tica del l\u00edquido para atraer metales pesados.",
+          "isCorrect": false,
+          "rationale": "El uso de est\u00e1tica se menciona en el contexto textil (fibras), no como el m\u00e9todo principal en las piscinas de sedimentaci\u00f3n."
+        }
+      ],
+      "hint": "Es la 'magia qu\u00edmica' donde se usan agentes lechosos para limpiar el l\u00edquido."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un beneficio econ\u00f3mico directo de la integraci\u00f3n tecnol\u00f3gica analizado en las m\u00e9tricas?",
+      "answerOptions": [
+        {
+          "text": "Ca\u00edda del 30% en costos de mantenimiento y 25% en tiempos de inactividad.",
+          "isCorrect": true,
+          "rationale": "Estas reducciones impactan directamente en el flujo de caja y la confiabilidad del sistema."
+        },
+        {
+          "text": "Reducci\u00f3n del 90% en el salario de los t\u00e9cnicos manuales.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda evoluciona el rol del humano a gestor estrat\u00e9gico, no busca simplemente reducir salarios."
+        },
+        {
+          "text": "Aumento del 50% en el precio de venta final del producto.",
+          "isCorrect": false,
+          "rationale": "La eficiencia busca mejorar la rentabilidad interna y competitividad, no necesariamente subir los precios al consumidor."
+        },
+        {
+          "text": "Eliminaci\u00f3n total del pago de certificaciones ISO.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda ayuda a cumplir con las normas ISO, pero no elimina los procesos de certificaci\u00f3n."
+        }
+      ],
+      "hint": "Busca la relaci\u00f3n entre menos paradas imprevistas y el ahorro en reparaciones."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el nuevo rol del ser humano en la excelencia operativa del siglo XXI?",
+      "answerOptions": [
+        {
+          "text": "Gestor estrat\u00e9gico que evoluciona desde el rol de verificador manual.",
+          "isCorrect": true,
+          "rationale": "La interconectividad total no desplaza al humano, sino que lo posiciona en un nivel de toma de decisiones basadas en datos."
+        },
+        {
+          "text": "Inspector con libreta encargado de anotar fallos al final del pasillo.",
+          "isCorrect": false,
+          "rationale": "Este es el rol obsoleto que el control de calidad en tiempo real ha dejado atr\u00e1s."
+        },
+        {
+          "text": "Operador dedicado exclusivamente a la limpieza de sensores.",
+          "isCorrect": false,
+          "rationale": "El factor humano se revaloriza hacia la estrategia y gesti\u00f3n, no se limita a tareas de limpieza."
+        },
+        {
+          "text": "Programador de funciones matem\u00e1ticas b\u00e1sicas en calculadoras manuales.",
+          "isCorrect": false,
+          "rationale": "Los sistemas ahora usan redes neuronales y big data; el humano gestiona esos resultados complejos."
+        }
+      ],
+      "hint": "El humano deja de hacer 'autopsias' a productos defectuosos para tomar decisiones preventivas."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Control de procesos y gesti\u00f3n de calidad en tiempo real",
+      "Estad\u00edstica industrial y modelos predictivos",
+      "Tecnolog\u00edas de la Industria 4.0 (IoT, Cobots, Gemelos Digitales)",
+      "Manufactura aditiva y eficiencia energ\u00e9tica",
+      "Estrategias de mitigaci\u00f3n de riesgo y Lean Manufacturing"
+    ],
+    "followUp": [
+      "Aplicaciones de redes neuronales en mantenimiento predictivo",
+      "Sistemas ciberf\u00edsicos y sensores en entornos hostiles",
+      "Certificaciones internacionales de eficiencia energ\u00e9tica (ISO 50001)",
+      "Optimizaci\u00f3n de la cadena de suministro mediante impresi\u00f3n 3D",
+      "An\u00e1lisis de variabilidad mediante control estad\u00edstico avanzado"
+    ]
+  }
+}

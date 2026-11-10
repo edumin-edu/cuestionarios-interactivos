@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del Data Analytics dentro del ecosistema de la ciencia de datos?",
+      "answerOptions": [
+        {
+          "text": "Fusionar la estad\u00edstica con el poder computacional a gran escala.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde a la definici\u00f3n general de Ciencia de Datos, que act\u00faa como el paraguas de las dem\u00e1s disciplinas."
+        },
+        {
+          "text": "Gestionar vol\u00famenes masivos de informaci\u00f3n a m\u00e1xima velocidad.",
+          "isCorrect": false,
+          "rationale": "Esta tarea es el n\u00facleo del Big Data, que se encarga de la infraestructura necesaria para el manejo de grandes datos."
+        },
+        {
+          "text": "Servir como un m\u00e9todo sistem\u00e1tico para obtener conclusiones aplicables al negocio.",
+          "isCorrect": true,
+          "rationale": "El Data Analytics se define como el proceso de extraer valor y conclusiones accionables para la toma de decisiones empresariales."
+        },
+        {
+          "text": "Automatizar la captura de datos mediante scripts en fuentes abiertas.",
+          "isCorrect": false,
+          "rationale": "Esta es la definici\u00f3n de web scraping, una t\u00e9cnica espec\u00edfica de adquisici\u00f3n de datos externos."
+        }
+      ],
+      "hint": "Relaciona este concepto con el m\u00e9todo sistem\u00e1tico para aplicar hallazgos a la estrategia comercial."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 se refiere el principio estrat\u00e9gico de 'inercia' en la recolecci\u00f3n de informaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "A la velocidad con la que los sensores industriales emiten sus lecturas.",
+          "isCorrect": false,
+          "rationale": "La velocidad de emisi\u00f3n se asocia con la telemetr\u00eda en tiempo real, no con el valor estrat\u00e9gico de la inercia."
+        },
+        {
+          "text": "A que el dato carece de valor si no se traduce en acciones estrat\u00e9gicas.",
+          "isCorrect": true,
+          "rationale": "El principio de inercia establece que recolectar datos sin una ejecuci\u00f3n posterior representa solo un gasto operativo innecesario."
+        },
+        {
+          "text": "A la capacidad de los datos para mantenerse limpios sin intervenci\u00f3n humana.",
+          "isCorrect": false,
+          "rationale": "Los datos capturados son ca\u00f3ticos por naturaleza y requieren limpieza; la inercia no se refiere a la auto-depuraci\u00f3n."
+        },
+        {
+          "text": "Al flujo constante de informaci\u00f3n que proviene de fuentes externas exclusivamente.",
+          "isCorrect": false,
+          "rationale": "La inercia no distingue entre fuentes, sino que se enfoca en la utilidad del dato recolectado para generar acciones."
+        }
+      ],
+      "hint": "Piensa en lo que sucede cuando se tienen datos pero no se toma ninguna medida con ellos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es riesgoso limitar la estrategia de adquisici\u00f3n de datos \u00fanicamente a repositorios internos?",
+      "answerOptions": [
+        {
+          "text": "Porque las bases de datos SQL son inherentemente inestables y poco robustas.",
+          "isCorrect": false,
+          "rationale": "El est\u00e1ndar SQL se describe como confiable, robusto y predecible para datos internos."
+        },
+        {
+          "text": "Porque genera un sesgo que nubla la visi\u00f3n general sobre la realidad del mercado.",
+          "isCorrect": true,
+          "rationale": "La falta de diversificaci\u00f3n de fuentes impide entender el contexto competitivo y externo, limitando el an\u00e1lisis."
+        },
+        {
+          "text": "Porque los datos internos no pueden ser procesados por modelos de machine learning.",
+          "isCorrect": false,
+          "rationale": "Los modelos de aprendizaje autom\u00e1tico pueden procesar datos internos, pero requieren volumen y variedad para ser precisos."
+        },
+        {
+          "text": "Porque el costo de mantenimiento de servidores internos supera los beneficios del an\u00e1lisis.",
+          "isCorrect": false,
+          "rationale": "Aunque existen costos, el riesgo principal mencionado es la falta de profundidad y peso en el an\u00e1lisis estrat\u00e9gico."
+        }
+      ],
+      "hint": "Considera c\u00f3mo afecta a una empresa mirar solo hacia adentro sin observar a la competencia."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja competitiva ofrece el uso de web scraping frente al acceso tradicional a bases de datos?",
+      "answerOptions": [
+        {
+          "text": "Garantiza la entrega de informaci\u00f3n en formato SQL altamente estructurado.",
+          "isCorrect": false,
+          "rationale": "El web scraping se utiliza precisamente en lugares donde no existen bases de datos estructuradas accesibles."
+        },
+        {
+          "text": "Permite monitorear precios y tendencias masivas de la competencia en fuentes abiertas.",
+          "isCorrect": true,
+          "rationale": "Esta t\u00e9cnica automatiza la captura de datos de la web donde la informaci\u00f3n est\u00e1 disponible p\u00fablicamente pero no organizada."
+        },
+        {
+          "text": "Elimina la necesidad de utilizar protocolos de comunicaci\u00f3n como MQTT.",
+          "isCorrect": false,
+          "rationale": "El web scraping y MQTT operan en \u00e1mbitos distintos: uno es para datos web y el otro para telemetr\u00eda f\u00edsica."
+        },
+        {
+          "text": "Asegura que los datos capturados est\u00e9n libres de anomal\u00edas y duplicados.",
+          "isCorrect": false,
+          "rationale": "Al capturar datos del mundo real mediante scraping, estos suelen ser ca\u00f3ticos y requieren un proceso de limpieza posterior."
+        }
+      ],
+      "hint": "Piensa en el monitoreo masivo de sitios web de terceros."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la raz\u00f3n principal por la que el formato JSON domina la transmisi\u00f3n de informaci\u00f3n en APIs actuales?",
+      "answerOptions": [
+        {
+          "text": "Es el \u00fanico formato que permite la autenticaci\u00f3n mediante API Keys.",
+          "isCorrect": false,
+          "rationale": "La autenticaci\u00f3n es un componente de la API independiente del formato de datos utilizado para el intercambio."
+        },
+        {
+          "text": "Permite almacenar datos relacionales de forma m\u00e1s estructurada que SQL.",
+          "isCorrect": false,
+          "rationale": "SQL sigue siendo el est\u00e1ndar para la interacci\u00f3n con bases relacionales internas de forma estructurada."
+        },
+        {
+          "text": "Es extremadamente ligero y consume el m\u00ednimo ancho de banda posible.",
+          "isCorrect": true,
+          "rationale": "Su eficiencia t\u00e9cnica permite transmitir informaci\u00f3n compleja de manera r\u00e1pida y con pocos recursos de red."
+        },
+        {
+          "text": "Fue dise\u00f1ado espec\u00edficamente para el control de maquinaria industrial pesada.",
+          "isCorrect": false,
+          "rationale": "JSON naci\u00f3 para la programaci\u00f3n web, aunque su uso se haya extendido a m\u00faltiples industrias por su ligereza."
+        }
+      ],
+      "hint": "Considera la relaci\u00f3n entre la complejidad de la informaci\u00f3n y el consumo de recursos de red."
+    },
+    {
+      "question": "En la anatom\u00eda de una API, \u00bfqu\u00e9 funci\u00f3n cumplen los par\u00e1metros?",
+      "answerOptions": [
+        {
+          "text": "Act\u00faan como la direcci\u00f3n URL que apunta al recurso espec\u00edfico en el servidor.",
+          "isCorrect": false,
+          "rationale": "Esta funci\u00f3n corresponde al Endpoint, no a los par\u00e1metros."
+        },
+        {
+          "text": "Funcionan como c\u00f3digos de autenticaci\u00f3n para servicios premium o restringidos.",
+          "isCorrect": false,
+          "rationale": "Esta es la funci\u00f3n de la API Key, que garantiza la seguridad del flujo de datos."
+        },
+        {
+          "text": "Sirven como filtros quir\u00fargicos para aislar datos exactos y descartar el ruido.",
+          "isCorrect": true,
+          "rationale": "Los par\u00e1metros permiten especificar qu\u00e9 subconjunto de datos se requiere, como un ticker financiero espec\u00edfico."
+        },
+        {
+          "text": "Traducen autom\u00e1ticamente el lenguaje de programaci\u00f3n al formato JSON.",
+          "isCorrect": false,
+          "rationale": "Los par\u00e1metros no realizan traducciones de formato; simplemente definen los criterios de la consulta."
+        }
+      ],
+      "hint": "Imagina que necesitas buscar solo el precio de un metal espec\u00edfico en una bolsa de valores llena de datos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 papel desempe\u00f1a el componente 'Broker' en la arquitectura del protocolo MQTT?",
+      "answerOptions": [
+        {
+          "text": "Instala sensores en la maquinaria para emitir lecturas de forma aut\u00f3noma.",
+          "isCorrect": false,
+          "rationale": "Los sensores act\u00faan como publicadores, no como brokers en esta arquitectura de comunicaci\u00f3n."
+        },
+        {
+          "text": "Recibe los mensajes de los sensores y los organiza met\u00f3dicamente en t\u00f3picos.",
+          "isCorrect": true,
+          "rationale": "El broker act\u00faa como un nodo central que gestiona la distribuci\u00f3n de mensajes entre publicadores y suscriptores."
+        },
+        {
+          "text": "Solicita \u00fanicamente la informaci\u00f3n vital para el proceso de decisi\u00f3n final.",
+          "isCorrect": false,
+          "rationale": "Esta es la funci\u00f3n de las aplicaciones corporativas que act\u00faan como suscriptores."
+        },
+        {
+          "text": "Elimina los duplicados de la base de datos utilizando la librer\u00eda Pandas.",
+          "isCorrect": false,
+          "rationale": "La limpieza con Pandas ocurre en la etapa de depuraci\u00f3n, no durante el flujo de telemetr\u00eda en tiempo real del broker."
+        }
+      ],
+      "hint": "Visualiza al intermediario que organiza los canales tem\u00e1ticos de informaci\u00f3n."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se logra que una planta industrial gigantesca gestione su telemetr\u00eda con solo $10$ GB mensuales?",
+      "answerOptions": [
+        {
+          "text": "Reduciendo la frecuencia de monitoreo a una lectura diaria por m\u00e1quina.",
+          "isCorrect": false,
+          "rationale": "La telemetr\u00eda moderna reporta de manera continua y aut\u00f3noma, no con intervalos largos."
+        },
+        {
+          "text": "Utilizando la ligereza t\u00e9cnica del protocolo MQTT para transmitir datos.",
+          "isCorrect": true,
+          "rationale": "La eficiencia del protocolo MQTT permite un flujo masivo de datos con un consumo de ancho de banda m\u00ednimo."
+        },
+        {
+          "text": "Almacenando los datos localmente en bit\u00e1coras f\u00edsicas antes de enviarlos.",
+          "isCorrect": false,
+          "rationale": "El sistema se basa en la autonom\u00eda tecnol\u00f3gica y tiempo real, eliminando el uso de bit\u00e1coras manuales."
+        },
+        {
+          "text": "Limitando la conexi\u00f3n solo a m\u00e1quinas que presentan fallos cr\u00edticos detectados.",
+          "isCorrect": false,
+          "rationale": "El monitoreo es constante para todos los activos industriales para asegurar una optimizaci\u00f3n sin precedentes."
+        }
+      ],
+      "hint": "La clave est\u00e1 en la arquitectura de comunicaci\u00f3n dise\u00f1ada para entornos de ancho de banda limitado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el principal riesgo de omitir la fase de ingenier\u00eda de limpieza y preparaci\u00f3n de datos?",
+      "answerOptions": [
+        {
+          "text": "El aumento innecesario del ancho de banda consumido por la organizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El consumo de ancho de banda se gestiona en la fase de captura, no en la de limpieza posterior."
+        },
+        {
+          "text": "La imposibilidad de utilizar herramientas visuales como Orange.",
+          "isCorrect": false,
+          "rationale": "Orange puede procesar datos sucios, pero las conclusiones obtenidas carecer\u00edan de validez estrat\u00e9gica."
+        },
+        {
+          "text": "Que errores t\u00e9cnicos o sesgos de origen corrompan las conclusiones estrat\u00e9gicas.",
+          "isCorrect": true,
+          "rationale": "Sin refinamiento, el an\u00e1lisis se basa en datos basura, lo que lleva a decisiones err\u00f3neas que afectan la rentabilidad."
+        },
+        {
+          "text": "La p\u00e9rdida autom\u00e1tica de la interoperabilidad sist\u00e9mica con proveedores externos.",
+          "isCorrect": false,
+          "rationale": "La interoperabilidad se logra mediante APIs y formatos comunes, independientemente de la limpieza interna del dato."
+        }
+      ],
+      "hint": "Recuerda el dicho sobre procesar informaci\u00f3n de mala calidad."
+    },
+    {
+      "question": "\u00bfQu\u00e9 desventaja presenta la t\u00e9cnica de 'Drop' (eliminaci\u00f3n de registros) para manejar valores nulos (NaN)?",
+      "answerOptions": [
+        {
+          "text": "Introduce promedios que inventan una realidad inexistente.",
+          "isCorrect": false,
+          "rationale": "Esto es una consecuencia de la imputaci\u00f3n de datos, no de la eliminaci\u00f3n de registros."
+        },
+        {
+          "text": "Requiere un alto consumo de procesamiento en la nube con Google Colab.",
+          "isCorrect": false,
+          "rationale": "Eliminar registros es una operaci\u00f3n computacionalmente sencilla que no demanda recursos excesivos."
+        },
+        {
+          "text": "Puede destruir la significancia estad\u00edstica al reducir dr\u00e1sticamente el volumen de datos.",
+          "isCorrect": true,
+          "rationale": "Al borrar filas con valores faltantes, se corre el riesgo de quedarse con una muestra demasiado peque\u00f1a para ser v\u00e1lida."
+        },
+        {
+          "text": "Genera una redundancia que distorsiona el panorama comercial de la empresa.",
+          "isCorrect": false,
+          "rationale": "La redundancia es causada por los duplicados, no por la eliminaci\u00f3n de registros incompletos."
+        }
+      ],
+      "hint": "Considera qu\u00e9 sucede con el tama\u00f1o de tu base de datos si borras cada fila que tenga un peque\u00f1o error."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 situaci\u00f3n la t\u00e9cnica de imputaci\u00f3n de datos es preferible a la eliminaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Cuando se busca garantizar la pureza absoluta trabajando solo con informaci\u00f3n real.",
+          "isCorrect": false,
+          "rationale": "La eliminaci\u00f3n (Drop) es la que garantiza trabajar solo con datos reales y completos."
+        },
+        {
+          "text": "Cuando los modelos de machine learning exigen un volumen de datos que no se puede perder.",
+          "isCorrect": true,
+          "rationale": "La imputaci\u00f3n permite mantener el tama\u00f1o del conjunto de datos necesario para que los modelos funcionen correctamente."
+        },
+        {
+          "text": "Cuando se desea evitar por completo el sesgo en la distribuci\u00f3n real de los datos.",
+          "isCorrect": false,
+          "rationale": "La imputaci\u00f3n conlleva precisamente el riesgo de sesgar la distribuci\u00f3n si no se realiza con cuidado metodol\u00f3gico."
+        },
+        {
+          "text": "Cuando el error proviene de un sensor que marca una temperatura f\u00edsicamente imposible.",
+          "isCorrect": false,
+          "rationale": "Los valores f\u00edsicamente imposibles suelen tratarse como anomal\u00edas u outliers, no necesariamente como datos faltantes a imputar."
+        }
+      ],
+      "hint": "Piensa en los requisitos de cantidad de informaci\u00f3n que tienen los algoritmos avanzados."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia cr\u00edtica entre un error t\u00e9cnico y una fluctuaci\u00f3n genuina del negocio al analizar outliers?",
+      "answerOptions": [
+        {
+          "text": "Los errores t\u00e9cnicos siempre son duplicados causados por fallas en el internet.",
+          "isCorrect": false,
+          "rationale": "Los duplicados son registros repetidos, mientras que los outliers son valores extremos que pueden o no ser errores."
+        },
+        {
+          "text": "Las fluctuaciones genuinas son variaciones extremas pero reales que revelan oportunidades o crisis.",
+          "isCorrect": true,
+          "rationale": "Identificar un comportamiento real, como un pico de ventas viral, es vital para no quedar ciego ante la realidad del mercado."
+        },
+        {
+          "text": "Saber la diferencia solo es posible si se utiliza la herramienta visual Orange.",
+          "isCorrect": false,
+          "rationale": "Aunque Orange ayuda, la diferenciaci\u00f3n es un 'arte cient\u00edfico' que depende del an\u00e1lisis del contexto y no solo de una herramienta."
+        },
+        {
+          "text": "Los errores t\u00e9cnicos no afectan la integridad estad\u00edstica de la base de datos.",
+          "isCorrect": false,
+          "rationale": "Cualquier dato an\u00f3malo no corregido distorsiona el panorama y puede llevar a conclusiones err\u00f3neas."
+        }
+      ],
+      "hint": "Considera por qu\u00e9 un pico repentino en las ventas podr\u00eda no ser un fallo del sistema."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 los registros duplicados se consideran una amenaza para la integridad financiera de una organizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Porque aumentan los costos de almacenamiento en servidores locales.",
+          "isCorrect": false,
+          "rationale": "Aunque ocupan espacio, la amenaza cr\u00edtica es la distorsi\u00f3n de la informaci\u00f3n para la toma de decisiones."
+        },
+        {
+          "text": "Porque pueden hacer que el sistema reporte ingresos mucho mayores a los reales.",
+          "isCorrect": true,
+          "rationale": "Si una transacci\u00f3n se registra varias veces por fallas de red, el panorama comercial se vuelve ficticio y enga\u00f1oso."
+        },
+        {
+          "text": "Porque impiden el uso de gr\u00e1ficos de dispersi\u00f3n para cruzar variables.",
+          "isCorrect": false,
+          "rationale": "Los gr\u00e1ficos de dispersi\u00f3n pueden realizarse, pero mostrar\u00e1n relaciones distorsionadas por la redundancia de datos."
+        },
+        {
+          "text": "Porque obligan a la empresa a contratar analistas externos para limpiar la base de datos.",
+          "isCorrect": false,
+          "rationale": "La limpieza es un proceso t\u00e9cnico necesario, pero el riesgo financiero radica en la falsedad de los estados de cuenta reportados."
+        }
+      ],
+      "hint": "Piensa en las consecuencias de que una sola venta aparezca tres veces en la contabilidad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja de utilizar plataformas como Google Colab en el an\u00e1lisis de datos?",
+      "answerOptions": [
+        {
+          "text": "Permite procesar datos sin necesidad de realizar una limpieza previa.",
+          "isCorrect": false,
+          "rationale": "Ninguna plataforma elimina la necesidad de limpiar los datos antes de un an\u00e1lisis serio."
+        },
+        {
+          "text": "Elimina la dependencia del lenguaje Python para la manipulaci\u00f3n compleja.",
+          "isCorrect": false,
+          "rationale": "Google Colab utiliza Python y librer\u00edas como Pandas para el procesamiento de alto nivel."
+        },
+        {
+          "text": "Democratiza el an\u00e1lisis al ofrecer procesamiento en la nube sin costos de servidores locales.",
+          "isCorrect": true,
+          "rationale": "Permite realizar tareas pesadas de datos directamente en la nube, reduciendo las barreras de infraestructura f\u00edsica."
+        },
+        {
+          "text": "Sustituye por completo el uso de APIs para la adquisici\u00f3n de informaci\u00f3n externa.",
+          "isCorrect": false,
+          "rationale": "Colab es un entorno de an\u00e1lisis, no una fuente de datos en s\u00ed misma que reemplace a las APIs."
+        }
+      ],
+      "hint": "Enf\u00f3cate en el acceso a la potencia de c\u00f3mputo y la ubicaci\u00f3n del procesamiento."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa la filosof\u00eda 'Nullius in verba' para un arquitecto de datos?",
+      "answerOptions": [
+        {
+          "text": "La importancia de documentar cada paso del proceso de captura de forma verbal.",
+          "isCorrect": false,
+          "rationale": "La frase significa 'en la palabra de nadie', sugiriendo lo opuesto a basarse solo en testimonios verbales."
+        },
+        {
+          "text": "Que la intuici\u00f3n de los directivos con experiencia es la base de la estrategia.",
+          "isCorrect": false,
+          "rationale": "La filosof\u00eda cient\u00edfica sostiene que la evidencia debe prevalecer sobre la autoridad o la intuici\u00f3n personal."
+        },
+        {
+          "text": "Que la evidencia estad\u00edstica debe prevalecer sobre las corazonadas corporativas.",
+          "isCorrect": true,
+          "rationale": "Este lema enfatiza que los datos analizados rigurosamente son la \u00fanica fuente de verdad incuestionable."
+        },
+        {
+          "text": "La necesidad de traducir los hallazgos t\u00e9cnicos a un lenguaje comprensible para todos.",
+          "isCorrect": false,
+          "rationale": "Aunque la comunicaci\u00f3n es importante, el lema se refiere a la validaci\u00f3n cient\u00edfica mediante hechos y no palabras."
+        }
+      ],
+      "hint": "Piensa en el conflicto entre un dato matem\u00e1tico y una opini\u00f3n subjetiva de alguien con poder."
+    },
+    {
+      "question": "En el caso del censo de EE. UU. 2013, \u00bfqu\u00e9 utilidad tiene el uso de histogramas?",
+      "answerOptions": [
+        {
+          "text": "Identificar la relaci\u00f3n directa entre el nivel de ingresos y la ubicaci\u00f3n geogr\u00e1fica.",
+          "isCorrect": false,
+          "rationale": "Relacionar dos variables suele hacerse con gr\u00e1ficos de dispersi\u00f3n, no con histogramas."
+        },
+        {
+          "text": "Validar si los estereotipos sociales sobre sectores laborales coinciden con la realidad medible.",
+          "isCorrect": true,
+          "rationale": "Los histogramas permiten ver c\u00f3mo se distribuye realmente el empleo en una poblaci\u00f3n masiva."
+        },
+        {
+          "text": "Aislar datos financieros de empresas mineras mediante el uso de tickers.",
+          "isCorrect": false,
+          "rationale": "Los tickers y el aislamiento de datos financieros son propios de la consulta a APIs de bolsa, no del an\u00e1lisis de un censo."
+        },
+        {
+          "text": "Eliminar autom\u00e1ticamente los registros duplicados de los 130,000 puntos de datos.",
+          "isCorrect": false,
+          "rationale": "Un histograma es una herramienta de visualizaci\u00f3n y exploraci\u00f3n, no un algoritmo de limpieza de duplicados."
+        }
+      ],
+      "hint": "Se trata de observar la frecuencia y distribuci\u00f3n de una sola variable, como el tipo de empleo."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se utilizan principalmente los gr\u00e1ficos de dispersi\u00f3n (scatter plots) en un an\u00e1lisis exploratorio?",
+      "answerOptions": [
+        {
+          "text": "Para observar la distribuci\u00f3n de frecuencias de una sola variable categ\u00f3rica.",
+          "isCorrect": false,
+          "rationale": "Esta es la funci\u00f3n de los histogramas o diagramas de barras."
+        },
+        {
+          "text": "Para cruzar variables y detectar relaciones, como entre demograf\u00eda y niveles de ingreso.",
+          "isCorrect": true,
+          "rationale": "Los scatter plots permiten visualizar c\u00f3mo se comporta una variable en relaci\u00f3n con otra para identificar patrones."
+        },
+        {
+          "text": "Para organizar los mensajes recibidos por un broker en canales tem\u00e1ticos.",
+          "isCorrect": false,
+          "rationale": "La organizaci\u00f3n por canales tem\u00e1ticos es parte del protocolo MQTT en telemetr\u00eda industrial."
+        },
+        {
+          "text": "Para determinar el endpoint exacto al que debe apuntar una consulta de API.",
+          "isCorrect": false,
+          "rationale": "El endpoint es una direcci\u00f3n de red y no se determina mediante gr\u00e1ficos de dispersi\u00f3n."
+        }
+      ],
+      "hint": "Piensa en la interacci\u00f3n visual entre dos ejes de datos diferentes."
+    },
+    {
+      "question": "\u00bfC\u00f3mo contribuye la automatizaci\u00f3n con APIs e IoT a la eficiencia operativa empresarial?",
+      "answerOptions": [
+        {
+          "text": "Aumentando la cantidad de operarios necesarios para supervisar las m\u00e1quinas.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda IoT permite que los activos reporten su estado de forma aut\u00f3noma, reduciendo la necesidad de supervisi\u00f3n manual."
+        },
+        {
+          "text": "Reduciendo dr\u00e1sticamente los errores manuales y los costos de intermediaci\u00f3n de datos.",
+          "isCorrect": true,
+          "rationale": "La captura automatizada elimina el error humano de las bit\u00e1coras y agiliza el flujo de informaci\u00f3n estrat\u00e9gica."
+        },
+        {
+          "text": "Garantizando que todos los datos capturados sean siempre de calidad perfecta.",
+          "isCorrect": false,
+          "rationale": "Aunque automatiza la captura, los datos siguen requiriendo limpieza debido a posibles ruidos o fallas t\u00e9cnicas de origen."
+        },
+        {
+          "text": "Haciendo que la competencia no pueda acceder a ninguna informaci\u00f3n de mercado.",
+          "isCorrect": false,
+          "rationale": "La automatizaci\u00f3n propia mejora la eficiencia interna, pero no impide por s\u00ed misma las acciones de la competencia."
+        }
+      ],
+      "hint": "Enf\u00f3cate en la eliminaci\u00f3n de la intervenci\u00f3n humana en la recolecci\u00f3n de datos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 permite a una organizaci\u00f3n encontrar oportunidades de mercado donde otros solo ven 'ruido estad\u00edstico'?",
+      "answerOptions": [
+        {
+          "text": "Confiar exclusivamente en la intuici\u00f3n de los directores con m\u00e1s a\u00f1os en el sector.",
+          "isCorrect": false,
+          "rationale": "La intuici\u00f3n suele ser superada por la evidencia estad\u00edstica contundente en entornos modernos."
+        },
+        {
+          "text": "Ignorar los valores at\u00edpicos (outliers) para mantener un gr\u00e1fico visualmente limpio.",
+          "isCorrect": false,
+          "rationale": "Borrar outliers genuinos puede dejar a la empresa ciega ante crisis o grandes oportunidades."
+        },
+        {
+          "text": "Realizar un an\u00e1lisis exploratorio de datos (EDA) avanzado basado en evidencia.",
+          "isCorrect": true,
+          "rationale": "Interrogar los datos limpios para revelar patrones ocultos permite basar las aperturas de tiendas o productos en realidades estad\u00edsticas."
+        },
+        {
+          "text": "Utilizar \u00fanicamente fuentes de informaci\u00f3n internas para evitar distracciones externas.",
+          "isCorrect": false,
+          "rationale": "Limitarse a datos internos sesga la visi\u00f3n y oculta las realidades generales del mercado."
+        }
+      ],
+      "hint": "Tiene que ver con el proceso de 'interrogar' a los datos para que revelen patrones."
+    },
+    {
+      "question": "En el flujo de comunicaci\u00f3n m\u00e1quina a m\u00e1quina de MQTT, \u00bfqu\u00e9 acci\u00f3n realizan las aplicaciones corporativas?",
+      "answerOptions": [
+        {
+          "text": "Act\u00faan como publicadores emitiendo lecturas de sensores.",
+          "isCorrect": false,
+          "rationale": "Los sensores instalados en la maquinaria son los que act\u00faan como publicadores."
+        },
+        {
+          "text": "Operan como suscriptores que solicitan informaci\u00f3n de t\u00f3picos espec\u00edficos.",
+          "isCorrect": true,
+          "rationale": "Las apps levantan la mano para recibir solo la informaci\u00f3n vital de los canales que les interesan para decidir."
+        },
+        {
+          "text": "Funcionan como brokers para organizar los miles de mensajes entrantes.",
+          "isCorrect": false,
+          "rationale": "El broker es un componente central independiente (como HiveMQ) que gestiona el tr\u00e1fico, no la aplicaci\u00f3n final."
+        },
+        {
+          "text": "Establecen el formato JSON para la comunicaci\u00f3n web entre servidores.",
+          "isCorrect": false,
+          "rationale": "Aunque pueden usar JSON, su rol principal en MQTT es la suscripci\u00f3n a t\u00f3picos de telemetr\u00eda."
+        }
+      ],
+      "hint": "Considera qui\u00e9n es el destinatario final que 'consume' la informaci\u00f3n filtrada."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Estructura y jerarqu\u00eda de la ciencia de datos",
+      "Principios estrat\u00e9gicos de recolecci\u00f3n de informaci\u00f3n",
+      "Arquitecturas de adquisici\u00f3n de datos digitales y f\u00edsicos",
+      "Interoperabilidad y protocolos de comunicaci\u00f3n (APIs y MQTT)",
+      "Ingenier\u00eda de limpieza y depuraci\u00f3n de macrodatos",
+      "An\u00e1lisis exploratorio de datos (EDA)"
+    ],
+    "followUp": [
+      "Implementaci\u00f3n de modelos predictivos modernos",
+      "Gesti\u00f3n de infraestructuras Big Data",
+      "Estrategias avanzadas de diversificaci\u00f3n de fuentes de informaci\u00f3n",
+      "Optimizaci\u00f3n de procesos industriales mediante IoT",
+      "Metodolog\u00edas estad\u00edsticas para la validaci\u00f3n de hip\u00f3tesis de negocio"
+    ]
+  }
+}

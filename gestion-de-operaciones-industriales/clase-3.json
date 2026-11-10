@@ -1,0 +1,538 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 elemento se considera la \u00faltima barrera de defensa para la integridad f\u00edsica en entornos industriales de alto riesgo?",
+      "answerOptions": [
+        {
+          "text": "El equipo de protecci\u00f3n personal (EPP)",
+          "isCorrect": false,
+          "rationale": "Aunque es fundamental para la seguridad f\u00edsica, el material destaca que la gesti\u00f3n emocional del l\u00edder es la barrera definitiva que precede al uso del equipo."
+        },
+        {
+          "text": "La gesti\u00f3n emocional del l\u00edder",
+          "isCorrect": true,
+          "rationale": "La estabilidad y capacidad emocional del l\u00edder permiten mitigar riesgos humanos antes de que se conviertan en incidentes f\u00edsicos."
+        },
+        {
+          "text": "El cumplimiento estricto de checklists t\u00e9cnicos",
+          "isCorrect": false,
+          "rationale": "Los checklists son herramientas procedimentales, pero no abordan el factor humano subyacente que causa la mayor\u00eda de los accidentes."
+        },
+        {
+          "text": "La automatizaci\u00f3n de procesos cr\u00edticos",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda reduce fallas t\u00e9cnicas, pero no reemplaza la necesidad de inteligencia social en la gesti\u00f3n del personal."
+        }
+      ],
+      "hint": "Considere qu\u00e9 factor humano act\u00faa como cimiento para la seguridad antes de las herramientas f\u00edsicas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje de los accidentes industriales tiene su ra\u00edz en factores puramente emocionales del colaborador?",
+      "answerOptions": [
+        {
+          "text": "$30\\%$",
+          "isCorrect": false,
+          "rationale": "Esta cifra es inferior a la estad\u00edstica real mencionada sobre los incidentes vinculados a la carga emocional y el bienestar."
+        },
+        {
+          "text": "$40\\%$",
+          "isCorrect": true,
+          "rationale": "Se estima que un $40\\%$ de los accidentes no se deben a fallas t\u00e9cnicas, sino a la falta de bienestar o estr\u00e9s cr\u00f3nico que afecta la alerta del trabajador."
+        },
+        {
+          "text": "$65\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje corresponde espec\u00edficamente a los incidentes vinculados a fallas en la comunicaci\u00f3n, no a la ra\u00edz emocional general."
+        },
+        {
+          "text": "$55\\%$",
+          "isCorrect": false,
+          "rationale": "No es la cifra exacta proporcionada para describir el impacto del desborde emocional en la seguridad operativa."
+        }
+      ],
+      "hint": "Piense en una cifra cercana a la mitad, que representa la 'mochila' de problemas personales en el trabajo."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el pilar de la autorregulaci\u00f3n dentro de la inteligencia emocional aplicada?",
+      "answerOptions": [
+        {
+          "text": "En reconocer exactamente qu\u00e9 sentimos en el instante",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n pertenece al pilar de la autoconciencia, que es el paso previo a la regulaci\u00f3n de los impulsos."
+        },
+        {
+          "text": "En la capacidad de frenar impulsos y mantener la cabeza fr\u00eda bajo estr\u00e9s",
+          "isCorrect": true,
+          "rationale": "La autorregulaci\u00f3n permite al l\u00edder o trabajador controlar sus reacciones inmediatas para no comprometer la operaci\u00f3n en momentos cr\u00edticos."
+        },
+        {
+          "text": "En la empat\u00eda t\u00e1ctica para leer las din\u00e1micas del equipo",
+          "isCorrect": false,
+          "rationale": "Entender al equipo es parte de la conciencia social, no de la gesti\u00f3n del control personal interno."
+        },
+        {
+          "text": "En influir con transparencia para manejar roces constructivamente",
+          "isCorrect": false,
+          "rationale": "Este concepto se refiere a la gesti\u00f3n de relaciones, el cuarto pilar de la inteligencia emocional."
+        }
+      ],
+      "hint": "Se relaciona con el control del temperamento y la respuesta ante situaciones de mucha presi\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un beneficio operativo directo de implementar herramientas como el 'journaling' o el botiqu\u00edn de emergencia emocional?",
+      "answerOptions": [
+        {
+          "text": "Eliminar la necesidad de protocolos t\u00e9cnicos de seguridad",
+          "isCorrect": false,
+          "rationale": "Las herramientas emocionales complementan los protocolos t\u00e9cnicos, pero nunca los sustituyen en una operaci\u00f3n industrial."
+        },
+        {
+          "text": "Prevenir el agotamiento cr\u00f3nico o burnout",
+          "isCorrect": true,
+          "rationale": "Estas pr\u00e1cticas permiten procesar el estr\u00e9s y la carga mental, evitando que el personal llegue a un estado de agotamiento extremo."
+        },
+        {
+          "text": "Reducir los costos de mantenimiento preventivo de maquinaria",
+          "isCorrect": false,
+          "rationale": "Aunque mejora la atenci\u00f3n del operario, su impacto primario es en el bienestar humano y no directamente en los costos de hardware."
+        },
+        {
+          "text": "Aumentar la velocidad de ejecuci\u00f3n sacrificando la precisi\u00f3n",
+          "isCorrect": false,
+          "rationale": "El objetivo es la eficiencia sostenible y la seguridad, no la rapidez a costa de la calidad o el riesgo."
+        }
+      ],
+      "hint": "Enfoque su respuesta en la protecci\u00f3n de la salud mental del trabajador a largo plazo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica distingue a la comunicaci\u00f3n basada en inteligencia emocional frente al enfoque industrial tradicional?",
+      "answerOptions": [
+        {
+          "text": "Es unidireccional para garantizar que se cumplan las \u00f3rdenes",
+          "isCorrect": false,
+          "rationale": "La comunicaci\u00f3n tradicional es la que suele ser unidireccional y centrada \u00fanicamente en emitir mandatos."
+        },
+        {
+          "text": "Es bidireccional y pone a las personas en el centro del proceso",
+          "isCorrect": true,
+          "rationale": "Este enfoque busca una conexi\u00f3n humana y la verificaci\u00f3n del mensaje, permitiendo que el operario tambi\u00e9n sea escuchado."
+        },
+        {
+          "text": "Se centra exclusivamente en la transmisi\u00f3n de datos fr\u00edos y resultados",
+          "isCorrect": false,
+          "rationale": "La frialdad en los datos es el paradigma antiguo que se est\u00e1 intentando transformar hacia una arquitectura emocional."
+        },
+        {
+          "text": "Evita el uso de lenguaje inclusivo para no generar distracciones",
+          "isCorrect": false,
+          "rationale": "Al contrario, este modelo promueve un lenguaje que incluya a todos para lograr una conexi\u00f3n m\u00e1s profunda."
+        }
+      ],
+      "hint": "Busque el t\u00e9rmino que implica un intercambio de informaci\u00f3n en dos sentidos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje de incidentes de seguridad en el sector industrial se vincula directamente a una comunicaci\u00f3n deficiente?",
+      "answerOptions": [
+        {
+          "text": "$37\\%$",
+          "isCorrect": false,
+          "rationale": "Esta es la cifra de reducci\u00f3n lograda por Escondida, no la tasa de incidentes causados por fallas comunicativas."
+        },
+        {
+          "text": "$40\\%$",
+          "isCorrect": false,
+          "rationale": "Esta cifra corresponde a los accidentes con ra\u00edz emocional, no espec\u00edficamente a los errores de comunicaci\u00f3n."
+        },
+        {
+          "text": "$65\\%$",
+          "isCorrect": true,
+          "rationale": "M\u00e1s de la mitad de los incidentes ocurren porque las instrucciones no fueron claras, no se escucharon o se malinterpretaron."
+        },
+        {
+          "text": "$75\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra alta, no es el dato exacto reportado para los incidentes por comunicaci\u00f3n deficiente."
+        }
+      ],
+      "hint": "Es la misma cifra porcentual que Newmont logr\u00f3 reducir en sus conflictos de licencia social."
+    },
+    {
+      "question": "\u00bfQu\u00e9 resultado tangible obtuvo la operaci\u00f3n minera Escondida al aplicar una gesti\u00f3n comunicativa consciente?",
+      "answerOptions": [
+        {
+          "text": "Una reducci\u00f3n del $37\\%$ en incidentes por fallas de comunicaci\u00f3n",
+          "isCorrect": true,
+          "rationale": "Al mejorar la forma en que los l\u00edderes emiten y verifican mensajes, se logr\u00f3 este descenso significativo en la accidentabilidad."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de los retrasos en el mantenimiento (backlog)",
+          "isCorrect": false,
+          "rationale": "Aunque mejora la coordinaci\u00f3n, el caso de \u00e9xito se enfoca espec\u00edficamente en m\u00e9tricas de seguridad e incidentes."
+        },
+        {
+          "text": "Un aumento del $65\\%$ en la producci\u00f3n de cobre anual",
+          "isCorrect": false,
+          "rationale": "La m\u00e9trica mencionada est\u00e1 ligada a la seguridad y la efectividad comunicativa, no directamente al volumen de producci\u00f3n."
+        },
+        {
+          "text": "La sustituci\u00f3n de toda la jerarqu\u00eda r\u00edgida por equipos aut\u00f3nomos",
+          "isCorrect": false,
+          "rationale": "El cambio se centr\u00f3 en la gesti\u00f3n consciente del mensaje, no en la disoluci\u00f3n de la estructura organizacional."
+        }
+      ],
+      "hint": "Busque el impacto espec\u00edfico relacionado con la seguridad y el flujo de informaci\u00f3n."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 las jergas t\u00e9cnicas como 'chif\u00f3n' o 'callabo' representan un desaf\u00edo de seguridad?",
+      "answerOptions": [
+        {
+          "text": "Porque son t\u00e9rminos obsoletos que ya no se usan en la miner\u00eda moderna",
+          "isCorrect": false,
+          "rationale": "Son dialectos operativos muy actuales y comunes, pero su riesgo reside en la exclusi\u00f3n."
+        },
+        {
+          "text": "Porque pueden excluir a nuevos miembros o contratistas, causando accidentes",
+          "isCorrect": true,
+          "rationale": "No nivelar el lenguaje impide que todos entiendan los riesgos, lo que puede derivar en accidentes graves por malentendidos."
+        },
+        {
+          "text": "Porque su uso consume demasiado tiempo durante las reuniones de seguridad",
+          "isCorrect": false,
+          "rationale": "El problema no es el tiempo que toma decirlos, sino la falta de comprensi\u00f3n por parte de quienes no dominan el t\u00e9rmino."
+        },
+        {
+          "text": "Porque est\u00e1n prohibidas por las normativas internacionales de comunicaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "No existe tal prohibici\u00f3n; el desaf\u00edo es asegurar que todo el equipo maneje el mismo vocabulario."
+        }
+      ],
+      "hint": "Piense en lo que sucede cuando un integrante del equipo no entiende una palabra clave en una zona de riesgo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 estilo de negociaci\u00f3n se caracteriza por ser sumamente detallista y centrado en cumplir la norma al pie de la letra?",
+      "answerOptions": [
+        {
+          "text": "El estilo asi\u00e1tico",
+          "isCorrect": false,
+          "rationale": "El estilo asi\u00e1tico se describe como muy directo y enfocado exclusivamente en resultados inmediatos y cuotas."
+        },
+        {
+          "text": "El estilo canadiense",
+          "isCorrect": true,
+          "rationale": "Este enfoque prioriza el seguimiento riguroso de los procesos normativos y la especificidad en los detalles."
+        },
+        {
+          "text": "El estilo cooperativo",
+          "isCorrect": false,
+          "rationale": "La cooperaci\u00f3n es una conducta general basada en el respeto, no necesariamente un rasgo cultural espec\u00edfico detallista."
+        },
+        {
+          "text": "El estilo de asalto directo",
+          "isCorrect": false,
+          "rationale": "Esta es una t\u00e9cnica t\u00e1ctica de presi\u00f3n legal o t\u00e9cnica, no un estilo de comunicaci\u00f3n cultural."
+        }
+      ],
+      "hint": "Recuerde el contraste mencionado entre el enfoque en resultados vs. el enfoque en procesos normativos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de la met\u00e1fora que compara el conflicto industrial con la 'fiebre' en una persona?",
+      "answerOptions": [
+        {
+          "text": "Se\u00f1alar que el conflicto es una enfermedad terminal para la empresa",
+          "isCorrect": false,
+          "rationale": "La met\u00e1fora busca justamente lo contrario: desestigmatizar el conflicto y no verlo como un fracaso final."
+        },
+        {
+          "text": "Indicar que el conflicto es un s\u00edntoma que requiere atenci\u00f3n y diagn\u00f3stico",
+          "isCorrect": true,
+          "rationale": "Al igual que la fiebre avisa de una infecci\u00f3n, la tensi\u00f3n advierte que el sistema necesita institucionalizar el di\u00e1logo."
+        },
+        {
+          "text": "Demostrar que los conflictos se resuelven solos con el paso del tiempo",
+          "isCorrect": false,
+          "rationale": "La fiebre requiere diagn\u00f3stico y acci\u00f3n; ignorar el conflicto suele llevar a una escalada de violencia."
+        },
+        {
+          "text": "Sugerir que la temperatura ambiental afecta el humor de los trabajadores",
+          "isCorrect": false,
+          "rationale": "Es una analog\u00eda cl\u00ednica sobre la salud del sistema social, no una observaci\u00f3n sobre el clima f\u00edsico."
+        }
+      ],
+      "hint": "Considere qu\u00e9 mensaje env\u00eda el cuerpo mediante la fiebre respecto a una necesidad de cuidado."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la conducta de negociaci\u00f3n 'mixta'?",
+      "answerOptions": [
+        {
+          "text": "En ceder en todos los puntos para evitar cualquier confrontaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Ceder en todo compromete la integridad operativa y no define a la conducta mixta, que es t\u00e1ctica."
+        },
+        {
+          "text": "En ser inflexible en puntos cr\u00edticos pero flexible en los secundarios",
+          "isCorrect": true,
+          "rationale": "Esta postura combina el realismo operativo con la capacidad de negociar elementos que no afecten el n\u00facleo del negocio."
+        },
+        {
+          "text": "En alternar entre la agresi\u00f3n f\u00edsica y el di\u00e1logo administrativo",
+          "isCorrect": false,
+          "rationale": "La violencia no forma parte de las conductas negociadoras estrat\u00e9gicas buscadas en la industria."
+        },
+        {
+          "text": "En utilizar \u00fanicamente argumentos legales sin considerar el factor humano",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda m\u00e1s cercano a un asalto directo o confrontaci\u00f3n pura, careciendo de la flexibilidad t\u00e1ctica de lo mixto."
+        }
+      ],
+      "hint": "Se trata de un equilibrio entre proteger lo innegociable y permitir concesiones en lo que no es vital."
+    },
+    {
+      "question": "\u00bfQu\u00e9 t\u00e9cnica de negociaci\u00f3n propone avanzar fraccionadamente para destrabar acuerdos complejos?",
+      "answerOptions": [
+        {
+          "text": "El asalto directo",
+          "isCorrect": false,
+          "rationale": "El asalto directo usa presi\u00f3n masiva y t\u00e9cnica, no un avance pausado por partes."
+        },
+        {
+          "text": "La t\u00e1ctica del salami",
+          "isCorrect": true,
+          "rationale": "Permite ir 'pedacito a pedacito' o fracci\u00f3n por fracci\u00f3n para superar un muro de cemento en la negociaci\u00f3n."
+        },
+        {
+          "text": "El MAN (Mejor Alternativa a un Acuerdo Negociado)",
+          "isCorrect": false,
+          "rationale": "El MAN es el l\u00edmite m\u00ednimo aceptable antes de negociar, no una forma de avanzar durante la mesa."
+        },
+        {
+          "text": "La escala de \u00faltimo momento",
+          "isCorrect": false,
+          "rationale": "Esta t\u00e9cnica se usa justo antes del cierre para obtener un beneficio extra, no para destrabar el proceso inicial."
+        }
+      ],
+      "hint": "Lleva el nombre de un embutido que se corta en rodajas finas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue el detonante inicial (d\u00eda 1) en la crisis entre Industrias SA y la comunidad de \u00d1auri?",
+      "answerOptions": [
+        {
+          "text": "Un incendio provocado por manifestantes",
+          "isCorrect": false,
+          "rationale": "La violencia f\u00edsica es la etapa final de la crisis (mes 4), no el origen de la misma."
+        },
+        {
+          "text": "Un silencio administrativo al ignorar un tr\u00e1mite",
+          "isCorrect": true,
+          "rationale": "El conflicto comenz\u00f3 de forma inofensiva al no responder a un documento burocr\u00e1tico, lo que luego gener\u00f3 desinformaci\u00f3n."
+        },
+        {
+          "text": "La llegada de la prensa sensacionalista",
+          "isCorrect": false,
+          "rationale": "La prensa suele aparecer al final cuando ya hay un incidente cr\u00edtico, no en la chispa inicial."
+        },
+        {
+          "text": "La falta de equipos de protecci\u00f3n para la comunidad",
+          "isCorrect": false,
+          "rationale": "El problema fue de gesti\u00f3n de di\u00e1logo y respuesta administrativa, no de dotaci\u00f3n de equipos."
+        }
+      ],
+      "hint": "Fue un acto de omisi\u00f3n burocr\u00e1tica que pareci\u00f3 inofensivo al principio."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n fundamental se extrae del an\u00e1lisis de la 'licencia social'?",
+      "answerOptions": [
+        {
+          "text": "Cumplir con la ley otorga autom\u00e1ticamente el permiso de la comunidad",
+          "isCorrect": false,
+          "rationale": "Se menciona expl\u00edcitamente que cumplir la ley no significa bajo ninguna circunstancia tener permiso social."
+        },
+        {
+          "text": "La licencia social se construye con transparencia y di\u00e1logo temprano",
+          "isCorrect": true,
+          "rationale": "A diferencia de un sello ministerial, la licencia social es un v\u00ednculo de confianza que no se compra ni se decreta."
+        },
+        {
+          "text": "Es m\u00e1s barato reaccionar ante una crisis que invertir en prevenci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La realidad operativa muestra que el di\u00e1logo preventivo es mucho m\u00e1s rentable que mitigar un conflicto ya estallado."
+        },
+        {
+          "text": "Los tr\u00e1mites burocr\u00e1ticos son el \u00fanico requisito para operar con \u00e9xito",
+          "isCorrect": false,
+          "rationale": "Los tr\u00e1mites son solo 'tinta en un papel'; la sostenibilidad depende de la aceptaci\u00f3n de la comunidad."
+        }
+      ],
+      "hint": "Diferencie entre la legalidad institucional y la aceptaci\u00f3n humana del entorno."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la definici\u00f3n de cultura organizacional seg\u00fan el enfoque de personalidad corporativa?",
+      "answerOptions": [
+        {
+          "text": "El manual de procedimientos archivado en la oficina de recursos humanos",
+          "isCorrect": false,
+          "rationale": "La cultura no es el documento escrito, sino la pr\u00e1ctica diaria de los trabajadores."
+        },
+        {
+          "text": "Lo que hacen los operarios cuando nadie los est\u00e1 mirando",
+          "isCorrect": true,
+          "rationale": "Es el conjunto de normas impl\u00edcitas que dictan el comportamiento real en ausencia de supervisi\u00f3n directa."
+        },
+        {
+          "text": "La cantidad de eventos sociales que organiza la empresa al a\u00f1o",
+          "isCorrect": false,
+          "rationale": "Los eventos son actividades de clima, pero la cultura es la personalidad \u00e9tica y operativa de la organizaci\u00f3n."
+        },
+        {
+          "text": "El nivel jer\u00e1rquico que determina qui\u00e9n emite las \u00f3rdenes",
+          "isCorrect": false,
+          "rationale": "La jerarqu\u00eda es parte de la estructura, mientras que la cultura es el hilo conductor del comportamiento de todos."
+        }
+      ],
+      "hint": "Piense en el comportamiento natural de un trabajador a las 3 de la ma\u00f1ana sin jefe presente."
+    },
+    {
+      "question": "\u00bfQu\u00e9 \u00e1rea organizacional suele priorizar la obtenci\u00f3n de la cuota de producci\u00f3n inmediata por encima de otros factores?",
+      "answerOptions": [
+        {
+          "text": "Ingenier\u00eda",
+          "isCorrect": false,
+          "rationale": "Ingenier\u00eda se caracteriza m\u00e1s por la planificaci\u00f3n milim\u00e9trica y la precisi\u00f3n t\u00e9cnica."
+        },
+        {
+          "text": "Operaciones",
+          "isCorrect": true,
+          "rationale": "Esta subcultura vive con la urgencia de sacar la producci\u00f3n diaria, lo que a veces genera fricci\u00f3n con otras \u00e1reas."
+        },
+        {
+          "text": "Mantenimiento",
+          "isCorrect": false,
+          "rationale": "Mantenimiento se enfoca en la prevenci\u00f3n y en tener los equipos listos para funcionar a largo plazo."
+        },
+        {
+          "text": "Gesti\u00f3n Humana",
+          "isCorrect": false,
+          "rationale": "Esta \u00e1rea se centra principalmente en el clima laboral y el desempe\u00f1o del personal."
+        }
+      ],
+      "hint": "Es el \u00e1rea cuyo lenguaje y urgencias giran en torno al cumplimiento del volumen de salida hoy mismo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito de los 'embajadores culturales' en el proceso de alineaci\u00f3n organizacional?",
+      "answerOptions": [
+        {
+          "text": "Vender los productos de la empresa en mercados extranjeros",
+          "isCorrect": false,
+          "rationale": "No es una funci\u00f3n de ventas, sino una funci\u00f3n interna de unificaci\u00f3n de visiones y valores."
+        },
+        {
+          "text": "Desplegar l\u00edderes en el terreno para unificar visiones",
+          "isCorrect": true,
+          "rationale": "Los embajadores ayudan a implementar la estrategia de cultura directamente donde ocurren las cosas (en el campo)."
+        },
+        {
+          "text": "Sustituir a los supervisores t\u00e9cnicos en las paradas cr\u00edticas",
+          "isCorrect": false,
+          "rationale": "No reemplazan la supervisi\u00f3n t\u00e9cnica, sino que refuerzan los comportamientos y normas culturales."
+        },
+        {
+          "text": "Realizar auditor\u00edas legales para sancionar a los trabajadores",
+          "isCorrect": false,
+          "rationale": "Su enfoque es de influencia y alineaci\u00f3n, no de fiscalizaci\u00f3n o castigo legal."
+        }
+      ],
+      "hint": "Son facilitadores que llevan el mensaje de la gerencia a la pr\u00e1ctica diaria en el terreno."
+    },
+    {
+      "question": "\u00bfQu\u00e9 resultado report\u00f3 Newmont tras aplicar marcos de negociaci\u00f3n y alineaci\u00f3n cultural?",
+      "answerOptions": [
+        {
+          "text": "La eliminaci\u00f3n del $40\\%$ de sus fallas mec\u00e1nicas",
+          "isCorrect": false,
+          "rationale": "Esta cifra se asocia con accidentes de ra\u00edz emocional en la industria general, no con el logro espec\u00edfico de Newmont."
+        },
+        {
+          "text": "La reducci\u00f3n del $65\\%$ de sus conflictos de licencia social",
+          "isCorrect": true,
+          "rationale": "Implementar estas herramientas permiti\u00f3 a la empresa evitar la mayor\u00eda de sus disputas con el entorno social."
+        },
+        {
+          "text": "Un incremento del $37\\%$ en la satisfacci\u00f3n del cliente",
+          "isCorrect": false,
+          "rationale": "Newmont es un caso de \u00e9xito en gesti\u00f3n social y operativa, no enfocado en m\u00e9tricas de retail o clientes finales."
+        },
+        {
+          "text": "El ahorro de un $100\\%$ en costos de capacitaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La alineaci\u00f3n cultural requiere inversi\u00f3n en capacitaci\u00f3n constante; no es un \u00e1rea donde se busque eliminar el gasto."
+        }
+      ],
+      "hint": "Se trata de un \u00e9xito masivo en la relaci\u00f3n con las comunidades aleda\u00f1as."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que los protocolos t\u00e9cnicos pueden fallar en situaciones de estr\u00e9s extremo?",
+      "answerOptions": [
+        {
+          "text": "Porque las m\u00e1quinas dejan de funcionar cuando hay mucha presi\u00f3n",
+          "isCorrect": false,
+          "rationale": "El fallo no es de la m\u00e1quina, sino del comportamiento humano bajo condiciones cr\u00edticas."
+        },
+        {
+          "text": "Porque tienden a fallar si no hay una supervisi\u00f3n directa constante",
+          "isCorrect": true,
+          "rationale": "Sin una cultura interiorizada, el humano bajo estr\u00e9s puede omitir pasos del protocolo si no tiene a alguien vigil\u00e1ndolo."
+        },
+        {
+          "text": "Porque los manuales est\u00e1n escritos en idiomas que nadie entiende",
+          "isCorrect": false,
+          "rationale": "Aunque el lenguaje es un reto, la causa principal del fallo en estr\u00e9s es la falta de autorregulaci\u00f3n del comportamiento."
+        },
+        {
+          "text": "Porque son demasiado complejos para ser memorizados por los operarios",
+          "isCorrect": false,
+          "rationale": "La dificultad no es la memoria, sino la capacidad del sistema de autorregularse cuando el l\u00edder no est\u00e1 presente."
+        }
+      ],
+      "hint": "Considere la fragilidad del comportamiento humano cuando se pierde la calma y no hay vigilancia."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el tercer aprendizaje estrat\u00e9gico clave mencionado para aplicar de inmediato en el campo?",
+      "answerOptions": [
+        {
+          "text": "La inteligencia emocional es una habilidad blanda opcional",
+          "isCorrect": false,
+          "rationale": "Se enfatiza repetidamente que no es opcional, sino un activo operativo indispensable."
+        },
+        {
+          "text": "La cultura organizacional garantiza la sostenibilidad operativa",
+          "isCorrect": true,
+          "rationale": "Alinear todas las \u00e1reas asegura que la operaci\u00f3n se mantenga en el tiempo de forma segura y eficiente."
+        },
+        {
+          "text": "El aislamiento geogr\u00e1fico mejora el enfoque en la seguridad",
+          "isCorrect": false,
+          "rationale": "Al contrario, el aislamiento genera una carga emocional pesada que puede alterar negativamente el procesamiento de instrucciones."
+        },
+        {
+          "text": "Las jerarqu\u00edas r\u00edgidas son la mejor forma de evitar accidentes",
+          "isCorrect": false,
+          "rationale": "Las jerarqu\u00edas muy r\u00edgidas a menudo impiden que el trabajador reporte peligros a tiempo por intimidaci\u00f3n."
+        }
+      ],
+      "hint": "Tiene que ver con el hilo conductor que une a todas las \u00e1reas de la empresa."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Inteligencia emocional y social en la industria",
+      "Gesti\u00f3n de la comunicaci\u00f3n operativa",
+      "Negociaci\u00f3n y resoluci\u00f3n de conflictos socioindustriales",
+      "Alineaci\u00f3n y cultura organizacional"
+    ],
+    "followUp": [
+      "Impacto del estr\u00e9s cr\u00f3nico y burnout en la seguridad minera",
+      "Metodolog\u00edas de diagn\u00f3stico FODA para subculturas industriales",
+      "Estrategias de comunicaci\u00f3n intercultural en proyectos globales",
+      "Institucionalizaci\u00f3n del di\u00e1logo temprano para la licencia social"
+    ]
+  }
+}

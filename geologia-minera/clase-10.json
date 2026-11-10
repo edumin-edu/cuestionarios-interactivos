@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el cambio fundamental en la mentalidad de la miner\u00eda actual respecto a la gesti\u00f3n de incidentes?",
+      "answerOptions": [
+        {
+          "text": "Pasar de una reacci\u00f3n ante incidentes a una mentalidad totalmente proactiva.",
+          "isCorrect": true,
+          "rationale": "La transformaci\u00f3n cultural busca integrar la prevenci\u00f3n en el ADN organizacional, anticip\u00e1ndose a los hechos en lugar de solo responder a ellos."
+        },
+        {
+          "text": "Priorizar el cumplimiento legal por encima de la viabilidad financiera.",
+          "isCorrect": false,
+          "rationale": "Si bien el cumplimiento es obligatorio, la seguridad se describe como el eje que sostiene la viabilidad de la operaci\u00f3n, no como un elemento separado."
+        },
+        {
+          "text": "Sustituir los marcos normativos nacionales por est\u00e1ndares internacionales \u00fanicamente.",
+          "isCorrect": false,
+          "rationale": "La normativa local y los est\u00e1ndares globales se complementan y coexisten para fortalecer la estructura de seguridad."
+        },
+        {
+          "text": "Delegar la responsabilidad de la seguridad exclusivamente a los equipos especializados.",
+          "isCorrect": false,
+          "rationale": "La seguridad debe integrarse de forma absoluta en toda la organizaci\u00f3n y no ser vista como una tarea de un solo departamento."
+        }
+      ],
+      "hint": "Se trata de evolucionar de apagar incendios a evitar que el fuego comience."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se complementan el Decreto Supremo 024 y la norma ISO 45001 en la gesti\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "El cumplimiento estricto del decreto nacional sirve como base t\u00e9cnica para alcanzar la certificaci\u00f3n internacional.",
+          "isCorrect": true,
+          "rationale": "La ley local se considera una precuela que prepara el terreno de forma estructurada para los est\u00e1ndares globales."
+        },
+        {
+          "text": "La norma ISO 45001 invalida los requerimientos t\u00e9cnicos del Decreto Supremo 024.",
+          "isCorrect": false,
+          "rationale": "Los est\u00e1ndares internacionales no anulan la ley nacional, sino que se construyen sobre el cumplimiento de la misma."
+        },
+        {
+          "text": "El Decreto Supremo 024 se enfoca solo en lo administrativo mientras la ISO 45001 en lo operativo.",
+          "isCorrect": false,
+          "rationale": "Ambas normativas abarcan aspectos t\u00e9cnicos y de gesti\u00f3n que se entrelazan para erradicar la subjetividad."
+        },
+        {
+          "text": "Son normativas excluyentes que no pueden aplicarse simult\u00e1neamente en una misma operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n moderna utiliza ambos marcos de forma org\u00e1nica para garantizar una seguridad robusta y objetiva."
+        }
+      ],
+      "hint": "Uno es el cimiento local y el otro es el est\u00e1ndar global de alto nivel."
+    },
+    {
+      "question": "\u00bfQu\u00e9 condici\u00f3n es indispensable para que el Plan Anual de Seguridad y Salud Ocupacional tenga validez operativa?",
+      "answerOptions": [
+        {
+          "text": "Contar con la firma y validaci\u00f3n de la alta gerencia.",
+          "isCorrect": true,
+          "rationale": "Sin el respaldo jer\u00e1rquico y el compromiso del gerente general, el plan se reduce a burocracia inerte sin relevancia en el terreno."
+        },
+        {
+          "text": "Ser redactado exclusivamente por consultores externos especializados.",
+          "isCorrect": false,
+          "rationale": "El documento requiere apropiaci\u00f3n interna y compromiso de los l\u00edderes de la organizaci\u00f3n, no solo autor\u00eda externa."
+        },
+        {
+          "text": "Tener un n\u00famero m\u00ednimo de 100 p\u00e1ginas de protocolos t\u00e9cnicos.",
+          "isCorrect": false,
+          "rationale": "La efectividad del plan no depende de su extensi\u00f3n, sino de la asignaci\u00f3n de presupuestos, responsabilidades y validaci\u00f3n jer\u00e1rquica."
+        },
+        {
+          "text": "Ser aprobado \u00fanicamente por el comit\u00e9 de trabajadores sin intervenci\u00f3n de gerencia.",
+          "isCorrect": false,
+          "rationale": "Aunque la participaci\u00f3n es clave, el respaldo de la alta gerencia es el pilar que garantiza los recursos y la autoridad del plan."
+        }
+      ],
+      "hint": "El compromiso debe venir desde la cabeza de la organizaci\u00f3n para que el documento cobre vida."
+    },
+    {
+      "question": "En el contexto de la multiculturalidad minera, \u00bfcu\u00e1l es la diferencia principal entre el modelo occidental y algunos modelos de econom\u00edas emergentes?",
+      "answerOptions": [
+        {
+          "text": "El modelo occidental emplea equipos de seguridad masivos y especializados, mientras que otros pueden ser m\u00e1s minimalistas.",
+          "isCorrect": true,
+          "rationale": "Modelos como el canadiense apuestan por gran especializaci\u00f3n frente a visiones iniciales de otros pa\u00edses que operan con personal muy reducido."
+        },
+        {
+          "text": "El modelo occidental proh\u00edbe el uso de tecnolog\u00eda, confiando solo en la supervisi\u00f3n humana.",
+          "isCorrect": false,
+          "rationale": "Los modelos occidentales suelen ser pioneros en la integraci\u00f3n de tecnolog\u00eda avanzada y especializaci\u00f3n t\u00e9cnica."
+        },
+        {
+          "text": "Los modelos de econom\u00edas emergentes no consideran los riesgos geol\u00f3gicos.",
+          "isCorrect": false,
+          "rationale": "Todas las operaciones mineras consideran los riesgos, la diferencia radica en el estilo de gesti\u00f3n y el tama\u00f1o de los equipos de seguridad."
+        },
+        {
+          "text": "El modelo occidental prioriza la producci\u00f3n sobre la vida, a diferencia de los modelos estatales.",
+          "isCorrect": false,
+          "rationale": "La cultura de valorar la vida por encima de las metas de producci\u00f3n es un objetivo global, independientemente del modelo de gesti\u00f3n."
+        }
+      ],
+      "hint": "Compara la cantidad de profesionales dedicados a la funci\u00f3n de seguridad en cada enfoque."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n fundamental dej\u00f3 la implementaci\u00f3n de capacitaciones de seguridad en quechua en operaciones mineras?",
+      "answerOptions": [
+        {
+          "text": "Que el mensaje de seguridad es m\u00e1s efectivo cuando habla el idioma y valora la identidad cultural del trabajador.",
+          "isCorrect": true,
+          "rationale": "Al comunicarse en la lengua materna, se logr\u00f3 una comprensi\u00f3n t\u00e9cnica perfecta y niveles de cumplimiento superiores a la educaci\u00f3n tradicional."
+        },
+        {
+          "text": "Que los trabajadores nativos no pueden entender conceptos t\u00e9cnicos en espa\u00f1ol.",
+          "isCorrect": false,
+          "rationale": "El punto no es la incapacidad de entender otro idioma, sino la conexi\u00f3n emocional y cultural que facilita el aprendizaje profundo."
+        },
+        {
+          "text": "Que es m\u00e1s econ\u00f3mico traducir manuales que contratar supervisores biling\u00fces.",
+          "isCorrect": false,
+          "rationale": "La estrategia buscaba eficacia en la seguridad y respeto cultural, no necesariamente una reducci\u00f3n de costos administrativos."
+        },
+        {
+          "text": "Que los est\u00e1ndares globales deben aplicarse de forma id\u00e9ntica sin importar la ubicaci\u00f3n geogr\u00e1fica.",
+          "isCorrect": false,
+          "rationale": "El caso demuestra precisamente lo contrario: los est\u00e1ndares deben redise\u00f1arse para calzar con la realidad local."
+        }
+      ],
+      "hint": "Considere la conexi\u00f3n entre el lenguaje del coraz\u00f3n y la comprensi\u00f3n t\u00e9cnica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de aplanar las jerarqu\u00edas verticales en la estructura organizativa de una mina?",
+      "answerOptions": [
+        {
+          "text": "Eliminar el fen\u00f3meno del 'tel\u00e9fono malogrado' y evitar distorsiones en la informaci\u00f3n cr\u00edtica.",
+          "isCorrect": true,
+          "rationale": "Al reducir capas, se conecta directamente a la primera l\u00ednea, agilizando la coordinaci\u00f3n y evitando retrasos que pueden ser fatales."
+        },
+        {
+          "text": "Reducir los salarios de los mandos medios para aumentar la rentabilidad.",
+          "isCorrect": false,
+          "rationale": "El redise\u00f1o busca la seguridad y la eficiencia operativa mediante la comunicaci\u00f3n, no es una medida de ahorro salarial."
+        },
+        {
+          "text": "Permitir que los operarios tomen decisiones financieras sin consultar a la gerencia.",
+          "isCorrect": false,
+          "rationale": "El aplanamiento se enfoca en la coordinaci\u00f3n operativa y de seguridad, no en la transferencia de facultades administrativas de alto nivel."
+        },
+        {
+          "text": "Sustituir la supervisi\u00f3n humana por sistemas de control totalmente automatizados.",
+          "isCorrect": false,
+          "rationale": "Aunque se usa tecnolog\u00eda, el redise\u00f1o busca mejorar la interacci\u00f3n y el flujo de informaci\u00f3n entre las personas del equipo."
+        }
+      ],
+      "hint": "Piense en lo que sucede con un mensaje cuando pasa por demasiadas personas antes de llegar a su destino."
+    },
+    {
+      "question": "Dentro de un esquema de liderazgo visible, \u00bfcu\u00e1l es el rol principal del l\u00edder de seguridad moderno?",
+      "answerOptions": [
+        {
+          "text": "Actuar como un facilitador que entiende los desaf\u00edos reales pasando tiempo en el campo.",
+          "isCorrect": true,
+          "rationale": "El l\u00edder actual debe ensuciarse las botas y escuchar genuinamente a quienes ejecutan las tareas para facilitar soluciones efectivas."
+        },
+        {
+          "text": "Dictar \u00f3rdenes estrictas desde una oficina central para mantener la autoridad.",
+          "isCorrect": false,
+          "rationale": "El liderazgo tradicional de escritorio es ineficaz en esta cultura; se requiere presencia real y comprensi\u00f3n del terreno."
+        },
+        {
+          "text": "Sancionar inmediatamente cualquier error para servir de ejemplo al resto del equipo.",
+          "isCorrect": false,
+          "rationale": "El enfoque de facilitador busca el empoderamiento y la prevenci\u00f3n, no basarse primordialmente en el castigo o la represalia."
+        },
+        {
+          "text": "Delegar toda la responsabilidad de campo a los supervisores de turno.",
+          "isCorrect": false,
+          "rationale": "El liderazgo visible exige que el l\u00edder mismo participe y est\u00e9 presente en las operaciones diarias."
+        }
+      ],
+      "hint": "Es alguien que deja el escritorio para sumergirse en la operaci\u00f3n diaria junto a su equipo."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el 'derecho a decir no' en una cultura de seguridad s\u00f3lida?",
+      "answerOptions": [
+        {
+          "text": "En la autoridad de cualquier trabajador para detener una tarea si detecta condiciones inseguras, sin temor a represalias.",
+          "isCorrect": true,
+          "rationale": "Esta es una herramienta psicol\u00f3gica definitiva que otorga poder moral y t\u00e9cnico para priorizar la vida sobre la producci\u00f3n."
+        },
+        {
+          "text": "En la posibilidad de rechazar turnos de trabajo extra si el trabajador se siente cansado.",
+          "isCorrect": false,
+          "rationale": "Aunque la fatiga es importante, el concepto se refiere espec\u00edficamente a la interrupci\u00f3n de procesos ante riesgos inminentes."
+        },
+        {
+          "text": "En la facultad de los sindicatos para negociar los est\u00e1ndares de seguridad vigentes.",
+          "isCorrect": false,
+          "rationale": "Es un derecho individual y t\u00e9cnico de seguridad, no un proceso de negociaci\u00f3n laboral o pol\u00edtica."
+        },
+        {
+          "text": "En el derecho a no utilizar el equipo de protecci\u00f3n personal si resulta inc\u00f3modo.",
+          "isCorrect": false,
+          "rationale": "El uso de EPP es obligatorio; el derecho se ejerce para no realizar una actividad peligrosa hasta que sea segura."
+        }
+      ],
+      "hint": "Es la potestad de parar la producci\u00f3n cuando el riesgo supera los l\u00edmites aceptables."
+    },
+    {
+      "question": "En estad\u00edstica predictiva, \u00bfqu\u00e9 indica el fen\u00f3meno t\u00e9cnico conocido como 'cruce de curvas'?",
+      "answerOptions": [
+        {
+          "text": "La formaci\u00f3n de una posible tragedia cuando los incidentes menores acumulados muestran una tendencia ascendente cr\u00edtica.",
+          "isCorrect": true,
+          "rationale": "Monitorear este cruce permite a la gerencia anticipar fatalidades y actuar antes de que ocurra un evento grave."
+        },
+        {
+          "text": "El punto exacto donde la producci\u00f3n iguala a los costos de operaci\u00f3n mensuales.",
+          "isCorrect": false,
+          "rationale": "El concepto es puramente de seguridad y prevenci\u00f3n de fatalidades, no una m\u00e9trica de rentabilidad financiera."
+        },
+        {
+          "text": "La intersecci\u00f3n entre la contrataci\u00f3n de personal nuevo y la tasa de jubilaciones.",
+          "isCorrect": false,
+          "rationale": "Este indicador se refiere al comportamiento de los fractales estad\u00edsticos de incidentes y su frecuencia."
+        },
+        {
+          "text": "El momento en que se debe cambiar obligatoriamente toda la maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "Se trata de un radar estad\u00edstico sobre el comportamiento humano y operativo frente al riesgo, no de mantenimiento de activos."
+        }
+      ],
+      "hint": "Funciona como el radar de una tormenta que avisa antes de que llegue el golpe fatal."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre 'peligro' y 'riesgo' seg\u00fan la gesti\u00f3n operacional?",
+      "answerOptions": [
+        {
+          "text": "El peligro es la energ\u00eda potencial presente, mientras que el riesgo es la probabilidad de contacto con esa energ\u00eda.",
+          "isCorrect": true,
+          "rationale": "El peligro est\u00e1 ah\u00ed de forma intr\u00ednseca; el riesgo se materializa por la decisi\u00f3n de interactuar con \u00e9l en un tiempo y espacio determinado."
+        },
+        {
+          "text": "El peligro se refiere a desastres naturales y el riesgo a errores humanos.",
+          "isCorrect": false,
+          "rationale": "Ambos t\u00e9rminos pueden aplicar a fuentes naturales o humanas; la diferencia es su naturaleza potencial frente a su probabilidad."
+        },
+        {
+          "text": "Son t\u00e9rminos sin\u00f3nimos que se utilizan para describir cualquier situaci\u00f3n de inseguridad.",
+          "isCorrect": false,
+          "rationale": "Operativamente son polos opuestos: uno es la fuente (roca suelta) y el otro es la probabilidad de da\u00f1o (pasar debajo)."
+        },
+        {
+          "text": "El riesgo es algo que se puede eliminar totalmente, el peligro siempre es incontrolable.",
+          "isCorrect": false,
+          "rationale": "Ambos pueden ser gestionados mediante controles, aunque el peligro es la condici\u00f3n base y el riesgo es la exposici\u00f3n."
+        }
+      ],
+      "hint": "Piense en una roca inestable frente a la acci\u00f3n de caminar debajo de ella."
+    },
+    {
+      "question": "Dentro de la jerarqu\u00eda de controles, \u00bfpor qu\u00e9 el Equipo de Protecci\u00f3n Personal (EPP) se considera el nivel menos efectivo?",
+      "answerOptions": [
+        {
+          "text": "Porque no evita que el evento ocurra, solo intenta reducir la severidad del impacto en el cuerpo.",
+          "isCorrect": true,
+          "rationale": "El EPP es la \u00faltima barrera; si falla el control, el evento sucede igual, solo que el da\u00f1o podr\u00eda ser un poco menor."
+        },
+        {
+          "text": "Porque su costo de mantenimiento es superior al de los controles de ingenier\u00eda.",
+          "isCorrect": false,
+          "rationale": "A menudo el EPP es m\u00e1s econ\u00f3mico, pero su efectividad es baja porque no ataca la ra\u00edz del riesgo."
+        },
+        {
+          "text": "Porque los trabajadores suelen olvidar usarlo de forma correcta en el campo.",
+          "isCorrect": false,
+          "rationale": "Aunque el factor humano influye, t\u00e9cnicamente es el menos efectivo porque no elimina ni sustituye la fuente del peligro."
+        },
+        {
+          "text": "Porque est\u00e1 dise\u00f1ado solo para tareas rutinarias y no para emergencias.",
+          "isCorrect": false,
+          "rationale": "El EPP se usa en todo tipo de tareas, pero su limitaci\u00f3n es que no reduce la probabilidad de que el accidente se materialice."
+        }
+      ],
+      "hint": "Es la \u00faltima l\u00ednea de defensa, no una medida preventiva que elimine la causa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00eda de vanguardia permite gestionar la fatiga de los operadores detectando el agotamiento del sistema nervioso central?",
+      "answerOptions": [
+        {
+          "text": "Sensores de telemetr\u00eda conocidos como SmartCaps.",
+          "isCorrect": true,
+          "rationale": "Estas herramientas detectan el cansancio mucho antes de que el operador cierre los ojos, permitiendo una intervenci\u00f3n preventiva."
+        },
+        {
+          "text": "C\u00e1maras de vigilancia en cabina con reconocimiento facial b\u00e1sico.",
+          "isCorrect": false,
+          "rationale": "Aunque existen c\u00e1maras, el sistema mencionado se enfoca espec\u00edficamente en los impulsos del sistema nervioso para mayor precisi\u00f3n."
+        },
+        {
+          "text": "Relojes inteligentes que miden \u00fanicamente el ritmo card\u00edaco.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de fatiga avanzada requiere medir la actividad cerebral o del sistema nervioso, no solo el pulso."
+        },
+        {
+          "text": "Software de control de tiempos que bloquea la m\u00e1quina tras 8 horas.",
+          "isCorrect": false,
+          "rationale": "El agotamiento puede ocurrir antes de las 8 horas por diversos factores; por ello se usan sensores fisiol\u00f3gicos en tiempo real."
+        }
+      ],
+      "hint": "Se trata de un dispositivo que monitorea se\u00f1ales internas antes de que aparezcan signos externos de sue\u00f1o."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de los equipos que act\u00faan como 'jaulas de Faraday' en una operaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "Proporcionar un resguardo seguro contra descargas el\u00e9ctricas durante tormentas atmosf\u00e9ricas.",
+          "isCorrect": true,
+          "rationale": "Esta medida de ingenier\u00eda protege al personal al distribuir la carga el\u00e9ctrica por el exterior de la estructura met\u00e1lica."
+        },
+        {
+          "text": "Evitar la entrada de gases t\u00f3xicos en espacios confinados.",
+          "isCorrect": false,
+          "rationale": "Las jaulas de Faraday son un concepto de protecci\u00f3n electromagn\u00e9tica y el\u00e9ctrica, no de filtraci\u00f3n de aire."
+        },
+        {
+          "text": "Servir de soporte estructural para evitar el colapso de las paredes en las calicatas.",
+          "isCorrect": false,
+          "rationale": "El soporte para excavaciones se llama entibamiento; las jaulas de Faraday se usan para protecci\u00f3n clim\u00e1tica/el\u00e9ctrica."
+        },
+        {
+          "text": "Almacenar explosivos de forma segura para evitar detonaciones accidentales.",
+          "isCorrect": false,
+          "rationale": "El almacenamiento de explosivos requiere polvorines con especificaciones distintas a las de protecci\u00f3n contra rayos."
+        }
+      ],
+      "hint": "Piense en la protecci\u00f3n contra fen\u00f3menos clim\u00e1ticos que involucran electricidad."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo se debe utilizar un An\u00e1lisis de Trabajo Seguro (ATS) en lugar de un procedimiento est\u00e1ndar?",
+      "answerOptions": [
+        {
+          "text": "Cuando surge una actividad no rutinaria que no est\u00e1 cubierta por los procedimientos habituales.",
+          "isCorrect": true,
+          "rationale": "El ATS rescata la seguridad en situaciones excepcionales, permitiendo luego integrar ese aprendizaje a la matriz base."
+        },
+        {
+          "text": "\u00danicamente cuando el supervisor de campo se encuentra ausente.",
+          "isCorrect": false,
+          "rationale": "El ATS es una herramienta de planificaci\u00f3n para tareas espec\u00edficas, independientemente de la presencia del supervisor."
+        },
+        {
+          "text": "Cuando la tarea debe realizarse en un tiempo menor al estipulado.",
+          "isCorrect": false,
+          "rationale": "La urgencia no dicta el uso del ATS; es la naturaleza no rutinaria de la actividad la que lo hace necesario."
+        },
+        {
+          "text": "En todas las tareas diarias para sustituir de forma definitiva al IPERC continuo.",
+          "isCorrect": false,
+          "rationale": "El IPERC continuo y los PETS son para lo rutinario; el ATS es un complemento para lo extraordinario."
+        }
+      ],
+      "hint": "Es la herramienta de elecci\u00f3n para lo que sale de la rutina diaria."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal de la metodolog\u00eda 'parar y pensar' antes de iniciar una tarea?",
+      "answerOptions": [
+        {
+          "text": "Romper la inercia del exceso de confianza y devolver la mente al momento presente.",
+          "isCorrect": true,
+          "rationale": "La sobreconfianza en tareas repetitivas crea un falso sentido de invulnerabilidad donde ocurren la mayor\u00eda de los incidentes."
+        },
+        {
+          "text": "Aumentar el tiempo de la jornada laboral para facturar m\u00e1s horas hombre.",
+          "isCorrect": false,
+          "rationale": "La pausa es brev\u00edsima y tiene un fin preventivo cr\u00edtico, no es una medida administrativa de tiempo."
+        },
+        {
+          "text": "Permitir que el trabajador descanse f\u00edsicamente antes de un esfuerzo pesado.",
+          "isCorrect": false,
+          "rationale": "Es un ejercicio mental y reflexivo de conciencia situacional, no un descanso fisiol\u00f3gico."
+        },
+        {
+          "text": "Completar los registros burocr\u00e1ticos exigidos por la ley nacional.",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda al cumplimiento, su funci\u00f3n vital es psicol\u00f3gica: evitar el modo 'piloto autom\u00e1tico' del cerebro."
+        }
+      ],
+      "hint": "Busca combatir la zona de confort que genera la rutina."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 las calicatas o trincheras de exploraci\u00f3n deben tratarse como espacios confinados?",
+      "answerOptions": [
+        {
+          "text": "Debido a la inestabilidad de las paredes y el riesgo cr\u00edtico de asfixia o enterramiento.",
+          "isCorrect": true,
+          "rationale": "A pesar de estar al aire libre, la profundidad y la falta de soporte estructural pueden causar colapsos fatales sobre el personal."
+        },
+        {
+          "text": "Porque el aire a esa profundidad siempre carece de ox\u00edgeno.",
+          "isCorrect": false,
+          "rationale": "No siempre falta ox\u00edgeno, pero el riesgo de enterramiento por paredes inestables es lo que exige tratarlas con rigor extremo."
+        },
+        {
+          "text": "Para restringir el acceso a personas ajenas a la compa\u00f1\u00eda geol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "La clasificaci\u00f3n como espacio confinado responde a riesgos de seguridad para quien entra, no a un tema de propiedad privada."
+        },
+        {
+          "text": "Porque se utilizan qu\u00edmicos peligrosos para analizar las muestras in situ.",
+          "isCorrect": false,
+          "rationale": "El peligro principal en estas excavaciones es mec\u00e1nico (colapso de tierra), no necesariamente qu\u00edmico."
+        }
+      ],
+      "hint": "Considere qu\u00e9 pasar\u00eda si toneladas de tierra en los bordes no tuvieran soporte."
+    },
+    {
+      "question": "\u00bfQu\u00e9 est\u00e1ndar de seguridad debe aplicarse al transitar por terrenos escarpados de alta monta\u00f1a en exploraci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Los mismos est\u00e1ndares inflexibles utilizados para trabajos en altura convencionales.",
+          "isCorrect": true,
+          "rationale": "Laderas y fallas geol\u00f3gicas deben gestionarse con arneses, l\u00edneas de vida y anclajes certificados para evitar ca\u00eddas libres."
+        },
+        {
+          "text": "Ninguno, ya que se considera una actividad de senderismo r\u00fastico.",
+          "isCorrect": false,
+          "rationale": "Subestimar la naturaleza es un error letal; el terreno escarpado requiere protocolos industriales de altura."
+        },
+        {
+          "text": "Solo el uso de bastones de apoyo y calzado deportivo con buen agarre.",
+          "isCorrect": false,
+          "rationale": "El equipo deportivo es insuficiente para los riesgos operacionales de una falla o ladera pronunciada en miner\u00eda."
+        },
+        {
+          "text": "El uso obligatorio de veh\u00edculos blindados para todo el trayecto.",
+          "isCorrect": false,
+          "rationale": "Muchos de estos terrenos son inaccesibles para veh\u00edculos, por lo que el enfoque est\u00e1 en la protecci\u00f3n individual contra ca\u00eddas."
+        }
+      ],
+      "hint": "La verticalidad del terreno dicta la norma de seguridad a seguir."
+    },
+    {
+      "question": "En zonas de alta actividad el\u00e9ctrica atmosf\u00e9rica, \u00bfpor qu\u00e9 se prefieren botas con punta de Kevlar sobre las de acero?",
+      "answerOptions": [
+        {
+          "text": "Porque el metal act\u00faa como un im\u00e1n para las cargas el\u00e9ctricas y el Kevlar proporciona una barrera diel\u00e9ctrica.",
+          "isCorrect": true,
+          "rationale": "Los materiales compuestos reducen el riesgo ante descargas y adem\u00e1s disminuyen el peso del calzado para el trabajador."
+        },
+        {
+          "text": "Porque el acero se oxida r\u00e1pidamente con la humedad de la alta monta\u00f1a.",
+          "isCorrect": false,
+          "rationale": "Aunque el acero se oxida, la raz\u00f3n t\u00e9cnica principal de seguridad es la conductividad el\u00e9ctrica en entornos hostiles."
+        },
+        {
+          "text": "Porque el Kevlar es un material obligatorio seg\u00fan el tratado de libre comercio minero.",
+          "isCorrect": false,
+          "rationale": "No es un tema comercial, sino una evoluci\u00f3n normativa basada en la protecci\u00f3n contra riesgos espec\u00edficos como los rayos."
+        },
+        {
+          "text": "Porque las botas de acero atraen a los animales salvajes debido al magnetismo.",
+          "isCorrect": false,
+          "rationale": "No existe evidencia de que el acero atraiga fauna; la preocupaci\u00f3n central es la seguridad el\u00e9ctrica del operador."
+        }
+      ],
+      "hint": "Piense en la conductividad de los materiales frente a un rayo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 met\u00e1fora se utiliza para describir la posici\u00f3n y presi\u00f3n que enfrenta un supervisor de campo?",
+      "answerOptions": [
+        {
+          "text": "La de la carne de una hamburguesa, atrapada entre la gerencia y la realidad operativa.",
+          "isCorrect": true,
+          "rationale": "El supervisor debe equilibrar la presi\u00f3n por la producci\u00f3n que viene de arriba y los desaf\u00edos diarios de seguridad de la l\u00ednea de fuego."
+        },
+        {
+          "text": "La de un capit\u00e1n de barco que nunca abandona el puente de mando.",
+          "isCorrect": false,
+          "rationale": "A diferencia de un capit\u00e1n est\u00e1tico, el supervisor debe ser un facilitador m\u00f3vil en el campo, no solo un estratega lejano."
+        },
+        {
+          "text": "La de un \u00e1rbitro que solo interviene cuando se comete una falta grave.",
+          "isCorrect": false,
+          "rationale": "El supervisor debe ser proactivo y estar presente constantemente, no solo actuar de forma reactiva ante errores."
+        },
+        {
+          "text": "La de un arquitecto que dise\u00f1a planes pero no participa en la construcci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El supervisor es una figura operativa clave cuya fortaleza t\u00e9cnica y moral se pone a prueba en la ejecuci\u00f3n directa."
+        }
+      ],
+      "hint": "Se encuentra en medio de dos fuerzas potentes que exigen resultados distintos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la 'regla de oro' e indicador innegociable que define el \u00e9xito real en la miner\u00eda moderna?",
+      "answerOptions": [
+        {
+          "text": "Garantizar que cada trabajador regrese \u00edntegro a su casa al final de la jornada.",
+          "isCorrect": true,
+          "rationale": "Este valor humano absoluto est\u00e1 por encima de cualquier m\u00e9trica de producci\u00f3n, como los metros perforados o el tiempo."
+        },
+        {
+          "text": "Superar la meta de metros perforados establecida en el presupuesto anual.",
+          "isCorrect": false,
+          "rationale": "Medir el \u00e9xito solo por metros perforados es una m\u00e9trica equivocada que puede incentivar el riesgo innecesario."
+        },
+        {
+          "text": "Lograr la certificaci\u00f3n ISO 45001 en menos de seis meses de operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La certificaci\u00f3n es una consecuencia del sistema, pero el \u00e9xito real se mide en la integridad f\u00edsica de las personas."
+        },
+        {
+          "text": "Mantener los costos operativos por debajo del promedio del sector internacional.",
+          "isCorrect": false,
+          "rationale": "Aunque la eficiencia es importante, la seguridad es lo que garantiza la viabilidad a largo plazo y la vida humana."
+        }
+      ],
+      "hint": "Es el compromiso moral m\u00e1s b\u00e1sico y fundamental con las familias de los colaboradores."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Cultura preventiva y proactiva",
+      "Marco normativo (DS 024 e ISO 45001)",
+      "Liderazgo visible y empoderamiento",
+      "Gesti\u00f3n estad\u00edstica y predictiva de riesgos",
+      "Metodolog\u00eda IPERC y Jerarqu\u00eda de Controles",
+      "Riesgos espec\u00edficos en exploraci\u00f3n geol\u00f3gica"
+    ],
+    "followUp": [
+      "Implementaci\u00f3n t\u00e9cnica de entivamientos en calicatas",
+      "Protocolos avanzados de telemetr\u00eda para la fatiga humana",
+      "Dise\u00f1o de sistemas de protecci\u00f3n atmosf\u00e9rica en minas a tajo abierto",
+      "Psicolog\u00eda organizacional aplicada al derecho de rechazo de tareas"
+    ]
+  }
+}

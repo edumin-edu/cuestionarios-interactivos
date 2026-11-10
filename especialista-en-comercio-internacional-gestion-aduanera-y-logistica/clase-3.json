@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l fue el resultado del fallo de la OMC en la disputa entre Per\u00fa y Estados Unidos sobre textiles?",
+      "answerOptions": [
+        {
+          "text": "Se favoreci\u00f3 a Per\u00fa para proteger a los peque\u00f1os confeccionistas locales.",
+          "isCorrect": true,
+          "rationale": "El fallo buscaba corregir una asimetr\u00eda competitiva causada por la subvaloraci\u00f3n de textiles, permitiendo la supervivencia del sector local."
+        },
+        {
+          "text": "Se desestim\u00f3 la queja por falta de pruebas t\u00e9cnicas suficientes.",
+          "isCorrect": false,
+          "rationale": "La OMC act\u00faa como tribunal y en este caso espec\u00edfico s\u00ed valid\u00f3 la existencia de pr\u00e1cticas desleales."
+        },
+        {
+          "text": "Se impuso una sanci\u00f3n econ\u00f3mica directa al gobierno estadounidense.",
+          "isCorrect": false,
+          "rationale": "La OMC suele dictaminar sobre la legalidad de las medidas y permitir correcciones arancelarias m\u00e1s que imponer multas directas."
+        },
+        {
+          "text": "Se determin\u00f3 que la subvaloraci\u00f3n no afectaba la competencia real.",
+          "isCorrect": false,
+          "rationale": "El fallo reconoci\u00f3 expl\u00edcitamente que la competencia era brutalmente asim\u00e9trica debido a la subvaloraci\u00f3n."
+        }
+      ],
+      "hint": "Considere el papel de la OMC como \u00e1rbitro en casos de competencia asim\u00e9trica."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 porcentaje se redujeron los tiempos de despacho para agroexportaciones mediante la Ventanilla \u00danica de Comercio Exterior?",
+      "answerOptions": [
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es menor al impacto real logrado mediante la asistencia t\u00e9cnica y digitalizaci\u00f3n."
+        },
+        {
+          "text": "$25\\%$",
+          "isCorrect": true,
+          "rationale": "La implementaci\u00f3n de la ventanilla \u00fanica permiti\u00f3 pasar de la teor\u00eda burocr\u00e1tica a una eficiencia operativa cuantificable en ese porcentaje."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es una meta ambiciosa, la cifra espec\u00edfica documentada para este caso fue inferior a la mitad del tiempo."
+        },
+        {
+          "text": "$80\\%$",
+          "isCorrect": false,
+          "rationale": "Este valor se asocia con la reducci\u00f3n de errores operativos en otro sector, no con los tiempos de despacho generales."
+        }
+      ],
+      "hint": "Piense en la cuarta parte de una reducci\u00f3n total del tiempo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la prioridad fundamental de la CBP al controlar el ingreso de mercanc\u00edas en Estados Unidos?",
+      "answerOptions": [
+        {
+          "text": "La facilitaci\u00f3n de la tecnolog\u00eda comercial.",
+          "isCorrect": false,
+          "rationale": "Si bien es un objetivo secundario, existe otro factor que domina sus protocolos de inspecci\u00f3n."
+        },
+        {
+          "text": "La recaudaci\u00f3n m\u00e1xima de aranceles de importaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El enfoque de esta agencia trasciende lo netamente fiscal para centrarse en la integridad fronteriza."
+        },
+        {
+          "text": "La seguridad nacional por encima de todo.",
+          "isCorrect": true,
+          "rationale": "Para la CBP, la seguridad nacional es el eje central, lo que justifica retenciones prolongadas ante errores m\u00ednimos de documentaci\u00f3n."
+        },
+        {
+          "text": "La verificaci\u00f3n de est\u00e1ndares de calidad alimentaria.",
+          "isCorrect": false,
+          "rationale": "Este es un enfoque m\u00e1s caracter\u00edstico de otras agencias o de las aduanas chinas."
+        }
+      ],
+      "hint": "Piense en el valor que justifica las retenciones preventivas de hasta 10 d\u00edas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 exigencia de la GACC en China afect\u00f3 significativamente a los exportadores de pisco peruano?",
+      "answerOptions": [
+        {
+          "text": "El pago de un arancel preventivo del $145\\%$.",
+          "isCorrect": false,
+          "rationale": "Esa cifra corresponde a una medida de fricci\u00f3n geopol\u00edtica general y no a una exigencia t\u00e9cnica de etiquetado."
+        },
+        {
+          "text": "El cumplimiento estricto de est\u00e1ndares de calidad que oblig\u00f3 al reetiquetado masivo.",
+          "isCorrect": true,
+          "rationale": "La GACC es implacable con sus normas t\u00e9cnicas, obligando a los exportadores a realizar ajustes f\u00edsicos en pleno puerto."
+        },
+        {
+          "text": "La prohibici\u00f3n total de entrada por ser considerado producto sensible.",
+          "isCorrect": false,
+          "rationale": "No se trat\u00f3 de un veto, sino de una restricci\u00f3n t\u00e9cnica basada en el cumplimiento de exigencias locales."
+        },
+        {
+          "text": "La necesidad de una licencia fitosanitaria emitida en Pek\u00edn.",
+          "isCorrect": false,
+          "rationale": "El conflicto principal en el puerto se debi\u00f3 a discrepancias en el cumplimiento de los est\u00e1ndares de presentaci\u00f3n del producto."
+        }
+      ],
+      "hint": "Reflexione sobre lo que un exportador debe modificar f\u00edsicamente en un envase para cumplir normas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 impacto financiero puede tener un error en la clasificaci\u00f3n arancelaria sobre el valor total de la mercanc\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Multas de entre el $1\\%$ y el $3\\%$.",
+          "isCorrect": false,
+          "rationale": "Este rango es demasiado bajo para las sanciones aduaneras est\u00e1ndar por mala clasificaci\u00f3n."
+        },
+        {
+          "text": "Multas de entre el $5\\%$ y el $20\\%$.",
+          "isCorrect": true,
+          "rationale": "El descuido en el papeleo t\u00e9cnico puede generar sanciones que impactan directamente el margen de ganancia en este rango porcentual."
+        },
+        {
+          "text": "Un recargo fijo de $12,000$ d\u00f3lares por cargamento.",
+          "isCorrect": false,
+          "rationale": "Las multas suelen ser proporcionales al valor de la mercanc\u00eda y no montos fijos universales."
+        },
+        {
+          "text": "La p\u00e9rdida total de la mercanc\u00eda sin posibilidad de apelaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Normalmente, los errores de clasificaci\u00f3n resultan en multas monetarias, no necesariamente en confiscaci\u00f3n total."
+        }
+      ],
+      "hint": "Considere un rango que empieza en un porcentaje moderado y llega a una quinta parte del valor."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el nivel m\u00e1ximo al que pueden dispararse los aranceles chinos en el contexto de la guerra comercial?",
+      "answerOptions": [
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Este es el arancel general que aplica Estados Unidos a sus socios habituales."
+        },
+        {
+          "text": "$25\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es un arancel alto, las medidas extremas mencionadas superan con creces este l\u00edmite."
+        },
+        {
+          "text": "$90\\%$",
+          "isCorrect": false,
+          "rationale": "Esta cifra se confunde con los d\u00edas del 'comp\u00e1s de espera', no con el porcentaje arancelario."
+        },
+        {
+          "text": "$145\\%$",
+          "isCorrect": true,
+          "rationale": "Este nivel extremo de gravamen genera una incertidumbre estrat\u00e9gica total que obliga a las empresas a recalcular sus movimientos."
+        }
+      ],
+      "hint": "Piense en un valor que supera ampliamente el costo original del producto."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica el concepto de 'comp\u00e1s de espera' en las negociaciones comerciales actuales?",
+      "answerOptions": [
+        {
+          "text": "Un periodo de 120 d\u00edas para que cualquier pa\u00eds renegocie aranceles.",
+          "isCorrect": false,
+          "rationale": "El tiempo asignado para este beneficio es menor a cuatro meses."
+        },
+        {
+          "text": "Una ventana de 90 d\u00edas de la cual China ha sido deliberadamente excluida.",
+          "isCorrect": true,
+          "rationale": "Esta exclusi\u00f3n impide que el gigante asi\u00e1tico realice ajustes suaves, forzando sustituciones de mercado inmediatas."
+        },
+        {
+          "text": "Un tiempo de gracia de 48 horas para corregir documentos fitosanitarios.",
+          "isCorrect": false,
+          "rationale": "Ese plazo corresponde a protocolos de contingencia operativa, no a negociaciones geopol\u00edticas de alto nivel."
+        },
+        {
+          "text": "El plazo m\u00e1ximo de 4 a\u00f1os para la aplicaci\u00f3n de salvaguardias.",
+          "isCorrect": false,
+          "rationale": "Las salvaguardias son medidas de defensa comercial con plazos distintos al comp\u00e1s de espera estrat\u00e9gico."
+        }
+      ],
+      "hint": "Identifique un plazo de tres meses utilizado como herramienta pol\u00edtica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue la consecuencia inmediata para el restaurante 'Homeplate Barbecue' en Pek\u00edn tras la fricci\u00f3n comercial?",
+      "answerOptions": [
+        {
+          "text": "El cierre definitivo por quiebra debido a la hiperinflaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El restaurante logr\u00f3 sobrevivir mediante una decisi\u00f3n estrat\u00e9gica de cambio de suministro."
+        },
+        {
+          "text": "La reducci\u00f3n del $25\\%$ en su men\u00fa de carnes.",
+          "isCorrect": false,
+          "rationale": "El impacto fue inflacionario, lo que oblig\u00f3 a una reestructuraci\u00f3n de proveedores m\u00e1s que a un simple descuento."
+        },
+        {
+          "text": "La migraci\u00f3n de su cadena de suministro hacia Australia y Canad\u00e1.",
+          "isCorrect": true,
+          "rationale": "Para evitar los sobrecostos de la carne estadounidense, la empresa sustituy\u00f3 sus proveedores como medida de supervivencia."
+        },
+        {
+          "text": "La creaci\u00f3n de un fondo de contingencia de $12,000$ d\u00f3lares.",
+          "isCorrect": false,
+          "rationale": "Esa cifra est\u00e1 asociada a un caso de exportaci\u00f3n de uvas y no a la operaci\u00f3n de este restaurante."
+        }
+      ],
+      "hint": "Busque la acci\u00f3n de buscar nuevos mercados de origen para evitar la inflaci\u00f3n arancelaria."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo t\u00e9cnico surge cuando un banco central pierde su independencia ante presiones pol\u00edticas?",
+      "answerOptions": [
+        {
+          "text": "El fortalecimiento inmediato del d\u00f3lar como activo de refugio.",
+          "isCorrect": false,
+          "rationale": "La p\u00e9rdida de independencia suele generar el efecto opuesto, debilitando la moneda debido a la incertidumbre."
+        },
+        {
+          "text": "La estabilidad de los activos se debilita y el capital global busca refugio en otros mercados.",
+          "isCorrect": true,
+          "rationale": "La ortodoxia financiera es clave para la confianza; sin ella, el capital 'miedoso' abandona el mercado afectado."
+        },
+        {
+          "text": "La eliminaci\u00f3n autom\u00e1tica de todas las barreras no arancelarias.",
+          "isCorrect": false,
+          "rationale": "Las barreras t\u00e9cnicas dependen de agencias reguladoras, no directamente de la pol\u00edtica monetaria de la banca central."
+        },
+        {
+          "text": "Un aumento en la clasificaci\u00f3n arancelaria del sector joyer\u00eda.",
+          "isCorrect": false,
+          "rationale": "La clasificaci\u00f3n arancelaria es un proceso t\u00e9cnico independiente de la independencia del banco central."
+        }
+      ],
+      "hint": "Reflexione sobre la reacci\u00f3n de los inversionistas ante la incertidumbre institucional."
+    },
+    {
+      "question": "Seg\u00fan la perspectiva de Thomas Friedman, \u00bfcu\u00e1l es una caracter\u00edstica de las relaciones internacionales actuales?",
+      "answerOptions": [
+        {
+          "text": "El Estado es el \u00fanico due\u00f1o y soberano del tablero internacional.",
+          "isCorrect": false,
+          "rationale": "La visi\u00f3n moderna sugiere que el poder estatal est\u00e1 siendo superado por redes m\u00e1s complejas."
+        },
+        {
+          "text": "La diplomacia ha reemplazado completamente a la pol\u00edtica exterior.",
+          "isCorrect": false,
+          "rationale": "Ambas coexisten, pero la diplomacia es solo el manejo t\u00e1ctico de los intereses nacionales."
+        },
+        {
+          "text": "Una red densa de tecnolog\u00eda y bienes que fluye por encima de los gobiernos.",
+          "isCorrect": true,
+          "rationale": "El comercio hoy tiene 'vida propia' y es capaz de eludir fricciones pol\u00edticas mediante nuevas infraestructuras."
+        },
+        {
+          "text": "La subordinaci\u00f3n total de la log\u00edstica a la voluntad ejecutiva unilateral.",
+          "isCorrect": false,
+          "rationale": "Aunque hay influencia pol\u00edtica, la fluidez comercial busca caminos alternativos como el agua."
+        }
+      ],
+      "hint": "Piense en el comercio como un elemento que fluye independientemente de las fronteras pol\u00edticas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa estrat\u00e9gicamente el puerto de Chancay para la regi\u00f3n sudamericana?",
+      "answerOptions": [
+        {
+          "text": "Una extensi\u00f3n de la influencia comercial de Estados Unidos en el Pac\u00edfico.",
+          "isCorrect": false,
+          "rationale": "El puerto se presenta precisamente como una alternativa que rompe con la subordinaci\u00f3n hist\u00f3rica a dichas rutas."
+        },
+        {
+          "text": "Una ruta soberana que conecta directamente a China con Sudam\u00e9rica.",
+          "isCorrect": true,
+          "rationale": "Permite esquivar cuellos de botella de las guerras comerciales y reduce tiempos y costos log\u00edsticos."
+        },
+        {
+          "text": "Un centro exclusivo para el despacho de harina de trigo y acero.",
+          "isCorrect": false,
+          "rationale": "Si bien manejar\u00e1 diversos productos, su importancia es geopol\u00edtica y estructural, no limitada a dos bienes."
+        },
+        {
+          "text": "La base operativa principal de la OMC en el hemisferio sur.",
+          "isCorrect": false,
+          "rationale": "La OMC es un organismo regulador y no gestiona infraestructura portuaria directamente."
+        }
+      ],
+      "hint": "Busque un concepto que mencione autonom\u00eda y conexi\u00f3n directa transoce\u00e1nica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre una prohibici\u00f3n y una restricci\u00f3n comercial?",
+      "answerOptions": [
+        {
+          "text": "La prohibici\u00f3n es temporal y la restricci\u00f3n es permanente.",
+          "isCorrect": false,
+          "rationale": "Las prohibiciones suelen estar ligadas a objetivos de protecci\u00f3n permanente del patrimonio o salud."
+        },
+        {
+          "text": "Las restricciones son vetos totales y las prohibiciones requieren licencias.",
+          "isCorrect": false,
+          "rationale": "Los t\u00e9rminos est\u00e1n invertidos; el veto total es la caracter\u00edstica de la prohibici\u00f3n."
+        },
+        {
+          "text": "La prohibici\u00f3n es un veto total y la restricci\u00f3n permite el paso mediante licencias o permisos.",
+          "isCorrect": true,
+          "rationale": "Esta distinci\u00f3n separa lo que est\u00e1 terminantemente prohibido (como madera nativa) de lo que requiere llaves (como medicinas)."
+        },
+        {
+          "text": "Ambas operan bajo la misma l\u00f3gica de cupos arancelarios anuales.",
+          "isCorrect": false,
+          "rationale": "Los cupos son medidas de defensa comercial, no categor\u00edas b\u00e1sicas de acceso al mercado."
+        }
+      ],
+      "hint": "Piense en la analog\u00eda de un 'muro impenetrable' versus una 'puerta con cerradura'."
+    },
+    {
+      "question": "\u00bfC\u00f3mo operan los cupos arancelarios en el caso de la harina de trigo?",
+      "answerOptions": [
+        {
+          "text": "Se proh\u00edbe la importaci\u00f3n de m\u00e1s de $20,000$ toneladas al a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "No es una prohibici\u00f3n, sino un sistema que cambia el arancel dependiendo del volumen."
+        },
+        {
+          "text": "Permiten importar una cantidad fija con $0\\%$ de arancel antes de activar la tasa normal.",
+          "isCorrect": true,
+          "rationale": "Esta estrategia asegura el abastecimiento sin destruir a los productores locales con una competencia ilimitada libre de impuestos."
+        },
+        {
+          "text": "Imponen un arancel del $15\\%$ a todas las importaciones desde el primer kilo.",
+          "isCorrect": false,
+          "rationale": "Esa cifra corresponde a una medida antidumping y no a la estructura de un cupo arancelario."
+        },
+        {
+          "text": "Obligan a que el $20\\%$ de la harina sea de origen nacional.",
+          "isCorrect": false,
+          "rationale": "Los cupos regulan el volumen importado mediante incentivos arancelarios, no cuotas de mezcla obligatoria."
+        }
+      ],
+      "hint": "Imagine un incentivo que desaparece una vez se alcanza un l\u00edmite de peso espec\u00edfico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal de aplicar una medida antidumping del $15\\%$ al acero laminado?",
+      "answerOptions": [
+        {
+          "text": "Generar ingresos fiscales para modernizar las f\u00e1bricas nacionales.",
+          "isCorrect": false,
+          "rationale": "El fin primordial es la regulaci\u00f3n del mercado y la equidad competitiva, no la recaudaci\u00f3n per se."
+        },
+        {
+          "text": "Eliminar la competencia extranjera de forma permanente.",
+          "isCorrect": false,
+          "rationale": "El antidumping busca equilibrar la balanza ante precios artificiales, no cerrar el mercado."
+        },
+        {
+          "text": "Equilibrar la balanza ante productos vendidos por debajo de su precio normal de mercado.",
+          "isCorrect": true,
+          "rationale": "Se trata de neutralizar una ventaja de precio artificial e insostenible que da\u00f1a a la industria local."
+        },
+        {
+          "text": "Asegurar que el acero cumpla con los est\u00e1ndares de la GACC.",
+          "isCorrect": false,
+          "rationale": "La GACC es una entidad china de calidad; el antidumping es una medida de defensa comercial econ\u00f3mica."
+        }
+      ],
+      "hint": "Considere la correcci\u00f3n de precios que son deslealmente bajos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una caracter\u00edstica esencial de las salvaguardias como medida de defensa comercial?",
+      "answerOptions": [
+        {
+          "text": "Son protecciones permanentes para sectores estrat\u00e9gicos.",
+          "isCorrect": false,
+          "rationale": "Su naturaleza es estrictamente temporal, dise\u00f1adas como un 'bal\u00f3n de ox\u00edgeno'."
+        },
+        {
+          "text": "Duran un m\u00e1ximo de 4 a\u00f1os y se usan ante avalanchas masivas de importaciones.",
+          "isCorrect": true,
+          "rationale": "Permiten que sectores como el calzado tengan tiempo para modernizarse ante un riesgo inminente de colapso."
+        },
+        {
+          "text": "Se aplican solo si el producto no tiene un certificado de origen.",
+          "isCorrect": false,
+          "rationale": "Se aplican por el volumen de importaci\u00f3n que amenaza a la producci\u00f3n nacional, independientemente del origen correcto."
+        },
+        {
+          "text": "Son herramientas tecnol\u00f3gicas basadas en registros inmutables.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde al blockchain y no a una medida arancelaria de defensa."
+        }
+      ],
+      "hint": "Reflexione sobre la temporalidad y el bot\u00f3n de p\u00e1nico ante importaciones repentinas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja competitiva ofrece el blockchain en la gesti\u00f3n aduanera moderna?",
+      "answerOptions": [
+        {
+          "text": "La reducci\u00f3n autom\u00e1tica de los aranceles al $0\\%$.",
+          "isCorrect": false,
+          "rationale": "El blockchain asegura la informaci\u00f3n, pero no tiene potestad para cambiar las leyes arancelarias."
+        },
+        {
+          "text": "La garant\u00eda de registros inmutables que otorgan certeza jur\u00eddica absoluta.",
+          "isCorrect": true,
+          "rationale": "Al ser un registro digital que nadie puede alterar, facilita la demostraci\u00f3n de origen y cumplimiento ante las aduanas."
+        },
+        {
+          "text": "La eliminaci\u00f3n de la necesidad de planes de contingencia.",
+          "isCorrect": false,
+          "rationale": "Aunque reduce errores, los imprevistos log\u00edsticos externos siempre requieren planes de respuesta."
+        },
+        {
+          "text": "El aumento de los tiempos de despacho para una revisi\u00f3n m\u00e1s exhaustiva.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la tecnolog\u00eda busca agilizar los procesos mediante la confianza en los datos."
+        }
+      ],
+      "hint": "Piense en la evoluci\u00f3n de confiar en un papel sellado a confiar en las matem\u00e1ticas."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afect\u00f3 la digitalizaci\u00f3n de procesos a la industria textil en t\u00e9rminos de operatividad?",
+      "answerOptions": [
+        {
+          "text": "Los costos de almacenamiento aumentaron un $20\\%$.",
+          "isCorrect": false,
+          "rationale": "La digitalizaci\u00f3n tiende a reducir costos al acelerar el flujo de mercanc\u00edas."
+        },
+        {
+          "text": "El tiempo de tr\u00e1mite de permisos baj\u00f3 de 7 d\u00edas a solo 3 d\u00edas.",
+          "isCorrect": true,
+          "rationale": "La centralizaci\u00f3n en plataformas digitales elimina procesos manuales redundantes, mejorando la rentabilidad."
+        },
+        {
+          "text": "Se elimin\u00f3 la necesidad de realizar la clasificaci\u00f3n arancelaria.",
+          "isCorrect": false,
+          "rationale": "La clasificaci\u00f3n sigue siendo obligatoria, la plataforma solo facilita su registro y validaci\u00f3n."
+        },
+        {
+          "text": "Se duplic\u00f3 el n\u00famero de dependencias que deben visitar los exportadores.",
+          "isCorrect": false,
+          "rationale": "La ventanilla \u00fanica precisamente centraliza las dependencias en un solo punto digital."
+        }
+      ],
+      "hint": "Compare el tiempo de una semana completa con el de menos de media semana."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el primer paso cr\u00edtico en la gesti\u00f3n de cumplimiento para los exportadores de palta en Piura?",
+      "answerOptions": [
+        {
+          "text": "El pago de seguros internacionales contra todo riesgo.",
+          "isCorrect": false,
+          "rationale": "Este es un paso de protecci\u00f3n financiera, pero no el primer filtro t\u00e9cnico operativo."
+        },
+        {
+          "text": "La ejecuci\u00f3n de un checklist fitosanitario exhaustivo antes del despacho.",
+          "isCorrect": true,
+          "rationale": "Prevenir errores en origen evita rechazos y sanciones costosas en las fronteras internacionales."
+        },
+        {
+          "text": "La renegociaci\u00f3n de precios con el comprador chileno.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n del riesgo se enfoca en el cumplimiento normativo antes que en la negociaci\u00f3n comercial."
+        },
+        {
+          "text": "La contrataci\u00f3n de personal especializado en blockchain.",
+          "isCorrect": false,
+          "rationale": "Aunque es \u00fatil, el cumplimiento b\u00e1sico depende primero de la rigurosidad en los controles t\u00e9cnicos f\u00edsicos."
+        }
+      ],
+      "hint": "Identifique la acci\u00f3n preventiva que se realiza antes de que el cami\u00f3n arranque."
+    },
+    {
+      "question": "\u00bfCu\u00e1nto dinero evit\u00f3 perder el exportador de uvas gracias a su protocolo de contingencia de 48 horas?",
+      "answerOptions": [
+        {
+          "text": "$5,000$ d\u00f3lares",
+          "isCorrect": false,
+          "rationale": "Esta cifra es inferior al retorno de inversi\u00f3n documentado por gestionar bien el riesgo en ese caso."
+        },
+        {
+          "text": "$12,000$ d\u00f3lares",
+          "isCorrect": true,
+          "rationale": "Esta es la p\u00e9rdida neta que se evit\u00f3 al lograr validar la documentaci\u00f3n antes del rechazo de la carga."
+        },
+        {
+          "text": "$20,000$ d\u00f3lares",
+          "isCorrect": false,
+          "rationale": "Este monto se confunde con el tonelaje de harina de trigo mencionado en las medidas de cupo."
+        },
+        {
+          "text": "$145,000$ d\u00f3lares",
+          "isCorrect": false,
+          "rationale": "Esta cifra es excesiva para el caso espec\u00edfico y parece derivarse del porcentaje de arancel extremo."
+        }
+      ],
+      "hint": "Busque un monto de cinco cifras que representa el ahorro por una respuesta r\u00e1pida."
+    },
+    {
+      "question": "De acuerdo con las conclusiones t\u00e1cticas, \u00bfqu\u00e9 acci\u00f3n es vital para evitar dependencias en el comercio del siglo XXI?",
+      "answerOptions": [
+        {
+          "text": "Depender exclusivamente de los proveedores en Estados Unidos.",
+          "isCorrect": false,
+          "rationale": "La lecci\u00f3n clave es precisamente la diversificaci\u00f3n para mitigar riesgos geopol\u00edticos."
+        },
+        {
+          "text": "Diversificar proveedores y aprovechar infraestructuras como el puerto de Chancay.",
+          "isCorrect": true,
+          "rationale": "La agilidad t\u00e1ctica requiere no estar atado a un solo mercado o ruta subordinada."
+        },
+        {
+          "text": "Ignorar las decisiones de la Reserva Federal para centrarse en la log\u00edstica.",
+          "isCorrect": false,
+          "rationale": "Anticiparse a las decisiones macroecon\u00f3micas es fundamental para la estabilidad operativa."
+        },
+        {
+          "text": "Reducir el rigor t\u00e9cnico para acelerar los ciclos de venta.",
+          "isCorrect": false,
+          "rationale": "El rigor t\u00e9cnico (clasificaci\u00f3n arancelaria) es el escudo contra sobrecostos, no un obst\u00e1culo a eliminar."
+        }
+      ],
+      "hint": "Piense en la estrategia de no 'poner todos los huevos en la misma canasta'."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Geopol\u00edtica del comercio internacional",
+      "Organismos reguladores globales (OMC, UNCTAD, APEC)",
+      "Barreras t\u00e9cnicas y medidas de defensa comercial",
+      "Gesti\u00f3n estrat\u00e9gica de riesgos y compliance aduanero",
+      "Tecnolog\u00edas de facilitaci\u00f3n comercial (Blockchain, VUCE)",
+      "Infraestructura log\u00edstica soberana (Puerto de Chancay)"
+    ],
+    "followUp": [
+      "Impacto de la pol\u00edtica monetaria de la FED en el comercio exterior",
+      "An\u00e1lisis comparativo de sistemas aduaneros (CBP vs. GACC)",
+      "Procedimientos t\u00e9cnicos para certificados de origen en TLC",
+      "Estrategias de diversificaci\u00f3n de suministros ante crisis geopol\u00edticas"
+    ]
+  }
+}

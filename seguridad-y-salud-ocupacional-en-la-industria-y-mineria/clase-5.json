@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la distinci\u00f3n fundamental entre eficacia y eficiencia en el contexto de la gesti\u00f3n industrial?",
+      "answerOptions": [
+        {
+          "text": "La eficacia se enfoca en cumplir objetivos, mientras que la eficiencia busca la m\u00e1xima calidad con el m\u00ednimo esfuerzo.",
+          "isCorrect": true,
+          "rationale": "La eficacia mide el logro de metas, mientras que la eficiencia optimiza la relaci\u00f3n entre los recursos empleados y los resultados obtenidos."
+        },
+        {
+          "text": "La eficiencia es el cumplimiento estricto de metas y la eficacia es el ahorro absoluto de recursos.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n invierte los conceptos, ya que el ahorro de recursos es una caracter\u00edstica de la eficiencia, no de la eficacia."
+        },
+        {
+          "text": "Ambos conceptos son sin\u00f3nimos y se refieren exclusivamente a la estandarizaci\u00f3n internacional.",
+          "isCorrect": false,
+          "rationale": "Aunque est\u00e1n relacionados en la estandarizaci\u00f3n, son conceptos m\u00e9tricos distintos: uno de resultado y otro de proceso."
+        },
+        {
+          "text": "La eficacia se aplica a la seguridad laboral y la eficiencia solo a los procesos de calidad.",
+          "isCorrect": false,
+          "rationale": "Ambos t\u00e9rminos son transversales a todos los pilares de la gesti\u00f3n, incluyendo calidad, medio ambiente y seguridad."
+        }
+      ],
+      "hint": "Relaciona el cumplimiento de metas con la optimizaci\u00f3n de los recursos utilizados."
+    },
+    {
+      "question": "\u00bfQu\u00e9 normas internacionales componen la denominada 'trinorma' en el sector minero?",
+      "answerOptions": [
+        {
+          "text": "ISO 9001, ISO 14001 e ISO 45001.",
+          "isCorrect": true,
+          "rationale": "Estas tres normas integran los pilares fundamentales de calidad, medio ambiente y seguridad y salud en el trabajo."
+        },
+        {
+          "text": "ISO 9001, ISO 17025 e ISO 26000.",
+          "isCorrect": false,
+          "rationale": "Aunque son normas importantes, la trinorma se refiere espec\u00edficamente a la tr\u00edada de Calidad, Ambiente y Seguridad."
+        },
+        {
+          "text": "ISO 14001, ISO 27001 e ISO 50001.",
+          "isCorrect": false,
+          "rationale": "Esta combinaci\u00f3n mezcla gesti\u00f3n ambiental con seguridad de la informaci\u00f3n y energ\u00eda, lo cual no define a la trinorma est\u00e1ndar."
+        },
+        {
+          "text": "ISO 45001, ISO 14001 e ISO 22000.",
+          "isCorrect": false,
+          "rationale": "La ISO 22000 se refiere a la inocuidad alimentaria, un \u00e1mbito que no es el eje central de la trinorma industrial minera."
+        }
+      ],
+      "hint": "Enf\u00f3cate en las normas que regulan Calidad, Medio Ambiente y Seguridad Laboral."
+    },
+    {
+      "question": "En una planta concentradora, \u00bfqu\u00e9 aspecto garantiza la ISO 9001 para asegurar est\u00e1ndares comerciales internacionales?",
+      "answerOptions": [
+        {
+          "text": "El control estricto de laboratorio para determinar con exactitud las leyes del mineral.",
+          "isCorrect": true,
+          "rationale": "La precisi\u00f3n t\u00e9cnica en el an\u00e1lisis de las leyes minerales es lo que asegura que el producto final cumpla los requisitos del mercado."
+        },
+        {
+          "text": "La reducci\u00f3n de las emisiones de gases a la atm\u00f3sfera durante la fundici\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El control de emisiones ambientales es una competencia espec\u00edfica de la ISO 14001, no primordialmente de la 9001."
+        },
+        {
+          "text": "La capacitaci\u00f3n de seguridad de dos horas para visitantes externos.",
+          "isCorrect": false,
+          "rationale": "Los protocolos de inducci\u00f3n y capacitaci\u00f3n de seguridad corresponden a la ISO 45001 sobre salud y seguridad ocupacional."
+        },
+        {
+          "text": "El uso de algoritmos para la gesti\u00f3n \u00e9tica de la inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n \u00e9tica de la IA est\u00e1 regulada por la ISO 42001, una normativa distinta a la gesti\u00f3n de calidad tradicional."
+        }
+      ],
+      "hint": "Considera qu\u00e9 proceso t\u00e9cnico define la pureza y el valor comercial del producto final."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la norma ISO 14001 dentro de una operaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "Servir de marco rector para minimizar y controlar los impactos y riesgos ecol\u00f3gicos.",
+          "isCorrect": true,
+          "rationale": "La ISO 14001 se centra en la gesti\u00f3n de residuos, emisiones y el uso sostenible de recursos para proteger el entorno."
+        },
+        {
+          "text": "Establecer los tiempos de perforaci\u00f3n y voladura en miner\u00eda subterr\u00e1nea.",
+          "isCorrect": false,
+          "rationale": "Estas son actividades operativas de producci\u00f3n que no son el enfoque directo de una norma de gesti\u00f3n ambiental."
+        },
+        {
+          "text": "Garantizar que el personal utilice correctamente el equipo de protecci\u00f3n personal.",
+          "isCorrect": false,
+          "rationale": "El uso de EPP y la integridad f\u00edsica del trabajador son objetivos primordiales de la ISO 45001."
+        },
+        {
+          "text": "Asegurar que la estructura organizacional sea estrictamente vertical y jer\u00e1rquica.",
+          "isCorrect": false,
+          "rationale": "La norma no impone estructuras verticales; de hecho, la tendencia moderna busca la horizontalidad en los procesos."
+        }
+      ],
+      "hint": "Piensa en la protecci\u00f3n de los ecosistemas y el control de vertederos y relaves."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia social ilustra el caso del conflicto en el Valle de Tambo debido a una gesti\u00f3n ambiental deficiente?",
+      "answerOptions": [
+        {
+          "text": "La p\u00e9rdida de la licencia social y el surgimiento de una resistencia social profunda.",
+          "isCorrect": true,
+          "rationale": "El incumplimiento de est\u00e1ndares ambientales rigurosos erosiona la confianza de la comunidad y puede paralizar proyectos."
+        },
+        {
+          "text": "Un incremento en los activos financieros gracias al ahorro en control de gases.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el ahorro en controles ambientales suele derivar en multas y p\u00e9rdidas por paralizaci\u00f3n de operaciones."
+        },
+        {
+          "text": "La mejora autom\u00e1tica de la reputaci\u00f3n ante los inversionistas internacionales.",
+          "isCorrect": false,
+          "rationale": "Los conflictos sociales y el da\u00f1o ecol\u00f3gico son se\u00f1ales negativas que ahuyentan la inversi\u00f3n."
+        },
+        {
+          "text": "El fortalecimiento de la estructura piramidal dentro de la empresa Petroper\u00fa.",
+          "isCorrect": false,
+          "rationale": "Este evento no tiene relaci\u00f3n directa con la estructura interna de Petroper\u00fa ni con el fortalecimiento de la jerarqu\u00eda."
+        }
+      ],
+      "hint": "Considera lo que ocurre con la relaci\u00f3n entre la empresa y la comunidad cuando hay da\u00f1os ecol\u00f3gicos."
+    },
+    {
+      "question": "\u00bfBajo qu\u00e9 metodolog\u00eda de mejora continua opera la norma ISO 45001?",
+      "answerOptions": [
+        {
+          "text": "El ciclo de planificar, hacer, verificar y actuar (PHVA).",
+          "isCorrect": true,
+          "rationale": "Este ciclo garantiza que la seguridad sea un proceso din\u00e1mico y constante de identificaci\u00f3n de peligros y prevenci\u00f3n."
+        },
+        {
+          "text": "El m\u00e9todo de las tarjetas rojas de clasificaci\u00f3n \u00fanica.",
+          "isCorrect": false,
+          "rationale": "Las tarjetas rojas son una herramienta espec\u00edfica de la primera etapa del m\u00e9todo de las 5S, no el ciclo de la ISO 45001."
+        },
+        {
+          "text": "La jerarquizaci\u00f3n vertical de la toma de decisiones estrat\u00e9gicas.",
+          "isCorrect": false,
+          "rationale": "La ISO 45001 fomenta la participaci\u00f3n y el flujo de informaci\u00f3n, alej\u00e1ndose de la rigidez vertical extrema."
+        },
+        {
+          "text": "La eliminaci\u00f3n de los servicios auxiliares como el bombeo de agua.",
+          "isCorrect": false,
+          "rationale": "Los servicios auxiliares son cr\u00edticos para la estabilidad; eliminarlos ser\u00eda un error operativo grave, no una metodolog\u00eda."
+        }
+      ],
+      "hint": "Identifica el proceso c\u00edclico de cuatro pasos utilizado en los sistemas de gesti\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un ejemplo real de protocolo estricto bajo la norma ISO 45001 mencionado para el control de visitas?",
+      "answerOptions": [
+        {
+          "text": "La exigencia de una capacitaci\u00f3n de seguridad obligatoria de una a dos horas antes del ingreso.",
+          "isCorrect": true,
+          "rationale": "Garantizar que todo visitante sepa identificar peligros antes de entrar a la operaci\u00f3n es una medida preventiva clave."
+        },
+        {
+          "text": "La entrega de folletos informativos al finalizar el recorrido por la mina.",
+          "isCorrect": false,
+          "rationale": "La prevenci\u00f3n debe ser previa al riesgo, no posterior a la exposici\u00f3n durante el recorrido."
+        },
+        {
+          "text": "El uso exclusivo de una matriz IPER en formato de papel sin digitalizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La norma no exige el uso exclusivo de papel; de hecho, la transformaci\u00f3n digital es una tendencia para validar datos en tiempo real."
+        },
+        {
+          "text": "La prohibici\u00f3n total de entrada a cualquier persona ajena a la planilla directa.",
+          "isCorrect": false,
+          "rationale": "Las operaciones permiten visitas y contratistas (clientes externos) siempre que cumplan con los protocolos de seguridad."
+        }
+      ],
+      "hint": "Recuerda el caso de Cerrito Lindo y su requisito temporal previo al ingreso."
+    },
+    {
+      "question": "Desde una perspectiva financiera, \u00bfc\u00f3mo se debe considerar la adopci\u00f3n de la trinorma ISO?",
+      "answerOptions": [
+        {
+          "text": "Como un activo financiero potente y una inversi\u00f3n en reputaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Prevenir accidentes y multas reduce costos operativos dr\u00e1sticamente y hace a la empresa atractiva para inversionistas."
+        },
+        {
+          "text": "Como un gasto administrativo necesario para cumplir con la burocracia estatal.",
+          "isCorrect": false,
+          "rationale": "Verlo solo como gasto o burocracia ignora el valor estrat\u00e9gico y preventivo que impacta positivamente en el flujo de caja."
+        },
+        {
+          "text": "Como un costo operativo que reduce la rentabilidad directa del mineral.",
+          "isCorrect": false,
+          "rationale": "Si bien requiere inversi\u00f3n, el retorno se da al evitar cat\u00e1strofes que podr\u00edan paralizar o cerrar la operaci\u00f3n."
+        },
+        {
+          "text": "Como una carga que solo beneficia a los clientes externos pero no a la empresa.",
+          "isCorrect": false,
+          "rationale": "La certificaci\u00f3n beneficia a toda la organizaci\u00f3n al optimizar procesos, mejorar la moral y asegurar la continuidad."
+        }
+      ],
+      "hint": "Piensa si es un gasto perdido o un recurso que genera valor y protege el negocio a largo plazo."
+    },
+    {
+      "question": "Dentro del m\u00e9todo de las 5S, \u00bfen qu\u00e9 consiste la etapa de 'Seiri' o clasificaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "En separar lo que sirve de lo que no y retirar de inmediato lo innecesario mediante herramientas como tarjetas rojas.",
+          "isCorrect": true,
+          "rationale": "La primera S busca despejar el \u00e1rea de trabajo de elementos que no a\u00f1aden valor o representan un riesgo por desorden."
+        },
+        {
+          "text": "En delimitar espacios en el piso usando cintas de colores para el tr\u00e1nsito.",
+          "isCorrect": false,
+          "rationale": "La delimitaci\u00f3n y organizaci\u00f3n de lo que s\u00ed se queda pertenece a la segunda S (Seiton)."
+        },
+        {
+          "text": "En realizar auditor\u00edas constantes para mantener la disciplina del personal.",
+          "isCorrect": false,
+          "rationale": "El mantenimiento de la disciplina y el h\u00e1bito a largo plazo corresponde a la quinta S (Shitsuke)."
+        },
+        {
+          "text": "En la limpieza profunda de las m\u00e1quinas mediante inspecciones visuales.",
+          "isCorrect": false,
+          "rationale": "La limpieza como forma de inspecci\u00f3n es la definici\u00f3n de la tercera S (Seiso)."
+        }
+      ],
+      "hint": "Es el primer paso del proceso y se enfoca en eliminar lo que estorba."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el color amarillo en una matriz de identificaci\u00f3n de peligros y evaluaci\u00f3n de riesgos (IPER)?",
+      "answerOptions": [
+        {
+          "text": "Un nivel de riesgo medio que dicta medidas t\u00e9cnicas espec\u00edficas como el tipo de sostenimiento en t\u00faneles.",
+          "isCorrect": true,
+          "rationale": "El color amarillo se\u00f1ala riesgos que requieren controles de ingenier\u00eda o t\u00e9cnicos para ser mitigados efectivamente."
+        },
+        {
+          "text": "Un nivel de riesgo bajo que solo requiere seguir protocolos est\u00e1ndar de energ\u00edas peligrosas.",
+          "isCorrect": false,
+          "rationale": "El riesgo bajo suele asociarse con el color verde en las matrices visuales de seguridad."
+        },
+        {
+          "text": "Un riesgo cr\u00edtico que exige la se\u00f1alizaci\u00f3n inmediata y obligatoria del \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "Los riesgos cr\u00edticos o altos se representan con el color rojo, indicando una necesidad de acci\u00f3n urgente."
+        },
+        {
+          "text": "La ausencia total de peligro en la zona de trabajo inspeccionada.",
+          "isCorrect": false,
+          "rationale": "Una matriz IPER eval\u00faa niveles de riesgo; el amarillo siempre implica que existe un riesgo moderado presente."
+        }
+      ],
+      "hint": "Ubica este color en el punto intermedio de la escala de criticidad."
+    },
+    {
+      "question": "En la tragedia de la mina Esperanza, \u00bfqu\u00e9 error en el uso de materiales de sostenimiento facilit\u00f3 la propagaci\u00f3n del incendio?",
+      "answerOptions": [
+        {
+          "text": "El uso de puntales de madera, un material altamente combustible.",
+          "isCorrect": true,
+          "rationale": "La madera aliment\u00f3 el fuego y bloque\u00f3 las rutas de escape, demostrando una falla cr\u00edtica en la evaluaci\u00f3n de riesgos."
+        },
+        {
+          "text": "La instalaci\u00f3n de pernos de acero sin el torque de presi\u00f3n adecuado.",
+          "isCorrect": false,
+          "rationale": "Aunque el torque es importante para la estabilidad, no fue el factor que aliment\u00f3 el incendio en este caso espec\u00edfico."
+        },
+        {
+          "text": "El empleo de mallas electrosoldadas oxidadas que colapsaron por el calor.",
+          "isCorrect": false,
+          "rationale": "El problema principal no fue la oxidaci\u00f3n de mallas, sino la presencia de material combustible que propag\u00f3 las llamas."
+        },
+        {
+          "text": "El uso de relleno hidr\u00e1ulico con exceso de humedad en los socavones.",
+          "isCorrect": false,
+          "rationale": "El relleno hidr\u00e1ulico se utiliza para estabilidad geomec\u00e1nica, pero no fue el detonante ni el combustible del incendio mencionado."
+        }
+      ],
+      "hint": "Considera qu\u00e9 material tradicionalmente usado en minas antiguas arde con facilidad."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define la filosof\u00eda de gesti\u00f3n horizontal en las organizaciones modernas?",
+      "answerOptions": [
+        {
+          "text": "Como una red de procesos interrelacionados donde el liderazgo y la toma de decisiones se distribuyen en todos los niveles.",
+          "isCorrect": true,
+          "rationale": "La horizontalidad rompe la jerarqu\u00eda piramidal para permitir que la informaci\u00f3n fluya r\u00e1pido y las decisiones sean \u00e1giles."
+        },
+        {
+          "text": "Como una estructura piramidal r\u00edgida donde solo la cima tiene autoridad de mando.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde a la gesti\u00f3n vertical tradicional, que es el paradigma que se busca superar."
+        },
+        {
+          "text": "Como la eliminaci\u00f3n de los departamentos de geolog\u00eda y seguridad para reducir costos.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n horizontal no elimina especialistas; al contrario, busca que colaboren m\u00e1s estrechamente."
+        },
+        {
+          "text": "Como un modelo donde no existen normas ni estandarizaci\u00f3n de procesos.",
+          "isCorrect": false,
+          "rationale": "Para que la horizontalidad funcione sin caos, es indispensable contar con procesos altamente estandarizados."
+        }
+      ],
+      "hint": "Visualiza una telara\u00f1a estructurada en lugar de una pir\u00e1mide de mando \u00fanico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 entidad se menciona como ejemplo de \u00e9xito en el uso de estructuras \u00e1giles y procesos horizontales para mantener estabilidad?",
+      "answerOptions": [
+        {
+          "text": "El Banco Central de Reserva (BCR).",
+          "isCorrect": true,
+          "rationale": "Su agilidad y enfoque en procesos le han permitido mantener una estabilidad monetaria destacada en la regi\u00f3n."
+        },
+        {
+          "text": "Petroper\u00fa.",
+          "isCorrect": false,
+          "rationale": "Petroper\u00fa es citado como el ejemplo opuesto, debido a sus ineficiencias cr\u00edticas vinculadas a una estructura vertical pesada."
+        },
+        {
+          "text": "La unidad minera La Rinconada.",
+          "isCorrect": false,
+          "rationale": "La Rinconada es mencionada como un ejemplo de miner\u00eda informal con graves carencias de est\u00e1ndares, no como un \u00e9xito de gesti\u00f3n."
+        },
+        {
+          "text": "La empresa Southern Copper en el Valle de Tambo.",
+          "isCorrect": false,
+          "rationale": "Este caso se utiliza para ilustrar un fracaso monumental en gesti\u00f3n ambiental y p\u00e9rdida de licencia social."
+        }
+      ],
+      "hint": "Busca la instituci\u00f3n financiera nacional reconocida por su desempe\u00f1o s\u00f3lido."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito de la norma ISO 17025 en el sector industrial?",
+      "answerOptions": [
+        {
+          "text": "Garantizar la competencia t\u00e9cnica y precisi\u00f3n de los resultados en los laboratorios.",
+          "isCorrect": true,
+          "rationale": "Esta norma es fundamental para que los datos qu\u00edmicos y f\u00edsicos del mineral sean confiables y aceptados internacionalmente."
+        },
+        {
+          "text": "Establecer las bases para la gesti\u00f3n \u00e9tica de la inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de la inteligencia artificial es competencia de la norma ISO 42001."
+        },
+        {
+          "text": "Optimizar el consumo de energ\u00eda el\u00e9ctrica y combustibles en la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La eficiencia energ\u00e9tica se gestiona espec\u00edficamente a trav\u00e9s de la norma ISO 50001."
+        },
+        {
+          "text": "Blindar la informaci\u00f3n cr\u00edtica contra ataques cibern\u00e9ticos y filtraciones.",
+          "isCorrect": false,
+          "rationale": "La protecci\u00f3n de datos y la seguridad de la informaci\u00f3n corresponden a la norma ISO 27001."
+        }
+      ],
+      "hint": "Piensa en el lugar donde se analizan las muestras de mineral."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica distingue a la ISO 26000 sobre responsabilidad social de otras normas ISO?",
+      "answerOptions": [
+        {
+          "text": "Es una gu\u00eda de cumplimiento que no se certifica, pero es vital para la licencia social.",
+          "isCorrect": true,
+          "rationale": "A diferencia de las normas de gesti\u00f3n, la ISO 26000 ofrece orientaciones \u00e9ticas para equilibrar las expectativas de los stakeholders."
+        },
+        {
+          "text": "Es la \u00fanica norma que exige auditor\u00edas externas mensuales obligatorias.",
+          "isCorrect": false,
+          "rationale": "Al no ser certificable, no tiene el mismo esquema de auditor\u00eda de certificaci\u00f3n que la 9001 o la 14001."
+        },
+        {
+          "text": "Se enfoca exclusivamente en la rentabilidad financiera para los inversionistas.",
+          "isCorrect": false,
+          "rationale": "Su objetivo es el balance \u00e9tico entre trabajadores, comunidades, estado y sociedad, no solo el lucro."
+        },
+        {
+          "text": "Sustituye por completo los protocolos de seguridad f\u00edsica en la mina.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad social complementa, pero no reemplaza, las normas de seguridad t\u00e9cnica como la 45001."
+        }
+      ],
+      "hint": "Recuerda que su valor radica en la \u00e9tica y no en un sello de certificaci\u00f3n formal."
+    },
+    {
+      "question": "En la gesti\u00f3n moderna, \u00bfqu\u00e9 papel juega la ciencia de datos y los algoritmos?",
+      "answerOptions": [
+        {
+          "text": "Act\u00faan como un puente que valida los flujos de trabajo con evidencia cient\u00edfica en lugar de suposiciones.",
+          "isCorrect": true,
+          "rationale": "La transformaci\u00f3n digital permite pasar de una gesti\u00f3n basada en opiniones a una basada en datos reales y comprobables."
+        },
+        {
+          "text": "Sirven para reemplazar totalmente la necesidad de inspectores humanos en el socav\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los datos apoyan la decisi\u00f3n humana, pero no eliminan la necesidad de presencia t\u00e9cnica y supervisi\u00f3n en campo."
+        },
+        {
+          "text": "Se utilizan principalmente para ocultar los fallos en los sistemas de ventilaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El objetivo de los sistemas basados en evidencia es la transparencia y la detecci\u00f3n temprana de fallos, no su ocultamiento."
+        },
+        {
+          "text": "Son herramientas opcionales que solo se aplican en la fase de cierre de minas.",
+          "isCorrect": false,
+          "rationale": "El monitoreo de datos es exigible y necesario en todas las etapas, desde la prospecci\u00f3n hasta el cierre."
+        }
+      ],
+      "hint": "Considera c\u00f3mo la tecnolog\u00eda ayuda a pasar del 'yo creo' a la operaci\u00f3n basada en pruebas."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se consideran vitales los servicios auxiliares como el bombeo y el relleno hidr\u00e1ulico en la miner\u00eda subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "Porque su fallo compromete directamente la estabilidad geomec\u00e1nica de toda la operaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Sin un bombeo adecuado o un relleno s\u00f3lido, el socav\u00f3n puede inundarse o colapsar, poniendo en riesgo vidas y producci\u00f3n."
+        },
+        {
+          "text": "Porque son las tareas que menos recursos financieros requieren en el ciclo de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Estos servicios suelen ser complejos y costosos, y su importancia no deriva de su bajo costo sino de su funci\u00f3n cr\u00edtica."
+        },
+        {
+          "text": "Porque su \u00fanica funci\u00f3n es mejorar la est\u00e9tica visual del interior de la mina.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda subterr\u00e1nea prioriza la seguridad y estabilidad f\u00edsica sobre cualquier consideraci\u00f3n est\u00e9tica."
+        },
+        {
+          "text": "Porque reemplazan la necesidad de usar explosivos en la etapa de voladura.",
+          "isCorrect": false,
+          "rationale": "El bombeo y el relleno son soportes a la extracci\u00f3n, no m\u00e9todos de fragmentaci\u00f3n de roca."
+        }
+      ],
+      "hint": "Piensa en lo que ocurrir\u00eda con la estructura del t\u00fanel si se acumula agua o si quedan huecos vac\u00edos."
+    },
+    {
+      "question": "En la etapa de producci\u00f3n, \u00bfqu\u00e9 factor garantiza finalmente la rentabilidad de todo el esfuerzo previo?",
+      "answerOptions": [
+        {
+          "text": "La eficiencia metal\u00fargica dentro de la planta concentradora.",
+          "isCorrect": true,
+          "rationale": "Incluso con una extracci\u00f3n segura, si la planta no procesa el mineral de forma \u00f3ptima, el negocio no es rentable."
+        },
+        {
+          "text": "La cantidad de madera utilizada para el sostenimiento de los t\u00faneles.",
+          "isCorrect": false,
+          "rationale": "El uso de madera puede ser un riesgo de seguridad y no es un indicador de rentabilidad o eficiencia."
+        },
+        {
+          "text": "La rapidez con la que se pasa de la exploraci\u00f3n al cierre sin producir.",
+          "isCorrect": false,
+          "rationale": "La rentabilidad requiere una fase de producci\u00f3n efectiva; salt\u00e1rsela anular\u00eda el retorno de inversi\u00f3n."
+        },
+        {
+          "text": "El n\u00famero de misiones de prospecci\u00f3n realizadas en \u00e1reas sin mineral.",
+          "isCorrect": false,
+          "rationale": "La prospecci\u00f3n en \u00e1reas est\u00e9riles genera gastos, no la rentabilidad final del ciclo productivo."
+        }
+      ],
+      "hint": "Se trata del proceso donde el mineral bruto se transforma en un producto valioso."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo no negociable de un plan de cierre de minas exitoso?",
+      "answerOptions": [
+        {
+          "text": "Garantizar que el terreno sea f\u00edsica y qu\u00edmicamente estable a muy largo plazo para resguardar la salud p\u00fablica.",
+          "isCorrect": true,
+          "rationale": "El cierre no es solo mitigaci\u00f3n visual, sino ingenier\u00eda de alto nivel para evitar contaminaci\u00f3n o colapsos futuros."
+        },
+        {
+          "text": "Plantar una cantidad m\u00ednima de \u00e1rboles para mejorar la imagen corporativa temporalmente.",
+          "isCorrect": false,
+          "rationale": "La reforestaci\u00f3n es parte del proceso, pero el objetivo central es la estabilidad t\u00e9cnica y la seguridad de la salud p\u00fablica."
+        },
+        {
+          "text": "Abandonar las instalaciones lo antes posible para evitar costos de mantenimiento adicionales.",
+          "isCorrect": false,
+          "rationale": "El abandono sin un plan de cierre responsable es una falta \u00e9tica y t\u00e9cnica grave con consecuencias legales y ambientales."
+        },
+        {
+          "text": "Vender toda la maquinaria usada a empresas de miner\u00eda informal de la zona.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n \u00e9tica busca est\u00e1ndares internacionales y no el fomento de actividades informales peligrosas."
+        }
+      ],
+      "hint": "Considera el legado de seguridad y medio ambiente que queda tras finalizar la extracci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 realidad describe el caso de La Rinconada en comparaci\u00f3n con la miner\u00eda certificada?",
+      "answerOptions": [
+        {
+          "text": "Representa un riesgo humano inaceptable debido a la falta total de est\u00e1ndares operativos.",
+          "isCorrect": true,
+          "rationale": "La miner\u00eda informal carece de los controles de la trinorma, lo que se traduce en condiciones laborales peligrosas y da\u00f1o ambiental."
+        },
+        {
+          "text": "Es el modelo a seguir por su alta eficiencia en el uso de estructuras horizontales.",
+          "isCorrect": false,
+          "rationale": "Al contrario, es un ejemplo de lo que se debe evitar mediante la formalizaci\u00f3n y certificaci\u00f3n."
+        },
+        {
+          "text": "Demuestra que los sistemas integrados de gesti\u00f3n son solo tr\u00e1mites burocr\u00e1ticos innecesarios.",
+          "isCorrect": false,
+          "rationale": "La precariedad de este lugar refuerza que los sistemas de gesti\u00f3n son vitales para salvar vidas."
+        },
+        {
+          "text": "Muestra un equilibrio perfecto entre la producci\u00f3n de oro y la responsabilidad social.",
+          "isCorrect": false,
+          "rationale": "Este sitio es conocido por sus graves deficiencias en seguridad y el alto costo humano de su operaci\u00f3n."
+        }
+      ],
+      "hint": "Piensa en las consecuencias de trabajar sin normas de seguridad ni control ambiental."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Sistemas Integrados de Gesti\u00f3n",
+      "Normas ISO (9001, 14001, 45001)",
+      "Gesti\u00f3n de Riesgos e IPER",
+      "Disciplina Operativa y 5S",
+      "Ciclo de Vida de la Actividad Minera",
+      "Gesti\u00f3n Horizontal vs. Vertical"
+    ],
+    "followUp": [
+      "Gesti\u00f3n \u00c9tica de Inteligencia Artificial (ISO 42001)",
+      "Eficiencia Energ\u00e9tica en Procesos Industriales (ISO 50001)",
+      "Est\u00e1ndares de Seguridad de la Informaci\u00f3n (ISO 27001)",
+      "Responsabilidad Social y Stakeholders (ISO 26000)",
+      "Ingenier\u00eda de Cierre de Minas y Estabilidad Geoqu\u00edmica"
+    ]
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal del r\u00e9gimen de drawback en la gesti\u00f3n aduanera?",
+      "answerOptions": [
+        {
+          "text": "Funcionar como un subsidio directo para empresas en quiebra.",
+          "isCorrect": false,
+          "rationale": "El drawback es una herramienta estrat\u00e9gica de competitividad, no un rescate financiero para empresas insolventes."
+        },
+        {
+          "text": "Evitar la exportaci\u00f3n de impuestos y reducir el costo pa\u00eds.",
+          "isCorrect": true,
+          "rationale": "Su l\u00f3gica central es nivelar la cancha permitiendo que el exportador recupere aranceles pagados por insumos, evitando encarecer el producto final."
+        },
+        {
+          "text": "Eliminar la necesidad de realizar controles aduaneros en frontera.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n aduanera mantiene siempre su funci\u00f3n de control regulatorio sobre los flujos transfronterizos."
+        },
+        {
+          "text": "Garantizar que todos los productos importados sean exonerados de IGV.",
+          "isCorrect": false,
+          "rationale": "El drawback se enfoca espec\u00edficamente en la restituci\u00f3n de aranceles de importaci\u00f3n, no en la exoneraci\u00f3n general de impuestos internos."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo este mecanismo ayuda a que los productos nacionales compitan con precios internacionales."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 categor\u00eda de reg\u00edmenes aduaneros se clasifica espec\u00edficamente el drawback?",
+      "answerOptions": [
+        {
+          "text": "R\u00e9gimen de exportaci\u00f3n definitiva.",
+          "isCorrect": false,
+          "rationale": "Aunque se aplica tras una exportaci\u00f3n, su naturaleza t\u00e9cnica pertenece a una categor\u00eda distinta vinculada a la transformaci\u00f3n."
+        },
+        {
+          "text": "R\u00e9gimen de tr\u00e1nsito aduanero.",
+          "isCorrect": false,
+          "rationale": "Esta categor\u00eda se refiere al traslado de mercanc\u00edas bajo control, no a la recuperaci\u00f3n de derechos arancelarios."
+        },
+        {
+          "text": "R\u00e9gimen de perfeccionamiento.",
+          "isCorrect": true,
+          "rationale": "Se ubica aqu\u00ed porque implica que los insumos importados pasan por un proceso de transformaci\u00f3n o incorporaci\u00f3n antes de ser exportados."
+        },
+        {
+          "text": "R\u00e9gimen de dep\u00f3sito aduanero.",
+          "isCorrect": false,
+          "rationale": "El dep\u00f3sito aduanero es para el almacenamiento temporal, no para la restituci\u00f3n de impuestos por producci\u00f3n."
+        }
+      ],
+      "hint": "Esta categor\u00eda agrupa los reg\u00edmenes donde la mercanc\u00eda sufre una modificaci\u00f3n o proceso productivo."
+    },
+    {
+      "question": "Dentro de la clasificaci\u00f3n de insumos, \u00bfqu\u00e9 elementos se consideran materias primas?",
+      "answerOptions": [
+        {
+          "text": "Solo la sustancia b\u00e1sica que compone el producto principal.",
+          "isCorrect": false,
+          "rationale": "La normativa es m\u00e1s amplia e incluye elementos adicionales necesarios para el producto."
+        },
+        {
+          "text": "Sustancias b\u00e1sicas, etiquetas, envases, palets y cajas.",
+          "isCorrect": true,
+          "rationale": "La regla abarca tanto la sustancia del producto como lo utilizado para su presentaci\u00f3n y conservaci\u00f3n."
+        },
+        {
+          "text": "\u00danicamente herramientas y maquinaria utilizadas en la f\u00e1brica.",
+          "isCorrect": false,
+          "rationale": "Los bienes de capital como maquinaria no califican como insumos sujetos a restituci\u00f3n en este r\u00e9gimen."
+        },
+        {
+          "text": "Repuestos de veh\u00edculos utilizados para el transporte log\u00edstico.",
+          "isCorrect": false,
+          "rationale": "Los repuestos de transporte no se incorporan al producto exportado, por lo que no califican."
+        }
+      ],
+      "hint": "Recuerde que no solo cuenta el producto en s\u00ed, sino tambi\u00e9n lo que permite presentarlo y protegerlo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede con las 'piezas y partes' si pierden su integridad funcional durante el ensamblaje?",
+      "answerOptions": [
+        {
+          "text": "El beneficio se mantiene si el peso total no var\u00eda.",
+          "isCorrect": false,
+          "rationale": "La normativa exige conservar el prop\u00f3sito original para el cual fueron fabricadas las piezas."
+        },
+        {
+          "text": "Se debe pagar una penalidad adicional a la aduana.",
+          "isCorrect": false,
+          "rationale": "No existe una penalidad por el proceso productivo en s\u00ed, pero s\u00ed consecuencias sobre el beneficio tributario."
+        },
+        {
+          "text": "Se pierde autom\u00e1ticamente el derecho al beneficio sobre ese insumo.",
+          "isCorrect": true,
+          "rationale": "Si un componente se corta o divide perdiendo su funci\u00f3n original, deja de cumplir con el requisito t\u00e9cnico para el drawback."
+        },
+        {
+          "text": "El sistema permite rectificar la clasificaci\u00f3n a 'materia prima'.",
+          "isCorrect": false,
+          "rationale": "Una pieza fabricada no puede reclasificarse arbitrariamente tras su alteraci\u00f3n f\u00edsica."
+        }
+      ],
+      "hint": "Considere la regla de oro sobre el nivel de exigencia t\u00e9cnica en la producci\u00f3n de componentes listos para armar."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una de las modalidades v\u00e1lidas para adquirir insumos importados y gozar del beneficio?",
+      "answerOptions": [
+        {
+          "text": "Importar los insumos y no pagar aranceles mediante convenios.",
+          "isCorrect": false,
+          "rationale": "Para pedir la restituci\u00f3n, es indispensable que los aranceles hayan sido efectivamente pagados."
+        },
+        {
+          "text": "Comprar insumos a un importador local que ya pag\u00f3 los derechos de aduana.",
+          "isCorrect": true,
+          "rationale": "El beneficio es flexible y permite comprar a terceros locales, transfiriendo el derecho de recuperaci\u00f3n al exportador final."
+        },
+        {
+          "text": "Utilizar insumos que ingresaron al pa\u00eds bajo el r\u00e9gimen de donaciones.",
+          "isCorrect": false,
+          "rationale": "Las donaciones no implican el pago de aranceles comerciales que el drawback pretende restituir."
+        },
+        {
+          "text": "Comprar insumos en el mercado informal sin documentaci\u00f3n de respaldo.",
+          "isCorrect": false,
+          "rationale": "La trazabilidad documental es innegociable para sustentar el derecho ante la autoridad tributaria."
+        }
+      ],
+      "hint": "Piense en la flexibilidad que ofrece la normativa cuando el exportador no es quien realiza la importaci\u00f3n directa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 requisito es indispensable para mantener el beneficio al tercerizar la producci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Que el tercero sea una empresa extranjera sin RUC.",
+          "isCorrect": false,
+          "rationale": "La producci\u00f3n por encargo requiere una estructura formal dentro de la jurisdicci\u00f3n local para ser auditable."
+        },
+        {
+          "text": "Que el exportador entregue los insumos o firme un contrato de servicio formal.",
+          "isCorrect": true,
+          "rationale": "Esto asegura la trazabilidad y demuestra que el exportador mantiene el control sobre el proceso productivo."
+        },
+        {
+          "text": "Que el valor de la tercerizaci\u00f3n no supere el $10\\%$ del FOB.",
+          "isCorrect": false,
+          "rationale": "No existe un l\u00edmite porcentual espec\u00edfico para el costo del servicio de tercerizaci\u00f3n, sino requisitos de forma."
+        },
+        {
+          "text": "No se permite la tercerizaci\u00f3n en ning\u00fan caso para este r\u00e9gimen.",
+          "isCorrect": false,
+          "rationale": "La norma entiende la realidad industrial actual y permite la producci\u00f3n por encargo total o parcial."
+        }
+      ],
+      "hint": "Enfoque su atenci\u00f3n en la formalidad necesaria para documentar la relaci\u00f3n entre el exportador y quien fabrica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el monto m\u00ednimo acumulable para presentar una solicitud de drawback?",
+      "answerOptions": [
+        {
+          "text": "$\\$1,000$.",
+          "isCorrect": false,
+          "rationale": "Este monto es superior al l\u00edmite m\u00ednimo establecido por la normativa aduanera."
+        },
+        {
+          "text": "$\\$500$.",
+          "isCorrect": true,
+          "rationale": "La norma permite acumular varias exportaciones peque\u00f1as hasta alcanzar este piso m\u00ednimo para solicitar la restituci\u00f3n."
+        },
+        {
+          "text": "$\\$20$ millones.",
+          "isCorrect": false,
+          "rationale": "$\\$20$ millones representa el techo m\u00e1ximo de exportaci\u00f3n por subpartida, no el m\u00ednimo por solicitud."
+        },
+        {
+          "text": "No existe un monto m\u00ednimo, se puede pedir por cualquier valor.",
+          "isCorrect": false,
+          "rationale": "Existe un umbral administrativo para evitar la gesti\u00f3n de montos insignificantes."
+        }
+      ],
+      "hint": "Se trata de una cifra que permite a los peque\u00f1os exportadores sumar varias operaciones."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo permitido para el valor de los insumos importados respecto al valor FOB de exportaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "$35.9\\%$.",
+          "isCorrect": false,
+          "rationale": "Aunque es un porcentaje com\u00fan en casos pr\u00e1cticos, no es el l\u00edmite legal m\u00e1ximo."
+        },
+        {
+          "text": "$75\\%$.",
+          "isCorrect": false,
+          "rationale": "Un porcentaje tan alto indicar\u00eda que el producto no tiene suficiente valor agregado nacional para el r\u00e9gimen."
+        },
+        {
+          "text": "$50\\%$.",
+          "isCorrect": true,
+          "rationale": "Si el componente importado supera la mitad del valor del producto final, se pierde el derecho al beneficio instant\u00e1neamente."
+        },
+        {
+          "text": "$3\\%$.",
+          "isCorrect": false,
+          "rationale": "$3\\%$ es la tasa de restituci\u00f3n que se recibe, no el l\u00edmite de los insumos utilizados."
+        }
+      ],
+      "hint": "Es la 'madre de todas las reglas' que define si el producto es considerado suficientemente nacional."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el plazo m\u00e1ximo para haber importado y pagado los aranceles de los insumos antes de la exportaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "180 d\u00edas h\u00e1biles.",
+          "isCorrect": false,
+          "rationale": "Este es el plazo para solicitar el beneficio tras exportar, no la ventana previa de importaci\u00f3n."
+        },
+        {
+          "text": "12 meses.",
+          "isCorrect": false,
+          "rationale": "La norma otorga un periodo de tiempo mucho m\u00e1s amplio para la gesti\u00f3n de inventarios."
+        },
+        {
+          "text": "36 meses.",
+          "isCorrect": true,
+          "rationale": "Los insumos deben haberse importado dentro de los 3 a\u00f1os previos al d\u00eda cero de la exportaci\u00f3n definitiva."
+        },
+        {
+          "text": "5 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Un periodo de 5 a\u00f1os exceder\u00eda el l\u00edmite de vigencia t\u00e9cnica que establece la ley para estos insumos."
+        }
+      ],
+      "hint": "Considere una ventana de tiempo de tres a\u00f1os."
+    },
+    {
+      "question": "\u00bfCu\u00e1ntos d\u00edas h\u00e1biles tiene el exportador para numerar su solicitud despu\u00e9s de terminado el embarque?",
+      "answerOptions": [
+        {
+          "text": "365 d\u00edas.",
+          "isCorrect": false,
+          "rationale": "Un a\u00f1o es un plazo excesivo que no concuerda con la naturaleza perentoria de los tr\u00e1mites aduaneros."
+        },
+        {
+          "text": "180 d\u00edas h\u00e1biles.",
+          "isCorrect": true,
+          "rationale": "Es el plazo m\u00e1ximo y fatal; un solo d\u00eda de retraso deja al exportador fuera del juego."
+        },
+        {
+          "text": "90 d\u00edas calendario.",
+          "isCorrect": false,
+          "rationale": "El plazo legal es el doble de esta cantidad y se cuenta espec\u00edficamente en d\u00edas h\u00e1biles."
+        },
+        {
+          "text": "30 d\u00edas h\u00e1biles.",
+          "isCorrect": false,
+          "rationale": "Aunque es un plazo prudente para la gesti\u00f3n, el l\u00edmite legal es significativamente mayor."
+        }
+      ],
+      "hint": "Piense en un plazo que equivale aproximadamente a seis meses laborables."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el c\u00f3digo 13 en la declaraci\u00f3n aduanera de mercanc\u00edas (DAM)?",
+      "answerOptions": [
+        {
+          "text": "Una clave para solicitar una revisi\u00f3n f\u00edsica de la carga.",
+          "isCorrect": false,
+          "rationale": "El c\u00f3digo 13 no tiene fines de inspecci\u00f3n f\u00edsica, sino de manifestaci\u00f3n de voluntad tributaria."
+        },
+        {
+          "text": "La manifestaci\u00f3n de voluntad de acogerse al drawback.",
+          "isCorrect": true,
+          "rationale": "Es un requisito dr\u00e1stico e insubsanable; si no se digita al momento de exportar, no hay restituci\u00f3n posible."
+        },
+        {
+          "text": "El n\u00famero de partida arancelaria gen\u00e9rica para textiles.",
+          "isCorrect": false,
+          "rationale": "Las subpartidas nacionales tienen una estructura num\u00e9rica distinta a este c\u00f3digo de beneficio."
+        },
+        {
+          "text": "Un indicador de que la mercanc\u00eda es peligrosa.",
+          "isCorrect": false,
+          "rationale": "Los c\u00f3digos de mercanc\u00edas peligrosas se rigen por normativas de seguridad internacionales, no tributarias."
+        }
+      ],
+      "hint": "Es un n\u00famero que debe digitarse s\u00ed o s\u00ed para no perder el derecho al beneficio."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la tasa vigente de restituci\u00f3n aplicada sobre el valor FOB neto?",
+      "answerOptions": [
+        {
+          "text": "$5\\%$.",
+          "isCorrect": false,
+          "rationale": "Esta tasa fue vigente en a\u00f1os anteriores, pero no es la que rige actualmente."
+        },
+        {
+          "text": "$10\\%$.",
+          "isCorrect": false,
+          "rationale": "Un $10\\%$ exceder\u00eda los l\u00edmites actuales de inyecci\u00f3n de liquidez que permite el sistema."
+        },
+        {
+          "text": "$3\\%$.",
+          "isCorrect": true,
+          "rationale": "Es el porcentaje fijo actual que se utiliza para calcular el beneficio financiero sobre el valor de venta exportado."
+        },
+        {
+          "text": "$1.5\\%$.",
+          "isCorrect": false,
+          "rationale": "Esta tasa es inferior a la establecida en la normativa vigente para la competitividad exportadora."
+        }
+      ],
+      "hint": "Es el 'n\u00famero m\u00e1gico' que define cu\u00e1nto dinero fresco entra a la empresa."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 momento se fija la tasa de restituci\u00f3n para una operaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "En la fecha de embarque de la mercanc\u00eda.",
+          "isCorrect": false,
+          "rationale": "La fecha de salida del pa\u00eds no determina la tasa, a pesar de ser un hito log\u00edstico importante."
+        },
+        {
+          "text": "En la fecha en que se aprueba la solicitud de drawback.",
+          "isCorrect": true,
+          "rationale": "Es un detalle temporal estrat\u00e9gico: la tasa vigente el d\u00eda de la aprobaci\u00f3n es la que se aplica."
+        },
+        {
+          "text": "En la fecha de compra de los insumos locales.",
+          "isCorrect": false,
+          "rationale": "La adquisici\u00f3n de insumos es un paso previo que no ancla la tasa del beneficio final."
+        },
+        {
+          "text": "Al momento de emitir la factura de exportaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La facturaci\u00f3n comercial es independiente de la normativa que rige el momento de fijaci\u00f3n de la tasa aduanera."
+        }
+      ],
+      "hint": "Tenga en cuenta que no depende de cu\u00e1ndo sale el producto, sino de la resoluci\u00f3n administrativa."
+    },
+    {
+      "question": "Al calcular la base para el drawback, \u00bfqu\u00e9 conceptos deben excluirse obligatoriamente del valor de factura?",
+      "answerOptions": [
+        {
+          "text": "El costo de las materias primas nacionales.",
+          "isCorrect": false,
+          "rationale": "El valor nacional forma parte del FOB y no debe restarse para el c\u00e1lculo del beneficio."
+        },
+        {
+          "text": "Comisiones de venta y cualquier gasto deducible.",
+          "isCorrect": true,
+          "rationale": "Para llegar al FOB neto, se debe limpiar el monto facturado de estos gastos para evitar c\u00e1lculos err\u00f3neos."
+        },
+        {
+          "text": "El margen de utilidad neta de la empresa.",
+          "isCorrect": false,
+          "rationale": "La utilidad est\u00e1 impl\u00edcita en el valor FOB y no es un concepto que deba restarse por norma."
+        },
+        {
+          "text": "Los gastos de mano de obra directa.",
+          "isCorrect": false,
+          "rationale": "La mano de obra es parte del costo de producci\u00f3n incorporado en el valor de exportaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en los gastos que 'ensucian' el valor real de la mercanc\u00eda puesta en puerto."
+    },
+    {
+      "question": "\u00bfC\u00f3mo debe registrarse contablemente el dinero recibido por drawback?",
+      "answerOptions": [
+        {
+          "text": "Como una venta comercial ordinaria.",
+          "isCorrect": false,
+          "rationale": "No es una venta de bienes, por lo que inflar\u00eda falsamente las ganancias operativas."
+        },
+        {
+          "text": "Como una reducci\u00f3n de costos de importaci\u00f3n o ingreso no gravado.",
+          "isCorrect": true,
+          "rationale": "Su naturaleza es la de una devoluci\u00f3n de impuestos, por lo que impacta en los costos o como ingreso espec\u00edfico."
+        },
+        {
+          "text": "Como un pr\u00e9stamo bancario a corto plazo.",
+          "isCorrect": false,
+          "rationale": "No es una deuda ni genera intereses, es un fondo propio recuperado de la administraci\u00f3n."
+        },
+        {
+          "text": "Como un aporte de capital de los socios.",
+          "isCorrect": false,
+          "rationale": "El origen de los fondos es estatal-tributario, no una inversi\u00f3n de los accionistas."
+        }
+      ],
+      "hint": "Considere que este dinero es una recuperaci\u00f3n de un gasto tributario previo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de las siguientes es una 'bandera roja' que activa una fiscalizaci\u00f3n especial?",
+      "answerOptions": [
+        {
+          "text": "Exportar a m\u00e1s de tres pa\u00edses diferentes en un mes.",
+          "isCorrect": false,
+          "rationale": "La diversificaci\u00f3n de mercados es un indicador de \u00e9xito, no necesariamente un riesgo de fraude."
+        },
+        {
+          "text": "Tener un capital social menor al $5\\%$ del volumen exportado.",
+          "isCorrect": true,
+          "rationale": "Una estructura financiera muy d\u00e9bil frente a grandes movimientos de carga sugiere una posible operaci\u00f3n ficticia."
+        },
+        {
+          "text": "Registrar una utilidad bruta del $20\\%$.",
+          "isCorrect": false,
+          "rationale": "Un margen del $20\\%$ es comercialmente est\u00e1ndar y no activa alertas de anomal\u00eda financiera."
+        },
+        {
+          "text": "Contar con un RUC en condici\u00f3n de 'Habido'.",
+          "isCorrect": false,
+          "rationale": "Esta es una condici\u00f3n obligatoria y positiva, no una se\u00f1al de alerta."
+        }
+      ],
+      "hint": "Se trata de una desproporci\u00f3n entre la capacidad financiera de la empresa y su nivel de negocio."
+    },
+    {
+      "question": "\u00bfQu\u00e9 alerta se activa si una empresa muestra una utilidad bruta excesiva en el sistema?",
+      "answerOptions": [
+        {
+          "text": "Utilidad superior al $50\\%$.",
+          "isCorrect": false,
+          "rationale": "Aunque es una buena utilidad, no llega al nivel considerado 'an\u00f3malo' por los algoritmos de riesgo."
+        },
+        {
+          "text": "Utilidad superior al $100\\%$.",
+          "isCorrect": false,
+          "rationale": "Este margen sigue siendo posible en sectores de lujo o tecnolog\u00eda sin ser una alerta cr\u00edtica autom\u00e1tica."
+        },
+        {
+          "text": "Utilidad superior al $350\\%$.",
+          "isCorrect": true,
+          "rationale": "Cifras tan extremas levantan sospechas inmediatas sobre la veracidad de los costos o precios declarados."
+        },
+        {
+          "text": "Cualquier utilidad mayor al $3\\%$ de la tasa.",
+          "isCorrect": false,
+          "rationale": "La tasa del beneficio no tiene relaci\u00f3n con el l\u00edmite de utilidad comercial de la empresa."
+        }
+      ],
+      "hint": "Es un porcentaje muy alto que hace que la autoridad 'levante la ceja'."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 se diferencia un error subsanable de uno insubsanable en una solicitud?",
+      "answerOptions": [
+        {
+          "text": "El subsanable es un error de digitaci\u00f3n y el insubsanable es un error de c\u00e1lculo.",
+          "isCorrect": false,
+          "rationale": "Ambos pueden ser de digitaci\u00f3n; la diferencia radica en si la norma permite su correcci\u00f3n posterior."
+        },
+        {
+          "text": "El subsanable permite correcci\u00f3n en plazo; el insubsanable es una falta fatal como omitir el c\u00f3digo 13.",
+          "isCorrect": true,
+          "rationale": "Los errores administrativos pueden corregirse, pero las omisiones legales de fondo o plazos no tienen soluci\u00f3n."
+        },
+        {
+          "text": "No hay diferencia, ambos resultan en la p\u00e9rdida definitiva del beneficio.",
+          "isCorrect": false,
+          "rationale": "El sistema aduanero otorga plazos para corregir ciertos errores menores sin perder el dinero."
+        },
+        {
+          "text": "El subsanable solo lo cometen los importadores y el insubsanable los exportadores.",
+          "isCorrect": false,
+          "rationale": "La clasificaci\u00f3n del error depende del tipo de falta a la norma, no del rol del operador."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 tipo de errores permiten una segunda oportunidad y cu\u00e1les son definitivos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 plazo tiene la autoridad para investigar una solicitud si detecta una se\u00f1al de alerta?",
+      "answerOptions": [
+        {
+          "text": "15 d\u00edas h\u00e1biles.",
+          "isCorrect": false,
+          "rationale": "Este plazo es muy corto para una investigaci\u00f3n profunda de indicadores de riesgo."
+        },
+        {
+          "text": "Hasta por 6 meses.",
+          "isCorrect": true,
+          "rationale": "La autoridad tiene la potestad de retener el flujo de caja durante medio a\u00f1o para auditar a fondo."
+        },
+        {
+          "text": "No hay l\u00edmite, pueden retenerlo indefinidamente.",
+          "isCorrect": false,
+          "rationale": "Existen plazos legales que limitan la discrecionalidad de la autoridad para no afectar la operatividad."
+        },
+        {
+          "text": "2 a\u00f1os calendario.",
+          "isCorrect": false,
+          "rationale": "Un plazo de dos a\u00f1os ser\u00eda desproporcionado para una validaci\u00f3n de solicitud administrativa."
+        }
+      ],
+      "hint": "Considere un periodo que representa la mitad de un a\u00f1o."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los tres pilares en los que se sostiene una gesti\u00f3n t\u00e9cnica exitosa del drawback?",
+      "answerOptions": [
+        {
+          "text": "Bajos precios, marketing global y rapidez de env\u00edo.",
+          "isCorrect": false,
+          "rationale": "Estos son pilares comerciales, pero no garantizan el cumplimiento normativo aduanero."
+        },
+        {
+          "text": "Contactos en aduana, capital extranjero y software costoso.",
+          "isCorrect": false,
+          "rationale": "El \u00e9xito del r\u00e9gimen depende del cumplimiento de la ley y el orden documental, no de influencias externas."
+        },
+        {
+          "text": "Cumplimiento de plazos, documentaci\u00f3n impecable y correcta clasificaci\u00f3n arancelaria.",
+          "isCorrect": true,
+          "rationale": "Estos tres elementos garantizan que la solicitud sea s\u00f3lida y resista cualquier auditor\u00eda o algoritmo."
+        },
+        {
+          "text": "Tener un RUC antiguo, exportar grandes vol\u00famenes y usar envases de pl\u00e1stico.",
+          "isCorrect": false,
+          "rationale": "El volumen o la antig\u00fcedad no son requisitos t\u00e9cnicos que aseguren el beneficio por s\u00ed mismos."
+        }
+      ],
+      "hint": "Son factores internos de control que transforman la teor\u00eda en una ventaja competitiva real."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Definici\u00f3n y estrategia del Drawback",
+      "Clasificaci\u00f3n t\u00e9cnica de insumos",
+      "Modalidades de adquisici\u00f3n y tercerizaci\u00f3n",
+      "Requisitos financieros y l\u00edmites de valor",
+      "Cronolog\u00eda y plazos legales",
+      "C\u00e1lculo matem\u00e1tico del beneficio",
+      "Fiscalizaci\u00f3n y se\u00f1ales de alerta aduaneras"
+    ],
+    "followUp": [
+      "Gesti\u00f3n de la Ventanilla \u00danica de Comercio Exterior (VUCE)",
+      "An\u00e1lisis de la trazabilidad documental contable-log\u00edstica",
+      "Impacto del Drawback en el flujo de caja operativo",
+      "Procedimientos de subsanaci\u00f3n ante la administraci\u00f3n tributaria"
+    ]
+  }
+}

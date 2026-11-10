@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal del dise\u00f1o de sistemas en la arquitectura del balance h\u00eddrico industrial?",
+      "answerOptions": [
+        {
+          "text": "Alcanzar un estado estacionario",
+          "isCorrect": true,
+          "rationale": "El estado estacionario permite que las entradas sean iguales a las salidas, minimizando el almacenamiento y optimizando el flujo."
+        },
+        {
+          "text": "Maximizar el almacenamiento de agua",
+          "isCorrect": false,
+          "rationale": "Acumular agua sin sentido contradice la eficiencia del balance de masas donde el volumen almacenado debe tender a cero."
+        },
+        {
+          "text": "Eliminar por completo las salidas operativas",
+          "isCorrect": false,
+          "rationale": "Es f\u00edsicamente imposible eliminar todas las salidas, como la evaporaci\u00f3n o la humedad en el producto final."
+        },
+        {
+          "text": "Priorizar el bombeo de un punto a otro",
+          "isCorrect": false,
+          "rationale": "El bombeo es solo una acci\u00f3n operativa, mientras que el dise\u00f1o de excelencia se basa en la termodin\u00e1mica del balance de masas."
+        }
+      ],
+      "hint": "Considere la m\u00e9trica objetiva que busca un equilibrio din\u00e1mico donde el inventario h\u00eddrico sea optimizado."
+    },
+    {
+      "question": "En la ecuaci\u00f3n fundamental del balance h\u00eddrico, \u00bfqu\u00e9 componentes integran las entradas del sistema?",
+      "answerOptions": [
+        {
+          "text": "Agua fresca, precipitaci\u00f3n y agua recirculada",
+          "isCorrect": true,
+          "rationale": "Estas tres fuentes constituyen el ingreso total de masa de agua que debe ser contabilizado en la balanza industrial."
+        },
+        {
+          "text": "\u00danicamente captaciones superficiales y subterr\u00e1neas",
+          "isCorrect": false,
+          "rationale": "Esta visi\u00f3n ignora aportes naturales como la lluvia y aportes operativos como la recirculaci\u00f3n, colapsando el balance."
+        },
+        {
+          "text": "Infiltraci\u00f3n, vertimientos y agua fresca",
+          "isCorrect": false,
+          "rationale": "La infiltraci\u00f3n y los vertimientos son salidas del sistema, no entradas."
+        },
+        {
+          "text": "Agua de diluci\u00f3n, humedad de productos y escorrent\u00eda",
+          "isCorrect": false,
+          "rationale": "La humedad atrapada en productos es una salida y la diluci\u00f3n no se considera una entrada v\u00e1lida bajo ciertas normativas."
+        }
+      ],
+      "hint": "Piense en todas las formas, tanto naturales como operativas, en que el agua ingresa a la planta."
+    },
+    {
+      "question": "Bajo el marco de la Ley $29338$ en Per\u00fa, \u00bfpor qu\u00e9 se considera a la huella gris como una 'falacia operativa'?",
+      "answerOptions": [
+        {
+          "text": "Porque est\u00e1 prohibido usar agua limpia para diluir efluentes",
+          "isCorrect": true,
+          "rationale": "La normativa exige el tratamiento real de contaminantes y proh\u00edbe el uso de volumen de mezcla para cumplir est\u00e1ndares."
+        },
+        {
+          "text": "Porque no existen m\u00e9todos para medir el volumen de diluci\u00f3n",
+          "isCorrect": false,
+          "rationale": "El volumen es cuantificable te\u00f3ricamente, pero su aplicaci\u00f3n pr\u00e1ctica es ilegal seg\u00fan la normativa de recursos h\u00eddricos."
+        },
+        {
+          "text": "Porque la huella verde siempre es superior a la gris",
+          "isCorrect": false,
+          "rationale": "La comparaci\u00f3n entre huellas verde y gris no determina su legalidad o validez operativa bajo la ley peruana."
+        },
+        {
+          "text": "Porque solo se permite la medici\u00f3n de la huella azul",
+          "isCorrect": false,
+          "rationale": "La ley no proh\u00edbe medir otras huellas, sino que invalida la diluci\u00f3n como estrategia de cumplimiento ambiental."
+        }
+      ],
+      "hint": "Revise las restricciones legales sobre el uso de agua fresca en el punto de vertido."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el est\u00e1ndar de eficiencia de clase mundial para procesos hidrometal\u00fargicos en cuanto al consumo de agua fresca?",
+      "answerOptions": [
+        {
+          "text": "$0.5\\ m^3$ por tonelada de mineral",
+          "isCorrect": true,
+          "rationale": "Este ratio representa el consumo de menos de media tonelada de agua fresca por cada tonelada de mineral procesado."
+        },
+        {
+          "text": "$1.0\\ mg/L$ por tonelada procesada",
+          "isCorrect": false,
+          "rationale": "Esta cifra confunde una unidad de concentraci\u00f3n de cianuro con una m\u00e9trica de eficiencia volum\u00e9trica."
+        },
+        {
+          "text": "$10\\%$ de agua fresca respecto al total",
+          "isCorrect": false,
+          "rationale": "La eficiencia se mide en volumen por masa de mineral procesado, no en porcentaje de mezcla total."
+        },
+        {
+          "text": "$25\\ mg/L$ de agua captada",
+          "isCorrect": false,
+          "rationale": "Este valor corresponde al l\u00edmite anual de s\u00f3lidos suspendidos, no al consumo de agua por tonelada."
+        }
+      ],
+      "hint": "Busque la cifra espec\u00edfica que relaciona metros c\u00fabicos con toneladas de mineral."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fen\u00f3meno qu\u00edmico impide alcanzar un vertido cero absoluto en una operaci\u00f3n que utiliza soluciones cianuradas?",
+      "answerOptions": [
+        {
+          "text": "La saturaci\u00f3n de especies qu\u00edmicas en la soluci\u00f3n",
+          "isCorrect": true,
+          "rationale": "La acumulaci\u00f3n progresiva de componentes qu\u00edmicos tras cada ciclo impide que la soluci\u00f3n siga siendo efectiva para el proceso."
+        },
+        {
+          "text": "La evaporaci\u00f3n excesiva en los espejos de agua",
+          "isCorrect": false,
+          "rationale": "Aunque la evaporaci\u00f3n es una salida, no es la barrera qu\u00edmica principal que invalida la recirculaci\u00f3n del $100\\%$."
+        },
+        {
+          "text": "La falta de reactivos de lixiviaci\u00f3n nuevos",
+          "isCorrect": false,
+          "rationale": "El problema no es la falta de reactivos, sino que la soluci\u00f3n saturada se vuelve un p\u00e9simo lixiviante a pesar de tener reactivos."
+        },
+        {
+          "text": "La descomposici\u00f3n instant\u00e1nea del cianuro libre",
+          "isCorrect": false,
+          "rationale": "El cianuro libre puede permanecer en niveles altos, pero su capacidad de disoluci\u00f3n se ve interferida por otros complejos."
+        }
+      ],
+      "hint": "Considere qu\u00e9 ocurre con los componentes qu\u00edmicos y f\u00edsicos cada vez que el agua da una vuelta por el circuito."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afectan los complejos de cianuro con metales base ($Fe, Cu, Co$) a la recuperaci\u00f3n de metales preciosos?",
+      "answerOptions": [
+        {
+          "text": "Desplazan f\u00edsicamente al oro y la plata en las reacciones",
+          "isCorrect": true,
+          "rationale": "Estos enlaces qu\u00edmicos estables ocupan el lugar de los metales preciosos, reduciendo dr\u00e1sticamente la eficiencia de recuperaci\u00f3n."
+        },
+        {
+          "text": "Aumentan la selectividad metal\u00fargica de la planta",
+          "isCorrect": false,
+          "rationale": "Al contrario, la formaci\u00f3n de estos complejos destruye la selectividad y dificulta la obtenci\u00f3n del producto deseado."
+        },
+        {
+          "text": "Act\u00faan como catalizadores en la lixiviaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "No son catalizadores; son interferentes que generan p\u00e9rdidas econ\u00f3micas y dificultades t\u00e9cnicas."
+        },
+        {
+          "text": "Reducen el consumo de cianuro libre",
+          "isCorrect": false,
+          "rationale": "La formaci\u00f3n de complejos suele consumir cianuro que deber\u00eda estar disponible para el oro, incrementando costos."
+        }
+      ],
+      "hint": "Piense en la competencia qu\u00edmica entre los metales base y los metales de valor comercial."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el impacto operativo de la acumulaci\u00f3n descontrolada de reactivos de flotaci\u00f3n como xantatos y espumantes?",
+      "answerOptions": [
+        {
+          "text": "Flotaci\u00f3n no deseada de la ganga y p\u00e9rdida de pureza",
+          "isCorrect": true,
+          "rationale": "La acumulaci\u00f3n de estos qu\u00edmicos desestabiliza el proceso, haciendo que el material sin valor flote y ensucie el concentrado."
+        },
+        {
+          "text": "Erosi\u00f3n mec\u00e1nica prematura en bombas centr\u00edfugas",
+          "isCorrect": false,
+          "rationale": "La erosi\u00f3n mec\u00e1nica es causada principalmente por los s\u00f3lidos suspendidos totales, no por reactivos qu\u00edmicos disueltos."
+        },
+        {
+          "text": "Incremento de la humedad en las pastas secas",
+          "isCorrect": false,
+          "rationale": "La humedad final es controlada mec\u00e1nicamente por equipos como los filtros prensa, no por la qu\u00edmica de flotaci\u00f3n."
+        },
+        {
+          "text": "Neutralizaci\u00f3n autom\u00e1tica del pH del efluente",
+          "isCorrect": false,
+          "rationale": "Los reactivos de flotaci\u00f3n no tienen como funci\u00f3n ni efecto la neutralizaci\u00f3n del pH en el balance h\u00eddrico."
+        }
+      ],
+      "hint": "Recuerde qu\u00e9 sucede cuando el material de roca sin valor comercial comienza a flotar junto al mineral."
+    },
+    {
+      "question": "En el marco institucional peruano, \u00bfcu\u00e1l es la diferencia principal entre la funci\u00f3n de la ANA y la de la OEFA?",
+      "answerOptions": [
+        {
+          "text": "ANA vigila el cuerpo receptor; OEFA fiscaliza el punto de emisi\u00f3n",
+          "isCorrect": true,
+          "rationale": "La ANA tiene una visi\u00f3n macro del recurso h\u00eddrico, mientras que la OEFA audita microsc\u00f3picamente la salida de la planta."
+        },
+        {
+          "text": "ANA sanciona a las empresas; OEFA otorga derechos de uso",
+          "isCorrect": false,
+          "rationale": "Las funciones est\u00e1n invertidas: la ANA otorga los derechos de uso y la OEFA ejerce la funci\u00f3n fiscalizadora y punitiva."
+        },
+        {
+          "text": "ANA controla los par\u00e1metros qu\u00edmicos; OEFA controla los biol\u00f3gicos",
+          "isCorrect": false,
+          "rationale": "Ambas instituciones consideran diversos par\u00e1metros, pero su distinci\u00f3n radica en el lugar de vigilancia (r\u00edo vs. tuber\u00eda)."
+        },
+        {
+          "text": "ANA gestiona el agua residual; OEFA gestiona el agua fresca",
+          "isCorrect": false,
+          "rationale": "La ANA gestiona el recurso h\u00eddrico natural en general; la OEFA se enfoca en el cumplimiento de l\u00edmites en vertidos industriales."
+        }
+      ],
+      "hint": "Diferencie entre la vigilancia del 'panorama general' del r\u00edo y el control 'microsc\u00f3pico' de la tuber\u00eda de descarga."
+    },
+    {
+      "question": "\u00bfA qui\u00e9n corresponde la responsabilidad directa del cumplimiento de los L\u00edmites M\u00e1ximos Permisibles (LMP)?",
+      "answerOptions": [
+        {
+          "text": "Al titular o empresa operadora",
+          "isCorrect": true,
+          "rationale": "El LMP se mide en el punto de emisi\u00f3n, el cual es zona de absoluta responsabilidad operativa de la empresa."
+        },
+        {
+          "text": "Exclusivamente al Estado",
+          "isCorrect": false,
+          "rationale": "El Estado es responsable de vigilar los Est\u00e1ndares de Calidad Ambiental (ECA) en el cuerpo h\u00eddrico, no el cumplimiento del LMP."
+        },
+        {
+          "text": "A la Autoridad Nacional del Agua (ANA)",
+          "isCorrect": false,
+          "rationale": "La ANA es el ente administrador y regulador, pero la responsabilidad del cumplimiento recae en quien genera el vertido."
+        },
+        {
+          "text": "A las comunidades locales del \u00e1rea de influencia",
+          "isCorrect": false,
+          "rationale": "La sociedad civil no tiene responsabilidad legal sobre el control t\u00e9cnico de los puntos de emisi\u00f3n industriales."
+        }
+      ],
+      "hint": "Identifique qui\u00e9n es el actor que realiza el vertido y debe aplicar el rigor de la ingenier\u00eda."
+    },
+    {
+      "question": "Respecto a los S\u00f3lidos Suspendidos Totales (SST), \u00bfcu\u00e1l es el desaf\u00edo de ingenier\u00eda que impone la normativa?",
+      "answerOptions": [
+        {
+          "text": "Lograr un promedio anual de apenas $25\\ mg/L$",
+          "isCorrect": true,
+          "rationale": "Mantener este promedio tan bajo durante todo un a\u00f1o exige una estabilidad operativa casi perfecta frente al m\u00e1ximo instant\u00e1neo de $50\\ mg/L$."
+        },
+        {
+          "text": "Mantener el nivel de s\u00f3lidos por debajo de $1.0\\ mg/L$",
+          "isCorrect": false,
+          "rationale": "Este valor ($1.0\\ mg/L$) corresponde al l\u00edmite m\u00e1ximo para el cianuro total, no para los s\u00f3lidos suspendidos."
+        },
+        {
+          "text": "Asegurar que los s\u00f3lidos act\u00faen como filtro en las bombas",
+          "isCorrect": false,
+          "rationale": "Los s\u00f3lidos no filtran; al contrario, causan erosi\u00f3n mec\u00e1nica devastadora en los equipos de precisi\u00f3n."
+        },
+        {
+          "text": "Alcanzar un pH entre $6.0$ y $9.0$ mediante s\u00f3lidos",
+          "isCorrect": false,
+          "rationale": "El pH es un par\u00e1metro qu\u00edmico independiente de la concentraci\u00f3n de s\u00f3lidos suspendidos."
+        }
+      ],
+      "hint": "Diferencie entre el l\u00edmite permitido en una medici\u00f3n instant\u00e1nea y el promedio exigido a largo plazo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica el concepto de 'responsabilidad objetiva' en la fiscalizaci\u00f3n ambiental?",
+      "answerOptions": [
+        {
+          "text": "La infracci\u00f3n se genera por el simple hecho f\u00edsico de cruzar el l\u00edmite",
+          "isCorrect": true,
+          "rationale": "En la responsabilidad objetiva, la intencionalidad o el dolo no son relevantes; solo importa el dato registrado en la descarga."
+        },
+        {
+          "text": "Solo se sanciona si se demuestra que hubo intenci\u00f3n de causar da\u00f1o",
+          "isCorrect": false,
+          "rationale": "Esto describe la responsabilidad subjetiva; en la objetiva, el error humano o falla mec\u00e1nica no eximen de la sanci\u00f3n."
+        },
+        {
+          "text": "Las multas se aplican \u00fanicamente si hay muerte de especies biol\u00f3gicas",
+          "isCorrect": false,
+          "rationale": "Superar el l\u00edmite m\u00e1ximo permisible constituye por s\u00ed solo un da\u00f1o potencial sancionable, sin requerir da\u00f1o biol\u00f3gico visible."
+        },
+        {
+          "text": "La empresa puede evitar sanciones justificando fallas mec\u00e1nicas",
+          "isCorrect": false,
+          "rationale": "Bajo este esquema, las justificaciones sobre la causa de la falla pierden relevancia frente al hecho del incumplimiento normativo."
+        }
+      ],
+      "hint": "Piense en si el regulador eval\u00faa las 'intenciones' o los 'datos registrados'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica de dise\u00f1o fundamental en los humedales artificiales para maximizar la remoci\u00f3n de metales?",
+      "answerOptions": [
+        {
+          "text": "Un flujo en zigzag o serpent\u00edn",
+          "isCorrect": true,
+          "rationale": "Este dise\u00f1o geom\u00e9trico maximiza el tiempo de residencia hidr\u00e1ulica, aumentando el contacto entre el agua y la base biol\u00f3gica."
+        },
+        {
+          "text": "La inyecci\u00f3n constante de lechada de cal",
+          "isCorrect": false,
+          "rationale": "Los humedales son procesos pasivos; la inyecci\u00f3n de qu\u00edmicos es caracter\u00edstica del proceso activo."
+        },
+        {
+          "text": "El uso de membranas semipermeables",
+          "isCorrect": false,
+          "rationale": "Las membranas son propias de la osmosis inversa, una tecnolog\u00eda de tratamiento avanzado, no de humedales."
+        },
+        {
+          "text": "La precipitaci\u00f3n forzada mediante pol\u00edmeros",
+          "isCorrect": false,
+          "rationale": "Esto corresponde a la sedimentaci\u00f3n y floculaci\u00f3n qu\u00edmica, no a la remediaci\u00f3n biol\u00f3gica pasiva."
+        }
+      ],
+      "hint": "Considere c\u00f3mo la geometr\u00eda del recorrido influye en el tiempo que el agua permanece en el sistema."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumplen los pol\u00edmeros especializados en la etapa de acondicionamiento qu\u00edmico del agua?",
+      "answerOptions": [
+        {
+          "text": "Actuar como un im\u00e1n para aglutinar part\u00edculas finas",
+          "isCorrect": true,
+          "rationale": "Los pol\u00edmeros facilitan que las part\u00edculas ganen masa y decanten r\u00e1pidamente por gravedad en el proceso de floculaci\u00f3n."
+        },
+        {
+          "text": "Oxidar el cianuro para convertirlo en cianato",
+          "isCorrect": false,
+          "rationale": "La oxidaci\u00f3n del cianuro requiere agentes como el per\u00f3xido de hidr\u00f3geno, no pol\u00edmeros de floculaci\u00f3n."
+        },
+        {
+          "text": "Aumentar la presi\u00f3n mec\u00e1nica en los filtros prensa",
+          "isCorrect": false,
+          "rationale": "La presi\u00f3n mec\u00e1nica es generada por el dise\u00f1o del equipo (filtro prensa), no por la adici\u00f3n de pol\u00edmeros."
+        },
+        {
+          "text": "Eliminar la humedad residual de las pastas secas",
+          "isCorrect": false,
+          "rationale": "Los pol\u00edmeros preparan el agua para la decantaci\u00f3n; la reducci\u00f3n de humedad final es un proceso de separaci\u00f3n mec\u00e1nica posterior."
+        }
+      ],
+      "hint": "Piense en el proceso de floculaci\u00f3n y c\u00f3mo se logra que las part\u00edculas peque\u00f1as se vuelvan m\u00e1s grandes."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el resultado tecnol\u00f3gico de procesar relaves a trav\u00e9s de un filtro prensa?",
+      "answerOptions": [
+        {
+          "text": "La obtenci\u00f3n de pastas secas con un $10\\%$ de humedad",
+          "isCorrect": true,
+          "rationale": "La alta presi\u00f3n mec\u00e1nica separa el l\u00edquido del s\u00f3lido hasta niveles m\u00ednimos, permitiendo un reciclaje h\u00eddrico masivo."
+        },
+        {
+          "text": "La generaci\u00f3n de un flujo lodoso y gigantesco",
+          "isCorrect": false,
+          "rationale": "El filtro prensa busca precisamente evitar los flujos lodosos, transform\u00e1ndolos en residuos s\u00f3lidos estables."
+        },
+        {
+          "text": "La eliminaci\u00f3n qu\u00edmica total de los metales pesados",
+          "isCorrect": false,
+          "rationale": "El filtro prensa es una tecnolog\u00eda de separaci\u00f3n mec\u00e1nica de fases, no un tratamiento qu\u00edmico de eliminaci\u00f3n de metales."
+        },
+        {
+          "text": "La purificaci\u00f3n del agua para consumo humano directo",
+          "isCorrect": false,
+          "rationale": "El agua clarificada de un filtro prensa suele recircularse al proceso industrial, no se destina directamente al consumo humano."
+        }
+      ],
+      "hint": "Focal\u00edcese en el porcentaje de humedad residual que se alcanza mediante presiones mec\u00e1nicas inmensas."
+    },
+    {
+      "question": "En el proceso de detoxificaci\u00f3n de cianuro, \u00bfpor qu\u00e9 es importante la transformaci\u00f3n de cianuro a cianato?",
+      "answerOptions": [
+        {
+          "text": "Porque el cianato es una especie qu\u00edmica mucho menos peligrosa",
+          "isCorrect": true,
+          "rationale": "La oxidaci\u00f3n molecular suprime el riesgo ambiental al convertir una sustancia altamente t\u00f3xica en una estable y de baja peligrosidad."
+        },
+        {
+          "text": "Porque permite la recuperaci\u00f3n de oro que estaba atrapado",
+          "isCorrect": false,
+          "rationale": "La detoxificaci\u00f3n ocurre generalmente al final, para tratar el efluente antes de su descarga o recirculaci\u00f3n, no para recuperar oro."
+        },
+        {
+          "text": "Porque el cianato acelera la erosi\u00f3n mec\u00e1nica en las tuber\u00edas",
+          "isCorrect": false,
+          "rationale": "El cianato no tiene propiedades erosivas; ese efecto es causado por los s\u00f3lidos suspendidos."
+        },
+        {
+          "text": "Porque reduce el pH de la soluci\u00f3n a niveles \u00e1cidos",
+          "isCorrect": false,
+          "rationale": "El tratamiento de cianuro no busca acidificar la soluci\u00f3n; de hecho, el control del pH es vital para la seguridad en este proceso."
+        }
+      ],
+      "hint": "Compare los niveles de toxicidad y estabilidad entre ambas mol\u00e9culas."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se reserva estrictamente la implementaci\u00f3n de la osmosis inversa a escala industrial?",
+      "answerOptions": [
+        {
+          "text": "Para gestionar vol\u00famenes de agua en exceso",
+          "isCorrect": true,
+          "rationale": "Debido a su sofisticaci\u00f3n, no se usa para recirculaci\u00f3n est\u00e1ndar, sino como barrera final para excedentes por balances positivos o lluvias."
+        },
+        {
+          "text": "Para la recirculaci\u00f3n est\u00e1ndar del agua de proceso",
+          "isCorrect": false,
+          "rationale": "La osmosis inversa es demasiado costosa y compleja para ser el m\u00e9todo est\u00e1ndar de recirculaci\u00f3n operativa cotidiana."
+        },
+        {
+          "text": "Para aumentar la concentraci\u00f3n de s\u00f3lidos suspendidos",
+          "isCorrect": false,
+          "rationale": "La osmosis inversa rechaza impurezas y s\u00f3lidos a nivel molecular para obtener agua de alta calidad, no para concentrarlos."
+        },
+        {
+          "text": "Para disolver metales base como el hierro y el cobre",
+          "isCorrect": false,
+          "rationale": "Esta tecnolog\u00eda utiliza membranas para separar iones y mol\u00e9culas, no para promover la disoluci\u00f3n de metales."
+        }
+      ],
+      "hint": "Identifique en qu\u00e9 situaciones se vuelve necesaria esta barrera tecnol\u00f3gica final de purificaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta proactiva se menciona para mapear infiltraciones antes de que se conviertan en un problema reactivo?",
+      "answerOptions": [
+        {
+          "text": "Estudios geoel\u00e9ctricos o tomograf\u00edas",
+          "isCorrect": true,
+          "rationale": "Estas t\u00e9cnicas permiten visualizar lo que ocurre bajo el terreno para identificar posibles fugas o infiltraciones de manera anticipada."
+        },
+        {
+          "text": "Mediciones instant\u00e1neas de pH en el vertido",
+          "isCorrect": false,
+          "rationale": "El monitoreo del pH en el vertido es una medida de control de efluentes, pero no sirve para mapear infiltraciones en el terreno."
+        },
+        {
+          "text": "C\u00e1lculo de la huella verde mediante precipitaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "El c\u00e1lculo de la huella verde mide el aporte de agua de lluvia, no detecta fallas en la impermeabilizaci\u00f3n o infiltraciones."
+        },
+        {
+          "text": "An\u00e1lisis qu\u00edmico de la soluci\u00f3n Barren",
+          "isCorrect": false,
+          "rationale": "La soluci\u00f3n Barren se analiza para medir la eficiencia de recuperaci\u00f3n de oro, no para estudios de geotecnia o infiltraci\u00f3n."
+        }
+      ],
+      "hint": "Piense en m\u00e9todos que permitan 'ver' a trav\u00e9s del suelo de forma no invasiva."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia f\u00edsica de intentar recircular agua con altos niveles de s\u00f3lidos suspendidos sin tratamiento previo?",
+      "answerOptions": [
+        {
+          "text": "Erosi\u00f3n mec\u00e1nica prematura por efecto de 'papel de lija'",
+          "isCorrect": true,
+          "rationale": "Las part\u00edculas diminutas act\u00faan como abrasivos a alta velocidad, destruyendo bombas, v\u00e1lvulas y equipos de precisi\u00f3n."
+        },
+        {
+          "text": "Incremento de la selectividad metal\u00fargica en la planta",
+          "isCorrect": false,
+          "rationale": "Los s\u00f3lidos suspendidos suelen interferir negativamente y no mejoran la selectividad de los procesos qu\u00edmicos."
+        },
+        {
+          "text": "Aumento espont\u00e1neo de la capacidad de lixiviaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La presencia de s\u00f3lidos no mejora la lixiviaci\u00f3n; por el contrario, puede obstruir el contacto entre el mineral y la soluci\u00f3n."
+        },
+        {
+          "text": "Formaci\u00f3n de complejos estables con el cianuro",
+          "isCorrect": false,
+          "rationale": "La formaci\u00f3n de complejos es un fen\u00f3meno qu\u00edmico molecular, mientras que el impacto de los s\u00f3lidos es principalmente f\u00edsico y mec\u00e1nico."
+        }
+      ],
+      "hint": "Asocie las part\u00edculas s\u00f3lidas con el da\u00f1o que causar\u00edan al rozar componentes met\u00e1licos a alta velocidad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el rango de pH que impone la normativa para el vertido de efluentes industriales?",
+      "answerOptions": [
+        {
+          "text": "Entre $6.0$ y $9.0$",
+          "isCorrect": true,
+          "rationale": "Este rango asegura que el efluente tenga una naturaleza neutral, minimizando el impacto \u00e1cido o b\u00e1sico en el ecosistema receptor."
+        },
+        {
+          "text": "Entre $1.0$ y $5.0$",
+          "isCorrect": false,
+          "rationale": "Un pH en este rango ser\u00eda extremadamente \u00e1cido y causar\u00eda graves da\u00f1os ambientales, adem\u00e1s de ser ilegal."
+        },
+        {
+          "text": "Entre $10.0$ y $14.0$",
+          "isCorrect": false,
+          "rationale": "Este rango corresponde a soluciones altamente b\u00e1sicas, t\u00edpicas de procesos internos pero prohibidas para el vertido final."
+        },
+        {
+          "text": "Exactamente $7.0$ sin variaciones",
+          "isCorrect": false,
+          "rationale": "Aunque el $7.0$ es neutral, la norma permite un rango de flexibilidad t\u00e9cnica entre $6.0$ y $9.0$."
+        }
+      ],
+      "hint": "Busque un intervalo que represente la neutralidad qu\u00edmica requerida por la ley."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa la 'vulnerabilidad h\u00eddrica' seg\u00fan las conclusiones de la clase?",
+      "answerOptions": [
+        {
+          "text": "Es equivalente a la vulnerabilidad operativa",
+          "isCorrect": true,
+          "rationale": "Dada la finitud y el valor estrat\u00e9gico del recurso, cualquier falla en la gesti\u00f3n del agua compromete directamente la continuidad de la industria."
+        },
+        {
+          "text": "Es una m\u00e9trica exclusivamente ambiental sin impacto econ\u00f3mico",
+          "isCorrect": false,
+          "rationale": "La vulnerabilidad h\u00eddrica afecta directamente la rentabilidad y la viabilidad de los proyectos industriales."
+        },
+        {
+          "text": "Es una falacia legal bajo la Ley $29338$",
+          "isCorrect": false,
+          "rationale": "La vulnerabilidad h\u00eddrica es una realidad operativa y estrat\u00e9gica, no una falacia legal como lo es la huella gris."
+        },
+        {
+          "text": "Es un objetivo a alcanzar para lograr el vertido cero",
+          "isCorrect": false,
+          "rationale": "La vulnerabilidad es un riesgo que se debe mitigar, no un objetivo operativo o una meta de dise\u00f1o."
+        }
+      ],
+      "hint": "Relacione la disponibilidad del recurso agua con la capacidad de mantener la planta funcionando."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Balance h\u00eddrico industrial",
+      "Marco regulatorio peruano (Ley $29338$)",
+      "Tecnolog\u00edas de tratamiento de efluentes",
+      "Qu\u00edmica de la recirculaci\u00f3n y sus limitaciones",
+      "Estrategias de mitigaci\u00f3n de aguas \u00e1cidas"
+    ],
+    "followUp": [
+      "Termodin\u00e1mica del balance de masas en sistemas abiertos",
+      "Impacto de metales base en la selectividad metal\u00fargica",
+      "Mecanismos biol\u00f3gicos en humedales artificiales ($wetlands$)",
+      "Oxidaci\u00f3n qu\u00edmica avanzada para detoxificaci\u00f3n de cianuro",
+      "Geotecnia aplicada al control de infiltraciones industriales"
+    ]
+  }
+}

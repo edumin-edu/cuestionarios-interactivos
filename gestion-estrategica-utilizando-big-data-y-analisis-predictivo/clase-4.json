@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la combinaci\u00f3n fundamental que permite generar predicciones empresariales \u00fatiles seg\u00fan la estrategia de anal\u00edtica predictiva?",
+      "answerOptions": [
+        {
+          "text": "Datos hist\u00f3ricos rigurosos y algoritmos avanzados.",
+          "isCorrect": true,
+          "rationale": "Esta combinaci\u00f3n permite transformar la informaci\u00f3n del pasado en activos de decisi\u00f3n mediante el procesamiento algor\u00edtmico."
+        },
+        {
+          "text": "Intuici\u00f3n directiva y Big Data masivo.",
+          "isCorrect": false,
+          "rationale": "El enfoque busca precisamente reemplazar la intuici\u00f3n por evidencia basada en el procesamiento t\u00e9cnico de datos."
+        },
+        {
+          "text": "Monitoreo en tiempo real y redes sociales.",
+          "isCorrect": false,
+          "rationale": "Aunque el tiempo real es valioso, la base de la anal\u00edtica predictiva mencionada se centra en el uso de datos hist\u00f3ricos."
+        },
+        {
+          "text": "Sistemas reactivos y bases de datos relacionales.",
+          "isCorrect": false,
+          "rationale": "El objetivo de estos modelos es dejar de ser reactivos para volverse proactivos ante el futuro."
+        }
+      ],
+      "hint": "Considera qu\u00e9 elementos del pasado y qu\u00e9 herramientas t\u00e9cnicas se unen para anticipar el futuro."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza principalmente al paradigma del aprendizaje supervisado?",
+      "answerOptions": [
+        {
+          "text": "El uso de una base de datos con ejemplos que ya incluyen las respuestas correctas.",
+          "isCorrect": true,
+          "rationale": "Este modelo aprende a relacionar variables bas\u00e1ndose en etiquetas o soluciones previamente conocidas, similar a una gu\u00eda de estudio."
+        },
+        {
+          "text": "La b\u00fasqueda aut\u00f3noma de estructuras ocultas sin etiquetas previas.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde al aprendizaje no supervisado, no al supervisado."
+        },
+        {
+          "text": "El entrenamiento exclusivo mediante procesos de ensayo y error.",
+          "isCorrect": false,
+          "rationale": "El ensayo y error es la base del aprendizaje por refuerzo, donde un agente busca una recompensa."
+        },
+        {
+          "text": "La capacidad de procesar solo datos cualitativos en formato de texto.",
+          "isCorrect": false,
+          "rationale": "Los modelos supervisados requieren transformar los datos a formatos num\u00e9ricos y pueden manejar diversos tipos de informaci\u00f3n."
+        }
+      ],
+      "hint": "Piensa en la analog\u00eda de estudiar con un libro que ya tiene las soluciones al final."
+    },
+    {
+      "question": "Dentro del aprendizaje supervisado, \u00bfcu\u00e1l es la diferencia principal entre la clasificaci\u00f3n y la regresi\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "La clasificaci\u00f3n predice categor\u00edas exactas, mientras que la regresi\u00f3n predice valores num\u00e9ricos continuos.",
+          "isCorrect": true,
+          "rationale": "La clasificaci\u00f3n se enfoca en etiquetas discretas (como spam o no) y la regresi\u00f3n en escalas num\u00e9ricas infinitas (como el precio de una casa)."
+        },
+        {
+          "text": "La clasificaci\u00f3n usa algoritmos lineales y la regresi\u00f3n usa exclusivamente redes neuronales.",
+          "isCorrect": false,
+          "rationale": "Ambas tareas pueden utilizar diversos tipos de algoritmos, tanto lineales como no lineales."
+        },
+        {
+          "text": "La clasificaci\u00f3n requiere intervenci\u00f3n humana y la regresi\u00f3n es totalmente aut\u00f3noma.",
+          "isCorrect": false,
+          "rationale": "Ambos son m\u00e9todos de aprendizaje autom\u00e1tico que operan bajo el paradigma supervisado con m\u00ednima intervenci\u00f3n tras el entrenamiento."
+        },
+        {
+          "text": "La clasificaci\u00f3n solo analiza datos pasados y la regresi\u00f3n solo analiza datos futuros.",
+          "isCorrect": false,
+          "rationale": "Ambas t\u00e9cnicas utilizan datos hist\u00f3ricos para realizar proyecciones hacia el futuro."
+        }
+      ],
+      "hint": "Distingue entre elegir una etiqueta (blanco o negro) y calcular una cifra (un precio)."
+    },
+    {
+      "question": "\u00bfC\u00f3mo utiliza una empresa como Spotify el aprendizaje no supervisado?",
+      "answerOptions": [
+        {
+          "text": "Clasificando bibliotecas musicales mediante el descubrimiento de similitudes de ritmos y estilos.",
+          "isCorrect": true,
+          "rationale": "El sistema agrupa los datos mediante an\u00e1lisis estad\u00edstico sin que se le hayan definido categor\u00edas previamente."
+        },
+        {
+          "text": "Penalizando al algoritmo cuando un usuario salta una canci\u00f3n sugerida.",
+          "isCorrect": false,
+          "rationale": "Este mecanismo de retroalimentaci\u00f3n y penalizaci\u00f3n es t\u00edpico del aprendizaje por refuerzo."
+        },
+        {
+          "text": "Prediciendo el valor exacto en d\u00f3lares de una suscripci\u00f3n premium.",
+          "isCorrect": false,
+          "rationale": "Predecir un valor num\u00e9rico exacto es una tarea de regresi\u00f3n dentro del aprendizaje supervisado."
+        },
+        {
+          "text": "Verificando la identidad del usuario mediante reconocimiento facial.",
+          "isCorrect": false,
+          "rationale": "El reconocimiento facial es una tarea de clasificaci\u00f3n supervisada (es el usuario o no)."
+        }
+      ],
+      "hint": "Identifica c\u00f3mo se pueden agrupar elementos similares sin tener etiquetas preestablecidas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo primordial de un agente en el aprendizaje por refuerzo?",
+      "answerOptions": [
+        {
+          "text": "Maximizar una recompensa matem\u00e1tica mediante la toma de decisiones iterativas.",
+          "isCorrect": true,
+          "rationale": "El agente act\u00faa en un entorno cambiante y ajusta su comportamiento para obtener el mejor resultado posible seg\u00fan la retroalimentaci\u00f3n."
+        },
+        {
+          "text": "Limpiar y normalizar los datos de entrada para evitar sesgos.",
+          "isCorrect": false,
+          "rationale": "Esto describe el an\u00e1lisis exploratorio de datos y el preprocesamiento, no la din\u00e1mica del aprendizaje por refuerzo."
+        },
+        {
+          "text": "Organizar grandes vol\u00famenes de datos en grupos o 'clusters' definidos.",
+          "isCorrect": false,
+          "rationale": "Esta es la funci\u00f3n del aprendizaje no supervisado."
+        },
+        {
+          "text": "Entrenar modelos de lenguaje para traducir palabras a c\u00f3digo binario.",
+          "isCorrect": false,
+          "rationale": "Aunque se usa tecnolog\u00eda similar, el objetivo central del refuerzo es la optimizaci\u00f3n de acciones en un entorno din\u00e1mico."
+        }
+      ],
+      "hint": "Visualiza a un robot aprendiendo a caminar o a una aspiradora evitando obst\u00e1culos."
+    },
+    {
+      "question": "En el contexto del An\u00e1lisis Exploratorio de Datos (EDA), \u00bfqu\u00e9 asegura la funci\u00f3n `.info()` en Python?",
+      "answerOptions": [
+        {
+          "text": "Que la estructura de los datos sea correcta y las columnas est\u00e9n intactas.",
+          "isCorrect": true,
+          "rationale": "Esta funci\u00f3n permite revisar el 'esqueleto' de la informaci\u00f3n, asegurando que los tipos de datos coincidan con lo esperado."
+        },
+        {
+          "text": "El c\u00e1lculo de m\u00e9tricas de tendencia central como la media y la mediana.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis de m\u00e9tricas de tendencia central es realizado por la funci\u00f3n `.describe()`."
+        },
+        {
+          "text": "La detecci\u00f3n autom\u00e1tica de valores at\u00edpicos o 'outliers'.",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda a ver la estructura, no identifica por s\u00ed misma los valores num\u00e9ricos extremos o at\u00edpicos."
+        },
+        {
+          "text": "La transformaci\u00f3n de texto a lenguaje l\u00f3gico de ceros y unos.",
+          "isCorrect": false,
+          "rationale": "Ese proceso se conoce como label encoding o normalizaci\u00f3n, no es funci\u00f3n de `.info()`."
+        }
+      ],
+      "hint": "Relaciona esta funci\u00f3n con la revisi\u00f3n t\u00e9cnica del armaz\u00f3n o esqueleto de los datos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es riesgoso basarse \u00fanicamente en el promedio matem\u00e1tico para analizar datos corporativos?",
+      "answerOptions": [
+        {
+          "text": "Porque el promedio puede ocultar realidades de consistencia y variabilidad muy distintas.",
+          "isCorrect": true,
+          "rationale": "Dos conjuntos de datos pueden tener la misma media pero distribuciones y niveles de riesgo totalmente opuestos."
+        },
+        {
+          "text": "Porque los algoritmos de machine learning no pueden procesar promedios.",
+          "isCorrect": false,
+          "rationale": "Los algoritmos utilizan promedios constantemente; el problema radica en la interpretaci\u00f3n estrat\u00e9gica humana."
+        },
+        {
+          "text": "Porque el promedio siempre sobreestima los valores de \u00e9xito de una empresa.",
+          "isCorrect": false,
+          "rationale": "El promedio es una medida neutral; no tiende inherentemente a sobreestimar o subestimar sin analizar la dispersi\u00f3n."
+        },
+        {
+          "text": "Porque requiere el uso obligatorio de herramientas de deep learning para ser calculado.",
+          "isCorrect": false,
+          "rationale": "El promedio es una m\u00e9trica estad\u00edstica b\u00e1sica que se calcula f\u00e1cilmente sin necesidad de arquitecturas complejas."
+        }
+      ],
+      "hint": "Recuerda el ejemplo del estudiante con notas constantes frente al estudiante con notas extremas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 efecto tienen los 'outliers' o valores at\u00edpicos en un sistema anal\u00edtico?",
+      "answerOptions": [
+        {
+          "text": "Deforman la distribuci\u00f3n matem\u00e1tica y arruinan la exactitud de las proyecciones.",
+          "isCorrect": true,
+          "rationale": "Picos extra\u00f1os o datos raros alteran la campana de Gauss, llevando a que el modelo aprenda patrones que no representan la realidad general."
+        },
+        {
+          "text": "Aumentan la velocidad de procesamiento de los algoritmos de clasificaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los valores at\u00edpicos no mejoran la eficiencia; de hecho, pueden complicar el entrenamiento del modelo."
+        },
+        {
+          "text": "Ayudan a que el modelo sea m\u00e1s flexible ante cambios del mercado.",
+          "isCorrect": false,
+          "rationale": "Al contrario, si no se tratan, el modelo puede volverse impreciso al intentar ajustarse a datos que son anomal\u00edas."
+        },
+        {
+          "text": "Son necesarios para realizar el proceso de 'label encoding'.",
+          "isCorrect": false,
+          "rationale": "El label encoding es una traducci\u00f3n de formato y no depende de la existencia de valores at\u00edpicos."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo una sola persona de 80 a\u00f1os afectar\u00eda el promedio en un grupo de j\u00f3venes de 25."
+    },
+    {
+      "question": "En la curadur\u00eda de datos, \u00bfqu\u00e9 acci\u00f3n se debe tomar si una columna (como la cabina de un viaje) est\u00e1 vac\u00eda en m\u00e1s del 50% de los registros?",
+      "answerOptions": [
+        {
+          "text": "Desechar la variable por completo.",
+          "isCorrect": true,
+          "rationale": "La pr\u00e1ctica profesional exige eliminar variables con demasiada ausencia de informaci\u00f3n, ya que no aportan valor estad\u00edstico confiable."
+        },
+        {
+          "text": "Rellenar todos los espacios usando el promedio global.",
+          "isCorrect": false,
+          "rationale": "Rellenar con el promedio es v\u00e1lido para pocos huecos, pero en m\u00e1s del 50% introducir\u00eda un sesgo inaceptable."
+        },
+        {
+          "text": "Inventar datos aleatorios para completar la tabla.",
+          "isCorrect": false,
+          "rationale": "Esto corromper\u00eda la integridad de los datos y llevar\u00eda a predicciones totalmente err\u00f3neas."
+        },
+        {
+          "text": "Duplicar los registros existentes para compensar los vac\u00edos.",
+          "isCorrect": false,
+          "rationale": "Duplicar datos no soluciona la falta de informaci\u00f3n en una columna espec\u00edfica y sesga el entrenamiento."
+        }
+      ],
+      "hint": "Considera la regla de utilidad estad\u00edstica cuando falta la mayor\u00eda de la informaci\u00f3n en una columna."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple el 'label encoding' o codificaci\u00f3n de etiquetas?",
+      "answerOptions": [
+        {
+          "text": "Traducir informaci\u00f3n cualitativa (texto) a un lenguaje num\u00e9rico de ceros y unos.",
+          "isCorrect": true,
+          "rationale": "Los algoritmos requieren matem\u00e1ticas para operar, por lo que etiquetas como el g\u00e9nero o la ciudad deben convertirse en n\u00fameros."
+        },
+        {
+          "text": "Eliminar las columnas que no tienen poder predictivo.",
+          "isCorrect": false,
+          "rationale": "Esa es la reducci\u00f3n de dimensionalidad, no la codificaci\u00f3n de etiquetas."
+        },
+        {
+          "text": "Identificar y corregir errores de ortograf\u00eda en la base de datos.",
+          "isCorrect": false,
+          "rationale": "La limpieza de texto es previa y diferente a la codificaci\u00f3n l\u00f3gica necesaria para el modelo."
+        },
+        {
+          "text": "Calcular la desviaci\u00f3n est\u00e1ndar de las variables categ\u00f3ricas.",
+          "isCorrect": false,
+          "rationale": "La desviaci\u00f3n est\u00e1ndar se aplica a valores num\u00e9ricos continuos, no es el prop\u00f3sito de la codificaci\u00f3n."
+        }
+      ],
+      "hint": "Piensa en el 'idioma universal' que necesitan las m\u00e1quinas para procesar palabras."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito de la funci\u00f3n sigmoide en una regresi\u00f3n log\u00edstica?",
+      "answerOptions": [
+        {
+          "text": "Confinar cualquier valor num\u00e9rico dentro de un rango estricto entre $0$ y $1$.",
+          "isCorrect": true,
+          "rationale": "Esto permite transformar datos crudos en probabilidades manejables para eventos binarios (s\u00ed/no)."
+        },
+        {
+          "text": "Crear m\u00faltiples \u00e1rboles de decisi\u00f3n para evitar el sobreajuste.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n del algoritmo Random Forest, no de la funci\u00f3n sigmoide."
+        },
+        {
+          "text": "Calcular la distancia entre los puntos de datos y el promedio.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n se acerca m\u00e1s al c\u00e1lculo de la desviaci\u00f3n est\u00e1ndar o la varianza."
+        },
+        {
+          "text": "Eliminar variables irrelevantes como el nombre del cliente.",
+          "isCorrect": false,
+          "rationale": "Esa tarea corresponde a la reducci\u00f3n de dimensionalidad en la fase de preparaci\u00f3n."
+        }
+      ],
+      "hint": "Act\u00faa como un 'guardi\u00e1n' que asegura que los resultados sean probabilidades."
+    },
+    {
+      "question": "En una organizaci\u00f3n, \u00bfqu\u00e9 significa que una cuenta cruce el umbral de decisi\u00f3n de $0.5$ en un modelo de fuga de clientes?",
+      "answerOptions": [
+        {
+          "text": "Que el cliente tiene un alto riesgo de abandonar la empresa (churn).",
+          "isCorrect": true,
+          "rationale": "Al superar este l\u00edmite probabil\u00edstico, se clasifica al cliente en la categor\u00eda de riesgo para activar protocolos de retenci\u00f3n."
+        },
+        {
+          "text": "Que el cliente ha sido leal por m\u00e1s de la mitad del a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "El umbral de $0.5$ es una medida de probabilidad de un evento, no una medida de tiempo de lealtad."
+        },
+        {
+          "text": "Que los datos del cliente son ruidosos y deben ser eliminados.",
+          "isCorrect": false,
+          "rationale": "El umbral se aplica a la salida del modelo, no es un criterio para filtrar datos ruidosos en la entrada."
+        },
+        {
+          "text": "Que el cliente ha gastado exactamente la mitad de su presupuesto.",
+          "isCorrect": false,
+          "rationale": "Es una interpretaci\u00f3n financiera literal que no guarda relaci\u00f3n con la l\u00f3gica de clasificaci\u00f3n binaria."
+        }
+      ],
+      "hint": "Considera la l\u00ednea en la arena que separa una decisi\u00f3n de 'no' frente a una de 's\u00ed'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la ventaja t\u00e1ctica de utilizar un 'Random Forest' sobre un \u00e1rbol de decisi\u00f3n individual?",
+      "answerOptions": [
+        {
+          "text": "Reduce el sobreajuste al promediar las decisiones de m\u00faltiples \u00e1rboles.",
+          "isCorrect": true,
+          "rationale": "Funciona como una junta directiva donde el consenso de muchos \u00e1rboles crea un modelo m\u00e1s estable y menos sesgado."
+        },
+        {
+          "text": "Es mucho m\u00e1s f\u00e1cil de explicar a un auditor bancario.",
+          "isCorrect": false,
+          "rationale": "Al contrario, los \u00e1rboles individuales son preferidos en banca por su alt\u00edsima interpretabilidad frente a los bosques."
+        },
+        {
+          "text": "Requiere una cantidad mucho menor de datos para ser efectivo.",
+          "isCorrect": false,
+          "rationale": "Los modelos de ensamble como Random Forest suelen requerir vol\u00famenes de datos considerables para entrenar m\u00faltiples ramas."
+        },
+        {
+          "text": "Solo puede procesar variables que ya han sido normalizadas como ceros.",
+          "isCorrect": false,
+          "rationale": "Aunque se benefician de datos curados, no est\u00e1n limitados \u00fanicamente a procesar ceros."
+        }
+      ],
+      "hint": "Visualiza la diferencia entre la opini\u00f3n de un solo empleado y la de una junta directiva completa."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 tipo de problemas destaca el 'Deep Learning' o procesamiento no lineal multicapa?",
+      "answerOptions": [
+        {
+          "text": "En escenarios con vol\u00famenes de datos masivos donde las reglas no son evidentes.",
+          "isCorrect": true,
+          "rationale": "Su estructura emula las conexiones neuronales para descubrir relaciones latentes invisibles para m\u00e9todos estad\u00edsticos tradicionales."
+        },
+        {
+          "text": "En tareas simples de oficina que solo requieren sumas y restas.",
+          "isCorrect": false,
+          "rationale": "Para tareas simples, los m\u00e9todos tradicionales son m\u00e1s eficientes y menos costosos computacionalmente."
+        },
+        {
+          "text": "En la creaci\u00f3n de hojas de c\u00e1lculo b\u00e1sicas para peque\u00f1as empresas.",
+          "isCorrect": false,
+          "rationale": "El deep learning es una arquitectura de alta complejidad, no una herramienta para gesti\u00f3n administrativa b\u00e1sica."
+        },
+        {
+          "text": "En la eliminaci\u00f3n manual de duplicados en una base de datos.",
+          "isCorrect": false,
+          "rationale": "La eliminaci\u00f3n de duplicados es una tarea de limpieza de datos procedimental, no un problema de aprendizaje profundo."
+        }
+      ],
+      "hint": "Piensa en sistemas de recomendaci\u00f3n m\u00e1gicos como los de Netflix o detecci\u00f3n de fraudes globales."
+    },
+    {
+      "question": "En la fase de ejecuci\u00f3n del ciclo predictivo, \u00bfpor qu\u00e9 se mantiene un $20\\%$ de los datos ocultos para el algoritmo?",
+      "answerOptions": [
+        {
+          "text": "Para validar su capacidad de generalizar frente a datos que nunca ha visto.",
+          "isCorrect": true,
+          "rationale": "Funciona como un examen sorpresa que impide que el modelo simplemente memorice las respuestas del pasado."
+        },
+        {
+          "text": "Para ahorrar costos de procesamiento computacional durante el entrenamiento.",
+          "isCorrect": false,
+          "rationale": "El ahorro es m\u00ednimo; el motivo real es la integridad de la validaci\u00f3n del modelo."
+        },
+        {
+          "text": "Porque esos datos suelen ser los que contienen m\u00e1s errores y ruido.",
+          "isCorrect": false,
+          "rationale": "La divisi\u00f3n debe ser aleatoria; si se ocultaran solo los datos malos, la validaci\u00f3n ser\u00eda enga\u00f1osa."
+        },
+        {
+          "text": "Para cumplir con las leyes de privacidad de datos de los clientes.",
+          "isCorrect": false,
+          "rationale": "La privacidad se maneja con otras t\u00e9cnicas; la divisi\u00f3n $80/20$ es una regla estrictamente metodol\u00f3gica de ciencia de datos."
+        }
+      ],
+      "hint": "Es la forma de asegurar que el modelo realmente aprendi\u00f3 y no solo memoriz\u00f3."
+    },
+    {
+      "question": "\u00bfQu\u00e9 resultado tangible se obtuvo en el sector financiero al aplicar modelos de clasificaci\u00f3n de riesgo?",
+      "answerOptions": [
+        {
+          "text": "La reducci\u00f3n de la tasa de morosidad del $15\\%$ al $7\\%$.",
+          "isCorrect": true,
+          "rationale": "Este desplome en la incidencia de impagos permiti\u00f3 mitigar el riesgo corporativo mediante evidencia estad\u00edstica."
+        },
+        {
+          "text": "El aumento de la tasa de inter\u00e9s para todos los clientes nuevos.",
+          "isCorrect": false,
+          "rationale": "El objetivo era filtrar el riesgo de forma asertiva, no necesariamente aumentar las tasas de forma general."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de los cajeros autom\u00e1ticos f\u00edsicos.",
+          "isCorrect": false,
+          "rationale": "El caso de estudio se centr\u00f3 en la gesti\u00f3n de pr\u00e9stamos y riesgo, no en la infraestructura f\u00edsica de los bancos."
+        },
+        {
+          "text": "La duplicaci\u00f3n del personal encargado de cobranzas manuales.",
+          "isCorrect": false,
+          "rationale": "Al automatizar la predicci\u00f3n de riesgo, la necesidad de intervenci\u00f3n manual reactiva tiende a disminuir, no a duplicarse."
+        }
+      ],
+      "hint": "Se trata de un beneficio relacionado con los pr\u00e9stamos impagados."
+    },
+    {
+      "question": "En el caso de la log\u00edstica industrial en Portugal, \u00bfqu\u00e9 beneficio directo gener\u00f3 la predicci\u00f3n de variables f\u00edsicas?",
+      "answerOptions": [
+        {
+          "text": "Una reducci\u00f3n dr\u00e1stica en el desperdicio de aluminio y papel.",
+          "isCorrect": true,
+          "rationale": "Ajustar variables como el gramaje y los cortes de guillotina permiti\u00f3 optimizar el uso volum\u00e9trico de materias primas."
+        },
+        {
+          "text": "La invenci\u00f3n de un nuevo tipo de empaque biodegradable.",
+          "isCorrect": false,
+          "rationale": "El enfoque fue la optimizaci\u00f3n del proceso existente y la reducci\u00f3n de desperdicio, no el desarrollo de nuevos materiales."
+        },
+        {
+          "text": "El aumento de la velocidad de los camiones de reparto.",
+          "isCorrect": false,
+          "rationale": "Aunque es log\u00edstica, el caso espec\u00edfico se centr\u00f3 en la manufactura de los empaques m\u00e9dicos."
+        },
+        {
+          "text": "La contrataci\u00f3n de m\u00e1s personal especializado en cortes manuales.",
+          "isCorrect": false,
+          "rationale": "La soluci\u00f3n fue tecnol\u00f3gica y algor\u00edtmica, buscando precisi\u00f3n milim\u00e9trica que supera la capacidad manual."
+        }
+      ],
+      "hint": "Piensa en el ahorro de materiales cr\u00edticos para la fabricaci\u00f3n de empaques m\u00e9dicos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la 'regla de oro' mencionada para garantizar la efectividad de las m\u00e9tricas de validaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Datos de alt\u00edsima calidad garantizan predicciones asertivas.",
+          "isCorrect": true,
+          "rationale": "Si la entrada es defectuosa, el resultado inevitablemente ser\u00e1 una predicci\u00f3n err\u00f3nea, independientemente del algoritmo."
+        },
+        {
+          "text": "El uso de la mayor cantidad de variables posible, sin importar su relevancia.",
+          "isCorrect": false,
+          "rationale": "Al contrario, se recomienda la reducci\u00f3n de dimensionalidad para no confundir al modelo con variables in\u00fatiles."
+        },
+        {
+          "text": "Priorizar siempre la red neuronal m\u00e1s compleja sobre cualquier otro modelo.",
+          "isCorrect": false,
+          "rationale": "A veces modelos m\u00e1s simples son preferibles por su interpretabilidad en sectores regulados."
+        },
+        {
+          "text": "Evitar el uso de m\u00e9tricas como el $R$ cuadrado para no sesgar los resultados.",
+          "isCorrect": false,
+          "rationale": "El $R$ cuadrado es, de hecho, el rey indiscutible para validar modelos de regresi\u00f3n."
+        }
+      ],
+      "hint": "Se refiere a la pureza de la materia prima que alimenta al sistema."
+    },
+    {
+      "question": "\u00bfQu\u00e9 dilema enfrentan constantemente los estrategas de negocios al elegir un modelo predictivo?",
+      "answerOptions": [
+        {
+          "text": "El balance entre la potencia bruta del algoritmo y la interpretabilidad de los resultados.",
+          "isCorrect": true,
+          "rationale": "En sectores como la banca, explicar el 'porqu\u00e9' de una decisi\u00f3n es tan vital como la precisi\u00f3n misma del modelo."
+        },
+        {
+          "text": "Elegir entre usar Python o volver a los procesos manuales con papel.",
+          "isCorrect": false,
+          "rationale": "El uso de herramientas modernas es indiscutible; el dilema es cu\u00e1l arquitectura t\u00e9cnica aplicar dentro de ese ecosistema."
+        },
+        {
+          "text": "Decidir si los datos deben ser hist\u00f3ricos o inventados por expertos.",
+          "isCorrect": false,
+          "rationale": "La anal\u00edtica predictiva exige datos reales; el uso de datos inventados no es una opci\u00f3n v\u00e1lida en ciencia de datos."
+        },
+        {
+          "text": "La elecci\u00f3n entre usar electricidad o servidores en la nube.",
+          "isCorrect": false,
+          "rationale": "Este es un tema de infraestructura t\u00e9cnica que no forma parte de los dilemas estrat\u00e9gicos del modelado predictivo."
+        }
+      ],
+      "hint": "Piensa en la dificultad de explicar una 'caja negra' frente a un modelo transparente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el pilar que se encarga de curar datos, limpiarlos y elegir variables con poder real?",
+      "answerOptions": [
+        {
+          "text": "Ingenier\u00eda de caracter\u00edsticas (Feature Engineering).",
+          "isCorrect": true,
+          "rationale": "Este paso es crucial para asegurar que el algoritmo reciba la informaci\u00f3n m\u00e1s relevante y refinada posible."
+        },
+        {
+          "text": "Monitoreo constante del ciclo de vida.",
+          "isCorrect": false,
+          "rationale": "El monitoreo ocurre despu\u00e9s de que el modelo ya est\u00e1 funcionando, no durante la curaci\u00f3n inicial de variables."
+        },
+        {
+          "text": "Uso de la funci\u00f3n sigmoide.",
+          "isCorrect": false,
+          "rationale": "La funci\u00f3n sigmoide es una herramienta matem\u00e1tica dentro del algoritmo, no un proceso de curaci\u00f3n de datos."
+        },
+        {
+          "text": "C\u00e1lculo de la m\u00e9trica $R$ cuadrado.",
+          "isCorrect": false,
+          "rationale": "El $R$ cuadrado mide el \u00e9xito del modelo final, no se encarga de la selecci\u00f3n de variables."
+        }
+      ],
+      "hint": "Es el proceso altamente accionable donde se refina la materia prima antes de inyectarla al motor."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Machine Learning",
+      "Anal\u00edtica Predictiva",
+      "Procesamiento de Datos",
+      "Algoritmos de Clasificaci\u00f3n",
+      "Arquitecturas de Inteligencia Artificial"
+    ],
+    "followUp": [
+      "Deep Learning",
+      "Gesti\u00f3n de Riesgo Corporativo",
+      "Optimizaci\u00f3n de Procesos Log\u00edsticos",
+      "Ciencia de Datos Aplicada"
+    ]
+  }
+}

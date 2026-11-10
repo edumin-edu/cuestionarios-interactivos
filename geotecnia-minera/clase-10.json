@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el factor determinante al elegir la infraestructura de control h\u00eddrico en un proyecto de ingenier\u00eda o miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "La geograf\u00eda del lugar",
+          "isCorrect": true,
+          "rationale": "La ubicaci\u00f3n geogr\u00e1fica define si el enfoque debe ser preventivo por aridez o de desalojo masivo por lluvias intensas."
+        },
+        {
+          "text": "El presupuesto inicial de la obra",
+          "isCorrect": false,
+          "rationale": "Aunque el costo es importante, la geograf\u00eda dicta los requisitos t\u00e9cnicos cr\u00edticos para la supervivencia del proyecto."
+        },
+        {
+          "text": "La disponibilidad de mano de obra local",
+          "isCorrect": false,
+          "rationale": "La mano de obra es un factor operativo, pero no define el dise\u00f1o t\u00e9cnico de la infraestructura hidr\u00e1ulica."
+        },
+        {
+          "text": "La cercan\u00eda a centros urbanos",
+          "isCorrect": false,
+          "rationale": "La ubicaci\u00f3n urbana puede influir en la log\u00edstica, pero los principios de control h\u00eddrico dependen del entorno natural."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo cambian las necesidades entre una zona des\u00e9rtica y una zona monta\u00f1osa."
+    },
+    {
+      "question": "En la zona de la costa, \u00bfcu\u00e1l es la prioridad estrat\u00e9gica para el control de efluentes?",
+      "answerOptions": [
+        {
+          "text": "Sistemas de desalojo masivo",
+          "isCorrect": false,
+          "rationale": "El desalojo masivo es prioritario en zonas de alta pluviosidad, no en la costa \u00e1rida."
+        },
+        {
+          "text": "Captar efluentes con canales de coronaci\u00f3n",
+          "isCorrect": true,
+          "rationale": "Debido a la extrema aridez, se busca evitar la dispersi\u00f3n de contaminantes en \u00e1reas donde usualmente no llueve."
+        },
+        {
+          "text": "Infiltraci\u00f3n directa al subsuelo",
+          "isCorrect": false,
+          "rationale": "La infiltraci\u00f3n sin control podr\u00eda contaminar acu\u00edferos locales en un entorno seco."
+        },
+        {
+          "text": "Almacenamiento en pozas abiertas",
+          "isCorrect": false,
+          "rationale": "Las pozas abiertas pueden favorecer la evaporaci\u00f3n y concentraci\u00f3n de contaminantes en lugar de su control preventivo."
+        }
+      ],
+      "hint": "Considere el enfoque preventivo necesario debido a la aridez extrema."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es considerada obsoleta la pr\u00e1ctica de mezclar efluentes de distinta naturaleza en la ingenier\u00eda moderna?",
+      "answerOptions": [
+        {
+          "text": "Porque requiere tuber\u00edas de mayor di\u00e1metro",
+          "isCorrect": false,
+          "rationale": "El di\u00e1metro de la tuber\u00eda es un factor secundario frente a los riesgos operativos y ambientales de la mezcla."
+        },
+        {
+          "text": "Porque facilita el mantenimiento preventivo",
+          "isCorrect": false,
+          "rationale": "Al contrario, mezclar efluentes dificulta la identificaci\u00f3n de problemas espec\u00edficos en la red."
+        },
+        {
+          "text": "Porque dispara los costos operativos y riesgos de contaminaci\u00f3n",
+          "isCorrect": true,
+          "rationale": "La falta de segregaci\u00f3n estrat\u00e9gica es ineficiente y genera riesgos cr\u00edticos que las obras modernas no pueden permitirse."
+        },
+        {
+          "text": "Porque reduce el tiempo de vida de las plantas de tratamiento",
+          "isCorrect": false,
+          "rationale": "Si bien afecta a las plantas, el motivo principal es la ineficiencia econ\u00f3mica y el riesgo ambiental masivo."
+        }
+      ],
+      "hint": "Reflexione sobre la eficiencia del tratamiento y la seguridad ambiental."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 altitud se bombea el agua de mar tratada en el proyecto Milpo en Chincha?",
+      "answerOptions": [
+        {
+          "text": "$1,500\\text{ m}$",
+          "isCorrect": false,
+          "rationale": "Esta altitud es inferior a la requerida para los campamentos mencionados en este caso de \u00e9xito."
+        },
+        {
+          "text": "$2,800\\text{ m}$",
+          "isCorrect": true,
+          "rationale": "Este sistema de bombeo sofisticado traslada el recurso desde la costa hasta una altitud considerable para no estresar fuentes locales."
+        },
+        {
+          "text": "$4,000\\text{ m}$",
+          "isCorrect": false,
+          "rationale": "Aunque es una altitud com\u00fan en miner\u00eda, el hito espec\u00edfico de Milpo se sit\u00faa a un nivel intermedio."
+        },
+        {
+          "text": "$500\\text{ m}$",
+          "isCorrect": false,
+          "rationale": "Esa elevaci\u00f3n no representar\u00eda el desaf\u00edo de ingenier\u00eda que caracteriza a este proyecto."
+        }
+      ],
+      "hint": "Es una cifra cercana a los tres mil metros sobre el nivel del mar."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la misi\u00f3n exclusiva de las redes de drenaje pluvial?",
+      "answerOptions": [
+        {
+          "text": "Tratar aguas negras para riego",
+          "isCorrect": false,
+          "rationale": "El tratamiento de aguas negras corresponde al drenaje sanitario, no al pluvial."
+        },
+        {
+          "text": "Enrutar y sacar el agua de lluvia r\u00e1pidamente",
+          "isCorrect": true,
+          "rationale": "Su funci\u00f3n es aprovechar la gravedad para evacuar el agua de lluvia y evitar emposamientos o erosi\u00f3n."
+        },
+        {
+          "text": "Mezclar agua de lluvia con desechos industriales",
+          "isCorrect": false,
+          "rationale": "La ingenier\u00eda contempor\u00e1nea exige estrictamente separar estos flujos para evitar desastres ambientales."
+        },
+        {
+          "text": "Almacenar agua para \u00e9pocas de sequ\u00eda prolongada",
+          "isCorrect": false,
+          "rationale": "Aunque el almacenamiento es posible, la misi\u00f3n primaria de la red de drenaje es el desalojo r\u00e1pido."
+        }
+      ],
+      "hint": "Piense en la fuerza de la gravedad y la protecci\u00f3n de superficies vulnerables."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la proporci\u00f3n de volumen entre el agua de lluvia y las aguas servidas que hace prohibitivo el tratamiento combinado?",
+      "answerOptions": [
+        {
+          "text": "De $5:1$ a $10:1$",
+          "isCorrect": false,
+          "rationale": "Esta proporci\u00f3n es demasiado baja para representar el costo prohibitivo mencionado."
+        },
+        {
+          "text": "De $20:1$ a $40:1$",
+          "isCorrect": false,
+          "rationale": "Aun con esta diferencia, no se alcanzar\u00eda el sobredimensionamiento masivo de una planta de tratamiento."
+        },
+        {
+          "text": "De $50:1$ hasta $200:1$",
+          "isCorrect": true,
+          "rationale": "Esta abrumadora diferencia de volumen implica que tratar flujos combinados requerir\u00eda plantas masivamente sobredimensionadas."
+        },
+        {
+          "text": "De $500:1$ a $1,000:1$",
+          "isCorrect": false,
+          "rationale": "Esta cifra excede los rangos t\u00e9cnicos est\u00e1ndar presentados para la diferenciaci\u00f3n de flujos."
+        }
+      ],
+      "hint": "Se trata de un rango que comienza en cincuenta veces el volumen."
+    },
+    {
+      "question": "En el dise\u00f1o de sumideros, \u00bfqu\u00e9 funci\u00f3n cumplen las trampas tipo sif\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la presi\u00f3n del flujo",
+          "isCorrect": false,
+          "rationale": "Los sifones no est\u00e1n dise\u00f1ados para presurizar el flujo, sino para el control de sustancias."
+        },
+        {
+          "text": "Bloquear gases t\u00f3xicos y grasas",
+          "isCorrect": true,
+          "rationale": "Estas estructuras act\u00faan como una barrera f\u00edsica para evitar la propagaci\u00f3n de contaminantes vol\u00e1tiles y s\u00f3lidos livianos."
+        },
+        {
+          "text": "Acelerar el paso del agua hacia los colectores",
+          "isCorrect": false,
+          "rationale": "El sif\u00f3n suele ralentizar levemente el flujo para permitir la separaci\u00f3n de fases."
+        },
+        {
+          "text": "Filtrar sedimentos pesados como la arena",
+          "isCorrect": false,
+          "rationale": "La filtraci\u00f3n de sedimentos pesados ocurre generalmente en las posas de sedimentaci\u00f3n al final del sistema."
+        }
+      ],
+      "hint": "Relacione el componente con la seguridad atmosf\u00e9rica y la retenci\u00f3n de l\u00edpidos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el di\u00e1metro m\u00ednimo y la profundidad de entierro est\u00e1ndar para tuber\u00edas de drenaje bajo tr\u00e1fico pesado?",
+      "answerOptions": [
+        {
+          "text": "$50\\text{ mm}$ de di\u00e1metro y $30\\text{ cm}$ de profundidad",
+          "isCorrect": false,
+          "rationale": "Estas dimensiones son insuficientes para resistir las cargas din\u00e1micas de camiones pesados."
+        },
+        {
+          "text": "$100\\text{ mm}$ de di\u00e1metro y $60\\text{ cm}$ de profundidad",
+          "isCorrect": true,
+          "rationale": "Estos est\u00e1ndares aseguran que la tuber\u00eda no colapse ni se fracture ante el paso de maquinaria pesada."
+        },
+        {
+          "text": "$200\\text{ mm}$ de di\u00e1metro y $100\\text{ cm}$ de profundidad",
+          "isCorrect": false,
+          "rationale": "Aunque son dimensiones seguras, exceden el m\u00ednimo t\u00e9cnico requerido por la norma citada."
+        },
+        {
+          "text": "$150\\text{ mm}$ de di\u00e1metro y $45\\text{ cm}$ de profundidad",
+          "isCorrect": false,
+          "rationale": "El di\u00e1metro podr\u00eda ser aceptable, pero la profundidad es menor al est\u00e1ndar de seguridad establecido."
+        }
+      ],
+      "hint": "Considere la cifra de cien mil\u00edmetros para el di\u00e1metro."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de las posas de disipaci\u00f3n de energ\u00eda en un sistema de drenaje?",
+      "answerOptions": [
+        {
+          "text": "Atrapar arenas y arcillas pesadas",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n de las posas de sedimentaci\u00f3n, no de las de disipaci\u00f3n."
+        },
+        {
+          "text": "Almacenar agua para su posterior bombeo",
+          "isCorrect": false,
+          "rationale": "Su prop\u00f3sito es el control din\u00e1mico del flujo, no el almacenamiento volum\u00e9trico."
+        },
+        {
+          "text": "Reducir la velocidad y fuerza del agua al final del sistema",
+          "isCorrect": true,
+          "rationale": "Mediante choques intencionales, matan la energ\u00eda del agua para evitar que el suelo se destroce en el punto de entrega."
+        },
+        {
+          "text": "A\u00f1adir reactivos para purificar el agua",
+          "isCorrect": false,
+          "rationale": "La disipaci\u00f3n es un proceso f\u00edsico-mec\u00e1nico, no un tratamiento qu\u00edmico."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo proteger el suelo contra la fuerza del impacto h\u00eddrico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia al 'agua de no contacto' del 'agua de contacto' en una operaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "Su temperatura promedio",
+          "isCorrect": false,
+          "rationale": "La temperatura no es el criterio t\u00e9cnico utilizado para su clasificaci\u00f3n operativa."
+        },
+        {
+          "text": "Si ha tocado o no zonas de trabajo o procesos del proyecto",
+          "isCorrect": true,
+          "rationale": "El agua de no contacto es puramente natural, mientras que la de contacto arrastra sedimentos y reactivos de la operaci\u00f3n."
+        },
+        {
+          "text": "Su contenido de sales minerales naturales",
+          "isCorrect": false,
+          "rationale": "Ambas pueden tener sales, pero la distinci\u00f3n radica en la intervenci\u00f3n antr\u00f3pica y la contaminaci\u00f3n derivada."
+        },
+        {
+          "text": "La velocidad a la que fluye por los canales",
+          "isCorrect": false,
+          "rationale": "La velocidad depende de la pendiente del canal, no de su clasificaci\u00f3n de contacto."
+        }
+      ],
+      "hint": "Considere el origen del agua y su interacci\u00f3n con las \u00e1reas de construcci\u00f3n o botaderos."
+    },
+    {
+      "question": "En protocolos de emergencia por lluvias intensas, \u00bfqu\u00e9 potencia suelen tener las motobombas utilizadas para el desalojo r\u00e1pido?",
+      "answerOptions": [
+        {
+          "text": "De $2$ a $5\\text{ HP}$",
+          "isCorrect": false,
+          "rationale": "Esta potencia es insuficiente para el despliegue de maquinaria pesada requerido en una crisis h\u00eddrica."
+        },
+        {
+          "text": "De $9$ a $13\\text{ HP}$",
+          "isCorrect": true,
+          "rationale": "Este rango de potencia permite mover cantidades masivas de agua r\u00e1pidamente de las zonas cr\u00edticas."
+        },
+        {
+          "text": "De $20$ a $30\\text{ HP}$",
+          "isCorrect": false,
+          "rationale": "Aunque existen bombas mayores, el est\u00e1ndar t\u00e1ctico mencionado se sit\u00faa en un rango inferior."
+        },
+        {
+          "text": "M\u00e1s de $50\\text{ HP}$",
+          "isCorrect": false,
+          "rationale": "Esas ser\u00edan bombas industriales de estaci\u00f3n fija, no necesariamente el equipo m\u00f3vil de respuesta r\u00e1pida."
+        }
+      ],
+      "hint": "Piense en un rango de potencia de un d\u00edgito alto a dos d\u00edgitos bajos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa la denominada 'l\u00ednea de fuego' en el contexto de la gesti\u00f3n h\u00eddrica operativa?",
+      "answerOptions": [
+        {
+          "text": "La zona donde se queman los desechos s\u00f3lidos",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino no se refiere a la gesti\u00f3n de residuos s\u00f3lidos o incineraci\u00f3n."
+        },
+        {
+          "text": "El l\u00edmite de descarga de aguas tratadas al r\u00edo",
+          "isCorrect": false,
+          "rationale": "Esa ser\u00eda una zona de vertido, no la l\u00ednea de fuego operativa."
+        },
+        {
+          "text": "El frente operativo principal que debe mantenerse seco y funcional",
+          "isCorrect": true,
+          "rationale": "Proteger esta l\u00ednea garantiza que los procesos de construcci\u00f3n o miner\u00eda no se detengan ante el clima adverso."
+        },
+        {
+          "text": "El \u00e1rea de mayor riesgo de incendios forestales",
+          "isCorrect": false,
+          "rationale": "Aunque el nombre lo sugiera, en este contexto t\u00e9cnico se refiere a la viabilidad de la operaci\u00f3n frente al agua."
+        }
+      ],
+      "hint": "Es el n\u00facleo de la actividad productiva que debe ser resguardado de inundaciones."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 actividades est\u00e1 autorizada el agua que cumple con los est\u00e1ndares de calidad C3 y C4?",
+      "answerOptions": [
+        {
+          "text": "Consumo humano y preparaci\u00f3n de alimentos",
+          "isCorrect": false,
+          "rationale": "El consumo humano est\u00e1 estrictamente prohibido para estas categor\u00edas de agua tratada."
+        },
+        {
+          "text": "Riego de cultivos y bebida para ganado",
+          "isCorrect": true,
+          "rationale": "Estos est\u00e1ndares certifican que el agua es segura para la vida econ\u00f3mica agr\u00edcola local, pero no para personas."
+        },
+        {
+          "text": "Limpieza de laboratorios qu\u00edmicos",
+          "isCorrect": false,
+          "rationale": "El uso industrial espec\u00edfico no es el objetivo de las categor\u00edas C3 y C4 presentadas."
+        },
+        {
+          "text": "Refrigeraci\u00f3n de reactores nucleares",
+          "isCorrect": false,
+          "rationale": "Este uso es ajeno a la aplicaci\u00f3n agr\u00edcola y ganadera de estos est\u00e1ndares de calidad."
+        }
+      ],
+      "hint": "Piense en el apoyo a la econom\u00eda agr\u00edcola de las comunidades cercanas."
+    },
+    {
+      "question": "\u00bfCu\u00e1ntos a\u00f1os de monitoreo participativo le tom\u00f3 a la operaci\u00f3n de Barrick en Huaraz obtener la validaci\u00f3n social de la comunidad?",
+      "answerOptions": [
+        {
+          "text": "$5\\text{ a\u00f1os}$",
+          "isCorrect": false,
+          "rationale": "Cinco a\u00f1os es un periodo corto comparado con el esfuerzo de transparencia real descrito en este caso."
+        },
+        {
+          "text": "$10\\text{ a\u00f1os}$",
+          "isCorrect": false,
+          "rationale": "Incluso una d\u00e9cada fue insuficiente para consolidar la confianza total en este entorno de alta tensi\u00f3n social."
+        },
+        {
+          "text": "$18\\text{ a\u00f1os}$",
+          "isCorrect": true,
+          "rationale": "Fue un marat\u00f3n de casi dos d\u00e9cadas de constancia y puertas abiertas para lograr la licencia social."
+        },
+        {
+          "text": "$25\\text{ a\u00f1os}$",
+          "isCorrect": false,
+          "rationale": "Aunque es un tiempo largo, el hito espec\u00edfico mencionado se detiene a los dieciocho a\u00f1os."
+        }
+      ],
+      "hint": "Es casi la mayor\u00eda de edad en t\u00e9rminos de a\u00f1os de constancia."
+    },
+    {
+      "question": "\u00bfQu\u00e9 papel juegan las Juntas Administradoras de Servicios de Saneamiento (JASS) en la ingenier\u00eda moderna?",
+      "answerOptions": [
+        {
+          "text": "Son los encargados de financiar el proyecto",
+          "isCorrect": false,
+          "rationale": "Las JASS son autoridades comunitarias, no entidades de financiamiento corporativo."
+        },
+        {
+          "text": "Representan la autoridad tradicional del agua que debe coordinar con el proyecto",
+          "isCorrect": true,
+          "rationale": "La ingenier\u00eda debe alinearse con estas organizaciones locales para asegurar que no se exceda la capacidad de los canales tradicionales."
+        },
+        {
+          "text": "Dise\u00f1an los planos hidr\u00e1ulicos de la mina",
+          "isCorrect": false,
+          "rationale": "El dise\u00f1o t\u00e9cnico recae en los ingenieros del proyecto, aunque deba ser validado socialmente."
+        },
+        {
+          "text": "Supervisan la compra de maquinaria pesada",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n se limita a la gesti\u00f3n y uso tradicional del recurso h\u00eddrico."
+        }
+      ],
+      "hint": "Considere la interacci\u00f3n entre el conocimiento t\u00e9cnico moderno y la autoridad rural tradicional."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un ejemplo de mitigaci\u00f3n de ingenier\u00eda con responsabilidad social ante un impacto antr\u00f3pico?",
+      "answerOptions": [
+        {
+          "text": "Multar a los pobladores que bloquean canales",
+          "isCorrect": false,
+          "rationale": "La imposici\u00f3n de multas no constituye una mitigaci\u00f3n de ingenier\u00eda con enfoque social."
+        },
+        {
+          "text": "Prohibir el paso de ganado cerca de la red de drenaje",
+          "isCorrect": false,
+          "rationale": "Esta medida genera conflictos en lugar de resolver la necesidad de convivencia con la comunidad."
+        },
+        {
+          "text": "Construir puentes o alcantarillas (pontones) para rutas tradicionales",
+          "isCorrect": true,
+          "rationale": "Permitir que la gente mantenga sus rutas de paso mediante infraestructura adecuada evita roces y garantiza la funcionalidad."
+        },
+        {
+          "text": "Soterrar toda la red de drenaje a profundidades extremas",
+          "isCorrect": false,
+          "rationale": "Soterrar todo el sistema puede ser t\u00e9cnicamente inviable y no responde a la necesidad de paso de la comunidad."
+        }
+      ],
+      "hint": "Piense en soluciones f\u00edsicas que permitan la coexistencia de la obra y las actividades locales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fen\u00f3meno f\u00edsico caus\u00f3 el colapso de la represa de San Marco en 2015 debido a una falla de drenaje?",
+      "answerOptions": [
+        {
+          "text": "Evaporaci\u00f3n s\u00fabita",
+          "isCorrect": false,
+          "rationale": "La evaporaci\u00f3n no causa el colapso estructural de una represa de esa magnitud."
+        },
+        {
+          "text": "Licuaci\u00f3n por cargas din\u00e1micas",
+          "isCorrect": true,
+          "rationale": "El agua satur\u00f3 el suelo, destruyendo su cohesi\u00f3n y provocando que el terreno se comportara como un l\u00edquido."
+        },
+        {
+          "text": "Congelamiento de las tuber\u00edas",
+          "isCorrect": false,
+          "rationale": "El congelamiento puede causar rupturas, pero no la licuaci\u00f3n masiva del suelo base de la represa."
+        },
+        {
+          "text": "Calcificaci\u00f3n de los emisores",
+          "isCorrect": false,
+          "rationale": "La acumulaci\u00f3n de minerales es un problema de mantenimiento a largo plazo, no una causa de colapso catastr\u00f3fico s\u00fabito."
+        }
+      ],
+      "hint": "Relacione la saturaci\u00f3n del suelo arcilloso con la p\u00e9rdida de estabilidad estructural."
+    },
+    {
+      "question": "\u00bfQu\u00e9 componente se utiliza para impermeabilizar canales y evitar la erosi\u00f3n en terrenos con pendientes pronunciadas?",
+      "answerOptions": [
+        {
+          "text": "Capas de grava compactada",
+          "isCorrect": false,
+          "rationale": "La grava es permeable y no evita la infiltraci\u00f3n de agua que socava la base."
+        },
+        {
+          "text": "Geomembranas de polietileno de $1\\text{ mm}$",
+          "isCorrect": true,
+          "rationale": "A pesar de su bajo espesor, estas l\u00e1minas protegen contra la erosi\u00f3n y evitan que el agua socave la base del canal."
+        },
+        {
+          "text": "Tuber\u00edas de hierro fundido",
+          "isCorrect": false,
+          "rationale": "El hierro fundido se usa para transporte, no como m\u00e9todo de impermeabilizaci\u00f3n de canales abiertos."
+        },
+        {
+          "text": "Mallas de acero galvanizado",
+          "isCorrect": false,
+          "rationale": "Las mallas pueden ayudar a la estabilidad mec\u00e1nica, pero no proporcionan la impermeabilizaci\u00f3n necesaria."
+        }
+      ],
+      "hint": "Es un material sint\u00e9tico muy delgado pero con una f\u00edsica de protecci\u00f3n impresionante."
+    },
+    {
+      "question": "En el desastre de Guadalajara de 1992, \u00bfqu\u00e9 factor convirti\u00f3 al sistema de alcantarillado en un entorno altamente vol\u00e1til?",
+      "answerOptions": [
+        {
+          "text": "La falta de ox\u00edgeno en los t\u00faneles",
+          "isCorrect": false,
+          "rationale": "La falta de ox\u00edgeno no causa explosiones, sino asfixia; la volatilidad vino de una mezcla combustible."
+        },
+        {
+          "text": "El uso de un sistema de drenaje mixto sin monitoreo",
+          "isCorrect": true,
+          "rationale": "La filtraci\u00f3n de combustible en un sistema combinado gener\u00f3 una mezcla explosiva que nadie detect\u00f3 a tiempo."
+        },
+        {
+          "text": "La excesiva presi\u00f3n del agua de lluvia",
+          "isCorrect": false,
+          "rationale": "La presi\u00f3n del agua puede causar inundaciones, pero no las explosiones en cadena descritas."
+        },
+        {
+          "text": "El uso de materiales de construcci\u00f3n biodegradables",
+          "isCorrect": false,
+          "rationale": "No se menciona que los materiales biodegradables hayan sido un factor en este desastre hist\u00f3rico."
+        }
+      ],
+      "hint": "Considere las consecuencias de mezclar flujos y no vigilar la composici\u00f3n de la mezcla."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 un buen sistema de drenaje es considerado una inversi\u00f3n vital y no un gasto extra?",
+      "answerOptions": [
+        {
+          "text": "Porque aumenta el valor de reventa de la maquinaria",
+          "isCorrect": false,
+          "rationale": "El valor de la maquinaria es independiente de la calidad del sistema de drenaje instalado."
+        },
+        {
+          "text": "Porque es la \u00fanica forma de cumplir con la est\u00e9tica del proyecto",
+          "isCorrect": false,
+          "rationale": "El drenaje responde a necesidades de seguridad y estabilidad, no a criterios est\u00e9ticos."
+        },
+        {
+          "text": "Porque protege vidas y activos frente al colapso estructural",
+          "isCorrect": true,
+          "rationale": "La negligencia con el agua es la antesala del colapso; el drenaje garantiza estabilidad frente a fen\u00f3menos clim\u00e1ticos."
+        },
+        {
+          "text": "Porque reduce el n\u00famero de trabajadores necesarios en la obra",
+          "isCorrect": false,
+          "rationale": "Un sistema complejo suele requerir personal especializado para su mantenimiento, no necesariamente menos trabajadores."
+        }
+      ],
+      "hint": "Piense en la responsabilidad t\u00e9cnica y \u00e9tica de preservar la seguridad frente al agente erosivo m\u00e1s destructivo."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Diferenciaci\u00f3n de flujos h\u00eddricos",
+      "Arquitectura hidr\u00e1ulica y est\u00e1ndares t\u00e9cnicos",
+      "Gesti\u00f3n operativa en alta monta\u00f1a",
+      "Sostenibilidad y licencia social",
+      "Seguridad p\u00fablica y prevenci\u00f3n de desastres"
+    ],
+    "followUp": [
+      "Mec\u00e1nica de suelos y estabilidad de taludes",
+      "Tratamiento avanzado de aguas residuales mineras",
+      "Hidrolog\u00eda para el dise\u00f1o de represas",
+      "Legislaci\u00f3n ambiental y Estudios de Impacto Ambiental (EIA)"
+    ]
+  }
+}

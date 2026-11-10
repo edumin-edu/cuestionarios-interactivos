@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la premisa central del cambio de paradigma hacia una arquitectura circular en la industria?",
+      "answerOptions": [
+        {
+          "text": "El desecho es esencialmente un error de dise\u00f1o y no una consecuencia natural del progreso.",
+          "isCorrect": true,
+          "rationale": "Este concepto redefine la basura como una falla t\u00e9cnica en la planificaci\u00f3n inicial que puede corregirse redise\u00f1ando los procesos desde el origen."
+        },
+        {
+          "text": "La basura es una consecuencia inevitable de la producci\u00f3n industrial masiva.",
+          "isCorrect": false,
+          "rationale": "Esta es la visi\u00f3n lineal tradicional que la econom\u00eda circular busca desmantelar al proponer que todo puede ser transformado."
+        },
+        {
+          "text": "El reciclaje debe ser la prioridad absoluta en todas las fases del dise\u00f1o industrial.",
+          "isCorrect": false,
+          "rationale": "Aunque es parte del modelo, el reciclaje se considera la \u00faltima opci\u00f3n o 'bot\u00f3n de p\u00e1nico' antes de perder el valor del material."
+        },
+        {
+          "text": "La sostenibilidad consiste \u00fanicamente en mitigar los impactos ambientales negativos existentes.",
+          "isCorrect": false,
+          "rationale": "La visi\u00f3n circular va m\u00e1s all\u00e1 de la mitigaci\u00f3n, enfoc\u00e1ndose en la regeneraci\u00f3n activa y la eliminaci\u00f3n proactiva de residuos."
+        }
+      ],
+      "hint": "Considere si el residuo se ve como algo inevitable o como una falla en la etapa de planificaci\u00f3n."
+    },
+    {
+      "question": "En el contexto de los flujos de materiales, \u00bfc\u00f3mo deben gestionarse los materiales pertenecientes a los flujos t\u00e9cnicos, como metales y pol\u00edmeros?",
+      "answerOptions": [
+        {
+          "text": "Deben circular perpetuamente en bucles cerrados mediante reparaci\u00f3n y remanufactura.",
+          "isCorrect": true,
+          "rationale": "Los materiales t\u00e9cnicos est\u00e1n dise\u00f1ados para mantener su calidad y valor a trav\u00e9s de ciclos industriales sin regresar a la naturaleza."
+        },
+        {
+          "text": "Deben ser reintegrados al suelo mediante procesos de biodegradaci\u00f3n controlada.",
+          "isCorrect": false,
+          "rationale": "La reintegraci\u00f3n al suelo es exclusiva de los flujos biol\u00f3gicos; los t\u00e9cnicos podr\u00edan contaminar si se entierran."
+        },
+        {
+          "text": "Deben ser incinerados para la recuperaci\u00f3n de energ\u00eda una vez terminada su vida \u00fatil.",
+          "isCorrect": false,
+          "rationale": "La incineraci\u00f3n destruye el valor material y t\u00e9cnico, lo cual contradice el principio de retenci\u00f3n de valor en bucles cerrados."
+        },
+        {
+          "text": "Deben ser almacenados en rellenos de seguridad para evitar la contaminaci\u00f3n cruzada.",
+          "isCorrect": false,
+          "rationale": "El almacenamiento en rellenos detiene el flujo circular y representa una p\u00e9rdida de recursos valiosos para la industria."
+        }
+      ],
+      "hint": "Piense en la diferencia entre una c\u00e1scara de pl\u00e1tano y una placa de circuito impreso."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una de las principales ventajas estrat\u00e9gicas de la miner\u00eda urbana en comparaci\u00f3n con la miner\u00eda tradicional?",
+      "answerOptions": [
+        {
+          "text": "La concentraci\u00f3n de metales preciosos en la basura electr\u00f3nica es superior a la de muchos yacimientos naturales.",
+          "isCorrect": true,
+          "rationale": "La densidad de materiales como oro y tierras raras en desechos tecnol\u00f3gicos permite una recuperaci\u00f3n de valor extremadamente eficiente."
+        },
+        {
+          "text": "Elimina la necesidad de utilizar cualquier tipo de energ\u00eda en el procesamiento de materiales.",
+          "isCorrect": false,
+          "rationale": "Aunque consume mucho menos energ\u00eda que la miner\u00eda primaria, el proceso de rescate de metales a\u00fan requiere insumos energ\u00e9ticos."
+        },
+        {
+          "text": "Permite la creaci\u00f3n de nuevos materiales que no existen en la corteza terrestre.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda urbana recupera materiales existentes en productos al final de su vida \u00fatil, no sintetiza elementos nuevos."
+        },
+        {
+          "text": "Garantiza que no se generen subproductos durante el proceso de refinaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Incluso en procesos circulares, pueden generarse subproductos que deben ser gestionados dentro de otros ciclos."
+        }
+      ],
+      "hint": "Reflexione sobre la densidad de recursos valiosos que se encuentran en las ciudades comparada con la de la roca primaria."
+    },
+    {
+      "question": "Dentro del modelo de las 9R, \u00bfqu\u00e9 estrategia se clasifica bajo el bloque de 'uso y fabricaci\u00f3n inteligente'?",
+      "answerOptions": [
+        {
+          "text": "Repensar (R2), dise\u00f1ando para un uso intensivo o modelos compartidos.",
+          "isCorrect": true,
+          "rationale": "Este nivel se enfoca en la prevenci\u00f3n y la innovaci\u00f3n desde el dise\u00f1o para optimizar la utilidad del producto antes de su fabricaci\u00f3n."
+        },
+        {
+          "text": "Reparar (R4), manteniendo la utilidad t\u00e9cnica del objeto mediante correcciones.",
+          "isCorrect": false,
+          "rationale": "La reparaci\u00f3n pertenece al segundo bloque, orientado a la extensi\u00f3n de la vida \u00fatil de productos que ya existen."
+        },
+        {
+          "text": "Reciclar (R8), recuperando materias primas de productos que ya no funcionan.",
+          "isCorrect": false,
+          "rationale": "El reciclaje se ubica en la base de la jerarqu\u00eda, enfoc\u00e1ndose en la aplicaci\u00f3n de valor al material tras el fracaso del producto."
+        },
+        {
+          "text": "Reutilizar (R3), empleando de nuevo un producto descartado por otro usuario.",
+          "isCorrect": false,
+          "rationale": "La reutilizaci\u00f3n es una estrategia de extensi\u00f3n de vida \u00fatil, no de fabricaci\u00f3n inteligente preventiva."
+        }
+      ],
+      "hint": "Busque la opci\u00f3n que implica una intervenci\u00f3n antes de que el residuo llegue a existir."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera t\u00e9cnicamente superior reparar un producto que reciclarlo?",
+      "answerOptions": [
+        {
+          "text": "Porque preserva la forma f\u00edsica, el ensamblaje y la energ\u00eda invertida en la fabricaci\u00f3n original.",
+          "isCorrect": true,
+          "rationale": "La reparaci\u00f3n retiene la complejidad del objeto, mientras que el reciclaje la destruye para rescatar solo materia prima base con alto costo energ\u00e9tico."
+        },
+        {
+          "text": "Porque el reciclaje consume menos energ\u00eda total que el proceso de reparaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El reciclaje suele requerir procesos agresivos de fundici\u00f3n o molienda que demandan grandes cantidades de energ\u00eda."
+        },
+        {
+          "text": "Porque la reparaci\u00f3n permite transformar el objeto en un material completamente distinto.",
+          "isCorrect": false,
+          "rationale": "La reparaci\u00f3n busca mantener la funci\u00f3n original; la transformaci\u00f3n en algo distinto es propia de la reconversi\u00f3n (R7)."
+        },
+        {
+          "text": "Porque el reciclaje es incapaz de recuperar metales preciosos con pureza industrial.",
+          "isCorrect": false,
+          "rationale": "El reciclaje s\u00ed puede recuperar metales, pero a costa de perder la integridad estructural y funcional del producto inicial."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 proceso requiere destruir completamente la estructura del producto para funcionar."
+    },
+    {
+      "question": "En el monitoreo global de la circularidad, \u00bfcu\u00e1l es el enfoque principal de la Uni\u00f3n Europea?",
+      "answerOptions": [
+        {
+          "text": "La autosuficiencia de recursos para reducir la dependencia de importaciones externas.",
+          "isCorrect": true,
+          "rationale": "La UE prioriza la seguridad de suministro midiendo cu\u00e1nto material circular se reintegra en su propia econom\u00eda."
+        },
+        {
+          "text": "La reducci\u00f3n dr\u00e1stica del consumo de energ\u00eda por unidad de PIB industrial.",
+          "isCorrect": false,
+          "rationale": "Este enfoque es m\u00e1s caracter\u00edstico de la estrategia de China, que vincula la circularidad con la eficiencia energ\u00e9tica del crecimiento econ\u00f3mico."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de las leyes de trazabilidad para fomentar la innovaci\u00f3n libre.",
+          "isCorrect": false,
+          "rationale": "La trazabilidad es fundamental para la econom\u00eda circular; eliminarla aumentar\u00eda los riesgos y la opacidad en las cadenas de suministro."
+        },
+        {
+          "text": "La exclusi\u00f3n de los flujos biol\u00f3gicos de sus m\u00e9tricas de desempe\u00f1o ambiental.",
+          "isCorrect": false,
+          "rationale": "Ambos flujos, t\u00e9cnicos y biol\u00f3gicos, son esenciales para una visi\u00f3n integral de la econom\u00eda circular en cualquier regi\u00f3n."
+        }
+      ],
+      "hint": "Considere la preocupaci\u00f3n geopol\u00edtica por el acceso a materias primas en el continente europeo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 mide el indicador de 'intensidad energ\u00e9tica por tonelada producida' en la miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "La eficiencia en el consumo de electricidad y combustibles f\u00f3siles durante el proceso productivo.",
+          "isCorrect": true,
+          "rationale": "Este KPI permite evaluar cu\u00e1nta energ\u00eda se requiere para extraer y procesar una unidad de mineral, reflejando el desempe\u00f1o operativo."
+        },
+        {
+          "text": "El porcentaje de energ\u00eda renovable utilizado frente a la energ\u00eda convencional.",
+          "isCorrect": false,
+          "rationale": "Aunque relacionado, la intensidad energ\u00e9tica mide el consumo total por producto, no la fuente o el origen de dicha energ\u00eda."
+        },
+        {
+          "text": "La cantidad de calor residual que se libera a la atm\u00f3sfera sin ser aprovechado.",
+          "isCorrect": false,
+          "rationale": "Este ser\u00eda un indicador de recuperaci\u00f3n de calor, no de la intensidad requerida para la producci\u00f3n de la tonelada m\u00e9trica."
+        },
+        {
+          "text": "La velocidad a la que se agotan los yacimientos minerales debido al uso de maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "El agotamiento de yacimientos es una m\u00e9trica de reservas, no un indicador de eficiencia energ\u00e9tica operativa."
+        }
+      ],
+      "hint": "Relacione el insumo (electricidad/di\u00e9sel) con el volumen de producci\u00f3n obtenido."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal de la estrategia de 'Producci\u00f3n m\u00e1s Limpia' (P+L)?",
+      "answerOptions": [
+        {
+          "text": "Es una estrategia preventiva integral que busca aumentar la rentabilidad bajando riesgos ambientales.",
+          "isCorrect": true,
+          "rationale": "La P+L se basa en un escenario de 'ganar-ganar' donde la eficiencia operativa beneficia tanto a la empresa como al entorno."
+        },
+        {
+          "text": "Es un parche correctivo que se aplica exclusivamente al final del proceso industrial.",
+          "isCorrect": false,
+          "rationale": "La P+L se opone a las soluciones de final de tubo, priorizando la intervenci\u00f3n en el origen y durante el proceso."
+        },
+        {
+          "text": "Se enfoca \u00fanicamente en el cumplimiento de multas ambientales para mantener la licencia social.",
+          "isCorrect": false,
+          "rationale": "La estrategia busca ir m\u00e1s all\u00e1 del cumplimiento legal, optimizando recursos y previniendo la generaci\u00f3n de residuos."
+        },
+        {
+          "text": "Prioriza la contrataci\u00f3n de fiscalizadores externos para auditar las emisiones de gases.",
+          "isCorrect": false,
+          "rationale": "Aunque la auditor\u00eda existe, la P+L es un enfoque de gesti\u00f3n interna y dise\u00f1o de procesos, no solo una medida de control externo."
+        }
+      ],
+      "hint": "Piense en un enfoque que no sea un simple remiendo, sino una mejora estrat\u00e9gica de la eficiencia."
+    },
+    {
+      "question": "En el caso de \u00e9xito de Nexa en Chincha, \u00bfqu\u00e9 significa el objetivo de 'vertimiento cero'?",
+      "answerOptions": [
+        {
+          "text": "Que el $100\\%$ de los relaves se reinsertan como relleno hidr\u00e1ulico en la mina, eliminando presas externas.",
+          "isCorrect": true,
+          "rationale": "Este dise\u00f1o operativo magistral permite gestionar todos los residuos s\u00f3lidos de forma interna, evitando pasivos ambientales en la superficie."
+        },
+        {
+          "text": "Que la operaci\u00f3n no utiliza agua fresca durante ninguna etapa del procesamiento metal\u00fargico.",
+          "isCorrect": false,
+          "rationale": "El vertimiento cero se refiere espec\u00edficamente a la disposici\u00f3n de residuos, aunque suele ir acompa\u00f1ado de una alta recirculaci\u00f3n de agua."
+        },
+        {
+          "text": "Que las emisiones de gases de efecto invernadero han sido reducidas a cero absoluto.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino 'vertimiento' se aplica generalmente a residuos l\u00edquidos o s\u00f3lidos (relaves), no a las emisiones atmosf\u00e9ricas."
+        },
+        {
+          "text": "Que la empresa no genera ning\u00fan tipo de desecho s\u00f3lido administrativo en sus oficinas.",
+          "isCorrect": false,
+          "rationale": "El impacto principal del vertimiento cero radica en los residuos masivos de la operaci\u00f3n minera, como los relaves."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede con los relaves y la necesidad de construir infraestructuras de almacenamiento externas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio ambiental y econ\u00f3mico report\u00f3 Anglo American en Quellaveco mediante el reciclaje de revestimientos de molinos?",
+      "answerOptions": [
+        {
+          "text": "Ahorro del $30\\%$ en energ\u00eda y evitaci\u00f3n de $2,000$ toneladas de $CO_{2}$ al a\u00f1o.",
+          "isCorrect": true,
+          "rationale": "El uso de material reciclado en piezas de $4$ toneladas demuestra c\u00f3mo la econom\u00eda circular reduce dr\u00e1sticamente la huella de carbono y los costos energ\u00e9ticos."
+        },
+        {
+          "text": "Reducci\u00f3n del $10\\%$ en el uso de agua industrial y eliminaci\u00f3n de ruidos molestos.",
+          "isCorrect": false,
+          "rationale": "El caso se enfoca espec\u00edficamente en el ciclo del acero de los revestimientos (liners), no primordialmente en el agua o el ruido."
+        },
+        {
+          "text": "Sustituci\u00f3n total de los molinos de bolas por sistemas de trituraci\u00f3n biol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "La innovaci\u00f3n consisti\u00f3 en el origen del material de los revestimientos, no en un cambio radical del tipo de maquinaria utilizada."
+        },
+        {
+          "text": "Aumento del $50\\%$ en la velocidad de molienda debido a la dureza del acero reciclado.",
+          "isCorrect": false,
+          "rationale": "El beneficio principal es la sostenibilidad y el ahorro energ\u00e9tico, no necesariamente un incremento en la velocidad del proceso."
+        }
+      ],
+      "hint": "Enfoque su atenci\u00f3n en las cifras de emisiones de carbono y consumo de energ\u00eda comparadas con el acero virgen."
+    },
+    {
+      "question": "\u00bfQu\u00e9 aplicaci\u00f3n le dio Codelco (divisi\u00f3n Ventanas) a la escoria de cobre, un subproducto metal\u00fargico?",
+      "answerOptions": [
+        {
+          "text": "Pavimentaci\u00f3n de accesos industriales en sus instalaciones.",
+          "isCorrect": true,
+          "rationale": "La reconversi\u00f3n de la escoria en material de construcci\u00f3n es un ejemplo de c\u00f3mo los subproductos pueden encontrar nuevos usos valiosos."
+        },
+        {
+          "text": "Fabricaci\u00f3n de nuevos componentes para neum\u00e1ticos mineros de alta resistencia.",
+          "isCorrect": false,
+          "rationale": "La escoria se us\u00f3 para pavimentaci\u00f3n; los neum\u00e1ticos son el foco de un programa de reciclaje distinto para recuperar caucho y acero."
+        },
+        {
+          "text": "Uso como fertilizante para la restauraci\u00f3n de suelos agr\u00edcolas cercanos.",
+          "isCorrect": false,
+          "rationale": "La escoria metal\u00fargica se aplica generalmente en ingenier\u00eda civil debido a sus propiedades f\u00edsicas, no como nutriente biol\u00f3gico."
+        },
+        {
+          "text": "Conversi\u00f3n en combustible s\u00f3lido para los camiones de extracci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La escoria no posee propiedades combustibles; es un residuo inorg\u00e1nico del proceso de fundici\u00f3n."
+        }
+      ],
+      "hint": "Piense en un uso relacionado con la infraestructura vial o caminos."
+    },
+    {
+      "question": "En el proyecto de Marcobre, \u00bfpor qu\u00e9 es cr\u00edtico el margen del $1\\%$ en el \u00edndice de metano del gas natural?",
+      "answerOptions": [
+        {
+          "text": "Para prevenir detonaciones catastr\u00f3ficas o fallas cr\u00edticas en los motores de los camiones.",
+          "isCorrect": true,
+          "rationale": "La precisi\u00f3n t\u00e9cnica es vital en la transici\u00f3n energ\u00e9tica; una desviaci\u00f3n m\u00ednima puede comprometer la integridad mec\u00e1nica de los motores CAT."
+        },
+        {
+          "text": "Para asegurar que el cami\u00f3n pueda alcanzar velocidades superiores a los $100$ km/h.",
+          "isCorrect": false,
+          "rationale": "El requisito es de seguridad y funcionamiento del motor bajo carga, no una meta de velocidad m\u00e1xima en la operaci\u00f3n minera."
+        },
+        {
+          "text": "Para reducir el peso total del combustible transportado en los tanques criog\u00e9nicos.",
+          "isCorrect": false,
+          "rationale": "El \u00edndice de metano mide la calidad y composici\u00f3n del gas para la combusti\u00f3n, no tiene como fin principal reducir el peso del tanque."
+        },
+        {
+          "text": "Para garantizar que el escape del motor huela a vapor de agua puro.",
+          "isCorrect": false,
+          "rationale": "Aunque el gas es m\u00e1s limpio, el rigor t\u00e9cnico del $84\\%$ responde a la prevenci\u00f3n de da\u00f1os internos en el motor (detonaci\u00f3n)."
+        }
+      ],
+      "hint": "Considere los riesgos mec\u00e1nicos extremos que implica usar un combustible que no cumple con las especificaciones del fabricante."
+    },
+    {
+      "question": "\u00bfC\u00f3mo ayud\u00f3 el sistema de trazabilidad de Minera Poderosa a la empresa frente a incidentes externos?",
+      "answerOptions": [
+        {
+          "text": "Permiti\u00f3 demostrar con datos que los explosivos usados en incidentes externos no pertenec\u00edan a su suministro formal.",
+          "isCorrect": true,
+          "rationale": "La trazabilidad act\u00faa como un escudo jur\u00eddico al proporcionar evidencia incontrovertible sobre el origen y destino de los insumos cr\u00edticos."
+        },
+        {
+          "text": "Permiti\u00f3 identificar la ubicaci\u00f3n exacta de los mineros ilegales mediante GPS en tiempo real.",
+          "isCorrect": false,
+          "rationale": "La trazabilidad se enfoca en el registro y seguimiento de materiales e insumos, no necesariamente en el rastreo t\u00e1ctico de personas externas."
+        },
+        {
+          "text": "Aument\u00f3 autom\u00e1ticamente la producci\u00f3n de oro al detectar fugas en la planta de procesos.",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda a la eficiencia, su funci\u00f3n principal en este caso fue la seguridad jur\u00eddica y el control de la cadena de suministro."
+        },
+        {
+          "text": "Garantiz\u00f3 que los relaves de la mina se convirtieran en material precioso de forma espont\u00e1nea.",
+          "isCorrect": false,
+          "rationale": "La trazabilidad es un sistema de informaci\u00f3n y control, no un proceso de transmutaci\u00f3n de materiales."
+        }
+      ],
+      "hint": "Piense en la utilidad de los datos como prueba legal sobre el origen de materiales sensibles como los explosivos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal consecuencia de la falta de trazabilidad en zonas como Madre de Dios?",
+      "answerOptions": [
+        {
+          "text": "Fomenta la miner\u00eda ilegal y la destrucci\u00f3n ambiental al no haber registro de insumos como el mercurio.",
+          "isCorrect": true,
+          "rationale": "Sin una gobernanza de datos rigurosa, es imposible controlar el flujo de sustancias t\u00f3xicas y el origen del oro, alimentando la ilegalidad."
+        },
+        {
+          "text": "Provoca una disminuci\u00f3n en la cantidad de lluvia anual en la regi\u00f3n amaz\u00f3nica.",
+          "isCorrect": false,
+          "rationale": "Si bien hay da\u00f1o ambiental, la falta de trazabilidad es un problema de gesti\u00f3n y legalidad, no una causa directa inmediata de cambios clim\u00e1ticos globales."
+        },
+        {
+          "text": "Impide que los mineros locales puedan utilizar herramientas mec\u00e1nicas b\u00e1sicas.",
+          "isCorrect": false,
+          "rationale": "La ausencia de registros no impide el uso de herramientas, pero s\u00ed facilita que estas se usen fuera del marco de la ley."
+        },
+        {
+          "text": "Genera un exceso de burocracia que detiene por completo la extracci\u00f3n de oro.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la falta de control suele agilizar la extracci\u00f3n desmedida e ilegal al no haber filtros ni vigilancia."
+        }
+      ],
+      "hint": "Relacione la opacidad en los datos con el crecimiento de actividades fuera del marco legal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 rol define mejor al profesional ambiental bajo el nuevo paradigma de desarrollo regenerativo?",
+      "answerOptions": [
+        {
+          "text": "Un agente de cambio que transforma la industria extractiva en un motor de desarrollo.",
+          "isCorrect": true,
+          "rationale": "El profesional ya no solo vigila el cumplimiento, sino que lidera la transici\u00f3n t\u00e9cnica y cultural hacia modelos circulares."
+        },
+        {
+          "text": "Un fiscalizador estricto cuyo \u00fanico fin es imponer multas a la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta es la visi\u00f3n tradicional limitada que se busca superar para adoptar un rol m\u00e1s propositivo y estrat\u00e9gico."
+        },
+        {
+          "text": "Un t\u00e9cnico encargado exclusivamente de la reparaci\u00f3n de maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "Aunque interact\u00faa con lo t\u00e9cnico, su misi\u00f3n es transversal e incluye dimensiones pol\u00edticas, sociales y ambientales."
+        },
+        {
+          "text": "Un relacionista p\u00fablico que oculta los impactos ambientales de la empresa.",
+          "isCorrect": false,
+          "rationale": "La transparencia y la \u00e9tica son pilares del nuevo modelo; el profesional ambiental busca la regeneraci\u00f3n real, no solo la imagen."
+        }
+      ],
+      "hint": "Considere si el profesional es un simple observador de reglas o un impulsor de transformaciones profundas."
+    },
+    {
+      "question": "Seg\u00fan la visi\u00f3n de Amartya Sen aplicada a este contexto, \u00bfcu\u00e1l es el fin \u00faltimo del desarrollo?",
+      "answerOptions": [
+        {
+          "text": "Expandir las capacidades humanas y sociales generando oportunidades incre\u00edbles.",
+          "isCorrect": true,
+          "rationale": "El desarrollo no se mide solo por el crecimiento econ\u00f3mico, sino por cu\u00e1nto mejora la vida y las posibilidades de las personas."
+        },
+        {
+          "text": "Maximizar la extracci\u00f3n de toneladas de roca por cada hora hombre trabajada.",
+          "isCorrect": false,
+          "rationale": "Esta es una m\u00e9trica de productividad industrial pura que no contempla el desarrollo humano o social integral."
+        },
+        {
+          "text": "Alcanzar un PIB industrial que supere al de las potencias mundiales.",
+          "isCorrect": false,
+          "rationale": "El enfoque de Sen se centra en las libertades y capacidades de los individuos, no exclusivamente en indicadores macroecon\u00f3micos de producci\u00f3n."
+        },
+        {
+          "text": "Sustituir completamente el trabajo humano por sistemas de inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "El desarrollo regenerativo busca potenciar las capacidades humanas, no necesariamente eliminarlas mediante la automatizaci\u00f3n total."
+        }
+      ],
+      "hint": "Piense en el desarrollo como algo que empodera y ampl\u00eda las opciones de las personas en la sociedad."
+    },
+    {
+      "question": "En el modelo de las 9R, \u00bfcu\u00e1ndo se debe aplicar la estrategia de 'Reciclar' (R8)?",
+      "answerOptions": [
+        {
+          "text": "\u00danicamente cuando el producto ha fracasado por completo y no sirve bajo categor\u00edas anteriores.",
+          "isCorrect": true,
+          "rationale": "El reciclaje es la \u00faltima instancia para recuperar materia prima tras agotar las opciones de mantenimiento, reparaci\u00f3n y remanufactura."
+        },
+        {
+          "text": "Como primer paso ante cualquier residuo que llegue a la planta de procesos.",
+          "isCorrect": false,
+          "rationale": "El reciclaje temprano destruye valor innecesariamente; se deben priorizar estrategias de niveles superiores (como R0-R4)."
+        },
+        {
+          "text": "Siempre que el costo de la energ\u00eda sea menor al costo de la materia prima virgen.",
+          "isCorrect": false,
+          "rationale": "Incluso si es barato, el reciclaje es menos eficiente que mantener la utilidad t\u00e9cnica del producto mediante reparaci\u00f3n."
+        },
+        {
+          "text": "Solo cuando se trata de materiales biol\u00f3gicos como restos de comida o madera.",
+          "isCorrect": false,
+          "rationale": "El reciclaje se aplica principalmente a flujos t\u00e9cnicos; los biol\u00f3gicos prefieren el compostaje o la digesti\u00f3n anaer\u00f3bica."
+        }
+      ],
+      "hint": "Considere la posici\u00f3n del reciclaje en la jerarqu\u00eda: \u00bfes el plan A o el bot\u00f3n de p\u00e1nico?"
+    },
+    {
+      "question": "\u00bfQu\u00e9 importancia tiene la 'huella de carbono espec\u00edfica' para las mineras en los mercados actuales?",
+      "answerOptions": [
+        {
+          "text": "Es un pasaporte obligatorio para acceder a los mercados internacionales de minerales verdes.",
+          "isCorrect": true,
+          "rationale": "Los compradores globales exigen cada vez m\u00e1s transparencia sobre el impacto clim\u00e1tico de los minerales que adquieren."
+        },
+        {
+          "text": "Es un impuesto local que solo deben pagar las minas que operan cerca de las ciudades.",
+          "isCorrect": false,
+          "rationale": "La huella de carbono es una m\u00e9trica de desempe\u00f1o ambiental global, no un impuesto geogr\u00e1fico limitado."
+        },
+        {
+          "text": "Sirve para medir la cantidad de carb\u00f3n mineral que se extrae en una mina de oro.",
+          "isCorrect": false,
+          "rationale": "La huella de carbono mide emisiones de gases de efecto invernadero (en unidades de $CO_{2}$ equivalente), no la extracci\u00f3n de carb\u00f3n."
+        },
+        {
+          "text": "Es un indicador opcional que las empresas usan solo para fines de publicidad.",
+          "isCorrect": false,
+          "rationale": "Hoy en d\u00eda, la m\u00e9trica es un imperativo competitivo y una exigencia regulatoria en mercados de alto valor."
+        }
+      ],
+      "hint": "Relacione este indicador con la competitividad y las exigencias de sostenibilidad de los clientes globales."
+    },
+    {
+      "question": "En la jerarqu\u00eda de las 9R, \u00bfcu\u00e1l es el objetivo principal del bloque intermedio (R3 a R6)?",
+      "answerOptions": [
+        {
+          "text": "Mantener la utilidad t\u00e9cnica del objeto el mayor tiempo posible.",
+          "isCorrect": true,
+          "rationale": "Estrategias como reutilizar y reparar buscan que el producto siga operando en el mercado sin perder su valor original."
+        },
+        {
+          "text": "Eliminar por completo la necesidad de fabricar el producto desde el inicio.",
+          "isCorrect": false,
+          "rationale": "Esa es la meta del bloque superior (uso inteligente, R0-R2); el bloque intermedio trabaja con productos que ya existen."
+        },
+        {
+          "text": "Descomponer el producto en sus elementos qu\u00edmicos b\u00e1sicos para crear algo nuevo.",
+          "isCorrect": false,
+          "rationale": "Eso corresponde al bloque de aplicaci\u00f3n de valor al material (como el reciclaje o la reconversi\u00f3n)."
+        },
+        {
+          "text": "Garantizar que el producto se biodegrade en menos de seis meses al aire libre.",
+          "isCorrect": false,
+          "rationale": "El bloque intermedio se enfoca en la durabilidad y uso t\u00e9cnico, no en la disposici\u00f3n final biol\u00f3gica."
+        }
+      ],
+      "hint": "Piense en estrategias que buscan evitar que el objeto caiga al fondo de la jerarqu\u00eda y pierda su forma."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es fundamental la dimensi\u00f3n 'cultural' en proyectos como los de la comunidad de Rapaz?",
+      "answerOptions": [
+        {
+          "text": "Porque respetar las costumbres locales garantiza la obtenci\u00f3n de la licencia social.",
+          "isCorrect": true,
+          "rationale": "La viabilidad de una operaci\u00f3n industrial depende de la integraci\u00f3n armoniosa con el entorno social y el respeto a su identidad."
+        },
+        {
+          "text": "Porque permite utilizar t\u00e9cnicas de miner\u00eda ancestrales que son m\u00e1s r\u00e1pidas.",
+          "isCorrect": false,
+          "rationale": "El respeto cultural busca la convivencia y legitimidad, no necesariamente la adopci\u00f3n de t\u00e9cnicas antiguas por velocidad."
+        },
+        {
+          "text": "Porque obliga a las empresas a contratar \u00fanicamente a personas que hablen el idioma local.",
+          "isCorrect": false,
+          "rationale": "La dimensi\u00f3n cultural es m\u00e1s amplia; trata sobre el respeto a tradiciones y la visi\u00f3n multidimensional del desarrollo, no solo barreras ling\u00fc\u00edsticas."
+        },
+        {
+          "text": "Porque es un requisito legal para poder exportar minerales a pa\u00edses asi\u00e1ticos.",
+          "isCorrect": false,
+          "rationale": "Aunque hay normativas, el respeto cultural es un pilar de la sostenibilidad social y competitividad local, m\u00e1s all\u00e1 de un tr\u00e1mite de exportaci\u00f3n."
+        }
+      ],
+      "hint": "Considere qu\u00e9 factor es determinante para que una comunidad acepte y colabore con una operaci\u00f3n industrial a largo plazo."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Econom\u00eda Circular en Miner\u00eda e Industria",
+      "Modelo de las 9R y Retenci\u00f3n de Valor",
+      "Miner\u00eda Urbana y Flujos de Materiales",
+      "Indicadores de Desempe\u00f1o (KPIs) Ambientales",
+      "Producci\u00f3n m\u00e1s Limpia (P+L)",
+      "Gobernanza y Trazabilidad de Datos",
+      "Casos de \u00c9xito en Sostenibilidad Industrial"
+    ],
+    "followUp": [
+      "Sistemas de Relleno Hidr\u00e1ulico y Gesti\u00f3n de Relaves",
+      "Desaf\u00edos T\u00e9cnicos del Gas Natural Licuado (GNL) en Maquinaria Pesada",
+      "Diferencias entre Flujos Biol\u00f3gicos y T\u00e9cnicos en la Industria",
+      "Legislaci\u00f3n Comparada sobre Econom\u00eda Circular (UE vs. China)",
+      "El Rol de la Tecnolog\u00eda en la Licencia Social Minera"
+    ]
+  }
+}

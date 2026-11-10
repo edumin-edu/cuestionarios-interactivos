@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el gas de efecto invernadero que se utiliza como el est\u00e1ndar indiscutible para cuantificar las emisiones industriales en la gesti\u00f3n clim\u00e1tica?",
+      "answerOptions": [
+        {
+          "text": "Metano ($CH_{4}$)",
+          "isCorrect": false,
+          "rationale": "Aunque tiene un potencial de calentamiento superior, no es el est\u00e1ndar universal utilizado para la contabilidad industrial base."
+        },
+        {
+          "text": "Di\u00f3xido de carbono ($CO_{2}$)",
+          "isCorrect": true,
+          "rationale": "El $CO_{2}$ se ha consolidado como la m\u00e9trica de referencia para medir y reportar la huella de carbono en el sector industrial."
+        },
+        {
+          "text": "\u00d3xido nitroso ($N_{2}O$)",
+          "isCorrect": false,
+          "rationale": "Es un gas relevante en la taxonom\u00eda clim\u00e1tica, pero no constituye el est\u00e1ndar de medici\u00f3n para la industria general."
+        },
+        {
+          "text": "Vapor de agua ($H_{2}O$)",
+          "isCorrect": false,
+          "rationale": "A pesar de ser abundante, este gas suele estar excluido de los reportes corporativos de emisiones industriales."
+        }
+      ],
+      "hint": "Es el gas de referencia utilizado para cuantificar la huella industrial a nivel global."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el metano ($CH_{4}$) representa un riesgo sist\u00e9mico que requiere atenci\u00f3n prioritaria a pesar de ser menos com\u00fan que el di\u00f3xido de carbono?",
+      "answerOptions": [
+        {
+          "text": "Debido a su capacidad de formar nubes de lluvia \u00e1cida",
+          "isCorrect": false,
+          "rationale": "La lluvia \u00e1cida est\u00e1 m\u00e1s relacionada con los \u00f3xidos de nitr\u00f3geno y azufre que con el metano."
+        },
+        {
+          "text": "Porque su potencial de calentamiento es significativamente superior",
+          "isCorrect": true,
+          "rationale": "El metano tiene una capacidad mucho m\u00e1s alta de atrapar calor en la atm\u00f3sfera en comparaci\u00f3n con el $CO_{2}$."
+        },
+        {
+          "text": "Debido a que es el \u00fanico gas que afecta la capa de ozono",
+          "isCorrect": false,
+          "rationale": "El agotamiento de la capa de ozono es causado principalmente por otros compuestos como los CFC, no por el metano."
+        },
+        {
+          "text": "Porque permanece en la atm\u00f3sfera por miles de a\u00f1os",
+          "isCorrect": false,
+          "rationale": "El metano tiene una vida atmosf\u00e9rica m\u00e1s corta que el di\u00f3xido de carbono, aunque sea m\u00e1s potente mientras est\u00e1 presente."
+        }
+      ],
+      "hint": "Se enfoca en la intensidad con la que este gas logra atrapar el calor en la atm\u00f3sfera."
+    },
+    {
+      "question": "En el an\u00e1lisis regional de Cajamarca, \u00bfqu\u00e9 se descubri\u00f3 al contrastar las fuentes de emisiones de metano ($CH_{4}$)?",
+      "answerOptions": [
+        {
+          "text": "La miner\u00eda local es la \u00fanica responsable de las emisiones regionales",
+          "isCorrect": false,
+          "rationale": "El estudio demostr\u00f3 que existen otras fuentes locales que superan el impacto de la actividad minera en este gas espec\u00edfico."
+        },
+        {
+          "text": "Las emisiones de la ganader\u00eda superan a las de la propia miner\u00eda local",
+          "isCorrect": true,
+          "rationale": "Se comprob\u00f3 que la actividad ganadera a mediana escala genera m\u00e1s metano que la operaci\u00f3n minera de la zona."
+        },
+        {
+          "text": "El transporte pesado genera el 90% de las emisiones de la regi\u00f3n",
+          "isCorrect": false,
+          "rationale": "Aunque el transporte es relevante, el hallazgo clave se centr\u00f3 en la comparaci\u00f3n entre miner\u00eda y ganader\u00eda."
+        },
+        {
+          "text": "No existen emisiones de metano registradas en dicha regi\u00f3n",
+          "isCorrect": false,
+          "rationale": "La regi\u00f3n presenta niveles significativos que obligan a las empresas a vigilar m\u00e1s all\u00e1 de sus operaciones directas."
+        }
+      ],
+      "hint": "Piensa en el contraste de impacto entre la actividad pecuaria y la actividad extractiva regional."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la raz\u00f3n t\u00e9cnica por la cual el vapor de agua se excluye de los reportes corporativos obligatorios (Scope 1, 2 y 3)?",
+      "answerOptions": [
+        {
+          "text": "Carece de capacidad para retener calor en la atm\u00f3sfera",
+          "isCorrect": false,
+          "rationale": "El vapor de agua es, de hecho, el gas de efecto invernadero m\u00e1s abundante y efectivo reteniendo calor."
+        },
+        {
+          "text": "Su concentraci\u00f3n es insignificante en comparaci\u00f3n con el $CO_{2}$",
+          "isCorrect": false,
+          "rationale": "Es el gas m\u00e1s abundante, por lo que su exclusi\u00f3n no se debe a su baja presencia."
+        },
+        {
+          "text": "Obedece a su ciclo natural de evaporaci\u00f3n y precipitaci\u00f3n",
+          "isCorrect": true,
+          "rationale": "Debido a que la naturaleza lo cicla de forma independiente a la inyecci\u00f3n industrial permanente, no se incluye en reportes corporativos."
+        },
+        {
+          "text": "Es un gas de origen puramente artificial e industrial",
+          "isCorrect": false,
+          "rationale": "El vapor de agua es un elemento natural y fundamental del ciclo hidrol\u00f3gico de la Tierra."
+        }
+      ],
+      "hint": "Considera si su permanencia en la atm\u00f3sfera depende de la actividad humana o de procesos naturales clim\u00e1ticos."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 ventana temporal proyectan los modelos cient\u00edficos que se materializar\u00e1 el incremento cr\u00edtico de $1.5^{\\circ}C$ en la temperatura global?",
+      "answerOptions": [
+        {
+          "text": "Entre los a\u00f1os 2030 y 2052",
+          "isCorrect": true,
+          "rationale": "Esta es la ventana temporal estimada donde se alcanzar\u00e1 el umbral f\u00edsico que delimita la estabilidad operativa mundial."
+        },
+        {
+          "text": "A partir del a\u00f1o 2100",
+          "isCorrect": false,
+          "rationale": "Los modelos cient\u00edficos indican que este aumento ocurrir\u00e1 mucho antes de finales de siglo."
+        },
+        {
+          "text": "Entre los a\u00f1os 2020 y 2025",
+          "isCorrect": false,
+          "rationale": "Aunque estamos cerca, la proyecci\u00f3n cient\u00edfica espec\u00edfica sit\u00faa el umbral cr\u00edtico un poco m\u00e1s adelante en el tiempo."
+        },
+        {
+          "text": "Durante la d\u00e9cada de 2080 \u00fanicamente",
+          "isCorrect": false,
+          "rationale": "Este periodo excede el l\u00edmite de tiempo urgente establecido por los modelos clim\u00e1ticos m\u00e1s rigurosos."
+        }
+      ],
+      "hint": "Se trata de un periodo de aproximadamente dos d\u00e9cadas que comienza en el futuro cercano."
+    },
+    {
+      "question": "\u00bfQu\u00e9 cambio fundamental representa la transici\u00f3n obligatoria al est\u00e1ndar GRI 102 para el a\u00f1o 2025 en comparaci\u00f3n con el anterior GRI 305?",
+      "answerOptions": [
+        {
+          "text": "Se eliminan por completo las m\u00e9tricas de carbono para simplificar",
+          "isCorrect": false,
+          "rationale": "El est\u00e1ndar no elimina las m\u00e9tricas, sino que las integra en un marco mucho m\u00e1s complejo y estrat\u00e9gico."
+        },
+        {
+          "text": "Exige reportar estrategia y resiliencia en lugar de solo m\u00e9tricas brutas",
+          "isCorrect": true,
+          "rationale": "El nuevo est\u00e1ndar requiere demostrar c\u00f3mo la organizaci\u00f3n se prepara estrat\u00e9gicamente para los riesgos clim\u00e1ticos futuros."
+        },
+        {
+          "text": "Reduce la responsabilidad de la alta direcci\u00f3n en los reportes",
+          "isCorrect": false,
+          "rationale": "Al contrario, el GRI 102 aumenta la rendici\u00f3n de cuentas directa de los l\u00edderes corporativos."
+        },
+        {
+          "text": "Es un est\u00e1ndar voluntario que no requiere auditor\u00edas externas",
+          "isCorrect": false,
+          "rationale": "El nuevo marco se consolida como una exigencia para acceder a finanzas verdes y asegurar la confianza de inversores."
+        }
+      ],
+      "hint": "Piensa en el paso de un simple registro de resultados pasados a una planificaci\u00f3n de supervivencia futura."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es uno de los cuatro pilares fundamentales de la nueva gesti\u00f3n del carbono bajo los est\u00e1ndares de gobernanza corporativa?",
+      "answerOptions": [
+        {
+          "text": "Aumento de la producci\u00f3n a corto plazo",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n clim\u00e1tica se enfoca en la sostenibilidad y resiliencia, no en metas de volumen de producci\u00f3n inmediata."
+        },
+        {
+          "text": "Gobernanza y liderazgo con responsabilidades individuales",
+          "isCorrect": true,
+          "rationale": "Identificar qui\u00e9n asume la m\u00e1xima responsabilidad estrat\u00e9gica es esencial en el nuevo paradigma de gobernanza."
+        },
+        {
+          "text": "Eliminaci\u00f3n de la cadena de suministros externa",
+          "isCorrect": false,
+          "rationale": "La meta no es eliminar la cadena de suministros, sino gestionar proactivamente sus emisiones (Scope 3)."
+        },
+        {
+          "text": "Uso exclusivo de compensaciones externas sin innovaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Los est\u00e1ndares exigen innovaci\u00f3n interna y metas basadas en ciencia antes de recurrir a compensaciones."
+        }
+      ],
+      "hint": "Este pilar se relaciona con la supervisi\u00f3n de la alta direcci\u00f3n y la designaci\u00f3n de responsables estrat\u00e9gicos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 implica para una empresa rendir cuentas sobre las emisiones de Alcance 3 (Scope 3)?",
+      "answerOptions": [
+        {
+          "text": "Medir \u00fanicamente el consumo el\u00e9ctrico de sus oficinas",
+          "isCorrect": false,
+          "rationale": "El consumo el\u00e9ctrico suele categorizarse como Alcance 2, no Alcance 3."
+        },
+        {
+          "text": "Asumir la responsabilidad de las emisiones de toda la cadena de suministros",
+          "isCorrect": true,
+          "rationale": "El Scope 3 incluye las emisiones generadas por proveedores y otras actividades vinculadas fuera de la operaci\u00f3n directa."
+        },
+        {
+          "text": "Reportar solo las emisiones generadas dentro de la f\u00e1brica",
+          "isCorrect": false,
+          "rationale": "Las emisiones directas de la operaci\u00f3n se clasifican como Alcance 1."
+        },
+        {
+          "text": "Contabilizar el vapor de agua emitido por procesos naturales",
+          "isCorrect": false,
+          "rationale": "Como se mencion\u00f3, el vapor de agua est\u00e1 excluido de los reportes obligatorios de cualquier alcance."
+        }
+      ],
+      "hint": "Considera los eslabones externos y proveedores que permiten que una empresa funcione comercialmente."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se clasifica el nivel de madurez de la empresa Minera Carabel\u00ed frente a los nuevos est\u00e1ndares de gesti\u00f3n clim\u00e1tica?",
+      "answerOptions": [
+        {
+          "text": "Nivel avanzado con liderazgo en descarbonizaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde a empresas como Marcobre, no a Carabel\u00ed."
+        },
+        {
+          "text": "Nivel inicial fr\u00e1gil con declaraciones vagas",
+          "isCorrect": true,
+          "rationale": "Sus reportes carecen de objetivos t\u00e9cnicos verificables, limit\u00e1ndose a declaraciones de armon\u00eda sin sustento."
+        },
+        {
+          "text": "Nivel de transici\u00f3n activa impulsado por la gerencia",
+          "isCorrect": false,
+          "rationale": "Este nivel intermedio es caracter\u00edstico de empresas como Raura."
+        },
+        {
+          "text": "Nivel de excelencia reconocido por el mercado financiero",
+          "isCorrect": false,
+          "rationale": "La falta de objetivos t\u00e9cnicos verificables impide que sea reconocida con un nivel de excelencia."
+        }
+      ],
+      "hint": "Se refiere a la diferencia entre usar lenguaje general y presentar datos t\u00e9cnicos comprobables."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n estrat\u00e9gica de la aplicaci\u00f3n Widu en la optimizaci\u00f3n de la gesti\u00f3n clim\u00e1tica?",
+      "answerOptions": [
+        {
+          "text": "Reemplazar los sistemas de energ\u00eda solar de la planta",
+          "isCorrect": false,
+          "rationale": "Widu es una herramienta de medici\u00f3n y datos, no una fuente de generaci\u00f3n de energ\u00eda."
+        },
+        {
+          "text": "Medir con exactitud la huella de carbono a nivel macro e individual",
+          "isCorrect": true,
+          "rationale": "Permite que las empresas dejen de operar bas\u00e1ndose en suposiciones y usen datos reales para mitigar emisiones."
+        },
+        {
+          "text": "Automatizar la compra de cr\u00e9ditos de carbono baratos",
+          "isCorrect": false,
+          "rationale": "La aplicaci\u00f3n se enfoca en la medici\u00f3n interna precisa, no en la adquisici\u00f3n de compensaciones externas."
+        },
+        {
+          "text": "Gestionar exclusivamente los conflictos sociales de la regi\u00f3n",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda a la transparencia, su funci\u00f3n principal es el c\u00e1lculo t\u00e9cnico de la huella de carbono."
+        }
+      ],
+      "hint": "La clave est\u00e1 en la capacidad de obtener datos precisos de la organizaci\u00f3n y sus colaboradores para la toma de decisiones."
+    },
+    {
+      "question": "En el contexto de la innovaci\u00f3n tecnol\u00f3gica, \u00bfqu\u00e9 beneficio ofrecen los sistemas fotovoltaicos para las empresas?",
+      "answerOptions": [
+        {
+          "text": "Incrementan los costos fijos de mantenimiento",
+          "isCorrect": false,
+          "rationale": "Los sistemas solares son conocidos precisamente por requerir un mantenimiento m\u00ednimo."
+        },
+        {
+          "text": "Reducen dr\u00e1sticamente los costos operativos fijos mediante el autoconsumo",
+          "isCorrect": true,
+          "rationale": "La inversi\u00f3n en energ\u00eda solar permite generar electricidad propia, bajando la dependencia de la red y los costos."
+        },
+        {
+          "text": "Eliminan la necesidad de medir la huella de carbono",
+          "isCorrect": false,
+          "rationale": "La implementaci\u00f3n de tecnolog\u00eda no exime a la empresa de la responsabilidad de medir su impacto."
+        },
+        {
+          "text": "Son la \u00fanica soluci\u00f3n necesaria para alcanzar la neutralidad de carbono",
+          "isCorrect": false,
+          "rationale": "Se consideran solo la 'punta del iceberg' de una estrategia de transici\u00f3n mucho m\u00e1s profunda."
+        }
+      ],
+      "hint": "Considera los beneficios econ\u00f3micos directos de producir energ\u00eda propia en el lugar de la operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfC\u00f3mo implement\u00f3 Marcobre un modelo de innovaci\u00f3n interna utilizando el subproducto conocido como \"Biol\"?",
+      "answerOptions": [
+        {
+          "text": "Como fertilizante exclusivo para parques urbanos",
+          "isCorrect": false,
+          "rationale": "Si bien el biol puede ser un fertilizante, el proyecto innovador de Marcobre le dio un uso industrial diferente."
+        },
+        {
+          "text": "Como aditivo para optimizar el gas en motores de camiones de carga pesada",
+          "isCorrect": true,
+          "rationale": "El biol se procesa como aditivo para mejorar el rendimiento del gas de Camisea en los motores gigantes de sus camiones."
+        },
+        {
+          "text": "Para sustituir por completo el uso de agua en la mina",
+          "isCorrect": false,
+          "rationale": "El biol se utiliza en la matriz energ\u00e9tica y de transporte, no como reemplazo total del recurso h\u00eddrico."
+        },
+        {
+          "text": "Para generar electricidad mediante paneles solares org\u00e1nicos",
+          "isCorrect": false,
+          "rationale": "El proyecto se enfoca en la eficiencia del transporte pesado, no en la generaci\u00f3n fotovoltaica."
+        }
+      ],
+      "hint": "Se relaciona con la mejora de la calidad de los combustibles utilizados en maquinaria de gran escala."
+    },
+    {
+      "question": "\u00bfQu\u00e9 nivel de eficiencia pueden alcanzar los sistemas de riego tecnificado en la adaptaci\u00f3n h\u00eddrica frente a la sequ\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Entre un 10% y un 20%",
+          "isCorrect": false,
+          "rationale": "Este rango es demasiado bajo para las capacidades de las tecnolog\u00edas modernas de goteo o aspersi\u00f3n."
+        },
+        {
+          "text": "Entre un 50% y un 70%",
+          "isCorrect": true,
+          "rationale": "Esta alta eficiencia protege el recurso h\u00eddrico y asegura la continuidad operativa y la paz social."
+        },
+        {
+          "text": "Exactamente un 100%",
+          "isCorrect": false,
+          "rationale": "Aunque son muy eficientes, siempre hay una m\u00ednima p\u00e9rdida por factores naturales o t\u00e9cnicos."
+        },
+        {
+          "text": "Menos del 5% en comparaci\u00f3n con el riego tradicional",
+          "isCorrect": false,
+          "rationale": "El riego tecnificado ofrece una mejora sustancial y no marginal respecto a los m\u00e9todos antiguos."
+        }
+      ],
+      "hint": "Representa un ahorro de agua significativo que puede llegar a m\u00e1s de la mitad del recurso utilizado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal de la econom\u00eda circular aplicada en el proyecto conjunto de Southern Per\u00fa y el gobierno de Tacna?",
+      "answerOptions": [
+        {
+          "text": "La entrega de mantas y ayuda humanitaria temporal",
+          "isCorrect": false,
+          "rationale": "El proyecto busca una soluci\u00f3n estructural y financiera, no solo asistencia social paliativa."
+        },
+        {
+          "text": "Capacitar a ganaderos para ser proveedores de forraje de alta calidad",
+          "isCorrect": true,
+          "rationale": "Al convertir el riesgo del fr\u00edo en una oportunidad comercial de cultivo, se integra a la comunidad en una cadena de valor."
+        },
+        {
+          "text": "La reubicaci\u00f3n de las comunidades a zonas de menor altitud",
+          "isCorrect": false,
+          "rationale": "La estrategia se basa en construir resiliencia en el territorio original mediante la adaptaci\u00f3n productiva."
+        },
+        {
+          "text": "El cierre de las operaciones mineras durante el invierno",
+          "isCorrect": false,
+          "rationale": "El objetivo es la convivencia y la resiliencia econ\u00f3mica mutua, no el cese de actividades."
+        }
+      ],
+      "hint": "La clave es la integraci\u00f3n de los ganaderos locales como proveedores estrat\u00e9gicos de insumos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 impacto negativo genera la migraci\u00f3n t\u00e9rmica del \"pasto quicuyo\" en las zonas altoandinas del Per\u00fa?",
+      "answerOptions": [
+        {
+          "text": "Aumenta la biodiversidad de insectos polinizadores",
+          "isCorrect": false,
+          "rationale": "El impacto mencionado es destructivo para el capital productivo, no un beneficio ecol\u00f3gico."
+        },
+        {
+          "text": "Elimina cultivos tradicionales como la alfalfa",
+          "isCorrect": true,
+          "rationale": "Esta especie invasora agresiva desplaza a los cultivos que son vitales para la alimentaci\u00f3n del ganado local."
+        },
+        {
+          "text": "Previene la erosi\u00f3n de los suelos mineros",
+          "isCorrect": false,
+          "rationale": "Se describe como una amenaza biol\u00f3gica que destruye el capital productivo agr\u00edcola existente."
+        },
+        {
+          "text": "Facilita la cosecha de papas nativas",
+          "isCorrect": false,
+          "rationale": "Al ser una gram\u00ednea agresiva, compite y perjudica las capacidades agr\u00edcolas tradicionales de la zona."
+        }
+      ],
+      "hint": "Es una especie invasora que compite directamente con las plantas que alimentan al ganado."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 se refiere la advertencia sobre evitar la \"contabilidad creativa\" en los mercados de cr\u00e9ditos de carbono?",
+      "answerOptions": [
+        {
+          "text": "Al uso de software de dise\u00f1o para los reportes anuales",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino no se refiere a la est\u00e9tica de los reportes, sino a la integridad de los datos financieros y ambientales."
+        },
+        {
+          "text": "A esquemas de compensaci\u00f3n sin rigor cient\u00edfico ni impacto real",
+          "isCorrect": true,
+          "rationale": "Se trata de pr\u00e1cticas enga\u00f1osas donde se compran cr\u00e9ditos dudosos solo para mejorar la imagen corporativa."
+        },
+        {
+          "text": "A la contrataci\u00f3n de artistas para campa\u00f1as de sensibilizaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La contabilidad creativa es un riesgo financiero y reputacional ligado a la veracidad de la reducci\u00f3n de emisiones."
+        },
+        {
+          "text": "A la creaci\u00f3n de nuevos impuestos verdes por parte del estado",
+          "isCorrect": false,
+          "rationale": "Se refiere a las acciones internas de las empresas para intentar cumplir metas mediante m\u00e9todos poco transparentes."
+        }
+      ],
+      "hint": "Se trata de intentar aparentar un compromiso ambiental mediante m\u00e9todos financieros que carecen de sustento real."
+    },
+    {
+      "question": "\u00bfQu\u00e9 garantiza que una tonelada de carbono compensada realmente se elimin\u00f3 o no lleg\u00f3 a la atm\u00f3sfera?",
+      "answerOptions": [
+        {
+          "text": "El precio m\u00e1s bajo del mercado de cr\u00e9ditos",
+          "isCorrect": false,
+          "rationale": "Los cr\u00e9ditos extremadamente baratos suelen ser se\u00f1ales de baja integridad o falta de verificaci\u00f3n."
+        },
+        {
+          "text": "El uso de sellos de certificaci\u00f3n de alta integridad como Gold Standard o Verra",
+          "isCorrect": true,
+          "rationale": "Estos marcos metodol\u00f3gicos aseguran que la compensaci\u00f3n cumple con est\u00e1ndares t\u00e9cnicos estrictos."
+        },
+        {
+          "text": "La menci\u00f3n de la empresa en redes sociales por ONGs",
+          "isCorrect": false,
+          "rationale": "La validaci\u00f3n debe ser t\u00e9cnica y auditable, no basada \u00fanicamente en la percepci\u00f3n p\u00fablica o medi\u00e1tica."
+        },
+        {
+          "text": "La cantidad total de dinero invertido en el proyecto",
+          "isCorrect": false,
+          "rationale": "El monto invertido no garantiza por s\u00ed solo el impacto ambiental si no hay una metodolog\u00eda de verificaci\u00f3n detr\u00e1s."
+        }
+      ],
+      "hint": "Busca nombres que correspondan a est\u00e1ndares internacionales de auditor\u00eda y verificaci\u00f3n clim\u00e1tica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el primer paso del viaje regulatorio para registrar una medida de mitigaci\u00f3n en la plataforma del RENAMI?",
+      "answerOptions": [
+        {
+          "text": "La inscripci\u00f3n final en el registro",
+          "isCorrect": false,
+          "rationale": "Este es el paso de cierre que otorga la luz verde definitiva, no el inicio del proceso."
+        },
+        {
+          "text": "La solicitud mediante la plataforma digital",
+          "isCorrect": true,
+          "rationale": "El proceso comienza con una solicitud \u00e1gil y sin papeles en el sistema oficial del Ministerio del Ambiente."
+        },
+        {
+          "text": "La opini\u00f3n t\u00e9cnica de las autoridades sectoriales",
+          "isCorrect": false,
+          "rationale": "La opini\u00f3n t\u00e9cnica ocurre despu\u00e9s de que la solicitud ha sido admitida y evaluada preliminarmente."
+        },
+        {
+          "text": "La subsanaci\u00f3n de discrepancias t\u00e9cnicas",
+          "isCorrect": false,
+          "rationale": "Este paso es reactivo y solo se realiza si se encuentran detalles que corregir en las etapas previas."
+        }
+      ],
+      "hint": "Es el punto de partida administrativo en cualquier sistema moderno de gesti\u00f3n p\u00fablica digital."
+    },
+    {
+      "question": "\u00bfA cu\u00e1nto ascendi\u00f3 la meta de reducci\u00f3n de emisiones de Per\u00fa para el a\u00f1o 2030 tras el ajuste de sus Contribuciones Determinadas a Nivel Nacional (NDC)?",
+      "answerOptions": [
+        {
+          "text": "Del 20% al 30%",
+          "isCorrect": false,
+          "rationale": "El 30% era la meta anterior que fue superada por un objetivo m\u00e1s ambicioso."
+        },
+        {
+          "text": "Del 30% al 40%",
+          "isCorrect": true,
+          "rationale": "Per\u00fa aument\u00f3 su compromiso de reducci\u00f3n de emisiones del 30% al 40% para el a\u00f1o 2030."
+        },
+        {
+          "text": "Del 10% al 15%",
+          "isCorrect": false,
+          "rationale": "Estas cifras son muy inferiores al compromiso real asumido por el pa\u00eds ante el Acuerdo de Par\u00eds."
+        },
+        {
+          "text": "Se mantuvo sin cambios en el 50%",
+          "isCorrect": false,
+          "rationale": "Hubo un ajuste agresivo y la cifra del 50% no corresponde al marco actual de las NDC peruanas."
+        }
+      ],
+      "hint": "Piensa en un incremento de diez puntos porcentuales respecto a la meta de reducci\u00f3n establecida anteriormente."
+    },
+    {
+      "question": "En la gesti\u00f3n corporativa moderna, \u00bfqui\u00e9nes son considerados ahora los responsables p\u00fablicos y directos de la resiliencia clim\u00e1tica de sus organizaciones?",
+      "answerOptions": [
+        {
+          "text": "\u00danicamente los consultores externos de medio ambiente",
+          "isCorrect": false,
+          "rationale": "Aunque brindan apoyo, la responsabilidad final y p\u00fablica no recae sobre actores externos."
+        },
+        {
+          "text": "Los directores ejecutivos y miembros de las mesas directivas",
+          "isCorrect": true,
+          "rationale": "El fin del anonimato corporativo implica que el liderazgo de alto nivel es el responsable directo de la supervivencia clim\u00e1tica."
+        },
+        {
+          "text": "Exclusivamente el personal operativo de las plantas",
+          "isCorrect": false,
+          "rationale": "La responsabilidad es estrat\u00e9gica y de gobernanza, escalando hasta los niveles de decisi\u00f3n m\u00e1s altos."
+        },
+        {
+          "text": "Los clientes y consumidores finales de los productos",
+          "isCorrect": false,
+          "rationale": "La gobernanza corporativa se centra en los \u00f3rganos de control y direcci\u00f3n internos de la organizaci\u00f3n."
+        }
+      ],
+      "hint": "Se refiere a las personas que ocupan las m\u00e1ximas posiciones de liderazgo y toma de decisiones estrat\u00e9gicas."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Taxonom\u00eda de Gases de Efecto Invernadero",
+      "Est\u00e1ndares de Reporte de Sostenibilidad (GRI 102)",
+      "Gobernanza Corporativa y Responsabilidad Clim\u00e1tica",
+      "Estrategias de Mitigaci\u00f3n y Optimizaci\u00f3n Energ\u00e9tica",
+      "Adaptaci\u00f3n H\u00eddrica y Econom\u00eda Circular",
+      "Mercados de Carbono y Marco Regulatorio (RENAMI)"
+    ],
+    "followUp": [
+      "Cuantificaci\u00f3n de Emisiones de Alcance 3 en Cadenas de Suministro",
+      "Implementaci\u00f3n de Metas Basadas en Ciencia (SBTi)",
+      "Modelos de Financiamiento para Transici\u00f3n Energ\u00e9tica",
+      "An\u00e1lisis de Riesgos F\u00edsicos por Aumento del Nivel del Mar",
+      "Pol\u00edticas Nacionales de Contribuciones Determinadas (NDC) en Latinoam\u00e9rica"
+    ]
+  }
+}

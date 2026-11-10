@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito fundamental de la tecnolog\u00eda en la Industria $4.0$?",
+      "answerOptions": [
+        {
+          "text": "Sustituir la intuici\u00f3n humana por datos como activos cr\u00edticos para decisiones informadas.",
+          "isCorrect": true,
+          "rationale": "La industria moderna busca transformar datos constantes en activos estrat\u00e9gicos que permitan una toma de decisiones basada en hechos y no en meras suposiciones."
+        },
+        {
+          "text": "Eliminar por completo la intervenci\u00f3n humana en la supervisi\u00f3n de la planta.",
+          "isCorrect": false,
+          "rationale": "Aunque se busca la automatizaci\u00f3n, se destaca que la supervisi\u00f3n humana es una salvaguarda obligatoria frente a fallas cognitivas o sesgos."
+        },
+        {
+          "text": "Priorizar la velocidad de producci\u00f3n sobre la seguridad operativa digital.",
+          "isCorrect": false,
+          "rationale": "El material enfatiza que los modelos digitales garantizan la seguridad operativa al permitir validaciones previas antes de la ejecuci\u00f3n f\u00edsica."
+        },
+        {
+          "text": "Convertir la tecnolog\u00eda en el fin \u00faltimo de la estrategia corporativa.",
+          "isCorrect": false,
+          "rationale": "Se menciona expl\u00edcitamente que la tecnolog\u00eda es un medio estrat\u00e9gico, no el fin por s\u00ed mismo."
+        }
+      ],
+      "hint": "Considere si la meta es el uso de herramientas o la calidad de la informaci\u00f3n para decidir."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja principal ofrecen los gemelos digitales o 'digital twins' en las operaciones industriales?",
+      "answerOptions": [
+        {
+          "text": "Permiten realizar pruebas de estr\u00e9s y escenarios extremos sin arriesgar activos f\u00edsicos.",
+          "isCorrect": true,
+          "rationale": "Act\u00faan como r\u00e9plicas virtuales que permiten empujar los sistemas al l\u00edmite en un entorno seguro antes de cualquier construcci\u00f3n real."
+        },
+        {
+          "text": "Reducen la necesidad de sensores en el piso de producci\u00f3n f\u00edsico.",
+          "isCorrect": false,
+          "rationale": "Al contrario, requieren un ecosistema sensorial robusto para enviar datos constantes y alimentar el modelo virtual."
+        },
+        {
+          "text": "Sustituyen la necesidad de realizar cualquier tipo de mantenimiento preventivo.",
+          "isCorrect": false,
+          "rationale": "Los gemelos digitales alimentan algoritmos que optimizan el mantenimiento, pero no eliminan la necesidad de realizarlo."
+        },
+        {
+          "text": "Garantizan que las m\u00e1quinas nunca sufran desgaste f\u00edsico en el mundo real.",
+          "isCorrect": false,
+          "rationale": "El desgaste es inevitable; los gemelos digitales ayudan a predecirlo, no a eliminar las leyes de la f\u00edsica."
+        }
+      ],
+      "hint": "Piense en la utilidad de tener una copia virtual id\u00e9ntica antes de mover un solo engranaje."
+    },
+    {
+      "question": "En el caso de Ford, \u00bfc\u00f3mo aplican los modelos virtuales para acelerar el desarrollo?",
+      "answerOptions": [
+        {
+          "text": "Someten a los modelos a condiciones clim\u00e1ticas extremas por computadora en lugar de usar prototipos f\u00edsicos.",
+          "isCorrect": true,
+          "rationale": "Esto les permite validar la resistencia de las piezas en horas en lugar de meses, evitando traslados costosos a entornos reales."
+        },
+        {
+          "text": "Utilizan inteligencia artificial para dise\u00f1ar veh\u00edculos sin intervenci\u00f3n de ingenieros.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda apoya el dise\u00f1o y validaci\u00f3n, pero el rol humano evoluciona hacia la supervisi\u00f3n estrat\u00e9gica."
+        },
+        {
+          "text": "Eliminan las pruebas de seguridad para reducir costos de lanzamiento.",
+          "isCorrect": false,
+          "rationale": "Los modelos virtuales se utilizan precisamente para garantizar y validar la seguridad operativa de manera m\u00e1s eficiente."
+        },
+        {
+          "text": "Construyen miles de prototipos f\u00edsicos y los monitorean mediante sensores inal\u00e1mbricos.",
+          "isCorrect": false,
+          "rationale": "La estrategia mencionada busca evitar la construcci\u00f3n de prototipos f\u00edsicos caros mediante la simulaci\u00f3n digital."
+        }
+      ],
+      "hint": "Reflexione sobre c\u00f3mo se prueban los componentes frente al fr\u00edo \u00e1rtico o calor des\u00e9rtico en este ejemplo."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera una 'trampa estrat\u00e9gica' operar una planta al $100\\%$ de su capacidad te\u00f3rica?",
+      "answerOptions": [
+        {
+          "text": "Porque el sistema se vuelve r\u00edgido y cualquier error peque\u00f1o puede causar un colapso en cadena.",
+          "isCorrect": true,
+          "rationale": "Un sistema saturado no tiene flexibilidad para absorber imprevistos, lo que detona un efecto de bola de nieve destructivo."
+        },
+        {
+          "text": "Porque los costos de electricidad aumentan de manera exponencial despu\u00e9s del $90\\%$.",
+          "isCorrect": false,
+          "rationale": "Aunque el consumo aumenta, el riesgo principal discutido es la rigidez operativa y la falta de elasticidad del sistema."
+        },
+        {
+          "text": "Porque los sensores IoT dejan de transmitir datos cuando la planta est\u00e1 al m\u00e1ximo.",
+          "isCorrect": false,
+          "rationale": "Los sensores captan datos independientemente de la carga, pero la gesti\u00f3n de esos datos se vuelve cr\u00edtica ante el riesgo de colapso."
+        },
+        {
+          "text": "Porque se desperdician recursos humanos al no tener tareas adicionales.",
+          "isCorrect": false,
+          "rationale": "El problema no es la subutilizaci\u00f3n del personal, sino la vulnerabilidad t\u00e9cnica de la infraestructura saturada."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede con la flexibilidad del flujo global cuando no hay margen de error."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el rango de 'colch\u00f3n' o buffer recomendado para garantizar la elasticidad de los procesos industriales?",
+      "answerOptions": [
+        {
+          "text": "Del $80\\%$ al $90\\%$.",
+          "isCorrect": true,
+          "rationale": "Mantener este margen deliberado permite absorber golpes imprevistos de forma segura sin detener el flujo global."
+        },
+        {
+          "text": "Del $50\\%$ al $60\\%$.",
+          "isCorrect": false,
+          "rationale": "Un margen tan bajo significar\u00eda desperdiciar demasiada capacidad productiva, afectando la rentabilidad."
+        },
+        {
+          "text": "Exactamente el $100\\%$.",
+          "isCorrect": false,
+          "rationale": "Operar al m\u00e1ximo es lo que el material identifica como un riesgo operativo que debe evitarse."
+        },
+        {
+          "text": "Menos del $10\\%$.",
+          "isCorrect": false,
+          "rationale": "Un margen tan peque\u00f1o no proporciona la elasticidad necesaria para evitar colapsos en cascada."
+        }
+      ],
+      "hint": "Busque el porcentaje de capacidad que deja un margen de seguridad razonable."
+    },
+    {
+      "question": "\u00bfQu\u00e9 impacto directo tiene la combinaci\u00f3n de m\u00e1rgenes de seguridad con modelos predictivos en la calidad del producto final?",
+      "answerOptions": [
+        {
+          "text": "Un incremento del $40\\%$ en la calidad.",
+          "isCorrect": true,
+          "rationale": "Los datos operativos demuestran que proteger la salud de los activos mediante m\u00e1rgenes preventivos eleva significativamente el est\u00e1ndar del producto."
+        },
+        {
+          "text": "Una reducci\u00f3n del $30\\%$ en los defectos de fabricaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El valor del $30\\%$ corresponde espec\u00edficamente a la reducci\u00f3n en costos de mantenimiento, no a la calidad del producto."
+        },
+        {
+          "text": "Un aumento del $25\\%$ en el precio de venta al mercado.",
+          "isCorrect": false,
+          "rationale": "El $25\\%$ se refiere a la disminuci\u00f3n en los tiempos de inactividad, no a una estrategia de precios."
+        },
+        {
+          "text": "Se mantiene igual pero se reduce el tiempo de entrega.",
+          "isCorrect": false,
+          "rationale": "El material afirma expl\u00edcitamente que la calidad del producto experimenta un salto porcentual considerable."
+        }
+      ],
+      "hint": "Recuerde las tres cifras clave mencionadas: $30\\%$, $25\\%$ y la mayor de ellas relacionada con el est\u00e1ndar final."
+    },
+    {
+      "question": "\u00bfQu\u00e9 capacidad t\u00e9cnica define a los microsensores inal\u00e1mbricos modernos en el piso de producci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Captar hasta $30$ mediciones por segundo de variables cr\u00edticas.",
+          "isCorrect": true,
+          "rationale": "Esta alta frecuencia de datos permite un monitoreo granular y en tiempo real de presi\u00f3n, vibraci\u00f3n y temperatura."
+        },
+        {
+          "text": "Transmitir datos \u00fanicamente cuando detectan una falla cr\u00edtica.",
+          "isCorrect": false,
+          "rationale": "La revoluci\u00f3n consiste en el flujo constante y fren\u00e9tico de datos, no solo en la respuesta a errores."
+        },
+        {
+          "text": "Funcionar sin necesidad de algoritmos predictivos para tomar decisiones.",
+          "isCorrect": false,
+          "rationale": "Los sensores son la 'fuerza vital' que alimenta a los algoritmos; sin el 'cerebro' del machine learning, los datos no se traducen en acci\u00f3n."
+        },
+        {
+          "text": "Eliminar la necesidad de monitorear el pH y la temperatura de forma manual.",
+          "isCorrect": false,
+          "rationale": "Aunque automatizan la medici\u00f3n, su caracter\u00edstica t\u00e9cnica distintiva mencionada es la magnitud y frecuencia de los datos (30 por segundo)."
+        }
+      ],
+      "hint": "Piense en el n\u00famero espec\u00edfico que resume la magnitud de la revoluci\u00f3n sensorial inal\u00e1mbrica."
+    },
+    {
+      "question": "\u00bfC\u00f3mo utiliza Samsung el flujo constante de datos sensoriales en sus operaciones?",
+      "answerOptions": [
+        {
+          "text": "Para alimentar algoritmos predictivos y eliminar paradas operativas no programadas.",
+          "isCorrect": true,
+          "rationale": "El monitoreo permanente de variaciones m\u00ednimas permite realizar mantenimientos 'justo a tiempo' antes de que ocurra una falla."
+        },
+        {
+          "text": "Para reducir la cantidad de empleados en sus l\u00edneas de ensamblaje.",
+          "isCorrect": false,
+          "rationale": "El enfoque principal mencionado es la salud de la maquinaria y la predictibilidad operativa, no la reducci\u00f3n de personal."
+        },
+        {
+          "text": "Para comparar su eficiencia energ\u00e9tica con la de competidores como Boeing.",
+          "isCorrect": false,
+          "rationale": "El caso de Samsung se centra en el mantenimiento predictivo mediante IoT, no en comparativas externas de energ\u00eda."
+        },
+        {
+          "text": "Para dise\u00f1ar impresoras $3D$ m\u00e1s ligeras y eficientes.",
+          "isCorrect": false,
+          "rationale": "La manufactura aditiva y la reducci\u00f3n de peso de componentes son ejemplos asociados a Boeing, no a Samsung."
+        }
+      ],
+      "hint": "Considere el objetivo final de dejar de operar 'a oscuras' en el mantenimiento."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio cuantitativo report\u00f3 Boeing al emplear manufactura aditiva en ensamblajes complejos?",
+      "answerOptions": [
+        {
+          "text": "Reducci\u00f3n del peso en un $40\\%$ y disminuci\u00f3n del $75\\%$ en la cantidad de piezas.",
+          "isCorrect": true,
+          "rationale": "La impresi\u00f3n $3D$ permite simplificar masivamente la cadena de suministro al consolidar m\u00faltiples piezas en un solo componente ligero."
+        },
+        {
+          "text": "Aumento de la velocidad de producci\u00f3n en un $30\\%$.",
+          "isCorrect": false,
+          "rationale": "Aunque optimiza procesos, los datos espec\u00edficos resaltados son la reducci\u00f3n de peso y el conteo de partes."
+        },
+        {
+          "text": "Eliminaci\u00f3n total del uso de metales en la estructura de los aviones.",
+          "isCorrect": false,
+          "rationale": "La manufactura aditiva se usa para componentes cr\u00edticos, pero no se menciona la eliminaci\u00f3n total de materiales tradicionales."
+        },
+        {
+          "text": "Reducci\u00f3n de los costos de mantenimiento en un $25\\%$.",
+          "isCorrect": false,
+          "rationale": "El $25\\%$ es la cifra asociada a la reducci\u00f3n de tiempos de inactividad general en plantas, no un dato espec\u00edfico de Boeing."
+        }
+      ],
+      "hint": "Relacione la impresi\u00f3n $3D$ con la simplificaci\u00f3n de la cantidad de componentes requeridos."
+    },
+    {
+      "question": "En el caso del sistema de IA en Murcia, \u00bfqu\u00e9 caus\u00f3 el error de clasificar a adultos mayores como sospechosos?",
+      "answerOptions": [
+        {
+          "text": "Un sesgo cognitivo de los programadores j\u00f3venes basado en su propio ritmo de vida.",
+          "isCorrect": true,
+          "rationale": "El algoritmo interpret\u00f3 la espera pasiva (com\u00fan en ancianos) como vigilancia delictiva porque fue entrenado bajo una visi\u00f3n limitada de lo 'normal'."
+        },
+        {
+          "text": "Una falla mec\u00e1nica en las c\u00e1maras de seguridad de las instituciones bancarias.",
+          "isCorrect": false,
+          "rationale": "Se aclara expl\u00edcitamente que no fue un fallo mec\u00e1nico, sino un problema en la l\u00f3gica de procesamiento o aprendizaje autom\u00e1tico."
+        },
+        {
+          "text": "La baja resoluci\u00f3n de los sensores inal\u00e1mbricos utilizados en el banco.",
+          "isCorrect": false,
+          "rationale": "El problema no radicaba en la captura del dato, sino en la interpretaci\u00f3n algor\u00edtmica de la conducta observada."
+        },
+        {
+          "text": "Una infiltraci\u00f3n de c\u00f3digo malicioso para sabotear la seguridad del banco.",
+          "isCorrect": false,
+          "rationale": "El error fue producto de la falta de supervisi\u00f3n objetiva y sesgos en el entrenamiento, no de un ataque externo."
+        }
+      ],
+      "hint": "Considere qui\u00e9nes dise\u00f1aron el algoritmo y qu\u00e9 perspectiva de 'comportamiento normal' aplicaron."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el riesgo operativo de trasladar un algoritmo con sesgos a una planta industrial de alta precisi\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Generar diagn\u00f3sticos equivocados en procesos vitales e invalidar la predictibilidad t\u00e9cnica.",
+          "isCorrect": true,
+          "rationale": "Un motor cognitivo sesgado distorsiona la realidad operativa, poniendo en peligro inminente la seguridad y eficiencia a pesar de tener buenos sensores."
+        },
+        {
+          "text": "Aumentar los costos de energ\u00eda por un procesamiento excesivo de datos.",
+          "isCorrect": false,
+          "rationale": "Aunque el procesamiento tiene costo, el mayor riesgo es la toma de decisiones basada en una realidad distorsionada."
+        },
+        {
+          "text": "Hacer que las m\u00e1quinas operen m\u00e1s lento de lo necesario de forma intencional.",
+          "isCorrect": false,
+          "rationale": "El riesgo es la falta de precisi\u00f3n en el diagn\u00f3stico, lo cual puede llevar tanto a paradas innecesarias como a fallas no detectadas."
+        },
+        {
+          "text": "Eliminar la necesidad de utilizar gr\u00e1ficas de control estad\u00edstico.",
+          "isCorrect": false,
+          "rationale": "Al contrario, los sesgos algor\u00edtmicos hacen que las herramientas de supervisi\u00f3n estad\u00edstica sean m\u00e1s necesarias que nunca."
+        }
+      ],
+      "hint": "Piense en lo que sucede con la confianza en los sensores si el 'cerebro' que los interpreta est\u00e1 equivocado."
+    },
+    {
+      "question": "\u00bfC\u00f3mo ha cambiado el ciclo de respuesta operativa al pasar de un modelo reactivo a uno proactivo?",
+      "answerOptions": [
+        {
+          "text": "De un promedio de una hora y media a un treintavo ($\\frac{1}{30}$) de segundo.",
+          "isCorrect": true,
+          "rationale": "Este salto permite corregir desviaciones instant\u00e1neamente mucho antes de que el producto final se arruine."
+        },
+        {
+          "text": "De un ciclo semanal a un monitoreo cada hora.",
+          "isCorrect": false,
+          "rationale": "El cambio descrito es mucho m\u00e1s dr\u00e1stico, pasando de tiempos humanos (laboratorio) a velocidades electr\u00f3nicas casi instant\u00e1neas."
+        },
+        {
+          "text": "Se ha mantenido igual, pero ahora se utilizan menos trabajadores.",
+          "isCorrect": false,
+          "rationale": "La velocidad de respuesta es precisamente el mayor cambio cuantitativo mencionado en la evoluci\u00f3n proactiva."
+        },
+        {
+          "text": "De una hora y media a exactamente un segundo.",
+          "isCorrect": false,
+          "rationale": "Aunque un segundo es r\u00e1pido, la tecnolog\u00eda de sensores actual permite una velocidad de reacci\u00f3n a\u00fan mayor de $\\frac{1}{30}$ de segundo."
+        }
+      ],
+      "hint": "Compare el tiempo de un proceso humano tradicional con la frecuencia de los microsensores inal\u00e1mbricos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el secreto de la predictibilidad cient\u00edfica al entrenar redes neuronales en la industria?",
+      "answerOptions": [
+        {
+          "text": "Entrenarlas hiperfocadamente para operar solo en rangos espec\u00edficos de eficiencia absoluta.",
+          "isCorrect": true,
+          "rationale": "Intentar que entiendan toda la curva de probabilidad ser\u00eda ineficiente; se busca que dominen la 'zona de oro'."
+        },
+        {
+          "text": "Asegurarse de que cubran cada punto de la curva de Gauss de principio a fin.",
+          "isCorrect": false,
+          "rationale": "Cubrir toda la campana se describe como ir\u00f3nicamente ineficiente para los objetivos de rentabilidad directa."
+        },
+        {
+          "text": "Utilizar \u00fanicamente datos hist\u00f3ricos sin considerar mediciones en tiempo real.",
+          "isCorrect": false,
+          "rationale": "La predictibilidad cient\u00edfica moderna se basa precisamente en el flujo de datos en tiempo real para correcciones inmediatas."
+        },
+        {
+          "text": "Delegar la totalidad de la programaci\u00f3n a inteligencias artificiales aut\u00f3nomas.",
+          "isCorrect": false,
+          "rationale": "Se requiere dise\u00f1o humano para establecer los par\u00e1metros de la zona de eficiencia (como el pH en el caso del cobre)."
+        }
+      ],
+      "hint": "Piense si es mejor que el algoritmo aprenda 'todo' o solo lo que es 'perfecto'."
+    },
+    {
+      "question": "En el ejemplo de la cuba electrol\u00edtica de cobre, \u00bfqu\u00e9 acci\u00f3n realiza el sistema con los valores de pH fuera del rango $1$-$3$?",
+      "answerOptions": [
+        {
+          "text": "Los descarta porque cualquier valor fuera de ese rango es ineficiente para la electrodeposici\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La instrucci\u00f3n tajante al sistema es enfocarse en los primeros deciles de la curva, donde el proceso es rentable."
+        },
+        {
+          "text": "Los utiliza para crear un promedio general que estabilice el sistema.",
+          "isCorrect": false,
+          "rationale": "Aceptar valores fuera de rango debilitar\u00eda la precisi\u00f3n quir\u00fargica que busca la ingenier\u00eda moderna."
+        },
+        {
+          "text": "Activa una alarma manual para que un operador humano ajuste el pH.",
+          "isCorrect": false,
+          "rationale": "El objetivo es que el sistema corrija la desviaci\u00f3n de forma autom\u00e1tica en fracciones de segundo."
+        },
+        {
+          "text": "Los almacena para un an\u00e1lisis estad\u00edstico semestral sin tomar medidas inmediatas.",
+          "isCorrect": false,
+          "rationale": "La eficiencia operativa continua requiere acciones en tiempo real, no diferidas."
+        }
+      ],
+      "hint": "Recuerde qu\u00e9 sucede con la rentabilidad si se procesan materiales fuera de los par\u00e1metros ideales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple la gr\u00e1fica 'X bar' o de medidas en una planta moderna?",
+      "answerOptions": [
+        {
+          "text": "Monitorear el promedio del proceso para detectar desplazamientos en la tendencia central.",
+          "isCorrect": true,
+          "rationale": "Su rol es vital para asegurar que la producci\u00f3n se mantenga dentro de los par\u00e1metros promedio esperados."
+        },
+        {
+          "text": "Evaluar \u00fanicamente los \u00edndices de defectos por cada lote producido.",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n corresponde m\u00e1s espec\u00edficamente al an\u00e1lisis de proporciones, no al monitoreo de la tendencia central."
+        },
+        {
+          "text": "Revisar la consistencia y la dispersi\u00f3n de los datos para evitar fallas catastr\u00f3ficas.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n del 'R-chart' o gr\u00e1fica de rango, que act\u00faa como centinela de la estabilidad."
+        },
+        {
+          "text": "Sustituir el muestreo sensorial realizado por la inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "Las gr\u00e1ficas son herramientas que procesan los datos del muestreo sensorial, no lo reemplazan."
+        }
+      ],
+      "hint": "Relacione el nombre de la gr\u00e1fica con el concepto estad\u00edstico de 'valor medio'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el t\u00e9rmino japon\u00e9s 'muda' dentro de la metodolog\u00eda Lean aplicada a la sostenibilidad?",
+      "answerOptions": [
+        {
+          "text": "Cualquier desperdicio de insumos operativos cr\u00edticos como energ\u00eda o agua.",
+          "isCorrect": true,
+          "rationale": "La gerencia moderna entiende que el desperdicio de recursos no es solo un error ecol\u00f3gico, sino capital que se pierde."
+        },
+        {
+          "text": "La necesidad de una comunicaci\u00f3n transparente con las comunidades locales.",
+          "isCorrect": false,
+          "rationale": "Ese concepto se refiere a la 'licencia social' o \u00e9tica pol\u00edtica, no a la eliminaci\u00f3n de desperdicios t\u00e9cnicos."
+        },
+        {
+          "text": "La mejora continua de la calidad del producto final en un $40\\%$.",
+          "isCorrect": false,
+          "rationale": "Aunque Lean mejora la calidad, 'muda' se enfoca espec\u00edficamente en lo que debe ser eliminado (el desperdicio)."
+        },
+        {
+          "text": "La automatizaci\u00f3n total de los motores el\u00e9ctricos de alta eficiencia.",
+          "isCorrect": false,
+          "rationale": "Los motores de alta eficiencia son una soluci\u00f3n para reducir el 'muda', pero no son la definici\u00f3n del t\u00e9rmino."
+        }
+      ],
+      "hint": "Piense en lo que una empresa quiere 'eliminar sistem\u00e1ticamente' para ser m\u00e1s rentable."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la sostenibilidad es hoy un 'pilar innegociable de la rentabilidad financiera'?",
+      "answerOptions": [
+        {
+          "text": "Porque optimizar recursos como energ\u00eda y agua reduce directamente los costos operativos.",
+          "isCorrect": true,
+          "rationale": "Un kilovatio o litro mal utilizado es capital que desaparece de los m\u00e1rgenes de ganancia, haciendo de la eficiencia una estrategia de ahorro."
+        },
+        {
+          "text": "Porque es la \u00fanica forma de obtener certificaciones de relaciones p\u00fablicas.",
+          "isCorrect": false,
+          "rationale": "El material advierte que ver la sostenibilidad solo como filantrop\u00eda o relaciones p\u00fablicas es un error de c\u00e1lculo inmenso."
+        },
+        {
+          "text": "Porque las leyes internacionales proh\u00edben el uso de procesos exot\u00e9rmicos.",
+          "isCorrect": false,
+          "rationale": "Los procesos exot\u00e9rmicos no est\u00e1n prohibidos; lo que se busca es capturar su calor residual para reinyectarlo al sistema."
+        },
+        {
+          "text": "Porque permite eliminar la dependencia de los sistemas ciberf\u00edsicos.",
+          "isCorrect": false,
+          "rationale": "Al contrario, los sistemas digitales son los que permiten monitorear y lograr esta eficiencia energ\u00e9tica."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre el uso de recursos y el margen de ganancia de un negocio."
+    },
+    {
+      "question": "Seg\u00fan las lecciones de la ingenier\u00eda moderna, \u00bfqu\u00e9 sucede si un proyecto tiene viabilidad t\u00e9cnica perfecta pero carece de licencia social?",
+      "answerOptions": [
+        {
+          "text": "El proyecto puede paralizarse o fracasar por completo a pesar de su rigor t\u00e9cnico.",
+          "isCorrect": true,
+          "rationale": "Casos como T\u00eda Mar\u00eda o Las Bambas demuestran que el \u00e9xito t\u00e9cnico es nulo sin aceptaci\u00f3n de la comunidad y \u00e9tica pol\u00edtica."
+        },
+        {
+          "text": "La predictibilidad t\u00e9cnica garantiza que el proyecto se complete sin importar el entorno.",
+          "isCorrect": false,
+          "rationale": "El material es tajante al decir que las variables humanas pueden frenar en seco al sistema m\u00e1s avanzado del mundo."
+        },
+        {
+          "text": "El gobierno asume la operaci\u00f3n para evitar p\u00e9rdidas econ\u00f3micas.",
+          "isCorrect": false,
+          "rationale": "La corrupci\u00f3n pol\u00edtica y la falta de comunicaci\u00f3n \u00e9tica a menudo act\u00faan como bloqueos operativos adicionales."
+        },
+        {
+          "text": "Se debe aumentar la inversi\u00f3n en gemelos digitales para convencer a la poblaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La soluci\u00f3n no es m\u00e1s tecnolog\u00eda, sino una comunicaci\u00f3n \u00e9tica y transparente con los stakeholders."
+        }
+      ],
+      "hint": "Reflexione sobre el impacto de la comunidad en proyectos mineros peruanos mencionados."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tipo de barreras estructurales suelen actuar como cuellos de botella en la implementaci\u00f3n de proyectos industriales?",
+      "answerOptions": [
+        {
+          "text": "Demandas sociales desvinculadas de la operaci\u00f3n y desconocimiento t\u00e9cnico de las salvaguardas.",
+          "isCorrect": true,
+          "rationale": "Peticiones como patrocinios deportivos o el temor a lo desconocido por falta de informaci\u00f3n generan rechazo y bloqueos."
+        },
+        {
+          "text": "La falta de sensores inal\u00e1mbricos en \u00e1reas remotas.",
+          "isCorrect": false,
+          "rationale": "Aunque es un reto t\u00e9cnico, el contexto se refiere a barreras sociales y pol\u00edticas que impiden abrir las puertas de la planta."
+        },
+        {
+          "text": "El exceso de transparencia en la comunicaci\u00f3n con los stakeholders.",
+          "isCorrect": false,
+          "rationale": "La falta de transparencia es lo que causa problemas; una comunicaci\u00f3n \u00e9tica es la soluci\u00f3n recomendada."
+        },
+        {
+          "text": "La alta velocidad de respuesta de los sistemas ciberf\u00edsicos.",
+          "isCorrect": false,
+          "rationale": "La velocidad t\u00e9cnica es un beneficio operativo, no una barrera estructural de tipo social o pol\u00edtico."
+        }
+      ],
+      "hint": "Piense en exigencias externas como 'camisetas de f\u00fatbol' o 'patrocinios'."
+    },
+    {
+      "question": "\u00bfC\u00f3mo evoluciona el rol del profesional humano ante la automatizaci\u00f3n total y la fabricaci\u00f3n distribuida?",
+      "answerOptions": [
+        {
+          "text": "De la ejecuci\u00f3n manual a la supervisi\u00f3n estrat\u00e9gica de sistemas aut\u00f3nomos.",
+          "isCorrect": true,
+          "rationale": "El ser humano se convierte en la salvaguarda obligatoria frente a sesgos y el encargado de integrar lo econ\u00f3mico con lo social."
+        },
+        {
+          "text": "Hacia la programaci\u00f3n exclusiva de redes neuronales sin intervenci\u00f3n en planta.",
+          "isCorrect": false,
+          "rationale": "El rol incluye tambi\u00e9n la gesti\u00f3n de la licencia social y el equilibrio ambiental, no solo la programaci\u00f3n."
+        },
+        {
+          "text": "A la realizaci\u00f3n de muestreos manuales para validar a los sensores IoT.",
+          "isCorrect": false,
+          "rationale": "El muestreo manual se considera parte del modelo reactivo del pasado; el futuro es la supervisi\u00f3n de la autonom\u00eda."
+        },
+        {
+          "text": "Se vuelve irrelevante debido a la perfecci\u00f3n de la predictibilidad cient\u00edfica.",
+          "isCorrect": false,
+          "rationale": "La supervisi\u00f3n humana se define como indispensable para evitar errores cognitivos y manejar la complejidad humana."
+        }
+      ],
+      "hint": "Considere si el humano sigue haciendo la tarea o si ahora vigila c\u00f3mo se hace."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Industria $4.0$ y Transformaci\u00f3n Tecnol\u00f3gica",
+      "Gemelos Digitales y Simulaci\u00f3n Avanzada",
+      "IoT y Ecosistemas Sensoriales",
+      "Eficiencia Operativa y Control Estad\u00edstico",
+      "Sostenibilidad y Metodolog\u00eda Lean",
+      "\u00c9tica y Licencia Social en Ingenier\u00eda"
+    ],
+    "followUp": [
+      "Sistemas Ciberf\u00edsicos Inteligentes",
+      "Mantenimiento Predictivo y Justo a Tiempo",
+      "Sesgo Algor\u00edtmico y Machine Learning",
+      "An\u00e1lisis de Capacidad y Elasticidad de Procesos",
+      "Gesti\u00f3n de Residuos Operativos (Muda)",
+      "Comunicaci\u00f3n \u00c9tica con Stakeholders"
+    ]
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCual es la funci\u00f3n principal del protocolo $OPCUA$ en la arquitectura de la miner\u00eda 4.0?",
+      "answerOptions": [
+        {
+          "text": "Actuar como un traductor universal que permite la comunicaci\u00f3n entre hardware de distintos fabricantes.",
+          "isCorrect": true,
+          "rationale": "Este protocolo elimina las barreras t\u00e9cnicas de los fabricantes permitiendo un flujo de datos continuo y seguro entre sensores y sistemas de gesti\u00f3n."
+        },
+        {
+          "text": "Aumentar la velocidad de procesamiento de los algoritmos de inteligencia artificial en la nube.",
+          "isCorrect": false,
+          "rationale": "Si bien facilita el flujo de datos, su funci\u00f3n no es el procesamiento algor\u00edtmico sino la interoperabilidad de las se\u00f1ales de origen."
+        },
+        {
+          "text": "Garantizar que el consumo de energ\u00eda se mantenga por debajo de los l\u00edmites de la norma $ISO\\ 50001$.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n energ\u00e9tica es un objetivo de eficiencia, mientras que este protocolo se enfoca en la capa de integraci\u00f3n de datos."
+        },
+        {
+          "text": "Almacenar grandes vol\u00famenes de datos hist\u00f3ricos en formato $JSON$ para auditor\u00edas externas.",
+          "isCorrect": false,
+          "rationale": "El almacenamiento y el formato de exportaci\u00f3n son procesos posteriores a la comunicaci\u00f3n e integraci\u00f3n que realiza este est\u00e1ndar."
+        }
+      ],
+      "hint": "Considere la necesidad de romper los 'muros hist\u00f3ricos' entre diferentes marcas de hardware."
+    },
+    {
+      "question": "En el contexto de la norma $ISO\\ 50001$, \u00bfpor qu\u00e9 es insuficiente el macro-monitoreo para la eficiencia energ\u00e9tica?",
+      "answerOptions": [
+        {
+          "text": "Porque impide identificar fugas de energ\u00eda espec\u00edficas al observar solo el consumo total del sitio.",
+          "isCorrect": true,
+          "rationale": "Sin la medici\u00f3n subm\u00e9trica por equipo individual, las ineficiencias ocultas no pueden ser detectadas ni corregidas efectivamente."
+        },
+        {
+          "text": "Porque los recibos mensuales de energ\u00eda suelen contener errores de facturaci\u00f3n por parte del proveedor.",
+          "isCorrect": false,
+          "rationale": "El problema no es la veracidad del cobro, sino la falta de granularidad para la toma de decisiones t\u00e9cnicas operativas."
+        },
+        {
+          "text": "Porque las autoridades ambientales solo aceptan reportes basados en mediciones de alta precisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque la precisi\u00f3n es valorada, el motivo t\u00e9cnico para evitar el macro-monitoreo es la imposibilidad de encontrar ahorros reales en \u00e1reas espec\u00edficas."
+        },
+        {
+          "text": "Porque el macro-monitoreo no permite integrar variables clim\u00e1ticas en el c\u00e1lculo del consumo.",
+          "isCorrect": false,
+          "rationale": "La integraci\u00f3n clim\u00e1tica es parte de la normalizaci\u00f3n de datos, no una limitaci\u00f3n inherente a la escala del monitoreo en s\u00ed."
+        }
+      ],
+      "hint": "Piense en la analog\u00eda de intentar ahorrar luz en una casa mirando \u00fanicamente el recibo total a fin de mes."
+    },
+    {
+      "question": "\u00bfQu\u00e9 objetivo se busca al 'normalizar' un dato de consumo de agua o energ\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Evitar espejismos de eficiencia cruzando el consumo con variables externas como el clima o la mineralog\u00eda.",
+          "isCorrect": true,
+          "rationale": "Al incluir factores externos, se asegura que las mejoras en los indicadores sean resultado de la gesti\u00f3n y no de condiciones ambientales fortuitas."
+        },
+        {
+          "text": "Reducir el volumen de datos para que puedan ser procesados por sistemas de control b\u00e1sicos.",
+          "isCorrect": false,
+          "rationale": "La normalizaci\u00f3n suele a\u00f1adir complejidad y variables al an\u00e1lisis en lugar de simplificar el volumen de registros."
+        },
+        {
+          "text": "Asegurar que todos los sensores del campo utilicen la misma unidad de medida f\u00edsica.",
+          "isCorrect": false,
+          "rationale": "La conversi\u00f3n de unidades es una tarea de estandarizaci\u00f3n t\u00e9cnica, diferente a la normalizaci\u00f3n estad\u00edstica basada en el contexto operativo."
+        },
+        {
+          "text": "Eliminar los ruidos electromagn\u00e9ticos que afectan las lecturas de los medidores de precisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La limpieza de interferencias es parte de la validaci\u00f3n de se\u00f1ales, no del proceso de contextualizaci\u00f3n operativa del dato."
+        }
+      ],
+      "hint": "Recuerde c\u00f3mo la temporada de lluvias puede hacer que un sistema parezca m\u00e1s eficiente de lo que realmente es."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la utilidad de la norma $ISO\\ 14046$ en la gesti\u00f3n de recursos h\u00eddricos?",
+      "answerOptions": [
+        {
+          "text": "Establecer l\u00edmites estrictos y l\u00edmites del sistema para que los reportes de huella h\u00eddrica sean consistentes y auditables.",
+          "isCorrect": true,
+          "rationale": "Esta norma define el terreno de medici\u00f3n de forma quir\u00fargica, eliminando \u00e1reas grises e interpretaciones subjetivas ante las autoridades."
+        },
+        {
+          "text": "Automatizar la apertura y cierre de v\u00e1lvulas en las celdas de flotaci\u00f3n seg\u00fan la demanda de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta es una funci\u00f3n de los sistemas de control de procesos, no de una norma orientada a la contabilidad del impacto h\u00eddrico."
+        },
+        {
+          "text": "Garantizar que el agua extra\u00edda de la mina sea apta para el consumo humano inmediato.",
+          "isCorrect": false,
+          "rationale": "La norma se enfoca en la medici\u00f3n y reporte de la huella, no necesariamente en los est\u00e1ndares de potabilizaci\u00f3n."
+        },
+        {
+          "text": "Eliminar la necesidad de realizar monitoreos de ruido y material particulado en las comunidades.",
+          "isCorrect": false,
+          "rationale": "El monitoreo de aire y ruido est\u00e1 bajo otros marcos normativos y no es reemplazado por la gesti\u00f3n de la huella h\u00eddrica."
+        }
+      ],
+      "hint": "Esta norma ayuda a delimitar el terreno de medici\u00f3n para evitar 'interpretaciones raras' del consumo."
+    },
+    {
+      "question": "\u00bfC\u00f3mo resuelve el control multivariable el conflicto entre el aumento de producci\u00f3n y el consumo de recursos?",
+      "answerOptions": [
+        {
+          "text": "Ajustando la operaci\u00f3n en tiempo real para maximizar el procesamiento dentro de un marco estricto de restricciones ambientales.",
+          "isCorrect": true,
+          "rationale": "Funciona como un cerebro digital que optimiza el rendimiento sin violar los l\u00edmites metal\u00fargicos o ecol\u00f3gicos predefinidos."
+        },
+        {
+          "text": "Priorizando siempre la producci\u00f3n m\u00e1xima sobre cualquier restricci\u00f3n de car\u00e1cter ambiental o social.",
+          "isCorrect": false,
+          "rationale": "El objetivo del control multivariable es precisamente el equilibrio y cumplimiento de reglas, no la producci\u00f3n a cualquier costo."
+        },
+        {
+          "text": "Sustituyendo por completo la intervenci\u00f3n humana en la toma de decisiones financieras de la mina.",
+          "isCorrect": false,
+          "rationale": "Es una herramienta de optimizaci\u00f3n operativa, no un sistema de toma de decisiones corporativas de alto nivel."
+        },
+        {
+          "text": "Reduciendo la velocidad de las m\u00e1quinas pesadas para garantizar que nunca se consuma energ\u00eda excedente.",
+          "isCorrect": false,
+          "rationale": "El sistema busca el m\u00e1ximo rendimiento posible bajo restricciones, lo que no implica necesariamente una reducci\u00f3n de velocidad si los l\u00edmites lo permiten."
+        }
+      ],
+      "hint": "Piense en una 'coreograf\u00eda perfecta' que busca el rendimiento m\u00e1ximo sin pasarse de la 'caja' de reglas."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 se refiere el fen\u00f3meno de la 'plaza de armas' en el an\u00e1lisis de monitoreo ambiental?",
+      "answerOptions": [
+        {
+          "text": "A la detecci\u00f3n de picos de contaminaci\u00f3n causados por actividades externas, como festividades o turismo, que podr\u00edan culparse err\u00f3neamente a la mina.",
+          "isCorrect": true,
+          "rationale": "La anal\u00edtica avanzada permite diferenciar mediante vientos y horarios si el polvo es generado por la operaci\u00f3n minera o por el tr\u00e1fico del pueblo."
+        },
+        {
+          "text": "Al dise\u00f1o de estaciones de monitoreo est\u00e9ticamente integradas con el entorno urbano de las comunidades.",
+          "isCorrect": false,
+          "rationale": "El fen\u00f3meno describe un problema de interpretaci\u00f3n de datos, no una cuesti\u00f3n de dise\u00f1o arquitect\u00f3nico de las estaciones."
+        },
+        {
+          "text": "A la obligaci\u00f3n legal de instalar sensores de $pH$ y turbidez en el centro de las ciudades m\u00e1s cercanas.",
+          "isCorrect": false,
+          "rationale": "Aunque se instalan sensores, el concepto se centra en el riesgo de reputaci\u00f3n por datos mal interpretados sobre material particulado."
+        },
+        {
+          "text": "A la estrategia de comunicaci\u00f3n para invitar a la comunidad a revisar los datos en tiempo real en paneles p\u00fablicos.",
+          "isCorrect": false,
+          "rationale": "Esto es parte de la transparencia, pero el fen\u00f3meno mencionado es espec\u00edficamente sobre la confusi\u00f3n de fuentes de emisi\u00f3n de polvo."
+        }
+      ],
+      "hint": "Se relaciona con el uso de tecnolog\u00eda para distinguir el polvo de la operaci\u00f3n frente al levantado por los autos un domingo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la garant\u00eda fundamental que ofrece el cumplimiento del est\u00e1ndar $ISO\\ 17025$?",
+      "answerOptions": [
+        {
+          "text": "Asegura que los laboratorios generen resultados de calidad irrefutable ante la ley y la sociedad.",
+          "isCorrect": true,
+          "rationale": "Cumplir esta norma blinda la validez t\u00e9cnica de cada muestra analizada, eliminando el margen de error legal en los reportes."
+        },
+        {
+          "text": "Garantiza que el mantenimiento de los camiones de extracci\u00f3n se realice cada $250$ horas de operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta norma es para la competencia de laboratorios de ensayo y calibraci\u00f3n, no para el mantenimiento preventivo de flota pesada."
+        },
+        {
+          "text": "Establece el protocolo para el uso de paneles solares en zonas de clima extremo como la Puna.",
+          "isCorrect": false,
+          "rationale": "El uso de hardware en climas extremos es un tema de resiliencia f\u00edsica de infraestructura, no de acreditaci\u00f3n de laboratorios."
+        },
+        {
+          "text": "Define la estructura de la matriz de interesados para proyectos de gesti\u00f3n social.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de interesados se apoya en modelos como $PMBOK$, no en normas de calidad de laboratorios qu\u00edmicos o f\u00edsicos."
+        }
+      ],
+      "hint": "Piense en la 'l\u00ednea base' que asegura que los numeritos de una muestra sean legalmente s\u00f3lidos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 pasos componen el ciclo de vida de la cadena de custodia digital para un sensor en campo?",
+      "answerOptions": [
+        {
+          "text": "Registro de instalaci\u00f3n, calibraci\u00f3n, mantenimiento y reemplazo.",
+          "isCorrect": true,
+          "rationale": "Mantener este historial inalterable es la mejor defensa t\u00e9cnica ante inspecciones regulatorias que cuestionen una lectura espec\u00edfica."
+        },
+        {
+          "text": "Compra del activo, transporte a mina, uso intensivo y disposici\u00f3n final de residuos.",
+          "isCorrect": false,
+          "rationale": "Estos son pasos generales de gesti\u00f3n de activos, pero la custodia digital se enfoca espec\u00edficamente en la trazabilidad de la confiabilidad del dato."
+        },
+        {
+          "text": "Captura de se\u00f1al, env\u00edo por $OPCUA$, limpieza de datos y visualizaci\u00f3n en tablero.",
+          "isCorrect": false,
+          "rationale": "Este es el flujo de procesamiento de datos, no el historial de vida y mantenimiento del hardware que captura la se\u00f1al."
+        },
+        {
+          "text": "Identificaci\u00f3n del interesado, mapeo de poder, estrategia de comunicaci\u00f3n y cierre de acuerdos.",
+          "isCorrect": false,
+          "rationale": "Estos pasos corresponden a la gesti\u00f3n social bajo el modelo $PMBOK$, no a la gesti\u00f3n t\u00e9cnica de sensores."
+        }
+      ],
+      "hint": "Son cuatro pasos inalterables que permiten demostrar que un sensor operaba perfectamente en un milisegundo exacto."
+    },
+    {
+      "question": "En la gesti\u00f3n de comunidades, \u00bfcu\u00e1l es el desaf\u00edo de equilibrar el principio $FPIC$ con la Ley $29733$?",
+      "answerOptions": [
+        {
+          "text": "Publicar acuerdos de forma transparente sin vulnerar la privacidad y los datos personales de los ciudadanos.",
+          "isCorrect": true,
+          "rationale": "Existe una tensi\u00f3n entre la obligaci\u00f3n de transparencia p\u00fablica de los acuerdos y el rigor legal en la protecci\u00f3n de la identidad de las personas."
+        },
+        {
+          "text": "Asegurar que los miembros de la comunidad tengan acceso a internet para ver los portales de transparencia.",
+          "isCorrect": false,
+          "rationale": "La brecha digital es un problema de infraestructura, pero el reto mencionado es un conflicto \u00e9tico-legal sobre el manejo de informaci\u00f3n."
+        },
+        {
+          "text": "Lograr que las $ONG$ acepten los beneficios econ\u00f3micos derivados de la explotaci\u00f3n minera.",
+          "isCorrect": false,
+          "rationale": "El reto no es la aceptaci\u00f3n del beneficio, sino la forma en que se documenta y expone la informaci\u00f3n personal de los involucrados."
+        },
+        {
+          "text": "Evitar que los datos de producci\u00f3n de la mina sean interceptados por la competencia mediante ciberataques.",
+          "isCorrect": false,
+          "rationale": "Esto se refiere a la ciberseguridad industrial, no al equilibrio entre transparencia social y protecci\u00f3n de datos personales."
+        }
+      ],
+      "hint": "Se trata de caminar por una 'cuerda floja' entre lo que debe ser p\u00fablico y lo que debe ser privado."
+    },
+    {
+      "question": "\u00bfC\u00f3mo contribuye el dise\u00f1o para la circularidad a la resiliencia financiera de una operaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Al reducir la dependencia de cadenas de suministro globales mediante la extensi\u00f3n de la vida \u00fatil de los activos existentes.",
+          "isCorrect": true,
+          "rationale": "Retener el capital dentro de la operaci\u00f3n mediante el mantenimiento y remanufactura protege contra la fragilidad de los suministros externos."
+        },
+        {
+          "text": "Al aumentar el flujo de caja mediante la venta de chatarra y equipos obsoletos a mercados internacionales.",
+          "isCorrect": false,
+          "rationale": "La circularidad busca mantener el valor del activo el mayor tiempo posible, no simplemente deshacerse de \u00e9l como desecho."
+        },
+        {
+          "text": "Al permitir que la mina opere sin necesidad de realizar mantenimientos preventivos constantes.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la circularidad depende de una arquitectura de datos y mantenimiento impecable para evitar fallas catastr\u00f3ficas."
+        },
+        {
+          "text": "Al eliminar el pago de impuestos ambientales gracias al uso de indicadores como el $GWP$.",
+          "isCorrect": false,
+          "rationale": "El $GWP$ es una m\u00e9trica de impacto, pero no elimina las obligaciones fiscales, aunque puede mejorar el perfil de riesgo."
+        }
+      ],
+      "hint": "Considere el juego de 'retener el capital dentro de la operaci\u00f3n el mayor tiempo posible'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre 'reparaci\u00f3n' y 'remanufactura' en la gesti\u00f3n de activos f\u00edsicos?",
+      "answerOptions": [
+        {
+          "text": "La reparaci\u00f3n soluciona una falla puntual, mientras que la remanufactura es una reconstrucci\u00f3n industrial que otorga una vida \u00fatil igual o superior a la original.",
+          "isCorrect": true,
+          "rationale": "La remanufactura implica desarmar y evaluar milim\u00e9tricamente el componente para devolverlo a un estado de 'como nuevo' o mejorado."
+        },
+        {
+          "text": "La reparaci\u00f3n es realizada por robots, mientras que la remanufactura requiere mano de obra humana especializada.",
+          "isCorrect": false,
+          "rationale": "Ambos procesos pueden usar diferentes niveles de automatizaci\u00f3n; la diferencia real radica en el alcance y la profundidad del proceso."
+        },
+        {
+          "text": "La reparaci\u00f3n se aplica a equipos livianos y la remanufactura solo a locomotoras di\u00e9sel-el\u00e9ctricas.",
+          "isCorrect": false,
+          "rationale": "Aunque es com\u00fan en equipos pesados, la remanufactura es un concepto industrial aplicable a diversos componentes cr\u00edticos."
+        },
+        {
+          "text": "No existe diferencia t\u00e9cnica real; ambos t\u00e9rminos se usan para describir el cambio de aceites y filtros.",
+          "isCorrect": false,
+          "rationale": "El cambio de consumibles es mantenimiento b\u00e1sico; la reparaci\u00f3n y remanufactura implican intervenciones mucho m\u00e1s profundas en la estructura del activo."
+        }
+      ],
+      "hint": "Piense en la diferencia entre poner un 'parche' para apagar un incendio y reconstruir totalmente una pieza."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 audiencia est\u00e1 dirigido principalmente el est\u00e1ndar de reporte $SASB$?",
+      "answerOptions": [
+        {
+          "text": "A inversionistas y analistas financieros que buscan entender la sostenibilidad en t\u00e9rminos de valor y riesgo de capital.",
+          "isCorrect": true,
+          "rationale": "Este est\u00e1ndar traduce los datos ambientales y sociales al lenguaje financiero que los mercados de capital comprenden."
+        },
+        {
+          "text": "A las comunidades locales y $ONG$ interesadas en el impacto social directo del proyecto.",
+          "isCorrect": false,
+          "rationale": "Para audiencias sociales y gubernamentales generales se suele preferir el est\u00e1ndar $GRI$."
+        },
+        {
+          "text": "A los operadores de planta que necesitan ajustar los par\u00e1metros del control multivariable.",
+          "isCorrect": false,
+          "rationale": "Los marcos de reporte son para comunicaci\u00f3n externa y estrat\u00e9gica, no para el control operativo de segundo a segundo."
+        },
+        {
+          "text": "A las entidades reguladoras ambientales que supervisan los l\u00edmites de material particulado.",
+          "isCorrect": false,
+          "rationale": "Aunque puede ser consultado por ellos, su enfoque principal es la materialidad financiera para el sector de inversiones."
+        }
+      ],
+      "hint": "Este est\u00e1ndar traduce la sostenibilidad al idioma de los 'analistas financieros'."
+    },
+    {
+      "question": "En el protocolo $GHG$, \u00bfcu\u00e1l es la caracter\u00edstica principal del llamado 'Alcance 3'?",
+      "answerOptions": [
+        {
+          "text": "Incluye todas las emisiones indirectas que ocurren en la cadena de valor, tanto aguas arriba como aguas abajo.",
+          "isCorrect": true,
+          "rationale": "Es el alcance m\u00e1s complejo de medir, ya que involucra a proveedores y clientes externos a la operaci\u00f3n directa de la mina."
+        },
+        {
+          "text": "Se refiere \u00fanicamente al consumo de electricidad comprada a proveedores externos por la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El consumo de energ\u00eda comprada corresponde generalmente al Alcance 2."
+        },
+        {
+          "text": "Contabiliza solo las emisiones directas generadas por las chimeneas y los escapes de los camiones de la mina.",
+          "isCorrect": false,
+          "rationale": "Las fuentes de emisi\u00f3n propias y controladas por la empresa pertenecen al Alcance 1."
+        },
+        {
+          "text": "Es un alcance opcional que solo deben reportar las minas artesanales en procesos de formalizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Lejos de ser opcional, hoy es un requisito base para cerrar contratos con clientes internacionales de primer nivel."
+        }
+      ],
+      "hint": "Piense en la 'bolsa' donde entra toda la cadena de valor indirecta de la empresa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje del tiempo en proyectos de ciencia de datos aplicados al mantenimiento se estima que consume la preparaci\u00f3n y limpieza de informaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "$80\\%$",
+          "isCorrect": true,
+          "rationale": "La construcci\u00f3n del pipeline de datos estructurado y limpio es la fase m\u00e1s intensiva antes de aplicar cualquier algoritmo predictivo."
+        },
+        {
+          "text": "$20\\%$",
+          "isCorrect": false,
+          "rationale": "Este suele ser el tiempo dedicado al modelado final, no a la ardua tarea previa de preparaci\u00f3n de los datos."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra considerable, la realidad t\u00e9cnica en proyectos industriales complejos eleva este esfuerzo hasta casi la totalidad del tiempo del proyecto."
+        },
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Dedicar tan poco tiempo a la limpieza resultar\u00eda en modelos predictivos altamente fallidos debido a la mala calidad del dato de origen."
+        }
+      ],
+      "hint": "Es la gran mayor\u00eda del tiempo de un ingeniero de datos antes de ver cualquier algoritmo avanzado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito de la 'validaci\u00f3n de plausibilidad f\u00edsica' en un pipeline de datos?",
+      "answerOptions": [
+        {
+          "text": "Detectar y descartar datos espurios que son f\u00edsicamente imposibles, como un motor operando a $1000^\\circ C$.",
+          "isCorrect": true,
+          "rationale": "Esta etapa protege al modelo predictivo de falsas alarmas causadas por fallas en los sensores o interferencias electromagn\u00e9ticas."
+        },
+        {
+          "text": "Convertir los archivos de formato $CSV$ a formatos de alto rendimiento como $Parquet$.",
+          "isCorrect": false,
+          "rationale": "Esto es parte de la etapa de exportaci\u00f3n y almacenamiento, no de la validaci\u00f3n f\u00edsica de los valores le\u00eddos."
+        },
+        {
+          "text": "Rellenar los huecos de informaci\u00f3n faltante utilizando promedios estad\u00edsticos simples.",
+          "isCorrect": false,
+          "rationale": "La compleci\u00f3n de datos se conoce como imputaci\u00f3n y es un paso diferente que se realiza tras validar que los datos existentes sean reales."
+        },
+        {
+          "text": "Asegurar que el sensor tenga el sello de calibraci\u00f3n vigente de acuerdo a la norma $ISO\\ 17025$.",
+          "isCorrect": false,
+          "rationale": "Esa es una validaci\u00f3n administrativa de la cadena de custodia, mientras que la plausibilidad f\u00edsica analiza el valor num\u00e9rico del dato en s\u00ed."
+        }
+      ],
+      "hint": "Se trata de filtrar 'fantasmas' o lecturas que derretir\u00edan el metal si fueran ciertas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el riesgo de utilizar promedios estad\u00edsticos en la 'l\u00f3gica de imputaci\u00f3n' para equipos inestables?",
+      "answerOptions": [
+        {
+          "text": "Podr\u00eda ocultar anomal\u00edas cr\u00edticas y 'barrer bajo la alfombra' el problema que se intenta predecir.",
+          "isCorrect": true,
+          "rationale": "Si un equipo est\u00e1 a punto de fallar y el sensor se apaga, rellenar con un promedio normaliza falsamente una situaci\u00f3n peligrosa."
+        },
+        {
+          "text": "Aumentar\u00eda dr\u00e1sticamente el costo de almacenamiento en los servidores de la nube.",
+          "isCorrect": false,
+          "rationale": "El costo de almacenamiento no var\u00eda significativamente por el m\u00e9todo de imputaci\u00f3n; el riesgo real es la p\u00e9rdida de sensibilidad del modelo."
+        },
+        {
+          "text": "Har\u00e1 que el formato $ISO\\ 8601$ de las marcas de tiempo deje de ser v\u00e1lido legalmente.",
+          "isCorrect": false,
+          "rationale": "La imputaci\u00f3n afecta los valores de las variables (como temperatura o presi\u00f3n), no el est\u00e1ndar de formato de la fecha."
+        },
+        {
+          "text": "Provocar\u00e1 que el protocolo $OPCUA$ deje de reconocer el sensor en la red industrial.",
+          "isCorrect": false,
+          "rationale": "La imputaci\u00f3n ocurre en la capa de an\u00e1lisis de datos, mucho despu\u00e9s de que el protocolo de comunicaci\u00f3n haya realizado su trabajo."
+        }
+      ],
+      "hint": "Piense en lo que sucede si promedia los datos justo antes de que una m\u00e1quina explote."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es innegociable estandarizar las marcas de tiempo al formato $ISO\\ 8601$?",
+      "answerOptions": [
+        {
+          "text": "Para permitir la sincronizaci\u00f3n perfecta de datos que vienen de distintos fabricantes y zonas horarias.",
+          "isCorrect": true,
+          "rationale": "Sin una base temporal com\u00fan, es imposible fusionar historiales operativos de motores, term\u00f3metros y registros de fallas de manera coherente."
+        },
+        {
+          "text": "Porque es el \u00fanico formato que permite comprimir los archivos en formato $Parquet$.",
+          "isCorrect": false,
+          "rationale": "La compresi\u00f3n a $Parquet$ es independiente del formato de fecha, aunque el orden temporal facilita el alto rendimiento."
+        },
+        {
+          "text": "Para cumplir con la Ley de Protecci\u00f3n de Datos Personales $29733$.",
+          "isCorrect": false,
+          "rationale": "Esta ley regula la privacidad de las personas, no los est\u00e1ndares t\u00e9cnicos de cronometraje de maquinaria industrial."
+        },
+        {
+          "text": "Porque los paneles solares de la Puna solo pueden transmitir datos en ese formato espec\u00edfico.",
+          "isCorrect": false,
+          "rationale": "La restricci\u00f3n del hardware solar es de energ\u00eda y calor, no de un est\u00e1ndar de formato de datos espec\u00edfico."
+        }
+      ],
+      "hint": "Considere la dificultad de unir datos de un $PLC$ configurado en una hora con los de otro sistema en zona horaria distinta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa un 'Gemelo Digital' en operaciones modernas como las de Quellaveco?",
+      "answerOptions": [
+        {
+          "text": "Una representaci\u00f3n digital para realizar simulaciones predictivas de variables cr\u00edticas como el balance h\u00eddrico.",
+          "isCorrect": true,
+          "rationale": "Permite modelar el comportamiento real del sistema para anticipar consumos y optimizar el uso de recursos antes de actuar f\u00edsicamente."
+        },
+        {
+          "text": "Una copia f\u00edsica exacta de la mina construida en otra ubicaci\u00f3n para pruebas de seguridad.",
+          "isCorrect": false,
+          "rationale": "Un gemelo digital es un modelo virtual basado en datos, no una r\u00e9plica f\u00edsica a escala o en otro territorio."
+        },
+        {
+          "text": "El archivo hist\u00f3rico de todos los mantenimientos realizados a un sensor desde su instalaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esto se refiere a la cadena de custodia digital, que es solo un componente de la informaci\u00f3n que podr\u00eda alimentar a un gemelo digital."
+        },
+        {
+          "text": "Un sistema que duplica la velocidad de producci\u00f3n sin aumentar el consumo de energ\u00eda.",
+          "isCorrect": false,
+          "rationale": "El gemelo digital es una herramienta de simulaci\u00f3n y visibilidad, no un dispositivo mec\u00e1nico de aumento de velocidad."
+        }
+      ],
+      "hint": "Es vital para realizar 'simulaciones predictivas' de consumo exacto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la relaci\u00f3n entre la calidad del dato y la circularidad f\u00edsica en la miner\u00eda 4.0?",
+      "answerOptions": [
+        {
+          "text": "Sin datos impecables no hay mantenimiento predictivo, lo que causa fallas prematuras que obligan a comprar activos nuevos en lugar de circularizarlos.",
+          "isCorrect": true,
+          "rationale": "La calidad del dato es la primera l\u00ednea de defensa para proteger el capital y permitir procesos como la remanufactura."
+        },
+        {
+          "text": "La circularidad es un proceso puramente \u00e9tico que no requiere de infraestructura digital para su ejecuci\u00f3n exitosa.",
+          "isCorrect": false,
+          "rationale": "En la industria pesada, la circularidad depende de m\u00e9tricas duras y predictibilidad para ser financieramente viable."
+        },
+        {
+          "text": "La calidad del dato solo sirve para evitar multas de la $OEFA$, pero no influye en la vida \u00fatil de las m\u00e1quinas.",
+          "isCorrect": false,
+          "rationale": "Aunque evita multas, su impacto directo es evitar fallas catastr\u00f3ficas mediante el mantenimiento predictivo."
+        },
+        {
+          "text": "A mayor cantidad de datos crudos, mayor es la capacidad de remanufacturar piezas de forma autom\u00e1tica.",
+          "isCorrect": false,
+          "rationale": "Tener muchos datos crudos no sirve sin una capa de limpieza y anal\u00edtica avanzada; la cantidad no garantiza la calidad ni la circularidad."
+        }
+      ],
+      "hint": "Piense en el 'efecto domin\u00f3' que comienza con un dato de origen dudoso."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que la digitalizaci\u00f3n es la 'mejor defensa' contra los riesgos operativos y sociales?",
+      "answerOptions": [
+        {
+          "text": "Porque transforma la percepci\u00f3n de opacidad en transparencia verificable y evidencia t\u00e9cnica irrefutable.",
+          "isCorrect": true,
+          "rationale": "Los datos auditables eliminan la desconfianza de comunidades y reguladores al reemplazar sospechas con hechos t\u00e9cnicos."
+        },
+        {
+          "text": "Porque permite reemplazar a todo el personal humano por algoritmos, eliminando los conflictos laborales.",
+          "isCorrect": false,
+          "rationale": "La digitalizaci\u00f3n busca apoyar la gesti\u00f3n y la armon\u00eda social, no eliminar el factor humano, que sigue siendo clave en la supervisi\u00f3n."
+        },
+        {
+          "text": "Porque automatiza el pago de compensaciones econ\u00f3micas a las comunidades sin intervenci\u00f3n legal.",
+          "isCorrect": false,
+          "rationale": "La digitalizaci\u00f3n mejora la transparencia de los acuerdos, pero no automatiza procesos legales o financieros de compensaci\u00f3n."
+        },
+        {
+          "text": "Porque impide que las $ONG$ externas tengan acceso a los registros ambientales de la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la meta es que la informaci\u00f3n sea profesional y auditable, fomentando la transparencia en lugar del ocultamiento."
+        }
+      ],
+      "hint": "Considere c\u00f3mo los datos act\u00faan como la 'moneda de cambio' para ganar legitimidad social."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Miner\u00eda 4.0 e Interoperabilidad",
+      "Normas ISO y Eficiencia Energ\u00e9tica ($ISO\\ 50001$, $ISO\\ 14046$)",
+      "Gesti\u00f3n de Datos y Calidad de Laboratorio ($ISO\\ 17025$)",
+      "Responsabilidad Social y Transparencia",
+      "Econom\u00eda Circular y Remanufactura",
+      "Ciencia de Datos Aplicada al Mantenimiento Predictivo"
+    ],
+    "followUp": [
+      "Arquitectura de Redes Industriales bajo el protocolo $OPCUA$",
+      "Modelado de Gemelos Digitales para Balance H\u00eddrico",
+      "Marcos de Reporte de Sostenibilidad: Profundizaci\u00f3n en $GRI$ vs $SASB$",
+      "Ingenier\u00eda de Pipelines de Datos para IoT Industrial",
+      "Legislaci\u00f3n de Protecci\u00f3n de Datos Personales en Entornos de Transparencia"
+    ]
+  }
+}

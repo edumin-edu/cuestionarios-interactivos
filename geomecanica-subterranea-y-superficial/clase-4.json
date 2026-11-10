@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 representa un factor de seguridad mayor a $1$ en un an\u00e1lisis geomec\u00e1nico?",
+      "answerOptions": [
+        {
+          "text": "Equilibrio en el macizo rocoso.",
+          "isCorrect": true,
+          "rationale": "Un valor superior a la unidad indica que las fuerzas resistentes superan a las actuantes, garantizando la estabilidad te\u00f3rica."
+        },
+        {
+          "text": "Colapso inminente de la estructura.",
+          "isCorrect": false,
+          "rationale": "Esta condici\u00f3n se asocia generalmente a factores de seguridad menores a $1$, donde el sistema ya ha fallado."
+        },
+        {
+          "text": "Ausencia total de discontinuidades.",
+          "isCorrect": false,
+          "rationale": "El factor de seguridad mide estabilidad mec\u00e1nica, no la presencia o ausencia de fracturas en el terreno."
+        },
+        {
+          "text": "Resistencia infinita de la roca intacta.",
+          "isCorrect": false,
+          "rationale": "El factor de seguridad es un c\u00e1lculo de relaci\u00f3n de fuerzas, no una medida de resistencia absoluta del material."
+        }
+      ],
+      "hint": "Relaciona este valor con el estado de estabilidad o inestabilidad de una excavaci\u00f3n."
+    },
+    {
+      "question": "De acuerdo con los principios de la estratigraf\u00eda, \u00bfcu\u00e1l es la caracter\u00edstica de los estratos ubicados en la parte m\u00e1s baja de una formaci\u00f3n no perturbada?",
+      "answerOptions": [
+        {
+          "text": "Son l\u00f3gicamente m\u00e1s antiguos.",
+          "isCorrect": true,
+          "rationale": "El principio de superposici\u00f3n establece que las capas inferiores se depositaron antes que las superiores."
+        },
+        {
+          "text": "Presentan mayor porosidad fluvial.",
+          "isCorrect": false,
+          "rationale": "La posici\u00f3n estratigr\u00e1fica no determina por s\u00ed misma la porosidad, la cual depende del ambiente de deposici\u00f3n."
+        },
+        {
+          "text": "Son invariablemente rocas metam\u00f3rficas.",
+          "isCorrect": false,
+          "rationale": "La profundidad relativa en una secuencia sedimentaria no define el tipo de roca, sino su cronolog\u00eda relativa."
+        },
+        {
+          "text": "Carecen de identidad paleontol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "Cualquier estrato puede contener f\u00f3siles independientemente de su profundidad, siempre que las condiciones de formaci\u00f3n lo permitieran."
+        }
+      ],
+      "hint": "Considera el orden cronol\u00f3gico de deposici\u00f3n de las capas geol\u00f3gicas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 propiedad f\u00edsica de los dep\u00f3sitos monta\u00f1osos determina su alta resistencia y menor porosidad en comparaci\u00f3n con los fluviales?",
+      "answerOptions": [
+        {
+          "text": "La forma esquinada y angular de las rocas.",
+          "isCorrect": true,
+          "rationale": "La angulosidad permite un mejor trabado mec\u00e1nico entre part\u00edculas, reduciendo los espacios vac\u00edos y aumentando la resistencia."
+        },
+        {
+          "text": "La erosi\u00f3n suavizada por el agua.",
+          "isCorrect": false,
+          "rationale": "Esta es una caracter\u00edstica t\u00edpica de dep\u00f3sitos fluviales, que tienden a ser m\u00e1s redondeados y menos resistentes."
+        },
+        {
+          "text": "La presencia de amonites f\u00f3siles.",
+          "isCorrect": false,
+          "rationale": "Los f\u00f3siles ayudan a la correlaci\u00f3n cronol\u00f3gica, pero no dictan la porosidad o resistencia f\u00edsica del dep\u00f3sito."
+        },
+        {
+          "text": "Su disposici\u00f3n en estructuras tipo milojas.",
+          "isCorrect": false,
+          "rationale": "Esta estructura se asocia a zonas de cizalla y alteraci\u00f3n de arcillas, no a la morfolog\u00eda est\u00e1ndar de rocas de monta\u00f1a."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo la geometr\u00eda de los fragmentos influye en el encaje entre ellos."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define el rumbo ($strike$) de un plano geol\u00f3gico?",
+      "answerOptions": [
+        {
+          "text": "La l\u00ednea de intersecci\u00f3n entre el plano inclinado y un plano horizontal imaginario.",
+          "isCorrect": true,
+          "rationale": "Es la orientaci\u00f3n horizontal de la estructura, siempre referenciada respecto al norte magn\u00e9tico."
+        },
+        {
+          "text": "El \u00e1ngulo de inclinaci\u00f3n m\u00e1xima respecto a la horizontal.",
+          "isCorrect": false,
+          "rationale": "Esta definici\u00f3n corresponde al buzamiento ($dip$), no al rumbo."
+        },
+        {
+          "text": "La direcci\u00f3n perpendicular al norte magn\u00e9tico.",
+          "isCorrect": false,
+          "rationale": "Aunque se mide respecto al norte, el rumbo puede tener cualquier orientaci\u00f3n angular, no necesariamente perpendicular."
+        },
+        {
+          "text": "La profundidad exacta del estrato en la columna estratigr\u00e1fica.",
+          "isCorrect": false,
+          "rationale": "El rumbo es una medida de orientaci\u00f3n espacial superficial, no una medida de profundidad."
+        }
+      ],
+      "hint": "Es una medida de orientaci\u00f3n horizontal referenciada al norte."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la regla estricta para medir el buzamiento ($dip$) de una estructura?",
+      "answerOptions": [
+        {
+          "text": "Debe medirse a exactamente $90^{\\circ}$ de la l\u00ednea de rumbo.",
+          "isCorrect": true,
+          "rationale": "Para obtener la inclinaci\u00f3n m\u00e1xima real, la medici\u00f3n debe realizarse en direcci\u00f3n perpendicular a la l\u00ednea de rumbo."
+        },
+        {
+          "text": "Debe medirse de forma paralela a la l\u00ednea de rumbo.",
+          "isCorrect": false,
+          "rationale": "Si se mide paralelo al rumbo, el \u00e1ngulo de inclinaci\u00f3n observado ser\u00eda de $0^{\\circ}$, lo cual es incorrecto."
+        },
+        {
+          "text": "Se mide siempre en relaci\u00f3n al eje del t\u00fanel excavado.",
+          "isCorrect": false,
+          "rationale": "El buzamiento es una propiedad intr\u00ednseca de la geolog\u00eda, independiente de la orientaci\u00f3n de la labor minera."
+        },
+        {
+          "text": "Debe medirse utilizando \u00fanicamente la identidad paleontol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "La paleontolog\u00eda sirve para datar y correlacionar, no para realizar mediciones geom\u00e9tricas espaciales."
+        }
+      ],
+      "hint": "Considera la relaci\u00f3n angular necesaria entre la direcci\u00f3n del plano y su inclinaci\u00f3n m\u00e1xima."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor degrada profundamente la calidad mec\u00e1nica original de una roca en las diaclasas?",
+      "answerOptions": [
+        {
+          "text": "La presencia de agua o material de relleno.",
+          "isCorrect": true,
+          "rationale": "Estos elementos facilitan la alteraci\u00f3n f\u00edsico-qu\u00edmica y reducen la fricci\u00f3n entre las paredes de la fractura."
+        },
+        {
+          "text": "El uso de modelos de interpolaci\u00f3n matem\u00e1tica.",
+          "isCorrect": false,
+          "rationale": "Los modelos matem\u00e1ticos solo analizan la realidad, no degradan las propiedades f\u00edsicas del terreno."
+        },
+        {
+          "text": "La clasificaci\u00f3n geom\u00e9trica en estructuras ortogonales.",
+          "isCorrect": false,
+          "rationale": "La geometr\u00eda describe la forma de las juntas, pero su estado (relleno/agua) es lo que define la degradaci\u00f3n mec\u00e1nica."
+        },
+        {
+          "text": "La resistencia alt\u00edsima de la roca intacta.",
+          "isCorrect": false,
+          "rationale": "La roca intacta puede ser fuerte, pero la debilidad del macizo proviene de las discontinuidades, no de la matriz rocosa."
+        }
+      ],
+      "hint": "Busca elementos externos que se introducen en las grietas naturales de la roca."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el comportamiento de un macizo rocoso en el campo es generalmente inferior al de una muestra de laboratorio?",
+      "answerOptions": [
+        {
+          "text": "Por la presencia de fracturas, alteraciones y discontinuidades.",
+          "isCorrect": true,
+          "rationale": "El macizo real incluye debilidades estructurales que no est\u00e1n presentes en las muestras peque\u00f1as y perfectas de laboratorio."
+        },
+        {
+          "text": "Porque los laboratorios utilizan modelos de $9 \\ln Q + 44$.",
+          "isCorrect": false,
+          "rationale": "Esa f\u00f3rmula es una correlaci\u00f3n emp\u00edrica y no la causa de la diferencia de resistencia f\u00edsica."
+        },
+        {
+          "text": "Debido a que las muestras de laboratorio son siempre de basalto.",
+          "isCorrect": false,
+          "rationale": "El material de laboratorio var\u00eda seg\u00fan el proyecto; la diferencia radica en la escala y las discontinuidades, no en el tipo de roca."
+        },
+        {
+          "text": "Porque en el campo la roca recupera su forma el\u00e1stica.",
+          "isCorrect": false,
+          "rationale": "La elasticidad es un comportamiento de deformaci\u00f3n, pero no explica por qu\u00e9 el macizo es globalmente m\u00e1s d\u00e9bil que la roca intacta."
+        }
+      ],
+      "hint": "Compara un bloque peque\u00f1o y s\u00f3lido con una monta\u00f1a llena de grietas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede con la cohesi\u00f3n del macizo rocoso durante el proceso de argilitizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Se desploma de forma dram\u00e1tica.",
+          "isCorrect": true,
+          "rationale": "La transformaci\u00f3n de la roca en arcilla elimina la competencia estructural, creando un material inestable y resbaladizo."
+        },
+        {
+          "text": "Aumenta debido a la formaci\u00f3n de minerales sulfatados.",
+          "isCorrect": false,
+          "rationale": "La argilitizaci\u00f3n debilita la roca; la presencia de sulfuros suele asociarse a oxidaci\u00f3n, no a ganancia de cohesi\u00f3n."
+        },
+        {
+          "text": "Se mantiene constante gracias a la estructura tipo milojas.",
+          "isCorrect": false,
+          "rationale": "La estructura tipo milojas es un signo de extrema inestabilidad y baja cohesi\u00f3n, no de estabilidad."
+        },
+        {
+          "text": "Se vuelve fr\u00e1gil y recupera su capacidad de deformaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El comportamiento fr\u00e1gil es t\u00edpico de rocas metam\u00f3rficas, mientras que la argilitizaci\u00f3n produce un comportamiento blando y pl\u00e1stico."
+        }
+      ],
+      "hint": "Piensa en el efecto de convertir una piedra s\u00f3lida en un material similar a la arcilla."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tipo de comportamiento frente a esfuerzos tect\u00f3nicos suelen presentar las rocas metam\u00f3rficas?",
+      "answerOptions": [
+        {
+          "text": "Comportamiento fr\u00e1gil.",
+          "isCorrect": true,
+          "rationale": "Al haber agotado su capacidad de deformaci\u00f3n durante su formaci\u00f3n, responden a nuevos esfuerzos rompi\u00e9ndose."
+        },
+        {
+          "text": "Comportamiento pl\u00e1stico.",
+          "isCorrect": false,
+          "rationale": "Este comportamiento es m\u00e1s com\u00fan en rocas \u00edgneas bajo condiciones orog\u00e9nicas."
+        },
+        {
+          "text": "Comportamiento el\u00e1stico puro.",
+          "isCorrect": false,
+          "rationale": "La elasticidad (recuperar forma inicial) es caracter\u00edstica principal de las rocas sedimentarias seg\u00fan la matriz de g\u00e9nesis."
+        },
+        {
+          "text": "Ausencia total de deformaci\u00f3n o rotura.",
+          "isCorrect": false,
+          "rationale": "Toda roca reacciona ante esfuerzos tect\u00f3nicos extremos, ya sea deform\u00e1ndose o fractur\u00e1ndose."
+        }
+      ],
+      "hint": "Estas rocas ya pasaron por procesos de presi\u00f3n extremos en su origen."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la zona de mayor riesgo operativo en un pliegue geol\u00f3gico debido a la concentraci\u00f3n de tensiones?",
+      "answerOptions": [
+        {
+          "text": "La charnela.",
+          "isCorrect": true,
+          "rationale": "Es la zona de m\u00e1xima curvatura del pliegue donde se acumulan las mayores tensiones mec\u00e1nicas."
+        },
+        {
+          "text": "El flanco del anticlinal.",
+          "isCorrect": false,
+          "rationale": "Aunque tiene tensiones, no alcanza los niveles cr\u00edticos de concentraci\u00f3n que se encuentran en el punto de m\u00e1xima curvatura."
+        },
+        {
+          "text": "La l\u00ednea de rumbo magn\u00e9tico.",
+          "isCorrect": false,
+          "rationale": "El rumbo es una referencia de orientaci\u00f3n, no una zona f\u00edsica de acumulaci\u00f3n de esfuerzos en un pliegue."
+        },
+        {
+          "text": "La zona de sedimentaci\u00f3n fluvial.",
+          "isCorrect": false,
+          "rationale": "Esta zona se refiere al origen de la roca, no a la din\u00e1mica estructural de un pliegue formado posteriormente."
+        }
+      ],
+      "hint": "Identifica el punto donde la curvatura de la roca es m\u00e1s pronunciada."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fen\u00f3meno se describe como una implosi\u00f3n violenta de la labor minera por la liberaci\u00f3n s\u00fabita de energ\u00eda tensional?",
+      "answerOptions": [
+        {
+          "text": "Estallido de rocas (Rockburst).",
+          "isCorrect": true,
+          "rationale": "Es un evento catastr\u00f3fico causado por la liberaci\u00f3n explosiva de esfuerzos acumulados en el macizo."
+        },
+        {
+          "text": "Meteorizaci\u00f3n qu\u00edmica superficial.",
+          "isCorrect": false,
+          "rationale": "La meteorizaci\u00f3n es un proceso lento de degradaci\u00f3n por agentes ambientales, no un evento explosivo."
+        },
+        {
+          "text": "Falla en cu\u00f1a por orientaci\u00f3n desfavorable.",
+          "isCorrect": false,
+          "rationale": "Este es un tipo de deslizamiento cinem\u00e1tico, no una implosi\u00f3n por liberaci\u00f3n s\u00fabita de energ\u00eda interna."
+        },
+        {
+          "text": "Asentamiento por consolidaci\u00f3n de arcillas.",
+          "isCorrect": false,
+          "rationale": "Esto es un movimiento lento y gradual, contrario a la naturaleza violenta del rockburst."
+        }
+      ],
+      "hint": "Se trata de un evento extremadamente r\u00e1pido y peligroso en miner\u00eda profunda."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del \u00cdndice de Resistencia Geol\u00f3gica ($GSI$)?",
+      "answerOptions": [
+        {
+          "text": "Estimar la resistencia de forma visual y directa en el frente de trabajo.",
+          "isCorrect": true,
+          "rationale": "Es un sistema observacional que vincula la estructura geol\u00f3gica con la condici\u00f3n de las juntas para decisiones r\u00e1pidas."
+        },
+        {
+          "text": "Calcular el factor de reducci\u00f3n de esfuerzos ($SRF$) de forma exacta.",
+          "isCorrect": false,
+          "rationale": "El $SRF$ es un par\u00e1metro espec\u00edfico del sistema Q de Barton, no el objetivo principal del $GSI$."
+        },
+        {
+          "text": "Sustituir las pruebas de laboratorio de compresi\u00f3n simple.",
+          "isCorrect": false,
+          "rationale": "El $GSI$ complementa la informaci\u00f3n, pero las pruebas de laboratorio siguen siendo necesarias para el escalamiento de datos."
+        },
+        {
+          "text": "Medir el porcentaje de recuperaci\u00f3n de testigos mayores a $10 cm$.",
+          "isCorrect": false,
+          "rationale": "Esa definici\u00f3n corresponde al $RQD$, el cual es un par\u00e1metro usado en RMR y Q, pero diferente al concepto del $GSI$."
+        }
+      ],
+      "hint": "Es una herramienta de interpolaci\u00f3n que se usa 'in situ' tras una voladura."
+    },
+    {
+      "question": "En el sistema RMR de Bieniawski, \u00bfpor qu\u00e9 es cr\u00edtico evaluar el agua subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "Porque reduce la presi\u00f3n efectiva dentro de las juntas.",
+          "isCorrect": true,
+          "rationale": "El agua act\u00faa mec\u00e1nicamente lubricando y presionando las discontinuidades, comprometiendo la estabilidad."
+        },
+        {
+          "text": "Porque permite determinar la identidad paleontol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "El agua no tiene relaci\u00f3n con la identificaci\u00f3n de f\u00f3siles para la cronolog\u00eda de las rocas."
+        },
+        {
+          "text": "Porque aumenta el valor del $RQD$ autom\u00e1ticamente.",
+          "isCorrect": false,
+          "rationale": "La presencia de agua suele dificultar la recuperaci\u00f3n de testigos y degradar la calidad, no mejorarla."
+        },
+        {
+          "text": "Porque elimina la necesidad de penalizar el rumbo y buzamiento.",
+          "isCorrect": false,
+          "rationale": "La penalizaci\u00f3n por orientaci\u00f3n es independiente de la presencia de agua; ambos factores deben evaluarse por separado."
+        }
+      ],
+      "hint": "Considera el efecto f\u00edsico del agua sobre las grietas de la roca."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el cociente $\\frac{RQD}{J_n}$ en la f\u00f3rmula del sistema Q de Barton?",
+      "answerOptions": [
+        {
+          "text": "El tama\u00f1o f\u00edsico de los bloques de roca intacta.",
+          "isCorrect": true,
+          "rationale": "Relaciona la calidad del testigo ($RQD$) con el n\u00famero de familias de juntas ($J_n$) para definir el esqueleto estructural."
+        },
+        {
+          "text": "La resistencia al corte entre los bloques.",
+          "isCorrect": false,
+          "rationale": "La resistencia al corte est\u00e1 representada por el segundo bloque de la ecuaci\u00f3n, $\\frac{J_r}{J_a}$."
+        },
+        {
+          "text": "El impacto de los fluidos a presi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los fluidos y tensiones se eval\u00faan en el tercer bloque de la f\u00f3rmula, $\\frac{J_w}{SRF}$."
+        },
+        {
+          "text": "La escala logar\u00edtmica del factor de seguridad.",
+          "isCorrect": false,
+          "rationale": "El cociente es una medida dimensional de bloques, no representa la escala final ni el factor de seguridad por s\u00ed solo."
+        }
+      ],
+      "hint": "Analiza c\u00f3mo se dividen los fragmentos de roca seg\u00fan las familias de juntas presentes."
+    },
+    {
+      "question": "En el sistema Q, \u00bfqu\u00e9 par\u00e1metros se enfrentan para dictar la resistencia neta al corte interbloque?",
+      "answerOptions": [
+        {
+          "text": "La rugosidad de la junta ($J_r$) contra la alteraci\u00f3n y arcillas ($J_a$).",
+          "isCorrect": true,
+          "rationale": "La rugosidad act\u00faa como fricci\u00f3n positiva, mientras que la alteraci\u00f3n act\u00faa como un elemento reductor de la resistencia."
+        },
+        {
+          "text": "El espaciamiento geom\u00e9trico contra el agua subterr\u00e1nea.",
+          "isCorrect": false,
+          "rationale": "El espaciamiento se usa en el RMR, y el agua es un factor ambiental evaluado en otro bloque del sistema Q."
+        },
+        {
+          "text": "La resistencia de la roca intacta contra el $SRF$.",
+          "isCorrect": false,
+          "rationale": "Estos par\u00e1metros no se dividen entre s\u00ed en la estructura fundamental del sistema Q para medir el corte interbloque."
+        },
+        {
+          "text": "El rumbo magn\u00e9tico contra el buzamiento de $90^{\\circ}$.",
+          "isCorrect": false,
+          "rationale": "Estos son datos de orientaci\u00f3n espacial, no par\u00e1metros de resistencia al corte en las f\u00f3rmulas emp\u00edricas."
+        }
+      ],
+      "hint": "Es una 'batalla' entre el pegamento natural por fricci\u00f3n y el material resbaladizo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 eval\u00faa el par\u00e1metro $SRF$ en el sistema Q de Barton?",
+      "answerOptions": [
+        {
+          "text": "Las tensiones tect\u00f3nicas activas y el riesgo de estallido de rocas.",
+          "isCorrect": true,
+          "rationale": "El Factor de Reducci\u00f3n de Esfuerzos ajusta el \u00edndice seg\u00fan el estr\u00e9s activo que soporta el macizo."
+        },
+        {
+          "text": "El porcentaje de recuperaci\u00f3n de n\u00facleos de perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n del $RQD$, no del $SRF$."
+        },
+        {
+          "text": "La longitud y apertura de las diaclasas.",
+          "isCorrect": false,
+          "rationale": "Esos detalles se incluyen en la condici\u00f3n de las juntas, pero el $SRF$ se enfoca espec\u00edficamente en esfuerzos y cargas."
+        },
+        {
+          "text": "La orientaci\u00f3n paralela de la excavaci\u00f3n respecto al rumbo.",
+          "isCorrect": false,
+          "rationale": "La orientaci\u00f3n se maneja como un ajuste externo en RMR, mientras que el $SRF$ mide presiones internas del terreno."
+        }
+      ],
+      "hint": "Se relaciona con el estado de estr\u00e9s o presi\u00f3n que sufre la masa rocosa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la f\u00f3rmula de correlaci\u00f3n entre los sistemas RMR y Q mencionada para la ingenier\u00eda digital?",
+      "answerOptions": [
+        {
+          "text": "$RMR = 9 \\ln Q + 44$",
+          "isCorrect": true,
+          "rationale": "Es la ecuaci\u00f3n cl\u00e1sica de Bieniawski para relacionar ambos \u00edndices, aunque su validez puede ser regional."
+        },
+        {
+          "text": "$Q = RMR \\times 100$",
+          "isCorrect": false,
+          "rationale": "El sistema Q es logar\u00edtmico y el RMR es lineal (0-100); una multiplicaci\u00f3n simple no refleja su relaci\u00f3n real."
+        },
+        {
+          "text": "$RMR = \\frac{RQD}{J_n} + 44$",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n mezcla un componente del sistema Q con un valor constante, lo cual no constituye la f\u00f3rmula de correlaci\u00f3n est\u00e1ndar."
+        },
+        {
+          "text": "$Q = 9 \\ln (RMR) - 44$",
+          "isCorrect": false,
+          "rationale": "La estructura de la f\u00f3rmula es incorrecta; el logaritmo se aplica al valor de Q para obtener el RMR."
+        }
+      ],
+      "hint": "Busca la relaci\u00f3n que incluye un logaritmo natural y una constante de 44."
+    },
+    {
+      "question": "\u00bfQu\u00e9 advertencia se hace sobre el uso de softwares de cinem\u00e1tica como Deeps o Slide?",
+      "answerOptions": [
+        {
+          "text": "Que un ingreso err\u00f3neo de datos resultar\u00e1 en un dise\u00f1o sumamente peligroso.",
+          "isCorrect": true,
+          "rationale": "La potencia computacional no sustituye la calidad de los datos de campo ni el criterio del experto."
+        },
+        {
+          "text": "Que solo deben usarse para rocas excepcionalmente buenas.",
+          "isCorrect": false,
+          "rationale": "Se pueden usar para diversos terrenos, pero su limitaci\u00f3n no depende de la calidad de la roca, sino de la veracidad de los datos."
+        },
+        {
+          "text": "Que reemplazan por completo la necesidad de medir el rumbo y buzamiento.",
+          "isCorrect": false,
+          "rationale": "Al contrario, estos programas exigen datos de rumbo y buzamiento precisos para funcionar correctamente."
+        },
+        {
+          "text": "Que no pueden calcular factores de seguridad con m\u00e9todos de equilibrio l\u00edmite.",
+          "isCorrect": false,
+          "rationale": "Estos softwares est\u00e1n dise\u00f1ados espec\u00edficamente para usar m\u00e9todos como Spencer o Bishop para hallar dichos factores."
+        }
+      ],
+      "hint": "Se refiere a la precauci\u00f3n profesional ante herramientas digitales potentes."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 situaciones pierden confiabilidad los sistemas RMR y Q?",
+      "answerOptions": [
+        {
+          "text": "Al enfrentarse a cuartiles extremos (rocas muy malas o muy buenas).",
+          "isCorrect": true,
+          "rationale": "En los extremos de calidad geomec\u00e1nica, las f\u00f3rmulas emp\u00edricas est\u00e1ndar suelen fallar y requieren juicio experto."
+        },
+        {
+          "text": "Cuando se utilizan f\u00f3siles de amonites para la caracterizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El uso de f\u00f3siles es un apoyo estratigr\u00e1fico v\u00e1lido y no invalida los sistemas emp\u00edricos."
+        },
+        {
+          "text": "Siempre que el factor de seguridad sea mayor a $1$.",
+          "isCorrect": false,
+          "rationale": "Los sistemas son \u00fatiles precisamente para demostrar y calcular ese factor de seguridad en condiciones normales."
+        },
+        {
+          "text": "Si se aplican en proyectos mineros de Arequipa o la Costa Verde.",
+          "isCorrect": false,
+          "rationale": "Los sistemas son aplicables globalmente; la ubicaci\u00f3n geogr\u00e1fica no es lo que reduce su confiabilidad matem\u00e1tica."
+        }
+      ],
+      "hint": "Piensa en los l\u00edmites de cualquier f\u00f3rmula generalista ante casos excepcionales."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son considerados los dos mayores enemigos del factor de seguridad en una obra subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "La orientaci\u00f3n desfavorable y la presi\u00f3n de agua.",
+          "isCorrect": true,
+          "rationale": "Ambos factores pueden causar colapsos catastr\u00f3ficos al facilitar deslizamientos y reducir la resistencia efectiva."
+        },
+        {
+          "text": "Los amonites y la continuidad litol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "Estos son principios de estudio geol\u00f3gico, no factores que amenacen directamente la estabilidad de una obra."
+        },
+        {
+          "text": "El uso de drones y el norte magn\u00e9tico.",
+          "isCorrect": false,
+          "rationale": "Estas son herramientas o referencias de medici\u00f3n, no peligros mec\u00e1nicos para la estructura."
+        },
+        {
+          "text": "La resistencia de la roca intacta y el laboratorio.",
+          "isCorrect": false,
+          "rationale": "La roca intacta aporta resistencia; el peligro proviene de lo que la debilita, no del material s\u00f3lido en s\u00ed."
+        }
+      ],
+      "hint": "Se refieren a una condici\u00f3n geom\u00e9trica del avance y a un factor ambiental hidr\u00e1ulico."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Caracterizaci\u00f3n geomec\u00e1nica del macizo rocoso",
+      "Sistemas de clasificaci\u00f3n emp\u00edrica (RMR, Q, GSI)",
+      "Principios de estratigraf\u00eda y evidencia de campo",
+      "Orientaci\u00f3n espacial y discontinuidades",
+      "Comportamiento mec\u00e1nico y deformaciones tect\u00f3nicas"
+    ],
+    "followUp": [
+      "Modelamiento num\u00e9rico avanzado con m\u00e9todos de equilibrio l\u00edmite",
+      "Criterios de rotura para macizos fracturados (Hoek-Brown)",
+      "Gesti\u00f3n de riesgos en miner\u00eda profunda y prevenci\u00f3n de Rockburst",
+      "Hidrogeolog\u00eda aplicada a la estabilidad de excavaciones"
+    ]
+  }
+}

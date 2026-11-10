@@ -1,0 +1,545 @@
+
+{
+  "quiz": [
+    {
+      "question": "¿Cuál es el costo estimado por hora de lucro cesante debido a una parada de planta en una operación minera?",
+      "answerOptions": [
+        {
+          "text": "$5,000",
+          "isCorrect": true,
+          "rationale": "Este monto refleja el impacto crítico que tiene la inactividad operativa sobre la rentabilidad corporativa en entornos mineros."
+        },
+        {
+          "text": "$1,000",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra significativa, subestima el impacto real de los riesgos inmensos en zonas geográficamente hostiles."
+        },
+        {
+          "text": "$10,000",
+          "isCorrect": false,
+          "rationale": "Esta cifra excede la estimación estándar mencionada para la pérdida por hora de lucro cesante en estas operaciones."
+        },
+        {
+          "text": "$500",
+          "isCorrect": false,
+          "rationale": "Esta cantidad no representa la magnitud de la arquitectura operativa necesaria para mitigar riesgos en la minería."
+        }
+      ],
+      "hint": "Considera la cifra que se utiliza para justificar la logística como la columna vertebral del negocio."
+    },
+    {
+      "question": "En la gestión de compras moderna, ¿cuál es el desafío principal que debe equilibrar el área de adquisiciones?",
+      "answerOptions": [
+        {
+          "text": "Disponibilidad técnica absoluta y optimización financiera estricta",
+          "isCorrect": true,
+          "rationale": "El objetivo es garantizar que los equipos operen al 100% sin sacrificar la salud financiera de la operación."
+        },
+        {
+          "text": "Búsqueda del precio más bajo y rapidez de entrega",
+          "isCorrect": false,
+          "rationale": "Centrarse solo en el precio inicial es una trampa financiera que ignora los costos operativos a largo plazo."
+        },
+        {
+          "text": "Maximización de inventario y reducción de proveedores",
+          "isCorrect": false,
+          "rationale": "Acumular demasiado inventario inmoviliza capital de trabajo innecesariamente, afectando la liquidez."
+        },
+        {
+          "text": "Cumplimiento administrativo y llenado de registros",
+          "isCorrect": false,
+          "rationale": "La labor administrativa es secundaria frente a la función de inteligencia estratégica requerida hoy en día."
+        }
+      ],
+      "hint": "Se trata de un malabarismo entre la operatividad del equipo y el cuidado del capital."
+    },
+    {
+      "question": "Durante la evaluación técnico-económica del ciclo de adquisición, ¿cuál es la regla de oro que debe prevalecer?",
+      "answerOptions": [
+        {
+          "text": "La funcionalidad del producto debe superar al precio de etiqueta",
+          "isCorrect": true,
+          "rationale": "Asegurar que el producto cumpla técnicamente evita costos ocultos posteriores por fallas o bajo rendimiento."
+        },
+        {
+          "text": "El proveedor con el menor tiempo de entrega siempre es el elegido",
+          "isCorrect": false,
+          "rationale": "La rapidez no garantiza que el insumo sea idóneo para las condiciones extremas de la mina."
+        },
+        {
+          "text": "Se debe priorizar siempre el gasto de capital más bajo",
+          "isCorrect": false,
+          "rationale": "El precio nominal bajo suele esconder un alto costo total de propiedad debido a mantenimientos frecuentes."
+        },
+        {
+          "text": "La marca del fabricante es el único criterio de selección",
+          "isCorrect": false,
+          "rationale": "Si bien la marca importa, la evaluación debe basarse en el desempeño técnico y económico específico para la necesidad."
+        }
+      ],
+      "hint": "Lo más importante es que el artículo sirva para su propósito antes que lo que cuesta inicialmente."
+    },
+    {
+      "question": "¿Qué componentes integran el Análisis del Costo Total de Propiedad (TCO)?",
+      "answerOptions": [
+        {
+          "text": "CAPEX más OPEX (fletes, seguros, mantenimiento y capacitación)",
+          "isCorrect": true,
+          "rationale": "El TCO suma el precio inicial con todos los costos operativos ocultos durante el ciclo de vida del activo."
+        },
+        {
+          "text": "Únicamente el precio nominal de compra o CAPEX",
+          "isCorrect": false,
+          "rationale": "Considerar solo el gasto inicial ignora los gastos de operación que pueden ser mucho mayores a largo plazo."
+        },
+        {
+          "text": "El costo de adquisición más el margen de ganancia del proveedor",
+          "isCorrect": false,
+          "rationale": "Esta visión es puramente transaccional y no considera el impacto del activo dentro de la operación minera."
+        },
+        {
+          "text": "Los costos logísticos y los impuestos de importación solamente",
+          "isCorrect": false,
+          "rationale": "Aunque son parte del costo, faltan elementos vitales como el mantenimiento y el soporte técnico."
+        }
+      ],
+      "hint": "Incluye tanto la inversión inicial como los gastos para que el equipo siga funcionando."
+    },
+    {
+      "question": "¿Cuál es el beneficio principal de la estandarización de códigos SKU en un almacén minero?",
+      "answerOptions": [
+        {
+          "text": "Optimizar el capital de trabajo al evitar la acumulación de chatarra obsoleta",
+          "isCorrect": true,
+          "rationale": "Al consolidar productos técnicamente equivalentes, se racionaliza el catálogo y se reduce el exceso de inventario."
+        },
+        {
+          "text": "Permitir la compra de una mayor variedad de marcas",
+          "isCorrect": false,
+          "rationale": "Tener demasiadas marcas diferentes para un mismo fin suele complicar la gestión y aumentar los costos."
+        },
+        {
+          "text": "Aumentar el espacio físico requerido en el almacén",
+          "isCorrect": false,
+          "rationale": "La estandarización busca precisamente lo opuesto: utilizar el espacio de manera más eficiente."
+        },
+        {
+          "text": "Facilitar el proceso de auditoría externa únicamente",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda en auditorías, su impacto real es financiero y operativo sobre el inventario."
+        }
+      ],
+      "hint": "Se relaciona con agrupar artículos idénticos bajo un solo código maestro."
+    },
+    {
+      "question": "En la clasificación de inventarios ABC, ¿qué porcentaje aproximado del valor financiero representa el Grupo A?",
+      "answerOptions": [
+        {
+          "text": "75.5%",
+          "isCorrect": true,
+          "rationale": "El grupo A concentra la mayor inversión financiera, requiriendo un control estricto de estos artículos críticos."
+        },
+        {
+          "text": "20%",
+          "isCorrect": false,
+          "rationale": "Este porcentaje suele corresponder al grupo B, que representa una inversión intermedia."
+        },
+        {
+          "text": "5%",
+          "isCorrect": false,
+          "rationale": "El 5% representa al grupo C, compuesto por muchos artículos de bajo costo individual."
+        },
+        {
+          "text": "50%",
+          "isCorrect": false,
+          "rationale": "La distribución de Pareto no es equitativa; una minoría de artículos concentra la gran mayoría del valor."
+        }
+      ],
+      "hint": "Este grupo es conocido como 'la corona' por su alto peso económico."
+    },
+    {
+      "question": "Para evitar el desabastecimiento, ¿cómo se calcula la Existencia Mínima en un almacén?",
+      "answerOptions": [
+        {
+          "text": "$Consumo\\ mínimo\\ diario \\times Tiempo\\ de\\ reposición$",
+          "isCorrect": true,
+          "rationale": "Esta fórmula establece el límite inferior de seguridad para garantizar la continuidad operativa."
+        },
+        {
+          "text": "$Consumo\\ máximo\\ diario \\times Tiempo\\ de\\ reposición$",
+          "isCorrect": false,
+          "rationale": "Este cálculo se utiliza para determinar la existencia máxima, evitando el exceso de stock."
+        },
+        {
+          "text": "$Stock\\ de\\ seguridad + Punto\\ de\\ pedido$",
+          "isCorrect": false,
+          "rationale": "El punto de pedido es el momento de disparar la orden, no la definición de existencia mínima."
+        },
+        {
+          "text": "$Cantidad\\ de\\ pedido \\times Lead\\ time$",
+          "isCorrect": false,
+          "rationale": "Esta es solo una parte de la ecuación para el punto de pedido y no define el nivel mínimo de existencias."
+        }
+      ],
+      "hint": "Se basa en el nivel más bajo de uso y el tiempo que tarda el proveedor en entregar."
+    },
+    {
+      "question": "¿Cuál es la fórmula para determinar el Punto de Pedido ($PP$)?",
+      "answerOptions": [
+        {
+          "text": "$PP = (Cantidad\\ de\\ pedido \\times Lead\\ time) + Stock\\ mínimo$",
+          "isCorrect": true,
+          "rationale": "Permite identificar el instante exacto para lanzar una nueva orden y evitar la ruptura de la cadena."
+        },
+        {
+          "text": "$PP = Consumo\\ promedio \\times Tiempo\\ de\\ reposición$",
+          "isCorrect": false,
+          "rationale": "Esta fórmula es demasiado simplista ya que no considera el stock de seguridad necesario."
+        },
+        {
+          "text": "$PP = Existencia\\ máxima - Existencia\\ mínima$",
+          "isCorrect": false,
+          "rationale": "La diferencia entre máximos y mínimos no indica cuándo se debe realizar una compra."
+        },
+        {
+          "text": "$PP = (Consumo\\ diario \\div Lead\\ time) + CAPEX$",
+          "isCorrect": false,
+          "rationale": "El CAPEX es un concepto financiero de inversión y no forma parte de las fórmulas de reposición de inventario."
+        }
+      ],
+      "hint": "Considera el tiempo de entrega y el nivel de seguridad establecido."
+    },
+    {
+      "question": "En la gestión de almacenes, ¿cuál de los siguientes es un riesgo crítico relacionado con los Insumos Químicos Fiscalizados (IQF)?",
+      "answerOptions": [
+        {
+          "text": "Incumplimiento normativo que puede llevar a sanciones legales severas",
+          "isCorrect": true,
+          "rationale": "El manejo de sustancias controladas exige un rigor legal absoluto ante las autoridades competentes."
+        },
+        {
+          "text": "Pérdida de valor estético de los envases",
+          "isCorrect": false,
+          "rationale": "Aunque el deterioro físico importa, las consecuencias legales son el riesgo más temido en la minería."
+        },
+        {
+          "text": "Aumento de la temperatura ambiente del almacén",
+          "isCorrect": false,
+          "rationale": "Esto es un problema de deterioro general, pero no específico a la naturaleza fiscalizada del insumo."
+        },
+        {
+          "text": "Exceso de stock por compras impulsivas",
+          "isCorrect": false,
+          "rationale": "Los IQF suelen tener controles de cuotas estrictos que dificultan compras desmedidas por error."
+        }
+      ],
+      "hint": "Tiene que ver con la vigilancia de las autoridades sobre ciertos productos químicos."
+    },
+    {
+      "question": "¿Por qué la cal (viva o molida) representa un riesgo ambiental significativo durante su transporte?",
+      "answerOptions": [
+        {
+          "text": "Debido a su altísimo nivel de pH que puede quemar materia orgánica al contacto",
+          "isCorrect": true,
+          "rationale": "Un derrame accidental de cal puede destruir vegetación y ecosistemas locales instantáneamente por su reactividad química."
+        },
+        {
+          "text": "Porque es altamente explosiva si se somete a baches en la ruta",
+          "isCorrect": false,
+          "rationale": "La cal no es un material explosivo; su riesgo principal es su naturaleza corrosiva/alcalina."
+        },
+        {
+          "text": "Debido a que emite gases tóxicos permanentes durante el trayecto",
+          "isCorrect": false,
+          "rationale": "La cal es peligrosa principalmente en contacto directo o derrame, no por emisión constante de gases."
+        },
+        {
+          "text": "Porque atrae fauna silvestre que bloquea las carreteras",
+          "isCorrect": false,
+          "rationale": "Este no es un riesgo técnico o ambiental documentado asociado a las propiedades de la cal."
+        }
+      ],
+      "hint": "Piensa en las propiedades químicas de esta sustancia y su efecto en la vegetación."
+    },
+    {
+      "question": "¿Cuál es la principal ventaja logística de las emulsiones encartuchadas frente a la dinamita tradicional?",
+      "answerOptions": [
+        {
+          "text": "Son más estables y requieren detonadores específicos para activarse",
+          "isCorrect": true,
+          "rationale": "La tecnología de emulsiones reduce drásticamente el riesgo de accidentes durante el transporte por su estabilidad física."
+        },
+        {
+          "text": "Tienen un costo inicial de compra mucho más bajo",
+          "isCorrect": false,
+          "rationale": "La ventaja principal mencionada es la seguridad y reducción de riesgos, no necesariamente el precio unitario."
+        },
+        {
+          "text": "No requieren ningún tipo de permiso legal para su traslado",
+          "isCorrect": false,
+          "rationale": "Todos los explosivos están sujetos a regulaciones estrictas, independientemente de su estabilidad."
+        },
+        {
+          "text": "Pueden transportarse en camiones abiertos sin protección",
+          "isCorrect": false,
+          "rationale": "La seguridad sigue exigiendo condiciones de transporte controladas y protocolos rigurosos."
+        }
+      ],
+      "hint": "Se relaciona con la seguridad durante el transporte y la resistencia a detonaciones accidentales."
+    },
+    {
+      "question": "Dentro de la matriz de riesgo 5x5, ¿qué rango numérico se considera como zona crítica que exige planes de mitigación inmediatos?",
+      "answerOptions": [
+        {
+          "text": "13 a 25",
+          "isCorrect": true,
+          "rationale": "Este rango resulta de multiplicar impactos y probabilidades altas, señalando amenazas que pueden paralizar la planta."
+        },
+        {
+          "text": "1 a 5",
+          "isCorrect": false,
+          "rationale": "Este rango representa riesgos bajos que requieren monitoreo pero no acciones de emergencia inmediatas."
+        },
+        {
+          "text": "6 a 12",
+          "isCorrect": false,
+          "rationale": "Se considera una zona de riesgo moderado donde se planifican acciones a mediano plazo."
+        },
+        {
+          "text": "Más de 50",
+          "isCorrect": false,
+          "rationale": "En una matriz de 5x5, el valor máximo posible es 25 ($5 \\times 5$)."
+        }
+      ],
+      "hint": "Es el extremo superior de la escala de severidad en el análisis matemático del riesgo."
+    },
+    {
+      "question": "¿Qué define al fenómeno conocido como 'Efecto Látigo' (Bullwhip Effect) en la cadena de suministro?",
+      "answerOptions": [
+        {
+          "text": "Una distorsión de la demanda causada por fallas de comunicación entre los actores",
+          "isCorrect": true,
+          "rationale": "Pequeños desajustes en la información se amplifican conforme se retrocede en la cadena de suministro."
+        },
+        {
+          "text": "El aumento de la velocidad de entrega gracias a la automatización",
+          "isCorrect": false,
+          "rationale": "El efecto látigo es una ineficiencia negativa, no una mejora operativa o de velocidad."
+        },
+        {
+          "text": "La reducción de costos mediante la negociación agresiva con proveedores",
+          "isCorrect": false,
+          "rationale": "Este término se refiere a problemas de variabilidad y demanda, no a tácticas de negociación."
+        },
+        {
+          "text": "El impacto ambiental del transporte de concentrados mineros",
+          "isCorrect": false,
+          "rationale": "Aunque es un tema relevante, el efecto látigo es un concepto de gestión de inventarios y demanda."
+        }
+      ],
+      "hint": "Imagina un 'teléfono descompuesto' que hace que los pedidos sean mucho mayores a lo que realmente se necesita."
+    },
+    {
+      "question": "Si al calcular el efecto látigo el resultado es menor a 1, ¿qué riesgo enfrenta la operación?",
+      "answerOptions": [
+        {
+          "text": "Riesgo crítico de desabastecimiento",
+          "isCorrect": true,
+          "rationale": "Un valor menor a 1 indica que se está pidiendo menos de lo que la variabilidad de la operación exige."
+        },
+        {
+          "text": "Exceso de inventario inmovilizado",
+          "isCorrect": false,
+          "rationale": "El sobrestock ocurre cuando el resultado del cálculo del efecto látigo es mayor a 1."
+        },
+        {
+          "text": "Estabilidad perfecta en la cadena de suministro",
+          "isCorrect": false,
+          "rationale": "Cualquier desviación significativa de 1 indica ineficiencias, ya sea por falta o por exceso."
+        },
+        {
+          "text": "Optimización del capital de trabajo",
+          "isCorrect": false,
+          "rationale": "Un desabastecimiento (resultado < 1) destruye la eficiencia al poner en riesgo la continuidad operativa."
+        }
+      ],
+      "hint": "Es la situación donde faltan piezas clave para seguir operando."
+    },
+    {
+      "question": "¿Cómo contribuye la integración de comunidades locales al transporte minero a la 'Licencia Social para Operar'?",
+      "answerOptions": [
+        {
+          "text": "Convierte a la comunidad en una parte interesada y clave del éxito del negocio",
+          "isCorrect": true,
+          "rationale": "Al incluir empresas comunales en la red logística, se asegura la viabilidad del proyecto mediante el beneficio compartido."
+        },
+        {
+          "text": "Reduce los estándares de seguridad para facilitar el trabajo local",
+          "isCorrect": false,
+          "rationale": "La seguridad debe ser de alta tecnología e innegociable, independientemente de quién sea el transportista."
+        },
+        {
+          "text": "Elimina la necesidad de usar camiones encapsulados",
+          "isCorrect": false,
+          "rationale": "El uso de tecnología limpia (como camiones encapsulados) es vital para la convivencia ambiental con el entorno."
+        },
+        {
+          "text": "Permite ignorar las regulaciones de materiales peligrosos",
+          "isCorrect": false,
+          "rationale": "El cumplimiento legal es implacable y obligatorio para todos los actores de la cadena."
+        }
+      ],
+      "hint": "Se basa en crear valor compartido y asegurar que el entorno sea partícipe de la operación."
+    },
+    {
+      "question": "¿Qué representa un inventario que permanece estacionado por más de 5 años en un almacén minero?",
+      "answerOptions": [
+        {
+          "text": "Un activo obsoleto que roba espacio y recursos financieros",
+          "isCorrect": true,
+          "rationale": "La obsolescencia extrema actúa como un 'ancla' que inmoviliza capital que debería generar valor."
+        },
+        {
+          "text": "Una reserva estratégica para emergencias a largo plazo",
+          "isCorrect": false,
+          "rationale": "Mantener repuestos por tanto tiempo suele ser resultado de una mala planificación, no de una estrategia de reserva."
+        },
+        {
+          "text": "Un incremento en el valor de los activos de la empresa",
+          "isCorrect": false,
+          "rationale": "Contablemente, estos artículos suelen depreciarse o perder utilidad técnica, reduciendo su valor real."
+        },
+        {
+          "text": "Una prueba de la gran capacidad de almacenamiento disponible",
+          "isCorrect": false,
+          "rationale": "El espacio en un almacén minero es valiosísimo y no debe desperdiciarse en chatarra."
+        }
+      ],
+      "hint": "Es dinero 'durmiendo' en un estante que no genera absolutamente nada para la empresa."
+    },
+    {
+      "question": "En el contexto minero, ¿qué sucede en la etapa de 'Chancado y Molienda' del ciclo físico?",
+      "answerOptions": [
+        {
+          "text": "Se trituran las rocas gigantes hasta un tamaño manejable",
+          "isCorrect": true,
+          "rationale": "Esta etapa es el segundo paso físico tras la extracción, preparando el material para el procesamiento químico."
+        },
+        {
+          "text": "Se vuela la roca con explosivos en la mina",
+          "isCorrect": false,
+          "rationale": "Esa es la etapa de extracción, que ocurre antes del chancado."
+        },
+        {
+          "text": "Se separan los minerales valiosos de la roca estéril usando químicos",
+          "isCorrect": false,
+          "rationale": "Esa descripción corresponde a la etapa de procesamiento, posterior a la molienda."
+        },
+        {
+          "text": "Se cargan los concentrados finales en barcos de exportación",
+          "isCorrect": false,
+          "rationale": "Esta es la etapa final de transporte y exportación, el último eslabón de la cadena."
+        }
+      ],
+      "hint": "Es el proceso mecánico de reducción de tamaño del mineral extraído."
+    },
+    {
+      "question": "¿Cuál es la función principal de usar camiones encapsulados para el transporte de concentrados?",
+      "answerOptions": [
+        {
+          "text": "Evitar la dispersión de polvo y partículas en el aire para proteger el entorno",
+          "isCorrect": true,
+          "rationale": "El encapsulado es una medida de mitigación ambiental clave para la convivencia con las poblaciones locales."
+        },
+        {
+          "text": "Aumentar la velocidad máxima de los vehículos en carretera",
+          "isCorrect": false,
+          "rationale": "El encapsulado no afecta significativamente la velocidad; su propósito es de contención y seguridad ambiental."
+        },
+        {
+          "text": "Permitir que el conductor no use equipo de protección personal",
+          "isCorrect": false,
+          "rationale": "Los estándares de seguridad personal son independientes del tipo de compartimento de carga."
+        },
+        {
+          "text": "Reducir el peso total de la carga para ahorrar combustible",
+          "isCorrect": false,
+          "rationale": "El sistema de encapsulado suele añadir algo de peso al equipo, no reducirlo."
+        }
+      ],
+      "hint": "Tiene que ver con la limpieza del aire y el cumplimiento de estándares ambientales."
+    },
+    {
+      "question": "Dentro de la gestión de suministros, ¿cuál fue la consecuencia del error logístico de las 250 planchas de papel higiénico?",
+      "answerOptions": [
+        {
+          "text": "Inmovilizó el capital equivalente a un año de consumo de suministros administrativos",
+          "isCorrect": true,
+          "rationale": "Este error de codificación secuestró recursos financieros vitales por un fallo técnico aparentemente insignificante."
+        },
+        {
+          "text": "Provocó una huelga inmediata de los operarios de planta",
+          "isCorrect": false,
+          "rationale": "Si bien fue un problema de calidad, el impacto resaltado es la inmovilización financiera del capital."
+        },
+        {
+          "text": "Generó una sanción legal por parte de las autoridades ambientales",
+          "isCorrect": false,
+          "rationale": "El papel higiénico no es un insumo químico fiscalizado ni un contaminante crítico como la cal o el diésel."
+        },
+        {
+          "text": "Obligó al cierre temporal de la planta de procesamiento",
+          "isCorrect": false,
+          "rationale": "El error afectó a suministros administrativos, no a la continuidad operativa de la planta minera."
+        }
+      ],
+      "hint": "Reflexiona sobre el impacto financiero a largo plazo de ese 'capital dormido'."
+    },
+    {
+      "question": "¿Cómo se mide el impacto del riesgo en la matriz 5x5?",
+      "answerOptions": [
+        {
+          "text": "Evaluando la gravedad del evento en una escala del 1 al 5",
+          "isCorrect": true,
+          "rationale": "El impacto mide qué tan serio sería el daño si el riesgo llegara a materializarse."
+        },
+        {
+          "text": "Contando el número de empleados involucrados en la logística",
+          "isCorrect": false,
+          "rationale": "El tamaño de la planilla no es la métrica para evaluar el impacto técnico de un riesgo operativo."
+        },
+        {
+          "text": "Calculando únicamente la pérdida de horas hombre",
+          "isCorrect": false,
+          "rationale": "El impacto es integral e incluye daños ambientales, financieros y paradas de planta, no solo horas hombre."
+        },
+        {
+          "text": "Dividiendo el costo del equipo entre el tiempo de reposición",
+          "isCorrect": false,
+          "rationale": "Esta es una medida de costo o tiempo, no una evaluación de la severidad de un riesgo."
+        }
+      ],
+      "hint": "Se trata de cuantificar qué tan malo sería que algo saliera mal."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Optimización de la cadena de suministro minera",
+      "Estrategia de compras e inteligencia estratégica",
+      "Análisis del Costo Total de Propiedad (TCO)",
+      "Estandarización de códigos SKU",
+      "Gestión y clasificación de inventarios (ABC y Pareto)",
+      "Fórmulas de control de inventario y reposición",
+      "Transporte y logística de materiales peligrosos (MATPEL)",
+      "Gestión de riesgos operativos y Matriz 5x5",
+      "Efecto Látigo (Bullwhip Effect) en la logística"
+    ],
+    "followUp": [
+      "Mitigación de riesgos en zonas geográficamente hostiles",
+      "Modelos de economía circular en la gestión de activos mineros",
+      "Sostenibilidad y licencia social en redes de transporte comunitario",
+      "Automatización y digitalización de almacenes mineros de alta complejidad",
+      "Análisis avanzado de la volatilidad financiera en el OPEX logístico"
+    ]
+  }
+}

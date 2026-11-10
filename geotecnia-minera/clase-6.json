@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de los protocolos QAQ en el ciclo de un proyecto minero?",
+      "answerOptions": [
+        {
+          "text": "Garantizar la viabilidad financiera de todo el activo minero.",
+          "isCorrect": true,
+          "rationale": "Estos protocolos aseguran que la transici\u00f3n de la investigaci\u00f3n a la operaci\u00f3n sea t\u00e9cnica y financieramente s\u00f3lida."
+        },
+        {
+          "text": "Funcionar como cuestionarios t\u00e9cnicos de rutina para el personal.",
+          "isCorrect": false,
+          "rationale": "El contenido destaca que no son simples cuestionarios, sino herramientas cr\u00edticas de certificaci\u00f3n financiera."
+        },
+        {
+          "text": "Sustituir la necesidad de personal cualificado en la validaci\u00f3n de informes.",
+          "isCorrect": false,
+          "rationale": "El personal cualificado es esencial para validar los datos que estos protocolos recogen."
+        },
+        {
+          "text": "Reducir exclusivamente los tiempos de perforaci\u00f3n en campo.",
+          "isCorrect": false,
+          "rationale": "Aunque optimizan procesos, su objetivo fundamental es la seguridad financiera y t\u00e9cnica, no solo la rapidez."
+        }
+      ],
+      "hint": "Considere el impacto de estos protocolos en la aprobaci\u00f3n de grandes inversiones."
+    },
+    {
+      "question": "\u00bfQu\u00e9 problema com\u00fan causa que muchos proyectos mineros se paralicen en fases experimentales?",
+      "answerOptions": [
+        {
+          "text": "La falla al demostrar una reducci\u00f3n clara en la sensibilidad de las variables cr\u00edticas.",
+          "isCorrect": true,
+          "rationale": "Sin una estabilidad concreta demostrada, la aprobaci\u00f3n financiera se bloquea al no mitigarse el riesgo."
+        },
+        {
+          "text": "El uso excesivo de c\u00f3digos internacionales como el NI 43-101.",
+          "isCorrect": false,
+          "rationale": "Estos c\u00f3digos son en realidad la soluci\u00f3n para avanzar, no la causa del estancamiento."
+        },
+        {
+          "text": "La falta de personal para realizar excavaciones de trincheras.",
+          "isCorrect": false,
+          "rationale": "El estancamiento se debe a la gesti\u00f3n de la incertidumbre t\u00e9cnica y financiera, m\u00e1s que a la falta de mano de obra."
+        },
+        {
+          "text": "La implementaci\u00f3n de tecnolog\u00edas chilenas de monitoreo din\u00e1mico.",
+          "isCorrect": false,
+          "rationale": "Dichas tecnolog\u00edas ayudan a la operabilidad, mientras que el estancamiento surge de la falta de certeza t\u00e9cnica."
+        }
+      ],
+      "hint": "Piense en lo que los inversores necesitan ver respecto a la estabilidad de las variables del proyecto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una caracter\u00edstica distintiva del sistema Mining de Chile en comparaci\u00f3n con sistemas anteriores?",
+      "answerOptions": [
+        {
+          "text": "Permite modificar las bases topogr\u00e1ficas de forma din\u00e1mica e inteligente.",
+          "isCorrect": true,
+          "rationale": "Esta capacidad anal\u00edtica representa un salto tecnol\u00f3gico hacia la eficiencia operativa real."
+        },
+        {
+          "text": "Se basa exclusivamente en la percusi\u00f3n manual para la toma de datos.",
+          "isCorrect": false,
+          "rationale": "El sistema destaca por su cerebro anal\u00edtico y captura de datos en tiempo real, no por m\u00e9todos manuales."
+        },
+        {
+          "text": "Elimina la necesidad de utilizar porcentajes de preferencia en el minado.",
+          "isCorrect": false,
+          "rationale": "Al contrario, utiliza el enrutamiento inteligente para aplicar porcentajes de prioridad en diferentes zonas."
+        },
+        {
+          "text": "Fue el primer intento valiente de integraci\u00f3n que fall\u00f3 por complejidad de ingenier\u00eda.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde a los sistemas pioneros como Sammings y Aera, no al sistema May de Chile."
+        }
+      ],
+      "hint": "Relacione esta tecnolog\u00eda con la capacidad de respuesta ante cambios en el terreno."
+    },
+    {
+      "question": "En el contexto de la eficiencia operativa, \u00bfqu\u00e9 permite la funcionalidad de enrutamiento inteligente?",
+      "answerOptions": [
+        {
+          "text": "Asignar porcentajes de preferencia de minado basados en el valor econ\u00f3mico y estabilidad.",
+          "isCorrect": true,
+          "rationale": "Esta funci\u00f3n optimiza la construcci\u00f3n de v\u00edas priorizando las zonas m\u00e1s rentables y seguras simult\u00e1neamente."
+        },
+        {
+          "text": "Aumentar autom\u00e1ticamente la energ\u00eda de ca\u00edda en los ensayos de penetraci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El enrutamiento inteligente se aplica a la planificaci\u00f3n estrat\u00e9gica del minado, no a la mec\u00e1nica del ensayo f\u00edsico."
+        },
+        {
+          "text": "Sustituir los c\u00f3digos JORC por algoritmos de inteligencia artificial local.",
+          "isCorrect": false,
+          "rationale": "Los c\u00f3digos internacionales siguen siendo el marco regulatorio; el sistema es una herramienta operativa."
+        },
+        {
+          "text": "Reducir la velocidad del ensayo est\u00e1tico a valores menores a $2\\text{ cm/s}$.",
+          "isCorrect": false,
+          "rationale": "La velocidad del ensayo est\u00e1tico es un par\u00e1metro f\u00edsico fijo, no una funci\u00f3n de enrutamiento estrat\u00e9gico."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo se decide qu\u00e9 zona del yacimiento trabajar primero."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los par\u00e1metros est\u00e1ndar del ensayo de penetraci\u00f3n din\u00e1mica super pesado (DPSH)?",
+      "answerOptions": [
+        {
+          "text": "Masa de $63.5\\text{ kg}$ y altura de ca\u00edda de casi $80\\text{ cm}$.",
+          "isCorrect": true,
+          "rationale": "Estas especificaciones definen la alta energ\u00eda necesaria para este tipo de auscultaci\u00f3n profunda."
+        },
+        {
+          "text": "Masa de $10\\text{ kg}$ y altura de ca\u00edda de $50\\text{ cm}$.",
+          "isCorrect": false,
+          "rationale": "Estos valores corresponden al ensayo DPL, que es el m\u00e1s ligero de la categor\u00eda."
+        },
+        {
+          "text": "Masa de $65\\text{ kg}$ utilizando el m\u00e9todo Borros tradicional.",
+          "isCorrect": false,
+          "rationale": "Aunque el Borros usa una masa similar, el DPSH es el est\u00e1ndar moderno que lo ha reemplazado."
+        },
+        {
+          "text": "Masa de $20\\text{ kg}$ con velocidad de empuje constante de $2\\text{ cm/s}$.",
+          "isCorrect": false,
+          "rationale": "La velocidad constante es caracter\u00edstica del ensayo est\u00e1tico, no de los m\u00e9todos din\u00e1micos por percusi\u00f3n."
+        }
+      ],
+      "hint": "Recuerde que el DPSH es uno de los m\u00e9todos con mayor transferencia de energ\u00eda por golpe."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el m\u00e9todo DPSH ha reemplazado al antiguo m\u00e9todo Borros en la pr\u00e1ctica profesional?",
+      "answerOptions": [
+        {
+          "text": "Ofrece una mejor eficiencia y una correlaci\u00f3n m\u00e1s exacta con resultados de laboratorio.",
+          "isCorrect": true,
+          "rationale": "La confiabilidad de los datos modernos exige m\u00e9todos que se alineen mejor con los an\u00e1lisis de gabinete."
+        },
+        {
+          "text": "Requiere una masa significativamente menor para alcanzar la misma profundidad.",
+          "isCorrect": false,
+          "rationale": "Ambos m\u00e9todos usan masas pesadas; la diferencia radica en la precisi\u00f3n y eficiencia de la lectura."
+        },
+        {
+          "text": "Permite medir la presi\u00f3n de poros de forma simult\u00e1nea al golpeo.",
+          "isCorrect": false,
+          "rationale": "La medici\u00f3n de presi\u00f3n de poros es una caracter\u00edstica de la variante CPTU en ensayos est\u00e1ticos."
+        },
+        {
+          "text": "Es el \u00fanico m\u00e9todo que puede utilizarse legalmente en dep\u00f3sitos de grava.",
+          "isCorrect": false,
+          "rationale": "Los ensayos de penetraci\u00f3n est\u00e1ndar tienen restricciones cr\u00edticas en gravas debido a la p\u00e9rdida de integridad de la matriz."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre los datos obtenidos en campo y los resultados cient\u00edficos controlados."
+    },
+    {
+      "question": "\u00bfQu\u00e9 par\u00e1metro define la operaci\u00f3n del ensayo de penetraci\u00f3n est\u00e1tica (CPT)?",
+      "answerOptions": [
+        {
+          "text": "Una velocidad de empuje constante de $2\\text{ cm/s}$.",
+          "isCorrect": true,
+          "rationale": "Esta velocidad milim\u00e9trica y precisa garantiza que la resistencia medida sea representativa de las condiciones del suelo."
+        },
+        {
+          "text": "La percusi\u00f3n violenta mediante una masa de $63.5\\text{ kg}$.",
+          "isCorrect": false,
+          "rationale": "La percusi\u00f3n es propia de los m\u00e9todos din\u00e1micos, mientras que el CPT es un m\u00e9todo de empuje continuo."
+        },
+        {
+          "text": "El uso de un malacate para elevar la punta met\u00e1lica.",
+          "isCorrect": false,
+          "rationale": "El malacate es un componente mec\u00e1nico de los equipos de penetraci\u00f3n din\u00e1mica por ca\u00edda libre."
+        },
+        {
+          "text": "La medici\u00f3n del rebote de energ\u00eda en suelos muy compactos.",
+          "isCorrect": false,
+          "rationale": "El rebote es un error de lectura en ensayos din\u00e1micos, no un par\u00e1metro operativo del CPT."
+        }
+      ],
+      "hint": "Identifique la diferencia fundamental entre 'golpear' y 'empujar' el terreno."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja t\u00e9cnica ofrece el equipo CPTU sobre el CPT est\u00e1ndar?",
+      "answerOptions": [
+        {
+          "text": "Incorpora un transductor para capturar la presi\u00f3n de poros.",
+          "isCorrect": true,
+          "rationale": "Esto permite calcular la tensi\u00f3n efectiva de corte, vital en suelos blandos o marismas."
+        },
+        {
+          "text": "Permite realizar ensayos en suelos con gravas de gran tama\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Las gravas siguen siendo una limitaci\u00f3n para los m\u00e9todos de penetraci\u00f3n por la interferencia con la matriz."
+        },
+        {
+          "text": "Elimina la necesidad de corregir los datos por energ\u00eda de impacto.",
+          "isCorrect": false,
+          "rationale": "Al ser un m\u00e9todo est\u00e1tico, no usa energ\u00eda de impacto, pero su ventaja espec\u00edfica es la medici\u00f3n intersticial."
+        },
+        {
+          "text": "Aumenta la velocidad de avance a m\u00e1s de $50\\text{ cm/s}$.",
+          "isCorrect": false,
+          "rationale": "La velocidad debe mantenerse en el est\u00e1ndar de $2\\text{ cm/s}$ para asegurar la precisi\u00f3n de la lectura."
+        }
+      ],
+      "hint": "Piense en el componente adicional que mide la influencia del agua en el subsuelo."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 tipo de terreno se invalida inmediatamente el ensayo de penetraci\u00f3n est\u00e1ndar (SPT)?",
+      "answerOptions": [
+        {
+          "text": "En gravas.",
+          "isCorrect": true,
+          "rationale": "Los huecos entre las piedras comprometen la integridad mec\u00e1nica de la lectura al remover la matriz que rodea la herramienta."
+        },
+        {
+          "text": "En suelos arcillosos puros.",
+          "isCorrect": false,
+          "rationale": "El SPT es aplicable en suelos finos, siempre que se controlen las deformaciones excesivas."
+        },
+        {
+          "text": "En zonas de marismas con baja salinidad.",
+          "isCorrect": false,
+          "rationale": "Aunque complejos, estos suelos se eval\u00faan mejor con CPTU, pero el SPT no se invalida por defecto como en las gravas."
+        },
+        {
+          "text": "En dep\u00f3sitos de arena fina seca.",
+          "isCorrect": false,
+          "rationale": "Las arenas son terrenos comunes para la aplicaci\u00f3n de este ensayo, requiriendo solo correcciones est\u00e1ndar."
+        }
+      ],
+      "hint": "Considere qu\u00e9 tipo de suelo tiene part\u00edculas tan grandes que impiden una lectura continua de la matriz."
+    },
+    {
+      "question": "De acuerdo con la f\u00edsica del ensayo, \u00bfcu\u00e1l es la f\u00f3rmula de la energ\u00eda potencial te\u00f3rica disponible?",
+      "answerOptions": [
+        {
+          "text": "$E_p = m \\cdot g \\cdot h$",
+          "isCorrect": true,
+          "rationale": "Representa la energ\u00eda total antes de liberar el peso, producto de la masa, la gravedad y la altura."
+        },
+        {
+          "text": "$N_{60} = N \\cdot (1 + F)$",
+          "isCorrect": false,
+          "rationale": "Esta es una estructura de f\u00f3rmula para la correcci\u00f3n de valores, no para la energ\u00eda potencial inicial."
+        },
+        {
+          "text": "$E_r = \\frac{1}{2} m \\cdot v^2$",
+          "isCorrect": false,
+          "rationale": "Aunque es la f\u00f3rmula de energ\u00eda cin\u00e9tica, el c\u00e1lculo base para la normalizaci\u00f3n parte de la energ\u00eda potencial te\u00f3rica."
+        },
+        {
+          "text": "$F = m \\cdot a$",
+          "isCorrect": false,
+          "rationale": "Es la segunda ley de Newton, pero no define espec\u00edficamente la energ\u00eda potencial disponible en el ensayo."
+        }
+      ],
+      "hint": "Es la ecuaci\u00f3n cl\u00e1sica que relaciona masa, gravedad y altura de ca\u00edda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor se considera el 'ladr\u00f3n silencioso' de energ\u00eda durante un ensayo de penetraci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "La fricci\u00f3n f\u00edsica y las ineficiencias mec\u00e1nicas.",
+          "isCorrect": true,
+          "rationale": "Factores como el malacate, el yunque y el rozamiento interno evitan que la energ\u00eda te\u00f3rica llegue completa al suelo."
+        },
+        {
+          "text": "El uso de brocas de diamante en lugar de puntas met\u00e1licas.",
+          "isCorrect": false,
+          "rationale": "El problema de p\u00e9rdida de energ\u00eda se discute en el contexto de ensayos de penetraci\u00f3n, no de sondajes rotativos."
+        },
+        {
+          "text": "La excesiva humedad relativa en la superficie de perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Si bien el clima afecta, las p\u00e9rdidas cr\u00edticas de energ\u00eda son mec\u00e1nicas y ocurren dentro del sistema de golpeo."
+        },
+        {
+          "text": "La aplicaci\u00f3n de normativas ASTM demasiado rigurosas.",
+          "isCorrect": false,
+          "rationale": "Las normativas ayudan a cuantificar la p\u00e9rdida, no son la causa f\u00edsica de la misma."
+        }
+      ],
+      "hint": "Piense en las fuerzas que se oponen al movimiento dentro del mecanismo de perforaci\u00f3n."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afecta una desviaci\u00f3n en el \u00e1ngulo de ataque a la medici\u00f3n del ensayo?",
+      "answerOptions": [
+        {
+          "text": "Descompone el vector de fuerza y genera una gran fricci\u00f3n lateral.",
+          "isCorrect": true,
+          "rationale": "Perder la verticalidad perfecta de $90^{\\circ}$ convierte la energ\u00eda de penetraci\u00f3n en calor in\u00fatil por rozamiento."
+        },
+        {
+          "text": "Aumenta la energ\u00eda de impacto al sumar componentes horizontales.",
+          "isCorrect": false,
+          "rationale": "La energ\u00eda efectiva disminuye porque parte de la fuerza ya no se dirige hacia la penetraci\u00f3n vertical."
+        },
+        {
+          "text": "Facilita la penetraci\u00f3n en suelos compactos al actuar como una cu\u00f1a.",
+          "isCorrect": false,
+          "rationale": "Cualquier desviaci\u00f3n es un error t\u00e9cnico que falsea los datos y desgasta el equipo innecesariamente."
+        },
+        {
+          "text": "Neutraliza el efecto del nivel fre\u00e1tico en la lectura de campo.",
+          "isCorrect": false,
+          "rationale": "El \u00e1ngulo de ataque es un factor mec\u00e1nico, mientras que el nivel fre\u00e1tico es una condici\u00f3n del suelo independiente del \u00e1ngulo."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede con la fuerza cuando no se aplica exactamente hacia abajo."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la normalizaci\u00f3n $N_{60}$ exigida por los est\u00e1ndares internacionales?",
+      "answerOptions": [
+        {
+          "text": "En ajustar el valor de campo para representar exactamente el $60\\%$ de transferencia de energ\u00eda te\u00f3rica.",
+          "isCorrect": true,
+          "rationale": "Dado que el $100\\%$ de transferencia es imposible, este est\u00e1ndar permite comparar datos de forma universal."
+        },
+        {
+          "text": "En asegurar que se realicen al menos $60$ golpes por cada metro de perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El n\u00famero $60$ se refiere al porcentaje de energ\u00eda transferida, no a una cantidad de golpes."
+        },
+        {
+          "text": "En corregir los datos solo cuando el \u00e1ngulo de rozamiento interno supera los $60^{\\circ}$.",
+          "isCorrect": false,
+          "rationale": "La correcci\u00f3n es un paso previo obligatorio para poder calcular par\u00e1metros como el \u00e1ngulo de rozamiento."
+        },
+        {
+          "text": "En multiplicar todos los valores de campo por un factor fijo de $0.60$ sin considerar otras variables.",
+          "isCorrect": false,
+          "rationale": "La normalizaci\u00f3n requiere un c\u00e1lculo detallado de factores (fricci\u00f3n, varillaje, etc.), no una multiplicaci\u00f3n simple."
+        }
+      ],
+      "hint": "Es un requisito para transformar un dato crudo de campo en un par\u00e1metro de ingenier\u00eda confiable."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre el modelo de correcci\u00f3n estadounidense y el modelo de la Norma T\u00e9cnica Peruana?",
+      "answerOptions": [
+        {
+          "text": "El modelo estadounidense usa factores multiplicadores y el peruano es un modelo aditivo de suma de factores.",
+          "isCorrect": true,
+          "rationale": "Esta diferencia metodol\u00f3gica es clave al aplicar la normativa local en proyectos espec\u00edficos."
+        },
+        {
+          "text": "El modelo peruano ignora la presencia del nivel fre\u00e1tico en su ecuaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el modelo peruano toma en cuenta muy meticulosamente la influencia del nivel fre\u00e1tico."
+        },
+        {
+          "text": "El modelo estadounidense es el \u00fanico que requiere el uso de LaTeX para sus c\u00e1lculos.",
+          "isCorrect": false,
+          "rationale": "Ambos modelos son matem\u00e1ticos y pueden expresarse con cualquier notaci\u00f3n cient\u00edfica est\u00e1ndar."
+        },
+        {
+          "text": "El modelo peruano solo es aplicable si se utilizan masas de $10\\text{ kg}$.",
+          "isCorrect": false,
+          "rationale": "El modelo de correcci\u00f3n se aplica al SPT y similares, que usan masas mucho mayores que la del DPL."
+        }
+      ],
+      "hint": "Observe c\u00f3mo se combinan los distintos factores ($F$) en la ecuaci\u00f3n de correcci\u00f3n."
+    },
+    {
+      "question": "En la ecuaci\u00f3n del valor $N$ corregido, \u00bfqu\u00e9 representa la variable $f$?",
+      "answerOptions": [
+        {
+          "text": "Variables f\u00edsicas espec\u00edficas como longitud de barras, tipo de muestreador y di\u00e1metro de perforaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Cada factor $f$ ajusta el error introducido por las condiciones reales de la prueba en campo."
+        },
+        {
+          "text": "La frecuencia de los golpes por minuto durante el ensayo din\u00e1mico.",
+          "isCorrect": false,
+          "rationale": "La frecuencia no es un factor de suma en la normalizaci\u00f3n de la energ\u00eda por golpe."
+        },
+        {
+          "text": "La fuerza centr\u00edfuga generada por el malacate al soltar el peso.",
+          "isCorrect": false,
+          "rationale": "Los factores corrigen ineficiencias de transferencia de energ\u00eda potencial, no fuerzas centr\u00edfugas."
+        },
+        {
+          "text": "El factor de rentabilidad financiera del proyecto minero.",
+          "isCorrect": false,
+          "rationale": "Aunque los datos afectan las decisiones financieras, los factores $f$ son estrictamente par\u00e1metros f\u00edsicos de ingenier\u00eda."
+        }
+      ],
+      "hint": "Son los elementos que se suman en la f\u00f3rmula $N_{corr} = N_{campo} \\cdot (1 + \\sum f)$."
+    },
+    {
+      "question": "\u00bfQu\u00e9 m\u00e9todo geof\u00edsico es comparado con realizar una 'ecograf\u00eda a la Tierra'?",
+      "answerOptions": [
+        {
+          "text": "M\u00e9todos s\u00edsmicos y s\u00f3nicos.",
+          "isCorrect": true,
+          "rationale": "Utilizan el rebote de ondas el\u00e1sticas para detectar discontinuidades en las capas del subsuelo."
+        },
+        {
+          "text": "M\u00e9todos el\u00e9ctricos de resistividad.",
+          "isCorrect": false,
+          "rationale": "Estos detectan fluidos y cambios de roca, pero la analog\u00eda de la ecograf\u00eda se reserva para las ondas el\u00e1sticas."
+        },
+        {
+          "text": "Microgravimetr\u00eda.",
+          "isCorrect": false,
+          "rationale": "Este m\u00e9todo se enfoca en variaciones de densidad y detecci\u00f3n de vac\u00edos, no en el rebote de ondas."
+        },
+        {
+          "text": "Sondajes de diamante.",
+          "isCorrect": false,
+          "rationale": "El sondaje es un m\u00e9todo de perforaci\u00f3n f\u00edsica directa, no un m\u00e9todo geof\u00edsico no destructivo."
+        }
+      ],
+      "hint": "Piense en el m\u00e9todo que usa el rebote de ondas para ver estructuras internas."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se utiliza principalmente la microgravimetr\u00eda en la prospecci\u00f3n del subsuelo?",
+      "answerOptions": [
+        {
+          "text": "Detectar variaciones sutiles en la densidad para ubicar vac\u00edos o masas ocultas.",
+          "isCorrect": true,
+          "rationale": "Permite identificar anomal\u00edas que otros m\u00e9todos podr\u00edan pasar por alto bas\u00e1ndose en la gravedad local."
+        },
+        {
+          "text": "Medir la velocidad constante de empuje de un cono met\u00e1lico.",
+          "isCorrect": false,
+          "rationale": "Esa es una funci\u00f3n del ensayo CPT, un m\u00e9todo mec\u00e1nico y no geof\u00edsico de superficie."
+        },
+        {
+          "text": "Determinar la resistencia al corte en suelos extremadamente blandos.",
+          "isCorrect": false,
+          "rationale": "La resistencia al corte se obtiene mediante auscultaci\u00f3n mec\u00e1nica (como el CPTU), no mediante gravimetr\u00eda."
+        },
+        {
+          "text": "Calcular la p\u00e9rdida de energ\u00eda por fricci\u00f3n en el varillaje de perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esto se hace mediante c\u00e1lculos de normalizaci\u00f3n $N_{60}$ en ensayos de penetraci\u00f3n."
+        }
+      ],
+      "hint": "Relacione el nombre del m\u00e9todo con la propiedad f\u00edsica de la materia que estudia."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la limitaci\u00f3n cr\u00edtica de los m\u00e9todos de prospecci\u00f3n geof\u00edsica?",
+      "answerOptions": [
+        {
+          "text": "La interpretaci\u00f3n de los datos es subjetiva y requiere calibraci\u00f3n constante.",
+          "isCorrect": true,
+          "rationale": "Una anomal\u00eda puede tener m\u00faltiples causas (como agua o arcilla), por lo que no da un resultado \u00fanico."
+        },
+        {
+          "text": "Son extremadamente lentos y cubren \u00e1reas muy reducidas.",
+          "isCorrect": false,
+          "rationale": "Al contrario, una de sus ventajas es cubrir \u00e1reas gigantescas en tiempos r\u00e9cord."
+        },
+        {
+          "text": "Destruyen la estructura del suelo al emitir ondas de alta energ\u00eda.",
+          "isCorrect": false,
+          "rationale": "Se definen como m\u00e9todos no destructivos que permiten mapear sin alterar el terreno."
+        },
+        {
+          "text": "No pueden detectar estructuras a gran profundidad.",
+          "isCorrect": false,
+          "rationale": "Su capacidad para ver a profundidad es una de sus mayores fortalezas frente a los sondeos convencionales."
+        }
+      ],
+      "hint": "Considere por qu\u00e9 una misma se\u00f1al en el monitor podr\u00eda significar dos cosas distintas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n t\u00e9cnica dej\u00f3 el caso de la empresa minera Sijin?",
+      "answerOptions": [
+        {
+          "text": "Que la geof\u00edsica solo sugiere recursos potenciales; la perforaci\u00f3n f\u00edsica es la que confirma una reserva real.",
+          "isCorrect": true,
+          "rationale": "Anunciar hallazgos basados solo en geof\u00edsica se considera especulativo ante el rigor normativo."
+        },
+        {
+          "text": "Que los m\u00e9todos el\u00e9ctricos son superiores a los s\u00edsmicos para encontrar oro.",
+          "isCorrect": false,
+          "rationale": "El caso no trata de la superioridad de un m\u00e9todo sobre otro, sino de la necesidad de confirmaci\u00f3n f\u00edsica."
+        },
+        {
+          "text": "Que las empresas mineras ya no necesitan ingenieros cualificados para validar informes.",
+          "isCorrect": false,
+          "rationale": "El caso refuerza justamente la importancia del rigor t\u00e9cnico y la validaci\u00f3n experta."
+        },
+        {
+          "text": "Que el uso de la normalizaci\u00f3n $N_{60}$ es innecesario en la miner\u00eda de oro.",
+          "isCorrect": false,
+          "rationale": "La normalizaci\u00f3n sigue siendo fundamental para cualquier dise\u00f1o de ingenier\u00eda seguro y confiable."
+        }
+      ],
+      "hint": "Piense en la diferencia entre un 'mapa especulativo' y la 'roca f\u00edsica' en la mano."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la base de la seguridad operativa en la gesti\u00f3n geot\u00e9cnica moderna?",
+      "answerOptions": [
+        {
+          "text": "El uso de equipos estandarizados y la normalizaci\u00f3n obligatoria de la energ\u00eda.",
+          "isCorrect": true,
+          "rationale": "Esto garantiza que los datos sean auditables y los modelos de estabilidad sean realistas."
+        },
+        {
+          "text": "Priorizar la rapidez de la fase experimental sobre la precisi\u00f3n de los datos.",
+          "isCorrect": false,
+          "rationale": "La rapidez sin precisi\u00f3n lleva al estancamiento y al riesgo financiero catastr\u00f3fico."
+        },
+        {
+          "text": "Depender \u00fanicamente de los sistemas pioneros como Sammings y Aera.",
+          "isCorrect": false,
+          "rationale": "Esos sistemas tuvieron fallas de integraci\u00f3n; la seguridad moderna exige tecnolog\u00edas din\u00e1micas y certificadas."
+        },
+        {
+          "text": "Evitar el contacto f\u00edsico con el suelo mediante el uso exclusivo de telescopios.",
+          "isCorrect": false,
+          "rationale": "Es indispensable 'ensuciarse las botas' y realizar auscultaci\u00f3n in situ para capturar la resistencia real."
+        }
+      ],
+      "hint": "Piense en lo que permite que un informe de ingenier\u00eda sea aceptado a nivel mundial."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gesti\u00f3n de incertidumbre geot\u00e9cnica",
+      "Ensayos de penetraci\u00f3n din\u00e1mica (DPSH, DPL, SPT)",
+      "Ensayos de penetraci\u00f3n est\u00e1tica (CPT, CPTU)",
+      "Normalizaci\u00f3n y correcci\u00f3n de energ\u00eda $N_{60}$",
+      "Prospecci\u00f3n geof\u00edsica y validaci\u00f3n f\u00edsica"
+    ],
+    "followUp": [
+      "Est\u00e1ndares internacionales de reporte minero (NI 43-101 y JORC)",
+      "Mec\u00e1nica de suelos aplicada a la estabilidad de taludes",
+      "Tecnolog\u00edas de monitoreo din\u00e1mico en miner\u00eda de tajo abierto",
+      "C\u00e1lculo de capacidad portante mediante par\u00e1metros normalizados"
+    ]
+  }
+}

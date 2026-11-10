@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 concepto define el equilibrio entre generar beneficios econ\u00f3micos, preservar el ecosistema y garantizar el bienestar social en la industria extractiva?",
+      "answerOptions": [
+        {
+          "text": "Miner\u00eda sostenible",
+          "isCorrect": true,
+          "rationale": "Este t\u00e9rmino representa el paradigma actual donde la rentabilidad no se separa del cuidado ambiental y el compromiso social."
+        },
+        {
+          "text": "Gesti\u00f3n reactiva",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n reactiva se enfoca en solucionar problemas despu\u00e9s de que ocurren, lo cual es opuesto al equilibrio preventivo de la sostenibilidad."
+        },
+        {
+          "text": "Econom\u00eda circular minera",
+          "isCorrect": false,
+          "rationale": "Aunque es un concepto relacionado, se enfoca espec\u00edficamente en el flujo de materiales y no necesariamente en el bienestar social integral."
+        },
+        {
+          "text": "Productividad verde",
+          "isCorrect": false,
+          "rationale": "Es un t\u00e9rmino que prioriza la eficiencia ecol\u00f3gica en la producci\u00f3n, pero no abarca el marco legal y social completo del paradigma minero."
+        }
+      ],
+      "hint": "Se refiere a un modelo de desarrollo que busca la armon\u00eda entre tres pilares fundamentales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la Ley 28245 en el sistema normativo peruano?",
+      "answerOptions": [
+        {
+          "text": "Dictar reglas ambientales generales para toda la industria",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n corresponde a la Ley 28611, la cual establece las normas matrices del ordenamiento ambiental."
+        },
+        {
+          "text": "Organizar el sistema de gesti\u00f3n para que diferentes sectores trabajen coordinadamente",
+          "isCorrect": true,
+          "rationale": "La Ley Marco del Sistema Nacional de Gesti\u00f3n Ambiental busca la eficiencia estructural evitando la duplicidad de esfuerzos entre entidades estatales."
+        },
+        {
+          "text": "Garantizar el derecho constitucional a un ambiente equilibrado",
+          "isCorrect": false,
+          "rationale": "Este es un mandato supremo establecido directamente en la Constituci\u00f3n Pol\u00edtica, no en una ley de segundo nivel."
+        },
+        {
+          "text": "Fijar los l\u00edmites m\u00e1ximos permisibles de emisiones gaseosas",
+          "isCorrect": false,
+          "rationale": "La Ley 28245 es organizativa y estructural, no se encarga de detalles t\u00e9cnicos espec\u00edficos como los l\u00edmites de emisiones."
+        }
+      ],
+      "hint": "Piense en la coordinaci\u00f3n entre ministerios y sectores del Estado para evitar la burocracia innecesaria."
+    },
+    {
+      "question": "\u00bfQu\u00e9 organismo es el encargado de realizar la fiscalizaci\u00f3n directa en el campo para asegurar el cumplimiento de los compromisos ambientales?",
+      "answerOptions": [
+        {
+          "text": "ANA",
+          "isCorrect": false,
+          "rationale": "La Autoridad Nacional del Agua se encarga espec\u00edficamente de los recursos h\u00eddricos, no de la fiscalizaci\u00f3n ambiental integral."
+        },
+        {
+          "text": "OEFA",
+          "isCorrect": true,
+          "rationale": "El Organismo de Evaluaci\u00f3n y Fiscalizaci\u00f3n Ambiental act\u00faa como el vigilante que verifica el cumplimiento de los acuerdos ambientales en las operaciones."
+        },
+        {
+          "text": "MINEM",
+          "isCorrect": false,
+          "rationale": "El Ministerio de Energ\u00eda y Minas es el ente rector del sector, pero la fiscalizaci\u00f3n ambiental es una funci\u00f3n aut\u00f3noma de supervisi\u00f3n."
+        },
+        {
+          "text": "Defensor\u00eda del Pueblo",
+          "isCorrect": false,
+          "rationale": "Este organismo monitorea los conflictos sociales, pero no tiene funciones de supervisi\u00f3n t\u00e9cnica ambiental en las minas."
+        }
+      ],
+      "hint": "Sus siglas representan a la entidad que vigila y sanciona el incumplimiento de normas ecol\u00f3gicas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo primordial del Plan de Manejo Ambiental (PMA) en una operaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "Mitigaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La mitigaci\u00f3n busca reducir da\u00f1os ya existentes, mientras que el PMA se enfoca en evitar que estos ocurran desde el inicio."
+        },
+        {
+          "text": "Prevenci\u00f3n",
+          "isCorrect": true,
+          "rationale": "El PMA es una herramienta dise\u00f1ada para actuar antes de que una desviaci\u00f3n se convierta en un pasivo ambiental o desastre."
+        },
+        {
+          "text": "Compensaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La compensaci\u00f3n ocurre despu\u00e9s del impacto, como una forma de retribuci\u00f3n por da\u00f1os que no pudieron ser evitados."
+        },
+        {
+          "text": "Sanci\u00f3n",
+          "isCorrect": false,
+          "rationale": "El plan es una gu\u00eda operativa de trabajo, no un mecanismo de castigo por infracciones legales."
+        }
+      ],
+      "hint": "Considere la acci\u00f3n de adelantarse a los problemas para evitar que ocurran."
+    },
+    {
+      "question": "En ecosistemas de extremo estr\u00e9s h\u00eddrico, \u00bfpor qu\u00e9 es cr\u00edtico el monitoreo constante de los acu\u00edferos subterr\u00e1neos?",
+      "answerOptions": [
+        {
+          "text": "Porque un da\u00f1o al nivel fre\u00e1tico suele ser irreversible",
+          "isCorrect": true,
+          "rationale": "En zonas \u00e1ridas, la contaminaci\u00f3n o el agotamiento del agua subterr\u00e1nea tiene efectos permanentes que el ecosistema no puede recuperar por s\u00ed solo."
+        },
+        {
+          "text": "Para cumplir con la jerarqu\u00eda de la Constituci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Aunque es un deber legal, la raz\u00f3n t\u00e9cnica cr\u00edtica radica en la fragilidad f\u00edsica del recurso y su imposibilidad de regeneraci\u00f3n r\u00e1pida."
+        },
+        {
+          "text": "Debido a que el agua superficial es m\u00e1s valiosa",
+          "isCorrect": false,
+          "rationale": "Ambos recursos son valiosos, pero el agua subterr\u00e1nea es especialmente vulnerable a filtraciones invisibles de qu\u00edmicos."
+        },
+        {
+          "text": "Para reducir los costos operativos de la planta",
+          "isCorrect": false,
+          "rationale": "El monitoreo es una inversi\u00f3n en seguridad y sostenibilidad, no una medida directa de ahorro de costos operativos inmediatos."
+        }
+      ],
+      "hint": "Piense en la dificultad de limpiar el agua que se encuentra debajo de la tierra una vez contaminada."
+    },
+    {
+      "question": "\u00bfQu\u00e9 disposici\u00f3n estricta existe respecto a los materiales radiactivos en unidades de producci\u00f3n como Alpacay?",
+      "answerOptions": [
+        {
+          "text": "Uso permitido bajo supervisi\u00f3n del OEFA",
+          "isCorrect": false,
+          "rationale": "Incluso con supervisi\u00f3n, existen est\u00e1ndares de seguridad que imponen una prohibici\u00f3n total de estos materiales en ciertas instalaciones."
+        },
+        {
+          "text": "Almacenamiento exclusivo en zonas de exclusi\u00f3n",
+          "isCorrect": false,
+          "rationale": "Las zonas de exclusi\u00f3n son para proteger la biodiversidad, no para guardar materiales peligrosos de ese tipo."
+        },
+        {
+          "text": "Prohibici\u00f3n total de ingreso o manipulaci\u00f3n",
+          "isCorrect": true,
+          "rationale": "Los protocolos de seguridad minera moderna establecen cero tolerancia para la presencia de materiales radiactivos en sus operaciones est\u00e1ndar."
+        },
+        {
+          "text": "Etiquetado con c\u00f3digo de colores universal",
+          "isCorrect": false,
+          "rationale": "El c\u00f3digo de colores es para la segregaci\u00f3n de residuos s\u00f3lidos comunes y peligrosos, no para autorizar el uso de radiactivos."
+        }
+      ],
+      "hint": "Reflexione sobre la pol\u00edtica de 'tolerancia cero' frente a riesgos extremos."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la t\u00e9cnica de 'cierre progresivo' en la miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Detener la producci\u00f3n cuando el precio del mineral baja",
+          "isCorrect": false,
+          "rationale": "El cierre progresivo es una acci\u00f3n ambiental constante, no una decisi\u00f3n basada en la fluctuaci\u00f3n del mercado econ\u00f3mico."
+        },
+        {
+          "text": "Rehabilitar \u00e1reas utilizadas mientras se extrae mineral en sectores contiguos",
+          "isCorrect": true,
+          "rationale": "Esta l\u00f3gica revolucionaria evita la acumulaci\u00f3n de pasivos ambientales al sanear el terreno de forma simult\u00e1nea a la operaci\u00f3n."
+        },
+        {
+          "text": "Cerrar la mina permanentemente despu\u00e9s de d\u00e9cadas de uso",
+          "isCorrect": false,
+          "rationale": "Eso describe un cierre final; el cierre progresivo ocurre durante la vida \u00fatil de la operaci\u00f3n minera."
+        },
+        {
+          "text": "Limitar el acceso de la comunidad a las zonas de tajo abierto",
+          "isCorrect": false,
+          "rationale": "Esto es una medida de seguridad f\u00edsica perimetral, no tiene relaci\u00f3n con el concepto t\u00e9cnico de rehabilitaci\u00f3n de suelos."
+        }
+      ],
+      "hint": "Es una estrategia de 'rehabilitaci\u00f3n simult\u00e1nea' para no dejar la curaci\u00f3n del terreno para el final."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la naturaleza legal de la Responsabilidad Social Empresarial (RSE) en el Per\u00fa?",
+      "answerOptions": [
+        {
+          "text": "Es una obligaci\u00f3n tributaria adicional",
+          "isCorrect": false,
+          "rationale": "La RSE no es un impuesto, sino un modelo de gesti\u00f3n que va m\u00e1s all\u00e1 de las obligaciones fiscales."
+        },
+        {
+          "text": "Es un compromiso estrictamente voluntario",
+          "isCorrect": true,
+          "rationale": "A diferencia de las normas ambientales, no existe una ley r\u00edgida que obligue a las empresas a ejecutar RSE de una forma espec\u00edfica."
+        },
+        {
+          "text": "Es un mandato dictado por la Ley 28611",
+          "isCorrect": false,
+          "rationale": "La Ley 28611 se enfoca en aspectos ambientales y de salud, no en los compromisos voluntarios de responsabilidad social."
+        },
+        {
+          "text": "Es un requisito para obtener la concesi\u00f3n minera",
+          "isCorrect": false,
+          "rationale": "Aunque es vital para la viabilidad social, legalmente la concesi\u00f3n se otorga bajo requisitos t\u00e9cnicos y administrativos previos."
+        }
+      ],
+      "hint": "Recuerde que no hay una ley que obligue a ser socialmente responsable, sino que nace de la estrategia de la empresa."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es fundamental la norma ISO 26000 para una empresa minera de clase mundial?",
+      "answerOptions": [
+        {
+          "text": "Para gestionar las expectativas \u00e9ticas y ganar la licencia social",
+          "isCorrect": true,
+          "rationale": "Adoptar est\u00e1ndares internacionales ayuda a las empresas a formalizar su comportamiento \u00e9tico frente a la comunidad para asegurar su operatividad."
+        },
+        {
+          "text": "Para certificar que la mina no utiliza agua de los acu\u00edferos",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n h\u00eddrica se rige por otras normativas t\u00e9cnicas; la ISO 26000 trata sobre responsabilidad social y \u00e9tica."
+        },
+        {
+          "text": "Para cumplir con los est\u00e1ndares de ventilaci\u00f3n de t\u00faneles",
+          "isCorrect": false,
+          "rationale": "Los est\u00e1ndares de seguridad f\u00edsica y salud ocupacional est\u00e1n relacionados con normas como la ISO 45001, no con la 26000."
+        },
+        {
+          "text": "Para evitar el pago de canon y regal\u00edas mineras",
+          "isCorrect": false,
+          "rationale": "Ninguna norma ISO exime a una empresa de sus obligaciones legales financieras y tributarias con el Estado."
+        }
+      ],
+      "hint": "Este est\u00e1ndar internacional es una gu\u00eda sobre c\u00f3mo las organizaciones deben interactuar con la sociedad."
+    },
+    {
+      "question": "En la cosmovisi\u00f3n andina, \u00bfqu\u00e9 representan los 'Apus'?",
+      "answerOptions": [
+        {
+          "text": "Sistemas de riego ancestrales",
+          "isCorrect": false,
+          "rationale": "Los sistemas de riego son infraestructuras f\u00edsicas; los Apus pertenecen al \u00e1mbito de las deidades y la espiritualidad."
+        },
+        {
+          "text": "Entidades sagradas identificadas con los cerros",
+          "isCorrect": true,
+          "rationale": "Para las naciones quechua y aimara, las monta\u00f1as no son solo rocas, sino protectores espirituales que exigen respeto."
+        },
+        {
+          "text": "L\u00edderes pol\u00edticos de las comunidades",
+          "isCorrect": false,
+          "rationale": "Los l\u00edderes humanos tienen otros nombres; los Apus son entidades de la naturaleza con car\u00e1cter sagrado."
+        },
+        {
+          "text": "Minerales de alto valor espiritual",
+          "isCorrect": false,
+          "rationale": "Aunque la tierra es sagrada (Pachamama), el t\u00e9rmino Apu se reserva espec\u00edficamente para las monta\u00f1as o elevaciones geogr\u00e1ficas."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n espiritual que los pobladores de los Andes tienen con las monta\u00f1as que los rodean."
+    },
+    {
+      "question": "\u00bfQu\u00e9 barrera ling\u00fc\u00edstica espec\u00edfica se identifica como una causa de malentendidos t\u00e9cnicos entre mineros y comunidades quechuahablantes?",
+      "answerOptions": [
+        {
+          "text": "La inexistencia de t\u00e9rminos para 'maquinaria'",
+          "isCorrect": false,
+          "rationale": "El problema no es el vocabulario tecnol\u00f3gico, sino una diferencia fon\u00e9tica estructural en el habla."
+        },
+        {
+          "text": "La ausencia fon\u00e9tica de la letra 'i' en ciertas variantes",
+          "isCorrect": true,
+          "rationale": "Esta particularidad fon\u00e9tica al cruzar el quechua con el espa\u00f1ol genera confusiones directas en instrucciones de seguridad y acuerdos."
+        },
+        {
+          "text": "El uso exclusivo de jerogl\u00edficos en los contratos",
+          "isCorrect": false,
+          "rationale": "Las comunidades quechua y aimara tienen lenguas orales y escritas modernas, no utilizan sistemas de jerogl\u00edficos."
+        },
+        {
+          "text": "La prohibici\u00f3n de hablar espa\u00f1ol en zonas sagradas",
+          "isCorrect": false,
+          "rationale": "No existe tal prohibici\u00f3n; el problema es de decodificaci\u00f3n y entendimiento mutuo, no de restricciones de uso."
+        }
+      ],
+      "hint": "Piense en una curiosidad del sonido de las vocales que afecta la claridad de las instrucciones."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afecta la creencia en el 'Muki' o 'Chinchilico' la seguridad operativa en el subsuelo?",
+      "answerOptions": [
+        {
+          "text": "Aumenta la velocidad de extracci\u00f3n del mineral",
+          "isCorrect": false,
+          "rationale": "La creencia influye en el estado psicol\u00f3gico de los trabajadores, no en la capacidad mec\u00e1nica de extracci\u00f3n."
+        },
+        {
+          "text": "Impacta en la moral y la percepci\u00f3n de riesgo de la cuadrilla",
+          "isCorrect": true,
+          "rationale": "Si no se respetan rituales como el 'pago a la tierra', los mineros pueden sentirse desprotegidos y su sensaci\u00f3n de seguridad disminuye."
+        },
+        {
+          "text": "Obliga a la empresa a usar sensores de movimiento especiales",
+          "isCorrect": false,
+          "rationale": "El Muki es una entidad m\u00edtica; la seguridad t\u00e9cnica usa sensores para riesgos reales como gases o sismos."
+        },
+        {
+          "text": "Genera cortocircuitos el\u00e9ctricos inexplicables",
+          "isCorrect": false,
+          "rationale": "Los incidentes el\u00e9ctricos tienen causas t\u00e9cnicas demostrables, como falta de mantenimiento o materiales inadecuados."
+        }
+      ],
+      "hint": "Reflexione sobre c\u00f3mo las tradiciones influyen en el bienestar emocional y la confianza de los mineros."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la herramienta legal dise\u00f1ada para fomentar el di\u00e1logo intercultural antes de iniciar un proyecto minero?",
+      "answerOptions": [
+        {
+          "text": "Mediaci\u00f3n forzosa",
+          "isCorrect": false,
+          "rationale": "La mediaci\u00f3n suele ocurrir cuando ya hay un conflicto; la herramienta previa busca evitar que este se genere."
+        },
+        {
+          "text": "Consulta previa",
+          "isCorrect": true,
+          "rationale": "Este mecanismo busca que el Estado y los pueblos originarios conversen y lleguen a acuerdos antes de cualquier intervenci\u00f3n en el territorio."
+        },
+        {
+          "text": "Arbitraje internacional",
+          "isCorrect": false,
+          "rationale": "El arbitraje se utiliza para resolver disputas contractuales o legales complejas, no para el di\u00e1logo social inicial."
+        },
+        {
+          "text": "Declaraci\u00f3n de impacto ambiental",
+          "isCorrect": false,
+          "rationale": "Aunque es un documento t\u00e9cnico necesario, no es la herramienta espec\u00edficamente dise\u00f1ada para el di\u00e1logo intercultural."
+        }
+      ],
+      "hint": "Es un proceso que ocurre 'antes de que entre la primera m\u00e1quina'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 combinaci\u00f3n de factores provoc\u00f3 la tragedia en la mina Esperanza en 2023?",
+      "answerOptions": [
+        {
+          "text": "Inundaci\u00f3n por falla en el sistema de bombeo",
+          "isCorrect": false,
+          "rationale": "La causa de la muerte de los 27 trabajadores fue asfixia por incendio, no ahogamiento por inundaci\u00f3n."
+        },
+        {
+          "text": "Cortocircuito el\u00e9ctrico, soportes de madera y ventilaci\u00f3n deficiente",
+          "isCorrect": true,
+          "rationale": "La mezcla de una chispa el\u00e9ctrica con madera combustible y la falta de aire renovado cre\u00f3 una trampa mortal de fuego y gases."
+        },
+        {
+          "text": "Derrumbe masivo por sismo de gran magnitud",
+          "isCorrect": false,
+          "rationale": "Aunque los derrumbes son riesgos mineros, este desastre espec\u00edfico fue causado por un incendio interno."
+        },
+        {
+          "text": "Explosi\u00f3n accidental de dinamita mal almacenada",
+          "isCorrect": false,
+          "rationale": "El peritaje t\u00e9cnico identific\u00f3 el origen en el sistema el\u00e9ctrico y no en el uso de explosivos de voladura."
+        }
+      ],
+      "hint": "Considere la tr\u00edada de: una fuente de ignici\u00f3n, combustible en la estructura y falta de aire fresco."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00eda utiliza la unidad San Rafael para reducir el uso de qu\u00edmicos peligrosos?",
+      "answerOptions": [
+        {
+          "text": "Lixiviaci\u00f3n bacteriana",
+          "isCorrect": false,
+          "rationale": "La lixiviaci\u00f3n utiliza agentes biol\u00f3gicos para extraer mineral, pero San Rafael destaca por el uso de clasificaci\u00f3n f\u00edsica avanzada."
+        },
+        {
+          "text": "X-ray Sorter",
+          "isCorrect": true,
+          "rationale": "Esta tecnolog\u00eda clasifica el mineral mediante rayos X, lo que permite separar el material valioso sin recurrir a procesos qu\u00edmicos intensivos."
+        },
+        {
+          "text": "Mine Spider (Blockchain)",
+          "isCorrect": false,
+          "rationale": "El Mine Spider se usa para la trazabilidad y transparencia \u00e9tica, no para la separaci\u00f3n f\u00edsica del mineral."
+        },
+        {
+          "text": "Dewatering autom\u00e1tico",
+          "isCorrect": false,
+          "rationale": "El dewatering se encarga de la gesti\u00f3n del agua subterr\u00e1nea para mantener t\u00faneles secos, no de la reducci\u00f3n de qu\u00edmicos."
+        }
+      ],
+      "hint": "Se trata de un sistema de clasificaci\u00f3n que 've' a trav\u00e9s del mineral usando radiaci\u00f3n controlada."
+    },
+    {
+      "question": "\u00bfC\u00f3mo contribuye la tecnolog\u00eda Blockchain (Mine Spider) a la miner\u00eda moderna?",
+      "answerOptions": [
+        {
+          "text": "Generando energ\u00eda el\u00e9ctrica a partir de criptomonedas",
+          "isCorrect": false,
+          "rationale": "El blockchain es un sistema de registro de datos, no una fuente de generaci\u00f3n de energ\u00eda f\u00edsica."
+        },
+        {
+          "text": "Asegurando una trazabilidad perfecta para certificar mineral responsable",
+          "isCorrect": true,
+          "rationale": "Esta herramienta digital permite verificar que cada gramo de mineral ha sido producido bajo est\u00e1ndares \u00e9ticos y legales."
+        },
+        {
+          "text": "Detectando grietas en la estructura de los t\u00faneles",
+          "isCorrect": false,
+          "rationale": "La detecci\u00f3n de grietas se realiza con sensores geot\u00e9cnicos, no con sistemas de registro de datos en cadena."
+        },
+        {
+          "text": "Automatizando el pago de planillas de los trabajadores",
+          "isCorrect": false,
+          "rationale": "Aunque es posible, su uso estrat\u00e9gico en miner\u00eda se enfoca en la transparencia de la cadena de suministro del producto."
+        }
+      ],
+      "hint": "Piense en la 'huella digital' que sigue al mineral desde la mina hasta el comprador final."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue el detonante de la crisis social en el corredor vial del caso Las Bambas?",
+      "answerOptions": [
+        {
+          "text": "La falta de construcci\u00f3n de un hospital local",
+          "isCorrect": false,
+          "rationale": "Aunque hay demandas sociales, el conflicto espec\u00edfico del corredor vial se centr\u00f3 en el impacto del transporte."
+        },
+        {
+          "text": "La reclasificaci\u00f3n de caminos rurales como rutas nacionales",
+          "isCorrect": true,
+          "rationale": "Esta decisi\u00f3n gubernamental permiti\u00f3 el tr\u00e1nsito masivo de camiones pesados, generando polvo, ruido y contaminaci\u00f3n en las comunidades."
+        },
+        {
+          "text": "El derrame de mercurio durante el transporte",
+          "isCorrect": false,
+          "rationale": "El derrame de mercurio es un evento hist\u00f3rico asociado al caso de Choropampa, no a Las Bambas."
+        },
+        {
+          "text": "La negativa de la empresa a contratar personal biling\u00fce",
+          "isCorrect": false,
+          "rationale": "La comunicaci\u00f3n es un desaf\u00edo, pero el detonante de la crisis del corredor fue un cambio en el estatus legal de las v\u00edas."
+        }
+      ],
+      "hint": "Reflexione sobre un cambio administrativo que convirti\u00f3 senderos tranquilos en carreteras para camiones gigantes."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n fundamental dej\u00f3 el desastre ambiental de Choropampa en el a\u00f1o 2000?",
+      "answerOptions": [
+        {
+          "text": "Que la miner\u00eda subterr\u00e1nea es m\u00e1s peligrosa que la de tajo abierto",
+          "isCorrect": false,
+          "rationale": "Choropampa fue un accidente de transporte log\u00edstico, no un problema espec\u00edfico del m\u00e9todo de extracci\u00f3n."
+        },
+        {
+          "text": "Que el margen de error log\u00edstico en transporte de materiales peligrosos debe ser cero",
+          "isCorrect": true,
+          "rationale": "El derrame de mercurio demostr\u00f3 que un error en el traslado puede causar pesadillas de salud p\u00fablica por d\u00e9cadas."
+        },
+        {
+          "text": "Que el uso de madera en minas debe ser prohibido",
+          "isCorrect": false,
+          "rationale": "El peligro de la madera se evidenci\u00f3 en el incendio de la mina Esperanza, no en el derrame de Choropampa."
+        },
+        {
+          "text": "Que las cooperativas de trabajadores gestionan mejor los riesgos",
+          "isCorrect": false,
+          "rationale": "El modelo de cooperativa es un experimento actual en La Oroya, no una lecci\u00f3n del accidente de Choropampa."
+        }
+      ],
+      "hint": "Piense en los riesgos que implica mover sustancias t\u00f3xicas a trav\u00e9s de centros poblados."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica distintiva del reinicio de operaciones en el complejo metal\u00fargico de La Oroya en 2023?",
+      "answerOptions": [
+        {
+          "text": "El uso exclusivo de energ\u00eda solar para la fundici\u00f3n",
+          "isCorrect": false,
+          "rationale": "Aunque se buscan mejoras, el cambio principal en La Oroya es el modelo de propiedad y gesti\u00f3n, no solo la fuente energ\u00e9tica."
+        },
+        {
+          "text": "La gesti\u00f3n bajo una cooperativa formada por los propios trabajadores",
+          "isCorrect": true,
+          "rationale": "Este hito representa un cambio de modelo donde quienes operan la planta son tambi\u00e9n sus gestores directos."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de todas las chimeneas de la planta",
+          "isCorrect": false,
+          "rationale": "Las operaciones metal\u00fargicas requieren infraestructura de emisi\u00f3n, aunque ahora deben cumplir est\u00e1ndares ambientales mucho m\u00e1s estrictos."
+        },
+        {
+          "text": "El traslado de la planta a una zona des\u00e9rtica sin poblaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La planta se mantiene en su ubicaci\u00f3n hist\u00f3rica, tratando de equilibrar la econom\u00eda local con la salud p\u00fablica."
+        }
+      ],
+      "hint": "Se trata de un cambio en qui\u00e9n tiene el control y la responsabilidad de la administraci\u00f3n de la empresa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la 'piedra angular' que sostiene legalmente la operatividad minera en el Per\u00fa?",
+      "answerOptions": [
+        {
+          "text": "La inversi\u00f3n extranjera directa",
+          "isCorrect": false,
+          "rationale": "La inversi\u00f3n es un motor econ\u00f3mico, pero la base que sostiene y regula la actividad es el marco jur\u00eddico."
+        },
+        {
+          "text": "Un marco jur\u00eddico riguroso que equilibra el inter\u00e9s p\u00fablico y privado",
+          "isCorrect": true,
+          "rationale": "La ley act\u00faa como el garante que asegura que la viabilidad operativa camine de la mano con la sostenibilidad."
+        },
+        {
+          "text": "El precio internacional de los metales",
+          "isCorrect": false,
+          "rationale": "El mercado dicta la rentabilidad financiera, pero no la estructura legal ni la validez operativa de una mina."
+        },
+        {
+          "text": "La cantidad de reservas probadas en el subsuelo",
+          "isCorrect": false,
+          "rationale": "Los recursos naturales son el objeto de la miner\u00eda, pero su explotaci\u00f3n solo es posible dentro de un andamiaje normativo."
+        }
+      ],
+      "hint": "Imagine una balanza dise\u00f1ada meticulosamente por el Estado para proteger a dos gigantes."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Marco Legal de la Miner\u00eda en Per\u00fa",
+      "Gesti\u00f3n Ambiental y Desarrollo Sostenible",
+      "Responsabilidad Social y Cosmovisi\u00f3n Andina",
+      "Seguridad Operativa y Prevenci\u00f3n de Riesgos",
+      "Tecnolog\u00edas Modernas en Miner\u00eda"
+    ],
+    "followUp": [
+      "Procedimientos de Consulta Previa en Pueblos Originarios",
+      "Normas ISO aplicadas a la Industria Extractiva",
+      "An\u00e1lisis de Fallas en Desastres Mineros Hist\u00f3ricos",
+      "Econom\u00eda Social de Mercado y Recursos Naturales",
+      "Sistemas de Gesti\u00f3n de Residuos S\u00f3lidos Industriales"
+    ]
+  }
+}

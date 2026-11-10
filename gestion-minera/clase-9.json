@@ -1,0 +1,540 @@
+
+{
+  "quiz": [
+    {
+      "question": "¿Cuál es la función principal de un modelo financiero en la industria minera actual?",
+      "answerOptions": [
+        {
+          "text": "Servir como una herramienta dinámica para transformar la incertidumbre técnica en decisiones de inversión.",
+          "isCorrect": true,
+          "rationale": "El modelo actúa como un puente estratégico que permite gestionar la volatilidad del mercado y validar la viabilidad técnica mediante términos financieros."
+        },
+        {
+          "text": "Funcionar como un registro contable estático de los gastos pasados de la operación.",
+          "isCorrect": false,
+          "rationale": "La gestión moderna requiere proyecciones dinámicas y no solo una revisión histórica de la contabilidad."
+        },
+        {
+          "text": "Sustituir por completo el diseño técnico del tajo mediante algoritmos matemáticos.",
+          "isCorrect": false,
+          "rationale": "El diseño técnico y la rentabilidad financiera son dependientes entre sí, no se sustituyen el uno al otro."
+        },
+        {
+          "text": "Garantizar que los precios de los metales se mantengan estables en las bolsas internacionales.",
+          "isCorrect": false,
+          "rationale": "Los precios de mercado son variables exógenas que ninguna empresa minera puede controlar o estabilizar por sí misma."
+        }
+      ],
+      "hint": "Considere el modelo como un conector entre la realidad del campo y el valor corporativo."
+    },
+    {
+      "question": "En la evaluación de proyectos mineros, ¿por qué se podría rechazar un proyecto con un Valor Actual Neto ($VAN$) positivo pero marginal?",
+      "answerOptions": [
+        {
+          "text": "Debido a que el premio por el riesgo debe ser proporcional a la volatilidad y los altos costos operativos del sector.",
+          "isCorrect": true,
+          "rationale": "Un margen pequeño no es suficiente para cubrir imprevistos en una industria que demanda capital intensivo y mano de obra costosa."
+        },
+        {
+          "text": "Porque las reglas académicas prohíben aceptar cualquier proyecto con un $VAN$ inferior a $1$ millón de dólares.",
+          "isCorrect": false,
+          "rationale": "Académicamente, cualquier valor mayor a cero suma valor; el rechazo en la práctica se debe a la gestión de riesgos reales."
+        },
+        {
+          "text": "Debido a que un $VAN$ positivo siempre indica que la tasa de descuento utilizada fue demasiado baja.",
+          "isCorrect": false,
+          "rationale": "El valor del $VAN$ es un resultado del flujo y la tasa, no necesariamente una prueba de que la tasa sea incorrecta."
+        },
+        {
+          "text": "Porque los inversionistas prefieren proyectos con flujos de caja negativos durante toda la vida útil de la mina.",
+          "isCorrect": false,
+          "rationale": "Los inversionistas buscan rentabilidad y flujos positivos, no pérdidas prolongadas sin retorno."
+        }
+      ],
+      "hint": "Piense en la relación entre el margen de ganancia y la capacidad de absorber imprevistos en la operación."
+    },
+    {
+      "question": "¿Qué suele indicar una Tasa Interna de Retorno ($TIR$) superior al $70\\%$ en un proyecto minero?",
+      "answerOptions": [
+        {
+          "text": "Una señal de alerta sobre inestabilidad, vida útil corta o un cálculo deficiente del riesgo geológico.",
+          "isCorrect": true,
+          "rationale": "Cifras extremadamente altas en minería a menudo delatan modelos poco realistas o riesgos subyacentes no mitigados."
+        },
+        {
+          "text": "Un éxito absoluto que garantiza la aprobación inmediata por parte del directorio.",
+          "isCorrect": false,
+          "rationale": "Aunque en retail sería un éxito, en minería un número tan elevado es visto con sospecha por la naturaleza del activo."
+        },
+        {
+          "text": "Que la inversión inicial requerida es prácticamente nula en comparación con los beneficios.",
+          "isCorrect": false,
+          "rationale": "La minería siempre requiere inversiones masivas; una $TIR$ alta no implica falta de inversión sino una relación desproporcionada en el modelo."
+        },
+        {
+          "text": "Que el proyecto ha logrado eliminar por completo la volatilidad del mercado de divisas.",
+          "isCorrect": false,
+          "rationale": "Ninguna métrica interna puede eliminar los riesgos externos del mercado global."
+        }
+      ],
+      "hint": "En minería, lo que parece 'demasiado bueno para ser verdad' suele esconder deficiencias de cálculo."
+    },
+    {
+      "question": "¿Cuál es la principal razón para exigir un periodo de recuperación ($payback$) rápido en la minería?",
+      "answerOptions": [
+        {
+          "text": "Financiar la renovación constante de las costosas flotas de maquinaria pesada.",
+          "isCorrect": true,
+          "rationale": "La liquidez rápida es vital para reinvertir en activos que sufren un desgaste severo y requieren recambios frecuentes."
+        },
+        {
+          "text": "Evitar el pago de salarios a los trabajadores durante los primeros años del proyecto.",
+          "isCorrect": false,
+          "rationale": "Los salarios son parte del $OPEX$ y deben pagarse desde el inicio de la operación."
+        },
+        {
+          "text": "Reducir la profundidad de los túneles para que la extracción sea más sencilla.",
+          "isCorrect": false,
+          "rationale": "El $payback$ es una métrica temporal y financiera, no un factor que modifique directamente el diseño geológico."
+        },
+        {
+          "text": "Cumplir con las normativas internacionales que prohíben deudas de más de cinco años.",
+          "isCorrect": false,
+          "rationale": "No existe tal prohibición normativa; el $payback$ es una decisión estratégica de eficiencia y riesgo."
+        }
+      ],
+      "hint": "Piense en la necesidad de mantener operativa la infraestructura móvil de la mina."
+    },
+    {
+      "question": "Dentro de la clasificación financiera, ¿cuál de los siguientes se considera un ejemplo de $CAPEX$?",
+      "answerOptions": [
+        {
+          "text": "La construcción de una represa de relaves o una planta de beneficio.",
+          "isCorrect": true,
+          "rationale": "El $CAPEX$ incluye inversiones masivas en activos fijos e infraestructura de larga duración."
+        },
+        {
+          "text": "El suministro mensual de explosivos y reactivos químicos para la planta.",
+          "isCorrect": false,
+          "rationale": "Estos son consumibles recurrentes que se clasifican como gastos operativos ($OPEX$)."
+        },
+        {
+          "text": "Los servicios de alimentación y transporte para el personal en terreno.",
+          "isCorrect": false,
+          "rationale": "Los servicios de apoyo diario son costos operativos necesarios para la continuidad del negocio."
+        },
+        {
+          "text": "El pago de la factura eléctrica por el funcionamiento de las fajas transportadoras.",
+          "isCorrect": false,
+          "rationale": "La energía es un gasto recurrente esencial para la operación diaria, por lo tanto es $OPEX$."
+        }
+      ],
+      "hint": "Identifique las inversiones que permanecen inmovilizadas en la operación a largo plazo."
+    },
+    {
+      "question": "¿Cuál es la ventaja fiscal de clasificar correctamente un egreso como $OPEX$ en lugar de $CAPEX$?",
+      "answerOptions": [
+        {
+          "text": "El $OPEX$ puede deducirse de impuestos en el mismo año fiscal en que se realiza el gasto.",
+          "isCorrect": true,
+          "rationale": "Esto genera un beneficio de caja inmediato (escudo fiscal) al reducir la base imponible del ejercicio corriente."
+        },
+        {
+          "text": "El $OPEX$ permite que el activo se deprecie a lo largo de diez años naturales.",
+          "isCorrect": false,
+          "rationale": "La depreciación es característica de los activos capitalizados ($CAPEX$), no de los gastos operativos."
+        },
+        {
+          "text": "Clasificar como $OPEX$ garantiza que el precio del mineral suba en la bolsa.",
+          "isCorrect": false,
+          "rationale": "La clasificación interna de costos no tiene impacto en los precios de los mercados internacionales."
+        },
+        {
+          "text": "El $OPEX$ no requiere ser registrado en los libros contables de la empresa.",
+          "isCorrect": false,
+          "rationale": "Todos los gastos deben registrarse; la diferencia radica en su tratamiento tributario y temporal."
+        }
+      ],
+      "hint": "Considere la rapidez con la que se puede recuperar el valor del gasto frente a las autoridades tributarias."
+    },
+    {
+      "question": "¿Cómo se mide técnicamente el desgaste y la vida útil del equipo pesado en una operación minera de alto rendimiento?",
+      "answerOptions": [
+        {
+          "text": "Mediante el uso de orómetros que registran las horas exactas de trabajo del motor.",
+          "isCorrect": true,
+          "rationale": "En la mina, el desgaste real depende de la intensidad del uso y no del paso del tiempo calendario."
+        },
+        {
+          "text": "Siguiendo estrictamente el calendario anual de la oficina de contabilidad.",
+          "isCorrect": false,
+          "rationale": "La contabilidad tradicional de 10 años suele ser insuficiente ante el castigo físico que reciben las máquinas."
+        },
+        {
+          "text": "Calculando el millaje recorrido únicamente en carreteras pavimentadas.",
+          "isCorrect": false,
+          "rationale": "Las máquinas mineras operan en condiciones extremas y fuera de carretera, donde el millaje convencional no aplica."
+        },
+        {
+          "text": "Esperando a que la máquina falle por completo para determinar su fin de ciclo.",
+          "isCorrect": false,
+          "rationale": "La gestión profesional utiliza mantenimiento predictivo y orómetros para evitar fallas que detengan la producción."
+        }
+      ],
+      "hint": "Piense en el instrumento que mide la actividad del motor más allá de los días transcurridos."
+    },
+    {
+      "question": "En el caso de camionetas $4 \\times 4$ operando en alta montaña, ¿por qué se recomienda su renovación cada 2 años?",
+      "answerOptions": [
+        {
+          "text": "Porque el impacto estructural de un año en la mina equivale a casi una década de uso urbano.",
+          "isCorrect": true,
+          "rationale": "La severidad del terreno y las condiciones climáticas aceleran el deterioro físico, comprometiendo la seguridad."
+        },
+        {
+          "text": "Debido a una estrategia de marketing de las empresas automotrices locales.",
+          "isCorrect": false,
+          "rationale": "La decisión es técnica y financiera, basada en la continuidad operativa y seguridad, no en promociones comerciales."
+        },
+        {
+          "text": "Porque los contratos mineros exigen que todos los vehículos tengan siempre pintura nueva.",
+          "isCorrect": false,
+          "rationale": "La estética es secundaria frente a la integridad mecánica y estructural del vehículo en zonas de riesgo."
+        },
+        {
+          "text": "Para evitar que el valor de reventa en el mercado de lujo disminuya demasiado.",
+          "isCorrect": false,
+          "rationale": "Las camionetas de trabajo minero no se consideran vehículos de lujo y su renovación se debe a su vida útil técnica agotada."
+        }
+      ],
+      "hint": "Compare el desgaste acumulado en entornos extremos frente a los entornos de ciudad."
+    },
+    {
+      "question": "¿Cuáles son los tres pilares que componen la tríada técnica para la previsión de ingresos en minería?",
+      "answerOptions": [
+        {
+          "text": "Ley del mineral, capacidad de recuperación metalúrgica y precio de mercado.",
+          "isCorrect": true,
+          "rationale": "Estos tres factores determinan cuánto metal se extrae, qué tan eficiente es el proceso y a cuánto se puede vender."
+        },
+        {
+          "text": "Número de empleados, profundidad del tajo y costo del combustible.",
+          "isCorrect": false,
+          "rationale": "Estos son factores de costo y diseño, pero no definen directamente el flujo de ingresos bruto."
+        },
+        {
+          "text": "Distancia a la ciudad, clima regional y tipo de moneda local.",
+          "isCorrect": false,
+          "rationale": "Aunque influyen en la logística, no son los pilares fundamentales que determinan la generación de ingresos por metal."
+        },
+        {
+          "text": "Cantidad de camiones, metros de túneles y horas de mantenimiento.",
+          "isCorrect": false,
+          "rationale": "Estos elementos pertenecen a la gestión operativa y de capital, no a la tríada técnica de ingresos."
+        }
+      ],
+      "hint": "Enfoque su respuesta en la calidad del yacimiento, la eficiencia de la planta y la bolsa de valores."
+    },
+    {
+      "question": "¿Qué característica define al 'precio de mercado' dentro del modelo financiero de una mina?",
+      "answerOptions": [
+        {
+          "text": "Es una variable exógena dictada por las bolsas de valores internacionales.",
+          "isCorrect": true,
+          "rationale": "El precio es un factor externo que la operación minera no puede controlar y debe aceptar según el mercado global."
+        },
+        {
+          "text": "Es un valor que la gerencia de la mina establece cada mañana según sus costos.",
+          "isCorrect": false,
+          "rationale": "Las mineras son tomadoras de precios; no pueden fijar el precio del metal basándose en sus costos internos."
+        },
+        {
+          "text": "Es un costo fijo que se mantiene constante durante los 20 años de vida de la mina.",
+          "isCorrect": false,
+          "rationale": "Los precios de los metales son altamente volátiles y fluctúan constantemente en el tiempo."
+        },
+        {
+          "text": "Depende exclusivamente de la cantidad de metros perforados por la empresa.",
+          "isCorrect": false,
+          "rationale": "La producción propia puede afectar el volumen de ventas, pero no el precio unitario fijado por el mercado internacional."
+        }
+      ],
+      "hint": "Considere si el precio es algo que se decide dentro o fuera de la empresa."
+    },
+    {
+      "question": "¿En qué rango de eficiencia debe mantenerse habitualmente la capacidad de recuperación metalúrgica?",
+      "answerOptions": [
+        {
+          "text": "Entre un $95\\%$ y un $99\\%$.",
+          "isCorrect": true,
+          "rationale": "Este rango de eficiencia asegura que se aproveche al máximo el mineral procesado para que la operación sea rentable."
+        },
+        {
+          "text": "Entre un $10\\%$ y un $25\\%$.",
+          "isCorrect": false,
+          "rationale": "Un nivel de recuperación tan bajo haría que la mayoría del metal se pierda en los relaves, destruyendo la viabilidad financiera."
+        },
+        {
+          "text": "A un nivel constante del $100\\%$ sin excepciones.",
+          "isCorrect": false,
+          "rationale": "La recuperación total es físicamente imposible debido a las limitaciones de los procesos metalúrgicos reales."
+        },
+        {
+          "text": "Exactamente en el $50\\%$ para balancear costos y beneficios.",
+          "isCorrect": false,
+          "rationale": "El $50\\%$ de pérdida de valor metálico es inaceptable en estándares industriales modernos."
+        }
+      ],
+      "hint": "Piense en un rango de eficiencia muy alto, cercano a la perfección técnica."
+    },
+    {
+      "question": "¿Por qué la precisión en la longitud y número de taladros de perforación es crítica para el presupuesto?",
+      "answerOptions": [
+        {
+          "text": "Porque cualquier desviación impacta directamente en el volumen de roca movido y en el costo por tonelada.",
+          "isCorrect": true,
+          "rationale": "Los metros perforados son el gatillo financiero; errores métricos pequeños causan desviaciones millonarias en el gasto."
+        },
+        {
+          "text": "Para asegurar que los sensores inteligentes no se llenen de polvo durante la operación.",
+          "isCorrect": false,
+          "rationale": "Si bien el polvo afecta sensores, la razón crítica financiera es el control del volumen de extracción y el gasto asociado."
+        },
+        {
+          "text": "Porque permite reducir el número de ingenieros necesarios en el tajo.",
+          "isCorrect": false,
+          "rationale": "La precisión requiere mayor supervisión técnica, no necesariamente menos personal."
+        },
+        {
+          "text": "Para garantizar que el mineral extraído siempre sea de color brillante.",
+          "isCorrect": false,
+          "rationale": "La apariencia visual del mineral no tiene relación con la precisión técnica de la malla de perforación."
+        }
+      ],
+      "hint": "Relacione la actividad física de perforar con el cálculo del costo operativo por masa de material."
+    },
+    {
+      "question": "¿Cuál es el rol estratégico de un economista en la gestión de un proyecto minero?",
+      "answerOptions": [
+        {
+          "text": "Interpretar tendencias bursátiles y ejecutar mecanismos como el factoring para proveer liquidez.",
+          "isCorrect": true,
+          "rationale": "El economista aporta una visión panorámica necesaria para financiar el $CAPEX$ y manejar el riesgo financiero."
+        },
+        {
+          "text": "Diseñar los planos de los túneles y las estructuras de las plantas de beneficio.",
+          "isCorrect": false,
+          "rationale": "El diseño de infraestructura es una responsabilidad técnica de los ingenieros, no de los economistas."
+        },
+        {
+          "text": "Operar las perforadoras hidráulicas para asegurar el cumplimiento de metas.",
+          "isCorrect": false,
+          "rationale": "El economista se encarga de la gestión financiera y estratégica, no de la operación de maquinaria pesada."
+        },
+        {
+          "text": "Garantizar que no existan comunidades indígenas en las cercanías del yacimiento.",
+          "isCorrect": false,
+          "rationale": "La ubicación del yacimiento es geológica; el economista gestiona las implicaciones de los riesgos sociales, no la ubicación."
+        }
+      ],
+      "hint": "Busque la función relacionada con la obtención de oxígeno financiero (flujo de dinero) y análisis externo."
+    },
+    {
+      "question": "¿Cómo pueden los riesgos sociales afectar la rentabilidad de una mina?",
+      "answerOptions": [
+        {
+          "text": "Tienen el potencial de paralizar operaciones y convertir un $VAN$ positivo en una pérdida total.",
+          "isCorrect": true,
+          "rationale": "Las disputas territoriales pueden detener la producción súbitamente, destruyendo el valor proyectado del negocio."
+        },
+        {
+          "text": "Aumentando automáticamente la ley del mineral en las zonas en disputa.",
+          "isCorrect": false,
+          "rationale": "Los conflictos sociales no tienen ninguna influencia en la concentración geológica del metal."
+        },
+        {
+          "text": "Reduciendo el costo del transporte de personal hacia la mina.",
+          "isCorrect": false,
+          "rationale": "Los conflictos sociales suelen aumentar los costos logísticos debido a bloqueos o medidas de seguridad adicionales."
+        },
+        {
+          "text": "Mejorando la percepción de los inversionistas extranjeros sobre la estabilidad del país.",
+          "isCorrect": false,
+          "rationale": "Los riesgos sociales son vistos negativamente por los inversionistas al representar una amenaza a la continuidad."
+        }
+      ],
+      "hint": "Piense en las consecuencias de una paralización total de la producción por conflictos externos."
+    },
+    {
+      "question": "En el contexto de la planeación de capacidad mediante el modelo $D3$, ¿qué sucede si el retorno proyectado no supera los $17.5$ millones?",
+      "answerOptions": [
+        {
+          "text": "La decisión sobre la capacidad instalada debe replantearse de inmediato para evitar la destrucción de valor.",
+          "isCorrect": true,
+          "rationale": "El umbral de $17.5$ millones bajo demanda fuerte es el punto crítico para optimizar la inversión en ese modelo específico."
+        },
+        {
+          "text": "Se debe aumentar la inversión inicial para intentar duplicar la producción.",
+          "isCorrect": false,
+          "rationale": "Si el umbral no se alcanza, aumentar la inversión en una capacidad ineficiente solo agravaría las pérdidas."
+        },
+        {
+          "text": "El proyecto se aprueba automáticamente por ser una cifra cercana al objetivo.",
+          "isCorrect": false,
+          "rationale": "En modelos de decisión rigurosos, no alcanzar el umbral crítico es motivo de revisión o rechazo de la configuración actual."
+        },
+        {
+          "text": "Se debe ignorar la matemática y proceder basándose en la intuición del gerente.",
+          "isCorrect": false,
+          "rationale": "La planeación de megaproyectos se basa en precisión matemática y probabilidades, no en intuición sin sustento."
+        }
+      ],
+      "hint": "Considere la acción necesaria cuando un indicador clave de optimización no se cumple."
+    },
+    {
+      "question": "¿Cuál es la principal diferencia entre un proyecto lineal y uno exponencial?",
+      "answerOptions": [
+        {
+          "text": "Los lineales tienen rentabilidades predecibles, mientras que los exponenciales tienen flujos iniciales negativos pero un potencial de crecimiento disruptivo.",
+          "isCorrect": true,
+          "rationale": "Los proyectos exponenciales requieren soportar periodos duros de inversión masiva a cambio de un crecimiento muy superior a largo plazo."
+        },
+        {
+          "text": "Los lineales no requieren inversión inicial y los exponenciales sí.",
+          "isCorrect": false,
+          "rationale": "Todo proyecto minero requiere una inversión inicial; la diferencia radica en la estructura del flujo y el potencial de retorno."
+        },
+        {
+          "text": "Los exponenciales son mucho más seguros y tienen menos riesgo que los lineales.",
+          "isCorrect": false,
+          "rationale": "Los proyectos exponenciales suelen ser más riesgosos debido a sus prolongados flujos de caja negativos iniciales."
+        },
+        {
+          "text": "La distinción es puramente académica y no tiene impacto en la realidad de la mina.",
+          "isCorrect": false,
+          "rationale": "Categorizar el perfil del proyecto define la capacidad financiera y operativa necesaria para sobrevivir a las etapas iniciales."
+        }
+      ],
+      "hint": "Observe la relación entre el sacrificio inicial y la magnitud del crecimiento futuro."
+    },
+    {
+      "question": "¿Cuál es la 'regla de supervivencia fundamental' para la toma de decisiones en la evaluación financiera minera?",
+      "answerOptions": [
+        {
+          "text": "Garantizar la capacidad de sobrevivir al escenario pesimista sin comprometer la continuidad del negocio.",
+          "isCorrect": true,
+          "rationale": "La viabilidad real no se basa en el mejor escenario posible, sino en la resiliencia ante las peores condiciones."
+        },
+        {
+          "text": "Aprobar siempre el proyecto que prometa el mayor retorno en el escenario más optimista.",
+          "isCorrect": false,
+          "rationale": "Basarse solo en el optimismo es peligroso en una industria volátil y puede llevar a la quiebra ante el primer imprevisto."
+        },
+        {
+          "text": "Asegurarse de que el flujo de caja sea siempre positivo desde el primer mes de construcción.",
+          "isCorrect": false,
+          "rationale": "La minería requiere periodos largos de inversión ($CAPEX$) con flujos negativos antes de producir el primer ingreso."
+        },
+        {
+          "text": "Elegir el proyecto con la menor cantidad de metros perforados posibles.",
+          "isCorrect": false,
+          "rationale": "La cantidad de perforación depende de la necesidad geológica y no es una regla de supervivencia financiera por sí sola."
+        }
+      ],
+      "hint": "Piense en la importancia de prepararse para las condiciones más adversas del mercado."
+    },
+    {
+      "question": "¿Cómo influye el uso de sensores inteligentes y minería $4.0$ en los flujos de caja?",
+      "answerOptions": [
+        {
+          "text": "Transforma flujos de caja estáticos en herramientas dinámicas de control en tiempo real.",
+          "isCorrect": true,
+          "rationale": "La tecnología permite una adaptabilidad constante, mejorando la competitividad mediante datos precisos y actualizados."
+        },
+        {
+          "text": "Aumenta los costos operativos de tal manera que el $VAN$ se vuelve negativo.",
+          "isCorrect": false,
+          "rationale": "Aunque requiere inversión, la minería $4.0$ busca precisamente la optimización y mejora de la rentabilidad."
+        },
+        {
+          "text": "Elimina la necesidad de realizar cualquier análisis de sensibilidad futuro.",
+          "isCorrect": false,
+          "rationale": "Incluso con datos en tiempo real, el análisis de escenarios futuros (sensibilidad) sigue siendo vital para la estrategia."
+        },
+        {
+          "text": "Sirve únicamente para reemplazar a los gerentes de proyectos por computadoras.",
+          "isCorrect": false,
+          "rationale": "La tecnología es una herramienta para la toma de decisiones humana, no un reemplazo total de la gerencia estratégica."
+        }
+      ],
+      "hint": "Relacione la digitalización con la velocidad y precisión del manejo de la información financiera."
+    },
+    {
+      "question": "¿Qué representa el valor de $71.6$ en un ejemplo donde se invierten $-345$ con una tasa del $27\\%$?",
+      "answerOptions": [
+        {
+          "text": "Es el excedente real puro después de haber pagado a los inversionistas la rentabilidad exigida.",
+          "isCorrect": true,
+          "rationale": "El $VAN$ positivo representa el valor adicional creado por encima de la tasa de descuento que remunera el riesgo del capital."
+        },
+        {
+          "text": "Es el monto total que se debe pagar en impuestos durante el primer año.",
+          "isCorrect": false,
+          "rationale": "El $VAN$ es una métrica de valor del proyecto, no un impuesto específico a pagar."
+        },
+        {
+          "text": "Representa el costo total de la mano de obra para los cinco años de operación.",
+          "isCorrect": false,
+          "rationale": "El valor del $VAN$ integra todos los flujos; no es una partida de gasto aislada como la mano de obra."
+        },
+        {
+          "text": "Es la pérdida neta generada por aplicar una tasa de descuento demasiado agresiva.",
+          "isCorrect": false,
+          "rationale": "Dado que el número es positivo ($71.6$), representa una creación de valor, no una pérdida."
+        }
+      ],
+      "hint": "Considere qué queda para la empresa una vez satisfecha la expectativa de retorno del inversionista."
+    },
+    {
+      "question": "¿Cuál es la meta final de integrar vectores sociales, productivos y financieros en la gestión minera?",
+      "answerOptions": [
+        {
+          "text": "Lograr una arquitectura financiera capaz de sostener el valor y la competitividad a largo plazo.",
+          "isCorrect": true,
+          "rationale": "La integración holística asegura que el proyecto no solo sea rentable, sino también viable en su entorno social y operativo."
+        },
+        {
+          "text": "Cumplir con los requisitos legales mínimos para evitar multas ambientales.",
+          "isCorrect": false,
+          "rationale": "La meta estratégica va mucho más allá del simple cumplimiento legal; busca la sostenibilidad y creación de valor."
+        },
+        {
+          "text": "Reducir el salario de los trabajadores para aumentar la tasa interna de retorno.",
+          "isCorrect": false,
+          "rationale": "La gestión moderna busca integrar rentabilidad con competitividad, lo cual suele requerir sueldos competitivos."
+        },
+        {
+          "text": "Demostrar que la geología es más importante que las finanzas en la minería moderna.",
+          "isCorrect": false,
+          "rationale": "La tendencia actual es someter la geología al rigor financiero para asegurar que el yacimiento se transforme en valor."
+        }
+      ],
+      "hint": "Piense en el pilar que transforma minerales en beneficio sostenible para la sociedad y la empresa."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Indicadores de rentabilidad (VAN y TIR)",
+      "Gestión de CAPEX y OPEX",
+      "Depreciación y vida útil de equipos mineros",
+      "Modelamiento financiero y análisis de sensibilidad",
+      "Riesgos en minería (geológicos, sociales y ambientales)"
+    ],
+    "followUp": [
+      "Mecanismos de financiamiento como el factoring en entornos de alto CAPEX",
+      "Metodologías predictivas y Minería 4.0",
+      "Modelos de decisión estratégica como el escenario D3",
+      "Escudos fiscales y optimización tributaria en proyectos extractivos"
+    ]
+  }
+}

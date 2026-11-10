@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la naturaleza jur\u00eddica de la planilla electr\u00f3nica en el marco regulatorio actual?",
+      "answerOptions": [
+        {
+          "text": "Es exclusivamente un registro contable de car\u00e1cter administrativo.",
+          "isCorrect": false,
+          "rationale": "Aunque tiene funciones administrativas, su verdadera esencia reside en la protecci\u00f3n de derechos y el cumplimiento estatal."
+        },
+        {
+          "text": "Posee una naturaleza h\u00edbrida, combinando componentes laborales y tributarios.",
+          "isCorrect": true,
+          "rationale": "El sistema est\u00e1 dise\u00f1ado para proteger los derechos del trabajador (laboral) y asegurar la recaudaci\u00f3n de tributos y aportaciones (tributario)."
+        },
+        {
+          "text": "Es un documento privado sin validez ante instancias judiciales.",
+          "isCorrect": false,
+          "rationale": "Por el contrario, act\u00faa como un instrumento de fe p\u00fablica con plena validez legal."
+        },
+        {
+          "text": "Se define \u00fanicamente como un registro de seguridad social para pensionistas.",
+          "isCorrect": false,
+          "rationale": "Su alcance es mucho m\u00e1s amplio, incluyendo trabajadores activos, prestadores de servicios y personal en formaci\u00f3n."
+        }
+      ],
+      "hint": "Considera que este registro sirve tanto al Ministerio de Trabajo como a la SUNAT."
+    },
+    {
+      "question": "En el contexto legal, \u00bfqu\u00e9 implica que la planilla electr\u00f3nica sea una 'prueba preconstituida'?",
+      "answerOptions": [
+        {
+          "text": "Que el empleador puede modificar los datos en cualquier momento sin supervisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La inalterabilidad y los plazos de registro son fundamentales para su validez como prueba."
+        },
+        {
+          "text": "Que solo tiene validez si el trabajador firma un consentimiento previo.",
+          "isCorrect": false,
+          "rationale": "Su validez emana del cumplimiento de la normativa electr\u00f3nica impuesta por el ente regulador."
+        },
+        {
+          "text": "Que constituye la evidencia legal definitiva del v\u00ednculo laboral y del cumplimiento del empleador.",
+          "isCorrect": true,
+          "rationale": "Al ser un registro obligatorio y auditado, sirve como prueba directa de la relaci\u00f3n laboral ante cualquier autoridad."
+        },
+        {
+          "text": "Que es un borrador inicial que debe ser validado por un notario p\u00fablico.",
+          "isCorrect": false,
+          "rationale": "El sistema electr\u00f3nico por s\u00ed mismo otorga fe p\u00fablica sin necesidad de validaciones notariales adicionales."
+        }
+      ],
+      "hint": "Relaciona este concepto con su valor probatorio ante una inspecci\u00f3n o juicio."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la distinci\u00f3n t\u00e9cnica principal entre la planilla de sueldos y la planilla de salarios?",
+      "answerOptions": [
+        {
+          "text": "La de sueldos es para personal de confianza y la de salarios para contratistas independientes.",
+          "isCorrect": false,
+          "rationale": "Los contratistas de cuarta categor\u00eda no forman parte de estas clasificaciones de planilla de dependientes."
+        },
+        {
+          "text": "La de sueldos se aplica a empleados (labor intelectual/administrativa) y la de salarios a obreros (labor f\u00edsica/manual).",
+          "isCorrect": true,
+          "rationale": "La taxonom\u00eda del registro divide a los trabajadores seg\u00fan la predominancia del esfuerzo intelectual o f\u00edsico."
+        },
+        {
+          "text": "No existe distinci\u00f3n t\u00e9cnica; ambos t\u00e9rminos se usan de forma intercambiable por ley.",
+          "isCorrect": false,
+          "rationale": "La clasificaci\u00f3n es cr\u00edtica porque determina derechos y c\u00e1lculos de beneficios sociales distintos."
+        },
+        {
+          "text": "La distinci\u00f3n se basa \u00fanicamente en el monto de la remuneraci\u00f3n recibida.",
+          "isCorrect": false,
+          "rationale": "La categorizaci\u00f3n depende de la naturaleza de la labor realizada, no del nivel de ingresos."
+        }
+      ],
+      "hint": "Piensa en la diferencia entre una labor de oficina y una labor en una obra de construcci\u00f3n."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 circunstancia deben registrarse obligatoriamente los prestadores de servicios de cuarta categor\u00eda en la planilla electr\u00f3nica?",
+      "answerOptions": [
+        {
+          "text": "Siempre que emitan un recibo por honorarios, independientemente de qui\u00e9n pague.",
+          "isCorrect": false,
+          "rationale": "Existen excepciones basadas en la figura legal de quien realiza el pago."
+        },
+        {
+          "text": "Solo si el trabajador independiente solicita voluntariamente su inscripci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La obligaci\u00f3n de registro recae sobre el empleador cuando se cumplen ciertas condiciones legales."
+        },
+        {
+          "text": "Cuando el empleador que paga por los servicios act\u00faa como agente de retenci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La figura del agente de retenci\u00f3n vincula la obligaci\u00f3n tributaria de registrar estos pagos en el sistema."
+        },
+        {
+          "text": "\u00danicamente si el contrato de servicios supera el periodo de un a\u00f1o calendario.",
+          "isCorrect": false,
+          "rationale": "El registro depende de la naturaleza tributaria del pago, no de la duraci\u00f3n del contrato."
+        }
+      ],
+      "hint": "Enf\u00f3cate en la responsabilidad tributaria de la empresa frente a la SUNAT."
+    },
+    {
+      "question": "\u00bfQu\u00e9 figuras se incluyen bajo la categor\u00eda de 'personal en formaci\u00f3n' en el registro?",
+      "answerOptions": [
+        {
+          "text": "Solo practicantes preprofesionales de universidades nacionales.",
+          "isCorrect": false,
+          "rationale": "La categor\u00eda es m\u00e1s amplia e incluye diversas modalidades de aprendizaje t\u00e9cnico y profesional."
+        },
+        {
+          "text": "Tanto practicantes preprofesionales como aprendices de instituciones t\u00e9cnicas como SENATI.",
+          "isCorrect": true,
+          "rationale": "El sistema mapea a toda persona en formaci\u00f3n para garantizar su cobertura y seguimiento normativo."
+        },
+        {
+          "text": "Personal de terceros que realiza labores de limpieza y seguridad.",
+          "isCorrect": false,
+          "rationale": "Esos trabajadores pertenecen a la categor\u00eda de personal desplazado por tercerizaci\u00f3n o intermediaci\u00f3n."
+        },
+        {
+          "text": "Trabajadores extranjeros que est\u00e1n aprendiendo el idioma local.",
+          "isCorrect": false,
+          "rationale": "La formaci\u00f3n se refiere a la capacitaci\u00f3n t\u00e9cnica o profesional regulada, no a habilidades generales."
+        }
+      ],
+      "hint": "Abarca desde la universidad hasta los centros de capacitaci\u00f3n t\u00e9cnica."
+    },
+    {
+      "question": "\u00bfQui\u00e9nes est\u00e1n exceptuados de llevar el registro de la planilla electr\u00f3nica corporativa?",
+      "answerOptions": [
+        {
+          "text": "Empresas con menos de $10$ trabajadores estables.",
+          "isCorrect": false,
+          "rationale": "El tama\u00f1o de la empresa no exime de la obligaci\u00f3n corporativa si existe subordinaci\u00f3n laboral."
+        },
+        {
+          "text": "Entidades del sector p\u00fablico que manejan sus propios sistemas de presupuesto.",
+          "isCorrect": false,
+          "rationale": "El sector p\u00fablico tambi\u00e9n est\u00e1 integrado en el sistema, requiriendo incluso c\u00f3digos espec\u00edficos de pliego presupuestal."
+        },
+        {
+          "text": "Empleadores de trabajadores del hogar y personas que contratan reparaciones dom\u00e9sticas eventuales.",
+          "isCorrect": true,
+          "rationale": "Estas situaciones no se consideran corporativas y tienen sus propias plataformas simplificadas de registro."
+        },
+        {
+          "text": "Empresas del sector minero debido a sus reg\u00edmenes especiales de jubilaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda es un sector con registro obligatorio y espec\u00edfico dentro de la planilla electr\u00f3nica."
+        }
+      ],
+      "hint": "Busca escenarios que no tengan una estructura empresarial o comercial."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define la relaci\u00f3n funcional entre el T-Registro y la PLAME?",
+      "answerOptions": [
+        {
+          "text": "El T-Registro es el repositorio est\u00e1tico de datos y la PLAME es el pulso din\u00e1mico mensual.",
+          "isCorrect": true,
+          "rationale": "El T-Registro contiene la informaci\u00f3n contractual base, mientras que la PLAME registra el movimiento econ\u00f3mico mes a mes."
+        },
+        {
+          "text": "La PLAME debe llenarse primero para que el T-Registro pueda extraer los sueldos.",
+          "isCorrect": false,
+          "rationale": "El flujo es inverso: primero se actualiza la ra\u00edz en el T-Registro y luego se procesa la PLAME."
+        },
+        {
+          "text": "Son dos sistemas independientes que no comparten informaci\u00f3n entre s\u00ed.",
+          "isCorrect": false,
+          "rationale": "Existe una sincronizaci\u00f3n vital; errores en uno provocan inconsistencias inmediatas en el otro."
+        },
+        {
+          "text": "El T-Registro solo sirve para trabajadores nuevos y la PLAME para los antiguos.",
+          "isCorrect": false,
+          "rationale": "Ambos sistemas abarcan a toda la poblaci\u00f3n laboral de la empresa de manera simult\u00e1nea."
+        }
+      ],
+      "hint": "Uno funciona como el ADN biogr\u00e1fico y el otro como el registro de pagos."
+    },
+    {
+      "question": "En la gesti\u00f3n de la PLAME, \u00bfqu\u00e9 diferencia t\u00e9cnica existe entre lo devengado y lo pagado?",
+      "answerOptions": [
+        {
+          "text": "Lo devengado es el dinero en efectivo entregado y lo pagado es el derecho ganado.",
+          "isCorrect": false,
+          "rationale": "Los conceptos est\u00e1n invertidos en esta definici\u00f3n t\u00e9cnica."
+        },
+        {
+          "text": "No existe diferencia; el sistema solo permite registrar montos que ya fueron depositados.",
+          "isCorrect": false,
+          "rationale": "El sistema debe mapear ambas realidades para identificar deudas laborales y flujo de caja."
+        },
+        {
+          "text": "Lo devengado es el derecho ganado por el trabajo del mes, mientras lo pagado es el desembolso efectivo.",
+          "isCorrect": true,
+          "rationale": "Es posible que un derecho se gane en un mes (devengue) pero se pague f\u00edsicamente en otro momento."
+        },
+        {
+          "text": "Lo devengado se refiere solo a los descuentos y lo pagado solo a los ingresos.",
+          "isCorrect": false,
+          "rationale": "Ambos t\u00e9rminos se aplican a la estructura remunerativa general del trabajador."
+        }
+      ],
+      "hint": "Piensa en la diferencia entre 'ganar el derecho al sueldo' y 'recibir el dep\u00f3sito en el banco'."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se utiliza espec\u00edficamente el c\u00f3digo $600$ en la parametrizaci\u00f3n de la PLAME?",
+      "answerOptions": [
+        {
+          "text": "Para reportar todos los conceptos que representan ingresos brutos para el trabajador.",
+          "isCorrect": false,
+          "rationale": "Los ingresos se procesan bajo una codificaci\u00f3n distinta, usualmente iniciando con el c\u00f3digo $100$."
+        },
+        {
+          "text": "Para procesar exclusivamente los descuentos aplicados a la n\u00f3mina.",
+          "isCorrect": true,
+          "rationale": "La arquitectura del sistema utiliza c\u00f3digos inalterables para separar ingresos de retenciones y descuentos."
+        },
+        {
+          "text": "Para registrar los datos de los derechohabientes del trabajador.",
+          "isCorrect": false,
+          "rationale": "Esa informaci\u00f3n es de naturaleza biogr\u00e1fica y corresponde al T-Registro."
+        },
+        {
+          "text": "Para se\u00f1alar que un trabajador se encuentra en puesto de direcci\u00f3n o confianza.",
+          "isCorrect": false,
+          "rationale": "Ese es un marcador de condici\u00f3n laboral, no un c\u00f3digo conceptual de pago o descuento."
+        }
+      ],
+      "hint": "Este c\u00f3digo se encarga de reducir el monto neto a percibir."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el plazo legal estricto para realizar el alta de un trabajador en el sistema?",
+      "answerOptions": [
+        {
+          "text": "Dentro de los primeros $5$ d\u00edas h\u00e1biles de haber iniciado labores.",
+          "isCorrect": false,
+          "rationale": "Este plazo aplica para modificaciones de datos, pero no para el inicio de la relaci\u00f3n laboral."
+        },
+        {
+          "text": "El mismo d\u00eda del inicio de labores o de forma preventiva el d\u00eda h\u00e1bil anterior.",
+          "isCorrect": true,
+          "rationale": "Este requisito garantiza el acceso inmediato a la seguridad social y evita contingencias legales."
+        },
+        {
+          "text": "Al finalizar el primer mes de trabajo junto con la declaraci\u00f3n de la PLAME.",
+          "isCorrect": false,
+          "rationale": "Esperar al fin de mes dejar\u00eda al trabajador sin protecci\u00f3n de salud durante sus primeros d\u00edas."
+        },
+        {
+          "text": "Cualquier d\u00eda de la primera quincena mediante una rectificaci\u00f3n posterior.",
+          "isCorrect": false,
+          "rationale": "El registro debe ser oportuno (Alta Virtual o AVI) para cumplir con el deber de diligencia."
+        }
+      ],
+      "hint": "El acceso a la salud debe ser inmediato desde el primer d\u00eda de trabajo."
+    },
+    {
+      "question": "\u00bfDe cu\u00e1ntos d\u00edas dispone un empleador para registrar una modificaci\u00f3n en el sueldo o cargo de un empleado?",
+      "answerOptions": [
+        {
+          "text": "$48$ horas calendario tras el cambio.",
+          "isCorrect": false,
+          "rationale": "La norma otorga un margen un poco m\u00e1s amplio expresado en d\u00edas h\u00e1biles."
+        },
+        {
+          "text": "Exactamente $5$ d\u00edas h\u00e1biles.",
+          "isCorrect": true,
+          "rationale": "Es el tiempo l\u00edmite para actualizar cualquier variaci\u00f3n contractual en el T-Registro."
+        },
+        {
+          "text": "Debe hacerse el mismo d\u00eda en que se firma la adenda del contrato.",
+          "isCorrect": false,
+          "rationale": "Aunque es recomendable, la ley permite un margen de $5$ d\u00edas h\u00e1biles para la gesti\u00f3n administrativa."
+        },
+        {
+          "text": "No existe un plazo, se puede actualizar en cualquier momento del a\u00f1o fiscal.",
+          "isCorrect": false,
+          "rationale": "La falta de actualizaci\u00f3n oportuna genera inconsistencias entre lo pactado y lo declarado mensualmente."
+        }
+      ],
+      "hint": "Es un plazo de una semana laboral est\u00e1ndar seg\u00fan la normativa administrativa."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo debe ingresarse obligatoriamente la baja de un trabajador en el sistema para evitar reclamos de las AFP?",
+      "answerOptions": [
+        {
+          "text": "Al d\u00eda siguiente de la entrega de la liquidaci\u00f3n de beneficios sociales.",
+          "isCorrect": false,
+          "rationale": "La liquidaci\u00f3n tiene sus propios plazos, pero el cese en el sistema es inmediato."
+        },
+        {
+          "text": "El mismo d\u00eda del cese de la relaci\u00f3n laboral.",
+          "isCorrect": true,
+          "rationale": "Registrar la baja el mismo d\u00eda evita cobros indebidos de seguros y aportes previsionales posteriores."
+        },
+        {
+          "text": "Dentro de los $5$ d\u00edas h\u00e1biles posteriores al retiro del trabajador.",
+          "isCorrect": false,
+          "rationale": "Esperar $5$ d\u00edas puede generar que el sistema asuma que el trabajador sigue activo para el siguiente ciclo de cobro."
+        },
+        {
+          "text": "Solo cuando el trabajador solicita formalmente su constancia de baja.",
+          "isCorrect": false,
+          "rationale": "La obligaci\u00f3n de registro es independiente de la solicitud de la constancia f\u00edsica."
+        }
+      ],
+      "hint": "Debe coincidir exactamente con el \u00faltimo d\u00eda que la persona presta servicios."
+    },
+    {
+      "question": "En la normativa peruana, \u00bfqu\u00e9 consecuencia tiene superar las $4$ horas diarias en promedio en un contrato a tiempo parcial?",
+      "answerOptions": [
+        {
+          "text": "Ninguna, el contrato a tiempo parcial permite hasta $6$ horas sin cambios legales.",
+          "isCorrect": false,
+          "rationale": "La barrera de las $4$ horas es un umbral cr\u00edtico de orden p\u00fablico."
+        },
+        {
+          "text": "El trabajador adquiere autom\u00e1ticamente derecho a la CTS y protecci\u00f3n contra el despido arbitrario.",
+          "isCorrect": true,
+          "rationale": "Al superar el l\u00edmite de tiempo parcial, se activan los derechos correspondientes a un r\u00e9gimen de jornada completa."
+        },
+        {
+          "text": "La empresa recibe un bono de incentivo por productividad horaria.",
+          "isCorrect": false,
+          "rationale": "No existen incentivos por exceder los l\u00edmites del contrato parcial; al contrario, genera pasivos laborales."
+        },
+        {
+          "text": "Se reduce el aporte a la seguridad social debido al incremento de horas.",
+          "isCorrect": false,
+          "rationale": "Los aportes se calculan sobre la remuneraci\u00f3n, y al cambiar de estatus, los beneficios sociales aumentan la base de costo."
+        }
+      ],
+      "hint": "Cruzar esta frontera horaria cambia el estatus legal del trabajador y sus beneficios."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es vital configurar correctamente los aportes bajo el Decreto Ley $19990$ para los trabajadores de construcci\u00f3n civil?",
+      "answerOptions": [
+        {
+          "text": "Porque les otorga un seguro de vida ley con doble indemnizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esa es una cobertura de riesgo distinta a la naturaleza previsional del Decreto Ley $19990$."
+        },
+        {
+          "text": "Porque permite que accedan a una pensi\u00f3n anticipada a los $55$ a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Este r\u00e9gimen especial reconoce el desgaste f\u00edsico de la labor permitiendo una jubilaci\u00f3n a menor edad."
+        },
+        {
+          "text": "Porque los exime de pagar el impuesto a la renta de quinta categor\u00eda.",
+          "isCorrect": false,
+          "rationale": "La renta de quinta categor\u00eda se aplica seg\u00fan los ingresos, independientemente del r\u00e9gimen de pensiones."
+        },
+        {
+          "text": "Porque asegura que el empleador pague una tasa menor de salud.",
+          "isCorrect": false,
+          "rationale": "El sector agrario es el que maneja tasas diferenciadas de salud, no el previsional de construcci\u00f3n civil."
+        }
+      ],
+      "hint": "Piensa en el beneficio relacionado con el retiro debido a la naturaleza f\u00edsica del trabajo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo permitido para la contrataci\u00f3n de personal extranjero en una empresa respecto al total de trabajadores?",
+      "answerOptions": [
+        {
+          "text": "$10\\%$ del total de la planilla.",
+          "isCorrect": false,
+          "rationale": "El porcentaje legal permitido es mayor para favorecer una cuota razonable de intercambio laboral."
+        },
+        {
+          "text": "$30\\%$ de la cuota remunerativa total.",
+          "isCorrect": false,
+          "rationale": "Este es el l\u00edmite financiero de los sueldos, no el l\u00edmite de cantidad de personas."
+        },
+        {
+          "text": "$20\\%$ de la cantidad total de trabajadores.",
+          "isCorrect": true,
+          "rationale": "La ley establece este tope inamovible para priorizar la contrataci\u00f3n de mano de obra nacional."
+        },
+        {
+          "text": "No existen l\u00edmites cuantitativos siempre que tengan visa de trabajo.",
+          "isCorrect": false,
+          "rationale": "Existen l\u00edmites de orden p\u00fablico tanto en cantidad de personas como en montos salariales."
+        }
+      ],
+      "hint": "Es la quinta parte del total de la fuerza laboral."
+    },
+    {
+      "question": "\u00bfQu\u00e9 restricci\u00f3n financiera aplica a la remuneraci\u00f3n total pagada a trabajadores extranjeros en una organizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "No puede superar el $50\\%$ del flujo de caja mensual.",
+          "isCorrect": false,
+          "rationale": "El l\u00edmite se mide respecto a la n\u00f3mina total, no al flujo de caja de la empresa."
+        },
+        {
+          "text": "Los sueldos extranjeros no pueden exceder el $30\\%$ del total de la planilla de remuneraciones.",
+          "isCorrect": true,
+          "rationale": "Este l\u00edmite financiero busca evitar que la masa salarial se concentre excesivamente en personal no nacional."
+        },
+        {
+          "text": "Deben ganar exactamente lo mismo que el promedio de los trabajadores nacionales.",
+          "isCorrect": false,
+          "rationale": "La ley limita el monto total de la n\u00f3mina extranjera, pero no impone salarios id\u00e9nticos individuales."
+        },
+        {
+          "text": "El l\u00edmite es del $20\\%$ del capital social de la empresa.",
+          "isCorrect": false,
+          "rationale": "El capital social es una m\u00e9trica contable societaria, no una m\u00e9trica de gesti\u00f3n de planillas."
+        }
+      ],
+      "hint": "Este l\u00edmite porcentual es ligeramente mayor que el de la cantidad de personas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia irreversible tiene la funci\u00f3n 'Eliminar RUC' dentro del aplicativo PDT PLAME?",
+      "answerOptions": [
+        {
+          "text": "Solo borra la declaraci\u00f3n del mes que se est\u00e1 trabajando.",
+          "isCorrect": false,
+          "rationale": "Esa es una funci\u00f3n de limpieza simple; 'Eliminar RUC' tiene un alcance total."
+        },
+        {
+          "text": "Borra la totalidad de la informaci\u00f3n hist\u00f3rica e institucional cargada de ese empleador.",
+          "isCorrect": true,
+          "rationale": "Es una funci\u00f3n de reestructuraci\u00f3n profunda que elimina toda la base de datos acumulada en el software local."
+        },
+        {
+          "text": "Env\u00eda una notificaci\u00f3n autom\u00e1tica de cierre de empresa a la SUNAT.",
+          "isCorrect": false,
+          "rationale": "Es una acci\u00f3n t\u00e9cnica sobre la base de datos del software local, no un tr\u00e1mite administrativo ante SUNAT."
+        },
+        {
+          "text": "Desinstala autom\u00e1ticamente el software de la computadora.",
+          "isCorrect": false,
+          "rationale": "La funci\u00f3n afecta los datos almacenados, no la integridad de los archivos ejecutables del programa."
+        }
+      ],
+      "hint": "Se describe como el 'bot\u00f3n de autodestrucci\u00f3n' de la informaci\u00f3n hist\u00f3rica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece el principio jur\u00eddico de 'primac\u00eda de la realidad' en una auditor\u00eda laboral?",
+      "answerOptions": [
+        {
+          "text": "Que los documentos firmados por ambas partes son la \u00fanica verdad legal.",
+          "isCorrect": false,
+          "rationale": "Este principio precisamente cuestiona los documentos si no coinciden con los hechos."
+        },
+        {
+          "text": "Que lo que sucede en los hechos prevalece sobre lo que digan los documentos o contratos.",
+          "isCorrect": true,
+          "rationale": "Si existe subordinaci\u00f3n y horario en la pr\u00e1ctica, se considera v\u00ednculo laboral aunque el contrato diga lo contrario."
+        },
+        {
+          "text": "Que la empresa siempre tiene la raz\u00f3n si tiene sus libros contables legalizados.",
+          "isCorrect": false,
+          "rationale": "La legalizaci\u00f3n de libros es formal, pero la realidad operativa es lo que define el derecho laboral."
+        },
+        {
+          "text": "Que el trabajador no puede reclamar si acept\u00f3 emitir recibos por honorarios.",
+          "isCorrect": false,
+          "rationale": "La aceptaci\u00f3n del trabajador no valida la desnaturalizaci\u00f3n de un contrato si la realidad es distinta."
+        }
+      ],
+      "hint": "En derecho laboral, los hechos 'mandan' sobre los papeles."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la secuencia correcta de las fases de un procedimiento inspectivo de SUNAFIL?",
+      "answerOptions": [
+        {
+          "text": "Denuncia, Multa inmediata y Cierre de local.",
+          "isCorrect": false,
+          "rationale": "El proceso requiere actuaciones previas y derecho a la defensa antes de cualquier sanci\u00f3n."
+        },
+        {
+          "text": "Orden de inspecci\u00f3n, Actuaciones de campo (verificaci\u00f3n) y Resultado.",
+          "isCorrect": true,
+          "rationale": "Es el flujo est\u00e1ndar que permite identificar irregularidades y otorgar plazos de subsanaci\u00f3n."
+        },
+        {
+          "text": "Pago de fianza, Auditor\u00eda externa y Resoluci\u00f3n judicial.",
+          "isCorrect": false,
+          "rationale": "La inspecci\u00f3n es un proceso administrativo del ejecutivo, no requiere fianza inicial ni es judicial en su inicio."
+        },
+        {
+          "text": "Entrevista, Conciliaci\u00f3n obligatoria y Archivo.",
+          "isCorrect": false,
+          "rationale": "Aunque puede haber comparecencias, el objetivo es la fiscalizaci\u00f3n del cumplimiento normativo."
+        }
+      ],
+      "hint": "Inicia con una disposici\u00f3n de autoridad y termina con un dictamen sobre lo hallado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 cambio fundamental introdujo la Resoluci\u00f3n $4203$ de Indecopi respecto a la rectificaci\u00f3n de planillas?",
+      "answerOptions": [
+        {
+          "text": "Prohibi\u00f3 rectificar planillas que tengan m\u00e1s de un mes de antig\u00fcedad.",
+          "isCorrect": false,
+          "rationale": "Indecopi elimin\u00f3 precisamente esa restricci\u00f3n al considerarla una barrera ilegal."
+        },
+        {
+          "text": "Permiti\u00f3 rectificar planillas antiguas respetando el plazo de prescripci\u00f3n de $4$ a\u00f1os del C\u00f3digo Tributario.",
+          "isCorrect": true,
+          "rationale": "Esta resoluci\u00f3n empodera al empleador para sanear errores de a\u00f1os anteriores sin trabas administrativas injustificadas."
+        },
+        {
+          "text": "Estableci\u00f3 que solo se pueden rectificar errores menores de digitaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La resoluci\u00f3n se refiere a la ventana de tiempo para rectificar, no a la gravedad del error."
+        },
+        {
+          "text": "Elimin\u00f3 la necesidad de usar el PDT PLAME para las microempresas.",
+          "isCorrect": false,
+          "rationale": "El uso del sistema sigue siendo obligatorio; lo que cambi\u00f3 fue la oportunidad temporal de correcci\u00f3n."
+        }
+      ],
+      "hint": "Se trata de una ventana de oportunidad para corregir el pasado legal de la empresa."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Naturaleza jur\u00eddica de la planilla electr\u00f3nica",
+      "Estructura t\u00e9cnica (T-Registro y PLAME)",
+      "Plazos y obligaciones operativas",
+      "Reg\u00edmenes laborales especiales",
+      "Contrataci\u00f3n de personal extranjero",
+      "Auditor\u00eda laboral y fiscalizaci\u00f3n de SUNAFIL",
+      "Jurisprudencia sobre rectificaci\u00f3n de planillas"
+    ],
+    "followUp": [
+      "C\u00e1lculo avanzado de retenciones de quinta categor\u00eda",
+      "Gesti\u00f3n de subsidios e incapacidad temporal en la PLAME",
+      "Protocolos de actuaci\u00f3n ante auditor\u00edas presenciales de SUNAFIL",
+      "Impacto de la Inteligencia Artificial en la automatizaci\u00f3n de n\u00f3minas",
+      "Normativa de seguridad y salud en el trabajo vinculada al registro"
+    ]
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de la homologaci\u00f3n de proveedores dentro de una organizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Reducir el precio unitario de los productos de manera agresiva.",
+          "isCorrect": false,
+          "rationale": "La homologaci\u00f3n se enfoca en la aptitud y confiabilidad, no simplemente en la reducci\u00f3n de costos por negociaci\u00f3n de precios."
+        },
+        {
+          "text": "Confirmar la aptitud del socio mediante un proceso sist\u00e9mico de calidad y riesgo.",
+          "isCorrect": true,
+          "rationale": "Este proceso act\u00faa como un filtro estrat\u00e9gico para garantizar la calidad, el cumplimiento y la fiabilidad operativa."
+        },
+        {
+          "text": "Eliminar la necesidad de realizar auditor\u00edas externas en el futuro.",
+          "isCorrect": false,
+          "rationale": "La homologaci\u00f3n es el punto de partida, pero el monitoreo y las auditor\u00edas deben ser continuos seg\u00fan el riesgo."
+        },
+        {
+          "text": "Automatizar los pagos de facturas a trav\u00e9s de sistemas log\u00edsticos.",
+          "isCorrect": false,
+          "rationale": "La homologaci\u00f3n eval\u00faa capacidades y riesgos, no es una herramienta de automatizaci\u00f3n administrativa de pagos."
+        }
+      ],
+      "hint": "Considere este proceso como una 'lupa' o un filtro de entrada para socios estrat\u00e9gicos."
+    },
+    {
+      "question": "En la evaluaci\u00f3n multidimensional, \u00bfqu\u00e9 factor se considera un criterio cualitativo?",
+      "answerOptions": [
+        {
+          "text": "Certificaci\u00f3n ISO 9001.",
+          "isCorrect": false,
+          "rationale": "Las certificaciones formales son datos emp\u00edricos y verificables que se clasifican como criterios cuantitativos."
+        },
+        {
+          "text": "Capacidad real de volumen de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La medici\u00f3n de vol\u00famenes es un dato num\u00e9rico y objetivo propio de los criterios cuantitativos."
+        },
+        {
+          "text": "Adaptabilidad y reputaci\u00f3n en el mercado.",
+          "isCorrect": true,
+          "rationale": "Estos elementos miden el alineamiento cultural y la resiliencia, factores que no siempre se reducen a n\u00fameros fr\u00edos."
+        },
+        {
+          "text": "Indicadores de entregas a tiempo y completas.",
+          "isCorrect": false,
+          "rationale": "La fiabilidad log\u00edstica medida por indicadores de cumplimiento es un criterio cuantitativo."
+        }
+      ],
+      "hint": "Piense en factores que miden la respuesta ante cambios bruscos en la demanda o el comportamiento \u00e9tico."
+    },
+    {
+      "question": "En el modelo del Costo Total de Pertenencia (TCO), \u00bfqu\u00e9 representa la 'punta del iceberg'?",
+      "answerOptions": [
+        {
+          "text": "El gasto de mantenimiento preventivo.",
+          "isCorrect": false,
+          "rationale": "El mantenimiento es un costo operativo oculto que se encuentra debajo de la superficie del iceberg."
+        },
+        {
+          "text": "El precio unitario de la cotizaci\u00f3n inicial.",
+          "isCorrect": true,
+          "rationale": "El precio es el n\u00famero m\u00e1s visible, pero a menudo ignora los costos log\u00edsticos y operativos a largo plazo."
+        },
+        {
+          "text": "Los costos de manipulaci\u00f3n interna.",
+          "isCorrect": false,
+          "rationale": "La manipulaci\u00f3n es parte de la estructura de costos ocultos que distorsionan la viabilidad financiera real."
+        },
+        {
+          "text": "La capacitaci\u00f3n t\u00e9cnica del personal.",
+          "isCorrect": false,
+          "rationale": "La formaci\u00f3n es un costo post-adquisici\u00f3n que no suele aparecer en el precio de venta inicial."
+        }
+      ],
+      "hint": "Es el valor m\u00e1s evidente en una transacci\u00f3n comercial r\u00e1pida."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 sirve segmentar a los proveedores utilizando la matriz de Kraljic y el an\u00e1lisis de Pareto?",
+      "answerOptions": [
+        {
+          "text": "Para priorizar el nivel de rigor en la validaci\u00f3n seg\u00fan el riesgo operativo.",
+          "isCorrect": true,
+          "rationale": "Permite diferenciar entre insumos estrat\u00e9gicos cr\u00edticos y art\u00edculos rutinarios para optimizar recursos."
+        },
+        {
+          "text": "Para seleccionar siempre al proveedor con el precio m\u00e1s bajo.",
+          "isCorrect": false,
+          "rationale": "La matriz busca gestionar riesgos y criticidad, alej\u00e1ndose de la selecci\u00f3n basada \u00fanicamente en precio."
+        },
+        {
+          "text": "Para eliminar a todos los proveedores que no tengan presencia internacional.",
+          "isCorrect": false,
+          "rationale": "La segmentaci\u00f3n clasifica seg\u00fan el impacto en el negocio y el riesgo de suministro, no por ubicaci\u00f3n geogr\u00e1fica."
+        },
+        {
+          "text": "Para reducir el n\u00famero total de proveedores a un solo socio estrat\u00e9gico.",
+          "isCorrect": false,
+          "rationale": "La segmentaci\u00f3n ayuda a gestionar carteras, pero depender de un solo socio suele ser un riesgo que se debe evitar."
+        }
+      ],
+      "hint": "Considere la diferencia de esfuerzo requerido para validar un insumo cr\u00edtico frente a \u00fatiles de oficina."
+    },
+    {
+      "question": "Durante las fases de homologaci\u00f3n, \u00bfcu\u00e1l es el objetivo de usar cuestionarios segmentados en el paso dos?",
+      "answerOptions": [
+        {
+          "text": "Recopilar la misma informaci\u00f3n de todos los proveedores para ser justos.",
+          "isCorrect": false,
+          "rationale": "Pedir lo mismo a todos genera burocracia in\u00fatil; la segmentaci\u00f3n busca eficiencia procedimental."
+        },
+        {
+          "text": "Evitar la creaci\u00f3n de burocracia innecesaria en servicios de bajo riesgo.",
+          "isCorrect": true,
+          "rationale": "Se usan formularios est\u00e1ndar para riesgos bajos y alta especializaci\u00f3n para socios estrat\u00e9gicos."
+        },
+        {
+          "text": "Sustituir la necesidad de verificar evidencias f\u00edsicas m\u00e1s adelante.",
+          "isCorrect": false,
+          "rationale": "Los cuestionarios son declaraciones que luego deben ser validadas en la fase de an\u00e1lisis de evidencias."
+        },
+        {
+          "text": "Garantizar que el proveedor acepte las cl\u00e1usulas de penalizaci\u00f3n de inmediato.",
+          "isCorrect": false,
+          "rationale": "La aceptaci\u00f3n de cl\u00e1usulas ocurre generalmente en la etapa de contrataci\u00f3n, no en la fase de cuestionarios iniciales."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 suceder\u00eda si se le enviara un cuestionario de 100 p\u00e1ginas a un proveedor de servicios b\u00e1sicos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo espec\u00edfico se mitiga al exigir estados financieros auditados a un proveedor?",
+      "answerOptions": [
+        {
+          "text": "El riesgo de multas tributarias por parte de entes reguladores.",
+          "isCorrect": false,
+          "rationale": "Las multas tributarias se evitan verificando el cumplimiento de obligaciones con la entidad fiscal, no solo con balances."
+        },
+        {
+          "text": "El riesgo de insolvencia o quiebra durante la vigencia del contrato.",
+          "isCorrect": true,
+          "rationale": "La solidez financiera asegura que el proveedor tenga la espalda econ\u00f3mica para sostener operaciones a largo plazo."
+        },
+        {
+          "text": "El riesgo de fallas t\u00e9cnicas en la maquinaria de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las fallas t\u00e9cnicas se mitigan mediante auditor\u00edas de capacidad t\u00e9cnica y mantenimiento, no por estados financieros."
+        },
+        {
+          "text": "El riesgo de corrupci\u00f3n interna en el departamento de compras.",
+          "isCorrect": false,
+          "rationale": "La corrupci\u00f3n se combate con \u00e9tica y cumplimiento, mientras que los estados financieros miden viabilidad econ\u00f3mica."
+        }
+      ],
+      "hint": "Este documento demuestra la solidez econ\u00f3mica m\u00e1s all\u00e1 de simples promesas verbales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una ventaja clave de tercerizar la homologaci\u00f3n a entidades como SGS o Bureau Veritas?",
+      "answerOptions": [
+        {
+          "text": "Permite que la empresa se desentienda por completo de la calidad final.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad de la cadena de suministro sigue siendo de la empresa, aunque use certificadores externos."
+        },
+        {
+          "text": "Garantiza la imparcialidad y elimina conflictos de inter\u00e9s internos.",
+          "isCorrect": true,
+          "rationale": "Los expertos neutrales aportan rigor t\u00e9cnico que a veces es dif\u00edcil de lograr con recursos internos limitados."
+        },
+        {
+          "text": "Reduce autom\u00e1ticamente los costos de los insumos adquiridos.",
+          "isCorrect": false,
+          "rationale": "El costo del certificador es un gasto adicional; su beneficio es la mitigaci\u00f3n de riesgos, no el ahorro directo en el insumo."
+        },
+        {
+          "text": "Asegura que el proveedor sea aceptado sin importar sus fallas.",
+          "isCorrect": false,
+          "rationale": "Al contrario, estas entidades suelen ser m\u00e1s rigurosas y podr\u00edan derivar en el rechazo del proveedor."
+        }
+      ],
+      "hint": "Piense en la objetividad que aporta un tercero especializado en comparaci\u00f3n con una decisi\u00f3n 'a dedo'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal debilidad de las auditor\u00edas de escritorio (desktop) en comparaci\u00f3n con las presenciales?",
+      "answerOptions": [
+        {
+          "text": "Tienen un costo operativo sumamente elevado.",
+          "isCorrect": false,
+          "rationale": "Las auditor\u00edas remotas son en realidad de bajo costo al no requerir traslados f\u00edsicos."
+        },
+        {
+          "text": "Requieren demasiado tiempo para ser ejecutadas.",
+          "isCorrect": false,
+          "rationale": "Este tipo de auditor\u00edas se caracteriza por ser muy r\u00e1pida en comparaci\u00f3n con las visitas a planta."
+        },
+        {
+          "text": "Son ineficaces para verificar la cultura operativa y los procesos f\u00edsicos reales.",
+          "isCorrect": true,
+          "rationale": "El papel puede mostrar cumplimiento, pero no refleja lo que sucede realmente en el terreno o el 'maquillaje' operativo."
+        },
+        {
+          "text": "No permiten revisar documentos legales o financieros.",
+          "isCorrect": false,
+          "rationale": "Al contrario, son ideales para revisar expedientes digitales, pero fallan en la validaci\u00f3n f\u00edsica."
+        }
+      ],
+      "hint": "Considere el concepto de cumplimiento en papel versus cumplimiento en la pr\u00e1ctica."
+    },
+    {
+      "question": "En el marco de la 'Trinorma', \u00bfqu\u00e9 norma ISO se enfoca en la Seguridad y Salud en el Trabajo?",
+      "answerOptions": [
+        {
+          "text": "ISO 9001.",
+          "isCorrect": false,
+          "rationale": "La ISO 9001 est\u00e1 estrictamente dedicada a la Gesti\u00f3n de la Calidad."
+        },
+        {
+          "text": "ISO 14001.",
+          "isCorrect": false,
+          "rationale": "La ISO 14001 se centra en la gesti\u00f3n del cuidado ambiental y residuos."
+        },
+        {
+          "text": "ISO 45001.",
+          "isCorrect": true,
+          "rationale": "Esta normativa establece los est\u00e1ndares internacionales para proteger la integridad f\u00edsica de los trabajadores."
+        },
+        {
+          "text": "ISO 27001.",
+          "isCorrect": false,
+          "rationale": "Esta norma se refiere a la seguridad de la informaci\u00f3n, no a la salud ocupacional."
+        }
+      ],
+      "hint": "Es la norma que verifica el uso de equipos de protecci\u00f3n personal y la prevenci\u00f3n de accidentes."
+    },
+    {
+      "question": "\u00bfQu\u00e9 busca detectar la auditor\u00eda interna bajo el concepto de 'escudo de preauditor\u00eda'?",
+      "answerOptions": [
+        {
+          "text": "A los empleados responsables de errores para sancionarlos.",
+          "isCorrect": false,
+          "rationale": "La auditor\u00eda interna no debe ser punitiva ni una 'cacer\u00eda de brujas', sino un mecanismo de mejora."
+        },
+        {
+          "text": "No conformidades antes de que se conviertan en multas de entes externos.",
+          "isCorrect": true,
+          "rationale": "Funciona como una defensa estrat\u00e9gica para 'lavar la ropa sucia en casa' y aplicar planes de mejora continua."
+        },
+        {
+          "text": "Oportunidades para reducir el salario de los proveedores.",
+          "isCorrect": false,
+          "rationale": "El objetivo es la mitigaci\u00f3n de riesgos y el cumplimiento, no la negociaci\u00f3n salarial o comercial."
+        },
+        {
+          "text": "Nuevas tecnolog\u00edas para reemplazar al personal actual.",
+          "isCorrect": false,
+          "rationale": "La preauditor\u00eda se enfoca en el cumplimiento de est\u00e1ndares actuales, no en la planeaci\u00f3n de automatizaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en la frase 'la ropa sucia se lava en casa' aplicada a la prevenci\u00f3n de sanciones."
+    },
+    {
+      "question": "En la gesti\u00f3n de riesgos, \u00bfqu\u00e9 impacto tiene que un socio comercial tenga v\u00ednculos con PEPs?",
+      "answerOptions": [
+        {
+          "text": "Reduce los impuestos que la organizaci\u00f3n debe pagar.",
+          "isCorrect": false,
+          "rationale": "Los v\u00ednculos con personas expuestas pol\u00edticamente no tienen beneficios tributarios legales."
+        },
+        {
+          "text": "Asegura contratos gubernamentales de manera m\u00e1s fluida.",
+          "isCorrect": false,
+          "rationale": "Esto podr\u00eda ser una se\u00f1al de corrupci\u00f3n, lo cual es un riesgo cr\u00edtico, no una ventaja operativa."
+        },
+        {
+          "text": "Dispara el riesgo corporativo debido a posibles conflictos \u00e9ticos o legales.",
+          "isCorrect": true,
+          "rationale": "Las Personas Expuestas Pol\u00edticamente representan una amenaza alta en t\u00e9rminos de cumplimiento y reputaci\u00f3n."
+        },
+        {
+          "text": "Mejora la calificaci\u00f3n en las certificaciones ISO de calidad.",
+          "isCorrect": false,
+          "rationale": "La ISO 9001 eval\u00faa procesos t\u00e9cnicos; los PEPs son un riesgo de cumplimiento que no 'mejora' la calidad."
+        }
+      ],
+      "hint": "Considere las implicaciones legales y reputacionales de estar cerca de figuras pol\u00edticas de alto nivel."
+    },
+    {
+      "question": "\u00bfQu\u00e9 revela la 'correlaci\u00f3n de facturaci\u00f3n' consecutiva de un proveedor hacia nuestra empresa?",
+      "answerOptions": [
+        {
+          "text": "Que el proveedor es extremadamente ordenado con su contabilidad.",
+          "isCorrect": false,
+          "rationale": "Aunque el orden es bueno, la secuencia exclusiva sugiere que no tienen otros clientes."
+        },
+        {
+          "text": "Un riesgo de dependencia econ\u00f3mica excesiva del proveedor hacia nosotros.",
+          "isCorrect": true,
+          "rationale": "Si el proveedor solo nos factura a nosotros, podr\u00eda quebrar inmediatamente si nuestra demanda baja."
+        },
+        {
+          "text": "Que el proveedor tiene una gran solvencia financiera en el mercado.",
+          "isCorrect": false,
+          "rationale": "La dependencia de un solo cliente suele ser un indicador de fragilidad financiera, no de solvencia."
+        },
+        {
+          "text": "Que el proveedor cumple con todos los requisitos de la SUNAT.",
+          "isCorrect": false,
+          "rationale": "La correlaci\u00f3n indica a qui\u00e9n le vende, no necesariamente si paga sus impuestos correctamente."
+        }
+      ],
+      "hint": "Si las facturas 101, 102 y 103 son todas para usted, \u00bfqu\u00e9 significa esto para el futuro de ese socio?"
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la 'regla de oro' en las estrategias de mitigaci\u00f3n de suministro?",
+      "answerOptions": [
+        {
+          "text": "Mantener contratos de exclusividad de por vida.",
+          "isCorrect": false,
+          "rationale": "La exclusividad aumenta el riesgo si el proveedor falla; se recomienda lo contrario."
+        },
+        {
+          "text": "Evitar a toda costa la dependencia de un socio \u00fanico mediante la diversificaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Tener rutas alternativas garantiza que el negocio siga operando ante cualquier eventualidad con un proveedor."
+        },
+        {
+          "text": "Basar toda la relaci\u00f3n en la confianza verbal entre gerentes.",
+          "isCorrect": false,
+          "rationale": "La confianza no sustituye el blindaje contractual y la validaci\u00f3n de evidencias."
+        },
+        {
+          "text": "Delegar la toma de decisiones al \u00e1rea de finanzas \u00fanicamente.",
+          "isCorrect": false,
+          "rationale": "La mitigaci\u00f3n es un esfuerzo multidisciplinario (t\u00e9cnico, legal, operativo), no solo financiero."
+        }
+      ],
+      "hint": "Piense en la importancia de tener planes de respaldo o 'rutas alternativas'."
+    },
+    {
+      "question": "En el sistema de producci\u00f3n de Toyota, \u00bfqu\u00e9 requisito es obligatorio antes de la certificaci\u00f3n final del proveedor?",
+      "answerOptions": [
+        {
+          "text": "La entrega de estados financieros de los \u00faltimos 10 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Aunque se revisan las finanzas, Toyota pone \u00e9nfasis en la validaci\u00f3n emp\u00edrica en planta."
+        },
+        {
+          "text": "Una fase de producci\u00f3n piloto para demostrar est\u00e1ndares en tiempo real.",
+          "isCorrect": true,
+          "rationale": "No basta con documentos; el proveedor debe probar en la cancha que puede mantener la calidad exigida."
+        },
+        {
+          "text": "El pago de una cuota de membres\u00eda al consorcio Toyota.",
+          "isCorrect": false,
+          "rationale": "La homologaci\u00f3n en Toyota es t\u00e9cnica y operativa, no basada en pagos de membres\u00eda."
+        },
+        {
+          "text": "La contrataci\u00f3n de auditores que hablen japon\u00e9s fluidamente.",
+          "isCorrect": false,
+          "rationale": "El idioma no es el criterio t\u00e9cnico; lo es la capacidad de mantener est\u00e1ndares operativos."
+        }
+      ],
+      "hint": "No es un simulacro t\u00e9cnico, es una demostraci\u00f3n emp\u00edrica 'en la cancha'."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 se enfocan principalmente las auditor\u00edas de Apple a sus proveedores asi\u00e1ticos?",
+      "answerOptions": [
+        {
+          "text": "En reducir los tiempos de transporte mar\u00edtimo.",
+          "isCorrect": false,
+          "rationale": "Aunque la log\u00edstica importa, el foco preventivo de sus auditor\u00edas es el riesgo reputacional."
+        },
+        {
+          "text": "En verificar condiciones laborales y \u00e9ticas para proteger el valor de marca.",
+          "isCorrect": true,
+          "rationale": "Una falla \u00e9tica en su cadena de suministro golpea directamente el prestigio global de Apple."
+        },
+        {
+          "text": "En asegurar que todos los trabajadores usen uniformes del mismo color.",
+          "isCorrect": false,
+          "rationale": "La est\u00e9tica es secundaria frente a los riesgos cr\u00edticos de derechos humanos y \u00e9tica laboral."
+        },
+        {
+          "text": "En validar que el proveedor use software de dise\u00f1o exclusivo.",
+          "isCorrect": false,
+          "rationale": "El software es una herramienta t\u00e9cnica, pero la auditor\u00eda busca blindar la reputaci\u00f3n corporativa."
+        }
+      ],
+      "hint": "Un esc\u00e1ndalo en una de sus f\u00e1bricas externas puede da\u00f1ar el valor de la marca en todo el mundo."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el sector minero aplica niveles de exigencia extrema en salud y seguridad ocupacional?",
+      "answerOptions": [
+        {
+          "text": "Para cumplir con un requisito est\u00e9tico de la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La seguridad en miner\u00eda no es est\u00e9tica, es una cuesti\u00f3n de supervivencia operativa y legal."
+        },
+        {
+          "text": "Para evitar paralizaciones operativas causadas por fatalidades o accidentes.",
+          "isCorrect": true,
+          "rationale": "En miner\u00eda, un incidente grave puede detener una operaci\u00f3n masiva y generar consecuencias legales implacables."
+        },
+        {
+          "text": "Para reducir el costo de los seguros de vida de los gerentes.",
+          "isCorrect": false,
+          "rationale": "La rigurosidad aplica a cada trabajador y maquinaria que entra, no solo a la gerencia."
+        },
+        {
+          "text": "Para facilitar la exportaci\u00f3n de minerales a pa\u00edses vecinos.",
+          "isCorrect": false,
+          "rationale": "La seguridad es una normativa de protecci\u00f3n de vida y continuidad, no un tr\u00e1mite de exportaci\u00f3n."
+        }
+      ],
+      "hint": "Considere el impacto de tener que parar una mina completa por un riesgo mal gestionado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta se menciona como esencial para definir los 'derechos de auditor\u00eda continua' y las multas?",
+      "answerOptions": [
+        {
+          "text": "El plan de marketing del proveedor.",
+          "isCorrect": false,
+          "rationale": "El marketing es promocional y no tiene validez legal para exigir auditor\u00edas o multas."
+        },
+        {
+          "text": "Las cl\u00e1usulas contractuales y los SLAs (Acuerdos de Nivel de Servicio).",
+          "isCorrect": true,
+          "rationale": "El blindaje legal por escrito permite establecer reglas claras y sanciones ante incumplimientos."
+        },
+        {
+          "text": "El manual de bienvenida de la empresa.",
+          "isCorrect": false,
+          "rationale": "Los manuales son informativos, pero carecen del peso jur\u00eddico de un contrato firmado."
+        },
+        {
+          "text": "La secuencia de facturaci\u00f3n del mes anterior.",
+          "isCorrect": false,
+          "rationale": "La facturaci\u00f3n es una consecuencia de la operaci\u00f3n, no la base legal para realizar auditor\u00edas."
+        }
+      ],
+      "hint": "Es el documento legal donde se deja por escrito qu\u00e9 se puede revisar y cu\u00e1nto se cobrar\u00e1 por fallas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es uno de los tres pilares de una gesti\u00f3n de proveedores de clase mundial?",
+      "answerOptions": [
+        {
+          "text": "Elegir siempre al proveedor con mayor antig\u00fcedad.",
+          "isCorrect": false,
+          "rationale": "La antig\u00fcedad no garantiza calidad ni cumplimiento en un entorno din\u00e1mico."
+        },
+        {
+          "text": "Auditar sin descanso y anticiparse a cualquier amenaza.",
+          "isCorrect": true,
+          "rationale": "La gesti\u00f3n robusta es un ciclo implacable de alta exigencia, auditor\u00eda y monitoreo continuo."
+        },
+        {
+          "text": "Eliminar todos los criterios cualitativos de la evaluaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Ambos criterios (cualitativos y cuantitativos) son necesarios para mantener el equilibrio en la balanza."
+        },
+        {
+          "text": "Aceptar promesas verbales para agilizar la log\u00edstica.",
+          "isCorrect": false,
+          "rationale": "La solidez se demuestra con papeles y evidencias, no con promesas, para evitar riesgos."
+        }
+      ],
+      "hint": "Es parte de un ciclo que incluye la exigencia en la elecci\u00f3n y la prevenci\u00f3n de riesgos."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define la 'verdad operativa' en el contexto de la gesti\u00f3n de proveedores?",
+      "answerOptions": [
+        {
+          "text": "La informaci\u00f3n contenida en el brochure publicitario del proveedor.",
+          "isCorrect": false,
+          "rationale": "La publicidad suele mostrar una versi\u00f3n idealizada, no necesariamente la realidad diaria."
+        },
+        {
+          "text": "La validaci\u00f3n directa en el terreno que supera lo que 'el papel aguanta'.",
+          "isCorrect": true,
+          "rationale": "Es la realidad verificada f\u00edsicamente mediante auditor\u00edas, diferenci\u00e1ndose de la base puramente documental."
+        },
+        {
+          "text": "La opini\u00f3n del gerente de compras sobre el proveedor.",
+          "isCorrect": false,
+          "rationale": "La opini\u00f3n es subjetiva; la verdad operativa requiere an\u00e1lisis de desempe\u00f1o real y datos t\u00e9cnicos."
+        },
+        {
+          "text": "El monto total de la factura emitida al final del mes.",
+          "isCorrect": false,
+          "rationale": "El monto es un dato financiero, pero no explica c\u00f3mo se ejecutaron los procesos internos del socio."
+        }
+      ],
+      "hint": "Considere la diferencia entre lo que dice un contrato y lo que realmente ocurre en la planta de producci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 est\u00e1ndar internacional se menciona para clasificar riesgos din\u00e1micos en niveles alto, medio o bajo?",
+      "answerOptions": [
+        {
+          "text": "La versi\u00f3n 8 de BRCGS Food o la iniciativa GFSI.",
+          "isCorrect": true,
+          "rationale": "Estos marcos avanzados permiten mantener a la organizaci\u00f3n un paso adelante en el monitoreo de amenazas."
+        },
+        {
+          "text": "El c\u00f3digo de \u00e9tica de la asociaci\u00f3n local de comerciantes.",
+          "isCorrect": false,
+          "rationale": "Los c\u00f3digos locales son \u00fatiles pero carecen del rigor de est\u00e1ndares internacionales como BRCGS."
+        },
+        {
+          "text": "La matriz de costos de transporte regional.",
+          "isCorrect": false,
+          "rationale": "Esta matriz mide gastos log\u00edsticos, no clasifica riesgos operativos o de seguridad alimentaria/calidad."
+        },
+        {
+          "text": "La lista de precios sugeridos por el fabricante.",
+          "isCorrect": false,
+          "rationale": "Los precios son datos comerciales que no sirven para clasificar la evoluci\u00f3n de amenazas externas."
+        }
+      ],
+      "hint": "Piense en normativas globales que se utilizan para la seguridad alimentaria y la gesti\u00f3n avanzada de riesgos."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Homologaci\u00f3n de Proveedores",
+      "Evaluaci\u00f3n Multidimensional de Criterios",
+      "Costo Total de Pertenencia (TCO)",
+      "Segmentaci\u00f3n con Matriz de Kraljic",
+      "Fases del Proceso de Homologaci\u00f3n",
+      "Tipos de Auditor\u00edas Operativas",
+      "Marco Trinorma (ISO 9001, 14001, 45001)",
+      "Gesti\u00f3n y Mitigaci\u00f3n de Riesgos en Cadena de Suministro"
+    ],
+    "followUp": [
+      "Indicadores de Desempe\u00f1o Log\u00edstico (SLAs)",
+      "An\u00e1lisis Forense de Dependencia Financiera",
+      "\u00c9tica y Compliance en Compras Estrat\u00e9gicas",
+      "Planes de Continuidad de Negocio ante Desastres",
+      "Certificaciones Sectoriales Espec\u00edficas (BRCGS, GFSI)"
+    ]
+  }
+}

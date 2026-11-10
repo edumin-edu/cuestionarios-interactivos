@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l fue la raz\u00f3n principal por la que Henry Ford descart\u00f3 a un candidato con curr\u00edculum impecable tras observar c\u00f3mo com\u00eda sopa?",
+      "answerOptions": [
+        {
+          "text": "Evidenciaba una falta de modales b\u00e1sicos necesarios para la representaci\u00f3n corporativa de alto nivel.",
+          "isCorrect": false,
+          "rationale": "Aunque el comportamiento ocurri\u00f3 en una comida, el an\u00e1lisis de Ford no se centraba en la etiqueta, sino en el proceso cognitivo detr\u00e1s de la acci\u00f3n."
+        },
+        {
+          "text": "Actuar sin probar primero demostraba una tendencia a emitir juicios r\u00e1pidos sin investigar previamente.",
+          "isCorrect": true,
+          "rationale": "El acto de salar la sopa antes de probarla simboliza la toma de decisiones precipitada sin contar con datos o an\u00e1lisis previo del contexto."
+        },
+        {
+          "text": "Reflejaba una incapacidad de seguir protocolos establecidos en la cadena de mando de la f\u00e1brica.",
+          "isCorrect": false,
+          "rationale": "El ejemplo se utiliza para ilustrar la falta de prudencia y an\u00e1lisis, no una desobediencia a \u00f3rdenes jer\u00e1rquicas."
+        },
+        {
+          "text": "Indicaba que el candidato pose\u00eda una actitud arrogante frente a las creaciones de los dem\u00e1s.",
+          "isCorrect": false,
+          "rationale": "La l\u00f3gica de Ford se basaba en la metodolog\u00eda de investigaci\u00f3n y juicio, no en la percepci\u00f3n de arrogancia o soberbia del individuo."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre la acci\u00f3n inmediata y la falta de validaci\u00f3n de la realidad antes de actuar."
+    },
+    {
+      "question": "En el contexto de la taxonom\u00eda del liderazgo minero, \u00bfcu\u00e1l es la caracter\u00edstica principal del enfoque ontol\u00f3gico?",
+      "answerOptions": [
+        {
+          "text": "Se centra en la adaptabilidad del l\u00edder frente a crisis geol\u00f3gicas inesperadas.",
+          "isCorrect": false,
+          "rationale": "La adaptabilidad es una caracter\u00edstica del enfoque situacional-conductual, no del estudio de la esencia del ser."
+        },
+        {
+          "text": "Explora si la capacidad de mando es una cualidad innata o adquirida a trav\u00e9s de la experiencia.",
+          "isCorrect": true,
+          "rationale": "Este enfoque analiza la esencia del l\u00edder bajo la premisa de la teor\u00eda del gran hombre, debatiendo si el l\u00edder nace o se hace."
+        },
+        {
+          "text": "Establece que el liderazgo debe basarse estrictamente en el cumplimiento de indicadores financieros.",
+          "isCorrect": false,
+          "rationale": "El cumplimiento de metas y m\u00e9tricas financieras pertenece al enfoque teleol\u00f3gico o pragm\u00e1tico."
+        },
+        {
+          "text": "Propone que el l\u00edder debe actuar como un mediador cultural entre la sede central y el campamento.",
+          "isCorrect": false,
+          "rationale": "La mediaci\u00f3n cultural es una funci\u00f3n del l\u00edder estrat\u00e9gico para mantener el clima laboral, no es la base del enfoque ontol\u00f3gico."
+        }
+      ],
+      "hint": "Piense en el debate cl\u00e1sico sobre el origen de las capacidades directivas."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la teor\u00eda democr\u00e1tica de liderazgo es considerada vital para validar los programas operativos en miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Porque permite que la alta gerencia delegue la responsabilidad legal a los supervisores de campo.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad legal de la seguridad es indelegable y estatutaria para la alta gerencia seg\u00fan la normativa vigente."
+        },
+        {
+          "text": "Porque utiliza la experiencia real de los trabajadores de primera l\u00ednea para ajustar la teor\u00eda a la pr\u00e1ctica.",
+          "isCorrect": true,
+          "rationale": "La inclusi\u00f3n sist\u00e9mica permite que quienes ejecutan las tareas aporten su conocimiento sobre lo que funciona o no en el terreno."
+        },
+        {
+          "text": "Porque elimina la necesidad de contar con una jerarqu\u00eda r\u00edgida durante las situaciones de emergencia.",
+          "isCorrect": false,
+          "rationale": "Incluso en modelos democr\u00e1ticos, las emergencias suelen requerir decisiones r\u00e1pidas y estructuras claras para salvar vidas."
+        },
+        {
+          "text": "Porque acelera los procesos de toma de decisiones estrat\u00e9gicas al eliminar el debate interno.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el modelo democr\u00e1tico fomenta el di\u00e1logo y la inclusi\u00f3n, lo que puede tomar m\u00e1s tiempo pero genera mayor compromiso."
+        }
+      ],
+      "hint": "Considere qui\u00e9n posee el conocimiento directo sobre los procesos en el tajo abierto."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 se debe habitualmente que profesionales exitosos en la gran miner\u00eda fracasen al trasladarse a la mediana miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "A la falta de conocimientos t\u00e9cnicos avanzados sobre nuevos m\u00e9todos de extracci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El fracaso no suele ser t\u00e9cnico, ya que los est\u00e1ndares de la gran miner\u00eda suelen ser superiores o similares."
+        },
+        {
+          "text": "A la imposibilidad de aplicar conductas de liderazgo adaptables a infraestructuras menos robustas.",
+          "isCorrect": true,
+          "rationale": "La efectividad depende de la adaptabilidad al contexto, y muchos l\u00edderes no saben operar sin el respaldo masivo de recursos de la gran miner\u00eda."
+        },
+        {
+          "text": "Al rechazo autom\u00e1tico de los equipos locales hacia los l\u00edderes externos con mayor formaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque el rechazo puede existir, la causa ra\u00edz identificada es la falta de plasticidad conductual del l\u00edder ante un entorno diferente."
+        },
+        {
+          "text": "A la diferencia salarial y la reducci\u00f3n de beneficios corporativos que afecta su motivaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis se centra en la competencia de liderazgo situacional y adaptabilidad, no en factores de compensaci\u00f3n econ\u00f3mica."
+        }
+      ],
+      "hint": "Recuerde el concepto de plasticidad en el liderazgo frente a cambios de entorno."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo primordial del enfoque teleol\u00f3gico en el liderazgo minero?",
+      "answerOptions": [
+        {
+          "text": "La formaci\u00f3n de sucesores para garantizar la memoria institucional de la empresa.",
+          "isCorrect": false,
+          "rationale": "La formaci\u00f3n de reemplazos es la prioridad del enfoque hol\u00edstico, no del teleol\u00f3gico."
+        },
+        {
+          "text": "La consecuci\u00f3n de metas pragm\u00e1ticas y el cumplimiento de los $KPI$ establecidos.",
+          "isCorrect": true,
+          "rationale": "Este enfoque es puramente pragm\u00e1tico y se orienta a resultados medibles, certificaciones e indicadores de desempe\u00f1o."
+        },
+        {
+          "text": "El desarrollo de la inteligencia emocional para mejorar el clima en el campamento.",
+          "isCorrect": false,
+          "rationale": "El enfoque teleol\u00f3gico es m\u00e1s fr\u00edo y se centra en los n\u00fameros y la rentabilidad antes que en el desarrollo emocional."
+        },
+        {
+          "text": "La implementaci\u00f3n de una estructura de poder horizontal y descentralizada.",
+          "isCorrect": false,
+          "rationale": "La estructura de poder no es el fin del enfoque teleol\u00f3gico, sino la articulaci\u00f3n eficiente para lograr la rentabilidad."
+        }
+      ],
+      "hint": "Asocie este enfoque con la terminolog\u00eda de gesti\u00f3n por resultados."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia directa tiene la elecci\u00f3n de un estilo de liderazgo puramente autocr\u00e1tico en una organizaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "Un aumento inmediato en la eficiencia operativa debido a la rapidez de las \u00f3rdenes.",
+          "isCorrect": false,
+          "rationale": "Aunque parezca r\u00e1pido, a largo plazo la supresi\u00f3n de opiniones asfixia la innovaci\u00f3n y deteriora la moral, afectando la eficiencia."
+        },
+        {
+          "text": "La fuga de la memoria institucional debido a la atrici\u00f3n voluntaria masiva del personal.",
+          "isCorrect": true,
+          "rationale": "El maltrato o la falta de participaci\u00f3n provocan que el talento clave renuncie, llev\u00e1ndose consigo el conocimiento cr\u00edtico de la empresa."
+        },
+        {
+          "text": "La mejora en los est\u00e1ndares de seguridad al no permitir desviaciones del reglamento.",
+          "isCorrect": false,
+          "rationale": "El liderazgo autocr\u00e1tico suele generar miedo, lo que lleva al ocultamiento de incidentes en lugar de a una cultura de seguridad real."
+        },
+        {
+          "text": "La reducci\u00f3n de los costos judiciales por conflictos laborales al centralizar las decisiones.",
+          "isCorrect": false,
+          "rationale": "En realidad, este estilo genera costos judiciales ocultos bajo la alfombra debido a los constantes conflictos con los trabajadores."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 sucede con los empleados talentosos cuando no se sienten valorados o escuchados."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los tres pilares fundamentales que sostienen a un l\u00edder de seguridad en el terreno?",
+      "answerOptions": [
+        {
+          "text": "Fiscalizaci\u00f3n remota, reportes estad\u00edsticos y cumplimiento presupuestario.",
+          "isCorrect": false,
+          "rationale": "La fiscalizaci\u00f3n remota se menciona como una pr\u00e1ctica insuficiente que genera vac\u00edos en la rendici\u00f3n de cuentas."
+        },
+        {
+          "text": "Ejemplaridad, di\u00e1logo activo y capacidad de intervenci\u00f3n inmediata ante riesgos.",
+          "isCorrect": true,
+          "rationale": "Un l\u00edder debe cumplir la norma, fomentar la retroalimentaci\u00f3n y detener cualquier condici\u00f3n insegura en el acto."
+        },
+        {
+          "text": "Autoridad jer\u00e1rquica, aplicaci\u00f3n de sanciones y revisi\u00f3n trimestral de reglamentos.",
+          "isCorrect": false,
+          "rationale": "Estos elementos son administrativos, pero los pilares operativos se basan en la acci\u00f3n y el comportamiento diario."
+        },
+        {
+          "text": "Certificaci\u00f3n externa, auditor\u00edas de calidad y planeamiento estrat\u00e9gico de largo plazo.",
+          "isCorrect": false,
+          "rationale": "Aunque son importantes para la empresa, el perfil del l\u00edder en el terreno requiere una interacci\u00f3n directa y ejemplar con el equipo."
+        }
+      ],
+      "hint": "Identifique las acciones que un supervisor debe realizar f\u00edsicamente en la operaci\u00f3n."
+    },
+    {
+      "question": "Seg\u00fan el marco jur\u00eddico peruano (Decreto Supremo $024-2016-EM$), \u00bfcu\u00e1l es la naturaleza de la gesti\u00f3n de seguridad para la alta gerencia?",
+      "answerOptions": [
+        {
+          "text": "Es una recomendaci\u00f3n de buenas pr\u00e1cticas para mejorar la reputaci\u00f3n corporativa.",
+          "isCorrect": false,
+          "rationale": "La ley no lo plantea como una sugerencia, sino como un mandato legal riguroso y obligatorio."
+        },
+        {
+          "text": "Se considera una formalidad estad\u00edstica que debe ser reportada anualmente al ministerio.",
+          "isCorrect": false,
+          "rationale": "La normativa exige que sea una gesti\u00f3n transversal y operativa, no un simple checklist de gabinete."
+        },
+        {
+          "text": "Constituye una obligaci\u00f3n estatutaria que debe gestionarse de manera transversal.",
+          "isCorrect": true,
+          "rationale": "La ley exige liderazgo, compromiso y presupuesto obligatorio, integrando la seguridad en el n\u00facleo de la gesti\u00f3n directiva."
+        },
+        {
+          "text": "Representa una funci\u00f3n delegable exclusivamente a los jefes de guardia y supervisores.",
+          "isCorrect": false,
+          "rationale": "El decreto enfatiza que el liderazgo y compromiso deben provenir de la alta gerencia con todo el peso de su cargo."
+        }
+      ],
+      "hint": "Diferencie entre lo que es opcional y lo que es un mandato legal imperativo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 revela la estad\u00edstica del Ministerio de Energ\u00eda y Minas sobre los fallecimientos ocurridos entre enero y agosto?",
+      "answerOptions": [
+        {
+          "text": "Que la mayor\u00eda de los accidentes ocurren en las oficinas administrativas de la capital.",
+          "isCorrect": false,
+          "rationale": "Los accidentes fatales ocurren en la operaci\u00f3n minera, no en entornos de oficina."
+        },
+        {
+          "text": "Que la vulnerabilidad es cr\u00edtica en las operaciones que involucran a empresas contratistas.",
+          "isCorrect": true,
+          "rationale": "De $39$ muertes reportadas, $31$ correspondieron a trabajadores de terceros, evidenciando fallas en el liderazgo sobre contratistas."
+        },
+        {
+          "text": "Que las inversiones en tecnolog\u00eda han logrado reducir a cero las fatalidades en el sector.",
+          "isCorrect": false,
+          "rationale": "Las cifras de fallecimientos ($39$ en el periodo mencionado) desmienten la eliminaci\u00f3n total de los riesgos fatales."
+        },
+        {
+          "text": "Que el factor geol\u00f3gico es la causa principal e inevitable de todas las muertes registradas.",
+          "isCorrect": false,
+          "rationale": "La estad\u00edstica se utiliza para criticar el liderazgo 'virtual' y la falta de fiscalizaci\u00f3n en terreno, no para culpar solo a la geolog\u00eda."
+        }
+      ],
+      "hint": "Observe la distribuci\u00f3n de las v\u00edctimas seg\u00fan su tipo de contrato laboral."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 se diferencia el rol de la gerencia del rol del liderazgo dentro de un equipo minero?",
+      "answerOptions": [
+        {
+          "text": "La gerencia se enfoca en el 'qui\u00e9n' y el 'por qu\u00e9', mientras el liderazgo en el 'qu\u00e9' y el 'cu\u00e1ndo'.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s: la gerencia es transaccional y se enfoca en sistemas/tiempos, mientras el liderazgo en personas/prop\u00f3sito."
+        },
+        {
+          "text": "La gerencia administra sistemas y presupuestos, mientras el liderazgo desarrolla personas e inspira visi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La gerencia se ocupa de lo log\u00edstico y operacional (transaccional), mientras que el l\u00edder se enfoca en el capital humano (transformacional)."
+        },
+        {
+          "text": "El liderazgo es una funci\u00f3n administrativa, mientras la gerencia es una habilidad puramente blanda.",
+          "isCorrect": false,
+          "rationale": "La gerencia es una funci\u00f3n de administraci\u00f3n t\u00e9cnica y el liderazgo es la capacidad de influencia y gu\u00eda humana."
+        },
+        {
+          "text": "No existe diferencia pr\u00e1ctica, ya que ambos t\u00e9rminos se usan indistintamente en el organigrama.",
+          "isCorrect": false,
+          "rationale": "Confundir ambos perfiles es un error com\u00fan que puede destruir el valor de un proyecto a largo plazo."
+        }
+      ],
+      "hint": "Piense en cu\u00e1l de los dos conceptos est\u00e1 m\u00e1s ligado a la administraci\u00f3n de objetos y cu\u00e1l a la inspiraci\u00f3n de personas."
+    },
+    {
+      "question": "\u00bfC\u00f3mo utiliza un verdadero l\u00edder un error operativo cometido por su equipo?",
+      "answerOptions": [
+        {
+          "text": "Como una justificaci\u00f3n necesaria para aplicar sanciones disciplinarias ejemplares.",
+          "isCorrect": false,
+          "rationale": "El castigo punitivo no es la prioridad del l\u00edder estrat\u00e9gico, quien busca el desarrollo del equipo."
+        },
+        {
+          "text": "Como un insumo vital para corregir procesos y generar aprendizaje organizacional.",
+          "isCorrect": true,
+          "rationale": "El l\u00edder transforma el error inevitable en una oportunidad para mejorar el sistema y evitar repeticiones futuras."
+        },
+        {
+          "text": "Como una m\u00e9trica negativa que debe ser ocultada para no afectar los bonos de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Ocultar incidentes es parte de una cultura de seguridad deficiente que el liderazgo busca erradicar."
+        },
+        {
+          "text": "Como una prueba de la incompetencia t\u00e9cnica que requiere el reemplazo inmediato del personal.",
+          "isCorrect": false,
+          "rationale": "El enfoque del l\u00edder es desarrollar a las personas, no descartarlas al primer fallo operativo."
+        }
+      ],
+      "hint": "Considere la diferencia entre una visi\u00f3n punitiva y una visi\u00f3n educativa de la falla."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la empat\u00eda y la escucha activa son consideradas competencias cr\u00edticas en un rubro tan t\u00e9cnico como la ingenier\u00eda minera?",
+      "answerOptions": [
+        {
+          "text": "Porque permiten detectar fallas estructurales que los sensores t\u00e9cnicos suelen omitir.",
+          "isCorrect": true,
+          "rationale": "La base operativa experimenta condiciones en el terreno que los instrumentos tecnol\u00f3gicos a veces no captan o no pueden interpretar."
+        },
+        {
+          "text": "Porque facilitan el cumplimiento de las normativas de recursos humanos de la casa matriz.",
+          "isCorrect": false,
+          "rationale": "Aunque ayudan, su valor real es operativo y preventivo en la detecci\u00f3n de riesgos latentes."
+        },
+        {
+          "text": "Porque reducen la necesidad de invertir en mantenimiento preventivo de maquinaria.",
+          "isCorrect": false,
+          "rationale": "La comunicaci\u00f3n no reemplaza el mantenimiento, pero ayuda a identificar cu\u00e1ndo este es urgente o deficiente."
+        },
+        {
+          "text": "Porque ayudan a convencer a los trabajadores de aceptar condiciones de riesgo sin protestar.",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda una manipulaci\u00f3n, lo cual es opuesto a la asertividad y la \u00e9tica de seguridad discutida."
+        }
+      ],
+      "hint": "Piense en la informaci\u00f3n que poseen los trabajadores que est\u00e1n en la 'primera l\u00ednea de fuego'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n del l\u00edder estrat\u00e9gico como 'mediador cultural' en una empresa multinacional?",
+      "answerOptions": [
+        {
+          "text": "Imponer estrictamente el manual de la sede internacional sin importar el contexto local.",
+          "isCorrect": false,
+          "rationale": "Imponer manuales a la fuerza ignora la realidad humana del campamento y genera conflictos."
+        },
+        {
+          "text": "Armonizar las exigencias de la casa matriz con la realidad social y humana del campamento.",
+          "isCorrect": true,
+          "rationale": "El l\u00edder debe ser un puente entre visiones corporativas (como la canadiense o asi\u00e1tica) y la idiosincrasia del personal local."
+        },
+        {
+          "text": "Traducir los documentos t\u00e9cnicos de un idioma a otro para los trabajadores operativos.",
+          "isCorrect": false,
+          "rationale": "La mediaci\u00f3n cultural es conceptual y actitudinal, no una simple tarea de traducci\u00f3n ling\u00fc\u00edstica."
+        },
+        {
+          "text": "Asegurar que toda la cultura del campamento sea reemplazada por la cultura de la matriz.",
+          "isCorrect": false,
+          "rationale": "El objetivo es la armonizaci\u00f3n y el di\u00e1logo, no la supresi\u00f3n de la cultura local."
+        }
+      ],
+      "hint": "Reflexione sobre la necesidad de equilibrar los est\u00e1ndares globales con las costumbres y realidades locales."
+    },
+    {
+      "question": "En el proceso metodol\u00f3gico de toma de decisiones, \u00bfqu\u00e9 se realiza durante la fase de 'evaluaci\u00f3n'?",
+      "answerOptions": [
+        {
+          "text": "Se diagnostica el problema principal, como un d\u00e9ficit en el sistema de transporte.",
+          "isCorrect": false,
+          "rationale": "El diagn\u00f3stico inicial pertenece a la fase de identificaci\u00f3n, no a la de evaluaci\u00f3n."
+        },
+        {
+          "text": "Se utilizan herramientas anal\u00edticas para proyectar m\u00e9tricas como el Valor Presente Neto ($VPN$).",
+          "isCorrect": true,
+          "rationale": "La evaluaci\u00f3n consiste en el uso de rigor anal\u00edtico y c\u00e1lculos financieros para comparar las alternativas propuestas."
+        },
+        {
+          "text": "Se definen los criterios de \u00e9xito, como el tiempo de mantenimiento y el impacto ambiental.",
+          "isCorrect": false,
+          "rationale": "La definici\u00f3n de reglas de juego pertenece a la fase de criterios."
+        },
+        {
+          "text": "Se realiza una auditor\u00eda posterior para confirmar si se cumplieron las proyecciones.",
+          "isCorrect": false,
+          "rationale": "La auditor\u00eda posterior a la implementaci\u00f3n es la fase de seguimiento."
+        }
+      ],
+      "hint": "Relacione esta fase con el uso de la calculadora y el an\u00e1lisis de rentabilidad de las opciones."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representan los 'nodos circulares' dentro de un \u00e1rbol de decisiones estrat\u00e9gico?",
+      "answerOptions": [
+        {
+          "text": "Los puntos de control absoluto donde el l\u00edder decide qu\u00e9 camino seguir.",
+          "isCorrect": false,
+          "rationale": "Los puntos de control y decisi\u00f3n propia se representan con nodos cuadrados."
+        },
+        {
+          "text": "Escenarios que dependen del entorno y est\u00e1n fuera del control del decisor.",
+          "isCorrect": true,
+          "rationale": "Los nodos circulares representan probabilidades externas, como la fluctuaci\u00f3n del precio de los commodities."
+        },
+        {
+          "text": "El resultado econ\u00f3mico final de una rama espec\u00edfica del proyecto.",
+          "isCorrect": false,
+          "rationale": "Los resultados terminales o econ\u00f3micos suelen representarse con tri\u00e1ngulos al final de las ramas."
+        },
+        {
+          "text": "La fase de identificaci\u00f3n de riesgos geol\u00f3gicos imprevistos.",
+          "isCorrect": false,
+          "rationale": "El \u00e1rbol de decisiones es un mapa probabil\u00edstico completo, no una fase aislada de diagn\u00f3stico."
+        }
+      ],
+      "hint": "Diferencie entre lo que usted puede elegir y lo que el azar o el mercado determinan."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define la comunicaci\u00f3n asertiva en un entorno minero de alto riesgo?",
+      "answerOptions": [
+        {
+          "text": "Como la capacidad de imponer \u00f3rdenes directas sin permitir cuestionamientos del equipo.",
+          "isCorrect": false,
+          "rationale": "Esto describe un estilo agresivo o autocr\u00e1tico, no la asertividad."
+        },
+        {
+          "text": "Como un punto de equilibrio que evita tanto la agresi\u00f3n como la sumisi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La asertividad permite expresar disensos de forma respetuosa y firme, garantizando la seguridad psicol\u00f3gica."
+        },
+        {
+          "text": "Como la habilidad de evitar cualquier tipo de conflicto para mantener la armon\u00eda.",
+          "isCorrect": false,
+          "rationale": "Evitar conflictos por miedo a la confrontaci\u00f3n se asocia m\u00e1s con la sumisi\u00f3n que con la asertividad."
+        },
+        {
+          "text": "Como el uso de canales tecnol\u00f3gicos para evitar el contacto f\u00edsico entre jerarqu\u00edas.",
+          "isCorrect": false,
+          "rationale": "La comunicaci\u00f3n asertiva es una habilidad interpersonal y t\u00e1ctica, no una elecci\u00f3n de medio tecnol\u00f3gico."
+        }
+      ],
+      "hint": "Busque el concepto que promueve un espacio donde se pueda levantar la mano ante el peligro sin miedo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito real de aplicar la 'Ventana de Yohari' en la gesti\u00f3n de conflictos mineros?",
+      "answerOptions": [
+        {
+          "text": "Establecer qui\u00e9n tiene la culpa definitiva de un incidente operativo.",
+          "isCorrect": false,
+          "rationale": "La herramienta no busca culpables, sino mejorar la comunicaci\u00f3n y el entendimiento mutuo."
+        },
+        {
+          "text": "Detectar los 'puntos ciegos' de informaci\u00f3n entre el l\u00edder y la base operativa.",
+          "isCorrect": true,
+          "rationale": "Permite sacar a la luz informaci\u00f3n que una parte conoce pero la otra ignora, cerrando brechas de percepci\u00f3n."
+        },
+        {
+          "text": "Clasificar a los trabajadores seg\u00fan su nivel de rendimiento t\u00e9cnico.",
+          "isCorrect": false,
+          "rationale": "La Ventana de Yohari es una herramienta de percepci\u00f3n y comunicaci\u00f3n, no de evaluaci\u00f3n de desempe\u00f1o t\u00e9cnico."
+        },
+        {
+          "text": "Automatizar la entrega de sanciones disciplinarias tras una falta grave.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de conflictos sigue una progresi\u00f3n l\u00f3gica (indagaci\u00f3n, mediaci\u00f3n, arbitraje) antes de llegar a sanciones."
+        }
+      ],
+      "hint": "Piense en la informaci\u00f3n que es obvia para el operador pero invisible para el gerente (o viceversa)."
+    },
+    {
+      "question": "En la progresi\u00f3n l\u00f3gica para manejar un conflicto o incumplimiento, \u00bfqu\u00e9 ocurre durante la etapa de 'indagaci\u00f3n'?",
+      "answerOptions": [
+        {
+          "text": "Un tercero neutral emite un fallo obligatorio para ambas partes.",
+          "isCorrect": false,
+          "rationale": "La emisi\u00f3n de una decisi\u00f3n vinculante corresponde a la etapa de arbitraje."
+        },
+        {
+          "text": "Se realiza una investigaci\u00f3n objetiva de los hechos sin asumir responsabilidades previas.",
+          "isCorrect": true,
+          "rationale": "La indagaci\u00f3n es el primer paso y busca recolectar evidencia clara antes de cualquier mediaci\u00f3n o sanci\u00f3n."
+        },
+        {
+          "text": "Se aplica una sanci\u00f3n disciplinaria basada en el reglamento interno.",
+          "isCorrect": false,
+          "rationale": "Las sanciones solo deben aplicarse despu\u00e9s de agotar las instancias de indagaci\u00f3n, facilitaci\u00f3n y arbitraje."
+        },
+        {
+          "text": "Se busca un consenso voluntario entre las partes con ayuda de un mediador.",
+          "isCorrect": false,
+          "rationale": "La b\u00fasqueda de consenso asistido es propia de la etapa de facilitaci\u00f3n o mediaci\u00f3n."
+        }
+      ],
+      "hint": "Es el primer paso del proceso y se centra exclusivamente en los datos y hechos."
+    },
+    {
+      "question": "Dentro del modelo de liderazgo visible de Antapacaya, \u00bfqu\u00e9 implica el paso de 'chequeo directo del $IPERC$ en terreno'?",
+      "answerOptions": [
+        {
+          "text": "Revisar que todos los documentos est\u00e9n firmados correctamente en la oficina del superintendente.",
+          "isCorrect": false,
+          "rationale": "El chequeo en oficina es insuficiente; el modelo exige verificar los controles en el lugar de la tarea."
+        },
+        {
+          "text": "Verificar f\u00edsicamente en el lugar de trabajo que los controles de riesgo se est\u00e9n aplicando.",
+          "isCorrect": true,
+          "rationale": "No es solo un tr\u00e1mite documental, sino una comprobaci\u00f3n 'in situ' de la seguridad operativa."
+        },
+        {
+          "text": "Delegar la revisi\u00f3n de los peligros a una empresa auditora externa.",
+          "isCorrect": false,
+          "rationale": "El liderazgo visible requiere que sea el propio l\u00edder quien realice la supervisi\u00f3n activa en el campo."
+        },
+        {
+          "text": "Enviar un mensaje de texto a los operadores preguntando si el \u00e1rea es segura.",
+          "isCorrect": false,
+          "rationale": "La supervisi\u00f3n remota es un sustituto deficiente que no cumple con el ciclo de liderazgo visible."
+        }
+      ],
+      "hint": "Piense en la diferencia entre validar un papel y observar la realidad de la operaci\u00f3n."
+    },
+    {
+      "question": "Seg\u00fan el esquema del 'Ritmo de Negocio', \u00bfqu\u00e9 actividad espec\u00edfica debe realizar el l\u00edder los d\u00edas viernes?",
+      "answerOptions": [
+        {
+          "text": "Alinear al equipo mediante el di\u00e1logo diario de seguridad.",
+          "isCorrect": false,
+          "rationale": "La alineaci\u00f3n con el di\u00e1logo diario es la tarea asignada al inicio de la semana (lunes)."
+        },
+        {
+          "text": "Realizar la verificaci\u00f3n del $IPERC$ directamente en el campo.",
+          "isCorrect": true,
+          "rationale": "El viernes se destina espec\u00edficamente a la revisi\u00f3n presencial de la identificaci\u00f3n de peligros y control de riesgos."
+        },
+        {
+          "text": "Evaluar incidentes de alto potencial ocurridos durante la semana.",
+          "isCorrect": false,
+          "rationale": "La evaluaci\u00f3n de incidentes de alto potencial est\u00e1 programada para los d\u00edas s\u00e1bado."
+        },
+        {
+          "text": "Revisar los reportes de condiciones subest\u00e1ndares de la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La revisi\u00f3n de reportes de condiciones subest\u00e1ndares se realiza los d\u00edas jueves."
+        }
+      ],
+      "hint": "Cada d\u00eda tiene una tarea no negociable; esta en particular se enfoca en el documento preventivo b\u00e1sico en el terreno."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Taxonom\u00eda del Liderazgo Minero",
+      "Modelos de Toma de Decisiones Estrat\u00e9gicas",
+      "Seguridad y Salud Ocupacional (SSO) en Miner\u00eda",
+      "Arquitectura de Equipos y Clima Laboral",
+      "Comunicaci\u00f3n Asertiva y Gesti\u00f3n de Conflictos",
+      "Modelos de Liderazgo Visible y Disciplina Operativa"
+    ],
+    "followUp": [
+      "Legislaci\u00f3n Minera y Decreto Supremo 024-2016-EM",
+      "An\u00e1lisis Probabil\u00edstico con \u00c1rboles de Decisi\u00f3n",
+      "Gesti\u00f3n de Riesgos Cr\u00edticos y Fatalidades",
+      "Psicolog\u00eda Organizacional aplicada a la Miner\u00eda",
+      "Cultura de Seguridad Preventiva y Reporte"
+    ]
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la principal consecuencia de ignorar la calidad de los datos al alimentar un algoritmo de machine learning?",
+      "answerOptions": [
+        {
+          "text": "Se multiplica el riesgo de que el modelo aprenda patrones totalmente equivocados.",
+          "isCorrect": true,
+          "rationale": "Este fen\u00f3meno se conoce como 'garbage in, garbage out', donde datos de mala calidad resultan en modelos con predicciones err\u00f3neas o sesgadas."
+        },
+        {
+          "text": "El algoritmo tardar\u00e1 m\u00e1s tiempo en procesar la informaci\u00f3n pero mantendr\u00e1 su precisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La mala calidad de los datos no solo afecta el tiempo de procesamiento, sino que compromete directamente la validez de los resultados finales."
+        },
+        {
+          "text": "Se optimiza autom\u00e1ticamente la memoria del sistema al ignorar valores ruidosos.",
+          "isCorrect": false,
+          "rationale": "Ignorar la calidad no es una t\u00e9cnica de optimizaci\u00f3n; por el contrario, requiere procesos de limpieza manual para optimizar la memoria."
+        },
+        {
+          "text": "El modelo se vuelve autom\u00e1ticamente m\u00e1s explicable para los gerentes de finanzas.",
+          "isCorrect": false,
+          "rationale": "La explicabilidad depende de la arquitectura del modelo y la ingenier\u00eda de variables, no de la presencia de datos ruidosos o deficientes."
+        }
+      ],
+      "hint": "Recuerda el principio industrial que describe la relaci\u00f3n entre la entrada de basura y la salida de resultados."
+    },
+    {
+      "question": "En el preprocesamiento de datos, \u00bfpor qu\u00e9 se prefiere la imputaci\u00f3n de valores nulos sobre simplemente borrarlos?",
+      "answerOptions": [
+        {
+          "text": "Para evitar la creaci\u00f3n de un sesgo enorme que borre la historia de grupos demogr\u00e1ficos enteros.",
+          "isCorrect": true,
+          "rationale": "La eliminaci\u00f3n masiva de registros con valores faltantes puede distorsionar la representatividad de la muestra y omitir patrones cr\u00edticos."
+        },
+        {
+          "text": "Porque borrar datos aumenta artificialmente la correlaci\u00f3n de Pearson.",
+          "isCorrect": false,
+          "rationale": "Borrar datos reduce el tama\u00f1o de la muestra, pero no tiene como objetivo espec\u00edfico o beneficio directo alterar el coeficiente de Pearson."
+        },
+        {
+          "text": "Para asegurar que todas las variables tengan una distribuci\u00f3n normal perfecta.",
+          "isCorrect": false,
+          "rationale": "La imputaci\u00f3n ayuda a completar la base de datos, pero no garantiza que los datos sigan una distribuci\u00f3n normal o campana de Gauss."
+        },
+        {
+          "text": "Porque la funci\u00f3n drop en Python solo funciona con variables categ\u00f3ricas.",
+          "isCorrect": false,
+          "rationale": "La funci\u00f3n drop se utiliza para eliminar columnas o filas completas, independientemente de si son categ\u00f3ricas o num\u00e9ricas."
+        }
+      ],
+      "hint": "Considera qu\u00e9 sucede con la representatividad de la informaci\u00f3n si se eliminan registros arbitrariamente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la limitaci\u00f3n t\u00e9cnica m\u00e1s com\u00fan al utilizar el coeficiente de correlaci\u00f3n de Pearson en datos del mundo real?",
+      "answerOptions": [
+        {
+          "text": "Asume que los datos tienen una distribuci\u00f3n normal o campana de Gauss perfecta.",
+          "isCorrect": true,
+          "rationale": "Pearson es un coeficiente param\u00e9trico que pierde precisi\u00f3n cuando los datos presentan asimetr\u00eda o relaciones no lineales."
+        },
+        {
+          "text": "No permite identificar variables con correlaci\u00f3n absoluta de cero.",
+          "isCorrect": false,
+          "rationale": "Pearson puede identificar la falta de correlaci\u00f3n (cero), pero falla al capturar la naturaleza de las relaciones no lineales."
+        },
+        {
+          "text": "Requiere obligatoriamente que los datos est\u00e9n escalados entre $0$ y $1$.",
+          "isCorrect": false,
+          "rationale": "El escalamiento es crucial para las redes neuronales, pero no es un requisito matem\u00e1tico estricto para calcular Pearson."
+        },
+        {
+          "text": "Es incapaz de procesar variables num\u00e9ricas como la edad o la tarifa.",
+          "isCorrect": false,
+          "rationale": "Pearson est\u00e1 dise\u00f1ado espec\u00edficamente para variables num\u00e9ricas, aunque su debilidad reside en la distribuci\u00f3n de estas."
+        }
+      ],
+      "hint": "Piensa en el tipo de distribuci\u00f3n estad\u00edstica que este coeficiente da por sentada."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja t\u00e9cnica ofrece el coeficiente de Spearman frente al de Pearson?",
+      "answerOptions": [
+        {
+          "text": "Puede capturar relaciones no lineales en distribuciones asim\u00e9tricas con gran precisi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Al no asumir normalidad, Spearman es m\u00e1s robusto para datos del mundo real que suelen ser asim\u00e9tricos."
+        },
+        {
+          "text": "Garantiza que el modelo final sea $100\\%$ reproducible en cualquier entorno.",
+          "isCorrect": false,
+          "rationale": "La reproducibilidad depende de herramientas como random_state, no del tipo de coeficiente de correlaci\u00f3n utilizado."
+        },
+        {
+          "text": "Reduce autom\u00e1ticamente el ruido predictivo sin necesidad de usar la funci\u00f3n drop.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis de correlaci\u00f3n ayuda a identificar el ruido, pero la eliminaci\u00f3n f\u00edsica del mismo sigue requiriendo intervenci\u00f3n t\u00e9cnica."
+        },
+        {
+          "text": "Permite procesar im\u00e1genes sin necesidad de convertirlas a escala de grises.",
+          "isCorrect": false,
+          "rationale": "El coeficiente de Spearman se aplica al an\u00e1lisis de atributos tabulares, no est\u00e1 directamente relacionado con el procesamiento visual de CNNs."
+        }
+      ],
+      "hint": "Considera c\u00f3mo maneja este coeficiente los datos que no siguen una distribuci\u00f3n perfecta."
+    },
+    {
+      "question": "En un centro de excelencia anal\u00edtica del mundo real, \u00bfcu\u00e1l es el umbral de correlaci\u00f3n m\u00ednimo sugerido para garantizar la estabilidad de un modelo?",
+      "answerOptions": [
+        {
+          "text": "Entre $0.60$ y $0.75$.",
+          "isCorrect": true,
+          "rationale": "En entornos corporativos exigentes, se requieren correlaciones altas para asegurar que las variables seleccionadas tengan un impacto real y estable."
+        },
+        {
+          "text": "Un valor m\u00ednimo de $0.10$.",
+          "isCorrect": false,
+          "rationale": "Un umbral de $0.10$ suele aceptarse en contextos puramente acad\u00e9micos, pero se considera demasiado bajo y riesgoso para aplicaciones empresariales."
+        },
+        {
+          "text": "Exactamente $0.33$.",
+          "isCorrect": false,
+          "rationale": "Aunque valores como $0.33$ muestran impacto (como la clase en el Titanic), no alcanzan el est\u00e1ndar de alta estabilidad buscado en centros de excelencia."
+        },
+        {
+          "text": "Cualquier valor superior a $0.00$.",
+          "isCorrect": false,
+          "rationale": "Valores cercanos a cero indican ruido y no garantizan estabilidad; un modelo con correlaciones tan bajas ser\u00eda impredecible."
+        }
+      ],
+      "hint": "Diferencia entre los est\u00e1ndares de un ejercicio acad\u00e9mico y los de una operaci\u00f3n corporativa cr\u00edtica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre t\u00e9cnicamente cuando un modelo sufre de sobreajuste u overfitting?",
+      "answerOptions": [
+        {
+          "text": "El modelo memoriza las respuestas de los datos de entrenamiento en lugar de aprender las reglas generales.",
+          "isCorrect": true,
+          "rationale": "El overfitting reduce la capacidad de generalizaci\u00f3n, haciendo que el modelo falle ante datos nuevos que no estaban en su entrenamiento."
+        },
+        {
+          "text": "La precisi\u00f3n en producci\u00f3n es id\u00e9ntica a la precisi\u00f3n obtenida en el laboratorio.",
+          "isCorrect": false,
+          "rationale": "En el overfitting, existe una brecha masiva entre la alta precisi\u00f3n del laboratorio y el fracaso rotundo en el mundo real."
+        },
+        {
+          "text": "El algoritmo descarta autom\u00e1ticamente las variables con correlaci\u00f3n inferior a $0.60$.",
+          "isCorrect": false,
+          "rationale": "El sobreajuste es un fallo en el aprendizaje del modelo, no un proceso de selecci\u00f3n autom\u00e1tica de variables."
+        },
+        {
+          "text": "Se utiliza una semilla determin\u00edstica que impide que el modelo aprenda patrones.",
+          "isCorrect": false,
+          "rationale": "La semilla determin\u00edstica ayuda a la estabilidad y reproducibilidad, pero no es la causa ni la soluci\u00f3n directa al sobreajuste."
+        }
+      ],
+      "hint": "Piensa en la diferencia entre entender un concepto y simplemente aprenderse las respuestas de memoria."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del par\u00e1metro random_state en la divisi\u00f3n de datos (train/test split)?",
+      "answerOptions": [
+        {
+          "text": "Asegurar que los resultados sean $100\\%$ reproducibles al fijar una semilla determin\u00edstica.",
+          "isCorrect": true,
+          "rationale": "Esto garantiza que la divisi\u00f3n de datos sea siempre la misma en cada ejecuci\u00f3n, permitiendo comparar modelos de forma justa."
+        },
+        {
+          "text": "Aumentar la sensibilidad del modelo para detectar fraudes financieros.",
+          "isCorrect": false,
+          "rationale": "La sensibilidad depende de la m\u00e9trica de optimizaci\u00f3n y el algoritmo, no de la aleatoriedad en la divisi\u00f3n de los datos."
+        },
+        {
+          "text": "Forzar al modelo a utilizar el coeficiente de Spearman en lugar de Pearson.",
+          "isCorrect": false,
+          "rationale": "El tipo de correlaci\u00f3n se define en el an\u00e1lisis exploratorio y no tiene relaci\u00f3n con el estado aleatorio de la divisi\u00f3n de datos."
+        },
+        {
+          "text": "Evitar que el modelo necesite imputaci\u00f3n de valores nulos.",
+          "isCorrect": false,
+          "rationale": "La imputaci\u00f3n debe realizarse antes de la divisi\u00f3n de datos; random_state no afecta la calidad de los registros individuales."
+        }
+      ],
+      "hint": "Considera la importancia de obtener los mismos resultados cada vez que ejecutas tu c\u00f3digo."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 situaci\u00f3n es m\u00e1s recomendable utilizar una Regresi\u00f3n Log\u00edstica?",
+      "answerOptions": [
+        {
+          "text": "Cuando se requieren clasificaciones binarias de forma extremadamente r\u00e1pida y eficiente.",
+          "isCorrect": true,
+          "rationale": "Es un modelo lineal optimizado para decisiones de tipo s\u00ed/no con un bajo costo computacional."
+        },
+        {
+          "text": "Cuando es imperativo explicar la l\u00f3gica jer\u00e1rquica a un gerente de finanzas.",
+          "isCorrect": false,
+          "rationale": "Para fines explicativos y jer\u00e1rquicos visuales, los \u00e1rboles de decisi\u00f3n son herramientas mucho m\u00e1s adecuadas."
+        },
+        {
+          "text": "Para detectar anomal\u00edas geogr\u00e1ficas en datos de alta densidad comercial.",
+          "isCorrect": false,
+          "rationale": "La detecci\u00f3n de anomal\u00edas espaciales es una tarea propia de algoritmos de clustering como DBSCAN, no de regresiones lineales."
+        },
+        {
+          "text": "Cuando se desea crear un bosque de modelos que compitan entre s\u00ed.",
+          "isCorrect": false,
+          "rationale": "La creaci\u00f3n y competencia de m\u00faltiples modelos es la base del Random Forest, no de la regresi\u00f3n log\u00edstica individual."
+        }
+      ],
+      "hint": "Enf\u00f3cate en la simplicidad y velocidad para decisiones de tipo 'blanco o negro'."
+    },
+    {
+      "question": "\u00bfC\u00f3mo mitiga el algoritmo Random Forest el riesgo de sobreajuste?",
+      "answerOptions": [
+        {
+          "text": "Crea un bosque de \u00e1rboles y utiliza un sistema de votaci\u00f3n mayoritaria para tomar la decisi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Al promediar o combinar m\u00faltiples decisiones individuales, el modelo reduce la probabilidad de memorizar ruidos espec\u00edficos de los datos."
+        },
+        {
+          "text": "Elimina autom\u00e1ticamente todas las variables que no sigan una distribuci\u00f3n normal.",
+          "isCorrect": false,
+          "rationale": "Random Forest no depende de la normalidad de los datos y no elimina variables bas\u00e1ndose en su distribuci\u00f3n estad\u00edstica."
+        },
+        {
+          "text": "Reduce la dimensionalidad de los datos convirti\u00e9ndolos en un vector unidimensional.",
+          "isCorrect": false,
+          "rationale": "El 'aplanamiento' (flatten) es un paso espec\u00edfico de las redes neuronales, no de los bosques aleatorios."
+        },
+        {
+          "text": "Utiliza una capa Sigmoid para proyectar probabilidades binarias entre $0$ y $1$.",
+          "isCorrect": false,
+          "rationale": "La capa Sigmoid es caracter\u00edstica de la salida de redes neuronales profundas, no del funcionamiento interno de los bosques aleatorios."
+        }
+      ],
+      "hint": "Piensa en el poder de la colectividad frente a una decisi\u00f3n individual \u00fanica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 m\u00e9trica es fundamental para detectar fraudes bancarios cuando se desea minimizar el bloqueo de tarjetas a clientes leg\u00edtimos?",
+      "answerOptions": [
+        {
+          "text": "Precisi\u00f3n (Precision).",
+          "isCorrect": true,
+          "rationale": "La precisi\u00f3n se enfoca en la calidad de los positivos predichos, reduciendo los falsos positivos que causan molestias a los clientes reales."
+        },
+        {
+          "text": "Sensibilidad (Recall).",
+          "isCorrect": false,
+          "rationale": "El Recall prioriza encontrar todos los casos positivos aunque se generen falsos positivos, lo cual es opuesto a la necesidad de no molestar a clientes leg\u00edtimos."
+        },
+        {
+          "text": "Exactitud (Accuracy).",
+          "isCorrect": false,
+          "rationale": "La exactitud puede ser enga\u00f1osa en conjuntos de datos desbalanceados, donde los fraudes son una minor\u00eda extrema."
+        },
+        {
+          "text": "Redimensionamiento.",
+          "isCorrect": false,
+          "rationale": "El redimensionamiento es un paso de preprocesamiento de im\u00e1genes, no una m\u00e9trica de evaluaci\u00f3n de modelos de clasificaci\u00f3n."
+        }
+      ],
+      "hint": "Busca la m\u00e9trica que eval\u00faa qu\u00e9 tan acertadas son las alarmas de 'positivo' que lanza el modelo."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la puntuaci\u00f3n $F1$ se considera una m\u00e9trica de balance perfecto en entornos complejos?",
+      "answerOptions": [
+        {
+          "text": "Es la media arm\u00f3nica entre precisi\u00f3n y sensibilidad, penalizando desequilibrios extremos.",
+          "isCorrect": true,
+          "rationale": "Al usar la media arm\u00f3nica, el $F1$ score asegura que el modelo sea robusto tanto en evitar falsos positivos como falsos negativos."
+        },
+        {
+          "text": "Calcula el promedio simple de todos los aciertos totales del modelo.",
+          "isCorrect": false,
+          "rationale": "El promedio simple de aciertos totales define a la exactitud (accuracy), no a la puntuaci\u00f3n $F1$."
+        },
+        {
+          "text": "Permite visualizar el cerebro del modelo en tiempo real mientras aprende.",
+          "isCorrect": false,
+          "rationale": "La visualizaci\u00f3n en tiempo real es una funci\u00f3n de herramientas como Tensorboard, no una caracter\u00edstica de la m\u00e9trica $F1$."
+        },
+        {
+          "text": "Garantiza que el coeficiente de correlaci\u00f3n sea siempre superior a $0.75$.",
+          "isCorrect": false,
+          "rationale": "Las m\u00e9tricas de evaluaci\u00f3n se aplican despu\u00e9s del entrenamiento y no tienen control sobre los coeficientes de correlaci\u00f3n iniciales."
+        }
+      ],
+      "hint": "Recuerda qu\u00e9 tipo de media matem\u00e1tica utiliza y qu\u00e9 valores castiga con mayor dureza."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una caracter\u00edstica distintiva del algoritmo de clustering DBSCAN en comparaci\u00f3n con K-means?",
+      "answerOptions": [
+        {
+          "text": "Identifica puntos aislados como ruido en lugar de forzarlos a pertenecer a un grupo.",
+          "isCorrect": true,
+          "rationale": "DBSCAN se basa en la densidad, lo que le permite reconocer anomal\u00edas (noise points) de manera natural."
+        },
+        {
+          "text": "Requiere que el usuario predefina un n\u00famero $K$ de cl\u00fasteres antes de iniciar.",
+          "isCorrect": false,
+          "rationale": "Es K-means el que requiere la definici\u00f3n previa del n\u00famero de grupos; DBSCAN los descubre bas\u00e1ndose en la densidad."
+        },
+        {
+          "text": "Funciona exclusivamente con datos que tienen densidades esf\u00e9ricas perfectas.",
+          "isCorrect": false,
+          "rationale": "K-means es m\u00e1s eficiente en formas esf\u00e9ricas; DBSCAN destaca precisamente por manejar formas geogr\u00e1ficas irregulares."
+        },
+        {
+          "text": "Utiliza centroides para obligar a cada punto a encajar en un molde determinado.",
+          "isCorrect": false,
+          "rationale": "El uso de centroides y la asignaci\u00f3n forzosa son caracter\u00edsticas propias de K-means, no de DBSCAN."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo reacciona cada algoritmo ante un dato que se encuentra muy alejado de los dem\u00e1s."
+    },
+    {
+      "question": "\u00bfQu\u00e9 problema espec\u00edfico resuelven los sistemas h\u00edbridos de recomendaci\u00f3n en las plataformas digitales?",
+      "answerOptions": [
+        {
+          "text": "El problema del inicio en fr\u00edo o cold start.",
+          "isCorrect": true,
+          "rationale": "Al combinar contenido y comportamiento colaborativo, pueden recomendar productos a usuarios nuevos sin historial previo."
+        },
+        {
+          "text": "La inestabilidad del gradiente durante el descenso del error.",
+          "isCorrect": false,
+          "rationale": "La estabilidad del gradiente es un problema matem\u00e1tico de las redes neuronales que se resuelve con normalizaci\u00f3n, no con sistemas h\u00edbridos."
+        },
+        {
+          "text": "La necesidad de convertir im\u00e1genes a escala de grises.",
+          "isCorrect": false,
+          "rationale": "El procesamiento de im\u00e1genes es independiente de la arquitectura l\u00f3gica de un sistema de recomendaci\u00f3n h\u00edbrido."
+        },
+        {
+          "text": "La eliminaci\u00f3n de variables con correlaci\u00f3n cero como el Passenger ID.",
+          "isCorrect": false,
+          "rationale": "La eliminaci\u00f3n de ruido es parte de la ingenier\u00eda de datos inicial y no es el objetivo principal de los sistemas h\u00edbridos."
+        }
+      ],
+      "hint": "Considera qu\u00e9 sucede cuando un usuario acaba de crear su cuenta y el sistema no sabe nada de \u00e9l."
+    },
+    {
+      "question": "En el procesamiento de im\u00e1genes para Deep Learning, \u00bfcu\u00e1l es el objetivo de normalizar los p\u00edxeles dividi\u00e9ndolos por $255$?",
+      "answerOptions": [
+        {
+          "text": "Garantizar la estabilidad del gradiente para que el modelo pueda converger sin romperse.",
+          "isCorrect": true,
+          "rationale": "Escalar los valores al rango $[0, 1]$ evita que las matem\u00e1ticas subyacentes se vuelvan inestables por manejar n\u00fameros demasiado grandes."
+        },
+        {
+          "text": "Estandarizar las im\u00e1genes a dimensiones uniformes de $50$ por $50$ p\u00edxeles.",
+          "isCorrect": false,
+          "rationale": "El redimensionamiento es un paso previo diferente que se encarga de la consistencia espacial, no de la escala de valores de color."
+        },
+        {
+          "text": "Obligar al modelo a ignorar las texturas y enfocarse solo en los colores.",
+          "isCorrect": false,
+          "rationale": "La normalizaci\u00f3n mantiene la informaci\u00f3n de color; es la escala de grises la que ayuda a ignorar el color para enfocarse en formas."
+        },
+        {
+          "text": "Aplanar la matriz de datos para convertirla en un vector unidimensional.",
+          "isCorrect": false,
+          "rationale": "La conversi\u00f3n a vector unidimensional es tarea de la capa Flatten, no del proceso de normalizaci\u00f3n de p\u00edxeles."
+        }
+      ],
+      "hint": "Enf\u00f3cate en la necesidad matem\u00e1tica de mantener los valores en un rango estricto entre $0$ y $1$."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de las capas Max Pooling en una Red Neuronal Convolucional (CNN)?",
+      "answerOptions": [
+        {
+          "text": "Reducir la dimensionalidad conservando solo la informaci\u00f3n m\u00e1s cr\u00edtica y desechando lo redundante.",
+          "isCorrect": true,
+          "rationale": "Act\u00faa como un filtro que hace el proceso computacional m\u00e1s ligero al quedarse con las caracter\u00edsticas visuales m\u00e1s importantes."
+        },
+        {
+          "text": "Escanear y detectar patrones visuales fundamentales como bordes y sombras.",
+          "isCorrect": false,
+          "rationale": "La detecci\u00f3n inicial de patrones visuales como bordes es responsabilidad de las capas Conv2D, no del pooling."
+        },
+        {
+          "text": "Proyectar una probabilidad binaria final de que una imagen sea fraudulenta.",
+          "isCorrect": false,
+          "rationale": "La proyecci\u00f3n de la probabilidad final es la tarea de la capa de salida (generalmente Sigmoid)."
+        },
+        {
+          "text": "Serializar el modelo en formatos como .h5 o .pkl para su transporte.",
+          "isCorrect": false,
+          "rationale": "La serializaci\u00f3n es un proceso de exportaci\u00f3n del modelo completo y no una funci\u00f3n de una capa interna de la red."
+        }
+      ],
+      "hint": "Piensa en el proceso de simplificar la informaci\u00f3n sin perder lo esencial."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta permite visualizar el desempe\u00f1o del algoritmo en tiempo real mientras est\u00e1 aprendiendo?",
+      "answerOptions": [
+        {
+          "text": "Tensorboard.",
+          "isCorrect": true,
+          "rationale": "Es el entorno dise\u00f1ado para monitorear e iterar sobre las redes neuronales durante su fase de entrenamiento."
+        },
+        {
+          "text": "Streamlit.",
+          "isCorrect": false,
+          "rationale": "Streamlit se utiliza para crear aplicaciones web interactivas que permiten al usuario final interactuar con el modelo ya terminado."
+        },
+        {
+          "text": "Flatten.",
+          "isCorrect": false,
+          "rationale": "Flatten es una capa dentro de la arquitectura de la red neuronal y no una herramienta de visualizaci\u00f3n externa."
+        },
+        {
+          "text": "Scikit Learn.",
+          "isCorrect": false,
+          "rationale": "Scikit Learn es una biblioteca para algoritmos de machine learning tradicional, no una herramienta espec\u00edfica de visualizaci\u00f3n de entrenamiento en tiempo real."
+        }
+      ],
+      "hint": "Se describe como una 'ventana directa al cerebro del modelo'."
+    },
+    {
+      "question": "Si un modelo de clasificaci\u00f3n visual obtiene una precisi\u00f3n moderada del $64\\%$, \u00bfcu\u00e1l suele ser la causa principal?",
+      "answerOptions": [
+        {
+          "text": "Un volumen de datos insuficiente para que el modelo aprenda de verdad.",
+          "isCorrect": true,
+          "rationale": "El Deep Learning es 'insaciable' y requiere cantidades masivas de ejemplos para alcanzar una alta excelencia predictiva."
+        },
+        {
+          "text": "Una falla cr\u00edtica en la arquitectura de la red neuronal.",
+          "isCorrect": false,
+          "rationale": "Antes de culpar a la arquitectura, se debe verificar si el modelo ha recibido suficientes datos para generalizar patrones."
+        },
+        {
+          "text": "El uso innecesario de la escala de grises en el preprocesamiento.",
+          "isCorrect": false,
+          "rationale": "La escala de grises suele mejorar la eficiencia; una precisi\u00f3n del $64\\%$ rara vez se debe a la reducci\u00f3n de canales de color."
+        },
+        {
+          "text": "La falta de una capa Flatten antes de la capa Conv2D.",
+          "isCorrect": false,
+          "rationale": "T\u00e9cnicamente, la capa Flatten va despu\u00e9s de las convoluciones para conectar con las capas densas, no antes."
+        }
+      ],
+      "hint": "Considera qu\u00e9 es lo que el Deep Learning necesita en grandes cantidades para ser efectivo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito de exportar modelos como artefactos serializados (.h5 o .pkl)?",
+      "answerOptions": [
+        {
+          "text": "Empaquetar el modelo entrenado en un archivo transportable para su uso fuera del c\u00f3digo original.",
+          "isCorrect": true,
+          "rationale": "La serializaci\u00f3n permite que el 'cerebro' del modelo sea f\u00e1cilmente integrado en aplicaciones de producci\u00f3n."
+        },
+        {
+          "text": "Reducir el riesgo de sobreajuste mediante una votaci\u00f3n mayoritaria.",
+          "isCorrect": false,
+          "rationale": "La mitigaci\u00f3n del sobreajuste ocurre durante el entrenamiento; la serializaci\u00f3n solo guarda el estado final del modelo."
+        },
+        {
+          "text": "Asegurar que el modelo use el coeficiente de Spearman por defecto.",
+          "isCorrect": false,
+          "rationale": "La serializaci\u00f3n guarda los pesos y la estructura, no cambia los m\u00e9todos estad\u00edsticos elegidos durante el an\u00e1lisis."
+        },
+        {
+          "text": "Convertir autom\u00e1ticamente las decisiones binarias en decisiones multiclase.",
+          "isCorrect": false,
+          "rationale": "El tipo de decisi\u00f3n (binaria o multiclase) se define en la arquitectura y no cambia al guardar el archivo."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo llevar\u00edas el trabajo de tu laboratorio a una aplicaci\u00f3n real que otros puedan usar."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera que la ingenier\u00eda de variables es m\u00e1s vital que el uso de algoritmos complejos?",
+      "answerOptions": [
+        {
+          "text": "Porque la estabilidad de cualquier modelo depende directamente de la calidad de los datos de entrada.",
+          "isCorrect": true,
+          "rationale": "Un buen algoritmo no puede compensar datos mediocres; la ingenier\u00eda de variables extrae el valor real que el modelo procesar\u00e1."
+        },
+        {
+          "text": "Porque permite que los modelos operen sin necesidad de un set de entrenamiento.",
+          "isCorrect": false,
+          "rationale": "Tanto el aprendizaje supervisado como el no supervisado requieren datos procesados mediante ingenier\u00eda de variables."
+        },
+        {
+          "text": "Porque elimina la necesidad de realizar un monitoreo t\u00e9cnico en producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El monitoreo es indispensable independientemente de qu\u00e9 tan buena sea la ingenier\u00eda de variables inicial."
+        },
+        {
+          "text": "Porque garantiza que el ROI de la empresa aumente instant\u00e1neamente sin intervenci\u00f3n humana.",
+          "isCorrect": false,
+          "rationale": "El aumento del ROI requiere la implementaci\u00f3n estrat\u00e9gica de los modelos, no solo la preparaci\u00f3n de las variables."
+        }
+      ],
+      "hint": "Reflexiona sobre el impacto que tienen los insumos impecables en el resultado final."
+    },
+    {
+      "question": "En una red neuronal, \u00bfqu\u00e9 funci\u00f3n cumple la capa Sigmoid al final del proceso?",
+      "answerOptions": [
+        {
+          "text": "Proyectar una probabilidad binaria limpia entre $0$ y $1$.",
+          "isCorrect": true,
+          "rationale": "Es la encargada de dar el veredicto final en forma de probabilidad, indicando, por ejemplo, si algo es fraudulento o leg\u00edtimo."
+        },
+        {
+          "text": "Escanear sombras y texturas en la imagen original.",
+          "isCorrect": false,
+          "rationale": "El escaneo de texturas es una funci\u00f3n de bajo nivel realizada por las capas convolucionales (Conv2D)."
+        },
+        {
+          "text": "Dividir el valor de cada p\u00edxel por $255$.",
+          "isCorrect": false,
+          "rationale": "La divisi\u00f3n por $255$ es una operaci\u00f3n aritm\u00e9tica de normalizaci\u00f3n que ocurre antes de entrar a la red."
+        },
+        {
+          "text": "Crear un bosque de \u00e1rboles que compiten mediante votaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La creaci\u00f3n de bosques de \u00e1rboles es caracter\u00edstica del Random Forest, que es un algoritmo de aprendizaje supervisado no neuronal."
+        }
+      ],
+      "hint": "Visualiza el \u00faltimo paso antes de obtener una respuesta matem\u00e1tica sobre la clasificaci\u00f3n de una imagen."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Ingenier\u00eda de datos y preprocesamiento",
+      "An\u00e1lisis de correlaci\u00f3n (Pearson y Spearman)",
+      "Aprendizaje supervisado y algoritmos de clasificaci\u00f3n",
+      "M\u00e9tricas de evaluaci\u00f3n de modelos",
+      "Aprendizaje no supervisado y clustering",
+      "Sistemas de recomendaci\u00f3n h\u00edbridos",
+      "Deep Learning y Vision por Computadora"
+    ],
+    "followUp": [
+      "Optimizaci\u00f3n de hiperpar\u00e1metros en Random Forest",
+      "\u00c9tica y responsabilidad en el uso de anal\u00edtica predictiva",
+      "Escalabilidad de modelos en Google Cloud",
+      "Detecci\u00f3n proactiva de riesgos operativos mediante evidencia emp\u00edrica"
+    ]
+  }
+}

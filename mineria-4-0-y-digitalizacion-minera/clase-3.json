@@ -1,0 +1,546 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el motor principal detr\u00e1s de la actual transformaci\u00f3n estructural hacia la miner\u00eda 4.0?",
+      "answerOptions": [
+        {
+          "text": "La convergencia entre las tecnolog\u00edas de la informaci\u00f3n (IT) y las operativas (OT).",
+          "isCorrect": true,
+          "rationale": "Esta uni\u00f3n permite que la mina funcione como un ecosistema interconectado y predictivo en lugar de sistemas aislados."
+        },
+        {
+          "text": "La simple actualizaci\u00f3n de maquinaria mec\u00e1nica a modelos el\u00e9ctricos.",
+          "isCorrect": false,
+          "rationale": "La transformaci\u00f3n es una evoluci\u00f3n profunda del negocio y no se limita a cambiar el tipo de energ\u00eda de los equipos."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de la supervisi\u00f3n humana en la toma de decisiones estrat\u00e9gicas.",
+          "isCorrect": false,
+          "rationale": "Aunque se busca autonom\u00eda, la gesti\u00f3n del talento especializado sigue siendo el motor de la innovaci\u00f3n."
+        },
+        {
+          "text": "El aumento en las leyes de mineral que permite mayores inversiones en hardware.",
+          "isCorrect": false,
+          "rationale": "La realidad es la opuesta, ya que la industria enfrenta menores leyes de mineral y costos operativos elevados."
+        }
+      ],
+      "hint": "Relaciona la integraci\u00f3n de los datos digitales con el control f\u00edsico en campo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo primordial e innegociable de implementar autonom\u00eda en el tajo minero?",
+      "answerOptions": [
+        {
+          "text": "Reducir a cero la exposici\u00f3n humana a riesgos fatales.",
+          "isCorrect": true,
+          "rationale": "El mandato cr\u00edtico es salvar vidas al sacar al personal de la l\u00ednea de fuego en rutas de acarreo peligrosas."
+        },
+        {
+          "text": "Aumentar la velocidad m\u00e1xima de los camiones de acarreo.",
+          "isCorrect": false,
+          "rationale": "La autonom\u00eda busca estabilidad y seguridad antes que simplemente incrementar la velocidad de desplazamiento."
+        },
+        {
+          "text": "Modernizar la imagen corporativa para atraer inversionistas tecnol\u00f3gicos.",
+          "isCorrect": false,
+          "rationale": "Llevar la autonom\u00eda al tajo no es un capricho est\u00e9tico, sino un requerimiento de seguridad cr\u00edtica."
+        },
+        {
+          "text": "Eliminar la necesidad de sistemas de gesti\u00f3n de despacho como Modular Dispatch.",
+          "isCorrect": false,
+          "rationale": "Los sistemas de gesti\u00f3n son componentes clave que se conectan profundamente con las flotas aut\u00f3nomas."
+        }
+      ],
+      "hint": "Piensa en el valor m\u00e1s alto que protege una empresa minera en su operaci\u00f3n diaria."
+    },
+    {
+      "question": "Dentro de la escala de madurez de la normativa ISO 1757, \u00bfqu\u00e9 caracteriza al nivel 4 de autonom\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Operaci\u00f3n aut\u00f3noma supervisada donde se interviene a distancia solo ante anomal\u00edas.",
+          "isCorrect": true,
+          "rationale": "En este nivel, la flota opera sola en \u00e1reas cerradas bajo una vigilancia remota que solo act\u00faa si algo sale mal."
+        },
+        {
+          "text": "Operaci\u00f3n 100% manual con registro de datos f\u00edsico.",
+          "isCorrect": false,
+          "rationale": "Este concepto corresponde al nivel 1, donde no existe asistencia tecnol\u00f3gica significativa."
+        },
+        {
+          "text": "Uso de alertas de fatiga y sensores de proximidad mientras el humano conduce.",
+          "isCorrect": false,
+          "rationale": "Esto describe el nivel 2, que es de asistencia al conductor pero manteniendo el mando humano."
+        },
+        {
+          "text": "Operaci\u00f3n completamente aut\u00f3noma sin ninguna intervenci\u00f3n humana en todo el ciclo.",
+          "isCorrect": false,
+          "rationale": "Este es el nivel 5, que representa la cima de la escalera de madurez t\u00e9cnica."
+        }
+      ],
+      "hint": "Se encuentra un paso antes de la autonom\u00eda total y requiere una supervisi\u00f3n externa."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 los radares de alta frecuencia a $67\\text{ GHz}$ son vitales en minas con presencia de 'camanchaca'?",
+      "answerOptions": [
+        {
+          "text": "Tienen la capacidad f\u00edsica de atravesar paredes densas de niebla y polvo extremo.",
+          "isCorrect": true,
+          "rationale": "A diferencia de los sensores \u00f3pticos, estos radares permiten mantener la velocidad de operaci\u00f3n en condiciones de visibilidad nula."
+        },
+        {
+          "text": "Permiten dibujar mapas $3\\text{D}$ con mayor resoluci\u00f3n que los esc\u00e1neres LiDAR.",
+          "isCorrect": false,
+          "rationale": "Los esc\u00e1neres LiDAR son los encargados de los mapas $3\\text{D}$, pero fallan ante el polvo y la niebla."
+        },
+        {
+          "text": "Aumentan la precisi\u00f3n del GPS de milim\u00e9trica a microm\u00e9trica.",
+          "isCorrect": false,
+          "rationale": "El GPS de precisi\u00f3n se encarga del posicionamiento global, no de la detecci\u00f3n de obst\u00e1culos en condiciones clim\u00e1ticas adversas."
+        },
+        {
+          "text": "Son los \u00fanicos capaces de detectar minerales de alta ley en el frente de cargu\u00edo.",
+          "isCorrect": false,
+          "rationale": "Estos radares se utilizan para navegaci\u00f3n y seguridad, no para el an\u00e1lisis qu\u00edmico o geol\u00f3gico del mineral."
+        }
+      ],
+      "hint": "Considera las limitaciones de los sensores que dependen de la luz visible."
+    },
+    {
+      "question": "\u00bfQu\u00e9 distingue la filosof\u00eda de implementaci\u00f3n aut\u00f3noma de Caterpillar frente a la de Komatsu?",
+      "answerOptions": [
+        {
+          "text": "Caterpillar se enfoca en el reacondicionamiento (retrofit) de flotas existentes.",
+          "isCorrect": true,
+          "rationale": "Su sistema MindStar permite instalar 'cerebros' en camiones que ya estaban operando para volverlos aut\u00f3nomos."
+        },
+        {
+          "text": "Caterpillar solo fabrica equipos que nacen aut\u00f3nomos desde la l\u00ednea de ensamblaje.",
+          "isCorrect": false,
+          "rationale": "Esa es precisamente la filosof\u00eda de integraci\u00f3n nativa que caracteriza a Komatsu."
+        },
+        {
+          "text": "Komatsu utiliza radares mientras que Caterpillar solo utiliza c\u00e1maras normales.",
+          "isCorrect": false,
+          "rationale": "Ambas empresas utilizan tecnolog\u00edas avanzadas de sensores; la diferencia radica en la integraci\u00f3n del hardware."
+        },
+        {
+          "text": "Komatsu no requiere sistemas de gesti\u00f3n de despacho para sus equipos aut\u00f3nomos.",
+          "isCorrect": false,
+          "rationale": "Los equipos de Komatsu vienen profundamente conectados a su sistema de gesti\u00f3n Modular Dispatch."
+        }
+      ],
+      "hint": "Una marca permite modernizar lo que ya tienes y la otra ofrece equipos nuevos integrados."
+    },
+    {
+      "question": "\u00bfQu\u00e9 impacto operativo se ha observado en el uso de neum\u00e1ticos al eliminar la variabilidad del operador humano?",
+      "answerOptions": [
+        {
+          "text": "Un aumento de hasta el $40\\%$ en su vida \u00fatil.",
+          "isCorrect": true,
+          "rationale": "La optimizaci\u00f3n de rutas y la eliminaci\u00f3n de frenados o aceleraciones bruscas reducen significativamente el desgaste."
+        },
+        {
+          "text": "Una reducci\u00f3n del $15\\%$ en el costo de adquisici\u00f3n de neum\u00e1ticos nuevos.",
+          "isCorrect": false,
+          "rationale": "El ahorro del $15\\%$ se refiere a los costos operativos generales, no al precio de compra del insumo."
+        },
+        {
+          "text": "Un incremento en la temperatura del caucho por la operaci\u00f3n continua de $24$ horas.",
+          "isCorrect": false,
+          "rationale": "Aunque operan m\u00e1s tiempo, el sistema aut\u00f3nomo optimiza la velocidad para mantener los neum\u00e1ticos en rangos seguros."
+        },
+        {
+          "text": "La necesidad de cambiarlos con mayor frecuencia debido a la precisi\u00f3n de la ruta.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la precisi\u00f3n evita maniobras innecesarias que suelen da\u00f1ar los neum\u00e1ticos de gran tama\u00f1o."
+        }
+      ],
+      "hint": "Menos errores de conducci\u00f3n manual resultan en una mayor preservaci\u00f3n de este costoso componente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la limitaci\u00f3n principal del control tradicional PID (Proporcional, Integral, Derivativo) en una planta de procesos?",
+      "answerOptions": [
+        {
+          "text": "Es reactivo y corrige el problema solo despu\u00e9s de que ha ocurrido.",
+          "isCorrect": true,
+          "rationale": "Este tipo de control act\u00faa sobre el error pasado, lo que es insuficiente para procesos con muchas variables como los molinos."
+        },
+        {
+          "text": "Requiere de una conexi\u00f3n constante a la nube para poder funcionar.",
+          "isCorrect": false,
+          "rationale": "El control PID funciona a nivel local en los PLC y no depende de la conectividad externa."
+        },
+        {
+          "text": "Es demasiado agresivo y suele romper la maquinaria f\u00edsica.",
+          "isCorrect": false,
+          "rationale": "Por el contrario, el control manual o PID tradicional suele ser demasiado conservador por temor a da\u00f1os."
+        },
+        {
+          "text": "Solo puede gestionar una variable a la vez, como el flujo de agua.",
+          "isCorrect": false,
+          "rationale": "Aunque puede ser multivariable, su debilidad radica en la incapacidad de anticipar perturbaciones futuras."
+        }
+      ],
+      "hint": "Piensa en la diferencia entre arreglar algo que ya fall\u00f3 y prevenir que falle."
+    },
+    {
+      "question": "\u00bfC\u00f3mo logra el Control Avanzado de Procesos (APC) aumentar la productividad en los molinos SAG?",
+      "answerOptions": [
+        {
+          "text": "Utiliza modelos predictivos para empujar la carga de forma segura hasta un $95\\%$-$97\\%$ de capacidad.",
+          "isCorrect": true,
+          "rationale": "Al no tener 'miedo' y conocer los l\u00edmites exactos, el algoritmo exprime la capacidad f\u00edsica del molino m\u00e1s que un humano."
+        },
+        {
+          "text": "Mantiene la carga en un rango conservador del $85\\%$ para evitar atascos.",
+          "isCorrect": false,
+          "rationale": "Ese es el comportamiento t\u00edpico del operador humano que busca evitar riesgos por falta de visibilidad del l\u00edmite."
+        },
+        {
+          "text": "Reduce la velocidad del molino para ahorrar energ\u00eda el\u00e9ctrica.",
+          "isCorrect": false,
+          "rationale": "El objetivo del APC es maximizar el tonelaje procesado manteniendo la estabilidad, no necesariamente reducir la velocidad."
+        },
+        {
+          "text": "Elimina por completo el uso de qu\u00edmicos y reactivos en la etapa de molienda.",
+          "isCorrect": false,
+          "rationale": "El APC optimiza el uso de insumos, pero no los elimina, ya que son necesarios para el proceso."
+        }
+      ],
+      "hint": "El algoritmo opera m\u00e1s cerca del l\u00edmite f\u00edsico de la m\u00e1quina que un operador precavido."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre una simulaci\u00f3n $3\\text{D}$ y un Gemelo Digital (Digital Twin)?",
+      "answerOptions": [
+        {
+          "text": "El gemelo digital se alimenta en tiempo real con datos de sensores de la planta f\u00edsica.",
+          "isCorrect": true,
+          "rationale": "A diferencia de una simulaci\u00f3n est\u00e1tica, el gemelo digital 'vive' y refleja el estado actual de la operaci\u00f3n."
+        },
+        {
+          "text": "La simulaci\u00f3n $3\\text{D}$ es m\u00e1s precisa para predecir el desgaste de piezas.",
+          "isCorrect": false,
+          "rationale": "El gemelo digital es superior para la predicci\u00f3n de mantenimiento porque usa datos operativos reales."
+        },
+        {
+          "text": "El gemelo digital solo sirve para el dise\u00f1o inicial de la planta.",
+          "isCorrect": false,
+          "rationale": "El gemelo digital se utiliza durante toda la fase operativa para correr escenarios de estr\u00e9s y optimizaci\u00f3n."
+        },
+        {
+          "text": "La simulaci\u00f3n requiere inteligencia artificial, mientras que el gemelo digital no.",
+          "isCorrect": false,
+          "rationale": "El gemelo digital es el que suele integrar modelos de IA para realizar predicciones avanzadas."
+        }
+      ],
+      "hint": "Considera la relaci\u00f3n que tiene cada concepto con la informaci\u00f3n que proviene del campo en ese instante."
+    },
+    {
+      "question": "\u00bfQu\u00e9 norma internacional act\u00faa como puente t\u00e9cnico entre la operaci\u00f3n f\u00edsica de la planta y los sistemas de negocio?",
+      "answerOptions": [
+        {
+          "text": "ISA 95",
+          "isCorrect": true,
+          "rationale": "Esta norma define la interfaz entre el control industrial y las funciones empresariales, evitando que la pir\u00e1mide de automatizaci\u00f3n se desmorone."
+        },
+        {
+          "text": "ISO 9001",
+          "isCorrect": false,
+          "rationale": "Esta es una norma general de gesti\u00f3n de calidad, no espec\u00edfica para la integraci\u00f3n de sistemas IT/OT."
+        },
+        {
+          "text": "B2MML",
+          "isCorrect": false,
+          "rationale": "B2MML es el lenguaje o esquema de datos basado en XML que se usa, pero la norma que define el marco es la ISA 95."
+        },
+        {
+          "text": "OPC UA",
+          "isCorrect": false,
+          "rationale": "OPC UA es un protocolo de comunicaci\u00f3n para interoperabilidad entre m\u00e1quinas, no el marco de integraci\u00f3n con el negocio."
+        }
+      ],
+      "hint": "Es la base que organiza los niveles de la pir\u00e1mide de automatizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n del esquema B2MML en la gesti\u00f3n de datos mineros?",
+      "answerOptions": [
+        {
+          "text": "Traducir datos operativos crudos en m\u00e9tricas financieras procesables para el ERP.",
+          "isCorrect": true,
+          "rationale": "Act\u00faa como el traductor que permite que las \u00e1reas de finanzas y operaciones hablen el mismo idioma."
+        },
+        {
+          "text": "Garantizar que m\u00e1quinas de distintas marcas trabajen juntas en el tajo.",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n de interoperabilidad de hardware corresponde al protocolo OPC UA."
+        },
+        {
+          "text": "Proteger los servidores locales de ataques externos tipo Malware.",
+          "isCorrect": false,
+          "rationale": "B2MML es un formato de datos para intercambio de informaci\u00f3n, no una herramienta de ciberseguridad."
+        },
+        {
+          "text": "Controlar el flujo de aire y reactivos en las celdas de flotaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El control de reactivos lo realizan los sistemas de control avanzado (APC) y no un esquema de datos de negocio."
+        }
+      ],
+      "hint": "Convierte toneladas de mineral en t\u00e9rminos que la sala de juntas puede entender."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja ofrece el protocolo OPC UA en un entorno con maquinaria de m\u00faltiples fabricantes?",
+      "answerOptions": [
+        {
+          "text": "Funciona como un idioma universal que consolida la comunicaci\u00f3n entre equipos diversos.",
+          "isCorrect": true,
+          "rationale": "Evita que los equipos queden aislados en burbujas t\u00e9cnicas de marcas espec\u00edficas."
+        },
+        {
+          "text": "Permite migrar autom\u00e1ticamente todos los datos hacia la nube de Azure.",
+          "isCorrect": false,
+          "rationale": "Aunque facilita el transporte de datos, la migraci\u00f3n a la nube depende de la arquitectura de red y servicios web."
+        },
+        {
+          "text": "Reduce la latencia de las comunicaciones por debajo de $1\\text{ ms}$.",
+          "isCorrect": false,
+          "rationale": "Su principal valor es la estandarizaci\u00f3n e interoperabilidad, no necesariamente la velocidad extrema de transmisi\u00f3n."
+        },
+        {
+          "text": "Sustituye la necesidad de usar controladores l\u00f3gicos programables (PLC).",
+          "isCorrect": false,
+          "rationale": "OPC UA es un protocolo de comunicaci\u00f3n que corre sobre el hardware existente, no reemplaza a los controladores."
+        }
+      ],
+      "hint": "Busca la palabra clave que define la capacidad de sistemas distintos para trabajar juntos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la tendencia actual para el procesamiento de grandes vol\u00famenes de datos hist\u00f3ricos en miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Migrarlos hacia Data Lakes en nubes p\u00fablicas como AWS o Azure.",
+          "isCorrect": true,
+          "rationale": "Esto permite aplicar inteligencia artificial sobre vol\u00famenes colosales de datos que los servidores locales no podr\u00edan procesar."
+        },
+        {
+          "text": "Almacenarlos en discos duros f\u00edsicos aislados por seguridad (Air Gap).",
+          "isCorrect": false,
+          "rationale": "La tendencia es la convergencia y accesibilidad de datos, no el aislamiento f\u00edsico que impide el an\u00e1lisis avanzado."
+        },
+        {
+          "text": "Eliminar los datos antiguos para ahorrar costos de almacenamiento.",
+          "isCorrect": false,
+          "rationale": "Los datos hist\u00f3ricos son el activo m\u00e1s valioso para entrenar modelos predictivos del futuro."
+        },
+        {
+          "text": "Procesarlos exclusivamente mediante hojas de c\u00e1lculo de Excel en cada departamento.",
+          "isCorrect": false,
+          "rationale": "La integraci\u00f3n busca precisamente erradicar los silos de informaci\u00f3n y los reportes manuales en Excel."
+        }
+      ],
+      "hint": "Se trata de mover la informaci\u00f3n hacia un 'lago' digital masivo."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 las 'micro-credenciales' est\u00e1n ganando valor frente a los t\u00edtulos acad\u00e9micos tradicionales en la miner\u00eda 4.0?",
+      "answerOptions": [
+        {
+          "text": "Demuestran la capacidad inmediata de resolver problemas t\u00e9cnicos en herramientas espec\u00edficas.",
+          "isCorrect": true,
+          "rationale": "Certificaciones en Python o AWS validan competencias concretas que la mina moderna necesita con urgencia."
+        },
+        {
+          "text": "Son m\u00e1s baratas de obtener para la empresa minera.",
+          "isCorrect": false,
+          "rationale": "El valor reside en la especializaci\u00f3n y rapidez de aplicaci\u00f3n del conocimiento, no solo en el costo."
+        },
+        {
+          "text": "Reemplazan la necesidad de tener ingenieros colegiados en la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las micro-credenciales complementan la formaci\u00f3n de base, no eliminan los requisitos legales de ingenier\u00eda."
+        },
+        {
+          "text": "Permiten que cualquier operario maneje camiones aut\u00f3nomos sin entrenamiento f\u00edsico.",
+          "isCorrect": false,
+          "rationale": "La operaci\u00f3n aut\u00f3noma requiere perfiles nuevos como analistas de datos, no solo conductores certificados."
+        }
+      ],
+      "hint": "Piensa en certificaciones cortas y muy enfocadas en tecnolog\u00eda digital."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el modelo de ciberseguridad 'Zero Trust' (Confianza Cero)?",
+      "answerOptions": [
+        {
+          "text": "Asumir que las amenazas ya est\u00e1n dentro de la red y verificar identidades constantemente.",
+          "isCorrect": true,
+          "rationale": "No se conf\u00eda en nada por defecto, independientemente de si el acceso es interno o externo."
+        },
+        {
+          "text": "Bloquear todos los puertos USB de las computadoras de la planta.",
+          "isCorrect": false,
+          "rationale": "Esta es una medida de seguridad f\u00edsica (OBSEC), pero el modelo Zero Trust es una arquitectura de red m\u00e1s amplia."
+        },
+        {
+          "text": "Confiar plenamente en el personal que tiene m\u00e1s de $10$ a\u00f1os en la empresa.",
+          "isCorrect": false,
+          "rationale": "El modelo establece que no se debe confiar en nadie por defecto, sin importar su antig\u00fcedad o cargo."
+        },
+        {
+          "text": "Instalar un \u00fanico Firewall muy potente en la entrada de la conexi\u00f3n a internet.",
+          "isCorrect": false,
+          "rationale": "Zero Trust va m\u00e1s all\u00e1 del per\u00edmetro; asume que el per\u00edmetro ya ha sido vulnerado."
+        }
+      ],
+      "hint": "Es una filosof\u00eda donde la validaci\u00f3n es continua y nunca se da por sentado que un usuario es seguro."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la lecci\u00f3n principal del caso del malware Stuxnet en infraestructuras industriales?",
+      "answerOptions": [
+        {
+          "text": "Una amenaza digital puede saltar al mundo f\u00edsico y causar destrucci\u00f3n mec\u00e1nica.",
+          "isCorrect": true,
+          "rationale": "El c\u00f3digo malicioso manipul\u00f3 variables de control hasta destruir el hardware, demostrando la vulnerabilidad del OT."
+        },
+        {
+          "text": "Los sistemas aislados f\u00edsicamente (Air Gap) son imposibles de hackear.",
+          "isCorrect": false,
+          "rationale": "Stuxnet demostr\u00f3 lo contrario al infectar una planta aislada mediante un simple USB."
+        },
+        {
+          "text": "El software antivirus tradicional es suficiente para proteger una mina.",
+          "isCorrect": false,
+          "rationale": "Stuxnet fue un ataque sofisticado que burl\u00f3 las defensas convencionales de los sistemas operativos."
+        },
+        {
+          "text": "Los ataques cibern\u00e9ticos solo buscan robar informaci\u00f3n financiera.",
+          "isCorrect": false,
+          "rationale": "Este caso mostr\u00f3 que el objetivo tambi\u00e9n puede ser el sabotaje f\u00edsico de activos industriales."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo un c\u00f3digo de computadora pudo romper piezas de metal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 papel juegan los datos en el cumplimiento de los est\u00e1ndares ESG y la obtenci\u00f3n de certificaciones como 'The Coppermark'?",
+      "answerOptions": [
+        {
+          "text": "Brindan trazabilidad absoluta e irrefutable sobre el consumo de agua y energ\u00eda.",
+          "isCorrect": true,
+          "rationale": "La transparencia de datos permite probar con n\u00fameros exactos el compromiso ambiental y social de la empresa."
+        },
+        {
+          "text": "Sirven para ocultar fallas operativas mediante la manipulaci\u00f3n de algoritmos.",
+          "isCorrect": false,
+          "rationale": "Los est\u00e1ndares ESG exigen precisamente lo contrario: transparencia y gobernanza de datos \u00edntegros."
+        },
+        {
+          "text": "Permiten reducir el pago de impuestos mediante reportes automatizados.",
+          "isCorrect": false,
+          "rationale": "Aunque ayudan en la eficiencia, el objetivo primordial de ESG es la sostenibilidad y la responsabilidad social."
+        },
+        {
+          "text": "Son un requisito puramente est\u00e9tico para campa\u00f1as de relaciones p\u00fablicas.",
+          "isCorrect": false,
+          "rationale": "Hoy en d\u00eda, el cumplimiento ESG es un requisito financiero no negociable para atraer capital internacional."
+        }
+      ],
+      "hint": "Relaciona la informaci\u00f3n digital con la demostraci\u00f3n de una operaci\u00f3n \u00e9tica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el riesgo de aplicar Inteligencia Artificial (IA) sin haber optimizado previamente los procesos?",
+      "answerOptions": [
+        {
+          "text": "Se genera un enorme riesgo financiero corporativo sin valor real.",
+          "isCorrect": true,
+          "rationale": "La IA solo funciona sobre procesos ya maduros y con datos \u00edntegros; de lo contrario, es una inversi\u00f3n desperdiciada."
+        },
+        {
+          "text": "La IA podr\u00eda tomar el control total de la empresa y despedir a los gerentes.",
+          "isCorrect": false,
+          "rationale": "Este es un temor infundado; el riesgo real es la ineficiencia econ\u00f3mica y la mala toma de decisiones basada en datos pobres."
+        },
+        {
+          "text": "El sistema se volver\u00eda demasiado r\u00e1pido para que los humanos lo sigan.",
+          "isCorrect": false,
+          "rationale": "Sin optimizaci\u00f3n previa, el sistema simplemente automatizar\u00eda errores a gran velocidad."
+        },
+        {
+          "text": "Aumentar\u00eda la ley del mineral de forma artificial.",
+          "isCorrect": false,
+          "rationale": "La IA no puede cambiar la geolog\u00eda; solo puede optimizar c\u00f3mo se extrae y procesa el recurso existente."
+        }
+      ],
+      "hint": "La tecnolog\u00eda avanzada no puede arreglar un proceso que est\u00e1 mal dise\u00f1ado desde su base."
+    },
+    {
+      "question": "De acuerdo con el mapa de ruta sugerido para la transformaci\u00f3n, \u00bfqu\u00e9 se debe hacer despu\u00e9s de evaluar y diagnosticar?",
+      "answerOptions": [
+        {
+          "text": "Priorizar proyectos de alta relevancia y baja complejidad para asegurar victorias tempranas.",
+          "isCorrect": true,
+          "rationale": "Lograr \u00e9xitos r\u00e1pidos ayuda a vencer el escepticismo interno antes de pasar a un escalamiento masivo."
+        },
+        {
+          "text": "Migrar inmediatamente todos los sistemas a la nube sin realizar pruebas.",
+          "isCorrect": false,
+          "rationale": "La migraci\u00f3n masiva es parte del escalamiento final y requiere una gobernanza s\u00f3lida ya establecida."
+        },
+        {
+          "text": "Despedir al personal manual para forzar la adopci\u00f3n de tecnolog\u00eda.",
+          "isCorrect": false,
+          "rationale": "El mapa de ruta destaca la necesidad de reconversi\u00f3n laboral y gesti\u00f3n del talento, no la eliminaci\u00f3n del personal."
+        },
+        {
+          "text": "Comprar la maquinaria m\u00e1s cara del mercado para garantizar el \u00e9xito.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda 4.0 no se trata solo de comprar aparatos, sino de una reingenier\u00eda hacia la inteligencia operativa."
+        }
+      ],
+      "hint": "Busca el paso que genera confianza en la organizaci\u00f3n mediante resultados positivos r\u00e1pidos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la paradoja ineludible del factor humano en la ciberseguridad minera?",
+      "answerOptions": [
+        {
+          "text": "El humano es el eslab\u00f3n m\u00e1s d\u00e9bil, pero tambi\u00e9n el motor de la innovaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Nuestra creatividad impulsa el progreso, aunque nuestros descuidos suelen ser la mayor vulnerabilidad del sistema."
+        },
+        {
+          "text": "Los humanos son necesarios para programar la IA, pero la IA los reemplaza al final.",
+          "isCorrect": false,
+          "rationale": "La visi\u00f3n planteada es de sinergia entre potencia computacional y talento humano para maximizar el valor."
+        },
+        {
+          "text": "A mayor tecnolog\u00eda, menor es la necesidad de capacitaci\u00f3n humana.",
+          "isCorrect": false,
+          "rationale": "La realidad es que la demanda por perfiles altamente especializados y el reskilling es m\u00e1s feroz que nunca."
+        },
+        {
+          "text": "Los errores humanos solo ocurren en las operaciones manuales de nivel 1.",
+          "isCorrect": false,
+          "rationale": "Incluso en sistemas nivel 5, el descuido humano en ciberseguridad (como un USB) puede ser catastr\u00f3fico."
+        }
+      ],
+      "hint": "Piensa en la dualidad de ser la mayor amenaza y la \u00fanica fuente de progreso."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Convergencia IT/OT en Miner\u00eda 4.0",
+      "Autonom\u00eda Operativa y Niveles de Madurez",
+      "Tecnolog\u00eda de Sensores y Radares de Alta Frecuencia",
+      "Estrategias de Caterpillar y Komatsu en Autonom\u00eda",
+      "Control Avanzado de Procesos (APC) y Modelos Predictivos",
+      "Gemelos Digitales y Simulaci\u00f3n",
+      "Interoperabilidad de Sistemas (ISA 95, B2MML, OPC UA)",
+      "Gesti\u00f3n de Datos y Cloud Computing",
+      "Ciberseguridad Industrial y Modelo Zero Trust",
+      "Gesti\u00f3n del Talento y \u00c9tica ESG"
+    ],
+    "followUp": [
+      "Implementaci\u00f3n de Algoritmos de Machine Learning en Plantas Concentradoras",
+      "Protocolos de Comunicaci\u00f3n en Redes Industriales de Baja Latencia",
+      "An\u00e1lisis de Ciclo de Vida de Neum\u00e1ticos en Flotas Aut\u00f3nomas",
+      "Metodolog\u00edas de Reskilling para Mantenedores Mecatr\u00f3nicos",
+      "Gobernanza de Datos para Reportes de Sostenibilidad Corporativa",
+      "Arquitecturas de Microservicios para Miner\u00eda en el Borde (Edge Computing)"
+    ]
+  }
+}

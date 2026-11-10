@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfC\u00f3mo ha evolucionado el rol del abastecimiento minero en la actualidad?",
+      "answerOptions": [
+        {
+          "text": "Ha pasado de ser un soporte administrativo a un pilar estrat\u00e9gico cr\u00edtico para la viabilidad financiera.",
+          "isCorrect": true,
+          "rationale": "El abastecimiento moderno se considera un activo estrat\u00e9gico vital que orquesta la log\u00edstica para asegurar la continuidad operativa y mitigar la volatilidad."
+        },
+        {
+          "text": "Se ha simplificado para enfocarse exclusivamente en la reducci\u00f3n de costos de adquisici\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Enfocarse solo en el costo ignora la complejidad de la interdependencia entre el flujo log\u00edstico y el proceso f\u00edsico de extracci\u00f3n."
+        },
+        {
+          "text": "Ha delegado la responsabilidad financiera a las \u00e1reas de operaciones y mantenimiento.",
+          "isCorrect": false,
+          "rationale": "El abastecimiento ahora asume una responsabilidad directa sobre la viabilidad financiera del yacimiento mediante una gesti\u00f3n inteligente."
+        },
+        {
+          "text": "Se ha convertido en un centro de costos aislado que solo responde ante auditor\u00edas externas.",
+          "isCorrect": false,
+          "rationale": "Se busca precisamente alejarse del concepto de centro de costos para verse como un mitigador de riesgos operativos y financieros."
+        }
+      ],
+      "hint": "Considera si su funci\u00f3n es ahora m\u00e1s pasiva o si tiene un impacto directo en la supervivencia de la operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una consecuencia cr\u00edtica de fallar en las auditor\u00edas globales lideradas por firmas como PwC o EY?",
+      "answerOptions": [
+        {
+          "text": "La p\u00e9rdida total de la licencia social para operar.",
+          "isCorrect": true,
+          "rationale": "El incumplimiento de est\u00e1ndares de gobernanza corporativa puede desencadenar crisis legales y sociales que inhabilitan la operaci\u00f3n a largo plazo."
+        },
+        {
+          "text": "Un aumento leve en los tiempos de entrega de suministros internacionales.",
+          "isCorrect": false,
+          "rationale": "Este es un problema operativo menor, mientras que las auditor\u00edas globales afectan la legitimidad y legalidad de toda la organizaci\u00f3n."
+        },
+        {
+          "text": "La reclasificaci\u00f3n autom\u00e1tica de todos los materiales a nivel tres.",
+          "isCorrect": false,
+          "rationale": "La criticidad de los materiales depende de la operaci\u00f3n f\u00edsica, no de los resultados de una auditor\u00eda contable o de gobernanza."
+        },
+        {
+          "text": "La eliminaci\u00f3n inmediata del inventario en consignaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La consignaci\u00f3n es un acuerdo comercial y log\u00edstico que no se ve directamente interrumpido por el resultado de una auditor\u00eda corporativa."
+        }
+      ],
+      "hint": "Piensa en el impacto reputacional y legal m\u00e1s grave para la continuidad del negocio minero."
+    },
+    {
+      "question": "En condiciones geogr\u00e1ficas extremas, \u00bfqu\u00e9 capacidad de combustible pueden manejar los convoyes escoltados en un solo viaje?",
+      "answerOptions": [
+        {
+          "text": "Entre $10,000$ y $100,000$ galones.",
+          "isCorrect": true,
+          "rationale": "Para soportar la presi\u00f3n geogr\u00e1fica y asegurar la operatividad 24/7, se requiere movilizar vol\u00famenes masivos de combustible en contingencias."
+        },
+        {
+          "text": "Aproximadamente $5,000$ galones por unidad escoltada.",
+          "isCorrect": false,
+          "rationale": "Esta cifra es insuficiente para cubrir la escala de las necesidades operativas en entornos de aislamiento total."
+        },
+        {
+          "text": "Hasta un m\u00e1ximo de $1,000$ galones por helic\u00f3ptero de emergencia.",
+          "isCorrect": false,
+          "rationale": "Aunque se usan helic\u00f3pteros, los convoyes terrestres est\u00e1n dise\u00f1ados para el transporte de vol\u00famenes mucho mayores."
+        },
+        {
+          "text": "Exactamente $200,000$ galones para evitar el desabastecimiento semanal.",
+          "isCorrect": false,
+          "rationale": "El rango m\u00e1ximo mencionado para este tipo de operaciones log\u00edsticas masivas alcanza los $100,000$ galones."
+        }
+      ],
+      "hint": "Se trata de cifras que reflejan soluciones masivas para mantener una mina en funcionamiento."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afectan las desviaciones en la planificaci\u00f3n de transporte al costo por tonelada de mineral extra\u00edda?",
+      "answerOptions": [
+        {
+          "text": "Aumentan los gastos de emergencia y encarecen las p\u00f3lizas de seguros de riesgo.",
+          "isCorrect": true,
+          "rationale": "Las fallas log\u00edsticas disparan los costos operativos directos y el valor de los seguros (SSTR), reduciendo los m\u00e1rgenes de ganancia."
+        },
+        {
+          "text": "Reducen el costo final al permitir una negociaci\u00f3n de fletes m\u00e1s agresiva.",
+          "isCorrect": false,
+          "rationale": "Las urgencias suelen eliminar el poder de negociaci\u00f3n y obligar a pagar tarifas premium por transporte inmediato."
+        },
+        {
+          "text": "No tienen impacto, ya que los costos de transporte son gastos fijos anuales.",
+          "isCorrect": false,
+          "rationale": "En miner\u00eda, el transporte es una variable financiera vol\u00e1til que puede fluctuar dr\u00e1sticamente seg\u00fan la eficiencia operativa."
+        },
+        {
+          "text": "Disminuyen el OPEX al centralizar las compras en proveedores locales.",
+          "isCorrect": false,
+          "rationale": "Aunque los proveedores locales ayudan, la mala planificaci\u00f3n del transporte principal siempre genera ineficiencias de costo."
+        }
+      ],
+      "hint": "Considera los gastos imprevistos y el impacto en la seguridad social y laboral."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja operativa de integrar 'proveedores todistas' locales en la cadena de valor?",
+      "answerOptions": [
+        {
+          "text": "Ofrecen una velocidad de respuesta inmediata ante urgencias que la log\u00edstica internacional no puede igualar.",
+          "isCorrect": true,
+          "rationale": "Su cercan\u00eda y flexibilidad permiten resolver necesidades cr\u00edticas de forma r\u00e1pida, adem\u00e1s de fortalecer la licencia social."
+        },
+        {
+          "text": "Garantizan precios m\u00e1s bajos que los fabricantes globales por econom\u00eda de escala.",
+          "isCorrect": false,
+          "rationale": "Los proveedores locales suelen tener costos m\u00e1s altos por unidad, pero compensan con agilidad y disponibilidad inmediata."
+        },
+        {
+          "text": "Sustituyen por completo la necesidad de usar sistemas complejos como SAP.",
+          "isCorrect": false,
+          "rationale": "Los proveedores locales son un complemento operativo, no una alternativa a las herramientas de gesti\u00f3n empresarial."
+        },
+        {
+          "text": "Permiten eliminar los stocks cr\u00edticos de nivel uno en los almacenes centrales.",
+          "isCorrect": false,
+          "rationale": "Incluso con proveedores locales, la mina debe mantener inventarios cr\u00edticos propios para asegurar la continuidad inmediata."
+        }
+      ],
+      "hint": "Piensa en qui\u00e9n podr\u00eda ayudarte m\u00e1s r\u00e1pido si algo falla a las 3 de la ma\u00f1ana."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza a los materiales clasificados como Nivel 1 en el sistema de triaje de la mina?",
+      "answerOptions": [
+        {
+          "text": "Su ausencia detiene la mina de inmediato o pone en riesgo inminente la vida humana.",
+          "isCorrect": true,
+          "rationale": "El nivel uno representa la criticidad absoluta, donde el impacto operativo o de seguridad es instant\u00e1neo y severo."
+        },
+        {
+          "text": "Son art\u00edculos de alto costo que requieren aprobaci\u00f3n del Category Manager global.",
+          "isCorrect": false,
+          "rationale": "La clasificaci\u00f3n de criticidad se basa en el impacto operativo, no en el valor monetario del producto."
+        },
+        {
+          "text": "Pueden retrasarse un par de d\u00edas sin afectar la producci\u00f3n principal.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde al Nivel 2 (urgentes), que ofrecen un peque\u00f1o margen de maniobra antes del paro."
+        },
+        {
+          "text": "Son servicios de consultor\u00eda estrat\u00e9gica con tiempos de entrega predecibles.",
+          "isCorrect": false,
+          "rationale": "Los servicios con tiempos predecibles y sin impacto inmediato en la extracci\u00f3n se clasifican como Nivel 3 (planificables)."
+        }
+      ],
+      "hint": "Enf\u00f3cate en la urgencia extrema y la seguridad de las personas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la lecci\u00f3n principal de la 'paradoja de la criticidad'?",
+      "answerOptions": [
+        {
+          "text": "La criticidad depende del impacto en la continuidad operativa, no del precio del producto.",
+          "isCorrect": true,
+          "rationale": "Un objeto barato (como un guante de soldar) puede ser cr\u00edtico si su falta detiene un equipo millonario por seguridad."
+        },
+        {
+          "text": "Los productos m\u00e1s caros siempre deben tener la prioridad de entrega m\u00e1s alta.",
+          "isCorrect": false,
+          "rationale": "Productos costosos, como informes de consultor\u00eda, pueden ser de nivel tres si su retraso no detiene la operaci\u00f3n f\u00edsica."
+        },
+        {
+          "text": "La tecnolog\u00eda SAP elimina la necesidad de clasificar materiales por impacto.",
+          "isCorrect": false,
+          "rationale": "SAP es la herramienta que gestiona los datos, pero la clasificaci\u00f3n estrat\u00e9gica debe ser definida por los humanos seg\u00fan el riesgo."
+        },
+        {
+          "text": "Solo los repuestos mec\u00e1nicos complejos pueden ser considerados de nivel uno.",
+          "isCorrect": false,
+          "rationale": "Insumos b\u00e1sicos de seguridad pueden ser nivel uno si los protocolos exigen su uso para operar la maquinaria."
+        }
+      ],
+      "hint": "Compara un insumo de c\u00e9ntimos esencial para la seguridad frente a un informe de un mill\u00f3n de d\u00f3lares."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n estrat\u00e9gica de un Category Manager en el abastecimiento minero?",
+      "answerOptions": [
+        {
+          "text": "Negociar con fuerza en mercados internacionales gracias al agrupamiento de grandes vol\u00famenes de compra.",
+          "isCorrect": true,
+          "rationale": "Gestionar familias de productos permite optimizar presupuestos masivos y obtener mejores condiciones mediante la especializaci\u00f3n."
+        },
+        {
+          "text": "Supervisar personalmente la descarga de materiales pesados en el almac\u00e9n central.",
+          "isCorrect": false,
+          "rationale": "Esa es una funci\u00f3n operativa de almac\u00e9n o log\u00edstica f\u00edsica, no una labor de gesti\u00f3n estrat\u00e9gica de categor\u00edas."
+        },
+        {
+          "text": "Ingresar manualmente los datos maestros en el sistema SAP para evitar errores de tipeo.",
+          "isCorrect": false,
+          "rationale": "Aunque dependen de los datos, los Category Managers se enfocan en la estrategia comercial y el control presupuestario."
+        },
+        {
+          "text": "Gestionar exclusivamente las compras menores de mil d\u00f3lares para asegurar la competencia.",
+          "isCorrect": false,
+          "rationale": "Los Category Managers suelen manejar familias de alto impacto econ\u00f3mico y vol\u00famenes masivos de inversi\u00f3n."
+        }
+      ],
+      "hint": "Piensa en el poder de negociaci\u00f3n que da manejar un presupuesto de cientos de miles de d\u00f3lares por categor\u00eda."
+    },
+    {
+      "question": "\u00bfC\u00f3mo ayuda un sistema como SAP S4 HANA a la eficiencia del mantenimiento de flota?",
+      "answerOptions": [
+        {
+          "text": "Cruza los datos del cronograma de minado para lanzar \u00f3rdenes de compra de lubricantes y filtros con antelaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La capacidad predictiva del sistema asegura que los insumos est\u00e9n listos para las paradas de planta programadas."
+        },
+        {
+          "text": "Elimina autom\u00e1ticamente a los proveedores que no ofrecen cr\u00e9dito de 60 d\u00edas.",
+          "isCorrect": false,
+          "rationale": "El sistema provee informaci\u00f3n, pero las decisiones de selecci\u00f3n de proveedores siguen criterios financieros y estrat\u00e9gicos humanos."
+        },
+        {
+          "text": "Permite que los operarios de campo realicen compras directas sin pasar por el \u00e1rea de adquisiciones.",
+          "isCorrect": false,
+          "rationale": "SAP refuerza los protocolos de control; no permite saltarse el \u00e1rea de compras, sino que integra el proceso."
+        },
+        {
+          "text": "Sustituye la necesidad de realizar auditor\u00edas in situ a los proveedores internacionales.",
+          "isCorrect": false,
+          "rationale": "Las auditor\u00edas son procesos de validaci\u00f3n f\u00edsica y normativa que el software no puede reemplazar por s\u00ed solo."
+        }
+      ],
+      "hint": "Enf\u00f3cate en la sincronizaci\u00f3n entre el tiempo de minado y la llegada de los repuestos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que la precisi\u00f3n de los datos maestros es el eje de la eficiencia operativa?",
+      "answerOptions": [
+        {
+          "text": "Porque errores en la descripci\u00f3n de materiales pueden causar desastres log\u00edsticos y p\u00e9rdida de confianza.",
+          "isCorrect": true,
+          "rationale": "Un error de tipeo (como confundir insecticida con matamoscas) invalida la inteligencia predictiva del software m\u00e1s avanzado."
+        },
+        {
+          "text": "Porque permite que el sistema Dispatch funcione sin necesidad de servidores Unix o Linux.",
+          "isCorrect": false,
+          "rationale": "Dispatch requiere de una infraestructura t\u00e9cnica robusta independientemente de la calidad de los datos maestros."
+        },
+        {
+          "text": "Porque garantiza que todos los proveedores sean locales y 'todistas'.",
+          "isCorrect": false,
+          "rationale": "La precisi\u00f3n de datos es interna y afecta a toda la cadena, no determina el origen geogr\u00e1fico del proveedor."
+        },
+        {
+          "text": "Porque es el \u00fanico requisito para obtener la certificaci\u00f3n ISO 14001.",
+          "isCorrect": false,
+          "rationale": "Las certificaciones ISO eval\u00faan procesos y gesti\u00f3n ambiental de manera mucho m\u00e1s amplia que solo los datos maestros."
+        }
+      ],
+      "hint": "Recuerda la an\u00e9cdota sobre el insecticida industrial y los matamoscas manuales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre la homologaci\u00f3n y la auditor\u00eda de proveedores?",
+      "answerOptions": [
+        {
+          "text": "La homologaci\u00f3n es una validaci\u00f3n documental, mientras que la auditor\u00eda es una revisi\u00f3n f\u00edsica in situ.",
+          "isCorrect": true,
+          "rationale": "Homologar revisa formalidades legales y financieras; auditar verifica procedimientos y evidencias reales en las instalaciones."
+        },
+        {
+          "text": "La homologaci\u00f3n solo aplica a proveedores locales y la auditor\u00eda a transnacionales.",
+          "isCorrect": false,
+          "rationale": "Ambos procesos pueden aplicarse a cualquier proveedor dependiendo del nivel de riesgo y criticidad."
+        },
+        {
+          "text": "La auditor\u00eda se realiza antes de contratar y la homologaci\u00f3n despu\u00e9s del primer a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Generalmente, la homologaci\u00f3n es el primer filtro y la auditor\u00eda es una evaluaci\u00f3n profunda posterior o peri\u00f3dica."
+        },
+        {
+          "text": "No existe diferencia, ambos t\u00e9rminos se usan indistintamente para el registro en la lista maestra.",
+          "isCorrect": false,
+          "rationale": "Acad\u00e9mica y operativamente son conceptos distintos con alcances de verificaci\u00f3n muy diferentes."
+        }
+      ],
+      "hint": "Una se hace desde el escritorio con papeles y la otra requiere viajar a la f\u00e1brica del proveedor."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo busca mitigar agresivamente una auditor\u00eda de cumplimiento normativo?",
+      "answerOptions": [
+        {
+          "text": "El lavado de activos y la responsabilidad solidaria por actividades il\u00edcitas.",
+          "isCorrect": true,
+          "rationale": "Las auditor\u00edas profundas act\u00faan como un escudo para proteger a la mina de ser vinculada con delitos financieros o \u00e9ticos."
+        },
+        {
+          "text": "La falta de stock de suministros ligeros como bol\u00edgrafos y papeler\u00eda.",
+          "isCorrect": false,
+          "rationale": "Estos son riesgos operativos menores que no requieren auditor\u00edas normativas de alto nivel."
+        },
+        {
+          "text": "El aumento del tiempo de transporte en rutas fluviales por lluvias.",
+          "isCorrect": false,
+          "rationale": "Esto es un riesgo geogr\u00e1fico y clim\u00e1tico que se maneja con planes de contingencia, no con auditor\u00edas de cumplimiento."
+        },
+        {
+          "text": "La rotaci\u00f3n de personal en el departamento de adquisiciones de la mina.",
+          "isCorrect": false,
+          "rationale": "La rotaci\u00f3n se mitiga con la lista maestra de proveedores e institucionalizaci\u00f3n del conocimiento, no con auditor\u00edas al proveedor."
+        }
+      ],
+      "hint": "Piensa en problemas legales graves que podr\u00edan destruir la reputaci\u00f3n de la empresa."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 tipo de insumos es esencial el uso de una Orden de Compra Abierta (OCA)?",
+      "answerOptions": [
+        {
+          "text": "Insumos de consumo masivo y recurrente como el combustible.",
+          "isCorrect": true,
+          "rationale": "La OCA reduce la carga administrativa al permitir consumos diarios contra un monto total aprobado anualmente."
+        },
+        {
+          "text": "Contrataciones puntuales de consultor\u00eda estrat\u00e9gica de alto nivel.",
+          "isCorrect": false,
+          "rationale": "Los servicios espec\u00edficos suelen requerir contratos detallados por hitos, no \u00f3rdenes abiertas de consumo masivo."
+        },
+        {
+          "text": "Repuestos cr\u00edticos que tardan 6 meses en llegar desde el extranjero.",
+          "isCorrect": false,
+          "rationale": "Para estos casos se prefiere la consignaci\u00f3n o contratos marco que aseguren el stock f\u00edsico."
+        },
+        {
+          "text": "Compras menores a mil d\u00f3lares que solo requieren una cotizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las compras menores se gestionan como transacciones directas, no necesariamente mediante estructuras de OCA."
+        }
+      ],
+      "hint": "Evita tener que hacer un tr\u00e1mite burocr\u00e1tico cada vez que un cami\u00f3n llena el tanque."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el beneficio de un contrato marco en un mercado de alta volatilidad?",
+      "answerOptions": [
+        {
+          "text": "Establece exclusividad y congela los precios durante un periodo de 1 a 2 a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Act\u00faa como un escudo financiero contra la inflaci\u00f3n y las fluctuaciones de precios de los materiales cr\u00edticos."
+        },
+        {
+          "text": "Permite devolver cualquier material sin costo si la producci\u00f3n de la mina baja.",
+          "isCorrect": false,
+          "rationale": "Esa es una pol\u00edtica de devoluciones o log\u00edstica inversa, no la funci\u00f3n principal de un contrato marco."
+        },
+        {
+          "text": "Garantiza que el proveedor asuma el costo total de los seguros SSTR.",
+          "isCorrect": false,
+          "rationale": "Las p\u00f3lizas de seguro suelen ser responsabilidad de la empresa que opera, aunque los t\u00e9rminos var\u00edan por contrato."
+        },
+        {
+          "text": "Elimina la necesidad de realizar cuadros comparativos en futuras licitaciones.",
+          "isCorrect": false,
+          "rationale": "Los cuadros comparativos se usan para establecer el contrato marco inicial; una vez establecido, se siguen sus t\u00e9rminos."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo protegerse de las subidas inesperadas de precios en los materiales."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el modelo log\u00edstico de 'consignaci\u00f3n'?",
+      "answerOptions": [
+        {
+          "text": "El stock est\u00e1 f\u00edsicamente en la mina, pero solo se paga cuando se utiliza.",
+          "isCorrect": true,
+          "rationale": "Este modelo protege el flujo de caja y elimina el riesgo de largos tiempos de espera internacional al tener el repuesto a mano."
+        },
+        {
+          "text": "La mina paga el 100% por adelantado para asegurar que el proveedor fabrique la pieza.",
+          "isCorrect": false,
+          "rationale": "Eso ser\u00eda un pago anticipado, lo cual es opuesto a la consignaci\u00f3n donde el pago ocurre al consumo."
+        },
+        {
+          "text": "El proveedor almacena los productos en el puerto y los env\u00eda solo tras recibir la orden.",
+          "isCorrect": false,
+          "rationale": "En la consignaci\u00f3n, el material ya debe estar dentro de las instalaciones de la mina para ser efectivo."
+        },
+        {
+          "text": "Es una modalidad donde el transporte siempre se realiza mediante helic\u00f3pteros de emergencia.",
+          "isCorrect": false,
+          "rationale": "La consignaci\u00f3n se refiere a la propiedad y el pago del inventario, no al m\u00e9todo de transporte utilizado."
+        }
+      ],
+      "hint": "Tambi\u00e9n se le conoce cari\u00f1osamente como el 'modelo de cocina'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 requisito es obligatorio para adquisiciones operativas que superan los $5,000?",
+      "answerOptions": [
+        {
+          "text": "Presentar al menos tres propuestas formales y armar cuadros comparativos.",
+          "isCorrect": true,
+          "rationale": "A mayor monto, mayor es el rigor de control para garantizar transparencia y competencia entre postores."
+        },
+        {
+          "text": "Obtener la aprobaci\u00f3n directa de una firma de auditor\u00eda como EY o PwC.",
+          "isCorrect": false,
+          "rationale": "Las firmas auditan el proceso a posteriori; la gesti\u00f3n diaria de las tres cotizaciones es interna del \u00e1rea de compras."
+        },
+        {
+          "text": "Pagar el total de la compra en un plazo m\u00e1ximo de 15 d\u00edas calendario.",
+          "isCorrect": false,
+          "rationale": "El est\u00e1ndar del sector suele buscar plazos de cr\u00e9dito mayores (como 60 d\u00edas) para optimizar el capital de trabajo."
+        },
+        {
+          "text": "Clasificar autom\u00e1ticamente el insumo como Nivel 1 cr\u00edtico.",
+          "isCorrect": false,
+          "rationale": "El precio no determina la criticidad; un gasto de $5,000 puede ser para materiales de nivel dos o tres."
+        }
+      ],
+      "hint": "Implica una mayor cantidad de cotizaciones y una herramienta de an\u00e1lisis visual de ofertas."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es fundamental separar el flujo de carga industrial pesada de los suministros ligeros en el CRDC?",
+      "answerOptions": [
+        {
+          "text": "Para evitar cuellos de botella operativos y maniobras peligrosas de izaje que retrasen los pedidos diarios.",
+          "isCorrect": true,
+          "rationale": "La coexistencia de cargas masivas y ligeras en el mismo flujo genera ineficiencias y riesgos de seguridad innecesarios."
+        },
+        {
+          "text": "Porque la carga pesada no puede ser registrada en el sistema SAP S4 HANA.",
+          "isCorrect": false,
+          "rationale": "Todo material, sin importar su peso, debe estar registrado en el sistema para mantener la trazabilidad."
+        },
+        {
+          "text": "Debido a que solo los suministros ligeros pueden ser adquiridos a trav\u00e9s de proveedores locales.",
+          "isCorrect": false,
+          "rationale": "Los proveedores locales pueden suministrar diversos tipos de materiales, no solo los ligeros."
+        },
+        {
+          "text": "Para cumplir con la normativa que proh\u00edbe el uso de GPS en veh\u00edculos de carga pesada.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el sistema Dispatch utiliza GPS precisamente para optimizar el movimiento de la flota pesada."
+        }
+      ],
+      "hint": "Imagina una camioneta de repuestos peque\u00f1os esperando horas detr\u00e1s de una gr\u00faa que mueve un motor gigante."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la innovaci\u00f3n t\u00e9cnica en el pago de neum\u00e1ticos gigantes para camiones de extracci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "El desembolso es proporcional al kilometraje real recorrido por el neum\u00e1tico.",
+          "isCorrect": true,
+          "rationale": "Este sistema alinea el inter\u00e9s financiero con el rendimiento t\u00e9cnico, pagando solo por el desempe\u00f1o efectivo en terreno."
+        },
+        {
+          "text": "Se pagan exclusivamente a trav\u00e9s de trueque por mineral extra\u00eddo.",
+          "isCorrect": false,
+          "rationale": "Las transacciones comerciales se realizan en moneda (usualmente d\u00f3lares), no mediante intercambio f\u00edsico de minerales."
+        },
+        {
+          "text": "El costo se descuenta del presupuesto de uniformes y ropa de trabajo.",
+          "isCorrect": false,
+          "rationale": "Cada familia de compras (EPP, neum\u00e1ticos, combustible) tiene su propio presupuesto gestionado por un Category Manager."
+        },
+        {
+          "text": "Se utiliza un precio fijo que no depende de la duraci\u00f3n del producto.",
+          "isCorrect": false,
+          "rationale": "El modelo tradicional era de precio fijo, pero la innovaci\u00f3n mencionada vincula el pago al rendimiento t\u00e9cnico."
+        }
+      ],
+      "hint": "El fabricante solo recibe el pago completo si su producto dura lo que prometi\u00f3."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple la inteligencia artificial en la monitorizaci\u00f3n de operadores de maquinaria?",
+      "answerOptions": [
+        {
+          "text": "Vigila signos de fatiga mediante c\u00e1maras y pulseras biom\u00e9tricas para disparar protocolos preventivos.",
+          "isCorrect": true,
+          "rationale": "La IA permite pasar de una seguridad reactiva a una predictiva, salvaguardando vidas al detectar microsue\u00f1os o agotamiento."
+        },
+        {
+          "text": "Calcula el salario mensual bas\u00e1ndose en las toneladas movidas por hora.",
+          "isCorrect": false,
+          "rationale": "Aunque se miden datos de productividad, la IA en cabina se enfoca primordialmente en la seguridad y salud del operador."
+        },
+        {
+          "text": "Reemplaza por completo la necesidad de tener operadores humanos en zonas de riesgo.",
+          "isCorrect": false,
+          "rationale": "La IA asiste y monitorea al humano para reducir el error; la automatizaci\u00f3n total es un concepto distinto."
+        },
+        {
+          "text": "Gestiona \u00fanicamente la lista maestra de proveedores internacionales.",
+          "isCorrect": false,
+          "rationale": "La IA en cabina es para control operacional en tiempo real, no para gesti\u00f3n administrativa de proveedores."
+        }
+      ],
+      "hint": "Se trata de tecnolog\u00eda vestible y sensores visuales para prevenir accidentes."
+    },
+    {
+      "question": "En el sistema de automatizaci\u00f3n frente a riesgos naturales, \u00bfqu\u00e9 ocurre cuando se alcanza una Alerta Roja?",
+      "answerOptions": [
+        {
+          "text": "Las operaciones se paralizan y las zonas de riesgo se evac\u00faan de manera inmediata y autom\u00e1tica.",
+          "isCorrect": true,
+          "rationale": "El sistema aut\u00f3nomo elimina la dependencia del tiempo de reacci\u00f3n humano ante peligros inminentes como tormentas el\u00e9ctricas o derrumbes."
+        },
+        {
+          "text": "Se emite un comunicado al Category Manager para que renegocie las p\u00f3lizas de seguro.",
+          "isCorrect": false,
+          "rationale": "Una alerta roja es una emergencia operativa inmediata que requiere acci\u00f3n f\u00edsica, no tr\u00e1mites administrativos."
+        },
+        {
+          "text": "Se aumenta la velocidad de la flota Dispatch para terminar el turno antes de la tormenta.",
+          "isCorrect": false,
+          "rationale": "Aumentar la velocidad en condiciones de riesgo ser\u00eda peligroso y contrario a los protocolos de seguridad minera."
+        },
+        {
+          "text": "El sistema SAP lanza autom\u00e1ticamente \u00f3rdenes de compra para equipos de rescate.",
+          "isCorrect": false,
+          "rationale": "La respuesta a una alerta roja es la evacuaci\u00f3n y protecci\u00f3n de vidas, no la gesti\u00f3n de compras en ese instante."
+        }
+      ],
+      "hint": "Es el nivel m\u00e1ximo de severidad donde la prioridad es la vida humana."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Estrategia de Abastecimiento Minero",
+      "Clasificaci\u00f3n de Criticidad de Materiales",
+      "Gesti\u00f3n y Auditor\u00eda de Proveedores",
+      "Modelos Contractuales (OCA, Consignaci\u00f3n)",
+      "Transformaci\u00f3n Digital y Control Operativo"
+    ],
+    "followUp": [
+      "Mitigaci\u00f3n de Riesgos en Cadena de Suministro",
+      "Sistemas ERP y Control de Datos Maestros",
+      "Log\u00edstica Inversa y Sostenibilidad Ambiental",
+      "Tecnolog\u00edas Predictivas y Seguridad en Miner\u00eda"
+    ]
+  }
+}

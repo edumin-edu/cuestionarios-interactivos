@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el porcentaje aproximado de informalidad laboral en el Per\u00fa que representa un reto cr\u00edtico para la prevenci\u00f3n de riesgos?",
+      "answerOptions": [
+        {
+          "text": "50%",
+          "isCorrect": false,
+          "rationale": "Este valor subestima la magnitud real de la problem\u00e1tica laboral discutida en el contexto nacional."
+        },
+        {
+          "text": "75%",
+          "isCorrect": true,
+          "rationale": "Esta cifra refleja la alarmante realidad de la fuerza laboral que opera con carencia de medidas de prevenci\u00f3n."
+        },
+        {
+          "text": "60%",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra alta, no alcanza el nivel cr\u00edtico identificado como el lastre principal de la competitividad."
+        },
+        {
+          "text": "85%",
+          "isCorrect": false,
+          "rationale": "Representa una cifra superior a la estad\u00edstica analizada sobre la falta de formalizaci\u00f3n en el pa\u00eds."
+        }
+      ],
+      "hint": "Considere la cifra que se asocia con una carencia absoluta de prevenci\u00f3n para la mayor\u00eda de los trabajadores."
+    },
+    {
+      "question": "\u00bfQu\u00e9 concepto se define como una caracter\u00edstica intr\u00ednseca con el potencial de causar da\u00f1o?",
+      "text": "Peligro",
+      "answerOptions": [
+        {
+          "text": "Riesgo",
+          "isCorrect": false,
+          "rationale": "Este t\u00e9rmino se refiere a la probabilidad de que algo suceda, no a la propiedad interna del objeto o situaci\u00f3n."
+        },
+        {
+          "text": "Incidente",
+          "isCorrect": false,
+          "rationale": "Se trata de un evento ocurrido, no de una caracter\u00edstica latente o propia de un elemento."
+        },
+        {
+          "text": "Peligro",
+          "isCorrect": true,
+          "rationale": "El peligro existe por s\u00ed mismo como una fuente o situaci\u00f3n con capacidad de generar lesiones."
+        },
+        {
+          "text": "Negligencia",
+          "isCorrect": false,
+          "rationale": "Este concepto se refiere a un comportamiento humano y no a una propiedad del entorno industrial."
+        }
+      ],
+      "hint": "Piense en algo que, como un tibur\u00f3n en el mar, existe independientemente de la acci\u00f3n humana."
+    },
+    {
+      "question": "En la taxonom\u00eda de eventos por severidad, \u00bfc\u00f3mo se denomina a un suceso que tiene un potencial inminente de causar lesiones graves pero que a\u00fan no se ha materializado en un accidente?",
+      "answerOptions": [
+        {
+          "text": "Incidente peligroso",
+          "isCorrect": true,
+          "rationale": "Este nivel escala desde el susto inicial hacia una situaci\u00f3n con un riesgo real y grave para la comunidad o trabajadores."
+        },
+        {
+          "text": "Incidente leve",
+          "isCorrect": false,
+          "rationale": "Este t\u00e9rmino suele referirse a eventos menores que no presentan un potencial de da\u00f1o masivo o grave de forma inmediata."
+        },
+        {
+          "text": "Accidente de trabajo",
+          "isCorrect": false,
+          "rationale": "Un accidente implica que la lesi\u00f3n o el da\u00f1o ya se ha producido efectivamente."
+        },
+        {
+          "text": "Enfermedad profesional",
+          "isCorrect": false,
+          "rationale": "Esto se refiere a una condici\u00f3n de salud que se desarrolla progresivamente y no a un evento repentino."
+        }
+      ],
+      "hint": "Se encuentra en el nivel intermedio entre un 'casi accidente' y el accidente fatal."
+    },
+    {
+      "question": "\u00bfA partir de cu\u00e1ntos decibeles ($dB$) se considera que el ruido supera el umbral de confort auditivo del ser humano?",
+      "answerOptions": [
+        {
+          "text": "$85 \\text{ dB}$",
+          "isCorrect": false,
+          "rationale": "Este valor representa el l\u00edmite legal para una jornada de 8 horas, no el punto donde termina el confort."
+        },
+        {
+          "text": "$50 \\text{ dB}$",
+          "isCorrect": true,
+          "rationale": "Superar este nivel comienza a generar fatiga y estr\u00e9s, mucho antes de alcanzar los l\u00edmites legales de exposici\u00f3n."
+        },
+        {
+          "text": "$94 \\text{ dB}$",
+          "isCorrect": false,
+          "rationale": "Es un nivel de exposici\u00f3n alta que reduce el tiempo permitido de trabajo a solo una hora."
+        },
+        {
+          "text": "$70 \\text{ dB}$",
+          "isCorrect": false,
+          "rationale": "Aunque es molesto, el umbral t\u00e9cnico de confort se sit\u00faa en un valor inferior."
+        }
+      ],
+      "hint": "Es el nivel en el que el cuerpo empieza a sufrir da\u00f1os microsc\u00f3picos y fatiga silenciosa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal de la herramienta IPER (Identificaci\u00f3n de Peligros y Evaluaci\u00f3n de Riesgos)?",
+      "answerOptions": [
+        {
+          "text": "Es un registro est\u00e1tico anual",
+          "isCorrect": false,
+          "rationale": "Considerarla est\u00e1tica impedir\u00eda adaptarse a los cambios diarios en entornos como el minero."
+        },
+        {
+          "text": "Es una herramienta viva y din\u00e1mica",
+          "isCorrect": true,
+          "rationale": "Exige una reevaluaci\u00f3n constante para adaptarse a condiciones operativas que fluct\u00faan constantemente."
+        },
+        {
+          "text": "Es un documento de uso exclusivo para gerencia",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n de riesgos requiere la participaci\u00f3n de todos los niveles operativos para ser efectiva."
+        },
+        {
+          "text": "Es un requisito puramente administrativo",
+          "isCorrect": false,
+          "rationale": "Reducirla a burocracia ignora su funci\u00f3n cr\u00edtica de mitigaci\u00f3n en el campo de trabajo."
+        }
+      ],
+      "hint": "Piense en si esta lista de riesgos debe cambiar conforme cambian las condiciones del trabajo."
+    },
+    {
+      "question": "Seg\u00fan la Ley 29783, \u00bfqu\u00e9 principio establece que los hechos f\u00edsicos prevalecen sobre los documentos en caso de discrepancia?",
+      "answerOptions": [
+        {
+          "text": "Principio de prevenci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Aunque es un pilar, se enfoca en evitar el da\u00f1o antes de que ocurra y no en la veracidad documental."
+        },
+        {
+          "text": "Principio de primac\u00eda de la realidad",
+          "isCorrect": true,
+          "rationale": "Este principio asegura que la autoridad priorice lo que sucede realmente en el campo sobre lo que diga el papel."
+        },
+        {
+          "text": "Principio de responsabilidad econ\u00f3mica",
+          "isCorrect": false,
+          "rationale": "Este concepto no forma parte de la jerarqu\u00eda probatoria entre documentos y hechos f\u00edsicos en esta ley."
+        },
+        {
+          "text": "Principio de participaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Se refiere al involucramiento de los trabajadores, no a la valoraci\u00f3n de pruebas por la autoridad."
+        }
+      ],
+      "hint": "Recuerde la frase: 'el papel no siempre habla'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el n\u00famero m\u00ednimo de trabajadores que debe tener una empresa para estar obligada a constituir un Comit\u00e9 de Seguridad y Salud en el Trabajo (CSST)?",
+      "answerOptions": [
+        {
+          "text": "10 trabajadores",
+          "isCorrect": false,
+          "rationale": "Para organizaciones con menos de 20 trabajadores, la normativa suele exigir un supervisor, no un comit\u00e9 paritario."
+        },
+        {
+          "text": "20 trabajadores",
+          "isCorrect": true,
+          "rationale": "A partir de este n\u00famero de empleados, la ley exige una estructura formal y paritaria de gesti\u00f3n."
+        },
+        {
+          "text": "50 trabajadores",
+          "isCorrect": false,
+          "rationale": "Es un n\u00famero elevado; la obligaci\u00f3n legal de formar el comit\u00e9 comienza mucho antes."
+        },
+        {
+          "text": "5 trabajadores",
+          "isCorrect": false,
+          "rationale": "Las microempresas muy peque\u00f1as tienen reg\u00edmenes de supervisi\u00f3n distintos a la formaci\u00f3n de un comit\u00e9."
+        }
+      ],
+      "hint": "Este n\u00famero marca la transici\u00f3n hacia la obligatoriedad de una composici\u00f3n paritaria."
+    },
+    {
+      "question": "\u00bfC\u00f3mo debe ser la composici\u00f3n de los representantes en el Comit\u00e9 de Seguridad y Salud en el Trabajo?",
+      "answerOptions": [
+        {
+          "text": "Mayor\u00eda designada por el empleador",
+          "isCorrect": false,
+          "rationale": "Esto romper\u00eda el equilibrio necesario para una gesti\u00f3n democr\u00e1tica y justa de la seguridad."
+        },
+        {
+          "text": "Estrictamente paritaria",
+          "isCorrect": true,
+          "rationale": "Debe haber igual n\u00famero de representantes del empleador y de los trabajadores para equilibrar la relaci\u00f3n laboral."
+        },
+        {
+          "text": "Compuesta solo por especialistas externos",
+          "isCorrect": false,
+          "rationale": "La ley exige que los miembros pertenezcan activamente a la organizaci\u00f3n (empleador y empleados)."
+        },
+        {
+          "text": "Designada exclusivamente por el sindicato",
+          "isCorrect": false,
+          "rationale": "El empleador tambi\u00e9n tiene el derecho legal de designar a sus propios representantes en el comit\u00e9."
+        }
+      ],
+      "hint": "Busque el t\u00e9rmino que define una participaci\u00f3n igualitaria entre ambas partes."
+    },
+    {
+      "question": "\u00bfCu\u00e1ntas capacitaciones en materia de seguridad y salud est\u00e1 obligado a brindar el empleador como m\u00ednimo al a\u00f1o?",
+      "answerOptions": [
+        {
+          "text": "2 capacitaciones",
+          "isCorrect": false,
+          "rationale": "Este n\u00famero no cumple con el est\u00e1ndar m\u00ednimo legal exigido para mantener la formaci\u00f3n continua."
+        },
+        {
+          "text": "4 capacitaciones",
+          "isCorrect": true,
+          "rationale": "Es el deber legal ineludible del empleador para asegurar que el personal est\u00e9 debidamente formado."
+        },
+        {
+          "text": "1 capacitaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Una sola sesi\u00f3n anual se considera insuficiente frente a la complejidad de los riesgos industriales."
+        },
+        {
+          "text": "12 capacitaciones",
+          "isCorrect": false,
+          "rationale": "Aunque ser\u00eda ideal (una mensual), la ley establece un m\u00ednimo obligatorio menor."
+        }
+      ],
+      "hint": "Es un requisito trimestral si se promedia a lo largo del a\u00f1o."
+    },
+    {
+      "question": "Bajo la Ley 30222, \u00bfcu\u00e1l es el rango de pena privativa de libertad efectiva para gerentes ante negligencias que resulten en accidentes mortales?",
+      "answerOptions": [
+        {
+          "text": "1 a 3 a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Estas penas suelen ser suspendidas y no reflejan la severidad actual para casos de fatalidad por negligencia."
+        },
+        {
+          "text": "5 a 8 a\u00f1os",
+          "isCorrect": true,
+          "rationale": "El marco legal actual establece penas severas de c\u00e1rcel efectiva para la alta direcci\u00f3n ante omisiones graves."
+        },
+        {
+          "text": "10 a 15 a\u00f1os",
+          "isCorrect": false,
+          "rationale": "Este rango corresponde a delitos dolosos m\u00e1s graves y no es el est\u00e1ndar para la negligencia en SST."
+        },
+        {
+          "text": "No hay pena de c\u00e1rcel, solo multas",
+          "isCorrect": false,
+          "rationale": "La normativa evolucion\u00f3 precisamente para incluir responsabilidad penal directa tras tragedias hist\u00f3ricas."
+        }
+      ],
+      "hint": "Considere que la seguridad se ha convertido en un tema de libertad personal para los l\u00edderes."
+    },
+    {
+      "question": "Si el ruido en un entorno laboral sube a $94 \\text{ dB}$, \u00bfcu\u00e1l es el tiempo m\u00e1ximo de exposici\u00f3n permitido legalmente?",
+      "answerOptions": [
+        {
+          "text": "4 horas",
+          "isCorrect": false,
+          "rationale": "A medida que el ruido aumenta, el tiempo permitido disminuye dr\u00e1sticamente; 4 horas es demasiado para este nivel."
+        },
+        {
+          "text": "1 hora",
+          "isCorrect": true,
+          "rationale": "El incremento de los decibeles reduce el tiempo de exposici\u00f3n segura a solo sesenta minutos."
+        },
+        {
+          "text": "8 horas",
+          "isCorrect": false,
+          "rationale": "Este es el tiempo para el l\u00edmite de $85 \\text{ dB}$, no para niveles superiores de presi\u00f3n sonora."
+        },
+        {
+          "text": "2 horas",
+          "isCorrect": false,
+          "rationale": "Aunque es un tiempo reducido, la norma t\u00e9cnica es a\u00fan m\u00e1s estricta para el nivel de $94 \\text{ dB}$."
+        }
+      ],
+      "hint": "El tiempo se desploma significativamente en comparaci\u00f3n con la jornada est\u00e1ndar."
+    },
+    {
+      "question": "\u00bfCu\u00e1ntos luxes ($lux$) de iluminaci\u00f3n se requieren aproximadamente para un laboratorio de alta precisi\u00f3n o sala de dise\u00f1o?",
+      "answerOptions": [
+        {
+          "text": "$20 \\text{ lux}$",
+          "isCorrect": false,
+          "rationale": "Este nivel es suficiente para exteriores como estacionamientos, pero insuficiente para tareas visuales complejas."
+        },
+        {
+          "text": "$500 \\text{ lux}$",
+          "isCorrect": true,
+          "rationale": "Las tareas que exigen exactitud visual requieren una alta densidad de flujo luminoso para evitar fatiga."
+        },
+        {
+          "text": "$100 \\text{ lux}$",
+          "isCorrect": false,
+          "rationale": "Es un nivel para tareas generales que no requieren el nivel de detalle de un laboratorio especializado."
+        },
+        {
+          "text": "$1000 \\text{ lux}$",
+          "isCorrect": false,
+          "rationale": "Es un nivel extremadamente alto que suele reservarse para cirug\u00edas u operaciones de micro-precisi\u00f3n muy espec\u00edficas."
+        }
+      ],
+      "hint": "Es el valor m\u00e1s alto mencionado para tareas de exactitud y dise\u00f1o."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo de carga ergon\u00f3mica permitido para varones sin el uso de ayudas mec\u00e1nicas?",
+      "answerOptions": [
+        {
+          "text": "$50 \\text{ kg}$",
+          "isCorrect": false,
+          "rationale": "Este peso excede los l\u00edmites de seguridad humana y garantiza lesiones lumbares casi inmediatas."
+        },
+        {
+          "text": "$25 \\text{ kg}$",
+          "isCorrect": true,
+          "rationale": "Es el tope absoluto establecido por la normativa para proteger la integridad musculoesquel\u00e9tica del trabajador masculino."
+        },
+        {
+          "text": "$15 \\text{ kg}$",
+          "isCorrect": false,
+          "rationale": "Este es el l\u00edmite espec\u00edfico para mujeres y adolescentes, no para varones adultos."
+        },
+        {
+          "text": "$30 \\text{ kg}$",
+          "isCorrect": false,
+          "rationale": "Aunque parece cercano, la norma t\u00e9cnica establece un l\u00edmite inferior para prevenir hernias a mediano plazo."
+        }
+      ],
+      "hint": "Piense en el valor m\u00e1ximo antes de que sea obligatorio usar un montacargas o carretilla."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de las siguientes etapas de los ex\u00e1menes m\u00e9dicos ocupacionales es obligatoria realizar 'durante' la relaci\u00f3n laboral?",
+      "answerOptions": [
+        {
+          "text": "Examen Preocupacional",
+          "isCorrect": false,
+          "rationale": "Este se realiza antes de iniciar el v\u00ednculo laboral para determinar la aptitud inicial."
+        },
+        {
+          "text": "Examen Peri\u00f3dico",
+          "isCorrect": true,
+          "rationale": "Permite monitorear la evoluci\u00f3n de la salud del trabajador a lo largo de su tiempo en la empresa."
+        },
+        {
+          "text": "Examen Postocupacional",
+          "isCorrect": false,
+          "rationale": "Se lleva a cabo \u00fanicamente al finalizar el contrato o la relaci\u00f3n laboral con la organizaci\u00f3n."
+        },
+        {
+          "text": "Examen de Reincorporaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Se aplica tras ausencias prolongadas, pero no es el control est\u00e1ndar regular durante la permanencia."
+        }
+      ],
+      "hint": "Su nombre indica que se repite a intervalos regulares durante el empleo."
+    },
+    {
+      "question": "En el sector salud, \u00bfqu\u00e9 enfermedad ha sido incluida recientemente como una enfermedad profesional seg\u00fan la normativa?",
+      "answerOptions": [
+        {
+          "text": "Silicosis",
+          "isCorrect": false,
+          "rationale": "Es una enfermedad pulmonar cl\u00e1sica vinculada a la miner\u00eda y polvos, no una inclusi\u00f3n reciente por pandemia."
+        },
+        {
+          "text": "$COVID-19$",
+          "isCorrect": true,
+          "rationale": "La normativa se adapt\u00f3 para reconocer esta patolog\u00eda como riesgo laboral espec\u00edfico para el personal sanitario."
+        },
+        {
+          "text": "Sordera progresiva",
+          "isCorrect": false,
+          "rationale": "Es una condici\u00f3n causada por ruido ambiental que ha estado en los registros desde hace mucho tiempo."
+        },
+        {
+          "text": "Estr\u00e9s cr\u00f3nico",
+          "isCorrect": false,
+          "rationale": "Aunque es un riesgo psicosocial cr\u00edtico, no es la enfermedad profesional de inclusi\u00f3n reciente citada para el sector salud."
+        }
+      ],
+      "hint": "Considere el impacto de la crisis sanitaria global reciente en las leyes laborales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la regla de oro respecto al Equipo de Protecci\u00f3n Personal (EPP) y su financiamiento?",
+      "answerOptions": [
+        {
+          "text": "El trabajador debe comprar su propio equipo",
+          "isCorrect": false,
+          "rationale": "La ley proh\u00edbe trasladar los costos de prevenci\u00f3n al trabajador; es responsabilidad de la empresa."
+        },
+        {
+          "text": "La organizaci\u00f3n debe garantizar y financiar equipos certificados",
+          "isCorrect": true,
+          "rationale": "Entregar equipos de dudosa calidad o no financiarlos constituye una negligencia criminal."
+        },
+        {
+          "text": "Solo se entregan equipos a trabajadores con m\u00e1s de un a\u00f1o de antig\u00fcedad",
+          "isCorrect": false,
+          "rationale": "La protecci\u00f3n es un derecho desde el primer d\u00eda de exposici\u00f3n a cualquier peligro laboral."
+        },
+        {
+          "text": "El financiamiento es compartido al 50% entre empresa y empleado",
+          "isCorrect": false,
+          "rationale": "El empleador tiene la obligaci\u00f3n de cubrir el 100% de los costos de los equipos de protecci\u00f3n."
+        }
+      ],
+      "hint": "Piense en qui\u00e9n debe asumir la inversi\u00f3n estrat\u00e9gica para proteger la vida humana."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 se diferencia la 'Visi\u00f3n Cero' o 'Cero Da\u00f1os' del enfoque tradicional de 'Cero Accidentes'?",
+      "answerOptions": [
+        {
+          "text": "Se enfoca solo en evitar la sangre y golpes visibles",
+          "isCorrect": false,
+          "rationale": "Este es precisamente el enfoque tradicional limitado que la Visi\u00f3n Cero busca superar."
+        },
+        {
+          "text": "Es una visi\u00f3n hol\u00edstica que incluye da\u00f1os ocultos como el estr\u00e9s o la depresi\u00f3n",
+          "isCorrect": true,
+          "rationale": "Busca prevenir absolutamente todo tipo de deterioro, no solo los eventos repentinos y espectaculares."
+        },
+        {
+          "text": "Solo se aplica en empresas de alto riesgo como la miner\u00eda",
+          "isCorrect": false,
+          "rationale": "Es una filosof\u00eda aplicable a cualquier organizaci\u00f3n moderna que busque el bienestar integral."
+        },
+        {
+          "text": "Busca reducir los costos operativos eliminando las capacitaciones",
+          "isCorrect": false,
+          "rationale": "Al contrario, requiere un liderazgo robusto y recursos para eliminar obst\u00e1culos en la prevenci\u00f3n."
+        }
+      ],
+      "hint": "Considere si el da\u00f1o psicol\u00f3gico o nutricional tambi\u00e9n deber\u00eda prevenirse."
+    },
+    {
+      "question": "\u00bfQu\u00e9 modelo de liderazgo se asocia con el 'Servant Leader' o l\u00edder al servicio en la gesti\u00f3n de seguridad?",
+      "answerOptions": [
+        {
+          "text": "Pir\u00e1mide autoritaria",
+          "isCorrect": false,
+          "rationale": "Este modelo se basa en \u00f3rdenes de arriba hacia abajo y no en dar soporte desde la base."
+        },
+        {
+          "text": "Modelo de la pir\u00e1mide invertida",
+          "isCorrect": true,
+          "rationale": "El l\u00edder se coloca en la base para dar soporte, quitar obst\u00e1culos y empoderar al equipo operativo."
+        },
+        {
+          "text": "Liderazgo basado en la coerci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Este enfoque fomenta el miedo y el enga\u00f1o, lo que es opuesto al servicio y la prevenci\u00f3n real."
+        },
+        {
+          "text": "Direcci\u00f3n por objetivos exclusivamente financieros",
+          "isCorrect": false,
+          "rationale": "Ignora el factor humano y la seguridad, centr\u00e1ndose \u00fanicamente en metas de producci\u00f3n."
+        }
+      ],
+      "hint": "Piense en una estructura donde el l\u00edder es el cimiento y no la punta intocable."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal consecuencia de un liderazgo t\u00f3xico basado en el miedo en un entorno industrial?",
+      "answerOptions": [
+        {
+          "text": "Aumento de la productividad a corto plazo",
+          "isCorrect": false,
+          "rationale": "Aunque pueda parecerlo, el miedo paraliza y genera ineficiencias que destruyen la sostenibilidad."
+        },
+        {
+          "text": "Ocultamiento de errores y destrucci\u00f3n de la veracidad de los datos",
+          "isCorrect": true,
+          "rationale": "Los trabajadores mienten por terror a las sanciones, impidiendo que la empresa identifique fallas reales."
+        },
+        {
+          "text": "Mejora en el cumplimiento de las normas de seguridad",
+          "isCorrect": false,
+          "rationale": "El cumplimiento por miedo no es prevenci\u00f3n real y falla cuando el supervisor no est\u00e1 presente."
+        },
+        {
+          "text": "Reducci\u00f3n de la rotaci\u00f3n de personal",
+          "isCorrect": false,
+          "rationale": "Un ambiente t\u00f3xico suele provocar que el talento abandone la organizaci\u00f3n r\u00e1pidamente."
+        }
+      ],
+      "hint": "Piense en lo que hace un trabajador cuando comete una falla cr\u00edtica y teme una reprimenda gerencial."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo final de un liderazgo transformacional en materia de seguridad?",
+      "answerOptions": [
+        {
+          "text": "Lograr el cumplimiento forzado de los reglamentos",
+          "isCorrect": false,
+          "rationale": "El cumplimiento forzado es reactivo y no garantiza la integridad a largo plazo."
+        },
+        {
+          "text": "Cultivar un compromiso genuino por convicci\u00f3n personal",
+          "isCorrect": true,
+          "rationale": "La verdadera prevenci\u00f3n ocurre cuando el trabajador cuida su vida por voluntad propia y no por miedo a sanciones."
+        },
+        {
+          "text": "Evitar multas administrativas de la autoridad laboral",
+          "isCorrect": false,
+          "rationale": "Evitar multas es un objetivo de cumplimiento m\u00ednimo, pero no es la meta del liderazgo que protege la vida."
+        },
+        {
+          "text": "Externalizar la responsabilidad de los accidentes a los empleados",
+          "isCorrect": false,
+          "rationale": "El liderazgo transformacional asume la responsabilidad del sistema y busca empoderar, no culpar."
+        }
+      ],
+      "hint": "Se trata de pasar del 'tener que hacer' al 'querer hacer'."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Marco Normativo de SST en Per\u00fa (Ley 29783 y Ley 30222)",
+      "Gesti\u00f3n de Peligros, Riesgos e Incidentes",
+      "Par\u00e1metros T\u00e9cnicos de Exposici\u00f3n (Ruido, Iluminaci\u00f3n y Carga)",
+      "Estructura y Funciones del Comit\u00e9 de SST",
+      "Vigilancia M\u00e9dica y Equipos de Protecci\u00f3n Personal",
+      "Modelos de Liderazgo y Cultura Preventiva (Visi\u00f3n Cero)"
+    ],
+    "followUp": [
+      "Metodolog\u00edas para la implementaci\u00f3n din\u00e1mica del IPER",
+      "Responsabilidad Civil y Penal de los Directivos en Siniestralidad Laboral",
+      "Dise\u00f1o de Estaciones de Trabajo bajo Normativa Ergon\u00f3mica",
+      "Impacto de la Salud Mental en la Sostenibilidad Organizacional",
+      "Gesti\u00f3n de Riesgos Biol\u00f3gicos en Entornos no Sanitarios"
+    ]
+  }
+}

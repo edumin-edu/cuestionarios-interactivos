@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 define esencialmente a la homologaci\u00f3n de proveedores en sectores de alto riesgo?",
+      "answerOptions": [
+        {
+          "text": "Es una auditor\u00eda de segunda parte para certificar recursos, solvencia y cultura de cumplimiento.",
+          "isCorrect": true,
+          "rationale": "La homologaci\u00f3n act\u00faa como un filtro de certificaci\u00f3n ejecutado por la parte contratante o una entidad especializada para asegurar que el proveedor cumpla con est\u00e1ndares m\u00ednimos."
+        },
+        {
+          "text": "Es un tr\u00e1mite perif\u00e9rico administrativo para registrar nuevos proveedores en una base de datos.",
+          "isCorrect": false,
+          "rationale": "El proceso ha dejado de ser un tr\u00e1mite secundario para convertirse en una herramienta vital de continuidad operativa."
+        },
+        {
+          "text": "Es un proceso de certificaci\u00f3n ISO obligatorio para todas las empresas de servicios.",
+          "isCorrect": false,
+          "rationale": "Aunque las normas ISO ayudan, la homologaci\u00f3n es un proceso independiente donde los criterios de la empresa contratante prevalecen."
+        },
+        {
+          "text": "Es una inspecci\u00f3n t\u00e9cnica de tercera parte realizada exclusivamente por entes globales independientes.",
+          "isCorrect": false,
+          "rationale": "La homologaci\u00f3n central se define espec\u00edficamente como una auditor\u00eda de segunda parte, no de tercera."
+        }
+      ],
+      "hint": "Consid\u00e9ralo como un escudo que protege la transparencia y la capacidad operativa mediante una revisi\u00f3n directa del contratante."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se clasifican los activos bancarios y las l\u00edneas de cr\u00e9dito dentro del ecosistema minero?",
+      "answerOptions": [
+        {
+          "text": "Bienes tangibles de apalancamiento.",
+          "isCorrect": false,
+          "rationale": "Los bienes se refieren a suministros f\u00edsicos como repuestos o equipos de protecci\u00f3n, no a instrumentos financieros."
+        },
+        {
+          "text": "Servicios de soporte financiero.",
+          "isCorrect": false,
+          "rationale": "Los servicios abarcan actividades operativas como mantenimiento o transporte, mientras que el cr\u00e9dito se agrupa de otra forma."
+        },
+        {
+          "text": "Recursos esenciales.",
+          "isCorrect": true,
+          "rationale": "Esta categor\u00eda incluye los activos financieros que garantizan el apalancamiento necesario para las operaciones."
+        },
+        {
+          "text": "Infraestructura de capital.",
+          "isCorrect": false,
+          "rationale": "Este t\u00e9rmino no forma parte de las tres categor\u00edas t\u00e9cnicas (bienes, servicios y recursos) mencionadas para clasificar proveedores."
+        }
+      ],
+      "hint": "Esta categor\u00eda se enfoca en los elementos que permiten el apalancamiento financiero de la organizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia inmediata si un proveedor no sube su documentaci\u00f3n a la plataforma en el plazo de 10 d\u00edas h\u00e1biles?",
+      "answerOptions": [
+        {
+          "text": "Se otorga una pr\u00f3rroga autom\u00e1tica de 3 d\u00edas con un recargo del $10\\%$.",
+          "isCorrect": false,
+          "rationale": "La ventana de tiempo es r\u00edgida e inamovible, sin extensiones autom\u00e1ticas mencionadas."
+        },
+        {
+          "text": "El sistema se bloquea y se pierde el $40\\%$ del pago inicial por gastos administrativos.",
+          "isCorrect": true,
+          "rationale": "El incumplimiento del plazo conlleva un bloqueo autom\u00e1tico y una penalidad financiera significativa sobre la inversi\u00f3n inicial."
+        },
+        {
+          "text": "La empresa es calificada autom\u00e1ticamente en el Nivel C de aptitud comercial.",
+          "isCorrect": false,
+          "rationale": "Los niveles de aptitud se determinan por la calidad y contenido de la auditor\u00eda, no por el incumplimiento del plazo de entrega de documentos."
+        },
+        {
+          "text": "Se genera una multa de 600 soles adicionales antes de permitir un nuevo intento.",
+          "isCorrect": false,
+          "rationale": "El costo de 600 soles es la tasa base; la penalidad por retraso se calcula como un porcentaje del pago ya realizado."
+        }
+      ],
+      "hint": "El incumplimiento en este cronograma estricto afecta tanto el acceso tecnol\u00f3gico como el capital invertido en el proceso."
+    },
+    {
+      "question": "En el sistema de tres escalones de control, \u00bfqui\u00e9n ejecuta la auditor\u00eda de segunda parte?",
+      "answerOptions": [
+        {
+          "text": "La propia empresa proveedora como m\u00e9todo de autocontrol interno.",
+          "isCorrect": false,
+          "rationale": "El autocontrol corresponde al primer paso o auditor\u00eda de primera parte."
+        },
+        {
+          "text": "Entes globales independientes que emiten certificados internacionales.",
+          "isCorrect": false,
+          "rationale": "Los entes globales independientes corresponden a las auditor\u00edas de tercera parte."
+        },
+        {
+          "text": "La parte contratante o una certificadora especializada externa.",
+          "isCorrect": true,
+          "rationale": "La segunda parte es la roca del sistema y es realizada directamente por el cliente o firmas delegadas como SGS o Veritas."
+        },
+        {
+          "text": "Organismos gubernamentales de regulaci\u00f3n minera y fiscalizaci\u00f3n laboral.",
+          "isCorrect": false,
+          "rationale": "Aunque hay regulaciones legales, el proceso de homologaci\u00f3n descrito es un est\u00e1ndar corporativo privado entre cliente y proveedor."
+        }
+      ],
+      "hint": "Se trata del nivel de control m\u00e1s cr\u00edtico, donde el cliente valida directamente a su futuro aliado."
+    },
+    {
+      "question": "\u00bfQu\u00e9 estatus comercial recibe un proveedor que obtiene un puntaje entre $75\\%$ y $89\\%$?",
+      "answerOptions": [
+        {
+          "text": "Aprobado con limitaciones y sujeto a inspecciones peri\u00f3dicas de seguimiento.",
+          "isCorrect": true,
+          "rationale": "Este rango corresponde al Nivel B, donde el proveedor es apto pero requiere un control m\u00e1s cercano que el nivel ideal."
+        },
+        {
+          "text": "Apto sin reservas con sistemas de gesti\u00f3n considerados sobresalientes.",
+          "isCorrect": false,
+          "rationale": "La aptitud sin reservas corresponde al Nivel A, que requiere un puntaje superior al $90\\%$."
+        },
+        {
+          "text": "No apto para cerrar acuerdos a largo plazo debido a restricciones comerciales serias.",
+          "isCorrect": false,
+          "rationale": "Las restricciones comerciales serias definen al Nivel C, que se sit\u00faa entre el $56\\%$ y $74\\%$."
+        },
+        {
+          "text": "Desaprobado total con exigencia de mejoras intensas y urgentes.",
+          "isCorrect": false,
+          "rationale": "La condici\u00f3n de desaprobado corresponde al Nivel D, con puntajes inferiores al $55\\%$."
+        }
+      ],
+      "hint": "Es un estado de aprobaci\u00f3n, pero indica que todav\u00eda hay \u00e1reas que requieren vigilancia."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el costo financiero establecido para solicitar una recalificaci\u00f3n oficial tras haber desaprobado?",
+      "answerOptions": [
+        {
+          "text": "600 soles m\u00e1s impuestos.",
+          "isCorrect": false,
+          "rationale": "Ese es el costo del tr\u00e1mite inicial completo, no el de la segunda oportunidad de recalificaci\u00f3n."
+        },
+        {
+          "text": "300 soles m\u00e1s impuestos.",
+          "isCorrect": true,
+          "rationale": "La recalificaci\u00f3n tiene un costo de 300 soles adicionales, funcionando como un incentivo para hacer las cosas bien desde el inicio."
+        },
+        {
+          "text": "La p\u00e9rdida del $40\\%$ del pago inicial.",
+          "isCorrect": false,
+          "rationale": "Esta es la penalidad por no entregar documentos a tiempo, no el costo de pedir una nueva evaluaci\u00f3n tras fallar."
+        },
+        {
+          "text": "No tiene costo si se realiza dentro de los 10 d\u00edas h\u00e1biles posteriores.",
+          "isCorrect": false,
+          "rationale": "Toda segunda oportunidad de evaluaci\u00f3n conlleva un cargo financiero adicional para cubrir los gastos de la nueva revisi\u00f3n."
+        }
+      ],
+      "hint": "Este monto es exactamente la mitad de la inversi\u00f3n base inicial."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo busca mitigar espec\u00edficamente el an\u00e1lisis de ratios de liquidez y deuda mediante herramientas como Sentinel?",
+      "answerOptions": [
+        {
+          "text": "El riesgo de accidentes laborales por falta de capacitaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los accidentes se mitigan mediante la evaluaci\u00f3n de los sistemas de seguridad y salud, no por el an\u00e1lisis crediticio."
+        },
+        {
+          "text": "El riesgo de quiebre de suministro por insolvencia del proveedor.",
+          "isCorrect": true,
+          "rationale": "Si un proveedor tiene deudas excesivas o falta de efectivo, su incapacidad de operar puede detener la l\u00ednea de producci\u00f3n del cliente."
+        },
+        {
+          "text": "La falta de trazabilidad en la procedencia de la materia prima.",
+          "isCorrect": false,
+          "rationale": "La trazabilidad se gestiona a trav\u00e9s de auditor\u00edas a la cadena de valor, no solo con estados financieros."
+        },
+        {
+          "text": "El incumplimiento de las fechas de caducidad en el almac\u00e9n central.",
+          "isCorrect": false,
+          "rationale": "El control de caducidad es un proceso log\u00edstico interno de gesti\u00f3n de inventarios (obsolescencia)."
+        }
+      ],
+      "hint": "Piensa en qu\u00e9 pasar\u00eda con la producci\u00f3n si el proveedor no tiene dinero para pagar su propia operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCon cu\u00e1ntos d\u00edas de antelaci\u00f3n se debe coordinar la conexi\u00f3n en vivo para una auditor\u00eda virtual de infraestructura?",
+      "answerOptions": [
+        {
+          "text": "10 d\u00edas h\u00e1biles.",
+          "isCorrect": false,
+          "rationale": "Diez d\u00edas es el plazo para la carga de documentos iniciales, no para la coordinaci\u00f3n de la visita."
+        },
+        {
+          "text": "3 d\u00edas h\u00e1biles.",
+          "isCorrect": true,
+          "rationale": "Se otorga una ventana estricta de 3 d\u00edas previos para asegurar que la log\u00edstica t\u00e9cnica de la conexi\u00f3n est\u00e9 lista."
+        },
+        {
+          "text": "5 d\u00edas naturales.",
+          "isCorrect": false,
+          "rationale": "El proceso utiliza d\u00edas h\u00e1biles como medida est\u00e1ndar y el plazo espec\u00edfico para esta coordinaci\u00f3n es de tres."
+        },
+        {
+          "text": "No requiere coordinaci\u00f3n previa si se usan plataformas como Zoom o Teams.",
+          "isCorrect": false,
+          "rationale": "A pesar de usar plataformas comunes, la coordinaci\u00f3n es indispensable para validar la capacidad instalada en tiempo real."
+        }
+      ],
+      "hint": "Es un periodo corto destinado exclusivamente a preparar la interacci\u00f3n tecnol\u00f3gica antes de la inspecci\u00f3n remota."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de realizar una trazabilidad total de la materia prima m\u00e1s all\u00e1 del proveedor directo?",
+      "answerOptions": [
+        {
+          "text": "Reducir los costos de transporte y embalaje mediante la consolidaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La trazabilidad es una medida de gesti\u00f3n de riesgos legales y \u00e9ticos, no una estrategia de ahorro log\u00edstico directo."
+        },
+        {
+          "text": "Evitar la responsabilidad solidaria ante negligencias en cualquier eslab\u00f3n de la cadena.",
+          "isCorrect": true,
+          "rationale": "Si no se verifican las pr\u00e1cticas de los proveedores de los proveedores, el contratante final puede sufrir consecuencias legales por fallas previas."
+        },
+        {
+          "text": "Garantizar que el proveedor tenga suficientes l\u00edneas de cr\u00e9dito bancario.",
+          "isCorrect": false,
+          "rationale": "La solvencia financiera es una dimensi\u00f3n distinta que se eval\u00faa con herramientas crediticias, no mediante el rastreo de materia prima."
+        },
+        {
+          "text": "Aumentar el puntaje de homologaci\u00f3n del Nivel B al Nivel A autom\u00e1ticamente.",
+          "isCorrect": false,
+          "rationale": "La trazabilidad es un requisito de evaluaci\u00f3n, pero por s\u00ed sola no garantiza una calificaci\u00f3n perfecta sin cumplir los dem\u00e1s criterios."
+        }
+      ],
+      "hint": "Busca proteger a la empresa de ser legalmente responsable por errores cometidos por terceros en etapas tempranas."
+    },
+    {
+      "question": "\u00bfC\u00f3mo ayuda la metodolog\u00eda de promedios ponderados a la selecci\u00f3n de proveedores?",
+      "answerOptions": [
+        {
+          "text": "Permite elegir siempre la opci\u00f3n con el precio m\u00e1s bajo del mercado.",
+          "isCorrect": false,
+          "rationale": "Esta metodolog\u00eda precisamente busca evitar el sesgo de elegir solo por precio, integrando otras variables cr\u00edticas."
+        },
+        {
+          "text": "Elimina la subjetividad al asignar pesos porcentuales estrictos a cada variable evaluada.",
+          "isCorrect": true,
+          "rationale": "Al usar matem\u00e1ticas para comparar ofertas, se desplaza la intuici\u00f3n o afinidad comercial en favor del rigor t\u00e9cnico."
+        },
+        {
+          "text": "Garantiza que todos los proveedores locales obtengan un contrato autom\u00e1ticamente.",
+          "isCorrect": false,
+          "rationale": "Aunque se puede dar peso a la localidad, los proveedores deben cumplir con los est\u00e1ndares t\u00e9cnicos y matem\u00e1ticos de la evaluaci\u00f3n."
+        },
+        {
+          "text": "Reduce el tiempo de entrega (Lead Time) a un m\u00e1ximo de 24 horas.",
+          "isCorrect": false,
+          "rationale": "Los promedios ponderados son una herramienta de decisi\u00f3n, no un mecanismo que altere f\u00edsicamente la log\u00edstica del proveedor."
+        }
+      ],
+      "hint": "Se trata de sustituir las 'corazonadas' por c\u00e1lculos matem\u00e1ticos precisos y objetivos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 un descuento corporativo elevado puede ser un 'espejismo' en la evaluaci\u00f3n de costos?",
+      "answerOptions": [
+        {
+          "text": "Porque usualmente implica que el producto es de baja calidad o est\u00e1 obsoleto.",
+          "isCorrect": false,
+          "rationale": "La obsolescencia es un riesgo de inventario, pero no es la raz\u00f3n matem\u00e1tica principal de que un descuento sea enga\u00f1oso en el costo total."
+        },
+        {
+          "text": "Porque el ahorro puede verse anulado por costos log\u00edsticos ocultos como fletes elevados.",
+          "isCorrect": true,
+          "rationale": "Al calcular el costo total (producto + transporte + embalaje), una opci\u00f3n con mucho descuento puede resultar m\u00e1s cara que una con precio base menor."
+        },
+        {
+          "text": "Porque los descuentos superiores al $5\\%$ est\u00e1n prohibidos en licitaciones mineras.",
+          "isCorrect": false,
+          "rationale": "No existe tal prohibici\u00f3n; las empresas pueden ofrecer los descuentos que deseen, pero deben ser evaluados integralmente."
+        },
+        {
+          "text": "Porque el descuento solo se aplica si se alcanza el Nivel A de homologaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los descuentos comerciales son ofertas de los proveedores independientes de su calificaci\u00f3n de homologaci\u00f3n."
+        }
+      ],
+      "hint": "Considera todos los componentes adicionales que se suman al precio unitario antes de que el producto llegue al almac\u00e9n."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 situaci\u00f3n es preferible optar por un 'Plan B' de respuesta r\u00e1pida aunque tenga menores descuentos comerciales?",
+      "answerOptions": [
+        {
+          "text": "Para compras de stock planificadas con mucha anticipaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Para compras planificadas se prefiere el Plan A, que optimiza costos y aprovecha mayores descuentos."
+        },
+        {
+          "text": "Durante mantenimientos no programados o fallas cr\u00edticas de maquinaria.",
+          "isCorrect": true,
+          "rationale": "En emergencias, el costo de tener una m\u00e1quina parada es mucho mayor que el ahorro que se podr\u00eda obtener por un repuesto m\u00e1s barato."
+        },
+        {
+          "text": "Cuando se busca fortalecer exclusivamente la licencia social con proveedores locales.",
+          "isCorrect": false,
+          "rationale": "El Plan B se define por la inmediatez de entrega (responsividad), no necesariamente por la ubicaci\u00f3n geogr\u00e1fica del proveedor."
+        },
+        {
+          "text": "Si el proveedor principal ha perdido su certificaci\u00f3n ISO 9001.",
+          "isCorrect": false,
+          "rationale": "La p\u00e9rdida de certificaci\u00f3n requiere una revisi\u00f3n de homologaci\u00f3n, pero el Plan B es una estrategia log\u00edstica ante urgencias operativas."
+        }
+      ],
+      "hint": "Piensa en el alt\u00edsimo costo de oportunidad que genera la paralizaci\u00f3n de un frente de producci\u00f3n masiva."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el modelo de desarrollo recomendado para que los emprendedores locales alcancen los est\u00e1ndares de la gran miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Solicitar subsidios directos a la empresa minera para cubrir sus deudas.",
+          "isCorrect": false,
+          "rationale": "El desarrollo no se basa en caridad o subsidios, sino en un modelo de negocio sostenible y formal."
+        },
+        {
+          "text": "Agruparse y formalizarse legalmente en consorcios locales.",
+          "isCorrect": true,
+          "rationale": "La asociatividad permite a los peque\u00f1os proveedores ganar musculatura financiera y capacidad log\u00edstica para competir."
+        },
+        {
+          "text": "Competir individualmente bajando los precios por debajo del costo de mercado.",
+          "isCorrect": false,
+          "rationale": "Competir solo por precio sin capacidad operativa lleva al fracaso y no cumple con los est\u00e1ndares de la miner\u00eda de alto rendimiento."
+        },
+        {
+          "text": "Esperar a que la empresa minera elimine el requisito de homologaci\u00f3n para ellos.",
+          "isCorrect": false,
+          "rationale": "Los filtros de homologaci\u00f3n son innegociables para proteger la cadena de valor; los locales deben adaptarse a ellos."
+        }
+      ],
+      "hint": "Este proceso implica pasar de la individualidad a la formaci\u00f3n de bloques empresariales fuertes y organizados."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica define la 'Productividad' dentro de las clasificaciones de los indicadores log\u00edsticos?",
+      "answerOptions": [
+        {
+          "text": "La medida de qu\u00e9 tan eficientemente se utilizan los recursos disponibles.",
+          "isCorrect": false,
+          "rationale": "Esa es la definici\u00f3n de 'Utilizaci\u00f3n', como la capacidad de carga ocupada en un transporte."
+        },
+        {
+          "text": "La relaci\u00f3n matem\u00e1tica entre el resultado obtenido y los recursos consumidos.",
+          "isCorrect": true,
+          "rationale": "La productividad mide cu\u00e1nto logramos producir o gestionar por cada unidad de recurso (tiempo, dinero, personal) invertida."
+        },
+        {
+          "text": "El grado de cumplimiento fr\u00edo de las metas operativas establecidas.",
+          "isCorrect": false,
+          "rationale": "El cumplimiento de metas se clasifica espec\u00edficamente como 'Rendimiento'."
+        },
+        {
+          "text": "La capacidad de un proveedor para entregar pedidos completos y a tiempo.",
+          "isCorrect": false,
+          "rationale": "La entrega completa y a tiempo es el est\u00e1ndar OTIF, que es una m\u00e9trica de nivel de servicio, no de productividad interna."
+        }
+      ],
+      "hint": "Es un c\u00e1lculo que pone frente a frente lo que se logr\u00f3 contra lo que se gast\u00f3 para lograrlo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 acci\u00f3n es obligatoria cuando un equipo cr\u00edtico, como un respirador industrial, se vuelve obsoleto por caducidad?",
+      "answerOptions": [
+        {
+          "text": "Donarlo inmediatamente a las comunidades locales del anillo de influencia.",
+          "isCorrect": false,
+          "rationale": "Donar equipo caducado es peligroso y no resuelve el impacto contable ni la seguridad operativa."
+        },
+        {
+          "text": "Generar un reporte al departamento contable para realizar un ajuste en los libros financieros.",
+          "isCorrect": true,
+          "rationale": "Al ser activos con valor monetario, su p\u00e9rdida de vigencia debe reflejarse en los estados financieros para mostrar la realidad de la empresa."
+        },
+        {
+          "text": "Utilizarlo \u00fanicamente en tareas de bajo riesgo fuera de la mina.",
+          "isCorrect": false,
+          "rationale": "El equipo caducado pierde su garant\u00eda de protecci\u00f3n de vida y no debe ser utilizado bajo ninguna circunstancia."
+        },
+        {
+          "text": "Renovar la etiqueta de caducidad tras una inspecci\u00f3n visual r\u00e1pida.",
+          "isCorrect": false,
+          "rationale": "Las fechas de caducidad t\u00e9cnica son irrenunciables y no pueden ser alteradas arbitrariamente por inspecciones informales."
+        }
+      ],
+      "hint": "Este material representa dinero inmovilizado que ya no tiene valor operativo, por lo que debe notificarse a quienes gestionan el capital."
+    },
+    {
+      "question": "En la f\u00f3rmula del Punto de Pedido ($ROP$), \u00bfqu\u00e9 representa el producto del consumo medio por el Lead Time?",
+      "answerOptions": [
+        {
+          "text": "La cantidad de unidades que se consumir\u00e1n mientras llega el nuevo pedido.",
+          "isCorrect": true,
+          "rationale": "Este c\u00e1lculo asegura que tengamos suficiente inventario para cubrir la demanda durante el tiempo que el proveedor tarda en entregar."
+        },
+        {
+          "text": "El inventario extra destinado a cubrir variaciones inesperadas de la demanda.",
+          "isCorrect": false,
+          "rationale": "Esa es la definici\u00f3n del Stock de Seguridad, que se suma al final de la f\u00f3rmula, no es el producto del consumo por el tiempo."
+        },
+        {
+          "text": "El costo total de la orden de compra incluyendo el flete.",
+          "isCorrect": false,
+          "rationale": "La f\u00f3rmula del ROP determina cantidades y momentos de pedido, no costos financieros de adquisici\u00f3n."
+        },
+        {
+          "text": "La cantidad de stock que ha quedado obsoleta en el \u00faltimo trimestre.",
+          "isCorrect": false,
+          "rationale": "La obsolescencia no forma parte de la f\u00f3rmula cient\u00edfica de reposici\u00f3n de inventario activo."
+        }
+      ],
+      "hint": "Es el c\u00e1lculo necesario para no quedarse sin nada mientras el cami\u00f3n del proveedor est\u00e1 en camino."
+    },
+    {
+      "question": "\u00bfQu\u00e9 mide exactamente el indicador OTIF (On Time In Full)?",
+      "answerOptions": [
+        {
+          "text": "El ahorro porcentual logrado en las negociaciones anuales con proveedores.",
+          "isCorrect": false,
+          "rationale": "El OTIF no mide ahorros monetarios, sino la calidad y cumplimiento del servicio log\u00edstico."
+        },
+        {
+          "text": "La proporci\u00f3n de pedidos entregados exactamente a tiempo y con la cantidad completa.",
+          "isCorrect": true,
+          "rationale": "Es la m\u00e9trica definitiva de la entrega perfecta; no se aceptan pedidos incompletos o retrasados para este c\u00e1lculo."
+        },
+        {
+          "text": "La eficiencia en el uso de la capacidad de carga de la flota de transporte.",
+          "isCorrect": false,
+          "rationale": "La capacidad de carga es un indicador de utilizaci\u00f3n, diferente al cumplimiento de pedidos del OTIF."
+        },
+        {
+          "text": "El tiempo que transcurre desde que se emite la orden hasta que llega al almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "Esa es la definici\u00f3n de Lead Time, que es solo un componente que afecta el resultado del OTIF."
+        }
+      ],
+      "hint": "Consid\u00e9ralo un juego de 'todo o nada': el pedido debe llegar cuando se prometi\u00f3 y con todo lo solicitado."
+    },
+    {
+      "question": "Seg\u00fan el sem\u00e1foro de confiabilidad, \u00bfen qu\u00e9 situaci\u00f3n se encuentra un proveedor con un cumplimiento inferior al $70\\%$?",
+      "answerOptions": [
+        {
+          "text": "Zona verde: Proveedor altamente confiable y estrat\u00e9gico.",
+          "isCorrect": false,
+          "rationale": "La zona verde requiere un cumplimiento superior al $80\\%$."
+        },
+        {
+          "text": "Zona amarilla: Requiere planes de mejora inmediata.",
+          "isCorrect": false,
+          "rationale": "La zona amarilla se sit\u00faa entre el $70\\%$ y el $80\\%$ de cumplimiento."
+        },
+        {
+          "text": "Zona roja: Alerta cr\u00edtica por poner en peligro la operaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Cualquier puntaje por debajo del $70\\%$ dispara alarmas m\u00e1ximas debido al alto riesgo de interrupci\u00f3n que representa."
+        },
+        {
+          "text": "Zona de observaci\u00f3n: Sujeto a auditor\u00eda de tercera parte.",
+          "isCorrect": false,
+          "rationale": "El sem\u00e1foro define acciones correctivas inmediatas (mejora o alerta cr\u00edtica), no cambios en el tipo de auditor\u00eda."
+        }
+      ],
+      "hint": "Es el nivel de desempe\u00f1o m\u00e1s bajo y peligroso para la continuidad log\u00edstica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n estrat\u00e9gica de los 'anillos de influencia' en la gran miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Delimitar las zonas donde el transporte de concentrados tiene prohibido circular.",
+          "isCorrect": false,
+          "rationale": "Los anillos de influencia no son restricciones de tr\u00e1nsito, sino marcos de prioridad de contrataci\u00f3n."
+        },
+        {
+          "text": "Priorizar la contrataci\u00f3n de proveedores de comunidades aleda\u00f1as para asegurar la licencia social.",
+          "isCorrect": true,
+          "rationale": "Al integrar econ\u00f3micamente a la comunidad local, se reduce el riesgo de conflictos sociales y se gana agilidad log\u00edstica."
+        },
+        {
+          "text": "Identificar a los competidores globales que ofrecen las mejores econom\u00edas de escala.",
+          "isCorrect": false,
+          "rationale": "Los proveedores globales suelen estar fuera de estos anillos; el concepto se enfoca en el desarrollo local."
+        },
+        {
+          "text": "Establecer los l\u00edmites geogr\u00e1ficos para las visitas virtuales de auditor\u00eda.",
+          "isCorrect": false,
+          "rationale": "Las visitas virtuales se realizan sin importar la distancia geogr\u00e1fica; los anillos son una estrategia de sostenibilidad social."
+        }
+      ],
+      "hint": "Busca crear una relaci\u00f3n de beneficio mutuo entre la operaci\u00f3n minera y las poblaciones que viven cerca de ella."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera irresponsable seleccionar a un proveedor bas\u00e1ndose \u00fanicamente en el precio m\u00e1s bajo?",
+      "answerOptions": [
+        {
+          "text": "Porque genera problemas de competencia desleal con los proveedores locales.",
+          "isCorrect": false,
+          "rationale": "Aunque afecta a locales, la raz\u00f3n principal de 'irresponsabilidad' t\u00e9cnica es el riesgo operativo que conlleva."
+        },
+        {
+          "text": "Porque el ahorro inicial suele convertirse en sobrecostos gigantes por accidentes o paradas de producci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "En entornos de alto riesgo, el bajo costo a menudo esconde falta de calidad o seguridad, lo que impacta severamente el EBITDA tras una falla."
+        },
+        {
+          "text": "Porque la normativa ISO proh\u00edbe las adjudicaciones por precio.",
+          "isCorrect": false,
+          "rationale": "No existe tal prohibici\u00f3n normativa, es una decisi\u00f3n estrat\u00e9gica basada en la gesti\u00f3n integral de riesgos."
+        },
+        {
+          "text": "Porque aumenta injustificadamente los ratios de liquidez del proveedor.",
+          "isCorrect": false,
+          "rationale": "Un precio bajo generalmente estresa las finanzas del proveedor en lugar de mejorar sus ratios de liquidez."
+        }
+      ],
+      "hint": "Considera las consecuencias a mediano plazo de sacrificar la calidad t\u00e9cnica por un ahorro inmediato."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Homologaci\u00f3n de Proveedores",
+      "Gesti\u00f3n de Riesgos en Cadena de Suministro",
+      "Evaluaci\u00f3n Multidimensional de Proveedores",
+      "Estrategias de Selecci\u00f3n y Licencia Social",
+      "Indicadores Log\u00edsticos y M\u00e9tricas de Rendimiento"
+    ],
+    "followUp": [
+      "Metodolog\u00edas de Auditor\u00eda de Segunda Parte",
+      "Modelos de Asociatividad y Consorcios Locales",
+      "C\u00e1lculo de Punto de Pedido y Stock de Seguridad",
+      "Impacto de la Log\u00edstica en el EBITDA Organizacional",
+      "Integraci\u00f3n de Normas ISO en la Homologaci\u00f3n Corporativa"
+    ]
+  }
+}

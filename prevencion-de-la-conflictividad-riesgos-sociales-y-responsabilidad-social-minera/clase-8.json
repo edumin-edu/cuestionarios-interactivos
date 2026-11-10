@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal del nuevo paradigma en la gesti\u00f3n de riesgos sociales?",
+      "answerOptions": [
+        {
+          "text": "Pasar de una respuesta t\u00e1ctica a una arquitectura proactiva de agenciamiento social.",
+          "isCorrect": true,
+          "rationale": "El nuevo paradigma busca que la gesti\u00f3n de conflictos sea un imperativo estrat\u00e9gico que construya relaciones basadas en la confianza y no solo una reacci\u00f3n a incidentes."
+        },
+        {
+          "text": "Optimizar el cumplimiento de permisos estatales para evitar multas administrativas.",
+          "isCorrect": false,
+          "rationale": "Aunque el cumplimiento es necesario, el paradigma social se enfoca en la legitimidad comunitaria m\u00e1s all\u00e1 de los permisos legales del Estado."
+        },
+        {
+          "text": "Incrementar las donaciones filantr\u00f3picas para mejorar la imagen corporativa.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n moderna busca erradicar la filantrop\u00eda y reemplazarla por inversiones estrat\u00e9gicas que generen autonom\u00eda."
+        },
+        {
+          "text": "Centralizar el poder de decisi\u00f3n en los gerentes de la operaci\u00f3n minera.",
+          "isCorrect": false,
+          "rationale": "El paradigma busca convertir a la empresa en socia del desarrollo territorial, lo que implica una gesti\u00f3n compartida y participativa."
+        }
+      ],
+      "hint": "Piense en la diferencia entre reaccionar a problemas y construir relaciones de desarrollo mutuo."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera que un inventario est\u00e1tico de actores es insuficiente para una estrategia social?",
+      "answerOptions": [
+        {
+          "text": "Porque las din\u00e1micas de poder real y el inter\u00e9s en la zona son extremadamente din\u00e1micos.",
+          "isCorrect": true,
+          "rationale": "El mapeo de actores requiere un an\u00e1lisis continuo ya que las jerarqu\u00edas y liderazgos cambian constantemente en el territorio."
+        },
+        {
+          "text": "Porque los nombres de los l\u00edderes comunales no pueden ser registrados en hojas de c\u00e1lculo.",
+          "isCorrect": false,
+          "rationale": "El problema no es la herramienta de registro, sino que el an\u00e1lisis sea est\u00e1tico y no refleje los cambios en el poder real."
+        },
+        {
+          "text": "Porque el Estado proh\u00edbe el uso de bases de datos para identificar comunidades.",
+          "isCorrect": false,
+          "rationale": "El Estado no proh\u00edbe el mapeo; por el contrario, la identificaci\u00f3n t\u00e9cnica de actores es la base de la previsi\u00f3n social."
+        },
+        {
+          "text": "Porque los actores externos no influyen en la viabilidad operativa del proyecto.",
+          "isCorrect": false,
+          "rationale": "Los actores externos como el Estado, ONGs y comunidades son cr\u00edticos para evitar la par\u00e1lisis operativa."
+        }
+      ],
+      "hint": "Considere la naturaleza cambiante de las relaciones pol\u00edticas y sociales en el campo."
+    },
+    {
+      "question": "En la gesti\u00f3n de actores internos, \u00bfpor qu\u00e9 es vital mantener la alineaci\u00f3n de empleados y propietarios?",
+      "answerOptions": [
+        {
+          "text": "Para evitar que el entorno externo perciba dudas o falta de coherencia en el mensaje corporativo.",
+          "isCorrect": true,
+          "rationale": "La falta de unidad interna es detectada r\u00e1pidamente por la comunidad, lo que debilita la confianza en la empresa."
+        },
+        {
+          "text": "Para reducir los costos operativos asociados a las planillas de sueldos.",
+          "isCorrect": false,
+          "rationale": "La alineaci\u00f3n mencionada se refiere a la coherencia estrat\u00e9gica y comunicacional, no a la reducci\u00f3n de costos laborales."
+        },
+        {
+          "text": "Porque los empleados externos suelen oponerse a los intereses de los propietarios.",
+          "isCorrect": false,
+          "rationale": "El enfoque est\u00e1 en que ambos grupos internos funcionen como un bloque coherente frente a terceros."
+        },
+        {
+          "text": "Para cumplir con las normas de fiscalizaci\u00f3n del Ministerio de Trabajo.",
+          "isCorrect": false,
+          "rationale": "Si bien existen normas laborales, la prioridad en este contexto es la integridad de la estrategia de agenciamiento social."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo la percepci\u00f3n de desuni\u00f3n interna afecta la credibilidad ante la comunidad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n estrat\u00e9gica del SENACE en la relaci\u00f3n entre el Estado y el ciudadano?",
+      "answerOptions": [
+        {
+          "text": "Funcionar como una v\u00e1lvula de escape t\u00e9cnica que permite la participaci\u00f3n ciudadana temprana.",
+          "isCorrect": true,
+          "rationale": "El SENACE facilita que los ciudadanos se involucren en la evaluaci\u00f3n de los proyectos desde sus primeras etapas."
+        },
+        {
+          "text": "Ejercer como ente fiscalizador duro de los compromisos ambientales ya establecidos.",
+          "isCorrect": false,
+          "rationale": "La funci\u00f3n de fiscalizaci\u00f3n y cumplimiento de compromisos recae en el OEFA, no en el SENACE."
+        },
+        {
+          "text": "Emitir sanciones punitivas inmediatas ante cualquier conflicto social.",
+          "isCorrect": false,
+          "rationale": "El SENACE es un organismo t\u00e9cnico de evaluaci\u00f3n, mientras que las sanciones ambientales son competencia del OEFA."
+        },
+        {
+          "text": "Sustituir la legitimidad social mediante la emisi\u00f3n de permisos legales.",
+          "isCorrect": false,
+          "rationale": "Ninguna entidad estatal reemplaza la legitimidad social; el SENACE solo provee el marco t\u00e9cnico para la participaci\u00f3n."
+        }
+      ],
+      "hint": "Identifique el rol que tiene esta instituci\u00f3n antes de que los proyectos comiencen su ejecuci\u00f3n plena."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 las juntas de regantes poseen un poder de veto f\u00e1ctico en muchos territorios?",
+      "answerOptions": [
+        {
+          "text": "Porque controlan directamente el recurso h\u00eddrico, que es vital para la zona.",
+          "isCorrect": true,
+          "rationale": "Al gestionar el agua, estas juntas tienen una influencia decisiva sobre la viabilidad de cualquier operaci\u00f3n minera o industrial."
+        },
+        {
+          "text": "Porque son las \u00fanicas autorizadas para emitir t\u00edtulos de propiedad inscritos.",
+          "isCorrect": false,
+          "rationale": "La emisi\u00f3n de t\u00edtulos de propiedad es una funci\u00f3n del Estado, no de las juntas de regantes."
+        },
+        {
+          "text": "Porque sus l\u00edderes son nombrados directamente por el Poder Ejecutivo.",
+          "isCorrect": false,
+          "rationale": "Las juntas de regantes son organizaciones de usuarios locales, no dependencias de designaci\u00f3n directa del Ejecutivo."
+        },
+        {
+          "text": "Porque cuentan con el apoyo financiero de ONGs internacionales opositoras.",
+          "isCorrect": false,
+          "rationale": "Su poder no deriva de financiamiento externo, sino de su control real sobre un recurso cr\u00edtico para la comunidad."
+        }
+      ],
+      "hint": "Considere qu\u00e9 elemento natural esencial para la vida y la industria administran estas organizaciones."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el fen\u00f3meno conocido como el 'efecto patojo' o 'lame duck' en el liderazgo comunal?",
+      "answerOptions": [
+        {
+          "text": "En la inestabilidad que ocurre cuando los l\u00edderes pierden capacidad de cumplimiento o radicalizan su postura al final de su mandato.",
+          "isCorrect": true,
+          "rationale": "Cerca del fin de su periodo, los l\u00edderes pueden volverse vol\u00e1tiles para asegurar un legado o por falta de autoridad real."
+        },
+        {
+          "text": "En el proceso de elecci\u00f3n democr\u00e1tica de nuevos representantes j\u00f3venes.",
+          "isCorrect": false,
+          "rationale": "El efecto se refiere espec\u00edficamente a la etapa final del mandato de los l\u00edderes actuales y los riesgos de inestabilidad asociados."
+        },
+        {
+          "text": "En la capacidad de los l\u00edderes de heredar sus cargos a familiares directos.",
+          "isCorrect": false,
+          "rationale": "Los liderazgos comunales suelen basarse en sistemas de cargos rotativos y no en herencia mon\u00e1rquica."
+        },
+        {
+          "text": "En la firma de acuerdos permanentes que no pueden ser revisados por futuras juntas.",
+          "isCorrect": false,
+          "rationale": "Precisamente, este efecto genera el riesgo de que los acuerdos previos sean ignorados o desconocidos por las nuevas directivas."
+        }
+      ],
+      "hint": "Piense en el comportamiento de un l\u00edder que est\u00e1 a punto de dejar su cargo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre la legalidad formal y la legitimidad social respecto al derecho consuetudinario?",
+      "answerOptions": [
+        {
+          "text": "La legalidad la otorga el Estado mediante permisos, mientras que la legitimidad proviene del respeto a los usos y costumbres.",
+          "isCorrect": true,
+          "rationale": "El derecho consuetudinario se basa en estructuras tradicionales de toma de decisiones que a menudo tienen m\u00e1s peso local que los marcos legales."
+        },
+        {
+          "text": "La legalidad formal es innegable en el campo, mientras que la legitimidad social es un concepto secundario.",
+          "isCorrect": false,
+          "rationale": "La legitimidad social es fundamental; sin ella, la operaci\u00f3n puede frenarse a pesar de tener todos los papeles legales en regla."
+        },
+        {
+          "text": "El derecho consuetudinario solo se aplica si est\u00e1 inscrito ante un notario p\u00fablico.",
+          "isCorrect": false,
+          "rationale": "Este derecho se basa en la tradici\u00f3n y la pr\u00e1ctica cotidiana, independientemente de su formalizaci\u00f3n notarial."
+        },
+        {
+          "text": "La legitimidad social se obtiene autom\u00e1ticamente al cumplir con los est\u00e1ndares internacionales de ingenier\u00eda.",
+          "isCorrect": false,
+          "rationale": "El dise\u00f1o t\u00e9cnico no garantiza legitimidad si no hay un respeto y validaci\u00f3n por parte de la comunidad local."
+        }
+      ],
+      "hint": "Relacione las fuentes de autoridad: el gobierno central frente a las tradiciones locales."
+    },
+    {
+      "question": "De acuerdo con el caso de Antamina y Quip\u00e1n, \u00bfqui\u00e9n ostenta la autoridad m\u00e1xima en un territorio comunal?",
+      "answerOptions": [
+        {
+          "text": "La Asamblea Comunal.",
+          "isCorrect": true,
+          "rationale": "Sin el respaldo y consenso genuino de la Asamblea, los acuerdos legales pueden ser judicializados por nuevas directivas."
+        },
+        {
+          "text": "El Presidente de la Comunidad.",
+          "isCorrect": false,
+          "rationale": "Aunque el presidente firma, los acuerdos de c\u00fapula sin consenso de la base (la asamblea) son altamente inestables."
+        },
+        {
+          "text": "El Notario P\u00fablico que registra la compraventa.",
+          "isCorrect": false,
+          "rationale": "El notario da fe de la legalidad formal, pero no puede garantizar la legitimidad social necesaria para la paz en el territorio."
+        },
+        {
+          "text": "El Juez de paz de la localidad.",
+          "isCorrect": false,
+          "rationale": "El juez interviene en disputas, pero la autoridad m\u00e1xima para validar acuerdos colectivos es la asamblea de los propios comuneros."
+        }
+      ],
+      "hint": "Identifique el \u00f3rgano de decisi\u00f3n colectiva m\u00e1s importante para las comunidades."
+    },
+    {
+      "question": "\u00bfC\u00f3mo debe reaccionar una empresa ante exigencias que carecen de legitimidad social, como las demandas puramente extorsivas?",
+      "answerOptions": [
+        {
+          "text": "Con absoluta firmeza t\u00e9cnica y legal, trazando una l\u00ednea inquebrantable.",
+          "isCorrect": true,
+          "rationale": "Las demandas extorsivas no deben confundirse con reclamos leg\u00edtimos, y ceder a ellas solo incentiva malas pr\u00e1cticas."
+        },
+        {
+          "text": "Negociando pagos r\u00e1pidos para evitar cualquier retraso en la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Pagar demandas extorsivas debilita la posici\u00f3n de la empresa y no resuelve el problema de fondo de la legitimidad."
+        },
+        {
+          "text": "Ignorando el problema hasta que el Estado intervenga con la fuerza p\u00fablica.",
+          "isCorrect": false,
+          "rationale": "La respuesta debe ser una gesti\u00f3n firme y t\u00e9cnica, no simplemente una omisi\u00f3n o espera de intervenci\u00f3n policial."
+        },
+        {
+          "text": "Aceptando las demandas como parte de los costos de responsabilidad social.",
+          "isCorrect": false,
+          "rationale": "La responsabilidad social se basa en la legitimidad y el desarrollo, no en ceder ante la extorsi\u00f3n financiera."
+        }
+      ],
+      "hint": "Considere la postura institucional frente a solicitudes que no tienen base en compensaciones justas o hist\u00f3ricas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el riesgo principal del modelo de comunicaci\u00f3n 'uno a muchos', como el uso de radios locales?",
+      "answerOptions": [
+        {
+          "text": "El efecto del 'tel\u00e9fono malogrado' y la distorsi\u00f3n del mensaje por experiencias previas.",
+          "isCorrect": true,
+          "rationale": "Aunque es eficiente para difundir datos, la falta de contacto directo puede llevar a interpretaciones err\u00f3neas y desconfianza."
+        },
+        {
+          "text": "El alto costo log\u00edstico de contratar espacios en medios de comunicaci\u00f3n masivos.",
+          "isCorrect": false,
+          "rationale": "El modelo 'uno a muchos' es generalmente m\u00e1s econ\u00f3mico y eficiente log\u00edsticamente que el modelo 'uno a uno'."
+        },
+        {
+          "text": "La imposibilidad de transmitir datos t\u00e9cnicos a grandes audiencias.",
+          "isCorrect": false,
+          "rationale": "Es un modelo \u00fatil para datos t\u00e9cnicos, pero su debilidad reside en la calidad de la retroalimentaci\u00f3n y la confianza."
+        },
+        {
+          "text": "Que las comunidades rurales no cuentan con receptores de radio operativos.",
+          "isCorrect": false,
+          "rationale": "La radio es un medio muy com\u00fan en zonas rurales; el problema es la mediaci\u00f3n y percepci\u00f3n del mensaje, no el hardware."
+        }
+      ],
+      "hint": "Piense en lo que sucede con un mensaje cuando no hay un di\u00e1logo directo para aclarar dudas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 requisito es indispensable para una verdadera interpretaci\u00f3n intercultural en la comunicaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Utilizar las variantes regionales exactas del idioma local, como el quechua de \u00c1ncash o Cusco.",
+          "isCorrect": true,
+          "rationale": "La traducci\u00f3n literal no es suficiente; se requiere adaptar el mensaje al contexto social, emocional y geogr\u00e1fico de la zona."
+        },
+        {
+          "text": "Utilizar traductores autom\u00e1ticos de alta velocidad para agilizar los procesos.",
+          "isCorrect": false,
+          "rationale": "Los mensajes rob\u00f3ticos o autom\u00e1ticos suelen ser percibidos como faltos de alma y pueden alejar a la comunidad."
+        },
+        {
+          "text": "Hablar \u00fanicamente en espa\u00f1ol para garantizar la precisi\u00f3n t\u00e9cnica de los t\u00e9rminos.",
+          "isCorrect": false,
+          "rationale": "Forzar un solo idioma ignora el respeto cultural y las barreras de comunicaci\u00f3n que pueden paralizar proyectos."
+        },
+        {
+          "text": "Contratar traductores que no tengan ninguna relaci\u00f3n con la zona para asegurar neutralidad.",
+          "isCorrect": false,
+          "rationale": "La neutralidad no reemplaza la necesidad de conocer el contexto y la identidad territorial para una comunicaci\u00f3n efectiva."
+        }
+      ],
+      "hint": "Considere la importancia de la identidad ling\u00fc\u00edstica y la geograf\u00eda en el habla."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define el concepto andino de 'Aini' aplicado a la pol\u00edtica oficial de una empresa?",
+      "answerOptions": [
+        {
+          "text": "Como una relaci\u00f3n de reciprocidad sim\u00e9trica bajo el lema 'hoy por ti, ma\u00f1ana por m\u00ed'.",
+          "isCorrect": true,
+          "rationale": "Al adoptar el Aini, la empresa deja de ser vista como un ente extractor para ser un colaborador leg\u00edtimo en el intercambio."
+        },
+        {
+          "text": "Como un sistema de donaciones unilaterales para las familias m\u00e1s pobres.",
+          "isCorrect": false,
+          "rationale": "El Aini implica intercambio y reciprocidad, a diferencia de las donaciones que son unidireccionales."
+        },
+        {
+          "text": "Como el trabajo colectivo obligatorio que la comunidad debe dar a la empresa.",
+          "isCorrect": false,
+          "rationale": "Se trata de un marco de colaboraci\u00f3n mutua, no de una obligaci\u00f3n laboral impuesta por la corporaci\u00f3n."
+        },
+        {
+          "text": "Como un impuesto adicional que las mineras pagan a las comunidades locales.",
+          "isCorrect": false,
+          "rationale": "El Aini es un concepto cultural y operativo de reciprocidad, no una carga impositiva formal del Estado."
+        }
+      ],
+      "hint": "Relacione este t\u00e9rmino con la idea de apoyo mutuo y equitativo entre dos partes."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre el 'Aini' y la 'Minca'?",
+      "answerOptions": [
+        {
+          "text": "El Aini es reciprocidad entre partes, mientras que la Minca es el trabajo colectivo para el beneficio de todos.",
+          "isCorrect": true,
+          "rationale": "Ambos son pilares andinos, pero la Minca se enfoca espec\u00edficamente en obras o tareas que favorecen a la comunidad entera."
+        },
+        {
+          "text": "El Aini se paga con dinero y la Minca se paga mediante el intercambio de semillas.",
+          "isCorrect": false,
+          "rationale": "Ambos conceptos trascienden el dinero y se basan en marcos operativos ind\u00edgenas de econom\u00eda social."
+        },
+        {
+          "text": "La Minca es exclusiva para actividades religiosas y el Aini para actividades agr\u00edcolas.",
+          "isCorrect": false,
+          "rationale": "Si bien pueden aplicarse en esos \u00e1mbitos, son marcos generales que dictan la vida diaria y la econom\u00eda comunitaria."
+        },
+        {
+          "text": "No existe diferencia; ambos t\u00e9rminos son sin\u00f3nimos de filantrop\u00eda corporativa.",
+          "isCorrect": false,
+          "rationale": "Son conceptos distintos y ninguno es equivalente a la filantrop\u00eda, ya que esta \u00faltima suele fomentar la dependencia."
+        }
+      ],
+      "hint": "Diferencie entre una relaci\u00f3n par a par y una acci\u00f3n orientada al bienestar de toda la colectividad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el primer paso recomendado en un protocolo de manejo de crisis?",
+      "answerOptions": [
+        {
+          "text": "Establecer una vocer\u00eda \u00fanica desde el primer minuto.",
+          "isCorrect": true,
+          "rationale": "Tener un solo canal de comunicaci\u00f3n evita mensajes contradictorios que podr\u00edan aumentar la desconfianza de la poblaci\u00f3n."
+        },
+        {
+          "text": "Contratar una agencia de publicidad para limpiar la imagen en redes sociales.",
+          "isCorrect": false,
+          "rationale": "Intentar maquillar la informaci\u00f3n es un error; la transparencia y la vocer\u00eda clara son las prioridades iniciales."
+        },
+        {
+          "text": "Esperar a que las autoridades emitan un comunicado oficial antes de hablar.",
+          "isCorrect": false,
+          "rationale": "La empresa debe ser proactiva y no dejar que el rumor llene el vac\u00edo de informaci\u00f3n durante la crisis."
+        },
+        {
+          "text": "Negar cualquier impacto ambiental hasta tener pruebas de laboratorio definitivas.",
+          "isCorrect": false,
+          "rationale": "Si hubo un impacto, se debe asumir la responsabilidad de inmediato para no radicalizar a la poblaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en la importancia de evitar la confusi\u00f3n de mensajes dentro de una organizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el uso de maquetas o impresiones en 3D es superior a los planos 2D en la pedagog\u00eda participativa?",
+      "answerOptions": [
+        {
+          "text": "Porque permite a la comunidad dimensionar f\u00edsicamente el relieve y tama\u00f1o real de los impactos.",
+          "isCorrect": true,
+          "rationale": "La representaci\u00f3n f\u00edsica reduce el escepticismo al hacer que la informaci\u00f3n t\u00e9cnica sea tangible y f\u00e1cil de entender."
+        },
+        {
+          "text": "Porque los planos en 2D son ilegales seg\u00fan las nuevas normativas del SENACE.",
+          "isCorrect": false,
+          "rationale": "Los planos 2D son legales, pero su deficiencia es pedag\u00f3gica y comunicacional ante una poblaci\u00f3n no t\u00e9cnica."
+        },
+        {
+          "text": "Porque las maquetas 3D son m\u00e1s baratas de producir que los planos impresos.",
+          "isCorrect": false,
+          "rationale": "Generalmente, las maquetas 3D requieren una inversi\u00f3n mayor, pero su efectividad social justifica el costo."
+        },
+        {
+          "text": "Porque el uso de tecnolog\u00eda 3D garantiza autom\u00e1ticamente la aprobaci\u00f3n del proyecto.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda ayuda a la comprensi\u00f3n, pero la aprobaci\u00f3n depende de la confianza y el respeto mutuo, no solo del formato."
+        }
+      ],
+      "hint": "Considere c\u00f3mo la percepci\u00f3n visual y t\u00e1ctil ayuda a personas que no dominan el dibujo t\u00e9cnico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el indicador (KPI) m\u00e1s cr\u00edtico para medir el rendimiento de la gesti\u00f3n social en campo?",
+      "answerOptions": [
+        {
+          "text": "Un sistema de gesti\u00f3n de quejas permanente, accesible y presencial.",
+          "isCorrect": true,
+          "rationale": "La capacidad de recibir y resolver inquietudes es la prueba real de que existe un di\u00e1logo genuino con la comunidad."
+        },
+        {
+          "text": "El n\u00famero de seguidores en las redes sociales oficiales de la empresa.",
+          "isCorrect": false,
+          "rationale": "En zonas rurales con poco internet, las m\u00e9tricas digitales no reflejan la realidad de la relaci\u00f3n comunitaria."
+        },
+        {
+          "text": "La cantidad de regalos entregados durante las festividades locales.",
+          "isCorrect": false,
+          "rationale": "El asistencialismo no es una m\u00e9trica de sostenibilidad; de hecho, es una pr\u00e1ctica que se busca erradicar."
+        },
+        {
+          "text": "El porcentaje de trabajadores que hablan un idioma extranjero.",
+          "isCorrect": false,
+          "rationale": "Aunque el idioma local es importante, la competencia ling\u00fc\u00edstica extranjera no es un KPI central de gesti\u00f3n social."
+        }
+      ],
+      "hint": "Piense en el mecanismo que permite a la comunidad expresar sus inconformidades de manera formal."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 se diferencia el 'muestreo conjunto' del estadio final de 'vigilancia t\u00e9cnica' en el monitoreo ambiental?",
+      "answerOptions": [
+        {
+          "text": "En que la comunidad pasa de solo acompa\u00f1ar a los ingenieros a ser un actor capacitado que interpreta resultados.",
+          "isCorrect": true,
+          "rationale": "La evoluci\u00f3n implica educar a la poblaci\u00f3n sobre par\u00e1metros t\u00e9cnicos para que dejen de actuar por miedo a lo desconocido."
+        },
+        {
+          "text": "En que el muestreo conjunto es obligatorio por ley y la vigilancia t\u00e9cnica es voluntaria.",
+          "isCorrect": false,
+          "rationale": "Ambas pr\u00e1cticas forman parte de una estrategia de transparencia, independientemente de su car\u00e1cter legal."
+        },
+        {
+          "text": "En que la vigilancia t\u00e9cnica solo la realizan organismos del Estado como el OEFA.",
+          "isCorrect": false,
+          "rationale": "Se refiere a la transformaci\u00f3n de la comunidad en un actor de vigilancia t\u00e9cnica participativa e informada."
+        },
+        {
+          "text": "En que el muestreo conjunto no requiere el uso de laboratorios certificados.",
+          "isCorrect": false,
+          "rationale": "Todo monitoreo riguroso requiere laboratorios; la diferencia es el nivel de empoderamiento y conocimiento de la comunidad."
+        }
+      ],
+      "hint": "Considere la transici\u00f3n del rol de la comunidad: de observador a participante informado."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es fundamental erradicar la filantrop\u00eda y el asistencialismo en la gesti\u00f3n social moderna?",
+      "answerOptions": [
+        {
+          "text": "Porque incuban dependencia y generan resentimiento si los beneficios se detienen.",
+          "isCorrect": true,
+          "rationale": "Estas pr\u00e1cticas alteran las din\u00e1micas econ\u00f3micas locales y no contribuyen a la autonom\u00eda de la comunidad."
+        },
+        {
+          "text": "Porque el Estado proh\u00edbe a las empresas privadas realizar donaciones directas.",
+          "isCorrect": false,
+          "rationale": "Las donaciones no est\u00e1n prohibidas, pero se consideran una estrategia ineficaz para la sostenibilidad a largo plazo."
+        },
+        {
+          "text": "Porque las comunidades prefieren siempre el dinero en efectivo antes que regalos.",
+          "isCorrect": false,
+          "rationale": "La entrega de dinero en efectivo suele ser a\u00fan m\u00e1s perjudicial para la cohesi\u00f3n social que los regalos f\u00edsicos."
+        },
+        {
+          "text": "Porque aumenta injustificadamente el pago del impuesto a la renta de la compa\u00f1\u00eda.",
+          "isCorrect": false,
+          "rationale": "El motivo principal no es el aspecto tributario, sino el impacto social negativo y la falta de sostenibilidad de estas d\u00e1divas."
+        }
+      ],
+      "hint": "Piense en las consecuencias a largo plazo de dar soluciones temporales sin generar capacidades."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja estrat\u00e9gica del mecanismo de 'Obras por Impuestos' (OxI)?",
+      "answerOptions": [
+        {
+          "text": "Permite retener el valor del impuesto directamente en el territorio donde se genera la riqueza.",
+          "isCorrect": true,
+          "rationale": "Este sistema inyecta la eficiencia del sector privado en obras p\u00fablicas, descontando la inversi\u00f3n del impuesto a la renta futuro."
+        },
+        {
+          "text": "Exime a la empresa de pagar cualquier tipo de impuesto al Estado de forma permanente.",
+          "isCorrect": false,
+          "rationale": "No es una exoneraci\u00f3n, sino una modalidad de pago del impuesto a la renta mediante la ejecuci\u00f3n de obras."
+        },
+        {
+          "text": "Obliga a la comunidad a trabajar gratuitamente en la construcci\u00f3n de las obras.",
+          "isCorrect": false,
+          "rationale": "La empresa asume la construcci\u00f3n; la comunidad se beneficia de la infraestructura, no es forzada a trabajar sin pago."
+        },
+        {
+          "text": "Evita que el Estado tenga que supervisar la calidad de las construcciones.",
+          "isCorrect": false,
+          "rationale": "El Estado sigue siendo el responsable de validar los proyectos y la calidad de las obras ejecutadas bajo este mecanismo."
+        }
+      ],
+      "hint": "Considere c\u00f3mo este sistema asegura que el dinero de los impuestos beneficie directamente a la zona de influencia."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de los siguientes es uno de los cuatro pilares clave para mantener la licencia social sostenible?",
+      "answerOptions": [
+        {
+          "text": "Transparencia participativa mediante monitoreo conjunto.",
+          "isCorrect": true,
+          "rationale": "Este pilar ayuda a desmitificar los impactos t\u00e9cnicos y ambientales a trav\u00e9s de la participaci\u00f3n directa de la comunidad."
+        },
+        {
+          "text": "Sustituci\u00f3n de la Asamblea Comunal por una junta directiva t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "La Asamblea es la autoridad m\u00e1xima y su legitimidad es irremplazable por estructuras impuestas por la empresa."
+        },
+        {
+          "text": "Uso de vocer\u00eda m\u00faltiple para saturar los canales de informaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Se recomienda la vocer\u00eda \u00fanica para evitar contradicciones y desconfianza, especialmente en situaciones de crisis."
+        },
+        {
+          "text": "Priorizaci\u00f3n de la legalidad occidental sobre el derecho consuetudinario.",
+          "isCorrect": false,
+          "rationale": "La sostenibilidad exige respetar el derecho consuetudinario, ya que la legalidad formal sola no garantiza viabilidad operativa."
+        }
+      ],
+      "hint": "Busque un elemento que relacione la honestidad informativa con la inclusi\u00f3n de los ciudadanos."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Paradigma de agenciamiento social",
+      "Mapeo y din\u00e1mica de actores",
+      "Relaci\u00f3n entre legalidad formal y legitimidad social",
+      "Comunicaci\u00f3n intercultural y conceptos andinos",
+      "Gesti\u00f3n de crisis y transparencia",
+      "Pedagog\u00eda t\u00e9cnica e inversi\u00f3n social sostenible"
+    ],
+    "followUp": [
+      "Metodolog\u00edas de Cartograf\u00eda Social Participativa",
+      "Marco legal del canon y regal\u00edas mineras",
+      "Sistemas de Resoluci\u00f3n de Conflictos Socioambientales",
+      "Ingenier\u00eda de Obras por Impuestos (OxI) en el Per\u00fa",
+      "Sociolog\u00eda industrial y liderazgo en comunidades rurales"
+    ]
+  }
+}

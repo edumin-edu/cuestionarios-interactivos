@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de la gesti\u00f3n de riesgos en la miner\u00eda contempor\u00e1nea m\u00e1s all\u00e1 del cumplimiento normativo?",
+      "answerOptions": [
+        {
+          "text": "Asegurar la viabilidad operativa y obtener una ventaja estrat\u00e9gica.",
+          "isCorrect": true,
+          "rationale": "La gesti\u00f3n moderna busca proteger los activos y evitar paralizaciones financieras, transformando el cumplimiento en una fortaleza competitiva."
+        },
+        {
+          "text": "Completar tr\u00e1mites administrativos para evitar auditor\u00edas.",
+          "isCorrect": false,
+          "rationale": "Esta es una visi\u00f3n reactiva y tradicional que el enfoque contempor\u00e1neo busca superar para asegurar la sostenibilidad."
+        },
+        {
+          "text": "Reducir \u00fanicamente los costos de la planilla de trabajadores.",
+          "isCorrect": false,
+          "rationale": "Aunque la eficiencia es importante, la gesti\u00f3n de riesgos se centra en la protecci\u00f3n patrimonial y la continuidad operativa frente a desastres."
+        },
+        {
+          "text": "Ignorar los factores sociales para priorizar la extracci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n contempor\u00e1nea integra lo social como un seguro contra la inviabilidad del proyecto."
+        }
+      ],
+      "hint": "Se relaciona con la protecci\u00f3n de activos y la continuidad del flujo de caja."
+    },
+    {
+      "question": "\u00bfQu\u00e9 impacto financiero y operativo tuvo el deslizamiento de rocas en la Unidad Minera La Estrella?",
+      "answerOptions": [
+        {
+          "text": "Una paralizaci\u00f3n total de $3$ a $4$ meses que asfixi\u00f3 el flujo de caja.",
+          "isCorrect": true,
+          "rationale": "El bloqueo del transporte de mineral impidi\u00f3 la generaci\u00f3n de ingresos durante un periodo prolongado, afectando la estabilidad financiera."
+        },
+        {
+          "text": "Un retraso de solo dos semanas en la entrega de suministros.",
+          "isCorrect": false,
+          "rationale": "El evento fue de una magnitud mucho mayor, convirti\u00e9ndose en un catalizador para cambios estructurales de alto nivel."
+        },
+        {
+          "text": "Un incremento en los costos de exploraci\u00f3n geol\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "Si bien la geolog\u00eda es clave, el impacto directo mencionado fue la interrupci\u00f3n total de la operaci\u00f3n y el transporte."
+        },
+        {
+          "text": "La p\u00e9rdida definitiva de la concesi\u00f3n minera.",
+          "isCorrect": false,
+          "rationale": "Aunque el impacto fue devastador, se describe como una paralizaci\u00f3n temporal de varios meses, no como la p\u00e9rdida de la propiedad."
+        }
+      ],
+      "hint": "Considere la duraci\u00f3n de la interrupci\u00f3n del transporte del mineral."
+    },
+    {
+      "question": "En el contexto de la metodolog\u00eda t\u00e9cnica, \u00bfcu\u00e1les son los cinco factores clave para evaluar los impactos ambientales?",
+      "answerOptions": [
+        {
+          "text": "Extensi\u00f3n, acumulaci\u00f3n, persistencia, reversibilidad y recuperabilidad.",
+          "isCorrect": true,
+          "rationale": "Estos cinco criterios permiten a la alta gerencia cuantificar matem\u00e1ticamente la exposici\u00f3n al riesgo y asignar recursos eficientemente."
+        },
+        {
+          "text": "Costo, tiempo, personal, maquinaria y ubicaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Estos son factores de gesti\u00f3n de proyectos generales, pero no corresponden a la m\u00e9trica t\u00e9cnica de impactos ambientales descrita."
+        },
+        {
+          "text": "Clima, altitud, profundidad, dureza y volumen.",
+          "isCorrect": false,
+          "rationale": "Aunque son variables f\u00edsicas, no constituyen el marco estructurado de evaluaci\u00f3n de la sostenibilidad ambiental."
+        },
+        {
+          "text": "Rentabilidad, impuestos, regal\u00edas, salarios y multas.",
+          "isCorrect": false,
+          "rationale": "Estos son indicadores financieros y legales, no criterios t\u00e9cnicos para medir la degradaci\u00f3n o recuperaci\u00f3n del ecosistema."
+        }
+      ],
+      "hint": "Se refiere a las variables matem\u00e1ticas que definen la magnitud del da\u00f1o en el tiempo y el espacio."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define el criterio de 'extensi\u00f3n' en la evaluaci\u00f3n de un impacto ambiental?",
+      "answerOptions": [
+        {
+          "text": "Determina si el impacto es local o se expande por toda la cuenca.",
+          "isCorrect": true,
+          "rationale": "La extensi\u00f3n mide el alcance f\u00edsico del da\u00f1o, buscando siempre confinarlo dentro del \u00e1rea del proyecto."
+        },
+        {
+          "text": "Mide el tiempo que tarda la naturaleza en sanar por su cuenta.",
+          "isCorrect": false,
+          "rationale": "Esto se refiere a la persistencia o reversibilidad, no al \u00e1rea geogr\u00e1fica afectada."
+        },
+        {
+          "text": "Eval\u00faa si el impacto es producto de un derrame simple o m\u00faltiple.",
+          "isCorrect": false,
+          "rationale": "Esa distinci\u00f3n corresponde al criterio de acumulaci\u00f3n."
+        },
+        {
+          "text": "Calcula el costo total de las multas impuestas por la autoridad.",
+          "isCorrect": false,
+          "rationale": "La extensi\u00f3n es una medida t\u00e9cnica del terreno afectado, no una valoraci\u00f3n econ\u00f3mica de sanciones."
+        }
+      ],
+      "hint": "Piense en el alcance geogr\u00e1fico o espacial del suceso."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre un impacto simple y un impacto m\u00faltiple bajo el criterio de acumulaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "El impacto m\u00faltiple es una falla sist\u00e9mica donde el da\u00f1o total es peor que la suma de sus partes.",
+          "isCorrect": true,
+          "rationale": "Un impacto m\u00faltiple, como un cami\u00f3n en un r\u00edo, genera una reacci\u00f3n en cadena que agrava exponencialmente el da\u00f1o ambiental."
+        },
+        {
+          "text": "El impacto simple solo ocurre en la etapa de cierre de la mina.",
+          "isCorrect": false,
+          "rationale": "Los impactos pueden ocurrir en cualquier fase del ciclo minero, independientemente de su complejidad."
+        },
+        {
+          "text": "El impacto m\u00faltiple se refiere \u00fanicamente a la p\u00e9rdida de dinero.",
+          "isCorrect": false,
+          "rationale": "Se trata de un concepto ecol\u00f3gico y operativo, no meramente contable."
+        },
+        {
+          "text": "No existe diferencia, ambos se mitigan con el mismo presupuesto.",
+          "isCorrect": false,
+          "rationale": "La diferencia operativa es enorme, ya que el impacto m\u00faltiple requiere intervenciones mucho m\u00e1s complejas y costosas."
+        }
+      ],
+      "hint": "Considere el concepto de sinergia negativa en un ecosistema."
+    },
+    {
+      "question": "En la escala de persistencia, \u00bfcu\u00e1ndo se considera que un da\u00f1o ambiental entra en la categor\u00eda de largo plazo?",
+      "answerOptions": [
+        {
+          "text": "Cuando el da\u00f1o se extiende por m\u00e1s de $5$ a\u00f1os o es permanente.",
+          "isCorrect": true,
+          "rationale": "El largo plazo se asocia con da\u00f1os irreversibles que la naturaleza tardar\u00eda milenios en sanar por s\u00ed sola."
+        },
+        {
+          "text": "Si el problema se resuelve en menos de un a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Un da\u00f1o que dura menos de un a\u00f1o se clasifica como de corto plazo."
+        },
+        {
+          "text": "Cuando la afectaci\u00f3n dura entre $1$ y $5$ a\u00f1os exactamente.",
+          "isCorrect": false,
+          "rationale": "Este rango temporal define espec\u00edficamente los impactos de mediano plazo."
+        },
+        {
+          "text": "Solo si afecta a comunidades fuera del \u00e1rea de influencia.",
+          "isCorrect": false,
+          "rationale": "La persistencia mide la dimensi\u00f3n del tiempo, no la extensi\u00f3n geogr\u00e1fica."
+        }
+      ],
+      "hint": "Identifique el umbral temporal que marca la irreversibilidad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue el error estrat\u00e9gico fundamental en la gesti\u00f3n del derrame de mercurio en Choropampa?",
+      "answerOptions": [
+        {
+          "text": "Pagar a la poblaci\u00f3n local para recolectar el mercurio manualmente sin rigor t\u00e9cnico.",
+          "isCorrect": true,
+          "rationale": "Esta decisi\u00f3n reactiva dispar\u00f3 una crisis de salud p\u00fablica y transform\u00f3 un incidente operativo en un pasivo social permanente."
+        },
+        {
+          "text": "No contar con un seguro contra accidentes de transporte.",
+          "isCorrect": false,
+          "rationale": "Aunque el transporte fall\u00f3, el desastre se agrav\u00f3 por la respuesta t\u00e9cnica deficiente ante la emergencia."
+        },
+        {
+          "text": "Ignorar la geolog\u00eda de areniscas de la zona durante el derrame.",
+          "isCorrect": false,
+          "rationale": "El problema principal fue la interacci\u00f3n social y la falta de protocolos de seguridad qu\u00edmica, no la estabilidad de las rocas."
+        },
+        {
+          "text": "Utilizar plantas de tratamiento de aguas residuales ineficientes.",
+          "isCorrect": false,
+          "rationale": "El mercurio es un metal pesado que requiere protocolos espec\u00edficos de remediaci\u00f3n de suelos y salud, no solo tratamiento de aguas grises."
+        }
+      ],
+      "hint": "Recuerde la acci\u00f3n que involucr\u00f3 directamente a los ciudadanos en la limpieza."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la presencia de areniscas eleva la probabilidad de un deslizamiento a 'alta o cierta' durante temporadas de lluvia?",
+      "answerOptions": [
+        {
+          "text": "El agua lava el material y destruye su estabilidad geomec\u00e1nica r\u00e1pidamente.",
+          "isCorrect": true,
+          "rationale": "La geolog\u00eda local es un factor determinante; el agua altera las propiedades f\u00edsicas de las areniscas provocando fallas en el terreno."
+        },
+        {
+          "text": "Las areniscas absorben el ruido de las explosiones y generan vibraciones.",
+          "isCorrect": false,
+          "rationale": "El riesgo principal mencionado es la estabilidad del terreno ante el agua, no la ac\u00fastica."
+        },
+        {
+          "text": "Son rocas que contienen altos niveles de mercurio natural.",
+          "isCorrect": false,
+          "rationale": "No se menciona que las areniscas tengan relaci\u00f3n con la composici\u00f3n qu\u00edmica de metales pesados en este contexto."
+        },
+        {
+          "text": "El material atrae a la fauna silvestre que desestabiliza los taludes.",
+          "isCorrect": false,
+          "rationale": "La inestabilidad es un proceso f\u00edsico-qu\u00edmico relacionado con el agua, no causado por animales."
+        }
+      ],
+      "hint": "Piense en el efecto del agua sobre la cohesi\u00f3n de este tipo de roca."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el concepto de 'efecto domin\u00f3' en la mitigaci\u00f3n de riesgos?",
+      "answerOptions": [
+        {
+          "text": "La interconexi\u00f3n donde un cambio f\u00edsico impacta lo biol\u00f3gico y finalmente lo social.",
+          "isCorrect": true,
+          "rationale": "Alterar un factor, como el curso del agua, desencadena consecuencias en la flora y fauna, afectando eventualmente a la comunidad local."
+        },
+        {
+          "text": "La ca\u00edda secuencial de las plataformas de perforaci\u00f3n en la etapa de cierre.",
+          "isCorrect": false,
+          "rationale": "El efecto domin\u00f3 se refiere a la interdependencia de factores ambientales y sociales, no a la infraestructura f\u00edsica de perforaci\u00f3n."
+        },
+        {
+          "text": "El aumento progresivo de las multas de la OEFA por reincidencia.",
+          "isCorrect": false,
+          "rationale": "Aunque las multas pueden subir, el t\u00e9rmino se usa para describir la reacci\u00f3n en cadena en el entorno."
+        },
+        {
+          "text": "La rotaci\u00f3n de trabajadores entre diferentes proyectos mineros.",
+          "isCorrect": false,
+          "rationale": "Esto es una din\u00e1mica laboral y no una cadena de impactos ambientales o sociales."
+        }
+      ],
+      "hint": "Considere c\u00f3mo se relacionan el entorno f\u00edsico, biol\u00f3gico y humano."
+    },
+    {
+      "question": "En proyectos de gran escala, \u00bfcu\u00e1l es el objetivo de instalar Plantas de Tratamiento de Aguas Residuales (PTAR)?",
+      "answerOptions": [
+        {
+          "text": "Eliminar efluentes industriales y fisiol\u00f3gicos para no exceder los l\u00edmites permisibles.",
+          "isCorrect": true,
+          "rationale": "Las PTAR garantizan que ni las aguas aceitosas ni las aguas negras del campamento contaminen el entorno."
+        },
+        {
+          "text": "Generar energ\u00eda el\u00e9ctrica para las m\u00e1quinas de perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n es el tratamiento de agua, no la generaci\u00f3n de energ\u00eda."
+        },
+        {
+          "text": "Almacenar relaves secos en tajos abiertos.",
+          "isCorrect": false,
+          "rationale": "El manejo de relaves es un proceso distinto al tratamiento de aguas residuales industriales y dom\u00e9sticas."
+        },
+        {
+          "text": "Aumentar el caudal de los r\u00edos cercanos para favorecer la flora.",
+          "isCorrect": false,
+          "rationale": "El objetivo es la limpieza del agua utilizada, no la alteraci\u00f3n del volumen natural de las cuencas."
+        }
+      ],
+      "hint": "Su funci\u00f3n principal es la depuraci\u00f3n de l\u00edquidos antes de su vertido."
+    },
+    {
+      "question": "\u00bfQu\u00e9 es el 'trastocamiento cultural' y por qu\u00e9 es un riesgo en la industria minera?",
+      "answerOptions": [
+        {
+          "text": "Es la alteraci\u00f3n del tejido social y costumbres por la llegada de personal for\u00e1neo.",
+          "isCorrect": true,
+          "rationale": "Este fen\u00f3meno puede generar roces sociales y afectar la preservaci\u00f3n de tradiciones o idiomas como el quechua."
+        },
+        {
+          "text": "Es el cambio en la composici\u00f3n qu\u00edmica de los suelos por la miner\u00eda.",
+          "isCorrect": false,
+          "rationale": "El t\u00e9rmino es social y cultural, no qu\u00edmico o geol\u00f3gico."
+        },
+        {
+          "text": "Es la obligaci\u00f3n legal de contratar solo a personas de la comunidad local.",
+          "isCorrect": false,
+          "rationale": "El riesgo se refiere al choque de costumbres, no a las pol\u00edticas de contrataci\u00f3n per se."
+        },
+        {
+          "text": "Es el proceso de abandono de la mina tras el agotamiento del mineral.",
+          "isCorrect": false,
+          "rationale": "Eso define la etapa de cierre, no el impacto en las tradiciones de la poblaci\u00f3n."
+        }
+      ],
+      "hint": "Se asocia con el impacto en la identidad y forma de vida de las poblaciones locales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n estrat\u00e9gica del 'C\u00f3digo de Conducta' para los trabajadores?",
+      "answerOptions": [
+        {
+          "text": "Regular el comportamiento del personal para evitar fricciones culturales sist\u00e9micas.",
+          "isCorrect": true,
+          "rationale": "Funciona como un escudo normativo que dicta c\u00f3mo interactuar con la comunidad y c\u00f3mo comportarse en el campamento."
+        },
+        {
+          "text": "Establecer los horarios de uso de la maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "Los horarios de maquinaria son medidas t\u00e9cnicas operativas, mientras que el c\u00f3digo de conducta es una herramienta social."
+        },
+        {
+          "text": "Definir los salarios y bonificaciones por productividad.",
+          "isCorrect": false,
+          "rationale": "Eso corresponde a los contratos laborales y recursos humanos, no a la mitigaci\u00f3n de riesgos sociales."
+        },
+        {
+          "text": "Garantizar que los trabajadores usen protectores auditivos.",
+          "isCorrect": false,
+          "rationale": "El uso de EPP es una medida de seguridad ocupacional, no una regulaci\u00f3n de interacci\u00f3n cultural."
+        }
+      ],
+      "hint": "Es un instrumento normativo que act\u00faa como barrera de contenci\u00f3n social."
+    },
+    {
+      "question": "Durante el movimiento de tierras, \u00bfqu\u00e9 medida se toma para proteger la fauna local como reptiles y anfibios?",
+      "answerOptions": [
+        {
+          "text": "Implementaci\u00f3n de protocolos de rescate y reubicaci\u00f3n por equipos especialistas.",
+          "isCorrect": true,
+          "rationale": "Equipos expertos en herpetofauna capturan y trasladan a los animales para asegurar su supervivencia fuera del \u00e1rea de trabajo."
+        },
+        {
+          "text": "Uso de silenciadores en la maquinaria para no asustarlos.",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda, el ruido es un riesgo ocupacional y el rescate es la medida directa para la fauna en el terreno de obra."
+        },
+        {
+          "text": "Instalaci\u00f3n de cercos el\u00e9ctricos para impedir su entrada.",
+          "isCorrect": false,
+          "rationale": "Se usan mallas perimetrales, pero los cercos el\u00e9ctricos podr\u00edan da\u00f1ar a la fauna en lugar de protegerla."
+        },
+        {
+          "text": "Regado de v\u00edas con agua tratada para mejorar su h\u00e1bitat.",
+          "isCorrect": false,
+          "rationale": "El riego es para mitigar el polvo (aire), no tiene como fin principal el beneficio de los reptiles."
+        }
+      ],
+      "hint": "Involucra el manejo directo de los ejemplares por parte de personal capacitado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la regla para determinar si un proyecto de exploraci\u00f3n requiere un Estudio de Impacto Ambiental semidetallado (EIA-sd)?",
+      "answerOptions": [
+        {
+          "text": "Si tiene entre $40$ y $700$ plataformas de perforaci\u00f3n o afecta m\u00e1s de $10$ hect\u00e1reas.",
+          "isCorrect": true,
+          "rationale": "La complejidad del instrumento regulatorio es directamente proporcional a la huella f\u00edsica y magnitud del proyecto."
+        },
+        {
+          "text": "Si cuenta con menos de $20$ plataformas de perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Para menos de $20$ plataformas solo se requiere una Ficha T\u00e9cnica Ambiental (FTA)."
+        },
+        {
+          "text": "\u00danicamente si se encuentra en una zona de extrema pobreza.",
+          "isCorrect": false,
+          "rationale": "La pobreza es un agravante para multas, pero el tipo de estudio ambiental depende de la magnitud f\u00edsica del proyecto."
+        },
+        {
+          "text": "Cuando el proyecto ha terminado su fase de producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El EIA-sd se requiere antes de iniciar las actividades, no al final de la producci\u00f3n."
+        }
+      ],
+      "hint": "Considere los umbrales de plataformas de perforaci\u00f3n para impactos moderados."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 etapa del ciclo minero se registra habitualmente el pico m\u00e1s alto de fuerza laboral?",
+      "answerOptions": [
+        {
+          "text": "Durante la etapa de construcci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Es el momento de mayor despliegue log\u00edstico y personal, lo que intensifica las din\u00e1micas sociales en la zona."
+        },
+        {
+          "text": "En la exploraci\u00f3n geol\u00f3gica inicial.",
+          "isCorrect": false,
+          "rationale": "La exploraci\u00f3n es una fase preliminar con equipos reducidos en comparaci\u00f3n con la construcci\u00f3n de la infraestructura."
+        },
+        {
+          "text": "Durante el monitoreo de post-cierre.",
+          "isCorrect": false,
+          "rationale": "El post-cierre requiere un equipo m\u00ednimo para vigilancia y toma de muestras, no una gran masa laboral."
+        },
+        {
+          "text": "En la fase de producci\u00f3n sostenida.",
+          "isCorrect": false,
+          "rationale": "Aunque hay actividad constante, la cantidad de trabajadores suele estabilizarse y ser menor que durante el pico constructivo."
+        }
+      ],
+      "hint": "Piense en la fase que requiere levantar toda la infraestructura del proyecto."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el monitoreo post-cierre de una mina como Pierina puede durar de $20$ a $30$ a\u00f1os?",
+      "answerOptions": [
+        {
+          "text": "Para asegurar que la flora nativa creci\u00f3 y los relaves mantienen su estabilidad qu\u00edmica.",
+          "isCorrect": true,
+          "rationale": "Es el plazo cient\u00edfico necesario para garantizar que el entorno es estable sin intervenci\u00f3n humana a largo plazo."
+        },
+        {
+          "text": "Debido a que el Ministerio de Energ\u00eda y Minas no permite cierres m\u00e1s r\u00e1pidos.",
+          "isCorrect": false,
+          "rationale": "El plazo no es un capricho burocr\u00e1tico, sino una necesidad t\u00e9cnica basada en la recuperaci\u00f3n del ecosistema."
+        },
+        {
+          "text": "Para esperar a que el precio del mineral suba y reabrir la mina.",
+          "isCorrect": false,
+          "rationale": "El objetivo del cierre es la clausura responsable y recuperaci\u00f3n ambiental, no la especulaci\u00f3n financiera."
+        },
+        {
+          "text": "Porque los trabajadores se niegan a abandonar el campamento.",
+          "isCorrect": false,
+          "rationale": "La duraci\u00f3n del post-cierre depende de factores ambientales y de ingenier\u00eda, no de la voluntad del personal."
+        }
+      ],
+      "hint": "Se busca verificar la consolidaci\u00f3n de la estabilidad geomec\u00e1nica y biol\u00f3gica."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste una 'auditor\u00eda de promesas hist\u00f3ricas' durante el cierre social?",
+      "answerOptions": [
+        {
+          "text": "En revisar minuciosamente cada compromiso social realizado por la empresa durante a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Cumplir con donaciones, escuelas o caminos prometidos evita conflictos sociales post-operativos."
+        },
+        {
+          "text": "En calcular cu\u00e1nto mineral queda a\u00fan en el subsuelo.",
+          "isCorrect": false,
+          "rationale": "Esto es una evaluaci\u00f3n de reservas geol\u00f3gicas, no tiene relaci\u00f3n con el cierre social."
+        },
+        {
+          "text": "En verificar si los trabajadores cumplieron el c\u00f3digo de vestimenta.",
+          "isCorrect": false,
+          "rationale": "La auditor\u00eda se enfoca en compromisos con la comunidad, no en normas internas de apariencia."
+        },
+        {
+          "text": "En comparar las multas pagadas contra las multas apeladas.",
+          "isCorrect": false,
+          "rationale": "Se trata de deudas sociales y promesas a la poblaci\u00f3n, no de contabilidad de sanciones legales."
+        }
+      ],
+      "hint": "Se trata de un mecanismo de 'compliance' para saldar deudas de confianza con la comunidad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del Organismo de Evaluaci\u00f3n y Fiscalizaci\u00f3n Ambiental (OEFA)?",
+      "answerOptions": [
+        {
+          "text": "Vigilar y sancionar el cumplimiento de las normas ambientales.",
+          "isCorrect": true,
+          "rationale": "Es el ente encargado de la fiscalizaci\u00f3n ambiental, con capacidad para imponer multas masivas por incumplimiento."
+        },
+        {
+          "text": "Dictar la pol\u00edtica general de todo el sector energ\u00e9tico.",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n corresponde espec\u00edficamente al Ministerio de Energ\u00eda y Minas (MINEM)."
+        },
+        {
+          "text": "Supervisar la seguridad y salud ocupacional de los mineros.",
+          "isCorrect": false,
+          "rationale": "Esa tarea es responsabilidad de OSINERMIN."
+        },
+        {
+          "text": "Otorgar los t\u00edtulos de concesi\u00f3n minera a nivel nacional.",
+          "isCorrect": false,
+          "rationale": "OEFA es un ente fiscalizador ambiental, no la entidad que concede derechos mineros."
+        }
+      ],
+      "hint": "Es el 'gigante' que supervisa el impacto de la operaci\u00f3n en el ecosistema."
+    },
+    {
+      "question": "\u00bfC\u00f3mo calcula la OEFA el monto de una multa bas\u00e1ndose en el concepto de 'beneficio il\u00edcito'?",
+      "answerOptions": [
+        {
+          "text": "Cuantificando cu\u00e1nto dinero ahorr\u00f3 la empresa al evadir una norma ambiental.",
+          "isCorrect": true,
+          "rationale": "La autoridad toma ese ahorro y lo cruza con probabilidades estad\u00edsticas para generar una sanci\u00f3n disuasoria."
+        },
+        {
+          "text": "Multiplicando las utilidades anuales de la empresa por diez.",
+          "isCorrect": false,
+          "rationale": "El c\u00e1lculo se basa en el ahorro espec\u00edfico por el incumplimiento, no en la rentabilidad total de la compa\u00f1\u00eda."
+        },
+        {
+          "text": "Sumando el valor de todo el mineral extra\u00eddo de forma ilegal.",
+          "isCorrect": false,
+          "rationale": "El beneficio il\u00edcito se refiere al ahorro en costos de mitigaci\u00f3n y cumplimiento normativo."
+        },
+        {
+          "text": "Dividiendo el costo del proyecto entre el n\u00famero de hect\u00e1reas afectadas.",
+          "isCorrect": false,
+          "rationale": "Esta f\u00f3rmula no refleja el concepto de beneficio obtenido por no cumplir la ley."
+        }
+      ],
+      "hint": "Piense en el dinero no invertido en medidas de seguridad o prevenci\u00f3n requeridas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n sobre gobernanza \u00e9tica dej\u00f3 el caso del derrame de Repsol en Ventanilla?",
+      "answerOptions": [
+        {
+          "text": "Que los conflictos de inter\u00e9s y fallas \u00e9ticas pueden anular procesos legales t\u00e9cnicos.",
+          "isCorrect": true,
+          "rationale": "La relaci\u00f3n personal entre un funcionario de la empresa y uno del regulador contamin\u00f3 el procedimiento y forz\u00f3 su anulaci\u00f3n."
+        },
+        {
+          "text": "Que el petr\u00f3leo se limpia m\u00e1s r\u00e1pido si se usa tecnolog\u00eda de punta.",
+          "isCorrect": false,
+          "rationale": "El caso se enfoca en la crisis de \u00e9tica y gobernanza, no en las t\u00e9cnicas qu\u00edmicas de limpieza de crudo."
+        },
+        {
+          "text": "Que las multas de $70$ millones de soles son imposibles de pagar.",
+          "isCorrect": false,
+          "rationale": "El problema no fue la capacidad de pago, sino c\u00f3mo las fallas \u00e9ticas permitieron esquivar la sanci\u00f3n inicialmente."
+        },
+        {
+          "text": "Que las vocer\u00edas de las empresas siempre deben ser manejadas por ge\u00f3logos.",
+          "isCorrect": false,
+          "rationale": "El error fue la falta de transparencia y el conflicto de intereses, no la profesi\u00f3n del vocero."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre los funcionarios de la empresa y la entidad fiscalizadora."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gesti\u00f3n estrat\u00e9gica de riesgos mineros",
+      "Metodolog\u00eda t\u00e9cnica de cuantificaci\u00f3n de impactos ambientales",
+      "Mitigaci\u00f3n de riesgos sociales y culturales",
+      "Marco regulatorio y sancionador en el sector minero",
+      "Ciclo de vida de la mina y planificaci\u00f3n del cierre"
+    ],
+    "followUp": [
+      "Estabilidad geomec\u00e1nica de dep\u00f3sitos de relaves",
+      "Sistemas de informaci\u00f3n jur\u00eddica aplicados a la miner\u00eda (SPIJ)",
+      "Gesti\u00f3n de crisis y gobernanza \u00e9tica corporativa",
+      "Est\u00e1ndares de calidad ambiental para aguas subterr\u00e1neas"
+    ]
+  }
+}

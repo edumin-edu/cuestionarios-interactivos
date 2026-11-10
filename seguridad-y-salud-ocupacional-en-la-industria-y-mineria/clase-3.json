@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el paradigma actual respecto a la seguridad en las organizaciones modernas?",
+      "answerOptions": [
+        {
+          "text": "Un pilar estrat\u00e9gico corporativo indispensable.",
+          "isCorrect": true,
+          "rationale": "La seguridad ha evolucionado de ser una carga administrativa a un elemento central en la estrategia y continuidad operativa de la empresa."
+        },
+        {
+          "text": "Una carga administrativa impuesta por el Estado.",
+          "isCorrect": false,
+          "rationale": "Este es el concepto antiguo que se busca superar mediante la integraci\u00f3n de la seguridad en la estrategia organizacional."
+        },
+        {
+          "text": "Un conjunto de normas basadas \u00fanicamente en el sentido com\u00fan.",
+          "isCorrect": false,
+          "rationale": "El sentido com\u00fan es insuficiente en entornos de alto riesgo, requiriendo un dominio normativo y t\u00e9cnico absoluto."
+        },
+        {
+          "text": "Un protocolo secundario enfocado solo en la producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La seguridad se considera un fundamento para la producci\u00f3n sostenible, no un elemento de importancia secundaria."
+        }
+      ],
+      "hint": "Considera si la seguridad se ve hoy como un obst\u00e1culo o como una base fundamental para el negocio."
+    },
+    {
+      "question": "En el marco legal peruano, \u00bfqu\u00e9 principio fundamental establece la Ley 29783?",
+      "answerOptions": [
+        {
+          "text": "El principio de responsabilidad directa del empleador y deber de prevenci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Esta ley pone la carga de la prevenci\u00f3n y la responsabilidad de los incidentes directamente sobre la figura del empleador."
+        },
+        {
+          "text": "La responsabilidad compartida equitativamente entre el Estado y el trabajador.",
+          "isCorrect": false,
+          "rationale": "Aunque hay roles compartidos, la ley enfatiza el deber supremo y la responsabilidad directa del empleador en la prevenci\u00f3n."
+        },
+        {
+          "text": "La primac\u00eda de la producci\u00f3n sobre los est\u00e1ndares t\u00e9cnicos.",
+          "isCorrect": false,
+          "rationale": "La normativa legal est\u00e1 dise\u00f1ada precisamente para proteger la integridad frente a las presiones de producci\u00f3n."
+        },
+        {
+          "text": "El derecho del trabajador a elegir sus propios protocolos de seguridad.",
+          "isCorrect": false,
+          "rationale": "Los protocolos son directrices t\u00e9cnicas obligatorias y no dependen del criterio individual del trabajador."
+        }
+      ],
+      "hint": "Busca el concepto que vincula la obligaci\u00f3n legal con la figura que dirige la organizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja del enfoque t\u00e9cnico sobre el criterio personal en la gesti\u00f3n de riesgos?",
+      "answerOptions": [
+        {
+          "text": "Aporta objetividad matem\u00e1tica y rigor normativo.",
+          "isCorrect": true,
+          "rationale": "El enfoque t\u00e9cnico elimina la subjetividad y la intuici\u00f3n, que pueden fallar bajo presi\u00f3n, proporcionando certezas basadas en datos."
+        },
+        {
+          "text": "Permite una mayor flexibilidad ante situaciones imprevistas.",
+          "isCorrect": false,
+          "rationale": "La flexibilidad suele asociarse al criterio personal, mientras que el enfoque t\u00e9cnico busca estandarizaci\u00f3n y rigor."
+        },
+        {
+          "text": "Reduce la necesidad de realizar mediciones constantes en el terreno.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el rigor t\u00e9cnico exige mediciones precisas y evidencia emp\u00edrica constante."
+        },
+        {
+          "text": "Facilita la toma de decisiones basadas en la experiencia intuitiva del supervisor.",
+          "isCorrect": false,
+          "rationale": "El enfoque t\u00e9cnico se opone a la dependencia de la intuici\u00f3n, favoreciendo el uso de datos duros."
+        }
+      ],
+      "hint": "Piensa en qu\u00e9 m\u00e9todo ofrece resultados m\u00e1s consistentes y menos influenciables por la percepci\u00f3n humana."
+    },
+    {
+      "question": "Dentro de una investigaci\u00f3n de incidentes, \u00bfqu\u00e9 significa el mantra 'dato mata relato'?",
+      "answerOptions": [
+        {
+          "text": "Que la evidencia irrefutable prevalece sobre suposiciones o justificaciones.",
+          "isCorrect": true,
+          "rationale": "Se enfatiza que solo las mediciones y hechos probados pueden prevenir accidentes, no las historias o excusas de pasillo."
+        },
+        {
+          "text": "Que los testimonios de los testigos son la fuente principal de verdad.",
+          "isCorrect": false,
+          "rationale": "Los testimonios son 'relatos' que, seg\u00fan este mantra, deben ser validados o desplazados por datos objetivos."
+        },
+        {
+          "text": "Que la estad\u00edstica de accidentes es m\u00e1s importante que la causa ra\u00edz.",
+          "isCorrect": false,
+          "rationale": "El mantra se refiere a la calidad de la evidencia en la evaluaci\u00f3n, no a la jerarqu\u00eda de la estad\u00edstica sobre el an\u00e1lisis."
+        },
+        {
+          "text": "Que las auditor\u00edas deben enfocarse solo en el cumplimiento documental.",
+          "isCorrect": false,
+          "rationale": "El dato se refiere a la realidad operativa, mientras que el cumplimiento solo documental puede ser una simulaci\u00f3n."
+        }
+      ],
+      "hint": "Relaciona la frase con la diferencia entre una opini\u00f3n subjetiva y una prueba cient\u00edfica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia sist\u00e9mica se observ\u00f3 en el caso del colapso de infraestructura en Trujillo?",
+      "answerOptions": [
+        {
+          "text": "Priorizaci\u00f3n de ahorro econ\u00f3mico sobre la integridad estructural.",
+          "isCorrect": true,
+          "rationale": "La tragedia fue el resultado predecible de omitir mantenimiento y evadir la t\u00e9cnica para reducir gastos."
+        },
+        {
+          "text": "Un desastre natural impredecible que super\u00f3 los est\u00e1ndares legales.",
+          "isCorrect": false,
+          "rationale": "Se menciona expl\u00edcitamente que no fue un capricho de la naturaleza, sino una negligencia sist\u00e9mica predecible."
+        },
+        {
+          "text": "La falta de normatividad t\u00e9cnica vigente al momento del dise\u00f1o.",
+          "isCorrect": false,
+          "rationale": "El problema no fue la ausencia de normas, sino el incumplimiento y la corrupci\u00f3n para evadirlas."
+        },
+        {
+          "text": "El error humano aislado de un operario durante la construcci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El caso se describe como una negligencia sist\u00e9mica y no como el fallo de una sola persona."
+        }
+      ],
+      "hint": "Identifica qu\u00e9 factor financiero pes\u00f3 m\u00e1s que la seguridad en ese evento."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera a la matriz IPERC como el coraz\u00f3n de la prevenci\u00f3n cient\u00edfica?",
+      "answerOptions": [
+        {
+          "text": "Porque permite priorizar recursos en las amenazas de mayor criticidad.",
+          "isCorrect": true,
+          "rationale": "Su valor radica en enfocar el tiempo y dinero donde los riesgos podr\u00edan costar vidas o detener la operaci\u00f3n."
+        },
+        {
+          "text": "Porque sirve como un archivo documental para auditor\u00edas externas.",
+          "isCorrect": false,
+          "rationale": "Aunque es auditable, su funci\u00f3n principal no es ser un 'formatito' de archivo, sino una herramienta de gesti\u00f3n activa."
+        },
+        {
+          "text": "Porque sustituye la necesidad de supervisi\u00f3n directa en el campo.",
+          "isCorrect": false,
+          "rationale": "La matriz gu\u00eda la supervisi\u00f3n, pero no reemplaza la presencia y control en el lugar de trabajo."
+        },
+        {
+          "text": "Porque garantiza la eliminaci\u00f3n total de todos los riesgos laborales.",
+          "isCorrect": false,
+          "rationale": "Ninguna herramienta elimina todos los riesgos; la matriz ayuda a identificarlos, evaluarlos y controlarlos por prioridad."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo ayuda esta herramienta a la gerencia a decidir d\u00f3nde invertir su presupuesto de seguridad."
+    },
+    {
+      "question": "En la metodolog\u00eda IPERC, \u00bfcu\u00e1l es el prop\u00f3sito espec\u00edfico del paso de 'Evaluaci\u00f3n de Riesgos'?",
+      "answerOptions": [
+        {
+          "text": "Medir la magnitud de la amenaza cruzando probabilidad y severidad.",
+          "isCorrect": true,
+          "rationale": "Este paso aplica rigor cient\u00edfico para categorizar el riesgo como bajo, medio, alto o cr\u00edtico mediante datos precisos."
+        },
+        {
+          "text": "Escanear el entorno para encontrar peligros como gases o rocas sueltas.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde al primer paso, que es la Identificaci\u00f3n de Peligros."
+        },
+        {
+          "text": "Dise\u00f1ar e implementar barreras estrat\u00e9gicas para neutralizar el peligro.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n del tercer paso, el Control de Riesgos."
+        },
+        {
+          "text": "Asignar responsabilidades legales a los supervisores de \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "La evaluaci\u00f3n se centra en la naturaleza del riesgo t\u00e9cnico, no en la asignaci\u00f3n de responsabilidades legales."
+        }
+      ],
+      "hint": "Se trata del momento en que se usan las variables de frecuencia e impacto para obtener un nivel de riesgo."
+    },
+    {
+      "question": "Al evaluar un riesgo, \u00bfqu\u00e9 representa la variable de 'severidad'?",
+      "answerOptions": [
+        {
+          "text": "La magnitud o fuerza del impacto si el evento llegara a ocurrir.",
+          "isCorrect": true,
+          "rationale": "La severidad mide las consecuencias f\u00edsicas o materiales del suceso, determinando qu\u00e9 tan 'fuerte' es el golpe."
+        },
+        {
+          "text": "La frecuencia con la que se repite un incidente en la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La frecuencia o periodicidad es lo que define a la variable de probabilidad, no a la severidad."
+        },
+        {
+          "text": "El costo econ\u00f3mico exacto de la reparaci\u00f3n de los equipos.",
+          "isCorrect": false,
+          "rationale": "Aunque el costo puede ser parte del impacto, la severidad en seguridad se enfoca principalmente en la integridad humana y operativa."
+        },
+        {
+          "text": "El tiempo que tarda el equipo de emergencia en responder al evento.",
+          "isCorrect": false,
+          "rationale": "El tiempo de respuesta es un indicador de eficiencia de emergencia, no una variable de evaluaci\u00f3n del riesgo intr\u00ednseco."
+        }
+      ],
+      "hint": "Enf\u00f3cate en la gravedad del da\u00f1o resultante, no en la posibilidad de que suceda."
+    },
+    {
+      "question": "En la jerarqu\u00eda de controles, \u00bfqu\u00e9 medida representa el nivel ideal o de mayor efectividad?",
+      "answerOptions": [
+        {
+          "text": "Eliminaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Quitar el problema de ra\u00edz es la forma m\u00e1s segura de garantizar que el riesgo ya no exista en el entorno laboral."
+        },
+        {
+          "text": "Sustituci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La sustituci\u00f3n es el nivel dos; es muy efectiva pero inferior a la eliminaci\u00f3n total del peligro."
+        },
+        {
+          "text": "Controles de ingenier\u00eda.",
+          "isCorrect": false,
+          "rationale": "Ocupan el nivel tres y act\u00faan sobre el entorno, pero no eliminan el peligro base."
+        },
+        {
+          "text": "Uso de EPP.",
+          "isCorrect": false,
+          "rationale": "Es el \u00faltimo recurso y el menos eficiente de toda la jerarqu\u00eda."
+        }
+      ],
+      "hint": "Es la acci\u00f3n que consiste en arrancar el problema de ra\u00edz."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el Equipo de Protecci\u00f3n Personal (EPP) se ubica en el \u00faltimo nivel de la jerarqu\u00eda de controles?",
+      "answerOptions": [
+        {
+          "text": "Porque solo mitiga el impacto y no elimina el peligro.",
+          "isCorrect": true,
+          "rationale": "El EPP depende totalmente del uso correcto por parte del trabajador y del estado del equipo, siendo la barrera m\u00e1s vulnerable."
+        },
+        {
+          "text": "Porque es la medida m\u00e1s costosa para la organizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "A menudo el EPP es m\u00e1s econ\u00f3mico que los controles de ingenier\u00eda, pero su ubicaci\u00f3n se debe a su baja eficiencia preventiva."
+        },
+        {
+          "text": "Porque su implementaci\u00f3n requiere de aprobaciones judiciales previas.",
+          "isCorrect": false,
+          "rationale": "El uso de EPP es una decisi\u00f3n t\u00e9cnica operativa y no requiere procesos judiciales."
+        },
+        {
+          "text": "Porque su efectividad es independiente del comportamiento humano.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el EPP es altamente dependiente de que el trabajador decida usarlo y lo haga correctamente."
+        }
+      ],
+      "hint": "Considera si un casco evita que caiga una piedra o solo reduce el da\u00f1o cuando esta ya cay\u00f3."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del sistema LOTO (Lockout/Tagout)?",
+      "answerOptions": [
+        {
+          "text": "Aislar f\u00edsicamente las fuentes de energ\u00eda para evitar encendidos accidentales.",
+          "isCorrect": true,
+          "rationale": "Mediante candados y etiquetas, se garantiza que el equipo no pueda activarse mientras se realiza mantenimiento."
+        },
+        {
+          "text": "Monitorear la concentraci\u00f3n de gases explosivos en tiempo real.",
+          "isCorrect": false,
+          "rationale": "Esta es la funci\u00f3n de los detectores de gas multigas, no del sistema LOTO."
+        },
+        {
+          "text": "Certificar que los arneses de seguridad cumplen con la norma t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "LOTO se enfoca en el control de energ\u00edas peligrosas, no en la certificaci\u00f3n de equipos de altura."
+        },
+        {
+          "text": "Sustituir productos qu\u00edmicos t\u00f3xicos por alternativas biodegradables.",
+          "isCorrect": false,
+          "rationale": "Esa acci\u00f3n corresponde al nivel de 'Sustituci\u00f3n' en la jerarqu\u00eda de controles."
+        }
+      ],
+      "hint": "Se asocia con el uso de candados f\u00edsicos para devolver el control al trabajador expuesto."
+    },
+    {
+      "question": "Si un simulacro de evacuaci\u00f3n supera el tiempo objetivo establecido en los KPI, \u00bfcu\u00e1l es el procedimiento t\u00e9cnico a seguir?",
+      "answerOptions": [
+        {
+          "text": "Aplicar de inmediato un an\u00e1lisis de causa ra\u00edz (RCA).",
+          "isCorrect": true,
+          "rationale": "Se requiere diagnosticar exactamente qu\u00e9 fall\u00f3 (alarmas, bloqueos, confusi\u00f3n) para corregir el problema de ra\u00edz."
+        },
+        {
+          "text": "Repetir el ejercicio inmediatamente hasta que salga bien.",
+          "isCorrect": false,
+          "rationale": "Repetir sin analizar la falla no garantiza la mejora y no cumple con el est\u00e1ndar profesional de prevenci\u00f3n."
+        },
+        {
+          "text": "Modificar el KPI para que sea m\u00e1s flexible y f\u00e1cil de cumplir.",
+          "isCorrect": false,
+          "rationale": "Ajustar el indicador a la baja oculta una vulnerabilidad operativa en lugar de solucionarla."
+        },
+        {
+          "text": "Ignorar el resultado si no hubo heridos durante el ejercicio.",
+          "isCorrect": false,
+          "rationale": "Un simulacro es una prueba de fuego; ignorar un fallo es permitir una tragedia futura."
+        }
+      ],
+      "hint": "Se busca investigar el origen del retraso para evitar que se repita en una emergencia real."
+    },
+    {
+      "question": "\u00bfC\u00f3mo impacta un ambiente laboral t\u00f3xico en la seguridad operativa?",
+      "answerOptions": [
+        {
+          "text": "Aumenta exponencialmente la probabilidad de errores fatales por distracci\u00f3n cognitiva.",
+          "isCorrect": true,
+          "rationale": "La fatiga psicol\u00f3gica y la mala salud mental afectan la capacidad de concentraci\u00f3n necesaria en tareas cr\u00edticas."
+        },
+        {
+          "text": "Mejora la competitividad y la atenci\u00f3n al detalle de los trabajadores.",
+          "isCorrect": false,
+          "rationale": "Un ambiente t\u00f3xico genera desgaste y distracci\u00f3n, lo cual es opuesto a la atenci\u00f3n y seguridad."
+        },
+        {
+          "text": "No tiene impacto directo siempre que se usen los EPP correctamente.",
+          "isCorrect": false,
+          "rationale": "Los riesgos invisibles (mentales) son tan peligrosos como los f\u00edsicos y pueden anular la efectividad de las barreras f\u00edsicas."
+        },
+        {
+          "text": "Reduce la necesidad de controles administrativos y capacitaciones.",
+          "isCorrect": false,
+          "rationale": "Al contrario, un entorno dif\u00edcil requiere una gesti\u00f3n de riesgos humanos mucho m\u00e1s estricta."
+        }
+      ],
+      "hint": "Piensa en lo que ocurre con la mente de un trabajador bajo presi\u00f3n psicol\u00f3gica constante."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los cuatro requisitos t\u00e9cnicos para que una situaci\u00f3n se clasifique como acoso laboral (mobbing)?",
+      "answerOptions": [
+        {
+          "text": "Violencia psicol\u00f3gica extrema, sistem\u00e1tica, recurrente y prolongada.",
+          "isCorrect": true,
+          "rationale": "Estos cuatro elementos deben coexistir para diferenciar el acoso laboral de un simple conflicto puntual."
+        },
+        {
+          "text": "Conflicto jer\u00e1rquico, desacuerdo profesional, estr\u00e9s y baja producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Estos elementos pueden ser s\u00edntomas de problemas laborales, pero no definen t\u00e9cnicamente el mobbing."
+        },
+        {
+          "text": "Aislamiento f\u00edsico, reducci\u00f3n de salario, despido y falta de EPP.",
+          "isCorrect": false,
+          "rationale": "Aunque el aislamiento es parte de las t\u00e1cticas, los otros puntos son de naturaleza contractual o de seguridad f\u00edsica."
+        },
+        {
+          "text": "Presi\u00f3n por objetivos, evaluaciones estrictas, competitividad y turnos largos.",
+          "isCorrect": false,
+          "rationale": "Estos factores pueden ser parte del r\u00e9gimen laboral normal y no constituyen necesariamente violencia psicol\u00f3gica."
+        }
+      ],
+      "hint": "Se refiere a la frecuencia y duraci\u00f3n del maltrato mental."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el acoso laboral de tipo horizontal?",
+      "answerOptions": [
+        {
+          "text": "Abuso psicol\u00f3gico que se da entre compa\u00f1eros del mismo nivel jer\u00e1rquico.",
+          "isCorrect": true,
+          "rationale": "Ocurre entre pares y suele manifestarse mediante el aislamiento o desvalorizaci\u00f3n entre colegas."
+        },
+        {
+          "text": "Maltrato que desciende desde la cadena de mando hacia los subordinados.",
+          "isCorrect": false,
+          "rationale": "Esta descripci\u00f3n corresponde al acoso vertical descendente."
+        },
+        {
+          "text": "Presi\u00f3n ejercida por los subordinados hacia sus superiores.",
+          "isCorrect": false,
+          "rationale": "Aunque existe, la definici\u00f3n est\u00e1ndar de acoso horizontal se centra en la relaci\u00f3n entre iguales en la jerarqu\u00eda."
+        },
+        {
+          "text": "Acoso que ocurre exclusivamente fuera del horario y lugar de trabajo.",
+          "isCorrect": false,
+          "rationale": "El acoso laboral ocurre principalmente dentro del contexto o relaci\u00f3n laboral, independientemente del lugar f\u00edsico."
+        }
+      ],
+      "hint": "Piensa en la relaci\u00f3n jer\u00e1rquica entre las personas involucradas (pares vs. jefes)."
+    },
+    {
+      "question": "En el contexto de la prevenci\u00f3n del acoso, \u00bfqu\u00e9 objetivo tiene la prohibici\u00f3n de pedir redes sociales personales a los subordinados?",
+      "answerOptions": [
+        {
+          "text": "Eliminar cualquier espacio para la ambig\u00fcedad en la relaci\u00f3n laboral.",
+          "isCorrect": true,
+          "rationale": "Establecer l\u00edmites digitales claros protege la integridad profesional y evita situaciones que puedan derivar en acoso."
+        },
+        {
+          "text": "Evitar que los trabajadores pierdan tiempo durante la jornada laboral.",
+          "isCorrect": false,
+          "rationale": "El motivo principal es la protecci\u00f3n de la integridad y los l\u00edmites, no la productividad horaria."
+        },
+        {
+          "text": "Garantizar que la empresa sea due\u00f1a de la informaci\u00f3n privada del empleado.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la norma busca proteger la privacidad del empleado frente a la autoridad del jefe."
+        },
+        {
+          "text": "Reducir el uso de banda ancha en las instalaciones industriales.",
+          "isCorrect": false,
+          "rationale": "Es una medida de \u00e9tica y prevenci\u00f3n de acoso, no una restricci\u00f3n t\u00e9cnica de TI."
+        }
+      ],
+      "hint": "Se busca mantener una separaci\u00f3n n\u00edtida entre la vida privada y la jerarqu\u00eda de mando."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor ergon\u00f3mico puede causar lesiones m\u00fasculoesquel\u00e9ticas adem\u00e1s del levantamiento de grandes pesos?",
+      "answerOptions": [
+        {
+          "text": "Tareas ligeras con una alt\u00edsima tasa de repetici\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La repetici\u00f3n constante puede desgastar las articulaciones y tejidos incluso si la carga no es pesada."
+        },
+        {
+          "text": "El uso constante de arneses y l\u00edneas de vida certificados.",
+          "isCorrect": false,
+          "rationale": "El equipo de protecci\u00f3n, si est\u00e1 bien usado, previene lesiones por ca\u00eddas y no suele causar da\u00f1o por s\u00ed mismo."
+        },
+        {
+          "text": "La realizaci\u00f3n de pausas activas obligatorias durante el turno.",
+          "isCorrect": false,
+          "rationale": "Las pausas activas son una medida de mitigaci\u00f3n de la fatiga, no una causa de lesi\u00f3n."
+        },
+        {
+          "text": "El monitoreo continuo de gases en miner\u00eda subterr\u00e1nea.",
+          "isCorrect": false,
+          "rationale": "Este es un factor de higiene industrial y seguridad qu\u00edmica, no un factor ergon\u00f3mico."
+        }
+      ],
+      "hint": "Piensa en el efecto del movimiento constante sobre las articulaciones."
+    },
+    {
+      "question": "\u00bfC\u00f3mo contribuye la ingenier\u00eda al dise\u00f1o ergon\u00f3mico en camiones de miner\u00eda pesada?",
+      "answerOptions": [
+        {
+          "text": "Implementando asientos con amortiguadores especializados para neutralizar vibraciones.",
+          "isCorrect": true,
+          "rationale": "La protecci\u00f3n contra vibraciones es vital para evitar da\u00f1os en la columna y articulaciones del operador."
+        },
+        {
+          "text": "Aumentando la velocidad m\u00e1xima para reducir el tiempo de exposici\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aumentar la velocidad incrementar\u00eda el riesgo de accidentes y vibraciones, siendo contraproducente."
+        },
+        {
+          "text": "Eliminando la necesidad de cabinas cerradas para mejorar la ventilaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las cabinas cerradas son necesarias para proteger al operador de polvo, ruido y climas extremos."
+        },
+        {
+          "text": "Sustituyendo los controles f\u00edsicos por sistemas operados solo con la voz.",
+          "isCorrect": false,
+          "rationale": "Aunque es tecnolog\u00eda avanzada, no es el est\u00e1ndar ergon\u00f3mico mencionado para mitigar la fatiga f\u00edsica por vibraci\u00f3n."
+        }
+      ],
+      "hint": "Busca una soluci\u00f3n f\u00edsica en el asiento del conductor que reduzca el impacto del movimiento."
+    },
+    {
+      "question": "En la jerarqu\u00eda de controles, \u00bfcu\u00e1l es un ejemplo de control de ingenier\u00eda para un problema de vapores t\u00f3xicos?",
+      "answerOptions": [
+        {
+          "text": "Instalaci\u00f3n de un sistema de ventilaci\u00f3n automatizado.",
+          "isCorrect": true,
+          "rationale": "Los controles de ingenier\u00eda modifican el ambiente o la infraestructura para aislar el peligro del trabajador."
+        },
+        {
+          "text": "Entrega de respiradores de cara completa con filtros especiales.",
+          "isCorrect": false,
+          "rationale": "Esto es un Equipo de Protecci\u00f3n Personal (EPP), el \u00faltimo nivel de la jerarqu\u00eda."
+        },
+        {
+          "text": "Colocaci\u00f3n de letreros que adviertan sobre la toxicidad del \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "Los letreros son controles administrativos, que se sit\u00faan por debajo de los de ingenier\u00eda."
+        },
+        {
+          "text": "Cierre total de la planta para eliminar la generaci\u00f3n del vapor.",
+          "isCorrect": false,
+          "rationale": "El cierre total o eliminaci\u00f3n del proceso ser\u00eda el nivel de 'Eliminaci\u00f3n', no de ingenier\u00eda."
+        }
+      ],
+      "hint": "Es una medida que implica redise\u00f1ar o a\u00f1adir equipamiento f\u00edsico al entorno."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que la seguridad ya no es reactiva sino una inversi\u00f3n \u00e9tica?",
+      "answerOptions": [
+        {
+          "text": "Porque proteger el talento asegura la rentabilidad y sostenibilidad a largo plazo.",
+          "isCorrect": true,
+          "rationale": "Una operaci\u00f3n segura evita p\u00e9rdidas humanas, legales y econ\u00f3micas, convirti\u00e9ndose en una ventaja competitiva."
+        },
+        {
+          "text": "Porque las multas actuales son m\u00e1s bajas que el costo de los arneses.",
+          "isCorrect": false,
+          "rationale": "La seguridad \u00e9tica busca proteger vidas m\u00e1s all\u00e1 de la comparaci\u00f3n de costos con las multas."
+        },
+        {
+          "text": "Porque la ley solo exige actuar despu\u00e9s de que ocurre un accidente.",
+          "isCorrect": false,
+          "rationale": "La ley y el nuevo paradigma son preventivos (actuar antes), no reactivos (actuar despu\u00e9s)."
+        },
+        {
+          "text": "Porque permite reducir el n\u00famero de supervisores en las \u00e1reas cr\u00edticas.",
+          "isCorrect": false,
+          "rationale": "La seguridad estrat\u00e9gica no busca reducir la supervisi\u00f3n, sino hacerla m\u00e1s t\u00e9cnica y efectiva."
+        }
+      ],
+      "hint": "Considera el valor del capital humano en una industria competitiva."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Marco Legal de Seguridad y Salud (Ley 29783)",
+      "Metodolog\u00eda IPERC",
+      "Jerarqu\u00eda de Controles",
+      "Sistemas de Bloqueo (LOTO)",
+      "Acoso Laboral y Mobbing",
+      "Ergonom\u00eda y Factores Humanos",
+      "Gesti\u00f3n Estrat\u00e9gica de Riesgos"
+    ],
+    "followUp": [
+      "An\u00e1lisis de Causa Ra\u00edz (RCA) en Incidentes Industriales",
+      "Salud Ocupacional y Gesti\u00f3n del Estr\u00e9s Laboral",
+      "Est\u00e1ndares T\u00e9cnicos Mineros (DS 024-2016-EM)",
+      "Higiene Industrial: Monitoreo de Gases y Ventilaci\u00f3n",
+      "Cultura Preventiva y Responsabilidad Social Corporativa"
+    ]
+  }
+}

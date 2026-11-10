@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la log\u00edstica en el sector minero moderno?",
+      "answerOptions": [
+        {
+          "text": "Funcionar como un soporte operativo b\u00e1sico para el traslado f\u00edsico de materiales.",
+          "isCorrect": false,
+          "rationale": "Hist\u00f3ricamente se ve\u00eda as\u00ed, pero actualmente ha evolucionado hacia un rol mucho m\u00e1s integral y estrat\u00e9gico."
+        },
+        {
+          "text": "Actuar como un pilar estrat\u00e9gico y sistema circulatorio de la continuidad operacional.",
+          "isCorrect": true,
+          "rationale": "La log\u00edstica moderna se define como un engranaje fundamental que garantiza que la mina siga operando y genere valor sostenible."
+        },
+        {
+          "text": "Limitarse exclusivamente a la gesti\u00f3n de almacenes y el despacho de repuestos.",
+          "isCorrect": false,
+          "rationale": "Esta es una visi\u00f3n reduccionista que ignora la integraci\u00f3n transversal con otras \u00e1reas y la toma de decisiones financieras."
+        },
+        {
+          "text": "Gestionar \u00fanicamente el transporte internacional de concentrados hacia los barcos.",
+          "isCorrect": false,
+          "rationale": "Aunque es parte del flujo, la log\u00edstica abarca desde la exploraci\u00f3n hasta la entrega final, no solo el \u00faltimo eslab\u00f3n."
+        }
+      ],
+      "hint": "Considere la analog\u00eda del cuerpo humano mencionada para describir su importancia vital."
+    },
+    {
+      "question": "Dentro del modelo de cadena de valor, \u00bfc\u00f3mo se clasifica el abastecimiento (procurement)?",
+      "answerOptions": [
+        {
+          "text": "Actividad primaria de extracci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La extracci\u00f3n es el n\u00facleo operativo directo, mientras que el abastecimiento facilita que dicha acci\u00f3n ocurra."
+        },
+        {
+          "text": "Actividad de soporte esencial.",
+          "isCorrect": true,
+          "rationale": "Aunque se clasifica como soporte, es el ancla que sostiene la operaci\u00f3n diaria y evita que la extracci\u00f3n se detenga."
+        },
+        {
+          "text": "Actividad de log\u00edstica de salida.",
+          "isCorrect": false,
+          "rationale": "La log\u00edstica de salida se enfoca en la distribuci\u00f3n del producto final, no en la adquisici\u00f3n de insumos."
+        },
+        {
+          "text": "Actividad de servicios de marketing.",
+          "isCorrect": false,
+          "rationale": "El marketing se enfoca en la venta, mientras que el abastecimiento gestiona la entrada de recursos cr\u00edticos."
+        }
+      ],
+      "hint": "Piense en las categor\u00edas que sostienen al n\u00facleo duro de la operaci\u00f3n sin ser la extracci\u00f3n directa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 elementos integran el Costo Total de Adquisici\u00f3n ($TCO$)?",
+      "answerOptions": [
+        {
+          "text": "\u00danicamente el precio de etiqueta que ofrece el proveedor.",
+          "isCorrect": false,
+          "rationale": "Considerar solo el precio inicial es un error que omite los gastos log\u00edsticos y operativos posteriores."
+        },
+        {
+          "text": "El precio de compra sumado al margen de ganancia proyectado de la venta.",
+          "isCorrect": false,
+          "rationale": "El margen de venta es un indicador de ingresos, no un componente del costo de adquisici\u00f3n del insumo."
+        },
+        {
+          "text": "Precio, fletes, almacenaje, impuestos y costos ocultos.",
+          "isCorrect": true,
+          "rationale": "El $TCO$ busca visibilizar el impacto econ\u00f3mico real y completo de un insumo a lo largo de su ciclo de vida."
+        },
+        {
+          "text": "Exclusivamente los costos de transporte internacional y aranceles de importaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esta definici\u00f3n ignora el valor base del producto y los costos de mantenimiento e inventario locales."
+        }
+      ],
+      "hint": "Piense en una visi\u00f3n hol\u00edstica que va m\u00e1s all\u00e1 del simple pago inicial al proveedor."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo supremo del pilar 'tiempo' en el abastecimiento minero?",
+      "answerOptions": [
+        {
+          "text": "Reducir la cantidad de personal en el \u00e1rea de compras.",
+          "isCorrect": false,
+          "rationale": "El ahorro en personal no es el objetivo principal del tiempo; la eficiencia busca proteger la operaci\u00f3n, no solo reducir n\u00f3mina."
+        },
+        {
+          "text": "Evitar las paradas de planta a toda costa.",
+          "isCorrect": true,
+          "rationale": "En miner\u00eda, el tiempo es productividad, y una parada inesperada genera p\u00e9rdidas econ\u00f3micas exponenciales por hora."
+        },
+        {
+          "text": "Aumentar el tiempo de espera de los proveedores para negociar mejores precios.",
+          "isCorrect": false,
+          "rationale": "Retrasar a los proveedores aumenta el riesgo de quiebre de stock, lo cual es contraproducente para la operaci\u00f3n."
+        },
+        {
+          "text": "Simplificar los procesos t\u00e9cnicos de control de calidad.",
+          "isCorrect": false,
+          "rationale": "La rapidez no debe sacrificar la precisi\u00f3n t\u00e9cnica, especialmente en procesos qu\u00edmicos y de mantenimiento."
+        }
+      ],
+      "hint": "Considere qu\u00e9 evento causa la mayor p\u00e9rdida econ\u00f3mica inmediata en una mina."
+    },
+    {
+      "question": "En la gesti\u00f3n de Cal Viva, \u00bfcu\u00e1l es el principal desaf\u00edo que debe resolver el gestor log\u00edstico?",
+      "answerOptions": [
+        {
+          "text": "La competencia entre proveedores locales por el precio m\u00e1s bajo.",
+          "isCorrect": false,
+          "rationale": "Aunque el precio importa, la tensi\u00f3n cr\u00edtica reside en la regulaci\u00f3n legal y los par\u00e1metros t\u00e9cnicos de pureza."
+        },
+        {
+          "text": "El equilibrio entre la fiscalizaci\u00f3n de la SUNAT y las exigencias de pureza del metalurgista.",
+          "isCorrect": true,
+          "rationale": "Se debe navegar entre la rigidez de la ley para insumos fiscalizados y la precisi\u00f3n cient\u00edfica que requiere la planta."
+        },
+        {
+          "text": "La falta de transporte especializado para mover el \u00f3xido de calcio.",
+          "isCorrect": false,
+          "rationale": "El transporte es un factor com\u00fan, pero el nudo estrat\u00e9gico es la autorizaci\u00f3n legal y la granulometr\u00eda espec\u00edfica."
+        },
+        {
+          "text": "La eliminaci\u00f3n total de proveedores externos para producir cal propia.",
+          "isCorrect": false,
+          "rationale": "La estrategia recomendada no es la autoproducci\u00f3n, sino diversificar el pool de proveedores calificados."
+        }
+      ],
+      "hint": "Recuerde el conflicto entre la normativa de insumos controlados y las especificaciones de laboratorio."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa un inventario desde la perspectiva financiera estrat\u00e9gica?",
+      "answerOptions": [
+        {
+          "text": "Un activo fijo que no pierde valor con el tiempo.",
+          "isCorrect": false,
+          "rationale": "El inventario es un activo corriente y representa capital inmovilizado que afecta la liquidez."
+        },
+        {
+          "text": "Capital inmovilizado que impacta directamente en el retorno sobre la inversi\u00f3n ($ROI$).",
+          "isCorrect": true,
+          "rationale": "Tener demasiado stock quita liquidez, mientras que tener muy poco arriesga la disponibilidad operativa."
+        },
+        {
+          "text": "Un conjunto de materiales sin impacto en el flujo de caja.",
+          "isCorrect": false,
+          "rationale": "Todo material en almac\u00e9n ha sido pagado o genera una obligaci\u00f3n, por lo que impacta directamente en la caja."
+        },
+        {
+          "text": "Un gasto operativo que debe ser eliminado por completo.",
+          "isCorrect": false,
+          "rationale": "El inventario no es un gasto a eliminar, sino un recurso a optimizar para garantizar la continuidad."
+        }
+      ],
+      "hint": "Piense en el inventario como dinero en forma de objetos que espera ser utilizado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal de los art\u00edculos de Clase A en un an\u00e1lisis de criticidad?",
+      "answerOptions": [
+        {
+          "text": "Representan el mayor valor econ\u00f3mico y el riesgo productivo m\u00e1s cr\u00edtico.",
+          "isCorrect": true,
+          "rationale": "Estos componentes dictan si la operaci\u00f3n avanza o se paraliza, requiriendo un control t\u00e1ctico exhaustivo."
+        },
+        {
+          "text": "Son materiales de bajo costo que se compran en grandes vol\u00famenes.",
+          "isCorrect": false,
+          "rationale": "Esos suelen ser art\u00edculos de Clase C, que tienen menor impacto financiero individual."
+        },
+        {
+          "text": "Tienen un tiempo de entrega ($Lead$ $Time$) inmediato de menos de 24 horas.",
+          "isCorrect": false,
+          "rationale": "Al ser cr\u00edticos y complejos, suelen tener tiempos de entrega largos que requieren planificaci\u00f3n de 1 a 3 meses."
+        },
+        {
+          "text": "No requieren conteos c\u00edclicos debido a su alta rotaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Al contrario, su alta criticidad exige una frecuencia de conteo muy estricta para asegurar la exactitud."
+        }
+      ],
+      "hint": "Son los 'generales' de la operaci\u00f3n minera."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia existe entre la Exactitud de Registro de Inventario ($ERI$) y la Exactitud de Registro de Ubicaciones ($ERA$)?",
+      "answerOptions": [
+        {
+          "text": "La $ERI$ mide el valor monetario y la $ERA$ mide el peso f\u00edsico.",
+          "isCorrect": false,
+          "rationale": "Ambas m\u00e9tricas se enfocan en el control de existencias, no en la diferencia entre dinero y masa."
+        },
+        {
+          "text": "La $ERI$ es la precisi\u00f3n contable (cu\u00e1ntos hay) y la $ERA$ es la precisi\u00f3n t\u00e1ctica de posicionamiento (d\u00f3nde est\u00e1n).",
+          "isCorrect": true,
+          "rationale": "Es in\u00fatil saber que existen 100 unidades en el sistema si f\u00edsicamente no se pueden encontrar en el almac\u00e9n."
+        },
+        {
+          "text": "No existe diferencia, son t\u00e9rminos intercambiables en la gesti\u00f3n de almacenes.",
+          "isCorrect": false,
+          "rationale": "Son conceptos distintos: uno valida la cantidad en el sistema y el otro la ubicaci\u00f3n f\u00edsica correcta."
+        },
+        {
+          "text": "La $ERI$ se aplica a materiales Clase A y la $ERA$ solo a materiales Clase C.",
+          "isCorrect": false,
+          "rationale": "Ambas precisiones son necesarias para todo el inventario, independientemente de su clasificaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en la diferencia entre saber que tiene una llave y ser capaz de encontrarla en su casa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 indica una m\u00e9trica de cobertura de inventario?",
+      "answerOptions": [
+        {
+          "text": "El porcentaje de pedidos que el almac\u00e9n entrega a tiempo.",
+          "isCorrect": false,
+          "rationale": "Esa definici\u00f3n corresponde al Nivel de Servicio, no a la Cobertura."
+        },
+        {
+          "text": "La cantidad de espacio f\u00edsico ocupado en el almac\u00e9n central.",
+          "isCorrect": false,
+          "rationale": "La ocupaci\u00f3n es una m\u00e9trica de capacidad volum\u00e9trica, no de autonom\u00eda temporal."
+        },
+        {
+          "text": "El tiempo de autonom\u00eda del stock disponible ante un corte en la cadena de suministros.",
+          "isCorrect": true,
+          "rationale": "Determina cu\u00e1ntos d\u00edas puede sobrevivir la mina operando con lo que tiene actualmente en estantes."
+        },
+        {
+          "text": "La velocidad con la que el capital invertido retorna a la empresa.",
+          "isCorrect": false,
+          "rationale": "Eso describe la Rotaci\u00f3n, que mide la agilidad del movimiento del material."
+        }
+      ],
+      "hint": "Relaci\u00f3nelo con la supervivencia de la operaci\u00f3n en caso de aislamiento."
+    },
+    {
+      "question": "En la gesti\u00f3n de inventarios, \u00bfqu\u00e9 sucede al caer por debajo de los 5 d\u00edas de stock para un \u00edtem cr\u00edtico?",
+      "answerOptions": [
+        {
+          "text": "Se inicia un proceso de auditor\u00eda externa de finanzas.",
+          "isCorrect": false,
+          "rationale": "Es una alerta operativa inmediata, no un desencadenante de auditor\u00eda financiera."
+        },
+        {
+          "text": "Se activa una alarma de riesgo de paralizaci\u00f3n inminente de la planta.",
+          "isCorrect": true,
+          "rationale": "Es el punto de no retorno donde la falta de material amenaza directamente la continuidad f\u00edsica de la mina."
+        },
+        {
+          "text": "Se procede a realizar una transferencia interna de materiales de forma rutinaria.",
+          "isCorrect": false,
+          "rationale": "A ese nivel de stock, la situaci\u00f3n es de emergencia, no es una transferencia de rutina."
+        },
+        {
+          "text": "Se aumenta autom\u00e1ticamente el precio de venta del mineral.",
+          "isCorrect": false,
+          "rationale": "El stock de repuestos no afecta el precio de mercado de los commodities (metales)."
+        }
+      ],
+      "hint": "Es la 'l\u00ednea roja' que separa el control del desastre operativo."
+    },
+    {
+      "question": "\u00bfC\u00f3mo ayuda el mantenimiento predictivo a la cadena de suministro?",
+      "answerOptions": [
+        {
+          "text": "Permite comprar repuestos solo cuando la m\u00e1quina ya se ha roto.",
+          "isCorrect": false,
+          "rationale": "Eso es mantenimiento correctivo, que genera compras de emergencia costosas y p\u00e1nico."
+        },
+        {
+          "text": "Anticipa fallos con meses de antelaci\u00f3n para programar la compra y llegada del repuesto justo a tiempo.",
+          "isCorrect": true,
+          "rationale": "Optimiza el espacio en almac\u00e9n y blinda la rentabilidad al erradicar sobrecostos por urgencias."
+        },
+        {
+          "text": "Reduce la necesidad de usar sistemas como SAP o ERP.",
+          "isCorrect": false,
+          "rationale": "Al contrario, requiere una integraci\u00f3n de datos robusta para que la informaci\u00f3n del fallo llegue a compras."
+        },
+        {
+          "text": "Elimina la necesidad de contar con un equipo t\u00e9cnico especializado en el almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "Se sigue necesitando personal altamente entrenado para gestionar la recepci\u00f3n y preservaci\u00f3n de esos componentes."
+        }
+      ],
+      "hint": "Piense en los beneficios de tener una 'bola de cristal' tecnol\u00f3gica para las piezas de maquinaria."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n cumple el sistema SAP S4 HANA en la gobernanza minera?",
+      "answerOptions": [
+        {
+          "text": "Sustituye la necesidad de l\u00edderes humanos en la toma de decisiones.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda requiere liderazgo humano para convertir datos en planes de trabajo efectivos."
+        },
+        {
+          "text": "Act\u00faa como un candado financiero mediante flujos de aprobaci\u00f3n jer\u00e1rquicos.",
+          "isCorrect": true,
+          "rationale": "Garantiza que no se adquiera ning\u00fan insumo sin sustento, protegiendo el capital de la corporaci\u00f3n contra fraudes."
+        },
+        {
+          "text": "Es una herramienta de dise\u00f1o t\u00e9cnico para planos de ingenier\u00eda civil.",
+          "isCorrect": false,
+          "rationale": "SAP es un sistema de gesti\u00f3n empresarial (ERP), no un software de dise\u00f1o CAD."
+        },
+        {
+          "text": "Controla el movimiento f\u00edsico de los camiones aut\u00f3nomos en la mina.",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n pertenece a los sistemas de control de flota y automatizaci\u00f3n, no directamente al n\u00facleo de SAP."
+        }
+      ],
+      "hint": "Relaci\u00f3nelo con la seguridad financiera y el control de gastos."
+    },
+    {
+      "question": "Antes de emitir una orden de compra externa, \u00bfqu\u00e9 acci\u00f3n sugiere un sistema MRP avanzado?",
+      "answerOptions": [
+        {
+          "text": "Aumentar inmediatamente el presupuesto de compras.",
+          "isCorrect": false,
+          "rationale": "El MRP busca optimizar el uso de recursos existentes antes de gastar m\u00e1s capital."
+        },
+        {
+          "text": "Sugerir una transferencia interna de componentes inactivos desde otros almacenes.",
+          "isCorrect": true,
+          "rationale": "Aprovecha los recursos que la compa\u00f1\u00eda ya posee, evitando duplicidad y gasto innecesario."
+        },
+        {
+          "text": "Cancelar el mantenimiento programado para ahorrar costos.",
+          "isCorrect": false,
+          "rationale": "Cancelar el mantenimiento pondr\u00eda en riesgo la operaci\u00f3n a largo plazo, algo que el MRP no busca."
+        },
+        {
+          "text": "Contactar al proveedor m\u00e1s cercano sin importar el precio.",
+          "isCorrect": false,
+          "rationale": "El sistema eval\u00faa existencias internas y reglas de negocio antes de proceder con el gasto externo."
+        }
+      ],
+      "hint": "Considere c\u00f3mo el sistema intenta 'ahorrar' mirando dentro de la propia empresa primero."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia entre demanda independiente y demanda dependiente?",
+      "answerOptions": [
+        {
+          "text": "La independiente es predecible y la dependiente es aleatoria.",
+          "isCorrect": false,
+          "rationale": "Es exactamente al rev\u00e9s: la dependiente se deriva de planes matem\u00e1ticos y la independiente de imprevistos."
+        },
+        {
+          "text": "La independiente surge de factores imprevistos; la dependiente fluye de planes de mantenimiento internos.",
+          "isCorrect": true,
+          "rationale": "La demanda dependiente se calcula con precisi\u00f3n seg\u00fan la lista de materiales ($BOM$) y programas de trabajo."
+        },
+        {
+          "text": "La independiente se refiere a proveedores externos y la dependiente a empleados propios.",
+          "isCorrect": false,
+          "rationale": "Los t\u00e9rminos se refieren al origen de la necesidad del material, no al tipo de personal involucrado."
+        },
+        {
+          "text": "Ambas son id\u00e9nticas y se gestionan con los mismos niveles de stock de seguridad.",
+          "isCorrect": false,
+          "rationale": "Requieren estrategias distintas debido a que una es vol\u00e1til y la otra es programable."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 tipo de necesidad nace de un accidente vs. de un calendario de mantenimiento."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito de utilizar est\u00e1ndares de codificaci\u00f3n como UNSPSC o Cupso?",
+      "answerOptions": [
+        {
+          "text": "Permitir que cada almac\u00e9n cree sus propios nombres para los repuestos.",
+          "isCorrect": false,
+          "rationale": "Eso generar\u00eda caos y duplicidad de \u00edtems en el sistema."
+        },
+        {
+          "text": "Eliminar la duplicidad de \u00edtems y asegurar transparencia ante reguladores como la SUNAT.",
+          "isCorrect": true,
+          "rationale": "Un idioma universal evita registrar el mismo componente bajo diferentes descripciones."
+        },
+        {
+          "text": "Reducir los impuestos de importaci\u00f3n de maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "La codificaci\u00f3n ayuda al control, pero no cambia las tasas impositivas establecidas por ley."
+        },
+        {
+          "text": "Aumentar el tiempo de registro manual de los operarios.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la estandarizaci\u00f3n agiliza la b\u00fasqueda y el procesamiento de datos."
+        }
+      ],
+      "hint": "Imagine evitar que una misma pieza sea llamada de dos formas distintas en la computadora."
+    },
+    {
+      "question": "\u00bfQu\u00e9 distingue a la distribuci\u00f3n de la infraestructura de transporte?",
+      "answerOptions": [
+        {
+          "text": "La infraestructura es el veh\u00edculo y la distribuci\u00f3n es el combustible.",
+          "isCorrect": false,
+          "rationale": "Ambos son componentes f\u00edsicos, pero no definen la diferencia conceptual entre red y entrega final."
+        },
+        {
+          "text": "La distribuci\u00f3n se enfoca en la entrega final al punto de consumo; el transporte engloba la red f\u00edsica.",
+          "isCorrect": true,
+          "rationale": "El transporte son las v\u00edas y medios; la distribuci\u00f3n es el acto t\u00e1ctico de llevar el recurso a quien lo necesita."
+        },
+        {
+          "text": "La infraestructura es m\u00e1s econ\u00f3mica que la distribuci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Generalmente, construir infraestructura (v\u00edas, mineroductos) requiere inversiones de capital mucho mayores."
+        },
+        {
+          "text": "No hay distinci\u00f3n, son sin\u00f3nimos t\u00e9cnicos en log\u00edstica internacional.",
+          "isCorrect": false,
+          "rationale": "Son conceptos diferentes: uno es el 'c\u00f3mo' f\u00edsico y el otro es el 'cu\u00e1ndo y d\u00f3nde' de la entrega."
+        }
+      ],
+      "hint": "Piense en la diferencia entre una carretera y el acto de entregar un paquete."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica t\u00e9cnica destaca del mineroducto de Antamina?",
+      "answerOptions": [
+        {
+          "text": "Su gran di\u00e1metro de m\u00e1s de 2 metros para mover rocas gigantes.",
+          "isCorrect": false,
+          "rationale": "Los mineroductos mueven concentrados (lodos), no rocas grandes, y su di\u00e1metro es sorprendentemente peque\u00f1o."
+        },
+        {
+          "text": "Utiliza una tuber\u00eda compacta de apenas 25 cm de di\u00e1metro para recorrer 304 km.",
+          "isCorrect": true,
+          "rationale": "Demuestra eficiencia extrema al mover grandes vol\u00famenes de producci\u00f3n en un espacio reducido y continuo."
+        },
+        {
+          "text": "Es una v\u00eda f\u00e9rrea subterr\u00e1nea automatizada.",
+          "isCorrect": false,
+          "rationale": "Es una tuber\u00eda para transporte de fluidos, no un sistema de trenes."
+        },
+        {
+          "text": "Requiere miles de camiones diarios para complementar el flujo.",
+          "isCorrect": false,
+          "rationale": "Su objetivo principal es precisamente eliminar la necesidad de esos cientos de viajes en cami\u00f3n."
+        }
+      ],
+      "hint": "Recuerde los n\u00fameros espec\u00edficos de di\u00e1metro y longitud mencionados."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el beneficio clave de implementar camiones de acarreo aut\u00f3nomos?",
+      "answerOptions": [
+        {
+          "text": "Eliminar la necesidad de mantenimiento preventivo.",
+          "isCorrect": false,
+          "rationale": "La automatizaci\u00f3n no elimina el desgaste mec\u00e1nico; los camiones siguen necesitando mantenimiento."
+        },
+        {
+          "text": "Maximizar la seguridad al sacar al operador de la l\u00ednea de riesgo y reducir la variabilidad.",
+          "isCorrect": true,
+          "rationale": "Se logra una consistencia matem\u00e1tica en los ciclos de carga y descarga, mejorando la previsibilidad."
+        },
+        {
+          "text": "Reducir el consumo de combustible a cero.",
+          "isCorrect": false,
+          "rationale": "Aunque optimizan rutas, los camiones gigantes siguen requiriendo fuentes de energ\u00eda (di\u00e9sel o el\u00e9ctrica)."
+        },
+        {
+          "text": "Permitir que los ingenieros operen desde sus tel\u00e9fonos m\u00f3viles personales.",
+          "isCorrect": false,
+          "rationale": "Se operan mediante centros de control remoto profesionales y protocolos de seguridad estrictos."
+        }
+      ],
+      "hint": "Enfoque su respuesta en la seguridad humana y la precisi\u00f3n de los tiempos."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se monitorea el desempe\u00f1o de los contratistas de servicios tipo A?",
+      "answerOptions": [
+        {
+          "text": "Mediante llamadas telef\u00f3nicas informales al final del contrato.",
+          "isCorrect": false,
+          "rationale": "Los contratos permanentes de alto impacto exigen un rigor t\u00e9cnico y cient\u00edfico constante."
+        },
+        {
+          "text": "Utilizando herramientas como el diagrama de Gantt y la curva S para auditar el avance f\u00edsico vs. financiero.",
+          "isCorrect": true,
+          "rationale": "Permiten detectar desv\u00edos proactivamente antes de que se conviertan en problemas graves de producci\u00f3n."
+        },
+        {
+          "text": "Delegando toda la supervisi\u00f3n a la comunidad local.",
+          "isCorrect": false,
+          "rationale": "Aunque existe un factor social, la supervisi\u00f3n t\u00e9cnica y operativa es responsabilidad de la empresa minera."
+        },
+        {
+          "text": "Bas\u00e1ndose \u00fanicamente en la confianza y la reputaci\u00f3n hist\u00f3rica de la empresa.",
+          "isCorrect": false,
+          "rationale": "La gobernanza moderna exige pruebas emp\u00edricas y auditor\u00edas estrictas en seguridad y legalidad."
+        }
+      ],
+      "hint": "Piense en m\u00e9todos gr\u00e1ficos usados en la gesti\u00f3n de proyectos para comparar lo planeado con lo real."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el impacto econ\u00f3mico global estimado de los procesos de log\u00edstica inversa?",
+      "answerOptions": [
+        {
+          "text": "$10$ millones de d\u00f3lares anuales.",
+          "isCorrect": false,
+          "rationale": "Esta cifra es demasiado baja para el impacto de la circularidad en la econom\u00eda global."
+        },
+        {
+          "text": "Aproximadamente $1$ bill\u00f3n de d\u00f3lares anuales.",
+          "isCorrect": true,
+          "rationale": "Es una cifra monumental que demuestra que recuperar valor ya es un pilar financiero robusto, no solo una iniciativa verde."
+        },
+        {
+          "text": "No tiene impacto econ\u00f3mico, es solo un gasto de responsabilidad social.",
+          "isCorrect": false,
+          "rationale": "La log\u00edstica inversa permite recuperar, remanufacturar y ahorrar costos masivos en materiales."
+        },
+        {
+          "text": "Un impacto igual al $10\\%$ de las ventas digitales globales.",
+          "isCorrect": false,
+          "rationale": "Aunque las devoluciones digitales son del $30\\%$, el impacto econ\u00f3mico total de la log\u00edstica inversa se mide en billones."
+        }
+      ],
+      "hint": "Es una cifra que comienza con 'B' en espa\u00f1ol."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Estrategias de Cadena de Suministro Minera",
+      "Modelos de Valor y Gesti\u00f3n de Costos ($TCO$)",
+      "Gesti\u00f3n Cient\u00edfica de Inventarios y Almacenes",
+      "Log\u00edstica de Transporte y Automatizaci\u00f3n",
+      "Gobernanza y Administraci\u00f3n de Contratistas",
+      "Log\u00edstica Inversa y Sostenibilidad"
+    ],
+    "followUp": [
+      "Optimizaci\u00f3n de Procesos con Tecnolog\u00edas $RFID$ y $Voice$ $Picking$",
+      "Modelado de Riesgos y Matriz $IPERC$ en Log\u00edstica",
+      "Impacto de la Inteligencia Artificial en el $Sloting$ de Almacenes",
+      "Est\u00e1ndares $ESG$ y Econom\u00eda Circular en la Industria Extractiva",
+      "An\u00e1lisis de Sensibilidad en la Estructura de Costos de Combustibles"
+    ]
+  }
+}

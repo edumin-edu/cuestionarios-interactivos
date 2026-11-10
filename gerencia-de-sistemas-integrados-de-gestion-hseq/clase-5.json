@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el enfoque actual del concepto de calidad dentro de un sistema de gesti\u00f3n bajo la norma ISO 9001?",
+      "answerOptions": [
+        {
+          "text": "La percepci\u00f3n subjetiva de la belleza del producto.",
+          "isCorrect": false,
+          "rationale": "Este concepto es anticuado y no se alinea con la rigurosidad t\u00e9cnica que exige la normativa moderna."
+        },
+        {
+          "text": "La conformidad t\u00e9cnica estricta con especificaciones que generan valor.",
+          "isCorrect": true,
+          "rationale": "La calidad moderna se define como el cumplimiento exacto de los requisitos t\u00e9cnicos que satisfacen la promesa al cliente."
+        },
+        {
+          "text": "El cumplimiento exclusivo de las normas est\u00e9ticas del mercado.",
+          "isCorrect": false,
+          "rationale": "Aunque la est\u00e9tica importa, la norma ISO 9001 se centra en la funcionalidad y la conformidad t\u00e9cnica documentada."
+        },
+        {
+          "text": "La reducci\u00f3n m\u00e1xima de los costos de producci\u00f3n sin importar el dise\u00f1o.",
+          "isCorrect": false,
+          "rationale": "La optimizaci\u00f3n de costos es una consecuencia, pero la calidad se centra primordialmente en cumplir especificaciones de valor."
+        }
+      ],
+      "hint": "Piense en la diferencia entre una opini\u00f3n personal y una medida t\u00e9cnica precisa."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito fundamental de utilizar la metodolog\u00eda Kaizen en la gesti\u00f3n de calidad?",
+      "answerOptions": [
+        {
+          "text": "Eliminar por completo la necesidad de realizar diagn\u00f3sticos iniciales.",
+          "isCorrect": false,
+          "rationale": "El diagn\u00f3stico es el punto de partida necesario para cualquier proceso de mejora posterior."
+        },
+        {
+          "text": "Establecer jerarqu\u00edas r\u00edgidas para el control del personal.",
+          "isCorrect": false,
+          "rationale": "El Kaizen se enfoca en procesos y mejora continua, no en la imposici\u00f3n de estructuras de mando autoritarias."
+        },
+        {
+          "text": "Funcionar como un motor para la mejora continua y la sostenibilidad.",
+          "isCorrect": true,
+          "rationale": "Esta metodolog\u00eda busca la optimizaci\u00f3n constante de los procesos para asegurar que la instituci\u00f3n perdure en el tiempo."
+        },
+        {
+          "text": "Documentar \u00fanicamente los \u00e9xitos de la organizaci\u00f3n para auditor\u00edas externas.",
+          "isCorrect": false,
+          "rationale": "La mejora continua requiere analizar tanto fallos como \u00e9xitos para evolucionar el sistema."
+        }
+      ],
+      "hint": "Se asocia con una filosof\u00eda de pasos constantes hacia la excelencia."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta se utiliza espec\u00edficamente para diseccionar la eficiencia interna de una organizaci\u00f3n analizando \u00e1reas como finanzas y recursos humanos?",
+      "answerOptions": [
+        {
+          "text": "PESTEL",
+          "isCorrect": false,
+          "rationale": "Esta herramienta se centra exclusivamente en las presiones y factores del macroentorno externo."
+        },
+        {
+          "text": "Las cinco fuerzas de Porter",
+          "isCorrect": false,
+          "rationale": "Porter analiza la din\u00e1mica competitiva del sector, no la eficiencia operativa interna de los departamentos."
+        },
+        {
+          "text": "AMOFIT",
+          "isCorrect": true,
+          "rationale": "AMOFIT funciona como un bistur\u00ed que analiza la administraci\u00f3n, marketing, operaciones, finanzas, recursos humanos e innovaci\u00f3n."
+        },
+        {
+          "text": "Matriz de Posicionamiento Smart",
+          "isCorrect": false,
+          "rationale": "Smart es una metodolog\u00eda para fijar objetivos, no una herramienta de diagn\u00f3stico integral de \u00e1reas internas."
+        }
+      ],
+      "hint": "Consid\u00e9relo como un an\u00e1lisis que mira 'hacia adentro' de los departamentos de la empresa."
+    },
+    {
+      "question": "En el an\u00e1lisis PESTEL, \u00bfpor qu\u00e9 se considera actualmente que la variable tecnol\u00f3gica es de 'vida o muerte'?",
+      "answerOptions": [
+        {
+          "text": "Porque determina la capacidad de la empresa para modernizarse ante la IA y la brecha digital.",
+          "isCorrect": true,
+          "rationale": "La irrupci\u00f3n de nuevas tecnolog\u00edas dicta directamente la viabilidad y competitividad de la organizaci\u00f3n en el mercado actual."
+        },
+        {
+          "text": "Porque sustituye la necesidad de contar con un sistema de gesti\u00f3n de calidad documentado.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda apoya al sistema de calidad, pero no reemplaza la necesidad de documentaci\u00f3n y control."
+        },
+        {
+          "text": "Porque es el \u00fanico factor que el Estado regula mediante impuestos directos.",
+          "isCorrect": false,
+          "rationale": "La regulaci\u00f3n estatal suele caer bajo la categor\u00eda legal o pol\u00edtica, no estrictamente tecnol\u00f3gica."
+        },
+        {
+          "text": "Porque garantiza que no habr\u00e1 resistencia al cambio por parte de los trabajadores.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda a menudo puede aumentar la resistencia al cambio si no se gestiona correctamente el factor humano."
+        }
+      ],
+      "hint": "Piense en el impacto de herramientas como la inteligencia artificial en la operaci\u00f3n diaria."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede cuando una organizaci\u00f3n integra los resultados del AMOFIT con los del PESTEL en una matriz FODA?",
+      "answerOptions": [
+        {
+          "text": "Se eliminan autom\u00e1ticamente todas las amenazas externas detectadas.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis permite identificar y planear contra las amenazas, pero no las hace desaparecer por arte de magia."
+        },
+        {
+          "text": "Se obtiene la intersecci\u00f3n estrat\u00e9gica para definir d\u00f3nde est\u00e1 parada realmente la empresa.",
+          "isCorrect": true,
+          "rationale": "Cruzar datos internos y externos permite crear un plan de acci\u00f3n real basado en la situaci\u00f3n competitiva actual."
+        },
+        {
+          "text": "Se sustituye el enfoque de procesos por un enfoque basado en el azar.",
+          "isCorrect": false,
+          "rationale": "El FODA busca precisamente eliminar la incertidumbre y el azar mediante la planificaci\u00f3n estrat\u00e9gica."
+        },
+        {
+          "text": "Se genera un documento que invalida las certificaciones ISO previas.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el an\u00e1lisis de contexto es un requisito fundamental para fortalecer y mantener las certificaciones de calidad."
+        }
+      ],
+      "hint": "Es el punto donde lo que somos internamente se encuentra con lo que sucede afuera."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tipo de integraci\u00f3n t\u00e9cnica busca maximizar el valor percibido por el consumidor final?",
+      "answerOptions": [
+        {
+          "text": "Integraci\u00f3n hacia atr\u00e1s",
+          "isCorrect": false,
+          "rationale": "Esta integraci\u00f3n se enfoca en la relaci\u00f3n con los proveedores y la calidad de los insumos iniciales."
+        },
+        {
+          "text": "Integraci\u00f3n lateral",
+          "isCorrect": false,
+          "rationale": "Este t\u00e9rmino no se utiliza en el marco de la cadena de valor para definir la relaci\u00f3n con el cliente final."
+        },
+        {
+          "text": "Integraci\u00f3n hacia delante",
+          "isCorrect": true,
+          "rationale": "Se refiere a la conexi\u00f3n directa con los clientes para asegurar que el resultado final cumpla sus expectativas."
+        },
+        {
+          "text": "Integraci\u00f3n por exclusi\u00f3n",
+          "isCorrect": false,
+          "rationale": "La exclusi\u00f3n es una justificaci\u00f3n t\u00e9cnica para no aplicar ciertos requisitos, no una forma de integraci\u00f3n de valor."
+        }
+      ],
+      "hint": "Piense en la direcci\u00f3n del flujo de productos hacia el mercado."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una consecuencia de tener una p\u00e9sima trazabilidad con los proveedores en la cadena de valor?",
+      "answerOptions": [
+        {
+          "text": "Un aumento inmediato en la satisfacci\u00f3n del cliente por la variedad de piezas.",
+          "isCorrect": false,
+          "rationale": "La falta de trazabilidad suele causar fallos y omisiones que destruyen la satisfacci\u00f3n del cliente."
+        },
+        {
+          "text": "La imposibilidad de certificar los procesos de recursos humanos.",
+          "isCorrect": false,
+          "rationale": "Aunque afecta la operaci\u00f3n, la trazabilidad de insumos es un problema de calidad de producto, no de gesti\u00f3n de personal."
+        },
+        {
+          "text": "Que la calidad del insumo dicte la mala calidad del resultado final.",
+          "isCorrect": true,
+          "rationale": "Si los proveedores entregan componentes defectuosos o incompletos, el producto final fallar\u00e1 inevitablemente."
+        },
+        {
+          "text": "La eliminaci\u00f3n de las cinco fuerzas de Porter en el sector retail.",
+          "isCorrect": false,
+          "rationale": "Las fuerzas de Porter son din\u00e1micas de mercado que existen independientemente de la trazabilidad individual de una empresa."
+        }
+      ],
+      "hint": "Recuerde el ejemplo del mueble al que le faltan tornillos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el Estado es considerado un stakeholder cr\u00edtico m\u00e1s all\u00e1 de su funci\u00f3n reguladora?",
+      "answerOptions": [
+        {
+          "text": "Porque es el \u00fanico encargado de realizar las auditor\u00edas de Fase 1.",
+          "isCorrect": false,
+          "rationale": "Las auditor\u00edas de Fase 1 pueden ser realizadas por consultores privados o equipos internos, no solo por el Estado."
+        },
+        {
+          "text": "Porque suele ser el mayor consumidor del mercado nacional y un cliente potencial masivo.",
+          "isCorrect": true,
+          "rationale": "Cumplir con las normativas legales permite a las empresas acceder a licitaciones y grandes contratos p\u00fablicos."
+        },
+        {
+          "text": "Porque garantiza el humor y el juego dentro de la cultura organizacional.",
+          "isCorrect": false,
+          "rationale": "El clima laboral es responsabilidad de la alta gerencia de la empresa, no una funci\u00f3n directa del Estado."
+        },
+        {
+          "text": "Porque define las exclusiones t\u00e9cnicas en los manuales de procedimientos.",
+          "isCorrect": false,
+          "rationale": "Las exclusiones las define la organizaci\u00f3n bas\u00e1ndose en su realidad operativa y alcance."
+        }
+      ],
+      "hint": "Considere la capacidad de compra y el flujo de caja que generan los contratos p\u00fablicos."
+    },
+    {
+      "question": "En el enfoque a procesos, \u00bfqu\u00e9 ocurre durante la etapa de 'transformaci\u00f3n'?",
+      "answerOptions": [
+        {
+          "text": "Se recolectan exclusivamente los datos vitales del mercado.",
+          "isCorrect": false,
+          "rationale": "La recolecci\u00f3n de datos es parte de las entradas (inputs), no de la transformaci\u00f3n operativa."
+        },
+        {
+          "text": "Se definen los l\u00edmites geogr\u00e1ficos del sistema de gesti\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La definici\u00f3n de l\u00edmites ocurre en la etapa de delimitaci\u00f3n del alcance, previa a la ejecuci\u00f3n del proceso."
+        },
+        {
+          "text": "Se agrega valor real aplicando controles de calidad en tiempo real.",
+          "isCorrect": true,
+          "rationale": "Es el coraz\u00f3n del sistema donde los insumos se convierten en productos bajo procedimientos documentados."
+        },
+        {
+          "text": "Se entregan los certificados de conformidad a los proveedores.",
+          "isCorrect": false,
+          "rationale": "La entrega de certificados y productos finales corresponde a la etapa de salidas (outputs)."
+        }
+      ],
+      "hint": "Es el momento en que la materia prima se convierte en algo valioso para el cliente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la definici\u00f3n t\u00e9cnica de 'riesgo' en un sistema de gesti\u00f3n de calidad?",
+      "answerOptions": [
+        {
+          "text": "Cualquier evento negativo que ocurra de manera inevitable.",
+          "isCorrect": false,
+          "rationale": "El riesgo no es solo lo negativo, sino cualquier desviaci\u00f3n, y no siempre es inevitable."
+        },
+        {
+          "text": "El efecto de la incertidumbre sobre los resultados previstos.",
+          "isCorrect": true,
+          "rationale": "Se trata de una variable operativa que mide c\u00f3mo la incertidumbre puede desviar a la empresa de sus objetivos."
+        },
+        {
+          "text": "La probabilidad de que una auditor\u00eda de Fase 2 resulte exitosa.",
+          "isCorrect": false,
+          "rationale": "Esto es una m\u00e9trica de desempe\u00f1o o resultado, no la definici\u00f3n general de riesgo en el sistema."
+        },
+        {
+          "text": "La falta total de manuales de procedimientos en una organizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La falta de manuales es una debilidad o un incumplimiento, que genera riesgos pero no es el riesgo en s\u00ed mismo."
+        }
+      ],
+      "hint": "Considere c\u00f3mo la falta de certeza afecta lo que la empresa prometi\u00f3 lograr."
+    },
+    {
+      "question": "Si una empresa identifica un riesgo con una severidad de 7, una ocurrencia de 2 y una detecci\u00f3n de 8, \u00bfcu\u00e1l es su \u00edndice de riesgo seg\u00fan la metodolog\u00eda ANFE?",
+      "answerOptions": [
+        {
+          "text": "17",
+          "isCorrect": false,
+          "rationale": "Este resultado se obtiene sumando los valores, pero la f\u00f3rmula correcta del \u00edndice de riesgo requiere multiplicaci\u00f3n."
+        },
+        {
+          "text": "112",
+          "isCorrect": true,
+          "rationale": "El c\u00e1lculo es $7 \\times 2 \\times 8 = 112$, donde una detecci\u00f3n baja (puntuaci\u00f3n alta) eleva considerablemente el peligro."
+        },
+        {
+          "text": "28",
+          "isCorrect": false,
+          "rationale": "Este valor no corresponde a la operaci\u00f3n matem\u00e1tica de los tres factores de impacto, ocurrencia y detecci\u00f3n."
+        },
+        {
+          "text": "56",
+          "isCorrect": false,
+          "rationale": "Este resultado omitir\u00eda uno de los factores clave para determinar la prioridad de acci\u00f3n inmediata."
+        }
+      ],
+      "hint": "Aplique el producto de los tres factores: Severidad, Ocurrencia y Detecci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 indica una puntuaci\u00f3n alta (por ejemplo, un 8) en el factor de 'detecci\u00f3n' de la metodolog\u00eda ANFE?",
+      "answerOptions": [
+        {
+          "text": "Que los controles actuales son extremadamente robustos y eficientes.",
+          "isCorrect": false,
+          "rationale": "Una puntuaci\u00f3n alta en detecci\u00f3n significa lo contrario: que es muy dif\u00edcil atrapar el fallo antes de que ocurra."
+        },
+        {
+          "text": "Que la empresa tiene una gran capacidad para anticipar el error.",
+          "isCorrect": false,
+          "rationale": "Si la capacidad de anticipaci\u00f3n fuera alta, la puntuaci\u00f3n de detecci\u00f3n ser\u00eda baja."
+        },
+        {
+          "text": "Una incapacidad o debilidad grave para atrapar el fallo antes de que cause da\u00f1o.",
+          "isCorrect": true,
+          "rationale": "En esta escala, a mayor n\u00famero, menor es la capacidad de control preventivo del sistema."
+        },
+        {
+          "text": "Que el riesgo ha sido eliminado por completo del proceso operativo.",
+          "isCorrect": false,
+          "rationale": "Una puntuaci\u00f3n de 8 alerta sobre un peligro latente y dif\u00edcil de ver, no sobre su eliminaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en la relaci\u00f3n inversa entre el n\u00famero asignado y la eficacia del control."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica de los objetivos SMART se cumple cuando se define que una meta debe lograrse 'durante el ejercicio fiscal 2024'?",
+      "answerOptions": [
+        {
+          "text": "Espec\u00edfico",
+          "isCorrect": false,
+          "rationale": "La especificidad se refiere al 'qu\u00e9' se va a hacer, no al marco temporal del objetivo."
+        },
+        {
+          "text": "Medible",
+          "isCorrect": false,
+          "rationale": "Lo medible se refiere a la cantidad o porcentaje, como un '10%' de reducci\u00f3n."
+        },
+        {
+          "text": "Acotado en el tiempo",
+          "isCorrect": true,
+          "rationale": "Establecer una fecha l\u00edmite o un periodo claro como '2024' cumple con la restricci\u00f3n temporal necesaria."
+        },
+        {
+          "text": "Alcanzable",
+          "isCorrect": false,
+          "rationale": "Lo alcanzable tiene que ver con la factibilidad t\u00e9cnica y los recursos, no con el calendario."
+        }
+      ],
+      "hint": "Se refiere al l\u00edmite cronol\u00f3gico impuesto a la meta."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el riesgo de realizar implementaciones 'al caballazo' u emp\u00edricas en una organizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la resistencia natural al cambio y desplomar la calidad del sistema.",
+          "isCorrect": true,
+          "rationale": "Los cambios sin orden ni planificaci\u00f3n t\u00e9cnica generan caos y rechazo por parte del personal."
+        },
+        {
+          "text": "Mejorar la agilidad operativa ante las cinco fuerzas de Porter.",
+          "isCorrect": false,
+          "rationale": "Las acciones impulsivas suelen debilitar la posici\u00f3n competitiva en lugar de fortalecerla."
+        },
+        {
+          "text": "Cumplir m\u00e1s r\u00e1pido con los requisitos de la auditor\u00eda de Fase 2.",
+          "isCorrect": false,
+          "rationale": "Los auditores oficiales buscan evidencia de procesos ordenados, no de cambios improvisados."
+        },
+        {
+          "text": "Eliminar la necesidad de tener un Comit\u00e9 de Control de Cambios.",
+          "isCorrect": false,
+          "rationale": "Precisamente la falta de un comit\u00e9 es lo que permite que ocurran estas implementaciones desordenadas."
+        }
+      ],
+      "hint": "Piense en las consecuencias de forzar cambios sin una estructura o transici\u00f3n l\u00f3gica."
+    },
+    {
+      "question": "Seg\u00fan la visi\u00f3n de la Harvard Business Review, \u00bfc\u00f3mo debe entenderse el 'recurso humano'?",
+      "answerOptions": [
+        {
+          "text": "Como una pieza intercambiable en una l\u00ednea de producci\u00f3n masiva.",
+          "isCorrect": false,
+          "rationale": "Esta es la visi\u00f3n tradicional que ignora el valor individual y din\u00e1mico del trabajador."
+        },
+        {
+          "text": "Como el recurso m\u00e1s din\u00e1mico, valioso y estoico de la organizaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Se reconoce que el talento humano es el coraz\u00f3n del sistema y requiere una gesti\u00f3n cuidadosa para la excelencia."
+        },
+        {
+          "text": "Como un costo operativo que debe reducirse mediante la tecnolog\u00eda.",
+          "isCorrect": false,
+          "rationale": "Aunque es un recurso que genera costos, su valor estrat\u00e9gico supera la simple visi\u00f3n contable."
+        },
+        {
+          "text": "Como un grupo de inter\u00e9s que no influye en la conformidad t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "Los trabajadores son cr\u00edticos para asegurar que las especificaciones de calidad se cumplan en la realidad."
+        }
+      ],
+      "hint": "Es una visi\u00f3n que dignifica y resalta la importancia central de las personas."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el beneficio estrat\u00e9gico de fomentar ambientes laborales que incluyan el humor y el juego?",
+      "answerOptions": [
+        {
+          "text": "Distraer a los trabajadores para que no noten las amenazas del PESTEL.",
+          "isCorrect": false,
+          "rationale": "El humor no busca el enga\u00f1o, sino mejorar la salud mental y la capacidad de respuesta del equipo."
+        },
+        {
+          "text": "Eliminar la necesidad de realizar mantenimiento preventivo.",
+          "isCorrect": false,
+          "rationale": "El bienestar humano no sustituye el cuidado t\u00e9cnico que requieren los activos f\u00edsicos de la empresa."
+        },
+        {
+          "text": "Reducir la entrop\u00eda organizacional y actuar como escudo contra el burnout.",
+          "isCorrect": true,
+          "rationale": "Un ambiente positivo disminuye la fricci\u00f3n interna y protege al talento del agotamiento cr\u00f3nico."
+        },
+        {
+          "text": "Garantizar que todos los productos salgan con cero defectos de f\u00e1brica.",
+          "isCorrect": false,
+          "rationale": "Ayuda a la creatividad y al ambiente, pero el control de calidad t\u00e9cnico sigue siendo necesario para evitar defectos."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el estado de \u00e1nimo afecta el desgaste y la eficiencia del equipo."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la impermeabilizaci\u00f3n de techos antes de las lluvias es un ejemplo de soporte operativo cr\u00edtico?",
+      "answerOptions": [
+        {
+          "text": "Porque es un requisito est\u00e9tico exigido por la norma ISO 9001.",
+          "isCorrect": false,
+          "rationale": "La norma se enfoca en la funcionalidad y continuidad, no estrictamente en la apariencia del techo."
+        },
+        {
+          "text": "Porque asegura la continuidad del negocio y la integridad de productos y personal.",
+          "isCorrect": true,
+          "rationale": "El mantenimiento preventivo evita desastres que podr\u00edan detener la operaci\u00f3n y da\u00f1ar activos valiosos."
+        },
+        {
+          "text": "Porque permite justificar exclusiones t\u00e9cnicas en el manual de procedimientos.",
+          "isCorrect": false,
+          "rationale": "El mantenimiento de infraestructura es una responsabilidad b\u00e1sica, no una exclusi\u00f3n del sistema."
+        },
+        {
+          "text": "Porque sustituye la necesidad de tener un organigrama documentado.",
+          "isCorrect": false,
+          "rationale": "La infraestructura y la estructura documental son pilares diferentes que se complementan mutuamente."
+        }
+      ],
+      "hint": "Considere qu\u00e9 pasar\u00eda con la tienda si el agua da\u00f1a la mercanc\u00eda o las instalaciones."
+    },
+    {
+      "question": "\u00bfQu\u00e9 documento maestro define espec\u00edficamente las responsabilidades t\u00e9cnicas de cada puesto de trabajo?",
+      "answerOptions": [
+        {
+          "text": "C\u00f3digo de \u00c9tica",
+          "isCorrect": false,
+          "rationale": "Este documento se enfoca en valores y principios morales, no en las tareas t\u00e9cnicas espec\u00edficas."
+        },
+        {
+          "text": "Manual de Organizaci\u00f3n y Funciones (MOV)",
+          "isCorrect": true,
+          "rationale": "El MOV detalla con precisi\u00f3n qu\u00e9 debe hacer cada rol dentro de la estructura de la empresa."
+        },
+        {
+          "text": "Reglamento Interno de Trabajo",
+          "isCorrect": false,
+          "rationale": "Define las reglas de conducta y convivencia, pero no profundiza en el 'c\u00f3mo' t\u00e9cnico de cada puesto."
+        },
+        {
+          "text": "Organigrama",
+          "isCorrect": false,
+          "rationale": "El organigrama muestra la jerarqu\u00eda y canales de comunicaci\u00f3n, pero no las funciones detalladas."
+        }
+      ],
+      "hint": "Es la gu\u00eda que un empleado consultar\u00eda para saber exactamente cu\u00e1les son sus deberes t\u00e9cnicos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre la Fase 1 y la Fase 2 de una auditor\u00eda?",
+      "answerOptions": [
+        {
+          "text": "La Fase 1 es punitiva y la Fase 2 es meramente informativa.",
+          "isCorrect": false,
+          "rationale": "Ninguna fase es punitiva; la Fase 1 es preparatoria y la Fase 2 es de verificaci\u00f3n formal."
+        },
+        {
+          "text": "La Fase 1 es un ensayo general o consultor\u00eda, mientras que la Fase 2 es la verificaci\u00f3n oficial para certificaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La primera permite ajustar detalles internamente antes de enfrentarse al proceso definitivo e independiente."
+        },
+        {
+          "text": "La Fase 1 la realizan los clientes y la Fase 2 la realizan los proveedores.",
+          "isCorrect": false,
+          "rationale": "Ambas fases son parte del proceso de certificaci\u00f3n del sistema de gesti\u00f3n de calidad por entes competentes."
+        },
+        {
+          "text": "No existe diferencia, son dos nombres para el mismo proceso de revisi\u00f3n documental.",
+          "isCorrect": false,
+          "rationale": "Tienen prop\u00f3sitos distintos: una busca brechas (gap analysis) y la otra evidencia de conformidad formal."
+        }
+      ],
+      "hint": "Piense en la diferencia entre una pr\u00e1ctica antes del examen y el examen real."
+    },
+    {
+      "question": "\u00bfQu\u00e9 significa que un hallazgo de auditor\u00eda deba basarse en 'evidencia objetiva'?",
+      "answerOptions": [
+        {
+          "text": "Que el auditor puede usar su intuici\u00f3n para determinar si algo anda mal.",
+          "isCorrect": false,
+          "rationale": "La intuici\u00f3n no es v\u00e1lida en auditor\u00edas t\u00e9cnicas; se requieren pruebas verificables."
+        },
+        {
+          "text": "Que el hallazgo depende de si el ambiente laboral es divertido o no.",
+          "isCorrect": false,
+          "rationale": "Aunque el clima importa, los hallazgos de auditor\u00eda se centran en el cumplimiento de los requisitos del sistema."
+        },
+        {
+          "text": "Que los resultados deben estar respaldados por datos y hechos comprobables, sin suposiciones.",
+          "isCorrect": true,
+          "rationale": "La objetividad garantiza que la certificaci\u00f3n sea confiable y basada en la realidad documentada."
+        },
+        {
+          "text": "Que el auditor debe aceptar las promesas verbales de mejora futura como cumplimiento actual.",
+          "isCorrect": false,
+          "rationale": "Las promesas no son evidencia; el auditor solo valida lo que ya est\u00e1 implementado y demostrado."
+        }
+      ],
+      "hint": "Se refiere a la necesidad de probar lo que se afirma mediante registros o documentos."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Diagn\u00f3stico Organizacional (AMOFIT/PESTEL)",
+      "Gesti\u00f3n de Riesgos (AMEF/ANFE)",
+      "Sistemas de Gesti\u00f3n de Calidad (ISO 9001)",
+      "Planificaci\u00f3n Estrat\u00e9gica (FODA/Porter)",
+      "Factor Humano y Cultura Organizacional",
+      "Enfoque a Procesos y Cadena de Valor",
+      "Control Documental y Auditor\u00edas"
+    ],
+    "followUp": [
+      "Trazabilidad de Procesos de Manufactura",
+      "Metodolog\u00edas de Mejora Continua (Lean/Kaizen)",
+      "Normativas de Contrataci\u00f3n P\u00fablica y Licitaciones",
+      "Indicadores de Desempe\u00f1o Log\u00edstico (KPIs)",
+      "Psicolog\u00eda Organizacional y Prevenci\u00f3n del Burnout"
+    ]
+  }
+}

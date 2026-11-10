@@ -1,0 +1,542 @@
+
+{
+  "quiz": [
+    {
+      "question": "¿Cuál es la principal diferencia operativa entre los sistemas expertos basados en PLC y el machine learning moderno?",
+      "answerOptions": [
+        {
+          "text": "Los PLC son reactivos y basados en reglas rígidas, mientras que el machine learning es autónomo y predictivo.",
+          "isCorrect": true,
+          "rationale": "El machine learning aprende de datos históricos para anticipar perturbaciones, a diferencia de la lógica fija de los controladores tradicionales."
+        },
+        {
+          "text": "Los sistemas PLC procesan mayores volúmenes de datos históricos que las arquitecturas de inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "Históricamente, los PLC se limitan a reglas lógicas simples y no tienen la capacidad de aprendizaje profundo de la IA."
+        },
+        {
+          "text": "El machine learning requiere intervención manual constante para ajustar variables ante cambios de flujo.",
+          "isCorrect": false,
+          "rationale": "Una de las ventajas clave de los modelos modernos es su capacidad de ajuste completamente autónomo."
+        },
+        {
+          "text": "Los sistemas PLC permiten predecir la dureza del mineral antes de que llegue a la planta de procesamiento.",
+          "isCorrect": false,
+          "rationale": "La predicción de variables geológicas es una función del modelamiento avanzado, no de los controladores lógicos básicos."
+        }
+      ],
+      "hint": "Considere la capacidad de adaptación frente a la rigidez de las reglas lógicas."
+    },
+    {
+      "question": "¿Qué función cumple la Interfaz Hombre-Máquina (HMI) en el contexto de la democratización de la IA?",
+      "answerOptions": [
+        {
+          "text": "Permitir que el operador técnico controle variables complejas sin necesidad de programar código.",
+          "isCorrect": true,
+          "rationale": "Las interfaces intuitivas facilitan el uso de herramientas potentes de IA para personal que no es especialista en informática."
+        },
+        {
+          "text": "Sustituir por completo la necesidad de supervisión humana en las salas de control remoto.",
+          "isCorrect": false,
+          "rationale": "La HMI busca mejorar la interacción entre el humano y el sistema, no eliminar la presencia del operador."
+        },
+        {
+          "text": "Traducir lenguajes de programación como Python a código binario de bajo nivel para los sensores.",
+          "isCorrect": false,
+          "rationale": "Esa es una función de los compiladores o controladores, no el propósito principal de una interfaz de usuario."
+        },
+        {
+          "text": "Garantizar que el sistema operativo sea compatible únicamente con entornos Linux de alta potencia.",
+          "isCorrect": false,
+          "rationale": "El software HMI suele ser versátil y su objetivo es la usabilidad, no la restricción del sistema operativo."
+        }
+      ],
+      "hint": "Piense en cómo un usuario de primera línea interactúa con tecnología de alta complejidad."
+    },
+    {
+      "question": "En el entrenamiento de algoritmos para modelamiento geometalúrgico, ¿cuál es el propósito de realizar una validación cruzada con el $20\\%$ de los datos?",
+      "answerOptions": [
+        {
+          "text": "Verificar que el modelo tiene poder predictivo real ante escenarios nuevos y no solo memoria del pasado.",
+          "isCorrect": true,
+          "rationale": "Al probar el modelo con datos que no se usaron en el entrenamiento, se asegura su capacidad de generalización."
+        },
+        {
+          "text": "Aumentar artificialmente la base de datos histórica para mejorar la resolución del modelo de bloques.",
+          "isCorrect": false,
+          "rationale": "La validación cruzada es una técnica de prueba, no un método para incrementar el volumen de datos."
+        },
+        {
+          "text": "Linealizar las variables no aditivas para evitar sesgos matemáticos en la estimación espacial.",
+          "isCorrect": false,
+          "rationale": "La linealización es un paso de procesamiento de datos independiente de la división para validación."
+        },
+        {
+          "text": "Calcular los parámetros cinéticos de flotación a partir de pruebas de laboratorio virtuales.",
+          "isCorrect": false,
+          "rationale": "Los parámetros cinéticos se extraen de pruebas físicas reales, mientras que la validación mide la precisión del algoritmo."
+        }
+      ],
+      "hint": "Recuerde la diferencia entre aprender patrones y simplemente memorizar información específica."
+    },
+    {
+      "question": "¿Cuál es la característica principal del Simulador Geometalúrgico Integrado (IGS)?",
+      "answerOptions": [
+        {
+          "text": "Modelar virtualmente la planta para lanzar pronósticos de ley y recuperación con alta resolución.",
+          "isCorrect": true,
+          "rationale": "Esta plataforma avanzada supera las limitaciones humanas para identificar blancos en yacimientos complejos."
+        },
+        {
+          "text": "Reemplazar los sensores físicos en las perforadoras por estimaciones probabilísticas.",
+          "isCorrect": false,
+          "rationale": "El simulador utiliza datos de entrada, pero no elimina la necesidad de sensores en campo para la medición real."
+        },
+        {
+          "text": "Controlar el flujo de agua y el porcentaje de sólidos mediante lógica de PLC tradicional.",
+          "isCorrect": false,
+          "rationale": "El IGS es una herramienta de simulación y predicción de alto nivel, no un controlador de nivel básico de planta."
+        },
+        {
+          "text": "Eliminar la necesidad de realizar pruebas cinéticas de flotación en laboratorio.",
+          "isCorrect": false,
+          "rationale": "El sistema se alimenta precisamente de los parámetros obtenidos en esas pruebas reales."
+        }
+      ],
+      "hint": "Identifique cómo esta tecnología maneja la complejidad de los yacimientos en un entorno virtual."
+    },
+    {
+      "question": "¿Qué representa el factor alfa ($\\alpha$) en los modelos de cinética de flotación?",
+      "answerOptions": [
+        {
+          "text": "La distribución de la flotabilidad, donde un mayor valor indica menor dispersión y mayor eficiencia.",
+          "isCorrect": true,
+          "rationale": "Este factor es crucial para entender qué tan uniforme es la respuesta metalúrgica del mineral."
+        },
+        {
+          "text": "El techo o potencial máximo de recuperación que puede alcanzar un mineral específico.",
+          "isCorrect": false,
+          "rationale": "Ese concepto corresponde al parámetro $R_{\\text{max}}$."
+        },
+        {
+          "text": "La velocidad promedio a la que las partículas flotan durante el proceso.",
+          "isCorrect": false,
+          "rationale": "La velocidad de flotabilidad está definida por la constante de velocidad promedio ($k$)."
+        },
+        {
+          "text": "El porcentaje de sólidos necesario para estabilizar la densidad de la pulpa.",
+          "isCorrect": false,
+          "rationale": "El factor alfa es un parámetro cinético intrínseco del mineral, no una variable operativa de control."
+        }
+      ],
+      "hint": "Relacione este factor con la uniformidad o dispersión del proceso."
+    },
+    {
+      "question": "¿Por qué no es correcto utilizar promedios lineales para estimar la recuperación metalúrgica en un modelo de bloques?",
+      "answerOptions": [
+        {
+          "text": "Debido a la no aditividad de las variables, lo que introduce sesgos matemáticos severos.",
+          "isCorrect": true,
+          "rationale": "En metalurgia, las propiedades no suelen sumarse linealmente, requiriendo transformaciones para ser precisas."
+        },
+        {
+          "text": "Porque la recuperación máxima es una constante que no varía con la geología del yacimiento.",
+          "isCorrect": false,
+          "rationale": "La recuperación varía significativamente según la composición mineralógica y geológica."
+        },
+        {
+          "text": "Debido a que el tiempo de procesamiento en el molino SAG impide el cálculo de medias aritméticas.",
+          "isCorrect": false,
+          "rationale": "El obstáculo es una propiedad matemática de la variable, no una limitación del tiempo de procesamiento."
+        },
+        {
+          "text": "Porque el uso de promedios lineales requiere una potencia de cómputo superior a la de la IA.",
+          "isCorrect": false,
+          "rationale": "Al contrario, los promedios lineales son matemáticamente simples pero incorrectos para este tipo de datos."
+        }
+      ],
+      "hint": "Piense en las limitaciones de las operaciones matemáticas simples aplicadas a fenómenos naturales complejos."
+    },
+    {
+      "question": "¿Cuál es el orden lógico de los pasos para integrar variables no aditivas en un modelo espacial?",
+      "answerOptions": [
+        {
+          "text": "Linealización bidireccional, trabajo geoestadístico (kriging) y retransformación de datos.",
+          "isCorrect": true,
+          "rationale": "Este proceso garantiza que los parámetros cinéticos finales sean sólidos y estén libres de sesgos."
+        },
+        {
+          "text": "Muestreo aleatorio, aplicación de factores de potencia y validación cruzada.",
+          "isCorrect": false,
+          "rationale": "Este flujo no aborda específicamente el problema matemático de la no aditividad de las variables."
+        },
+        {
+          "text": "Análisis químico de leyes, ajuste de mallas de voladura y simulación IGS.",
+          "isCorrect": false,
+          "rationale": "Aunque son pasos operativos, no describen la técnica matemática para el manejo de variables espaciales."
+        },
+        {
+          "text": "Separación de datos ($80/20$), estimación de incertidumbre y conciliación de modelo.",
+          "isCorrect": false,
+          "rationale": "Estos pasos corresponden al entrenamiento del modelo y auditoría, no a la corrección de no aditividad."
+        }
+      ],
+      "hint": "Busque la secuencia que prepara los datos, los estima y los devuelve a su forma original."
+    },
+    {
+      "question": "¿Qué ventaja ofrece la incorporación de procesos gaussianos y bayesianos en el modelamiento predictivo?",
+      "answerOptions": [
+        {
+          "text": "Permiten manejar el caos geológico integrando información probabilística y variables latentes.",
+          "isCorrect": true,
+          "rationale": "Estos enfoques estadísticos son ideales para entornos estocásticos donde existen múltiples variables ocultas."
+        },
+        {
+          "text": "Garantizan que la recuperación final sea siempre un número entero sin margen de error.",
+          "isCorrect": false,
+          "rationale": "Estos modelos precisamente buscan cuantificar la incertidumbre, no eliminarla falsamente."
+        },
+        {
+          "text": "Reducen el consumo de energía en la molienda mediante el ajuste automático de los PLC.",
+          "isCorrect": false,
+          "rationale": "Su función principal es el modelamiento de datos, no el control directo del hardware de molienda."
+        },
+        {
+          "text": "Sustituyen las pruebas de laboratorio por algoritmos de aprendizaje no supervisado.",
+          "isCorrect": false,
+          "rationale": "Incluso los modelos avanzados requieren datos reales de laboratorio para ser calibrados."
+        }
+      ],
+      "hint": "Considere cómo se aborda la naturaleza aleatoria y variada de los datos mineros."
+    },
+    {
+      "question": "En un reporte de producción que indica $80\\% \\pm 2\\%$, ¿qué representa el valor $\\pm 2\\%$?",
+      "answerOptions": [
+        {
+          "text": "La medida de la incertidumbre o confianza estadística para la toma de decisiones financieras.",
+          "isCorrect": true,
+          "rationale": "Conocer el margen de error permite a las empresas calcular y controlar los riesgos operativos."
+        },
+        {
+          "text": "El porcentaje de mineral que se pierde inevitablemente en los relaves de la planta.",
+          "isCorrect": false,
+          "rationale": "La pérdida de mineral es parte del $20\\%$ restante de la recuperación, no del margen de error del pronóstico."
+        },
+        {
+          "text": "La variabilidad permitida en el flujo de agua para mantener la densidad de pulpa constante.",
+          "isCorrect": false,
+          "rationale": "Esa es una variable de control operacional, no una medida de confianza de un modelo predictivo."
+        },
+        {
+          "text": "El incremento proyectado en el tonelaje al aplicar estrategias de fragmentación optimizada.",
+          "isCorrect": false,
+          "rationale": "El incremento de tonelaje es un resultado operativo, no un componente de la expresión de exactitud estadística."
+        }
+      ],
+      "hint": "Relacione este valor con el nivel de seguridad que tiene el analista sobre su predicción."
+    },
+    {
+      "question": "¿Bajo qué concepto se define a la voladura como la 'primera etapa del chancado químico'?",
+      "answerOptions": [
+        {
+          "text": "Debido a que es el punto de mayor eficiencia energética de toda la operación minera.",
+          "isCorrect": true,
+          "rationale": "Romper la roca con explosivos es mucho más económico que hacerlo mecánicamente en los molinos."
+        },
+        {
+          "text": "Porque utiliza reactivos orgánicos como la glicina para degradar la dureza de la roca.",
+          "isCorrect": false,
+          "rationale": "La voladura utiliza energía química expansiva, no procesos de lixiviación orgánica."
+        },
+        {
+          "text": "Porque permite separar el oro del cuarzo mediante el uso de mercurio y cianuro.",
+          "isCorrect": false,
+          "rationale": "El uso de químicos para recuperación es parte de la metalurgia extractiva, no de la fragmentación inicial."
+        },
+        {
+          "text": "Debido a que los sensores en las perforadoras eliminan la necesidad de trituración mecánica.",
+          "isCorrect": false,
+          "rationale": "La fragmentación química facilita el trabajo mecánico posterior, pero no lo elimina."
+        }
+      ],
+      "hint": "Considere la relación entre el costo energético y la eficacia en la rotura de la roca."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de la estrategia 'Mind to Mill' (de la mina al molino)?",
+      "answerOptions": [
+        {
+          "text": "Entregar un perfil granulométrico controlado desde el tajo para maximizar el rendimiento del molino SAG.",
+          "isCorrect": true,
+          "rationale": "La integración busca que la mina trabaje en función de las necesidades óptimas de la planta de molienda."
+        },
+        {
+          "text": "Sustituir el transporte de camiones por fajas transportadoras automatizadas por IA.",
+          "isCorrect": false,
+          "rationale": "Mind to Mill se enfoca en la fragmentación y flujo de procesos, no específicamente en el método de transporte."
+        },
+        {
+          "text": "Reducir el consumo de explosivos al mínimo posible para bajar los costos operativos de la mina.",
+          "isCorrect": false,
+          "rationale": "A veces la estrategia requiere gastar más en explosivos para ahorrar mucho más en energía de molienda."
+        },
+        {
+          "text": "Eliminar la etapa de flotación mediante una fragmentación ultrafina en el tajo abierto.",
+          "isCorrect": false,
+          "rationale": "La fragmentación prepara el mineral para la molienda, pero la flotación sigue siendo necesaria para la concentración."
+        }
+      ],
+      "hint": "Piense en la conexión entre la forma en que se extrae el mineral y cómo se procesa después."
+    },
+    {
+      "question": "Comparando los consumos de energía, ¿cuánto consume aproximadamente la etapa de molienda frente a la voladura?",
+      "answerOptions": [
+        {
+          "text": "La molienda consume cerca de $20\\text{ kWh/t}$, mientras que la voladura apenas consume entre $0.20$ y $0.43\\text{ kWh/t}$.",
+          "isCorrect": true,
+          "rationale": "La disparidad energética es masiva, lo que justifica invertir en una mejor fragmentación inicial."
+        },
+        {
+          "text": "Ambas etapas tienen un consumo equilibrado de aproximadamente $10\\text{ kWh/t}$.",
+          "isCorrect": false,
+          "rationale": "Existe una diferencia abrumadora entre romper la roca con explosivos y hacerlo con energía eléctrica en molinos."
+        },
+        {
+          "text": "La voladura es la etapa más costosa energéticamente, representando el $40\\%$ del proceso total.",
+          "isCorrect": false,
+          "rationale": "Es la molienda la que suele consumir alrededor del $40\\%$ de la energía de conminución."
+        },
+        {
+          "text": "El consumo de la molienda es despreciable si se logra reducir el tamaño de roca de $8$ a $5$ pulgadas.",
+          "isCorrect": false,
+          "rationale": "Aunque mejora la eficiencia, el consumo energético de los molinos sigue siendo la mayor carga del proceso."
+        }
+      ],
+      "hint": "Evalúe el impacto relativo de la energía eléctrica frente a la química en la reducción de tamaño."
+    },
+    {
+      "question": "Según el concepto de elasticidad del tonelaje, ¿qué efecto tiene un aumento del $10\\%$ en el factor de potencia de voladura?",
+      "answerOptions": [
+        {
+          "text": "Un incremento aproximado del $3\\%$ en el tonelaje tratado en la planta.",
+          "isCorrect": true,
+          "rationale": "Pequeños incrementos en la energía de fragmentación se traducen en mejoras significativas de productividad en planta."
+        },
+        {
+          "text": "Una reducción del $10\\%$ en el tiempo de vida útil de los revestimientos del molino SAG.",
+          "isCorrect": false,
+          "rationale": "La mejora en la fragmentación suele reducir el desgaste de los equipos, no aumentarlo."
+        },
+        {
+          "text": "Un aumento del $30\\%$ en la ley de corte debido a la mayor eficiencia de recuperación.",
+          "isCorrect": false,
+          "rationale": "La elasticidad del tonelaje se refiere al volumen procesado, no directamente a cambios en la ley de corte económica."
+        },
+        {
+          "text": "La eliminación inmediata de la recirculación de 'pebbles' en el circuito de molienda.",
+          "isCorrect": false,
+          "rationale": "Ayuda a reducir la recirculación, pero no garantiza su eliminación total de forma matemática."
+        }
+      ],
+      "hint": "Busque la relación proporcional entre la energía de extracción y el volumen de procesamiento diario."
+    },
+    {
+      "question": "En la operación Coajone, ¿cuál fue el resultado de reducir el tamaño de alimentación ($F_{80}$) de $64\\text{ mm}$ a $51\\text{ mm}$?",
+      "answerOptions": [
+        {
+          "text": "Elevar el tonelaje procesado de $3,600$ a más de $3,700$ toneladas por hora.",
+          "isCorrect": true,
+          "rationale": "Este caso demuestra que una fragmentación más fina en la alimentación impacta directamente en la capacidad de la planta."
+        },
+        {
+          "text": "Reducir el costo del OPEX global en un $50\\%$ de forma inmediata.",
+          "isCorrect": false,
+          "rationale": "Aunque es rentable, una reducción de la mitad del OPEX es una cifra poco realista para este cambio específico."
+        },
+        {
+          "text": "Cambiar la tecnología de flotación convencional por sistemas de mesas vibratorias.",
+          "isCorrect": false,
+          "rationale": "El éxito de Coajone se centró en la molienda y fragmentación, no en cambiar el método de concentración."
+        },
+        {
+          "text": "Lograr una recuperación de oro del $99\\%$ mediante el uso de reactivos de glicina.",
+          "isCorrect": false,
+          "rationale": "El caso de Coajone se asocia a la mejora de rendimiento por tamaño de partícula, no a nuevos reactivos orgánicos."
+        }
+      ],
+      "hint": "Piense en el impacto cuantitativo en la capacidad de tratamiento por hora de la planta."
+    },
+    {
+      "question": "¿Para qué se utilizan los sensores instalados en las perforadoras en tiempo real?",
+      "answerOptions": [
+        {
+          "text": "Para medir la dureza de la roca en megapascales (MPa) y diseñar cargas explosivas diferenciadas.",
+          "isCorrect": true,
+          "rationale": "Esto permite aplicar más energía donde la roca es dura y menos donde es suave, optimizando recursos."
+        },
+        {
+          "text": "Para detectar la presencia de gases tóxicos como el mercurio antes de la detonación.",
+          "isCorrect": false,
+          "rationale": "Aunque la seguridad es clave, estos sensores específicos están diseñados para caracterización geomecánica."
+        },
+        {
+          "text": "Para transmitir órdenes de molienda directamente a los molinos remotos en Lima.",
+          "isCorrect": false,
+          "rationale": "La información de las perforadoras alimenta el plan de minado, no controla directamente los molinos en tiempo real."
+        },
+        {
+          "text": "Para calcular el valor presente neto del bloque de mineral antes de ser perforado.",
+          "isCorrect": false,
+          "rationale": "El VPN es un cálculo financiero posterior que utiliza la información del sensor como uno de muchos insumos."
+        }
+      ],
+      "hint": "Considere la utilidad de conocer la resistencia del material antes de usar explosivos."
+    },
+    {
+      "question": "¿Cuál es el paso final del 'círculo virtuoso' en la integración mina-planta?",
+      "answerOptions": [
+        {
+          "text": "La conciliación, que funciona como una auditoría para corregir y alimentar el modelo con desviaciones reales.",
+          "isCorrect": true,
+          "rationale": "Investigar por qué los resultados reales difieren de las predicciones es esencial para la mejora continua."
+        },
+        {
+          "text": "La producción masiva de concentrado para aprovechar los altos precios de los metales.",
+          "isCorrect": false,
+          "rationale": "La producción es un paso previo; el cierre del círculo requiere análisis y retroalimentación de datos."
+        },
+        {
+          "text": "La planificación a largo plazo de las reservas del yacimiento.",
+          "isCorrect": false,
+          "rationale": "La planificación es uno de los pasos iniciales para dar estructura al proceso de extracción."
+        },
+        {
+          "text": "La automatización total de las mesas vibratorias en la pequeña minería.",
+          "isCorrect": false,
+          "rationale": "El círculo virtuoso es un concepto de gestión organizacional general, no una tarea técnica específica de pequeña minería."
+        }
+      ],
+      "hint": "Identifique el proceso que compara lo planificado con lo ejecutado para aprender del error."
+    },
+    {
+      "question": "¿En qué consiste la estrategia de 'empujar los molinos' durante una caída de precios de los metales?",
+      "answerOptions": [
+        {
+          "text": "Compensar la baja ley de mineral introduciendo un volumen de tonelaje mucho mayor a la planta.",
+          "isCorrect": true,
+          "rationale": "Para mantener los márgenes de rentabilidad, se procesa más material, siempre que la fragmentación esté optimizada."
+        },
+        {
+          "text": "Reducir la velocidad de los molinos para ahorrar costos de energía eléctrica.",
+          "isCorrect": false,
+          "rationale": "La estrategia busca lo opuesto: maximizar la producción para compensar el menor valor por unidad de metal."
+        },
+        {
+          "text": "Detener la planta para realizar mantenimientos preventivos mientras los precios se recuperan.",
+          "isCorrect": false,
+          "rationale": "Detener la producción suele ser la última opción; 'empujar' implica un esfuerzo productivo agresivo."
+        },
+        {
+          "text": "Incrementar el uso de reactivos químicos costosos para elevar artificialmente la recuperación.",
+          "isCorrect": false,
+          "rationale": "Cuando los precios caen, se busca optimizar costos y maximizar volumen, no necesariamente añadir costos químicos."
+        }
+      ],
+      "hint": "Piense en cómo el volumen procesado puede mitigar la pérdida de valor por gramo o tonelada de metal."
+    },
+    {
+      "question": "¿Qué cambio tecnológico se sugiere para mejorar la sostenibilidad en la pequeña minería?",
+      "answerOptions": [
+        {
+          "text": "Sustituir químicos tóxicos como el mercurio y cianuro por reactivos orgánicos como la glicina.",
+          "isCorrect": true,
+          "rationale": "Esto no solo mejora la recuperación de oro, sino que estabiliza el impacto ambiental de la actividad."
+        },
+        {
+          "text": "Implementar salas de control remotas con espejos operativos en las grandes ciudades.",
+          "isCorrect": false,
+          "rationale": "Esta es una solución para minería de clase mundial (grandes minas), no es la prioridad técnica inmediata para mineros artesanales."
+        },
+        {
+          "text": "Aumentar el factor de potencia de voladura para eliminar la molienda manual.",
+          "isCorrect": false,
+          "rationale": "La pequeña minería suele tener limitaciones para implementar voladuras de gran escala controladas por sensores."
+        },
+        {
+          "text": "Abandonar el uso de mesas vibratorias en favor de la flotación polimetálica avanzada.",
+          "isCorrect": false,
+          "rationale": "La recomendación es automatizar las mesas vibratorias con PLC sencillos, no necesariamente abandonarlas."
+        }
+      ],
+      "hint": "Identifique la alternativa que atiende tanto la eficiencia de recuperación como el cuidado del entorno."
+    },
+    {
+      "question": "En términos de cultura organizacional, ¿qué obstáculo es necesario superar para integrar con éxito la mina y la planta?",
+      "answerOptions": [
+        {
+          "text": "El trabajo en silos y la falta de sinergia multidisciplinaria entre equipos.",
+          "isCorrect": true,
+          "rationale": "La integración técnica no es posible si las áreas de geología, mina y planta no comparten objetivos y datos."
+        },
+        {
+          "text": "La falta de especialistas en lenguajes de programación como Linux y Windows.",
+          "isCorrect": false,
+          "rationale": "Aunque se necesita soporte técnico, el principal desafío mencionado es de carácter humano y cultural."
+        },
+        {
+          "text": "La excesiva dependencia de los modelos determinísticos en lugar de los estocásticos.",
+          "isCorrect": false,
+          "rationale": "Este es un desafío técnico-matemático, no uno de cultura u organización humana."
+        },
+        {
+          "text": "La resistencia al uso de explosivos en áreas de alta dureza geológica.",
+          "isCorrect": false,
+          "rationale": "El problema no es la resistencia al uso de explosivos, sino cómo se coordinan los datos para su aplicación eficiente."
+        }
+      ],
+      "hint": "Considere los problemas de comunicación y división de responsabilidades en una empresa."
+    },
+    {
+      "question": "¿Cuál es el beneficio financiero directo de reducir la incertidumbre geoestadística mediante IA?",
+      "answerOptions": [
+        {
+          "text": "Blindar la competitividad global y permitir decisiones operativas con riesgo calculado.",
+          "isCorrect": true,
+          "rationale": "La certidumbre técnica se traduce en estabilidad financiera en mercados volátiles."
+        },
+        {
+          "text": "Eliminar por completo la necesidad de invertir en capital de trabajo (CAPEX).",
+          "isCorrect": false,
+          "rationale": "La IA optimiza el gasto operativo (OPEX) y la inversión, pero no elimina la necesidad de capital."
+        },
+        {
+          "text": "Aumentar el precio de venta de los metales en el mercado internacional.",
+          "isCorrect": false,
+          "rationale": "El precio de los metales depende del mercado global, no de la tecnología interna de la mina."
+        },
+        {
+          "text": "Garantizar que todos los yacimientos tengan una recuperación máxima del $100\\%$.",
+          "isCorrect": false,
+          "rationale": "La recuperación total es físicamente imposible; el beneficio es saber exactamente cuánto se recuperará."
+        }
+      ],
+      "hint": "Piense en la protección del valor del negocio frente a la incertidumbre del mercado."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Inteligencia Artificial y Machine Learning en Minería",
+      "Modelamiento Geometalúrgico y Simulación IGS",
+      "Cinética de Flotación y Parámetros Operativos",
+      "Estrategias Mind to Mill y Fragmentación",
+      "Gestión de Incertidumbre y Geoestadística",
+      "Cultura Organizacional y Sostenibilidad Minera"
+    ],
+    "followUp": [
+      "Arquitecturas de Machine Learning para Control Autónomo",
+      "Tratamiento de Variables No Aditivas en Geoestadística",
+      "Optimización de Consumo Energético en Circuitos SAG",
+      "Implementación de Gemelos Digitales (Operaciones Espejo)",
+      "Transformación Digital en la Pequeña Minería Artesanal"
+    ]
+  }
+}

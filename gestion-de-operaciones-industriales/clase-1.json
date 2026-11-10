@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia t\u00e9cnica fundamental entre la inteligencia emocional y el comportamiento emocionalmente inteligente?",
+      "answerOptions": [
+        {
+          "text": "La inteligencia emocional es la capacidad cognitiva de reconocer sentimientos, mientras que el comportamiento inteligente es la acci\u00f3n t\u00e9cnica bajo presi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La inteligencia emocional se refiere al conocimiento interno de las emociones, mientras que el comportamiento inteligente implica la ejecuci\u00f3n pragm\u00e1tica y t\u00e1ctica necesaria para salvar vidas en situaciones cr\u00edticas."
+        },
+        {
+          "text": "La inteligencia emocional se enfoca en la respuesta f\u00edsica, mientras que el comportamiento inteligente se limita al an\u00e1lisis l\u00f3gico previo.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n invierte los conceptos, ya que el comportamiento es la respuesta externa y t\u00e9cnica, no un simple an\u00e1lisis previo."
+        },
+        {
+          "text": "No existe una diferencia t\u00e9cnica, ambos t\u00e9rminos son sin\u00f3nimos aplicados a la gesti\u00f3n de recursos humanos.",
+          "isCorrect": false,
+          "rationale": "El modelo operativo establece una distinci\u00f3n vital para la seguridad: una es la capacidad interna y la otra es la t\u00e1ctica de ejecuci\u00f3n real."
+        },
+        {
+          "text": "La inteligencia emocional es una habilidad blanda y el comportamiento inteligente es una habilidad dura exclusivamente mec\u00e1nica.",
+          "isCorrect": false,
+          "rationale": "Aunque el comportamiento se describe como una acci\u00f3n t\u00e9cnica, no se considera una habilidad dura mec\u00e1nica tradicional, sino una competencia de gesti\u00f3n emocional aplicada."
+        }
+      ],
+      "hint": "Considera la diferencia entre saber lo que uno siente y actuar de forma estructurada durante una crisis."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ocurre biol\u00f3gicamente durante un proceso de 'secuestro amigdalino' en una situaci\u00f3n de crisis?",
+      "answerOptions": [
+        {
+          "text": "La am\u00edgdala cerebral se desactiva para permitir que la corteza prefrontal tome el control total del cuerpo.",
+          "isCorrect": false,
+          "rationale": "En realidad ocurre lo contrario; la am\u00edgdala se hiperactiva y anula las funciones de la corteza prefrontal."
+        },
+        {
+          "text": "La am\u00edgdala realiza un bypass biol\u00f3gico que apaga la corteza prefrontal, eliminando el pensamiento l\u00f3gico.",
+          "isCorrect": true,
+          "rationale": "Este fen\u00f3meno biol\u00f3gico prioriza la supervivencia desorganizada sobre el an\u00e1lisis anal\u00edtico, lo que puede llevar a decisiones err\u00f3neas en operadores experimentados."
+        },
+        {
+          "text": "El cerebro aumenta los niveles de aceite y presi\u00f3n arterial para mejorar el rendimiento de la corteza prefrontal.",
+          "isCorrect": false,
+          "rationale": "Aunque hay cambios fisiol\u00f3gicos, el 'secuestro' se refiere espec\u00edficamente a la anulaci\u00f3n de la zona l\u00f3gica del cerebro, no a una mejora del rendimiento."
+        },
+        {
+          "text": "Se produce una sincronizaci\u00f3n perfecta entre la am\u00edgdala y el pensamiento anal\u00edtico para acelerar los reflejos.",
+          "isCorrect": false,
+          "rationale": "El secuestro implica una ruptura o cortocircuito de la comunicaci\u00f3n entre estas \u00e1reas, no una sincronizaci\u00f3n."
+        }
+      ],
+      "hint": "Piensa en un cortocircuito que impide el acceso a la zona del cerebro encargada del an\u00e1lisis l\u00f3gico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de las siguientes competencias se define como la capacidad t\u00e9cnica de frenarse y no emitir \u00f3rdenes impulsivas bajo angustia?",
+      "answerOptions": [
+        {
+          "text": "Autoconciencia",
+          "isCorrect": false,
+          "rationale": "La autoconciencia es el paso previo: darse cuenta de c\u00f3mo se siente uno antes de afectar a los dem\u00e1s."
+        },
+        {
+          "text": "Conciencia social",
+          "isCorrect": false,
+          "rationale": "La conciencia social se enfoca en la empat\u00eda hacia el estado emocional del equipo y el campamento."
+        },
+        {
+          "text": "Autorregulaci\u00f3n",
+          "isCorrect": true,
+          "rationale": "La autorregulaci\u00f3n es la competencia t\u00e9cnica que permite al l\u00edder controlar sus impulsos y comunicaciones en momentos de l\u00edmite emocional."
+        },
+        {
+          "text": "Gesti\u00f3n de relaciones",
+          "isCorrect": false,
+          "rationale": "Esta competencia se refiere a desarmar fricciones externas antes de que escalen a problemas mayores."
+        }
+      ],
+      "hint": "Se trata del control interno necesario para mantener un protocolo de comunicaci\u00f3n profesional."
+    },
+    {
+      "question": "\u00bfQu\u00e9 porcentaje del \u00e9xito en roles de liderazgo de alta presi\u00f3n se atribuye a las competencias emocionales en lugar del manejo de maquinaria?",
+      "answerOptions": [
+        {
+          "text": "$15\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje suele asociarse a las habilidades puramente t\u00e9cnicas en otros estudios, pero no es el factor dominante en liderazgo de alta presi\u00f3n."
+        },
+        {
+          "text": "$39\\%$",
+          "isCorrect": false,
+          "rationale": "Este es el porcentaje de reducci\u00f3n de accidentes que se logra al implementar estas pr\u00e1cticas, no la importancia del liderazgo."
+        },
+        {
+          "text": "$85\\%$",
+          "isCorrect": true,
+          "rationale": "La evidencia indica que la gran mayor\u00eda del \u00e9xito en puestos directivos y de supervisi\u00f3n depende de la gesti\u00f3n emocional y el comportamiento inteligente."
+        },
+        {
+          "text": "$100\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es cr\u00edtico, siempre existe una base de conocimiento t\u00e9cnico operativo que complementa el \u00e9xito del l\u00edder."
+        }
+      ],
+      "hint": "Es una cifra muy alta que refleja que la mayor parte del rendimiento directivo depende del factor humano."
+    },
+    {
+      "question": "En la taxonom\u00eda del estr\u00e9s operacional, \u00bfqu\u00e9 estado emocional se vincula directamente con una mente atrapada en el pasado?",
+      "answerOptions": [
+        {
+          "text": "Ansiedad",
+          "isCorrect": false,
+          "rationale": "La ansiedad se vincula con un enfoque desbordado hacia el futuro y lo que podr\u00eda pasar."
+        },
+        {
+          "text": "Depresi\u00f3n",
+          "isCorrect": true,
+          "rationale": "El enfoque en el pasado genera desconexi\u00f3n del entorno y de los protocolos de seguridad actuales, defini\u00e9ndose como un riesgo de depresi\u00f3n."
+        },
+        {
+          "text": "Estr\u00e9s agudo",
+          "isCorrect": false,
+          "rationale": "El estr\u00e9s agudo ocurre cuando la mente est\u00e1 saturada por los eventos del presente inmediato."
+        },
+        {
+          "text": "Burnout",
+          "isCorrect": false,
+          "rationale": "El burnout es una condici\u00f3n patol\u00f3gica cr\u00f3nica, no definida simplemente por la orientaci\u00f3n temporal hacia el pasado."
+        }
+      ],
+      "hint": "Reflexiona sobre qu\u00e9 sentimiento surge cuando alguien no puede dejar de mirar hacia atr\u00e1s."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre la fatiga emocional y el Burnout?",
+      "answerOptions": [
+        {
+          "text": "La fatiga es cr\u00f3nica y el burnout es temporal por turnos largos.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; la fatiga es una consecuencia natural y esperable del trabajo, mientras que el burnout es patol\u00f3gico."
+        },
+        {
+          "text": "La fatiga se maneja con descanso y rotaciones, mientras que el burnout implica una ruptura total con la cultura de seguridad.",
+          "isCorrect": true,
+          "rationale": "La fatiga es una respuesta normal al esfuerzo, pero el burnout es un colapso f\u00edsico y mental que requiere una intervenci\u00f3n inmediata."
+        },
+        {
+          "text": "No hay diferencia; ambos t\u00e9rminos describen el cansancio f\u00edsico tras una guardia nocturna.",
+          "isCorrect": false,
+          "rationale": "T\u00e9cnicamente son estados distintos con niveles de riesgo operativo muy diferentes para la organizaci\u00f3n."
+        },
+        {
+          "text": "El burnout se soluciona con una siesta, mientras que la fatiga requiere tratamiento psiqui\u00e1trico.",
+          "isCorrect": false,
+          "rationale": "Esta afirmaci\u00f3n minimiza el riesgo del burnout, que es el estado que realmente requiere medidas profundas de intervenci\u00f3n."
+        }
+      ],
+      "hint": "Considera cu\u00e1l de los dos estados representa un peligro inminente e irreversible para la seguridad."
+    },
+    {
+      "question": "\u00bfC\u00f3mo funciona la t\u00e9cnica de 'Mindfulness Industrial' 4-4-4 en el sistema nervioso?",
+      "answerOptions": [
+        {
+          "text": "Incrementa el cortisol para mantener al operador en estado de alerta m\u00e1xima.",
+          "isCorrect": false,
+          "rationale": "El objetivo es el opuesto: reducir el estr\u00e9s y la alarma del sistema nervioso."
+        },
+        {
+          "text": "Estabiliza la presi\u00f3n y reoxigena la corteza prefrontal para apagar la alarma de la am\u00edgdala.",
+          "isCorrect": true,
+          "rationale": "Esta t\u00e9cnica de respiraci\u00f3n estructurada permite recuperar la 'cordura t\u00e9cnica' devolviendo el ox\u00edgeno a la zona del pensamiento l\u00f3gico."
+        },
+        {
+          "text": "Sirve para identificar olores y texturas en el equipo de protecci\u00f3n personal.",
+          "isCorrect": false,
+          "rationale": "Esa es la descripci\u00f3n de la t\u00e9cnica 5-4-3-2-1, no de la respiraci\u00f3n 4-4-4."
+        },
+        {
+          "text": "Es un ejercicio f\u00edsico para eliminar focos de tensi\u00f3n muscular en las extremidades.",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda a la relajaci\u00f3n, su funci\u00f3n t\u00e9cnica principal es el reseteo biol\u00f3gico cerebral a trav\u00e9s del ox\u00edgeno."
+        }
+      ],
+      "hint": "Se centra en el ciclo de inhalar, aguantar y exhalar para recuperar el control biol\u00f3gico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito cognitivo de la t\u00e9cnica sensorial 5-4-3-2-1 en un entorno de planta?",
+      "answerOptions": [
+        {
+          "text": "Funciona como un ancla que aterriza al operador en el presente operativo, eliminando la ansiedad.",
+          "isCorrect": true,
+          "rationale": "Al forzar al cerebro a identificar est\u00edmulos reales inmediatos, se detienen los pensamientos intrusivos sobre el pasado o futuro."
+        },
+        {
+          "text": "Permite realizar un inventario r\u00e1pido de fallas mec\u00e1nicas en la maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "Aunque se usan sentidos, el objetivo no es t\u00e9cnico-mec\u00e1nico sino cognitivo-emocional."
+        },
+        {
+          "text": "Es un protocolo de limpieza para los sensores electr\u00f3nicos de la planta.",
+          "isCorrect": false,
+          "rationale": "La t\u00e9cnica se aplica al operador humano, no a los instrumentos de medici\u00f3n electr\u00f3nica."
+        },
+        {
+          "text": "Busca detectar fugas de gas o incendios mediante la agudizaci\u00f3n del olfato y la vista.",
+          "isCorrect": false,
+          "rationale": "Aunque podr\u00eda ayudar secundariamente, su dise\u00f1o es para la recuperaci\u00f3n de la concentraci\u00f3n total del individuo."
+        }
+      ],
+      "hint": "Busca evitar que la mente divague lejos de la tarea que se est\u00e1 ejecutando en ese instante."
+    },
+    {
+      "question": "En la t\u00e9cnica ABC (Antecedente, Pensamiento, Consecuencia), \u00bfcu\u00e1l es el objetivo de reencuadrar el pensamiento?",
+      "answerOptions": [
+        {
+          "text": "Ignorar la realidad objetiva para trabajar sin preocupaciones.",
+          "isCorrect": false,
+          "rationale": "No se trata de ignorar la realidad, sino de interpretarla de una forma que sea productiva y motivadora."
+        },
+        {
+          "text": "Cambiar la consecuencia emocional y conductual modificando la interpretaci\u00f3n de un hecho.",
+          "isCorrect": true,
+          "rationale": "Al reprogramar la forma en que se percibe un antecedente (como un cambio de turno), se transforma el resentimiento en motivaci\u00f3n."
+        },
+        {
+          "text": "Encontrar al culpable de un antecedente negativo para aplicar sanciones.",
+          "isCorrect": false,
+          "rationale": "La t\u00e9cnica es de autorregulaci\u00f3n emocional, no un proceso de auditor\u00eda o castigo."
+        },
+        {
+          "text": "Documentar formalmente las quejas de los trabajadores ante la gerencia.",
+          "isCorrect": false,
+          "rationale": "El objetivo es el cambio interno del pensamiento, no la creaci\u00f3n de un registro externo de reclamos."
+        }
+      ],
+      "hint": "Se enfoca en c\u00f3mo la interpretaci\u00f3n de un evento cambia nuestra forma de reaccionar ante \u00e9l."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio operativo aporta el 'journaling emocional' en un contexto de aislamiento en campamento?",
+      "answerOptions": [
+        {
+          "text": "Permite que el trabajador guarde sus secretos para que nadie en la mina los conozca.",
+          "isCorrect": false,
+          "rationale": "El enfoque no es la privacidad, sino la externalizaci\u00f3n t\u00e9cnica de la carga psicol\u00f3gica acumulada."
+        },
+        {
+          "text": "Es una herramienta de comunicaci\u00f3n para reportar fallas t\u00e9cnicas de la maquinaria al final del d\u00eda.",
+          "isCorrect": false,
+          "rationale": "Se trata de un registro emocional y personal, no de un informe de mantenimiento t\u00e9cnico."
+        },
+        {
+          "text": "Vac\u00eda la carga psicol\u00f3gica acumulada evitando que el trabajador inicie su turno irritado o distra\u00eddo.",
+          "isCorrect": true,
+          "rationale": "La externalizaci\u00f3n escrita de tensiones y roces previene que estas se manifiesten como errores operativos al d\u00eda siguiente."
+        },
+        {
+          "text": "Sirve para evaluar la calidad de la redacci\u00f3n y ortograf\u00eda del personal operativo.",
+          "isCorrect": false,
+          "rationale": "Su valor es puramente psicol\u00f3gico y de seguridad, no acad\u00e9mico o formativo en lenguaje."
+        }
+      ],
+      "hint": "Se trata de un ejercicio de descarga antes de dormir para no llevar problemas al frente de extracci\u00f3n."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 medida la implementaci\u00f3n met\u00f3dica de pausas emocionales reduce los accidentes operacionales seg\u00fan las m\u00e9tricas industriales?",
+      "answerOptions": [
+        {
+          "text": "$10\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es demasiado bajo para reflejar el impacto real de optimizar la atenci\u00f3n humana en miner\u00eda."
+        },
+        {
+          "text": "$39\\%$",
+          "isCorrect": true,
+          "rationale": "Reducir casi a la mitad la probabilidad de fatalidades o par\u00e1lisis de producci\u00f3n demuestra que la gesti\u00f3n mental es un motor cr\u00edtico."
+        },
+        {
+          "text": "$85\\%$",
+          "isCorrect": false,
+          "rationale": "Este n\u00famero corresponde al \u00e9xito del liderazgo basado en competencias, no a la reducci\u00f3n espec\u00edfica de accidentes."
+        },
+        {
+          "text": "$100\\%$",
+          "isCorrect": false,
+          "rationale": "Es imposible eliminar por completo el riesgo de accidentes, ya que siempre existen factores mec\u00e1nicos o ambientales impredecibles."
+        }
+      ],
+      "hint": "Es un n\u00famero cercano al cuarenta por ciento que valida la inversi\u00f3n en bienestar."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la definici\u00f3n t\u00e9cnica de negociaci\u00f3n en entornos de alt\u00edsima complejidad industrial?",
+      "answerOptions": [
+        {
+          "text": "Un proceso de mediaci\u00f3n de intereses dise\u00f1ado para garantizar la continuidad operativa.",
+          "isCorrect": true,
+          "rationale": "En miner\u00eda, la negociaci\u00f3n no es un choque de egos, sino una pieza de ingenier\u00eda social para que la maquinaria no pare."
+        },
+        {
+          "text": "Un debate para determinar qu\u00e9 bando tiene mayor autoridad moral en un conflicto.",
+          "isCorrect": false,
+          "rationale": "La moralidad o el ego son secundarios frente al objetivo t\u00e9cnico de mantener la operaci\u00f3n funcionando."
+        },
+        {
+          "text": "Una competencia de gritos donde el que tiene m\u00e1s poder emocional gana la discusi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este enfoque tradicional es justamente lo que la negociaci\u00f3n t\u00e9cnica busca erradicar."
+        },
+        {
+          "text": "Un tr\u00e1mite administrativo para firmar contratos de compra y venta de minerales.",
+          "isCorrect": false,
+          "rationale": "La definici\u00f3n va m\u00e1s all\u00e1 de lo administrativo; se trata de gestionar el ecosistema humano para la supervivencia del proyecto."
+        }
+      ],
+      "hint": "El objetivo final es evitar que la producci\u00f3n se detenga por conflictos humanos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 es vital identificar a los actores de 'influencia alta y poder bajo' en un mapa de stakeholders?",
+      "answerOptions": [
+        {
+          "text": "Porque son las autoridades formales que firman los cheques y aprueban presupuestos.",
+          "isCorrect": false,
+          "rationale": "Ese perfil corresponde a los de 'poder alto y autoridad alta', como las gerencias."
+        },
+        {
+          "text": "Porque son l\u00edderes emocionales informales capaces de apagar conflictos antes de que escalen a huelgas.",
+          "isCorrect": true,
+          "rationale": "Estos t\u00e9cnicos o supervisores son seguidos por la gente por respeto personal y su influencia es cr\u00edtica para la paz operativa."
+        },
+        {
+          "text": "Porque no representan ning\u00fan riesgo ni beneficio para la continuidad de la mina.",
+          "isCorrect": false,
+          "rationale": "Ignorarlos es descrito como caminar a ciegas por un campo minado, debido a su gran impacto en el clima laboral."
+        },
+        {
+          "text": "Porque suelen ser los trabajadores con menor desempe\u00f1o que requieren capacitaci\u00f3n t\u00e9cnica.",
+          "isCorrect": false,
+          "rationale": "La influencia no est\u00e1 relacionada con el bajo desempe\u00f1o, sino con la capacidad de mover la opini\u00f3n del grupo."
+        }
+      ],
+      "hint": "Piensa en las personas a las que todos escuchan, aunque no tengan un cargo gerencial."
+    },
+    {
+      "question": "En el m\u00e9todo Harvard de negociaci\u00f3n, \u00bfcu\u00e1l es la regla de oro para alcanzar acuerdos sostenibles?",
+      "answerOptions": [
+        {
+          "text": "Mantener siempre la posici\u00f3n inicial sin ceder bajo ninguna circunstancia.",
+          "isCorrect": false,
+          "rationale": "La rigidez en las posiciones suele impedir que se alcancen acuerdos que beneficien a ambas partes."
+        },
+        {
+          "text": "Separar tajantemente a la persona del problema.",
+          "isCorrect": true,
+          "rationale": "Al quitar las emociones individuales de la ecuaci\u00f3n, es posible enfocarse en intereses mutuos no negociables como la seguridad y rentabilidad."
+        },
+        {
+          "text": "Priorizar la relaci\u00f3n personal por encima de los intereses financieros de la empresa.",
+          "isCorrect": false,
+          "rationale": "Aunque la relaci\u00f3n es importante, el m\u00e9todo busca un equilibrio t\u00e9cnico donde la rentabilidad y la seguridad sean el foco."
+        },
+        {
+          "text": "Utilizar la presi\u00f3n emocional para que la contraparte ceda r\u00e1pidamente.",
+          "isCorrect": false,
+          "rationale": "El uso de presi\u00f3n emocional contradice los principios de la negociaci\u00f3n t\u00e9cnica basada en criterios objetivos."
+        }
+      ],
+      "hint": "Se trata de despersonalizar el conflicto para ver los intereses objetivos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 utilidad t\u00e9cnica ofrece la matriz BATNA antes de iniciar una negociaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Permite conocer la mejor alternativa posible en caso de no llegar a un acuerdo.",
+          "isCorrect": true,
+          "rationale": "Proporciona una red de seguridad t\u00e9cnica que define los l\u00edmites y opciones antes de siquiera sentarse a hablar."
+        },
+        {
+          "text": "Sirve para calcular autom\u00e1ticamente los aumentos salariales de toda la planilla.",
+          "isCorrect": false,
+          "rationale": "BATNA es una herramienta estrat\u00e9gica de decisi\u00f3n, no un software de c\u00e1lculo de n\u00f3mina."
+        },
+        {
+          "text": "Es un formato para registrar las minutas de las reuniones con el sindicato.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n es anal\u00edtica y preparatoria, no meramente documental o administrativa."
+        },
+        {
+          "text": "Determina qui\u00e9n ser\u00e1 el l\u00edder del equipo de negociaci\u00f3n seg\u00fan su antig\u00fcedad.",
+          "isCorrect": false,
+          "rationale": "No se basa en la jerarqu\u00eda de las personas, sino en la solidez de las opciones t\u00e1cticas disponibles."
+        }
+      ],
+      "hint": "Es tu 'plan B' estructurado que te da poder y claridad en la mesa de di\u00e1logo."
+    },
+    {
+      "question": "En el modelo GROWTH para manejo de crisis, \u00bfqu\u00e9 ocurre espec\u00edficamente en la fase de 'Opciones'?",
+      "answerOptions": [
+        {
+          "text": "Se define la meta ideal que se quiere alcanzar a largo plazo.",
+          "isCorrect": false,
+          "rationale": "Ese es el primer paso del modelo (Goal), no el de opciones."
+        },
+        {
+          "text": "Se genera una propuesta operativa viable, medible y negociable para resolver el conflicto.",
+          "isCorrect": true,
+          "rationale": "Aqu\u00ed es donde ocurre la 'magia t\u00e9cnica', como cuando se propuso la jornada $10 \\times 10$ para solucionar un problema de horarios."
+        },
+        {
+          "text": "Se analiza la realidad actual y el impacto de los da\u00f1os causados por la crisis.",
+          "isCorrect": false,
+          "rationale": "Ese es el segundo paso (Reality), donde se aterriza el estado actual del conflicto."
+        },
+        {
+          "text": "Se firma el acuerdo final y se procede a la ejecuci\u00f3n inmediata.",
+          "isCorrect": false,
+          "rationale": "El paso a la acci\u00f3n concreta es la \u00faltima fase llamada Voluntad (Will)."
+        }
+      ],
+      "hint": "Es el momento creativo donde se buscan soluciones intermedias que funcionen para todos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l fue el catalizador principal que permiti\u00f3 neutralizar la ansiedad en el caso Cerro Verde 2016?",
+      "answerOptions": [
+        {
+          "text": "La implementaci\u00f3n de un aumento salarial masivo sin condiciones.",
+          "isCorrect": false,
+          "rationale": "El caso se resolvi\u00f3 mediante gesti\u00f3n emocional y comunicaci\u00f3n, no solo con incentivos econ\u00f3micos directos."
+        },
+        {
+          "text": "La transparencia total de datos reales de producci\u00f3n a trav\u00e9s de reuniones semanales.",
+          "isCorrect": true,
+          "rationale": "Al quitar el misterio y mostrar la realidad de la ca\u00edda de producci\u00f3n, los trabajadores pasaron de la amenaza a la colaboraci\u00f3n."
+        },
+        {
+          "text": "El despido inmediato de los l\u00edderes sindicales m\u00e1s conflictivos.",
+          "isCorrect": false,
+          "rationale": "La estrategia se bas\u00f3 en la inclusi\u00f3n y el apoyo emocional, no en medidas punitivas que habr\u00edan agravado la tensi\u00f3n."
+        },
+        {
+          "text": "La automatizaci\u00f3n completa de la mina para no depender del personal humano.",
+          "isCorrect": false,
+          "rationale": "El objetivo fue precisamente recuperar el compromiso de la gente para salvar la operaci\u00f3n existente."
+        }
+      ],
+      "hint": "La clave fue la iniciativa denominada '10 minutos contigo' basada en la honestidad gerencial."
+    },
+    {
+      "question": "En el ciclo de implementaci\u00f3n sist\u00e9mica, \u00bfcu\u00e1l es el enfoque principal de los meses 1 y 2?",
+      "answerOptions": [
+        {
+          "text": "Llevar a cabo un plan piloto en las \u00e1reas m\u00e1s cr\u00edticas de la mina.",
+          "isCorrect": false,
+          "rationale": "El plan piloto ocurre en los meses 3 y 4 del ciclo estrat\u00e9gico."
+        },
+        {
+          "text": "Realizar un diagn\u00f3stico organizacional para mapear la fatiga y el liderazgo en campo.",
+          "isCorrect": true,
+          "rationale": "La primera fase es met\u00f3dica y busca identificar d\u00f3nde est\u00e1n las fallas antes de intervenir."
+        },
+        {
+          "text": "Capacitar a los mandos medios en t\u00e9cnicas de inteligencia emocional avanzada.",
+          "isCorrect": false,
+          "rationale": "La formaci\u00f3n inicial es la fase final que consolida el despliegue tras los resultados del piloto."
+        },
+        {
+          "text": "Calcular el retorno de inversi\u00f3n final de todo el proyecto de gesti\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El ROI se mide despu\u00e9s de la implementaci\u00f3n y formaci\u00f3n, una vez que los datos empiezan a fluir."
+        }
+      ],
+      "hint": "Es la etapa de descubrimiento donde se analizan las necesidades actuales de la operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre el coaching y la mentor\u00eda dentro del desarrollo de l\u00edderes?",
+      "answerOptions": [
+        {
+          "text": "El coaching es para gerentes y la mentor\u00eda es exclusivamente para operadores nuevos.",
+          "isCorrect": false,
+          "rationale": "Ambas herramientas pueden aplicarse a distintos niveles, su diferencia radica en el alcance y objetivo, no en el cargo."
+        },
+        {
+          "text": "El coaching resuelve problemas operativos puntuales, mientras que la mentor\u00eda desarrolla 'l\u00edderes semilla' a largo plazo.",
+          "isCorrect": true,
+          "rationale": "La mentor\u00eda busca que el conocimiento y la resiliencia florezcan internamente para futuras generaciones, mientras que el coaching es m\u00e1s inmediato."
+        },
+        {
+          "text": "La mentor\u00eda es realizada por consultores externos y el coaching por personal interno.",
+          "isCorrect": false,
+          "rationale": "De hecho, la mentor\u00eda busca institucionalizar el saber interno para no depender de consultores externos."
+        },
+        {
+          "text": "No existe diferencia; son dos formas de llamar a la capacitaci\u00f3n t\u00e9cnica tradicional.",
+          "isCorrect": false,
+          "rationale": "Son metodolog\u00edas distintas que forman parte del andamiaje sist\u00e9mico para garantizar la madurez emocional."
+        }
+      ],
+      "hint": "Piensa en cu\u00e1l de las dos opciones busca dejar un legado y conocimiento profundo en casa."
+    },
+    {
+      "question": "Seg\u00fan el an\u00e1lisis final, \u00bfcu\u00e1l es el verdadero 'motor' que impulsa la maquinaria industrial?",
+      "answerOptions": [
+        {
+          "text": "El combustible di\u00e9sel y la energ\u00eda el\u00e9ctrica de alta potencia.",
+          "isCorrect": false,
+          "rationale": "Aunque necesarios, el an\u00e1lisis resalta que sin el componente humano equilibrado, la t\u00e9cnica falla."
+        },
+        {
+          "text": "La mente y el coraz\u00f3n del trabajador a trav\u00e9s de su capacidad de autorregulaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La autorregulaci\u00f3n humana es la verdadera garant\u00eda de seguridad a nivel macro y el motor de la productividad real."
+        },
+        {
+          "text": "La inversi\u00f3n de capital extranjero y los precios internacionales de los metales.",
+          "isCorrect": false,
+          "rationale": "Estos son factores externos, pero el motor operativo interno es la resiliencia y madurez del equipo humano."
+        },
+        {
+          "text": "Los algoritmos de inteligencia artificial que controlan las perforadoras.",
+          "isCorrect": false,
+          "rationale": "Incluso con tecnolog\u00eda avanzada, la toma de decisiones cr\u00edtica bajo presi\u00f3n sigue dependiendo de la robustez psicol\u00f3gica humana."
+        }
+      ],
+      "hint": "Se refiere al elemento humano como el centro de toda la arquitectura de seguridad y rendimiento."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Inteligencia emocional operativa",
+      "Biolog\u00eda del estr\u00e9s y secuestro amigdalino",
+      "Estrategias de negociaci\u00f3n t\u00e9cnica",
+      "Modelos de gesti\u00f3n de crisis (GROWTH y Harvard)",
+      "Implementaci\u00f3n sist\u00e9mica de bienestar industrial"
+    ],
+    "followUp": [
+      "Neurociencia aplicada a la seguridad minera",
+      "Arquitectura de stakeholders en conflictos sociales",
+      "M\u00e9tricas de ROI en capital humano",
+      "Metodolog\u00edas de mentor\u00eda para l\u00edderes semilla",
+      "Taxonom\u00eda de riesgos psicosociales en miner\u00eda"
+    ]
+  }
+}

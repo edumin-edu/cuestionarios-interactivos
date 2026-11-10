@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la inversi\u00f3n privada dentro del desarrollo regional en el sector minero?",
+      "answerOptions": [
+        {
+          "text": "Sustituir \u00edntegramente la inversi\u00f3n p\u00fablica en salud.",
+          "isCorrect": false,
+          "rationale": "La inversi\u00f3n privada complementa y cataliza el desarrollo, pero no reemplaza las obligaciones fundamentales del Estado en servicios b\u00e1sicos."
+        },
+        {
+          "text": "Actuar como catalizador tecnol\u00f3gico y desarrollar infraestructura vital.",
+          "isCorrect": true,
+          "rationale": "La inversi\u00f3n privada dinamiza las regiones al introducir tecnolog\u00eda avanzada y construir infraestructura que beneficia a zonas desatendidas."
+        },
+        {
+          "text": "Gestionar exclusivamente la exportaci\u00f3n de concentrados.",
+          "isCorrect": false,
+          "rationale": "Esta es una funci\u00f3n operativa comercial, pero no describe el impacto de desarrollo regional de la inversi\u00f3n mencionado."
+        },
+        {
+          "text": "Eliminar la necesidad de fiscalizaci\u00f3n estatal en el \u00e1rea.",
+          "isCorrect": false,
+          "rationale": "La inversi\u00f3n privada debe operar dentro de un marco regulatorio estricto y bajo supervisi\u00f3n del Estado."
+        }
+      ],
+      "hint": "Considere el impacto indirecto que tiene la presencia de una gran empresa en la modernizaci\u00f3n de su entorno."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia fundamental existe entre la gerencia estrat\u00e9gica y el liderazgo en una operaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "La gerencia es una habilidad blanda y el liderazgo es una ciencia administrativa.",
+          "isCorrect": false,
+          "rationale": "Esta opci\u00f3n invierte los conceptos; la administraci\u00f3n es t\u00e9cnica mientras que el liderazgo se centra en lo humano."
+        },
+        {
+          "text": "La gerencia se enfoca en presupuestos y el liderazgo en geolog\u00eda.",
+          "isCorrect": false,
+          "rationale": "El liderazgo no se limita a una disciplina t\u00e9cnica como la geolog\u00eda, sino a la gesti\u00f3n del talento humano."
+        },
+        {
+          "text": "La gerencia busca eficiencia administrativa y el liderazgo motiva al equipo bajo una visi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Mientras que la gerencia organiza recursos y metas t\u00e1cticas, el liderazgo se encarga de influir y comprometer a las personas."
+        },
+        {
+          "text": "No existe diferencia, ya que ambos t\u00e9rminos son sin\u00f3nimos operativos.",
+          "isCorrect": false,
+          "rationale": "En el sector minero moderno, se distinguen roles administrativos de roles inspiradores para garantizar la supervivencia del proyecto."
+        }
+      ],
+      "hint": "Piense en la distinci\u00f3n entre administrar recursos t\u00e9cnicos y guiar a personas hacia un objetivo com\u00fan."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una consecuencia de mantener una jerarqu\u00eda r\u00edgida y una cultura de miedo en una mina?",
+      "answerOptions": [
+        {
+          "text": "Se eliminan por completo los errores operativos.",
+          "isCorrect": false,
+          "rationale": "El miedo no elimina el error humano, solo cambia la forma en que los trabajadores reaccionan ante ellos."
+        },
+        {
+          "text": "Los errores tienden a ocultarse, aumentando el riesgo operativo.",
+          "isCorrect": true,
+          "rationale": "En entornos de alto riesgo, la falta de confianza impide que los fallos se reporten a tiempo, lo que puede causar desastres."
+        },
+        {
+          "text": "Se agiliza el proceso de toma de decisiones participativas.",
+          "isCorrect": false,
+          "rationale": "Las jerarqu\u00edas r\u00edgidas suelen centralizar el poder y desincentivar la participaci\u00f3n del personal."
+        },
+        {
+          "text": "Aumenta la inteligencia emocional de los mandos medios.",
+          "isCorrect": false,
+          "rationale": "El miedo es opuesto al fomento de la inteligencia emocional y la confianza mutua."
+        }
+      ],
+      "hint": "Imagine c\u00f3mo reaccionar\u00eda un trabajador ante un fallo si teme represalias por parte de su superior."
+    },
+    {
+      "question": "En el contexto del efecto multiplicador de la miner\u00eda, \u00bfcu\u00e1ntos empleos adicionales se generan en la econom\u00eda por cada empleo directo en mina?",
+      "answerOptions": [
+        {
+          "text": "$1.0$",
+          "isCorrect": false,
+          "rationale": "Esta cifra corresponde \u00fanicamente al impacto por comercio adicional, no al total del efecto multiplicador."
+        },
+        {
+          "text": "$2.0$",
+          "isCorrect": false,
+          "rationale": "Este n\u00famero representa los empleos generados por la inversi\u00f3n asociada, no el total sist\u00e9mico."
+        },
+        {
+          "text": "$3.25$",
+          "isCorrect": false,
+          "rationale": "Este valor se refiere espec\u00edficamente a los empleos creados por el consumo derivado."
+        },
+        {
+          "text": "$6.25$",
+          "isCorrect": true,
+          "rationale": "La suma del consumo derivado ($3.25$), la inversi\u00f3n asociada ($2.0$) y el impacto comercial ($1.0$) totaliza este factor multiplicador."
+        }
+      ],
+      "hint": "Sume los impactos por consumo derivado, inversi\u00f3n asociada y comercio adicional."
+    },
+    {
+      "question": "\u00bfQui\u00e9nes son considerados el \"escudo principal\" de la salud f\u00edsica y mental del activo m\u00e1s invaluable en la industria minera?",
+      "answerOptions": [
+        {
+          "text": "Los ingenieros ge\u00f3logos.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n principal es la localizaci\u00f3n y estudio del mineral, no la protecci\u00f3n directa de la salud del personal."
+        },
+        {
+          "text": "Los ingenieros de seguridad, m\u00e9dicos ocupacionales y psic\u00f3logos laborales.",
+          "isCorrect": true,
+          "rationale": "Este equipo multidisciplinario se encarga de proteger la integridad f\u00edsica y mental de los trabajadores frente a los riesgos inherentes."
+        },
+        {
+          "text": "Los metal\u00fargicos y administradores.",
+          "isCorrect": false,
+          "rationale": "Ellos se enfocan en el procesamiento del material y el flujo corporativo, respectivamente."
+        },
+        {
+          "text": "Las autoridades locales y el Estado.",
+          "isCorrect": false,
+          "rationale": "Aunque fiscalizan, el escudo protector interno de la empresa est\u00e1 formado por personal especializado en salud y seguridad."
+        }
+      ],
+      "hint": "Piense en los perfiles profesionales que gestionan directamente el bienestar y la prevenci\u00f3n de riesgos del personal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor dicta directamente la elecci\u00f3n entre miner\u00eda a cielo abierto o subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "La disponibilidad de camiones gigantes en el mercado.",
+          "isCorrect": false,
+          "rationale": "La maquinaria se adapta al m\u00e9todo elegido, no al rev\u00e9s."
+        },
+        {
+          "text": "El color del mineral y su brillo met\u00e1lico.",
+          "isCorrect": false,
+          "rationale": "Las propiedades visuales no determinan la viabilidad de extracci\u00f3n tanto como las caracter\u00edsticas estructurales del yacimiento."
+        },
+        {
+          "text": "La forma, profundidad y caracter\u00edsticas del cuerpo mineralizado.",
+          "isCorrect": true,
+          "rationale": "La configuraci\u00f3n geol\u00f3gica y ubicaci\u00f3n del dep\u00f3sito son los par\u00e1metros t\u00e9cnicos que definen el m\u00e9todo m\u00e1s eficiente y seguro."
+        },
+        {
+          "text": "\u00danicamente la preferencia est\u00e9tica de los directivos.",
+          "isCorrect": false,
+          "rationale": "La elecci\u00f3n es una decisi\u00f3n t\u00e9cnica rigurosa basada en la rentabilidad y la seguridad operativa."
+        }
+      ],
+      "hint": "Considere la ubicaci\u00f3n f\u00edsica del mineral bajo la tierra y su distribuci\u00f3n geom\u00e9trica."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una caracter\u00edstica distintiva de los equipos utilizados en la miner\u00eda subterr\u00e1nea como los scoops?",
+      "answerOptions": [
+        {
+          "text": "Tienen el tama\u00f1o de una casa para maximizar la carga.",
+          "isCorrect": false,
+          "rationale": "Los equipos gigantes son t\u00edpicos de la superficie; en t\u00faneles el tama\u00f1o est\u00e1 limitado por el espacio."
+        },
+        {
+          "text": "Perfiles excepcionalmente bajos y maniobrabilidad extrema.",
+          "isCorrect": true,
+          "rationale": "Estas m\u00e1quinas est\u00e1n dise\u00f1adas para operar en espacios confinados y techos bajos propios de los t\u00faneles y rampas."
+        },
+        {
+          "text": "Funcionan exclusivamente con energ\u00eda solar debido al confinamiento.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda subterr\u00e1nea depende cr\u00edticamente de ventilaci\u00f3n y otras fuentes de energ\u00eda, pero la solar no es viable bajo tierra."
+        },
+        {
+          "text": "Son id\u00e9nticos a los utilizados en la construcci\u00f3n civil de carreteras.",
+          "isCorrect": false,
+          "rationale": "Son equipos altamente especializados y robustos para navegar en entornos hostiles de roca y poca luz."
+        }
+      ],
+      "hint": "Piense en las restricciones de espacio f\u00edsico que impone trabajar dentro de un t\u00fanel."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la capacidad m\u00e1xima de producci\u00f3n permitida para ser categorizado como peque\u00f1a miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "$25$ toneladas por d\u00eda.",
+          "isCorrect": false,
+          "rationale": "Este es el l\u00edmite establecido para la miner\u00eda artesanal, la escala m\u00e1s baja."
+        },
+        {
+          "text": "$300$ toneladas por d\u00eda.",
+          "isCorrect": true,
+          "rationale": "Seg\u00fan la arquitectura regulatoria, este es el tope de procesamiento diario para la peque\u00f1a miner\u00eda."
+        },
+        {
+          "text": "$5,000$ toneladas por d\u00eda.",
+          "isCorrect": false,
+          "rationale": "Este volumen corresponde al l\u00edmite de la mediana miner\u00eda."
+        },
+        {
+          "text": "M\u00e1s de $10,000$ toneladas por d\u00eda.",
+          "isCorrect": false,
+          "rationale": "Capacidades de este nivel pertenecen exclusivamente a la gran miner\u00eda."
+        }
+      ],
+      "hint": "Esta categor\u00eda se encuentra entre la miner\u00eda artesanal y la mediana miner\u00eda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 define a la miner\u00eda informal a diferencia de la ilegal?",
+      "answerOptions": [
+        {
+          "text": "Opera en \u00e1reas prohibidas como reservas naturales.",
+          "isCorrect": false,
+          "rationale": "Operar en \u00e1reas prohibidas es la caracter\u00edstica central de la miner\u00eda ilegal."
+        },
+        {
+          "text": "Utiliza mercurio de forma controlada y certificada.",
+          "isCorrect": false,
+          "rationale": "Tanto informales como ilegales suelen tener problemas con el manejo de sustancias qu\u00edmicas, pero el uso certificado es propio de la formalidad."
+        },
+        {
+          "text": "Ocurre en zonas permitidas pero est\u00e1 en proceso de formalizaci\u00f3n administrativa.",
+          "isCorrect": true,
+          "rationale": "La miner\u00eda informal se realiza en espacios donde la actividad es legal, pero el operador a\u00fan busca regularizar su situaci\u00f3n ante el Estado."
+        },
+        {
+          "text": "No genera ning\u00fan impacto ambiental negativo.",
+          "isCorrect": false,
+          "rationale": "Toda actividad extractiva genera impactos; la diferencia radica en la legalidad y el control de los mismos."
+        }
+      ],
+      "hint": "Piense en la ubicaci\u00f3n de la actividad y la intenci\u00f3n administrativa del minero."
+    },
+    {
+      "question": "En la miner\u00eda ilegal, \u00bfcu\u00e1l es la proporci\u00f3n de mercurio vertido por cada kilogramo de oro extra\u00eddo?",
+      "answerOptions": [
+        {
+          "text": "$1.0$ kg.",
+          "isCorrect": false,
+          "rationale": "Esta cifra subestima significativamente el desastre qu\u00edmico real reportado en las operaciones ilegales."
+        },
+        {
+          "text": "$2.8$ kg.",
+          "isCorrect": true,
+          "rationale": "Este ratio representa el volumen de mercurio que se libera al medio ambiente para obtener una sola unidad de oro en condiciones ilegales."
+        },
+        {
+          "text": "$5.0$ kg.",
+          "isCorrect": false,
+          "rationale": "Aunque el da\u00f1o es masivo, la estad\u00edstica espec\u00edfica mencionada es menor a este valor."
+        },
+        {
+          "text": "$0.5$ kg.",
+          "isCorrect": false,
+          "rationale": "Esta cantidad no refleja la gravedad del impacto por bioacumulaci\u00f3n en la cadena alimenticia."
+        }
+      ],
+      "hint": "Es un n\u00famero decimal mayor a dos pero menor a tres."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa la \"ley de corte\" ($cut\\text{ }off\\text{ }grade$) en un proyecto minero?",
+      "answerOptions": [
+        {
+          "text": "La profundidad m\u00e1xima a la que se puede excavar.",
+          "isCorrect": false,
+          "rationale": "La profundidad es un l\u00edmite f\u00edsico, mientras que la ley de corte es un l\u00edmite econ\u00f3mico y de concentraci\u00f3n."
+        },
+        {
+          "text": "La concentraci\u00f3n m\u00ednima de metal necesaria para que la extracci\u00f3n sea rentable.",
+          "isCorrect": true,
+          "rationale": "Es el punto de equilibrio financiero que define qu\u00e9 material se procesa como mineral y qu\u00e9 se descarta como desmonte."
+        },
+        {
+          "text": "El precio fijado por el Estado para el pago de regal\u00edas.",
+          "isCorrect": false,
+          "rationale": "Las regal\u00edas se basan en impuestos y producci\u00f3n, no en la concentraci\u00f3n t\u00e9cnica del mineral en roca."
+        },
+        {
+          "text": "La cantidad de explosivos permitida por cada metro de t\u00fanel.",
+          "isCorrect": false,
+          "rationale": "Este es un par\u00e1metro de seguridad y dise\u00f1o de voladura, no una br\u00fajula financiera."
+        }
+      ],
+      "hint": "Considere el umbral que separa la riqueza econ\u00f3mica de la simple roca est\u00e9ril."
+    },
+    {
+      "question": "Seg\u00fan el marco normativo peruano, \u00bfcu\u00e1l es la relaci\u00f3n legal entre el suelo y el subsuelo?",
+      "answerOptions": [
+        {
+          "text": "Son derechos de propiedad totalmente independientes.",
+          "isCorrect": true,
+          "rationale": "El due\u00f1o de la superficie no es autom\u00e1ticamente due\u00f1o de los minerales, los cuales pertenecen al Estado."
+        },
+        {
+          "text": "Tener la concesi\u00f3n del subsuelo otorga propiedad autom\u00e1tica del suelo.",
+          "isCorrect": false,
+          "rationale": "La ley establece que el t\u00edtulo minero no da derechos preferenciales sobre la superficie; se debe negociar con el due\u00f1o."
+        },
+        {
+          "text": "El due\u00f1o del suelo es due\u00f1o de todo lo que se encuentre debajo hasta el centro de la tierra.",
+          "isCorrect": false,
+          "rationale": "En Per\u00fa, el Estado mantiene la soberan\u00eda y propiedad sobre los recursos minerales del subsuelo."
+        },
+        {
+          "text": "No existe distinci\u00f3n legal entre ambas capas del terreno.",
+          "isCorrect": false,
+          "rationale": "La separaci\u00f3n es un principio fundamental que obliga a las empresas a buscar acuerdos con los superficiarios."
+        }
+      ],
+      "hint": "Piense en por qu\u00e9 una empresa minera debe negociar con una comunidad campesina aunque ya tenga su t\u00edtulo de concesi\u00f3n."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 sirve espec\u00edficamente una concesi\u00f3n de beneficio?",
+      "answerOptions": [
+        {
+          "text": "Para construir viviendas para los trabajadores.",
+          "isCorrect": false,
+          "rationale": "El uso de campamentos es infraestructura auxiliar, pero no el fin de esta concesi\u00f3n espec\u00edfica."
+        },
+        {
+          "text": "Para extraer el mineral directamente del socav\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La extracci\u00f3n es el prop\u00f3sito de la concesi\u00f3n minera cl\u00e1sica, no la de beneficio."
+        },
+        {
+          "text": "Para instalar plantas de chancado y purificaci\u00f3n del mineral.",
+          "isCorrect": true,
+          "rationale": "Esta concesi\u00f3n otorga el derecho de procesar mec\u00e1nicamente y metal\u00fargicamente la roca para extraer el valor met\u00e1lico."
+        },
+        {
+          "text": "Para garantizar el libre tr\u00e1nsito de camiones por carreteras p\u00fablicas.",
+          "isCorrect": false,
+          "rationale": "El transporte en v\u00edas p\u00fablicas no requiere esta concesi\u00f3n, la cual es para procesos de transformaci\u00f3n qu\u00edmica o f\u00edsica."
+        }
+      ],
+      "hint": "Considere la etapa del ciclo minero donde la roca bruta se convierte en concentrado o metal."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sucede si un titular minero deja de pagar el derecho de vigencia por dos a\u00f1os consecutivos?",
+      "answerOptions": [
+        {
+          "text": "Recibe una multa equivalente al $10\\%$ de su producci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Las multas por falta de producci\u00f3n son distintas a la falta de pago del derecho de mantenimiento b\u00e1sico."
+        },
+        {
+          "text": "Se le otorga una pr\u00f3rroga autom\u00e1tica de cinco a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "El sistema es inflexible respecto a los pagos de vigencia para evitar la especulaci\u00f3n de tierras."
+        },
+        {
+          "text": "Se decreta la caducidad y se pierde el derecho minero para siempre.",
+          "isCorrect": true,
+          "rationale": "El impago prolongado del derecho de vigencia es una de las causales fatales para la extinci\u00f3n del t\u00edtulo."
+        },
+        {
+          "text": "La concesi\u00f3n pasa a ser administrada por la municipalidad local.",
+          "isCorrect": false,
+          "rationale": "Si caduca, el \u00e1rea revierte al Estado y vuelve a estar disponible para cualquier interesado a trav\u00e9s de un nuevo petitorio."
+        }
+      ],
+      "hint": "Es una de las dos \"l\u00edneas rojas\" que provocan la muerte jur\u00eddica irrevocable del proyecto."
+    },
+    {
+      "question": "\u00bfQu\u00e9 instrumento de gesti\u00f3n ambiental es obligatorio para proyectos con impactos ambientales altamente significativos?",
+      "answerOptions": [
+        {
+          "text": "Declaraci\u00f3n de Impacto Ambiental (DIA).",
+          "isCorrect": false,
+          "rationale": "La DIA se utiliza \u00fanicamente para proyectos con impactos leves."
+        },
+        {
+          "text": "Estudio de Impacto Ambiental Semidetallado (EIA-sd).",
+          "isCorrect": false,
+          "rationale": "Este instrumento se aplica cuando los impactos se consideran moderados."
+        },
+        {
+          "text": "Estudio de Impacto Ambiental Detallado (EIA-d).",
+          "isCorrect": true,
+          "rationale": "Este es el nivel m\u00e1s exhaustivo de evaluaci\u00f3n requerido para operaciones de gran envergadura."
+        },
+        {
+          "text": "Cierre de Minas Progresivo.",
+          "isCorrect": false,
+          "rationale": "Este es un plan de salida y rehabilitaci\u00f3n, no un instrumento de evaluaci\u00f3n inicial del impacto."
+        }
+      ],
+      "hint": "Piense en el pelda\u00f1o m\u00e1s alto de la escalera de evaluaci\u00f3n ambiental."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n espec\u00edfica del OEFA en el sector minero?",
+      "answerOptions": [
+        {
+          "text": "Aprobar los estudios de impacto ambiental detallados.",
+          "isCorrect": false,
+          "rationale": "La aprobaci\u00f3n de los EIA-d es competencia del SENACE, no del OEFA."
+        },
+        {
+          "text": "Supervisar y sancionar el cumplimiento de las normas ambientales.",
+          "isCorrect": true,
+          "rationale": "El OEFA act\u00faa como el ente fiscalizador para asegurar que lo aprobado en los estudios se cumpla en el campo."
+        },
+        {
+          "text": "Otorgar permisos para el uso de explosivos.",
+          "isCorrect": false,
+          "rationale": "Esta es una funci\u00f3n que corresponde a la SUCAMEC."
+        },
+        {
+          "text": "Administrar el catastro minero nacional.",
+          "isCorrect": false,
+          "rationale": "El control del catastro y las cuadr\u00edculas es responsabilidad del INGEMMET."
+        }
+      ],
+      "hint": "Su rol es preventivo y correctivo, actuando despu\u00e9s de que se otorgan los permisos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el pilar legal que protege el derecho de los pueblos ind\u00edgenas a ser consultados sobre proyectos mineros?",
+      "answerOptions": [
+        {
+          "text": "El Canon Minero.",
+          "isCorrect": false,
+          "rationale": "El canon es un mecanismo de redistribuci\u00f3n econ\u00f3mica de impuestos, no un derecho de consulta."
+        },
+        {
+          "text": "La Ley de Cierre de Minas.",
+          "isCorrect": false,
+          "rationale": "Esta ley regula la etapa final del proyecto, no el di\u00e1logo inicial con la comunidad."
+        },
+        {
+          "text": "El Convenio $169$ de la OIT.",
+          "isCorrect": true,
+          "rationale": "Este tratado internacional, ratificado por Per\u00fa, establece la obligatoriedad de la consulta previa para medidas que afecten a pueblos ind\u00edgenas."
+        },
+        {
+          "text": "El C\u00f3digo Tributario.",
+          "isCorrect": false,
+          "rationale": "El c\u00f3digo tributario maneja la relaci\u00f3n financiera con el Estado, no los derechos colectivos culturales."
+        }
+      ],
+      "hint": "Se trata de un marco internacional especializado en derechos de pueblos originarios."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la etapa de \"post-cierre\" de una mina?",
+      "answerOptions": [
+        {
+          "text": "En la b\u00fasqueda de nuevos yacimientos cerca de la zona cerrada.",
+          "isCorrect": false,
+          "rationale": "Eso ser\u00eda exploraci\u00f3n, una etapa inicial y no final del ciclo minero."
+        },
+        {
+          "text": "Monitoreo y mantenimiento por al menos $5$ a\u00f1os tras la rehabilitaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "Esta fase asegura que el terreno rehabilitado se mantenga estable f\u00edsica y qu\u00edmicamente a largo plazo."
+        },
+        {
+          "text": "Venta de toda la maquinaria pesada a otras empresas.",
+          "isCorrect": false,
+          "rationale": "La disposici\u00f3n de activos puede ocurrir, pero el post-cierre legal se enfoca en la estabilidad ambiental."
+        },
+        {
+          "text": "La reapertura inmediata de la mina si los precios del metal suben.",
+          "isCorrect": false,
+          "rationale": "El cierre implica el cese de operaciones; una reapertura requerir\u00eda nuevos permisos y evaluaciones."
+        }
+      ],
+      "hint": "Es un periodo de vigilancia posterior a la ejecuci\u00f3n de las obras de cierre final."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja tiene para una empresa minera transferir su infraestructura (como colegios o redes el\u00e9ctricas) a la comunidad?",
+      "answerOptions": [
+        {
+          "text": "Aumenta el pago de impuestos anuales.",
+          "isCorrect": false,
+          "rationale": "La transferencia no busca aumentar la carga tributaria, sino optimizar el legado y los costos de cierre."
+        },
+        {
+          "text": "La empresa queda liberada de la responsabilidad y garant\u00eda financiera sobre esas obras.",
+          "isCorrect": true,
+          "rationale": "Una vez transferida oficialmente, la carga legal y de mantenimiento pasa a la entidad que recibe la infraestructura."
+        },
+        {
+          "text": "Permite a la empresa seguir operando sin licencia social.",
+          "isCorrect": false,
+          "rationale": "La licencia social es un proceso continuo y no se compra mediante transferencias de activos al final del proyecto."
+        },
+        {
+          "text": "Es obligatorio demoler todo seg\u00fan la ley, por lo que no es posible transferir.",
+          "isCorrect": false,
+          "rationale": "La ley permite expl\u00edcitamente el uso alternativo de instalaciones para fines p\u00fablicos si existe un acuerdo."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede con la obligaci\u00f3n legal de mantenimiento y las garant\u00edas econ\u00f3micas depositadas ante el Estado."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se distribuye el $50\\%$ del impuesto a la renta que constituye el canon minero?",
+      "answerOptions": [
+        {
+          "text": "Se entrega totalmente al gobierno central en Lima.",
+          "isCorrect": false,
+          "rationale": "El canon es, por definici\u00f3n, una participaci\u00f3n de las zonas donde se extrae el recurso."
+        },
+        {
+          "text": "$10\\%$ distritos, $25\\%$ provincias, $40\\%$ departamental y $25\\%$ regional.",
+          "isCorrect": true,
+          "rationale": "Esta es la estructura porcentual de redistribuci\u00f3n para asegurar que el beneficio llegue a distintas escalas locales."
+        },
+        {
+          "text": "Se divide en partes iguales entre todas las regiones del pa\u00eds.",
+          "isCorrect": false,
+          "rationale": "El canon se dirige espec\u00edficamente a las \u00e1reas de influencia e impacto del proyecto minero."
+        },
+        {
+          "text": "$100\\%$ para la comunidad campesina m\u00e1s cercana.",
+          "isCorrect": false,
+          "rationale": "Aunque las comunidades se benefician, el canon se distribuye a trav\u00e9s de diversas instancias de gobierno local y regional."
+        }
+      ],
+      "hint": "Se trata de un rompecabezas de cuatro niveles porcentuales distintos."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Marco Regulatorio Minero",
+      "Estructura Operativa y M\u00e9todos de Explotaci\u00f3n",
+      "Impacto Socioecon\u00f3mico de la Miner\u00eda",
+      "Liderazgo y Gesti\u00f3n Organizacional",
+      "Miner\u00eda Informal vs Ilegal",
+      "Gesti\u00f3n Ambiental y Cierre de Minas",
+      "Relaciones Comunitarias y Consulta Previa"
+    ],
+    "followUp": [
+      "Procedimiento Administrativo del REINFO para formalizaci\u00f3n minera",
+      "Criterios de fiscalizaci\u00f3n ambiental de la OEFA en campo",
+      "Mecanismos de resoluci\u00f3n de conflictos socioambientales en el sector extractivo",
+      "Geocadmin y el sistema de cuadr\u00edculas para concesiones mineras",
+      "Est\u00e1ndares internacionales de responsabilidad socioambiental conjunta"
+    ]
+  }
+}

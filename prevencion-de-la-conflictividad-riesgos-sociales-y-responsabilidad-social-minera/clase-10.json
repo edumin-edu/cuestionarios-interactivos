@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el cambio fundamental en la visi\u00f3n de los proyectos extractivos modernos respecto a su relaci\u00f3n con el territorio?",
+      "answerOptions": [
+        {
+          "text": "La transici\u00f3n de una filantrop\u00eda simple hacia una inversi\u00f3n social estrat\u00e9gica.",
+          "isCorrect": true,
+          "rationale": "El enfoque actual busca empoderar a la comunidad a trav\u00e9s de un v\u00ednculo pedag\u00f3gico y estrat\u00e9gico, superando la caridad tradicional."
+        },
+        {
+          "text": "El aumento masivo de las donaciones directas para mitigar el descontento.",
+          "isCorrect": false,
+          "rationale": "Las donaciones directas se asocian con la filantrop\u00eda antigua, que no genera empoderamiento ni legitimidad a largo plazo."
+        },
+        {
+          "text": "La priorizaci\u00f3n exclusiva de la viabilidad t\u00e9cnica sobre la legitimidad social.",
+          "isCorrect": false,
+          "rationale": "La viabilidad t\u00e9cnica es necesaria, pero el desaf\u00edo central actual es la legitimidad territorial y social."
+        },
+        {
+          "text": "La delegaci\u00f3n total de la gesti\u00f3n social a organismos internacionales.",
+          "isCorrect": false,
+          "rationale": "La clave mencionada es el trabajo conjunto entre los t\u00e9cnicos de la mina y la juventud local, no la externalizaci\u00f3n total."
+        }
+      ],
+      "hint": "Considere qu\u00e9 concepto reemplaza a la caridad tradicional para generar confianza real."
+    },
+    {
+      "question": "En el marco del monitoreo participativo, \u00bfcu\u00e1l es el nuevo rol que adquiere el miembro de la comunidad?",
+      "answerOptions": [
+        {
+          "text": "Observador pasivo de los procesos de auditor\u00eda.",
+          "isCorrect": false,
+          "rationale": "El monitoreo participativo busca precisamente sacar al ciudadano de ese rol de espectador distante."
+        },
+        {
+          "text": "Firmante administrativo de las listas de asistencia.",
+          "isCorrect": false,
+          "rationale": "Firmar listas se considera una visi\u00f3n limitada y tradicional que no constituye una validaci\u00f3n pol\u00edtica real."
+        },
+        {
+          "text": "Coevaluador t\u00e9cnico con capacidad de validaci\u00f3n pol\u00edtica.",
+          "isCorrect": true,
+          "rationale": "Esta transformaci\u00f3n permite una transparencia radical al dar al ciudadano herramientas t\u00e9cnicas para evaluar la gesti\u00f3n."
+        },
+        {
+          "text": "Supervisor externo con poder de veto sobre la ingenier\u00eda.",
+          "isCorrect": false,
+          "rationale": "Aunque es coevaluador, su rol se centra en la transparencia y supervisi\u00f3n compartida de proyectos sociales, no en vetar la ingenier\u00eda b\u00e1sica."
+        }
+      ],
+      "hint": "Piense en el t\u00e9rmino que describe una participaci\u00f3n activa y t\u00e9cnica en la evaluaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta permite a la poblaci\u00f3n verificar visualmente si los hitos f\u00edsicos de un proyecto cumplen con el cronograma?",
+      "answerOptions": [
+        {
+          "text": "Estudios de Impacto Ambiental (EIA) detallados.",
+          "isCorrect": false,
+          "rationale": "Los EIA son instrumentos de gesti\u00f3n ambiental complejos, no herramientas visuales de cronograma f\u00edsico."
+        },
+        {
+          "text": "Diagramas de Gantt simplificados.",
+          "isCorrect": true,
+          "rationale": "Estas herramientas visuales facilitan que personas sin formaci\u00f3n en ingenier\u00eda comprendan intuitivamente el avance de la obra."
+        },
+        {
+          "text": "Formatos biling\u00fces de rendici\u00f3n de cuentas.",
+          "isCorrect": false,
+          "rationale": "Aunque garantizan accesibilidad, el formato biling\u00fce es un medio de comunicaci\u00f3n, no una herramienta de cronograma."
+        },
+        {
+          "text": "Mapas participativos en tiempo real.",
+          "isCorrect": false,
+          "rationale": "Los mapas se utilizan para la geolocalizaci\u00f3n y zonas de exclusi\u00f3n, no primordialmente para cronogramas f\u00edsicos."
+        }
+      ],
+      "hint": "Busque el nombre de un gr\u00e1fico com\u00fanmente usado en la gesti\u00f3n de proyectos para visualizar tiempos."
+    },
+    {
+      "question": "Al evaluar proyectos sociales, \u00bfqu\u00e9 miden espec\u00edficamente los denominados 'indicadores blandos'?",
+      "answerOptions": [
+        {
+          "text": "El monto total de dinero invertido en la infraestructura.",
+          "isCorrect": false,
+          "rationale": "La inversi\u00f3n financiera es un indicador duro basado en n\u00fameros fr\u00edos."
+        },
+        {
+          "text": "El grado de apropiaci\u00f3n comunitaria y los niveles de confianza.",
+          "isCorrect": true,
+          "rationale": "Estos indicadores miden el sentido de pertenencia, que es vital para la sostenibilidad de cualquier obra f\u00edsica."
+        },
+        {
+          "text": "El porcentaje de avance f\u00edsico de la construcci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El avance f\u00edsico es un indicador tangible o duro que no refleja la percepci\u00f3n social."
+        },
+        {
+          "text": "La reducci\u00f3n cient\u00edfica de niveles de anemia infantil.",
+          "isCorrect": false,
+          "rationale": "Los datos de salud validados cient\u00edficamente se consideran indicadores t\u00e9cnicos o de impacto objetivo (duros)."
+        }
+      ],
+      "hint": "Reflexione sobre los factores intangibles que aseguran que una obra sea valorada por la gente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de las l\u00edneas de base t\u00e9cnicas en las intervenciones de salud p\u00fablica?",
+      "answerOptions": [
+        {
+          "text": "Establecer puntos de partida cient\u00edficos para medir el impacto real en el tiempo.",
+          "isCorrect": true,
+          "rationale": "Sin un dato inicial validado (como el nivel de anemia antes del proyecto), es imposible medir el \u00e9xito de forma rigurosa."
+        },
+        {
+          "text": "Justificar legalmente la reducci\u00f3n de la inversi\u00f3n social.",
+          "isCorrect": false,
+          "rationale": "Las l\u00edneas de base buscan rigor cient\u00edfico y transparencia, no son herramientas para reducir presupuestos."
+        },
+        {
+          "text": "Facilitar la comunicaci\u00f3n biling\u00fce con la poblaci\u00f3n local.",
+          "isCorrect": false,
+          "rationale": "Aunque la informaci\u00f3n debe fluir, la l\u00ednea de base es una herramienta de medici\u00f3n cient\u00edfica, no de traducci\u00f3n."
+        },
+        {
+          "text": "Identificar las coordenadas exactas de los sitios arqueol\u00f3gicos.",
+          "isCorrect": false,
+          "rationale": "La identificaci\u00f3n de sitios arqueol\u00f3gicos se realiza mediante mapeo GPS y zonas de exclusi\u00f3n, no l\u00edneas de base de salud."
+        }
+      ],
+      "hint": "Piense en la necesidad de tener una referencia inicial para poder comparar resultados futuros."
+    },
+    {
+      "question": "En el uso de tecnolog\u00eda de campo, \u00bfcu\u00e1l es un objetivo estrat\u00e9gico de identificar zonas de exclusi\u00f3n mediante GPS?",
+      "answerOptions": [
+        {
+          "text": "Aumentar la velocidad de extracci\u00f3n del mineral en \u00e1reas restringidas.",
+          "isCorrect": false,
+          "rationale": "Las zonas de exclusi\u00f3n precisamente proh\u00edben la actividad en ciertas \u00e1reas por su valor cultural."
+        },
+        {
+          "text": "Reducir los costos operativos al evitar terrenos de dif\u00edcil acceso.",
+          "isCorrect": false,
+          "rationale": "El objetivo no es econ\u00f3mico, sino de respeto cultural y gobernanza territorial."
+        },
+        {
+          "text": "Proteger sitios de alto valor ancestral o religioso, como los Apus.",
+          "isCorrect": true,
+          "rationale": "Mapear estos espacios de la mano con la comunidad transforma restricciones en fortalezas de respeto cultural."
+        },
+        {
+          "text": "Eliminar la necesidad de conexi\u00f3n a internet en toda la unidad minera.",
+          "isCorrect": false,
+          "rationale": "Las apps offline son herramientas para el trabajo de campo, pero no buscan eliminar la conectividad general."
+        }
+      ],
+      "hint": "Considere la importancia de los lugares sagrados para las comunidades locales."
+    },
+    {
+      "question": "\u00bfQu\u00e9 impacto tiene el fortalecimiento institucional en el comportamiento de un ciudadano frente a la industria?",
+      "answerOptions": [
+        {
+          "text": "Lo convierte en un actor racional que negocia sin basarse en miedos o rumores.",
+          "isCorrect": true,
+          "rationale": "Un ciudadano empoderado cuenta con informaci\u00f3n t\u00e9cnica que estabiliza la relaci\u00f3n entre el territorio y la empresa."
+        },
+        {
+          "text": "Incrementa la dependencia econ\u00f3mica de la poblaci\u00f3n hacia la unidad extractiva.",
+          "isCorrect": false,
+          "rationale": "El fortalecimiento institucional busca precisamente mitigar la dependencia cr\u00f3nica de la mina."
+        },
+        {
+          "text": "Promueve la desconfianza hacia los instrumentos de gesti\u00f3n ambiental.",
+          "isCorrect": false,
+          "rationale": "Al contrario, busca que el ciudadano aprenda a leer cr\u00edticamente estos instrumentos para cortar sospechas infundadas."
+        },
+        {
+          "text": "Acelera los procesos de protesta social para obtener beneficios r\u00e1pidos.",
+          "isCorrect": false,
+          "rationale": "El objetivo es crear un entorno predecible y equitativo, no incentivar el conflicto reactivo."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el conocimiento reemplaza a la incertidumbre y a las reacciones emocionales."
+    },
+    {
+      "question": "En el contexto de las Escuelas de L\u00edderes, \u00bfcu\u00e1l es el prop\u00f3sito de ense\u00f1ar la lectura cr\u00edtica de los EIA?",
+      "answerOptions": [
+        {
+          "text": "Entrenar a las autoridades locales en la redacci\u00f3n de leyes ambientales.",
+          "isCorrect": false,
+          "rationale": "El foco est\u00e1 en entender y fiscalizar los documentos existentes (EIA), no en redactar nuevas leyes."
+        },
+        {
+          "text": "Transformar la vigilancia comunitaria en una fiscalizaci\u00f3n madura y t\u00e9cnica.",
+          "isCorrect": true,
+          "rationale": "Capacitar a la comunidad para descifrar planes de manejo y monitoreo elimina sospechas infundadas y profesionaliza la supervisi\u00f3n."
+        },
+        {
+          "text": "Reducir el tiempo que la empresa dedica al monitoreo ambiental.",
+          "isCorrect": false,
+          "rationale": "El empoderamiento ciudadano complementa la vigilancia, pero no reemplaza las obligaciones de la empresa."
+        },
+        {
+          "text": "Ocultar los impactos negativos mediante tecnicismos complejos.",
+          "isCorrect": false,
+          "rationale": "El objetivo es justamente despojar la informaci\u00f3n de tecnicismos para garantizar transparencia total."
+        }
+      ],
+      "hint": "Relacione el entendimiento de documentos t\u00e9cnicos con la calidad de la supervisi\u00f3n social."
+    },
+    {
+      "question": "\u00bfC\u00f3mo act\u00faa la empresa minera como 'catalizador' para el desarrollo municipal seg\u00fan la metodolog\u00eda de soporte t\u00e9cnico?",
+      "answerOptions": [
+        {
+          "text": "Sustituyendo permanentemente al Estado en la gesti\u00f3n de servicios p\u00fablicos.",
+          "isCorrect": false,
+          "rationale": "La empresa busca fortalecer al sector p\u00fablico, no reemplazarlo de forma permanente."
+        },
+        {
+          "text": "Financiando directamente todos los sueldos de los funcionarios municipales.",
+          "isCorrect": false,
+          "rationale": "El pago de planillas municipales no es el rol de soporte t\u00e9cnico descrito para destrabar fondos."
+        },
+        {
+          "text": "Brindando ayuda especializada para elaborar expedientes t\u00e9cnicos rigurosos.",
+          "isCorrect": true,
+          "rationale": "Al redactar estos expedientes, se facilita que el municipio capte y ejecute los fondos p\u00fablicos que le corresponden."
+        },
+        {
+          "text": "Imponiendo sus propios proyectos sin consultar la planificaci\u00f3n local.",
+          "isCorrect": false,
+          "rationale": "El soporte t\u00e9cnico se ofrece para viabilizar lo que el territorio leg\u00edtimamente merece y requiere."
+        }
+      ],
+      "hint": "Piense en el documento t\u00e9cnico necesario para que un proyecto p\u00fablico pueda recibir financiamiento estatal."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre las responsabilidades de inversi\u00f3n (CAPEX) y de operaci\u00f3n (OPEX) en un proyecto social?",
+      "answerOptions": [
+        {
+          "text": "La mina asume el gasto de construcci\u00f3n y el Estado garantiza el mantenimiento y salarios continuos.",
+          "isCorrect": true,
+          "rationale": "Esta delimitaci\u00f3n es vital para que la infraestructura no colapse una vez que termine la vida \u00fatil de la mina."
+        },
+        {
+          "text": "El Estado construye la infraestructura y la mina paga los sueldos de los m\u00e9dicos y docentes.",
+          "isCorrect": false,
+          "rationale": "El gasto corriente u OPEX es una obligaci\u00f3n estatal absolutamente intransferible."
+        },
+        {
+          "text": "La mina debe cubrir ambos gastos durante los primeros cincuenta a\u00f1os de operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La sostenibilidad depende de que el Estado asuma su rol operativo desde el inicio del funcionamiento de la obra."
+        },
+        {
+          "text": "Ambos gastos deben ser financiados exclusivamente mediante el canon minero.",
+          "isCorrect": false,
+          "rationale": "Aunque el canon es una fuente, el CAPEX y OPEX representan tipos de gasto con responsables institucionales distintos."
+        }
+      ],
+      "hint": "Diferencie entre el costo de construir un hospital y el costo de pagar a quienes trabajan en \u00e9l."
+    },
+    {
+      "question": "Dentro de la matriz de financiamiento, \u00bfcu\u00e1l es una caracter\u00edstica clave del mecanismo de Obras por Impuestos (OxI)?",
+      "answerOptions": [
+        {
+          "text": "Se enfoca exclusivamente en proyectos de educaci\u00f3n y desarrollo territorial v\u00eda concurso.",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde m\u00e1s a fondos concursables como el FedET."
+        },
+        {
+          "text": "Es un recurso que deja la explotaci\u00f3n y que va directamente a la inversi\u00f3n municipal.",
+          "isCorrect": false,
+          "rationale": "Esta es la definici\u00f3n de canon y regal\u00edas."
+        },
+        {
+          "text": "Permite acelerar la infraestructura cr\u00edtica descontando la inversi\u00f3n del impuesto a la renta.",
+          "isCorrect": true,
+          "rationale": "Este mecanismo ayuda a cortar la burocracia estatal mediante la ejecuci\u00f3n directa de la empresa privada."
+        },
+        {
+          "text": "Obliga al Estado a asumir el riesgo total de la inversi\u00f3n desde el primer d\u00eda.",
+          "isCorrect": false,
+          "rationale": "En OxI, la empresa adelanta la ejecuci\u00f3n de la obra para acelerar el desarrollo local."
+        }
+      ],
+      "hint": "Busque la opci\u00f3n que mencione la agilizaci\u00f3n de obras mediante beneficios tributarios."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el modelo de 'valor compartido' en la relaci\u00f3n entre las empresas comunales y la miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Un sistema de donaciones obligatorias basado en las utilidades netas.",
+          "isCorrect": false,
+          "rationale": "El valor compartido no es asistencia social, sino una relaci\u00f3n de negocios competitiva."
+        },
+        {
+          "text": "La transformaci\u00f3n de la comunidad en un socio estrat\u00e9gico que provee servicios competitivos.",
+          "isCorrect": true,
+          "rationale": "Las empresas comunales dejan de ser un adorno para convertirse en proveedores activos y rentables de la mina."
+        },
+        {
+          "text": "La absorci\u00f3n total de la empresa comunal por parte de la estructura corporativa de la mina.",
+          "isCorrect": false,
+          "rationale": "Se busca la autonom\u00eda y diversificaci\u00f3n de la comunidad, no su desaparici\u00f3n dentro de la gran empresa."
+        },
+        {
+          "text": "Un acuerdo para que la comunidad no fiscalice los impactos ambientales.",
+          "isCorrect": false,
+          "rationale": "El modelo busca profesionalismo y beneficio mutuo, sin comprometer la vigilancia t\u00e9cnica necesaria."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo la comunidad pasa de ser espectadora a ser un proveedor de servicios."
+    },
+    {
+      "question": "En el caso de la empresa municipal Noaku, \u00bfqu\u00e9 factor demostr\u00f3 su \u00e9xito y viabilidad financiera en 2015?",
+      "answerOptions": [
+        {
+          "text": "Su capacidad de depender exclusivamente del transporte de mineral.",
+          "isCorrect": false,
+          "rationale": "El \u00e9xito de Noaku radic\u00f3 en su diversificaci\u00f3n hacia otros sectores como madera, agricultura y ganader\u00eda."
+        },
+        {
+          "text": "La obtenci\u00f3n de subsidios gubernamentales permanentes para su operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Noaku es citada como ejemplo de rentabilidad y facturaci\u00f3n propia, no de dependencia de subsidios."
+        },
+        {
+          "text": "Su facturaci\u00f3n de 22 millones de soles gracias a la diversificaci\u00f3n de operaciones.",
+          "isCorrect": true,
+          "rationale": "Esta cifra es la prueba de que las empresas comunales pueden ser negocios lucrativos y sostenibles."
+        },
+        {
+          "text": "El cierre total de sus operaciones para enfocarse en el turismo vivencial.",
+          "isCorrect": false,
+          "rationale": "Noaku se mantuvo activa y rentable expandiendo sus servicios en m\u00faltiples sectores econ\u00f3micos."
+        }
+      ],
+      "hint": "Recuerde el dato econ\u00f3mico espec\u00edfico mencionado como prueba de rentabilidad."
+    },
+    {
+      "question": "Para que la agroindustria sea viable en un escenario post-miner\u00eda, \u00bfqu\u00e9 infraestructura cr\u00edtica es indispensable?",
+      "answerOptions": [
+        {
+          "text": "Carreteras pavimentadas para el transporte de maquinaria pesada.",
+          "isCorrect": false,
+          "rationale": "Aunque importantes, la agroindustria l\u00e1ctea mencionada depende cr\u00edticamente del control de temperatura."
+        },
+        {
+          "text": "Sistemas de internet de alta velocidad para la venta online.",
+          "isCorrect": false,
+          "rationale": "El internet de alta velocidad se menciona como habilitador clave para el turismo vivencial, no como la prioridad de la cadena de fr\u00edo."
+        },
+        {
+          "text": "Cadena de fr\u00edo y energ\u00eda aut\u00f3noma para mantener productos a $4^{\\circ}C$.",
+          "isCorrect": true,
+          "rationale": "Sin mantener la temperatura adecuada, los l\u00e1cteos y productos locales no pueden competir en mercados urbanos."
+        },
+        {
+          "text": "Grandes reservorios de agua destinados exclusivamente al consumo humano.",
+          "isCorrect": false,
+          "rationale": "Los reservorios son vitales para el riego, pero la viabilidad comercial de los productos procesados exige refrigeraci\u00f3n."
+        }
+      ],
+      "hint": "Piense en el requisito t\u00e9cnico necesario para que quesos y l\u00e1cteos lleguen frescos a la ciudad."
+    },
+    {
+      "question": "Seg\u00fan la anatom\u00eda del conflicto, \u00bfcu\u00e1l es una caracter\u00edstica de las denominadas 'causas percibidas'?",
+      "answerOptions": [
+        {
+          "text": "Se basan en impactos ambientales medibles con data cient\u00edfica.",
+          "isCorrect": false,
+          "rationale": "Esa es la definici\u00f3n de causas reales, que son objetivas y demostrables."
+        },
+        {
+          "text": "Nacen de miedos culturales genuinos o desconfianza hacia la informaci\u00f3n t\u00e9cnica.",
+          "isCorrect": true,
+          "rationale": "Estas causas son subjetivas pero poderosas, y se alimentan de la brecha informativa con la empresa."
+        },
+        {
+          "text": "Se derivan de disputas documentadas sobre la tenencia de la tierra.",
+          "isCorrect": false,
+          "rationale": "Los documentos y registros legales forman parte de las causas reales del conflicto."
+        },
+        {
+          "text": "Son anomal\u00edas extra\u00f1as que indican un error total en el sistema minero.",
+          "isCorrect": false,
+          "rationale": "El conflicto se define como un proceso humano natural, no como una anomal\u00eda o error."
+        }
+      ],
+      "hint": "Diferencie entre lo que se puede probar con datos y lo que surge del sentimiento o temor popular."
+    },
+    {
+      "question": "\u00bfQu\u00e9 dimensi\u00f3n de la conflictividad se manifiesta cuando un paro esconde pugnas por liderazgo local?",
+      "answerOptions": [
+        {
+          "text": "Necesidad.",
+          "isCorrect": false,
+          "rationale": "La dimensi\u00f3n de necesidad se refiere a la carencia de servicios b\u00e1sicos como postas o carreteras."
+        },
+        {
+          "text": "Valores.",
+          "isCorrect": false,
+          "rationale": "Los valores implican choques de cosmovisiones y respeto espiritual por el territorio."
+        },
+        {
+          "text": "Poder.",
+          "isCorrect": true,
+          "rationale": "La dimensi\u00f3n del poder abarca la b\u00fasqueda de reconocimiento pol\u00edtico y el control del liderazgo en la comunidad."
+        },
+        {
+          "text": "Intereses.",
+          "isCorrect": false,
+          "rationale": "Los intereses se vinculan a la aspiraci\u00f3n econ\u00f3mica de participar en la riqueza generada."
+        }
+      ],
+      "hint": "Considere qu\u00e9 factor motiva a alguien a buscar reconocimiento pol\u00edtico o autoridad."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se aplica el concepto de 'negociaci\u00f3n de suma no cero' en un conflicto por el uso del agua?",
+      "answerOptions": [
+        {
+          "text": "Dividiendo el caudal actual en partes iguales para que nadie pierda.",
+          "isCorrect": false,
+          "rationale": "Dividir lo existente es una mentalidad de escasez o suma cero, donde uno gana lo que el otro pierde."
+        },
+        {
+          "text": "Invirtiendo en reservorios para aumentar la disponibilidad total del recurso.",
+          "isCorrect": true,
+          "rationale": "Al agrandar el pastel, la empresa asegura su operaci\u00f3n y la comunidad expande su capacidad de riego simult\u00e1neamente."
+        },
+        {
+          "text": "Priorizando el uso industrial sobre el agr\u00edcola para garantizar la rentabilidad.",
+          "isCorrect": false,
+          "rationale": "Esta acci\u00f3n generar\u00eda un perdedor claro, lo cual contradice la esencia integrativa de la negociaci\u00f3n."
+        },
+        {
+          "text": "Trasladando la operaci\u00f3n minera a una zona con abundancia h\u00eddrica natural.",
+          "isCorrect": false,
+          "rationale": "Esta es una medida operativa extrema, no una estrategia de negociaci\u00f3n integrativa con la comunidad actual."
+        }
+      ],
+      "hint": "Piense en una soluci\u00f3n donde la cantidad total del recurso disponible crezca para todos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 cualidades se requieren en un facilitador para garantizar que los acuerdos de di\u00e1logo sean leg\u00edtimos?",
+      "answerOptions": [
+        {
+          "text": "Afiliaci\u00f3n directa con la gerencia de la empresa minera.",
+          "isCorrect": false,
+          "rationale": "El facilitador debe ser un tercero imparcial; la afiliaci\u00f3n directa destruir\u00eda su neutralidad."
+        },
+        {
+          "text": "Mimetismo cultural, escucha activa y neutralidad absoluta.",
+          "isCorrect": true,
+          "rationale": "Estas caracter\u00edsticas permiten conectar con la comunidad y asegurar que los protocolos se cumplan con justicia."
+        },
+        {
+          "text": "Capacidad de imponer sanciones legales inmediatas a quienes protesten.",
+          "isCorrect": false,
+          "rationale": "El rol del facilitador es arquitect\u00f3nico del di\u00e1logo, no punitivo o represivo."
+        },
+        {
+          "text": "Experiencia exclusiva en ingenier\u00eda de minas y procesos qu\u00edmicos.",
+          "isCorrect": false,
+          "rationale": "Aunque el conocimiento t\u00e9cnico ayuda, las habilidades blandas y sociales son las cr\u00edticas para este rol."
+        }
+      ],
+      "hint": "Reflexione sobre la importancia de entender la cultura local y no tomar partido."
+    },
+    {
+      "question": "Al finalizar la vida \u00fatil de una mina, \u00bfc\u00f3mo se mide el \u00e9xito de la gesti\u00f3n estrat\u00e9gica en el territorio?",
+      "answerOptions": [
+        {
+          "text": "Por la cantidad total de onzas de mineral producidas durante la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La producci\u00f3n es una m\u00e9trica operativa, no una medida de \u00e9xito territorial o social a largo plazo."
+        },
+        {
+          "text": "Por el n\u00famero de conflictos que fueron contenidos mediante el uso de la fuerza.",
+          "isCorrect": false,
+          "rationale": "La mitigaci\u00f3n de da\u00f1os por la fuerza no construye resiliencia ni autonom\u00eda comunitaria."
+        },
+        {
+          "text": "Por dejar una capacidad instalada y ciudadanos empoderados que prosperen de forma independiente.",
+          "isCorrect": true,
+          "rationale": "El verdadero legado es que la comunidad sea aut\u00f3noma y no dependa de la actividad extractiva para su bienestar."
+        },
+        {
+          "text": "Por la entrega de la infraestructura f\u00edsica a organismos internacionales de vigilancia.",
+          "isCorrect": false,
+          "rationale": "El \u00e9xito radica en la fortaleza de las instituciones locales y la propia comunidad, no en terceros externos."
+        }
+      ],
+      "hint": "Piense en lo que queda en la comunidad una vez que la empresa minera se retira."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el 'tr\u00edpode fundamental' que debe equilibrar una operaci\u00f3n minera sostenible?",
+      "answerOptions": [
+        {
+          "text": "El impacto econ\u00f3mico, el ambiental y el social.",
+          "isCorrect": true,
+          "rationale": "La sostenibilidad se alcanza cuando estos tres pilares se gestionan con igual rigor y transparencia."
+        },
+        {
+          "text": "La inversi\u00f3n extranjera, la tecnolog\u00eda y el precio del mineral.",
+          "isCorrect": false,
+          "rationale": "Estos son factores de mercado y t\u00e9cnicos, pero no cubren la dimensi\u00f3n de sostenibilidad territorial."
+        },
+        {
+          "text": "La producci\u00f3n, la seguridad industrial y el cumplimiento legal.",
+          "isCorrect": false,
+          "rationale": "Aunque necesarios para operar, no garantizan por s\u00ed solos la licencia social y el equilibrio con el entorno."
+        },
+        {
+          "text": "El apoyo pol\u00edtico, la publicidad medi\u00e1tica y la filantrop\u00eda.",
+          "isCorrect": false,
+          "rationale": "Estos elementos son superficiales y no abordan los pilares estructurales de la sostenibilidad."
+        }
+      ],
+      "hint": "Considere las tres dimensiones cl\u00e1sicas del desarrollo sostenible mencionadas en la s\u00edntesis."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Gesti\u00f3n estrat\u00e9gica de la conflictividad minera",
+      "Monitoreo participativo y transparencia",
+      "Modelos de financiamiento p\u00fablico-privado (CAPEX/OPEX)",
+      "Autonom\u00eda econ\u00f3mica y empresas comunales",
+      "Anatom\u00eda y tipolog\u00eda del conflicto social"
+    ],
+    "followUp": [
+      "Dise\u00f1o de planes de desarrollo post-miner\u00eda",
+      "Metodolog\u00edas de negociaci\u00f3n integrativa",
+      "Instrumentos de gesti\u00f3n ambiental (EIA) para l\u00edderes sociales",
+      "Fortalecimiento de la gobernanza territorial"
+    ]
+  }
+}

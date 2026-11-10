@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el pilar estrat\u00e9gico que permite preservar el capital intelectual y mantener viva la operaci\u00f3n en entornos vol\u00e1tiles?",
+      "answerOptions": [
+        {
+          "text": "La jerarquizaci\u00f3n del conocimiento t\u00e9cnico",
+          "isCorrect": false,
+          "rationale": "La jerarquizaci\u00f3n tiende a atrapar el conocimiento en los niveles altos, impidiendo su flujo din\u00e1mico hacia la primera l\u00ednea."
+        },
+        {
+          "text": "El entrenamiento de formadores internos",
+          "isCorrect": true,
+          "rationale": "Entrenar a facilitadores internos asegura que el conocimiento especializado se transfiera y permanezca dentro de la organizaci\u00f3n como un activo estrat\u00e9gico."
+        },
+        {
+          "text": "La impresi\u00f3n masiva de manuales operativos",
+          "isCorrect": false,
+          "rationale": "Entregar manuales es una acci\u00f3n pasiva que no garantiza la retenci\u00f3n ni la modificaci\u00f3n de conductas necesarias para la seguridad."
+        },
+        {
+          "text": "La supervisi\u00f3n constante de la primera l\u00ednea",
+          "isCorrect": false,
+          "rationale": "Depender de la supervisi\u00f3n constante indica una falta de autonom\u00eda t\u00e9cnica y no preserva el capital intelectual de forma efectiva."
+        }
+      ],
+      "hint": "Se trata de transformar a los expertos actuales en veh\u00edculos de ense\u00f1anza."
+    },
+    {
+      "question": "\u00bfQu\u00e9 se busca lograr primordialmente al definir el entrenamiento t\u00e9cnico como un proceso de modificaci\u00f3n de conductas?",
+      "answerOptions": [
+        {
+          "text": "Crear operadores que repitan tareas mec\u00e1nicamente",
+          "isCorrect": false,
+          "rationale": "El objetivo no es crear robots, sino profesionales aut\u00f3nomos capaces de entender el porqu\u00e9 de sus acciones."
+        },
+        {
+          "text": "Garantizar la continuidad del negocio y la seguridad operativa",
+          "isCorrect": true,
+          "rationale": "Modificar la conducta asegura que los est\u00e1ndares de seguridad se sigan con precisi\u00f3n, protegiendo a las personas y a la empresa."
+        },
+        {
+          "text": "Reducir los costos de contrataci\u00f3n externa",
+          "isCorrect": false,
+          "rationale": "Aunque es un beneficio secundario, el enfoque principal de la modificaci\u00f3n conductual es la seguridad y la mitigaci\u00f3n de riesgos catastr\u00f3ficos."
+        },
+        {
+          "text": "Cumplir \u00fanicamente con los requisitos de la jerarqu\u00eda",
+          "isCorrect": false,
+          "rationale": "El entrenamiento busca trascender la jerarqu\u00eda para que la informaci\u00f3n llegue de forma din\u00e1mica a quienes operan directamente."
+        }
+      ],
+      "hint": "Piense en el resultado final necesario para evitar cat\u00e1strofes en entornos de alto riesgo."
+    },
+    {
+      "question": "Dentro del entrenamiento t\u00e9cnico, \u00bfcu\u00e1l de los tres componentes se refiere a la capacidad de convertir la teor\u00eda en un movimiento f\u00edsico preciso?",
+      "answerOptions": [
+        {
+          "text": "Conocimientos",
+          "isCorrect": false,
+          "rationale": "Los conocimientos se limitan al entendimiento de la teor\u00eda, las normativas y las reglas de juego, no a la ejecuci\u00f3n f\u00edsica."
+        },
+        {
+          "text": "Actitudes",
+          "isCorrect": false,
+          "rationale": "Las actitudes representan la mentalidad y el respeto natural por los protocolos, no la destreza motriz."
+        },
+        {
+          "text": "Habilidades",
+          "isCorrect": true,
+          "rationale": "Las habilidades son la manifestaci\u00f3n pr\u00e1ctica donde la teor\u00eda se transforma en acciones f\u00edsicas impecables y coordinadas."
+        },
+        {
+          "text": "Disciplina operativa",
+          "isCorrect": false,
+          "rationale": "La disciplina operativa es el marco general de cumplimiento, mientras que la ejecuci\u00f3n f\u00edsica espec\u00edfica recae en las habilidades."
+        }
+      ],
+      "hint": "Es el punto donde 'la magia ocurre' mediante la ejecuci\u00f3n t\u00e9cnica."
+    },
+    {
+      "question": "En el contexto de una emergencia ambiental, \u00bfcu\u00e1l es el plazo m\u00e1ximo para emitir un reporte preliminar a organismos como el OEFA?",
+      "answerOptions": [
+        {
+          "text": "$24$ horas",
+          "isCorrect": false,
+          "rationale": "Este plazo es com\u00fan en otras normativas, pero para el reporte preliminar ambiental el tiempo es mucho m\u00e1s restringido."
+        },
+        {
+          "text": "$12$ horas",
+          "isCorrect": true,
+          "rationale": "El personal debe tener la autonom\u00eda para notificar incidentes en un m\u00e1ximo de $12$ horas para evitar sanciones legales graves."
+        },
+        {
+          "text": "$48$ horas",
+          "isCorrect": false,
+          "rationale": "Esperar dos d\u00edas para un reporte preliminar expondr\u00eda a la organizaci\u00f3n a multas millonarias y paralizaciones."
+        },
+        {
+          "text": "$10$ d\u00edas",
+          "isCorrect": false,
+          "rationale": "Este plazo corresponde a la entrega del reporte definitivo, no al reporte preliminar de emergencia."
+        }
+      ],
+      "hint": "Es la mitad de un d\u00eda completo."
+    },
+    {
+      "question": "\u00bfA qu\u00e9 se refiere el concepto de 'ergonom\u00eda temporal' en la fase de preparaci\u00f3n del entrenamiento?",
+      "answerOptions": [
+        {
+          "text": "A la comodidad de las sillas durante la sesi\u00f3n",
+          "isCorrect": false,
+          "rationale": "La ergonom\u00eda f\u00edsica trata sobre el mobiliario, pero la ergonom\u00eda temporal se enfoca en la gesti\u00f3n del tiempo y la biolog\u00eda."
+        },
+        {
+          "text": "A la duraci\u00f3n total de un contrato de capacitaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La ergonom\u00eda temporal no mide la duraci\u00f3n contractual, sino el momento \u00f3ptimo para el aprendizaje dentro de la jornada."
+        },
+        {
+          "text": "Aprovechar los picos biol\u00f3gicos y ventanas cognitivas del cerebro",
+          "isCorrect": true,
+          "rationale": "Significa programar los temas complejos cuando el cerebro est\u00e1 m\u00e1s fresco para maximizar la retenci\u00f3n de informaci\u00f3n."
+        },
+        {
+          "text": "A la velocidad con la que el facilitador habla",
+          "isCorrect": false,
+          "rationale": "El ritmo del habla es una t\u00e9cnica de oratoria, no una estrategia basada en los ciclos biol\u00f3gicos de atenci\u00f3n."
+        }
+      ],
+      "hint": "Relacione el tiempo con el estado de alerta mental de los estudiantes."
+    },
+    {
+      "question": "Seg\u00fan la metodolog\u00eda de las cuatro fases, \u00bfqui\u00e9n es el responsable principal si todo un grupo reprueba una evaluaci\u00f3n de habilidades?",
+      "answerOptions": [
+        {
+          "text": "Los estudiantes por falta de inter\u00e9s",
+          "isCorrect": false,
+          "rationale": "Atribuir la culpa a los estudiantes ignora las fallas potenciales en el dise\u00f1o o ejecuci\u00f3n de la ense\u00f1anza."
+        },
+        {
+          "text": "El departamento de recursos humanos",
+          "isCorrect": false,
+          "rationale": "Aunque gestionan el personal, la responsabilidad directa de la eficacia en el aula recae en quien imparte la materia."
+        },
+        {
+          "text": "El facilitador o el dise\u00f1o pedag\u00f3gico",
+          "isCorrect": true,
+          "rationale": "Si el fracaso es generalizado, indica una instrucci\u00f3n ineficaz o un dise\u00f1o de clase que no logr\u00f3 transferir el conocimiento correctamente."
+        },
+        {
+          "text": "Los supervisores de campo",
+          "isCorrect": false,
+          "rationale": "Los supervisores reciben al personal ya entrenado; la evaluaci\u00f3n de habilidades es el filtro previo bajo control del instructor."
+        }
+      ],
+      "hint": "Considere la premisa de responsabilidad total por parte del instructor."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una caracter\u00edstica fundamental de la fase de seguimiento y retroalimentaci\u00f3n (Fase 4)?",
+      "answerOptions": [
+        {
+          "text": "Realizarla semanas despu\u00e9s de la capacitaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Dejar pasar mucho tiempo permite que los errores se conviertan en h\u00e1bitos peligrosos dif\u00edciles de erradicar."
+        },
+        {
+          "text": "La inmediatez en la correcci\u00f3n de conductas en el campo",
+          "isCorrect": true,
+          "rationale": "Corregir en el momento exacto en que ocurre el error en la operaci\u00f3n real evita la formaci\u00f3n de malos h\u00e1bitos."
+        },
+        {
+          "text": "Limitarse a enviar un examen escrito por correo",
+          "isCorrect": false,
+          "rationale": "El seguimiento real requiere presencia en el lugar de trabajo para observar la aplicaci\u00f3n pr\u00e1ctica de lo aprendido."
+        },
+        {
+          "text": "Delegar la correcci\u00f3n exclusivamente al personal de seguridad",
+          "isCorrect": false,
+          "rationale": "El facilitador debe cerrar el ciclo de aprendizaje asegur\u00e1ndose de que la teor\u00eda se aplique bien en la pr\u00e1ctica."
+        }
+      ],
+      "hint": "Piense en el factor tiempo para evitar que un error se vuelva una costumbre."
+    },
+    {
+      "question": "Para un perfil de aprendizaje visual, \u00bfqu\u00e9 herramientas resultan m\u00e1s estrat\u00e9gicas seg\u00fan el modelo VAC?",
+      "answerOptions": [
+        {
+          "text": "Debates guiados y grabaciones de audio",
+          "isCorrect": false,
+          "rationale": "Estas herramientas son ideales para perfiles auditivos que procesan mejor la informaci\u00f3n a trav\u00e9s de la narrativa."
+        },
+        {
+          "text": "Simulacros y manejo f\u00edsico de equipos",
+          "isCorrect": false,
+          "rationale": "Estas actividades est\u00e1n dise\u00f1adas para el perfil kinest\u00e9sico que aprende mediante el movimiento."
+        },
+        {
+          "text": "Infograf\u00edas y videos de alta resoluci\u00f3n",
+          "isCorrect": true,
+          "rationale": "El perfil visual requiere est\u00edmulos gr\u00e1ficos, diagramas y observaci\u00f3n detallada para asimilar conceptos t\u00e9cnicos."
+        },
+        {
+          "text": "Lectura de manuales de texto sin im\u00e1genes",
+          "isCorrect": false,
+          "rationale": "Aunque es visual, la falta de apoyo gr\u00e1fico y dinamismo reduce la efectividad para este perfil comparado con infograf\u00edas o videos."
+        }
+      ],
+      "hint": "Considere elementos que se procesan a trav\u00e9s de la vista y el an\u00e1lisis gr\u00e1fico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 efecto tiene el uso de mesas circulares en el entorno de aprendizaje industrial?",
+      "answerOptions": [
+        {
+          "text": "Aumenta la jerarqu\u00eda del facilitador sobre el grupo",
+          "isCorrect": false,
+          "rationale": "Al contrario, las mesas circulares tienden a horizontalizar la relaci\u00f3n y fomentar la participaci\u00f3n."
+        },
+        {
+          "text": "Neutraliza jerarqu\u00edas laborales y fomenta la igualdad t\u00e9cnica",
+          "isCorrect": true,
+          "rationale": "Este formato rompe la estructura tradicional pasiva y crea una atm\u00f3sfera donde todos los participantes se sienten al mismo nivel para aprender."
+        },
+        {
+          "text": "Reduce el espacio disponible para equipos pr\u00e1cticos",
+          "isCorrect": false,
+          "rationale": "Aunque ocupan espacio, su beneficio pedag\u00f3gico en la din\u00e1mica de grupo supera las limitaciones log\u00edsticas."
+        },
+        {
+          "text": "Facilita que los estudiantes usen sus tel\u00e9fonos discretamente",
+          "isCorrect": false,
+          "rationale": "El formato circular permite al facilitador gestionar mejor la atenci\u00f3n y detectar distractores m\u00e1s f\u00e1cilmente."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo cambia la interacci\u00f3n entre un jefe y un subordinado al sentarse en c\u00edrculo."
+    },
+    {
+      "question": "Para reducir el estr\u00e9s cognitivo durante una crisis, \u00bfqu\u00e9 t\u00e1ctica se recomienda para la notificaci\u00f3n de incidentes?",
+      "answerOptions": [
+        {
+          "text": "Memorizar todos los correos de las autoridades",
+          "isCorrect": false,
+          "rationale": "La memorizaci\u00f3n bajo estr\u00e9s es poco confiable y puede llevar a errores cr\u00edticos en medio de una emergencia."
+        },
+        {
+          "text": "Llamar por tel\u00e9fono a cada organismo fiscalizador",
+          "isCorrect": false,
+          "rationale": "Las llamadas no dejan un registro formal inmediato y estructurado como lo hace un reporte escrito con datos precisos."
+        },
+        {
+          "text": "Uso de plantillas de correo pre-preparadas",
+          "isCorrect": true,
+          "rationale": "Tener formatos listos con las direcciones oficiales permite al operador enfocarse solo en los datos del incidente, blindando el cumplimiento."
+        },
+        {
+          "text": "Esperar a que el supervisor llegue para redactar el informe",
+          "isCorrect": false,
+          "rationale": "Esperar puede causar que se exceda el plazo de $12$ horas, resultando en multas para la organizaci\u00f3n."
+        }
+      ],
+      "hint": "Se trata de simplificar la tarea administrativa mediante herramientas predise\u00f1adas."
+    },
+    {
+      "question": "Antes de iniciar cualquier maniobra de combate de incendios, \u00bfqu\u00e9 verificaci\u00f3n es obligatoria y b\u00e1sica?",
+      "answerOptions": [
+        {
+          "text": "Verificar la presi\u00f3n y la vigencia del extintor",
+          "isCorrect": true,
+          "rationale": "Sin confirmar que el equipo funciona y est\u00e1 vigente, cualquier t\u00e9cnica de uso carece de sentido y seguridad."
+        },
+        {
+          "text": "Llamar a los bomberos locales",
+          "isCorrect": false,
+          "rationale": "Aunque es importante alertar, la verificaci\u00f3n del equipo propio es el paso t\u00e9cnico inicial e innegociable para la respuesta inmediata."
+        },
+        {
+          "text": "Medir la temperatura exacta de la llama",
+          "isCorrect": false,
+          "rationale": "No es necesario medir la temperatura; basta con identificar la clase de fuego para seleccionar el agente extintor."
+        },
+        {
+          "text": "Retirar el seguro inmediatamente sin mirar el man\u00f3metro",
+          "isCorrect": false,
+          "rationale": "Retirar el seguro es parte de la operaci\u00f3n, pero la verificaci\u00f3n previa de presi\u00f3n es lo que garantiza que el equipo responder\u00e1."
+        }
+      ],
+      "hint": "Es un paso de seguridad preventivo sobre el estado del equipo."
+    },
+    {
+      "question": "En el procedimiento de cuarteo de minerales, \u00bfqu\u00e9 paso garantiza la representatividad geol\u00f3gica de la muestra?",
+      "answerOptions": [
+        {
+          "text": "Mezclar el mineral con agentes qu\u00edmicos",
+          "isCorrect": false,
+          "rationale": "El cuarteo es un proceso f\u00edsico de divisi\u00f3n, no una reacci\u00f3n qu\u00edmica para alterar la composici\u00f3n."
+        },
+        {
+          "text": "Dividir en cuatro y eliminar extremos opuestos",
+          "isCorrect": true,
+          "rationale": "Este m\u00e9todo sistem\u00e1tico asegura que la muestra final conserve las propiedades del total del material extra\u00eddo."
+        },
+        {
+          "text": "Seleccionar solo las piedras m\u00e1s grandes de la muestra",
+          "isCorrect": false,
+          "rationale": "Seleccionar por tama\u00f1o introducir\u00eda un sesgo, invalidando la validez t\u00e9cnica de los resultados posteriores."
+        },
+        {
+          "text": "Pesar el material antes de dividirlo",
+          "isCorrect": false,
+          "rationale": "El peso es un dato, pero la representatividad depende de la t\u00e9cnica de selecci\u00f3n de las partes divididas."
+        }
+      ],
+      "hint": "Considere la acci\u00f3n de descarte que se realiza tras dividir el material."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia directa de una falla en el proceso milim\u00e9trico de cuarteo?",
+      "answerOptions": [
+        {
+          "text": "Un ligero retraso en la entrega del reporte",
+          "isCorrect": false,
+          "rationale": "M\u00e1s que un retraso, el error afecta la calidad fundamental de los datos obtenidos."
+        },
+        {
+          "text": "Invalida la validez legal y t\u00e9cnica de todos los resultados",
+          "isCorrect": true,
+          "rationale": "Si la muestra no es representativa debido a un mal cuarteo, cualquier an\u00e1lisis posterior carece de sustento para la empresa."
+        },
+        {
+          "text": "Requiere simplemente volver a pesar el material",
+          "isCorrect": false,
+          "rationale": "El error en el cuarteo no es de pesaje, sino de la integridad de la muestra, lo que obliga a repetir todo el muestreo."
+        },
+        {
+          "text": "Aumenta el consumo de energ\u00eda de la planta",
+          "isCorrect": false,
+          "rationale": "El cuarteo es un procedimiento manual o mec\u00e1nico de muestreo que no impacta significativamente el consumo energ\u00e9tico global."
+        }
+      ],
+      "hint": "Piense en la utilidad de los datos obtenidos a partir de esa muestra."
+    },
+    {
+      "question": "\u00bfQu\u00e9 define a un facilitador t\u00e9cnico como un 'agente de cambio'?",
+      "answerOptions": [
+        {
+          "text": "Su habilidad para leer diapositivas con claridad",
+          "isCorrect": false,
+          "rationale": "Un agente de cambio va m\u00e1s all\u00e1 de la simple lectura; debe inspirar y liderar la transformaci\u00f3n conductual."
+        },
+        {
+          "text": "El uso de su experiencia para inspirar confianza y cambiar comportamientos",
+          "isCorrect": true,
+          "rationale": "Utiliza su liderazgo y conocimiento de campo para lograr que el personal interiorice y respete los est\u00e1ndares."
+        },
+        {
+          "text": "Su capacidad para imponer sanciones disciplinarias",
+          "isCorrect": false,
+          "rationale": "El liderazgo del facilitador se basa en el ejemplo y la inspiraci\u00f3n, no en el poder punitivo de un supervisor."
+        },
+        {
+          "text": "Tener el cargo de mayor jerarqu\u00eda en la empresa",
+          "isCorrect": false,
+          "rationale": "Cualquier experto t\u00e9cnico entrenado puede ser facilitador, independientemente de si es el gerente o un mando medio."
+        }
+      ],
+      "hint": "Se relaciona con el liderazgo y la capacidad de conectar puntos para el personal operativo."
+    },
+    {
+      "question": "En el entrenamiento para el uso de extintores, \u00bfqu\u00e9 acci\u00f3n sigue inmediatamente despu\u00e9s de identificar la clase de fuego?",
+      "answerOptions": [
+        {
+          "text": "Descargar todo el contenido al aire",
+          "isCorrect": false,
+          "rationale": "La descarga debe ser controlada y dirigida a la base de la llama, no desperdiciada al aire."
+        },
+        {
+          "text": "Seleccionar el agente extintor adecuado (PQS o $CO_2$)",
+          "isCorrect": true,
+          "rationale": "Identificar el fuego permite elegir el agente correcto; usar el equivocado podr\u00eda ser ineficaz o peligroso."
+        },
+        {
+          "text": "Correr hacia la salida de emergencia",
+          "isCorrect": false,
+          "rationale": "Si se ha decidido combatir el fuego con un extintor, el paso t\u00e9cnico es la selecci\u00f3n del equipo adecuado."
+        },
+        {
+          "text": "Llamar a una reuni\u00f3n de seguridad",
+          "isCorrect": false,
+          "rationale": "En una emergencia de fuego, la respuesta debe ser instintiva y r\u00e1pida, siguiendo la coreograf\u00eda t\u00e9cnica aprendida."
+        }
+      ],
+      "hint": "Relacione el tipo de material inflamable con el qu\u00edmico necesario para extinguirlo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito fundamental de tratar el error como una oportunidad de reentrenamiento en el aula?",
+      "answerOptions": [
+        {
+          "text": "Evitar que los estudiantes se sientan mal",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda al clima, el objetivo real es la seguridad operativa mediante el aprendizaje basado en la correcci\u00f3n."
+        },
+        {
+          "text": "Garantizar que los errores ocurran en un entorno seguro y no en el campo",
+          "isCorrect": true,
+          "rationale": "Es preferible detectar y corregir una falla en la sala de capacitaci\u00f3n que enfrentar una cat\u00e1strofe en la operaci\u00f3n real."
+        },
+        {
+          "text": "Eliminar la necesidad de evaluaciones finales",
+          "isCorrect": false,
+          "rationale": "El tratamiento del error complementa la evaluaci\u00f3n, permitiendo cerrar brechas antes de la certificaci\u00f3n."
+        },
+        {
+          "text": "Ahorrar tiempo en la explicaci\u00f3n de la teor\u00eda",
+          "isCorrect": false,
+          "rationale": "Tratar errores suele tomar m\u00e1s tiempo, pero asegura que el conocimiento se asiente de forma correcta y segura."
+        }
+      ],
+      "hint": "Considere la diferencia de consecuencias entre fallar en clase y fallar en la planta."
+    },
+    {
+      "question": "\u00bfQu\u00e9 componente del entrenamiento busca que el trabajador respete los protocolos de forma natural sin supervisi\u00f3n constante?",
+      "answerOptions": [
+        {
+          "text": "Habilidades f\u00edsicas",
+          "isCorrect": false,
+          "rationale": "Las habilidades aseguran que sepa 'c\u00f3mo' hacerlo, pero no garantizan que 'quiera' hacerlo sin que lo vigilen."
+        },
+        {
+          "text": "Conocimientos te\u00f3ricos",
+          "isCorrect": false,
+          "rationale": "Saber la norma no implica necesariamente tener la voluntad o la mentalidad de cumplirla voluntariamente."
+        },
+        {
+          "text": "Actitudes",
+          "isCorrect": true,
+          "rationale": "Las actitudes forman la mentalidad y disciplina operativa necesarias para actuar correctamente incluso cuando nadie est\u00e1 mirando."
+        },
+        {
+          "text": "Capacidad narrativa",
+          "isCorrect": false,
+          "rationale": "La narrativa es una herramienta del facilitador, no un componente del comportamiento del operador entrenado."
+        }
+      ],
+      "hint": "Es el factor 'mentalidad' que reduce la necesidad de un supervisor."
+    },
+    {
+      "question": "En la Fase 2 (Ejecuci\u00f3n), \u00bfqu\u00e9 debe hacer el facilitador inmediatamente antes de realizar una demostraci\u00f3n t\u00e9cnica?",
+      "answerOptions": [
+        {
+          "text": "Entregar el examen escrito",
+          "isCorrect": false,
+          "rationale": "La evaluaci\u00f3n viene despu\u00e9s de la ense\u00f1anza y la pr\u00e1ctica, no antes de la demostraci\u00f3n."
+        },
+        {
+          "text": "Explicar el porqu\u00e9 detr\u00e1s de la importancia de la tarea",
+          "isCorrect": true,
+          "rationale": "Si los participantes no entienden la relevancia de la tarea, no lograr\u00e1n interiorizar la t\u00e9cnica de forma efectiva."
+        },
+        {
+          "text": "Pedir a un estudiante que adivine los pasos",
+          "isCorrect": false,
+          "rationale": "En seguridad industrial se debe evitar la improvisaci\u00f3n; el experto debe modelar la ejecuci\u00f3n perfecta primero."
+        },
+        {
+          "text": "Apagar las luces para proyectar un video",
+          "isCorrect": false,
+          "rationale": "La demostraci\u00f3n t\u00e9cnica suele ser presencial y activa; los videos son apoyos, pero el modelado del experto es central en esta fase."
+        }
+      ],
+      "hint": "Se trata de dar sentido y motivaci\u00f3n a la acci\u00f3n que se va a observar."
+    },
+    {
+      "question": "Seg\u00fan el balance final, \u00bfqu\u00e9 beneficio aporta la creaci\u00f3n de una cultura de excelencia al trabajador?",
+      "answerOptions": [
+        {
+          "text": "Aumento autom\u00e1tico de su salario mensual",
+          "isCorrect": false,
+          "rationale": "Aunque la capacitaci\u00f3n mejora el perfil profesional, el beneficio mencionado es la elevaci\u00f3n de su dignidad y rol protector."
+        },
+        {
+          "text": "Eleva su dignidad profesional al convertirlo en un guardi\u00e1n proactivo",
+          "isCorrect": true,
+          "rationale": "Transforma al operador en un protector consciente de la seguridad y el medio ambiente, valorando m\u00e1s su propio trabajo."
+        },
+        {
+          "text": "Le permite trabajar menos horas al d\u00eda",
+          "isCorrect": false,
+          "rationale": "La excelencia busca eficiencia y seguridad, no necesariamente una reducci\u00f3n de la jornada laboral."
+        },
+        {
+          "text": "Le otorga el derecho de ignorar a los supervisores",
+          "isCorrect": false,
+          "rationale": "La autonom\u00eda t\u00e9cnica busca que haga bien su trabajo solo, pero siempre bajo el marco de los est\u00e1ndares de la empresa."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el trabajador se percibe a s\u00ed mismo dentro de la organizaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal del 'modelado' por parte del facilitador t\u00e9cnico?",
+      "answerOptions": [
+        {
+          "text": "Mostrar c\u00f3mo se cometen errores comunes",
+          "isCorrect": false,
+          "rationale": "El modelado debe ser una ejecuci\u00f3n absolutamente perfecta para que el estudiante tenga un referente ideal."
+        },
+        {
+          "text": "Realizar una ejecuci\u00f3n perfecta de la tarea como referencia",
+          "isCorrect": true,
+          "rationale": "El aprendiz necesita ver la 'coreograf\u00eda t\u00e9cnica' impecable antes de intentar realizar el movimiento por s\u00ed mismo."
+        },
+        {
+          "text": "Acelerar la clase para terminar antes de tiempo",
+          "isCorrect": false,
+          "rationale": "El modelado requiere detalle y precisi\u00f3n milim\u00e9trica, lo cual no es compatible con las prisas injustificadas."
+        },
+        {
+          "text": "Permitir que los estudiantes improvisen sus propias t\u00e9cnicas",
+          "isCorrect": false,
+          "rationale": "La metodolog\u00eda busca estandarizar la ense\u00f1anza para garantizar resultados uniformes y seguros."
+        }
+      ],
+      "hint": "El facilitador act\u00faa como un espejo de la forma correcta de trabajar."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Metodolog\u00eda de formaci\u00f3n de facilitadores",
+      "Seguridad operativa y gesti\u00f3n de riesgos",
+      "Normativa ambiental y plazos de reporte (OEFA)",
+      "Psicolog\u00eda del aprendizaje industrial (Modelo VAC)",
+      "Procedimientos t\u00e9cnicos (Extintores y Cuarteo)"
+    ],
+    "followUp": [
+      "Dise\u00f1o de programas de autonom\u00eda t\u00e9cnica para turnos nocturnos",
+      "Estrategias de ergonom\u00eda cognitiva en entornos de alto riesgo",
+      "Implementaci\u00f3n de sistemas de retroalimentaci\u00f3n inmediata in situ",
+      "Liderazgo transformacional para expertos t\u00e9cnicos en la industria"
+    ]
+  }
+}

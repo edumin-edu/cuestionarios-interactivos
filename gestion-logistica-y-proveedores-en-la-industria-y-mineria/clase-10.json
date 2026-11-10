@@ -1,0 +1,542 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el principal objetivo de migrar de un an\u00e1lisis cualitativo a un modelo de FODA matem\u00e1tico en la gesti\u00f3n log\u00edstica?",
+      "answerOptions": [
+        {
+          "text": "Eliminar el sesgo humano y la subjetividad mediante el rigor estad\u00edstico.",
+          "isCorrect": true,
+          "rationale": "El FODA matem\u00e1tico transforma observaciones cualitativas en datos procesables para dirigir recursos a los pilares m\u00e1s cr\u00edticos sin interferencia de la intuici\u00f3n."
+        },
+        {
+          "text": "Reducir la cantidad de factores que se deben analizar en una matriz estrat\u00e9gica.",
+          "isCorrect": false,
+          "rationale": "El modelo no busca reducir la cantidad de factores, sino objetivizar la relaci\u00f3n y el peso de cada uno de ellos mediante comparaciones binarias."
+        },
+        {
+          "text": "Sustituir por completo la experiencia de la alta gerencia por algoritmos automatizados.",
+          "isCorrect": false,
+          "rationale": "Aunque se busca rigor estad\u00edstico, el modelo sirve como herramienta de apoyo para que la direcci\u00f3n tome decisiones informadas, no para reemplazar su rol."
+        },
+        {
+          "text": "Aumentar la velocidad de reacci\u00f3n ante contingencias diarias del entorno minero.",
+          "isCorrect": false,
+          "rationale": "El modelo se enfoca en la capacidad de anticipaci\u00f3n estrat\u00e9gica a largo plazo m\u00e1s que en la respuesta operativa inmediata ante crisis."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo la cuantificaci\u00f3n de datos afecta la neutralidad de las decisiones estrat\u00e9gicas."
+    },
+    {
+      "question": "En la metodolog\u00eda del FODA matem\u00e1tico, \u00bfc\u00f3mo se ejecuta la comparaci\u00f3n de factores dentro de la matriz de doble entrada?",
+      "answerOptions": [
+        {
+          "text": "Se realiza una comparaci\u00f3n binaria donde cada factor compite contra otro de su mismo grupo.",
+          "isCorrect": true,
+          "rationale": "La t\u00e9cnica utiliza un sistema de enfrentamiento directo factor contra factor para determinar cu\u00e1l es m\u00e1s importante en cada celda de decisi\u00f3n."
+        },
+        {
+          "text": "Se asigna un puntaje del $1$ al $10$ de forma arbitraria seg\u00fan la percepci\u00f3n del observador.",
+          "isCorrect": false,
+          "rationale": "Este enfoque ser\u00eda puramente cualitativo y subjetivo, lo cual es precisamente lo que el FODA matem\u00e1tico busca evitar."
+        },
+        {
+          "text": "Se promedian los valores hist\u00f3ricos de \u00e9xito de cada fortaleza o debilidad analizada.",
+          "isCorrect": false,
+          "rationale": "El c\u00e1lculo de importancia relativa se basa en la frecuencia de \u00e9xito en los enfrentamientos dentro de la matriz, no en datos hist\u00f3ricos externos."
+        },
+        {
+          "text": "Se multiplican todos los factores entre s\u00ed para obtener un \u00edndice de correlaci\u00f3n lineal.",
+          "isCorrect": false,
+          "rationale": "El proceso no es una multiplicaci\u00f3n de factores, sino una jerarquizaci\u00f3n basada en la frecuencia de elecci\u00f3n sobre otros elementos."
+        }
+      ],
+      "hint": "Imagine una estructura de torneo donde los elementos se enfrentan de dos en dos."
+    },
+    {
+      "question": "Si una fortaleza gana $4$ de $10$ enfrentamientos posibles en la matriz, \u00bfcu\u00e1l es su importancia relativa?",
+      "answerOptions": [
+        {
+          "text": "$0.4$",
+          "isCorrect": true,
+          "rationale": "La importancia relativa se obtiene dividiendo la frecuencia de \u00e9xito de un factor entre el n\u00famero total de celdas de decisi\u00f3n."
+        },
+        {
+          "text": "$4.0$",
+          "isCorrect": false,
+          "rationale": "Este valor no corresponde a una proporci\u00f3n; la suma de todas las importancias relativas debe ser exactamente $1.0$."
+        },
+        {
+          "text": "$0.25$",
+          "isCorrect": false,
+          "rationale": "Este resultado vendr\u00eda de invertir la divisi\u00f3n o usar una base de datos incorrecta para el c\u00e1lculo de la frecuencia."
+        },
+        {
+          "text": "$0.6$",
+          "isCorrect": false,
+          "rationale": "Este valor representar\u00eda la tasa de fracaso o las veces que el factor no fue seleccionado, en lugar de su peso relativo de importancia."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n matem\u00e1tica entre las victorias obtenidas y el total de eventos evaluados."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el resultado de multiplicar la importancia relativa por la calificaci\u00f3n de impacto (escala $1$ a $5$)?",
+      "rationale": "El puntaje ponderado permite jerarquizar de forma fr\u00eda y objetiva los riesgos financieros y operativos de la cadena de suministro.",
+      "answerOptions": [
+        {
+          "text": "El puntaje ponderado.",
+          "isCorrect": true,
+          "rationale": "Este valor final es el que determina cu\u00e1les debilidades o amenazas representan el riesgo m\u00e1s grande para la operaci\u00f3n."
+        },
+        {
+          "text": "La frecuencia de \u00e9xito.",
+          "isCorrect": false,
+          "rationale": "La frecuencia de \u00e9xito es un dato de entrada previo al c\u00e1lculo del peso, no el resultado de la ponderaci\u00f3n por impacto."
+        },
+        {
+          "text": "El \u00edndice de resiliencia.",
+          "isCorrect": false,
+          "rationale": "Aunque el modelo ayuda a la resiliencia, el t\u00e9rmino t\u00e9cnico para este c\u00e1lculo matem\u00e1tico espec\u00edfico es puntaje ponderado."
+        },
+        {
+          "text": "El margen de error estad\u00edstico.",
+          "isCorrect": false,
+          "rationale": "El modelo busca eliminar la subjetividad, pero este c\u00e1lculo no mide el error del modelo, sino la magnitud del riesgo."
+        }
+      ],
+      "hint": "Se trata del valor final que permite priorizar las acciones en el diagn\u00f3stico num\u00e9rico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tipo de t\u00e1cticas se generan en la matriz MAFE al cruzar Debilidades con Amenazas (DA)?",
+      "answerOptions": [
+        {
+          "text": "Estrategias defensivas enfocadas en la mitigaci\u00f3n de riesgos cr\u00edticos para la supervivencia.",
+          "isCorrect": true,
+          "rationale": "Las estrategias DA funcionan como un escudo para proteger a la organizaci\u00f3n de factores externos peligrosos cuando hay vulnerabilidades internas."
+        },
+        {
+          "text": "Acciones ofensivas dise\u00f1adas para capturar nuevas cuotas de mercado r\u00e1pidamente.",
+          "isCorrect": false,
+          "rationale": "Las acciones de ataque o expansi\u00f3n corresponden a las estrategias FO (Fortalezas y Oportunidades), no a las DA."
+        },
+        {
+          "text": "Proyectos de inversi\u00f3n en infraestructura de largo plazo para mejorar la log\u00edstica.",
+          "isCorrect": false,
+          "rationale": "Aunque pueden incluirse, el enfoque principal de DA es la defensa y supervivencia inmediata ante riesgos combinados."
+        },
+        {
+          "text": "T\u00e1cticas de negociaci\u00f3n para reducir el precio unitario de los insumos operativos.",
+          "isCorrect": false,
+          "rationale": "La matriz MAFE se enfoca en la formaci\u00f3n de estrategias t\u00e9cnicas y operativas m\u00e1s que en la simple negociaci\u00f3n de precios."
+        }
+      ],
+      "hint": "Piense en acciones que sirven como un escudo ante situaciones adversas extremas."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que la infraestructura multimodal de un mineroducto es una jugada de mitigaci\u00f3n de riesgo estrat\u00e9gico?",
+      "answerOptions": [
+        {
+          "text": "Porque elimina la dependencia de las redes viales vulnerables a bloqueos sociales y clim\u00e1ticos.",
+          "isCorrect": true,
+          "rationale": "El transporte por ducto blindaje la operaci\u00f3n contra interrupciones en carreteras, asegurando la continuidad del flujo de mineral."
+        },
+        {
+          "text": "Porque reduce el costo de mantenimiento de los camiones de carga pesada en la mina.",
+          "isCorrect": false,
+          "rationale": "Aunque hay un impacto en la flota, el beneficio estrat\u00e9gico principal es la autonom\u00eda frente a factores externos disruptivos."
+        },
+        {
+          "text": "Porque permite aumentar la ley del mineral durante el proceso de transporte.",
+          "isCorrect": false,
+          "rationale": "El ducto es un medio de transporte f\u00edsico; no altera las propiedades qu\u00edmicas o la concentraci\u00f3n del mineral transportado."
+        },
+        {
+          "text": "Porque facilita la contrataci\u00f3n de proveedores locales de transporte terrestre.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el uso de un ducto reduce la necesidad de contratar servicios de transporte por carretera tradicionales."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede con la operaci\u00f3n cuando las carreteras principales son bloqueadas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio financiero ofrece el modelo de VMI (Vendor Managed Inventory) en consignaci\u00f3n para una empresa minera?",
+      "answerOptions": [
+        {
+          "text": "Libera capital de trabajo ya que el pago solo se realiza al momento del consumo del repuesto.",
+          "isCorrect": true,
+          "rationale": "La minera tiene la disponibilidad f\u00edsica sin haber transferido la propiedad ni el efectivo, optimizando su flujo de caja."
+        },
+        {
+          "text": "Elimina la necesidad de contar con un sistema de gesti\u00f3n de almacenes (WMS).",
+          "isCorrect": false,
+          "rationale": "Incluso en consignaci\u00f3n, el control del inventario f\u00edsico requiere sistemas para su correcta ubicaci\u00f3n y despacho."
+        },
+        {
+          "text": "Garantiza que el precio del repuesto se mantenga fijo durante toda la vida de la mina.",
+          "isCorrect": false,
+          "rationale": "El VMI gestiona la disponibilidad y la propiedad, pero los precios suelen estar sujetos a acuerdos contractuales y ajustes de mercado."
+        },
+        {
+          "text": "Reduce los costos de flete internacional de emergencia al agrupar pedidos.",
+          "isCorrect": false,
+          "rationale": "El beneficio central es financiero (propiedad del stock) y operativo (disponibilidad inmediata), m\u00e1s que una simple consolidaci\u00f3n de carga."
+        }
+      ],
+      "hint": "Piense en el momento exacto en el que el dinero sale de la cuenta de la empresa minera."
+    },
+    {
+      "question": "En un plan de contingencia ante la p\u00e9rdida de un proveedor clave, \u00bfcu\u00e1l es la prioridad durante las primeras $72$ horas?",
+      "answerOptions": [
+        {
+          "text": "Activar proveedores alternos homologados y evaluar la canibalizaci\u00f3n controlada de equipos.",
+          "isCorrect": true,
+          "rationale": "La fase de respuesta inmediata se centra en mantener la operaci\u00f3n funcionando con los recursos y alternativas ya disponibles."
+        },
+        {
+          "text": "Iniciar el proceso de integraci\u00f3n vertical parcial para fabricar los repuestos internamente.",
+          "isCorrect": false,
+          "rationale": "La integraci\u00f3n vertical es una estrategia de largo plazo, no una acci\u00f3n de respuesta inmediata de emergencia."
+        },
+        {
+          "text": "Desarrollar nuevos proveedores locales y talleres de maestranza en la regi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El desarrollo de proveedores toma meses; no es viable como primera acci\u00f3n en una crisis de menos de tres d\u00edas."
+        },
+        {
+          "text": "Redise\u00f1ar por completo la arquitectura tecnol\u00f3gica del ERP y el WMS.",
+          "isCorrect": false,
+          "rationale": "Cambiar la arquitectura tecnol\u00f3gica es un proceso estrat\u00e9gico complejo que no resuelve una interrupci\u00f3n de suministro inmediata."
+        }
+      ],
+      "hint": "Considere las acciones de emergencia necesarias para que la producci\u00f3n no se detenga s\u00fabitamente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n del sistema WMS en la coreograf\u00eda tecnol\u00f3gica de la miner\u00eda 4.0?",
+      "answerOptions": [
+        {
+          "text": "Gestionar el mundo f\u00edsico del almac\u00e9n, optimizando la ubicaci\u00f3n y las rutas de picking.",
+          "isCorrect": true,
+          "rationale": "El WMS se encarga de la ejecuci\u00f3n f\u00edsica y la precisi\u00f3n del inventario en los racks, traduciendo \u00f3rdenes digitales en acciones manuales."
+        },
+        {
+          "text": "Actuar como la \u00fanica fuente de verdad contable y financiera de la organizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n corresponde al ERP (como SAP u Oracle), mientras que el WMS es un sistema de ejecuci\u00f3n operativa."
+        },
+        {
+          "text": "Predecir fallas en los equipos mediante el an\u00e1lisis de vibraciones de sensores IoT.",
+          "isCorrect": false,
+          "rationale": "La predicci\u00f3n de fallas es tarea de los sistemas de Inteligencia Artificial, que luego se integran con el WMS y ERP."
+        },
+        {
+          "text": "Proveer un registro inalterable de la trazabilidad del mineral mediante bloques de datos.",
+          "isCorrect": false,
+          "rationale": "La trazabilidad inalterable es la caracter\u00edstica principal del Blockchain, no de un sistema de gesti\u00f3n de almacenes tradicional."
+        }
+      ],
+      "hint": "Piense en la herramienta que le dice a un operario en qu\u00e9 pasillo exacto se encuentra una pieza."
+    },
+    {
+      "question": "Dentro del ciclo de abastecimiento en un ERP, \u00bfqu\u00e9 proceso marca la confirmaci\u00f3n de que la mercanc\u00eda f\u00edsica ha ingresado realmente?",
+      "answerOptions": [
+        {
+          "text": "MIGO",
+          "isCorrect": true,
+          "rationale": "El movimiento MIGO es el registro formal de entrada de mercanc\u00eda que cierra el ciclo de recepci\u00f3n f\u00edsica en el sistema."
+        },
+        {
+          "text": "Solped",
+          "isCorrect": false,
+          "rationale": "La Solped es la solicitud de pedido, la cual da inicio al ciclo pero no confirma la recepci\u00f3n del material."
+        },
+        {
+          "text": "Picking",
+          "isCorrect": false,
+          "rationale": "El picking es el proceso de preparaci\u00f3n y recolecci\u00f3n de pedidos para su salida o uso, no para su entrada inicial al sistema."
+        },
+        {
+          "text": "IoT Data Sync",
+          "isCorrect": false,
+          "rationale": "La sincronizaci\u00f3n de datos IoT es una captura autom\u00e1tica de informaci\u00f3n, no un proceso transaccional de confirmaci\u00f3n de inventario."
+        }
+      ],
+      "hint": "Es el t\u00e9rmino t\u00e9cnico utilizado para la entrada de mercanc\u00eda en sistemas como SAP."
+    },
+    {
+      "question": "\u00bfQu\u00e9 diferencia fundamental existe entre un comprador tradicional y un gestor de categor\u00edas moderno?",
+      "answerOptions": [
+        {
+          "text": "El gestor de categor\u00edas equilibra el rigor anal\u00edtico (TCO) con habilidades blandas y gesti\u00f3n de relaciones.",
+          "isCorrect": true,
+          "rationale": "A diferencia del comprador enfocado solo en precio, el gestor utiliza modelos complejos y visi\u00f3n estrat\u00e9gica a largo plazo."
+        },
+        {
+          "text": "El comprador tradicional utiliza inteligencia artificial, mientras que el gestor solo usa hojas de c\u00e1lculo.",
+          "isCorrect": false,
+          "rationale": "Es al rev\u00e9s; el perfil moderno es el que integra herramientas digitales avanzadas y an\u00e1lisis predictivo."
+        },
+        {
+          "text": "El gestor de categor\u00edas se enfoca exclusivamente en reducir el precio de etiqueta de los productos.",
+          "isCorrect": false,
+          "rationale": "El enfoque en el precio de etiqueta es caracter\u00edstico del comprador tradicional; el gestor mira el costo total de propiedad."
+        },
+        {
+          "text": "El comprador tradicional es el \u00fanico encargado de la \u00e9tica y el cumplimiento normativo.",
+          "isCorrect": false,
+          "rationale": "La \u00e9tica es un requisito para ambos, pero el gestor de categor\u00edas la integra como una habilidad blanda cr\u00edtica para su rol estrat\u00e9gico."
+        }
+      ],
+      "hint": "Considere qui\u00e9n tiene una visi\u00f3n m\u00e1s amplia de los costos ocultos y las relaciones a largo plazo."
+    },
+    {
+      "question": "En el an\u00e1lisis de Costo Total de Propiedad (TCO), \u00bfqu\u00e9 representa el 'precio de etiqueta'?",
+      "answerOptions": [
+        {
+          "text": "Solo la punta del iceberg de los costos totales proyectados a largo plazo.",
+          "isCorrect": true,
+          "rationale": "El TCO revela que el precio de adquisici\u00f3n inicial es a menudo una fracci\u00f3n peque\u00f1a comparada con el mantenimiento y costos operativos."
+        },
+        {
+          "text": "El valor final que determina qu\u00e9 proveedor es la opci\u00f3n m\u00e1s rentable.",
+          "isCorrect": false,
+          "rationale": "Basarse solo en el precio inicial puede llevar a decisiones financieras desastrosas debido a costos ocultos posteriores."
+        },
+        {
+          "text": "La suma total de la instalaci\u00f3n, el flete y el mantenimiento anual.",
+          "isCorrect": false,
+          "rationale": "El precio de etiqueta excluye estos factores, que son precisamente los componentes que el TCO busca integrar."
+        },
+        {
+          "text": "El costo incurrido por la p\u00e9rdida de producci\u00f3n durante una falla del equipo.",
+          "isCorrect": false,
+          "rationale": "Ese es el costo de lucro cesante o parada de planta, un factor externo al precio de compra del activo."
+        }
+      ],
+      "hint": "Piense en la parte visible de un gasto que oculta otros compromisos financieros futuros."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el impacto de un costo de parada de planta imprevista de $\\$80,000$ mensuales en una licitaci\u00f3n de equipos cr\u00edticos?",
+      "answerOptions": [
+        {
+          "text": "Hace que la confiabilidad y el costo de mantenimiento sean m\u00e1s importantes que el precio de compra inicial.",
+          "isCorrect": true,
+          "rationale": "Un riesgo de falla alto puede generar p\u00e9rdidas que superan r\u00e1pidamente cualquier ahorro obtenido en la adquisici\u00f3n del equipo."
+        },
+        {
+          "text": "Obliga a la empresa a comprar siempre el equipo m\u00e1s barato para compensar posibles p\u00e9rdidas.",
+          "isCorrect": false,
+          "rationale": "Al contrario, comprar lo m\u00e1s barato suele aumentar el riesgo de fallas, lo que incrementa el peligro de paradas costosas."
+        },
+        {
+          "text": "Reduce la necesidad de realizar un an\u00e1lisis de TCO, ya que el costo operativo es fijo.",
+          "isCorrect": false,
+          "rationale": "El costo de parada es una variable cr\u00edtica que intensifica la necesidad de un an\u00e1lisis TCO riguroso para mitigar riesgos."
+        },
+        {
+          "text": "Indica que la log\u00edstica de transporte desde ciudades lejanas no afecta la rentabilidad.",
+          "isCorrect": false,
+          "rationale": "La ubicaci\u00f3n afecta el tiempo de respuesta ante fallas; si el soporte est\u00e1 lejos, el costo de parada de planta se dispara."
+        }
+      ],
+      "hint": "Considere c\u00f3mo cambia su decisi\u00f3n de compra si sabe que un d\u00eda de falla le costar\u00e1 miles de d\u00f3lares."
+    },
+    {
+      "question": "\u00bfC\u00f3mo interact\u00faan los sensores IoT con el ERP y el WMS en un entorno de miner\u00eda digital?",
+      "answerOptions": [
+        {
+          "text": "Detectan anomal\u00edas que disparan autom\u00e1ticamente solicitudes de pedido (Solped) y \u00f3rdenes de almac\u00e9n.",
+          "isCorrect": true,
+          "rationale": "La integraci\u00f3n permite que una se\u00f1al f\u00edsica de vibraci\u00f3n o falla inminente inicie el flujo de abastecimiento sin intervenci\u00f3n humana."
+        },
+        {
+          "text": "Sustituyen la necesidad de registrar las transacciones financieras en el libro mayor del ERP.",
+          "isCorrect": false,
+          "rationale": "Los sensores proveen datos operativos, pero los registros contables y financieros siguen siendo necesarios dentro del ERP."
+        },
+        {
+          "text": "Bloquean el acceso al almac\u00e9n a menos que el operario tenga una orden de compra firmada f\u00edsicamente.",
+          "isCorrect": false,
+          "rationale": "Su funci\u00f3n es de monitoreo y automatizaci\u00f3n de procesos, no act\u00faan principalmente como sistemas de seguridad f\u00edsica de accesos."
+        },
+        {
+          "text": "Generan reportes estad\u00edsticos que solo pueden ser interpretados por proveedores externos (OEM).",
+          "isCorrect": false,
+          "rationale": "Los datos se visualizan internamente en herramientas como Power BI para que los gerentes de la mina tomen decisiones."
+        }
+      ],
+      "hint": "Imagine una coreograf\u00eda donde una alerta de m\u00e1quina 'habla' directamente con el sistema de compras."
+    },
+    {
+      "question": "En la jerarqu\u00eda del FODA matem\u00e1tico, \u00bfcu\u00e1l es el requisito indispensable para que la suma de todos los factores de un grupo sea v\u00e1lida?",
+      "answerOptions": [
+        {
+          "text": "La suma de las importancias relativas debe ser exactamente $1.0$.",
+          "isCorrect": true,
+          "rationale": "Esta es una regla fundamental de probabilidad e importancia relativa para garantizar la consistencia estad\u00edstica del modelo."
+        },
+        {
+          "text": "La calificaci\u00f3n de impacto debe ser la misma para todos los factores analizados.",
+          "isCorrect": false,
+          "rationale": "Cada factor tiene un impacto distinto ($1$ a $5$); si todos fueran iguales, no habr\u00eda una jerarquizaci\u00f3n \u00fatil."
+        },
+        {
+          "text": "El n\u00famero de fortalezas debe ser igual al n\u00famero de debilidades en la matriz.",
+          "isCorrect": false,
+          "rationale": "No se requiere simetr\u00eda en la cantidad de factores, solo rigor en la comparaci\u00f3n de los elementos existentes."
+        },
+        {
+          "text": "Todos los factores deben haber ganado al menos un enfrentamiento binario.",
+          "isCorrect": false,
+          "rationale": "Es posible que un factor no gane ning\u00fan enfrentamiento, lo que le dar\u00eda una importancia relativa de $0$, reflejando su baja prioridad."
+        }
+      ],
+      "hint": "Piense en el valor total que representa el $100\\%$ de los pesos asignados."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es uno de los desaf\u00edos geogr\u00e1ficos m\u00e1s cr\u00edticos mencionados que impacta directamente los Lead Times en la miner\u00eda andina?",
+      "answerOptions": [
+        {
+          "text": "Operaciones a m\u00e1s de $4000$ metros sobre el nivel del mar con climas adversos.",
+          "isCorrect": true,
+          "rationale": "La altitud extrema y el clima fr\u00e1gil dificultan el transporte y extienden los tiempos de entrega de suministros cr\u00edticos."
+        },
+        {
+          "text": "La falta de acceso a puertos mar\u00edtimos en toda la costa del Pac\u00edfico.",
+          "isCorrect": false,
+          "rationale": "El problema no es la falta de puertos (se menciona el puerto de Guarmey), sino la dificultad de llegar a ellos desde las alturas."
+        },
+        {
+          "text": "La ausencia total de redes viales en el corredor minero del sur.",
+          "isCorrect": false,
+          "rationale": "Existen redes viales, pero son vulnerables a bloqueos y desastres clim\u00e1ticos, lo cual es distinto a su inexistencia."
+        },
+        {
+          "text": "El exceso de visibilidad en tiempo real que satura los sistemas de comunicaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Al contrario, uno de los desaf\u00edos mencionados es la falta de visibilidad en zonas remotas, no el exceso de ella."
+        }
+      ],
+      "hint": "Se relaciona con la altitud monumental donde se ubican muchos yacimientos."
+    },
+    {
+      "question": "En el contexto de Miner\u00eda 4.0, \u00bfcu\u00e1l es la funci\u00f3n estrat\u00e9gica del Blockchain?",
+      "answerOptions": [
+        {
+          "text": "Proveer un registro inalterable y transparente de la trazabilidad del mineral.",
+          "isCorrect": true,
+          "rationale": "El blockchain asegura que los datos sobre el origen y movimiento del mineral no puedan ser manipulados, aumentando la confianza."
+        },
+        {
+          "text": "Reemplazar al ERP como el motor central de transacciones financieras.",
+          "isCorrect": false,
+          "rationale": "El blockchain complementa la informaci\u00f3n, pero el ERP sigue siendo la columna vertebral de la gesti\u00f3n administrativa empresarial."
+        },
+        {
+          "text": "Automatizar f\u00edsicamente el movimiento de los racks dentro del almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "Esa es una funci\u00f3n de rob\u00f3tica o automatizaci\u00f3n vinculada al WMS, no una propiedad de la tecnolog\u00eda blockchain."
+        },
+        {
+          "text": "Calcular la importancia relativa de los factores en la matriz FODA.",
+          "isCorrect": false,
+          "rationale": "El c\u00e1lculo del FODA es un procedimiento estad\u00edstico/matem\u00e1tico; el blockchain se usa para la integridad de registros de datos."
+        }
+      ],
+      "hint": "Piense en la seguridad y la inmutabilidad de la informaci\u00f3n compartida."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo de las estrategias FO (Fortalezas + Oportunidades) dentro de la matriz anal\u00edtica?",
+      "answerOptions": [
+        {
+          "text": "Utilizar capacidades internas avanzadas para maximizar el aprovechamiento del mercado.",
+          "isCorrect": true,
+          "rationale": "Las estrategias FO son proactivas y buscan usar lo que la empresa hace bien para capturar beneficios del entorno externo."
+        },
+        {
+          "text": "Reducir los costos operativos para sobrevivir a una guerra de precios agresiva.",
+          "isCorrect": false,
+          "rationale": "Esta acci\u00f3n es t\u00edpica de las estrategias defensivas DA, enfocadas en debilidades y amenazas."
+        },
+        {
+          "text": "Corregir debilidades internas antes de que una oportunidad desaparezca.",
+          "isCorrect": false,
+          "rationale": "Ese enfoque corresponde a las estrategias DO (Debilidades y Oportunidades), enfocadas en la mejora interna para el crecimiento."
+        },
+        {
+          "text": "Eliminar la dependencia de proveedores tecnol\u00f3gicos externos.",
+          "isCorrect": false,
+          "rationale": "Aunque puede ser una t\u00e1ctica, el objetivo general de FO es el crecimiento y la expansi\u00f3n aprovechando fortalezas existentes."
+        }
+      ],
+      "hint": "Se trata de 'salir a comerse el mercado' usando las ventajas que ya se poseen."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa un centro como el de Cerro Verde en Arequipa dentro de la estrategia log\u00edstica?",
+      "answerOptions": [
+        {
+          "text": "Un hub log\u00edstico avanzado dise\u00f1ado para optimizar la \u00faltima milla y absorber choques.",
+          "isCorrect": true,
+          "rationale": "Estos centros funcionan como puntos de consolidaci\u00f3n y resiliencia para mitigar las interrupciones en la cadena de suministro."
+        },
+        {
+          "text": "Un laboratorio dedicado exclusivamente al desarrollo de inteligencia artificial.",
+          "isCorrect": false,
+          "rationale": "Aunque usen tecnolog\u00eda, su funci\u00f3n primordial mencionada es log\u00edstica y de soporte a la operaci\u00f3n f\u00edsica."
+        },
+        {
+          "text": "La sede principal donde se realizan \u00fanicamente las licitaciones de TCO.",
+          "isCorrect": false,
+          "rationale": "Las licitaciones son procesos administrativos; Cerro Verde es un ejemplo de infraestructura operativa de resiliencia."
+        },
+        {
+          "text": "Una planta de fabricaci\u00f3n de repuestos para equipos Caterpillar.",
+          "isCorrect": false,
+          "rationale": "El texto menciona que Ferreyros provee repuestos Caterpillar bajo modelos VMI, no que Cerro Verde los fabrique."
+        }
+      ],
+      "hint": "Piense en un punto estrat\u00e9gico que ayuda a gestionar la entrega final de suministros."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la reflexi\u00f3n final sugerida sobre la relaci\u00f3n entre ahorro y desastre financiero?",
+      "answerOptions": [
+        {
+          "text": "Debe existir un equilibrio entre ahorrar hoy y evitar fallas operativas costosas ma\u00f1ana.",
+          "isCorrect": true,
+          "rationale": "La gesti\u00f3n moderna exige ver m\u00e1s all\u00e1 del precio inmediato para proteger la rentabilidad y sostenibilidad a largo plazo."
+        },
+        {
+          "text": "El ahorro inmediato es siempre la prioridad m\u00e1xima para garantizar el flujo de caja.",
+          "isCorrect": false,
+          "rationale": "Priorizar solo el ahorro inicial puede causar costos de falla masivos que destruyen el valor de la empresa."
+        },
+        {
+          "text": "La tecnolog\u00eda siempre elimina la necesidad de preocuparse por los costos operativos.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda es un habilitador, pero no elimina los costos; ayuda a controlarlos y predecirlos mediante an\u00e1lisis financiero."
+        },
+        {
+          "text": "Es preferible no invertir en mantenimiento si el costo del equipo fue muy alto.",
+          "isCorrect": false,
+          "rationale": "Esto contradice el principio del TCO, donde el mantenimiento es clave para evitar el lucro cesante por paradas de planta."
+        }
+      ],
+      "hint": "Considere la balanza entre el gasto presente y los riesgos futuros."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "FODA matem\u00e1tico",
+      "Matriz MAFE",
+      "Log\u00edstica minera y resiliencia",
+      "Modelos de inventario (VMI)",
+      "Transformaci\u00f3n digital (ERP, WMS, IoT, AI)",
+      "Gesti\u00f3n de categor\u00edas",
+      "Costo Total de Propiedad (TCO)"
+    ],
+    "followUp": [
+      "An\u00e1lisis de criticidad de repuestos",
+      "Estrategias de negociaci\u00f3n basadas en el modelo de Kraljic",
+      "Automatizaci\u00f3n de almacenes con rob\u00f3tica",
+      "Sostenibilidad y \u00e9tica en la cadena de suministro minera"
+    ]
+  }
+}

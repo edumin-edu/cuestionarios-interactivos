@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de transitar de un enfoque reactivo a uno estrat\u00e9gico en la gesti\u00f3n de compras mineras?",
+      "answerOptions": [
+        {
+          "text": "Alcanzar la confiabilidad absoluta de la operaci\u00f3n para evitar paradas de planta.",
+          "isCorrect": true,
+          "rationale": "La transici\u00f3n estrat\u00e9gica busca transformar datos en inteligencia para garantizar que la operaci\u00f3n no se detenga, evitando p\u00e9rdidas por lucro cesante."
+        },
+        {
+          "text": "Reducir \u00fanicamente el precio de adquisici\u00f3n de los materiales de oficina.",
+          "isCorrect": false,
+          "rationale": "Enfocarse solo en precios de art\u00edculos menores no aborda la complejidad log\u00edstica ni el impacto financiero de la operaci\u00f3n principal."
+        },
+        {
+          "text": "Aumentar el volumen de inventario en todos los art\u00edculos para evitar desabastecimiento.",
+          "isCorrect": false,
+          "rationale": "Un enfoque estrat\u00e9gico busca la eficiencia, no simplemente acumular inventario, lo cual inmovilizar\u00eda capital innecesariamente."
+        },
+        {
+          "text": "Eliminar por completo el uso de tecnolog\u00eda en los procesos de almac\u00e9n.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n moderna depende precisamente de la clasificaci\u00f3n cient\u00edfica y matem\u00e1tica del inventario."
+        }
+      ],
+      "hint": "Considere el impacto financiero que tienen las interrupciones no programadas en las industrias extractivas."
+    },
+    {
+      "question": "De acuerdo con la ley de Pareto aplicada a la gesti\u00f3n de inventarios, \u00bfqu\u00e9 proporci\u00f3n de los art\u00edculos suele concentrar la mayor inversi\u00f3n financiera?",
+      "answerOptions": [
+        {
+          "text": "El $20\\%$ de los art\u00edculos concentra aproximadamente el $80\\%$ del dinero invertido.",
+          "isCorrect": true,
+          "rationale": "El modelo $80/20$ identifica que una minor\u00eda de elementos cr\u00edticos representa la gran mayor\u00eda del valor econ\u00f3mico en el almac\u00e9n."
+        },
+        {
+          "text": "El $80\\%$ de los art\u00edculos representa el $20\\%$ del valor total del inventario.",
+          "isCorrect": false,
+          "rationale": "Aunque es el reverso de la ley, el enfoque de gesti\u00f3n debe priorizar la concentraci\u00f3n de valor en el grupo minoritario."
+        },
+        {
+          "text": "Todos los art\u00edculos tienen el mismo impacto financiero del $50\\%$.",
+          "isCorrect": false,
+          "rationale": "Esto contradice la realidad de los almacenes industriales donde existe una clara jerarqu\u00eda de costos e importancia."
+        },
+        {
+          "text": "El $10\\%$ de los art\u00edculos genera el $100\\%$ de las paradas de planta.",
+          "isCorrect": false,
+          "rationale": "La ley de Pareto se enfoca en la distribuci\u00f3n del valor econ\u00f3mico, no necesariamente en la totalidad de las causas de fallas."
+        }
+      ],
+      "hint": "Recuerde el nombre num\u00e9rico por el que se conoce com\u00fanmente a este principio de concentraci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal de la gesti\u00f3n para los art\u00edculos clasificados como Clase A en el modelo ABC?",
+      "answerOptions": [
+        {
+          "text": "Revisiones diarias, gesti\u00f3n justo a tiempo ($JIT$) y niveles de stock m\u00ednimos.",
+          "isCorrect": true,
+          "rationale": "Al representar la mayor inversi\u00f3n, requieren un control milim\u00e9trico para no tener capital estancado y asegurar disponibilidad."
+        },
+        {
+          "text": "Compras masivas con colchones de seguridad muy grandes.",
+          "isCorrect": false,
+          "rationale": "Esta es una t\u00e1ctica para art\u00edculos de bajo costo (Clase C), ya que en los Clase A el costo de mantener stock es prohibitivo."
+        },
+        {
+          "text": "Revisiones ocasionales debido a su bajo impacto en el presupuesto.",
+          "isCorrect": false,
+          "rationale": "Los art\u00edculos Clase A son precisamente los de mayor impacto financiero y requieren vigilancia constante."
+        },
+        {
+          "text": "Delegaci\u00f3n total de la supervisi\u00f3n a contratistas externos sin contrato.",
+          "isCorrect": false,
+          "rationale": "El riesgo financiero de estos art\u00edculos exige que el equipo de compras mantenga el control directo de su gesti\u00f3n."
+        }
+      ],
+      "hint": "Piense en el nivel de vigilancia que requiere el grupo que representa el 'n\u00facleo vital' de la inversi\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 variables se cruzan en la Matriz de Kraljic para definir las estrategias de suministro?",
+      "answerOptions": [
+        {
+          "text": "Impacto financiero y riesgo de suministro.",
+          "isCorrect": true,
+          "rationale": "Estas dos dimensiones permiten categorizar los insumos seg\u00fan cu\u00e1nto gastamos y qu\u00e9 tan dif\u00edcil es conseguirlos en el mercado."
+        },
+        {
+          "text": "Costo de transporte y peso del material.",
+          "isCorrect": false,
+          "rationale": "Aunque importantes para la log\u00edstica, estas variables no definen por s\u00ed solas la posici\u00f3n estrat\u00e9gica del proveedor en el mercado."
+        },
+        {
+          "text": "Opini\u00f3n del usuario final y color del repuesto.",
+          "isCorrect": false,
+          "rationale": "La clasificaci\u00f3n debe basarse en datos duros de riesgo y dinero, no en criterios subjetivos o est\u00e9ticos."
+        },
+        {
+          "text": "Antig\u00fcedad del proveedor y n\u00famero de empleados.",
+          "isCorrect": false,
+          "rationale": "La matriz de Kraljic se enfoca en la din\u00e1mica del mercado externo y la importancia del insumo para la empresa."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre el dinero invertido y la dificultad de encontrar fuentes alternativas de suministro."
+    },
+    {
+      "question": "En la Matriz de Kraljic, \u00bfqu\u00e9 estrategia es la m\u00e1s adecuada para los art\u00edculos 'Apalancados'?",
+      "answerOptions": [
+        {
+          "text": "Exprimir el poder de compra mediante licitaciones agresivas o subastas inversas.",
+          "isCorrect": true,
+          "rationale": "Al haber bajo riesgo (muchos proveedores) y alto impacto (mucho dinero), la empresa tiene la ventaja para negociar mejores precios."
+        },
+        {
+          "text": "Crear alianzas a largo plazo y sociedades estrat\u00e9gicas.",
+          "isCorrect": false,
+          "rationale": "Esta es la t\u00e1ctica para art\u00edculos estrat\u00e9gicos donde el riesgo es alto; en los apalancados se busca eficiencia en costo."
+        },
+        {
+          "text": "Aumentar desesperadamente el stock de seguridad.",
+          "isCorrect": false,
+          "rationale": "Esta acci\u00f3n es t\u00edpica para art\u00edculos cuello de botella donde el suministro es incierto, no para los de f\u00e1cil acceso."
+        },
+        {
+          "text": "Estandarizar y simplificar los procesos de compra.",
+          "isCorrect": false,
+          "rationale": "Esta es la estrategia para art\u00edculos rutinarios de bajo impacto y bajo riesgo."
+        }
+      ],
+      "hint": "Imagine una situaci\u00f3n donde usted gasta mucho dinero pero tiene muchos vendedores compitiendo por su negocio."
+    },
+    {
+      "question": "\u00bfQu\u00e9 define a un art\u00edculo como un 'Cuello de Botella' dentro de la Matriz de Kraljic?",
+      "answerOptions": [
+        {
+          "text": "Bajo impacto financiero pero un riesgo de suministro muy alto.",
+          "isCorrect": true,
+          "rationale": "Son art\u00edculos que no cuestan mucho, pero cuya escasez puede detener la producci\u00f3n por falta de alternativas."
+        },
+        {
+          "text": "Alto costo y disponibilidad inmediata en cualquier tienda.",
+          "isCorrect": false,
+          "rationale": "Si la disponibilidad es inmediata, el riesgo es bajo, por lo que se categorizar\u00eda como apalancado."
+        },
+        {
+          "text": "Art\u00edculos que se compran una vez cada diez a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "La frecuencia no define el cuadrante, sino el riesgo de no encontrarlos cuando se necesitan y su peso en el gasto."
+        },
+        {
+          "text": "Materiales de oficina b\u00e1sicos como papel y bol\u00edgrafos.",
+          "isCorrect": false,
+          "rationale": "Estos suelen ser art\u00edculos rutinarios, ya que su riesgo de suministro es pr\u00e1cticamente nulo."
+        }
+      ],
+      "hint": "Piense en una pieza peque\u00f1a y barata que solo un fabricante en el mundo produce."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el concepto de Costo Total de Pertenencia ($TCO$)?",
+      "answerOptions": [
+        {
+          "text": "La suma de todos los desembolsos desde la adquisici\u00f3n hasta el desecho final del equipo.",
+          "isCorrect": true,
+          "rationale": "El $TCO$ analiza el ciclo de vida completo, incluyendo mantenimiento, energ\u00eda, fallas y disposici\u00f3n final."
+        },
+        {
+          "text": "\u00danicamente el precio que figura en la factura inicial de compra.",
+          "isCorrect": false,
+          "rationale": "El precio inicial es solo la 'punta del iceberg'; el $TCO$ busca revelar los costos ocultos bajo el agua."
+        },
+        {
+          "text": "El costo del flete dividido por el n\u00famero de piezas.",
+          "isCorrect": false,
+          "rationale": "El flete es solo uno de los muchos componentes que integran el c\u00e1lculo integral del costo de pertenencia."
+        },
+        {
+          "text": "La ganancia neta esperada por la reventa del equipo usado.",
+          "isCorrect": false,
+          "rationale": "Aunque el valor residual se considera, el $TCO$ se enfoca primordialmente en los costos operativos y de mantenimiento."
+        }
+      ],
+      "hint": "No se quede solo en la superficie de la factura; considere todo lo que gastar\u00e1 durante a\u00f1os usando el producto."
+    },
+    {
+      "question": "En el an\u00e1lisis de proveedores, \u00bfpor qu\u00e9 un equipo con precio inicial m\u00e1s alto podr\u00eda resultar m\u00e1s econ\u00f3mico en un modelo $TCO$?",
+      "answerOptions": [
+        {
+          "text": "Debido a menores costos de mantenimiento y menor riesgo de lucro cesante por fallas.",
+          "isCorrect": true,
+          "rationale": "Un equipo confiable con buenas garant\u00edas evita paradas no programadas, compensando con creces la inversi\u00f3n inicial."
+        },
+        {
+          "text": "Porque los proveedores caros siempre regalan los repuestos.",
+          "isCorrect": false,
+          "rationale": "La econom\u00eda no viene de regalos, sino de la eficiencia operativa y la reducci\u00f3n de riesgos financieros."
+        },
+        {
+          "text": "Porque permite pagar la factura en un plazo de tiempo m\u00e1s largo.",
+          "isCorrect": false,
+          "rationale": "El financiamiento afecta el flujo de caja, pero el $TCO$ eval\u00faa la estructura total de costos durante el ciclo de vida."
+        },
+        {
+          "text": "Porque el precio alto garantiza que el equipo nunca se ensuciar\u00e1.",
+          "isCorrect": false,
+          "rationale": "Todos los equipos requieren mantenimiento; la diferencia radica en la frecuencia de las fallas cr\u00edticas."
+        }
+      ],
+      "hint": "Reflexione sobre la relaci\u00f3n entre la calidad inicial y la frecuencia de reparaciones costosas en el futuro."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de una matriz de decisi\u00f3n multicriterio en una licitaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Eliminar la subjetividad asignando pesos espec\u00edficos a variables t\u00e9cnicas, comerciales y empresariales.",
+          "isCorrect": true,
+          "rationale": "Permite equilibrar el costo con factores como la solvencia del proveedor y su capacidad t\u00e9cnica mediante un puntaje duro."
+        },
+        {
+          "text": "Seleccionar autom\u00e1ticamente al proveedor que ofrece el precio m\u00e1s bajo.",
+          "isCorrect": false,
+          "rationale": "Al ser multicriterio, el precio es solo una parte de la evaluaci\u00f3n, no el \u00fanico factor decisivo."
+        },
+        {
+          "text": "Reducir el tiempo de la licitaci\u00f3n a la mitad sin revisar documentos.",
+          "isCorrect": false,
+          "rationale": "Al contrario, requiere un an\u00e1lisis detallado de m\u00faltiples dimensiones para asegurar una decisi\u00f3n robusta."
+        },
+        {
+          "text": "Asegurar que todos los proveedores ganen una parte del contrato.",
+          "isCorrect": false,
+          "rationale": "Su objetivo es seleccionar a la mejor opci\u00f3n seg\u00fan los criterios establecidos, no repartir el trabajo por igual."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo transformar 'corazonadas' sobre la calidad en n\u00fameros exactos para comparar ofertas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 costo aproximado se estima por lucro cesante por cada evento de parada no programada en grandes operaciones?",
+      "answerOptions": [
+        {
+          "text": "$80,000$.",
+          "isCorrect": true,
+          "rationale": "Este es el valor de referencia mencionado como la p\u00e9rdida financiera por dejar de producir durante una falla inesperada."
+        },
+        {
+          "text": "$10,000$.",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra alta, se queda corta frente al impacto real de detener una planta minera de gran escala."
+        },
+        {
+          "text": "$1,000,000$.",
+          "isCorrect": false,
+          "rationale": "Si bien las p\u00e9rdidas totales pueden ser millonarias, la cifra unitaria estimada por evento citada es de ochenta mil d\u00f3lares."
+        },
+        {
+          "text": "No tiene costo porque el personal sigue trabajando.",
+          "isCorrect": false,
+          "rationale": "El lucro cesante se refiere a la riqueza que se deja de percibir por la falta de producci\u00f3n, independientemente de los salarios."
+        }
+      ],
+      "hint": "Es una cifra de cinco d\u00edgitos que representa una 'pesadilla' financiera para los gerentes de operaciones."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el cambio de mentalidad fundamental que propone el modelo de negociaci\u00f3n de Harvard?",
+      "answerOptions": [
+        {
+          "text": "Pasar de un juego de suma cero a una relaci\u00f3n sostenible de beneficio mutuo.",
+          "isCorrect": true,
+          "rationale": "Busca crear valor compartido en lugar de simplemente regatear para que uno gane lo que el otro pierde."
+        },
+        {
+          "text": "Presionar al proveedor hasta que acepte trabajar sin margen de utilidad.",
+          "isCorrect": false,
+          "rationale": "Un proveedor que no gana dinero es un riesgo para la continuidad de la cadena de suministro."
+        },
+        {
+          "text": "Aceptar todas las condiciones del proveedor para evitar conflictos.",
+          "isCorrect": false,
+          "rationale": "Harvard no propone ceder, sino buscar soluciones que satisfagan los intereses reales de ambas partes."
+        },
+        {
+          "text": "Utilizar \u00fanicamente la fuerza f\u00edsica para imponer condiciones.",
+          "isCorrect": false,
+          "rationale": "La negociaci\u00f3n moderna se basa en principios, comunicaci\u00f3n y criterios objetivos, no en la intimidaci\u00f3n."
+        }
+      ],
+      "hint": "En lugar de pelear por una porci\u00f3n de la torta, piense en c\u00f3mo agrandar la torta para ambos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el $MAN$ (Mejor Alternativa al Acuerdo Negociado) para un negociador?",
+      "answerOptions": [
+        {
+          "text": "La fuente de confianza para poder rechazar condiciones desfavorables.",
+          "isCorrect": true,
+          "rationale": "Tener alternativas s\u00f3lidas (otros proveedores listos) otorga el poder de decir 'no' a un mal trato."
+        },
+        {
+          "text": "El nombre del software utilizado para calcular impuestos.",
+          "isCorrect": false,
+          "rationale": "El $MAN$ es un concepto estrat\u00e9gico de negociaci\u00f3n, no una herramienta inform\u00e1tica contable."
+        },
+        {
+          "text": "La obligaci\u00f3n de aceptar siempre la primera oferta presentada.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el $MAN$ permite evaluar si la oferta actual es mejor o peor que las otras opciones disponibles."
+        },
+        {
+          "text": "Un manual de procedimientos para el personal de limpieza.",
+          "isCorrect": false,
+          "rationale": "Se trata de un pilar de la estrategia de compras y negociaci\u00f3n de alto nivel."
+        }
+      ],
+      "hint": "Es su 'plan B' que le permite negociar sin desesperaci\u00f3n."
+    },
+    {
+      "question": "En la negociaci\u00f3n de valor agregado, \u00bfcu\u00e1l fue el beneficio de que el proveedor de mallas electroforjadas cortara las puntas en su f\u00e1brica?",
+      "answerOptions": [
+        {
+          "text": "Reducci\u00f3n de accidentes de manos en los operarios de la mina.",
+          "isCorrect": true,
+          "rationale": "Es un ejemplo de c\u00f3mo un cambio simple en el producto puede mejorar significativamente la seguridad y operatividad."
+        },
+        {
+          "text": "Hacer las mallas m\u00e1s brillantes para que se vean mejor.",
+          "isCorrect": false,
+          "rationale": "La est\u00e9tica es secundaria frente a la funcionalidad y seguridad en entornos industriales pesados."
+        },
+        {
+          "text": "Aumentar el peso total del material para cobrar m\u00e1s flete.",
+          "isCorrect": false,
+          "rationale": "Cortar las puntas en realidad reduce ligeramente el peso; el objetivo era la seguridad, no el aumento de costo."
+        },
+        {
+          "text": "Permitir que las mallas se oxiden m\u00e1s r\u00e1pido.",
+          "isCorrect": false,
+          "rationale": "La durabilidad es clave; el cambio buscaba proteger al personal, no comprometer el material."
+        }
+      ],
+      "hint": "Considere la seguridad de los trabajadores que manipulan f\u00edsicamente los materiales en el terreno."
+    },
+    {
+      "question": "\u00bfC\u00f3mo funciona una subasta inversa holandesa?",
+      "answerOptions": [
+        {
+          "text": "El comprador lanza un precio muy bajo y lo sube gradualmente hasta que un proveedor acepta.",
+          "isCorrect": true,
+          "rationale": "Es una t\u00e1ctica de precisi\u00f3n para descubrir el precio exacto que el mercado est\u00e1 dispuesto a soportar."
+        },
+        {
+          "text": "El precio va bajando en tiempo real mientras los proveedores compiten entre s\u00ed.",
+          "isCorrect": false,
+          "rationale": "Este procedimiento corresponde a la subasta inversa inglesa, no a la holandesa."
+        },
+        {
+          "text": "Gana quien ofrece el precio m\u00e1s alto por el producto.",
+          "isCorrect": false,
+          "rationale": "Eso ser\u00eda una subasta tradicional de venta; en compras (inversa) se busca el precio m\u00e1s competitivo para el comprador."
+        },
+        {
+          "text": "Los proveedores intercambian productos entre ellos sin usar dinero.",
+          "isCorrect": false,
+          "rationale": "Las subastas inversas son procesos monetarios competitivos para adjudicar contratos de suministro."
+        }
+      ],
+      "hint": "Es un 'juego de nervios' donde el precio inicia en un punto casi rid\u00edculo por lo bajo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal ventaja financiera del modelo de log\u00edstica en consignaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Disponibilidad inmediata sin tener capital congelado en inventario.",
+          "isCorrect": true,
+          "rationale": "El material est\u00e1 f\u00edsicamente en la mina, pero solo se factura y paga cuando se consume realmente."
+        },
+        {
+          "text": "Que el proveedor regala el material si no se usa en un mes.",
+          "isCorrect": false,
+          "rationale": "El proveedor mantiene la propiedad; no es un regalo, sino una estrategia de flujo de caja y disponibilidad."
+        },
+        {
+          "text": "Reducir el tama\u00f1o de los almacenes a la mitad.",
+          "isCorrect": false,
+          "rationale": "El espacio f\u00edsico se sigue ocupando, la ventaja es puramente financiera y de aseguramiento de stock."
+        },
+        {
+          "text": "Eliminar la necesidad de firmar contratos legales.",
+          "isCorrect": false,
+          "rationale": "La consignaci\u00f3n requiere contratos muy estrictos para regular la custodia y el pago del inventario."
+        }
+      ],
+      "hint": "Piense en el beneficio de tener el repuesto a la mano sin haberlo pagado todav\u00eda."
+    },
+    {
+      "question": "\u00bfQu\u00e9 asegura com\u00fanmente la boleta de garant\u00eda del $10\\%$ (fiel cumplimiento) en un contrato pesado?",
+      "answerOptions": [
+        {
+          "text": "Que el proveedor tiene respaldo financiero y cumplir\u00e1 seriamente con sus obligaciones.",
+          "isCorrect": true,
+          "rationale": "Act\u00faa como un seguro para la empresa minera en caso de que el proveedor falle en la ejecuci\u00f3n del contrato."
+        },
+        {
+          "text": "Que el proveedor recibir\u00e1 un bono extra al final del a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "La garant\u00eda es una retenci\u00f3n o documento de respaldo contra incumplimientos, no un incentivo de pago."
+        },
+        {
+          "text": "Que el precio del contrato bajar\u00e1 un $10\\%$ autom\u00e1ticamente.",
+          "isCorrect": false,
+          "rationale": "La cifra del $10\\%$ se refiere al monto de la garant\u00eda de cumplimiento, no a un descuento comercial."
+        },
+        {
+          "text": "Que la empresa minera se compromete a comprar un $10\\%$ m\u00e1s de material.",
+          "isCorrect": false,
+          "rationale": "Es un mecanismo de protecci\u00f3n para el comprador, no una promesa de aumento de volumen de compra."
+        }
+      ],
+      "hint": "Es un 'escudo' financiero que la mina exige antes de empezar a trabajar."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito de la cl\u00e1usula de indemnidad en los contratos de suministro?",
+      "answerOptions": [
+        {
+          "text": "Proteger a la mina de responsabilidades legales causadas por negligencias del proveedor.",
+          "isCorrect": true,
+          "rationale": "Establece que el proveedor asume las consecuencias civiles o penales de sus propios actos u omisiones de seguridad."
+        },
+        {
+          "text": "Garantizar que el proveedor nunca pierda dinero en el proyecto.",
+          "isCorrect": false,
+          "rationale": "La indemnidad protege al comprador (la mina) de riesgos legales externos, no los m\u00e1rgenes del proveedor."
+        },
+        {
+          "text": "Permitir que el proveedor use la marca de la mina sin permiso.",
+          "isCorrect": false,
+          "rationale": "Esto ser\u00eda un tema de propiedad intelectual, no de indemnidad legal frente a da\u00f1os."
+        },
+        {
+          "text": "Obligar a la mina a pagar todas las multas de tr\u00e1nsito del proveedor.",
+          "isCorrect": false,
+          "rationale": "Al contrario, busca desligar a la mina de las faltas que cometa exclusivamente el personal del proveedor."
+        }
+      ],
+      "hint": "Piense en qui\u00e9n debe ser el responsable ante la ley si ocurre un accidente por falta de seguridad del contratista."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 etapa del an\u00e1lisis ABC se visualiza la curva que permite identificar visualmente los grupos de art\u00edculos?",
+      "answerOptions": [
+        {
+          "text": "Tercera etapa: Graficar en un diagrama de dispersi\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La representaci\u00f3n visual permite ver claramente d\u00f3nde el costo acumulado se dispara frente a la cantidad de art\u00edculos."
+        },
+        {
+          "text": "Primera etapa: Calcular el costo total promedio.",
+          "isCorrect": false,
+          "rationale": "Esta etapa es puramente aritm\u00e9tica (multiplicaci\u00f3n); la visi\u00f3n de conjunto viene despu\u00e9s."
+        },
+        {
+          "text": "Segunda etapa: Ordenar de mayor a menor valor.",
+          "isCorrect": false,
+          "rationale": "El ordenamiento es un paso previo necesario para poder construir la curva en el gr\u00e1fico."
+        },
+        {
+          "text": "Cuarta etapa: Interpretaci\u00f3n de los tramos.",
+          "isCorrect": false,
+          "rationale": "La interpretaci\u00f3n es el an\u00e1lisis final despu\u00e9s de que la gr\u00e1fica ya ha revelado la distribuci\u00f3n de los datos."
+        }
+      ],
+      "hint": "Es el momento en que se transforman las tablas de n\u00fameros en una imagen reveladora."
+    },
+    {
+      "question": "En el contexto de la Matriz de Kraljic, \u00bfpor qu\u00e9 los servicios de contratistas locales a menudo se consideran 'Rutinarios'?",
+      "answerOptions": [
+        {
+          "text": "Porque suelen tener bajo impacto financiero y hay m\u00faltiples opciones disponibles.",
+          "isCorrect": true,
+          "rationale": "Al ser f\u00e1ciles de reemplazar y no representar el n\u00facleo del gasto, requieren t\u00e1cticas de simplificaci\u00f3n administrativa."
+        },
+        {
+          "text": "Porque son tan peligrosos que nadie m\u00e1s quiere hacer el trabajo.",
+          "isCorrect": false,
+          "rationale": "Si el riesgo fuera alto y hubiera pocos proveedores, se clasificar\u00edan como cuello de botella o estrat\u00e9gicos."
+        },
+        {
+          "text": "Porque cuestan millones de d\u00f3lares cada semana.",
+          "isCorrect": false,
+          "rationale": "Los art\u00edculos con alto impacto financiero no son rutinarios; son apalancados o estrat\u00e9gicos."
+        },
+        {
+          "text": "Porque solo una empresa en el mundo tiene la licencia para prestarlos.",
+          "isCorrect": false,
+          "rationale": "La exclusividad genera un alto riesgo de suministro, lo que mover\u00eda el servicio fuera del cuadrante rutinario."
+        }
+      ],
+      "hint": "Piense en servicios que son abundantes y cuyo costo no compromete el balance general."
+    },
+    {
+      "question": "\u00bfQu\u00e9 se busca proteger espec\u00edficamente con las cl\u00e1usulas de confidencialidad en miner\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Datos geol\u00f3gicos y de producci\u00f3n que poseen un alto valor estrat\u00e9gico.",
+          "isCorrect": true,
+          "rationale": "Informaci\u00f3n sobre d\u00f3nde y cu\u00e1nto mineral hay es cr\u00edtica para la ventaja competitiva de la empresa minera."
+        },
+        {
+          "text": "El men\u00fa diario del comedor de los trabajadores.",
+          "isCorrect": false,
+          "rationale": "La confidencialidad se enfoca en informaci\u00f3n que podr\u00eda causar da\u00f1o financiero o competitivo si se filtra."
+        },
+        {
+          "text": "El color de los uniformes de los guardias de seguridad.",
+          "isCorrect": false,
+          "rationale": "Este tipo de informaci\u00f3n suele ser p\u00fablica y no constituye un activo intelectual o estrat\u00e9gico cr\u00edtico."
+        },
+        {
+          "text": "Los nombres de todos los conductores de camiones externos.",
+          "isCorrect": false,
+          "rationale": "Aunque es informaci\u00f3n privada, el blindaje contractual se enfoca primordialmente en secretos industriales y geol\u00f3gicos."
+        }
+      ],
+      "hint": "Considere la informaci\u00f3n que, de ser conocida por la competencia, arruinar\u00eda el negocio minero."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Clasificaci\u00f3n de Inventarios ABC",
+      "Matriz de Kraljic",
+      "Costo Total de Pertenencia (TCO)",
+      "Modelo de Negociaci\u00f3n de Harvard",
+      "Estrategias Contractuales y Legales en Miner\u00eda"
+    ],
+    "followUp": [
+      "Gesti\u00f3n de Riesgos en Cadenas de Suministro Extractivas",
+      "Optimizaci\u00f3n de Log\u00edstica en Zonas Remotas",
+      "Modelado Matem\u00e1tico para Decisiones Multicriterio",
+      "Impacto Financiero del Lucro Cesante en Industrias Pesadas"
+    ]
+  }
+}

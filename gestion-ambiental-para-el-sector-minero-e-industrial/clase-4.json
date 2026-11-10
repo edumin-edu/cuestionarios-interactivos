@@ -1,0 +1,539 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el error de clasificaci\u00f3n m\u00e1s com\u00fan y peligroso que genera retrasos graves ante el SENACE?",
+      "answerOptions": [
+        {
+          "text": "Catalogar los residuos industriales como municipales.",
+          "isCorrect": true,
+          "rationale": "Las unidades operativas de empresas privadas no generan residuos municipales, y esta confusi\u00f3n terminol\u00f3gica es el principal detonante de observaciones severas."
+        },
+        {
+          "text": "Clasificar los residuos peligrosos como materiales de descarte.",
+          "isCorrect": false,
+          "rationale": "Aunque es una distinci\u00f3n importante, el texto identifica espec\u00edficamente la confusi\u00f3n entre residuos industriales y municipales como el error m\u00e1s cr\u00edtico."
+        },
+        {
+          "text": "Confundir el aprovechamiento material con el aprovechamiento energ\u00e9tico.",
+          "isCorrect": false,
+          "rationale": "Ambos forman parte de la valorizaci\u00f3n, pero no se mencionan como la causa principal de los retrasos ante la autoridad de certificaci\u00f3n."
+        },
+        {
+          "text": "Registrar residuos org\u00e1nicos como residuos inertes.",
+          "isCorrect": false,
+          "rationale": "Esta es una falla t\u00e9cnica de caracterizaci\u00f3n, pero no es el error estrat\u00e9gico que blinda o expone la viabilidad legal del proyecto seg\u00fan el material."
+        }
+      ],
+      "hint": "Relaciona la naturaleza de la empresa privada con el tipo de residuo que legalmente puede o no generar."
+    },
+    {
+      "question": "Seg\u00fan la Ley 32212 de diciembre de 2023, \u00bfcu\u00e1l es la prioridad establecida en la jerarqu\u00eda del manejo de residuos?",
+      "answerOptions": [
+        {
+          "text": "La disposici\u00f3n final en rellenos de seguridad.",
+          "isCorrect": false,
+          "rationale": "Este era el enfoque hist\u00f3rico anterior, pero la nueva ley lo desplaza al final de la jerarqu\u00eda de prioridades."
+        },
+        {
+          "text": "La valorizaci\u00f3n material o energ\u00e9tica.",
+          "isCorrect": true,
+          "rationale": "La nueva normativa voltea el tablero priorizando legalmente el aprovechamiento de los materiales por encima de su enterramiento."
+        },
+        {
+          "text": "El almacenamiento temporal prolongado.",
+          "isCorrect": false,
+          "rationale": "El almacenamiento es solo una etapa de tr\u00e1nsito y no una prioridad dentro de la jerarqu\u00eda de gesti\u00f3n circular."
+        },
+        {
+          "text": "La incineraci\u00f3n de residuos no aprovechables.",
+          "isCorrect": false,
+          "rationale": "La incineraci\u00f3n se considera solo si no hay opciones de valorizaci\u00f3n superiores y no es el norte estrat\u00e9gico de la ley 32212."
+        }
+      ],
+      "hint": "Considera el cambio de paradigma hacia la econom\u00eda circular mencionado en la reforma legal reciente."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la implicancia del t\u00e9rmino 'responsabilidad indeleble' para el generador de residuos?",
+      "answerOptions": [
+        {
+          "text": "La responsabilidad se extingue al contratar a una EO-RS autorizada.",
+          "isCorrect": false,
+          "rationale": "Contratar a un tercero no libera al generador de la responsabilidad legal si el tercero realiza una mala disposici\u00f3n."
+        },
+        {
+          "text": "La obligaci\u00f3n legal le pertenece al generador de forma permanente hasta la disposici\u00f3n final.",
+          "isCorrect": true,
+          "rationale": "No existe contrato o mecanismo que permita transferir o borrar esta responsabilidad, la cual acompa\u00f1a al residuo desde su origen."
+        },
+        {
+          "text": "El generador solo es responsable hasta que el residuo sale de su unidad operativa.",
+          "isCorrect": false,
+          "rationale": "Esta creencia es un error estrat\u00e9gico com\u00fan; la responsabilidad legal trasciende los l\u00edmites f\u00edsicos de la planta."
+        },
+        {
+          "text": "La responsabilidad es compartida equitativamente entre el generador y el transportista.",
+          "isCorrect": false,
+          "rationale": "Aunque ambos tienen deberes, el impacto reputacional y legal principal recae de forma indeleble en la empresa generadora original."
+        }
+      ],
+      "hint": "Analiza si la obligaci\u00f3n legal se puede transferir mediante contratos con terceros."
+    },
+    {
+      "question": "\u00bfQu\u00e9 beneficio econ\u00f3mico y operativo distingue a un 'material de descarte' de un 'residuo s\u00f3lido'?",
+      "answerOptions": [
+        {
+          "text": "El material de descarte puede ser reinsertado en el proceso productivo sin ser considerado basura.",
+          "isCorrect": true,
+          "rationale": "Esta categor\u00eda permite eliminar los gastos de transporte y disposici\u00f3n final al tratar el elemento como un recurso y no como un pasivo."
+        },
+        {
+          "text": "Los residuos s\u00f3lidos no requieren manifiestos de peligrosidad.",
+          "isCorrect": false,
+          "rationale": "Al contrario, los residuos s\u00f3lidos (si son peligrosos) requieren una carga administrativa y log\u00edstica mayor que los materiales de descarte."
+        },
+        {
+          "text": "El material de descarte debe ser enviado obligatoriamente a un relleno sanitario.",
+          "isCorrect": false,
+          "rationale": "Si se env\u00eda a un relleno, perder\u00eda su naturaleza de 'descarte' para convertirse en un residuo que genera costos de disposici\u00f3n."
+        },
+        {
+          "text": "No existen diferencias legales entre ambas categor\u00edas desde la ley 32212.",
+          "isCorrect": false,
+          "rationale": "La ley establece justamente una distinci\u00f3n sutil pero con un impacto millonario en la pr\u00e1ctica operativa y legal."
+        }
+      ],
+      "hint": "Piensa en cu\u00e1l de los dos conceptos permite la circularidad dentro o fuera de la planta sin incurrir en costos de gesti\u00f3n de desechos."
+    },
+    {
+      "question": "Para el dise\u00f1o de infraestructura en campamentos, \u00bfcu\u00e1l es la l\u00ednea base t\u00e9cnica de generaci\u00f3n de residuos por persona al d\u00eda?",
+      "answerOptions": [
+        {
+          "text": "$300$ a $400$ g",
+          "isCorrect": false,
+          "rationale": "Calcular por debajo de la l\u00ednea base t\u00e9cnica real provocar\u00eda un subdimensionamiento cr\u00edtico de los almacenes."
+        },
+        {
+          "text": "$600$ a $700$ g",
+          "isCorrect": true,
+          "rationale": "Este es el cimiento matem\u00e1tico ineludible para proyectar adecuadamente la capacidad de manejo de residuos asimilables a urbanos."
+        },
+        {
+          "text": "$900$ a $1000$ g",
+          "isCorrect": false,
+          "rationale": "Esta cifra excede el est\u00e1ndar t\u00e9cnico mencionado, lo que podr\u00eda llevar a una sobreinversi\u00f3n innecesaria en infraestructura."
+        },
+        {
+          "text": "$1.5$ kg",
+          "isCorrect": false,
+          "rationale": "Este valor no corresponde a la proyecci\u00f3n t\u00e9cnica establecida para el dise\u00f1o de \u00e1reas de acopio en campamentos industriales."
+        }
+      ],
+      "hint": "Busca el rango num\u00e9rico espec\u00edfico que el texto describe como el 'cimiento matem\u00e1tico' para la ingenier\u00eda de campamentos."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el compostaje de residuos org\u00e1nicos se considera una estrategia de mitigaci\u00f3n del cambio clim\u00e1tico?",
+      "answerOptions": [
+        {
+          "text": "Porque evita la generaci\u00f3n de metano y di\u00f3xido de carbono que ocurrir\u00eda en un relleno.",
+          "isCorrect": true,
+          "rationale": "Al oxigenar los residuos, se frena la descomposici\u00f3n anaer\u00f3bica que produce gases de efecto invernadero perjudiciales para las metas clim\u00e1ticas."
+        },
+        {
+          "text": "Porque reduce el volumen de residuos peligrosos en la operaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Los residuos org\u00e1nicos de comedores generalmente no son peligrosos; el compostaje ataca el problema de las emisiones, no de la peligrosidad qu\u00edmica."
+        },
+        {
+          "text": "Porque permite el cumplimiento del color marr\u00f3n en la segregaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La segregaci\u00f3n por colores es un paso operativo, pero el beneficio clim\u00e1tico real reside en la transformaci\u00f3n bioqu\u00edmica del residuo."
+        },
+        {
+          "text": "Porque elimina la necesidad de contar con un plan de minimizaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El compostaje debe estar integrado y declarado precisamente dentro del plan de minimizaci\u00f3n, no lo sustituye."
+        }
+      ],
+      "hint": "Reflexiona sobre qu\u00e9 sucede con los restos de comida cuando se entierran sin presencia de ox\u00edgeno."
+    },
+    {
+      "question": "\u00bfQu\u00e9 documentos t\u00e9cnicos son obligatorios para el personal que maneja remanentes de insumos qu\u00edmicos?",
+      "answerOptions": [
+        {
+          "text": "Solo el reporte trimestral del SIGERSOL.",
+          "isCorrect": false,
+          "rationale": "El reporte es administrativo y posterior; para el manejo seguro diario se requiere informaci\u00f3n t\u00e9cnica inmediata sobre los riesgos."
+        },
+        {
+          "text": "Las hojas de datos de seguridad (MSDS).",
+          "isCorrect": true,
+          "rationale": "Estas hojas son legalmente obligatorias no solo para productos nuevos, sino tambi\u00e9n para sus residuos y remanentes, detallando su toxicidad o inflamabilidad."
+        },
+        {
+          "text": "\u00danicamente el contrato con la EO-RS.",
+          "isCorrect": false,
+          "rationale": "El contrato no proporciona informaci\u00f3n t\u00e9cnica sobre c\u00f3mo manipular un residuo qu\u00edmico espec\u00edfico en caso de contacto o derrame."
+        },
+        {
+          "text": "El certificado de capacitaci\u00f3n en conducci\u00f3n defensiva.",
+          "isCorrect": false,
+          "rationale": "Aunque es \u00fatil para el transporte, no es el documento t\u00e9cnico que define la peligrosidad intr\u00ednseca del material qu\u00edmico remanente."
+        }
+      ],
+      "hint": "Identifica el documento que contiene la informaci\u00f3n sobre reactividad, toxicidad e inflamabilidad de una sustancia."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el tiempo m\u00e1ximo permitido por ley para el almacenamiento de residuos peligrosos en las instalaciones del generador?",
+      "answerOptions": [
+        {
+          "text": "$6$ meses.",
+          "isCorrect": false,
+          "rationale": "Este plazo es inferior al l\u00edmite legal m\u00e1ximo establecido para el almacenamiento central de materiales peligrosos."
+        },
+        {
+          "text": "$12$ meses.",
+          "isCorrect": true,
+          "rationale": "Superar este umbral de un a\u00f1o se considera una de las infracciones m\u00e1s comunes y severamente sancionadas por la OEFA."
+        },
+        {
+          "text": "$24$ meses.",
+          "isCorrect": false,
+          "rationale": "Un periodo de dos a\u00f1os excede por mucho la naturaleza de 'tr\u00e1nsito' que debe tener un almac\u00e9n central seg\u00fan la normativa."
+        },
+        {
+          "text": "$48$ horas.",
+          "isCorrect": false,
+          "rationale": "Este tiempo es demasiado corto para la log\u00edstica compleja de evacuaci\u00f3n de residuos en sectores como la miner\u00eda o la industria."
+        }
+      ],
+      "hint": "El n\u00famero de meses coincide con la cantidad de meses que tiene un a\u00f1o calendario."
+    },
+    {
+      "question": "En el almacenamiento central de residuos peligrosos, \u00bfcu\u00e1l es el prop\u00f3sito t\u00e9cnico de los diques de contenci\u00f3n de $20$ a $30$ cm?",
+      "answerOptions": [
+        {
+          "text": "Facilitar el acceso de los montacargas a la nave.",
+          "isCorrect": false,
+          "rationale": "Los diques act\u00faan como barreras, lo que en realidad suele requerir rampas adicionales; su fin es ambiental, no log\u00edstico."
+        },
+        {
+          "text": "Contener posibles derrames l\u00edquidos para evitar la infiltraci\u00f3n en el suelo.",
+          "isCorrect": true,
+          "rationale": "Junto con el piso de concreto, aseguran que cualquier fuga quede confinada y no contamine el entorno natural."
+        },
+        {
+          "text": "Separar los residuos seg\u00fan la norma de colores.",
+          "isCorrect": false,
+          "rationale": "La separaci\u00f3n por colores se hace mediante contenedores o se\u00f1al\u00e9tica, no necesariamente mediante muros de contenci\u00f3n estructurales."
+        },
+        {
+          "text": "Proteger los residuos de la radiaci\u00f3n solar directa.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n del techado permanente, no de los muros perimetrales o diques de baja altura."
+        }
+      ],
+      "hint": "Piensa en qu\u00e9 suceder\u00eda con un l\u00edquido t\u00f3xico derramado si no hubiera un borde en el piso del almac\u00e9n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia operativa de utilizar envases que contuvieron sustancias peligrosas para almacenar cart\u00f3n limpio?",
+      "answerOptions": [
+        {
+          "text": "Se optimiza el espacio de almacenamiento central.",
+          "isCorrect": false,
+          "rationale": "Esta pr\u00e1ctica es contraproducente, ya que genera un problema legal y t\u00e9cnico mayor que el ahorro de espacio que pudiera suponer."
+        },
+        {
+          "text": "El cart\u00f3n se contamina y debe ser gestionado como residuo peligroso.",
+          "isCorrect": true,
+          "rationale": "Incluso si parecen limpios, los restos qu\u00edmicos convierten un residuo aprovechable en un pasivo que dispara costos y riesgos legales."
+        },
+        {
+          "text": "Se facilita el proceso de valorizaci\u00f3n material.",
+          "isCorrect": false,
+          "rationale": "Al contrario, arruina la segregaci\u00f3n y hace imposible la valorizaci\u00f3n simple del cart\u00f3n."
+        },
+        {
+          "text": "Se reduce el peso total de los residuos peligrosos reportados.",
+          "isCorrect": false,
+          "rationale": "El efecto es el opuesto: aumenta el volumen y peso de la categor\u00eda de residuos peligrosos innecesariamente."
+        }
+      ],
+      "hint": "Considera c\u00f3mo afecta el residuo qu\u00edmico previo a la clasificaci\u00f3n del nuevo material introducido en el envase."
+    },
+    {
+      "question": "\u00bfBajo qu\u00e9 condici\u00f3n se permite la implementaci\u00f3n de microrellenos sanitarios in situ en zonas remotas?",
+      "answerOptions": [
+        {
+          "text": "Solo si se cuenta con la aprobaci\u00f3n del representante legal de la empresa.",
+          "isCorrect": false,
+          "rationale": "La aprobaci\u00f3n interna no sustituye el requisito legal de contar con una certificaci\u00f3n ambiental estatal."
+        },
+        {
+          "text": "Deben estar expl\u00edcitamente aprobados en el Instrumento de Gesti\u00f3n Ambiental (IGA).",
+          "isCorrect": true,
+          "rationale": "Cualquier infraestructura de disposici\u00f3n final debe figurar en el IGA con especificaciones t\u00e9cnicas de ingenier\u00eda aprobadas."
+        },
+        {
+          "text": "Siempre que la distancia a un relleno autorizado sea mayor a $100$ km.",
+          "isCorrect": false,
+          "rationale": "La distancia puede ser una justificaci\u00f3n log\u00edstica, pero no es el requisito legal habilitante por s\u00ed solo."
+        },
+        {
+          "text": "Basta con informar a la municipalidad local por escrito.",
+          "isCorrect": false,
+          "rationale": "Las operaciones mineras e industriales dependen de autoridades nacionales y sectoriales, no solo de comunicaciones municipales."
+        }
+      ],
+      "hint": "Recuerda el documento maestro que define todos los compromisos y l\u00edmites operativos de un proyecto de inversi\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el plazo m\u00e1ximo para presentar el reporte preliminar ante una emergencia ambiental a la OEFA?",
+      "answerOptions": [
+        {
+          "text": "$12$ horas.",
+          "isCorrect": true,
+          "rationale": "Este reporte es una alerta temprana cr\u00edtica que debe enviarse incluso por correo electr\u00f3nico para evitar multas severas."
+        },
+        {
+          "text": "$24$ horas.",
+          "isCorrect": false,
+          "rationale": "Aunque es un plazo com\u00fan en otros tr\u00e1mites, para emergencias ambientales el rigor temporal es el doble de exigente."
+        },
+        {
+          "text": "$48$ horas.",
+          "isCorrect": false,
+          "rationale": "Esperar dos d\u00edas para avisar a la autoridad garantiza una sanci\u00f3n autom\u00e1tica por falta de reporte oportuno."
+        },
+        {
+          "text": "$10$ d\u00edas h\u00e1biles.",
+          "isCorrect": false,
+          "rationale": "Este plazo corresponde al reporte definitivo, no al reporte preliminar de urgencia."
+        }
+      ],
+      "hint": "Es el mismo n\u00famero que el l\u00edmite de meses para el almacenamiento de residuos peligrosos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 informaci\u00f3n debe contener obligatoriamente el reporte definitivo de una emergencia ambiental?",
+      "answerOptions": [
+        {
+          "text": "\u00danicamente la fecha y hora del evento.",
+          "isCorrect": false,
+          "rationale": "Esa informaci\u00f3n es propia del reporte preliminar; el definitivo requiere un an\u00e1lisis t\u00e9cnico y de remediaci\u00f3n mucho m\u00e1s profundo."
+        },
+        {
+          "text": "Acciones correctivas, vol\u00famenes recuperados y certificaci\u00f3n de disposici\u00f3n final.",
+          "isCorrect": true,
+          "rationale": "El reporte final debe demostrar t\u00e9cnicamente que el impacto fue controlado y los recursos afectados fueron debidamente gestionados."
+        },
+        {
+          "text": "El listado de todo el personal que presenci\u00f3 el incidente.",
+          "isCorrect": false,
+          "rationale": "Aunque es informaci\u00f3n \u00fatil, el enfoque del reporte es la gesti\u00f3n del impacto ambiental y la remediaci\u00f3n, no solo los testigos."
+        },
+        {
+          "text": "La justificaci\u00f3n de por qu\u00e9 no se cuenta con un IGA.",
+          "isCorrect": false,
+          "rationale": "No contar con un IGA ante una emergencia agravar\u00eda la situaci\u00f3n legal, pero no es el contenido t\u00e9cnico esperado del reporte de contingencia."
+        }
+      ],
+      "hint": "Piensa en los datos que demuestran el cierre del ciclo de limpieza y remediaci\u00f3n tras un derrame."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n espec\u00edfica del Manifiesto de Residuos S\u00f3lidos Peligrosos (MRSP)?",
+      "answerOptions": [
+        {
+          "text": "Servir como gu\u00eda de remisi\u00f3n para el pago de impuestos.",
+          "isCorrect": false,
+          "rationale": "Su prop\u00f3sito no es tributario, sino garantizar la trazabilidad y custodia legal de materiales cr\u00edticos."
+        },
+        {
+          "text": "Rastrear la custodia legal del residuo desde su generaci\u00f3n hasta su disposici\u00f3n final.",
+          "isCorrect": true,
+          "rationale": "Es el documento maestro que asegura que el material peligroso lleg\u00f3 a un destino autorizado sin 'perderse' en el camino."
+        },
+        {
+          "text": "Autorizar el ingreso de nuevos insumos qu\u00edmicos a la planta.",
+          "isCorrect": false,
+          "rationale": "El manifiesto es para la salida y descarte, no para la adquisici\u00f3n de productos nuevos."
+        },
+        {
+          "text": "Sustituir la necesidad de las hojas MSDS en el transporte.",
+          "isCorrect": false,
+          "rationale": "Ambos documentos son complementarios y obligatorios; uno es t\u00e9cnico (MSDS) y el otro es de trazabilidad (MRSP)."
+        }
+      ],
+      "hint": "Enf\u00f3cate en la 'cadena de custodia' del material peligroso fuera de la empresa."
+    },
+    {
+      "question": "De acuerdo con la norma t\u00e9cnica de colores, \u00bfqu\u00e9 tipo de residuo corresponde al contenedor de color amarillo?",
+      "answerOptions": [
+        {
+          "text": "Pl\u00e1sticos.",
+          "isCorrect": false,
+          "rationale": "Los pl\u00e1sticos corresponden al color blanco seg\u00fan la Norma T\u00e9cnica Peruana 900.058:2019."
+        },
+        {
+          "text": "Metales.",
+          "isCorrect": true,
+          "rationale": "El c\u00f3digo de colores establece el amarillo espec\u00edficamente para la segregaci\u00f3n de latas y otros desechos met\u00e1licos."
+        },
+        {
+          "text": "Papel y cart\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El papel y cart\u00f3n deben segregarse en contenedores de color azul."
+        },
+        {
+          "text": "Vidrio.",
+          "isCorrect": false,
+          "rationale": "El vidrio tiene asignado el color plomo en la normativa de segregaci\u00f3n industrial."
+        }
+      ],
+      "hint": "Es el color que com\u00fanmente se asocia con el brillo de algunos metales preciosos como el oro."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se afirma que el PMMRS es un instrumento de ingenier\u00eda y no solo un 'checklist' administrativo?",
+      "answerOptions": [
+        {
+          "text": "Porque su \u00e9xito depende de proyecciones matem\u00e1ticas y c\u00e1lculos de dise\u00f1o exactos.",
+          "isCorrect": true,
+          "rationale": "La aprobaci\u00f3n ante el SENACE requiere demostrar con n\u00fameros la capacidad de manejo y la eficacia de la minimizaci\u00f3n."
+        },
+        {
+          "text": "Porque debe ser firmado por un ingeniero civil exclusivamente.",
+          "isCorrect": false,
+          "rationale": "Aunque requiere rigor profesional, su naturaleza de ingenier\u00eda viene del dise\u00f1o de procesos y c\u00e1lculos, no solo de la firma."
+        },
+        {
+          "text": "Porque incluye el dise\u00f1o de los uniformes del personal de limpieza.",
+          "isCorrect": false,
+          "rationale": "El equipo de protecci\u00f3n es importante, pero no define la esencia de ingenier\u00eda del plan de minimizaci\u00f3n de residuos."
+        },
+        {
+          "text": "Porque proh\u00edbe el uso de cualquier tecnolog\u00eda automatizada.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el PMMRS suele apoyarse en tecnolog\u00edas para optimizar la valorizaci\u00f3n y el tratamiento."
+        }
+      ],
+      "hint": "Relaciona el documento con la necesidad de predecir vol\u00famenes y dimensiones de infraestructura mediante datos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 entidad es responsable de fiscalizar a la mediana y gran miner\u00eda en materia de residuos?",
+      "answerOptions": [
+        {
+          "text": "MINAM.",
+          "isCorrect": false,
+          "rationale": "El MINAM es el ente rector que dicta las reglas, pero no es el brazo fiscalizador directo de campo para este sector."
+        },
+        {
+          "text": "OEFA.",
+          "isCorrect": true,
+          "rationale": "Este organismo supervisa el cumplimiento y aplica multas implacables por mal almacenamiento o falta de reportes."
+        },
+        {
+          "text": "SENACE.",
+          "isCorrect": false,
+          "rationale": "El SENACE se encarga de la certificaci\u00f3n ambiental previa, no de la fiscalizaci\u00f3n operativa continua."
+        },
+        {
+          "text": "Las EFAS regionales.",
+          "isCorrect": false,
+          "rationale": "Las EFAS regionales tienen competencia sobre la peque\u00f1a miner\u00eda y miner\u00eda artesanal, no sobre la mediana y gran miner\u00eda."
+        }
+      ],
+      "hint": "Es la entidad conocida por aplicar sanciones millonarias y realizar inspecciones de cumplimiento ambiental."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es un ejemplo de 'bienes priorizados' que requieren sistemas de manejo autorizados por el MINAM?",
+      "answerOptions": [
+        {
+          "text": "Restos de alimentos de comedores.",
+          "isCorrect": false,
+          "rationale": "Estos son residuos org\u00e1nicos comunes, no entran en el r\u00e9gimen especial de bienes priorizados como los neum\u00e1ticos o electr\u00f3nicos."
+        },
+        {
+          "text": "Neum\u00e1ticos fuera de uso y equipos electr\u00f3nicos (RAEE).",
+          "isCorrect": true,
+          "rationale": "Debido a su volumen y complejidad, la ley proh\u00edbe mezclarlos y exige canales de evacuaci\u00f3n espec\u00edficos y autorizados."
+        },
+        {
+          "text": "Papel de oficina usado.",
+          "isCorrect": false,
+          "rationale": "El papel es un residuo aprovechable com\u00fan y no est\u00e1 sujeto al r\u00e9gimen estricto de bienes priorizados."
+        },
+        {
+          "text": "Efluentes l\u00edquidos industriales.",
+          "isCorrect": false,
+          "rationale": "Los efluentes se rigen por normativas de vertimientos y agua, no por el r\u00e9gimen de bienes priorizados de residuos s\u00f3lidos."
+        }
+      ],
+      "hint": "Piensa en objetos de gran tama\u00f1o o complejidad tecnol\u00f3gica que no deben mezclarse con la basura com\u00fan."
+    },
+    {
+      "question": "\u00bfQu\u00e9 acci\u00f3n es obligatoria si una empresa decide realizar un tratamiento interno de lodos industriales?",
+      "answerOptions": [
+        {
+          "text": "Tener la aprobaci\u00f3n expl\u00edcita en su Instrumento de Gesti\u00f3n Ambiental (IGA).",
+          "isCorrect": true,
+          "rationale": "Realizar tratamientos qu\u00edmicos o f\u00edsicos sin que est\u00e9n declarados y mapeados en el IGA se considera una falta muy grave."
+        },
+        {
+          "text": "Contratar a un ge\u00f3logo para supervisar el proceso.",
+          "isCorrect": false,
+          "rationale": "Aunque se requiere personal calificado, la condici\u00f3n legal innegociable es la declaraci\u00f3n en el instrumento ambiental."
+        },
+        {
+          "text": "Realizar el tratamiento solo durante las noches.",
+          "isCorrect": false,
+          "rationale": "El horario no legaliza un proceso que no ha sido evaluado ambientalmente por la autoridad competente."
+        },
+        {
+          "text": "Donar el lodo tratado a la comunidad m\u00e1s cercana.",
+          "isCorrect": false,
+          "rationale": "La disposici\u00f3n o uso de residuos tratados debe seguir protocolos legales y no puede ser una decisi\u00f3n arbitraria de donaci\u00f3n."
+        }
+      ],
+      "hint": "Considera qu\u00e9 documento debe 'dar permiso' para que una planta opere procesos de transformaci\u00f3n de residuos."
+    },
+    {
+      "question": "En la gesti\u00f3n estrat\u00e9gica, \u00bfcu\u00e1l es el principal beneficio de la prevenci\u00f3n en la fuente?",
+      "answerOptions": [
+        {
+          "text": "Aumentar el n\u00famero de manifiestos generados.",
+          "isCorrect": false,
+          "rationale": "La prevenci\u00f3n busca generar menos residuos, lo que en realidad reduce la carga de manifiestos necesarios."
+        },
+        {
+          "text": "Reducir dr\u00e1sticamente los costos log\u00edsticos y la huella de carbono.",
+          "isCorrect": true,
+          "rationale": "Al evitar que el residuo nazca, se ahorra en empaque, transporte y disposici\u00f3n final, aline\u00e1ndose con metas de sostenibilidad."
+        },
+        {
+          "text": "Garantizar que el almac\u00e9n de peligrosos est\u00e9 siempre lleno.",
+          "isCorrect": false,
+          "rationale": "El objetivo es precisamente el contrario: mantener los almacenes con el menor volumen posible para reducir riesgos."
+        },
+        {
+          "text": "Evitar la comunicaci\u00f3n con la OEFA.",
+          "isCorrect": false,
+          "rationale": "La prevenci\u00f3n mejora el cumplimiento, pero no elimina el deber de reporte y supervisi\u00f3n de la autoridad."
+        }
+      ],
+      "hint": "Recuerda el 'efecto domin\u00f3' positivo que ocurre cuando no pagas por transportar algo que no existe."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Marco Legal de Residuos (DL 1278 y Ley 32212)",
+      "Responsabilidad del Generador",
+      "Est\u00e1ndares Operativos de Almacenamiento",
+      "Ingenier\u00eda de Minimizaci\u00f3n (PMMRS)",
+      "Protocolos de Emergencias Ambientales"
+    ],
+    "followUp": [
+      "Instrumentos de Gesti\u00f3n Ambiental (IGA) en Miner\u00eda",
+      "Sistemas de Valorizaci\u00f3n de Residuos Org\u00e1nicos",
+      "Log\u00edstica Inversa y Ecodise\u00f1o Industrial",
+      "Procedimientos de Fiscalizaci\u00f3n de la OEFA"
+    ]
+  }
+}

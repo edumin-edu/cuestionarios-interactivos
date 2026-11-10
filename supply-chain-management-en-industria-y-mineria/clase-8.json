@@ -1,0 +1,538 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfQu\u00e9 elemento se considera el blindaje principal y la clave para transformar la log\u00edstica de un simple movimiento f\u00edsico a una gesti\u00f3n integral de valor?",
+      "answerOptions": [
+        {
+          "text": "La visibilidad de extremo a extremo.",
+          "isCorrect": true,
+          "rationale": "Esta panor\u00e1mica total permite anticipar perturbaciones y gestionar el valor en redes de alta complejidad."
+        },
+        {
+          "text": "El aumento de inventarios f\u00edsicos.",
+          "isCorrect": false,
+          "rationale": "Aunque los inventarios son buffers, por s\u00ed solos no proporcionan la gesti\u00f3n integral ni la capacidad de anticipaci\u00f3n que ofrece la visibilidad."
+        },
+        {
+          "text": "La reducci\u00f3n de costos de transporte.",
+          "isCorrect": false,
+          "rationale": "La optimizaci\u00f3n de costos es un objetivo operativo, pero no constituye el esqueleto de defensa frente a la incertidumbre sist\u00e9mica."
+        },
+        {
+          "text": "La expansi\u00f3n de la red de proveedores.",
+          "isCorrect": false,
+          "rationale": "Incrementar proveedores puede aumentar la complejidad y los puntos de fallo si no existe una visibilidad centralizada."
+        }
+      ],
+      "hint": "Se trata de tener una panor\u00e1mica total y clara de todos los eslabones operativos."
+    },
+    {
+      "question": "En la arquitectura de redes globales, \u00bfen qu\u00e9 consiste la paradoja de la complejidad y fragmentaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Optimiza el rendimiento pero multiplica los puntos potenciales de fallo.",
+          "isCorrect": true,
+          "rationale": "La especializaci\u00f3n extrema mejora la eficiencia, pero crea una red m\u00e1s vulnerable ante interrupciones en cualquier eslab\u00f3n."
+        },
+        {
+          "text": "Reduce los costos operativos pero aumenta la carga tributaria.",
+          "isCorrect": false,
+          "rationale": "La paradoja mencionada se refiere espec\u00edficamente a la operatividad y la resiliencia, no a la estructura de impuestos."
+        },
+        {
+          "text": "Aumenta la tecnolog\u00eda disponible pero reduce la necesidad de mano de obra.",
+          "isCorrect": false,
+          "rationale": "Este es un efecto de la automatizaci\u00f3n, pero no define la paradoja de la fragmentaci\u00f3n de la red log\u00edstica."
+        },
+        {
+          "text": "Mejora la calidad del producto pero ralentiza los tiempos de entrega.",
+          "isCorrect": false,
+          "rationale": "La fragmentaci\u00f3n busca especializaci\u00f3n para mejorar tiempos y costos, no sacrificarlos por calidad."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo una red muy especializada puede ser simult\u00e1neamente su mayor fortaleza y su mayor riesgo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el mecanismo de defensa principal para proteger el flujo de productos en una red log\u00edstica minera?",
+      "answerOptions": [
+        {
+          "text": "El mantenimiento de inventarios estrat\u00e9gicos y buffers.",
+          "isCorrect": true,
+          "rationale": "Estos act\u00faan como un amortiguador f\u00edsico que asegura la continuidad del abastecimiento y la salida del mineral ante imprevistos."
+        },
+        {
+          "text": "La implementaci\u00f3n de celdas electrol\u00edticas.",
+          "isCorrect": false,
+          "rationale": "Las celdas electrol\u00edticas son herramientas de procesamiento en la fase final, no un mecanismo de defensa del flujo log\u00edstico general."
+        },
+        {
+          "text": "El uso de contratos de futuros en la bolsa.",
+          "isCorrect": false,
+          "rationale": "Esto protege el flujo financiero o el precio, pero no asegura el movimiento f\u00edsico de los productos."
+        },
+        {
+          "text": "La contrataci\u00f3n de seguros de transporte internacional.",
+          "isCorrect": false,
+          "rationale": "Los seguros mitigan el impacto econ\u00f3mico de una p\u00e9rdida, pero no defienden la continuidad del flujo f\u00edsico del mineral."
+        }
+      ],
+      "hint": "Es un recurso f\u00edsico que permite absorber variaciones en el suministro o la demanda."
+    },
+    {
+      "question": "Dentro del ecosistema log\u00edstico, \u00bfcu\u00e1l es la funci\u00f3n principal de la ejecuci\u00f3n operativa frente a la gesti\u00f3n estrat\u00e9gica?",
+      "answerOptions": [
+        {
+          "text": "Realizar maniobras t\u00e1cticas inmediatas para resolver contingencias reales.",
+          "isCorrect": true,
+          "rationale": "A diferencia del dise\u00f1o a largo plazo, la ejecuci\u00f3n se encarga del d\u00eda a d\u00eda para que la producci\u00f3n no se detenga."
+        },
+        {
+          "text": "Dise\u00f1ar la arquitectura macro de la red a futuro.",
+          "isCorrect": false,
+          "rationale": "El dise\u00f1o macro y la previsi\u00f3n a largo plazo son responsabilidades exclusivas de la gesti\u00f3n estrat\u00e9gica."
+        },
+        {
+          "text": "Establecer las alianzas estrat\u00e9gicas con el gobierno.",
+          "isCorrect": false,
+          "rationale": "Las relaciones institucionales y de alto nivel corresponden al plano estrat\u00e9gico y no a la t\u00e1ctica de terreno."
+        },
+        {
+          "text": "Analizar las tendencias de precios de metales a diez a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis prospectivo de mercado es una funci\u00f3n del 'cerebro' estrat\u00e9gico de la organizaci\u00f3n."
+        }
+      ],
+      "hint": "Se enfoca en la cruda realidad del terreno y en asegurar que el flujo no se detenga hoy."
+    },
+    {
+      "question": "\u00bfQu\u00e9 actividades caracterizan fundamentalmente a la fase Upstream o de aguas arriba en el modelo minero actual?",
+      "answerOptions": [
+        {
+          "text": "Exploraci\u00f3n geol\u00f3gica, perforaci\u00f3n y procesamiento primario como chancado.",
+          "isCorrect": true,
+          "rationale": "Esta fase se centra en el origen del recurso y su extracci\u00f3n inicial antes del transporte masivo."
+        },
+        {
+          "text": "Refinaci\u00f3n electrol\u00edtica y obtenci\u00f3n de c\u00e1todos de alta pureza.",
+          "isCorrect": false,
+          "rationale": "Estas actividades de agregaci\u00f3n de valor final pertenecen a la fase Downstream."
+        },
+        {
+          "text": "Transporte multimodal a trav\u00e9s de extensas redes ferroviarias.",
+          "isCorrect": false,
+          "rationale": "La movilizaci\u00f3n de vol\u00famenes colosales es la caracter\u00edstica central de la fase Midstream."
+        },
+        {
+          "text": "Comercializaci\u00f3n internacional y uso de plataformas de trazabilidad.",
+          "isCorrect": false,
+          "rationale": "La inserci\u00f3n en el mercado global es el paso final del ciclo en la etapa Downstream."
+        }
+      ],
+      "hint": "Piense en las etapas iniciales que ocurren en el yacimiento mismo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 tecnolog\u00edas se destacan para el control de inventarios y gesti\u00f3n de flotas en la fase Midstream?",
+      "answerOptions": [
+        {
+          "text": "Sistemas de drones y gesti\u00f3n de flotas por GPS.",
+          "isCorrect": true,
+          "rationale": "Estas herramientas permiten un seguimiento de alt\u00edsima precisi\u00f3n sobre grandes \u00e1reas de acopio y rutas de transporte."
+        },
+        {
+          "text": "Modelamiento de yacimientos y geof\u00edsica avanzada.",
+          "isCorrect": false,
+          "rationale": "Estas tecnolog\u00edas son pilares de la fase Upstream para localizar y entender el recurso en el subsuelo."
+        },
+        {
+          "text": "Celdas electrol\u00edticas y hornos de fundici\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Se trata de infraestructura industrial de procesamiento final propia del Downstream."
+        },
+        {
+          "text": "Plataformas de comercializaci\u00f3n en bolsas de metales.",
+          "isCorrect": false,
+          "rationale": "Esto corresponde a la comercializaci\u00f3n final y no al control f\u00edsico de materiales en tr\u00e1nsito."
+        }
+      ],
+      "hint": "Son herramientas que permiten vigilar el material mientras se mueve o se almacena temporalmente."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define la licencia social para operar en el contexto de la gesti\u00f3n de riesgos log\u00edsticos?",
+      "answerOptions": [
+        {
+          "text": "Como un activo intangible y un mecanismo de gesti\u00f3n de riesgos.",
+          "isCorrect": true,
+          "rationale": "No es solo un tr\u00e1mite, sino un factor que, de ausentarse, puede paralizar toda la infraestructura f\u00edsica."
+        },
+        {
+          "text": "Como un permiso administrativo otorgado por el gobierno nacional.",
+          "isCorrect": false,
+          "rationale": "La licencia social proviene de la comunidad local y no de una entidad estatal que otorga permisos legales."
+        },
+        {
+          "text": "Como un contrato legal firmado con los proveedores estrat\u00e9gicos.",
+          "isCorrect": false,
+          "rationale": "Los proveedores son parte de la tr\u00edada de actores, pero la licencia social se enfoca en el entorno humano local."
+        },
+        {
+          "text": "Como un proceso t\u00e9cnico para asegurar la calidad del mineral.",
+          "isCorrect": false,
+          "rationale": "La licencia social es relacional y humana, no t\u00e9cnica ni vinculada a la pureza del producto."
+        }
+      ],
+      "hint": "Va m\u00e1s all\u00e1 de los papeles; es un elemento vital para evitar conflictos que detengan la maquinaria."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fen\u00f3meno econ\u00f3mico describe c\u00f3mo un auge en el sector extractivo puede debilitar la competitividad de otros sectores como la agroexportaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "La enfermedad holandesa.",
+          "isCorrect": true,
+          "rationale": "El ingreso masivo de divisas fortalece la moneda local, encareciendo las exportaciones de otros sectores nacionales."
+        },
+        {
+          "text": "La inflaci\u00f3n por costos operativos.",
+          "isCorrect": false,
+          "rationale": "Aunque hay un impacto en precios, el t\u00e9rmino espec\u00edfico para este desequilibrio intersectorial es la enfermedad holandesa."
+        },
+        {
+          "text": "La paradoja de la fragmentaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Este concepto se refiere a la vulnerabilidad log\u00edstica de las redes especializadas, no a efectos macroecon\u00f3micos cambiarios."
+        },
+        {
+          "text": "La volatilidad de precios internacionales.",
+          "isCorrect": false,
+          "rationale": "La volatilidad es la causa externa, pero el fen\u00f3meno interno de apreciaci\u00f3n cambiaria tiene un nombre espec\u00edfico."
+        }
+      ],
+      "hint": "Lleva el nombre de un pa\u00eds europeo y se relaciona con el fortalecimiento excesivo de la moneda local."
+    },
+    {
+      "question": "En el caso de Las Bambas, \u00bfqu\u00e9 decisi\u00f3n log\u00edstica se considera el 'pecado original' por su impacto en la vulnerabilidad del proyecto?",
+      "answerOptions": [
+        {
+          "text": "Sustituir el dise\u00f1o de un mineroducto por el transporte bimodal en carretera p\u00fablica.",
+          "isCorrect": true,
+          "rationale": "Esta decisi\u00f3n expuso la log\u00edstica a bloqueos en una v\u00eda que atraviesa m\u00faltiples comunidades, afectando la continuidad operativa."
+        },
+        {
+          "text": "Exportar \u00fanicamente a trav\u00e9s de puertos en el norte del pa\u00eds.",
+          "isCorrect": false,
+          "rationale": "La vulnerabilidad principal no radica en el puerto de destino, sino en el m\u00e9todo de transporte desde la mina."
+        },
+        {
+          "text": "No invertir lo suficiente en camiones aut\u00f3nomos desde el inicio.",
+          "isCorrect": false,
+          "rationale": "Aunque la tecnolog\u00eda ayuda, el riesgo cr\u00edtico proviene de la interacci\u00f3n con el entorno social en la v\u00eda p\u00fablica."
+        },
+        {
+          "text": "Depender exclusivamente de la demanda del mercado chino.",
+          "isCorrect": false,
+          "rationale": "Esta es una vulnerabilidad geopol\u00edtica com\u00fan, pero el error de dise\u00f1o log\u00edstico espec\u00edfico fue la elecci\u00f3n de la ruta terrestre."
+        }
+      ],
+      "hint": "Tiene que ver con el cambio de un sistema de transporte cerrado por uno que usa v\u00edas compartidas con comunidades."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el peso econ\u00f3mico de la operaci\u00f3n Las Bambas respecto al Producto Bruto Interno ($PBI$) regional de Apur\u00edmac?",
+      "answerOptions": [
+        {
+          "text": "$78\\%$",
+          "isCorrect": true,
+          "rationale": "Esta cifra demuestra la inmensa dependencia de la econom\u00eda regional hacia la continuidad de la operaci\u00f3n minera."
+        },
+        {
+          "text": "$1\\%$",
+          "isCorrect": false,
+          "rationale": "El $1\\%$ representa el impacto de la mina en el $PBI$ nacional, no en el regional."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "Es una cifra significativa, pero subestima el impacto real que supera las tres cuartas partes del $PBI$ de la regi\u00f3n."
+        },
+        {
+          "text": "$9.5\\%$",
+          "isCorrect": false,
+          "rationale": "Este n\u00famero se asocia con las p\u00e9rdidas diarias en millones de d\u00f3lares, no con el porcentaje de participaci\u00f3n econ\u00f3mica regional."
+        }
+      ],
+      "hint": "Representa una gran mayor\u00eda de la actividad econ\u00f3mica de esa regi\u00f3n espec\u00edfica."
+    },
+    {
+      "question": "Ante paralizaciones en un nodo log\u00edstico cr\u00edtico, \u00bfa cu\u00e1nto pueden ascender las p\u00e9rdidas diarias por ingresos no percibidos seg\u00fan el an\u00e1lisis presentado?",
+      "answerOptions": [
+        {
+          "text": "$\\$9.5$ millones de d\u00f3lares.",
+          "isCorrect": true,
+          "rationale": "Esta cifra ilustra el costo masivo de la vulnerabilidad log\u00edstica cuando se interrumpe el flujo de minerales."
+        },
+        {
+          "text": "$\\$1$ mill\u00f3n de d\u00f3lares.",
+          "isCorrect": false,
+          "rationale": "Esta cantidad es insuficiente para reflejar el impacto de una operaci\u00f3n que constituye el $1\\%$ del $PBI$ nacional."
+        },
+        {
+          "text": "$\\$700$ millones de d\u00f3lares.",
+          "isCorrect": false,
+          "rationale": "Este n\u00famero se relaciona con la cantidad de d\u00edas acumulados de bloqueos en el hist\u00f3rico de la operaci\u00f3n mencionada."
+        },
+        {
+          "text": "$\\$78$ millones de d\u00f3lares.",
+          "isCorrect": false,
+          "rationale": "Esta cifra confunde el porcentaje de dependencia regional con el monto de p\u00e9rdida financiera diaria."
+        }
+      ],
+      "hint": "Es un monto cercano a los diez millones de d\u00f3lares cada $24$ horas."
+    },
+    {
+      "question": "Dentro de la matriz PEST, \u00bfqu\u00e9 factor incluye la burocracia en permisos y la inestabilidad institucional?",
+      "answerOptions": [
+        {
+          "text": "Pol\u00edtico.",
+          "isCorrect": true,
+          "rationale": "La estabilidad del marco regulatorio y la eficiencia administrativa son componentes centrales del entorno pol\u00edtico."
+        },
+        {
+          "text": "Econ\u00f3mico.",
+          "isCorrect": false,
+          "rationale": "Lo econ\u00f3mico se centra en variables como tasas de cambio, inflaci\u00f3n y precios de metales."
+        },
+        {
+          "text": "Social.",
+          "isCorrect": false,
+          "rationale": "El factor social se enfoca en las relaciones comunitarias, demograf\u00eda y licencia para operar."
+        },
+        {
+          "text": "Tecnol\u00f3gico.",
+          "isCorrect": false,
+          "rationale": "Este cuadrante analiza la innovaci\u00f3n, automatizaci\u00f3n y riesgos de ciberseguridad."
+        }
+      ],
+      "hint": "Se refiere a las reglas de juego y la gesti\u00f3n de las entidades gubernamentales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el prop\u00f3sito fundamental del uso de Blockchain en la miner\u00eda 4.0?",
+      "answerOptions": [
+        {
+          "text": "Garantizar la trazabilidad y asegurar que los minerales sean \u00e9ticos y libres de conflicto.",
+          "isCorrect": true,
+          "rationale": "El libro de contabilidad inalterable permite certificar el origen y el cumplimiento de est\u00e1ndares globales de comercializaci\u00f3n."
+        },
+        {
+          "text": "Aumentar la velocidad de los camiones aut\u00f3nomos en la mina.",
+          "isCorrect": false,
+          "rationale": "Blockchain es una tecnolog\u00eda de datos y confianza, no influye directamente en la mec\u00e1nica de los veh\u00edculos."
+        },
+        {
+          "text": "Eliminar la necesidad de internet de las cosas ($IoT$).",
+          "isCorrect": false,
+          "rationale": "Al contrario, el Blockchain suele alimentarse de los datos generados por sensores e $IoT$."
+        },
+        {
+          "text": "Reducir el consumo de combustible de las plantas de fundici\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La eficiencia energ\u00e9tica es un proceso de ingenier\u00eda f\u00edsica, no una funci\u00f3n primaria de la trazabilidad por Blockchain."
+        }
+      ],
+      "hint": "Se relaciona con la transparencia de la informaci\u00f3n y la certificaci\u00f3n del producto final."
+    },
+    {
+      "question": "\u00bfQu\u00e9 pilar de la miner\u00eda 4.0 permite retirar a los seres humanos de zonas de alto peligro operativo?",
+      "answerOptions": [
+        {
+          "text": "Automatizaci\u00f3n y rob\u00f3tica.",
+          "isCorrect": true,
+          "rationale": "El uso de maquinaria aut\u00f3noma y sistemas remotos protege la integridad f\u00edsica de los trabajadores."
+        },
+        {
+          "text": "Inteligencia Artificial.",
+          "isCorrect": false,
+          "rationale": "Aunque la $IA$ ayuda a tomar decisiones, es la rob\u00f3tica la que ejecuta f\u00edsicamente la tarea en reemplazo del humano."
+        },
+        {
+          "text": "Blockchain.",
+          "isCorrect": false,
+          "rationale": "Esta tecnolog\u00eda se enfoca en la seguridad de los datos, no en la seguridad f\u00edsica o mec\u00e1nica en el terreno."
+        },
+        {
+          "text": "Licencia Social.",
+          "isCorrect": false,
+          "rationale": "La licencia social gestiona riesgos relacionales, no la exposici\u00f3n f\u00edsica a riesgos industriales."
+        }
+      ],
+      "hint": "Consiste en m\u00e1quinas que operan sin intervenci\u00f3n humana directa in situ."
+    },
+    {
+      "question": "Al integrar Inteligencia Artificial en procesos financieros y de auditor\u00eda, \u00bfc\u00f3mo cambia el rol del profesional log\u00edstico?",
+      "answerOptions": [
+        {
+          "text": "Pasa de ser un procesador de datos a un estratega de alto nivel.",
+          "isCorrect": true,
+          "rationale": "Al liberarse de tareas operativas tediosas, el humano puede enfocarse en negociaciones y gesti\u00f3n de riesgos complejos."
+        },
+        {
+          "text": "Se convierte exclusivamente en un supervisor de software de $IA$.",
+          "isCorrect": false,
+          "rationale": "El rol evoluciona hacia \u00e1reas estrat\u00e9gicas y relacionales que las m\u00e1quinas no pueden cubrir."
+        },
+        {
+          "text": "Pierde relevancia ante la capacidad de procesamiento de las m\u00e1quinas.",
+          "isCorrect": false,
+          "rationale": "El valor del profesional se eleva al aplicar juicio humano a la informaci\u00f3n procesada por la tecnolog\u00eda."
+        },
+        {
+          "text": "Se especializa \u00fanicamente en programaci\u00f3n de c\u00f3digo.",
+          "isCorrect": false,
+          "rationale": "El profesional log\u00edstico usa la herramienta para estrategia de negocio, no necesariamente para desarrollo de software."
+        }
+      ],
+      "hint": "La tecnolog\u00eda libera tiempo para tareas que requieren juicio humano y negociaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 concepto financiero se debe utilizar para entender la tecnolog\u00eda no como un gasto, sino como una p\u00f3liza de seguro contra riesgos extremos?",
+      "answerOptions": [
+        {
+          "text": "Costo Total de Propiedad ($TCO$).",
+          "isCorrect": true,
+          "rationale": "Este an\u00e1lisis demuestra que la inversi\u00f3n tecnol\u00f3gica evita p\u00e9rdidas masivas por fallas operativas o riesgos no gestionados."
+        },
+        {
+          "text": "Margen Neto Operativo.",
+          "isCorrect": false,
+          "rationale": "El margen neto es el resultado final, pero no es la metodolog\u00eda para evaluar el costo-beneficio de una inversi\u00f3n tecnol\u00f3gica."
+        },
+        {
+          "text": "Retorno de Inversi\u00f3n ($ROI$) simple.",
+          "isCorrect": false,
+          "rationale": "Aunque relacionado, el $TCO$ es el t\u00e9rmino espec\u00edfico que engloba todos los costos y beneficios estrat\u00e9gicos a largo plazo."
+        },
+        {
+          "text": "Liquidez Corriente.",
+          "isCorrect": false,
+          "rationale": "La liquidez mide la capacidad de pago a corto plazo, no la visi\u00f3n estrat\u00e9gica de la inversi\u00f3n en infraestructura."
+        }
+      ],
+      "hint": "Se refiere a evaluar todos los costos asociados a un activo a lo largo de su vida \u00fatil."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n estrat\u00e9gica del flujo de informaci\u00f3n en la cadena de suministro?",
+      "answerOptions": [
+        {
+          "text": "Anticipar cuellos de botella y coordinar cada movimiento.",
+          "isCorrect": true,
+          "rationale": "Un flujo de informaci\u00f3n ininterrumpido permite sincronizar la log\u00edstica y evitar par\u00e1lisis operativas."
+        },
+        {
+          "text": "Asegurar que los salarios se vuelvan m\u00e1s baratos frente al d\u00f3lar.",
+          "isCorrect": false,
+          "rationale": "Esto es un efecto cambiario macroecon\u00f3mico, no una funci\u00f3n del flujo de informaci\u00f3n log\u00edstica."
+        },
+        {
+          "text": "Garantizar la liquidez y la confianza del sistema.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n primordial del flujo financiero, no del flujo de informaci\u00f3n t\u00e9cnica."
+        },
+        {
+          "text": "Extraer el mineral mediante tajo abierto o subterr\u00e1neo.",
+          "isCorrect": false,
+          "rationale": "La extracci\u00f3n es una actividad f\u00edsica del flujo de productos, no un proceso de informaci\u00f3n."
+        }
+      ],
+      "hint": "Act\u00faa como el sistema nervioso que permite la coordinaci\u00f3n antes de ejecutar movimientos f\u00edsicos."
+    },
+    {
+      "question": "En la etapa Downstream, \u00bfqu\u00e9 tecnolog\u00eda es indispensable para obtener metales de alt\u00edsima pureza?",
+      "answerOptions": [
+        {
+          "text": "Celdas electrol\u00edticas sofisticadas.",
+          "isCorrect": true,
+          "rationale": "Estas celdas son fundamentales en el proceso de refinaci\u00f3n para lograr la calidad exigida por el mercado internacional."
+        },
+        {
+          "text": "Sensores de perforaci\u00f3n automatizada.",
+          "isCorrect": false,
+          "rationale": "La perforaci\u00f3n es una actividad de la etapa inicial (Upstream), no de la refinaci\u00f3n final."
+        },
+        {
+          "text": "Sistemas de cuantificaci\u00f3n por drones.",
+          "isCorrect": false,
+          "rationale": "Los drones se utilizan principalmente para inventarios en el Midstream, no para la purificaci\u00f3n qu\u00edmica."
+        },
+        {
+          "text": "Modelamiento geof\u00edsico de yacimientos.",
+          "isCorrect": false,
+          "rationale": "Este estudio ocurre mucho antes de que el mineral llegue a la etapa de refinaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en el proceso de refinaci\u00f3n qu\u00edmica final."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 se considera que la viabilidad actual de un proyecto minero ya no se mide solo en toneladas m\u00e9tricas?",
+      "answerOptions": [
+        {
+          "text": "Porque depende de la robustez absoluta de toda la red y factores sociales.",
+          "isCorrect": true,
+          "rationale": "La fragilidad log\u00edstica y la licencia social son ahora tan cr\u00edticas como la capacidad de producci\u00f3n f\u00edsica."
+        },
+        {
+          "text": "Porque el precio de los metales ya no importa en el mercado global.",
+          "isCorrect": false,
+          "rationale": "El precio sigue siendo un factor clave, pero no es el \u00fanico determinante de la supervivencia del proyecto."
+        },
+        {
+          "text": "Porque la tecnolog\u00eda ha hecho que extraer mineral sea gratuito.",
+          "isCorrect": false,
+          "rationale": "La tecnolog\u00eda optimiza costos, pero la extracci\u00f3n sigue requiriendo inversiones masivas de capital."
+        },
+        {
+          "text": "Porque las comunidades ahora son due\u00f1as de todas las minas.",
+          "isCorrect": false,
+          "rationale": "Las comunidades son actores clave cuya alineaci\u00f3n es necesaria, pero no implica la propiedad total de los activos."
+        }
+      ],
+      "hint": "La continuidad del negocio ahora integra factores t\u00e9cnicos, sociales y tecnol\u00f3gicos de forma hol\u00edstica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 factor geopol\u00edtico impulsa actualmente una presi\u00f3n intensa sobre el suministro de cobre?",
+      "answerOptions": [
+        {
+          "text": "La transici\u00f3n energ\u00e9tica global (veh\u00edculos el\u00e9ctricos y paneles solares).",
+          "isCorrect": true,
+          "rationale": "La demanda de minerales estrat\u00e9gicos para energ\u00edas limpias coloca a las redes de suministro bajo una exigencia sin precedentes."
+        },
+        {
+          "text": "La disminuci\u00f3n del uso de tecnolog\u00eda en los pa\u00edses desarrollados.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el aumento del uso tecnol\u00f3gico incrementa la demanda de recursos minerales."
+        },
+        {
+          "text": "La autosuficiencia total de China en recursos minerales.",
+          "isCorrect": false,
+          "rationale": "China sigue siendo un motor masivo de consumo de metales, dependiendo de las importaciones globales."
+        },
+        {
+          "text": "La prohibici\u00f3n internacional de la miner\u00eda a tajo abierto.",
+          "isCorrect": false,
+          "rationale": "No existe tal prohibici\u00f3n global; la presi\u00f3n actual es por satisfacer la demanda de la transici\u00f3n energ\u00e9tica."
+        }
+      ],
+      "hint": "Se relaciona con el cambio hacia fuentes de energ\u00eda m\u00e1s limpias y tecnolog\u00edas sostenibles."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Arquitectura de la cadena de suministro",
+      "Fases operativas mineras (Upstream, Midstream, Downstream)",
+      "Riesgos macroecon\u00f3micos y sociales",
+      "Miner\u00eda 4.0 y resiliencia tecnol\u00f3gica"
+    ],
+    "followUp": [
+      "Gesti\u00f3n de la licencia social para operar",
+      "Geopol\u00edtica de los metales estrat\u00e9gicos",
+      "Implementaci\u00f3n de trazabilidad con Blockchain",
+      "Impacto de la enfermedad holandesa en econom\u00edas emergentes"
+    ]
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de la Ley 29783 en el entorno laboral?",
+      "answerOptions": [
+        {
+          "text": "Fomentar una cultura de prevenci\u00f3n de riesgos laborales con alcance universal.",
+          "isCorrect": true,
+          "rationale": "La ley busca establecer un marco corrector que obligue a todos los sectores a priorizar la prevenci\u00f3n sobre la reacci\u00f3n."
+        },
+        {
+          "text": "Reducir los costos operativos de las micro y peque\u00f1as empresas.",
+          "isCorrect": false,
+          "rationale": "Aunque la normativa se adapta a las MIPEs, su objetivo no es la reducci\u00f3n de costos, sino la protecci\u00f3n de la integridad del trabajador."
+        },
+        {
+          "text": "Sustituir los est\u00e1ndares internacionales por normativas locales menos exigentes.",
+          "isCorrect": false,
+          "rationale": "La ley se inspira precisamente en est\u00e1ndares globales de alto nivel para nivelar las condiciones de seguridad."
+        },
+        {
+          "text": "Centralizar la seguridad \u00fanicamente como un proceso de papeleo administrativo.",
+          "isCorrect": false,
+          "rationale": "La normativa busca alejarse del enfoque administrativo para convertir la seguridad en un pilar de sostenibilidad empresarial."
+        }
+      ],
+      "hint": "Se busca un cambio en la cultura organizacional que afecte a todos los sectores por igual."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece el principio de prevenci\u00f3n respecto al alcance de la protecci\u00f3n en el centro de labores?",
+      "answerOptions": [
+        {
+          "text": "Debe proteger exclusivamente al personal de planta contratado directamente.",
+          "isCorrect": false,
+          "rationale": "Este enfoque es limitado y no cumple con la naturaleza expansiva que exige el principio de prevenci\u00f3n."
+        },
+        {
+          "text": "Garantiza condiciones seguras para trabajadores, contratistas y visitantes.",
+          "isCorrect": true,
+          "rationale": "Este principio exige una protecci\u00f3n expansiva que abarca a cualquier persona que se encuentre dentro de las instalaciones."
+        },
+        {
+          "text": "Se limita a reaccionar de manera eficiente despu\u00e9s de ocurrido un accidente.",
+          "isCorrect": false,
+          "rationale": "La prevenci\u00f3n se enfoca en salvaguardar el capital humano desde antes de que ocurran los eventos adversos."
+        },
+        {
+          "text": "Aplica \u00fanicamente a los sectores de alto riesgo como la gran miner\u00eda.",
+          "isCorrect": false,
+          "rationale": "La ley y sus principios tienen un alcance universal y obligan a todos los sectores sin excepciones."
+        }
+      ],
+      "hint": "Considera si la seguridad debe limitarse solo a quienes tienen un contrato directo o a todos en el \u00e1rea."
+    },
+    {
+      "question": "Bajo el principio de responsabilidad, \u00bfqui\u00e9n debe asumir los costos econ\u00f3micos si algo sale mal en la operaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "El sindicato de trabajadores mediante su fondo de emergencia.",
+          "isCorrect": false,
+          "rationale": "El sindicato participa en la cooperaci\u00f3n, pero no asume la responsabilidad econ\u00f3mica de los fallos operativos."
+        },
+        {
+          "text": "El Estado a trav\u00e9s de los sistemas de seguridad social nacionales.",
+          "isCorrect": false,
+          "rationale": "El Estado fiscaliza, pero la responsabilidad directa y los costos de los incidentes recaen en la entidad que dirige la operaci\u00f3n."
+        },
+        {
+          "text": "Quien dirige la operaci\u00f3n asume todos los costos e implicancias legales.",
+          "isCorrect": true,
+          "rationale": "La responsabilidad es tajante y recae directamente sobre el empleador o l\u00edder de la organizaci\u00f3n."
+        },
+        {
+          "text": "El trabajador afectado mediante el descuento de sus beneficios laborales.",
+          "isCorrect": false,
+          "rationale": "La normativa proh\u00edbe trasladar los costos de la seguridad o las consecuencias de los accidentes al trabajador."
+        }
+      ],
+      "hint": "El deber del empleador es absoluto en t\u00e9rminos de direcci\u00f3n y consecuencias de la operaci\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 concepto define el principio de la primac\u00eda de la realidad en una inspecci\u00f3n de seguridad?",
+      "answerOptions": [
+        {
+          "text": "La validez de los documentos firmados es superior a cualquier observaci\u00f3n de campo.",
+          "isCorrect": false,
+          "rationale": "Este pensamiento prioriza la burocracia sobre la seguridad real, lo cual es opuesto al principio."
+        },
+        {
+          "text": "Los hechos constatados en el \u00e1rea de trabajo anulan la validez de los documentos.",
+          "isCorrect": true,
+          "rationale": "Si los hechos demuestran falta de competencia o peligro, el papel carece de valor legal o preventivo."
+        },
+        {
+          "text": "El registro de capacitaci\u00f3n garantiza por s\u00ed mismo el cumplimiento legal.",
+          "isCorrect": false,
+          "rationale": "Un registro es solo evidencia documental; si no hay competencia real, el sistema de gesti\u00f3n est\u00e1 fallando."
+        },
+        {
+          "text": "La realidad debe adaptarse a lo establecido en los manuales de la empresa.",
+          "isCorrect": false,
+          "rationale": "Es el sistema de gesti\u00f3n el que debe reflejar y mejorar la realidad, no al rev\u00e9s."
+        }
+      ],
+      "hint": "Piensa en qu\u00e9 tiene m\u00e1s peso: lo que dice un papel firmado o lo que un trabajador realmente sabe hacer."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n de la etapa de 'Actuar' dentro del ciclo PHVA aplicado a la seguridad?",
+      "answerOptions": [
+        {
+          "text": "Identificar los peligros y establecer los objetivos iniciales.",
+          "isCorrect": false,
+          "rationale": "La identificaci\u00f3n de peligros y objetivos corresponde a la etapa de planificaci\u00f3n."
+        },
+        {
+          "text": "Ejecutar los controles operacionales y capacitar al personal.",
+          "isCorrect": false,
+          "rationale": "La ejecuci\u00f3n de las medidas dise\u00f1adas es la esencia de la etapa de 'Hacer'."
+        },
+        {
+          "text": "Realizar auditor\u00edas para medir si las acciones funcionaron.",
+          "isCorrect": false,
+          "rationale": "La medici\u00f3n y el uso de indicadores para evaluar el desempe\u00f1o pertenecen a la etapa de 'Verificar'."
+        },
+        {
+          "text": "Tomar decisiones directivas para corregir desviaciones detectadas.",
+          "isCorrect": true,
+          "rationale": "En 'Actuar', la alta gerencia utiliza los resultados para cerrar el ciclo y generar mejora continua."
+        }
+      ],
+      "hint": "Es el paso donde se utilizan los resultados de las auditor\u00edas para realizar ajustes estrat\u00e9gicos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa la 'l\u00ednea base' en la implementaci\u00f3n de un sistema de gesti\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Un archivo est\u00e1tico de manuales que se guarda tras la primera auditor\u00eda.",
+          "isCorrect": false,
+          "rationale": "El sistema debe ser din\u00e1mico; un archivo est\u00e1tico no permite la mejora continua."
+        },
+        {
+          "text": "El presupuesto anual dedicado exclusivamente a la compra de equipos.",
+          "isCorrect": false,
+          "rationale": "La l\u00ednea base es un diagn\u00f3stico t\u00e9cnico de situaci\u00f3n, no una asignaci\u00f3n presupuestaria."
+        },
+        {
+          "text": "Un diagn\u00f3stico para identificar la brecha entre la situaci\u00f3n actual y la ley.",
+          "isCorrect": true,
+          "rationale": "Permite conocer con precisi\u00f3n qu\u00e9 falta para cumplir con las exigencias normativas vigentes."
+        },
+        {
+          "text": "El registro final de los accidentes ocurridos durante un a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Las estad\u00edsticas de accidentes son registros, pero la l\u00ednea base es el punto de partida t\u00e9cnico."
+        }
+      ],
+      "hint": "Se trata de un an\u00e1lisis inicial para saber d\u00f3nde estamos parados respecto a la norma."
+    },
+    {
+      "question": "\u00bfQu\u00e9 requisito debe cumplir la matriz IPERC para ser considerada v\u00e1lida?",
+      "answerOptions": [
+        {
+          "text": "Debe ser un documento gen\u00e9rico que aplique a toda la industria minera.",
+          "isCorrect": false,
+          "rationale": "Los documentos gen\u00e9ricos no identifican los riesgos espec\u00edficos de tareas particulares."
+        },
+        {
+          "text": "Debe ser altamente espec\u00edfica para cada puesto de trabajo y tarea.",
+          "isCorrect": true,
+          "rationale": "La identificaci\u00f3n de peligros requiere un an\u00e1lisis minucioso de las condiciones reales de cada rol."
+        },
+        {
+          "text": "Debe ser redactada exclusivamente por el sindicato de trabajadores.",
+          "isCorrect": false,
+          "rationale": "Requiere la participaci\u00f3n laboral, pero es una herramienta t\u00e9cnica que lidera el empleador."
+        },
+        {
+          "text": "Puede ser una copia exacta de los protocolos de empresas internacionales.",
+          "isCorrect": false,
+          "rationale": "El 'copy-paste' invalida el prop\u00f3sito de identificar peligros reales en el sitio de trabajo espec\u00edfico."
+        }
+      ],
+      "hint": "Piensa si un documento est\u00e1ndar puede detectar los riesgos \u00fanicos de una labor espec\u00edfica."
+    },
+    {
+      "question": "\u00bfPor cu\u00e1nto tiempo deben conservarse los registros relacionados con enfermedades ocupacionales?",
+      "answerOptions": [
+        {
+          "text": "5 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Este es el periodo general para registros de seguridad, pero es insuficiente para patolog\u00edas cr\u00f3nicas."
+        },
+        {
+          "text": "10 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "10 a\u00f1os es el plazo para accidentes de trabajo e incidentes peligrosos, no para enfermedades."
+        },
+        {
+          "text": "15 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Aunque es un plazo largo, la normativa exige un tiempo mayor debido a la latencia de las enfermedades."
+        },
+        {
+          "text": "20 a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Se requiere este tiempo para rastrear patolog\u00edas que pueden manifestarse mucho tiempo despu\u00e9s de la exposici\u00f3n."
+        }
+      ],
+      "hint": "Considera que algunas enfermedades tardan d\u00e9cadas en manifestarse despu\u00e9s de la exposici\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el periodo de custodia obligatorio para los registros de accidentes de trabajo e incidentes peligrosos?",
+      "answerOptions": [
+        {
+          "text": "10 a\u00f1os.",
+          "isCorrect": true,
+          "rationale": "Este plazo garantiza la trazabilidad necesaria ante auditor\u00edas retrospectivas o revisiones legales."
+        },
+        {
+          "text": "20 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Este periodo es espec\u00edfico para enfermedades ocupacionales debido a su naturaleza de largo plazo."
+        },
+        {
+          "text": "5 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Este es el tiempo para registros generales, pero los accidentes requieren mayor tiempo de resguardo."
+        },
+        {
+          "text": "1 a\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Un a\u00f1o es un tiempo insuficiente para cualquier proceso legal o de fiscalizaci\u00f3n serio."
+        }
+      ],
+      "hint": "Es la mitad del tiempo requerido para las enfermedades ocupacionales."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 circunstancia una organizaci\u00f3n debe nombrar un Supervisor de Seguridad en lugar de un Comit\u00e9?",
+      "answerOptions": [
+        {
+          "text": "Cuando la empresa pertenece exclusivamente al sector servicios.",
+          "isCorrect": false,
+          "rationale": "La obligaci\u00f3n depende del n\u00famero de trabajadores, no del sector econ\u00f3mico."
+        },
+        {
+          "text": "Cuando la organizaci\u00f3n cuenta con menos de 20 trabajadores.",
+          "isCorrect": true,
+          "rationale": "Para grupos peque\u00f1os, la ley simplifica la estructura permitiendo la figura del supervisor."
+        },
+        {
+          "text": "Cuando los trabajadores deciden no participar en votaciones secretas.",
+          "isCorrect": false,
+          "rationale": "La participaci\u00f3n y elecci\u00f3n es un derecho y deber que no anula la estructura obligatoria por ley."
+        },
+        {
+          "text": "Cuando el empleador decide delegar toda la responsabilidad en un tercero.",
+          "isCorrect": false,
+          "rationale": "El liderazgo es indelegable y la estructura organizativa es imperativa seg\u00fan el n\u00famero de personal."
+        }
+      ],
+      "hint": "Se basa en un umbral num\u00e9rico espec\u00edfico de la fuerza laboral."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el n\u00famero m\u00ednimo y m\u00e1ximo de miembros que puede tener un Comit\u00e9 de Seguridad y Salud en el Trabajo (CSST)?",
+      "answerOptions": [
+        {
+          "text": "Entre 2 y 10 miembros.",
+          "isCorrect": false,
+          "rationale": "Este rango no cumple con los l\u00edmites m\u00ednimos y m\u00e1ximos establecidos en la normativa."
+        },
+        {
+          "text": "Entre 4 y 12 miembros.",
+          "isCorrect": true,
+          "rationale": "La ley define este rango para asegurar la operatividad y la paridad en la toma de decisiones."
+        },
+        {
+          "text": "Exactamente 6 miembros en todos los casos.",
+          "isCorrect": false,
+          "rationale": "El n\u00famero es variable y depende del tama\u00f1o de la organizaci\u00f3n, dentro de un rango definido."
+        },
+        {
+          "text": "M\u00ednimo 20 miembros para empresas mineras.",
+          "isCorrect": false,
+          "rationale": "Incluso en sectores grandes, el l\u00edmite m\u00e1ximo del comit\u00e9 central se mantiene en 12 para ser eficiente."
+        }
+      ],
+      "hint": "El rango comienza en cuatro integrantes para permitir la paridad m\u00ednima."
+    },
+    {
+      "question": "\u00bfC\u00f3mo debe realizarse la elecci\u00f3n de los representantes de los trabajadores ante el CSST?",
+      "answerOptions": [
+        {
+          "text": "Mediante designaci\u00f3n directa por parte de la alta gerencia.",
+          "isCorrect": false,
+          "rationale": "Esto violar\u00eda la naturaleza democr\u00e1tica y la independencia del comit\u00e9."
+        },
+        {
+          "text": "Por orden de antig\u00fcedad en la empresa sin necesidad de consulta.",
+          "isCorrect": false,
+          "rationale": "La antig\u00fcedad no garantiza representaci\u00f3n ni el cumplimiento de la formalidad electoral."
+        },
+        {
+          "text": "A trav\u00e9s de una votaci\u00f3n secreta y directa del personal.",
+          "isCorrect": true,
+          "rationale": "Garantiza una representaci\u00f3n genuina y libre de presiones por parte del empleador."
+        },
+        {
+          "text": "Por recomendaci\u00f3n del Ministerio de Trabajo tras una auditor\u00eda.",
+          "isCorrect": false,
+          "rationale": "El Ministerio fiscaliza que la elecci\u00f3n ocurra, pero no selecciona a los representantes."
+        }
+      ],
+      "hint": "Es un proceso que garantiza la libre elecci\u00f3n y privacidad de los votantes."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la penalidad aproximada por omitir la formalizaci\u00f3n del comit\u00e9 en el T-Registro?",
+      "answerOptions": [
+        {
+          "text": "129,000 soles.",
+          "isCorrect": true,
+          "rationale": "Esta multa refleja la gravedad de no legalizar el \u00f3rgano que vigila la seguridad de los trabajadores."
+        },
+        {
+          "text": "10,000 soles.",
+          "isCorrect": false,
+          "rationale": "Esta cifra es demasiado baja para una infracci\u00f3n calificada como grave dentro del sistema inspectivo."
+        },
+        {
+          "text": "50,000 soles.",
+          "isCorrect": false,
+          "rationale": "Aunque es una multa considerable, no alcanza el monto estipulado para esta omisi\u00f3n espec\u00edfica."
+        },
+        {
+          "text": "No existe multa si la empresa demuestra que el comit\u00e9 se re\u00fane informalmente.",
+          "isCorrect": false,
+          "rationale": "Un comit\u00e9 no registrado es legalmente inexistente y deja al empleador expuesto a sanciones."
+        }
+      ],
+      "hint": "Se trata de una cifra que supera los cien mil soles y es tipificada como grave."
+    },
+    {
+      "question": "\u00bfCon qu\u00e9 frecuencia se deben realizar los ex\u00e1menes m\u00e9dicos ocupacionales en actividades de alto riesgo?",
+      "answerOptions": [
+        {
+          "text": "Cada 2 a\u00f1os.",
+          "isCorrect": false,
+          "rationale": "Esta frecuencia aplica \u00fanicamente para actividades de bajo riesgo."
+        },
+        {
+          "text": "De manera anual.",
+          "isCorrect": true,
+          "rationale": "La alta exposici\u00f3n en sectores como miner\u00eda exige una vigilancia cl\u00ednica m\u00e1s estrecha y frecuente."
+        },
+        {
+          "text": "Solo al inicio de la relaci\u00f3n laboral.",
+          "isCorrect": false,
+          "rationale": "Los ex\u00e1menes deben ser peri\u00f3dicos para detectar patolog\u00edas durante el desarrollo del trabajo."
+        },
+        {
+          "text": "Cada 6 meses para todo el personal.",
+          "isCorrect": false,
+          "rationale": "A menos que exista una normativa espec\u00edfica, el est\u00e1ndar para alto riesgo es un examen cada doce meses."
+        }
+      ],
+      "hint": "La exposici\u00f3n intensa requiere un chequeo constante cada doce meses."
+    },
+    {
+      "question": "\u00bfQui\u00e9n tiene la responsabilidad financiera de cubrir el costo de los ex\u00e1menes m\u00e9dicos ocupacionales?",
+      "answerOptions": [
+        {
+          "text": "El trabajador, mediante aportes mensuales obligatorios.",
+          "isCorrect": false,
+          "rationale": "La ley proh\u00edbe cargar costos de seguridad y salud al bolsillo del trabajador."
+        },
+        {
+          "text": "El Seguro Social de Salud (EsSalud) exclusivamente.",
+          "isCorrect": false,
+          "rationale": "EsSalud atiende la salud general, pero la salud ocupacional es responsabilidad del empleador."
+        },
+        {
+          "text": "El empleador de forma \u00edntegra y exclusiva.",
+          "isCorrect": true,
+          "rationale": "Es una obligaci\u00f3n ineludible del empleador asumir todos los costos de la vigilancia de la salud laboral."
+        },
+        {
+          "text": "Se divide el costo en partes iguales entre empresa y trabajador.",
+          "isCorrect": false,
+          "rationale": "No existe la modalidad de costo compartido en las evaluaciones m\u00e9dicas obligatorias por ley."
+        }
+      ],
+      "hint": "El costo de la prevenci\u00f3n nunca debe recaer en quien ejecuta la labor."
+    },
+    {
+      "question": "\u00bfQu\u00e9 lecci\u00f3n deja el caso de la mina Cerro Alto sobre la responsabilidad hacia terceros?",
+      "answerOptions": [
+        {
+          "text": "La responsabilidad de seguridad solo aplica a empleados directos en planilla.",
+          "isCorrect": false,
+          "rationale": "Este error conceptual fue precisamente el que caus\u00f3 la desprotecci\u00f3n de las v\u00edctimas en dicho caso."
+        },
+        {
+          "text": "El empleador es responsable de toda persona en el centro laboral, incluyendo subcontratistas.",
+          "isCorrect": true,
+          "rationale": "La protecci\u00f3n no hace distinciones contractuales; cualquier persona en la operaci\u00f3n debe estar cubierta."
+        },
+        {
+          "text": "Los subcontratistas deben gestionar su propia seguridad sin intervenci\u00f3n del cliente.",
+          "isCorrect": false,
+          "rationale": "El titular de la actividad siempre mantiene el deber de vigilancia sobre toda su cadena de valor."
+        },
+        {
+          "text": "El comit\u00e9 de seguridad no tiene competencia sobre el personal externo.",
+          "isCorrect": false,
+          "rationale": "El CSST debe vigilar la seguridad de todos los procesos y personas involucradas en la unidad."
+        }
+      ],
+      "hint": "La seguridad se extiende a toda persona que 'pise el centro de labores'."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de los siguientes es un ejemplo de un KPI proactivo en la gesti\u00f3n de seguridad?",
+      "answerOptions": [
+        {
+          "text": "La tasa de accidentabilidad mensual.",
+          "isCorrect": false,
+          "rationale": "Este es un indicador reactivo, ya que mide el da\u00f1o cuando ya ocurri\u00f3."
+        },
+        {
+          "text": "El n\u00famero de d\u00edas perdidos por lesiones.",
+          "isCorrect": false,
+          "rationale": "Al igual que la accidentabilidad, mide el fracaso de la prevenci\u00f3n, no la acci\u00f3n preventiva."
+        },
+        {
+          "text": "El porcentaje de cumplimiento de las auditor\u00edas preventivas.",
+          "isCorrect": true,
+          "rationale": "Mide las acciones de control realizadas antes de que ocurra un accidente, demostrando prevenci\u00f3n activa."
+        },
+        {
+          "text": "La cantidad de indemnizaciones pagadas por accidentes.",
+          "isCorrect": false,
+          "rationale": "Este es un indicador puramente financiero y reactivo ante un evento adverso."
+        }
+      ],
+      "hint": "Busca una m\u00e9trica que mida la prevenci\u00f3n 'antes' del da\u00f1o, no los resultados 'despu\u00e9s'."
+    },
+    {
+      "question": "\u00bfQu\u00e9 derecho asegura el principio de atenci\u00f3n integral de la salud?",
+      "answerOptions": [
+        {
+          "text": "El derecho al pago de vacaciones no gozadas tras un accidente.",
+          "isCorrect": false,
+          "rationale": "Este es un beneficio laboral general, no relacionado con la recuperaci\u00f3n f\u00edsica por accidentes."
+        },
+        {
+          "text": "El derecho a la recuperaci\u00f3n, rehabilitaci\u00f3n y reinserci\u00f3n laboral.",
+          "isCorrect": true,
+          "rationale": "Asegura que el trabajador reciba el soporte necesario para volver a su vida productiva tras un evento adverso."
+        },
+        {
+          "text": "El derecho a elegir el centro de salud privado de preferencia del trabajador.",
+          "isCorrect": false,
+          "rationale": "Se garantiza la atenci\u00f3n integral, pero los protocolos suelen estar definidos por los seguros de riesgo."
+        },
+        {
+          "text": "El derecho a una pensi\u00f3n de jubilaci\u00f3n anticipada autom\u00e1tica.",
+          "isCorrect": false,
+          "rationale": "La jubilaci\u00f3n anticipada depende de otros factores legales y no es el n\u00facleo del principio de atenci\u00f3n integral."
+        }
+      ],
+      "hint": "Se enfoca en el proceso de volver a estar sano y regresar al puesto de trabajo."
+    },
+    {
+      "question": "Seg\u00fan el principio de gesti\u00f3n integral, \u00bfc\u00f3mo debe ser tratada la seguridad en la organizaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "Como un departamento aislado que solo act\u00faa en emergencias.",
+          "isCorrect": false,
+          "rationale": "El aislamiento impide que la seguridad influya en las decisiones clave del negocio."
+        },
+        {
+          "text": "Como una serie de documentos est\u00e1ticos para cumplir auditor\u00edas.",
+          "isCorrect": false,
+          "rationale": "La gesti\u00f3n debe ser un organismo vivo y din\u00e1mico, no solo papeleo acumulando polvo."
+        },
+        {
+          "text": "Como parte del ADN estrat\u00e9gico y de cada decisi\u00f3n directiva.",
+          "isCorrect": true,
+          "rationale": "La seguridad debe estar incrustada en todas las operaciones y niveles jer\u00e1rquicos de la empresa."
+        },
+        {
+          "text": "Como un gasto operativo que debe minimizarse lo m\u00e1ximo posible.",
+          "isCorrect": false,
+          "rationale": "La seguridad es una inversi\u00f3n estrat\u00e9gica, no un sobrecosto o gasto a recortar."
+        }
+      ],
+      "hint": "Debe estar integrada en la esencia misma del negocio y no en una oficina separada."
+    },
+    {
+      "question": "En una organizaci\u00f3n con m\u00e1s de 20 trabajadores, \u00bfqu\u00e9 caracter\u00edstica define la paridad del CSST?",
+      "answerOptions": [
+        {
+          "text": "Que haya el mismo n\u00famero de hombres y mujeres en el comit\u00e9.",
+          "isCorrect": false,
+          "rationale": "La paridad en este contexto se refiere a la representaci\u00f3n de roles (empleador vs. trabajador), no al g\u00e9nero."
+        },
+        {
+          "text": "Que la voz de la alta gerencia valga el doble que la de los trabajadores.",
+          "isCorrect": false,
+          "rationale": "La paridad implica igualdad de peso en el voto y en la toma de decisiones."
+        },
+        {
+          "text": "Que representantes del empleador y de los trabajadores tengan el mismo peso.",
+          "isCorrect": true,
+          "rationale": "Asegura un equilibrio democr\u00e1tico entre los intereses de producci\u00f3n y la protecci\u00f3n de la vida."
+        },
+        {
+          "text": "Que el comit\u00e9 est\u00e9 compuesto \u00fanicamente por personal de sindicatos.",
+          "isCorrect": false,
+          "rationale": "El comit\u00e9 debe ser bipartito, es decir, incluir a representantes elegidos por el empleador tambi\u00e9n."
+        }
+      ],
+      "hint": "Busca el equilibrio entre quienes dirigen la empresa y quienes est\u00e1n en la l\u00ednea de fuego operativa."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Ley 29783 y Marco Legal de Seguridad",
+      "Principios de la Seguridad y Salud en el Trabajo",
+      "Ciclo PHVA y Gesti\u00f3n Continua",
+      "Comit\u00e9 de Seguridad y Salud en el Trabajo (CSST)",
+      "Documentaci\u00f3n y Registros Obligatorios",
+      "Vigilancia de la Salud y Ex\u00e1menes M\u00e9dicos"
+    ],
+    "followUp": [
+      "Protocolos sanitarios y riesgos epidemiol\u00f3gicos (2021)",
+      "Criterios de inspecci\u00f3n de la SUNAFIL en miner\u00eda",
+      "Gesti\u00f3n de riesgos espec\u00edficos en subcontrataci\u00f3n",
+      "Dise\u00f1o de indicadores proactivos (KPIs) avanzados",
+      "Liderazgo preventivo y cultura de seguridad"
+    ]
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el criterio t\u00e9cnico fundamental que determina obligatoriamente la elecci\u00f3n de un m\u00e9todo de explotaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "La preferencia discrecional del ingeniero de minas a cargo.",
+          "isCorrect": false,
+          "rationale": "La selecci\u00f3n no es un acto de preferencia personal, sino una respuesta t\u00e9cnica a factores naturales."
+        },
+        {
+          "text": "La disponibilidad inmediata de maquinaria pesada en la regi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque es un factor log\u00edstico, la morfolog\u00eda y la geomec\u00e1nica dictan el m\u00e9todo antes de considerar la flota disponible."
+        },
+        {
+          "text": "La configuraci\u00f3n geom\u00e9trica y el comportamiento geomec\u00e1nico del yacimiento.",
+          "isCorrect": true,
+          "rationale": "El m\u00e9todo debe adaptarse a la forma natural del dep\u00f3sito y a c\u00f3mo responde el macizo rocoso ante la excavaci\u00f3n."
+        },
+        {
+          "text": "El precio de mercado del mineral en el momento de la planificaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El precio influye en la viabilidad econ\u00f3mica (ley de corte), pero la geometr\u00eda es la que define la ingenier\u00eda de extracci\u00f3n."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre la forma natural de la roca y la estabilidad de las excavaciones."
+    },
+    {
+      "question": "\u00bfQu\u00e9 variables son determinantes para decidir entre una operaci\u00f3n a tajo abierto o una subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "Profundidad, ley de corte y estructuras geol\u00f3gicas.",
+          "isCorrect": true,
+          "rationale": "Estos factores permiten evaluar si es econ\u00f3micamente viable remover el desmonte superficial o si se requiere acceso directo al cuerpo."
+        },
+        {
+          "text": "Cercan\u00eda a centros urbanos y disponibilidad de mano de obra.",
+          "isCorrect": false,
+          "rationale": "Estos son factores sociales y log\u00edsticos, pero no definen la naturaleza t\u00e9cnica de la excavaci\u00f3n principal."
+        },
+        {
+          "text": "\u00danicamente el volumen total de reservas estimadas.",
+          "isCorrect": false,
+          "rationale": "El volumen es importante, pero sin analizar la profundidad y la ley, no se puede determinar el m\u00e9todo de acceso."
+        },
+        {
+          "text": "El tipo de energ\u00eda el\u00e9ctrica disponible para la planta.",
+          "isCorrect": false,
+          "rationale": "La fuente de energ\u00eda no condiciona si la mina se desarrolla en superficie o bajo tierra."
+        }
+      ],
+      "hint": "Piense en los factores que equilibran el costo de remover material est\u00e9ril frente al valor del mineral profundo."
+    },
+    {
+      "question": "En el contexto de estructuras tabulares como las vetas, \u00bfqu\u00e9 define t\u00e9cnicamente a la 'potencia'?",
+      "answerOptions": [
+        {
+          "text": "La capacidad de carga de los equipos de transporte.",
+          "isCorrect": false,
+          "rationale": "En miner\u00eda, este t\u00e9rmino se aplica a la geometr\u00eda del yacimiento, no a la fuerza mec\u00e1nica de las m\u00e1quinas."
+        },
+        {
+          "text": "El espesor reducido del cuerpo mineralizado.",
+          "isCorrect": true,
+          "rationale": "La potencia es la medida del grosor de la veta, que suele ser peque\u00f1o en comparaci\u00f3n con su extensi\u00f3n superficial."
+        },
+        {
+          "text": "La velocidad de avance de la perforaci\u00f3n diamantina.",
+          "isCorrect": false,
+          "rationale": "La velocidad de perforaci\u00f3n es un par\u00e1metro operativo, no una caracter\u00edstica morfol\u00f3gica del yacimiento."
+        },
+        {
+          "text": "La presi\u00f3n que ejercen los fluidos hidrotermales en la corteza.",
+          "isCorrect": false,
+          "rationale": "Si bien los fluidos forman la veta, la potencia se refiere a la dimensi\u00f3n f\u00edsica resultante."
+        }
+      ],
+      "hint": "Es un t\u00e9rmino utilizado para describir una de las dimensiones f\u00edsicas de un fil\u00f3n."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la t\u00e9cnica de 'circar' dentro de la miner\u00eda selectiva?",
+      "answerOptions": [
+        {
+          "text": "Extraer mineral y est\u00e9ril de forma simult\u00e1nea para acelerar el avance.",
+          "isCorrect": false,
+          "rationale": "Esa pr\u00e1ctica causar\u00eda una diluci\u00f3n excesiva, que es exactamente lo que el circado busca evitar."
+        },
+        {
+          "text": "Inyectar cemento en las fracturas para estabilizar el macizo.",
+          "isCorrect": false,
+          "rationale": "Esto describe un proceso de consolidaci\u00f3n o relleno, no una t\u00e9cnica de extracci\u00f3n selectiva."
+        },
+        {
+          "text": "Minar exclusiva y \u00fanicamente la veta, rompiendo el est\u00e9ril de forma independiente.",
+          "isCorrect": true,
+          "rationale": "El objetivo es maximizar la pureza del mineral extra\u00eddo (ley de cabeza) evitando que se mezcle con la roca sin valor."
+        },
+        {
+          "text": "Realizar perforaciones en abanico para cubrir grandes \u00e1reas.",
+          "isCorrect": false,
+          "rationale": "La perforaci\u00f3n en abanico es t\u00edpica del sublevel stopping, no de la t\u00e9cnica de circado en vetas angostas."
+        }
+      ],
+      "hint": "Busque la acci\u00f3n que prioriza la pureza del mineral al separarlo f\u00edsicamente de la roca caja."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la consecuencia directa de intentar usar maquinaria de alta mecanizaci\u00f3n en estructuras irregulares o rosariadas?",
+      "answerOptions": [
+        {
+          "text": "Aumento de la velocidad de recuperaci\u00f3n de la inversi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la falta de selectividad destruir\u00eda el valor econ\u00f3mico del proyecto."
+        },
+        {
+          "text": "Generaci\u00f3n de una diluci\u00f3n cr\u00edtica que destruye el valor del mineral.",
+          "isCorrect": true,
+          "rationale": "Los equipos grandes no pueden seguir la irregularidad de la veta, extrayendo demasiado material est\u00e9ril junto al mineral."
+        },
+        {
+          "text": "Mejora en la estabilidad geomec\u00e1nica de las c\u00e1maras.",
+          "isCorrect": false,
+          "rationale": "El uso de equipos pesados en zonas estrechas suele generar m\u00e1s vibraciones y riesgos de inestabilidad."
+        },
+        {
+          "text": "Reducci\u00f3n de los costos operativos por econom\u00eda de escala.",
+          "isCorrect": false,
+          "rationale": "Aunque el costo por tonelada baje, la baja ley resultante por la diluci\u00f3n anula cualquier beneficio."
+        }
+      ],
+      "hint": "Piense en lo que sucede cuando una m\u00e1quina grande intenta extraer una l\u00ednea delgada y sinuosa de mineral."
+    },
+    {
+      "question": "\u00bfQu\u00e9 controles litol\u00f3gicos primarios definen la concentraci\u00f3n mineral en los dep\u00f3sitos de reemplazamiento de carbonatos (CRD)?",
+      "answerOptions": [
+        {
+          "text": "La dureza y la conductividad t\u00e9rmica de la roca.",
+          "isCorrect": false,
+          "rationale": "Estas propiedades no dictan el flujo de fluidos mineralizantes en este tipo de dep\u00f3sitos."
+        },
+        {
+          "text": "La permeabilidad y la porosidad de la roca sedimentaria.",
+          "isCorrect": true,
+          "rationale": "Estos factores permiten que los fluidos calientes interact\u00faen y reemplacen la roca (t\u00edpicamente caliza) para formar el dep\u00f3sito."
+        },
+        {
+          "text": "La profundidad de la napa fre\u00e1tica \u00fanicamente.",
+          "isCorrect": false,
+          "rationale": "La napa fre\u00e1tica influye en la hidrolog\u00eda, pero no es el control litol\u00f3gico de la formaci\u00f3n del yacimiento CRD."
+        },
+        {
+          "text": "La presencia de cuarzo cristalino en la roca caja.",
+          "isCorrect": false,
+          "rationale": "Los CRD se asocian a rocas carbonatadas, no necesariamente a la presencia de cuarzo como control primario."
+        }
+      ],
+      "hint": "Piense en las caracter\u00edsticas que permiten que un fluido circule a trav\u00e9s de una roca."
+    },
+    {
+      "question": "En el m\u00e9todo de c\u00e1maras y pilares, \u00bfcu\u00e1l es el l\u00edmite de buzamiento m\u00e1ximo recomendado para su aplicaci\u00f3n?",
+      "answerOptions": [
+        {
+          "text": "$15^{\\circ}$",
+          "isCorrect": false,
+          "rationale": "Este es el l\u00edmite recomendado para pendientes de transporte (rampas), no el l\u00edmite de buzamiento del yacimiento para este m\u00e9todo."
+        },
+        {
+          "text": "$30^{\\circ}$",
+          "isCorrect": true,
+          "rationale": "El m\u00e9todo se aplica en yacimientos horizontales o subhorizontales con una inclinaci\u00f3n menor a este umbral."
+        },
+        {
+          "text": "$45^{\\circ}$",
+          "isCorrect": false,
+          "rationale": "Un buzamiento tan alto dificultar\u00eda el movimiento de equipos sobre el piso de la c\u00e1mara en este m\u00e9todo espec\u00edfico."
+        },
+        {
+          "text": "$90^{\\circ}$",
+          "isCorrect": false,
+          "rationale": "Para yacimientos verticales se utilizan otros m\u00e9todos como el sublevel stopping o shrinkage."
+        }
+      ],
+      "hint": "Se trata de un \u00e1ngulo que define a los dep\u00f3sitos subhorizontales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n cr\u00edtica de dejar pilares de dimensiones estrictas (como $4 \\times 4$ m en el caso de SIMSA)?",
+      "answerOptions": [
+        {
+          "text": "Servir como puntos de almacenamiento de herramientas.",
+          "isCorrect": false,
+          "rationale": "Los pilares tienen una funci\u00f3n t\u00e9cnica estructural, no log\u00edstica."
+        },
+        {
+          "text": "Facilitar la ventilaci\u00f3n natural de la mina.",
+          "isCorrect": false,
+          "rationale": "Aunque influyen en el flujo de aire, su dise\u00f1o responde a la estabilidad de la carga del techo."
+        },
+        {
+          "text": "Actuar como soporte estructural para evitar el colapso del techo.",
+          "isCorrect": true,
+          "rationale": "Los pilares mantienen la estabilidad del macizo al autosostener la estructura de la c\u00e1mara tras la extracci\u00f3n."
+        },
+        {
+          "text": "Incrementar artificialmente la ley de corte del yacimiento.",
+          "isCorrect": false,
+          "rationale": "De hecho, dejar mineral en los pilares reduce la recuperaci\u00f3n total, pero es necesario por seguridad."
+        }
+      ],
+      "hint": "Considere qu\u00e9 pasar\u00eda con una caverna subterr\u00e1nea gigante si no tuviera soportes internos."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica t\u00e9cnica define al m\u00e9todo 'Sublevel Stopping'?",
+      "answerOptions": [
+        {
+          "text": "El uso exclusivo de herramientas manuales para evitar vibraciones.",
+          "isCorrect": false,
+          "rationale": "Es un sistema altamente mecanizado que utiliza perforaci\u00f3n de largo alcance."
+        },
+        {
+          "text": "La extracci\u00f3n de mineral por gravedad mediante perforaci\u00f3n en abanico.",
+          "isCorrect": true,
+          "rationale": "Aprovecha la fuerte inclinaci\u00f3n del cuerpo para que el mineral roto caiga hacia los puntos de extracci\u00f3n inferiores."
+        },
+        {
+          "text": "El sostenimiento mediante cuadros de madera en cada nivel.",
+          "isCorrect": false,
+          "rationale": "Este m\u00e9todo se aplica generalmente en rocas competentes que no requieren cuadros de madera sistem\u00e1ticos."
+        },
+        {
+          "text": "La inmovilizaci\u00f3n total del mineral dentro del tajeo hasta el final.",
+          "isCorrect": false,
+          "rationale": "Esa es la descripci\u00f3n del m\u00e9todo de shrinkage, no del sublevel stopping."
+        }
+      ],
+      "hint": "Relacione el m\u00e9todo con yacimientos verticales y el movimiento libre de la roca fragmentada."
+    },
+    {
+      "question": "En macizos rocosos incompetentes o d\u00e9biles, \u00bfpor qu\u00e9 se prefiere el m\u00e9todo de corte y relleno descendente?",
+      "answerOptions": [
+        {
+          "text": "Porque permite trabajar bajo la protecci\u00f3n de un techo artificial de concreto.",
+          "isCorrect": true,
+          "rationale": "Proporciona una losa s\u00f3lida cementada que protege al personal y equipos de la ca\u00edda de rocas inestables."
+        },
+        {
+          "text": "Porque es el m\u00e9todo m\u00e1s barato y con menor uso de insumos externos.",
+          "isCorrect": false,
+          "rationale": "Es un m\u00e9todo costoso debido al uso intensivo de relleno cementado y ciclos complejos."
+        },
+        {
+          "text": "Porque no requiere sistemas de ventilaci\u00f3n mecanizada.",
+          "isCorrect": false,
+          "rationale": "Toda miner\u00eda subterr\u00e1nea requiere ventilaci\u00f3n; este m\u00e9todo no es la excepci\u00f3n."
+        },
+        {
+          "text": "Porque utiliza la gravedad para el transporte del mineral al nivel superior.",
+          "isCorrect": false,
+          "rationale": "El transporte no se realiza hacia arriba por gravedad, lo cual es f\u00edsicamente imposible."
+        }
+      ],
+      "hint": "Piense en la seguridad del operario cuando la roca natural es propensa a derrumbes."
+    },
+    {
+      "question": "\u00bfQu\u00e9 sacrificio econ\u00f3mico principal conlleva el m\u00e9todo de 'Shrinkage Stopping'?",
+      "answerOptions": [
+        {
+          "text": "La necesidad de importar arena especial para el relleno.",
+          "isCorrect": false,
+          "rationale": "Este m\u00e9todo utiliza el propio mineral roto como plataforma, no requiere relleno externo inmediato."
+        },
+        {
+          "text": "La inmovilizaci\u00f3n de una cantidad inmensa de capital en mineral no procesado.",
+          "isCorrect": true,
+          "rationale": "Como el mineral roto se queda en el tajeo para servir de piso, no se puede vender hasta que se vac\u00ede el bloque totalmente."
+        },
+        {
+          "text": "El alto costo de mantenimiento de los sistemas de izaje.",
+          "isCorrect": false,
+          "rationale": "Aunque es un costo, no es el sacrificio econ\u00f3mico distintivo de este m\u00e9todo frente a otros."
+        },
+        {
+          "text": "El pago de multas ambientales por dejar espacios abiertos.",
+          "isCorrect": false,
+          "rationale": "El m\u00e9todo es una t\u00e9cnica aceptada y no implica multas per se si se gestiona correctamente."
+        }
+      ],
+      "hint": "Considere el estado financiero del mineral que ya fue dinamitado pero no ha salido a superficie."
+    },
+    {
+      "question": "En el m\u00e9todo de almacenamiento provisional (shrinkage), \u00bfcu\u00e1l es el requisito de espacio libre entre el techo y la carga de mineral?",
+      "answerOptions": [
+        {
+          "text": "$1$ metro",
+          "isCorrect": false,
+          "rationale": "Un metro es insuficiente para que el personal opere los equipos de perforaci\u00f3n con seguridad."
+        },
+        {
+          "text": "$2$ metros",
+          "isCorrect": true,
+          "rationale": "Este volumen espec\u00edfico garantiza el espacio vital necesario para que los mineros operen de forma segura en cada ciclo."
+        },
+        {
+          "text": "$5$ metros",
+          "isCorrect": false,
+          "rationale": "Un espacio de 5 metros ser\u00eda excesivo y peligroso para el alcance de la perforaci\u00f3n manual sobre el mineral."
+        },
+        {
+          "text": "No existe un requisito fijo, depende del tipo de roca.",
+          "isCorrect": false,
+          "rationale": "La norma t\u00e9cnica establece un est\u00e1ndar operativo para garantizar el espacio de trabajo seguro."
+        }
+      ],
+      "hint": "Es la distancia necesaria para que una persona pueda estar de pie y trabajar c\u00f3modamente."
+    },
+    {
+      "question": "La 'Ley de Corte Empresarial' se diferencia de la operacional porque incluye:",
+      "answerOptions": [
+        {
+          "text": "Solo los costos de explosivos y combustible.",
+          "isCorrect": false,
+          "rationale": "Esos son costos directos operacionales, no el alcance total de la ley empresarial."
+        },
+        {
+          "text": "\u00danicamente la recuperaci\u00f3n metal\u00fargica de la planta.",
+          "isCorrect": false,
+          "rationale": "Eso corresponde a la ley de corte geol\u00f3gica o b\u00e1sica."
+        },
+        {
+          "text": "Depreciaci\u00f3n, gastos financieros y costos administrativos de sede central.",
+          "isCorrect": true,
+          "rationale": "Es el nivel m\u00e1s realista y duro porque absorbe todos los costos indirectos que mantienen viva la empresa."
+        },
+        {
+          "text": "El valor de los impuestos ambientales exclusivamente.",
+          "isCorrect": false,
+          "rationale": "Los impuestos son parte de los costos, pero la ley empresarial es mucho m\u00e1s integral."
+        }
+      ],
+      "hint": "Considere los gastos que no ocurren directamente en la mina pero que la empresa debe pagar para existir."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es uno de los efectos negativos de una mala gesti\u00f3n de la diluci\u00f3n en la planta concentradora?",
+      "answerOptions": [
+        {
+          "text": "Aumento innecesario en la ley de cabeza del mineral.",
+          "isCorrect": false,
+          "rationale": "La diluci\u00f3n disminuye la ley de cabeza al mezclar mineral con roca est\u00e9ril."
+        },
+        {
+          "text": "Reducci\u00f3n del volumen de relaves generados.",
+          "isCorrect": false,
+          "rationale": "Al procesar roca est\u00e9ril, se genera una mayor cantidad de basura o relaves."
+        },
+        {
+          "text": "Saturaci\u00f3n de la capacidad de la planta con roca sin valor econ\u00f3mico.",
+          "isCorrect": true,
+          "rationale": "Se le quita espacio al mineral valioso para procesar 'basura', lo que reduce dr\u00e1sticamente la rentabilidad."
+        },
+        {
+          "text": "Mejora en la eficiencia de los reactivos qu\u00edmicos.",
+          "isCorrect": false,
+          "rationale": "La roca est\u00e9ril a menudo consume reactivos innecesariamente o altera la qu\u00edmica del proceso."
+        }
+      ],
+      "hint": "Piense en qu\u00e9 sucede cuando se procesa material que no contiene metal valioso."
+    },
+    {
+      "question": "\u00bfQu\u00e9 labor espec\u00edfica define al 'payaqueo' en una operaci\u00f3n minera?",
+      "answerOptions": [
+        {
+          "text": "La perforaci\u00f3n de taladros largos en abanico.",
+          "isCorrect": false,
+          "rationale": "Esa es una labor de producci\u00f3n mecanizada, no payaqueo."
+        },
+        {
+          "text": "Recuperar fragmentos de mineral de alta ley ca\u00eddos en cunetas o rampas.",
+          "isCorrect": true,
+          "rationale": "Es un trabajo meticuloso, a menudo manual, para rescatar mineral valioso que se perdi\u00f3 durante el transporte."
+        },
+        {
+          "text": "El sellado de grietas con inyecciones de resina ep\u00f3xica.",
+          "isCorrect": false,
+          "rationale": "Esto es parte del sostenimiento especializado, no de la recuperaci\u00f3n de mineral suelto."
+        },
+        {
+          "text": "La medici\u00f3n de gases t\u00f3xicos despu\u00e9s de una voladura.",
+          "isCorrect": false,
+          "rationale": "Esta es una labor de seguridad y ventilaci\u00f3n."
+        }
+      ],
+      "hint": "Es una actividad de recolecci\u00f3n de peque\u00f1as cantidades de material muy valioso en las v\u00edas de tr\u00e1nsito."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el est\u00e1ndar de ingenier\u00eda para la pendiente m\u00e1xima de una rampa de acceso?",
+      "answerOptions": [
+        {
+          "text": "$8^{\\circ}$",
+          "isCorrect": false,
+          "rationale": "Aunque es una pendiente segura, no es el l\u00edmite m\u00e1ximo permitido por eficiencia operativa."
+        },
+        {
+          "text": "$15^{\\circ}$",
+          "isCorrect": true,
+          "rationale": "Es el l\u00edmite innegociable; superarlo compromete seriamente la mec\u00e1nica de los equipos de transporte."
+        },
+        {
+          "text": "$25^{\\circ}$",
+          "isCorrect": false,
+          "rationale": "A esta pendiente, la mayor\u00eda de los equipos pesados no podr\u00edan subir o sufrir\u00edan da\u00f1os inmediatos."
+        },
+        {
+          "text": "$45^{\\circ}$",
+          "isCorrect": false,
+          "rationale": "Es una pendiente f\u00edsicamente imposible para el tr\u00e1nsito de camiones y maquinaria pesada de ruedas."
+        }
+      ],
+      "hint": "Es un n\u00famero que equilibra la distancia recorrida con el esfuerzo del motor del equipo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia mec\u00e1nica sufren los equipos como jumbos y scoops si las rampas superan los $17^{\\circ}-18^{\\circ}$?",
+      "answerOptions": [
+        {
+          "text": "Aumento en la velocidad de desplazamiento subterr\u00e1neo.",
+          "isCorrect": false,
+          "rationale": "La pendiente excesiva obliga a los equipos a ir mucho m\u00e1s lento y con mayor esfuerzo."
+        },
+        {
+          "text": "Falla prematura de motores y reventamiento de transmisiones.",
+          "isCorrect": true,
+          "rationale": "El esfuerzo masivo para vencer la gravedad en pendientes excesivas destruye los componentes cr\u00edticos de tracci\u00f3n."
+        },
+        {
+          "text": "Mejora en el sistema de frenado por fricci\u00f3n natural.",
+          "isCorrect": false,
+          "rationale": "Las pendientes altas estresan los frenos, aumentando el riesgo de accidentes catastr\u00f3ficos."
+        },
+        {
+          "text": "Reducci\u00f3n del consumo de combustible di\u00e9sel.",
+          "isCorrect": false,
+          "rationale": "El consumo se dispara debido a que el motor debe operar a su m\u00e1xima capacidad continuamente."
+        }
+      ],
+      "hint": "Piense en el da\u00f1o que causa el sobreesfuerzo constante en el sistema de fuerza del veh\u00edculo."
+    },
+    {
+      "question": "En el dise\u00f1o de infraestructuras de \u00e9lite (como en Condestable), \u00bfcu\u00e1l es la ventaja de tener rampas separadas para ingreso y salida?",
+      "answerOptions": [
+        {
+          "text": "Reducir el costo de ventilaci\u00f3n al usar una rampa como chimenea.",
+          "isCorrect": false,
+          "rationale": "Aunque ayuda, la ventaja principal es log\u00edstica y de flujo de tr\u00e1fico."
+        },
+        {
+          "text": "Optimizar el flujo log\u00edstico al eliminar cuellos de botella por tr\u00e1fico.",
+          "isCorrect": true,
+          "rationale": "Permite un tr\u00e1nsito fluido y continuo, maximizando el tonelaje movido por hora al evitar esperas entre equipos."
+        },
+        {
+          "text": "Cumplir con normas est\u00e9ticas de dise\u00f1o subterr\u00e1neo.",
+          "isCorrect": false,
+          "rationale": "La miner\u00eda se basa en la eficiencia y seguridad, no en la est\u00e9tica."
+        },
+        {
+          "text": "Evitar la acumulaci\u00f3n de agua en los niveles inferiores.",
+          "isCorrect": false,
+          "rationale": "El drenaje se gestiona con sistemas de bombeo, no duplicando las rampas de acceso."
+        }
+      ],
+      "hint": "Piense en la diferencia entre una calle de doble sentido y una autopista con carriles separados."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la composici\u00f3n t\u00edpica de la pulpa utilizada en el relleno hidr\u00e1ulico?",
+      "answerOptions": [
+        {
+          "text": "$100\\%$ relave seco compactado a presi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El relleno hidr\u00e1ulico requiere agua para poder ser transportado por tuber\u00edas."
+        },
+        {
+          "text": "$90\\%$ cemento y $10\\%$ agua para m\u00e1xima dureza.",
+          "isCorrect": false,
+          "rationale": "Esa mezcla ser\u00eda t\u00e9cnica y econ\u00f3micamente inviable para rellenar grandes vac\u00edos."
+        },
+        {
+          "text": "$60\\%$ agua y $40\\%$ s\u00f3lidos (arena o relaves).",
+          "isCorrect": true,
+          "rationale": "Esta proporci\u00f3n permite que la mezcla fluya por las tuber\u00edas y luego se asiente para dar estabilidad interna."
+        },
+        {
+          "text": "$10\\%$ aceite industrial y $90\\%$ detritos de perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El aceite contaminar\u00eda el yacimiento y no proporciona las propiedades de consolidaci\u00f3n necesarias."
+        }
+      ],
+      "hint": "Es una mezcla l\u00edquida-s\u00f3lida donde el agua es el componente mayoritario para facilitar el transporte."
+    },
+    {
+      "question": "\u00bfQu\u00e9 riesgo geomec\u00e1nico genera un 'disparo soplado' durante la voladura?",
+      "answerOptions": [
+        {
+          "text": "Un exceso de fragmentaci\u00f3n que dificulta el cargu\u00edo.",
+          "isCorrect": false,
+          "rationale": "Un disparo soplado suele implicar una mala rotura del mineral, no una fragmentaci\u00f3n excesiva."
+        },
+        {
+          "text": "Fracturamiento de la roca encajonante y creaci\u00f3n de 'cajas falsas'.",
+          "isCorrect": true,
+          "rationale": "La energ\u00eda se desv\u00eda hacia las paredes est\u00e9riles, desestabiliz\u00e1ndolas y creando condiciones peligrosas de colapso."
+        },
+        {
+          "text": "Aumento de la pureza del mineral al no tocar la roca caja.",
+          "isCorrect": false,
+          "rationale": "Al contrario, suele generar inestabilidad que termina mezclando est\u00e9ril con el mineral."
+        },
+        {
+          "text": "Reducci\u00f3n total de la necesidad de usar sostenimiento.",
+          "isCorrect": false,
+          "rationale": "Una voladura ineficiente que da\u00f1a la roca caja aumenta dr\u00e1sticamente la necesidad de sostenimiento."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede cuando la energ\u00eda del explosivo no rompe el mineral sino que golpea las paredes laterales."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "M\u00e9todos de explotaci\u00f3n minera",
+      "Geometr\u00eda de yacimientos",
+      "Geomec\u00e1nica y seguridad minera",
+      "Planificaci\u00f3n estrat\u00e9gica y ley de corte",
+      "Infraestructura y log\u00edstica subterr\u00e1nea",
+      "Sistemas de relleno y estabilizaci\u00f3n"
+    ],
+    "followUp": [
+      "Dise\u00f1o de mallas de perforaci\u00f3n y voladura",
+      "Evaluaci\u00f3n financiera de activos mineros (VAN/TIR)",
+      "Gesti\u00f3n de residuos mineros y relaves",
+      "Mantenimiento preventivo de maquinaria pesada subterr\u00e1nea"
+    ]
+  }
+}

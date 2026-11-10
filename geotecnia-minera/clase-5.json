@@ -1,0 +1,543 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n principal de la geotecnia en el desarrollo de infraestructuras modernas?",
+      "answerOptions": [
+        {
+          "text": "Fusionar la geomec\u00e1nica y la mec\u00e1nica de suelos para garantizar la estabilidad f\u00edsica.",
+          "isCorrect": true,
+          "rationale": "La geotecnia act\u00faa como un marco anal\u00edtico riguroso que integra ambas disciplinas para asegurar la viabilidad de las obras desde su concepci\u00f3n hasta el cierre."
+        },
+        {
+          "text": "Gestionar exclusivamente los recursos financieros destinados a la exploraci\u00f3n minera.",
+          "isCorrect": false,
+          "rationale": "Aunque impacta en decisiones financieras, su objetivo t\u00e9cnico es la estabilidad del terreno y no la gesti\u00f3n contable del proyecto."
+        },
+        {
+          "text": "Sustituir el uso de modelos morfol\u00f3gicos din\u00e1micos por levantamientos manuales.",
+          "isCorrect": false,
+          "rationale": "La tendencia actual es precisamente la contraria: evolucionar hacia la adquisici\u00f3n de datos en tiempo real y la actualizaci\u00f3n din\u00e1mica."
+        },
+        {
+          "text": "Limitar el estudio del terreno \u00fanicamente a la etapa de construcci\u00f3n inicial.",
+          "isCorrect": false,
+          "rationale": "La estabilidad es vital en todas las fases, incluyendo la concepci\u00f3n, construcci\u00f3n y el cierre definitivo de la infraestructura."
+        }
+      ],
+      "hint": "Considere qu\u00e9 disciplinas se integran para analizar el comportamiento del terreno."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja t\u00e9cnica ofrecen los sistemas de teledetecci\u00f3n de alta resoluci\u00f3n frente a plataformas de acceso libre como Google Earth?",
+      "answerOptions": [
+        {
+          "text": "Permiten realizar estudios de factibilidad que cumplen con est\u00e1ndares internacionales como la norma NI 43-101.",
+          "isCorrect": true,
+          "rationale": "Para etapas cr\u00edticas y decisiones de inversi\u00f3n millonarias, se requiere precisi\u00f3n m\u00e9trica refutable que solo la alta resoluci\u00f3n puede proporcionar."
+        },
+        {
+          "text": "Son herramientas dise\u00f1adas exclusivamente para el reconocimiento preliminar o conceptual.",
+          "isCorrect": false,
+          "rationale": "Esta es la funci\u00f3n de Google Earth; los sistemas de alta resoluci\u00f3n se reservan para etapas de mayor exigencia t\u00e9cnica."
+        },
+        {
+          "text": "Reducen la necesidad de realizar cualquier tipo de validaci\u00f3n o prueba en el terreno.",
+          "isCorrect": false,
+          "rationale": "Ning\u00fan sistema de teledetecci\u00f3n elimina la necesidad de pruebas in situ para validar las propiedades mec\u00e1nicas reales."
+        },
+        {
+          "text": "Ofrecen im\u00e1genes est\u00e1ticas que no permiten la actualizaci\u00f3n de modelos morfol\u00f3gicos.",
+          "isCorrect": false,
+          "rationale": "Al contrario, la integraci\u00f3n de estas tecnolog\u00edas permite actualizaciones din\u00e1micas que se adaptan casi al instante a los cambios del terreno."
+        }
+      ],
+      "hint": "Piense en el nivel de precisi\u00f3n requerido para validar decisiones financieras y cumplir normativas estrictas."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 el modelo gubernamental australiano de gesti\u00f3n de informaci\u00f3n geoespacial se considera un est\u00e1ndar de oro?",
+      "answerOptions": [
+        {
+          "text": "Entrega gratuitamente mapas tem\u00e1ticos con la predominancia mineral\u00f3gica para reducir el riesgo exploratorio.",
+          "isCorrect": true,
+          "rationale": "Al proporcionar datos t\u00e9cnicos valiosos de forma abierta, el estado fomenta una inversi\u00f3n m\u00e1s segura y agresiva en el sector."
+        },
+        {
+          "text": "Se limita estrictamente a la organizaci\u00f3n de concesiones mineras en cuadr\u00edculas geom\u00e9tricas.",
+          "isCorrect": false,
+          "rationale": "Esta es una caracter\u00edstica del sistema peruano (Geocatmin), mientras que el australiano va m\u00e1s all\u00e1 al ofrecer datos mineral\u00f3gicos."
+        },
+        {
+          "text": "Cobra tarifas elevadas por el acceso a la informaci\u00f3n t\u00e9cnica para financiar al estado.",
+          "isCorrect": false,
+          "rationale": "El \u00e9xito del modelo australiano radica precisamente en que la entrega de la informaci\u00f3n es gratuita para atraer inversi\u00f3n."
+        },
+        {
+          "text": "Elimina por completo la necesidad de que las empresas realicen su propia fotointerpretaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Aunque proporciona datos base, las empresas a\u00fan deben aplicar sus propios an\u00e1lisis espec\u00edficos para sus proyectos."
+        }
+      ],
+      "hint": "Reflexione sobre c\u00f3mo la disponibilidad de datos t\u00e9cnicos espec\u00edficos afecta el riesgo de inversi\u00f3n inicial."
+    },
+    {
+      "question": "En el an\u00e1lisis de fotointerpretaci\u00f3n, \u00bfqu\u00e9 utilidad principal tiene el uso de filtros infrarrojos de falso color?",
+      "answerOptions": [
+        {
+          "text": "Detectar redes de drenaje, anomal\u00edas de humedad y zonas c\u00e1rsticas.",
+          "isCorrect": true,
+          "rationale": "La luz infrarroja es especialmente sensible a la presencia de agua y variaciones de humedad que no son evidentes al ojo humano."
+        },
+        {
+          "text": "Identificar exclusivamente humedales mediante im\u00e1genes cl\u00e1sicas en blanco y negro.",
+          "isCorrect": false,
+          "rationale": "La identificaci\u00f3n de humedales mediante blanco y negro es propia de la fotograf\u00eda pancrom\u00e1tica, no de la infrarroja."
+        },
+        {
+          "text": "Mapear la inestabilidad de las laderas utilizando el espectro de color natural.",
+          "isCorrect": false,
+          "rationale": "El mapeo de inestabilidad de laderas suele apoyarse en im\u00e1genes multiespectrales o a color, m\u00e1s que solo en el infrarrojo."
+        },
+        {
+          "text": "Analizar la dureza mec\u00e1nica del macizo rocoso mediante el brillo superficial.",
+          "isCorrect": false,
+          "rationale": "La dureza mec\u00e1nica requiere pruebas de campo o perforaciones; la fotointerpretaci\u00f3n se enfoca en rasgos morfol\u00f3gicos y superficiales."
+        }
+      ],
+      "hint": "Recuerde qu\u00e9 filtro es el aliado ideal para visualizar el comportamiento del agua y riesgos ocultos como el karst."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el principal riesgo asociado a las rocas blandas en el contexto de excavaciones de t\u00faneles profundos?",
+      "answerOptions": [
+        {
+          "text": "Su tendencia a la convergencia o cierre sobre s\u00ed mismas debido a la presi\u00f3n confinada.",
+          "isCorrect": true,
+          "rationale": "Bajo grandes presiones de profundidad, estas rocas se deforman pl\u00e1sticamente, lo que representa un peligro letal para la estructura."
+        },
+        {
+          "text": "Su alta abrasividad, que destruye r\u00e1pidamente las herramientas de perforaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "La abrasividad es un problema caracter\u00edstico de las rocas duras, no de las blandas."
+        },
+        {
+          "text": "Su incapacidad total para retener fluidos o actuar como esponjas.",
+          "isCorrect": false,
+          "rationale": "Muchas rocas blandas o porosas pueden retener fluidos; el problema mencionado es mec\u00e1nico, no necesariamente hidr\u00e1ulico."
+        },
+        {
+          "text": "El riesgo inminente de hinchamiento brutal al entrar en contacto con el agua.",
+          "isCorrect": false,
+          "rationale": "El hinchamiento es una amenaza t\u00edpica de los suelos duros o arcillosos, mientras que en rocas el problema principal en t\u00faneles es la deformaci\u00f3n."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo responde un material poco resistente cuando se le somete a una presi\u00f3n extrema desde todas las direcciones."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracter\u00edstica define a los suelos org\u00e1nicos o biog\u00e9nicos como la mayor 'pesadilla' para la ingenier\u00eda?",
+      "answerOptions": [
+        {
+          "text": "Su alta porosidad y el riesgo de colapso repentino bajo carga.",
+          "isCorrect": true,
+          "rationale": "La estructura de estos suelos es extremadamente inestable debido a la materia org\u00e1nica, lo que puede derivar en desastres si no se tratan previamente."
+        },
+        {
+          "text": "Su capacidad de levantar cimientos enteros debido a cambios de humedad.",
+          "isCorrect": false,
+          "rationale": "Esta es la descripci\u00f3n de los suelos expansivos (suelos duros que se hinchan), no de los org\u00e1nicos."
+        },
+        {
+          "text": "Su consistencia firme que impide el uso de m\u00e9todos de excavaci\u00f3n convencionales.",
+          "isCorrect": false,
+          "rationale": "Los suelos org\u00e1nicos suelen ser blandos y porosos, lo opuesto a una consistencia firme o resistente."
+        },
+        {
+          "text": "La baja presencia de derivados de carbono en su composici\u00f3n qu\u00edmica.",
+          "isCorrect": false,
+          "rationale": "Los suelos biog\u00e9nicos se caracterizan precisamente por una alta concentraci\u00f3n de derivados de carbono y materia org\u00e1nica."
+        }
+      ],
+      "hint": "Considere la relaci\u00f3n entre el origen biol\u00f3gico del material y los espacios vac\u00edos en su estructura."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n del Sistema Unificado de Clasificaci\u00f3n de Suelos (USCS)?",
+      "answerOptions": [
+        {
+          "text": "Estandarizar la comunicaci\u00f3n t\u00e9cnica mundial bas\u00e1ndose en el tama\u00f1o de las part\u00edculas del suelo.",
+          "isCorrect": true,
+          "rationale": "El USCS permite organizar los materiales desde arcillas hasta bloques gigantes, facilitando que ingenieros de cualquier pa\u00eds entiendan la textura del suelo."
+        },
+        {
+          "text": "Clasificar los materiales exclusivamente seg\u00fan su color y mineralog\u00eda.",
+          "isCorrect": false,
+          "rationale": "La clasificaci\u00f3n por color y mineralog\u00eda se apoya en herramientas como la tabla de Munsell, no es el eje central del USCS."
+        },
+        {
+          "text": "Determinar el valor comercial de los dep\u00f3sitos minerales encontrados en el terreno.",
+          "isCorrect": false,
+          "rationale": "El USCS es una herramienta t\u00e9cnica de ingenier\u00eda geot\u00e9cnica, no una herramienta de valoraci\u00f3n econ\u00f3mica de minerales."
+        },
+        {
+          "text": "Establecer la presi\u00f3n m\u00e1xima de inyecci\u00f3n de agua para ensayos de permeabilidad.",
+          "isCorrect": false,
+          "rationale": "Esa funci\u00f3n corresponde a los protocolos de ensayos espec\u00edficos como el de Lugeon, no a un sistema de clasificaci\u00f3n de suelos."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo el tama\u00f1o de los 'granitos' ayuda a crear un lenguaje universal para los ingenieros."
+    },
+    {
+      "question": "Seg\u00fan la tabla de colores de Munsell, \u00bfqu\u00e9 advertencia qu\u00edmica nos da un suelo con tonos negros o marrones muy oscuros?",
+      "answerOptions": [
+        {
+          "text": "Indica una alta presencia de materia org\u00e1nica o derivados de carbono, sugiriendo un suelo propenso a hundimientos.",
+          "isCorrect": true,
+          "rationale": "El color oscuro es la firma de los suelos biog\u00e9nicos, alertando sobre su inestabilidad antes de realizar pruebas de laboratorio."
+        },
+        {
+          "text": "Sugiere la predominancia de cuarzo y yeso en la composici\u00f3n mineral\u00f3gica.",
+          "isCorrect": false,
+          "rationale": "El cuarzo y el yeso suelen manifestarse en colores blancos o grises, no en tonos oscuros."
+        },
+        {
+          "text": "Confirma la existencia de \u00f3xidos de hierro y manganeso de alta resistencia.",
+          "isCorrect": false,
+          "rationale": "La presencia de \u00f3xidos de hierro se asocia t\u00edpicamente con rojos intensos en el suelo."
+        },
+        {
+          "text": "Se\u00f1ala que el terreno es ideal para cimentaciones pesadas sin necesidad de tratamiento.",
+          "isCorrect": false,
+          "rationale": "Al contrario, los colores oscuros activan alertas de peligro debido a la porosidad y debilidad mec\u00e1nica de la materia org\u00e1nica."
+        }
+      ],
+      "hint": "Relacione la oscuridad del material con los componentes biol\u00f3gicos y su impacto en la porosidad."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo principal de la zonificaci\u00f3n geot\u00e9cnica en la construcci\u00f3n de t\u00faneles?",
+      "answerOptions": [
+        {
+          "text": "Segmentar el terreno en unidades con propiedades similares para optimizar los recursos de sostenimiento.",
+          "isCorrect": true,
+          "rationale": "Dado que el terreno no es uniforme, dividirlo permite aplicar el soporte justo donde se necesita, mejorando la eficiencia y seguridad."
+        },
+        {
+          "text": "Trazar una l\u00ednea recta entre dos puntos para reducir el tiempo de excavaci\u00f3n.",
+          "isCorrect": false,
+          "rationale": "El trazado debe esquivar fallas y zonas de mala calidad, por lo que rara vez es una simple l\u00ednea recta."
+        },
+        {
+          "text": "Eliminar la influencia de las discontinuidades de la roca en el dise\u00f1o final.",
+          "isCorrect": false,
+          "rationale": "Las discontinuidades no se pueden eliminar; el dise\u00f1o debe adaptarse a ellas para evitar colapsos."
+        },
+        {
+          "text": "Sustituir las pruebas in situ por modelos matem\u00e1ticos puramente te\u00f3ricos.",
+          "isCorrect": false,
+          "rationale": "La zonificaci\u00f3n requiere validaci\u00f3n constante en el terreno y en tiempo real para ser efectiva."
+        }
+      ],
+      "hint": "Piense en c\u00f3mo se gestionan los costos y la seguridad cuando el suelo cambia a lo largo de un proyecto lineal."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afecta la presencia de flujos de agua subterr\u00e1nea no controlados a un proyecto de t\u00fanel?",
+      "answerOptions": [
+        {
+          "text": "Puede incrementar los costos del soporte estructural en un $20 \\%$ o m\u00e1s.",
+          "isCorrect": true,
+          "rationale": "El agua es un agente disruptivo que degrada los soportes y requiere medidas de mitigaci\u00f3n adicionales muy costosas."
+        },
+        {
+          "text": "Mejora el autosostenimiento mec\u00e1nico de la roca debido a la lubricaci\u00f3n de las fallas.",
+          "isCorrect": false,
+          "rationale": "La lubricaci\u00f3n de las fallas por agua suele provocar inestabilidad y deslizamientos, no ayuda al autosostenimiento."
+        },
+        {
+          "text": "Reduce la presi\u00f3n hidrost\u00e1tica sobre las estructuras de revestimiento.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el agua subterr\u00e1nea a\u00f1ade una presi\u00f3n hidrost\u00e1tica considerable que debe ser gestionada."
+        },
+        {
+          "text": "Facilita la excavaci\u00f3n en formaciones de caliza al actuar como un agente suavizante.",
+          "isCorrect": false,
+          "rationale": "Las calizas permeables act\u00faan como esponjas, convirtiendo el agua en un problema cr\u00edtico para la seguridad y el costo."
+        }
+      ],
+      "hint": "Considere el impacto econ\u00f3mico y los desaf\u00edos t\u00e9cnicos que surgen al trabajar en ambientes saturados."
+    },
+    {
+      "question": "En el contexto de excavaciones, \u00bfqu\u00e9 diferencia mec\u00e1nica existe entre el interior profundo de un t\u00fanel y sus portales de entrada?",
+      "answerOptions": [
+        {
+          "text": "El interior profundo puede beneficiarse del equilibrio de esfuerzos, mientras que los portales carecen de presi\u00f3n de confinamiento.",
+          "isCorrect": true,
+          "rationale": "En profundidad, la roca 'se abraza a s\u00ed misma', pero en la superficie est\u00e1 meteorizada y requiere soporte masivo externo."
+        },
+        {
+          "text": "Los portales son mec\u00e1nicamente m\u00e1s estables debido a la exposici\u00f3n a la intemperie.",
+          "isCorrect": false,
+          "rationale": "La exposici\u00f3n a la intemperie causa meteorizaci\u00f3n, lo que debilita la roca en los portales."
+        },
+        {
+          "text": "La presi\u00f3n de confinamiento en las entradas de los t\u00faneles es superior a la de las zonas profundas.",
+          "isCorrect": false,
+          "rationale": "La presi\u00f3n de confinamiento aumenta con la profundidad; en la superficie es pr\u00e1cticamente nula."
+        },
+        {
+          "text": "El interior profundo requiere siempre cerchas de acero m\u00e1s pesadas que las entradas.",
+          "isCorrect": false,
+          "rationale": "Generalmente, son los portales los que exigen soportes externos masivos (como simbras o cerchas) debido a la baja calidad de la roca superficial."
+        }
+      ],
+      "hint": "Reflexione sobre c\u00f3mo la profundidad influye en el confinamiento del material y su estado de conservaci\u00f3n."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es una ventaja tecnol\u00f3gica significativa del ensayo de penetraci\u00f3n de cono (CPT) sobre el ensayo est\u00e1ndar (SPT)?",
+      "answerOptions": [
+        {
+          "text": "Permite un registro digital continuo y puede superar los $100 \\text{ m}$ de profundidad.",
+          "isCorrect": true,
+          "rationale": "A diferencia del SPT manual y limitado, el CPT usa sensores que capturan resistencia, fricci\u00f3n y permeabilidad simult\u00e1neamente."
+        },
+        {
+          "text": "Depende de un mazo de $63.5 \\text{ kg}$ para medir la resistencia de forma manual.",
+          "isCorrect": false,
+          "rationale": "Esta es la descripci\u00f3n del funcionamiento del SPT, que es un m\u00e9todo m\u00e1s r\u00fastico y menos preciso."
+        },
+        {
+          "text": "Es el \u00fanico m\u00e9todo capaz de extraer testigos de roca intactos para an\u00e1lisis de laboratorio.",
+          "isCorrect": false,
+          "rationale": "Los ensayos de penetraci\u00f3n no extraen testigos de roca; eso se hace mediante perforaci\u00f3n de tajo anular."
+        },
+        {
+          "text": "Limita su alcance a los primeros $30 \\text{ m}$ de terreno para asegurar la precisi\u00f3n.",
+          "isCorrect": false,
+          "rationale": "Es el SPT el que suele verse limitado en profundidad; el CPT destaca por su mayor alcance y precisi\u00f3n digital."
+        }
+      ],
+      "hint": "Compare un proceso de impacto manual con uno de inserci\u00f3n continua asistido por sensores."
+    },
+    {
+      "question": "En las operaciones de perforaci\u00f3n, \u00bfcu\u00e1ndo se debe utilizar una corona de color azul?",
+      "answerOptions": [
+        {
+          "text": "Cuando se trabaja en formaciones rocosas fracturadas.",
+          "isCorrect": true,
+          "rationale": "El sistema de c\u00f3digos de colores asigna el azul espec\u00edficamente para enfrentar los desaf\u00edos de terrenos con fracturas."
+        },
+        {
+          "text": "Para avanzar r\u00e1pidamente en rocas que son altamente abrasivas.",
+          "isCorrect": false,
+          "rationale": "Para rocas altamente abrasivas con avance r\u00e1pido se utiliza la corona de color caf\u00e9."
+        },
+        {
+          "text": "En formaciones semiduras con baja abrasividad.",
+          "isCorrect": false,
+          "rationale": "Este tipo de formaci\u00f3n requiere el uso de una corona de color naranja."
+        },
+        {
+          "text": "\u00danicamente cuando se requiere realizar perforaci\u00f3n Infield sin recuperaci\u00f3n de testigos.",
+          "isCorrect": false,
+          "rationale": "Los colores de las coronas se aplican principalmente a la perforaci\u00f3n con recuperaci\u00f3n de testigos para proteger la herramienta seg\u00fan la litolog\u00eda."
+        }
+      ],
+      "hint": "Recuerde qu\u00e9 color se asocia con el manejo de rocas que no son bloques continuos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la utilidad principal de la t\u00e9cnica de perforaci\u00f3n 'Infield'?",
+      "answerOptions": [
+        {
+          "text": "Mapear \u00e1gilmente los l\u00edmites de formaciones o contactos geol\u00f3gicos a bajo costo.",
+          "isCorrect": true,
+          "rationale": "Aunque solo recupera roca triturada, permite verificar la geolog\u00eda r\u00e1pidamente sin el gasto de un sondeo de recuperaci\u00f3n total."
+        },
+        {
+          "text": "Obtener cilindros de roca intactos a cientos de metros de profundidad.",
+          "isCorrect": false,
+          "rationale": "Esa es la funci\u00f3n de la perforaci\u00f3n con recuperaci\u00f3n de testigos, no de la t\u00e9cnica Infield."
+        },
+        {
+          "text": "Sustituir las pruebas de permeabilidad Lugeon en macizos rocosos.",
+          "isCorrect": false,
+          "rationale": "La perforaci\u00f3n Infield es una t\u00e9cnica de exploraci\u00f3n, no un ensayo de flujo de agua."
+        },
+        {
+          "text": "Garantizar la m\u00e1xima calidad de las muestras para ensayos de resistencia mec\u00e1nica.",
+          "isCorrect": false,
+          "rationale": "La t\u00e9cnica Infield tritura la roca, por lo que no sirve para obtener muestras de alta calidad mec\u00e1nica."
+        }
+      ],
+      "hint": "Piense en un m\u00e9todo de exploraci\u00f3n r\u00e1pido que prioriza la ubicaci\u00f3n de contactos sobre la integridad de la muestra."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el l\u00edmite de presi\u00f3n que no debe superarse durante un ensayo de permeabilidad Lugeon y por qu\u00e9?",
+      "answerOptions": [
+        {
+          "text": "No debe exceder $1 \\text{ MPa}$ para evitar inducir fracturaci\u00f3n hidr\u00e1ulica en la roca.",
+          "isCorrect": true,
+          "rationale": "Superar este umbral (aprox. $10 \\text{ kg/cm}^2$) podr\u00eda romper la roca artificialmente, invalidando los datos de absorci\u00f3n natural."
+        },
+        {
+          "text": "Debe mantenerse por debajo de $0.1 \\text{ MPa}$ para simular condiciones de lluvia superficial.",
+          "isCorrect": false,
+          "rationale": "La presi\u00f3n de $0.1 \\text{ MPa}$ es demasiado baja para un ensayo Lugeon efectivo en roca profunda."
+        },
+        {
+          "text": "No hay un l\u00edmite fijo, ya que la presi\u00f3n debe aumentarse hasta que la roca falle.",
+          "isCorrect": false,
+          "rationale": "El objetivo del ensayo es medir permeabilidad, no resistencia a la fractura; romper la roca arruinar\u00eda el estudio."
+        },
+        {
+          "text": "Debe superar siempre los $5 \\text{ MPa}$ para garantizar que el agua penetre en las arcillas.",
+          "isCorrect": false,
+          "rationale": "El ensayo Lugeon es para rocas, no para arcillas (donde se usa Lefranc), y presiones tan altas fracturar\u00edan casi cualquier macizo."
+        }
+      ],
+      "hint": "Recuerde el valor cr\u00edtico que equivale aproximadamente a $10 \\text{ kg/cm}^2$."
+    },
+    {
+      "question": "\u00bfQu\u00e9 ventaja ofrece el mapeo geof\u00edsico no invasivo sobre los sondeos mec\u00e1nicos?",
+      "answerOptions": [
+        {
+          "text": "Permite identificar estratos y niveles fre\u00e1ticos desde la superficie sin alterar f\u00edsicamente el terreno.",
+          "isCorrect": true,
+          "rationale": "Mediante ondas s\u00edsmicas o resistividad el\u00e9ctrica, se puede obtener una imagen del subsuelo sin realizar excavaciones o perforaciones."
+        },
+        {
+          "text": "Proporciona muestras f\u00edsicas directas para su clasificaci\u00f3n en el sistema USCS.",
+          "isCorrect": false,
+          "rationale": "Al ser no invasivo, no extrae material; las muestras f\u00edsicas solo se obtienen mediante perforaci\u00f3n o calicatas."
+        },
+        {
+          "text": "Es el \u00fanico m\u00e9todo capaz de determinar el color exacto de los minerales seg\u00fan la tabla de Munsell.",
+          "isCorrect": false,
+          "rationale": "El color requiere observaci\u00f3n visual directa del material, algo imposible con m\u00e9todos geof\u00edsicos de superficie."
+        },
+        {
+          "text": "Elimina la necesidad de interpretar datos s\u00edsmicos para entender la litolog\u00eda.",
+          "isCorrect": false,
+          "rationale": "Al contrario, el mapeo geof\u00edsico depende enteramente de la interpretaci\u00f3n experta de frecuencias y resistencias."
+        }
+      ],
+      "hint": "Piense en t\u00e9cnicas que utilizan ondas o electricidad para 'ver' bajo tierra sin cavar."
+    },
+    {
+      "question": "En el caso del desastre de Brumadinho, \u00bfqu\u00e9 factor fue tan cr\u00edtico como la licuaci\u00f3n del suelo en la magnitud de la tragedia?",
+      "answerOptions": [
+        {
+          "text": "La falla catastr\u00f3fica en el sistema de comunicaci\u00f3n y alertas tempranas.",
+          "isCorrect": true,
+          "rationale": "Hubo una ventana de tiempo donde las sirenas no sonaron, impidiendo la evacuaci\u00f3n de personas que quedaron atrapadas."
+        },
+        {
+          "text": "El uso excesivo de sistemas de monitoreo activo en tiempo real.",
+          "isCorrect": false,
+          "rationale": "El problema fue precisamente la falta de una respuesta activa y efectiva, no un exceso de ella."
+        },
+        {
+          "text": "La ausencia total de dep\u00f3sitos de relaves en la zona afectada.",
+          "isCorrect": false,
+          "rationale": "El desastre ocurri\u00f3 justamente por el colapso de un dep\u00f3sito de relaves."
+        },
+        {
+          "text": "La excesiva dureza de las rocas del macizo que rodeaba la presa.",
+          "isCorrect": false,
+          "rationale": "La dureza de las rocas circundantes no fue el factor determinante, sino la inestabilidad interna del dep\u00f3sito y la falla en los protocolos."
+        }
+      ],
+      "hint": "Considere qu\u00e9 elemento del protocolo de seguridad fall\u00f3 durante los minutos cruciales antes del impacto."
+    },
+    {
+      "question": "\u00bfCu\u00e1l de los pilares del monitoreo estrat\u00e9gico se encarga de detectar anomal\u00edas m\u00ednimas antes de que ocurra una falla irreversible?",
+      "answerOptions": [
+        {
+          "text": "Alerta temprana.",
+          "isCorrect": true,
+          "rationale": "Este pilar busca identificar se\u00f1ales precursoras de inestabilidad para actuar antes de que el da\u00f1o sea total."
+        },
+        {
+          "text": "Optimizaci\u00f3n del dise\u00f1o.",
+          "isCorrect": false,
+          "rationale": "Este pilar se enfoca en ajustar par\u00e1metros t\u00e9cnicos para equilibrar costo y estabilidad, no solo en la detecci\u00f3n de fallas."
+        },
+        {
+          "text": "Garant\u00eda de seguridad.",
+          "isCorrect": false,
+          "rationale": "Aunque est\u00e1n relacionados, este pilar se centra espec\u00edficamente en protocolos de evacuaci\u00f3n y protecci\u00f3n de vidas."
+        },
+        {
+          "text": "An\u00e1lisis morfol\u00f3gico est\u00e1tico.",
+          "isCorrect": false,
+          "rationale": "El monitoreo estrat\u00e9gico es din\u00e1mico por definici\u00f3n; un an\u00e1lisis est\u00e1tico no permite alertas tempranas efectivas."
+        }
+      ],
+      "hint": "Piense en el concepto de anticipaci\u00f3n y detecci\u00f3n precoz."
+    },
+    {
+      "question": "Para mitigar flujos de agua en suelos completamente saturados durante una excavaci\u00f3n, \u00bfqu\u00e9 t\u00e9cnica avanzada se puede aplicar?",
+      "answerOptions": [
+        {
+          "text": "Congelamiento del terreno para solidificar el agua.",
+          "isCorrect": true,
+          "rationale": "Bajar la temperatura hasta congelar el agua permite excavar de forma segura en un entorno que de otro modo ser\u00eda inestable."
+        },
+        {
+          "text": "Aumento de la presi\u00f3n de inyecci\u00f3n por encima de $1 \\text{ MPa}$.",
+          "isCorrect": false,
+          "rationale": "Esto causar\u00eda fracturaci\u00f3n hidr\u00e1ulica y empeorar\u00eda el problema de filtraci\u00f3n de agua."
+        },
+        {
+          "text": "Uso exclusivo de coronas de perforaci\u00f3n amarillas para absorber la humedad.",
+          "isCorrect": false,
+          "rationale": "Las coronas de perforaci\u00f3n son herramientas de corte, no dispositivos de absorci\u00f3n de humedad."
+        },
+        {
+          "text": "Eliminaci\u00f3n de la red de drenaje para mantener la presi\u00f3n de confinamiento.",
+          "isCorrect": false,
+          "rationale": "Eliminar el drenaje en suelos saturados es extremadamente peligroso, ya que la presi\u00f3n hidrost\u00e1tica puede colapsar la estructura."
+        }
+      ],
+      "hint": "Considere un cambio de estado f\u00edsico del agua para facilitar su manejo mec\u00e1nico."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre el monitoreo pasivo y el monitoreo activo en geotecnia?",
+      "answerOptions": [
+        {
+          "text": "El monitoreo activo implica una respuesta inmediata ante datos en tiempo real, mientras el pasivo solo archiva informaci\u00f3n.",
+          "isCorrect": true,
+          "rationale": "La capacidad de reacci\u00f3n ante anomal\u00edas detectadas es lo que define a un sistema dise\u00f1ado para salvar vidas."
+        },
+        {
+          "text": "El monitoreo pasivo utiliza drones, mientras el activo depende de levantamientos manuales.",
+          "isCorrect": false,
+          "rationale": "Ambos pueden usar tecnolog\u00edas avanzadas; la diferencia radica en la gesti\u00f3n y respuesta ante los datos obtenidos."
+        },
+        {
+          "text": "El monitoreo activo es m\u00e1s econ\u00f3mico porque requiere menos personal en campo.",
+          "isCorrect": false,
+          "rationale": "El monitoreo activo suele ser m\u00e1s complejo y costoso debido a la infraestructura necesaria para la respuesta r\u00e1pida."
+        },
+        {
+          "text": "El monitoreo pasivo garantiza la estabilidad f\u00edsica mediante el ajuste de dise\u00f1os en tiempo real.",
+          "isCorrect": false,
+          "rationale": "El ajuste de dise\u00f1os en tiempo real es una caracter\u00edstica del monitoreo activo y din\u00e1mico, no del pasivo."
+        }
+      ],
+      "hint": "Reflexione sobre la diferencia entre simplemente observar y tener la capacidad de intervenir ante una emergencia."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Geotecnia y estabilidad minera",
+      "Sistemas de teledetecci\u00f3n y precisi\u00f3n",
+      "Clasificaci\u00f3n de suelos (USCS y Munsell)",
+      "Comportamiento de macizos rocosos",
+      "Ingenier\u00eda de t\u00faneles y zonificaci\u00f3n",
+      "Gesti\u00f3n de flujos de agua subterr\u00e1nea",
+      "Pruebas de campo (SPT, CPT, Lugeon)",
+      "Monitoreo estrat\u00e9gico y seguridad"
+    ],
+    "followUp": [
+      "Mec\u00e1nica de rocas en entornos de alta presi\u00f3n confinada",
+      "Protocolos de respuesta ante licuaci\u00f3n de suelos en presas de relaves",
+      "Dise\u00f1o de soportes estructurales para portales de t\u00faneles en zonas meteorizadas",
+      "Aplicaciones de geof\u00edsica no invasiva en la identificaci\u00f3n de fallas activas",
+      "Implementaci\u00f3n de la norma canadiense NI 43-101 en reportes t\u00e9cnicos"
+    ]
+  }
+}

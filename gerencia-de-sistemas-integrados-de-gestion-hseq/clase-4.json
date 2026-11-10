@@ -1,0 +1,540 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el verdadero centro de gravedad para lograr un cumplimiento normativo totalmente sostenible?",
+      "answerOptions": [
+        {
+          "text": "El liderazgo humano genuino",
+          "isCorrect": true,
+          "rationale": "El compromiso humano real es lo que evita que el sistema se convierta en una arquitectura documental inerte y colapse."
+        },
+        {
+          "text": "La rigidez de las estad\u00edsticas",
+          "isCorrect": false,
+          "rationale": "Las estad\u00edsticas r\u00edgidas pertenecen al modelo de gesti\u00f3n tradicional que ya ha sido superado por el enfoque transformacional."
+        },
+        {
+          "text": "La aplicaci\u00f3n de los ciclos de Deming",
+          "isCorrect": false,
+          "rationale": "Aunque son herramientas t\u00e9cnicas conocidas, el modelo actual prioriza la evoluci\u00f3n cultural sobre estos ciclos tradicionales."
+        },
+        {
+          "text": "La arquitectura documental robusta",
+          "isCorrect": false,
+          "rationale": "Sin el factor humano, los documentos por s\u00ed solos no garantizan la sostenibilidad y tienden a volverse in\u00fatiles."
+        }
+      ],
+      "hint": "Piensa en el elemento que sostiene el sistema cuando falla el dise\u00f1o t\u00e9cnico en papel."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste el fen\u00f3meno conocido como cumplimiento ficticio?",
+      "answerOptions": [
+        {
+          "text": "En la falta de coherencia entre los valores predicados y los practicados",
+          "isCorrect": true,
+          "rationale": "Este fen\u00f3meno ocurre cuando los l\u00edderes no tienen la fuerza moral para sostener el sistema, provocando que los manuales pierdan legitimidad."
+        },
+        {
+          "text": "En la ausencia total de manuales de procedimientos",
+          "isCorrect": false,
+          "rationale": "El cumplimiento ficticio suele tener manuales extensos, pero estos no se reflejan en el comportamiento real en el campo."
+        },
+        {
+          "text": "En el uso de herramientas t\u00e9cnicas obsoletas",
+          "isCorrect": false,
+          "rationale": "No se trata de la antig\u00fcedad de las herramientas, sino de la falta de compromiso e integridad en su aplicaci\u00f3n."
+        },
+        {
+          "text": "En la priorizaci\u00f3n de la seguridad sobre la producci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La priorizaci\u00f3n de la seguridad es un objetivo deseado; el cumplimiento ficticio es precisamente lo opuesto."
+        }
+      ],
+      "hint": "Relaciona este concepto con la brecha entre lo que se dice en la oficina y lo que se hace en el terreno."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la secuencia l\u00f3gica en el modelo de conciencia que busca generar resultados org\u00e1nicos?",
+      "answerOptions": [
+        {
+          "text": "Ser $\\rightarrow$ Hacer $\\rightarrow$ Tener",
+          "isCorrect": true,
+          "rationale": "Este modelo arranca desde los valores s\u00f3lidos del individuo para dise\u00f1ar estrategias que resulten en culturas sostenibles."
+        },
+        {
+          "text": "Hacer $\\rightarrow$ Tener $\\rightarrow$ Ser",
+          "isCorrect": false,
+          "rationale": "Este es el modelo transaccional donde el l\u00edder est\u00e1 condicionado por los resultados externos y la presi\u00f3n inmediata."
+        },
+        {
+          "text": "Tener $\\rightarrow$ Hacer $\\rightarrow$ Ser",
+          "isCorrect": false,
+          "rationale": "Esta secuencia no corresponde a los modelos de liderazgo analizados, pues prioriza la obtenci\u00f3n antes que la identidad o la acci\u00f3n."
+        },
+        {
+          "text": "Hacer $\\rightarrow$ Ser $\\rightarrow$ Tener",
+          "isCorrect": false,
+          "rationale": "La base del modelo de conciencia es la identidad del l\u00edder, por lo que no puede comenzar con la acci\u00f3n."
+        }
+      ],
+      "hint": "En este modelo, la elecci\u00f3n inquebrantable de valores es el punto de partida."
+    },
+    {
+      "question": "\u00bfQu\u00e9 establece el principio de la primac\u00eda de la realidad en la gesti\u00f3n operativa?",
+      "answerOptions": [
+        {
+          "text": "El comportamiento en el campo invalida cualquier documento redactado",
+          "isCorrect": true,
+          "rationale": "Si la l\u00ednea de mando ignora las reglas ante una urgencia, la credibilidad del sistema se anula sin importar lo que digan los manuales."
+        },
+        {
+          "text": "La producci\u00f3n siempre debe estar por encima de la seguridad",
+          "isCorrect": false,
+          "rationale": "Este es un supuesto err\u00f3neo que precisamente destruye la legitimidad de los sistemas de gesti\u00f3n."
+        },
+        {
+          "text": "Los t\u00edtulos en el organigrama otorgan la autoridad real",
+          "isCorrect": false,
+          "rationale": "La verdadera autoridad se conquista a trav\u00e9s de la coherencia y el ejemplo, no por el cargo jer\u00e1rquico."
+        },
+        {
+          "text": "Los documentos t\u00e9cnicos son la \u00fanica verdad legal de la empresa",
+          "isCorrect": false,
+          "rationale": "El principio sostiene que la realidad operativa supera la validez de los textos si estos no se cumplen."
+        }
+      ],
+      "hint": "Analiza qu\u00e9 sucede cuando una orden contradice un procedimiento escrito en un momento de crisis."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la funci\u00f3n t\u00e9cnica de la humildad dentro de un sistema de gesti\u00f3n transformacional?",
+      "answerOptions": [
+        {
+          "text": "Permitir que la informaci\u00f3n y retroalimentaci\u00f3n fluya desde la base hacia arriba",
+          "isCorrect": true,
+          "rationale": "La humildad ayuda a identificar riesgos ocultos que los l\u00edderes no podr\u00edan ver desde sus escritorios sin la ayuda del equipo."
+        },
+        {
+          "text": "Demostrar debilidad para evitar conflictos con el sindicato",
+          "isCorrect": false,
+          "rationale": "La humildad no es debilidad, sino una herramienta estrat\u00e9gica para la mejora continua y la comunicaci\u00f3n."
+        },
+        {
+          "text": "Eliminar la necesidad de supervisi\u00f3n en las \u00e1reas de alto riesgo",
+          "isCorrect": false,
+          "rationale": "La humildad facilita el flujo de informaci\u00f3n, pero no reemplaza las capas de control necesarias en procesos cr\u00edticos."
+        },
+        {
+          "text": "Garantizar que todos los trabajadores reciban bonos de desempe\u00f1o",
+          "isCorrect": false,
+          "rationale": "La \u00e9tica es la que protege la integridad de los datos para los bonos; la humildad se enfoca en la retroalimentaci\u00f3n."
+        }
+      ],
+      "hint": "Piensa en c\u00f3mo un l\u00edder puede enterarse de lo que realmente sucede en el campo."
+    },
+    {
+      "question": "Seg\u00fan las estad\u00edsticas de compromiso organizacional, \u00bfqu\u00e9 porcentaje del compromiso de un equipo depende de su l\u00edder inmediato?",
+      "answerOptions": [
+        {
+          "text": "$70\\%$",
+          "isCorrect": true,
+          "rationale": "Esta cifra demuestra que la supervivencia del sistema est\u00e1 atada directamente a la persona a cargo, por encima de la tecnolog\u00eda o campa\u00f1as."
+        },
+        {
+          "text": "$50\\%$",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra alta, el impacto real documentado del liderazgo inmediato es significativamente mayor."
+        },
+        {
+          "text": "$90\\%$",
+          "isCorrect": false,
+          "rationale": "Esta cifra es excesiva, ya que existen otros factores corporativos, aunque el l\u00edder sea el factor predominante con la mayor\u00eda."
+        },
+        {
+          "text": "$30\\%$",
+          "isCorrect": false,
+          "rationale": "Este porcentaje subestimar\u00eda gravemente la importancia del mando medio y directo en la adherencia a los est\u00e1ndares."
+        }
+      ],
+      "hint": "Es un n\u00famero que eleva dr\u00e1sticamente las apuestas sobre la calidad de la gesti\u00f3n directa."
+    },
+    {
+      "question": "\u00bfQu\u00e9 consecuencia directa tiene el estilo de liderazgo autoritario en un equipo de trabajo?",
+      "answerOptions": [
+        {
+          "text": "Fomenta el ocultamiento de incidentes por miedo a represalias",
+          "isCorrect": true,
+          "rationale": "La exigencia de obediencia ciega y el estilo punitivo generan un clima de terror que impide el reporte de fallas."
+        },
+        {
+          "text": "Genera una mejora continua basada en el aprendizaje",
+          "isCorrect": false,
+          "rationale": "El aprendizaje a partir de incidentes es propio del liderazgo transformacional, no del autoritario."
+        },
+        {
+          "text": "Reduce la rotaci\u00f3n de personal al establecer reglas claras",
+          "isCorrect": false,
+          "rationale": "Al contrario, el estilo autoritario dispara la rotaci\u00f3n debido al ambiente t\u00f3xico que genera."
+        },
+        {
+          "text": "Asegura el cumplimiento normativo sin necesidad de vigilancia",
+          "isCorrect": false,
+          "rationale": "En este estilo, la norma solo se cumple bajo extrema vigilancia; de lo contrario, se ignora."
+        }
+      ],
+      "hint": "Considera c\u00f3mo reacciona un empleado ante un error cuando su jefe es punitivo."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la caracter\u00edstica principal del nivel 4 en la escalera del liderazgo?",
+      "answerOptions": [
+        {
+          "text": "El desarrollo y empoderamiento de nuevas personas para multiplicar l\u00edderes",
+          "isCorrect": true,
+          "rationale": "En este nivel, el enfoque deja de ser sumar seguidores y pasa a ser la formaci\u00f3n de otros l\u00edderes dentro del equipo."
+        },
+        {
+          "text": "El cumplimiento por obligaci\u00f3n puramente contractual",
+          "isCorrect": false,
+          "rationale": "Este comportamiento corresponde al nivel 1, que es la posici\u00f3n jer\u00e1rquica b\u00e1sica."
+        },
+        {
+          "text": "La demostraci\u00f3n de resultados t\u00e9cnicos visibles para la empresa",
+          "isCorrect": false,
+          "rationale": "Los resultados visibles son la marca caracter\u00edstica del nivel 3, denominado producci\u00f3n."
+        },
+        {
+          "text": "El liderazgo basado \u00fanicamente en la personalidad y el legado",
+          "isCorrect": false,
+          "rationale": "La trascendencia y el legado son propios del nivel 5, la cima absoluta de la escalera."
+        }
+      ],
+      "hint": "En este escal\u00f3n, el l\u00edder busca que otros tambi\u00e9n tomen las riendas."
+    },
+    {
+      "question": "Dentro de la arquitectura de la cultura organizacional, \u00bfqu\u00e9 representan los supuestos b\u00e1sicos?",
+      "answerOptions": [
+        {
+          "text": "Las creencias reales y profundas que dictan el comportamiento diario",
+          "isCorrect": true,
+          "rationale": "Estos supuestos son el nivel m\u00e1s profundo y siempre dominan lo que la gente hace, incluso por encima de las pol\u00edticas escritas."
+        },
+        {
+          "text": "Los elementos visibles como cascos, logos y letreros",
+          "isCorrect": false,
+          "rationale": "Los elementos visibles y tangibles se clasifican como artefactos en el modelo de Edgar Schein."
+        },
+        {
+          "text": "El discurso oficial contenido en la misi\u00f3n y visi\u00f3n",
+          "isCorrect": false,
+          "rationale": "La misi\u00f3n y visi\u00f3n enmarcadas pertenecen al nivel de valores declarados, que a menudo no se viven."
+        },
+        {
+          "text": "Los indicadores de gesti\u00f3n reportados a la alta gerencia",
+          "isCorrect": false,
+          "rationale": "Los indicadores son herramientas de control, no las creencias subyacentes que forman la cultura."
+        }
+      ],
+      "hint": "Es aquello que las personas realmente creen, como 'la producci\u00f3n no se detiene por nada'."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se define la etapa patol\u00f3gica en los modelos de madurez cultural?",
+      "answerOptions": [
+        {
+          "text": "Un ambiente t\u00f3xico donde los errores se esconden por miedo al castigo",
+          "isCorrect": true,
+          "rationale": "En esta etapa se busca una cacer\u00eda de brujas ante cada falla, lo que genera una cultura del miedo."
+        },
+        {
+          "text": "Un sistema que cumple solo para pasar las auditor\u00edas externas",
+          "isCorrect": false,
+          "rationale": "El cumplimiento por tr\u00e1mite o papeleo es caracter\u00edstico de la etapa burocr\u00e1tica."
+        },
+        {
+          "text": "Una organizaci\u00f3n donde la autogesti\u00f3n y la confianza son la norma",
+          "isCorrect": false,
+          "rationale": "Este nivel de madurez avanzado corresponde a la etapa generativa."
+        },
+        {
+          "text": "Un modelo donde el l\u00edder delega todas las decisiones al equipo",
+          "isCorrect": false,
+          "rationale": "Eso describe un estilo de liderazgo laissez-faire, no necesariamente una etapa de madurez cultural."
+        }
+      ],
+      "hint": "Se asocia con la met\u00e1fora de barrer los problemas debajo de la alfombra."
+    },
+    {
+      "question": "\u00bfQu\u00e9 herramienta se utiliza para identificar la diferencia entre la autopercepci\u00f3n del jefe y la visi\u00f3n del equipo?",
+      "answerOptions": [
+        {
+          "text": "La ventana de Johari",
+          "isCorrect": true,
+          "rationale": "Esta herramienta permite descubrir puntos ciegos en el liderazgo al contrastar diversas perspectivas."
+        },
+        {
+          "text": "El ciclo de Deming",
+          "isCorrect": false,
+          "rationale": "El ciclo de Deming es para la mejora de procesos t\u00e9cnicos, no para el diagn\u00f3stico de percepciones humanas."
+        },
+        {
+          "text": "La matriz de riesgos",
+          "isCorrect": false,
+          "rationale": "La matriz de riesgos eval\u00faa peligros operativos, no la calidad o impacto del liderazgo."
+        },
+        {
+          "text": "El diagrama de Ishikawa",
+          "isCorrect": false,
+          "rationale": "Se usa para encontrar causas ra\u00edz de fallas t\u00e9cnicas, no para el an\u00e1lisis de comportamiento organizacional."
+        }
+      ],
+      "hint": "Es un modelo que ayuda a visualizar \u00e1reas abiertas, ciegas, ocultas y desconocidas de la personalidad."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 consiste la denominada firma de complacencia?",
+      "answerOptions": [
+        {
+          "text": "Firmar registros de asistencia o riesgos sin haberlos le\u00eddo o entendido",
+          "isCorrect": true,
+          "rationale": "Es un h\u00e1bito de sabotaje interno que crea una fantas\u00eda de cumplimiento mientras se ignora la realidad operativa."
+        },
+        {
+          "text": "La aprobaci\u00f3n de presupuestos por parte de la alta direcci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Esta es una funci\u00f3n administrativa leg\u00edtima y necesaria para el sistema."
+        },
+        {
+          "text": "El reconocimiento formal a trabajadores con cero accidentes",
+          "isCorrect": false,
+          "rationale": "El reconocimiento es una pr\u00e1ctica positiva, no un h\u00e1bito de sabotaje o cumplimiento falso."
+        },
+        {
+          "text": "La validaci\u00f3n de un auditor externo sobre el sistema documental",
+          "isCorrect": false,
+          "rationale": "La auditor\u00eda es un proceso de verificaci\u00f3n, no un acto de complacencia por parte del personal operativo."
+        }
+      ],
+      "hint": "Es un tr\u00e1mite vac\u00edo que se hace 'por cumplir' con el papeleo r\u00e1pidamente."
+    },
+    {
+      "question": "Para que un sistema sea sostenible, debe ser aceptado culturalmente. \u00bfQu\u00e9 efecto tiene esto?",
+      "answerOptions": [
+        {
+          "text": "Elimina autom\u00e1ticamente la firma de complacencia",
+          "isCorrect": true,
+          "rationale": "Cuando hay convicci\u00f3n real y creencia en el sistema, el cumplimiento falso desaparece porque la gente se apropia de las normas."
+        },
+        {
+          "text": "Sustituye la necesidad de cualquier auditor\u00eda t\u00e9cnica",
+          "isCorrect": false,
+          "rationale": "Incluso en culturas maduras, las auditor\u00edas son necesarias para mantener la estandarizaci\u00f3n y mejora continua."
+        },
+        {
+          "text": "Permite reducir los costos de equipo de protecci\u00f3n personal",
+          "isCorrect": false,
+          "rationale": "La aceptaci\u00f3n cultural mejora el uso del equipo, pero no elimina la necesidad t\u00e9cnica de los mismos."
+        },
+        {
+          "text": "Garantiza que no ocurran incidentes mec\u00e1nicos en la planta",
+          "isCorrect": false,
+          "rationale": "La cultura influye en el comportamiento humano, pero los fallos mec\u00e1nicos requieren mantenimiento t\u00e9cnico independiente."
+        }
+      ],
+      "hint": "Se refiere a la transformaci\u00f3n del deber en querer."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el objetivo del paso Replicar dentro del modelo de las 4 Rs del cambio?",
+      "answerOptions": [
+        {
+          "text": "Convertir a los l\u00edderes naturales en multiplicadores del cambio viral",
+          "isCorrect": true,
+          "rationale": "Utiliza a figuras influyentes como brigadistas para que la transformaci\u00f3n penetre en toda la organizaci\u00f3n."
+        },
+        {
+          "text": "Copiar los manuales de seguridad de otras empresas exitosas",
+          "isCorrect": false,
+          "rationale": "Replicar no se trata de plagiar documentos, sino de extender los comportamientos positivos internamente."
+        },
+        {
+          "text": "Repetir las capacitaciones hasta que todos memoricen las reglas",
+          "isCorrect": false,
+          "rationale": "La memorizaci\u00f3n no garantiza el cambio cultural; el modelo busca el compromiso a trav\u00e9s de la influencia."
+        },
+        {
+          "text": "Volver a realizar el diagn\u00f3stico inicial cada mes",
+          "isCorrect": false,
+          "rationale": "El diagn\u00f3stico pertenece a la fase de Reconocer, no a la de Replicar el cambio."
+        }
+      ],
+      "hint": "Tiene que ver con usar el liderazgo informal para expandir la nueva cultura."
+    },
+    {
+      "question": "\u00bfC\u00f3mo se debe traducir la gesti\u00f3n de HSQ al hablar con la alta direcci\u00f3n para obtener su apoyo?",
+      "answerOptions": [
+        {
+          "text": "A t\u00e9rminos de d\u00f3lares, clientes perdidos y eficacia operativa",
+          "isCorrect": true,
+          "rationale": "Hablar el lenguaje del negocio es fundamental para que los gerentes vean el sistema como un pilar estrat\u00e9gico y no un gasto."
+        },
+        {
+          "text": "A tecnicismos legales y n\u00fameros de art\u00edculos de la norma",
+          "isCorrect": false,
+          "rationale": "Los directivos suelen desconectarse de la estrategia si se les habla solo en lenguaje t\u00e9cnico o puramente normativo."
+        },
+        {
+          "text": "A trav\u00e9s de quejas sobre la falta de compromiso del personal",
+          "isCorrect": false,
+          "rationale": "Las quejas no generan inversi\u00f3n; se requieren datos que demuestren c\u00f3mo el sistema hace competitiva a la marca."
+        },
+        {
+          "text": "\u00danicamente mediante la presentaci\u00f3n de fotos de los eventos corporativos",
+          "isCorrect": false,
+          "rationale": "La 'pose ambiental' o de marketing no sustenta la eficacia operativa que requiere un gerente para tomar decisiones."
+        }
+      ],
+      "hint": "Es necesario transformar el riesgo en un impacto financiero o estrat\u00e9gico claro."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es el desaf\u00edo definitivo que separa un sistema inerte de una cultura de excelencia?",
+      "answerOptions": [
+        {
+          "text": "Transformar el cumplimiento en convicci\u00f3n",
+          "isCorrect": true,
+          "rationale": "Este es el n\u00facleo de la transformaci\u00f3n: pasar de obedecer reglas a vivir los valores por decisi\u00f3n propia."
+        },
+        {
+          "text": "Aumentar el n\u00famero de procedimientos escritos",
+          "isCorrect": false,
+          "rationale": "M\u00e1s documentos a menudo aumentan la burocracia sin mejorar la cultura real."
+        },
+        {
+          "text": "Contratar m\u00e1s inspectores de seguridad para vigilancia",
+          "isCorrect": false,
+          "rationale": "La vigilancia policial es parte de modelos inmaduros y no fomenta la autogesti\u00f3n."
+        },
+        {
+          "text": "Lograr la certificaci\u00f3n internacional m\u00e1s costosa",
+          "isCorrect": false,
+          "rationale": "Una certificaci\u00f3n puede ser solo un papel si no hay una transformaci\u00f3n humana y ontol\u00f3gica detr\u00e1s."
+        }
+      ],
+      "hint": "Considera el cambio de mentalidad del trabajador cuando nadie lo est\u00e1 mirando."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa la \u00e9tica como pilar de los cuatro valores transformadores?",
+      "answerOptions": [
+        {
+          "text": "Un escudo para la integridad de los datos y estad\u00edsticas",
+          "isCorrect": true,
+          "rationale": "Evita pr\u00e1cticas fraudulentas como maquillar n\u00fameros de accidentes para obtener beneficios o bonos."
+        },
+        {
+          "text": "La obligaci\u00f3n de sancionar a todos los que cometan errores",
+          "isCorrect": false,
+          "rationale": "La \u00e9tica busca la integridad, mientras que las sanciones ciegas pertenecen al estilo autoritario."
+        },
+        {
+          "text": "Un conjunto de reglas para la imagen p\u00fablica de la empresa",
+          "isCorrect": false,
+          "rationale": "La \u00e9tica en la gesti\u00f3n es un valor interno operativo, no solo una estrategia de relaciones p\u00fablicas."
+        },
+        {
+          "text": "La responsabilidad de los trabajadores de cuidarse a s\u00ed mismos",
+          "isCorrect": false,
+          "rationale": "Eso describe mejor la responsabilidad y autogesti\u00f3n, mientras que la \u00e9tica se enfoca en la veracidad de la gesti\u00f3n."
+        }
+      ],
+      "hint": "Relaci\u00f3nalo con el manejo honesto de la informaci\u00f3n t\u00e9cnica."
+    },
+    {
+      "question": "\u00bfQu\u00e9 caracteriza a un l\u00edder en el nivel 2 (Permiso) de la evoluci\u00f3n de la influencia?",
+      "answerOptions": [
+        {
+          "text": "La construcci\u00f3n de liderazgo basada en la confianza y buenas relaciones",
+          "isCorrect": true,
+          "rationale": "En este nivel, la gente sigue al l\u00edder porque quiere hacerlo, no solo porque tiene que hacerlo."
+        },
+        {
+          "text": "El uso exclusivo del poder legal otorgado por el contrato",
+          "isCorrect": false,
+          "rationale": "El poder puramente legal es propio del nivel 1, la posici\u00f3n b\u00e1sica."
+        },
+        {
+          "text": "La capacidad de generar utilidades r\u00e9cord de forma inmediata",
+          "isCorrect": false,
+          "rationale": "Los resultados financieros y de producci\u00f3n son el foco central del nivel 3."
+        },
+        {
+          "text": "El establecimiento de un legado que trasciende a la persona",
+          "isCorrect": false,
+          "rationale": "La trascendencia y el respeto absoluto por valores compartidos corresponden al nivel 5."
+        }
+      ],
+      "hint": "Es el paso donde el liderazgo deja de ser una imposici\u00f3n y se vuelve una elecci\u00f3n del equipo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 es la pose ambiental en el contexto del sabotaje interno?",
+      "answerOptions": [
+        {
+          "text": "Realizar campa\u00f1as superficiales para redes sociales sin reducir residuos reales",
+          "isCorrect": true,
+          "rationale": "Es una forma de maquillaje corporativo que prioriza la imagen externa sobre la mejora operativa real."
+        },
+        {
+          "text": "Colocar carteles de seguridad en lugares de alta visibilidad",
+          "isCorrect": false,
+          "rationale": "Los carteles son artefactos culturales; se vuelven 'pose' solo si no hay acciones que los respalden."
+        },
+        {
+          "text": "Entrenar al personal en t\u00e9cnicas de reciclaje avanzado",
+          "isCorrect": false,
+          "rationale": "El entrenamiento real es parte de la gesti\u00f3n eficaz, no una pose superficial."
+        },
+        {
+          "text": "Invertir en nueva tecnolog\u00eda para el tratamiento de aguas",
+          "isCorrect": false,
+          "rationale": "La inversi\u00f3n t\u00e9cnica real es lo opuesto al maquillaje o pose ambiental."
+        }
+      ],
+      "hint": "Se trata de priorizar la 'foto' de Instagram por encima de la sostenibilidad operativa."
+    },
+    {
+      "question": "En el modelo de madurez de Reason, \u00bfqu\u00e9 define a la etapa generativa?",
+      "answerOptions": [
+        {
+          "text": "La autogesti\u00f3n, la confianza y el an\u00e1lisis de fallas para mejorar",
+          "isCorrect": true,
+          "rationale": "Es el nivel m\u00e1ximo donde el sistema es org\u00e1nico y los errores se ven como oportunidades de aprendizaje."
+        },
+        {
+          "text": "La dependencia total de un supervisor que act\u00fae como polic\u00eda",
+          "isCorrect": false,
+          "rationale": "La vigilancia externa es una se\u00f1al de inmadurez cultural y falta de autogesti\u00f3n."
+        },
+        {
+          "text": "El seguimiento estricto de manuales solo durante las auditor\u00edas",
+          "isCorrect": false,
+          "rationale": "El cumplimiento por conveniencia temporal es t\u00edpico de la etapa burocr\u00e1tica."
+        },
+        {
+          "text": "La eliminaci\u00f3n de todos los procedimientos para favorecer la libertad",
+          "isCorrect": false,
+          "rationale": "La etapa generativa no elimina procesos, sino que los hace parte de la convicci\u00f3n natural del personal."
+        }
+      ],
+      "hint": "Es el estado ideal donde la seguridad y la calidad fluyen de manera natural y colectiva."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Liderazgo transformacional en HSQ",
+      "Modelos ontol\u00f3gicos de liderazgo",
+      "Arquitectura de la cultura organizacional",
+      "Niveles de madurez cultural de Reason",
+      "Escalera de la influencia de liderazgo",
+      "Sostenibilidad de los sistemas integrados"
+    ],
+    "followUp": [
+      "Psicolog\u00eda de la autogesti\u00f3n en entornos industriales",
+      "Metodolog\u00edas de diagn\u00f3stico cultural profundo",
+      "Estrategias de comunicaci\u00f3n financiera para l\u00edderes t\u00e9cnicos",
+      "Gesti\u00f3n del cambio conductual hacia la excelencia operativa"
+    ]
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "quiz": [
+    {
+      "question": "\u00bfCu\u00e1l es el porcentaje aproximado de accidentes mineros que se derivan de problemas relacionados con la inestabilidad geomec\u00e1nica?",
+      "answerOptions": [
+        {
+          "text": "25%",
+          "isCorrect": false,
+          "rationale": "Este valor subestima el impacto real de la geomec\u00e1nica en la seguridad operativa minera."
+        },
+        {
+          "text": "39%",
+          "isCorrect": true,
+          "rationale": "Esta cifra resalta la importancia estrat\u00e9gica de la geomec\u00e1nica, ya que casi cuatro de cada diez accidentes mineros tienen este origen."
+        },
+        {
+          "text": "50%",
+          "isCorrect": false,
+          "rationale": "Aunque es una cifra alta, no se ajusta al dato estad\u00edstico espec\u00edfico que define la criticidad del sector."
+        },
+        {
+          "text": "12%",
+          "isCorrect": false,
+          "rationale": "Este porcentaje es demasiado bajo considerando los peligros reales como desprendimientos y fallas de macizos."
+        }
+      ],
+      "hint": "Considere que es una cifra cercana al cuarenta por ciento."
+    },
+    {
+      "question": "\u00bfQu\u00e9 funci\u00f3n principal cumplen los modelos constitutivos en el an\u00e1lisis geomec\u00e1nico?",
+      "answerOptions": [
+        {
+          "text": "Determinar el costo operativo de la excavaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Los modelos constitutivos son herramientas anal\u00edticas f\u00edsicas, no financieras o de gesti\u00f3n de costos."
+        },
+        {
+          "text": "Eliminar la necesidad de realizar pruebas de campo",
+          "isCorrect": false,
+          "rationale": "La geomec\u00e1nica es emp\u00edrica y requiere datos de campo; los modelos solo ayudan a procesar dicha informaci\u00f3n."
+        },
+        {
+          "text": "Simplificar la complejidad de la roca para predecir su respuesta bajo esfuerzos",
+          "isCorrect": true,
+          "rationale": "Act\u00faan como un marco de trabajo que permite extrapolar comportamientos de entornos controlados a escalas masivas."
+        },
+        {
+          "text": "Aumentar la resistencia natural del macizo rocoso",
+          "isCorrect": false,
+          "rationale": "Un modelo es una representaci\u00f3n matem\u00e1tica y no tiene la capacidad f\u00edsica de modificar la roca."
+        }
+      ],
+      "hint": "Piense en ellos como un marco de trabajo que permite manejar la variabilidad de la naturaleza."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la principal diferencia entre el criterio de Mohr-Coulomb y el de Hoek-Brown?",
+      "answerOptions": [
+        {
+          "text": "Hoek-Brown se enfoca en suelos y Mohr-Coulomb en rocas duras",
+          "isCorrect": false,
+          "rationale": "Es lo opuesto; Mohr-Coulomb es m\u00e1s \u00fatil en medios continuos o suelos, mientras que Hoek-Brown es espec\u00edfico para rocas."
+        },
+        {
+          "text": "Mohr-Coulomb utiliza el \u00edndice GSI para validar la resistencia",
+          "isCorrect": false,
+          "rationale": "El \u00edndice GSI es una caracter\u00edstica distintiva del modelo de Hoek-Brown para evaluar la calidad geol\u00f3gica."
+        },
+        {
+          "text": "Hoek-Brown fue dise\u00f1ado espec\u00edficamente para macizos rocosos fracturados",
+          "isCorrect": true,
+          "rationale": "Este modelo permite validar la resistencia bas\u00e1ndose en la calidad geol\u00f3gica real del macizo fracturado."
+        },
+        {
+          "text": "No existe diferencia, ambos miden solo la cohesi\u00f3n y fricci\u00f3n",
+          "isCorrect": false,
+          "rationale": "Aunque ambos eval\u00faan la rotura, sus aplicaciones y par\u00e1metros de entrada, como el GSI, los distinguen claramente."
+        }
+      ],
+      "hint": "Uno de ellos considera el estado de fracturamiento y la calidad geol\u00f3gica mediante un \u00edndice espec\u00edfico."
+    },
+    {
+      "question": "\u00bfC\u00f3mo aborda la geomec\u00e1nica el estudio de las discontinuidades en una labor de excavaci\u00f3n masiva?",
+      "answerOptions": [
+        {
+          "text": "Analiza cada fractura individualmente para una precisi\u00f3n milim\u00e9trica",
+          "isCorrect": false,
+          "rationale": "Analizar miles de discontinuidades de forma aislada es t\u00e9cnica y humanamente imposible en la pr\u00e1ctica."
+        },
+        {
+          "text": "Trata al macizo rocoso como una macrounidad generalizada",
+          "isCorrect": true,
+          "rationale": "Al extrapolar propiedades de todo el conjunto, se logra mayor precisi\u00f3n para identificar fallas cr\u00edticas sin perderse en el caos individual."
+        },
+        {
+          "text": "Ignora las fracturas peque\u00f1as por considerarlas irrelevantes",
+          "isCorrect": false,
+          "rationale": "No se ignoran, sino que se integran en una visi\u00f3n de conjunto para entender el comportamiento global."
+        },
+        {
+          "text": "Utiliza \u00fanicamente modelos matem\u00e1ticos abstractos sin observaci\u00f3n",
+          "isCorrect": false,
+          "rationale": "La geomec\u00e1nica tiene un alma emp\u00edrica basada en la observaci\u00f3n del mundo real y datos hist\u00f3ricos."
+        }
+      ],
+      "hint": "Se busca ver el panorama completo en lugar de elementos aislados e inabarcables."
+    },
+    {
+      "question": "\u00bfEn qu\u00e9 condiciones se produce t\u00edpicamente una falla de tipo planar?",
+      "answerOptions": [
+        {
+          "text": "Cuando dos discontinuidades se cruzan formando un prisma",
+          "isCorrect": false,
+          "rationale": "La intersecci\u00f3n de dos o m\u00e1s discontinuidades define una falla en cu\u00f1a, no una planar."
+        },
+        {
+          "text": "Cuando el material pierde rigidez y se comporta como un l\u00edquido",
+          "isCorrect": false,
+          "rationale": "Esa descripci\u00f3n corresponde a las fallas por flujo en materiales muy alterados."
+        },
+        {
+          "text": "Cuando una discontinuidad se al\u00ednea a favor de la cara libre de la excavaci\u00f3n",
+          "isCorrect": true,
+          "rationale": "Se produce una batalla de equilibrio entre el peso del bloque y la fuerza de rozamiento sobre una sola superficie."
+        },
+        {
+          "text": "Cuando las tensiones superan los 500 metros de profundidad",
+          "isCorrect": false,
+          "rationale": "La profundidad extrema est\u00e1 ligada a estallidos de roca, no necesariamente a la geometr\u00eda planar del deslizamiento."
+        }
+      ],
+      "hint": "Ocurre cuando hay una sola superficie de debilidad orientada hacia el espacio abierto."
+    },
+    {
+      "question": "\u00bfQu\u00e9 forma geom\u00e9trica caracteriza a los bloques involucrados en una falla en cu\u00f1a?",
+      "answerOptions": [
+        {
+          "text": "Un plano infinito",
+          "isCorrect": false,
+          "rationale": "Un plano no describe la naturaleza volum\u00e9trica y aislada de una cu\u00f1a de roca."
+        },
+        {
+          "text": "Un prisma parecido a un tetraedro",
+          "isCorrect": true,
+          "rationale": "Esta forma se genera cuando dos o m\u00e1s discontinuidades se cruzan, aislando un bloque de roca espec\u00edfico."
+        },
+        {
+          "text": "Una esfera perfecta",
+          "isCorrect": false,
+          "rationale": "Las discontinuidades geol\u00f3gicas son superficies planas que no forman figuras curvas como esferas."
+        },
+        {
+          "text": "Capas delgadas y paralelas",
+          "isCorrect": false,
+          "rationale": "Esto describe estructuras propensas al pandeo o vuelco, no a la formaci\u00f3n de cu\u00f1as."
+        }
+      ],
+      "hint": "Piense en la figura tridimensional que resulta de la intersecci\u00f3n de varios planos."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia fundamental entre el vuelco bloqueado y el vuelco progresivo?",
+      "answerOptions": [
+        {
+          "text": "El bloqueado es m\u00e1s destructivo que el progresivo",
+          "isCorrect": false,
+          "rationale": "Es lo contrario; el progresivo genera una reacci\u00f3n en cadena mucho m\u00e1s catastr\u00f3fica."
+        },
+        {
+          "text": "El progresivo ocurre solo en materiales semil\u00edquidos",
+          "isCorrect": false,
+          "rationale": "El vuelco est\u00e1 asociado a estructuras delgadas de roca, no a materiales sin rigidez."
+        },
+        {
+          "text": "El progresivo genera un efecto domin\u00f3 al colapsar el soporte de la cara libre",
+          "isCorrect": true,
+          "rationale": "Al caer el primer bloque, los siguientes pierden su apoyo inmediato, avanzando hacia el interior del macizo."
+        },
+        {
+          "text": "El bloqueado es causado por vibraciones s\u00edsmicas externas",
+          "isCorrect": false,
+          "rationale": "El vuelco bloqueado se detiene por fricci\u00f3n est\u00e1tica o enclavamiento, independientemente de la causa inicial."
+        }
+      ],
+      "hint": "Uno de ellos implica que la falla de un elemento causa la inestabilidad sistem\u00e1tica de los dem\u00e1s."
+    },
+    {
+      "question": "\u00bfQu\u00e9 fen\u00f3meno geomec\u00e1nico ocurre cuando capas finas de roca paralelas a la excavaci\u00f3n se curvan por presi\u00f3n extrema?",
+      "answerOptions": [
+        {
+          "text": "Estallido de rocas",
+          "isCorrect": false,
+          "rationale": "El estallido es una liberaci\u00f3n explosiva de energ\u00eda, no una curvatura gradual de estratos."
+        },
+        {
+          "text": "Pandeo o buckling",
+          "isCorrect": true,
+          "rationale": "La fuerza aplastante obliga a las capas delgadas a combarse hacia el espacio abierto, formando 'planchones'."
+        },
+        {
+          "text": "Falla rotacional",
+          "isCorrect": false,
+          "rationale": "La falla rotacional implica una superficie de falla curva en materiales degradados, no el doblamiento de estratos."
+        },
+        {
+          "text": "Deslizamiento planar",
+          "isCorrect": false,
+          "rationale": "En el deslizamiento planar el bloque se desplaza sobre una superficie, no se curva ni se deforma pl\u00e1sticamente."
+        }
+      ],
+      "hint": "Este t\u00e9rmino se refiere a la deformaci\u00f3n lateral de una estructura esbelta bajo compresi\u00f3n."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 la marca de los 500 metros de profundidad se considera un umbral cr\u00edtico en miner\u00eda subterr\u00e1nea?",
+      "answerOptions": [
+        {
+          "text": "Porque el agua deja de filtrarse a esa profundidad",
+          "isCorrect": false,
+          "rationale": "El agua puede estar presente a profundidades mucho mayores; el cambio cr\u00edtico es de naturaleza tensional."
+        },
+        {
+          "text": "Porque el aire se vuelve irrespirable para los operadores",
+          "isCorrect": false,
+          "rationale": "Aunque la ventilaci\u00f3n es un reto, el umbral geomec\u00e1nico se refiere a la estabilidad de la roca."
+        },
+        {
+          "text": "Porque las tensiones superan la capacidad de la roca para deformarse naturalmente",
+          "isCorrect": true,
+          "rationale": "A esta profundidad, el confinamiento y el peso de la monta\u00f1a generan condiciones para eventos de alta energ\u00eda."
+        },
+        {
+          "text": "Porque es imposible usar software de modelado a esa presi\u00f3n",
+          "isCorrect": false,
+          "rationale": "El software puede modelar cualquier profundidad, pero los fen\u00f3menos f\u00edsicos cambian dr\u00e1sticamente."
+        }
+      ],
+      "hint": "Relacione la profundidad con la acumulaci\u00f3n de energ\u00eda el\u00e1stica y tensiones compresivas extremas."
+    },
+    {
+      "question": "\u00bfQu\u00e9 analog\u00eda describe mejor el comportamiento de la roca durante un estallido de rocas (rockburst)?",
+      "answerOptions": [
+        {
+          "text": "Un resorte gigante que libera energ\u00eda acumulada de forma explosiva",
+          "isCorrect": true,
+          "rationale": "La roca almacena energ\u00eda el\u00e1stica que se libera violentamente al romperse el equilibrio por una cara libre."
+        },
+        {
+          "text": "Una esponja que absorbe agua hasta colapsar por peso",
+          "isCorrect": false,
+          "rationale": "Esta analog\u00eda se acerca m\u00e1s a problemas de saturaci\u00f3n y peso, no a la liberaci\u00f3n de energ\u00eda el\u00e1stica."
+        },
+        {
+          "text": "Un fluido viscoso que se desliza por una pendiente",
+          "isCorrect": false,
+          "rationale": "Eso describir\u00eda una falla por flujo, no un evento explosivo de alta energ\u00eda."
+        },
+        {
+          "text": "Un rompecabezas que se desarma pieza por pieza",
+          "isCorrect": false,
+          "rationale": "El rockburst es un evento s\u00fabito y masivo, no una degradaci\u00f3n progresiva de piezas individuales."
+        }
+      ],
+      "hint": "Piense en algo que almacena energ\u00eda cuando se comprime y la expulsa r\u00e1pidamente al soltarse."
+    },
+    {
+      "question": "\u00bfC\u00f3mo afecta la presi\u00f3n de poros generada por el agua a la estabilidad de las juntas geol\u00f3gicas?",
+      "answerOptions": [
+        {
+          "text": "Aumenta la cohesi\u00f3n qu\u00edmica entre los bloques de roca",
+          "isCorrect": false,
+          "rationale": "El agua generalmente degrada la cohesi\u00f3n y no act\u00faa como un pegamento en macizos fracturados."
+        },
+        {
+          "text": "Act\u00faa como un lubricante hidr\u00e1ulico reduciendo la fricci\u00f3n",
+          "isCorrect": true,
+          "rationale": "La infiltraci\u00f3n en las discontinuidades disminuye la resistencia que mantiene unida a la roca."
+        },
+        {
+          "text": "Solidifica las fracturas impidiendo cualquier movimiento",
+          "isCorrect": false,
+          "rationale": "El agua facilita el movimiento; no tiene propiedades de solidificaci\u00f3n en este contexto."
+        },
+        {
+          "text": "No tiene impacto alguno si el macizo es muy profundo",
+          "isCorrect": false,
+          "rationale": "El agua es un factor agravante cr\u00edtico independientemente de la profundidad si hay infiltraci\u00f3n."
+        }
+      ],
+      "hint": "Considere qu\u00e9 sucede cuando se introduce un fluido entre dos superficies en contacto bajo presi\u00f3n."
+    },
+    {
+      "question": "\u00bfQu\u00e9 representa el c\u00edrculo externo en la estructura de un estereograma geomec\u00e1nico?",
+      "answerOptions": [
+        {
+          "text": "La profundidad m\u00e1xima de la labor en metros",
+          "isCorrect": false,
+          "rationale": "El estereograma es una representaci\u00f3n de orientaciones espaciales, no de dimensiones lineales de profundidad."
+        },
+        {
+          "text": "Los asimuts cubriendo el espectro de $0^{\\circ}$ a $360^{\\circ}$",
+          "isCorrect": true,
+          "rationale": "Este c\u00edrculo permite orientar los datos geogr\u00e1ficos respecto al norte de forma precisa."
+        },
+        {
+          "text": "El grado de humedad presente en el macizo",
+          "isCorrect": false,
+          "rationale": "La humedad se mide con otros instrumentos y no es una variable geom\u00e9trica del estereograma."
+        },
+        {
+          "text": "La resistencia a la compresi\u00f3n simple de la roca",
+          "isCorrect": false,
+          "rationale": "Esa propiedad mec\u00e1nica se obtiene en laboratorio y no se representa en los ejes del estereograma."
+        }
+      ],
+      "hint": "Tiene que ver con la direcci\u00f3n cardinal y la orientaci\u00f3n horizontal de las estructuras."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la utilidad de representar planos como 'polos' en un estereograma?",
+      "answerOptions": [
+        {
+          "text": "Permite medir la temperatura interna de la roca",
+          "isCorrect": false,
+          "rationale": "Los polos son representaciones gr\u00e1ficas geom\u00e9tricas, no medidas t\u00e9rmicas."
+        },
+        {
+          "text": "Indica el tiempo exacto en que ocurrir\u00e1 un colapso",
+          "isCorrect": false,
+          "rationale": "El an\u00e1lisis estructural predice el 'c\u00f3mo' y la probabilidad, pero no el momento exacto (cu\u00e1ndo)."
+        },
+        {
+          "text": "Condensa cientos de mediciones en puntos legibles para revelar patrones",
+          "isCorrect": true,
+          "rationale": "Simplifica un rompecabezas tridimensional complejo en un plano bidimensional directo y claro."
+        },
+        {
+          "text": "Sirve para calcular el volumen de agua infiltrada",
+          "isCorrect": false,
+          "rationale": "Los polos representan la orientaci\u00f3n de planos de falla y no flujos volum\u00e9tricos."
+        }
+      ],
+      "hint": "Piense en la ventaja de convertir un plano complejo en un solo punto gr\u00e1fico."
+    },
+    {
+      "question": "\u00bfQu\u00e9 par\u00e1metros se miden meticulosamente durante el logueo de testigos de perforaci\u00f3n orientados?",
+      "answerOptions": [
+        {
+          "text": "Los \u00e1ngulos $\\alpha$, $\\beta$ y $\\theta$",
+          "isCorrect": true,
+          "rationale": "Estos \u00e1ngulos permiten reconstruir la geometr\u00eda de las fracturas invisibles antes de la excavaci\u00f3n."
+        },
+        {
+          "text": "La velocidad del viento y la presi\u00f3n atmosf\u00e9rica",
+          "isCorrect": false,
+          "rationale": "Estos son par\u00e1metros clim\u00e1ticos externos que no se obtienen del interior de un testigo de roca."
+        },
+        {
+          "text": "El contenido de oro y cobre por tonelada",
+          "isCorrect": false,
+          "rationale": "Eso corresponde al logueo geol\u00f3gico-minero, no al an\u00e1lisis de estabilidad geomec\u00e1nica estructural."
+        },
+        {
+          "text": "Solo la longitud total del n\u00facleo extra\u00eddo",
+          "isCorrect": false,
+          "rationale": "La longitud es un dato b\u00e1sico, pero la orientaci\u00f3n de fracturas requiere medir \u00e1ngulos espec\u00edficos."
+        }
+      ],
+      "hint": "Se trata de tres letras del alfabeto griego utilizadas para definir orientaciones espaciales."
+    },
+    {
+      "question": "\u00bfPara qu\u00e9 se utiliza espec\u00edficamente el software DIPS en el flujo de trabajo geomec\u00e1nico?",
+      "answerOptions": [
+        {
+          "text": "Para dise\u00f1ar los planos arquitect\u00f3nicos de las oficinas mineras",
+          "isCorrect": false,
+          "rationale": "DIPS es un software de an\u00e1lisis estructural geol\u00f3gico, no de dise\u00f1o arquitect\u00f3nico."
+        },
+        {
+          "text": "Para realizar an\u00e1lisis cinem\u00e1ticos y validar probabilidades de fallas",
+          "isCorrect": true,
+          "rationale": "Permite calcular qu\u00e9 porcentaje de polos est\u00e1n en zonas de riesgo para fallas planares, cu\u00f1as o vuelcos."
+        },
+        {
+          "text": "Para simular el flujo de camiones en la superficie",
+          "isCorrect": false,
+          "rationale": "El software se enfoca en el interior del macizo rocoso y sus discontinuidades, no en log\u00edstica de transporte."
+        },
+        {
+          "text": "Para calcular el salario de los ingenieros de campo",
+          "isCorrect": false,
+          "rationale": "No tiene funciones administrativas; su prop\u00f3sito es estrictamente t\u00e9cnico y de seguridad estructural."
+        }
+      ],
+      "hint": "Est\u00e1 relacionado con el procesamiento de datos de juntas y la estabilidad de excavaciones."
+    },
+    {
+      "question": "\u00bfQu\u00e9 distingue al m\u00e9todo de Spencer en comparaci\u00f3n con los m\u00e9todos de Janbu y Bishop?",
+      "answerOptions": [
+        {
+          "text": "Es el m\u00e1s antiguo y menos confiable",
+          "isCorrect": false,
+          "rationale": "Al contrario, es considerado uno de los m\u00e9todos m\u00e1s avanzados y precisos actualmente."
+        },
+        {
+          "text": "Solo eval\u00faa el equilibrio de momentos rotacionales",
+          "isCorrect": false,
+          "rationale": "Esa es la caracter\u00edstica principal del m\u00e9todo de Bishop."
+        },
+        {
+          "text": "Satisface tanto el equilibrio de fuerzas como el de momentos simult\u00e1neamente",
+          "isCorrect": true,
+          "rationale": "Es un modelo h\u00edbrido que ofrece una soluci\u00f3n integral para el equilibrio l\u00edmite."
+        },
+        {
+          "text": "Se utiliza exclusivamente para materiales semil\u00edquidos",
+          "isCorrect": false,
+          "rationale": "Se aplica a una amplia gama de condiciones de estabilidad en macizos y suelos."
+        }
+      ],
+      "hint": "Es un enfoque h\u00edbrido que combina lo mejor de las evaluaciones traslacionales y rotacionales."
+    },
+    {
+      "question": "\u00bfCu\u00e1l es la diferencia entre un an\u00e1lisis est\u00e1tico y uno pseudoest\u00e1tico?",
+      "answerOptions": [
+        {
+          "text": "El est\u00e1tico considera solo el nivel de agua",
+          "isCorrect": false,
+          "rationale": "Ambos pueden considerar el agua; la diferencia radica en la presencia de fuerzas din\u00e1micas."
+        },
+        {
+          "text": "El pseudoest\u00e1tico incorpora coeficientes s\u00edsmicos para aceleraciones externas",
+          "isCorrect": true,
+          "rationale": "Este enfoque es vital en regiones de alta actividad tect\u00f3nica donde la gravedad no es la \u00fanica fuerza."
+        },
+        {
+          "text": "El est\u00e1tico es obligatorio a m\u00e1s de 500 metros de profundidad",
+          "isCorrect": false,
+          "rationale": "A grandes profundidades ambos pueden ser necesarios, pero el pseudoest\u00e1tico se vincula a sismos."
+        },
+        {
+          "text": "No hay diferencia real, son nombres distintos para el mismo c\u00e1lculo",
+          "isCorrect": false,
+          "rationale": "Sus ecuaciones y prop\u00f3sitos son distintos: uno asume fuerzas constantes y el otro fuerzas transitorias."
+        }
+      ],
+      "hint": "Uno de ellos est\u00e1 dise\u00f1ado para contemplar la energ\u00eda destructiva de terremotos o vibraciones."
+    },
+    {
+      "question": "En el contexto del Factor de Seguridad ($FS$), \u00bfqu\u00e9 representa matem\u00e1ticamente el valor $1.0$?",
+      "answerOptions": [
+        {
+          "text": "Un estado de seguridad absoluta y total",
+          "isCorrect": false,
+          "rationale": "En ingenier\u00eda, un valor de $1.0$ es extremadamente arriesgado y no ofrece margen de maniobra."
+        },
+        {
+          "text": "El l\u00edmite exacto del equilibrio o 'filo de la navaja'",
+          "isCorrect": true,
+          "rationale": "Es el punto de inflexi\u00f3n donde las fuerzas de colapso igualan exactamente a las de resistencia."
+        },
+        {
+          "text": "Que las fuerzas de resistencia son el doble que las de colapso",
+          "isCorrect": false,
+          "rationale": "Eso corresponder\u00eda a un factor de seguridad de $2.0$."
+        },
+        {
+          "text": "Un error en el c\u00e1lculo del software",
+          "isCorrect": false,
+          "rationale": "Es un valor matem\u00e1tico v\u00e1lido que indica equilibrio cr\u00edtico, no necesariamente un error."
+        }
+      ],
+      "hint": "Es el punto donde la balanza de fuerzas est\u00e1 perfectamente nivelada."
+    },
+    {
+      "question": "\u00bfPor qu\u00e9 los est\u00e1ndares de ingenier\u00eda exigen un Factor de Seguridad m\u00ednimo de $1.5$?",
+      "answerOptions": [
+        {
+          "text": "Para aumentar artificialmente el tiempo de construcci\u00f3n",
+          "isCorrect": false,
+          "rationale": "El factor de seguridad busca proteger vidas y obras, no retrasar procesos deliberadamente."
+        },
+        {
+          "text": "Para absorber la inevitable incertidumbre geol\u00f3gica del terreno",
+          "isCorrect": true,
+          "rationale": "Ese margen adicional act\u00faa como un escudo contra lo que los modelos inform\u00e1ticos no pueden predecir con certeza."
+        },
+        {
+          "text": "Porque el software Slide 2 no funciona con n\u00fameros menores",
+          "isCorrect": false,
+          "rationale": "El software puede reportar cualquier n\u00famero, pero la norma profesional exige el cumplimiento del m\u00ednimo."
+        },
+        {
+          "text": "Para garantizar que la roca sea 100% impermeable",
+          "isCorrect": false,
+          "rationale": "El factor de seguridad mide estabilidad mec\u00e1nica, no propiedades de impermeabilidad."
+        }
+      ],
+      "hint": "Considere la variabilidad natural de la roca que ninguna computadora puede conocer por completo."
+    },
+    {
+      "question": "\u00bfQu\u00e9 error fundamental en el caso del T\u00fanel de Chancay deriv\u00f3 en accidentes fatales?",
+      "answerOptions": [
+        {
+          "text": "La falta de presupuesto para comprar explosivos",
+          "isCorrect": false,
+          "rationale": "El problema no fue financiero, sino t\u00e9cnico y de interpretaci\u00f3n de datos."
+        },
+        {
+          "text": "Usar br\u00fajulas de campo en lugar de software DIPS",
+          "isCorrect": false,
+          "rationale": "El uso de herramientas b\u00e1sicas no fue la causa, sino c\u00f3mo se interpret\u00f3 la mec\u00e1nica del suelo."
+        },
+        {
+          "text": "Subestimar las condiciones del terreno y depender ciegamente del modelo",
+          "isCorrect": true,
+          "rationale": "Se asumi\u00f3 que el terreno actuar\u00eda como roca compacta cuando sus propiedades reales exig\u00edan otro enfoque."
+        },
+        {
+          "text": "Realizar demasiados an\u00e1lisis de equilibrio l\u00edmite",
+          "isCorrect": false,
+          "rationale": "Hacer m\u00e1s an\u00e1lisis suele ser mejor; el error fue la interpretaci\u00f3n inadecuada y falta de rigor profesional."
+        }
+      ],
+      "hint": "Se relacion\u00f3 con una interpretaci\u00f3n inadecuada del factor de seguridad y el comportamiento real del suelo."
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Geomec\u00e1nica de Macizos Rocosos",
+      "Modelos Constitutivos y Criterios de Rotura",
+      "Mecanismos de Falla F\u00edsica",
+      "Estabilidad en Miner\u00eda Subterr\u00e1nea Profunda",
+      "Proyecci\u00f3n Estereogr\u00e1fica y Software Especializado",
+      "M\u00e9todos de Equilibrio L\u00edmite y Factor de Seguridad"
+    ],
+    "followUp": [
+      "Clasificaciones Geomec\u00e1nicas (RMR y Q de Barton)",
+      "Dise\u00f1o de Sistemas de Sostenimiento en Rocas",
+      "Hidrogeolog\u00eda Aplicada a la Estabilidad de Taludes",
+      "Instrumentaci\u00f3n y Monitoreo Geomec\u00e1nico",
+      "Modelamiento Num\u00e9rico Avanzado de Excavaciones"
+    ]
+  }
+}
